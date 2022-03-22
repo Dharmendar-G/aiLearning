@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:pulsar:1.14:*:*:*:*:*:*:*,Apache Software Foundation Pulsar 1.14,['CVE-2021-22160'],2022-03-18T19:52Z
+1,cpe:2.3:a:apache:pulsar:1.15:*:*:*:*:*:*:*,Apache Software Foundation Pulsar 1.15,['CVE-2021-22160'],2022-03-18T19:52Z
+2,cpe:2.3:a:apache:pulsar:1.15.1:*:*:*:*:*:*:*,Apache Software Foundation Pulsar 1.15.1,['CVE-2021-22160'],2022-03-18T19:52Z
+3,cpe:2.3:a:apache:pulsar:1.15.2:*:*:*:*:*:*:*,Apache Software Foundation Pulsar 1.15.2,['CVE-2021-22160'],2022-03-18T19:52Z
+4,cpe:2.3:a:apache:pulsar:1.15.3:*:*:*:*:*:*:*,Apache Software Foundation Pulsar 1.15.3,['CVE-2021-22160'],2022-03-18T19:52Z
+5,cpe:2.3:a:apache:pulsar:1.15.4:*:*:*:*:*:*:*,Apache Software Foundation Pulsar 1.15.4,['CVE-2021-22160'],2022-03-18T19:52Z
+6,cpe:2.3:a:apache:pulsar:1.15.5:*:*:*:*:*:*:*,Apache Software Foundation Pulsar 1.15.5,['CVE-2021-22160'],2022-03-18T19:52Z
+7,cpe:2.3:a:apache:pulsar:1.15.6:*:*:*:*:*:*:*,Apache Software Foundation Pulsar 1.15.6,['CVE-2021-22160'],2022-03-18T19:52Z
+8,cpe:2.3:a:apache:pulsar:1.15.7:*:*:*:*:*:*:*,Apache Software Foundation Pulsar 1.15.7,['CVE-2021-22160'],2022-03-18T19:52Z
+9,cpe:2.3:a:apache:pulsar:1.16:*:*:*:*:*:*:*,Apache Software Foundation Pulsar 1.16,['CVE-2021-22160'],2022-03-18T19:52Z

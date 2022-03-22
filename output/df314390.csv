@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hootoo:tripmate_titan_ht-tm05:-:*:*:*:*:*:*:*,HooToo TripMate Titan Ht-tm05,['CVE-2018-20841'],2022-03-21T11:44Z
+1,cpe:2.3:o:hootoo:tripmate_titan_ht-tm05_firmware:2.000.022:*:*:*:*:*:*:*,HooToo TripMate Titan Ht-tm05 Firmware 2.000.022,['CVE-2018-20841'],2022-03-21T11:44Z
+2,cpe:2.3:o:hootoo:tripmate_titan_ht-tm05_firmware:2.000.082:*:*:*:*:*:*:*,HooToo TripMate Titan Ht-tm05 Firmware 2.000.082,['CVE-2018-20841'],2022-03-21T11:44Z
+3,cpe:2.3:a:hoppscotch:hoppscotch:0.1.0:*:*:*:*:*:*:*,Hoppscotch 0.1.0,['CVE-2022-0121'],2022-03-21T11:44Z
+4,cpe:2.3:a:hoppscotch:hoppscotch:1.0.0:*:*:*:*:*:*:*,Hoppscotch 1.0.0,['CVE-2022-0121'],2022-03-21T11:44Z
+5,cpe:2.3:a:hoppscotch:hoppscotch:1.5.0:*:*:*:*:*:*:*,Hoppscotch 1.5.0,['CVE-2022-0121'],2022-03-21T11:44Z
+6,cpe:2.3:a:hoppscotch:hoppscotch:1.8.0:*:*:*:*:*:*:*,Hoppscotch 1.8.0,['CVE-2022-0121'],2022-03-21T11:44Z
+7,cpe:2.3:a:hoppscotch:hoppscotch:1.9.0:*:*:*:*:*:*:*,Hoppscotch 1.9.0,['CVE-2022-0121'],2022-03-21T11:44Z
+8,cpe:2.3:a:hoppscotch:hoppscotch:1.9.5:*:*:*:*:*:*:*,Hoppscotch 1.9.5,['CVE-2022-0121'],2022-03-21T11:44Z
+9,cpe:2.3:a:hoppscotch:hoppscotch:1.9.7:*:*:*:*:*:*:*,Hoppscotch 1.9.7,['CVE-2022-0121'],2022-03-21T11:44Z

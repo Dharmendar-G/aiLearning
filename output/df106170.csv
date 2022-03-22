@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cerberusftp:ftp_server:10.0.13:*:*:*:enterprise:*:*:*,Cerberus FTP Server 10.0.13 Enterprise Edition,"['CVE-2019-25046', 'CVE-2020-5195', 'CVE-2020-5196']",2022-03-19T16:11Z
+1,cpe:2.3:a:cerberusftp:ftp_server:10.0.14:*:*:*:enterprise:*:*:*,Cerberus FTP Server 10.0.14 Enterprise Edition,"['CVE-2019-25046', 'CVE-2020-5195', 'CVE-2020-5196']",2022-03-19T16:11Z
+2,cpe:2.3:a:cerberusftp:ftp_server:10.0.14:*:*:*:enterprise:*:*:*,Cerberus FTP Server 10.0.14 Enterprise Edition,"['CVE-2019-25046', 'CVE-2020-5195', 'CVE-2020-5196']",2022-03-19T16:11Z
+3,cpe:2.3:a:cerberusftp:ftp_server:10.0.15:*:*:*:enterprise:*:*:*,Cerberus FTP Server 10.0.15 Enterprise Edition,"['CVE-2019-25046', 'CVE-2020-5195', 'CVE-2020-5196']",2022-03-19T16:11Z
+4,cpe:2.3:a:cerberusftp:ftp_server:10.0.15:*:*:*:enterprise:*:*:*,Cerberus FTP Server 10.0.15 Enterprise Edition,"['CVE-2019-25046', 'CVE-2020-5195', 'CVE-2020-5196']",2022-03-19T16:11Z
+5,cpe:2.3:a:cerberusftp:ftp_server:10.0.15.1:*:*:*:*:*:*:*,Cerberus FTP Server 10.0.15.1,[''],2022-03-19T16:11Z
+6,cpe:2.3:a:cerberusftp:ftp_server:10.0.16:*:*:*:enterprise:*:*:*,Cerberus FTP Server 10.0.16 Enterprise Edition,"['CVE-2019-25046', 'CVE-2020-5195', 'CVE-2020-5196']",2022-03-19T16:11Z
+7,cpe:2.3:a:cerberusftp:ftp_server:10.0.16:*:*:*:enterprise:*:*:*,Cerberus FTP Server 10.0.16 Enterprise Edition,"['CVE-2019-25046', 'CVE-2020-5195', 'CVE-2020-5196']",2022-03-19T16:11Z
+8,cpe:2.3:a:cerberusftp:ftp_server:10.0.17:*:*:*:enterprise:*:*:*,Cerberus FTP Server 10.0.17 Enterprise Edition,"['CVE-2019-25046', 'CVE-2020-5196']",2022-03-19T16:11Z
+9,cpe:2.3:a:cerberusftp:ftp_server:10.0.17:*:*:*:enterprise:*:*:*,Cerberus FTP Server 10.0.17 Enterprise Edition,"['CVE-2019-25046', 'CVE-2020-5196']",2022-03-19T16:11Z

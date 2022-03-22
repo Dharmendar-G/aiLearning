@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ckeditor:fckeditor:1.4:*:*:*:*:*:*:*,CKEditor FCKeditor 1.4,"['CVE-2012-4000', 'CVE-2014-4037']",2022-03-20T02:00Z
+1,cpe:2.3:a:ckeditor:fckeditor:1.5:*:*:*:*:*:*:*,CKEditor FCKeditor 1.5,"['CVE-2012-4000', 'CVE-2014-4037']",2022-03-20T02:00Z
+2,cpe:2.3:a:ckeditor:fckeditor:1.6:*:*:*:*:*:*:*,CKEditor FCKeditor 1.6,"['CVE-2012-4000', 'CVE-2014-4037']",2022-03-20T02:00Z
+3,cpe:2.3:a:ckeditor:fckeditor:2.0:*:*:*:*:*:*:*,CKEditor FCKeditor 2.0,"['CVE-2012-4000', 'CVE-2014-4037']",2022-03-20T02:00Z
+4,cpe:2.3:a:ckeditor:fckeditor:2.1:*:*:*:*:*:*:*,CKEditor FCKeditor 2.1,"['CVE-2012-4000', 'CVE-2014-4037']",2022-03-20T02:00Z
+5,cpe:2.3:a:ckeditor:fckeditor:2.1.1:*:*:*:*:*:*:*,CKEditor FCKeditor 2.1.1,"['CVE-2012-4000', 'CVE-2014-4037']",2022-03-20T02:00Z
+6,cpe:2.3:a:ckeditor:fckeditor:2.2:*:*:*:*:*:*:*,CKEditor FCKeditor 2.2,"['CVE-2012-4000', 'CVE-2014-4037']",2022-03-20T02:00Z
+7,cpe:2.3:a:ckeditor:fckeditor:2.3:*:*:*:*:*:*:*,CKEditor FCKeditor 2.3,"['CVE-2012-4000', 'CVE-2014-4037']",2022-03-20T02:00Z
+8,cpe:2.3:a:ckeditor:fckeditor:2.3.1:*:*:*:*:*:*:*,CKEditor FCKeditor 2.3.1,"['CVE-2012-4000', 'CVE-2014-4037']",2022-03-20T02:00Z
+9,cpe:2.3:a:ckeditor:fckeditor:2.3.2:*:*:*:*:*:*:*,CKEditor FCKeditor 2.3.2,"['CVE-2012-4000', 'CVE-2014-4037']",2022-03-20T02:00Z

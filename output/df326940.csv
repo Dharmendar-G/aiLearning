@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:operations_agent:8.60.005:*:*:*:*:*:*:*,HP Operations Agent 8.60.005,"['CVE-2011-2608', 'CVE-2012-2019', 'CVE-2012-2020', 'CVE-2014-2647']",2022-03-21T15:37Z
+1,cpe:2.3:a:hp:operations_agent:8.60.006:*:*:*:*:*:*:*,HP Operations Agent 8.60.006,"['CVE-2011-2608', 'CVE-2012-2019', 'CVE-2012-2020', 'CVE-2014-2647']",2022-03-21T15:37Z
+2,cpe:2.3:a:hp:operations_agent:8.60.007:*:*:*:*:*:*:*,HP Operations Agent 8.60.007,"['CVE-2011-2608', 'CVE-2012-2019', 'CVE-2012-2020', 'CVE-2014-2647']",2022-03-21T15:37Z
+3,cpe:2.3:a:hp:operations_agent:8.60.7:*:*:*:*:*:*:*,HP Operations Agent 8.60.7,"['CVE-2012-2019', 'CVE-2012-2020', 'CVE-2014-2647']",2022-03-21T15:37Z
+4,cpe:2.3:a:hp:operations_agent:8.60.008:*:*:*:*:*:*:*,HP Operations Agent 8.60.008,"['CVE-2011-2608', 'CVE-2012-2019', 'CVE-2012-2020', 'CVE-2014-2647']",2022-03-21T15:37Z
+5,cpe:2.3:a:hp:operations_agent:8.60.501:*:*:*:*:*:*:*,HP Operations Agent 8.60.501,"['CVE-2011-2608', 'CVE-2012-2019', 'CVE-2012-2020', 'CVE-2014-2647']",2022-03-21T15:37Z
+6,cpe:2.3:a:hp:operations_agent:11.0:*:*:*:*:*:*:*,HP Operations Agent 11.0,"['CVE-2011-2608', 'CVE-2011-4160', 'CVE-2012-2019', 'CVE-2012-2020', 'CVE-2014-2630', 'CVE-2014-2647']",2022-03-21T15:37Z
+7,cpe:2.3:a:hp:operations_agent:11.03.012:*:*:*:*:*:*:*,HP Operations Agent 11.03.012,['CVE-2014-2647'],2022-03-21T15:37Z
+8,cpe:2.3:a:hp:operations_agent:11.13:*:*:*:*:*:*:*,HP Operations Agent 11.13,['CVE-2014-2647'],2022-03-21T15:37Z
+9,cpe:2.3:a:hp:operations_agent:11.14:*:*:*:*:*:*:*,HP Operations Agent 11.14,['CVE-2017-3733'],2022-03-21T15:37Z

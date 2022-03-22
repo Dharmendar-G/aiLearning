@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cakephp:cakephp:1.3.17:-:*:*:*:*:*:*,CakePHP 1.3.17,['CVE-2016-4793'],2022-03-19T14:43Z
+1,cpe:2.3:a:cakephp:cakephp:1.3.18:-:*:*:*:*:*:*,CakePHP 1.3.18,['CVE-2016-4793'],2022-03-19T14:43Z
+2,cpe:2.3:a:cakephp:cakephp:1.3.19:-:*:*:*:*:*:*,CakePHP 1.3.19,['CVE-2016-4793'],2022-03-19T14:43Z
+3,cpe:2.3:a:cakephp:cakephp:1.3.20:-:*:*:*:*:*:*,CakePHP 1.3.20,['CVE-2016-4793'],2022-03-19T14:43Z
+4,cpe:2.3:a:cakephp:cakephp:1.3.21:-:*:*:*:*:*:*,CakePHP 1.3.21,['CVE-2016-4793'],2022-03-19T14:43Z
+5,cpe:2.3:a:cakephp:cakephp:2.0.0:alpha:*:*:*:*:*:*,CakePHP 2.0.0 Alpha,"['CVE-2015-8379', 'CVE-2016-4793']",2022-03-19T14:43Z
+6,cpe:2.3:a:cakephp:cakephp:2.0.0:alpha:*:*:*:*:*:*,CakePHP 2.0.0 Alpha,"['CVE-2015-8379', 'CVE-2016-4793']",2022-03-19T14:43Z
+7,cpe:2.3:a:cakephp:cakephp:2.0.0:beta:*:*:*:*:*:*,CakePHP 2.0.0 Beta,"['CVE-2015-8379', 'CVE-2016-4793']",2022-03-19T14:43Z
+8,cpe:2.3:a:cakephp:cakephp:2.0.0:dev:*:*:*:*:*:*,CakePHP 2.0.0 Dev,"['CVE-2015-8379', 'CVE-2016-4793']",2022-03-19T14:43Z
+9,cpe:2.3:a:cakephp:cakephp:2.0.0:rc1:*:*:*:*:*:*,CakePHP 2.0.0 Release Candidate 1,"['CVE-2015-8379', 'CVE-2016-4793']",2022-03-19T14:43Z

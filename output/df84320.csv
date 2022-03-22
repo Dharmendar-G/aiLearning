@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:booking_project:booking:2.3.6:*:*:*:*:wordpress:*:*,Booking Project Booking 2.3.6 for WordPress,['CVE-2019-15774'],2022-03-19T09:37Z
+1,cpe:2.3:a:booking_project:booking:2.3.7:*:*:*:*:wordpress:*:*,Booking Project Booking 2.3.7 for WordPress,['CVE-2019-15774'],2022-03-19T09:37Z
+2,cpe:2.3:a:booking_project:booking:2.3.8:*:*:*:*:wordpress:*:*,Booking Project Booking 2.3.8 for WordPress,['CVE-2019-15774'],2022-03-19T09:37Z
+3,cpe:2.3:a:booking_project:booking:2.3.9:*:*:*:*:wordpress:*:*,Booking Project Booking 2.3.9 for WordPress,['CVE-2019-15774'],2022-03-19T09:37Z
+4,cpe:2.3:a:booking_project:booking:2.4:*:*:*:*:wordpress:*:*,Booking Project Booking 2.4 for WordPress,['CVE-2019-15774'],2022-03-19T09:37Z
+5,cpe:2.3:a:booking_project:booking:2.4.1:*:*:*:*:wordpress:*:*,Booking Project Booking 2.4.1 for WordPress,['CVE-2019-15774'],2022-03-19T09:37Z
+6,cpe:2.3:a:booking_project:booking:2.4.2:*:*:*:*:wordpress:*:*,Booking Project Booking 2.4.2 for WordPress,['CVE-2019-15774'],2022-03-19T09:38Z
+7,cpe:2.3:a:booking_project:booking:2.5:*:*:*:*:wordpress:*:*,Booking Project Booking 2.5 for WordPress,[''],2022-03-19T09:38Z
+8,cpe:2.3:a:bookingcore:booking_core:1.7.0:*:*:*:*:*:*:*,Booking Core 1.7.0,"['CVE-2020-25444', 'CVE-2020-25445', 'CVE-2020-27379']",2022-03-19T09:38Z
+9,cpe:2.3:a:bookingcore:booking_core:2.0:*:*:*:*:*:*:*,Booking Core 2.0,"['CVE-2021-37330', 'CVE-2021-37331', 'CVE-2021-37333']",2022-03-19T09:38Z

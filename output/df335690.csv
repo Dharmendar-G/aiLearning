@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:p8_firmware:gra-cl00c92b230:*:*:*:*:*:*:*,Huawei P8 Firmware GRA-CL00C92B230,"['CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2698']",2022-03-21T18:22Z
+1,cpe:2.3:o:huawei:p8_firmware:gra-cl10:*:*:*:*:*:*:*,Huawei P8 Firmware GRA-CL10,"['CVE-2015-8088', 'CVE-2015-8306', 'CVE-2015-8307', 'CVE-2015-8318', 'CVE-2015-8319', 'CVE-2015-8337', 'CVE-2015-8679', 'CVE-2015-8680', 'CVE-2015-8681', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2698']",2022-03-21T18:22Z
+2,cpe:2.3:o:huawei:p8_firmware:gra-cl10c92b220:*:*:*:*:*:*:*,Huawei P8 Firmware GRA-CL10C92B220,"['CVE-2015-8678', 'CVE-2016-1496', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2698']",2022-03-21T18:22Z
+3,cpe:2.3:o:huawei:p8_firmware:gra-cl10c92b230:*:*:*:*:*:*:*,Huawei P8 Firmware GRA-CL10C92B230,"['CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2698']",2022-03-21T18:22Z
+4,cpe:2.3:o:huawei:p8_firmware:gra-cl100:*:*:*:*:*:*:*,Huawei P8 Firmware GRA-CL100,"['CVE-2015-8088', 'CVE-2015-8306', 'CVE-2015-8337', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2698']",2022-03-21T18:22Z
+5,cpe:2.3:o:huawei:p8_firmware:gra-l09c432b222:*:*:*:*:*:*:*,Huawei P8 Firmware GRA-L09C432B222,"['CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2698']",2022-03-21T18:23Z
+6,cpe:2.3:o:huawei:p8_firmware:gra-tl00:*:*:*:*:*:*:*,Huawei P8 Firmware GRA-TL00,"['CVE-2015-8088', 'CVE-2015-8306', 'CVE-2015-8307', 'CVE-2015-8318', 'CVE-2015-8319', 'CVE-2015-8337', 'CVE-2015-8679', 'CVE-2015-8680', 'CVE-2015-8681', 'CVE-2016-8279', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2698']",2022-03-21T18:23Z
+7,cpe:2.3:o:huawei:p8_firmware:gra-tl00c01b220:*:*:*:*:*:*:*,Huawei P8 Firmware GRA-TL00C01B220,"['CVE-2015-8678', 'CVE-2016-1496', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2698']",2022-03-21T18:23Z
+8,cpe:2.3:o:huawei:p8_firmware:gra-tl00c01b230:*:*:*:*:*:*:*,Huawei P8 Firmware GRA-TL00C01B230,"['CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2698']",2022-03-21T18:23Z
+9,cpe:2.3:o:huawei:p8_firmware:gra-tl00c01b230sp01:*:*:*:*:*:*:*,Huawei P8 Firmware GRA-TL00C01B230SP01,"['CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2698']",2022-03-21T18:23Z

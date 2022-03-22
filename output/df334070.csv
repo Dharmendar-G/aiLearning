@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:harry-al10b:-:*:*:*:*:*:*:*,Huawei Harry-AL10B,"['CVE-2019-5235', 'CVE-2019-9506']",2022-03-21T17:46Z
+1,cpe:2.3:o:huawei:harry-al10b_firmware:-:*:*:*:*:*:*:*,Huawei Harry-AL10B Firmware,"['CVE-2019-5235', 'CVE-2019-9506']",2022-03-21T17:46Z
+2,cpe:2.3:o:huawei:harry-al10b_firmware:9.1.0.206\(c00e205r3p1\):*:*:*:*:*:*:*,Huawei Harry-AL10B Firmware 9.1.0.206(C00E205R3P1),['CVE-2019-5235'],2022-03-21T17:46Z
+3,cpe:2.3:h:huawei:harry-tl00c:-:*:*:*:*:*:*:*,Huawei Harry-TL00C,"['CVE-2019-5235', 'CVE-2019-9506']",2022-03-21T17:46Z
+4,cpe:2.3:o:huawei:harry-tl00c_firmware:-:*:*:*:*:*:*:*,Huawei HARRY-TL00C FIRMWARE,['CVE-2019-9506'],2022-03-21T17:46Z
+5,cpe:2.3:o:huawei:harry-tl00c_firmware:9.0.1.162\(c01e160r2p3\):*:*:*:*:*:*:*,Huawei Harry-TL00C Firmware 9.0.1.162(C01E160R2P3),['CVE-2019-5235'],2022-03-21T17:46Z
+6,cpe:2.3:h:huawei:haydn-l1jb:-:*:*:*:*:*:*:*,Huawei Haydn-L1JB,['CVE-2018-7907'],2022-03-21T17:46Z
+7,cpe:2.3:o:huawei:haydn-l1jb_firmware:hdn-l1jc137b068:*:*:*:*:*:*:*,Huawei Haydn-L1JB Firmware HDN-L1JC137B068,['CVE-2018-7907'],2022-03-21T17:46Z
+8,cpe:2.3:a:huawei:hedex_lite:v200r006c00:*:*:*:*:*:*:*,Huawei HedEx Lite V200R006C00SPC003,['CVE-2019-5286'],2022-03-21T17:47Z
+9,cpe:2.3:a:huawei:hedex_lite:v200r006c00spc007:*:*:*:*:*:*:*,Huawei HedEx Lite V200R006C00SPC007,[''],2022-03-21T17:47Z

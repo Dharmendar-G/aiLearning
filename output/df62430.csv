@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:autodesk:3ds_max:7:*:*:*:*:*:*:*,Autodesk Autodesk 3ds Max 7,"['CVE-2005-4710', 'CVE-2009-3577']",2022-03-19T03:25Z
+1,cpe:2.3:a:autodesk:advance_steel:2017:*:*:*:*:*:*:*,Autodesk Advance Steel 2017,['CVE-2019-7364'],2022-03-19T03:25Z
+2,cpe:2.3:a:autodesk:advance_steel:2018:*:*:*:*:*:*:*,Autodesk Advance Steel 2018,"['CVE-2019-7358', 'CVE-2019-7359', 'CVE-2019-7360', 'CVE-2019-7361', 'CVE-2019-7364']",2022-03-19T03:25Z
+3,cpe:2.3:a:autodesk:advance_steel:2019:*:*:*:*:*:*:*,Autodesk Advance Steel 2019,"['CVE-2019-7364', 'CVE-2021-27040', 'CVE-2021-27041', 'CVE-2021-27042', 'CVE-2021-27043', 'CVE-2021-40160', 'CVE-2021-40161']",2022-03-19T03:25Z
+4,cpe:2.3:a:autodesk:advance_steel:2020:*:*:*:*:*:*:*,Autodesk Advance Steel 2020,"['CVE-2019-7364', 'CVE-2021-27040', 'CVE-2021-27041', 'CVE-2021-27042', 'CVE-2021-27043', 'CVE-2021-40160', 'CVE-2021-40161']",2022-03-19T03:25Z
+5,cpe:2.3:a:autodesk:advance_steel:2021:*:*:*:*:*:*:*,Autodesk Advance Steel 2021,"['CVE-2021-27040', 'CVE-2021-27041', 'CVE-2021-27042', 'CVE-2021-27043', 'CVE-2021-40160', 'CVE-2021-40161']",2022-03-19T03:25Z
+6,cpe:2.3:a:autodesk:advance_steel:2022:*:*:*:*:*:*:*,Autodesk Advance Steel 2022,"['CVE-2021-27040', 'CVE-2021-27041', 'CVE-2021-27042', 'CVE-2021-27043', 'CVE-2021-40160', 'CVE-2021-40161']",2022-03-19T03:25Z
+7,cpe:2.3:a:autodesk:architectural_desktop:-:*:*:*:*:*:*:*,Autodesk Architectural Desktop,[''],2022-03-19T03:25Z
+8,cpe:2.3:a:autodesk:architectural_desktop:2005:*:*:*:*:*:*:*,Autodesk Architectural Desktop 2005,['CVE-2005-4710'],2022-03-19T03:25Z
+9,cpe:2.3:a:autodesk:architectural_desktop:2006:*:*:*:*:*:*:*,Autodesk Architectural Desktop 2006,['CVE-2005-4710'],2022-03-19T03:25Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:cloudengine_6800_firmware:v300r020c00spc200:*:*:*:*:*:*:*,Huawei CloudEngine 6800 Firmware V300R020C00SPC200,['CVE-2021-40042'],2022-03-21T17:33Z
+1,cpe:2.3:h:huawei:cloudengine_7800:-:*:*:*:*:*:*:*,Huawei CloudEngine 7800,"['CVE-2016-8780', 'CVE-2016-8790', 'CVE-2016-8795', 'CVE-2017-15349', 'CVE-2017-17301', 'CVE-2017-8147', 'CVE-2020-1865', 'CVE-2020-9094', 'CVE-2020-9102', 'CVE-2020-9124', 'CVE-2020-9137', 'CVE-2020-9207', 'CVE-2021-22328', 'CVE-2021-22332', 'CVE-2021-22362', 'CVE-2021-22393', 'CVE-2021-37122', 'CVE-2021-40008', 'CVE-2021-40033', 'CVE-2021-40042']",2022-03-21T17:33Z
+2,cpe:2.3:o:huawei:cloudengine_7800_firmware:-:*:*:*:*:*:*:*,Huawei Cloudengine 7800 Firmware -,[''],2022-03-21T17:33Z
+3,cpe:2.3:o:huawei:cloudengine_7800_firmware:v100r003c00:*:*:*:*:*:*:*,Huawei CloudEngine 7800 Firmware V100R003C00,"['CVE-2016-8795', 'CVE-2017-15349', 'CVE-2017-17301', 'CVE-2017-8147']",2022-03-21T17:33Z
+4,cpe:2.3:o:huawei:cloudengine_7800_firmware:v100r003c10:*:*:*:*:*:*:*,Huawei CloudEngine 7800 Firmware V100R003C10,"['CVE-2016-8790', 'CVE-2016-8795', 'CVE-2017-17301']",2022-03-21T17:33Z
+5,cpe:2.3:o:huawei:cloudengine_7800_firmware:v100r005c00:*:*:*:*:*:*:*,Huawei CloudEngine 7800 Firmware V100R005C00,"['CVE-2016-8790', 'CVE-2016-8795', 'CVE-2017-15349', 'CVE-2017-17301', 'CVE-2017-8147']",2022-03-21T17:33Z
+6,cpe:2.3:o:huawei:cloudengine_7800_firmware:v100r005c10:*:*:*:*:*:*:*,Huawei CloudEngine 7800 Firmware V100R005C10,"['CVE-2016-8790', 'CVE-2016-8795', 'CVE-2017-15349', 'CVE-2017-17301', 'CVE-2017-8147']",2022-03-21T17:33Z
+7,cpe:2.3:o:huawei:cloudengine_7800_firmware:v100r006c00:*:*:*:*:*:*:*,Huawei CloudEngine 7800 Firmware V100R006C00,"['CVE-2016-8780', 'CVE-2016-8790', 'CVE-2016-8795', 'CVE-2017-15349', 'CVE-2017-17301', 'CVE-2017-8147']",2022-03-21T17:33Z
+8,cpe:2.3:o:huawei:cloudengine_7800_firmware:v200r001c00:*:*:*:*:*:*:*,Huawei Cloudengine 7800 Firmware V200r001c00,"['CVE-2017-17301', 'CVE-2017-8147']",2022-03-21T17:33Z
+9,cpe:2.3:o:huawei:cloudengine_7800_firmware:v200r002c50spc800:*:*:*:*:*:*:*,Huawei CloudEngine 7800 Firmware V200R002C50SPC800,"['CVE-2020-1865', 'CVE-2020-9102', 'CVE-2020-9124', 'CVE-2020-9137', 'CVE-2021-22332', 'CVE-2021-22362', 'CVE-2021-22393']",2022-03-21T17:33Z

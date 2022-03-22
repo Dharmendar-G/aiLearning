@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:auth0:ad\/ldap_connector:0.0.2:*:*:*:*:node.js:*:*,Auth0 AD/LDAP Connector 0.0.2 for Node.js,['CVE-2020-15259'],2022-03-19T02:44Z
+1,cpe:2.3:a:auth0:ad\/ldap_connector:0.1.0:*:*:*:*:node.js:*:*,Auth0 AD/LDAP Connector 0.1.0 for Node.js,['CVE-2020-15259'],2022-03-19T02:44Z
+2,cpe:2.3:a:auth0:ad\/ldap_connector:1.1.0:*:*:*:*:node.js:*:*,Auth0 AD/LDAP Connector 1.1.0 for Node.js,['CVE-2020-15259'],2022-03-19T02:44Z
+3,cpe:2.3:a:auth0:ad\/ldap_connector:2.2.0:*:*:*:*:node.js:*:*,Auth0 AD/LDAP Connector 2.2.0 for Node.js,['CVE-2020-15259'],2022-03-19T02:44Z
+4,cpe:2.3:a:auth0:ad\/ldap_connector:2.2.1:*:*:*:*:node.js:*:*,Auth0 AD/LDAP Connector 2.2.1 for Node.js,['CVE-2020-15259'],2022-03-19T02:45Z
+5,cpe:2.3:a:auth0:ad\/ldap_connector:2.5.0:*:*:*:*:node.js:*:*,Auth0 AD/LDAP Connector 2.5.0 for Node.js,['CVE-2020-15259'],2022-03-19T02:45Z
+6,cpe:2.3:a:auth0:ad\/ldap_connector:2.6.0:*:*:*:*:node.js:*:*,Auth0 AD/LDAP Connector 2.6.0 for Node.js,['CVE-2020-15259'],2022-03-19T02:45Z
+7,cpe:2.3:a:auth0:ad\/ldap_connector:2.7.0:*:*:*:*:node.js:*:*,Auth0 AD/LDAP Connector 2.7.0 for Node.js,['CVE-2020-15259'],2022-03-19T02:45Z
+8,cpe:2.3:a:auth0:ad\/ldap_connector:2.8.0:*:*:*:*:node.js:*:*,Auth0 AD/LDAP Connector 2.8.0 for Node.js,['CVE-2020-15259'],2022-03-19T02:45Z
+9,cpe:2.3:a:auth0:ad\/ldap_connector:2.9.0:*:*:*:*:node.js:*:*,Auth0 AD/LDAP Connector 2.9.0 for Node.js,['CVE-2020-15259'],2022-03-19T02:45Z

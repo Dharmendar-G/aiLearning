@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:network_flow_analysis:9.5.0:*:*:*:*:*:*:*,Broadcom Network Flow Analysis 9.5.0,['CVE-2019-13658'],2022-03-19T12:28Z
+1,cpe:2.3:a:broadcom:network_flow_analysis:10.0.0:*:*:*:*:*:*:*,Broadcom Network Flow Analysis 10.0.0,['CVE-2019-13658'],2022-03-19T12:28Z
+2,cpe:2.3:a:broadcom:network_flow_analysis:10.0.2:*:*:*:*:*:*:*,Broadcom Network Flow Analysis 10.0.2,[''],2022-03-19T12:28Z
+3,cpe:2.3:a:broadcom:network_flow_analysis:10.0.3:*:*:*:*:*:*:*,Broadcom Network Flow Analysis 10.0.3,[''],2022-03-19T12:28Z
+4,cpe:2.3:a:broadcom:network_flow_analysis:10.0.4:*:*:*:*:*:*:*,Broadcom Network Flow Analysis 10.0.4,[''],2022-03-19T12:28Z
+5,cpe:2.3:a:broadcom:network_flow_analysis:10.0.5:*:*:*:*:*:*:*,Broadcom Network Flow Analysis 10.0.5,[''],2022-03-19T12:28Z
+6,cpe:2.3:a:broadcom:network_flow_analysis:10.0.6:*:*:*:*:*:*:*,Broadcom Network Flow Analysis 10.0.6,[''],2022-03-19T12:28Z
+7,cpe:2.3:a:broadcom:network_flow_analysis:10.0.7:*:*:*:*:*:*:*,Broadcom Network Flow Analysis 10.0.7,[''],2022-03-19T12:28Z
+8,cpe:2.3:a:broadcom:network_flow_analysis:21.2.1:*:*:*:*:*:*:*,Broadcom Network Flow Analysis 21.2.1,[''],2022-03-19T12:28Z
+9,cpe:2.3:a:broadcom:network_flow_analysis:21.2.2:*:*:*:*:*:*:*,Broadcom Network Flow Analysis 21.2.2,[''],2022-03-19T12:28Z

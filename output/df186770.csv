@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:digium:certified_asterisk:13.18:cert1:*:*:*:*:*:*,Digium Certified Asterisk 13.18 Cert1,"['CVE-2018-12227', 'CVE-2018-7284', 'CVE-2018-7286', 'CVE-2019-13161']",2022-03-20T14:52Z
+1,cpe:2.3:a:digium:certified_asterisk:13.18:cert1-rc1:*:*:*:*:*:*,Digium Certified Asterisk 13.18 Cert1-Release Candidate 1,"['CVE-2018-7284', 'CVE-2018-7286', 'CVE-2019-13161']",2022-03-20T14:52Z
+2,cpe:2.3:a:digium:certified_asterisk:13.18:cert1-rc2:*:*:*:*:*:*,Digium Certified Asterisk 13.18 Cert1-Release Candidate 2,"['CVE-2018-7284', 'CVE-2018-7286', 'CVE-2019-13161']",2022-03-20T14:52Z
+3,cpe:2.3:a:digium:certified_asterisk:13.18:cert1-rc3:*:*:*:*:*:*,Digium Certified Asterisk 13.18 Cert1-Release Candidate 3,"['CVE-2018-7284', 'CVE-2018-7286', 'CVE-2019-13161']",2022-03-20T14:52Z
+4,cpe:2.3:a:digium:certified_asterisk:13.18:cert2:*:*:*:*:*:*,Digium Certified Asterisk 13.18 Cert2,"['CVE-2018-12227', 'CVE-2018-7284', 'CVE-2018-7286', 'CVE-2019-13161']",2022-03-20T14:52Z
+5,cpe:2.3:a:digium:certified_asterisk:13.18:cert3:*:*:*:*:*:*,Digium Certified Asterisk 13.18 Cert3,"['CVE-2018-12227', 'CVE-2018-7284', 'CVE-2018-7286', 'CVE-2019-13161']",2022-03-20T14:52Z
+6,cpe:2.3:a:digium:certified_asterisk:13.18:cert4:*:*:*:*:*:*,Digium Certified Asterisk 13.18 Cert4,"['CVE-2018-7284', 'CVE-2018-7286', 'CVE-2019-13161']",2022-03-20T14:52Z
+7,cpe:2.3:a:digium:certified_asterisk:13.18.0:*:*:*:*:*:*:*,Digium Certified Asterisk 13.18.0,[''],2022-03-20T14:52Z
+8,cpe:2.3:a:digium:certified_asterisk:13.21:cert1:*:*:*:*:*:*,Digium Certified Asterisk 13.21 Cert1,"['CVE-2018-12227', 'CVE-2019-12827', 'CVE-2019-13161', 'CVE-2019-18976']",2022-03-20T14:52Z
+9,cpe:2.3:a:digium:certified_asterisk:13.21:cert1:*:*:lts:*:*:*,Digium Certified Asterisk 13.21 Cert1 Lts Edition,"['CVE-2018-12227', 'CVE-2018-17281', 'CVE-2019-12827', 'CVE-2019-13161', 'CVE-2019-18976']",2022-03-20T14:52Z

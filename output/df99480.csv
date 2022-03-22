@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cairographics:cairo:1.6.2:*:*:*:*:*:*:*,Cairographics Cairo 1.6.2,"['CVE-2016-3190', 'CVE-2017-9814', 'CVE-2018-18064', 'CVE-2020-35492']",2022-03-19T14:34Z
+1,cpe:2.3:a:cairographics:cairo:1.6.4:*:*:*:*:*:*:*,Cairographics Cairo 1.6.4,"['CVE-2016-3190', 'CVE-2017-9814', 'CVE-2018-18064', 'CVE-2020-35492']",2022-03-19T14:34Z
+2,cpe:2.3:a:cairographics:cairo:1.8.0:*:*:*:*:*:*:*,Cairographics Cairo 1.8.0,"['CVE-2016-3190', 'CVE-2017-9814', 'CVE-2018-18064', 'CVE-2020-35492']",2022-03-19T14:34Z
+3,cpe:2.3:a:cairographics:cairo:1.8.2:*:*:*:*:*:*:*,Cairographics Cairo 1.8.2,"['CVE-2016-3190', 'CVE-2017-9814', 'CVE-2018-18064', 'CVE-2020-35492']",2022-03-19T14:34Z
+4,cpe:2.3:a:cairographics:cairo:1.8.4:*:*:*:*:*:*:*,Cairographics Cairo 1.8.4,"['CVE-2016-3190', 'CVE-2017-9814', 'CVE-2018-18064', 'CVE-2020-35492']",2022-03-19T14:34Z
+5,cpe:2.3:a:cairographics:cairo:1.8.6:*:*:*:*:*:*:*,Cairographics Cairo 1.8.6,"['CVE-2016-3190', 'CVE-2017-9814', 'CVE-2018-18064', 'CVE-2020-35492']",2022-03-19T14:34Z
+6,cpe:2.3:a:cairographics:cairo:1.8.8:*:*:*:*:*:*:*,Cairographics Cairo 1.8.8,"['CVE-2016-3190', 'CVE-2017-9814', 'CVE-2018-18064', 'CVE-2020-35492']",2022-03-19T14:34Z
+7,cpe:2.3:a:cairographics:cairo:1.8.10:*:*:*:*:*:*:*,Cairographics Cairo 1.8.10,"['CVE-2016-3190', 'CVE-2017-9814', 'CVE-2018-18064', 'CVE-2020-35492']",2022-03-19T14:34Z
+8,cpe:2.3:a:cairographics:cairo:1.10.0:*:*:*:*:*:*:*,Cairographics Cairo 1.10.0,"['CVE-2016-3190', 'CVE-2017-9814', 'CVE-2018-18064', 'CVE-2020-35492']",2022-03-19T14:34Z
+9,cpe:2.3:a:cairographics:cairo:1.10.2:*:*:*:*:*:*:*,Cairographics Cairo 1.10.2,"['CVE-2014-5116', 'CVE-2016-3190', 'CVE-2017-9814', 'CVE-2018-18064', 'CVE-2020-35492']",2022-03-19T14:34Z

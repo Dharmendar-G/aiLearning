@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:axis:q8721-e_firmware:5.50.2.5:*:*:*:*:*:*:*,Axis Communications Q8721-E Firmware 5.50.2.5,[''],2022-03-19T04:57Z
+1,cpe:2.3:o:axis:q8722-e_firmware:5.50.2.5:*:*:*:*:*:*:*,Axis Communications Q8722-E Firmware 5.50.2.5,[''],2022-03-19T04:57Z
+2,cpe:2.3:o:axis:q8741-e_firmware:7.15.3.2:*:*:*:*:*:*:*,Axis Communications Q8741-E Firmware 7.15.3.2,[''],2022-03-19T04:57Z
+3,cpe:2.3:o:axis:q8741-le_firmware:7.15.3.2:*:*:*:*:*:*:*,Axis Communications Q8741-LE Firmware 7.15.3.2,[''],2022-03-19T04:57Z
+4,cpe:2.3:o:axis:q8742-e_firmware:7.15.3.2:*:*:*:*:*:*:*,Axis Communications Q8742-E Firmware 7.15.3.2,[''],2022-03-19T04:57Z
+5,cpe:2.3:o:axis:q8742-e_zoom_firmware:7.15.3.2:*:*:*:*:*:*:*,Axis Communications Q8742-E Zoom Firmware 7.15.3.2,[''],2022-03-19T04:57Z
+6,cpe:2.3:o:axis:q8742-le_firmware:7.15.3.2:*:*:*:*:*:*:*,Axis Communications Q8742-LE Firmware 7.15.3.2,[''],2022-03-19T04:57Z
+7,cpe:2.3:o:axis:q8742-le_zoom_firmware:7.15.3.2:*:*:*:*:*:*:*,Axis Communications Q8742-LE Zoom Firmware 7.15.3.2,[''],2022-03-19T04:57Z
+8,cpe:2.3:h:axis:serial_server:-:*:*:*:*:*:*:*,Axis Communications AXIS Serial Server,[''],2022-03-19T04:57Z
+9,cpe:2.3:h:axis:storpoint_cd:-:*:*:*:*:*:*:*,Axis Communications AXIS StorPoint CD,"['CVE-2000-0191', 'CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427']",2022-03-19T04:57Z

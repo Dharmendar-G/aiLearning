@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:amcrest:1080-lite_8ch:-:*:*:*:*:*:*:*,Amcrest 1080-Lite 8CH,"['CVE-2020-5735', 'CVE-2020-5736']",2022-03-18T16:00Z
+1,cpe:2.3:o:amcrest:1080-lite_8ch_firmware:-:*:*:*:*:*:*:*,Amcrest 1080-Lite 8CH Firmware,"['CVE-2020-5735', 'CVE-2020-5736']",2022-03-18T16:00Z
+2,cpe:2.3:o:amcrest:amcrest_ipc-hx1x3x-lexus_eng_n_amcrest:v2.420.ac01.3.r.20180206:*:*:*:*:*:*:*,Amcrest IPC-HX1X3X-LEXUS Eng N AMCREST V2.420.AC01.3.R.20180206,['CVE-2018-16546'],2022-03-18T16:00Z
+3,cpe:2.3:h:amcrest:amdv10814-h5:-:*:*:*:*:*:*:*,Amcrest AMDV10814-H5,"['CVE-2020-5735', 'CVE-2020-5736']",2022-03-18T16:00Z
+4,cpe:2.3:o:amcrest:amdv10814-h5_firmware:-:*:*:*:*:*:*:*,Amcrest AMDV10814-H5 Firmware,"['CVE-2020-5735', 'CVE-2020-5736']",2022-03-18T16:00Z
+5,cpe:2.3:h:amcrest:ip2m-841:-:*:*:*:*:*:*:*,Amcrest IP2M-841,"['CVE-2020-5735', 'CVE-2020-5736']",2022-03-18T16:00Z
+6,cpe:2.3:o:amcrest:ip2m-841_firmware:v2.420.ac00.18.r.20200217:*:*:*:*:*:*:*,Amcrest IP2M-841 Firmware V2.420.AC00.18.R.20200217,[''],2022-03-18T16:00Z
+7,cpe:2.3:h:amcrest:ip2m-841b:-:*:*:*:*:*:*:*,Amcrest IP2M-841B,['CVE-2019-3948'],2022-03-18T16:00Z
+8,cpe:2.3:o:amcrest:ip2m-841b_firmware:2.520.ac00.18.r:*:*:*:*:*:*:*,Amcrest IP2M-841B Firmware 2.520.AC00.18.R,['CVE-2019-3948'],2022-03-18T16:01Z
+9,cpe:2.3:h:amcrest:ip2m-841-v3:-:*:*:*:*:*:*:*,Amcrest IP2M-841-V3,"['CVE-2020-5735', 'CVE-2020-5736']",2022-03-18T16:01Z

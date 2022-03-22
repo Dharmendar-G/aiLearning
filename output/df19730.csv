@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:allied_telesis_k.k.:centrecom_ar260s_v2_firmware:-:*:*:*:*:*:*:*,Allied Telesis K.K. CentreCOM AR260S V2 Firmware,['CVE-2017-2125'],2022-03-18T14:53Z
+1,cpe:2.3:h:alliedtelesis:8100l\/8:-:*:*:*:*:*:*:*,Allied Telesis 8100L/8,['CVE-2018-20503'],2022-03-18T14:53Z
+2,cpe:2.3:o:alliedtelesis:8100l\/8_firmware:-:*:*:*:*:*:*:*,Allied Telesis 8100L/8 Firmware,['CVE-2018-20503'],2022-03-18T14:53Z
+3,cpe:2.3:h:alliedtelesis:at-gs950\/8:-:*:*:*:*:*:*:*,Allied Telesis AT-GS950/8,['CVE-2019-18922'],2022-03-18T14:53Z
+4,cpe:2.3:o:alliedtelesis:at-gs950\/8_firmware:1.00.047:*:*:*:*:*:*:*,Allied Telesis AT-GS950/8 Firmware 1.00.047,[''],2022-03-18T14:53Z
+5,cpe:2.3:h:alliedtelesis:at-rg634a:-:*:*:*:*:*:*:*,alliedtelesis AT-RG634A,['CVE-2014-1982'],2022-03-18T14:53Z
+6,[0],[0],[0],[0]
+7,cpe:2.3:h:alliedtelesis:img616lh:-:*:*:*:*:*:*:*,alliedtelesis iMG616LH,['CVE-2014-1982'],2022-03-18T14:53Z
+8,[0],[0],[0],[0]
+9,cpe:2.3:h:alliedtelesis:img624a:-:*:*:*:*:*:*:*,alliedtelesis iMG624A,['CVE-2014-1982'],2022-03-18T14:53Z

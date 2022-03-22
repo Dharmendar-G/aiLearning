@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:iblsoft:online_weather:4.3.5:*:*:*:*:*:*:*,Iblsoft Online Weather 4.3.5,[''],2022-03-21T19:47Z
+1,cpe:2.3:a:ibm:_ibm_rational_lifecycle_integration_adapter_for_windchill:1.0.0:*:*:*:*:*:*:*,IBM Rational Lifecycle Integration Adapter For Windchill 1.0.0,['CVE-2014-4815'],2022-03-21T19:47Z
+2,cpe:2.3:a:ibm:_ibm_rational_lifecycle_integration_adapter_for_windchill:1.0.1:*:*:*:*:*:*:*,IBM Rational Lifecycle Integration Adapter For Windchill 1.0.1,[''],2022-03-21T19:47Z
+3,[0],[0],[0],[0]
+4,cpe:2.3:o:ibm:1g_l2-7_slb:21.0.24.0:*:*:*:*:*:*:*,IBM 1G L2-7 SLB 21.0.24.0,['CVE-2017-3752'],2022-03-21T19:47Z
+5,cpe:2.3:h:ibm:1g_l2-7_slb_switch_for_bladecenter:-:*:*:*:*:*:*:*,IBM 1G L2-7 SLB Switch For BladeCenter,['CVE-2017-3765'],2022-03-21T19:47Z
+6,cpe:2.3:h:ibm:4758:-:*:*:*:*:*:*:*,IBM IBM 4758,['CVE-2001-0856'],2022-03-21T19:47Z
+7,cpe:2.3:h:ibm:8335-gca:-:*:*:*:*:*:*:*,IBM 8335-GCA,"['CVE-2020-4839', 'CVE-2021-29695']",2022-03-21T19:47Z
+8,cpe:2.3:o:ibm:8335-gca_firmware:op820:*:*:*:*:*:*:*,IBM 8335-GCA Firmware OP820,"['CVE-2020-4839', 'CVE-2021-29695']",2022-03-21T19:47Z
+9,cpe:2.3:h:ibm:8335-gta:-:*:*:*:*:*:*:*,IBM 8335-GTA,"['CVE-2020-4839', 'CVE-2021-29695']",2022-03-21T19:48Z

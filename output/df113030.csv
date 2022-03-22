@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:3660_router:-:*:*:*:*:*:*:*,Cisco Cisco 3660 Router,['CVE-2000-0268'],2022-03-19T17:46Z
+1,cpe:2.3:h:cisco:3925:-:*:*:*:*:*:*:*,Cisco 3925 -,"['CVE-2018-0179', 'CVE-2018-0180']",2022-03-19T17:46Z
+2,cpe:2.3:h:cisco:3925_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 3925 Integrated Services Router,"['CVE-2013-1241', 'CVE-2018-0163']",2022-03-19T17:46Z
+3,cpe:2.3:h:cisco:3925e:-:*:*:*:*:*:*:*,Cisco 3925e -,"['CVE-2018-0179', 'CVE-2018-0180']",2022-03-19T17:46Z
+4,cpe:2.3:h:cisco:3925e_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 3925E Integrated Services Router,"['CVE-2013-1241', 'CVE-2018-0163']",2022-03-19T17:46Z
+5,cpe:2.3:h:cisco:3945:-:*:*:*:*:*:*:*,Cisco 3945 -,"['CVE-2018-0179', 'CVE-2018-0180']",2022-03-19T17:47Z
+6,cpe:2.3:h:cisco:3945_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 3945 Integrated Services Router,"['CVE-2013-1241', 'CVE-2018-0163']",2022-03-19T17:47Z
+7,cpe:2.3:h:cisco:3945e:-:*:*:*:*:*:*:*,Cisco 3945e -,"['CVE-2018-0179', 'CVE-2018-0180']",2022-03-19T17:47Z
+8,cpe:2.3:h:cisco:3945e_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 3945E Integrated Services Router,"['CVE-2013-1241', 'CVE-2018-0163']",2022-03-19T17:47Z
+9,cpe:2.3:h:cisco:4100_wireless_lan_controller:-:*:*:*:*:*:*:*,Cisco 4100 Wireless LAN Controller,"['CVE-2007-2038', 'CVE-2007-4011', 'CVE-2007-4012', 'CVE-2012-0368', 'CVE-2012-0369', 'CVE-2012-0370', 'CVE-2012-0371', 'CVE-2012-5991', 'CVE-2012-5992', 'CVE-2012-6007', 'CVE-2013-1102', 'CVE-2013-1103', 'CVE-2013-1104', 'CVE-2013-1235']",2022-03-19T17:47Z

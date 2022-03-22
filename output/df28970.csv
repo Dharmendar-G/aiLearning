@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:calcite:1.19.0:*:*:*:*:*:*:*,Apache Software Foundation Calcite 1.19.0,['CVE-2020-13955'],2022-03-18T17:46Z
+1,cpe:2.3:a:apache:calcite:1.20.0:*:*:*:*:*:*:*,Apache Software Foundation Calcite 1.20.0,['CVE-2020-13955'],2022-03-18T17:46Z
+2,cpe:2.3:a:apache:calcite:1.21.0:*:*:*:*:*:*:*,Apache Software Foundation Calcite 1.21.0,['CVE-2020-13955'],2022-03-18T17:46Z
+3,cpe:2.3:a:apache:calcite:1.22.0:*:*:*:*:*:*:*,Apache Software Foundation Calcite 1.22.0,['CVE-2020-13955'],2022-03-18T17:46Z
+4,cpe:2.3:a:apache:calcite:1.23.0:-:*:*:*:*:*:*,Apache Software Foundation Calcite 1.23.0,['CVE-2020-13955'],2022-03-18T17:46Z
+5,cpe:2.3:a:apache:calcite:1.23.0:rc0:*:*:*:*:*:*,Apache Software Foundation Calcite 1.23.0 Release Candidate 0,['CVE-2020-13955'],2022-03-18T17:46Z
+6,cpe:2.3:a:apache:calcite:1.23.0:rc1:*:*:*:*:*:*,Apache Software Foundation Calcite 1.23.0 Release Candidate 1,['CVE-2020-13955'],2022-03-18T17:46Z
+7,cpe:2.3:a:apache:calcite:1.24.0:-:*:*:*:*:*:*,Apache Software Foundation Calcite 1.24.0,['CVE-2020-13955'],2022-03-18T17:46Z
+8,cpe:2.3:a:apache:calcite:1.24.0:rc0:*:*:*:*:*:*,Apache Software Foundation Calcite 1.24.0 Release Candidate 0,['CVE-2020-13955'],2022-03-18T17:47Z
+9,cpe:2.3:a:apache:calcite:1.25.0:-:*:*:*:*:*:*,Apache Software Foundation Calcite 1.25.0,['CVE-2020-13955'],2022-03-18T17:46Z

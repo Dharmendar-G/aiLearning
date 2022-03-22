@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:amentotech:workreap:2.2.1:*:*:*:*:wordpress:*:*,Amentotech Workreap 2.2.1 for WordPress,"['CVE-2021-24499', 'CVE-2021-24500', 'CVE-2021-24501']",2022-03-18T16:14Z
+1,cpe:2.3:a:amentotech:workreap:2.2.2:*:*:*:*:wordpress:*:*,Amentotech Workreap 2.2.2 for WordPress,[''],2022-03-18T16:14Z
+2,cpe:2.3:a:amentotech:workreap:2.2.3:*:*:*:*:wordpress:*:*,Amentotech Workreap 2.2.3 for WordPress,[''],2022-03-18T16:14Z
+3,cpe:2.3:a:amentotech:workreap:2.2.4:*:*:*:*:wordpress:*:*,Amentotech Workreap 2.2.4 for WordPress,[''],2022-03-18T16:14Z
+4,cpe:2.3:a:amentotech:workreap:2.2.5:*:*:*:*:wordpress:*:*,Amentotech Workreap 2.2.5 for WordPress,[''],2022-03-18T16:14Z
+5,cpe:2.3:a:amentotech:workreap:2.2.6:*:*:*:*:wordpress:*:*,Amentotech Workreap 2.2.6 for WordPress,[''],2022-03-18T16:14Z
+6,cpe:2.3:a:amentotech:workreap:2.2.7:*:*:*:*:wordpress:*:*,Amentotech Workreap 2.2.7 for WordPress,[''],2022-03-18T16:14Z
+7,cpe:2.3:a:american_auto-matrix:aspect-matrix_building_automation_front-end_solutions_application:-:*:*:*:*:*:*:*,American Auto-Matrix Aspect-Matrix Building Automation Front-End Solutions Application,"['CVE-2016-2307', 'CVE-2016-2308']",2022-03-18T16:14Z
+8,cpe:2.3:a:american_auto-matrix:aspect-nexus_building_automation_front-end_solutions_application:2.0:*:*:*:*:*:*:*,American Auto-Matrix Aspect-Matrix Building Automation Front-End Solutions Application 2.0,"['CVE-2016-2307', 'CVE-2016-2308']",2022-03-18T16:14Z
+9,cpe:2.3:a:america\'s_first_federal_credit_union:america\'s_first_fcu_mobile_banking:3.1.0:*:*:*:*:iphone_os:*:*,America's First FCU Mobile Banking 3.1.0 for iPhone OS,['CVE-2017-5916'],2022-03-18T16:14Z

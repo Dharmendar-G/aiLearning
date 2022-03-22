@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:barracudadrive:barracudadrive:6.7:*:*:*:*:*:*:*,BarracudaDrive 6.7,['CVE-2014-3808'],2022-03-19T06:20Z
+1,cpe:2.3:a:barracudadrive:barracudadrive:6.7.1:*:*:*:*:*:*:*,BarracudaDrive 6.7.1,['CVE-2014-3808'],2022-03-19T06:20Z
+2,cpe:2.3:a:barracudadrive:barracudadrive:6.7.2:*:*:*:*:*:*:*,BarracudaDrive 6.7.2,"['CVE-2014-3807', 'CVE-2014-4335']",2022-03-19T06:20Z
+3,cpe:2.3:h:barracudanetworks:spam_\&_virus_firewall_600:-:*:*:*:*:*:*:*,Barracuda Networks Spam & Virus Firewall 600,['CVE-2012-5316'],2022-03-19T06:20Z
+4,cpe:2.3:o:barracudanetworks:spam_\&_virus_firewall_600_firmware:4.0.1.009:*:*:*:*:*:*:*,Barracuda Networks Spam & Virus Firewall 600 Firmware 4.0.1.009,['CVE-2012-5316'],2022-03-19T06:20Z
+5,cpe:2.3:a:barracudanetworks:yosemite_server_backup:8.8.3:*:*:*:*:*:*:*,Barracuda Networks Yosemite Server Backup 8.8.3,[''],2022-03-19T06:20Z
+6,cpe:2.3:a:barracudanetworks:yosemite_server_backup:8.9.1:*:*:*:*:*:*:*,Barracuda Networks Yosemite Server Backup 8.9.1,[''],2022-03-19T06:20Z
+7,cpe:2.3:h:barraguard:barracuda_link_balancer:230:*:*:*:*:*:*:*,barraguard Barracuda Link Balancer 230,[''],2022-03-19T06:20Z
+8,cpe:2.3:h:barraguard:barracuda_link_balancer:330:*:*:*:*:*:*:*,barraguard Barracuda Link Balancer 330,['CVE-2011-5114'],2022-03-19T06:20Z
+9,cpe:2.3:h:barraguard:barracuda_link_balancer:430:*:*:*:*:*:*:*,barraguard Barracuda Link Balancer 430,[''],2022-03-19T06:20Z

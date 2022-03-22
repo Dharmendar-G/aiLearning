@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:floodlight:0.91:*:*:*:*:*:*:*,Atlassian Floodlight 0.91,"['CVE-2015-6569', 'CVE-2020-18683', 'CVE-2020-18684', 'CVE-2020-18685']",2022-03-19T01:29Z
+1,cpe:2.3:a:atlassian:floodlight:1.0:*:*:*:*:*:*:*,Atlassian Floodlight 1.0,"['CVE-2015-6569', 'CVE-2020-18683', 'CVE-2020-18684', 'CVE-2020-18685']",2022-03-19T01:29Z
+2,cpe:2.3:a:atlassian:floodlight:1.1:*:*:*:*:*:*:*,Atlassian Floodlight 1.1,"['CVE-2015-6569', 'CVE-2020-18683', 'CVE-2020-18684', 'CVE-2020-18685']",2022-03-19T01:29Z
+3,cpe:2.3:a:atlassian:floodlight:1.2:*:*:*:*:*:*:*,Atlassian Floodlight 1.2,"['CVE-2020-18683', 'CVE-2020-18684', 'CVE-2020-18685']",2022-03-19T01:29Z
+4,cpe:2.3:a:atlassian:floodlight_controller:0.85:*:*:*:*:*:*:*,Atlassian Floodlight Controller 0.85,['CVE-2018-1000617'],2022-03-19T01:29Z
+5,cpe:2.3:a:atlassian:floodlight_controller:0.90:*:*:*:*:*:*:*,Atlassian Floodlight Controller 0.90,['CVE-2018-1000617'],2022-03-19T01:29Z
+6,cpe:2.3:a:atlassian:floodlight_controller:0.91:*:*:*:*:*:*:*,Atlassian Floodlight Controller 0.91,['CVE-2018-1000617'],2022-03-19T01:29Z
+7,cpe:2.3:a:atlassian:floodlight_controller:1.0:*:*:*:*:*:*:*,Atlassian Floodlight Controller 1.0,['CVE-2018-1000617'],2022-03-19T01:29Z
+8,cpe:2.3:a:atlassian:floodlight_controller:1.1:*:*:*:*:*:*:*,Atlassian Floodlight Controller 1.1,['CVE-2018-1000617'],2022-03-19T01:29Z
+9,cpe:2.3:a:atlassian:floodlight_controller:1.2:*:*:*:*:*:*:*,Atlassian Floodlight Controller 1.2,['CVE-2018-1000617'],2022-03-19T01:29Z

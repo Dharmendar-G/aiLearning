@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:appwrite:appwrite:0.4.0:*:*:*:*:*:*:*,Appwrite 0.4.0,['CVE-2021-23682'],2022-03-18T22:39Z
+1,cpe:2.3:a:appwrite:appwrite:0.5.0:*:*:*:*:*:*:*,Appwrite 0.5.0,['CVE-2021-23682'],2022-03-18T22:38Z
+2,cpe:2.3:a:appwrite:appwrite:0.5.1:*:*:*:*:*:*:*,Appwrite 0.5.1,['CVE-2021-23682'],2022-03-18T22:38Z
+3,cpe:2.3:a:appwrite:appwrite:0.5.2:*:*:*:*:*:*:*,Appwrite 0.5.2,['CVE-2021-23682'],2022-03-18T22:38Z
+4,cpe:2.3:a:appwrite:appwrite:0.5.3:*:*:*:*:*:*:*,Appwrite 0.5.3,['CVE-2021-23682'],2022-03-18T22:38Z
+5,cpe:2.3:a:appwrite:appwrite:0.6.0:*:*:*:*:*:*:*,Appwrite 0.6.0,['CVE-2021-23682'],2022-03-18T22:38Z
+6,cpe:2.3:a:appwrite:appwrite:0.6.1:*:*:*:*:*:*:*,Appwrite 0.6.1,['CVE-2021-23682'],2022-03-18T22:39Z
+7,cpe:2.3:a:appwrite:appwrite:0.6.2:*:*:*:*:*:*:*,Appwrite 0.6.2,['CVE-2021-23682'],2022-03-18T22:39Z
+8,cpe:2.3:a:appwrite:appwrite:0.7.0:*:*:*:*:*:*:*,Appwrite 0.7.0,['CVE-2021-23682'],2022-03-18T22:39Z
+9,cpe:2.3:a:appwrite:appwrite:0.7.1:*:*:*:*:*:*:*,Appwrite 0.7.1,['CVE-2021-23682'],2022-03-18T22:39Z

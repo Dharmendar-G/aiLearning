@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:ehealth:6.3.2.08:*:*:*:*:*:*:*,Broadcom eHealth 6.3.2.08,"['CVE-2016-6152', 'CVE-2021-28246', 'CVE-2021-28248']",2022-03-19T12:18Z
+1,cpe:2.3:a:broadcom:ehealth:6.3.2.09:*:*:*:*:*:*:*,Broadcom eHealth 6.3.2.09,"['CVE-2016-6152', 'CVE-2021-28246', 'CVE-2021-28248']",2022-03-19T12:18Z
+2,cpe:2.3:a:broadcom:ehealth:6.3.2.10:*:*:*:*:*:*:*,Broadcom eHealth 6.3.2.10,"['CVE-2016-6152', 'CVE-2021-28246', 'CVE-2021-28248']",2022-03-19T12:18Z
+3,cpe:2.3:a:broadcom:ehealth:6.3.2.11:*:*:*:*:*:*:*,Broadcom eHealth 6.3.2.11,"['CVE-2016-6152', 'CVE-2021-28246', 'CVE-2021-28248']",2022-03-19T12:18Z
+4,cpe:2.3:a:broadcom:ehealth:6.3.2.12:*:*:*:*:*:*:*,Broadcom eHealth 6.3.2.12,"['CVE-2016-6152', 'CVE-2021-28246', 'CVE-2021-28248']",2022-03-19T12:18Z
+5,cpe:2.3:a:broadcom:ehealth_for_voice:4.0.3:*:*:*:*:*:*:*,Broadcom eHealth For Voice 4.0.3,[''],2022-03-19T12:18Z
+6,cpe:2.3:a:broadcom:ehealth_livehealth:5.7:*:*:*:*:*:*:*,Broadcom eHealth Live Health 5.7,[''],2022-03-19T12:19Z
+7,cpe:2.3:a:broadcom:ehealth_livehealth:6.0.0.0:*:*:*:*:*:*:*,Broadcom eHealth Live Health 6.0.0.0,[''],2022-03-19T12:19Z
+8,cpe:2.3:a:broadcom:ehealth_livehealth:6.1.0.0:*:*:*:*:*:*:*,Broadcom eHealth Live Health 6.1.0.0,[''],2022-03-19T12:19Z
+9,cpe:2.3:a:broadcom:ehealth_systemedge:4.1:*:*:*:*:*:*:*,Broadcom eHealth SystemEDGE 4.1,[''],2022-03-19T12:19Z

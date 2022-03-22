@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:alpinelinux:alpine_linux:3.10.1:*:*:*:*:*:*:*,Alpine Linux 3.10.1,[''],2022-03-18T15:02Z
+1,[0],[0],[0],[0]
+2,cpe:2.3:o:alpinelinux:alpine_linux:3.10.2:*:*:*:*:*:*:*,Alpine Linux 3.10.2,[''],2022-03-18T15:02Z
+3,cpe:2.3:a:alpinelinux:aports:-:*:*:*:*:alpine:*:*,Alpine Linux Aports for Alpine,['CVE-2021-36158'],2022-03-18T15:02Z
+4,cpe:2.3:a:alpinelinux:aports:0.2:*:*:*:*:alpine:*:*,Alpine Linux Aports 0.2 for Alpine,['CVE-2021-36158'],2022-03-18T15:02Z
+5,cpe:2.3:a:alpinelinux:aports:1.5:*:*:*:*:alpine:*:*,Alpine Linux Aports 1.5 for Alpine,['CVE-2021-36158'],2022-03-18T15:02Z
+6,cpe:2.3:a:alpinelinux:aports:1.5.1:*:*:*:*:alpine:*:*,Alpine Linux Aports 1.5.1 for Alpine,['CVE-2021-36158'],2022-03-18T15:03Z
+7,cpe:2.3:a:alpinelinux:aports:1.6:*:*:*:*:alpine:*:*,Alpine Linux Aports 1.6 for Alpine,['CVE-2021-36158'],2022-03-18T15:02Z
+8,cpe:2.3:a:alpinelinux:aports:1.7:*:*:*:*:alpine:*:*,Alpine Linux Aports 1.7 for Alpine,['CVE-2021-36158'],2022-03-18T15:03Z
+9,cpe:2.3:a:alpinelinux:aports:1.8:*:*:*:*:alpine:*:*,Alpine Linux Aports 1.8 for Alpine,['CVE-2021-36158'],2022-03-18T15:03Z

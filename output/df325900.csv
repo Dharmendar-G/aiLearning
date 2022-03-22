@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:nonstop_seeview_server_gateway:d42.00:*:*:*:*:*:*:*,HP NonStop SeeView Server Gateway D42.00,['CVE-2003-0458'],2022-03-21T15:23Z
+1,cpe:2.3:a:hp:nonstop_seeview_server_gateway:d42.01:*:*:*:*:*:*:*,HP NonStop SeeView Server Gateway D42.01,['CVE-2003-0458'],2022-03-21T15:23Z
+2,cpe:2.3:a:hp:nonstop_seeview_server_gateway:d43.00:*:*:*:*:*:*:*,HP NonStop SeeView Server Gateway D43.00,['CVE-2003-0458'],2022-03-21T15:23Z
+3,cpe:2.3:a:hp:nonstop_seeview_server_gateway:d43.01:*:*:*:*:*:*:*,HP NonStop SeeView Server Gateway D43.01,['CVE-2003-0458'],2022-03-21T15:23Z
+4,cpe:2.3:a:hp:nonstop_seeview_server_gateway:d43.02:*:*:*:*:*:*:*,HP NonStop SeeView Server Gateway D43.02,['CVE-2003-0458'],2022-03-21T15:24Z
+5,cpe:2.3:a:hp:nonstop_seeview_server_gateway:d44.00:*:*:*:*:*:*:*,HP NonStop SeeView Server Gateway D44.00,['CVE-2003-0458'],2022-03-21T15:24Z
+6,cpe:2.3:a:hp:nonstop_seeview_server_gateway:d44.01:*:*:*:*:*:*:*,HP NonStop SeeView Server Gateway D44.01,['CVE-2003-0458'],2022-03-21T15:24Z
+7,cpe:2.3:a:hp:nonstop_seeview_server_gateway:d44.02:*:*:*:*:*:*:*,HP NonStop SeeView Server Gateway D44.02,['CVE-2003-0458'],2022-03-21T15:24Z
+8,cpe:2.3:a:hp:nonstop_seeview_server_gateway:d45.00:*:*:*:*:*:*:*,HP NonStop SeeView Server Gateway D45.00,['CVE-2003-0458'],2022-03-21T15:24Z
+9,cpe:2.3:a:hp:nonstop_seeview_server_gateway:d45.01:*:*:*:*:*:*:*,HP NonStop SeeView Server Gateway D45.01,['CVE-2003-0458'],2022-03-21T15:24Z

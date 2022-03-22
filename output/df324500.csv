@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_enterprise_mfp_m776_t3u56a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise MFP M776 T3U56A,['CVE-2019-18914'],2022-03-21T15:05Z
+1,cpe:2.3:h:hp:laserjet_enterprise_p3015:ce526a:*:*:*:*:*:*:*,HP LaserJet Enterprise P3015 CE526A,"['CVE-2011-4161', 'CVE-2012-5221']",2022-03-21T15:05Z
+2,cpe:2.3:h:hp:laserjet_enterprises_cp5525_ce707a:-:*:*:*:*:*:*:*,HP LaserJet Enterprises CP5525 CE707A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:05Z
+3,cpe:2.3:h:hp:laserjet_enterprises_cp5525_ce708a:-:*:*:*:*:*:*:*,HP LaserJet Enterprises CP5525 CE708A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:05Z
+4,cpe:2.3:h:hp:laserjet_enterprises_cp5525_ce709a:-:*:*:*:*:*:*:*,HP LaserJet Enterprises CP5525 CE709A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:05Z
+5,cpe:2.3:h:hp:laserjet_flow_m525c:-:*:*:*:*:*:*:*,HP LaserJet flow M525c,"['CVE-2013-4828', 'CVE-2013-4829']",2022-03-21T15:05Z
+6,cpe:2.3:a:hp:laserjet_fonts:2.0.0:*:*:*:*:*:*:*,HP Laserjet Fonts 2.0.0,[''],2022-03-21T15:05Z
+7,cpe:2.3:h:hp:laserjet_m1522n_multifunction_printer:cc372a:*:*:*:*:*:*:*,HP LaserJet M1522n Multifunction Printer CC372A,['CVE-2013-6193'],2022-03-21T15:05Z
+8,cpe:2.3:h:hp:laserjet_m2727_multifunction_printer:cb532a:*:*:*:*:*:*:*,HP LaserJet M2727 Multifunction Printer CB532A,['CVE-2013-6193'],2022-03-21T15:05Z
+9,cpe:2.3:h:hp:laserjet_m2727_multifunction_printer:cb533a:*:*:*:*:*:*:*,HP LaserJet M2727 Multifunction Printer CB533A,['CVE-2013-6193'],2022-03-21T15:06Z

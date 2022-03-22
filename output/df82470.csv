@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bmc:remedy_smart_reporting:19.02.01:*:*:*:*:*:*:*,BMC Remedy Smart Reporting 19.02.01,['CVE-2019-11216'],2022-03-19T09:11Z
+1,cpe:2.3:a:bmc:remedy_smart_reporting:19.11:*:*:*:*:*:*:*,BMC Remedy Smart Reporting 19.11,[''],2022-03-19T09:11Z
+2,cpe:2.3:a:bmc:remedy_smart_reporting:20.02:*:*:*:*:*:*:*,BMC Remedy Smart Reporting 20.02,[''],2022-03-19T09:11Z
+3,cpe:2.3:a:bmc:remedy_smart_reporting:20.08:*:*:*:*:*:*:*,BMC Remedy Smart Reporting 20.08,[''],2022-03-19T09:11Z
+4,cpe:2.3:a:bmc:server_automation:8.6:sp1_patch_1:*:*:*:*:*:*,BMC Server Automation 8.6 Service Pack 1 Patch 1,['CVE-2016-5063'],2022-03-19T09:11Z
+5,cpe:2.3:a:bmc:server_automation:8.6:sp1_patch_2:*:*:*:*:*:*,BMC Server Automation 8.6 Service Pack 1 Patch 2,[''],2022-03-19T09:11Z
+6,cpe:2.3:a:bmc:server_automation:8.7:patch_2:*:*:*:*:*:*,BMC Server Automation 8.7 Patch 2,['CVE-2016-5063'],2022-03-19T09:11Z
+7,cpe:2.3:a:bmc:server_automation:8.7:patch_3:*:*:*:*:*:*,BMC Server Automation 8.7 Patch 3,[''],2022-03-19T09:11Z
+8,cpe:2.3:a:bmc:service_desk_express:10.2.1.95:*:*:*:*:*:*:*,BMC Service Desk Express (SDE) 10.2.1.95,"['CVE-2013-4945', 'CVE-2013-4946']",2022-03-19T09:11Z
+9,cpe:2.3:a:bmc:software_control-m_agent:-:*:*:*:*:*:*:*,BMC Software Software Control-M Agent,[''],2022-03-19T09:11Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:authelia:authelia:3.6.0:*:*:*:*:*:*:*,Authelia 3.6.0,['CVE-2021-29456'],2022-03-19T03:22Z
+1,cpe:2.3:a:authelia:authelia:3.7.0:*:*:*:*:*:*:*,Authelia 3.7.0,['CVE-2021-29456'],2022-03-19T03:22Z
+2,cpe:2.3:a:authelia:authelia:3.7.1:*:*:*:*:*:*:*,Authelia 3.7.1,['CVE-2021-29456'],2022-03-19T03:22Z
+3,cpe:2.3:a:authelia:authelia:3.8.0:*:*:*:*:*:*:*,Authelia 3.8.0,['CVE-2021-29456'],2022-03-19T03:22Z
+4,cpe:2.3:a:authelia:authelia:3.8.1:*:*:*:*:*:*:*,Authelia 3.8.1,['CVE-2021-29456'],2022-03-19T03:22Z
+5,cpe:2.3:a:authelia:authelia:3.8.2:*:*:*:*:*:*:*,Authelia 3.8.2,['CVE-2021-29456'],2022-03-19T03:22Z
+6,cpe:2.3:a:authelia:authelia:3.8.3:*:*:*:*:*:*:*,Authelia 3.8.3,['CVE-2021-29456'],2022-03-19T03:22Z
+7,cpe:2.3:a:authelia:authelia:3.9.0:*:*:*:*:*:*:*,Authelia 3.9.0,['CVE-2021-29456'],2022-03-19T03:22Z
+8,cpe:2.3:a:authelia:authelia:3.9.1:*:*:*:*:*:*:*,Authelia 3.9.1,['CVE-2021-29456'],2022-03-19T03:22Z
+9,cpe:2.3:a:authelia:authelia:3.9.2:*:*:*:*:*:*:*,Authelia 3.9.2,['CVE-2021-29456'],2022-03-19T03:22Z

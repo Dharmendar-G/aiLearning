@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:rational_developer_for_system_z:8.5.0:*:*:*:*:*:*:*,IBM Rational Developer for System z 8.5.0,['CVE-2012-4862'],2022-03-21T21:41Z
+1,cpe:2.3:a:ibm:rational_developer_for_system_z:8.5.0.1:*:*:*:*:*:*:*,IBM Rational Developer for System z 8.5.0.1,['CVE-2012-4862'],2022-03-21T21:41Z
+2,cpe:2.3:a:ibm:rational_developer_for_system_z:8.5.1:*:*:*:*:*:*:*,IBM Rational Developer for System z 8.5.1,['CVE-2012-4862'],2022-03-21T21:41Z
+3,cpe:2.3:a:ibm:rational_directory_administrator:6.0:*:*:*:*:*:*:*,IBM Rational Directory Administrator 6.0,['CVE-2014-3089'],2022-03-21T21:41Z
+4,cpe:2.3:a:ibm:rational_directory_administrator:6.0.0.1:*:*:*:*:*:*:*,IBM Rational Directory Administrator 6.0.0.1,['CVE-2014-3089'],2022-03-21T21:41Z
+5,cpe:2.3:a:ibm:rational_directory_server:-:*:*:*:*:*:*:*,IBM Rational Directory Server,"['CVE-2012-2191', 'CVE-2012-2203', 'CVE-2013-0599']",2022-03-21T21:41Z
+6,cpe:2.3:a:ibm:rational_directory_server:5.1.1:*:*:*:*:*:*:*,IBM Rational Directory Server 5.1.1,"['CVE-2012-2191', 'CVE-2012-2203', 'CVE-2013-0599', 'CVE-2014-3089']",2022-03-21T21:41Z
+7,cpe:2.3:a:ibm:rational_directory_server:5.1.1.1:*:*:*:*:*:*:*,IBM Rational Directory Server 5.1.1.1,"['CVE-2012-2191', 'CVE-2012-2203', 'CVE-2013-0599', 'CVE-2014-3089']",2022-03-21T21:41Z
+8,cpe:2.3:a:ibm:rational_directory_server:5.1.1.2:*:*:*:*:*:*:*,IBM Rational Directory Server 5.1.1.2,"['CVE-2012-2191', 'CVE-2012-2203', 'CVE-2013-0599', 'CVE-2014-3089']",2022-03-21T21:41Z
+9,cpe:2.3:a:ibm:rational_directory_server:5.2:*:*:*:*:*:*:*,IBM Rational Directory Server 5.2,"['CVE-2012-2191', 'CVE-2012-2203', 'CVE-2013-0599', 'CVE-2014-3089']",2022-03-21T21:41Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:premiere_pro:14.1:*:*:*:*:*:*:*,Adobe Premiere Pro 14.1,"['CVE-2020-24424', 'CVE-2020-9616', 'CVE-2020-9652', 'CVE-2020-9653', 'CVE-2020-9654', 'CVE-2021-35997', 'CVE-2021-40710', 'CVE-2021-40715', 'CVE-2021-42723']",2022-03-18T12:48Z
+1,cpe:2.3:a:adobe:premiere_pro:14.2:*:*:*:*:*:*:*,Adobe Premiere Pro 14.2,"['CVE-2020-24424', 'CVE-2020-9652', 'CVE-2020-9653', 'CVE-2020-9654', 'CVE-2021-35997', 'CVE-2021-40710', 'CVE-2021-40715', 'CVE-2021-42723']",2022-03-18T12:48Z
+2,cpe:2.3:a:adobe:premiere_pro:14.4:*:*:*:*:*:*:*,Adobe Premiere Pro 14.4,"['CVE-2020-24424', 'CVE-2021-35997', 'CVE-2021-40710', 'CVE-2021-40715', 'CVE-2021-42723']",2022-03-18T12:48Z
+3,cpe:2.3:a:adobe:premiere_pro:15.4:*:*:*:*:*:*:*,Adobe Premiere Pro 15.4,"['CVE-2021-40710', 'CVE-2021-40715', 'CVE-2021-42723']",2022-03-18T12:48Z
+4,cpe:2.3:a:adobe:premiere_pro_cc:-:*:*:*:*:*:*:*,Adobe Premiere Pro CC,['CVE-2019-7931'],2022-03-18T12:48Z
+5,cpe:2.3:a:adobe:premiere_pro_cc:13.1.2:*:*:*:*:*:*:*,Adobe Premiere Pro CC 13.1.2,['CVE-2019-7931'],2022-03-18T12:48Z
+6,cpe:2.3:a:adobe:premiere_pro_cs3:3.0.1:*:*:*:*:*:*:*,Adobe Premiere Pro CS3 3.0.1,[''],2022-03-18T12:48Z
+7,cpe:2.3:a:adobe:premiere_pro_cs3:3.1:*:*:*:*:*:*:*,Adobe Premiere Pro CS3 3.1,[''],2022-03-18T12:48Z
+8,cpe:2.3:a:adobe:premiere_pro_cs3:3.1.1:*:*:*:*:*:*:*,Adobe Premiere Pro CS3 3.1.1,[''],2022-03-18T12:48Z
+9,cpe:2.3:a:adobe:premiere_pro_cs3:3.2:*:*:*:*:*:*:*,Adobe Premiere Pro CS3 3.2,[''],2022-03-18T12:48Z

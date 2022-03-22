@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:debian:postgresql-common:8:*:*:*:*:*:*:*,Debian postgresql-common 8,['CVE-2016-1255'],2022-03-20T11:50Z
+1,cpe:2.3:a:debian:postgresql-common:9:*:*:*:*:*:*:*,Debian postgresql-common 9,['CVE-2016-1255'],2022-03-20T11:51Z
+2,cpe:2.3:a:debian:postgresql-common:10:*:*:*:*:*:*:*,Debian postgresql-common 10,['CVE-2016-1255'],2022-03-20T11:51Z
+3,cpe:2.3:a:debian:postgresql-common:11:*:*:*:*:*:*:*,Debian postgresql-common 11,['CVE-2016-1255'],2022-03-20T11:51Z
+4,cpe:2.3:a:debian:postgresql-common:12:*:*:*:*:*:*:*,Debian postgresql-common 12,['CVE-2016-1255'],2022-03-20T11:51Z
+5,cpe:2.3:a:debian:postgresql-common:13:*:*:*:*:*:*:*,Debian postgresql-common 13,['CVE-2016-1255'],2022-03-20T11:51Z
+6,cpe:2.3:a:debian:postgresql-common:14:*:*:*:*:*:*:*,Debian postgresql-common 14,['CVE-2016-1255'],2022-03-20T11:51Z
+7,cpe:2.3:a:debian:postgresql-common:15:*:*:*:*:*:*:*,Debian postgresql-common 15,['CVE-2016-1255'],2022-03-20T11:51Z
+8,cpe:2.3:a:debian:postgresql-common:16:*:*:*:*:*:*:*,Debian postgresql-common 16,['CVE-2016-1255'],2022-03-20T11:51Z
+9,cpe:2.3:a:debian:postgresql-common:17:*:*:*:*:*:*:*,Debian postgresql-common 17,['CVE-2016-1255'],2022-03-20T11:51Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:appspace:on-prem:4.2.2:*:*:*:*:*:*:*,Appspace On-Prem 4.2.2,['CVE-2020-5393'],2022-03-18T22:38Z
+1,cpe:2.3:a:appspace:on-prem:5.0.5:*:*:*:*:*:*:*,Appspace On-Prem 5.0.5,['CVE-2020-5393'],2022-03-18T22:38Z
+2,cpe:2.3:a:appspace:on-prem:5.1.2:*:*:*:*:*:*:*,Appspace On-Prem 5.1.2,['CVE-2020-5393'],2022-03-18T22:38Z
+3,cpe:2.3:a:appspace:on-prem:5.2.3:*:*:*:*:*:*:*,Appspace On-Prem 5.2.3,['CVE-2020-5393'],2022-03-18T22:38Z
+4,cpe:2.3:a:appspace:on-prem:5.5.5:*:*:*:*:*:*:*,Appspace On-Prem 5.5.5,['CVE-2020-5393'],2022-03-18T22:38Z
+5,cpe:2.3:a:appspace:on-prem:5.8.0:*:*:*:*:*:*:*,Appspace On-Prem 5.8.0,['CVE-2020-5393'],2022-03-18T22:38Z
+6,cpe:2.3:a:appspace:on-prem:6.0.3:*:*:*:*:*:*:*,Appspace On-Prem 6.0.3,['CVE-2020-5393'],2022-03-18T22:38Z
+7,cpe:2.3:a:appspace:on-prem:6.1.0:*:*:*:*:*:*:*,Appspace On-Prem 6.1.0,['CVE-2020-5393'],2022-03-18T22:38Z
+8,cpe:2.3:a:appspace:on-prem:6.2.4:*:*:*:*:*:*:*,Appspace On-Prem 6.2.4,['CVE-2020-5393'],2022-03-18T22:38Z
+9,cpe:2.3:a:appspace:on-prem:7.0.1:*:*:*:*:*:*:*,Appspace On-Prem 7.0.1,['CVE-2020-5393'],2022-03-18T22:38Z

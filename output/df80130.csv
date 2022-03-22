@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blackfire:blackfire:2020-12-14:*:*:*:*:*:*:*,Blackfire 2020-12-14,['CVE-2020-35466'],2022-03-19T08:39Z
+1,cpe:2.3:h:blackview:bv7000_pro:-:*:*:*:*:*:*:*,Blackview BV7000 Pro,['CVE-2019-15421'],2022-03-19T08:39Z
+2,cpe:2.3:o:blackview:bv7000_pro_firmware:-:*:*:*:*:*:*:*,Blackview BV7000 Pro Firmware,['CVE-2019-15421'],2022-03-19T08:39Z
+3,cpe:2.3:h:blackview:bv9000pro-f:-:*:*:*:*:*:*:*,Blackview BV9000Pro-F,['CVE-2019-15420'],2022-03-19T08:39Z
+4,cpe:2.3:o:blackview:bv9000pro-f_firmware:-:*:*:*:*:*:*:*,Blackview BV9000Pro-F Firmware,['CVE-2019-15420'],2022-03-19T08:39Z
+5,cpe:2.3:a:blackwave:dive_assistant:8.0:*:*:*:desktop:*:*:*,Blackwave Dive Assistant 8.0 Desktop Edition,['CVE-2017-8918'],2022-03-19T08:39Z
+6,cpe:2.3:a:bladeenc:bladeenc:0.94.2:*:*:*:*:*:*:*,BladeEnc 0.94.2,"['CVE-2003-0075', 'CVE-2017-14648']",2022-03-19T08:39Z
+7,cpe:2.3:a:blade-group:shadow:-:*:*:*:*:*:*:*,Blade Shadow,['CVE-2019-16110'],2022-03-19T08:39Z
+8,cpe:2.3:a:blade-group:shadow:2.13.3:*:*:*:*:*:*:*,Blade Shadow 2.13.3,['CVE-2019-16110'],2022-03-19T08:39Z
+9,cpe:2.3:a:blaine_lang:filedepot:6.x-1.0:*:*:*:*:*:*:*,Blaine Lang filedepot module for Drupal 6.x-1.0,['CVE-2012-2719'],2022-03-19T08:39Z

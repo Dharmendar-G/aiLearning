@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:automattic:wp_super_cache:1.7.2:*:*:*:*:wordpress:*:*,Automattic WP Super Cache 1.7.2 for WordPress,"['CVE-2021-24312', 'CVE-2021-24329']",2022-03-19T03:51Z
+1,cpe:2.3:a:automattic:wp_super_cache:1.7.3:*:*:*:*:wordpress:*:*,Automattic WP Super Cache 1.7.3 for WordPress,[''],2022-03-19T03:51Z
+2,cpe:2.3:a:automon:alisha_marie:1.4.0.6:*:*:*:*:android:*:*,automon Alisha Marie (Unofficial) for android 1.4.0.6,['CVE-2014-6942'],2022-03-19T03:51Z
+3,cpe:2.3:a:automon:ledline.gr_official:1.4.0.9:*:*:*:*:android:*:*,automon LedLine.gr Official (aka com.automon.ledline.gr) for android 1.4.0.9,['CVE-2014-6852'],2022-03-19T03:51Z
+4,cpe:2.3:a:automon:marcus_butler_unofficial:1.4.0.6:*:*:*:*:android:*:*,automon Marcus Butler Unofficial (aka com.automon.ay.marcus.butler) for android 1.4.0.6,['CVE-2014-7568'],2022-03-19T03:51Z
+5,cpe:2.3:a:automon:mikeius:1.4.2.0:*:*:*:*:android:*:*,automon Mikeius (Official App) for android 1.4.2.0,['CVE-2014-6727'],2022-03-19T03:51Z
+6,cpe:2.3:a:automon:zoella_unofficial:1.4.0.5:*:*:*:*:android:*:*,automon Zoella Unofficial (aka com.automon.ay.zoella) for android 1.4.0.5,['CVE-2014-7455'],2022-03-19T03:51Z
+7,cpe:2.3:a:automox:automox:-:*:*:*:*:*:*:*,Automox Automox,"['CVE-2021-26908', 'CVE-2021-26909', 'CVE-2021-43326']",2022-03-19T03:51Z
+8,cpe:2.3:a:automox:automox:31:*:*:*:*:*:*:*,Automox Automox 31,['CVE-2021-43326'],2022-03-19T03:51Z
+9,cpe:2.3:a:automox:automox:32:*:*:*:*:*:*:*,Automox 32,[''],2022-03-19T03:51Z

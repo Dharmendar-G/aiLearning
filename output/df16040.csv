@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:2.5:*:*:*:*:jenkins:*:*,Agiletestware Pangolin Connector for TestRail 2.5 for Jenkins,[''],2022-03-18T13:45Z
+1,cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:2.6:*:*:*:*:jenkins:*:*,Agiletestware Pangolin Connector for TestRail 2.6 for Jenkins,[''],2022-03-18T13:45Z
+2,cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:2.7:*:*:*:*:jenkins:*:*,Agiletestware Pangolin Connector for TestRail 2.7 for Jenkins,[''],2022-03-18T13:45Z
+3,cpe:2.3:a:ag-klettern-odenwald:ag_klettern_odenwald:1.2:*:*:*:*:android:*:*,ag-klettern-odenwald AG Klettern Odenwald (aka de.appack.project.agko) for android 1.2,['CVE-2014-7468'],2022-03-18T13:45Z
+4,cpe:2.3:a:agnitum:outpost_security_suite:6.7.3.3063.452.0726:-:professional:*:*:*:*:*,Agnitum Outpost Security Suite Pro 6.7.3.3063.452.0726,['CVE-2010-5171'],2022-03-18T13:45Z
+5,cpe:2.3:a:agnitum:outpost_security_suite:7.0.3330.505.1221:beta:professional:*:*:*:*:*,Agnitum Outpost Security Suite Pro 7.0.3330.505.1221 BETA,['CVE-2010-5171'],2022-03-18T13:45Z
+6,cpe:2.3:a:agora:video_software_development_kit:-:*:*:*:*:*:*:*,Agora Video Software Development Kit,['CVE-2020-25605'],2022-03-18T13:45Z
+7,cpe:2.3:a:agora:video_software_development_kit:3.1:*:*:*:*:*:*:*,Agora Video Software Development Kit 3.1,[''],2022-03-18T13:45Z
+8,cpe:2.3:a:agora:video_software_development_kit:3.1.2:*:*:*:*:*:*:*,Agora Video Software Development Kit 3.1.2,[''],2022-03-18T13:45Z
+9,cpe:2.3:a:agora-project:agora-project:3.2.2:*:*:*:*:*:*:*,Agora-Project 3.2.2,"['CVE-2017-6559', 'CVE-2017-6560', 'CVE-2017-6561', 'CVE-2017-6562']",2022-03-18T13:45Z

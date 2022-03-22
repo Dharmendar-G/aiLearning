@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dlink:dcs-7510:-:*:*:*:*:*:*:*,D-Link DCS-7510,"['CVE-2013-1599', 'CVE-2013-1601', 'CVE-2013-1602', 'CVE-2013-1603']",2022-03-20T15:43Z
+1,cpe:2.3:o:dlink:dcs-7510_firmware:1.00:*:*:*:*:*:*:*,D-Link DCS-7510 Firmware 1.00,"['CVE-2013-1599', 'CVE-2013-1601', 'CVE-2013-1602', 'CVE-2013-1603']",2022-03-20T15:43Z
+2,cpe:2.3:o:dlink:dcs-8100lh_firmware:1.00:*:*:*:*:*:*:*,D-Link DCS-8100LH Firmware 1.00,[''],2022-03-20T15:43Z
+3,cpe:2.3:o:dlink:dcs-8100lh_firmware:1.02:*:*:*:*:*:*:*,D-Link DCS-8100LH Firmware 1.02,[''],2022-03-20T15:43Z
+4,cpe:2.3:o:dlink:dcs-8100lh_firmware:1.04:*:*:*:*:*:*:*,D-Link DCS-8100LH Firmware 1.04,[''],2022-03-20T15:43Z
+5,cpe:2.3:o:dlink:dcs-8100lh_firmware:1.05:*:*:*:*:*:*:*,D-Link DCS-8100LH Firmware 1.05,[''],2022-03-20T15:43Z
+6,cpe:2.3:o:dlink:dcs-8100lh_firmware:1.06:*:*:*:*:*:*:*,D-Link DCS-8100LH Firmware 1.06,[''],2022-03-20T15:43Z
+7,cpe:2.3:o:dlink:dcs-8100lh_firmware:1.08:*:*:*:*:*:*:*,D-Link DCS-8100LH Firmware 1.08,[''],2022-03-20T15:43Z
+8,cpe:2.3:o:dlink:dcs-8100lh_firmware:1.09:*:*:*:*:*:*:*,D-Link DCS-8100LH Firmware 1.09,[''],2022-03-20T15:43Z
+9,cpe:2.3:o:dlink:dcs-8100lh_firmware:1.14:*:*:*:*:*:*:*,D-Link DCS-8100LH Firmware 1.14,[''],2022-03-20T15:43Z

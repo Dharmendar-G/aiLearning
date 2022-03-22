@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:advanced_malware_protection:4.0\(0\):*:*:*:*:*:*:*,Cisco Advanced Malware Protection (AMP) 4.0(0),"['CVE-2017-12317', 'CVE-2020-14418']",2022-03-19T18:11Z
+1,cpe:2.3:a:cisco:advanced_malware_protection:4.0\(1\):*:*:*:*:*:*:*,Cisco Advanced Malware Protection (AMP) 4.0(1),"['CVE-2017-12317', 'CVE-2020-14418']",2022-03-19T18:12Z
+2,cpe:2.3:a:cisco:advanced_malware_protection:4.0\(2\):*:*:*:*:*:*:*,Cisco Advanced Malware Protection (AMP) 4.0(2),"['CVE-2017-12317', 'CVE-2020-14418']",2022-03-19T18:11Z
+3,cpe:2.3:a:cisco:advanced_malware_protection:4.1\(0\):*:*:*:*:*:*:*,Cisco Advanced Malware Protection (AMP) 4.1(0),"['CVE-2017-12317', 'CVE-2020-14418']",2022-03-19T18:12Z
+4,cpe:2.3:a:cisco:advanced_malware_protection:4.1\(1\):*:*:*:*:*:*:*,Cisco Advanced Malware Protection (AMP) 4.1(1),"['CVE-2017-12317', 'CVE-2020-14418']",2022-03-19T18:12Z
+5,cpe:2.3:a:cisco:advanced_malware_protection:4.1\(4\):*:*:*:*:*:*:*,Cisco Advanced Malware Protection (AMP) 4.1(4),"['CVE-2017-12317', 'CVE-2020-14418']",2022-03-19T18:12Z
+6,cpe:2.3:a:cisco:advanced_malware_protection:4.2\(0\):*:*:*:*:*:*:*,Cisco Advanced Malware Protection (AMP) 4.2(0),"['CVE-2017-12317', 'CVE-2020-14418']",2022-03-19T18:12Z
+7,cpe:2.3:a:cisco:advanced_malware_protection:4.2\(1\):*:*:*:*:*:*:*,Cisco Advanced Malware Protection (AMP) 4.2(1),"['CVE-2017-12317', 'CVE-2020-14418']",2022-03-19T18:12Z
+8,cpe:2.3:a:cisco:advanced_malware_protection:4.3\(0\):*:*:*:*:*:*:*,Cisco Advanced Malware Protection (AMP) 4.3(0),"['CVE-2017-12317', 'CVE-2020-14418']",2022-03-19T18:12Z
+9,cpe:2.3:a:cisco:advanced_malware_protection:4.3\(1\):*:*:*:*:*:*:*,Cisco Advanced Malware Protection (AMP) 4.3(1),"['CVE-2017-12317', 'CVE-2020-14418']",2022-03-19T18:12Z

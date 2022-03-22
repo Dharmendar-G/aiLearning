@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cached_project:cached:0.16.0:*:*:*:*:rust:*:*,cached Project cached 0.16.0 for Rust,[''],2022-03-19T14:26Z
+1,cpe:2.3:a:cached_project:cached:0.17.0:*:*:*:*:rust:*:*,cached Project cached 0.17.0 for Rust,[''],2022-03-19T14:26Z
+2,cpe:2.3:a:cached_project:cached:0.18.0:*:*:*:*:rust:*:*,cached Project cached 0.18.0 for Rust,[''],2022-03-19T14:26Z
+3,cpe:2.3:a:cached_project:cached:0.19.0:*:*:*:*:rust:*:*,cached Project cached 0.19.0 for Rust,[''],2022-03-19T14:26Z
+4,cpe:2.3:a:cached_project:cached:0.20.0:*:*:*:*:rust:*:*,cached Project cached 0.20.0 for Rust,[''],2022-03-19T14:26Z
+5,cpe:2.3:a:cached_project:cached:0.21.0:*:*:*:*:rust:*:*,cached Project cached 0.21.0 for Rust,[''],2022-03-19T14:26Z
+6,cpe:2.3:a:cached_project:cached:0.21.1:*:*:*:*:rust:*:*,cached Project cached 0.21.1 for Rust,[''],2022-03-19T14:27Z
+7,cpe:2.3:a:cached_project:cached:0.22.0:*:*:*:*:rust:*:*,cached Project cached 0.22.0 for Rust,[''],2022-03-19T14:27Z
+8,cpe:2.3:a:cached_project:cached:0.23.0:*:*:*:*:rust:*:*,cached Project cached 0.23.0 for Rust,[''],2022-03-19T14:27Z
+9,cpe:2.3:a:cached-path-relative_project:cached-path-relative:1.0.0:*:*:*:*:node.js:*:*,cached-path-relative Project cached-path-relative 1.0.0 for Node.js,"['CVE-2018-16472', 'CVE-2021-23518']",2022-03-19T14:27Z

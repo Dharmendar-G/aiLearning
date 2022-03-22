@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dahuasecurity:ipc-hdw2xxx_firmware:-:*:*:*:*:*:*:*,Dahuasecurity IPC-HDW2xxx Firmware -,['CVE-2017-9315'],2022-03-20T09:55Z
+1,cpe:2.3:h:dahuasecurity:ipc-hdw4300s:-:*:*:*:*:*:*:*,Dahua Technology USA Inc IPC-HDW4300S,['CVE-2017-9316'],2022-03-20T09:55Z
+2,cpe:2.3:o:dahuasecurity:ipc-hdw4300s_firmware:2.240.0009.0.r.20131015:*:*:*:*:*:*:*,Dahua Security IPC-HDW4300S Firmware 2.240.0009.0.r.20131015,['CVE-2017-9316'],2022-03-20T09:55Z
+3,cpe:2.3:o:dahuasecurity:ipc-hdw4300s_firmware:2.400.0000.0.r.20131231:*:*:*:*:*:*:*,Dahua Security IPC-HDW4300S Firmware 2.400.0000.0.r.20131231,['CVE-2017-9316'],2022-03-20T09:55Z
+4,cpe:2.3:o:dahuasecurity:ipc-hdw4300s_firmware:2.420.0000.0.r.20140419:*:*:*:*:*:*:*,Dahua Security IPC-HDW4300S Firmware 2.420.0000.0.r.20140419,['CVE-2017-9316'],2022-03-20T09:55Z
+5,cpe:2.3:o:dahuasecurity:ipc-hdw4300s_firmware:2.420.0002.0.r.20140621:*:*:*:*:*:*:*,Dahua Security IPC-HDW4300S Firmware 2.420.0002.0.r.20140621,['CVE-2017-9316'],2022-03-20T09:55Z
+6,cpe:2.3:o:dahuasecurity:ipc-hdw4300s_firmware:2.420.0002.0.r.20140724:*:*:*:*:*:*:*,Dahua Security IPC-HDW4300S Firmware 2.420.0002.0.r.20140724,['CVE-2017-9316'],2022-03-20T09:56Z
+7,cpe:2.3:o:dahuasecurity:ipc-hdw4300s_firmware:2.420.0005.0.r.20141205:*:*:*:*:*:*:*,Dahua Security IPC-HDW4300S Firmware 2.420.0005.0.r.20141205,['CVE-2017-9316'],2022-03-20T09:56Z
+8,cpe:2.3:o:dahuasecurity:ipc-hdw4300s_firmware:2.420.0006.0.r.20150311:*:*:*:*:*:*:*,Dahua Security IPC-HDW4300S Firmware 2.420.0006.0.r.20150311,['CVE-2017-9316'],2022-03-20T09:56Z
+9,cpe:2.3:o:dahuasecurity:ipc-hdw4300s_firmware:2.420.0007.0.r.20150409:*:*:*:*:*:*:*,Dahua Security IPC-HDW4300S Firmware 2.420.0007.0.r.20150409,['CVE-2017-9316'],2022-03-20T09:56Z

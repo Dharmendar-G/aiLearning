@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:citrix:secure_hub:20.11.0:*:*:*:*:android:*:*,Citrix Secure Hub 20.11.0 for Android,[''],2022-03-20T01:36Z
+1,cpe:2.3:a:citrix:secure_hub:20.12.0:*:*:*:*:-:*:*,Citrix Secure Hub 20.12.0,[''],2022-03-20T01:36Z
+2,cpe:2.3:a:citrix:secure_hub:20.12.0:*:*:*:*:android:*:*,Citrix Secure Hub 20.12.0 for Android,[''],2022-03-20T01:36Z
+3,cpe:2.3:a:citrix:secure_hub:20.12.0:*:*:*:*:ios:*:*,Citrix Secure Hub 20.12.0 for iOS,[''],2022-03-20T01:36Z
+4,cpe:2.3:a:citrix:secure_hub:21.1.0:*:*:*:*:-:*:*,Citrix Secure Hub 21.1.0,[''],2022-03-20T01:36Z
+5,cpe:2.3:a:citrix:secure_hub:21.2.0:*:*:*:*:-:*:*,Citrix Secure Hub 21.2.0,[''],2022-03-20T01:36Z
+6,cpe:2.3:a:citrix:secure_hub:21.2.0:*:*:*:*:android:*:*,Citrix Secure Hub 21.2.0 for Android,[''],2022-03-20T01:36Z
+7,cpe:2.3:a:citrix:secure_hub:21.3.0:*:*:*:*:-:*:*,Citrix Secure Hub 21.3.0,[''],2022-03-20T01:36Z
+8,cpe:2.3:a:citrix:secure_hub:21.3.2:*:*:*:*:-:*:*,Citrix Secure Hub 21.3.2,[''],2022-03-20T01:36Z
+9,cpe:2.3:a:citrix:secure_hub:21.3.2:*:*:*:*:ios:*:*,Citrix Secure Hub 21.3.2 for iOS,[''],2022-03-20T01:36Z

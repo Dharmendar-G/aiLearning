@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:cayenne:4.2:milestone2:*:*:*:*:*:*,Apache Software Foundation Cayenne 4.2 Milestone 2,[''],2022-03-18T17:55Z
+1,cpe:2.3:a:apache:cayenne:4.2:milestone3:*:*:*:*:*:*,Apache Software Foundation Cayenne 4.2 Milestone 3,[''],2022-03-18T17:55Z
+2,cpe:2.3:a:apache:chainsaw:-:*:*:*:*:*:*:*,Apache Software Foundation Chainsaw,"['CVE-2020-9493', 'CVE-2022-23307']",2022-03-18T17:55Z
+3,cpe:2.3:a:apache:chainsaw:2.0.0:*:*:*:*:*:*:*,Apache Software Foundation Chainsaw 2.0.0,"['CVE-2020-9493', 'CVE-2022-23307']",2022-03-18T17:55Z
+4,cpe:2.3:a:apache:chainsaw:2.0.0:rc1:*:*:*:*:*:*,Apache Software Foundation Chainsaw 2.0.0 Release Candidate 1,"['CVE-2020-9493', 'CVE-2022-23307']",2022-03-18T17:55Z
+5,cpe:2.3:a:apache:chainsaw:2.0.0:rc2:*:*:*:*:*:*,Apache Software Foundation Chainsaw 2.0.0 Release Candidate 2,"['CVE-2020-9493', 'CVE-2022-23307']",2022-03-18T17:55Z
+6,cpe:2.3:a:apache:chainsaw:2.1.0:*:*:*:*:*:*:*,Apache Software Foundation Chainsaw 2.1.0,[''],2022-03-18T17:55Z
+7,cpe:2.3:a:apache:chainsaw:2.1.0:rc1:*:*:*:*:*:*,Apache Software Foundation Chainsaw 2.1.0 Release Candidate 1,[''],2022-03-18T17:55Z
+8,cpe:2.3:a:apache:chainsaw:2.1.0:rc2:*:*:*:*:*:*,Apache Software Foundation Chainsaw 2.1.0 Release Candidate 2,[''],2022-03-18T17:55Z
+9,cpe:2.3:a:apache:cloudstack:2.0:-:community:*:*:*:*:*,Apache Software Foundation CloudStack 2.0 Community Edition,"['CVE-2013-2136', 'CVE-2013-6398', 'CVE-2014-0031', 'CVE-2014-9593', 'CVE-2015-3252', 'CVE-2019-17562']",2022-03-18T17:55Z

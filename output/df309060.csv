@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hcltech:hcl_inotes:10.0.1:fixpack5:*:*:*:*:*:*,HCL Technologies HCL iNotes 10.0.1 Fixpack 5,"['CVE-2020-14271', 'CVE-2020-4126']",2022-03-21T10:27Z
+1,cpe:2.3:a:hcltech:hcl_inotes:10.0.1:fixpack6:*:*:*:*:*:*,HCL Technologies HCL iNotes 10.0.1 Fixpack 6,[''],2022-03-21T10:27Z
+2,cpe:2.3:a:hcltech:hcl_inotes:11.0.0:*:*:*:*:*:*:*,HCL Technologies HCL iNotes 11.0.0,"['CVE-2020-14225', 'CVE-2020-14271', 'CVE-2020-4126']",2022-03-21T10:27Z
+3,cpe:2.3:a:hcltech:hcl_inotes:11.0.1:-:*:*:*:*:*:*,HCL Technologies HCL iNotes 11.0.1,"['CVE-2020-14271', 'CVE-2020-4126']",2022-03-21T10:27Z
+4,cpe:2.3:a:hcltech:hcl_inotes:11.0.1:fixpack1:*:*:*:*:*:*,HCL Technologies HCL iNotes 11.0.1 Fixpack 1,"['CVE-2020-14271', 'CVE-2020-4126']",2022-03-21T10:27Z
+5,cpe:2.3:a:hcltech:hcl_inotes:11.0.1:fixpack2:*:*:*:*:*:*,HCL Technologies HCL iNotes 11.0.1 Fixpack 2,[''],2022-03-21T10:27Z
+6,cpe:2.3:a:hcltech:hcl_nomad:1.0:*:*:*:*:android:*:*,HCL Technology HCL Nomad 1.0 for Android,['CVE-2020-4092'],2022-03-21T10:27Z
+7,cpe:2.3:a:hcltech:hcl_nomad:1.0:*:*:*:*:iphone_os:*:*,HCL Technology HCL Nomad 1.0 for iPhone OS,['CVE-2020-4092'],2022-03-21T10:27Z
+8,cpe:2.3:a:hcltech:hcl_nomad:1.0.1:*:*:*:*:android:*:*,HCL Technology HCL Nomad 1.0.1 for Android,['CVE-2020-4092'],2022-03-21T10:27Z
+9,cpe:2.3:a:hcltech:hcl_nomad:1.0.1:*:*:*:*:iphone_os:*:*,HCL Technology HCL Nomad 1.0.1 for iPhone OS,['CVE-2020-4092'],2022-03-21T10:27Z

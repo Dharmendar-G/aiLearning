@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:bluecoat:proxysg_sg210-25:-:-:acceleration:*:*:*:*:*,Blue Coat Systems SG210-25 (210 series) Acceleration Edition,"['CVE-2009-1211', 'CVE-2010-5189', 'CVE-2010-5190', 'CVE-2010-5192']",2022-03-19T08:51Z
+1,cpe:2.3:h:bluecoat:proxysg_sg210-25:-:-:full_proxy:*:*:*:*:*,Blue Coat Systems SG210-25 (210 series) Full Proxy Edition,"['CVE-2009-1211', 'CVE-2010-5189', 'CVE-2010-5190', 'CVE-2010-5192']",2022-03-19T08:51Z
+2,cpe:2.3:h:bluecoat:proxysg_sg210-5:-:-:acceleration:*:*:*:*:*,Blue Coat Systems SG210-5 (210 series) Acceleration Edition,"['CVE-2009-1211', 'CVE-2010-5189', 'CVE-2010-5190', 'CVE-2010-5192']",2022-03-19T08:51Z
+3,cpe:2.3:h:bluecoat:proxysg_sg210-5:-:-:full_proxy:*:*:*:*:*,Blue Coat Systems SG210-5 (210 series) Full Proxy Edition,"['CVE-2009-1211', 'CVE-2010-5189', 'CVE-2010-5190', 'CVE-2010-5192']",2022-03-19T08:51Z
+4,cpe:2.3:h:bluecoat:proxysg_sg510-10:-:-:acceleration:*:*:*:*:*,Blue Coat Systems SG510-10 (510 series) Acceleration Edition,"['CVE-2009-1211', 'CVE-2010-5189', 'CVE-2010-5190', 'CVE-2010-5192']",2022-03-19T08:51Z
+5,cpe:2.3:h:bluecoat:proxysg_sg510-10:-:-:full_proxy:*:*:*:*:*,Blue Coat Systems SG510-10 (510 series) Full Proxy Edition,"['CVE-2009-1211', 'CVE-2010-5189', 'CVE-2010-5190', 'CVE-2010-5192']",2022-03-19T08:51Z
+6,cpe:2.3:h:bluecoat:proxysg_sg510-20:-:-:acceleration:*:*:*:*:*,Blue Coat Systems SG510-20 (510 series) Acceleration Edition,"['CVE-2009-1211', 'CVE-2010-5189', 'CVE-2010-5190', 'CVE-2010-5192']",2022-03-19T08:51Z
+7,cpe:2.3:h:bluecoat:proxysg_sg510-20:-:-:full_proxy:*:*:*:*:*,Blue Coat Systems SG510-20 (510 series) Full Proxy Edition,"['CVE-2009-1211', 'CVE-2010-5189', 'CVE-2010-5190', 'CVE-2010-5192']",2022-03-19T08:51Z
+8,cpe:2.3:h:bluecoat:proxysg_sg510-25:-:-:acceleration:*:*:*:*:*,Blue Coat Systems SG510-20 (510 series) Acceleration Edition,"['CVE-2009-1211', 'CVE-2010-5189', 'CVE-2010-5190', 'CVE-2010-5192']",2022-03-19T08:51Z
+9,cpe:2.3:h:bluecoat:proxysg_sg510-25:-:-:full_proxy:*:*:*:*:*,Blue Coat Systems SG510-20 (510 series) Full Proxy Edition,"['CVE-2009-1211', 'CVE-2010-5189', 'CVE-2010-5190', 'CVE-2010-5192']",2022-03-19T08:51Z

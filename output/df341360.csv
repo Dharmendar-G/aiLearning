@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:datapower_gateway:7.1.0.19:*:*:*:*:*:*:*,IBM DataPower Gateway 7.1.0.19,"['CVE-2015-7412', 'CVE-2017-1773', 'CVE-2018-1421', 'CVE-2018-1652', 'CVE-2018-1664', 'CVE-2018-1669', 'CVE-2018-1677']",2022-03-21T20:10Z
+1,cpe:2.3:a:ibm:datapower_gateway:7.1.0.20:*:*:*:*:*:*:*,IBM DataPower Gateway 7.1.0.20,"['CVE-2015-7412', 'CVE-2017-1773', 'CVE-2018-1421', 'CVE-2018-1664', 'CVE-2018-1669', 'CVE-2018-1677']",2022-03-21T20:10Z
+2,cpe:2.3:a:ibm:datapower_gateway:7.1.0.21:*:*:*:*:*:*:*,IBM DataPower Gateway 7.1.0.21,"['CVE-2015-7412', 'CVE-2018-1421', 'CVE-2018-1664', 'CVE-2018-1669', 'CVE-2018-1677']",2022-03-21T20:10Z
+3,cpe:2.3:a:ibm:datapower_gateway:7.1.0.22:*:*:*:*:*:*:*,IBM DataPower Gateway 7.1.0.22,"['CVE-2015-7412', 'CVE-2018-1664', 'CVE-2018-1669', 'CVE-2018-1677']",2022-03-21T20:10Z
+4,cpe:2.3:a:ibm:datapower_gateway:7.1.0.23:*:*:*:*:*:*:*,IBM DataPower Gateway 7.1.0.23,"['CVE-2015-7412', 'CVE-2018-1664', 'CVE-2018-1669']",2022-03-21T20:10Z
+5,cpe:2.3:a:ibm:datapower_gateway:7.1.0.24:*:*:*:*:*:*:*,IBM DataPower Gateway 7.1.0.24,['CVE-2015-7412'],2022-03-21T20:10Z
+6,cpe:2.3:a:ibm:datapower_gateway:7.2.0.0:*:*:*:*:*:*:*,IBM Datapower Gateway 7.2.0.0,"['CVE-2015-7412', 'CVE-2015-7427', 'CVE-2017-1591', 'CVE-2017-1773', 'CVE-2018-1421', 'CVE-2018-1652', 'CVE-2018-1664', 'CVE-2018-1669', 'CVE-2018-1677']",2022-03-21T20:10Z
+7,cpe:2.3:a:ibm:datapower_gateway:7.2.0.1:*:*:*:*:*:*:*,IBM DataPower Gateway 7.2.0.1,"['CVE-2017-1591', 'CVE-2017-1773', 'CVE-2018-1421', 'CVE-2018-1652', 'CVE-2018-1664', 'CVE-2018-1669', 'CVE-2018-1677']",2022-03-21T20:10Z
+8,cpe:2.3:a:ibm:datapower_gateway:7.2.0.2:*:*:*:*:*:*:*,IBM DataPower Gateway 7.2.0.2,"['CVE-2017-1591', 'CVE-2017-1773', 'CVE-2018-1421', 'CVE-2018-1652', 'CVE-2018-1664', 'CVE-2018-1669', 'CVE-2018-1677']",2022-03-21T20:10Z
+9,cpe:2.3:a:ibm:datapower_gateway:7.2.0.3:*:*:*:*:*:*:*,IBM DataPower Gateway 7.2.0.3,"['CVE-2017-1591', 'CVE-2017-1773', 'CVE-2018-1421', 'CVE-2018-1652', 'CVE-2018-1664', 'CVE-2018-1669', 'CVE-2018-1677']",2022-03-21T20:10Z

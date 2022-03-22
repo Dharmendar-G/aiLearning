@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alibaba:nacos:1.0.0:rc3:*:*:*:*:*:*,Alibaba Nacos 1.0.0 Release Candidate 3,"['CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:51Z
+1,cpe:2.3:a:alibaba:nacos:1.0.1:*:*:*:*:*:*:*,Alibaba Nacos 1.0.1,"['CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:51Z
+2,cpe:2.3:a:alibaba:nacos:1.1.0:*:*:*:*:*:*:*,Alibaba Nacos 1.1.0,"['CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:51Z
+3,cpe:2.3:a:alibaba:nacos:1.1.3:*:*:*:*:*:*:*,Alibaba Nacos 1.1.3,"['CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:51Z
+4,cpe:2.3:a:alibaba:nacos:1.1.4:*:*:*:*:*:*:*,Alibaba Nacos 1.1.4,"['CVE-2020-19676', 'CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:51Z
+5,cpe:2.3:a:alibaba:nacos:1.2.0:-:*:*:*:*:*:*,Alibaba Nacos 1.2.0,"['CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:51Z
+6,cpe:2.3:a:alibaba:nacos:1.2.0:beta0:*:*:*:*:*:*,Alibaba Nacos 1.2.0 Beta 0,"['CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:51Z
+7,cpe:2.3:a:alibaba:nacos:1.2.0:beta1:*:*:*:*:*:*,Alibaba Nacos 1.2.0 Beta 1,"['CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:51Z
+8,cpe:2.3:a:alibaba:nacos:1.2.1:*:*:*:*:*:*:*,Alibaba Nacos 1.2.1,"['CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:51Z
+9,cpe:2.3:a:alibaba:nacos:1.3.0:-:*:*:*:*:*:*,Alibaba Nacos 1.3.0,"['CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:51Z

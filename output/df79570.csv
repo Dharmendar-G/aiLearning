@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bittorrent:utorrent:3.5:*:*:*:*:*:*:*,BitTorrent uTorrent 3.5,['CVE-2020-8437'],2022-03-19T08:31Z
+1,cpe:2.3:a:bitty_project:bitty:0.0.1:*:*:*:*:node.js:*:*,bitty Project bitty 0.0.1 for Node.js,[''],2022-03-19T08:31Z
+2,cpe:2.3:a:bitty_project:bitty:0.0.3:*:*:*:*:node.js:*:*,bitty Project bitty 0.0.3 for Node.js,[''],2022-03-19T08:31Z
+3,cpe:2.3:a:bitty_project:bitty:0.0.4:*:*:*:*:node.js:*:*,bitty Project bitty 0.0.4 for Node.js,[''],2022-03-19T08:31Z
+4,cpe:2.3:a:bitty_project:bitty:0.0.5:*:*:*:*:node.js:*:*,bitty Project bitty 0.0.5 for Node.js,[''],2022-03-19T08:32Z
+5,cpe:2.3:a:bitty_project:bitty:0.0.6:*:*:*:*:node.js:*:*,bitty Project bitty 0.0.6 for Node.js,[''],2022-03-19T08:32Z
+6,cpe:2.3:a:bitty_project:bitty:0.0.7:*:*:*:*:node.js:*:*,bitty Project bitty 0.0.7 for Node.js,[''],2022-03-19T08:32Z
+7,cpe:2.3:a:bitty_project:bitty:0.0.8:*:*:*:*:node.js:*:*,bitty Project bitty 0.0.8 for Node.js,[''],2022-03-19T08:32Z
+8,cpe:2.3:a:bitty_project:bitty:0.0.9:*:*:*:*:node.js:*:*,bitty Project bitty 0.0.9 for Node.js,[''],2022-03-19T08:32Z
+9,cpe:2.3:a:bitty_project:bitty:0.0.10:*:*:*:*:node.js:*:*,bitty Project bitty 0.0.10 for Node.js,[''],2022-03-19T08:32Z

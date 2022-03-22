@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:intersight_virtual_appliance:1.0.9-230:*:*:*:*:*:*:*,Cisco Intersight Virtual Appliance 1.0.9-230,"['CVE-2021-1617', 'CVE-2021-1618', 'CVE-2021-34748', 'CVE-2021-44228']",2022-03-19T20:11Z
+1,cpe:2.3:a:cisco:intersight_virtual_appliance:1.0.9-292:*:*:*:*:*:*:*,Cisco Intersight Virtual Appliance 1.0.9-292,"['CVE-2021-34748', 'CVE-2021-44228']",2022-03-19T20:11Z
+2,cpe:2.3:a:cisco:intersight_virtual_appliance:1.0.9-302:*:*:*:*:*:*:*,Cisco Intersight Virtual Appliance 1.0.9-302,['CVE-2021-44228'],2022-03-19T20:11Z
+3,cpe:2.3:a:cisco:intersight_virtual_appliance:1.0.9-342:*:*:*:*:*:*:*,Cisco Intersight Virtual Appliance 1.0.9-342,['CVE-2021-44228'],2022-03-19T20:11Z
+4,cpe:2.3:h:cisco:intrusion_prevention_system:-:*:*:*:*:*:*:*,Cisco Intrusion Prevention System,"['CVE-2013-1219', 'CVE-2013-5497', 'CVE-2014-2103']",2022-03-19T20:11Z
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,[0],[0],[0],[0]
+8,[0],[0],[0],[0]
+9,cpe:2.3:a:cisco:intrusion_prevention_system:5.1:*:*:*:*:*:*:*,Cisco Intrusion Prevention System 5.1,"['CVE-2008-2060', 'CVE-2013-1218', 'CVE-2013-1243', 'CVE-2013-3410', 'CVE-2014-2103', 'CVE-2014-3402', 'CVE-2014-3406']",2022-03-19T20:11Z

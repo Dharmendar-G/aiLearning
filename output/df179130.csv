@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:emc_powerscale_nodes_f600_firmware:-:*:*:*:*:*:*:*,Dell Emc Powerscale Nodes F600 Firmware -,['CVE-2021-36315'],2022-03-20T12:25Z
+1,cpe:2.3:h:dell:emc_powerscale_nodes_f800:-:*:*:*:*:*:*:*,Dell Emc Powerscale Nodes F800 -,['CVE-2021-36315'],2022-03-20T12:25Z
+2,cpe:2.3:o:dell:emc_powerscale_nodes_f800_firmware:-:*:*:*:*:*:*:*,Dell Emc Powerscale Nodes F800 Firmware -,['CVE-2021-36315'],2022-03-20T12:25Z
+3,cpe:2.3:h:dell:emc_powerscale_nodes_f810:-:*:*:*:*:*:*:*,Dell Emc Powerscale Nodes F810 -,['CVE-2021-36315'],2022-03-20T12:25Z
+4,cpe:2.3:o:dell:emc_powerscale_nodes_f810_firmware:-:*:*:*:*:*:*:*,Dell Emc Powerscale Nodes F810 Firmware -,['CVE-2021-36315'],2022-03-20T12:25Z
+5,cpe:2.3:h:dell:emc_powerscale_nodes_h400:-:*:*:*:*:*:*:*,Dell Emc Powerscale Nodes H400 -,['CVE-2021-36315'],2022-03-20T12:25Z
+6,cpe:2.3:o:dell:emc_powerscale_nodes_h400_firmware:-:*:*:*:*:*:*:*,Dell Emc Powerscale Nodes H400 Firmware -,['CVE-2021-36315'],2022-03-20T12:25Z
+7,cpe:2.3:h:dell:emc_powerscale_nodes_h500:-:*:*:*:*:*:*:*,Dell Emc Powerscale Nodes H500 -,['CVE-2021-36315'],2022-03-20T12:25Z
+8,cpe:2.3:o:dell:emc_powerscale_nodes_h500_firmware:-:*:*:*:*:*:*:*,Dell Emc Powerscale Nodes H500 Firmware -,['CVE-2021-36315'],2022-03-20T12:25Z
+9,cpe:2.3:h:dell:emc_powerscale_nodes_h5600:-:*:*:*:*:*:*:*,Dell Emc Powerscale Nodes H5600 -,['CVE-2021-36315'],2022-03-20T12:25Z

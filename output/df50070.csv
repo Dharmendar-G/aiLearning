@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:asterisk:open_source:15.4.0:*:*:*:*:*:*:*,Asterisk Open Source 15.4.0,['CVE-2018-12228'],2022-03-18T23:52Z
+1,cpe:2.3:a:asterisk:open_source:15.4.1:*:*:*:*:*:*:*,Asterisk Open Source 15.4.1,[''],2022-03-18T23:52Z
+2,cpe:2.3:a:asterisk:open_source:16.0.0:*:*:*:*:*:*:*,Asterisk Open Source 16.0.0,"['CVE-2020-28242', 'CVE-2020-28327']",2022-03-18T23:52Z
+3,cpe:2.3:a:asterisk:open_source:16.14.1:*:*:*:*:*:*:*,Asterisk Open Source 16.14.1,[''],2022-03-18T23:52Z
+4,cpe:2.3:a:asterisk:open_source:17.0.0:*:*:*:*:*:*:*,Asterisk Open Source 17.0.0,"['CVE-2020-28242', 'CVE-2020-28327']",2022-03-18T23:52Z
+5,cpe:2.3:a:asterisk:open_source:17.8.1:*:*:*:*:*:*:*,Asterisk Open Source 17.8.1,[''],2022-03-18T23:52Z
+6,cpe:2.3:a:asterisk:open_source:18.0.0:*:*:*:*:*:*:*,Asterisk Open Source 18.0.0,"['CVE-2020-28242', 'CVE-2020-28327']",2022-03-18T23:52Z
+7,cpe:2.3:a:asterisk:open_source:18.0.1:*:*:*:*:*:*:*,Asterisk Open Source 18.0.1,[''],2022-03-18T23:52Z
+8,cpe:2.3:a:asthis:universal_website_asthis:2.3.11:*:*:*:*:*:*:*,Asthis Universal Website Asthis 2.3.11,['CVE-2018-20612'],2022-03-18T23:52Z
+9,cpe:2.3:a:asus:armoury_crate_lite_service:-:*:*:*:*:*:*:*,ASUS Armoury Crate Lite Service,['CVE-2021-40981'],2022-03-18T23:52Z

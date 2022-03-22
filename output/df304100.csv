@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hanwha-security:hrd-1642:-:*:*:*:*:*:*:*,Hanwha Techwin HRD-1642,[''],2022-03-21T08:55Z
+1,cpe:2.3:o:hanwha-security:hrd-1642_firmware:-:*:*:*:*:*:*:*,Hanwha Techwin HRD-1642 Firmware,[''],2022-03-21T08:55Z
+2,cpe:2.3:o:hanwha-security:hrd-1642_firmware:1.16:*:*:*:*:*:*:*,Hanwha Techwin HRD-1642 Firmware 1.16,[''],2022-03-21T08:55Z
+3,cpe:2.3:h:hanwha-security:hrd-440:-:*:*:*:*:*:*:*,Hanwha Techwin HRD-440,[''],2022-03-21T08:55Z
+4,cpe:2.3:o:hanwha-security:hrd-440_firmware:-:*:*:*:*:*:*:*,Hanwha Techwin HRD-440 Firmware,[''],2022-03-21T08:55Z
+5,cpe:2.3:o:hanwha-security:hrd-440_firmware:1.14:*:*:*:*:*:*:*,Hanwha Techwin HRD-440 Firmware 1.14,[''],2022-03-21T08:55Z
+6,cpe:2.3:h:hanwha-security:hrd-442:-:*:*:*:*:*:*:*,Hanwha Techwin HRD-442,[''],2022-03-21T08:55Z
+7,cpe:2.3:o:hanwha-security:hrd-442_firmware:-:*:*:*:*:*:*:*,Hanwha Techwin HRD-442 Firmware,[''],2022-03-21T08:55Z
+8,cpe:2.3:o:hanwha-security:hrd-442_firmware:1.16:*:*:*:*:*:*:*,Hanwha Techwin HRD-442 Firmware 1.16,[''],2022-03-21T08:55Z
+9,cpe:2.3:h:hanwha-security:hrd-443:-:*:*:*:*:*:*:*,Hanwha Techwin HRD-443,[''],2022-03-21T08:55Z

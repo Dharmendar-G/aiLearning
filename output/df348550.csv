@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:spectrum_protect:8.1.4:*:*:*:*:*:*:*,IBM Spectrum Protect 8.1.4,"['CVE-2018-1786', 'CVE-2018-2025', 'CVE-2019-4140', 'CVE-2019-4267', 'CVE-2020-4415', 'CVE-2020-4559', 'CVE-2021-20491']",2022-03-21T22:08Z
+1,cpe:2.3:a:ibm:spectrum_protect:8.1.4.1:*:*:*:*:*:*:*,IBM Spectrum Protect 8.1.4.1,"['CVE-2018-1786', 'CVE-2018-2025', 'CVE-2019-4140', 'CVE-2019-4267', 'CVE-2020-4415', 'CVE-2020-4559', 'CVE-2021-20491']",2022-03-21T22:08Z
+2,cpe:2.3:a:ibm:spectrum_protect:8.1.4.2:*:*:*:*:*:*:*,IBM Spectrum Protect 8.1.4.2,"['CVE-2018-1786', 'CVE-2018-2025', 'CVE-2019-4140', 'CVE-2019-4267', 'CVE-2020-4415', 'CVE-2020-4559', 'CVE-2021-20491']",2022-03-21T22:08Z
+3,cpe:2.3:a:ibm:spectrum_protect:8.1.5:*:*:*:*:*:*:*,IBM Spectrum Protect 8.1.5,"['CVE-2018-1786', 'CVE-2018-2025', 'CVE-2019-4140', 'CVE-2019-4267', 'CVE-2020-4415', 'CVE-2020-4559', 'CVE-2021-20491']",2022-03-21T22:08Z
+4,cpe:2.3:a:ibm:spectrum_protect:8.1.5.100:*:*:*:*:*:*:*,IBM Spectrum Protect 8.1.5.100,"['CVE-2018-1786', 'CVE-2018-2025', 'CVE-2019-4140', 'CVE-2019-4267', 'CVE-2020-4415', 'CVE-2020-4559', 'CVE-2021-20491']",2022-03-21T22:08Z
+5,cpe:2.3:a:ibm:spectrum_protect:8.1.6:*:*:*:*:*:*:*,IBM Spectrum Protect 8.1.6,"['CVE-2018-1786', 'CVE-2018-2025', 'CVE-2019-4140', 'CVE-2019-4267', 'CVE-2020-4415', 'CVE-2020-4559', 'CVE-2021-20491']",2022-03-21T22:08Z
+6,cpe:2.3:a:ibm:spectrum_protect:8.1.6.0:*:*:*:*:*:*:*,IBM Spectrum Protect 8.1.6.0,"['CVE-2018-1786', 'CVE-2018-2025', 'CVE-2019-4140', 'CVE-2019-4267', 'CVE-2020-4415', 'CVE-2020-4559', 'CVE-2021-20491']",2022-03-21T22:08Z
+7,cpe:2.3:a:ibm:spectrum_protect:8.1.6.1:*:*:*:*:*:*:*,IBM Spectrum Protect 8.1.6.1,"['CVE-2018-2025', 'CVE-2019-4140', 'CVE-2019-4267', 'CVE-2020-4415', 'CVE-2020-4559', 'CVE-2021-20491']",2022-03-21T22:08Z
+8,cpe:2.3:a:ibm:spectrum_protect:8.1.6.1:*:*:*:*:backup-archive_client:*:*,IBM Spectrum Protect 8.1.6.1 for Backup-archive Client,"['CVE-2018-2025', 'CVE-2019-4140', 'CVE-2019-4267', 'CVE-2020-4415', 'CVE-2020-4559', 'CVE-2021-20491']",2022-03-21T22:08Z
+9,cpe:2.3:a:ibm:spectrum_protect:8.1.6.100:*:*:*:*:*:*:*,IBM Spectrum Protect 8.1.6.100,"['CVE-2018-2025', 'CVE-2019-4140', 'CVE-2019-4267', 'CVE-2020-4415', 'CVE-2020-4559', 'CVE-2021-20491']",2022-03-21T22:08Z

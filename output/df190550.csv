@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:d-link:dsr-250:-:*:*:*:*:*:*:*,D-Link DSR 250,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:05Z
+1,cpe:2.3:o:d-link:dsr-250_firmware:1.01b46:*:*:*:*:*:*:*,D-Link DSR 250 Firmware 1.01B46,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:05Z
+2,cpe:2.3:o:d-link:dsr-250_firmware:1.01b56:*:*:*:*:*:*:*,D-Link DSR 250 Firmware 1.01B56,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:05Z
+3,cpe:2.3:o:d-link:dsr-250_firmware:1.05b20:*:*:*:*:*:*:*,D-Link DSR 250 Firmware 1.05B20,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:05Z
+4,cpe:2.3:o:d-link:dsr-250_firmware:1.05b53:*:*:*:*:*:*:*,D-Link DSR 250 Firmware 1.05B53,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:05Z
+5,cpe:2.3:o:d-link:dsr-250_firmware:1.08b31:*:*:*:*:*:*:*,D-Link DSR 250 Firmware 1.08B31,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:05Z
+6,cpe:2.3:o:d-link:dsr-250_firmware:1.08b39:*:*:*:*:*:*:*,D-Link DSR 250 Firmware 1.08B39,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:05Z
+7,cpe:2.3:o:d-link:dsr-250_firmware:1.08b44:*:*:*:*:*:*:*,D-Link DSR 250 Firmware 1.08B44,[''],2022-03-20T16:05Z
+8,cpe:2.3:o:d-link:dsr-250_firmware:3.17b:*:*:*:*:*:*:*,D-link DSR-250 Firmware 3.17b,[''],2022-03-20T16:05Z
+9,cpe:2.3:h:d-link:dsr-250n:-:*:*:*:*:*:*:*,D-Link DSR 250N,"['CVE-2012-6614', 'CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005', 'CVE-2020-26567']",2022-03-20T16:05Z

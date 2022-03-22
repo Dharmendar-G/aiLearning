@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arg0:encfs:1.5.0:*:*:*:*:*:*:*,arg0 EncFS 1.5.0,"['CVE-2010-3073', 'CVE-2010-3074', 'CVE-2010-3075']",2022-03-18T22:56Z
+1,cpe:2.3:a:arg0:encfs:1.6.0:*:*:*:*:*:*:*,arg0 EncFS 1.6.0,"['CVE-2010-3073', 'CVE-2010-3074', 'CVE-2010-3075']",2022-03-18T22:56Z
+2,cpe:2.3:a:arg0:encfs:1.7.0:*:*:*:*:*:*:*,arg0 EncFS 1.7.0,[''],2022-03-18T22:56Z
+3,cpe:2.3:a:arg0:encfs:1.7.1:*:*:*:*:*:*:*,arg0 EncFS 1.7.1,[''],2022-03-18T22:56Z
+4,cpe:2.3:a:arg0:encfs:1.7.2:*:*:*:*:*:*:*,arg0 EncFS 1.7.2,[''],2022-03-18T22:56Z
+5,cpe:2.3:a:argent:recoverymanager:-:*:*:*:*:*:*:*,Argent RecoveryManager,['CVE-2020-15302'],2022-03-18T22:56Z
+6,cpe:2.3:a:argent:recoverymanager:0xdc350d09f71c48c5d22fbe2741e4d6a03970e192:*:*:*:*:*:*:*,Argent RecoveryManager 0xdc350d09f71c48c5d22fbe2741e4d6a03970e192,[''],2022-03-18T22:56Z
+7,cpe:2.3:a:argon2_project:argon2:-:*:*:*:*:*:*:*,Argon2 Project Argon2,[''],2022-03-18T22:56Z
+8,cpe:2.3:a:argosoft:mail_server:1.0.0.91:*:*:*:*:*:*:*,ArGo Software Design Mail Server 1.0.0.91,[''],2022-03-18T22:56Z
+9,cpe:2.3:a:argosoft:mail_server:1.0.1.1:*:*:*:*:*:*:*,ArGo Software Design Mail Server 1.0.1.1,[''],2022-03-18T22:56Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,cpe:2.3:h:abb:sys600:-:*:*:*:*:*:*:*,ABB MicroSCADA Pro SYS600,['CVE-2018-1168'],2022-03-18T10:34Z
+4,cpe:2.3:o:abb:sys600_firmware:9.0:*:*:*:*:*:*:*,ABB MicroSCADA Pro SYS600 Firmware 9.0,['CVE-2018-1168'],2022-03-18T10:34Z
+5,cpe:2.3:o:abb:sys600_firmware:9.1:*:*:*:*:*:*:*,ABB MicroSCADA Pro SYS600 Firmware 9.1,['CVE-2018-1168'],2022-03-18T10:34Z
+6,cpe:2.3:o:abb:sys600_firmware:9.1.5:*:*:*:*:*:*:*,ABB MicroSCADA Pro SYS600 Firmware 9.1.5,['CVE-2018-1168'],2022-03-18T10:34Z
+7,cpe:2.3:o:abb:sys600_firmware:9.2:*:*:*:*:*:*:*,ABB MicroSCADA Pro SYS600 Firmware 9.2,['CVE-2018-1168'],2022-03-18T10:34Z
+8,cpe:2.3:o:abb:sys600_firmware:9.4:*:*:*:*:*:*:*,ABB MicroSCADA Pro SYS600 Firmware 9.4,['CVE-2018-1168'],2022-03-18T10:34Z
+9,cpe:2.3:h:abb:system_access_point_127v:-:*:*:*:*:*:*:*,ABB System Access Point 127v -,['CVE-2021-22276'],2022-03-18T10:34Z

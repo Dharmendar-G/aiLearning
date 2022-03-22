@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:capnproto:capnproto:0.7.0:*:*:*:*:*:*:*,Cap'n Proto 0.7.0,[''],2022-03-19T15:31Z
+1,cpe:2.3:a:capstone-engine:capstone:3.0.4:*:*:*:*:*:*:*,Capstone-Engine Capstone 3.0.4,"['CVE-2016-7151', 'CVE-2017-6952']",2022-03-19T15:31Z
+2,cpe:2.3:a:cap-strap_project:cap-strap:0.0.1:*:*:*:*:ruby:*:*,cap-strap Project cap-strap 0.0.1 for Ruby,[''],2022-03-19T15:31Z
+3,cpe:2.3:a:cap-strap_project:cap-strap:0.0.2:*:*:*:*:ruby:*:*,cap-strap Project cap-strap 0.0.2 for Ruby,[''],2022-03-19T15:31Z
+4,cpe:2.3:a:cap-strap_project:cap-strap:0.0.3:*:*:*:*:ruby:*:*,cap-strap Project cap-strap 0.0.3 for Ruby,[''],2022-03-19T15:31Z
+5,cpe:2.3:a:cap-strap_project:cap-strap:0.0.4:*:*:*:*:ruby:*:*,cap-strap Project cap-strap 0.0.4 for Ruby,[''],2022-03-19T15:31Z
+6,cpe:2.3:a:cap-strap_project:cap-strap:0.0.5:*:*:*:*:ruby:*:*,cap-strap Project cap-strap 0.0.5 for Ruby,[''],2022-03-19T15:31Z
+7,cpe:2.3:a:cap-strap_project:cap-strap:0.0.6:*:*:*:*:ruby:*:*,cap-strap Project cap-strap 0.0.6 for Ruby,[''],2022-03-19T15:31Z
+8,cpe:2.3:a:cap-strap_project:cap-strap:0.0.7:*:*:*:*:ruby:*:*,cap-strap Project cap-strap 0.0.7 for Ruby,[''],2022-03-19T15:31Z
+9,cpe:2.3:a:cap-strap_project:cap-strap:0.0.8:*:*:*:*:ruby:*:*,cap-strap Project cap-strap 0.0.8 for Ruby,[''],2022-03-19T15:31Z

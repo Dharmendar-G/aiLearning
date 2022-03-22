@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adgjm:angel_browser:1.62b:*:*:*:*:*:*:*,adgjm Angel Browser1.62b,['CVE-2013-3642'],2022-03-18T11:53Z
+1,cpe:2.3:a:adgjm:angel_browser:1.68b:*:*:*:*:*:*:*,adgjm Angel Browser1.68b,['CVE-2013-3642'],2022-03-18T11:53Z
+2,cpe:2.3:a:adgjm:angel_browser:1.76b:*:*:*:*:*:*:*,adgjm Angel Browser1.76b,['CVE-2013-3642'],2022-03-18T11:53Z
+3,cpe:2.3:a:adgjm:galapagos_browser:-:-:*:*:*:android:*:*,adgjm Galapagos Browser for Android OS,['CVE-2013-3643'],2022-03-18T11:53Z
+4,cpe:2.3:a:adguard:adguard:1.3.0:*:*:*:*:iphone_os:*:*,AdGuard 1.3.0 iPhone OS,[''],2022-03-18T11:53Z
+5,cpe:2.3:a:adguard:adguard:1.3.1:*:*:*:*:iphone_os:*:*,AdGuard 1.3.1 iPhone OS,[''],2022-03-18T11:53Z
+6,cpe:2.3:a:adguard:adguard:1.3.3:*:*:*:*:iphone_os:*:*,AdGuard 1.3.3 iPhone OS,[''],2022-03-18T11:53Z
+7,cpe:2.3:a:adguard:adguard:2.0.2:*:*:*:*:iphone_os:*:*,AdGuard 2.0.2 iPhone OS,[''],2022-03-18T11:53Z
+8,cpe:2.3:a:adguard:adguard:2.0.4:*:*:*:*:iphone_os:*:*,AdGuard 2.0.4 iPhone OS,[''],2022-03-18T11:53Z
+9,cpe:2.3:a:adguard:adguard:2.0.5:*:*:*:*:iphone_os:*:*,AdGuard 2.0.5 iPhone OS,[''],2022-03-18T11:53Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:atlas_300_firmware:-:*:*:*:*:*:*:*,Huawei Atlas 300 Firmware,[''],2022-03-21T17:24Z
+1,cpe:2.3:o:huawei:atlas_300_firmware:1.0.0:*:*:*:*:*:*:*,Huawei Atlas 300 Firmware 1.0.0,['CVE-2019-5247'],2022-03-21T17:24Z
+2,cpe:2.3:o:huawei:atlas_300_firmware:1.0.0.spc102:*:*:*:*:*:*:*,Huawei Atlas 300 Firmware 1.0.0.SPC102,[''],2022-03-21T17:24Z
+3,cpe:2.3:h:huawei:atlas_500:-:*:*:*:*:*:*:*,Huawei Atlas 500,['CVE-2019-5247'],2022-03-21T17:24Z
+4,cpe:2.3:o:huawei:atlas_500_firmware:-:*:*:*:*:*:*:*,Huawei Atlas 500 Firmware,[''],2022-03-21T17:24Z
+5,cpe:2.3:o:huawei:atlas_500_firmware:1.0.0:*:*:*:*:*:*:*,Huawei Atlas 500 Firmware 1.0.0,['CVE-2019-5247'],2022-03-21T17:24Z
+6,cpe:2.3:o:huawei:atlas_500_firmware:1.0.0.spc102:*:*:*:*:*:*:*,Huawei Atlas 500 Firmware 1.0.0.SPC102,[''],2022-03-21T17:24Z
+7,cpe:2.3:h:huawei:atn:v200r001c00:*:*:*:*:*:*:*,Huawei ATN V200R001C00,['CVE-2012-4960'],2022-03-21T17:24Z
+8,cpe:2.3:h:huawei:atn:v200r001c01:*:*:*:*:*:*:*,Huawei ATN V200R001C01,"['CVE-2012-3268', 'CVE-2012-4960']",2022-03-21T17:24Z
+9,cpe:2.3:h:huawei:atomu-l33:-:*:*:*:*:*:*:*,Huawei ATOMU-L33,['CVE-2019-9506'],2022-03-21T17:24Z

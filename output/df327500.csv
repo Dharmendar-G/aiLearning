@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:print_screen_utility:5.40.10.0:*:*:*:*:*:*:*,HP Print Screen Utility 5.40.10.0,[''],2022-03-21T15:44Z
+1,cpe:2.3:a:hp:printer_access_tool:1.0.0.3:*:*:*:*:*:*:*,HP Printer Access Tool 1.0.0.3,[''],2022-03-21T15:44Z
+2,cpe:2.3:a:hp:printer_utility:1.6.6.10:*:*:*:*:*:*:*,HP Printer Utility 1.6.6.10,[''],2022-03-21T15:44Z
+3,cpe:2.3:h:hp:pro_tablet_10_ee_g1:-:*:*:*:*:*:*:*,HP Pro Tablet 10 Ee G1,['CVE-2019-16284'],2022-03-21T15:44Z
+4,cpe:2.3:o:hp:pro_tablet_10_ee_g1_firmware:-:*:*:*:*:*:*:*,HP Pro Tablet 10 EE G1 Firmware,['CVE-2019-16284'],2022-03-21T15:44Z
+5,cpe:2.3:o:hp:pro_tablet_10_ee_g1_firmware:1.31:*:*:*:*:*:*:*,HP Pro Tablet 10 EE G1 Firmware 1.31,[''],2022-03-21T15:44Z
+6,cpe:2.3:h:hp:pro_tablet_608_g1:-:*:*:*:*:*:*:*,HP Pro Tablet 608 G1,['CVE-2019-16284'],2022-03-21T15:44Z
+7,cpe:2.3:o:hp:pro_tablet_608_g1_firmware:-:*:*:*:*:*:*:*,HP Pro Tablet 608 G1 Firmware,['CVE-2019-16284'],2022-03-21T15:44Z
+8,cpe:2.3:o:hp:pro_tablet_608_g1_firmware:1.21:*:*:*:*:*:*:*,HP Pro Tablet 608 G1 Firmware 1.21,[''],2022-03-21T15:44Z
+9,cpe:2.3:h:hp:pro_tablet_610_g1:-:*:*:*:*:*:*:*,HP Pro Tablet 610 G1,['CVE-2019-16284'],2022-03-21T15:44Z

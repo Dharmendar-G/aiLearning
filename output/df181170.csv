@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:precision_7510_firmware:-:*:*:*:*:*:*:*,Dell Precision 7510 Firmware,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:04Z
+1,cpe:2.3:o:dell:precision_7510_firmware:1.17.7:*:*:*:*:*:*:*,Dell Precision 7510 Firmware 1.17.7,"['CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:04Z
+2,cpe:2.3:o:dell:precision_7510_firmware:1.18.5:*:*:*:*:*:*:*,Dell Precision 7510 Firmware 1.18.5,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:04Z
+3,cpe:2.3:h:dell:precision_7520:-:*:*:*:*:*:*:*,Dell Precision 7520,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:04Z
+4,cpe:2.3:o:dell:precision_7520_firmware:-:*:*:*:*:*:*:*,Dell Precision 7520 Firmware,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:04Z
+5,cpe:2.3:o:dell:precision_7520_firmware:1.14.1:*:*:*:*:*:*:*,Dell Precision 7520 Firmware 1.14.1,"['CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:04Z
+6,cpe:2.3:o:dell:precision_7520_firmware:1.15.1:*:*:*:*:*:*:*,Dell Precision 7520 Firmware 1.15.1,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:04Z
+7,cpe:2.3:h:dell:precision_7530:-:*:*:*:*:*:*:*,Dell Precision 7530,"['CVE-2019-3717', 'CVE-2020-5324', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:04Z
+8,cpe:2.3:o:dell:precision_7530_firmware:-:*:*:*:*:*:*:*,Dell Precision 7530 Firmware,"['CVE-2019-3717', 'CVE-2020-5324', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:04Z
+9,cpe:2.3:o:dell:precision_7530_firmware:1.8.2:*:*:*:*:*:*:*,Dell Precision 7530 Firmware 1.8.2,"['CVE-2020-5324', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:04Z

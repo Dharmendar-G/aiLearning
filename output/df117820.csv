@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:cloud_web_security:5.2\(0\):*:*:*:*:*:*:*,Cisco Cloud Web Security 5.2(0),['CVE-2020-3154'],2022-03-19T19:14Z
+1,cpe:2.3:a:cisco:cloudcenter_orchestrator:4.4.0:*:*:*:*:*:*:*,Cisco CloudCenter Orchestrator 4.4.0,['CVE-2016-9223'],2022-03-19T19:14Z
+2,cpe:2.3:a:cisco:cloudcenter_orchestrator:4.5.0:*:*:*:*:*:*:*,Cisco CloudCenter Orchestrator 4.5.0,['CVE-2016-9223'],2022-03-19T19:14Z
+3,cpe:2.3:a:cisco:cloudcenter_orchestrator:4.6.0:*:*:*:*:*:*:*,Cisco CloudCenter Orchestrator 4.6.0,['CVE-2016-9223'],2022-03-19T19:14Z
+4,cpe:2.3:a:cisco:cloudcenter_orchestrator:4.6.1:*:*:*:*:*:*:*,Cisco CloudCenter Orchestrator 4.6.1,['CVE-2016-9223'],2022-03-19T19:14Z
+5,cpe:2.3:a:cisco:cns_network_registrar:-:*:*:*:*:*:*:*,Cisco CNS Network Registrar,['CVE-2011-2024'],2022-03-19T19:14Z
+6,cpe:2.3:a:cisco:cns_network_registrar:6.0:*:*:*:*:*:*:*,Cisco CNS Network Registrar 6.0,"['CVE-2004-1163', 'CVE-2004-1164', 'CVE-2011-2024']",2022-03-19T19:14Z
+7,cpe:2.3:a:cisco:cns_network_registrar:6.0.1:*:*:*:*:*:*:*,Cisco CNS Network Registrar 6.0.1,"['CVE-2004-1163', 'CVE-2004-1164', 'CVE-2011-2024']",2022-03-19T19:14Z
+8,cpe:2.3:a:cisco:cns_network_registrar:6.0.2:*:*:*:*:*:*:*,Cisco CNS Network Registrar 6.0.2,"['CVE-2004-1163', 'CVE-2004-1164', 'CVE-2011-2024']",2022-03-19T19:14Z
+9,cpe:2.3:a:cisco:cns_network_registrar:6.0.3:*:*:*:*:*:*:*,Cisco CNS Network Registrar 6.0.3,"['CVE-2004-1163', 'CVE-2004-1164', 'CVE-2011-2024']",2022-03-19T19:14Z

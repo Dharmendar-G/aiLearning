@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cgminer_project:cgminer:3.4.3:*:*:*:*:*:*:*,cgminer project cgminer 3.4.3,"['CVE-2014-4501', 'CVE-2014-4503']",2022-03-19T16:26Z
+1,cpe:2.3:a:cgminer_project:cgminer:3.5.0:*:*:*:*:*:*:*,cgminer project cgminer 3.5.0,"['CVE-2014-4501', 'CVE-2014-4503']",2022-03-19T16:26Z
+2,cpe:2.3:a:cgminer_project:cgminer:3.5.1:*:*:*:*:*:*:*,cgminer project cgminer 3.5.1,"['CVE-2014-4501', 'CVE-2014-4503']",2022-03-19T16:26Z
+3,cpe:2.3:a:cgminer_project:cgminer:3.6.0:*:*:*:*:*:*:*,cgminer project cgminer 3.6.0,"['CVE-2014-4501', 'CVE-2014-4503']",2022-03-19T16:26Z
+4,cpe:2.3:a:cgminer_project:cgminer:3.6.1:*:*:*:*:*:*:*,cgminer project cgminer 3.6.1,"['CVE-2014-4501', 'CVE-2014-4503']",2022-03-19T16:26Z
+5,cpe:2.3:a:cgminer_project:cgminer:3.6.2:*:*:*:*:*:*:*,cgminer project cgminer 3.6.2,"['CVE-2014-4501', 'CVE-2014-4503']",2022-03-19T16:26Z
+6,cpe:2.3:a:cgminer_project:cgminer:3.6.3:*:*:*:*:*:*:*,cgminer project cgminer 3.6.3,"['CVE-2014-4501', 'CVE-2014-4503']",2022-03-19T16:26Z
+7,cpe:2.3:a:cgminer_project:cgminer:3.6.4:*:*:*:*:*:*:*,cgminer project cgminer 3.6.4,"['CVE-2014-4501', 'CVE-2014-4503']",2022-03-19T16:26Z
+8,cpe:2.3:a:cgminer_project:cgminer:3.7.0:*:*:*:*:*:*:*,cgminer project cgminer 3.7.0,"['CVE-2014-4501', 'CVE-2014-4503']",2022-03-19T16:26Z
+9,cpe:2.3:a:cgminer_project:cgminer:3.7.1:*:*:*:*:*:*:*,cgminer project cgminer 3.7.1,"['CVE-2014-4501', 'CVE-2014-4503']",2022-03-19T16:26Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blackboard:collaborate_ultra:20.18:*:*:*:*:*:*:*,Blackboard Collaborate Ultra 20.18,[''],2022-03-19T08:38Z
+1,cpe:2.3:a:blackboard:collaborate_ultra:20.20:*:*:*:*:*:*:*,Blackboard Collaborate Ultra 20.20,[''],2022-03-19T08:38Z
+2,cpe:2.3:a:blackboard:collaborate_ultra:20.22:*:*:*:*:*:*:*,Blackboard Collaborate Ultra 20.22,[''],2022-03-19T08:38Z
+3,cpe:2.3:a:blackboard:collaborate_ultra:20.24:*:*:*:*:*:*:*,Blackboard Collaborate Ultra 20.24,[''],2022-03-19T08:38Z
+4,cpe:2.3:a:blackboard:collaborate_ultra:21.02:*:*:*:*:*:*:*,Blackboard Collaborate Ultra 21.02,[''],2022-03-19T08:38Z
+5,cpe:2.3:a:blackboard:collaborate_ultra:21.04:*:*:*:*:*:*:*,Blackboard Collaborate Ultra 21.04,[''],2022-03-19T08:38Z
+6,cpe:2.3:a:blackboard:transact_suite:-:*:*:*:*:*:*:*,Blackboard Transact Suite,"['CVE-2010-3244', 'CVE-2010-3245']",2022-03-19T08:39Z
+7,cpe:2.3:a:blackboard:transact_suite:3.6.0.1:*:*:*:*:*:*:*,Blackboard Transact Suite 3.6.0.1,['CVE-2010-3244'],2022-03-19T08:38Z
+8,cpe:2.3:a:blackboard:vista\/ce:8.0:sp6:*:*:*:*:*:*,Blackboard Vista/CE 8.0 Service Pack 6,['CVE-2014-0811'],2022-03-19T08:39Z
+9,cpe:2.3:h:blackbox:alertwerks_servsensor_contact_eme111a-20-r2:-:*:*:*:*:*:*:*,Black Box AlertWerks ServSensor Contact EME111A-20-R2,['CVE-2016-2311'],2022-03-19T08:39Z

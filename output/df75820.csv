@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bigswitch:big_cloud_fabric:4.7.7:*:*:*:*:*:*:*,Big Switch Networks Big Cloud Fabric 4.7.7,[''],2022-03-19T07:39Z
+1,cpe:2.3:a:bigswitch:big_cloud_fabric:5.0:*:*:*:*:*:*:*,Big Switch Networks Big Cloud Fabric 5.0,"['CVE-2019-19631', 'CVE-2019-19632']",2022-03-19T07:39Z
+2,cpe:2.3:a:bigswitch:big_cloud_fabric:5.0.1:*:*:*:*:*:*:*,Big Switch Networks Big Cloud Fabric 5.0.1,[''],2022-03-19T07:39Z
+3,cpe:2.3:a:bigswitch:big_cloud_fabric:5.1:*:*:*:*:*:*:*,Big Switch Networks Big Cloud Fabric 5.1,"['CVE-2019-19631', 'CVE-2019-19632']",2022-03-19T07:39Z
+4,cpe:2.3:a:bigswitch:big_cloud_fabric:5.1.4:*:*:*:*:*:*:*,Big Switch Networks Big Cloud Fabric 5.1.4,[''],2022-03-19T07:39Z
+5,cpe:2.3:a:bigswitch:big_monitoring_fabric:-:*:*:*:*:*:*:*,Big Switch Networks Big Monitoring Fabric,[''],2022-03-19T07:39Z
+6,cpe:2.3:a:bigswitch:big_monitoring_fabric:6.2:*:*:*:*:*:*:*,Big Switch Networks Big Monitoring Fabric 6.2,"['CVE-2019-19631', 'CVE-2019-19632']",2022-03-19T07:39Z
+7,cpe:2.3:a:bigswitch:big_monitoring_fabric:6.2.4:*:*:*:*:*:*:*,Big Switch Networks Big Monitoring Fabric 6.2.4,[''],2022-03-19T07:39Z
+8,cpe:2.3:a:bigswitch:big_monitoring_fabric:6.3:*:*:*:*:*:*:*,Big Switch Networks Big Monitoring Fabric 6.3,"['CVE-2019-19631', 'CVE-2019-19632']",2022-03-19T07:39Z
+9,cpe:2.3:a:bigswitch:big_monitoring_fabric:6.3.9:*:*:*:*:*:*:*,Big Switch Networks Big Monitoring Fabric 6.3.9,[''],2022-03-19T07:39Z

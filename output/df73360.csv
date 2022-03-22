@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bestpractical:rt:4.2.2:*:*:*:*:*:*:*,Best Practical Solutions RT 4.2.2,['CVE-2014-1474'],2022-03-19T07:02Z
+1,cpe:2.3:a:bestpractical:rt:4.2.3:*:*:*:*:*:*:*,Best Practical Solutions RT 4.2.3,[''],2022-03-19T07:02Z
+2,cpe:2.3:a:bestpractical:rt:4.2.4:*:*:*:*:*:*:*,Best Practical Solutions RT 4.2.4,[''],2022-03-19T07:02Z
+3,cpe:2.3:a:bestpractical:rt:4.2.5:*:*:*:*:*:*:*,Best Practical Solutions RT 4.2.5,[''],2022-03-19T07:02Z
+4,cpe:2.3:a:bestpractical:rt-extension-mobileui:1.02:*:*:*:*:*:*:*,bestpractical RT-Extension-MobilUI 1.02,['CVE-2013-3736'],2022-03-19T07:02Z
+5,cpe:2.3:a:bestpractical:rt-extension-mobileui:1.04:*:*:*:*:*:*:*,bestpractical RT-Extension-MobilUI 1.04,[''],2022-03-19T07:02Z
+6,cpe:2.3:a:bestpractical:rtfm:2.2.0:*:*:*:*:*:*:*,Best Practical Solutions RT FAQ Manager (RTFM) 2.2.0,['CVE-2012-4731'],2022-03-19T07:02Z
+7,cpe:2.3:a:bestpractical:rtfm:2.2.1:*:*:*:*:*:*:*,Best Practical Solutions RT FAQ Manager (RTFM) 2.2.1,['CVE-2012-4731'],2022-03-19T07:02Z
+8,cpe:2.3:a:bestpractical:rtfm:2.2.2:*:*:*:*:*:*:*,Best Practical Solutions RT FAQ Manager (RTFM) 2.2.2,['CVE-2012-4731'],2022-03-19T07:02Z
+9,cpe:2.3:a:bestpractical:rtfm:2.4.0:*:*:*:*:*:*:*,Best Practical Solutions RT FAQ Manager (RTFM) 2.4.0,['CVE-2012-4731'],2022-03-19T07:02Z

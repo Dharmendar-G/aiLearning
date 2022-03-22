@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:mesos:0.9.0:*:*:*:*:jenkins:*:*,Apache Software Foundation Mesos 0.9.0 for Jenkins,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-1000420', 'CVE-2018-1000421', 'CVE-2018-8023']",2022-03-18T19:24Z
+1,cpe:2.3:a:apache:mesos:0.10.0:*:*:*:*:jenkins:*:*,Apache Software Foundation Mesos 0.10.0 for Jenkins,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-1000420', 'CVE-2018-1000421', 'CVE-2018-8023']",2022-03-18T19:24Z
+2,cpe:2.3:a:apache:mesos:0.10.0:beta1:*:*:*:jenkins:*:*,Apache Software Foundation Mesos 0.10.0 Beta1 for Jenkins,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-1000420', 'CVE-2018-1000421', 'CVE-2018-8023']",2022-03-18T19:24Z
+3,cpe:2.3:a:apache:mesos:0.10.0:beta2:*:*:*:jenkins:*:*,Apache Software Foundation Mesos 0.10.0 Beta2 for Jenkins,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-1000420', 'CVE-2018-1000421', 'CVE-2018-8023']",2022-03-18T19:24Z
+4,cpe:2.3:a:apache:mesos:0.10.0:beta3:*:*:*:jenkins:*:*,Apache Software Foundation Mesos 0.10.0 Beta3 for Jenkins,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-1000420', 'CVE-2018-1000421', 'CVE-2018-8023']",2022-03-18T19:24Z
+5,cpe:2.3:a:apache:mesos:0.10.0:beta4:*:*:*:jenkins:*:*,Apache Software Foundation Mesos 0.10.0 Beta4 for Jenkins,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-1000420', 'CVE-2018-1000421', 'CVE-2018-8023']",2022-03-18T19:24Z
+6,cpe:2.3:a:apache:mesos:0.10.1:*:*:*:*:jenkins:*:*,Apache Software Foundation Mesos 0.10.1 for Jenkins,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-1000420', 'CVE-2018-1000421', 'CVE-2018-8023']",2022-03-18T19:24Z
+7,cpe:2.3:a:apache:mesos:0.11.0:*:*:*:*:jenkins:*:*,Apache Software Foundation Mesos 0.11.0 for Jenkins,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-1000420', 'CVE-2018-1000421', 'CVE-2018-8023']",2022-03-18T19:24Z
+8,cpe:2.3:a:apache:mesos:0.12.0:*:*:*:*:jenkins:*:*,Apache Software Foundation Mesos 0.12.0 for Jenkins,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-1000420', 'CVE-2018-1000421', 'CVE-2018-8023']",2022-03-18T19:24Z
+9,cpe:2.3:a:apache:mesos:0.12.0:beta1:*:*:*:jenkins:*:*,Apache Software Foundation Mesos 0.12.0 Beta1 for Jenkins,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-1000420', 'CVE-2018-1000421', 'CVE-2018-8023']",2022-03-18T19:24Z

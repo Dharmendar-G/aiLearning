@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codeception:codeception:1.0.13:*:*:*:*:*:*:*,Codeception 1.0.13,['CVE-2021-23420'],2022-03-20T05:10Z
+1,cpe:2.3:a:codeception:codeception:1.0.14:*:*:*:*:*:*:*,Codeception 1.0.14,['CVE-2021-23420'],2022-03-20T05:10Z
+2,cpe:2.3:a:codeception:codeception:1.1.0:*:*:*:*:*:*:*,Codeception 1.1.0,['CVE-2021-23420'],2022-03-20T05:10Z
+3,cpe:2.3:a:codeception:codeception:1.1.2:*:*:*:*:*:*:*,Codeception 1.1.2,['CVE-2021-23420'],2022-03-20T05:10Z
+4,cpe:2.3:a:codeception:codeception:1.1.3:*:*:*:*:*:*:*,Codeception 1.1.3,['CVE-2021-23420'],2022-03-20T05:10Z
+5,cpe:2.3:a:codeception:codeception:1.1.4:*:*:*:*:*:*:*,Codeception 1.1.4,['CVE-2021-23420'],2022-03-20T05:10Z
+6,cpe:2.3:a:codeception:codeception:1.1.5:*:*:*:*:*:*:*,Codeception 1.1.5,['CVE-2021-23420'],2022-03-20T05:10Z
+7,cpe:2.3:a:codeception:codeception:1.5.0:*:*:*:*:*:*:*,Codeception 1.5.0,['CVE-2021-23420'],2022-03-20T05:10Z
+8,cpe:2.3:a:codeception:codeception:1.5.1:*:*:*:*:*:*:*,Codeception 1.5.1,['CVE-2021-23420'],2022-03-20T05:10Z
+9,cpe:2.3:a:codeception:codeception:1.5.2:*:*:*:*:*:*:*,Codeception 1.5.2,['CVE-2021-23420'],2022-03-20T05:10Z

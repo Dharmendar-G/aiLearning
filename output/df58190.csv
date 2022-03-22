@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:questions_for_confluence:2.5.4:*:*:*:*:*:*:*,Atlassian Questions for Confluence 2.5.4,"['CVE-2018-13393', 'CVE-2018-13394']",2022-03-19T02:00Z
+1,cpe:2.3:a:atlassian:questions_for_confluence:2.5.5:*:*:*:*:*:*:*,Atlassian Questions for Confluence 2.5.5,"['CVE-2018-13393', 'CVE-2018-13394']",2022-03-19T02:00Z
+2,cpe:2.3:a:atlassian:questions_for_confluence:2.6.6:*:*:*:*:*:*:*,Atlassian Questions for Confluence 2.6.6,[''],2022-03-19T02:00Z
+3,cpe:2.3:a:atlassian:questions_for_confluence:2.6.10:*:*:*:*:*:*:*,Atlassian Questions for Confluence 2.6.10,[''],2022-03-19T02:00Z
+4,cpe:2.3:a:atlassian:questions_for_confluence:2.6.11:*:*:*:*:*:*:*,Atlassian Questions for Confluence 2.6.11,[''],2022-03-19T02:00Z
+5,cpe:2.3:a:atlassian:questions_for_confluence:2.6.13:*:*:*:*:*:*:*,Atlassian Questions for Confluence 2.6.13,[''],2022-03-19T02:00Z
+6,cpe:2.3:a:atlassian:questions_for_confluence:2.6.15:*:*:*:*:*:*:*,Atlassian Questions for Confluence 2.6.15,[''],2022-03-19T02:00Z
+7,cpe:2.3:a:atlassian:questions_for_confluence:2.7.9:*:*:*:*:*:*:*,Atlassian Questions for Confluence 2.7.9,[''],2022-03-19T02:00Z
+8,cpe:2.3:a:atlassian:questions_for_confluence:2.7.17:*:*:*:*:*:*:*,Atlassian Questions for Confluence 2.7.17,[''],2022-03-19T02:00Z
+9,cpe:2.3:a:atlassian:questions_for_confluence:2.7.19:*:*:*:*:*:*:*,Atlassian Questions for Confluence 2.7.19,[''],2022-03-19T02:00Z

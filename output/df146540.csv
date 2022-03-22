@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:garden-runc:1.18.2:*:*:*:*:*:*:*,Cloud Foundry Garden-runC 1.18.2,[''],2022-03-20T03:28Z
+1,cpe:2.3:a:cloudfoundry:garden-runc:1.18.3:*:*:*:*:*:*:*,Cloud Foundry Garden-runC 1.18.3,[''],2022-03-20T03:28Z
+2,cpe:2.3:a:cloudfoundry:garden-runc:1.19.0:*:*:*:*:*:*:*,Cloud Foundry Garden-runC 1.19.0,[''],2022-03-20T03:28Z
+3,cpe:2.3:a:cloudfoundry:garden-runc:1.19.1:*:*:*:*:*:*:*,Cloud Foundry Garden-runC 1.19.1,[''],2022-03-20T03:28Z
+4,cpe:2.3:a:cloudfoundry:garden-runc:1.19.2:*:*:*:*:*:*:*,Cloud Foundry Garden-runC 1.19.2,[''],2022-03-20T03:28Z
+5,cpe:2.3:a:cloudfoundry:gorouter:0.206.0:*:*:*:*:*:*:*,Cloud Foundry GoRouter 0.206.0,[''],2022-03-20T03:28Z
+6,cpe:2.3:a:cloudfoundry:java_buildpack:1.0:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 1.0,[''],2022-03-20T03:28Z
+7,cpe:2.3:a:cloudfoundry:java_buildpack:1.1:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 1.1,[''],2022-03-20T03:28Z
+8,cpe:2.3:a:cloudfoundry:java_buildpack:1.2:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 1.2,[''],2022-03-20T03:28Z
+9,cpe:2.3:a:cloudfoundry:java_buildpack:1.3:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 1.3,[''],2022-03-20T03:28Z

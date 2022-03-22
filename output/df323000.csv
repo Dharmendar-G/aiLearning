@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:integrated_lights-out_firmware:1.16a:*:*:*:*:*:*:*,HP Integrated Lights-Out (iLO) firmware 1.16a,"['CVE-2004-0525', 'CVE-2013-4805', 'CVE-2013-4842', 'CVE-2013-4843', 'CVE-2015-5436']",2022-03-21T13:42Z
+1,cpe:2.3:o:hp:integrated_lights-out_firmware:1.20a:*:*:*:*:*:*:*,HP Integrated Lights-Out (iLO) firmware 1.20a,"['CVE-2004-0525', 'CVE-2013-4805', 'CVE-2013-4842', 'CVE-2013-4843', 'CVE-2015-5436']",2022-03-21T13:42Z
+2,cpe:2.3:o:hp:integrated_lights-out_firmware:1.26a:*:*:*:*:*:*:*,HP Integrated Lights-Out (iLO) firmware 1.26a,"['CVE-2004-0525', 'CVE-2013-4805', 'CVE-2013-4842', 'CVE-2013-4843', 'CVE-2015-5436']",2022-03-21T13:42Z
+3,cpe:2.3:o:hp:integrated_lights-out_firmware:1.27a:*:*:*:*:*:*:*,HP Integrated Lights-Out (iLO) firmware 1.27a,"['CVE-2004-0525', 'CVE-2013-4805', 'CVE-2013-4842', 'CVE-2013-4843', 'CVE-2015-5436']",2022-03-21T13:42Z
+4,cpe:2.3:o:hp:integrated_lights-out_firmware:1.40a:*:*:*:*:*:*:*,HP Integrated Lights-Out (iLO) firmware 1.40a,"['CVE-2004-0525', 'CVE-2013-4805', 'CVE-2015-5436']",2022-03-21T13:42Z
+5,cpe:2.3:o:hp:integrated_lights-out_firmware:1.41a:*:*:*:*:*:*:*,HP Integrated Lights-Out (iLO) firmware 1.41a,"['CVE-2004-0525', 'CVE-2013-4805', 'CVE-2015-5436']",2022-03-21T13:42Z
+6,cpe:2.3:o:hp:integrated_lights-out_firmware:1.42a:*:*:*:*:*:*:*,HP Integrated Lights-Out (iLO) firmware 1.42a,"['CVE-2004-0525', 'CVE-2013-4805', 'CVE-2015-5436']",2022-03-21T13:42Z
+7,cpe:2.3:o:hp:integrated_lights-out_firmware:1.50:*:*:*:*:*:*:*,HP Integrated Lights-Out (iLO) firmware 1.50,"['CVE-2004-0525', 'CVE-2013-4805', 'CVE-2015-5436']",2022-03-21T13:42Z
+8,cpe:2.3:o:hp:integrated_lights-out_firmware:1.50a:*:*:*:*:*:*:*,HP Integrated Lights-Out (iLO) firmware 1.50a,"['CVE-2004-0525', 'CVE-2013-4805', 'CVE-2015-5436']",2022-03-21T13:42Z
+9,cpe:2.3:o:hp:integrated_lights-out_firmware:1.51a:*:*:*:*:*:*:*,HP Integrated Lights-Out (iLO) firmware 1.51a,"['CVE-2004-0525', 'CVE-2013-4805', 'CVE-2015-5436']",2022-03-21T13:42Z

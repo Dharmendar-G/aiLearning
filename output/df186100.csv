@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:digium:certified_asterisk:1.0.8:*:*:*:*:*:*:*,Digium Certified Asterisk 1.0.8,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:39Z
+1,cpe:2.3:a:digium:certified_asterisk:1.0.9:*:*:*:*:*:*:*,Digium Certified Asterisk 1.0.9,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:39Z
+2,cpe:2.3:a:digium:certified_asterisk:1.0.10:*:*:*:*:*:*:*,Digium Certified Asterisk 1.0.10,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:39Z
+3,cpe:2.3:a:digium:certified_asterisk:1.0.11:*:*:*:*:*:*:*,Digium Certified Asterisk 1.0.11,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:39Z
+4,cpe:2.3:a:digium:certified_asterisk:1.0.11.1:*:*:*:*:*:*:*,Digium Certified Asterisk 1.0.11.1,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:39Z
+5,cpe:2.3:a:digium:certified_asterisk:1.0.12:*:*:*:*:*:*:*,Digium Certified Asterisk 1.0.12,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:39Z
+6,cpe:2.3:a:digium:certified_asterisk:1.2.0:*:*:*:*:*:*:*,Digium Certified Asterisk 1.2.0,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:39Z
+7,cpe:2.3:a:digium:certified_asterisk:1.2.1:*:*:*:*:*:*:*,Digium Certified Asterisk 1.2.1,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:39Z
+8,cpe:2.3:a:digium:certified_asterisk:1.2.2:*:*:*:*:*:*:*,Digium Certified Asterisk 1.2.2,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:39Z
+9,cpe:2.3:a:digium:certified_asterisk:1.2.3:*:*:*:*:*:*:*,Digium Certified Asterisk 1.2.3,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:39Z

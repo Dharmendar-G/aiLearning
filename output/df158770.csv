@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:connection-tester_project:connection-tester:0.1.2:*:*:*:*:node.js:*:*,connection-tester Project connection-tester 0.1.2 for Node.js,['CVE-2020-7781'],2022-03-20T07:20Z
+1,cpe:2.3:a:connection-tester_project:connection-tester:0.2.0:*:*:*:*:node.js:*:*,Connection-tester Project Connection-tester 0.2.0 for Node.js,['CVE-2020-7781'],2022-03-20T07:20Z
+2,cpe:2.3:a:connection-tester_project:connection-tester:0.2.1:*:*:*:*:node.js:*:*,Connection-tester Project Connection-tester 0.2.1 for Node.js,[''],2022-03-20T07:20Z
+3,cpe:2.3:a:connectiva:linux:-:*:*:*:*:*:*:*,Linux Connectiva,[''],2022-03-20T07:20Z
+4,cpe:2.3:a:connectiva:linux:6.0:*:*:*:*:*:*:*,Linux Connectiva 6,[''],2022-03-20T07:20Z
+5,cpe:2.3:a:connectiva:linux:7.0:*:*:*:*:*:*:*,Linux Connectiva 7,[''],2022-03-20T07:20Z
+6,cpe:2.3:a:connectiva:linux:8.0:*:*:*:*:*:*:*,Linux Connectiva 8,[''],2022-03-20T07:20Z
+7,cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:1.0.0:*:*:*:*:node.js:*:*,connect-pg-simple Project connect-pg-simple 1.0.0 for Node.js,['CVE-2019-15658'],2022-03-20T07:20Z
+8,cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:1.0.1:*:*:*:*:node.js:*:*,connect-pg-simple Project connect-pg-simple 1.0.1 for Node.js,['CVE-2019-15658'],2022-03-20T07:20Z
+9,cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:1.0.2:*:*:*:*:node.js:*:*,connect-pg-simple Project connect-pg-simple 1.0.2 for Node.js,['CVE-2019-15658'],2022-03-20T07:20Z

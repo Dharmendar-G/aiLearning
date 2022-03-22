@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:db2_universal_database:8.1.8:*:*:*:*:*:*:*,IBM DB2 Universal Database 8.1.8,"['CVE-2005-3643', 'CVE-2005-4735', 'CVE-2005-4736', 'CVE-2005-4737', 'CVE-2005-4738', 'CVE-2005-4739', 'CVE-2005-4740', 'CVE-2006-3066', 'CVE-2006-6638', 'CVE-2007-1086']",2022-03-21T20:23Z
+1,cpe:2.3:a:ibm:db2_universal_database:8.1.8a:*:*:*:*:*:*:*,IBM DB2 Universal Database 8.1.8a,"['CVE-2005-3643', 'CVE-2005-4735', 'CVE-2005-4736', 'CVE-2005-4737', 'CVE-2005-4738', 'CVE-2005-4739', 'CVE-2005-4740', 'CVE-2006-3066', 'CVE-2006-6638', 'CVE-2007-1086']",2022-03-21T20:23Z
+2,cpe:2.3:a:ibm:db2_universal_database:8.1.9:*:*:*:*:*:*:*,IBM DB2 Universal Database 8.1.9,"['CVE-2005-3643', 'CVE-2005-4735', 'CVE-2005-4736', 'CVE-2005-4737', 'CVE-2005-4738', 'CVE-2005-4739', 'CVE-2005-4740', 'CVE-2006-3066', 'CVE-2006-6638', 'CVE-2007-1086']",2022-03-21T20:23Z
+3,cpe:2.3:a:ibm:db2_universal_database:8.1.9a:*:*:*:*:*:*:*,IBM DB2 Universal Database 8.1.9a,"['CVE-2005-3643', 'CVE-2005-4735', 'CVE-2005-4736', 'CVE-2005-4737', 'CVE-2005-4738', 'CVE-2005-4739', 'CVE-2005-4740', 'CVE-2006-3066', 'CVE-2006-6638', 'CVE-2007-1086']",2022-03-21T20:23Z
+4,cpe:2.3:a:ibm:db2_universal_database:8.2:*:*:*:*:*:*:*,IBM DB2 Universal Database 8.2,"['CVE-2006-3066', 'CVE-2008-3960']",2022-03-21T20:23Z
+5,cpe:2.3:a:ibm:db2_universal_database:8.10:*:*:*:*:*:*:*,IBM DB2 Universal Database 8.10,"['CVE-2006-3066', 'CVE-2006-6638', 'CVE-2007-1086']",2022-03-21T20:23Z
+6,cpe:2.3:a:ibm:db2_universal_database:8.12:*:*:*:*:*:*:*,IBM DB2 Universal Database 8.12,"['CVE-2006-6638', 'CVE-2007-1086']",2022-03-21T20:23Z
+7,cpe:2.3:a:ibm:db2_universal_database:9.0:*:*:*:*:*:*:*,IBM DB2 Universal Database 9.0,['CVE-2007-4423'],2022-03-21T20:23Z
+8,cpe:2.3:a:ibm:db2_universal_database:9.1:*:*:*:*:*:*:*,IBM DB2 Universal Database 9.1,"['CVE-2007-5664', 'CVE-2007-5758']",2022-03-21T20:23Z
+9,cpe:2.3:a:ibm:db2_universal_database:9.1:ga:*:*:*:*:*:*,IBM DB2 Universal Database 9.1 GA,"['CVE-2007-1089', 'CVE-2007-5664', 'CVE-2007-5758', 'CVE-2009-0172', 'CVE-2009-0173']",2022-03-21T20:23Z

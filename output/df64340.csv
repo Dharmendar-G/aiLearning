@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avaya:aura_experience_portal:7.1:*:*:*:*:*:*:*,Avaya Aura Experience Portal 7.1,"['CVE-2016-5285', 'CVE-2021-25655', 'CVE-2021-25656']",2022-03-19T04:04Z
+1,cpe:2.3:a:avaya:aura_experience_portal:8.0.0:*:*:*:*:*:*:*,Avaya Aura Experience Portal 8.0.0,"['CVE-2021-25655', 'CVE-2021-25656']",2022-03-19T04:04Z
+2,cpe:2.3:a:avaya:aura_messaging:6.3:*:*:*:*:*:*:*,Avaya Aura Messaging 6.3,['CVE-2016-5285'],2022-03-19T04:04Z
+3,cpe:2.3:a:avaya:aura_messaging:6.3.3:-:*:*:*:*:*:*,Avaya Aura Messaging 6.3.3,['CVE-2016-5285'],2022-03-19T04:04Z
+4,cpe:2.3:a:avaya:aura_messaging:6.3.3:sp4:*:*:*:*:*:*,Avaya Aura Messaging 6.3.3 Service Pack 4,['CVE-2016-5285'],2022-03-19T04:04Z
+5,cpe:2.3:a:avaya:aura_messaging:6.3.3:sp5:*:*:*:*:*:*,Avaya Aura Messaging 6.3.3 Service Pack 5,['CVE-2016-5285'],2022-03-19T04:04Z
+6,cpe:2.3:a:avaya:aura_messaging:6.3.3:sp6:*:*:*:*:*:*,Avaya Aura Messaging 6.3.3 Service Pack 6,['CVE-2016-5285'],2022-03-19T04:04Z
+7,cpe:2.3:a:avaya:aura_messaging:7.1:-:*:*:*:*:*:*,Avaya Aura Messaging 7.1,['CVE-2020-7029'],2022-03-19T04:04Z
+8,cpe:2.3:a:avaya:aura_messaging:7.1:sp1:*:*:*:*:*:*,Avaya Aura Messaging 7.1 Service Pack 1,['CVE-2020-7029'],2022-03-19T04:04Z
+9,cpe:2.3:a:avaya:aura_messaging:7.1:sp2:*:*:*:*:*:*,Avaya Aura Messaging 7.1 Service Pack 2,[''],2022-03-19T04:04Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:canon:mf220:-:*:*:*:*:*:*:*,Canon MF220,['CVE-2018-11711'],2022-03-19T15:14Z
+1,cpe:2.3:o:canon:mf220_firmware:-:*:*:*:*:*:*:*,Canon MF220 Firmware,['CVE-2018-11711'],2022-03-19T15:14Z
+2,cpe:2.3:h:canon:mf222dw:-:*:*:*:*:*:*:*,Canon MF222DW,['CVE-2021-20877'],2022-03-19T15:14Z
+3,cpe:2.3:h:canon:mf224dw:-:*:*:*:*:*:*:*,Canon MF224DW,['CVE-2021-20877'],2022-03-19T15:14Z
+4,cpe:2.3:h:canon:mf226dn:-:*:*:*:*:*:*:*,Canon MF226DN,['CVE-2020-16849'],2022-03-19T15:14Z
+5,cpe:2.3:o:canon:mf226dn_firmware:-:*:*:*:*:*:*:*,Canon MF226DN Firmware,['CVE-2020-16849'],2022-03-19T15:14Z
+6,cpe:2.3:h:canon:mf227dw:-:*:*:*:*:*:*:*,Canon MF227DW,['CVE-2021-20877'],2022-03-19T15:14Z
+7,cpe:2.3:h:canon:mf229dw:-:*:*:*:*:*:*:*,Canon MF229DW,"['CVE-2020-16849', 'CVE-2021-20877']",2022-03-19T15:14Z
+8,cpe:2.3:o:canon:mf229dw_firmware:-:*:*:*:*:*:*:*,Canon MF229DW Firmware,['CVE-2020-16849'],2022-03-19T15:14Z
+9,cpe:2.3:h:canon:mf231:-:*:*:*:*:*:*:*,Canon MF231,['CVE-2020-16849'],2022-03-19T15:14Z

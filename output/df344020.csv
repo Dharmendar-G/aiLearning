@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:iss_realsecure_network:7.0:xpu_22.2:*:*:*:*:*:*,IBM ISS RealSecure Network 7.0 XPU 22.2,[''],2022-03-21T20:55Z
+1,cpe:2.3:a:ibm:iss_realsecure_network:7.0:xpu_22.3:*:*:*:*:*:*,IBM ISS RealSecure Network 7.0 XPU 22.3,[''],2022-03-21T20:55Z
+2,cpe:2.3:a:ibm:iss_realsecure_network:7.0:xpu_22.4:*:*:*:*:*:*,IBM ISS RealSecure Network 7.0 XPU 22.4,[''],2022-03-21T20:55Z
+3,cpe:2.3:a:ibm:iss_realsecure_network:7.0:xpu_22.5:*:*:*:*:*:*,IBM ISS RealSecure Network 7.0 XPU 22.5,[''],2022-03-21T20:55Z
+4,cpe:2.3:a:ibm:iss_realsecure_network:7.0:xpu_22.6:*:*:*:*:*:*,IBM ISS RealSecure Network 7.0 XPU 22.6,[''],2022-03-21T20:55Z
+5,cpe:2.3:a:ibm:iss_realsecure_network:7.0:xpu_22.7:*:*:*:*:*:*,IBM ISS RealSecure Network 7.0 XPU 22.7,[''],2022-03-21T20:55Z
+6,cpe:2.3:a:ibm:iss_realsecure_network:7.0:xpu_22.8:*:*:*:*:*:*,IBM ISS RealSecure Network 7.0 XPU 22.8,[''],2022-03-21T20:55Z
+7,cpe:2.3:a:ibm:iss_realsecure_network:7.0:xpu_22.9:*:*:*:*:*:*,IBM ISS RealSecure Network 7.0 XPU 22.9,[''],2022-03-21T20:55Z
+8,cpe:2.3:a:ibm:iss_realsecure_network:7.0:xpu_24.39:*:*:*:*:*:*,IBM ISS RealSecure Network 7.0 XPU 24.39,[''],2022-03-21T20:55Z
+9,cpe:2.3:a:ibm:iss_realsecure_server_sensor:5.5:*:*:*:*:*:*:*,IBM ISS RealSecure Server Sensor 5.5,[''],2022-03-21T20:55Z

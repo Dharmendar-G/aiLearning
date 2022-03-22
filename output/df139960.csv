@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:xrv_9000:-:*:*:*:*:*:*:*,Cisco XRV 9000,"['CVE-2019-15989', 'CVE-2019-16018', 'CVE-2019-16020', 'CVE-2019-16022', 'CVE-2020-3118', 'CVE-2020-3120']",2022-03-20T01:26Z
+1,cpe:2.3:h:cisco:yesmax_hd:-:*:*:*:*:*:*:*,Cisco YesMax HD,['CVE-2017-6631'],2022-03-20T01:26Z
+2,cpe:2.3:o:cisco:yesmax_hd_firmware:-:*:*:*:*:*:*:*,Cisco YesMax HD Firmware,['CVE-2017-6631'],2022-03-20T01:26Z
+3,cpe:2.3:h:cisco:yesmaxtotal:-:*:*:*:*:*:*:*,Cisco YesMaxTotal,['CVE-2017-6631'],2022-03-20T01:26Z
+4,cpe:2.3:o:cisco:yesmaxtotal_firmware:-:*:*:*:*:*:*:*,Cisco YesMaxTotal Firmware,['CVE-2017-6631'],2022-03-20T01:26Z
+5,cpe:2.3:h:cisco:yesquattro:-:*:*:*:*:*:*:*,Cisco YesQuattro,['CVE-2017-6631'],2022-03-20T01:26Z
+6,cpe:2.3:o:cisco:yesquattro_firmware:-:*:*:*:*:*:*:*,Cisco YesQuattro Firmware,['CVE-2017-6631'],2022-03-20T01:26Z
+7,cpe:2.3:a:cisecurity:cis-cat_pro_dashboard:1.0.0:*:*:*:*:*:*:*,Center for Internet Security CIS-CAT Pro Dashboard 1.0.0,['CVE-2017-8916'],2022-03-20T01:26Z
+8,cpe:2.3:a:cisecurity:cis-cat_pro_dashboard:1.0.1:*:*:*:*:*:*:*,Center for Internet Security CIS-CAT Pro Dashboard 1.0.1,['CVE-2017-8916'],2022-03-20T01:26Z
+9,cpe:2.3:a:cisecurity:cis-cat_pro_dashboard:1.0.2:*:*:*:*:*:*:*,Center for Internet Security CIS-CAT Pro Dashboard 1.0.2,['CVE-2017-8916'],2022-03-20T01:26Z

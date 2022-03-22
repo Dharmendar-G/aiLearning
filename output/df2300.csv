@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:360:safe_router_p2:-:*:*:*:*:*:*:*,360 Safe Router P2,['CVE-2018-19031'],2022-03-18T09:59Z
+1,cpe:2.3:o:360:safe_router_p2_firmware:2.0.61.58897:*:*:*:*:*:*:*,360 Safe Router P2 Firmware 2.0.61.58897,['CVE-2018-19031'],2022-03-18T09:59Z
+2,cpe:2.3:h:360:safe_router_p3:-:*:*:*:*:*:*:*,360 Safe Router P3,['CVE-2018-19031'],2022-03-18T09:59Z
+3,cpe:2.3:o:360:safe_router_p3_firmware:2.0.61.58897:*:*:*:*:*:*:*,360 Safe Router P3 Firmware 2.0.61.58897,['CVE-2018-19031'],2022-03-18T09:59Z
+4,cpe:2.3:h:360:safe_router_p4:-:*:*:*:*:*:*:*,360 Safe Router P4,['CVE-2018-19031'],2022-03-18T09:59Z
+5,cpe:2.3:o:360:safe_router_p4_firmware:2.0.61.58897:*:*:*:*:*:*:*,360 Safe Router P4 Firmware 2.0.61.58897,['CVE-2018-19031'],2022-03-18T09:59Z
+6,cpe:2.3:a:360:speed_browser:12.0.1247.0:*:*:*:*:*:*:*,360 Speed Browser 12.0.1247.0,['CVE-2020-24158'],2022-03-18T09:59Z
+7,cpe:2.3:a:360class.jansenhm_project:360class.jansenhm:0.1.1:*:*:*:*:node.js:*:*,360class.jansenhm Project 360class.jansenhm 0.1.1 for Node.js,['CVE-2017-16186'],2022-03-18T09:59Z
+8,cpe:2.3:h:360fly:4k_camera:-:*:*:*:*:*:*:*,360fly 4K Camera,['CVE-2017-8403'],2022-03-18T09:59Z
+9,cpe:2.3:o:360fly:4k_camera_firmware:2.1.4:*:*:*:*:*:*:*,360fly 4K Camera Firmware 2.1.4,['CVE-2017-8403'],2022-03-18T09:59Z

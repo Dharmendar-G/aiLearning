@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:omniback_ii:-:*:*:*:*:*:*:*,HP OmniBackII,[''],2022-03-21T15:34Z
+1,cpe:2.3:a:hp:omniback_ii:a.03.50:*:*:*:*:*:*:*,HP OmniBackII A.03.50,['CVE-2001-0311'],2022-03-21T15:34Z
+2,cpe:2.3:a:hp:onboard_administrator:1.00:*:*:*:*:*:*:*,HP Onboard Administrator (OA) 1.00,"['CVE-2012-0128', 'CVE-2012-0129', 'CVE-2012-0130']",2022-03-21T15:34Z
+3,cpe:2.3:a:hp:onboard_administrator:1.01:*:*:*:*:*:*:*,HP Onboard Administrator (OA) 1.01,"['CVE-2012-0128', 'CVE-2012-0129', 'CVE-2012-0130']",2022-03-21T15:34Z
+4,cpe:2.3:a:hp:onboard_administrator:1.10:*:*:*:*:*:*:*,HP Onboard Administrator (OA) 1.10,"['CVE-2012-0128', 'CVE-2012-0129', 'CVE-2012-0130']",2022-03-21T15:34Z
+5,cpe:2.3:a:hp:onboard_administrator:1.11:*:*:*:*:*:*:*,HP Onboard Administrator (OA) 1.11,"['CVE-2012-0128', 'CVE-2012-0129', 'CVE-2012-0130']",2022-03-21T15:34Z
+6,cpe:2.3:a:hp:onboard_administrator:1.12:*:*:*:*:*:*:*,HP Onboard Administrator (OA) 1.12,"['CVE-2012-0128', 'CVE-2012-0129', 'CVE-2012-0130']",2022-03-21T15:34Z
+7,cpe:2.3:a:hp:onboard_administrator:1.20:*:*:*:*:*:*:*,HP Onboard Administrator (OA) 1.20,"['CVE-2012-0128', 'CVE-2012-0129', 'CVE-2012-0130']",2022-03-21T15:34Z
+8,cpe:2.3:a:hp:onboard_administrator:1.30:*:*:*:*:*:*:*,HP Onboard Administrator (OA) 1.30,"['CVE-2012-0128', 'CVE-2012-0129', 'CVE-2012-0130']",2022-03-21T15:34Z
+9,cpe:2.3:a:hp:onboard_administrator:2.01:*:*:*:*:*:*:*,HP Onboard Administrator (OA) 2.01,"['CVE-2012-0128', 'CVE-2012-0129', 'CVE-2012-0130']",2022-03-21T15:34Z

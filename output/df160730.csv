@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:contrastsecurity:service_broker:2.2.0:*:*:*:*:pivotal_cloud_foundry:*:*,Contrastsecurity Service Broker 2.2.0 for Pivotal Cloud Foundry,[''],2022-03-20T07:47Z
+1,cpe:2.3:a:contribsys:sidekiq:0.5.0:*:*:*:*:*:*:*,Contributed Systems Sidekiq 0.5.0,"['CVE-2021-30151', 'CVE-2022-23837']",2022-03-20T07:47Z
+2,cpe:2.3:a:contribsys:sidekiq:0.5.1:*:*:*:*:*:*:*,Contributed Systems Sidekiq 0.5.1,"['CVE-2021-30151', 'CVE-2022-23837']",2022-03-20T07:47Z
+3,cpe:2.3:a:contribsys:sidekiq:0.7.0:*:*:*:*:*:*:*,Contributed Systems Sidekiq 0.7.0,"['CVE-2021-30151', 'CVE-2022-23837']",2022-03-20T07:47Z
+4,cpe:2.3:a:contribsys:sidekiq:0.8.0:*:*:*:*:*:*:*,Contributed Systems Sidekiq 0.8.0,"['CVE-2021-30151', 'CVE-2022-23837']",2022-03-20T07:47Z
+5,cpe:2.3:a:contribsys:sidekiq:0.10.0:*:*:*:*:*:*:*,Contributed Systems Sidekiq 0.10.0,"['CVE-2021-30151', 'CVE-2022-23837']",2022-03-20T07:47Z
+6,cpe:2.3:a:contribsys:sidekiq:1.0.0:*:*:*:*:*:*:*,Contributed Systems Sidekiq 1.0.0,"['CVE-2021-30151', 'CVE-2022-23837']",2022-03-20T07:47Z
+7,cpe:2.3:a:contribsys:sidekiq:1.1.0:*:*:*:*:*:*:*,Contributed Systems Sidekiq 1.1.0,"['CVE-2021-30151', 'CVE-2022-23837']",2022-03-20T07:47Z
+8,cpe:2.3:a:contribsys:sidekiq:1.1.1:*:*:*:*:*:*:*,Contributed Systems Sidekiq 1.1.1,"['CVE-2021-30151', 'CVE-2022-23837']",2022-03-20T07:47Z
+9,cpe:2.3:a:contribsys:sidekiq:1.1.4:*:*:*:*:*:*:*,Contributed Systems Sidekiq 1.1.4,"['CVE-2021-30151', 'CVE-2022-23837']",2022-03-20T07:47Z

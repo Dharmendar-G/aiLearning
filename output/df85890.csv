@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bosch:video_recording_manager:3.82:*:*:*:*:*:*:*,Bosch Video Recording Manager 3.82,"['CVE-2020-6786', 'CVE-2021-23859', 'CVE-2021-23860', 'CVE-2021-23861', 'CVE-2021-23862']",2022-03-19T10:06Z
+1,cpe:2.3:a:bosch:video_recording_manager:3.82.0055:*:*:*:*:*:*:*,Bosch Video Recording Manager 3.82.0055,"['CVE-2020-6786', 'CVE-2021-23859', 'CVE-2021-23860', 'CVE-2021-23861', 'CVE-2021-23862']",2022-03-19T10:06Z
+2,cpe:2.3:a:bosch:video_sdk:6.32.0099:*:*:*:*:*:*:*,Bosch Video SDK 6.32.0099,[''],2022-03-19T10:06Z
+3,cpe:2.3:a:bosch:video_streaming_gateway:-:*:*:*:*:*:*:*,Bosch Video Streaming Gateway,"['CVE-2019-6957', 'CVE-2020-6769', 'CVE-2020-6790']",2022-03-19T10:06Z
+4,cpe:2.3:a:bosch:video_streaming_gateway:6.42.10:*:*:*:*:*:*:*,Bosch Video Streaming Gateway 6.42.10,"['CVE-2019-6957', 'CVE-2020-6769', 'CVE-2020-6790']",2022-03-19T10:06Z
+5,cpe:2.3:a:bosch:video_streaming_gateway:6.43:*:*:*:*:*:*:*,Bosch Video Streaming Gateway 6.43,"['CVE-2019-6957', 'CVE-2020-6769', 'CVE-2020-6790']",2022-03-19T10:06Z
+6,cpe:2.3:a:bosch:video_streaming_gateway:6.43.0023:*:*:*:*:*:*:*,Bosch Video Streaming Gateway (VSG) 6.43.0023,"['CVE-2020-6769', 'CVE-2020-6790']",2022-03-19T10:06Z
+7,cpe:2.3:a:bosch:video_streaming_gateway:6.44:*:*:*:*:*:*:*,Bosch Video Streaming Gateway 6.44,"['CVE-2020-6769', 'CVE-2020-6790']",2022-03-19T10:06Z
+8,cpe:2.3:a:bosch:video_streaming_gateway:6.44.022:*:*:*:*:*:*:*,Bosch Video Streaming Gateway 6.44.022,"['CVE-2020-6769', 'CVE-2020-6790']",2022-03-19T10:06Z
+9,cpe:2.3:a:bosch:video_streaming_gateway:6.45:*:*:*:*:*:*:*,Bosch Video Streaming Gateway 6.45,"['CVE-2019-6957', 'CVE-2020-6769', 'CVE-2020-6790']",2022-03-19T10:06Z

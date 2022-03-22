@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:libapreq2:1.0:*:*:*:*:*:*:*,Libapreq2 1.0,['CVE-2006-0042'],2022-03-18T19:17Z
+1,cpe:2.3:a:apache:libapreq2:1.1:*:*:*:*:*:*:*,Libapreq2 1.1,['CVE-2006-0042'],2022-03-18T19:17Z
+2,cpe:2.3:a:apache:libapreq2:1.2:*:*:*:*:*:*:*,Libapreq2 1.2,['CVE-2006-0042'],2022-03-18T19:17Z
+3,cpe:2.3:a:apache:libapreq2:1.3:*:*:*:*:*:*:*,Libapreq2 1.3,['CVE-2006-0042'],2022-03-18T19:17Z
+4,cpe:2.3:a:apache:libapreq2:1.33:*:*:*:*:*:*:*,Libapreq2 1.33,['CVE-2006-0042'],2022-03-18T19:17Z
+5,cpe:2.3:a:apache:libapreq2:1.34:*:*:*:*:*:*:*,Apache Software Foundation Libapreq2 1.34,['CVE-2006-0042'],2022-03-18T19:17Z
+6,cpe:2.3:a:apache:libapreq2:2.01_03:dev:*:*:*:*:*:*,Libapreq2 2.01 Dev,['CVE-2006-0042'],2022-03-18T19:17Z
+7,cpe:2.3:a:apache:libapreq2:2.02_02:dev:*:*:*:*:*:*,Libapreq2 2.02 Dev,['CVE-2006-0042'],2022-03-18T19:17Z
+8,cpe:2.3:a:apache:libapreq2:2.03_04:dev:*:*:*:*:*:*,Libapreq2 2.03 Dev,['CVE-2006-0042'],2022-03-18T19:17Z
+9,cpe:2.3:a:apache:libapreq2:2.04_03:dev:*:*:*:*:*:*,Libapreq2 2.04 Dev,['CVE-2006-0042'],2022-03-18T19:17Z

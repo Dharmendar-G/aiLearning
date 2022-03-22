@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dalbum:dalbum:1.07:*:*:*:*:*:*:*,DAlbum 1.07,['CVE-2012-5891'],2022-03-20T09:59Z
+1,cpe:2.3:a:dalbum:dalbum:1.08:*:*:*:*:*:*:*,DAlbum 1.08,['CVE-2012-5891'],2022-03-20T09:59Z
+2,cpe:2.3:a:dalbum:dalbum:1.09:*:*:*:*:*:*:*,DAlbum 1.09,['CVE-2012-5891'],2022-03-20T09:59Z
+3,cpe:2.3:a:dalbum:dalbum:1.10:*:*:*:*:*:*:*,DAlbum 1.10,['CVE-2012-5891'],2022-03-20T09:59Z
+4,cpe:2.3:a:dalbum:dalbum:1.20:*:*:*:*:*:*:*,DAlbum 1.20,['CVE-2012-5891'],2022-03-20T09:59Z
+5,cpe:2.3:a:dalbum:dalbum:1.21:*:*:*:*:*:*:*,DAlbum 1.21,['CVE-2012-5891'],2022-03-20T09:59Z
+6,cpe:2.3:a:dalbum:dalbum:1.22:*:*:*:*:*:*:*,DAlbum 1.22,['CVE-2012-5891'],2022-03-20T09:59Z
+7,cpe:2.3:a:dalbum:dalbum:1.22:sp2:*:*:*:*:*:*,DAlbum 1.22 Service Pack 2,['CVE-2012-5891'],2022-03-20T09:59Z
+8,cpe:2.3:a:dalbum:dalbum:1.22:sp3:*:*:*:*:*:*,DAlbum 1.22 Service Pack 3,['CVE-2012-5891'],2022-03-20T09:59Z
+9,cpe:2.3:a:dalbum:dalbum:1.22:sp4:*:*:*:*:*:*,DAlbum 1.22 Service Pack 4,['CVE-2012-5891'],2022-03-20T09:59Z

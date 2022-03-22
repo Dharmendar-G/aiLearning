@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:checkpoint:sandblast_agent_for_browsers:90.08.7405:*:*:*:*:*:*:*,Check Point SandBlast Agent For Browsers 90.08.7405,[''],2022-03-19T16:48Z
+1,cpe:2.3:a:checkpoint:secure_platform_ng:-:*:*:*:*:*:*:*,Checkpoint Software Secure Platform NG,[''],2022-03-19T16:48Z
+2,cpe:2.3:a:checkpoint:secureclient_ng:-:*:*:*:*:*:*:*,Checkpoint SecureClient NG,[''],2022-03-19T16:48Z
+3,cpe:2.3:a:checkpoint:secureclient_ng:r54:*:*:*:*:*:*:*,Checkpoint SecuRemote NG with Application Intelligence R54,['CVE-2005-2313'],2022-03-19T16:48Z
+4,cpe:2.3:a:checkpoint:secureclient_ng:r56:*:*:*:*:*:*:*,Checkpoint SecureClient NG with Application Intelligence R56,['CVE-2005-4093'],2022-03-19T16:48Z
+5,cpe:2.3:a:checkpoint:security_gateway:r71.00:*:*:*:*:*:*:*,CheckPoint Security Gateway r71.00,['CVE-2013-7350'],2022-03-19T16:48Z
+6,cpe:2.3:a:checkpoint:security_gateway:r71.45:*:*:*:*:*:*:*,CheckPoint Security Gateway r71.45,['CVE-2013-7350'],2022-03-19T16:48Z
+7,cpe:2.3:a:checkpoint:security_gateway:r75:*:*:*:*:*:*:*,Check Point Security Gateway R75,['CVE-2014-8951'],2022-03-19T16:48Z
+8,cpe:2.3:a:checkpoint:security_gateway:r75.20:*:*:*:*:*:*:*,CheckPoint Security Gateway r75.20,['CVE-2013-7350'],2022-03-19T16:48Z
+9,cpe:2.3:a:checkpoint:security_gateway:r75.40:vs:*:*:*:*:*:*,Check Point Security Gateway R75.40VS,['CVE-2014-8952'],2022-03-19T16:48Z

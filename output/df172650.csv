@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dasan:h660gw:-:*:*:*:*:*:*:*,DASAN H660GW,"['CVE-2018-17868', 'CVE-2018-17869']",2022-03-20T10:24Z
+1,cpe:2.3:o:dasan:h660gw_firmware:-:*:*:*:*:*:*:*,DASAN H660GW Firmware -,"['CVE-2018-17868', 'CVE-2018-17869']",2022-03-20T10:24Z
+2,cpe:2.3:h:dasannetworks:gpon_router:-:*:*:*:*:*:*:*,DASAN Networks GPON Router,"['CVE-2018-10561', 'CVE-2018-10562']",2022-03-20T10:24Z
+3,cpe:2.3:o:dasannetworks:gpon_router_firmware:-:*:*:*:*:*:*:*,DASAN Networks GPON Router Firmware,"['CVE-2018-10561', 'CVE-2018-10562']",2022-03-20T10:24Z
+4,cpe:2.3:h:dasannetworks:h640x:-:*:*:*:*:*:*:*,DASAN Networks H640X,['CVE-2017-18046'],2022-03-20T10:24Z
+5,cpe:2.3:o:dasannetworks:h640x_firmware:2.77p1-1124:*:*:*:*:*:*:*,DASAN Networks H640X Firmware 2.77p1-1124,['CVE-2017-18046'],2022-03-20T10:24Z
+6,cpe:2.3:o:dasannetworks:h640x_firmware:3.03p2-1146:*:*:*:*:*:*:*,DASAN Networks H640X Firmware 3.03p2-1146,['CVE-2017-18046'],2022-03-20T10:24Z
+7,cpe:2.3:o:dasannetworks:h640x_firmware:12.02-01121:*:*:*:*:*:*:*,DASAN Networks H640X Firmware 12.02-01121,['CVE-2017-18046'],2022-03-20T10:24Z
+8,cpe:2.3:h:dasannetworks:h660gw:-:*:*:*:*:*:*:*,DASAN Networks H660GW,['CVE-2018-17867'],2022-03-20T10:24Z
+9,cpe:2.3:o:dasannetworks:h660gw_firmware:-:*:*:*:*:*:*:*,DASAN Networks H660GW Firmware,['CVE-2018-17867'],2022-03-20T10:24Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:atos:openstage_40_g_firmware:v3:r3.11.0:*:*:*:*:*:*,Atos OpenStage 40 G Firmware V3 R3.11.0,"['CVE-2014-2650', 'CVE-2014-2651']",2022-03-19T02:24Z
+1,cpe:2.3:h:atos:openstage_5:-:*:*:*:*:*:*:*,Atos OpenStage 5,['CVE-2014-2650'],2022-03-19T02:24Z
+2,cpe:2.3:o:atos:openstage_5_firmware:v3:r3.11.0:*:*:*:*:*:*,Atos OpenStage 5 Firmware V3 R3.11.0,['CVE-2014-2650'],2022-03-19T02:24Z
+3,cpe:2.3:h:atos:openstage_60:-:*:*:*:*:*:*:*,Atos OpenStage 60,"['CVE-2014-2650', 'CVE-2014-2651']",2022-03-19T02:24Z
+4,cpe:2.3:o:atos:openstage_60_firmware:v3:r3.11.0:*:*:*:*:*:*,Atos OpenStage 60 Firmware V3 R3.11.0,"['CVE-2014-2650', 'CVE-2014-2651']",2022-03-19T02:24Z
+5,cpe:2.3:h:atos:openstage_60_g:-:*:*:*:*:*:*:*,Atos OpenStage 60 G,"['CVE-2014-2650', 'CVE-2014-2651']",2022-03-19T02:24Z
+6,cpe:2.3:o:atos:openstage_60_g_firmware:v3:r3.11.0:*:*:*:*:*:*,Atos OpenStage 60 G Firmware V3 R3.11.0,"['CVE-2014-2650', 'CVE-2014-2651']",2022-03-19T02:24Z
+7,cpe:2.3:h:atos:openstage_80:-:*:*:*:*:*:*:*,Atos OpenStage 80,"['CVE-2014-2650', 'CVE-2014-2651']",2022-03-19T02:24Z
+8,cpe:2.3:o:atos:openstage_80_firmware:v3:r3.11.0:*:*:*:*:*:*,Atos OpenStage 80 Firmware V3 R3.11.0,"['CVE-2014-2650', 'CVE-2014-2651']",2022-03-19T02:24Z
+9,cpe:2.3:h:atos:openstage_80_g:-:*:*:*:*:*:*:*,Atos OpenStage 80 G,"['CVE-2014-2650', 'CVE-2014-2651']",2022-03-19T02:24Z

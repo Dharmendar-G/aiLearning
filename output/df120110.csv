@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:hyperflex_hx_data_platform:3.0\(1c\):*:*:*:*:*:*:*,Cisco HyperFlex HX Data Platform 3.0(1c),"['CVE-2019-1664', 'CVE-2019-1665', 'CVE-2019-1666', 'CVE-2019-1667', 'CVE-2019-1958', 'CVE-2021-1498', 'CVE-2021-1499']",2022-03-19T19:58Z
+1,cpe:2.3:o:cisco:hyperflex_hx_data_platform:3.0\(1d\):*:*:*:*:*:*:*,Cisco HyperFlex HX Data Platform 3.0(1d),"['CVE-2019-1664', 'CVE-2019-1665', 'CVE-2019-1666', 'CVE-2019-1667', 'CVE-2019-1958', 'CVE-2021-1498', 'CVE-2021-1499']",2022-03-19T19:58Z
+2,cpe:2.3:o:cisco:hyperflex_hx_data_platform:3.0\(1e\):*:*:*:*:*:*:*,Cisco HyperFlex HX Data Platform 3.0(1e),"['CVE-2019-1664', 'CVE-2019-1665', 'CVE-2019-1666', 'CVE-2019-1667', 'CVE-2019-1958', 'CVE-2021-1498', 'CVE-2021-1499']",2022-03-19T19:58Z
+3,cpe:2.3:o:cisco:hyperflex_hx_data_platform:3.0\(1h\):*:*:*:*:*:*:*,Cisco HyperFlex HX Data Platform 3.0(1h),"['CVE-2019-1664', 'CVE-2019-1665', 'CVE-2019-1666', 'CVE-2019-1667', 'CVE-2019-1958', 'CVE-2021-1498', 'CVE-2021-1499']",2022-03-19T19:58Z
+4,cpe:2.3:o:cisco:hyperflex_hx_data_platform:3.0\(1i\):*:*:*:*:*:*:*,Cisco HyperFlex HX Data Platform 3.0(1i),"['CVE-2019-1664', 'CVE-2019-1665', 'CVE-2019-1666', 'CVE-2019-1667', 'CVE-2019-1958', 'CVE-2021-1498', 'CVE-2021-1499']",2022-03-19T19:58Z
+5,cpe:2.3:o:cisco:hyperflex_hx_data_platform:3.5:*:*:*:*:*:*:*,Cisco HyperFlex HX Data Platform 3.5,"['CVE-2019-1958', 'CVE-2021-1498', 'CVE-2021-1499']",2022-03-19T19:58Z
+6,cpe:2.3:o:cisco:hyperflex_hx_data_platform:3.5\(1a\):*:*:*:*:*:*:*,Cisco HyperFlex HX Data Platform 3.5(1a),"['CVE-2019-1664', 'CVE-2019-1666', 'CVE-2019-1667', 'CVE-2019-1958', 'CVE-2021-1498', 'CVE-2021-1499']",2022-03-19T19:58Z
+7,cpe:2.3:o:cisco:hyperflex_hx_data_platform:4.0:*:*:*:*:*:*:*,Cisco HyperFlex HX Data Platform 4.0,"['CVE-2019-1958', 'CVE-2021-1498', 'CVE-2021-1499']",2022-03-19T19:58Z
+8,cpe:2.3:o:cisco:hyperflex_hx_data_platform:4.0\(1a\):*:*:*:*:*:*:*,Cisco HyperFlex HX Data Platform 4.0(1a),"['CVE-2019-1958', 'CVE-2021-1498', 'CVE-2021-1499']",2022-03-19T19:58Z
+9,cpe:2.3:o:cisco:hyperflex_hx_data_platform:4.0\(2a\):*:*:*:*:*:*:*,Cisco HyperFlex HX Data Platform 4.0(2a),"['CVE-2021-1497', 'CVE-2021-1498', 'CVE-2021-1499']",2022-03-19T19:58Z

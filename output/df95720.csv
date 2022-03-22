@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:buffalo:fs-hp-g300n:-:*:*:*:*:*:*:*,Buffalo FS-HP-G300N,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:13Z
+1,cpe:2.3:o:buffalo:fs-hp-g300n_firmware:-:*:*:*:*:*:*:*,Buffalo FS-HP-G300N FIRMWARE,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:14Z
+2,cpe:2.3:o:buffalo:fs-hp-g300n_firmware:3.32:*:*:*:*:*:*:*,Buffalo FS-HP-G300N FIRMWARE 3.32,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:14Z
+3,cpe:2.3:o:buffalo:fs-hp-g300n_firmware:3.33:*:*:*:*:*:*:*,Buffalo FS-HP-G300N FIRMWARE 3.33,[''],2022-03-19T13:14Z
+4,cpe:2.3:h:buffalo:fs-r600dhp:-:*:*:*:*:*:*:*,Buffalo FS-R600DHP,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:14Z
+5,cpe:2.3:o:buffalo:fs-r600dhp_firmware:-:*:*:*:*:*:*:*,Buffalo FS-R600DHP FIRMWARE,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:14Z
+6,cpe:2.3:o:buffalo:fs-r600dhp_firmware:3.39:*:*:*:*:*:*:*,Buffalo FS-R600DHP FIRMWARE 3.39,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:14Z
+7,cpe:2.3:o:buffalo:fs-r600dhp_firmware:3.40:*:*:*:*:*:*:*,Buffalo FS-R600DHP FIRMWARE 3.40,[''],2022-03-19T13:14Z
+8,cpe:2.3:h:buffalo:hw-450hp-zwe:-:*:*:*:*:*:*:*,Buffalo HW-450HP-ZWE,"['CVE-2016-4816', 'CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:14Z
+9,cpe:2.3:o:buffalo:hw-450hp-zwe_firmware:-:*:*:*:*:*:*:*,Buffalo HW-450HP-ZWE FIRMWARE,"['CVE-2016-4816', 'CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:14Z

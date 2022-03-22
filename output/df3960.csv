@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:abb:pwc600_firmware:1.1:*:*:*:*:*:*:*,ABB PWC600 Firmware 1.1,['CVE-2021-27196'],2022-03-18T10:32Z
+1,cpe:2.3:o:abb:pwc600_firmware:1.1.0.1:*:*:*:*:*:*:*,ABB PWC600 Firmware 1.1.0.1,[''],2022-03-18T10:32Z
+2,cpe:2.3:h:abb:reb500:-:*:*:*:*:*:*:*,ABB REB500,['CVE-2021-27196'],2022-03-18T10:32Z
+3,cpe:2.3:o:abb:reb500_firmware:7.3:*:*:*:*:*:*:*,ABB REB500 Firmware 7.3,['CVE-2021-27196'],2022-03-18T10:32Z
+4,cpe:2.3:o:abb:reb500_firmware:7.60.19:*:*:*:*:*:*:*,ABB REB500 Firmware 7.60.19,[''],2022-03-18T10:32Z
+5,cpe:2.3:o:abb:reb500_firmware:8.2:*:*:*:*:*:*:*,ABB REB500 Firmware 8.2,['CVE-2021-27196'],2022-03-18T10:32Z
+6,cpe:2.3:o:abb:reb500_firmware:8.2.0.5:*:*:*:*:*:*:*,ABB REB500 Firmware 8.2.0.5,[''],2022-03-18T10:32Z
+7,cpe:2.3:o:abb:reb500_firmware:8.3:*:*:*:*:*:*:*,ABB REB500 Firmware 8.3,['CVE-2021-27196'],2022-03-18T10:32Z
+8,cpe:2.3:o:abb:reb500_firmware:8.3.1.0:*:*:*:*:*:*:*,ABB REB500 Firmware 8.3.1.0,['CVE-2021-27196'],2022-03-18T10:32Z
+9,cpe:2.3:h:abb:relion_630:-:*:*:*:*:*:*:*,Abb Relion 630,['CVE-2018-20720'],2022-03-18T10:32Z

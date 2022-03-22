@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:directory_studio:2.0.0:milestone6:*:*:*:*:*:*,Apache Software Foundation Directory Studio 2.0.0 Milestone 6,"['CVE-2015-5349', 'CVE-2021-33900']",2022-03-18T18:10Z
+1,cpe:2.3:a:apache:directory_studio:2.0.0:milestone7:*:*:*:*:*:*,Apache Software Foundation Directory Studio 2.0.0 Milestone 7,"['CVE-2015-5349', 'CVE-2021-33900']",2022-03-18T18:10Z
+2,cpe:2.3:a:apache:directory_studio:2.0.0:milestone8:*:*:*:*:*:*,Apache Software Foundation Directory Studio 2.0.0 Milestone 8,"['CVE-2015-5349', 'CVE-2021-33900']",2022-03-18T18:10Z
+3,cpe:2.3:a:apache:directory_studio:2.0.0:milestone9:*:*:*:*:*:*,Apache Software Foundation Directory Studio 2.0.0 Milestone 9,"['CVE-2015-5349', 'CVE-2021-33900']",2022-03-18T18:10Z
+4,cpe:2.3:a:apache:dolphinscheduler:1.0.0:*:*:*:*:*:*:*,Apache Software Foundation DolphinScheduler 1.0.0,['CVE-2021-27644'],2022-03-18T18:10Z
+5,cpe:2.3:a:apache:dolphinscheduler:1.0.1:*:*:*:*:*:*:*,Apache Software Foundation DolphinScheduler 1.0.1,['CVE-2021-27644'],2022-03-18T18:10Z
+6,cpe:2.3:a:apache:dolphinscheduler:1.0.2:*:*:*:*:*:*:*,Apache Software Foundation DolphinScheduler 1.0.2,['CVE-2021-27644'],2022-03-18T18:10Z
+7,cpe:2.3:a:apache:dolphinscheduler:1.0.3:*:*:*:*:*:*:*,Apache Software Foundation DolphinScheduler 1.0.3,['CVE-2021-27644'],2022-03-18T18:10Z
+8,cpe:2.3:a:apache:dolphinscheduler:1.0.4:*:*:*:*:*:*:*,Apache Software Foundation DolphinScheduler 1.0.4,['CVE-2021-27644'],2022-03-18T18:10Z
+9,cpe:2.3:a:apache:dolphinscheduler:1.0.5:*:*:*:*:*:*:*,Apache Software Foundation DolphinScheduler 1.0.5,['CVE-2021-27644'],2022-03-18T18:10Z

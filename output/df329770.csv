@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:version_control_agent:2.1.7.770:*:*:*:*:*:*:*,HP Version Control Agent 2.1.7.770,[''],2022-03-21T16:14Z
+1,cpe:2.3:a:hp:version_control_agent:2.1.8.780:*:*:*:*:*:*:*,HP Version Control Agent 2.1.8.780,[''],2022-03-21T16:14Z
+2,cpe:2.3:a:hp:version_control_agent:2.1.9.790:*:*:*:*:*:*:*,HP Version Control Agent 2.1.9.790,[''],2022-03-21T16:14Z
+3,cpe:2.3:a:hp:version_control_agent:2.1.10.800:*:*:*:*:*:*:*,HP Version Control Agent 2.1.10.800,[''],2022-03-21T16:14Z
+4,cpe:2.3:a:hp:version_control_agent:2.1.10.801:*:*:*:*:*:*:*,HP Version Control Agent 2.1.10.801,[''],2022-03-21T16:14Z
+5,cpe:2.3:a:hp:version_control_agent:2.2.0.820:*:*:*:*:*:*:*,HP Version Control Agent 2.2.0.820,[''],2022-03-21T16:14Z
+6,cpe:2.3:a:hp:version_control_agent:2.2.1.830:*:*:*:*:*:*:*,HP Version Control Agent 2.2.1.830,[''],2022-03-21T16:15Z
+7,cpe:2.3:a:hp:version_control_agent:2.2.2.835:*:*:*:*:*:*:*,HP Version Control Agent 2.2.2.835,[''],2022-03-21T16:15Z
+8,cpe:2.3:a:hp:version_control_agent:6.0.0.840:*:*:*:*:*:*:*,HP Version Control Agent 6.0.0.840,[''],2022-03-21T16:15Z
+9,cpe:2.3:a:hp:version_control_agent:6.1.0.841:*:*:*:*:*:*:*,HP Version Control Agent 6.1.0.841,[''],2022-03-21T16:15Z

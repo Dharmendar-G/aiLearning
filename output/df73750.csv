@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bestwebsoft:error_log_viewer:1.0.4:*:*:*:*:wordpress:*:*,BestWebSoft Error Log Viewer 1.0.4 for WordPress,"['CVE-2017-18562', 'CVE-2017-2171', 'CVE-2021-24761']",2022-03-19T07:08Z
+1,cpe:2.3:a:bestwebsoft:error_log_viewer:1.0.5:*:*:*:*:wordpress:*:*,BestWebSoft Error Log Viewer 1.0.5 for WordPress,"['CVE-2017-18562', 'CVE-2017-2171', 'CVE-2021-24761']",2022-03-19T07:08Z
+2,cpe:2.3:a:bestwebsoft:error_log_viewer:1.0.6:*:*:*:*:wordpress:*:*,BestWebSoft Error Log Viewer 1.0.6 for WordPress,['CVE-2021-24761'],2022-03-19T07:08Z
+3,cpe:2.3:a:bestwebsoft:error_log_viewer:1.0.7:*:*:*:*:wordpress:*:*,BestWebSoft Error Log Viewer 1.0.7 for WordPress,['CVE-2021-24761'],2022-03-19T07:08Z
+4,cpe:2.3:a:bestwebsoft:error_log_viewer:1.0.8:*:*:*:*:wordpress:*:*,BestWebSoft Error Log Viewer 1.0.8 for WordPress,['CVE-2021-24761'],2022-03-19T07:08Z
+5,cpe:2.3:a:bestwebsoft:facebook_button:1:*:*:*:*:wordpress:*:*,BestWebSoft Facebook Button 1 for WordPress,['CVE-2017-2171'],2022-03-19T07:08Z
+6,cpe:2.3:a:bestwebsoft:facebook_button:2.01:*:*:*:*:wordpress:*:*,BestWebSoft Facebook Button 2.01 for WordPress,['CVE-2017-2171'],2022-03-19T07:08Z
+7,cpe:2.3:a:bestwebsoft:facebook_button:2.02:*:*:*:*:wordpress:*:*,BestWebSoft Facebook Button 2.02 for WordPress,['CVE-2017-2171'],2022-03-19T07:08Z
+8,cpe:2.3:a:bestwebsoft:facebook_button:2.03:*:*:*:*:wordpress:*:*,BestWebSoft Facebook Button 2.03 for WordPress,['CVE-2017-2171'],2022-03-19T07:08Z
+9,cpe:2.3:a:bestwebsoft:facebook_button:2.04:*:*:*:*:wordpress:*:*,BestWebSoft Facebook Button 2.04 for WordPress,['CVE-2017-2171'],2022-03-19T07:08Z

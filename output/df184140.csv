@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:diesel:diesel:0.99.1:*:*:*:*:rust:*:*,Diesel 0.99.1 for Rust,['CVE-2021-28305'],2022-03-20T14:01Z
+1,cpe:2.3:a:diesel:diesel:1.0.0:-:*:*:*:rust:*:*,Diesel 1.0.0 for Rust,['CVE-2021-28305'],2022-03-20T14:01Z
+2,cpe:2.3:a:diesel:diesel:1.0.0:beta1:*:*:*:rust:*:*,Diesel 1.0.0 Beta 1 for Rust,['CVE-2021-28305'],2022-03-20T14:01Z
+3,cpe:2.3:a:diesel:diesel:1.0.0:rc1:*:*:*:rust:*:*,Diesel 1.0.0 Release Candidate 1 for Rust,['CVE-2021-28305'],2022-03-20T14:01Z
+4,cpe:2.3:a:diesel:diesel:1.0.1:*:*:*:*:rust:*:*,Diesel 1.0.1 for Rust,['CVE-2021-28305'],2022-03-20T14:01Z
+5,cpe:2.3:a:diesel:diesel:1.1.0:*:*:*:*:rust:*:*,Diesel 1.1.0 for Rust,['CVE-2021-28305'],2022-03-20T14:01Z
+6,cpe:2.3:a:diesel:diesel:1.1.1:*:*:*:*:rust:*:*,Diesel 1.1.1 for Rust,['CVE-2021-28305'],2022-03-20T14:01Z
+7,cpe:2.3:a:diesel:diesel:1.2.0:*:*:*:*:rust:*:*,Diesel 1.2.0 for Rust,['CVE-2021-28305'],2022-03-20T14:01Z
+8,cpe:2.3:a:diesel:diesel:1.2.1:*:*:*:*:rust:*:*,Diesel 1.2.1 for Rust,['CVE-2021-28305'],2022-03-20T14:01Z
+9,cpe:2.3:a:diesel:diesel:1.2.2:*:*:*:*:rust:*:*,Diesel 1.2.2 for Rust,['CVE-2021-28305'],2022-03-20T14:01Z

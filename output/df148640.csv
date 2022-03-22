@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:clusterlabs:pacemaker_command_line_interface:0.9.106:*:*:*:*:*:*:*,ClusterLabs Pacemaker Command Line Interface (PCS) 0.9.106,['CVE-2018-1079'],2022-03-20T04:08Z
+1,cpe:2.3:a:clusterlabs:pacemaker_command_line_interface:0.9.107:*:*:*:*:*:*:*,ClusterLabs Pacemaker Command Line Interface (PCS) 0.9.107,['CVE-2018-1079'],2022-03-20T04:08Z
+2,cpe:2.3:a:clusterlabs:pacemaker_command_line_interface:0.9.108:*:*:*:*:*:*:*,ClusterLabs Pacemaker Command Line Interface (PCS) 0.9.108,['CVE-2018-1079'],2022-03-20T04:08Z
+3,cpe:2.3:a:clusterlabs:pacemaker_command_line_interface:0.9.109:*:*:*:*:*:*:*,ClusterLabs Pacemaker Command Line Interface (PCS) 0.9.109,['CVE-2018-1079'],2022-03-20T04:08Z
+4,cpe:2.3:a:clusterlabs:pacemaker_command_line_interface:0.9.110:*:*:*:*:*:*:*,ClusterLabs Pacemaker Command Line Interface (PCS) 0.9.110,['CVE-2018-1079'],2022-03-20T04:08Z
+5,cpe:2.3:a:clusterlabs:pacemaker_command_line_interface:0.9.111:*:*:*:*:*:*:*,ClusterLabs Pacemaker Command Line Interface (PCS) 0.9.111,['CVE-2018-1079'],2022-03-20T04:08Z
+6,cpe:2.3:a:clusterlabs:pacemaker_command_line_interface:0.9.112:*:*:*:*:*:*:*,ClusterLabs Pacemaker Command Line Interface (PCS) 0.9.112,['CVE-2018-1079'],2022-03-20T04:08Z
+7,cpe:2.3:a:clusterlabs:pacemaker_command_line_interface:0.9.113:*:*:*:*:*:*:*,ClusterLabs Pacemaker Command Line Interface (PCS) 0.9.113,['CVE-2018-1079'],2022-03-20T04:08Z
+8,cpe:2.3:a:clusterlabs:pacemaker_command_line_interface:0.9.114:*:*:*:*:*:*:*,ClusterLabs Pacemaker Command Line Interface (PCS) 0.9.114,['CVE-2018-1079'],2022-03-20T04:08Z
+9,cpe:2.3:a:clusterlabs:pacemaker_command_line_interface:0.9.115:*:*:*:*:*:*:*,ClusterLabs Pacemaker Command Line Interface (PCS) 0.9.115,['CVE-2018-1079'],2022-03-20T04:08Z

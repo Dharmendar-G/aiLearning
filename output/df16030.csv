@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:a:agilebits:knox:2.2.0:-:*:*:*:macos:*:*,Agilebits Knox 2.2.0 - for macOS,[''],2022-03-18T13:45Z
+2,cpe:2.3:a:agilefleet:fleetcommander:4.0:*:*:*:*:*:*:*,Agile FleetCommander 4.0,"['CVE-2012-4941', 'CVE-2012-4942', 'CVE-2012-4943', 'CVE-2012-4944', 'CVE-2012-4945', 'CVE-2012-4946', 'CVE-2012-4947']",2022-03-18T13:45Z
+3,cpe:2.3:a:agilefleet:fleetcommander:4.08:*:*:*:*:*:*:*,Agile FleetCommander 4.08,[''],2022-03-18T13:45Z
+4,cpe:2.3:a:agilefleet:fleetcommander_kiosk:4.0:*:*:*:*:*:*:*,Agile FleetCommander Kiosk 4.0,"['CVE-2012-4941', 'CVE-2012-4942', 'CVE-2012-4943', 'CVE-2012-4944', 'CVE-2012-4945', 'CVE-2012-4946', 'CVE-2012-4947']",2022-03-18T13:45Z
+5,cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:-:*:*:*:*:jenkins:*:*,Agiletestware Pangolin Connector for TestRail for Jenkins,['CVE-2018-1999032'],2022-03-18T13:45Z
+6,cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:2.1:*:*:*:*:jenkins:*:*,Agiletestware Pangolin Connector for TestRail 2.1 for Jenkins,['CVE-2018-1999032'],2022-03-18T13:45Z
+7,cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:2.2:*:*:*:*:jenkins:*:*,Agiletestware Pangolin Connector for TestRail 2.2 for Jenkins,[''],2022-03-18T13:45Z
+8,cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:2.3:*:*:*:*:jenkins:*:*,Agiletestware Pangolin Connector for TestRail 2.3 for Jenkins,[''],2022-03-18T13:45Z
+9,cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:2.4:*:*:*:*:jenkins:*:*,Agiletestware Pangolin Connector for TestRail 2.4 for Jenkins,[''],2022-03-18T13:45Z

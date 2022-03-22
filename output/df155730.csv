@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:collectd:collectd:3.8.1:*:*:*:*:*:*:*,collectd 3.8.1,"['CVE-2017-16820', 'CVE-2017-18240', 'CVE-2017-7401']",2022-03-20T06:29Z
+1,cpe:2.3:a:collectd:collectd:3.8.2:*:*:*:*:*:*:*,collectd 3.8.2,"['CVE-2017-16820', 'CVE-2017-18240', 'CVE-2017-7401']",2022-03-20T06:29Z
+2,cpe:2.3:a:collectd:collectd:3.8.3:*:*:*:*:*:*:*,collectd 3.8.3,"['CVE-2017-16820', 'CVE-2017-18240', 'CVE-2017-7401']",2022-03-20T06:29Z
+3,cpe:2.3:a:collectd:collectd:3.8.4:*:*:*:*:*:*:*,collectd 3.8.4,"['CVE-2017-16820', 'CVE-2017-18240', 'CVE-2017-7401']",2022-03-20T06:29Z
+4,cpe:2.3:a:collectd:collectd:3.8.5:*:*:*:*:*:*:*,collectd 3.8.5,"['CVE-2017-16820', 'CVE-2017-18240', 'CVE-2017-7401']",2022-03-20T06:29Z
+5,cpe:2.3:a:collectd:collectd:3.8.6:*:*:*:*:*:*:*,collectd 3.8.6,"['CVE-2017-16820', 'CVE-2017-18240', 'CVE-2017-7401']",2022-03-20T06:29Z
+6,cpe:2.3:a:collectd:collectd:3.9.0:*:*:*:*:*:*:*,collectd 3.9.0,"['CVE-2017-16820', 'CVE-2017-18240', 'CVE-2017-7401']",2022-03-20T06:29Z
+7,cpe:2.3:a:collectd:collectd:3.9.1:*:*:*:*:*:*:*,collectd 3.9.1,"['CVE-2017-16820', 'CVE-2017-18240', 'CVE-2017-7401']",2022-03-20T06:29Z
+8,cpe:2.3:a:collectd:collectd:3.9.2:*:*:*:*:*:*:*,collectd 3.9.2,"['CVE-2017-16820', 'CVE-2017-18240', 'CVE-2017-7401']",2022-03-20T06:29Z
+9,cpe:2.3:a:collectd:collectd:3.9.3:*:*:*:*:*:*:*,collectd 3.9.3,"['CVE-2017-16820', 'CVE-2017-18240', 'CVE-2017-7401']",2022-03-20T06:30Z

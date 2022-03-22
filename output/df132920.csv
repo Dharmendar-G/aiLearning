@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:secure_access_control_server_solution_engine:5.8:p2:*:*:*:*:*:*,Cisco Secure Access Control Server Solution Engine 5.8 Patch 2,['CVE-2018-0414'],2022-03-19T23:58Z
+1,cpe:2.3:a:cisco:secure_access_control_server_solution_engine:5.8:p3:*:*:*:*:*:*,Cisco Secure Access Control Server Solution Engine 5.8 Patch 3,['CVE-2018-0414'],2022-03-19T23:58Z
+2,cpe:2.3:a:cisco:secure_access_control_server_solution_engine:5.8:p4:*:*:*:*:*:*,Cisco Secure Access Control Server Solution Engine 5.8 Patch 4,['CVE-2018-0414'],2022-03-19T23:58Z
+3,cpe:2.3:a:cisco:secure_access_control_server_solution_engine:5.8:p5:*:*:*:*:*:*,Cisco Secure Access Control Server Solution Engine 5.8 Patch 5,['CVE-2018-0414'],2022-03-19T23:58Z
+4,cpe:2.3:a:cisco:secure_access_control_server_solution_engine:5.8:p6:*:*:*:*:*:*,Cisco Secure Access Control Server Solution Engine 5.8 Patch 6,['CVE-2018-0414'],2022-03-19T23:58Z
+5,cpe:2.3:a:cisco:secure_access_control_server_solution_engine:5.8:p7:*:*:*:*:*:*,Cisco Secure Access Control Server Solution Engine 5.8 Patch 7,['CVE-2018-0414'],2022-03-19T23:58Z
+6,cpe:2.3:a:cisco:secure_access_control_server_solution_engine:5.8:p8:*:*:*:*:*:*,Cisco Secure Access Control Server Solution Engine 5.8 Patch 8,['CVE-2018-0414'],2022-03-19T23:58Z
+7,cpe:2.3:a:cisco:secure_access_control_server_solution_engine:5.8:p9:*:*:*:*:*:*,Cisco Secure Access Control Server Solution Engine 5.8 Patch 9,['CVE-2018-0414'],2022-03-19T23:58Z
+8,cpe:2.3:a:cisco:secure_access_control_server_solution_engine:5.8\(0.8\):*:*:*:*:*:*:*,Cisco Secure Access Control Server (ACS) Solution Engine 5.8(0.8),"['CVE-2018-0207', 'CVE-2018-0218']",2022-03-19T23:58Z
+9,cpe:2.3:a:cisco:secure_access_control_system:-:*:*:*:*:*:*:*,Cisco Secure Access Control System (ACS),"['CVE-2013-1125', 'CVE-2013-1196', 'CVE-2013-1200', 'CVE-2013-3421', 'CVE-2013-3422', 'CVE-2013-3423', 'CVE-2013-3424', 'CVE-2013-3428', 'CVE-2013-5470', 'CVE-2013-5536', 'CVE-2013-6695', 'CVE-2013-6974', 'CVE-2014-0648', 'CVE-2014-0649', 'CVE-2014-0650', 'CVE-2014-0663', 'CVE-2014-0667', 'CVE-2014-0668', 'CVE-2014-0678', 'CVE-2014-2130', 'CVE-2014-8027', 'CVE-2014-8028', 'CVE-2014-8029', 'CVE-2015-0580', 'CVE-2015-4219', 'CVE-2018-0253']",2022-03-19T23:58Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:ibm:mcs-7835i-2.4:-:*:*:*:*:*:*:*,IBM MCS-7835I-2.4,"['CVE-2004-1759', 'CVE-2004-1760']",2022-03-21T21:17Z
+1,cpe:2.3:h:ibm:mcs-7835i-3.0:-:*:*:*:*:*:*:*,IBM MCS-7835I-3.0,"['CVE-2004-1759', 'CVE-2004-1760']",2022-03-21T21:17Z
+2,cpe:2.3:h:ibm:messagesight:-:*:*:*:*:*:*:*,IBM MessageSight,"['CVE-2014-0921', 'CVE-2014-0922', 'CVE-2014-0923', 'CVE-2014-0924']",2022-03-21T21:17Z
+3,cpe:2.3:a:ibm:messagesight:1.0:*:*:*:*:*:*:*,IBM MessageSight 1.0,[''],2022-03-21T21:17Z
+4,cpe:2.3:a:ibm:messagesight:1.0.0.1:*:*:*:*:*:*:*,IBM MessageSight 1.0.0.1,[''],2022-03-21T21:17Z
+5,cpe:2.3:a:ibm:messagesight:1.1.0.0:*:*:*:*:*:*:*,IBM MessageSight 1.1.0.0,['CVE-2016-0375'],2022-03-21T21:17Z
+6,cpe:2.3:a:ibm:messagesight:1.1.0.1:*:*:*:*:*:*:*,IBM MessageSight 1.1.0.1,['CVE-2016-0375'],2022-03-21T21:17Z
+7,cpe:2.3:a:ibm:messagesight:1.2:*:*:*:*:*:*:*,IBM MessageSight 1.2,['CVE-2016-0375'],2022-03-21T21:17Z
+8,cpe:2.3:a:ibm:messagesight:1.2.0.0:*:*:*:*:*:*:*,IBM MessageSight 1.2.0.0,['CVE-2016-0375'],2022-03-21T21:17Z
+9,cpe:2.3:a:ibm:messagesight:1.2.0.1:*:*:*:*:*:*:*,IBM MessageSight 1.2.0.1,['CVE-2016-0375'],2022-03-21T21:17Z

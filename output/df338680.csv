@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hygeia_project:hygeia:1.10.6:beta1:*:*:*:*:*:*,Hygeia Project Hygeia 1.10.6 Beta 1,[''],2022-03-21T19:22Z
+1,cpe:2.3:a:hygeia_project:hygeia:1.11.0:-:*:*:*:*:*:*,Hygeia Project Hygeia 1.11.0,['CVE-2021-41128'],2022-03-21T19:23Z
+2,cpe:2.3:a:hygeia_project:hygeia:1.11.0:beta1:*:*:*:*:*:*,Hygeia Project Hygeia 1.11.0 Beta 1,['CVE-2021-41128'],2022-03-21T19:23Z
+3,cpe:2.3:a:hygeia_project:hygeia:1.11.0:beta2:*:*:*:*:*:*,Hygeia Project Hygeia 1.11.0 Beta 2,['CVE-2021-41128'],2022-03-21T19:23Z
+4,cpe:2.3:a:hygeia_project:hygeia:1.11.0:beta3:*:*:*:*:*:*,Hygeia Project Hygeia 1.11.0 Beta 3,['CVE-2021-41128'],2022-03-21T19:23Z
+5,cpe:2.3:a:hygeia_project:hygeia:1.11.0:beta4:*:*:*:*:*:*,Hygeia Project Hygeia 1.11.0 Beta 4,['CVE-2021-41128'],2022-03-21T19:23Z
+6,cpe:2.3:a:hygeia_project:hygeia:1.11.0:beta5:*:*:*:*:*:*,Hygeia Project Hygeia 1.11.0 Beta 5,['CVE-2021-41128'],2022-03-21T19:23Z
+7,cpe:2.3:a:hygeia_project:hygeia:1.11.0:beta6:*:*:*:*:*:*,Hygeia Project Hygeia 1.11.0 Beta 6,['CVE-2021-41128'],2022-03-21T19:23Z
+8,cpe:2.3:a:hygeia_project:hygeia:1.11.0:beta7:*:*:*:*:*:*,Hygeia Project Hygeia 1.11.0 Beta 7,['CVE-2021-41128'],2022-03-21T19:23Z
+9,cpe:2.3:a:hygeia_project:hygeia:1.11.1:*:*:*:*:*:*:*,Hygeia Project Hygeia 1.11.1,['CVE-2021-41128'],2022-03-21T19:23Z

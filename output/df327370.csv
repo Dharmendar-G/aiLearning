@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:pagewide_pro_577dw_d3q21a_firmware:-:*:*:*:*:*:*:*,HP PAGEWIDE PRO 577DW D3Q21A FIRMWARE,"['CVE-2019-16240', 'CVE-2020-28416']",2022-03-21T15:42Z
+1,cpe:2.3:o:hp:pagewide_pro_577dw_d3q21a_firmware:38.9.1948:*:*:*:*:*:*:*,HP PAGEWIDE PRO 577DW D3Q21A FIRMWARE 38.9.1948,[''],2022-03-21T15:43Z
+2,cpe:2.3:h:hp:pagewide_pro_577dw_d3q21b:-:*:*:*:*:*:*:*,HP PageWide Pro 577DW D3Q21B,"['CVE-2019-16240', 'CVE-2020-28416']",2022-03-21T15:43Z
+3,cpe:2.3:o:hp:pagewide_pro_577dw_d3q21b_firmware:-:*:*:*:*:*:*:*,HP PAGEWIDE PRO 577DW D3Q21B FIRMWARE,"['CVE-2019-16240', 'CVE-2020-28416']",2022-03-21T15:43Z
+4,cpe:2.3:o:hp:pagewide_pro_577dw_d3q21b_firmware:38.9.1948:*:*:*:*:*:*:*,HP PAGEWIDE PRO 577DW D3Q21B FIRMWARE 38.9.1948,[''],2022-03-21T15:43Z
+5,cpe:2.3:h:hp:pagewide_pro_577dw_d3q21c:-:*:*:*:*:*:*:*,HP PageWide Pro 577DW D3Q21C,"['CVE-2019-16240', 'CVE-2020-28416']",2022-03-21T15:43Z
+6,cpe:2.3:o:hp:pagewide_pro_577dw_d3q21c_firmware:-:*:*:*:*:*:*:*,HP PAGEWIDE PRO 577DW D3Q21C FIRMWARE,"['CVE-2019-16240', 'CVE-2020-28416']",2022-03-21T15:43Z
+7,cpe:2.3:o:hp:pagewide_pro_577dw_d3q21c_firmware:38.9.1948:*:*:*:*:*:*:*,HP PAGEWIDE PRO 577DW D3Q21C FIRMWARE 38.9.1948,[''],2022-03-21T15:43Z
+8,cpe:2.3:h:hp:pagewide_pro_577dw_d3q21d:-:*:*:*:*:*:*:*,HP PageWide Pro 577DW D3Q21D,"['CVE-2019-16240', 'CVE-2020-28416']",2022-03-21T15:43Z
+9,cpe:2.3:o:hp:pagewide_pro_577dw_d3q21d_firmware:-:*:*:*:*:*:*:*,HP PAGEWIDE PRO 577DW D3Q21D FIRMWARE,"['CVE-2019-16240', 'CVE-2020-28416']",2022-03-21T15:43Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitachi:ucosminexus_application_server:07-60:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 07-60 Enterprise,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:23Z
+1,cpe:2.3:a:hitachi:ucosminexus_application_server:07-60:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 07-60 Standard,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:23Z
+2,cpe:2.3:a:hitachi:ucosminexus_application_server:8:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 8 Enterprise,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:23Z
+3,cpe:2.3:a:hitachi:ucosminexus_application_server:8:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 8 Standard,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:23Z
+4,cpe:2.3:a:hitachi:ucosminexus_application_server:08-00:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 08-00 Enterprise,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:23Z
+5,cpe:2.3:a:hitachi:ucosminexus_application_server:08-00:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 08-00 Standard,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:23Z
+6,cpe:2.3:a:hitachi:ucosminexus_application_server:08-00-01:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 08-00-01 Enterprise,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:23Z
+7,cpe:2.3:a:hitachi:ucosminexus_application_server:08-00-01:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 08-00-01 Standard,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:23Z
+8,cpe:2.3:a:hitachi:ucosminexus_application_server:08-00-02:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 08-00-02 Enterprise,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:23Z
+9,cpe:2.3:a:hitachi:ucosminexus_application_server:08-00-02:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 08-00-02 Standard,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:23Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m577_firmware:2309010_581408:*:*:*:*:*:*:*,HP Color Laserjet Enterprise Flow Mfp M577 Firmware 2309010 581408,['CVE-2019-6318'],2022-03-21T13:02Z
+1,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m577_firmware:2407081_000571:*:*:*:*:*:*:*,HP Color Laserjet Enterprise Flow Mfp M577 Firmware 2407081 000571,[''],2022-03-21T13:02Z
+2,cpe:2.3:h:hp:color_laserjet_enterprise_flow_mfp_m680_ca251a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise Flow MFP M680 CA251A,['CVE-2020-28419'],2022-03-21T13:02Z
+3,cpe:2.3:h:hp:color_laserjet_enterprise_flow_mfp_m680_cz248a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise Flow MFP M680 CZ248A,['CVE-2020-28419'],2022-03-21T13:02Z
+4,cpe:2.3:h:hp:color_laserjet_enterprise_flow_mfp_m680_cz249a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise Flow MFP M680 CZ249A,['CVE-2020-28419'],2022-03-21T13:02Z
+5,cpe:2.3:h:hp:color_laserjet_enterprise_flow_mfp_m680_cz250a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise Flow MFP M680 CZ250A,['CVE-2020-28419'],2022-03-21T13:02Z
+6,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m680_firmware:-:*:*:*:*:*:*:*,HP Color Laserjet Enterprise Flow Mfp M680 Firmware -,"['CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T13:02Z
+7,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m680_firmware:2309010_581416:*:*:*:*:*:*:*,HP Color Laserjet Enterprise Flow Mfp M680 Firmware 2309010 581416,['CVE-2019-6318'],2022-03-21T13:02Z
+8,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m680_firmware:2407081_000591:*:*:*:*:*:*:*,HP Color Laserjet Enterprise Flow Mfp M680 Firmware 2407081 000591,[''],2022-03-21T13:02Z
+9,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m681_firmware:-:*:*:*:*:*:*:*,HP Color Laserjet Enterprise Flow Mfp M681 Firmware -,['CVE-2019-6318'],2022-03-21T13:02Z

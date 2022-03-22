@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:video_surveillance_4000_ip_cameras:-:*:*:*:*:*:*:*,Cisco Video Surveillance 4000 IP Cameras,[''],2022-03-20T01:00Z
+1,cpe:2.3:h:cisco:video_surveillance_4300e_ip_cameras:-:*:*:*:*:*:*:*,Cisco Video Surveillance 4300E IP Cameras,[''],2022-03-20T01:00Z
+2,cpe:2.3:h:cisco:video_surveillance_4500e_ip_cameras:-:*:*:*:*:*:*:*,Cisco Video Surveillance 4500E IP Cameras,[''],2022-03-20T01:00Z
+3,cpe:2.3:h:cisco:video_surveillance_7070:-:*:*:*:*:*:*:*,Cisco Video Surveillance 7070,"['CVE-2021-1563', 'CVE-2021-1564', 'CVE-2021-1595', 'CVE-2021-1596', 'CVE-2021-1597', 'CVE-2021-1598']",2022-03-20T01:00Z
+4,cpe:2.3:o:cisco:video_surveillance_7070_firmware:-:*:*:*:*:*:*:*,Cisco Video Surveillance 7070 Firmware,"['CVE-2021-1563', 'CVE-2021-1564', 'CVE-2021-1595', 'CVE-2021-1596', 'CVE-2021-1597', 'CVE-2021-1598']",2022-03-20T01:00Z
+5,cpe:2.3:o:cisco:video_surveillance_7070_firmware:2.12.3:*:*:*:*:*:*:*,Cisco Video Surveillance 7070 Firmware 2.12.3,"['CVE-2021-1595', 'CVE-2021-1596', 'CVE-2021-1597', 'CVE-2021-1598']",2022-03-20T01:00Z
+6,cpe:2.3:h:cisco:video_surveillance_7530pd:-:*:*:*:*:*:*:*,Cisco Video Surveillance 7530PD,"['CVE-2021-1563', 'CVE-2021-1564', 'CVE-2021-1595', 'CVE-2021-1596', 'CVE-2021-1597', 'CVE-2021-1598']",2022-03-20T01:00Z
+7,cpe:2.3:o:cisco:video_surveillance_7530pd_firmware:-:*:*:*:*:*:*:*,Cisco Video Surveillance 7530PD Firmware,"['CVE-2021-1563', 'CVE-2021-1564', 'CVE-2021-1595', 'CVE-2021-1596', 'CVE-2021-1597', 'CVE-2021-1598']",2022-03-20T01:00Z
+8,cpe:2.3:o:cisco:video_surveillance_7530pd_firmware:2.12.3:*:*:*:*:*:*:*,Cisco Video Surveillance 7530PD Firmware 2.12.3,"['CVE-2021-1595', 'CVE-2021-1596', 'CVE-2021-1597', 'CVE-2021-1598']",2022-03-20T01:00Z
+9,cpe:2.3:h:cisco:video_surveillance_8000p:-:*:*:*:*:*:*:*,Cisco Video Surveillance 8000p,['CVE-2021-1521'],2022-03-20T01:00Z

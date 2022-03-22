@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.2:*:*:*:*:*:*:*,AudioCoding Freeware Advanced Audio Decoder 2 (FAAD2) 2.8.2,"['CVE-2018-20199', 'CVE-2018-20360', 'CVE-2019-6956']",2022-03-19T02:30Z
+1,cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.3:*:*:*:*:*:*:*,AudioCoding Freeware Advanced Audio Decoder 2 (FAAD2) 2.8.3,"['CVE-2018-20199', 'CVE-2018-20360', 'CVE-2019-6956']",2022-03-19T02:30Z
+2,cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.4:*:*:*:*:*:*:*,AudioCoding Freeware Advanced Audio Decoder 2 (FAAD2) 2.8.4,"['CVE-2018-20199', 'CVE-2018-20360', 'CVE-2019-6956']",2022-03-19T02:30Z
+3,cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.5:*:*:*:*:*:*:*,AudioCoding Freeware Advanced Audio Decoder 2 (FAAD2) 2.8.5,"['CVE-2018-20199', 'CVE-2018-20360', 'CVE-2019-6956']",2022-03-19T02:30Z
+4,cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.6:*:*:*:*:*:*:*,AudioCoding Freeware Advanced Audio Decoder 2 (FAAD2) 2.8.6,"['CVE-2018-20199', 'CVE-2018-20360', 'CVE-2019-6956']",2022-03-19T02:30Z
+5,cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.7:*:*:*:*:*:*:*,AudioCoding Freeware Advanced Audio Decoder 2 (FAAD2) 2.8.7,"['CVE-2018-20199', 'CVE-2018-20360', 'CVE-2019-6956']",2022-03-19T02:30Z
+6,cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.8:*:*:*:*:*:*:*,AudioCoding Freeware Advanced Audio Decoder 2 (FAAD2) 2.8.8,"['CVE-2018-20194', 'CVE-2018-20195', 'CVE-2018-20196', 'CVE-2018-20197', 'CVE-2018-20198', 'CVE-2018-20199', 'CVE-2018-20357', 'CVE-2018-20358', 'CVE-2018-20359', 'CVE-2018-20360', 'CVE-2018-20361', 'CVE-2018-20362', 'CVE-2019-15296', 'CVE-2019-6956']",2022-03-19T02:30Z
+7,cpe:2.3:a:audiofile:audiofile:0.2.1:*:*:*:*:*:*:*,Audiofile 0.2.1,[''],2022-03-19T02:30Z
+8,cpe:2.3:a:audiofile:audiofile:0.2.2:*:*:*:*:*:*:*,Audiofile 0.2.2,[''],2022-03-19T02:30Z
+9,cpe:2.3:a:audiofile:audiofile:0.2.3:*:*:*:*:*:*:*,Audiofile 0.2.3,[''],2022-03-19T02:30Z

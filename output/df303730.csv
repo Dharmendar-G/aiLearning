@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:handsontable:handsontable:-:*:*:*:*:node.js:*:*,Handsontable Handsontable for Node.js,['CVE-2021-23446'],2022-03-21T08:48Z
+1,cpe:2.3:a:handsontable:handsontable:0.4.0:*:*:*:*:node.js:*:*,Handsontable Handsontable 0.4.0 for Node.js,['CVE-2021-23446'],2022-03-21T08:49Z
+2,cpe:2.3:a:handsontable:handsontable:0.4.1:*:*:*:*:node.js:*:*,Handsontable Handsontable 0.4.1 for Node.js,['CVE-2021-23446'],2022-03-21T08:48Z
+3,cpe:2.3:a:handsontable:handsontable:0.4.2:*:*:*:*:node.js:*:*,Handsontable Handsontable 0.4.2 for Node.js,['CVE-2021-23446'],2022-03-21T08:49Z
+4,cpe:2.3:a:handsontable:handsontable:0.5.0:*:*:*:*:node.js:*:*,Handsontable Handsontable 0.5.0 for Node.js,['CVE-2021-23446'],2022-03-21T08:49Z
+5,cpe:2.3:a:handsontable:handsontable:0.6.0:*:*:*:*:node.js:*:*,Handsontable Handsontable 0.6.0 for Node.js,['CVE-2021-23446'],2022-03-21T08:49Z
+6,cpe:2.3:a:handsontable:handsontable:0.7.0:*:*:*:*:node.js:*:*,Handsontable Handsontable 0.7.0 for Node.js,['CVE-2021-23446'],2022-03-21T08:49Z
+7,cpe:2.3:a:handsontable:handsontable:0.7.1:*:*:*:*:node.js:*:*,Handsontable Handsontable 0.7.1 for Node.js,['CVE-2021-23446'],2022-03-21T08:49Z
+8,cpe:2.3:a:handsontable:handsontable:0.7.2:*:*:*:*:node.js:*:*,Handsontable Handsontable 0.7.2 for Node.js,['CVE-2021-23446'],2022-03-21T08:49Z
+9,cpe:2.3:a:handsontable:handsontable:0.7.3:*:*:*:*:node.js:*:*,Handsontable Handsontable 0.7.3 for Node.js,['CVE-2021-23446'],2022-03-21T08:49Z

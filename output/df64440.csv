@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avaya:breeze_platform:3.2:*:*:*:*:*:*:*,Avaya Breeze Platform 3.2,['CVE-2016-5285'],2022-03-19T04:11Z
+1,cpe:2.3:h:avaya:cajun_m770-atm:-:*:*:*:*:*:*:*,Avaya Cajun M770-ATM Series Firmware,['CVE-2002-1448'],2022-03-19T04:11Z
+2,cpe:2.3:h:avaya:cajun_p130:-:*:*:*:*:*:*:*,Avaya Cajun P130 Series Firmware,['CVE-2002-1448'],2022-03-19T04:11Z
+3,cpe:2.3:h:avaya:cajun_p330:-:*:*:*:*:*:*:*,Avaya Cajun P330 Series,['CVE-2002-1448'],2022-03-19T04:11Z
+4,cpe:2.3:h:avaya:cajun_p550:-:*:*:*:*:*:*:*,Avaya Cajun P550 Series,[''],2022-03-19T04:11Z
+5,cpe:2.3:h:avaya:cajun_p550:4.3.5:*:*:*:*:*:*:*,Avaya Cajun P550 Series 4.3.5,['CVE-2002-1229'],2022-03-19T04:11Z
+6,cpe:2.3:h:avaya:cajun_p550r:-:*:*:*:*:*:*:*,Avaya Cajun P550R Series,[''],2022-03-19T04:11Z
+7,cpe:2.3:h:avaya:cajun_p550r:5.2.14:*:*:*:*:*:*:*,Avaya Cajun P550R Series 5.2.14,['CVE-2002-1229'],2022-03-19T04:11Z
+8,cpe:2.3:h:avaya:cajun_p580:-:*:*:*:*:*:*:*,Avaya Cajun P580 Series,[''],2022-03-19T04:11Z
+9,cpe:2.3:h:avaya:cajun_p580:5.2.14:*:*:*:*:*:*:*,Avaya Cajun P580 Series 5.2.14,['CVE-2002-1229'],2022-03-19T04:11Z

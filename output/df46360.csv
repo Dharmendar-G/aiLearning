@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:arista:c-250_firmware:10.0.1-31:*:*:*:*:*:*:*,Arista C-250 Firmware 10.0.1-31,[''],2022-03-18T23:01Z
+1,cpe:2.3:h:arista:c-260:-:*:*:*:*:*:*:*,Arista C-260,"['CVE-2020-24586', 'CVE-2020-26144', 'CVE-2020-26146']",2022-03-18T23:01Z
+2,cpe:2.3:o:arista:c-260_firmware:-:*:*:*:*:*:*:*,Arista C-260 Firmware,"['CVE-2020-24586', 'CVE-2020-26144', 'CVE-2020-26146']",2022-03-18T23:01Z
+3,cpe:2.3:o:arista:c-260_firmware:10.0.1-31:*:*:*:*:*:*:*,Arista C-260 Firmware 10.0.1-31,[''],2022-03-18T23:01Z
+4,cpe:2.3:h:arista:c-65:-:*:*:*:*:*:*:*,Arista C-65,"['CVE-2020-26143', 'CVE-2020-26144', 'CVE-2020-26146', 'CVE-2020-26147']",2022-03-18T23:01Z
+5,cpe:2.3:o:arista:c-65_firmware:-:*:*:*:*:*:*:*,Arista C-65 Firmware,"['CVE-2020-26143', 'CVE-2020-26144', 'CVE-2020-26146', 'CVE-2020-26147']",2022-03-18T23:01Z
+6,cpe:2.3:h:arista:c-75:-:*:*:*:*:*:*:*,Arista C-75 -,"['CVE-2020-26143', 'CVE-2020-26144', 'CVE-2020-26146', 'CVE-2020-26147', 'CVE-2020-3702']",2022-03-18T23:01Z
+7,cpe:2.3:o:arista:c-75_firmware:-:*:*:*:*:*:*:*,Arista C-75 Firmware,"['CVE-2020-26143', 'CVE-2020-26144', 'CVE-2020-26146', 'CVE-2020-26147']",2022-03-18T23:01Z
+8,cpe:2.3:h:arista:c75-e:-:*:*:*:*:*:*:*,Arista C75-e -,['CVE-2020-3702'],2022-03-18T23:01Z
+9,cpe:2.3:a:arista:cloudeos:4.21.3fx-7368:*:*:*:*:*:*:*,Arista CloudEOS 4.21.3FX-7368,['CVE-2020-11622'],2022-03-18T23:01Z

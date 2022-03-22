@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:openpages_grc_platform:7.2.0.3:*:*:*:*:*:*:*,IBM OpenPages GRC Platform 7.2.0.3,"['CVE-2016-3048', 'CVE-2017-1147', 'CVE-2017-1148', 'CVE-2017-1290', 'CVE-2017-1300', 'CVE-2017-1333']",2022-03-21T21:23Z
+1,cpe:2.3:a:ibm:openpages_grc_platform:7.2.0.4:*:*:*:*:*:*:*,IBM OpenPages GRC Platform 7.2.0.4,"['CVE-2016-3048', 'CVE-2017-1147', 'CVE-2017-1148', 'CVE-2017-1290', 'CVE-2017-1300', 'CVE-2017-1333']",2022-03-21T21:23Z
+2,cpe:2.3:a:ibm:openpages_grc_platform:7.2.0.5:*:*:*:*:*:*:*,IBM OpenPages GRC Platform 7.2.0.5,[''],2022-03-21T21:23Z
+3,cpe:2.3:a:ibm:openpages_grc_platform:7.3:*:*:*:*:*:*:*,IBM OpenPages GRC Platform 7.3,['CVE-2016-3049'],2022-03-21T21:23Z
+4,cpe:2.3:a:ibm:openpages_grc_platform:7.3.0.0:*:*:*:*:*:*:*,IBM OpenPages GRC Platform 7.3.0.0,"['CVE-2016-0234', 'CVE-2016-3048', 'CVE-2017-1147', 'CVE-2017-1148', 'CVE-2017-1290', 'CVE-2017-1300', 'CVE-2017-1333', 'CVE-2017-1679']",2022-03-21T21:23Z
+5,cpe:2.3:a:ibm:openpages_grc_platform:7.3.0.1:*:*:*:*:*:*:*,IBM OpenPages GRC Platform 7.3.0.1,[''],2022-03-21T21:23Z
+6,cpe:2.3:a:ibm:openpages_grc_platform:7.3.0.2:*:*:*:*:*:*:*,IBM OpenPages GRC Platform 7.3.0.2,[''],2022-03-21T21:23Z
+7,cpe:2.3:a:ibm:openpages_grc_platform:7.4.0.0:*:*:*:*:*:*:*,IBM OpenPages GRC Platform 7.4.0.0,['CVE-2017-1679'],2022-03-21T21:23Z
+8,cpe:2.3:a:ibm:openpages_grc_platform:8.0.0.0:*:*:*:*:*:*:*,IBM OpenPages GRC Platform 8.0.0.0,"['CVE-2017-1679', 'CVE-2020-4535', 'CVE-2020-4536']",2022-03-21T21:23Z
+9,cpe:2.3:a:ibm:openpages_grc_platform:8.0.0.1:*:*:*:*:*:*:*,IBM OpenPages GRC Platform 8.0.0.1,"['CVE-2020-4535', 'CVE-2020-4536']",2022-03-21T21:23Z

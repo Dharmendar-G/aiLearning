@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:etrust_security_command_center:8:*:*:*:*:*:*:*,Broadcom eTrust Security Command Center 8,"['CVE-2006-4899', 'CVE-2006-4900', 'CVE-2006-4901']",2022-03-19T12:21Z
+1,cpe:2.3:a:broadcom:etrust_security_command_center:8:sp1:cr1:*:*:*:*:*,Broadcom eTrust Security Command Center 8 Service Pack 1 CR1 Edition,"['CVE-2006-4899', 'CVE-2006-4900', 'CVE-2006-4901']",2022-03-19T12:21Z
+2,cpe:2.3:a:broadcom:etrust_security_command_center:8:sp1:cr2:*:*:*:*:*,Broadcom eTrust Security Command Center 8 Service Pack 1 CR2 Edition,"['CVE-2006-4899', 'CVE-2006-4900', 'CVE-2006-4901']",2022-03-19T12:21Z
+3,cpe:2.3:a:broadcom:etrust_security_suite:-:*:*:*:*:*:*:*,Broadcom eTrust Security Suite,[''],2022-03-19T12:21Z
+4,cpe:2.3:a:broadcom:etrust_security_suite:1:*:*:*:*:*:*:*,Broadcom eTrust Security Suite 1,[''],2022-03-19T12:21Z
+5,cpe:2.3:a:broadcom:etrust_security_suite:2:*:*:*:*:*:*:*,Broadcom eTrust Security Suite 2,[''],2022-03-19T12:21Z
+6,cpe:2.3:a:broadcom:etrust_siteminder:-:*:*:*:*:*:*:*,Broadcom eTrust SiteMinder,['CVE-2007-5923'],2022-03-19T12:21Z
+7,cpe:2.3:a:broadcom:etrust_siteminder:5.5:*:*:*:*:*:*:*,Broadcom eTrust SiteMinder 5.5,"['CVE-2005-2204', 'CVE-2007-5923']",2022-03-19T12:21Z
+8,cpe:2.3:a:broadcom:etrust_siteminder_documentation:12.0.105.635:sp1:*:*:*:*:*:*,Broadcom eTrust SiteMinder Documentation 12.0.105.635 Service Pack 1,[''],2022-03-19T12:21Z
+9,cpe:2.3:a:broadcom:etrust_siteminder_policy_server:6.0.506.223:sp5:*:*:*:*:*:*,Broadcom eTrust SiteMinder Policy Server 6.0.506.223 Service Pack 5,[''],2022-03-19T12:21Z

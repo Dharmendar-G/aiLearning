@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:directory:r12:sp3:*:*:*:*:*:*,Broadcom Directory R12 Service Pack 3,['CVE-2011-3849'],2022-03-19T12:18Z
+1,cpe:2.3:a:broadcom:directory:r12:sp4:*:*:*:*:*:*,Broadcom Directory R12 Service Pack 4,['CVE-2011-3849'],2022-03-19T12:18Z
+2,cpe:2.3:a:broadcom:directory:r12:sp5:*:*:*:*:*:*,Broadcom Directory R12 Service Pack 5,['CVE-2011-3849'],2022-03-19T12:18Z
+3,cpe:2.3:a:broadcom:directory:r12:sp6:*:*:*:*:*:*,Broadcom Directory R12 Service Pack 6,['CVE-2011-3849'],2022-03-19T12:18Z
+4,cpe:2.3:a:broadcom:directory:r12:sp7:*:*:*:*:*:*,Broadcom Directory R12 Service Pack 7,['CVE-2011-3849'],2022-03-19T12:18Z
+5,cpe:2.3:a:broadcom:dx_netops_spectrum:10.4.1:*:*:*:*:*:*:*,Broadcom DX NetOps Spectrum 10.4.1,[''],2022-03-19T12:18Z
+6,cpe:2.3:a:broadcom:dx_netops_spectrum:10.4.2:*:*:*:*:*:*:*,Broadcom DX NetOps Spectrum 10.4.2,[''],2022-03-19T12:18Z
+7,cpe:2.3:a:broadcom:dx_netops_spectrum:10.4.2.1:*:*:*:*:*:*:*,Broadcom DX NetOps Spectrum 10.4.2.1,[''],2022-03-19T12:18Z
+8,cpe:2.3:a:broadcom:dx_netops_spectrum:10.4.2.2:*:*:*:*:*:*:*,Broadcom DX NetOps Spectrum 10.4.2.2,[''],2022-03-19T12:18Z
+9,cpe:2.3:a:broadcom:dx_netops_spectrum:10.4.3:*:*:*:*:*:*:*,Broadcom DX NetOps Spectrum 10.4.3,[''],2022-03-19T12:18Z

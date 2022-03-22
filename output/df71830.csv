@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bdew:bdlib:1.7.1:*:*:*:*:minecraft:*:*,bdew BdLib 1.7.1 for Minecraft,['CVE-2021-33806'],2022-03-19T06:40Z
+1,cpe:2.3:a:bdew:bdlib:1.8.0:*:*:*:*:minecraft:*:*,bdew BdLib 1.8.0 for Minecraft,['CVE-2021-33806'],2022-03-19T06:40Z
+2,cpe:2.3:a:bdew:bdlib:1.8.1:*:*:*:*:minecraft:*:*,bdew BdLib 1.8.1 for Minecraft,['CVE-2021-33806'],2022-03-19T06:40Z
+3,cpe:2.3:a:bdew:bdlib:1.8.2:*:*:*:*:minecraft:*:*,bdew BdLib 1.8.2 for Minecraft,['CVE-2021-33806'],2022-03-19T06:40Z
+4,cpe:2.3:a:bdew:bdlib:1.9.0:*:*:*:*:minecraft:*:*,bdew BdLib 1.9.0 for Minecraft,['CVE-2021-33806'],2022-03-19T06:40Z
+5,cpe:2.3:a:bdew:bdlib:1.9.1:*:*:*:*:minecraft:*:*,bdew BdLib 1.9.1 for Minecraft,['CVE-2021-33806'],2022-03-19T06:40Z
+6,cpe:2.3:a:bdew:bdlib:1.9.2:*:*:*:*:minecraft:*:*,bdew BdLib 1.9.2 for Minecraft,['CVE-2021-33806'],2022-03-19T06:40Z
+7,cpe:2.3:a:bdew:bdlib:1.9.3:*:*:*:*:minecraft:*:*,bdew BdLib 1.9.3 for Minecraft,['CVE-2021-33806'],2022-03-19T06:40Z
+8,cpe:2.3:a:bdew:bdlib:1.9.4:*:*:*:*:minecraft:*:*,bdew BdLib 1.9.4 for Minecraft,['CVE-2021-33806'],2022-03-19T06:40Z
+9,cpe:2.3:a:bdew:bdlib:1.16.1.6:*:*:*:*:minecraft:*:*,bdew BdLib 1.16.1.6 for Minecraft,['CVE-2021-33806'],2022-03-19T06:40Z

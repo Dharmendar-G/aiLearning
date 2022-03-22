@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:citrix:workspace:2006:*:*:*:*:linux:*:*,Citrix Workspace 2006 for Linux,[''],2022-03-20T01:39Z
+1,cpe:2.3:a:citrix:workspace:2006:*:*:*:*:mac:*:*,Citrix Workspace 2006 for Mac,[''],2022-03-20T01:39Z
+2,cpe:2.3:a:citrix:workspace:2006:*:*:*:*:windows:*:*,Citrix Workspace 2006 for Windows,[''],2022-03-20T01:39Z
+3,cpe:2.3:a:citrix:workspace:2007:*:*:*:*:mac:*:*,Citrix Workspace 2007 for Mac,[''],2022-03-20T01:39Z
+4,cpe:2.3:a:citrix:workspace:2008:*:*:*:*:mac:*:*,Citrix Workspace 2008 for Mac,[''],2022-03-20T01:39Z
+5,cpe:2.3:a:citrix:workspace:2008:*:*:*:*:windows:*:*,Citrix Workspace 2008 for Windows,[''],2022-03-20T01:39Z
+6,cpe:2.3:a:citrix:workspace:2009:*:*:*:*:linux:*:*,Citrix Workspace 2009 for Linux,[''],2022-03-20T01:39Z
+7,cpe:2.3:a:citrix:workspace:2009:*:*:*:*:mac:*:*,Citrix Workspace 2009 for Mac,[''],2022-03-20T01:39Z
+8,cpe:2.3:a:citrix:workspace:2009:*:*:*:*:windows:*:*,Citrix Workspace 2009 for Windows,[''],2022-03-20T01:39Z
+9,cpe:2.3:a:citrix:workspace:2009.6:*:*:*:*:windows:*:*,Citrix Workspace 2009.6 for Windows,[''],2022-03-20T01:39Z

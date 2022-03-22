@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:cluster_object_manager:b.02.02.00:*:*:*:*:*:*:*,HP Cluster Object Manager B.02.02.00,['CVE-2004-1486'],2022-03-21T13:00Z
+1,cpe:2.3:a:hp:cluster_object_manager:b.02.02.02:*:*:*:*:*:*:*,HP Cluster Object Manager B.02.02.02,['CVE-2004-1486'],2022-03-21T13:00Z
+2,cpe:2.3:a:hp:cluster_object_manager:b.03.00.00:*:*:*:*:*:*:*,HP Cluster Object Manager B.03.00.00,['CVE-2004-1486'],2022-03-21T13:00Z
+3,cpe:2.3:a:hp:cluster_object_manager:b.03.00.01:*:*:*:*:*:*:*,HP Cluster Object Manager B.03.00.01,['CVE-2004-1486'],2022-03-21T13:00Z
+4,cpe:2.3:a:hp:cluster_object_manager:b.03.01.02:*:*:*:*:*:*:*,HP Cluster Object Manager B.03.01.02,['CVE-2007-3908'],2022-03-21T13:00Z
+5,cpe:2.3:h:hp:cm749a:-:*:*:*:*:*:*:*,HP CM749A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:00Z
+6,cpe:2.3:o:hp:cm749a_firmware:1829a:*:*:*:*:*:*:*,HP CM749A Firmware 1829A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:00Z
+7,cpe:2.3:h:hp:cm750a:-:*:*:*:*:*:*:*,HP CM750A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:00Z
+8,cpe:2.3:o:hp:cm750a_firmware:1829a:*:*:*:*:*:*:*,HP CM750A Firmware 1829A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:00Z
+9,cpe:2.3:h:hp:cm8050_color_mfp:-:*:*:*:*:*:*:*,HP CM8050 Color MFP,[''],2022-03-21T13:00Z

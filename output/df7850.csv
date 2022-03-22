@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:adcon_telemetry:a850_telemetry_gateway_base_station:-:*:*:*:*:*:*:*,ADCON Telemetry A850 Telemetry Gateway Base Station,['CVE-2016-2274'],2022-03-18T11:46Z
+1,cpe:2.3:o:adcon_telemetry:a850_telemetry_gateway_base_station_firmware:-:*:*:*:*:*:*:*,ADCON Telemetry A850 Telemetry Gateway Base Station Firmware,['CVE-2016-2274'],2022-03-18T11:47Z
+2,cpe:2.3:a:add_from_server_project:add_from_server:3.3:*:*:*:*:wordpress:*:*,Add From Server Project Add From Server 3.3 for WordPress,['CVE-2016-10914'],2022-03-18T11:47Z
+3,cpe:2.3:a:add_from_server_project:add_from_server:3.3.1:*:*:*:*:wordpress:*:*,Add From Server Project Add From Server 3.3.1 for WordPress,['CVE-2016-10914'],2022-03-18T11:46Z
+4,cpe:2.3:a:add_from_server_project:add_from_server:3.3.2:*:*:*:*:wordpress:*:*,Add From Server Project Add From Server 3.3.2 for WordPress,[''],2022-03-18T11:47Z
+5,cpe:2.3:a:add_from_server_project:add_from_server:3.3.3:*:*:*:*:wordpress:*:*,Add From Server Project Add From Server 3.3.3 for WordPress,[''],2022-03-18T11:47Z
+6,cpe:2.3:a:add_link_to_facebook_project:add_link_to_facebook:1.171:*:*:*:*:wordpress:*:*,Add Link to Facebook Project Add Link to Facebook 1.171 for WordPress,['CVE-2018-5214'],2022-03-18T11:47Z
+7,cpe:2.3:a:add_link_to_facebook_project:add_link_to_facebook:1.172:*:*:*:*:wordpress:*:*,Add Link to Facebook Project Add Link to Facebook 1.172 for WordPress,['CVE-2018-5214'],2022-03-18T11:47Z
+8,cpe:2.3:a:add_link_to_facebook_project:add_link_to_facebook:1.173:*:*:*:*:wordpress:*:*,Add Link to Facebook Project Add Link to Facebook 1.173 for WordPress,['CVE-2018-5214'],2022-03-18T11:47Z
+9,cpe:2.3:a:add_link_to_facebook_project:add_link_to_facebook:1.174:*:*:*:*:wordpress:*:*,Add Link to Facebook Project Add Link to Facebook 1.174 for WordPress,['CVE-2018-5214'],2022-03-18T11:47Z

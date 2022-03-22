@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dap-1860_firmware:1.04b03:*:*:*:*:*:*:*,D-Link DAP-1860 Firmware 1.04B03,"['CVE-2020-27864', 'CVE-2020-27865']",2022-03-20T15:39Z
+1,cpe:2.3:o:dlink:dap-1860_firmware:1.04b06:*:*:*:*:*:*:*,D-Link DAP-1860 Firmware 1.04B06,[''],2022-03-20T15:39Z
+2,cpe:2.3:h:dlink:dap-1880ac:-:*:*:*:*:*:*:*,D-Link DAP-1880AC,"['CVE-2021-20694', 'CVE-2021-20695', 'CVE-2021-20696', 'CVE-2021-20697']",2022-03-20T15:39Z
+3,cpe:2.3:o:dlink:dap-1880ac_firmware:-:*:*:*:*:*:*:*,D-Link DAP-1880AC FIRMWARE,"['CVE-2021-20694', 'CVE-2021-20695', 'CVE-2021-20696', 'CVE-2021-20697']",2022-03-20T15:39Z
+4,cpe:2.3:o:dlink:dap-1880ac_firmware:1.21:*:*:*:*:*:*:*,D-Link DAP-1880AC FIRMWARE 1.21,"['CVE-2021-20694', 'CVE-2021-20695', 'CVE-2021-20696', 'CVE-2021-20697']",2022-03-20T15:39Z
+5,cpe:2.3:h:dlink:dap-2020:-:*:*:*:*:*:*:*,D-Link DAP-2020,[''],2022-03-20T15:39Z
+6,cpe:2.3:o:dlink:dap-2020_firmware:1.01:rc001:*:*:*:*:*:*,D-Link DAP-2020 Firmware 1.01 Release Candidate 001,[''],2022-03-20T15:39Z
+7,cpe:2.3:h:dlink:dap-2310:-:*:*:*:*:*:*:*,D-Link DAP-2310,"['CVE-2021-28838', 'CVE-2021-28839', 'CVE-2021-28840']",2022-03-20T15:39Z
+8,cpe:2.3:o:dlink:dap-2310_firmware:-:*:*:*:*:*:*:*,D-Link DAP-2310 FIRMWARE,['CVE-2021-28838'],2022-03-20T15:39Z
+9,cpe:2.3:o:dlink:dap-2310_firmware:2.0.7.rc031:*:*:*:*:*:*:*,D-Link DAP-2310 FIRMWARE 2.0.7.RC031,"['CVE-2021-28838', 'CVE-2021-28839', 'CVE-2021-28840']",2022-03-20T15:39Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:balasys:dheater:-:*:*:*:*:*:*:*,Balasys D(HE)ater,['CVE-2002-20001'],2022-03-19T06:06Z
+1,cpe:2.3:a:balasys:dheater:0.1.0:*:*:*:*:*:*:*,Balasys D(HE)ater 0.1.0,[''],2022-03-19T06:06Z
+2,cpe:2.3:a:balasys:dheater:0.2.0:*:*:*:*:*:*:*,Balasys D(HE)ater 0.2.0,[''],2022-03-19T06:06Z
+3,cpe:2.3:a:balasys:dheater:0.2.1:*:*:*:*:*:*:*,Balasys D(HE)ater 0.2.1,[''],2022-03-19T06:06Z
+4,cpe:2.3:a:balasys:dheater:0.2.2:*:*:*:*:*:*:*,Balasys D(HE)ater 0.2.2,[''],2022-03-19T06:06Z
+5,cpe:2.3:a:balasys:dheater:0.2.3:*:*:*:*:*:*:*,Balasys D(HE)ater 0.2.3,[''],2022-03-19T06:06Z
+6,cpe:2.3:a:balderdash:waterline-sequel:0.0.1:*:*:*:*:node.js:*:*,Balderdash waterline-sequel 0.0.1 for Node.js,[''],2022-03-19T06:06Z
+7,cpe:2.3:a:balderdash:waterline-sequel:0.0.2:*:*:*:*:node.js:*:*,Balderdash waterline-sequel 0.0.2 for Node.js,[''],2022-03-19T06:06Z
+8,cpe:2.3:a:balderdash:waterline-sequel:0.0.3:*:*:*:*:node.js:*:*,Balderdash waterline-sequel 0.0.3 for Node.js,[''],2022-03-19T06:06Z
+9,cpe:2.3:a:balderdash:waterline-sequel:0.0.4:*:*:*:*:node.js:*:*,Balderdash waterline-sequel 0.0.4 for Node.js,[''],2022-03-19T06:06Z

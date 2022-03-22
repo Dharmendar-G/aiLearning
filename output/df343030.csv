@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:ibm:flex_system_x220_m4_firmware:kse158c:*:*:*:*:*:*:*,IBM Flex System X220 M4 Firmware Kse158c,[''],2022-03-21T20:38Z
+1,cpe:2.3:h:ibm:flex_system_x222:-:*:*:*:*:*:*:*,IBM Flex System X222,['CVE-2014-0881'],2022-03-21T20:38Z
+2,cpe:2.3:h:ibm:flex_system_x222_m4:-:*:*:*:*:*:*:*,IBM Flex System x222 M4,"['CVE-2017-3744', 'CVE-2017-3768', 'CVE-2017-3774', 'CVE-2018-9068', 'CVE-2018-9085', 'CVE-2019-6157']",2022-03-21T20:38Z
+3,cpe:2.3:o:ibm:flex_system_x222_m4_firmware:-:*:*:*:*:*:*:*,IBM Flex System X222 M4 Firmware,"['CVE-2017-3768', 'CVE-2018-9068', 'CVE-2018-9085', 'CVE-2019-6157']",2022-03-21T20:38Z
+4,cpe:2.3:o:ibm:flex_system_x222_m4_firmware:6.4:*:*:*:*:*:*:*,IBM Flex System X222 M4 Firmware 6.4,"['CVE-2018-9068', 'CVE-2018-9085', 'CVE-2019-6157']",2022-03-21T20:38Z
+5,cpe:2.3:o:ibm:flex_system_x222_m4_firmware:6.80:*:*:*:*:*:*:*,IBM Flex System X222 M4 Firmware 6.80,"['CVE-2018-9085', 'CVE-2019-6157']",2022-03-21T20:38Z
+6,cpe:2.3:o:ibm:flex_system_x222_m4_firmware:7.20:*:*:*:*:*:*:*,IBM Flex System X222 M4 Firmware 7.20,['CVE-2018-9085'],2022-03-21T20:38Z
+7,cpe:2.3:o:ibm:flex_system_x222_m4_firmware:cce160c:*:*:*:*:*:*:*,IBM Flex System X222 M4 Firmware Cce160c,[''],2022-03-21T20:38Z
+8,cpe:2.3:h:ibm:flex_system_x240:-:*:*:*:*:*:*:*,IBM Flex System X240,['CVE-2014-0882'],2022-03-21T20:38Z
+9,cpe:2.3:h:ibm:flex_system_x240_compute_node:-:*:*:*:*:*:*:*,IBM Flex System X240 Compute Node,"['CVE-2013-4030', 'CVE-2013-4031', 'CVE-2013-4037', 'CVE-2013-4038']",2022-03-21T20:38Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:altus:nexto_nx5110:-:*:*:*:*:*:*:*,Altus Nexto NX5110,"['CVE-2021-39243', 'CVE-2021-39244', 'CVE-2021-39245']",2022-03-18T15:19Z
+1,cpe:2.3:o:altus:nexto_nx5110_firmware:1.1.2.8:*:*:*:*:*:*:*,Altus Nexto NxX5110 Firmware 1.1.2.8,"['CVE-2021-39243', 'CVE-2021-39244', 'CVE-2021-39245']",2022-03-18T15:19Z
+2,cpe:2.3:h:altus:nexto_nx5210:-:*:*:*:*:*:*:*,Altus Nexto NX5210,"['CVE-2021-39243', 'CVE-2021-39244', 'CVE-2021-39245']",2022-03-18T15:19Z
+3,cpe:2.3:o:altus:nexto_nx5210_firmware:1.1.2.8:*:*:*:*:*:*:*,Altus Nexto NX5210 Firmware 1.1.2.8,"['CVE-2021-39243', 'CVE-2021-39244', 'CVE-2021-39245']",2022-03-18T15:19Z
+4,cpe:2.3:h:altus:nexto_xpress_xp300:-:*:*:*:*:*:*:*,Altus Nexto Xpress XP300,"['CVE-2021-39243', 'CVE-2021-39244', 'CVE-2021-39245']",2022-03-18T15:19Z
+5,cpe:2.3:o:altus:nexto_xpress_xp300_firmware:1.8.11.0:*:*:*:*:*:*:*,Altus Nexto Xpress XP300 Firmware 1.8.11.0,"['CVE-2021-39243', 'CVE-2021-39244', 'CVE-2021-39245']",2022-03-18T15:19Z
+6,cpe:2.3:h:altus:nexto_xpress_xp315:-:*:*:*:*:*:*:*,Altus Nexto Xpress XP315,"['CVE-2021-39243', 'CVE-2021-39244', 'CVE-2021-39245']",2022-03-18T15:19Z
+7,cpe:2.3:o:altus:nexto_xpress_xp315_firmware:1.8.11.0:*:*:*:*:*:*:*,Altus Nexto Xpress XP315 Firmware 1.8.11.0,"['CVE-2021-39243', 'CVE-2021-39244', 'CVE-2021-39245']",2022-03-18T15:19Z
+8,cpe:2.3:h:altus:nexto_xpress_xp325:-:*:*:*:*:*:*:*,Altus Nexto Xpress XP325,"['CVE-2021-39243', 'CVE-2021-39244', 'CVE-2021-39245']",2022-03-18T15:19Z
+9,cpe:2.3:o:altus:nexto_xpress_xp325_firmware:1.8.11.0:*:*:*:*:*:*:*,Altus Nexto Xpress XP325 Firmware 1.8.11.0,"['CVE-2021-39243', 'CVE-2021-39244', 'CVE-2021-39245']",2022-03-18T15:19Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:stratos:0.9.7:*:*:*:*:*:*:*,Cloudfoundry Stratos 0.9.7,"['CVE-2019-3783', 'CVE-2019-3784']",2022-03-20T03:40Z
+1,cpe:2.3:a:cloudfoundry:stratos:0.9.8:*:*:*:*:*:*:*,Cloudfoundry Stratos 0.9.8,"['CVE-2019-3783', 'CVE-2019-3784']",2022-03-20T03:40Z
+2,cpe:2.3:a:cloudfoundry:stratos:0.9.9:*:*:*:*:*:*:*,Cloudfoundry Stratos 0.9.9,"['CVE-2019-3783', 'CVE-2019-3784']",2022-03-20T03:40Z
+3,cpe:2.3:a:cloudfoundry:stratos:1.0.0:*:*:*:*:*:*:*,Cloudfoundry Stratos 1.0.0,"['CVE-2019-3783', 'CVE-2019-3784']",2022-03-20T03:40Z
+4,cpe:2.3:a:cloudfoundry:stratos:1.0.2:*:*:*:*:*:*:*,Cloudfoundry Stratos 1.0.2,"['CVE-2019-3783', 'CVE-2019-3784']",2022-03-20T03:40Z
+5,cpe:2.3:a:cloudfoundry:stratos:1.1.0:*:*:*:*:*:*:*,Cloudfoundry Stratos 1.1.0,"['CVE-2019-3783', 'CVE-2019-3784']",2022-03-20T03:40Z
+6,cpe:2.3:a:cloudfoundry:stratos:2.0.0:-:*:*:*:*:*:*,Cloudfoundry Stratos 2.0.0,"['CVE-2019-3783', 'CVE-2019-3784']",2022-03-20T03:40Z
+7,cpe:2.3:a:cloudfoundry:stratos:2.0.0:beta-001:*:*:*:*:*:*,Cloudfoundry Stratos 2.0.0 Beta-001,"['CVE-2019-3783', 'CVE-2019-3784']",2022-03-20T03:40Z
+8,cpe:2.3:a:cloudfoundry:stratos:2.0.0:beta-002:*:*:*:*:*:*,Cloudfoundry Stratos 2.0.0 Beta-002,"['CVE-2019-3783', 'CVE-2019-3784']",2022-03-20T03:40Z
+9,cpe:2.3:a:cloudfoundry:stratos:2.0.0:rc1:*:*:*:*:*:*,Cloudfoundry Stratos 2.0.0 Release Candidate 1,"['CVE-2019-3783', 'CVE-2019-3784']",2022-03-20T03:40Z

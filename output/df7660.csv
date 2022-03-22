@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adastra:trace_mode_data_center:6.06:*:*:*:*:*:*:*,AdAstrA TRACE MODE Data Center 6.06,[''],2022-03-18T11:44Z
+1,cpe:2.3:a:adastra:trace_mode_data_center:6.07:*:*:*:*:*:*:*,AdAstrA TRACE MODE Data Center 6.07,[''],2022-03-18T11:44Z
+2,cpe:2.3:a:adastra:trace_mode_data_center:6.07.7:*:*:*:*:*:*:*,AdAstrA TRACE MODE Data Center 6.07.7,[''],2022-03-18T11:44Z
+3,cpe:2.3:a:adastra:trace_mode_data_center:6.08:*:*:*:*:*:*:*,AdAstrA TRACE MODE Data Center 6.08,[''],2022-03-18T11:44Z
+4,cpe:2.3:a:adazing:morning_coffee:-:*:*:*:*:wordpress:*:*,Adazing Morning Coffee for WordPress,['CVE-2011-3862'],2022-03-18T11:44Z
+5,cpe:2.3:a:adazing:morning_coffee:2.7:*:*:*:*:wordpress:*:*,Adazing Morning Coffee 2.7 for WordPress,['CVE-2011-3862'],2022-03-18T11:44Z
+6,cpe:2.3:a:adazing:morning_coffee:2.8:*:*:*:*:wordpress:*:*,Adazing Morning Coffee 2.8 for WordPress,['CVE-2011-3862'],2022-03-18T11:44Z
+7,cpe:2.3:a:adazing:morning_coffee:2.9:*:*:*:*:wordpress:*:*,Adazing Morning Coffee 2.9 for WordPress,['CVE-2011-3862'],2022-03-18T11:44Z
+8,cpe:2.3:a:adazing:morning_coffee:3.0:*:*:*:*:wordpress:*:*,Adazing Morning Coffee 3.0 for WordPress,['CVE-2011-3862'],2022-03-18T11:44Z
+9,cpe:2.3:a:adazing:morning_coffee:3.1:*:*:*:*:wordpress:*:*,Adazing Morning Coffee 3.1 for WordPress,['CVE-2011-3862'],2022-03-18T11:44Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:ip_phone_6871_firmware:11.2\(3\)sr1:*:*:*:*:*:*:*,Cisco IP Phone 6871 Firmware 11.2(3)SR1,"['CVE-2019-16008', 'CVE-2020-3111']",2022-03-19T22:35Z
+1,cpe:2.3:o:cisco:ip_phone_6871_firmware:11.3\(1\):*:*:*:*:*:*:*,Cisco IP Phone 6871 Firmware 11.3(1),['CVE-2020-3111'],2022-03-19T22:35Z
+2,cpe:2.3:o:cisco:ip_phone_6871_firmware:11.3\(1\)sr1:*:*:*:*:*:*:*,Cisco IP Phone 6871 Firmware 11.3(1)SR1,[''],2022-03-19T22:35Z
+3,cpe:2.3:h:cisco:ip_phone_7800:-:*:*:*:*:*:*:*,Cisco IP Phone 7800,"['CVE-2018-0325', 'CVE-2019-1684']",2022-03-19T22:35Z
+4,cpe:2.3:o:cisco:ip_phone_7800_firmware:10.2\(2\):*:*:*:*:*:*:*,Cisco IP Phone 7800 Firmware 10.2(2),"['CVE-2018-0325', 'CVE-2019-1684']",2022-03-19T22:35Z
+5,cpe:2.3:o:cisco:ip_phone_7800_firmware:10.3\(1\):*:*:*:*:*:*:*,Cisco IP Phone 7800 Firmware 10.3(1),"['CVE-2018-0325', 'CVE-2019-1684']",2022-03-19T22:35Z
+6,cpe:2.3:o:cisco:ip_phone_7800_firmware:11.0\(1\):*:*:*:*:*:*:*,Cisco IP Phone 7800 Firmware 11.0(1),"['CVE-2018-0325', 'CVE-2019-1684']",2022-03-19T22:35Z
+7,cpe:2.3:o:cisco:ip_phone_7800_firmware:11.5\(1\):*:*:*:*:*:*:*,Cisco IP Phone 7800 Firmware 11.5(1),"['CVE-2018-0325', 'CVE-2019-1684']",2022-03-19T22:35Z
+8,cpe:2.3:o:cisco:ip_phone_7800_firmware:11.5\(1\)sr1:*:*:*:*:*:*:*,Cisco IP Phone 7800 Firmware 11.5(1)sr1,"['CVE-2018-0325', 'CVE-2019-1684']",2022-03-19T22:35Z
+9,cpe:2.3:o:cisco:ip_phone_7800_firmware:11.7\(1\):*:*:*:*:*:*:*,Cisco IP Phone 7800 Firmware 11.7(1),"['CVE-2018-0325', 'CVE-2019-1684']",2022-03-19T22:35Z

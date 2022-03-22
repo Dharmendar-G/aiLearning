@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:aries_networks:qwr-1104_wireless-n_router:-:*:*:*:*:*:*:*,Aries Networks QWR-1104 Wireless-N Router,['CVE-2017-9243'],2022-03-18T22:59Z
+1,cpe:2.3:o:aries_networks:qwr-1104_wireless-n_router_firmware:wrc.253.2.0913:*:*:*:*:*:*:*,Aries Networks QWR-1104 Wireless-N Router Firmware WRC.253.2.0913,['CVE-2017-9243'],2022-03-18T22:59Z
+2,cpe:2.3:a:ari-soft:ari_adminer:-:*:*:*:*:wordpress:*:*,ARI Soft ARI Adminer for WordPress,[''],2022-03-18T22:59Z
+3,cpe:2.3:a:ari-soft:ari_adminer:1.0:*:*:*:*:wordpress:*:*,ARI Soft ARI Adminer 1.0 for WordPress,['CVE-2020-19156'],2022-03-18T22:59Z
+4,cpe:2.3:a:ari-soft:ari_adminer:1.0.1:*:*:*:*:wordpress:*:*,ARI Soft ARI Adminer 1.0.1 for WordPress,[''],2022-03-18T22:59Z
+5,cpe:2.3:a:ari-soft:ari_adminer:1.0.2:*:*:*:*:wordpress:*:*,ARI Soft ARI Adminer 1.0.2 for WordPress,[''],2022-03-18T22:59Z
+6,cpe:2.3:a:ari-soft:ari_adminer:1.0.3:*:*:*:*:wordpress:*:*,ARI Soft ARI Adminer 1.0.3 for WordPress,[''],2022-03-18T22:59Z
+7,cpe:2.3:a:ari-soft:ari_adminer:1.0.4:*:*:*:*:wordpress:*:*,ARI Soft ARI Adminer 1.0.4 for WordPress,[''],2022-03-18T22:59Z
+8,cpe:2.3:a:ari-soft:ari_adminer:1.0.5:*:*:*:*:wordpress:*:*,ARI Soft ARI Adminer 1.0.5 for WordPress,[''],2022-03-18T22:59Z
+9,cpe:2.3:a:ari-soft:ari_adminer:1.0.6:*:*:*:*:wordpress:*:*,ARI Soft ARI Adminer 1.0.6 for WordPress,[''],2022-03-18T22:59Z

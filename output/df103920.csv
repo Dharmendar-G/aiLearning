@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:catalin_florian_radut:zeropoint:7.x-1.7:*:*:*:*:*:*:*,Catalin Florian Radut Zeropoint module for Drupal 7.x-1.7,['CVE-2013-1905'],2022-03-19T15:42Z
+1,cpe:2.3:a:catalin_florian_radut:zeropoint:7.x-1.8:*:*:*:*:*:*:*,Catalin Florian Radut Zeropoint module for Drupal 7.x-1.8,['CVE-2013-1905'],2022-03-19T15:42Z
+2,cpe:2.3:a:catalin_florian_radut:zeropoint:7.x-1.9:*:*:*:*:*:*:*,Catalin Florian Radut Zeropoint module for Drupal 7.x-1.9,[''],2022-03-19T15:42Z
+3,cpe:2.3:a:catalin_florian_radut:zeropoint:7.x-1.x:dev:*:*:*:*:*:*,Catalin Florian Radut Zeropoint module for Drupal 7.x-1.x-dev,"['CVE-2012-5591', 'CVE-2013-1905']",2022-03-19T15:42Z
+4,cpe:2.3:a:catalooksupport:.netstore:7.2.8:*:*:*:*:dnn:*:*,CATALooK.netStore 7.2.8 for DNN,['CVE-2018-10138'],2022-03-19T15:42Z
+5,cpe:2.3:a:catalyst:file_transfer:6.0.6030:*:*:*:*:*:*:*,Catalyst File Transfer 6.0.6030,[''],2022-03-19T15:42Z
+6,cpe:2.3:a:catalyst-plugin-static-simple_project:catalyst-plugin-static-simple:0.01:*:*:*:*:perl:*:*,Catalyst-Plugin-Static-Simple Project Catalyst-Plugin-Static-Simple 0.01 for Perl,['CVE-2017-16248'],2022-03-19T15:42Z
+7,cpe:2.3:a:catalyst-plugin-static-simple_project:catalyst-plugin-static-simple:0.02:*:*:*:*:perl:*:*,Catalyst-Plugin-Static-Simple Project Catalyst-Plugin-Static-Simple 0.02 for Perl,['CVE-2017-16248'],2022-03-19T15:42Z
+8,cpe:2.3:a:catalyst-plugin-static-simple_project:catalyst-plugin-static-simple:0.03:*:*:*:*:perl:*:*,Catalyst-Plugin-Static-Simple Project Catalyst-Plugin-Static-Simple 0.03 for Perl,['CVE-2017-16248'],2022-03-19T15:42Z
+9,cpe:2.3:a:catalyst-plugin-static-simple_project:catalyst-plugin-static-simple:0.04:*:*:*:*:perl:*:*,Catalyst-Plugin-Static-Simple Project Catalyst-Plugin-Static-Simple 0.04 for Perl,['CVE-2017-16248'],2022-03-19T15:42Z

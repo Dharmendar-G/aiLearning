@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:spa500_series_ip_phone:-:*:*:*:*:*:*:*,Cisco SPA500 Series IP Phone,"['CVE-2016-1469', 'CVE-2017-12271']",2022-03-20T00:22Z
+1,cpe:2.3:o:cisco:spa500_series_ip_phone_firmware:7.5.7\(5\):*:*:*:*:*:*:*,Cisco SPA500 Series IP Phone Firmware 7.5.7(5),['CVE-2016-1469'],2022-03-20T00:22Z
+2,cpe:2.3:o:cisco:spa500_series_ip_phone_firmware:7.5.7\(6\):*:*:*:*:*:*:*,Cisco SPA500 Series IP Phone Firmware 7.5.7(6),['CVE-2016-1469'],2022-03-20T00:22Z
+3,cpe:2.3:h:cisco:spa500ds:-:*:*:*:*:*:*:*,Cisco SPA500DS -,"['CVE-2019-15959', 'CVE-2019-1683', 'CVE-2019-1923']",2022-03-20T00:22Z
+4,cpe:2.3:o:cisco:spa500ds_firmware:1.4.2:*:*:*:*:*:*:*,Cisco SPA500DS Firmware 1.4.2,"['CVE-2019-1683', 'CVE-2019-1923']",2022-03-20T00:22Z
+5,cpe:2.3:o:cisco:spa500ds_firmware:7.6.2sr5:*:*:*:*:*:*:*,Cisco SPA500DS Firmware 7.6.2sr5,['CVE-2019-1923'],2022-03-20T00:22Z
+6,cpe:2.3:h:cisco:spa500s:-:*:*:*:*:*:*:*,Cisco SPA500S -,"['CVE-2019-15959', 'CVE-2019-1683', 'CVE-2019-1923']",2022-03-20T00:22Z
+7,cpe:2.3:o:cisco:spa500s_firmware:1.4.2:*:*:*:*:*:*:*,Cisco SPA500S Firmware 1.4.2,"['CVE-2019-1683', 'CVE-2019-1923']",2022-03-20T00:22Z
+8,cpe:2.3:o:cisco:spa500s_firmware:7.6.2sr5:*:*:*:*:*:*:*,Cisco SPA500S Firmware 7.6.2sr5,['CVE-2019-1923'],2022-03-20T00:22Z
+9,cpe:2.3:h:cisco:spa501g:-:*:*:*:*:*:*:*,Cisco SPA501G -,"['CVE-2019-15959', 'CVE-2019-1683', 'CVE-2019-1923']",2022-03-20T00:22Z

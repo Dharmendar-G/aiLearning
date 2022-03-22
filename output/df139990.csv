@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisofy:lynis:1.5.0:*:*:*:*:aix:*:*,cisofy Lynis for AIX 1.5.0,"['CVE-2014-3982', 'CVE-2014-3986', 'CVE-2017-8108', 'CVE-2020-13882']",2022-03-20T01:27Z
+1,cpe:2.3:a:cisofy:lynis:1.5.0:*:*:*:*:aix:*:*,cisofy Lynis for AIX 1.5.0,"['CVE-2014-3982', 'CVE-2014-3986', 'CVE-2017-8108', 'CVE-2020-13882']",2022-03-20T01:27Z
+2,cpe:2.3:a:cisofy:lynis:1.5.1:*:*:*:*:aix:*:*,cisofy Lynis for AIX 1.5.1,"['CVE-2014-3982', 'CVE-2014-3986', 'CVE-2017-8108', 'CVE-2020-13882']",2022-03-20T01:27Z
+3,cpe:2.3:a:cisofy:lynis:1.5.1:*:*:*:*:aix:*:*,cisofy Lynis for AIX 1.5.1,"['CVE-2014-3982', 'CVE-2014-3986', 'CVE-2017-8108', 'CVE-2020-13882']",2022-03-20T01:27Z
+4,cpe:2.3:a:cisofy:lynis:1.5.2:*:*:*:*:aix:*:*,cisofy Lynis for AIX 1.5.2,"['CVE-2014-3982', 'CVE-2014-3986', 'CVE-2017-8108', 'CVE-2020-13882']",2022-03-20T01:27Z
+5,cpe:2.3:a:cisofy:lynis:1.5.2:*:*:*:*:aix:*:*,cisofy Lynis for AIX 1.5.2,"['CVE-2014-3982', 'CVE-2014-3986', 'CVE-2017-8108', 'CVE-2020-13882']",2022-03-20T01:27Z
+6,cpe:2.3:a:cisofy:lynis:1.5.3:*:*:*:*:aix:*:*,cisofy Lynis for AIX 1.5.3,"['CVE-2014-3982', 'CVE-2014-3986', 'CVE-2017-8108', 'CVE-2020-13882']",2022-03-20T01:27Z
+7,cpe:2.3:a:cisofy:lynis:1.5.3:*:*:*:*:aix:*:*,cisofy Lynis for AIX 1.5.3,"['CVE-2014-3982', 'CVE-2014-3986', 'CVE-2017-8108', 'CVE-2020-13882']",2022-03-20T01:27Z
+8,cpe:2.3:a:cisofy:lynis:1.5.4:*:*:*:*:aix:*:*,cisofy Lynis for AIX 1.5.4,"['CVE-2014-3982', 'CVE-2014-3986', 'CVE-2017-8108', 'CVE-2020-13882']",2022-03-20T01:27Z
+9,cpe:2.3:a:cisofy:lynis:1.5.4:*:*:*:*:aix:*:*,cisofy Lynis for AIX 1.5.4,"['CVE-2014-3982', 'CVE-2014-3986', 'CVE-2017-8108', 'CVE-2020-13882']",2022-03-20T01:27Z

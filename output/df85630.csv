@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:bosch:cpp7_firmware:7.70:*:*:*:*:*:*:*,Bosch Common Product Platform 7 Firmware 7.70,"['CVE-2021-23847', 'CVE-2021-23849', 'CVE-2021-23854']",2022-03-19T10:02Z
+1,cpe:2.3:o:bosch:cpp7_firmware:7.72:*:*:*:*:*:*:*,Bosch Common Product Platform 7 Firmware 7.72,"['CVE-2021-23847', 'CVE-2021-23849', 'CVE-2021-23854']",2022-03-19T10:02Z
+2,cpe:2.3:o:bosch:cpp7_firmware:7.80:*:*:*:*:*:*:*,Bosch Common Product Platform 7 Firmware 7.80,"['CVE-2021-23847', 'CVE-2021-23849']",2022-03-19T10:02Z
+3,cpe:2.3:o:bosch:cpp7_firmware:7.80.0129:*:*:*:*:*:*:*,Bosch Common Product Platform 7 Firmware 7.80.0129,[''],2022-03-19T10:02Z
+4,cpe:2.3:h:bosch:dinion_hd_1080p:-:*:*:*:*:*:*:*,Bosch DINION HD 1080p,['CVE-2018-19036'],2022-03-19T10:02Z
+5,cpe:2.3:h:bosch:dinion_hd_1080p_hdr:-:*:*:*:*:*:*:*,Bosch DINION HD 1080p HDR,['CVE-2018-19036'],2022-03-19T10:02Z
+6,cpe:2.3:h:bosch:dinion_hd_720p:-:*:*:*:*:*:*:*,Bosch DINION HD 720p,['CVE-2018-19036'],2022-03-19T10:02Z
+7,cpe:2.3:h:bosch:dinion_imager_9000_hd:-:*:*:*:*:*:*:*,Bosch DINION Imager 9000 HD,['CVE-2018-19036'],2022-03-19T10:02Z
+8,cpe:2.3:h:bosch:dinion_ip_4000_hd:-:*:*:*:*:*:*:*,Bosch DINION IP 4000 HD,['CVE-2018-19036'],2022-03-19T10:02Z
+9,cpe:2.3:h:bosch:dinion_ip_5000_hd:-:*:*:*:*:*:*:*,Bosch DINION IP 5000 HD,['CVE-2018-19036'],2022-03-19T10:02Z

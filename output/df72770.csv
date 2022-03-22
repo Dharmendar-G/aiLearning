@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:belwith-keeler:hickory_smart:01.01.40:*:*:*:*:android:*:*,Belwith-Keeler Hickory Smart 01.01.40 for Android,"['CVE-2019-5632', 'CVE-2019-5634']",2022-03-19T06:54Z
+1,cpe:2.3:a:belwith-keeler:hickory_smart:01.01.43:*:*:*:*:android:*:*,Belwith-Keeler Hickory Smart 01.01.43 for Android,"['CVE-2019-5632', 'CVE-2019-5634']",2022-03-19T06:54Z
+2,cpe:2.3:h:belwith-keeler:hickory_smart_ethernet_bridge:-:*:*:*:*:*:*:*,Belwith-Keeler Hickory Smart Ethernet Bridge,['CVE-2019-5635'],2022-03-19T06:54Z
+3,cpe:2.3:o:belwith-keeler:hickory_smart_ethernet_bridge_firmware:-:*:*:*:*:*:*:*,Belwith-Keeler Hickory Smart Ethernet Bridge Firmware,['CVE-2019-5635'],2022-03-19T06:54Z
+4,cpe:2.3:a:ben10_omniverse_walkthrough_project:ben10_omniverse_walkthrough:0.7:*:*:*:*:android:*:*,ben10 omniverse walkthrough project ben10 omniverse walkthrough (aka com.wben10omniverse2walkthrough) for android 0.7,['CVE-2014-7064'],2022-03-19T06:54Z
+5,cpe:2.3:h:benda:miracase_hmub500:-:*:*:*:*:*:*:*,Benda MIRACASE HMUB500,['CVE-2021-38549'],2022-03-19T06:54Z
+6,cpe:2.3:o:benda:miracase_hmub500_firmware:-:*:*:*:*:*:*:*,Benda MIRACASE HMUB500 FIRMWARE -,['CVE-2021-38549'],2022-03-19T06:54Z
+7,cpe:2.3:o:benda:miracase_hmub500_firmware:2021-08-09:*:*:*:*:*:*:*,Benda MIRACASE HMUB500 FIRMWARE 2021-08-09,['CVE-2021-38549'],2022-03-19T06:54Z
+8,cpe:2.3:h:bender:com465dp:-:*:*:*:*:*:*:*,Bender COM465DP,['CVE-2019-19885'],2022-03-19T06:54Z
+9,cpe:2.3:o:bender:com465dp_firmware:-:*:*:*:*:*:*:*,Bender COM465DP Firmware,['CVE-2019-19885'],2022-03-19T06:54Z

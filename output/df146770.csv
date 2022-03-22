@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:nfs_volume_release:1.5.3:*:*:*:*:*:*:*,Cloud Foundry NFS volume release 1.5.3,[''],2022-03-20T03:32Z
+1,cpe:2.3:a:cloudfoundry:nfs_volume_release:1.5.4:*:*:*:*:*:*:*,Cloud Foundry NFS volume release 1.5.4,[''],2022-03-20T03:32Z
+2,cpe:2.3:a:cloudfoundry:nfs_volume_release:1.5.5:*:*:*:*:*:*:*,Cloud Foundry NFS volume release 1.5.5,[''],2022-03-20T03:32Z
+3,cpe:2.3:a:cloudfoundry:nfs_volume_release:1.5.6:*:*:*:*:*:*:*,Cloud Foundry NFS volume release 1.5.6,[''],2022-03-20T03:32Z
+4,cpe:2.3:a:cloudfoundry:nfs_volume_release:1.5.7:*:*:*:*:*:*:*,Cloud Foundry NFS volume release 1.5.7,[''],2022-03-20T03:32Z
+5,cpe:2.3:a:cloudfoundry:nfs_volume_release:1.6.0:*:*:*:*:*:*:*,Cloud Foundry NFS volume release 1.6.0,[''],2022-03-20T03:32Z
+6,cpe:2.3:a:cloudfoundry:nfs_volume_release:1.6.1:*:*:*:*:*:*:*,Cloud Foundry NFS volume release 1.6.1,[''],2022-03-20T03:32Z
+7,cpe:2.3:a:cloudfoundry:nfs_volume_release:1.7.0:*:*:*:*:*:*:*,Cloud Foundry NFS volume release 1.7.0,['CVE-2019-11277'],2022-03-20T03:32Z
+8,cpe:2.3:a:cloudfoundry:nfs_volume_release:1.7.1:*:*:*:*:*:*:*,Cloud Foundry NFS volume release 1.7.1,['CVE-2019-11277'],2022-03-20T03:32Z
+9,cpe:2.3:a:cloudfoundry:nfs_volume_release:1.7.2:*:*:*:*:*:*:*,Cloud Foundry NFS volume release 1.7.2,['CVE-2019-11277'],2022-03-20T03:32Z

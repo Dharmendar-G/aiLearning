@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:jackrabbit:2.2.11:*:*:*:*:*:*:*,Apache Software Foundation Jackrabbit 2.2.11,['CVE-2015-1833'],2022-03-18T18:52Z
+1,cpe:2.3:a:apache:jackrabbit:2.2.12:*:*:*:*:*:*:*,Apache Software Foundation Jackrabbit 2.2.12,['CVE-2015-1833'],2022-03-18T18:52Z
+2,cpe:2.3:a:apache:jackrabbit:2.2.13:*:*:*:*:*:*:*,Apache Software Foundation Jackrabbit 2.2.13,['CVE-2015-1833'],2022-03-18T18:52Z
+3,cpe:2.3:a:apache:jackrabbit:2.4.0:*:*:*:*:*:*:*,Apache Software Foundation Jackrabbit 2.4.0,"['CVE-2015-1833', 'CVE-2016-6801']",2022-03-18T18:52Z
+4,cpe:2.3:a:apache:jackrabbit:2.4.1:*:*:*:*:*:*:*,Apache Software Foundation Jackrabbit 2.4.1,"['CVE-2015-1833', 'CVE-2016-6801']",2022-03-18T18:52Z
+5,cpe:2.3:a:apache:jackrabbit:2.4.2:*:*:*:*:*:*:*,Apache Software Foundation Jackrabbit 2.4.2,"['CVE-2015-1833', 'CVE-2016-6801']",2022-03-18T18:52Z
+6,cpe:2.3:a:apache:jackrabbit:2.4.3:*:*:*:*:*:*:*,Apache Software Foundation Jackrabbit 2.4.3,"['CVE-2015-1833', 'CVE-2016-6801']",2022-03-18T18:52Z
+7,cpe:2.3:a:apache:jackrabbit:2.4.4:*:*:*:*:*:*:*,Apache Software Foundation Jackrabbit 2.4.4,"['CVE-2015-1833', 'CVE-2016-6801']",2022-03-18T18:52Z
+8,cpe:2.3:a:apache:jackrabbit:2.4.5:*:*:*:*:*:*:*,Apache Software Foundation Jackrabbit 2.4.5,"['CVE-2015-1833', 'CVE-2016-6801']",2022-03-18T18:52Z
+9,cpe:2.3:a:apache:jackrabbit:2.6.0:*:*:*:*:*:*:*,Apache Software Foundation Jackrabbit 2.6.0,"['CVE-2015-1833', 'CVE-2016-6801']",2022-03-18T18:52Z

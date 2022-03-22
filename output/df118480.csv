@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:email_security_appliance_firmware:13.5.0:*:*:*:*:*:*:*,Cisco Email Security Appliance Firmware 13.5.0,[''],2022-03-19T19:27Z
+1,cpe:2.3:h:cisco:email_security_appliance_x1070:-:*:*:*:*:*:*:*,Cisco Email Security Appliance X1070,['CVE-2018-0140'],2022-03-19T19:27Z
+2,cpe:2.3:a:cisco:email_security_appliances:10.0.3-004:*:*:*:*:*:*:*,Cisco Email Security Appliances (ESA) 10.0.3-004,[''],2022-03-19T19:27Z
+3,cpe:2.3:a:cisco:email_security_appliances:11.0.0-274:*:*:*:*:*:*:*,Cisco Email Security Appliances (ESA) 11.0.0-274,[''],2022-03-19T19:27Z
+4,cpe:2.3:a:cisco:email_security_appliances:11.0.2-037:*:*:*:*:*:*:*,Cisco Email Security Appliances (ESA) 11.0.2-037,[''],2022-03-19T19:27Z
+5,cpe:2.3:a:cisco:email_security_appliances:11.1.0-135:*:*:*:*:*:*:*,Cisco Email Security Appliances (ESA) 11.1.0-135,[''],2022-03-19T19:27Z
+6,cpe:2.3:o:cisco:email_security_appliances_firmware:10.0.3-004:*:*:*:*:*:*:*,Cisco Email Security Appliances Firmware 10.0.3-004,[''],2022-03-19T19:27Z
+7,cpe:2.3:o:cisco:email_security_appliances_firmware:11.0.0-274:*:*:*:*:*:*:*,Cisco Email Security Appliances Firmware 11.0.0-274,[''],2022-03-19T19:27Z
+8,cpe:2.3:o:cisco:email_security_appliances_firmware:11.0.2-037:*:*:*:*:*:*:*,Cisco Email Security Appliances Firmware 11.0.2-037,[''],2022-03-19T19:27Z
+9,cpe:2.3:o:cisco:email_security_appliances_firmware:11.1.0-135:*:*:*:*:*:*:*,Cisco Email Security Appliances Firmware 11.1.0-135,[''],2022-03-19T19:27Z

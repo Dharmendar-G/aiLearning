@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:potter-al00c:-:*:*:*:*:*:*:*,Huawei Potter-AL00C,"['CVE-2019-5235', 'CVE-2019-9506']",2022-03-21T18:26Z
+1,cpe:2.3:o:huawei:potter-al00c_firmware:-:*:*:*:*:*:*:*,Huawei POTTER-AL00C FIRMWARE,['CVE-2019-9506'],2022-03-21T18:26Z
+2,cpe:2.3:o:huawei:potter-al00c_firmware:9.1.0.208\(c00e205r3p1\):*:*:*:*:*:*:*,Huawei Potter-AL00C Firmware 9.1.0.208(C00E205R3P1),['CVE-2019-5235'],2022-03-21T18:26Z
+3,cpe:2.3:h:huawei:potter-al10a:-:*:*:*:*:*:*:*,Huawei Potter-AL10A,"['CVE-2019-5235', 'CVE-2019-9506']",2022-03-21T18:26Z
+4,cpe:2.3:o:huawei:potter-al10a_firmware:-:*:*:*:*:*:*:*,Huawei POTTER-AL10A FIRMWARE,['CVE-2019-9506'],2022-03-21T18:26Z
+5,cpe:2.3:o:huawei:potter-al10a_firmware:9.1.0.208\(c00e205r3p1\):*:*:*:*:*:*:*,Huawei Potter-AL10A Firmware 9.1.0.208(C00E205R3P1),['CVE-2019-5235'],2022-03-21T18:26Z
+6,cpe:2.3:h:huawei:prague-al00a:-:*:*:*:*:*:*:*,Huawei Prague-al00a -,"['CVE-2017-15325', 'CVE-2017-17158', 'CVE-2017-8202']",2022-03-21T18:26Z
+7,cpe:2.3:o:huawei:prague-al00a_firmware:-:*:*:*:*:*:*:*,Huawei Prague-al00a Firmware -,"['CVE-2017-15325', 'CVE-2017-17158', 'CVE-2017-8202']",2022-03-21T18:26Z
+8,cpe:2.3:o:huawei:prague-al00a_firmware:al00ac00b223:*:*:*:*:*:*:*,Huawei PRAGUE-AL00A Firmware AL00AC00B223,"['CVE-2017-15325', 'CVE-2017-8202']",2022-03-21T18:26Z
+9,cpe:2.3:o:huawei:prague-al00a_firmware:prague-al00ac00b211:*:*:*:*:*:*:*,Huawei Prague-AL00A Firmware Prague-AL00AC00B211,[''],2022-03-21T18:26Z

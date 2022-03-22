@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dsgvo-for-wp:dsgvo_all_in_one_for_wp:3.5:*:*:*:*:wordpress:*:*,DSGVO DSGVO All in one for WP 3.5 for WordPress,[''],2022-03-20T18:30Z
+1,cpe:2.3:a:dsgvo-for-wp:dsgvo_all_in_one_for_wp:3.6:*:*:*:*:wordpress:*:*,DSGVO DSGVO All in one for WP 3.6 for WordPress,[''],2022-03-20T18:30Z
+2,cpe:2.3:a:dsgvo-for-wp:dsgvo_all_in_one_for_wp:3.7:*:*:*:*:wordpress:*:*,DSGVO DSGVO All in one for WP 3.7 for WordPress,[''],2022-03-20T18:30Z
+3,cpe:2.3:a:dsgvo-for-wp:dsgvo_all_in_one_for_wp:3.8:*:*:*:*:wordpress:*:*,DSGVO DSGVO All in one for WP 3.8 for WordPress,[''],2022-03-20T18:30Z
+4,cpe:2.3:a:dsgvo-for-wp:dsgvo_all_in_one_for_wp:3.9:*:*:*:*:wordpress:*:*,DSGVO DSGVO All in one for WP 3.9 for WordPress,[''],2022-03-20T18:30Z
+5,cpe:2.3:a:dsgvo-for-wp:dsgvo_all_in_one_for_wp:4.0:*:*:*:*:wordpress:*:*,DSGVO DSGVO All in one for WP 4.0 for WordPress,[''],2022-03-20T18:30Z
+6,cpe:2.3:a:dsmall_project:dsmall:20180320:*:*:*:*:*:*:*,Dsmall Project Dsmall 20180320,"['CVE-2018-8906', 'CVE-2018-9014', 'CVE-2018-9015', 'CVE-2018-9016', 'CVE-2018-9017', 'CVE-2018-9307']",2022-03-20T18:30Z
+7,cpe:2.3:a:dssearchagent_project:dssearchagent:1.0:beta10:-:*:-:wordpress:*:*,dsSearchAgent  WordPress  plugin 1.0-beta10,['CVE-2014-4522'],2022-03-20T18:30Z
+8,cpe:2.3:a:dst-admin_project:dst-admin:1.0.0:*:*:*:*:*:*:*,dst-admin Project dst-admin 1.0.0,[''],2022-03-20T18:30Z
+9,cpe:2.3:a:dst-admin_project:dst-admin:1.0.1:*:*:*:*:*:*:*,dst-admin Project dst-admin 1.0.1,[''],2022-03-20T18:30Z

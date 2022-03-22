@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:airbrake:airbrake_ruby:2.5.0:rc3:*:*:*:*:*:*,Airbrake Ruby 2.5.0 Release Candidate 3,[''],2022-03-18T13:51Z
+1,cpe:2.3:a:airbrake:airbrake_ruby:2.5.0:rc4:*:*:*:*:*:*,Airbrake Ruby 2.5.0 Release Candidate 4,[''],2022-03-18T13:51Z
+2,cpe:2.3:a:airbrake:airbrake_ruby:2.5.1:*:*:*:*:*:*:*,Airbrake Ruby 2.5.1,[''],2022-03-18T13:51Z
+3,cpe:2.3:a:airbrake:airbrake_ruby:2.6.0:*:*:*:*:*:*:*,Airbrake Ruby 2.6.0,[''],2022-03-18T13:51Z
+4,cpe:2.3:a:airbrake:airbrake_ruby:2.6.1:*:*:*:*:*:*:*,Airbrake Ruby 2.6.1,[''],2022-03-18T13:51Z
+5,cpe:2.3:a:airbrake:airbrake_ruby:2.6.2:*:*:*:*:*:*:*,Airbrake Ruby 2.6.2,[''],2022-03-18T13:51Z
+6,cpe:2.3:a:airbrake:airbrake_ruby:2.7.0:*:*:*:*:*:*:*,Airbrake Ruby 2.7.0,[''],2022-03-18T13:51Z
+7,cpe:2.3:a:airbrake:airbrake_ruby:2.7.1:*:*:*:*:*:*:*,Airbrake Ruby 2.7.1,[''],2022-03-18T13:51Z
+8,cpe:2.3:a:airbrake:airbrake_ruby:2.8.0:*:*:*:*:*:*:*,Airbrake Ruby 2.8.0,[''],2022-03-18T13:51Z
+9,cpe:2.3:a:airbrake:airbrake_ruby:2.8.1:*:*:*:*:*:*:*,Airbrake Ruby 2.8.1,[''],2022-03-18T13:51Z

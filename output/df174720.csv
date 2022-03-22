@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:davical:davical:0.9.7.3:*:*:*:*:*:*:*,DAViCal DAViCal 0.9.7.3,"['CVE-2019-18345', 'CVE-2019-18346', 'CVE-2019-18347']",2022-03-20T10:58Z
+1,cpe:2.3:a:davical:davical:0.9.7.4:*:*:*:*:*:*:*,DAViCal DAViCal 0.9.7.4,"['CVE-2019-18345', 'CVE-2019-18346', 'CVE-2019-18347']",2022-03-20T10:58Z
+2,cpe:2.3:a:davical:davical:0.9.8:*:*:*:*:*:*:*,DAViCal DAViCal 0.9.8,"['CVE-2019-18345', 'CVE-2019-18346', 'CVE-2019-18347']",2022-03-20T10:58Z
+3,cpe:2.3:a:davical:davical:0.9.8.1:*:*:*:*:*:*:*,DAViCal DAViCal 0.9.8.1,"['CVE-2019-18345', 'CVE-2019-18346', 'CVE-2019-18347']",2022-03-20T10:58Z
+4,cpe:2.3:a:davical:davical:0.9.8.2:*:*:*:*:*:*:*,DAViCal DAViCal 0.9.8.2,"['CVE-2019-18345', 'CVE-2019-18346', 'CVE-2019-18347']",2022-03-20T10:58Z
+5,cpe:2.3:a:davical:davical:0.9.8.3:*:*:*:*:*:*:*,DAViCal DAViCal 0.9.8.3,"['CVE-2019-18345', 'CVE-2019-18346', 'CVE-2019-18347']",2022-03-20T10:58Z
+6,cpe:2.3:a:davical:davical:0.9.9:*:*:*:*:*:*:*,DAViCal DAViCal 0.9.9,"['CVE-2019-18345', 'CVE-2019-18346', 'CVE-2019-18347']",2022-03-20T10:58Z
+7,cpe:2.3:a:davical:davical:0.9.9.1:*:*:*:*:*:*:*,DAViCal DAViCal 0.9.9.1,"['CVE-2019-18345', 'CVE-2019-18346', 'CVE-2019-18347']",2022-03-20T10:58Z
+8,cpe:2.3:a:davical:davical:0.9.9.2:*:*:*:*:*:*:*,DAViCal DAViCal 0.9.9.2,"['CVE-2019-18345', 'CVE-2019-18346', 'CVE-2019-18347']",2022-03-20T10:58Z
+9,cpe:2.3:a:davical:davical:0.9.9.3:*:*:*:*:*:*:*,DAViCal DAViCal 0.9.9.3,"['CVE-2019-18345', 'CVE-2019-18346', 'CVE-2019-18347']",2022-03-20T10:58Z

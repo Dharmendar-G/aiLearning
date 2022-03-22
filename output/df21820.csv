@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,cpe:2.3:a:amazon:audible:2.34.0:*:*:*:*:android:*:*,Amazon Audible 2.34.0 for Android,"['CVE-2017-17069', 'CVE-2019-11554']",2022-03-18T15:24Z
+8,cpe:2.3:a:amazon:audible:2.44.1:*:*:*:*:android:*:*,Amazon Audible 2.44.1 for Android,['CVE-2017-17069'],2022-03-18T15:24Z
+9,cpe:2.3:a:amazon:audible:november2017:*:*:*:*:*:*:*,Amazon Audible November2017,[''],2022-03-18T15:24Z

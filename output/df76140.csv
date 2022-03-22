@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bir.gov.ph:alphalist_data_entry_and_validation:2.0:*:*:*:*:*:*:*,BIR Alphalist Data Entry And Validation Module 2.0,[''],2022-03-19T07:43Z
+1,cpe:2.3:a:bir.gov.ph:alphalist_data_entry_and_validation:2.0:beta:*:*:*:*:*:*,BIR Alphalist Data Entry And Validation Module 2.0 Beta,[''],2022-03-19T07:43Z
+2,cpe:2.3:a:bir.gov.ph:alphalist_data_entry_and_validation:3.10:*:*:*:*:*:*:*,BIR Alphalist Data Entry And Validation Module 3.10,[''],2022-03-19T07:43Z
+3,cpe:2.3:a:bir.gov.ph:alphalist_data_entry_and_validation:3.20:*:*:*:*:*:*:*,BIR Alphalist Data Entry And Validation Module 3.20,[''],2022-03-19T07:43Z
+4,cpe:2.3:a:bird_feeder_project:bird_feeder:1.2.3:*:*:*:*:wordpress:*:*,Bird Feeder project Bird Feeder for WordPress 1.2.3,['CVE-2014-9334'],2022-03-19T07:43Z
+5,cpe:2.3:a:bird_project:bird:1.2.0:*:*:*:*:*:*:*,BIRD Internet Routing Daemon project BIRD Internet Routing Daemon 1.2.0,['CVE-2018-12066'],2022-03-19T07:43Z
+6,cpe:2.3:a:bird_project:bird:1.2.1:*:*:*:*:*:*:*,BIRD Internet Routing Daemon project BIRD Internet Routing Daemon 1.2.1,['CVE-2018-12066'],2022-03-19T07:43Z
+7,cpe:2.3:a:bird_project:bird:1.2.2:*:*:*:*:*:*:*,BIRD Internet Routing Daemon project BIRD Internet Routing Daemon 1.2.2,['CVE-2018-12066'],2022-03-19T07:43Z
+8,cpe:2.3:a:bird_project:bird:1.2.3:*:*:*:*:*:*:*,BIRD Internet Routing Daemon project BIRD Internet Routing Daemon 1.2.3,['CVE-2018-12066'],2022-03-19T07:43Z
+9,cpe:2.3:a:bird_project:bird:1.2.4:*:*:*:*:*:*:*,BIRD Internet Routing Daemon project BIRD Internet Routing Daemon 1.2.4,['CVE-2018-12066'],2022-03-19T07:43Z

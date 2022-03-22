@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:pureapplication_system:2.2.5.3:*:*:*:*:*:*:*,IBM PureApplication System 2.2.5.3,"['CVE-2019-4224', 'CVE-2019-4225', 'CVE-2019-4234', 'CVE-2019-4235', 'CVE-2019-4241']",2022-03-21T21:28Z
+1,cpe:2.3:a:ibm:pureapplication_system:2.2.6.0:*:*:*:*:*:*:*,IBM PureApplication System 2.2.6.0,[''],2022-03-21T21:28Z
+2,cpe:2.3:a:ibm:puredata_system_for_analytics:1.0.0:*:*:*:*:*:*:*,IBM PureData System for Analytics 1.0.0,['CVE-2018-1460'],2022-03-21T21:28Z
+3,cpe:2.3:a:ibm:pureedge_viewer:6.5.0:*:*:*:*:*:*:*,PureEdge Solutions PureEdge Viewer 6.5.0,[''],2022-03-21T21:28Z
+4,cpe:2.3:h:ibm:qlogic_20-port_4\/8_gb_san_switch_module:-:*:*:*:*:*:*:*,IBM QLogic 20-Port 4/8 GB SAN Switch Module,['CVE-2018-18202'],2022-03-21T21:28Z
+5,cpe:2.3:o:ibm:qlogic_20-port_4\/8_gb_san_switch_module_firmware:7.10.1.20.0:*:*:*:*:*:*:*,IBM QLogic 20-Port 4/8 GB SAN Switch Module Firmware 7.10.1.20.0,['CVE-2018-18202'],2022-03-21T21:28Z
+6,cpe:2.3:h:ibm:qlogic_4_gb_fibre_channel_expansion_card:-:*:*:*:*:*:*:*,IBM QLogic 4 GB Fibre Channel Expansion Card,['CVE-2018-18202'],2022-03-21T21:28Z
+7,cpe:2.3:o:ibm:qlogic_4_gb_fibre_channel_expansion_card_firmware:5.5.2.6.0:*:*:*:*:*:*:*,IBM QLogic 4 GB Fibre Channel Expansion Card Firmware 5.5.2.6.0,['CVE-2018-18202'],2022-03-21T21:28Z
+8,cpe:2.3:a:ibm:qradar_advisor:1.1:*:*:*:*:*:*:*,IBM QRadar Advisor 1.1,"['CVE-2019-4557', 'CVE-2019-4672']",2022-03-21T21:28Z
+9,cpe:2.3:a:ibm:qradar_advisor:2.5.0:*:*:*:*:*:*:*,IBM QRadar Advisor 2.5.0,"['CVE-2019-4557', 'CVE-2019-4672', 'CVE-2021-38896']",2022-03-21T21:28Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:corusent:global_tv:2.3.2:*:*:*:*:android:*:*,Corus Entertainment Global 2.3.2 for Android,['CVE-2020-8506'],2022-03-20T08:07Z
+1,cpe:2.3:a:corusent:global_tv:3.5.9:*:*:*:*:iphone_os:*:*,Corus Entertainment Global 3.5.9 for iPhone OS,['CVE-2020-8506'],2022-03-20T08:07Z
+2,cpe:2.3:a:corusent:global_tv:4.0.96:*:*:*:*:iphone_os:*:*,Corus Entertainment Global 4.0.96 for iPhone OS,['CVE-2020-8506'],2022-03-20T08:07Z
+3,cpe:2.3:a:corusent:global_tv:4.1.8:*:*:*:*:iphone_os:*:*,Corus Entertainment Global 4.1.8 for iPhone OS,['CVE-2020-8506'],2022-03-20T08:07Z
+4,cpe:2.3:a:corusent:global_tv:4.2.0:*:*:*:*:iphone_os:*:*,Corus Entertainment Global 4.2.0 for iPhone OS,['CVE-2020-8506'],2022-03-20T08:07Z
+5,cpe:2.3:a:corusent:global_tv:4.2.16:*:*:*:*:iphone_os:*:*,Corus Entertainment Global 4.2.16 for iPhone OS,['CVE-2020-8506'],2022-03-20T08:07Z
+6,cpe:2.3:a:corusent:global_tv:4.3.0:*:*:*:*:iphone_os:*:*,Corus Entertainment Global 4.3.0 for iPhone OS,['CVE-2020-8506'],2022-03-20T08:07Z
+7,cpe:2.3:a:corusent:global_tv:4.3.1:*:*:*:*:iphone_os:*:*,Corus Entertainment Global 4.3.1 for iPhone OS,['CVE-2020-8506'],2022-03-20T08:07Z
+8,cpe:2.3:a:corusent:global_tv:4.3.2:*:*:*:*:iphone_os:*:*,Corus Entertainment Global 4.3.2 for iPhone OS,['CVE-2020-8506'],2022-03-20T08:07Z
+9,cpe:2.3:a:corusent:global_tv:4.3.3:*:*:*:*:iphone_os:*:*,Corus Entertainment Global 4.3.3 for iPhone OS,['CVE-2020-8506'],2022-03-20T08:07Z

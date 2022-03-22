@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hardened-php:suhosin:0.9.8:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.8,['CVE-2012-0807'],2022-03-21T09:20Z
+1,cpe:2.3:a:hardened-php:suhosin:0.9.9:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.9,['CVE-2012-0807'],2022-03-21T09:20Z
+2,cpe:2.3:a:hardened-php:suhosin:0.9.9.1:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.9.1,['CVE-2012-0807'],2022-03-21T09:20Z
+3,cpe:2.3:a:hardened-php:suhosin:0.9.10:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.10,['CVE-2012-0807'],2022-03-21T09:20Z
+4,cpe:2.3:a:hardened-php:suhosin:0.9.11:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.11,['CVE-2012-0807'],2022-03-21T09:20Z
+5,cpe:2.3:a:hardened-php:suhosin:0.9.12:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.12,['CVE-2012-0807'],2022-03-21T09:20Z
+6,cpe:2.3:a:hardened-php:suhosin:0.9.13:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.13,['CVE-2012-0807'],2022-03-21T09:20Z
+7,cpe:2.3:a:hardened-php:suhosin:0.9.14:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.14,['CVE-2012-0807'],2022-03-21T09:20Z
+8,cpe:2.3:a:hardened-php:suhosin:0.9.15:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.15,['CVE-2012-0807'],2022-03-21T09:20Z
+9,cpe:2.3:a:hardened-php:suhosin:0.9.16:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.16,['CVE-2012-0807'],2022-03-21T09:20Z

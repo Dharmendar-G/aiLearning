@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cypress:cyw20704ua2kffb1g:-:*:*:*:*:*:*:*,Cypress CYW20704UA2KFFB1G,['CVE-2018-19860'],2022-03-20T09:46Z
+1,cpe:2.3:o:cypress:cyw20704ua2kffb1g_firmware:-:*:*:*:*:*:*:*,Cypress CYW20704UA2KFFB1G Firmware,['CVE-2018-19860'],2022-03-20T09:46Z
+2,cpe:2.3:h:cypress:cyw20704ua2kffb1gt:-:*:*:*:*:*:*:*,Cypress CYW20704UA2KFFB1GT,['CVE-2018-19860'],2022-03-20T09:46Z
+3,cpe:2.3:o:cypress:cyw20704ua2kffb1gt_firmware:-:*:*:*:*:*:*:*,Cypress CYW20704UA2KFFB1GT Firmware,['CVE-2018-19860'],2022-03-20T09:46Z
+4,cpe:2.3:h:cypress:cyw20705a1kwfbgt:-:*:*:*:*:*:*:*,Cypress CYW20705A1KWFBGT,['CVE-2018-19860'],2022-03-20T09:46Z
+5,cpe:2.3:o:cypress:cyw20705a1kwfbgt_firmware:-:*:*:*:*:*:*:*,Cypress CYW20705A1KWFBGT Firmware,['CVE-2018-19860'],2022-03-20T09:46Z
+6,cpe:2.3:h:cypress:cyw20705b0kwfbg:-:*:*:*:*:*:*:*,Cypress CYW20705B0KWFBG,['CVE-2018-19860'],2022-03-20T09:46Z
+7,cpe:2.3:o:cypress:cyw20705b0kwfbg_firmware:-:*:*:*:*:*:*:*,Cypress CYW20705B0KWFBG Firmware,['CVE-2018-19860'],2022-03-20T09:46Z
+8,cpe:2.3:h:cypress:cyw20705b0kwfbgt:-:*:*:*:*:*:*:*,Cypress CYW20705B0KWFBGT,['CVE-2018-19860'],2022-03-20T09:46Z
+9,cpe:2.3:o:cypress:cyw20705b0kwfbgt_firmware:-:*:*:*:*:*:*:*,Cypress CYW20705B0KWFBGT Firmware,['CVE-2018-19860'],2022-03-20T09:46Z

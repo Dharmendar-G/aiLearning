@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cksource:ckfinder:2.3.1:*:*:*:*:*:*:*,CKSource CKFinder 2.3.1,['CVE-2019-15891'],2022-03-20T02:03Z
+1,cpe:2.3:a:cksource:ckfinder:2.3.1:*:*:*:*:asp:*:*,CKSource CKFinder 2.3.1 for ASP,"['CVE-2019-15862', 'CVE-2019-15891']",2022-03-20T02:03Z
+2,cpe:2.3:a:cksource:ckfinder:2.3.1:*:*:*:*:coldfusion:*:*,CKSource CKFinder 2.3.1 for ColdFusion,"['CVE-2019-15862', 'CVE-2019-15891']",2022-03-20T02:03Z
+3,cpe:2.3:a:cksource:ckfinder:2.3.1:*:*:*:*:php:*:*,CKSource CKFinder 2.3.1 for PHP,"['CVE-2019-15862', 'CVE-2019-15891']",2022-03-20T02:03Z
+4,cpe:2.3:a:cksource:ckfinder:2.3.1.1:*:*:*:*:*:*:*,CKSource CKFinder 2.3.1.1,['CVE-2019-15891'],2022-03-20T02:03Z
+5,cpe:2.3:a:cksource:ckfinder:2.3.1.1:*:*:*:*:asp:*:*,CKSource CKFinder 2.3.1.1 for ASP,"['CVE-2019-15862', 'CVE-2019-15891']",2022-03-20T02:03Z
+6,cpe:2.3:a:cksource:ckfinder:2.3.1.2:*:*:*:*:asp:*:*,CKSource CKFinder 2.3.1.2 for ASP,"['CVE-2019-15862', 'CVE-2019-15891']",2022-03-20T02:03Z
+7,cpe:2.3:a:cksource:ckfinder:2.4:*:*:*:*:*:*:*,CKSource CKFinder 2.4,['CVE-2019-15891'],2022-03-20T02:03Z
+8,cpe:2.3:a:cksource:ckfinder:2.4.1:*:*:*:*:*:*:*,CKSource CKFinder 2.4.1,['CVE-2019-15891'],2022-03-20T02:03Z
+9,cpe:2.3:a:cksource:ckfinder:2.4.1:*:*:*:*:php:*:*,CKSource CKFinder 2.4.1 for PHP,"['CVE-2019-15862', 'CVE-2019-15891']",2022-03-20T02:03Z

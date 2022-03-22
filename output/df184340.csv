@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:digi:transport_dr64_firmware:5.2.4.9:*:*:*:*:*:*:*,Digi International TransPort DR64 Firmware 5.2.4.9,"['CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188']",2022-03-20T14:05Z
+1,cpe:2.3:h:digi:transport_lr54:-:*:*:*:*:*:*:*,Digi TransPort LR54,['CVE-2018-20162'],2022-03-20T14:05Z
+2,cpe:2.3:o:digi:transport_lr54_firmware:4.3.2.24:*:*:*:*:*:*:*,Digi TransPort LR54 Firmware 4.3.2.24,['CVE-2018-20162'],2022-03-20T14:05Z
+3,cpe:2.3:o:digi:transport_lr54_firmware:4.4.0.26:*:*:*:*:*:*:*,Digi TransPort LR54 Firmware 4.4.0.26,[''],2022-03-20T14:05Z
+4,cpe:2.3:o:digi:transport_lr54_firmware:4.5.1.4:*:*:*:*:*:*:*,Digi TransPort LR54 Firmware 4.5.1.4,[''],2022-03-20T14:05Z
+5,cpe:2.3:h:digi:transport_sr44:-:*:*:*:*:*:*:*,Digi International TransPort SR44,"['CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188']",2022-03-20T14:05Z
+6,cpe:2.3:h:digi:transport_vc74:-:*:*:*:*:*:*:*,Digi International TransPort VC74,"['CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188']",2022-03-20T14:05Z
+7,cpe:2.3:o:digi:transport_vc74_firmware:-:*:*:*:*:*:*:*,Digi International TransPort VC74 Firmware,"['CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188']",2022-03-20T14:05Z
+8,cpe:2.3:o:digi:transport_vc74_firmware:5.2.4.9:*:*:*:*:*:*:*,Digi International TransPort VC74 Firmware 5.2.4.9,"['CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188']",2022-03-20T14:05Z
+9,cpe:2.3:h:digi:transport_wr11:-:*:*:*:*:*:*:*,Digi International TransPort WR11,"['CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188', 'CVE-2021-37189']",2022-03-20T14:05Z

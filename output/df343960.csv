@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:iss_blackice_server_protection:3.6:cno:*:*:*:*:*:*,IBM ISS BlackICE Server Protection 3.6 cno,[''],2022-03-21T20:54Z
+1,cpe:2.3:a:ibm:iss_blackice_server_protection:3.6:cpk:*:*:*:*:*:*,IBM ISS BlackICE Server Protection 3.6 cpk,[''],2022-03-21T20:54Z
+2,cpe:2.3:a:ibm:iss_blackice_server_protection:3.6:epj:*:*:*:*:*:*,IBM ISS BlackICE Server Protection 3.6 epj,[''],2022-03-21T20:54Z
+3,cpe:2.3:a:ibm:iss_internet_scanner:7.0:*:*:*:*:*:*:*,IBM ISS Internet Scanner Software 7.0,[''],2022-03-21T20:54Z
+4,cpe:2.3:a:ibm:iss_internet_scanner_software:5.3:*:*:*:*:*:*:*,IBM ISS Internet Scanner Software 5.3,[''],2022-03-21T20:54Z
+5,cpe:2.3:a:ibm:iss_internet_scanner_software:6.2.1:*:*:*:*:*:*:*,IBM ISS Internet Scanner Software 6.2.1,[''],2022-03-21T20:54Z
+6,cpe:2.3:a:ibm:iss_internet_scanner_software:7.0:sp2:*:*:*:*:*:*,IBM ISS Internet Scanner Software 7.0 SP2,[''],2022-03-21T20:54Z
+7,cpe:2.3:a:ibm:iss_internet_scanner_software:7.2:*:*:*:*:*:*:*,IBM ISS Internet Scanner Software 7.2,[''],2022-03-21T20:54Z
+8,cpe:2.3:a:ibm:iss_proventia_desktop:8.0:*:*:*:*:*:*:*,IBM ISS Proventia Desktop 8.0,[''],2022-03-21T20:54Z
+9,cpe:2.3:a:ibm:iss_proventia_desktop:8.0.675.1790:*:*:*:*:*:*:*,IBM ISS Proventia Desktop 8.0.675.1790,[''],2022-03-21T20:54Z

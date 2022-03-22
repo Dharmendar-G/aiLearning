@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:ctl:j2_chromebook:-:*:*:*:*:education:*:*,CTL J2 Chromebook for Education,['CVE-2017-15361'],2022-03-20T09:17Z
+1,cpe:2.3:h:ctl:j4_chromebook:-:*:*:*:*:education:*:*,CTL J4 Chromebook for Education,['CVE-2017-15361'],2022-03-20T09:17Z
+2,cpe:2.3:h:ctl:j5_chromebook:-:*:*:*:*:*:*:*,CTL J5 Chromebook,['CVE-2017-15361'],2022-03-20T09:17Z
+3,cpe:2.3:h:ctl:n6_chromebook:-:*:*:*:*:education:*:*,CTL N6 Chromebook for Education,['CVE-2017-15361'],2022-03-20T09:17Z
+4,cpe:2.3:h:ctl:nl61_chromebook:-:*:*:*:*:*:*:*,CTL Nl61 Chromebook,['CVE-2017-15361'],2022-03-20T09:17Z
+5,cpe:2.3:a:ctolog:thinkadmin:1.0:*:*:*:*:*:*:*,Ctolog ThinkAdmin 1.0,['CVE-2020-29315'],2022-03-20T09:17Z
+6,cpe:2.3:a:ctolog:thinkadmin:2.0:*:*:*:*:*:*:*,Ctolog ThinkAdmin 2.0,[''],2022-03-20T09:17Z
+7,cpe:2.3:a:ctolog:thinkadmin:3.0:*:*:*:*:*:*:*,Ctolog ThinkAdmin 3.0,[''],2022-03-20T09:17Z
+8,cpe:2.3:a:ctolog:thinkadmin:4.0:*:*:*:*:*:*:*,Ctolog ThinkAdmin 4.0,"['CVE-2019-11018', 'CVE-2020-23653']",2022-03-20T09:17Z
+9,cpe:2.3:a:ctolog:thinkadmin:5.0:*:*:*:*:*:*:*,Ctolog ThinkAdmin 5.0,['CVE-2020-23653'],2022-03-20T09:17Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:brightstor_arcserve_backup_agent_sap:-:*:*:*:*:*:*:*,Broadcom Brightstor ARCserve Backup Agent SAP,[''],2022-03-19T12:14Z
+1,cpe:2.3:a:broadcom:brightstor_arcserve_backup_agent_sql:-:*:*:*:*:*:*:*,Broadcom Brightstor ARCserve Backup Agent SQL,[''],2022-03-19T12:14Z
+2,cpe:2.3:a:broadcom:brightstor_arcserve_backup_aix:-:*:*:*:*:*:*:*,Broadcom Brightstor ARCserve Backup AIX,[''],2022-03-19T12:14Z
+3,cpe:2.3:a:broadcom:brightstor_arcserve_backup_for_windows:-:*:*:*:*:*:*:*,Broadcom Brightstor ARCserve Backup For Windows,[''],2022-03-19T12:14Z
+4,cpe:2.3:a:broadcom:brightstor_arcserve_backup_hp:-:*:*:*:*:*:*:*,Broadcom Brightstor ARCserve Backup HP,[''],2022-03-19T12:14Z
+5,cpe:2.3:a:broadcom:brightstor_arcserve_backup_hp:11.1:*:hp:*:*:*:*:*,Broadcom Brightstor ARCserve Backup Hp 11.1 HP Edition,['CVE-2005-2535'],2022-03-19T12:14Z
+6,cpe:2.3:a:broadcom:brightstor_arcserve_backup_laptops_desktops:-:*:*:*:*:*:*:*,Broadcom Brightstor ARCserve Backup Laptops Desktops,[''],2022-03-19T12:14Z
+7,cpe:2.3:a:broadcom:brightstor_arcserve_backup_laptops_desktops:4.0:*:*:*:*:*:*:*,Broadcom Brightstor ARCserve Backup Laptops Desktops 4.0,"['CVE-2007-5003', 'CVE-2007-5004', 'CVE-2007-5005', 'CVE-2007-5006']",2022-03-19T12:14Z
+8,cpe:2.3:a:broadcom:brightstor_arcserve_backup_laptops_desktops:11.0:*:*:*:*:*:*:*,Broadcom Brightstor ARCserve Backup Laptops Desktops 11.0,"['CVE-2005-3653', 'CVE-2006-0306', 'CVE-2006-0307', 'CVE-2007-0449', 'CVE-2007-0672', 'CVE-2007-0673', 'CVE-2007-5003', 'CVE-2007-5004', 'CVE-2007-5005', 'CVE-2007-5006']",2022-03-19T12:14Z
+9,cpe:2.3:a:broadcom:brightstor_arcserve_backup_laptops_desktops:11.1:*:*:*:*:*:*:*,Broadcom Brightstor ARCserve Backup Laptops Desktops 11.1,"['CVE-2005-3653', 'CVE-2006-0306', 'CVE-2006-0307', 'CVE-2007-0449', 'CVE-2007-0672', 'CVE-2007-0673', 'CVE-2007-3216', 'CVE-2007-5003', 'CVE-2007-5004', 'CVE-2007-5005', 'CVE-2007-5006']",2022-03-19T12:14Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bower:bower:1.0.0:alpha1:*:*:*:node.js:*:*,Bower 1.0.0 Alpha 1 for Node.js,['CVE-2019-5484'],2022-03-19T10:18Z
+1,cpe:2.3:a:bower:bower:1.0.0:alpha2:*:*:*:node.js:*:*,Bower 1.0.0 Alpha 2 for Node.js,['CVE-2019-5484'],2022-03-19T10:18Z
+2,cpe:2.3:a:bower:bower:1.0.0:alpha3:*:*:*:node.js:*:*,Bower 1.0.0 Alpha 3 for Node.js,['CVE-2019-5484'],2022-03-19T10:18Z
+3,cpe:2.3:a:bower:bower:1.0.0:alpha4:*:*:*:node.js:*:*,Bower 1.0.0 Alpha 4 for Node.js,['CVE-2019-5484'],2022-03-19T10:18Z
+4,cpe:2.3:a:bower:bower:1.0.0:alpha5:*:*:*:node.js:*:*,Bower 1.0.0 Alpha 5 for Node.js,['CVE-2019-5484'],2022-03-19T10:18Z
+5,cpe:2.3:a:bower:bower:1.0.0:alpha6:*:*:*:node.js:*:*,Bower 1.0.0 Alpha 6 for Node.js,['CVE-2019-5484'],2022-03-19T10:18Z
+6,cpe:2.3:a:bower:bower:1.0.0:alpha7:*:*:*:node.js:*:*,Bower 1.0.0 Alpha 7 for Node.js,['CVE-2019-5484'],2022-03-19T10:18Z
+7,cpe:2.3:a:bower:bower:1.0.0:rc1:*:*:*:node.js:*:*,Bower 1.0.0 Release Candidate 1 for Node.js,['CVE-2019-5484'],2022-03-19T10:18Z
+8,cpe:2.3:a:bower:bower:1.0.0:rc2:*:*:*:node.js:*:*,Bower 1.0.0 Release Candidate 2 for Node.js,['CVE-2019-5484'],2022-03-19T10:18Z
+9,cpe:2.3:a:bower:bower:1.0.0:rc3:*:*:*:node.js:*:*,Bower 1.0.0 Release Candidate 3 for Node.js,['CVE-2019-5484'],2022-03-19T10:18Z

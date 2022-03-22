@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:cns_network_registrar:7.1:*:*:*:*:*:*:*,Cisco CNS Network Registrar 7.1,"['CVE-2011-2024', 'CVE-2014-2155']",2022-03-19T19:14Z
+1,cpe:2.3:a:cisco:collaboration_meeting_rooms:1.0:*:*:*:*:*:*:*,Cisco Collaboration meeting rooms 1.0 ,['CVE-2018-5390'],2022-03-19T19:14Z
+2,cpe:2.3:a:cisco:collaboration_meeting_rooms:2.0:*:*:*:*:*:*:*,Cisco Collaboration Meeting Rooms 2.0,"['CVE-2019-16005', 'CVE-2021-1500', 'CVE-2021-40115']",2022-03-19T19:14Z
+3,cpe:2.3:a:cisco:common_services_platform_collector:-:*:*:*:*:*:*:*,Cisco Common Services Platform Collector (CSPC),"['CVE-2021-1538', 'CVE-2021-34774', 'CVE-2021-40129', 'CVE-2021-40130', 'CVE-2021-40131', 'CVE-2021-44228']",2022-03-19T19:14Z
+4,cpe:2.3:a:cisco:common_services_platform_collector:2.7.2:*:*:*:*:*:*:*,Cisco Common Services Platform Collector (CSPC) 2.7.2,"['CVE-2019-1723', 'CVE-2021-1538', 'CVE-2021-34774', 'CVE-2021-40129', 'CVE-2021-40130', 'CVE-2021-40131', 'CVE-2021-44228']",2022-03-19T19:14Z
+5,cpe:2.3:a:cisco:common_services_platform_collector:2.7.4.5:*:*:*:*:*:*:*,Cisco Common Services Platform Collector (CSPC) 2.7.4.5,"['CVE-2019-1723', 'CVE-2021-1538', 'CVE-2021-34774', 'CVE-2021-40129', 'CVE-2021-40130', 'CVE-2021-40131', 'CVE-2021-44228']",2022-03-19T19:15Z
+6,cpe:2.3:a:cisco:common_services_platform_collector:2.7.4.6:*:*:*:*:*:*:*,Cisco Common Services Platform Collector (CSPC) 2.7.4.6,"['CVE-2021-1538', 'CVE-2021-34774', 'CVE-2021-40129', 'CVE-2021-40130', 'CVE-2021-40131', 'CVE-2021-44228']",2022-03-19T19:14Z
+7,cpe:2.3:a:cisco:common_services_platform_collector:2.7.4.7:*:*:*:*:*:*:*,Cisco Common Services Platform Collector (CSPC) 2.7.4.7,"['CVE-2021-1538', 'CVE-2021-34774', 'CVE-2021-40129', 'CVE-2021-40130', 'CVE-2021-40131', 'CVE-2021-44228']",2022-03-19T19:15Z
+8,cpe:2.3:a:cisco:common_services_platform_collector:2.7.4.8:*:*:*:*:*:*:*,Cisco Common Services Platform Collector (CSPC) 2.7.4.8,"['CVE-2021-1538', 'CVE-2021-34774', 'CVE-2021-40129', 'CVE-2021-40130', 'CVE-2021-40131', 'CVE-2021-44228']",2022-03-19T19:15Z
+9,cpe:2.3:a:cisco:common_services_platform_collector:2.7.4.9:*:*:*:*:*:*:*,Cisco Common Services Platform Collector (CSPC) 2.7.4.9,"['CVE-2021-1538', 'CVE-2021-34774', 'CVE-2021-40129', 'CVE-2021-40130', 'CVE-2021-40131', 'CVE-2021-44228']",2022-03-19T19:15Z

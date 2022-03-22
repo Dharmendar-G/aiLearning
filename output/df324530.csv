@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:h:hp:laserjet_m9040_mpf:cc394a:*:*:*:*:*:*:*,HP LaserJet M9040 Multifunction Printer (MFP) CC394A,"['CVE-2009-2684', 'CVE-2012-5221']",2022-03-21T15:06Z
+2,cpe:2.3:h:hp:laserjet_m9050_mpf:cc395a:*:*:*:*:*:*:*,HP LaserJet M9050 Multifunction Printer (MFP) CC395A,"['CVE-2009-2684', 'CVE-2012-5221']",2022-03-21T15:06Z
+3,cpe:2.3:h:hp:laserjet_managed_500_color_mfp_m575:-:*:*:*:*:*:*:*,HP LaserJet Managed 500 Color MFP M575,['CVE-2019-6318'],2022-03-21T15:06Z
+4,cpe:2.3:o:hp:laserjet_managed_500_color_mfp_m575_firmware:-:*:*:*:*:*:*:*,HP Laserjet Managed 500 Color Mfp M575 Firmware -,['CVE-2019-6318'],2022-03-21T15:06Z
+5,cpe:2.3:o:hp:laserjet_managed_500_color_mfp_m575_firmware:2309010_581424:*:*:*:*:*:*:*,HP Laserjet Managed 500 Color Mfp M575 Firmware 2309010 581424,['CVE-2019-6318'],2022-03-21T15:06Z
+6,cpe:2.3:o:hp:laserjet_managed_500_color_mfp_m575_firmware:2407081_000587:*:*:*:*:*:*:*,HP Laserjet Managed 500 Color Mfp M575 Firmware 2407081 000587,[''],2022-03-21T15:06Z
+7,cpe:2.3:h:hp:laserjet_managed_500_mfp_m525:-:*:*:*:*:*:*:*,HP LaserJet Managed 500 MFP M525,['CVE-2019-6318'],2022-03-21T15:06Z
+8,cpe:2.3:o:hp:laserjet_managed_500_mfp_m525_firmware:-:*:*:*:*:*:*:*,HP Laserjet Managed 500 Mfp M525 Firmware -,"['CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T15:06Z
+9,cpe:2.3:o:hp:laserjet_managed_500_mfp_m525_firmware:2309010_581414:*:*:*:*:*:*:*,HP Laserjet Managed 500 Mfp M525 Firmware 2309010 581414,['CVE-2019-6318'],2022-03-21T15:06Z

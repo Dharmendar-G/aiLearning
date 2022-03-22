@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:allplayer:allplayer:5.6.2:*:*:*:*:*:*:*,ALLPlayer ALLPlayer 5.6.2,['CVE-2013-7409'],2022-03-18T14:53Z
+1,cpe:2.3:a:allplayer:allplayer:5.7.0:*:*:*:*:*:*:*,ALLPlayer ALLPlayer 5.7.0,['CVE-2013-7409'],2022-03-18T14:53Z
+2,cpe:2.3:a:allplayer:allplayer:5.8.1:*:*:*:*:*:*:*,ALLPlayer ALLPlayer 5.8.1,['CVE-2013-7409'],2022-03-18T14:53Z
+3,cpe:2.3:a:allqoranvideos:koran_-_alqoranvideos:1:*:*:*:*:android:*:*,allqoranvideos Koran - AlqoranVideos (aka com.alqoran.videos.example) for android 1.0,['CVE-2014-6757'],2022-03-18T14:53Z
+4,cpe:2.3:a:allroundautomation:pl\/sql_developer:9.0.2.1621:*:*:*:*:*:*:*,Allroundautomation Pl/sql Developer 9.0.2.1621,[''],2022-03-18T14:53Z
+5,cpe:2.3:a:allroundautomations:pl\/sql_developer:11.0:*:*:*:*:*:*:*,AllroundAutomations PL/SQL Developer 11.0,['CVE-2016-2346'],2022-03-18T14:53Z
+6,cpe:2.3:a:allroundautomations:pl\/sql_developer:11.0.1:*:*:*:*:*:*:*,AllroundAutomations PL/SQL Developer 11.0.1,['CVE-2016-2346'],2022-03-18T14:53Z
+7,cpe:2.3:a:allroundautomations:pl\/sql_developer:11.0.2:*:*:*:*:*:*:*,AllroundAutomations PL/SQL Developer 11.0.2,['CVE-2016-2346'],2022-03-18T14:53Z
+8,cpe:2.3:a:allroundautomations:pl\/sql_developer:11.0.3:*:*:*:*:*:*:*,AllroundAutomations PL/SQL Developer 11.0.3,['CVE-2016-2346'],2022-03-18T14:53Z
+9,cpe:2.3:a:allroundautomations:pl\/sql_developer:11.0.4:*:*:*:*:*:*:*,AllroundAutomations PL/SQL Developer 11.0.4,['CVE-2016-2346'],2022-03-18T14:53Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:inspiron_7368_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 7368 Firmware,['CVE-2019-3717'],2022-03-20T12:42Z
+1,cpe:2.3:o:dell:inspiron_7368_firmware:1.19.0:*:*:*:*:*:*:*,Dell Inspiron 7368 Firmware 1.19.0,[''],2022-03-20T12:42Z
+2,cpe:2.3:h:dell:inspiron_7370:-:*:*:*:*:*:*:*,Dell Inspiron 7370 ,"['CVE-2019-3717', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:42Z
+3,cpe:2.3:o:dell:inspiron_7370_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 7370 Firmware,"['CVE-2019-3717', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:42Z
+4,cpe:2.3:o:dell:inspiron_7370_firmware:1.13.1:*:*:*:*:*:*:*,Dell Inspiron 7370 Firmware 1.13.1,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:42Z
+5,cpe:2.3:h:dell:inspiron_7373:-:*:*:*:*:*:*:*,Dell Inspiron 7373 ,"['CVE-2019-3717', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:42Z
+6,cpe:2.3:o:dell:inspiron_7373_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 7373 Firmware,"['CVE-2019-3717', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:42Z
+7,cpe:2.3:o:dell:inspiron_7373_firmware:1.13.1:*:*:*:*:*:*:*,Dell Inspiron 7373 Firmware 1.13.1,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:42Z
+8,cpe:2.3:o:dell:inspiron_7378_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 7378 Firmware,['CVE-2019-3717'],2022-03-20T12:42Z
+9,cpe:2.3:o:dell:inspiron_7378_firmware:1.27.0:*:*:*:*:*:*:*,Dell Inspiron 7378 Firmware 1.27.0,[''],2022-03-20T12:42Z

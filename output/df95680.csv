@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bueltge:adminimize:1.7.21:*:*:*:*:*:*:*,Bueltge Adminimize 1.7.21,"['CVE-2011-4926', 'CVE-2011-5128']",2022-03-19T13:13Z
+1,cpe:2.3:a:bueltge:adminimize:1.7.22:*:*:*:*:*:*:*,Bueltge Adminimize 1.7.22,[''],2022-03-19T13:13Z
+2,cpe:2.3:a:bueltge:adminimize:1.7.23:*:*:*:*:*:*:*,Bueltge Adminimize 1.7.23,[''],2022-03-19T13:13Z
+3,cpe:2.3:a:bueltge:adminimize:1.7.24:*:*:*:*:*:*:*,Bueltge Adminimize 1.7.24,[''],2022-03-19T13:13Z
+4,cpe:2.3:a:bueltge:adminimize:1.7.25:*:*:*:*:*:*:*,Bueltge Adminimize 1.7.25,[''],2022-03-19T13:13Z
+5,cpe:2.3:a:bueltge:adminimize:1.7.26:*:*:*:*:*:*:*,Bueltge Adminimize 1.7.26,[''],2022-03-19T13:13Z
+6,cpe:2.3:a:bueltge:adminimize:1.7.27:*:*:*:*:*:*:*,Bueltge Adminimize 1.7.27,[''],2022-03-19T13:13Z
+7,cpe:2.3:h:buffalo:airstation_whr-g54s:-:*:*:*:*:*:*:*,Buffalo AirStation WHR-G54S,"['CVE-2020-5605', 'CVE-2020-5606']",2022-03-19T13:13Z
+8,cpe:2.3:o:buffalo:airstation_whr-g54s_firmware:1.43:*:*:*:*:*:*:*,Buffalo AirStation WHR-G54S Firmware 1.43,"['CVE-2020-5605', 'CVE-2020-5606']",2022-03-19T13:13Z
+9,cpe:2.3:h:buffalo:bbr-4hg:-:*:*:*:*:*:*:*,Buffalo BBR-4HG,"['CVE-2017-10896', 'CVE-2017-10897']",2022-03-19T13:13Z

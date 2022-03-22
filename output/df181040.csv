@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:powermax_os:5978:*:*:*:*:*:*:*,Dell PowerMax OS 5978,"['CVE-2020-5345', 'CVE-2020-5367', 'CVE-2021-21531', 'CVE-2021-36338', 'CVE-2021-36339']",2022-03-20T13:01Z
+1,cpe:2.3:o:dell:powermax_os:5978.221.221:*:*:*:*:*:*:*,Dell PowerMax OS 5978.221.221,['CVE-2020-35170'],2022-03-20T13:01Z
+2,cpe:2.3:o:dell:powermax_os:5978.479.479:*:*:*:*:*:*:*,Dell PowerMax OS 5978.479.479,['CVE-2020-35170'],2022-03-20T13:01Z
+3,cpe:2.3:a:dell:powerprotect_data_manager:19.4:*:*:*:*:*:*:*,Dell PowerProtect Data Manager 19.4,[''],2022-03-20T13:01Z
+4,cpe:2.3:h:dell:powerprotect_x400:-:*:*:*:*:*:*:*,Dell PowerProtect X400,['CVE-2020-5356'],2022-03-20T13:01Z
+5,cpe:2.3:o:dell:powerprotect_x400_firmware:3.2:*:*:*:*:*:*:*,Dell PowerProtect X400 Firmware 3.2,[''],2022-03-20T13:01Z
+6,cpe:2.3:a:dell:powerscale_onefs:9.0:*:*:*:*:*:*:*,Dell PowerScale OneFS 9.0,"['CVE-2021-21526', 'CVE-2021-21553', 'CVE-2021-21565', 'CVE-2021-36350']",2022-03-20T13:01Z
+7,cpe:2.3:a:dell:powerscale_onefs:9.1:*:*:*:*:*:*:*,Dell PowerScale OneFS 9.1,"['CVE-2021-21526', 'CVE-2021-21553', 'CVE-2021-21565', 'CVE-2021-36350']",2022-03-20T13:01Z
+8,cpe:2.3:h:dell:powervault_ml6000:32u:*:*:*:*:*:*:*,Dell PowerVault ML6000 tape library (ML6000 family) 32U system,"['CVE-2012-1841', 'CVE-2012-1842', 'CVE-2012-1843', 'CVE-2012-1844', 'CVE-2014-2959']",2022-03-20T13:01Z
+9,cpe:2.3:h:dell:powervault_ml6000:41u:*:*:*:*:*:*:*,Dell PowerVault ML6000 tape library (ML6000 family) 41U system,"['CVE-2012-1841', 'CVE-2012-1842', 'CVE-2012-1843', 'CVE-2012-1844', 'CVE-2014-2959']",2022-03-20T13:01Z

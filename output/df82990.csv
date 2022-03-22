@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:boehm-demers-weiser:garbage_collector:7.2:alpha6:*:*:*:*:*:*,Boehm-Demers-Weiser Garbace Collector  (libgc)  7.2 alpha 6,['CVE-2012-2673'],2022-03-19T09:18Z
+1,cpe:2.3:a:boeing:drs_annotation_tool:2.5.0.1:*:*:*:*:*:*:*,Boeing Drs Annotation Tool 2.5.0.1,[''],2022-03-19T09:18Z
+2,cpe:2.3:a:boeing:drs_data_courier_web:2.14.0.1:*:*:*:*:*:*:*,Boeing Drs Data Courier Web 2.14.0.1,[''],2022-03-19T09:18Z
+3,cpe:2.3:a:boeing:drs_data_courier_web:3.1.0.0:*:*:*:*:*:*:*,Boeing Drs Data Courier Web 3.1.0.0,[''],2022-03-19T09:18Z
+4,cpe:2.3:a:boeing:drs_data_courier_web:3.2.0.0:*:*:*:*:*:*:*,Boeing Drs Data Courier Web 3.2.0.0,[''],2022-03-19T09:18Z
+5,cpe:2.3:a:boeing:drs_web_configuration_manager:2.0.0.2:*:*:*:*:*:*:*,Boeing Drs Web Configuration Manager 2.0.0.2,[''],2022-03-19T09:18Z
+6,cpe:2.3:a:boeing:drs_wiring_illuminator_web:1.10.0.1:*:*:*:*:*:*:*,Boeing Drs Wiring Illuminator Web 1.10.0.1,[''],2022-03-19T09:18Z
+7,cpe:2.3:a:boeing:drs_wiring_illuminator_web:1.14.0.0:*:*:*:*:*:*:*,Boeing Drs Wiring Illuminator Web 1.14.0.0,[''],2022-03-19T09:18Z
+8,cpe:2.3:a:boeing:imis_application_suite:5.0.2.1:*:*:*:*:*:*:*,Boeing Imis Application Suite 5.0.2.1,[''],2022-03-19T09:18Z
+9,cpe:2.3:a:boeing:imis_application_suite:5.2.2.26:*:*:*:*:*:*:*,Boeing Imis Application Suite 5.2.2.26,[''],2022-03-19T09:18Z

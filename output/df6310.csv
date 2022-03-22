@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:activepdf:activepdf_toolkit:5.4.2.14043:*:*:*:*:*:*:*,ActivePDF ActivePDF Toolkit 5.4.2.14043,['CVE-2018-7264'],2022-03-18T11:19Z
+1,cpe:2.3:a:activepdf:activepdf_toolkit:5.4.3.14134:*:*:*:*:*:*:*,ActivePDF ActivePDF Toolkit 5.4.3.14134,['CVE-2018-7264'],2022-03-18T11:19Z
+2,cpe:2.3:a:activepdf:activepdf_toolkit:5.5.0.15028:*:*:*:*:*:*:*,ActivePDF ActivePDF Toolkit 5.5.0.15028,['CVE-2018-7264'],2022-03-18T11:19Z
+3,cpe:2.3:a:activepdf:activepdf_toolkit:5.5.1.15339:*:*:*:*:*:*:*,ActivePDF ActivePDF Toolkit 5.5.1.15339,['CVE-2018-7264'],2022-03-18T11:19Z
+4,cpe:2.3:a:activepdf:activepdf_toolkit:5.5.2.16278:*:*:*:*:*:*:*,ActivePDF ActivePDF Toolkit 5.5.2.16278,['CVE-2018-7264'],2022-03-18T11:19Z
+5,cpe:2.3:a:activepdf:activepdf_toolkit:2011:*:*:*:*:*:*:*,ActivePDF ActivePDF Toolkit 2011,[''],2022-03-18T11:19Z
+6,cpe:2.3:a:activepdf:activepdf_toolkit:2011:r4:*:*:*:*:*:*,ActivePDF ActivePDF Toolkit 2011 R4,[''],2022-03-18T11:19Z
+7,cpe:2.3:a:activepdf:activepdf_toolkit:2011:r4.1:*:*:*:*:*:*,ActivePDF ActivePDF Toolkit 2011 R4.1,[''],2022-03-18T11:19Z
+8,cpe:2.3:a:activepdf:activepdf_toolkit:2016.1.0.16340:*:*:*:*:*:*:*,ActivePDF ActivePDF Toolkit 2016.1.0.16340,[''],2022-03-18T11:19Z
+9,cpe:2.3:a:activepdf:activepdf_toolkit:2016.1.1.17041:*:*:*:*:*:*:*,ActivePDF ActivePDF Toolkit 2016.1.1.17041,[''],2022-03-18T11:19Z

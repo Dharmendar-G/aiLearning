@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blueman_project:blueman:2.1:alpha2:*:*:*:*:*:*,Blueman Project Blueman 2.1 Alpha 2,['CVE-2020-15238'],2022-03-19T08:53Z
+1,cpe:2.3:a:blueman_project:blueman:2.1:alpha3:*:*:*:*:*:*,Blueman Project Blueman 2.1 Alpha 3,['CVE-2020-15238'],2022-03-19T08:53Z
+2,cpe:2.3:a:blueman_project:blueman:2.1:beta1:*:*:*:*:*:*,Blueman Project Blueman 2.1 Beta 1,['CVE-2020-15238'],2022-03-19T08:53Z
+3,cpe:2.3:a:blueman_project:blueman:2.1.1:*:*:*:*:*:*:*,Blueman Project Blueman 2.1.1,['CVE-2020-15238'],2022-03-19T08:53Z
+4,cpe:2.3:a:blueman_project:blueman:2.1.2:*:*:*:*:*:*:*,Blueman Project Blueman 2.1.2,['CVE-2020-15238'],2022-03-19T08:53Z
+5,cpe:2.3:a:blueman_project:blueman:2.1.3:*:*:*:*:*:*:*,Blueman Project Blueman 2.1.3,['CVE-2020-15238'],2022-03-19T08:53Z
+6,cpe:2.3:a:blueman_project:blueman:2.1.4:*:*:*:*:*:*:*,Blueman Project Blueman 2.1.4,[''],2022-03-19T08:53Z
+7,cpe:2.3:a:bluemarblegeo:global_mapper:14.1.0:*:*:*:*:*:*:*,bluemarblegeo Global Mapper 14.1.0,['CVE-2013-0727'],2022-03-19T08:53Z
+8,cpe:2.3:a:bluemasters_project:bluemasters:6.x-1.0:*:*:*:*:drupal:*:*,BlueMasters Project BlueMasters 6.x-1.0 for Drupal,[''],2022-03-19T08:53Z
+9,cpe:2.3:a:bluemasters_project:bluemasters:6.x-1.1:*:*:*:*:drupal:*:*,BlueMasters Project BlueMasters 6.x-1.1 for Drupal,[''],2022-03-19T08:53Z

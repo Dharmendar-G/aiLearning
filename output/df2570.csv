@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:3cx:live_chat:7.1.01:*:*:*:*:wordpress:*:*,3CX Live Chat 7.1.01 for WordPress,"['CVE-2018-12426', 'CVE-2019-12498']",2022-03-18T10:05Z
+1,cpe:2.3:a:3cx:live_chat:7.1.02:*:*:*:*:wordpress:*:*,3CX Live Chat 7.1.02 for WordPress,"['CVE-2018-12426', 'CVE-2019-12498']",2022-03-18T10:05Z
+2,cpe:2.3:a:3cx:live_chat:7.1.03:*:*:*:*:wordpress:*:*,3CX Live Chat 7.1.03 for WordPress,"['CVE-2018-12426', 'CVE-2019-12498']",2022-03-18T10:05Z
+3,cpe:2.3:a:3cx:live_chat:7.1.04:*:*:*:*:wordpress:*:*,3CX Live Chat 7.1.04 for WordPress,"['CVE-2018-12426', 'CVE-2019-12498']",2022-03-18T10:05Z
+4,cpe:2.3:a:3cx:live_chat:7.1.05:*:*:*:*:wordpress:*:*,3CX Live Chat 7.1.05 for WordPress,"['CVE-2018-12426', 'CVE-2019-12498']",2022-03-18T10:05Z
+5,cpe:2.3:a:3cx:live_chat:7.1.06:*:*:*:*:wordpress:*:*,3CX Live Chat 7.1.06 for WordPress,"['CVE-2018-12426', 'CVE-2019-12498']",2022-03-18T10:05Z
+6,cpe:2.3:a:3cx:live_chat:7.1.07:*:*:*:*:wordpress:*:*,3CX Live Chat 7.1.07 for WordPress,"['CVE-2018-12426', 'CVE-2019-12498']",2022-03-18T10:05Z
+7,cpe:2.3:a:3cx:live_chat:7.1.08:*:*:*:*:wordpress:*:*,3CX Live Chat 7.1.08 for WordPress,"['CVE-2018-12426', 'CVE-2019-12498']",2022-03-18T10:05Z
+8,cpe:2.3:a:3cx:live_chat:8.0.00:*:*:*:*:wordpress:*:*,3CX Live Chat 8.0.00 for WordPress,"['CVE-2018-12426', 'CVE-2019-12498']",2022-03-18T10:05Z
+9,cpe:2.3:a:3cx:live_chat:8.0.01:*:*:*:*:wordpress:*:*,3CX Live Chat 8.0.01 for WordPress,"['CVE-2018-12426', 'CVE-2019-12498']",2022-03-18T10:05Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ayecode:location_manager:2.0.0.6:beta:*:*:*:wordpress:*:*,AyeCode Location Manager 2.0.0.6 Beta for WordPress,['CVE-2021-24361'],2022-03-19T05:04Z
+1,cpe:2.3:a:ayecode:location_manager:2.0.0.7:beta:*:*:*:wordpress:*:*,AyeCode Location Manager 2.0.0.7 Beta for WordPress,['CVE-2021-24361'],2022-03-19T05:04Z
+2,cpe:2.3:a:ayecode:location_manager:2.0.0.8:rc:*:*:*:wordpress:*:*,AyeCode Location Manager 2.0.0.8 Release Candidate for WordPress,['CVE-2021-24361'],2022-03-19T05:04Z
+3,cpe:2.3:a:ayecode:location_manager:2.0.0.9:*:*:*:*:wordpress:*:*,AyeCode Location Manager 2.0.0.9 for WordPress,['CVE-2021-24361'],2022-03-19T05:04Z
+4,cpe:2.3:a:ayecode:location_manager:2.0.0.10:*:*:*:*:wordpress:*:*,AyeCode Location Manager 2.0.0.10 for WordPress,['CVE-2021-24361'],2022-03-19T05:04Z
+5,cpe:2.3:a:ayecode:location_manager:2.0.0.11:*:*:*:*:wordpress:*:*,AyeCode Location Manager 2.0.0.11 for WordPress,['CVE-2021-24361'],2022-03-19T05:04Z
+6,cpe:2.3:a:ayecode:location_manager:2.0.0.12:*:*:*:*:wordpress:*:*,AyeCode Location Manager 2.0.0.12 for WordPress,['CVE-2021-24361'],2022-03-19T05:04Z
+7,cpe:2.3:a:ayecode:location_manager:2.0.0.13:*:*:*:*:wordpress:*:*,AyeCode Location Manager 2.0.0.13 for WordPress,['CVE-2021-24361'],2022-03-19T05:04Z
+8,cpe:2.3:a:ayecode:location_manager:2.0.0.14:*:*:*:*:wordpress:*:*,AyeCode Location Manager 2.0.0.14 for WordPress,['CVE-2021-24361'],2022-03-19T05:04Z
+9,cpe:2.3:a:ayecode:location_manager:2.0.0.15:*:*:*:*:wordpress:*:*,AyeCode Location Manager 2.0.0.15 for WordPress,['CVE-2021-24361'],2022-03-19T05:04Z

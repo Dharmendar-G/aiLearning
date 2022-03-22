@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bestwebsoft:timesheet:0.1.7:*:*:*:*:wordpress:*:*,BestWebSoft Timesheet 0.1.7 for WordPress,[''],2022-03-19T07:24Z
+1,cpe:2.3:a:bestwebsoft:timesheet:1.0.0:*:*:*:*:wordpress:*:*,BestWebSoft Timesheet 1.0.0 for WordPress,[''],2022-03-19T07:24Z
+2,cpe:2.3:a:bestwebsoft:timesheet:1.0.1:*:*:*:*:wordpress:*:*,BestWebSoft Timesheet 1.0.1 for WordPress,[''],2022-03-19T07:24Z
+3,cpe:2.3:a:bestwebsoft:timesheet:1.0.2:*:*:*:*:wordpress:*:*,BestWebSoft Timesheet 1.0.2 for WordPress,[''],2022-03-19T07:24Z
+4,cpe:2.3:a:bestwebsoft:timesheet:1.0.3:*:*:*:*:wordpress:*:*,BestWebSoft Timesheet 1.0.3 for WordPress,[''],2022-03-19T07:24Z
+5,cpe:2.3:a:bestwebsoft:timesheet:1.0.4:*:*:*:*:wordpress:*:*,BestWebSoft Timesheet 1.0.4 for WordPress,[''],2022-03-19T07:24Z
+6,cpe:2.3:a:bestwebsoft:timesheet:1.0.6:*:*:*:*:wordpress:*:*,BestWebSoft Timesheet 1.0.6 for WordPress,[''],2022-03-19T07:24Z
+7,cpe:2.3:a:bestwebsoft:twitter_button:2.01:*:*:*:*:wordpress:*:*,BestWebSoft Twitter Button 2.01 for WordPress,"['CVE-2017-18505', 'CVE-2017-2171']",2022-03-19T07:24Z
+8,cpe:2.3:a:bestwebsoft:twitter_button:2.02:*:*:*:*:wordpress:*:*,BestWebSoft Twitter Button 2.02 for WordPress,"['CVE-2017-18505', 'CVE-2017-2171']",2022-03-19T07:24Z
+9,cpe:2.3:a:bestwebsoft:twitter_button:2.03:*:*:*:*:wordpress:*:*,BestWebSoft Twitter Button 2.03 for WordPress,"['CVE-2017-18505', 'CVE-2017-2171']",2022-03-19T07:24Z

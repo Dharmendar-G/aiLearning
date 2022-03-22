@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:1e:client:4.1.0.267:*:*:*:*:windows:*:*,1e Client 4.1.0.267 for Windows,"['CVE-2020-16268', 'CVE-2020-27643']",2022-03-18T09:43Z
+1,cpe:2.3:a:1e:client:5.0.0.745:*:*:*:*:windows:*:*,1e Client 5.0.0.745 for Windows,"['CVE-2020-16268', 'CVE-2020-27643', 'CVE-2020-27644', 'CVE-2020-27645']",2022-03-18T09:43Z
+2,cpe:2.3:a:1kxun:qianxun_yingshi:1.2.3:*:*:*:*:*:*:*,1kxun QianXun YingShi (com.qianxun.yingshi) application 1.2.3,['CVE-2012-1402'],2022-03-18T09:43Z
+3,cpe:2.3:a:1kxun:qianxun_yingshi:1.3.4:*:*:*:*:*:*:*,1kxun QianXun YingShi (com.qianxun.yingshi) application 1.3.4,['CVE-2012-1402'],2022-03-18T09:43Z
+4,cpe:2.3:a:1password:1password:-:-:*:*:*:android:*:*,1Password for Android,[''],2022-03-18T09:44Z
+5,cpe:2.3:a:1password:1password:-:-:*:*:*:iphone_os:*:*,1Password for iPhone OS,[''],2022-03-18T09:44Z
+6,cpe:2.3:a:1password:1password:-:-:*:*:*:windows:*:*,1Password for Windows,['CVE-2014-3753'],2022-03-18T09:44Z
+7,cpe:2.3:a:1password:1password:1.0.0.36:*:*:*:*:windows:*:*,1Password 1.0.0.36 for Windows,['CVE-2014-3753'],2022-03-18T09:44Z
+8,cpe:2.3:a:1password:1password:1.0.0.37:*:*:*:*:windows:*:*,1Password 1.0.0.37 for Windows,['CVE-2014-3753'],2022-03-18T09:44Z
+9,cpe:2.3:a:1password:1password:1.0.0.38:*:*:*:*:windows:*:*,1Password 1.0.0.38 for Windows,['CVE-2014-3753'],2022-03-18T09:44Z

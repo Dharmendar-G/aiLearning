@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:canonical:microk8s:1.14:*:*:*:*:*:*:*,Canonical MicroK8s 1.14,['CVE-2019-15789'],2022-03-19T15:20Z
+1,cpe:2.3:a:canonical:microk8s:1.15:*:*:*:*:*:*:*,Canonical MicroK8s 1.15,['CVE-2019-15789'],2022-03-19T15:21Z
+2,cpe:2.3:a:canonical:microk8s:1.15.3:*:*:*:*:*:*:*,Canonical MicroK8s 1.15.3,[''],2022-03-19T15:20Z
+3,cpe:2.3:a:canonical:microk8s:1.16:*:*:*:*:*:*:*,Canonical MicroK8s 1.16,[''],2022-03-19T15:21Z
+4,cpe:2.3:a:canonical:microk8s:1.17:*:*:*:*:*:*:*,Canonical MicroK8s 1.17,[''],2022-03-19T15:21Z
+5,cpe:2.3:a:canonical:microk8s:1.18:*:*:*:*:*:*:*,Canonical MicroK8s 1.18,[''],2022-03-19T15:21Z
+6,cpe:2.3:a:canonical:microk8s:1.19:*:*:*:*:*:*:*,Canonical MicroK8s 1.19,[''],2022-03-19T15:21Z
+7,cpe:2.3:a:canonical:openstack_ironic:4.2.4:*:*:*:*:*:*:*,Canonical OpenStack Ironic 4.2.4,['CVE-2016-4985'],2022-03-19T15:21Z
+8,cpe:2.3:a:canonical:openstack_ironic:5.1.0:*:*:*:*:*:*:*,Canonical OpenStack Ironic 5.1.0,['CVE-2016-4985'],2022-03-19T15:21Z
+9,cpe:2.3:a:canonical:openstack_ironic:5.1.1:*:*:*:*:*:*:*,Canonical OpenStack Ironic 5.1.1,['CVE-2016-4985'],2022-03-19T15:21Z

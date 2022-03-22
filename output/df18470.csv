@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alejandro_garza:apachesolr_autocomplete:6.x-1.2:*:*:*:*:*:*:*,Alejandro Garza Search Apache Solr Autocomplete (apachesolr_autocomplete) module 6.x-1.2 for Drupal,['CVE-2012-6573'],2022-03-18T14:32Z
+1,cpe:2.3:a:alejandro_garza:apachesolr_autocomplete:6.x-1.3:*:*:*:*:*:*:*,Alejandro Garza Search Apache Solr Autocomplete (apachesolr_autocomplete) module 6.x-1.3 for Drupal,['CVE-2012-6573'],2022-03-18T14:32Z
+2,cpe:2.3:a:alejandro_garza:apachesolr_autocomplete:6.x-1.x:dev:*:*:*:*:*:*,Alejandro Garza Search Apache Solr Autocomplete (apachesolr_autocomplete) module 6.x-1.x-dev for Drupal,['CVE-2012-6573'],2022-03-18T14:32Z
+3,[0],[0],[0],[0]
+4,cpe:2.3:a:alejandro_garza:apachesolr_autocomplete:7.x-1.0:*:*:*:*:*:*:*,Alejandro Garza Search Apache Solr Autocomplete (apachesolr_autocomplete) module 7.x-1.0 for Drupal,['CVE-2012-6573'],2022-03-18T14:32Z
+5,cpe:2.3:a:alejandro_garza:apachesolr_autocomplete:7.x-1.1:*:*:*:*:*:*:*,Alejandro Garza Search Apache Solr Autocomplete (apachesolr_autocomplete) module 7.x-1.1 for Drupal,['CVE-2012-6573'],2022-03-18T14:32Z
+6,cpe:2.3:a:alejandro_garza:apachesolr_autocomplete:7.x-1.2:*:*:*:*:*:*:*,Alejandro Garza Search Apache Solr Autocomplete (apachesolr_autocomplete) module 7.x-1.2 for Drupal,['CVE-2012-6573'],2022-03-18T14:32Z
+7,cpe:2.3:a:alejandro_garza:apachesolr_autocomplete:7.x-1.x:dev:*:*:*:*:*:*,Alejandro Garza Search Apache Solr Autocomplete (apachesolr_autocomplete) module 7.x-1.x-dev for Drupal,['CVE-2012-6573'],2022-03-18T14:32Z
+8,cpe:2.3:h:al-enterprise:8008:-:*:*:*:*:*:*:*,AL-enterprise 8008,['CVE-2019-14260'],2022-03-18T14:32Z
+9,cpe:2.3:o:al-enterprise:8008_firmware:1.50.13:*:*:*:cloud:*:*:*,AL-Enterprise 8008 Firmware 1.50.13 Cloud Edition,['CVE-2019-14260'],2022-03-18T14:32Z

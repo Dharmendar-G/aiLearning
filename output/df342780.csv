@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:filenet_content_manager:5.5.4:*:*:*:*:*:*:*,IBM Filenet Content Manager 5.5.4,"['CVE-2020-4447', 'CVE-2020-4759', 'CVE-2021-38965']",2022-03-21T20:34Z
+1,cpe:2.3:a:ibm:filenet_content_manager:5.5.5:*:*:*:*:*:*:*,IBM Filenet Content Manager 5.5.5,['CVE-2020-4759'],2022-03-21T20:34Z
+2,cpe:2.3:a:ibm:filenet_content_services_client_libraries:5.4:*:*:*:*:*:*:*,IBM Filenet Content Services Client Libraries 5.4,[''],2022-03-21T20:34Z
+3,cpe:2.3:a:ibm:filenet_idm_desktop:4.0:*:*:*:*:*:*:*,IBM Filenet Idm Desktop 4.0,[''],2022-03-21T20:34Z
+4,cpe:2.3:a:ibm:filenet_image_services:4.1.2:*:*:*:*:*:*:*,IBM Filenet Image Services 4.1.2,[''],2022-03-21T20:34Z
+5,cpe:2.3:a:ibm:filenet_image_services_remote_admin_console:4.0.40:*:*:*:*:*:*:*,IBM Filenet Image Services Remote Admin Console 4.0.40,[''],2022-03-21T20:34Z
+6,cpe:2.3:a:ibm:filenet_image_services_toolkit:4.0.40:*:*:*:*:*:*:*,IBM Filenet Image Services Toolkit 4.0.40,[''],2022-03-21T20:34Z
+7,cpe:2.3:a:ibm:filenet_p8_application_engine:3.5.1:*:*:*:*:*:*:*,IBM P8 FileNet P8 Application Engine (P8AE) 3.5.1,"['CVE-2006-7241', 'CVE-2006-7242', 'CVE-2008-7261', 'CVE-2009-4998', 'CVE-2009-4999', 'CVE-2010-3470', 'CVE-2010-3472', 'CVE-2010-3473']",2022-03-21T20:34Z
+8,cpe:2.3:a:ibm:filenet_p8_application_engine:3.5.1:001:*:*:*:*:*:*,IBM P8 FileNet P8 Application Engine (P8AE) 3.5.1-001 (Fix Pack 001),"['CVE-2006-7241', 'CVE-2006-7242', 'CVE-2008-7261', 'CVE-2009-4998', 'CVE-2009-4999', 'CVE-2010-3470', 'CVE-2010-3472', 'CVE-2010-3473']",2022-03-21T20:34Z
+9,cpe:2.3:a:ibm:filenet_p8_application_engine:3.5.1:002:*:*:*:*:*:*,IBM P8 FileNet P8 Application Engine (P8AE) 3.5.1-002 (Fix Pack 002),"['CVE-2006-7241', 'CVE-2006-7242', 'CVE-2008-7261', 'CVE-2009-4998', 'CVE-2009-4999', 'CVE-2010-3470', 'CVE-2010-3472', 'CVE-2010-3473']",2022-03-21T20:34Z

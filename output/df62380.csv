@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:authelia:authelia:4.29.2:*:*:*:*:*:*:*,Authelia 4.29.2,['CVE-2021-32637'],2022-03-19T03:24Z
+1,cpe:2.3:a:authelia:authelia:4.29.3:*:*:*:*:*:*:*,Authelia 4.29.3,[''],2022-03-19T03:24Z
+2,cpe:2.3:a:authelia:authelia:4.29.4:*:*:*:*:*:*:*,Authelia 4.29.4,[''],2022-03-19T03:24Z
+3,cpe:2.3:a:authentec:atmininstall:7.10.0.1129:*:*:*:*:*:*:*,Authentec Atmininstall 7.10.0.1129,[''],2022-03-19T03:24Z
+4,cpe:2.3:a:authentec:authentec_fingerprint_sensor:7.10.0.0129:*:*:*:*:*:*:*,Authentec Fingerprint Sensor 7.10.0.0129,[''],2022-03-19T03:24Z
+5,cpe:2.3:a:authentikat-jwt_project:authentikat-jwt:0.3.1:*:*:*:*:*:*:*,authentikat-jwt Project authentikat-jwt 0.3.1,['CVE-2017-18239'],2022-03-19T03:24Z
+6,cpe:2.3:a:authentikat-jwt_project:authentikat-jwt:0.3.3:*:*:*:*:*:*:*,authentikat-jwt Project authentikat-jwt 0.3.3,['CVE-2017-18239'],2022-03-19T03:24Z
+7,cpe:2.3:a:authentikat-jwt_project:authentikat-jwt:0.3.5:*:*:*:*:*:*:*,authentikat-jwt Project authentikat-jwt 0.3.5,['CVE-2017-18239'],2022-03-19T03:24Z
+8,cpe:2.3:a:authentikat-jwt_project:authentikat-jwt:0.4.0:*:*:*:*:*:*:*,authentikat-jwt Project authentikat-jwt 0.4.0,['CVE-2017-18239'],2022-03-19T03:24Z
+9,cpe:2.3:a:authentikat-jwt_project:authentikat-jwt:0.4.1:*:*:*:*:*:*:*,authentikat-jwt Project authentikat-jwt 0.4.1,['CVE-2017-18239'],2022-03-19T03:24Z

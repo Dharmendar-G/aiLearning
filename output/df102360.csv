@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:a:canonical:ppp:2.4.5-5.1ubuntu3:*:*:*:*:*:*:*,Canonical ppp 2.4.5-5.1ubuntu3,['CVE-2020-15704'],2022-03-19T15:21Z
+2,cpe:2.3:a:canonical:ppp:2.4.5-5.1ubuntu3.1:*:*:*:*:*:*:*,Canonical ppp 2.4.5-5.1ubuntu3.1,['CVE-2020-15704'],2022-03-19T15:21Z
+3,cpe:2.3:a:canonical:ppp:2.4.5-5.1ubuntu3.2:*:*:*:*:*:*:*,Canonical ppp 2.4.5-5.1ubuntu3.2,['CVE-2020-15704'],2022-03-19T15:21Z
+4,cpe:2.3:a:canonical:ppp:2.4.5-5.1ubuntu4:*:*:*:*:*:*:*,Canonical ppp 2.4.5-5.1ubuntu4,['CVE-2020-15704'],2022-03-19T15:21Z
+5,cpe:2.3:a:canonical:ppp:2.4.5-5ubuntu1:*:*:*:*:*:*:*,Canonical ppp 2.4.5-5ubuntu1,['CVE-2020-15704'],2022-03-19T15:21Z
+6,cpe:2.3:a:canonical:ppp:2.4.5-5ubuntu1.1:*:*:*:*:*:*:*,Canonical ppp 2.4.5-5ubuntu1.1,['CVE-2020-15704'],2022-03-19T15:21Z
+7,cpe:2.3:a:canonical:ppp:2.4.5-5ubuntu1.2:*:*:*:*:*:*:*,Canonical ppp 2.4.5-5ubuntu1.2,['CVE-2020-15704'],2022-03-19T15:21Z
+8,cpe:2.3:a:canonical:ppp:2.4.5-5ubuntu1.4:*:*:*:*:*:*:*,Canonical Ppp 2.4.5-5ubuntu1.4,['CVE-2020-15704'],2022-03-19T15:21Z
+9,cpe:2.3:a:canonical:ppp:2.4.5-5ubuntu2:*:*:*:*:*:*:*,Canonical ppp 2.4.5-5ubuntu2,['CVE-2020-15704'],2022-03-19T15:21Z

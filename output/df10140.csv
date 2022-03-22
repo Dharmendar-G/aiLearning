@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:after_effects:18.4:*:*:*:*:*:*:*,Adobe After Effects 18.4,"['CVE-2021-40751', 'CVE-2021-40752', 'CVE-2021-40753', 'CVE-2021-40754', 'CVE-2021-40755', 'CVE-2021-40756', 'CVE-2021-40757', 'CVE-2021-40758', 'CVE-2021-40759', 'CVE-2021-40760', 'CVE-2021-40761', 'CVE-2022-23200']",2022-03-18T12:20Z
+1,cpe:2.3:a:adobe:after_effects:18.4.1:*:*:*:*:*:*:*,Adobe After Effects 18.4.1,"['CVE-2021-40751', 'CVE-2021-40752', 'CVE-2021-40753', 'CVE-2021-40754', 'CVE-2021-40755', 'CVE-2021-40756', 'CVE-2021-40757', 'CVE-2021-40758', 'CVE-2021-40759', 'CVE-2021-40760', 'CVE-2021-40761', 'CVE-2022-23200']",2022-03-18T12:20Z
+2,cpe:2.3:a:adobe:after_effects:18.4.2:*:*:*:*:*:*:*,Adobe After Effects 18.4.2,['CVE-2022-23200'],2022-03-18T12:20Z
+3,cpe:2.3:a:adobe:after_effects:18.4.3:*:*:*:*:*:*:*,Adobe After Effects 18.4.3,['CVE-2022-23200'],2022-03-18T12:20Z
+4,cpe:2.3:a:adobe:after_effects:22.0:*:*:*:*:*:*:*,Adobe After Effects 22.0,['CVE-2022-23200'],2022-03-18T12:20Z
+5,cpe:2.3:a:adobe:after_effects:22.1.1:*:*:*:*:*:*:*,Adobe After Effects 22.1.1,['CVE-2022-23200'],2022-03-18T12:20Z
+6,cpe:2.3:a:adobe:after_effects_cs3:8.0:*:*:*:*:*:*:*,Adobe After Effects CS3 8.0,[''],2022-03-18T12:20Z
+7,cpe:2.3:a:adobe:after_effects_cs3:8.0.2:*:*:*:*:*:*:*,Adobe After Effects CS3 8.0.2,[''],2022-03-18T12:20Z
+8,cpe:2.3:a:adobe:after_effects_cs3_presets:8.0:*:*:*:*:*:*:*,Adobe After Effects CS3 Presets 8.0,[''],2022-03-18T12:20Z
+9,cpe:2.3:a:adobe:after_effects_cs3_template_projects_\&_footage:8.0:*:*:*:*:*:*:*,Adobe After Effects CS3 Template Projects & Footage 8.0,[''],2022-03-18T12:20Z

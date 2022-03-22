@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:7.0.1:*:*:*:*:*:*:*,Dolibarr ERP/CRM 7.0.1,[''],2022-03-20T16:59Z
+1,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:7.0.2:*:*:*:*:*:*:*,Dolibarr ERP/CRM 7.0.2,[''],2022-03-20T17:00Z
+2,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:7.0.3:*:*:*:*:*:*:*,Dolibarr ERP/CRM 7.0.3,"['CVE-2018-13448', 'CVE-2018-13449', 'CVE-2018-13450']",2022-03-20T16:59Z
+3,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:7.0.4:*:*:*:*:*:*:*,Dolibarr ERP/CRM 7.0.4,[''],2022-03-20T17:00Z
+4,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:7.0.5:*:*:*:*:*:*:*,Dolibarr ERP/CRM 7.0.5,[''],2022-03-20T17:00Z
+5,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:8.0.0:*:*:*:*:*:*:*,Dolibarr ERP/CRM 8.0.0,[''],2022-03-20T17:00Z
+6,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:8.0.1:*:*:*:*:*:*:*,Dolibarr ERP/CRM 8.0.1,[''],2022-03-20T17:00Z
+7,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:8.0.2:*:*:*:*:*:*:*,Dolibarr ERP/CRM 8.0.2,[''],2022-03-20T17:00Z
+8,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:8.0.3:*:*:*:*:*:*:*,Dolibarr ERP/CRM 8.0.3,[''],2022-03-20T17:00Z
+9,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:8.0.4:*:*:*:*:*:*:*,Dolibarr ERP/CRM 8.0.4,[''],2022-03-20T17:00Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:pagewide_managed_color_mfp_p77960_y3z65a:-:*:*:*:*:*:*:*,HP PageWide Managed Color MFP P77960 Y3Z65A,['CVE-2020-28419'],2022-03-21T15:41Z
+1,cpe:2.3:h:hp:pagewide_managed_color_mfp_p77960_y3z66a:-:*:*:*:*:*:*:*,HP PageWide Managed Color MFP P77960 Y3Z66A,['CVE-2020-28419'],2022-03-21T15:41Z
+2,cpe:2.3:h:hp:pagewide_managed_color_mfp_p77960_y3z68a:-:*:*:*:*:*:*:*,HP PageWide Managed Color MFP P77960 Y3Z68A,['CVE-2020-28419'],2022-03-21T15:41Z
+3,cpe:2.3:h:hp:pagewide_managed_color_p75250:-:*:*:*:*:*:*:*,HP PageWide Managed Color P75250,['CVE-2019-6318'],2022-03-21T15:41Z
+4,cpe:2.3:o:hp:pagewide_managed_color_p75250_firmware:-:*:*:*:*:*:*:*,HP Pagewide Managed Color P75250 Firmware -,"['CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T15:41Z
+5,cpe:2.3:o:hp:pagewide_managed_color_p75250_firmware:2407081_000573:*:*:*:*:*:*:*,HP Pagewide Managed Color P75250 Firmware 2407081 000573,[''],2022-03-21T15:41Z
+6,cpe:2.3:h:hp:pagewide_managed_color_p75250_y3z49a:-:*:*:*:*:*:*:*,HP PageWide Managed Color P75250 Y3Z49A,['CVE-2020-28419'],2022-03-21T15:41Z
+7,cpe:2.3:h:hp:pagewide_managed_e55650_l3u44a:-:*:*:*:*:*:*:*,HP PageWide Managed E55650 L3U44A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:41Z
+8,cpe:2.3:h:hp:pagewide_managed_e75160_j7z06a:-:*:*:*:*:*:*:*,HP PageWide Managed E75160 J7Z06A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:41Z
+9,cpe:2.3:h:hp:pagewide_managed_flow_mfp_e58650z_l3u42a:-:*:*:*:*:*:*:*,HP PageWide Managed Flow MFP E58650Z L3U42A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:41Z

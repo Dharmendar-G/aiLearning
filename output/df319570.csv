@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:backbox_h4.09:-:*:*:*:*:*:*:*,HP Backbox H4.09,[''],2022-03-21T12:57Z
+1,cpe:2.3:o:hp:backbox_h4.09_firmware:t0954v04\^aao:*:*:*:*:*:*:*,HP Backbox H4.09 Firmware T0954V04^AAO,[''],2022-03-21T12:57Z
+2,cpe:2.3:a:hp:bastille:-:*:*:*:*:*:*:*,HP Bastille,[''],2022-03-21T12:57Z
+3,cpe:2.3:a:hp:bastille:b.02.00.05:*:*:*:*:*:*:*,HP Bastille B.02.00.05,[''],2022-03-21T12:57Z
+4,cpe:2.3:a:hp:bidi_channel_components_installer:1.1.0.2:*:*:*:*:*:*:*,HP Bidi Channel Components Installer 1.1.0.2,[''],2022-03-21T12:57Z
+5,cpe:2.3:a:hp:bidi_channel_components_installer:1.2.0.2:*:*:*:*:*:x64:*,HP Bidi Channel Components Installer 1.2.0.2 (x64) 64-bit,[''],2022-03-21T12:57Z
+6,cpe:2.3:a:hp:blade_maintenance_entity:t4805a01:*:*:*:*:*:*:*,HP Blade Maintenance Entity T4805A01,"['CVE-2019-5394', 'CVE-2020-7131']",2022-03-21T12:57Z
+7,cpe:2.3:a:hp:blade_maintenance_entity:t4805a01\^aax:*:*:*:*:*:*:*,HP Blade Maintenance Entity T4805Aa01^AAX,"['CVE-2019-5394', 'CVE-2020-7131']",2022-03-21T12:57Z
+8,cpe:2.3:a:hp:blade_maintenance_entity:t4805a01\^aay:*:*:*:*:*:*:*,HP Blade Maintenance Entity T4805A01^AAY,['CVE-2020-7131'],2022-03-21T12:57Z
+9,cpe:2.3:a:hp:bluedata_epic:4.0:*:*:*:*:*:*:*,HP BlueData Epic 4.0,['CVE-2020-7196'],2022-03-21T12:57Z

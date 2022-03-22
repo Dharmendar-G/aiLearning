@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:django-helpdesk_project:django-helpdesk:0.2.11:*:*:*:*:*:*:*,django-helpdesk Project django-helpdesk 0.2.11,"['CVE-2021-3945', 'CVE-2021-3950', 'CVE-2021-3994']",2022-03-20T15:24Z
+1,cpe:2.3:a:django-helpdesk_project:django-helpdesk:0.2.12:*:*:*:*:*:*:*,django-helpdesk Project django-helpdesk 0.2.12,"['CVE-2021-3945', 'CVE-2021-3950', 'CVE-2021-3994']",2022-03-20T15:24Z
+2,cpe:2.3:a:django-helpdesk_project:django-helpdesk:0.2.13:*:*:*:*:*:*:*,django-helpdesk Project django-helpdesk 0.2.13,"['CVE-2021-3945', 'CVE-2021-3950', 'CVE-2021-3994']",2022-03-20T15:24Z
+3,cpe:2.3:a:django-helpdesk_project:django-helpdesk:0.2.14:*:*:*:*:*:*:*,django-helpdesk Project django-helpdesk 0.2.14,"['CVE-2021-3945', 'CVE-2021-3950', 'CVE-2021-3994']",2022-03-20T15:25Z
+4,cpe:2.3:a:django-helpdesk_project:django-helpdesk:0.2.15:*:*:*:*:*:*:*,django-helpdesk Project django-helpdesk 0.2.15,"['CVE-2021-3945', 'CVE-2021-3950', 'CVE-2021-3994']",2022-03-20T15:25Z
+5,cpe:2.3:a:django-helpdesk_project:django-helpdesk:0.2.16:*:*:*:*:*:*:*,django-helpdesk Project django-helpdesk 0.2.16,"['CVE-2021-3945', 'CVE-2021-3950', 'CVE-2021-3994']",2022-03-20T15:25Z
+6,cpe:2.3:a:django-helpdesk_project:django-helpdesk:0.2.17:*:*:*:*:*:*:*,django-helpdesk Project django-helpdesk 0.2.17,"['CVE-2021-3945', 'CVE-2021-3950', 'CVE-2021-3994']",2022-03-20T15:25Z
+7,cpe:2.3:a:django-helpdesk_project:django-helpdesk:0.2.18:*:*:*:*:*:*:*,django-helpdesk Project django-helpdesk 0.2.18,"['CVE-2021-3945', 'CVE-2021-3950', 'CVE-2021-3994']",2022-03-20T15:25Z
+8,cpe:2.3:a:django-helpdesk_project:django-helpdesk:0.2.19:*:*:*:*:*:*:*,django-helpdesk Project django-helpdesk 0.2.19,"['CVE-2021-3945', 'CVE-2021-3950', 'CVE-2021-3994']",2022-03-20T15:25Z
+9,cpe:2.3:a:django-helpdesk_project:django-helpdesk:0.2.20:*:*:*:*:*:*:*,django-helpdesk Project django-helpdesk 0.2.20,"['CVE-2021-3945', 'CVE-2021-3950', 'CVE-2021-3994']",2022-03-20T15:25Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:abb:cp400pb:-:*:*:*:*:*:*:*,ABB CP400PB,['CVE-2018-19008'],2022-03-18T10:29Z
+1,cpe:2.3:o:abb:cp400pb_firmware:2.0.7.05:*:*:*:*:*:*:*,ABB CP400PB Firmware 2.0.7.05,['CVE-2018-19008'],2022-03-18T10:29Z
+2,cpe:2.3:h:abb:cp620:-:*:*:*:*:*:*:*,ABB CP620,"['CVE-2019-7225', 'CVE-2019-7229']",2022-03-18T10:29Z
+3,cpe:2.3:o:abb:cp620_firmware:1.76:*:*:*:*:*:*:*,ABB CP620 Firmware 1.76,"['CVE-2019-7225', 'CVE-2019-7229']",2022-03-18T10:29Z
+4,cpe:2.3:o:abb:cp620_firmware:2.8.0.424:*:*:*:*:*:*:*,ABB CP620 Firmware 2.8.0.424,[''],2022-03-18T10:29Z
+5,cpe:2.3:h:abb:cp620-web:-:*:*:*:*:*:*:*,ABB CP620-WEB,"['CVE-2019-7225', 'CVE-2019-7229']",2022-03-18T10:29Z
+6,cpe:2.3:o:abb:cp620-web_firmware:1.76:*:*:*:*:*:*:*,ABB CP620-web Firmware 1.76,"['CVE-2019-7225', 'CVE-2019-7229']",2022-03-18T10:29Z
+7,cpe:2.3:o:abb:cp620-web_firmware:2.8.0.424:*:*:*:*:*:*:*,ABB CP620-WEB Firmware 2.8.0.424,[''],2022-03-18T10:29Z
+8,cpe:2.3:h:abb:cp630:-:*:*:*:*:*:*:*,ABB CP630,"['CVE-2019-7225', 'CVE-2019-7229']",2022-03-18T10:29Z
+9,cpe:2.3:o:abb:cp630_firmware:1.76:*:*:*:*:*:*:*,ABB CP630 Firmware 1.76,"['CVE-2019-7225', 'CVE-2019-7229']",2022-03-18T10:29Z

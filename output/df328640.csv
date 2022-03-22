@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:readme:70.0.231.0:*:*:*:*:*:*:*,HP Readme 70.0.231.0,[''],2022-03-21T15:59Z
+1,cpe:2.3:a:hp:readme:71.0.215.0:*:*:*:*:*:*:*,HP Readme 71.0.215.0,[''],2022-03-21T15:59Z
+2,cpe:2.3:a:hp:release_control:9.1:*:*:*:*:*:*:*,HP Release Control 9.1,"['CVE-2014-2612', 'CVE-2014-2613']",2022-03-21T15:59Z
+3,cpe:2.3:a:hp:release_control:9.11:*:*:*:*:*:*:*,HP Release Control 9.11,"['CVE-2014-2612', 'CVE-2014-2613']",2022-03-21T15:59Z
+4,cpe:2.3:a:hp:release_control:9.12:*:*:*:*:*:*:*,HP Release Control 9.12,"['CVE-2014-2612', 'CVE-2014-2613']",2022-03-21T15:59Z
+5,cpe:2.3:a:hp:release_control:9.13:*:*:*:*:*:*:*,HP Release Control 9.13,"['CVE-2014-2612', 'CVE-2014-2613', 'CVE-2016-1999', 'CVE-2016-4374']",2022-03-21T15:59Z
+6,cpe:2.3:a:hp:release_control:9.20:*:*:*:*:*:*:*,HP Release Control 9.20,"['CVE-2014-2612', 'CVE-2014-2613', 'CVE-2016-1999', 'CVE-2016-4374']",2022-03-21T15:59Z
+7,cpe:2.3:a:hp:release_control:9.21:*:*:*:*:*:*:*,HP Release Control 9.21,"['CVE-2014-2612', 'CVE-2014-2613', 'CVE-2016-1999', 'CVE-2016-4374']",2022-03-21T15:59Z
+8,cpe:2.3:a:hp:remote_access_to_hp_network:6.0.0.7:*:*:*:*:*:*:*,HP Remote Access To Hp Network 6.0.0.7,[''],2022-03-21T15:59Z
+9,cpe:2.3:a:hp:remote_device_access_virtual_customer_access_system:15.07:*:*:*:*:*:*:*,HP Remote Device Access Virtual Customer Access System 15.07,['CVE-2016-0777'],2022-03-21T15:59Z

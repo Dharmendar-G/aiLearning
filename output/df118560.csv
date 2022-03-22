@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:enterprise_content_delivery_network_software:3.0:*:*:*:*:*:*:*,Cisco Enterprise Content Delivery Network (ECDN) Software 3.0,[''],2022-03-19T19:28Z
+1,cpe:2.3:a:cisco:enterprise_content_delivery_network_software:3.0.1:*:*:*:*:*:*:*,Cisco Enterprise Content Delivery Network (ECDN) Software 3.0.1,[''],2022-03-19T19:28Z
+2,cpe:2.3:a:cisco:enterprise_content_delivery_network_software:3.0.2:*:*:*:*:*:*:*,Cisco Enterprise Content Delivery Network (ECDN) Software 3.0.2,[''],2022-03-19T19:28Z
+3,cpe:2.3:a:cisco:enterprise_content_delivery_network_software:4.0:*:*:*:*:*:*:*,Cisco Enterprise Content Delivery Network (ECDN) Software 4.0,"['CVE-2002-0778', 'CVE-2003-0982', 'CVE-2005-0598', 'CVE-2005-0600']",2022-03-19T19:28Z
+4,cpe:2.3:a:cisco:enterprise_content_delivery_network_software:4.1:*:*:*:*:*:*:*,Cisco Enterprise Content Delivery Network (ECDN) Software 4.1,"['CVE-2002-0778', 'CVE-2003-0982', 'CVE-2005-0598', 'CVE-2005-0600']",2022-03-19T19:28Z
+5,cpe:2.3:a:cisco:enterprise_data_integration:2.2.1:*:*:*:*:*:*:*,Cisco Enterprise Data Integration 2.2.1,[''],2022-03-19T19:28Z
+6,cpe:2.3:a:cisco:enterprise_network_compute_system:-:*:*:*:*:*:5000_series:*,Cisco Enterprise Network Compute System 5000 Series,['CVE-2019-1649'],2022-03-19T19:28Z
+7,cpe:2.3:h:cisco:enterprise_network_compute_system_5100:-:*:*:*:*:*:*:*,Cisco Enterprise Network Compute System (ENCS) 5100,['CVE-2020-3470'],2022-03-19T19:28Z
+8,cpe:2.3:h:cisco:enterprise_network_compute_system_5400:-:*:*:*:*:*:*:*,Cisco Enterprise Network Compute System (ENCS) 5400,['CVE-2020-3470'],2022-03-19T19:28Z
+9,cpe:2.3:a:cisco:enterprise_network_function_virtualization_infrastructure:-:*:*:*:*:*:*:*,Cisco Enterprise Network Function Virtualization Infrastructure,"['CVE-2019-1895', 'CVE-2019-1946', 'CVE-2019-1952', 'CVE-2019-1953', 'CVE-2019-1959', 'CVE-2019-1960', 'CVE-2019-1961', 'CVE-2019-1973', 'CVE-2020-3138', 'CVE-2020-3236']",2022-03-19T19:28Z

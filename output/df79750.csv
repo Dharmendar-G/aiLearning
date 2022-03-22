@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bj-tct:kingview:7.5:sp1:*:*:*:*:*:*,"Beijing Asia Control Technology Development Co., Ltd. KingView 7.5 Service Pack 1",['CVE-2018-7471'],2022-03-19T08:34Z
+1,cpe:2.3:a:bkjs-wand_project:bkjs-wand:0.1.0:*:*:*:*:node.js:*:*,bkjs-wand Project bkjs-wand 0.1.0 for Node.js,['CVE-2016-10571'],2022-03-19T08:34Z
+2,cpe:2.3:a:bkjs-wand_project:bkjs-wand:0.1.1:*:*:*:*:node.js:*:*,bkjs-wand Project bkjs-wand 0.1.1 for Node.js,['CVE-2016-10571'],2022-03-19T08:34Z
+3,cpe:2.3:a:bkjs-wand_project:bkjs-wand:0.1.2:*:*:*:*:node.js:*:*,bkjs-wand Project bkjs-wand 0.1.2 for Node.js,['CVE-2016-10571'],2022-03-19T08:34Z
+4,cpe:2.3:a:bkjs-wand_project:bkjs-wand:0.2.0:*:*:*:*:node.js:*:*,bkjs-wand Project bkjs-wand 0.2.0 for Node.js,['CVE-2016-10571'],2022-03-19T08:34Z
+5,cpe:2.3:a:bkjs-wand_project:bkjs-wand:0.2.2:*:*:*:*:node.js:*:*,bkjs-wand Project bkjs-wand 0.2.2 for Node.js,['CVE-2016-10571'],2022-03-19T08:34Z
+6,cpe:2.3:a:bkjs-wand_project:bkjs-wand:0.3.0:*:*:*:*:node.js:*:*,bkjs-wand Project bkjs-wand 0.3.0 for Node.js,['CVE-2016-10571'],2022-03-19T08:34Z
+7,cpe:2.3:a:bkjs-wand_project:bkjs-wand:0.3.2:*:*:*:*:node.js:*:*,bkjs-wand Project bkjs-wand 0.3.2 for Node.js,[''],2022-03-19T08:34Z
+8,cpe:2.3:a:bkjs-wand_project:bkjs-wand:0.3.3:*:*:*:*:node.js:*:*,bkjs-wand Project bkjs-wand 0.3.3 for Node.js,[''],2022-03-19T08:34Z
+9,cpe:2.3:a:bkjs-wand_project:bkjs-wand:0.4.1:*:*:*:*:node.js:*:*,bkjs-wand Project bkjs-wand 0.4.1 for Node.js,[''],2022-03-19T08:34Z

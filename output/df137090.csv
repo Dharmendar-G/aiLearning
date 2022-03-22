@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,cpe:2.3:a:cisco:unified_contact_center_enterprise:-:*:*:*:*:*:*:*,Cisco Unified Contact Center Enterprise,"['CVE-2007-0198', 'CVE-2007-5539', 'CVE-2014-2180', 'CVE-2014-3323', 'CVE-2020-3163', 'CVE-2021-44228']",2022-03-20T00:51Z
+3,cpe:2.3:a:cisco:unified_contact_center_enterprise:4.6\(2\):sr1:*:*:*:*:*:*,Cisco Unified Contact Center Enterprise 4.6(2) SR1,"['CVE-2007-0198', 'CVE-2007-5539', 'CVE-2014-2180', 'CVE-2014-3323', 'CVE-2016-1439', 'CVE-2020-3163', 'CVE-2021-44228']",2022-03-20T00:51Z
+4,cpe:2.3:a:cisco:unified_contact_center_enterprise:4.6\(2\):sr2:*:*:*:*:*:*,Cisco Unified Contact Center Enterprise 4.6(2) SR2,"['CVE-2007-0198', 'CVE-2007-5539', 'CVE-2014-2180', 'CVE-2014-3323', 'CVE-2016-1439', 'CVE-2020-3163', 'CVE-2021-44228']",2022-03-20T00:51Z
+5,cpe:2.3:a:cisco:unified_contact_center_enterprise:4.6\(2\):sr3:*:*:*:*:*:*,Cisco Unified Contact Center Enterprise 4.6(2) SR3,"['CVE-2007-0198', 'CVE-2007-5539', 'CVE-2014-2180', 'CVE-2014-3323', 'CVE-2016-1439', 'CVE-2020-3163', 'CVE-2021-44228']",2022-03-20T00:51Z
+6,cpe:2.3:a:cisco:unified_contact_center_enterprise:4.6\(2\):sr4:*:*:*:*:*:*,Cisco Unified Contact Center Enterprise 4.6(2) SR4,"['CVE-2007-0198', 'CVE-2007-5539', 'CVE-2014-2180', 'CVE-2014-3323', 'CVE-2016-1439', 'CVE-2020-3163', 'CVE-2021-44228']",2022-03-20T00:51Z
+7,cpe:2.3:a:cisco:unified_contact_center_enterprise:4.6\(2\):sr5:*:*:*:*:*:*,Cisco Unified Contact Center Enterprise 4.6(2) SR5,"['CVE-2007-0198', 'CVE-2007-5539', 'CVE-2014-2180', 'CVE-2014-3323', 'CVE-2016-1439', 'CVE-2020-3163', 'CVE-2021-44228']",2022-03-20T00:51Z
+8,cpe:2.3:a:cisco:unified_contact_center_enterprise:4.6\(2\):sr6:*:*:*:*:*:*,Cisco Unified Contact Center Enterprise 4.6(2) SR6,"['CVE-2007-0198', 'CVE-2007-5539', 'CVE-2014-2180', 'CVE-2014-3323', 'CVE-2016-1439', 'CVE-2020-3163', 'CVE-2021-44228']",2022-03-20T00:51Z
+9,cpe:2.3:a:cisco:unified_contact_center_enterprise:4.6.2:*:*:*:*:*:*:*,Cisco Unified Contact Center Enterprise 4.6.2,"['CVE-2007-0198', 'CVE-2007-5539', 'CVE-2014-2180', 'CVE-2014-3323', 'CVE-2016-1439', 'CVE-2020-3163', 'CVE-2021-44228']",2022-03-20T00:51Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avaya:ip_soft_phone:5.2:*:*:*:*:*:*:*,Avaya IP Softphone 5.2,['CVE-2005-0506'],2022-03-19T04:17Z
+1,cpe:2.3:a:avaya:ip_soft_phone:5.2:sp2:*:*:*:*:*:*,Avaya IP Softphone 5.2 SP2,"['CVE-2005-0506', 'CVE-2007-3286']",2022-03-19T04:18Z
+2,cpe:2.3:a:avaya:ip_soft_phone:6.0:*:*:*:*:*:*:*,Avaya IP Softphone 6.0,"['CVE-2005-0506', 'CVE-2007-3286']",2022-03-19T04:18Z
+3,cpe:2.3:a:avaya:ip_soft_phone:6.0:sp4:*:*:*:*:*:*,Avaya IP Softphone 6.0 SP4,"['CVE-2005-0506', 'CVE-2007-3286', 'CVE-2008-6141']",2022-03-19T04:18Z
+4,cpe:2.3:a:avaya:ip_soft_phone:6.01.85:*:*:*:*:*:*:*,Avaya IP Softphone 6.01.85,"['CVE-2005-0506', 'CVE-2008-6141']",2022-03-19T04:18Z
+5,cpe:2.3:a:avaya:ip_softphone:-:*:*:*:*:*:*:*,Avaya IP Softphone,['CVE-2011-1229'],2022-03-19T04:18Z
+6,cpe:2.3:a:avaya:ip600_media_servers:-:*:*:*:*:*:*:*,Avaya IP600 Media Servers,"['CVE-2004-0201', 'CVE-2004-0205', 'CVE-2004-0212', 'CVE-2004-0215', 'CVE-2004-0839', 'CVE-2004-0841', 'CVE-2004-0842', 'CVE-2004-1050', 'CVE-2007-1765']",2022-03-19T04:18Z
+7,cpe:2.3:a:avaya:ip600_media_servers:r10:*:*:*:*:*:*:*,Avaya IP600 Media Servers R10,"['CVE-2004-0201', 'CVE-2004-0205', 'CVE-2004-0212', 'CVE-2004-0215', 'CVE-2004-0839', 'CVE-2004-0841', 'CVE-2004-0842', 'CVE-2004-1050', 'CVE-2007-1765']",2022-03-19T04:18Z
+8,cpe:2.3:a:avaya:iq:5.0:*:*:*:*:*:*:*,Avaya IQ 5.0,"['CVE-2010-2492', 'CVE-2010-2798', 'CVE-2010-2942', 'CVE-2010-2943']",2022-03-19T04:18Z
+9,cpe:2.3:a:avaya:iq:5.1:*:*:*:*:*:*:*,Avaya IQ 5.1,"['CVE-2010-2492', 'CVE-2010-2798', 'CVE-2010-2942', 'CVE-2010-2943']",2022-03-19T04:18Z

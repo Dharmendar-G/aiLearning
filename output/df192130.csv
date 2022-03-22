@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:docker:rabbitmq_docker_image:-:*:*:*:*:*:*:*,Docker RabbitMq Docker Image,['CVE-2020-35196'],2022-03-20T16:35Z
+1,cpe:2.3:a:docker:rabbitmq_docker_image:3.7.12:-:*:*:*:*:*:*,Docker RabbitMq Docker Image 3.7.12,['CVE-2020-35196'],2022-03-20T16:35Z
+2,cpe:2.3:a:docker:registry:2.5:*:*:*:*:*:*:*,Docker Registry 2.5,['CVE-2020-29591'],2022-03-20T16:35Z
+3,cpe:2.3:a:docker:registry:2.5.0:*:*:*:*:*:*:*,Docker Registry 2.5.0,['CVE-2020-29591'],2022-03-20T16:35Z
+4,cpe:2.3:a:docker:registry:2.5.0:rc:*:*:*:*:*:*,Docker Registry 2.5.0 Release Candidate,['CVE-2020-29591'],2022-03-20T16:35Z
+5,cpe:2.3:a:docker:registry:2.5.0:rc2:*:*:*:*:*:*,Docker Registry 2.5.0 Release Candidate 2,['CVE-2020-29591'],2022-03-20T16:35Z
+6,cpe:2.3:a:docker:registry:2.5.1:*:*:*:*:*:*:*,Docker Registry 2.5.1,['CVE-2020-29591'],2022-03-20T16:35Z
+7,cpe:2.3:a:docker:registry:2.6.0:*:*:*:*:*:*:*,Docker Registry 2.6.0,['CVE-2020-29591'],2022-03-20T16:35Z
+8,cpe:2.3:a:docker:registry:2.6.0:rc2:*:*:*:*:*:*,Docker Registry 2.6.0 Release Candidate 2,['CVE-2020-29591'],2022-03-20T16:35Z
+9,cpe:2.3:a:docker:registry:2.6.1:*:*:*:*:*:*:*,Docker Registry 2.6.1,['CVE-2020-29591'],2022-03-20T16:36Z

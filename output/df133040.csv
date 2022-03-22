@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:security_agent:4.5.1.639:*:*:*:*:*:*:*,Cisco Security Agent 4.5.1.639,"['CVE-2006-5553', 'CVE-2007-5580']",2022-03-20T00:00Z
+1,cpe:2.3:a:cisco:security_agent:4.5.1.657:*:*:*:*:*:*:*,Cisco Security Agent 4.5.1 .657,['CVE-2007-5580'],2022-03-20T00:00Z
+2,cpe:2.3:a:cisco:security_agent:4.5.1.659:*:*:*:*:*:*:*,Cisco Security Agent 4.5.1.659,['CVE-2007-5580'],2022-03-20T00:00Z
+3,cpe:2.3:a:cisco:security_agent:5.0:*:*:*:*:*:*:*,Cisco Security Agent 5.0,"['CVE-2006-5553', 'CVE-2007-1064', 'CVE-2007-1065', 'CVE-2007-1066', 'CVE-2007-1067', 'CVE-2007-1068', 'CVE-2007-5580']",2022-03-20T00:00Z
+4,cpe:2.3:a:cisco:security_agent:5.0.0.201:*:*:*:*:*:*:*,Cisco Security Agent 5.0.0.201,['CVE-2007-5580'],2022-03-20T00:00Z
+5,cpe:2.3:a:cisco:security_agent:5.0.193:*:*:*:*:*:*:*,Cisco Security Agent 5.0.193,['CVE-2007-5580'],2022-03-20T00:00Z
+6,cpe:2.3:a:cisco:security_agent:5.1:*:*:*:*:*:*:*,Cisco Security Agent 5.1,"['CVE-2007-1064', 'CVE-2007-1065', 'CVE-2007-1066', 'CVE-2007-1067', 'CVE-2007-1068', 'CVE-2007-5580', 'CVE-2010-0147', 'CVE-2011-0364']",2022-03-20T00:00Z
+7,cpe:2.3:a:cisco:security_agent:5.1.79:*:*:*:*:*:*:*,Cisco Security Agent 5.1.79,['CVE-2007-5580'],2022-03-20T00:00Z
+8,cpe:2.3:a:cisco:security_agent:5.2:*:*:*:*:*:*:*,Cisco Security Agent 5.2,"['CVE-2007-5580', 'CVE-2010-0147', 'CVE-2010-0148', 'CVE-2011-0364']",2022-03-20T00:00Z
+9,cpe:2.3:a:cisco:security_agent:5.2.0.282:*:*:*:*:*:*:*,Cisco Security Agent 5.2.0.282,[''],2022-03-20T00:00Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:jetdirect_610n:-:*:*:*:*:*:*:*,HP jetdirect 610n,[''],2022-03-21T13:50Z
+1,cpe:2.3:h:hp:jetdirect_615n:-:*:*:*:*:*:*:*,HP jetdirect 615n,[''],2022-03-21T13:50Z
+2,cpe:2.3:h:hp:jetdirect_615n_eio:-:*:*:*:*:*:*:*,HP jetdirect eio 615n,[''],2022-03-21T13:50Z
+3,cpe:2.3:h:hp:jetdirect_635n:-:*:*:*:*:*:*:*,HP jetdirect j7961a,['CVE-2005-3670'],2022-03-21T13:50Z
+4,cpe:2.3:h:hp:jetdirect_680n:-:*:*:*:*:*:*:*,HP jetdirect 680n,[''],2022-03-21T13:50Z
+5,cpe:2.3:h:hp:jetdirect_680n_eio:-:*:*:*:*:*:*:*,HP jetdirect eio 680n,[''],2022-03-21T13:50Z
+6,cpe:2.3:h:hp:jetdirect_680n_eio_802.11b:-:*:*:*:*:*:*:*,HP jetdirect eio 680n 802.11b wirless internal print server,[''],2022-03-21T13:50Z
+7,cpe:2.3:h:hp:jf228a:-:*:*:*:*:*:*:*,HP JF228A MSR20-40 Router,[''],2022-03-21T13:50Z
+8,cpe:2.3:h:hp:jf229a:-:*:*:*:*:*:*:*,HP JF229A MSR30-40 Router,[''],2022-03-21T13:50Z
+9,cpe:2.3:h:hp:jf230a:-:*:*:*:*:*:*:*,HP JF230A MSR30-60 Router,[''],2022-03-21T13:50Z

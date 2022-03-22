@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:corel:coreldraw_photo_paint_x8:18.1.0.661:*:*:*:*:*:*:*,Corel CorelDRAW Photo Paint X8 18.1.0.661,"['CVE-2016-8730', 'CVE-2017-2803', 'CVE-2017-2804']",2022-03-20T08:03Z
+1,cpe:2.3:a:corel:coreldraw_visual_basic_for_applications:6.2:*:*:*:*:*:*:*,Corel Coreldraw Visual Basic For Applications 6.2,[''],2022-03-20T08:03Z
+2,cpe:2.3:a:corel:coreldraw_visual_basic_for_applications:x4:*:*:*:*:*:*:*,Corel Coreldraw Visual Basic For Applications X4,[''],2022-03-20T08:03Z
+3,cpe:2.3:a:corel:coreldraw_windows_shell_extension:x4:*:*:*:*:*:*:*,Corel Coreldraw Windows Shell Extension X4,[''],2022-03-20T08:03Z
+4,cpe:2.3:a:corel:fastflick:-:*:*:*:*:*:*:*,Corel FastFlick,"['CVE-2014-8397', 'CVE-2014-8398']",2022-03-20T08:03Z
+5,cpe:2.3:a:corel:fontnav:5.0:*:*:*:*:*:*:*,Corel Fontnav 5.0,[''],2022-03-20T08:03Z
+6,cpe:2.3:a:corel:iconhandler:2.0:*:*:*:*:*:*:*,Corel Iconhandler 2.0,[''],2022-03-20T08:03Z
+7,cpe:2.3:o:corel:linux:-:*:*:*:*:*:*:*,Corel Linux,[''],2022-03-20T08:03Z
+8,cpe:2.3:o:corel:linux:1.0:*:*:*:*:*:*:*,Corel Linux 1.0,"['CVE-2000-0048', 'CVE-2000-0193', 'CVE-2000-0194', 'CVE-2000-0195']",2022-03-20T08:03Z
+9,cpe:2.3:a:corel:paint_shop_photo_album:5.21:*:*:*:*:*:*:*,Corel Paint Shop Photo Album 5.21,[''],2022-03-20T08:03Z

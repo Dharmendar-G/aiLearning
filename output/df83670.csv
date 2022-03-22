@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bolt:bolt_cms:3.1.6:*:*:*:*:*:*:*,Bolt CMS 3.1.6,['CVE-2018-19933'],2022-03-19T09:27Z
+1,cpe:2.3:a:bolt:bolt_cms:3.2.0:*:*:*:*:*:*:*,Bolt CMS 3.2.0,['CVE-2018-19933'],2022-03-19T09:27Z
+2,cpe:2.3:a:bolt:bolt_cms:3.2.1:*:*:*:*:*:*:*,Bolt CMS 3.2.1,['CVE-2018-19933'],2022-03-19T09:27Z
+3,cpe:2.3:a:bolt:bolt_cms:3.2.2:*:*:*:*:*:*:*,Bolt CMS 3.2.2,['CVE-2018-19933'],2022-03-19T09:27Z
+4,cpe:2.3:a:bolt:bolt_cms:3.2.3:*:*:*:*:*:*:*,Bolt CMS 3.2.3,['CVE-2018-19933'],2022-03-19T09:27Z
+5,cpe:2.3:a:bolt:bolt_cms:3.2.4:*:*:*:*:*:*:*,Bolt CMS 3.2.4,['CVE-2018-19933'],2022-03-19T09:27Z
+6,cpe:2.3:a:bolt:bolt_cms:3.2.5:*:*:*:*:*:*:*,Bolt CMS 3.2.5,['CVE-2018-19933'],2022-03-19T09:27Z
+7,cpe:2.3:a:bolt:bolt_cms:3.2.6:*:*:*:*:*:*:*,Bolt CMS 3.2.6,['CVE-2018-19933'],2022-03-19T09:27Z
+8,cpe:2.3:a:bolt:bolt_cms:3.2.7:*:*:*:*:*:*:*,Bolt CMS 3.2.7,['CVE-2018-19933'],2022-03-19T09:27Z
+9,cpe:2.3:a:bolt:bolt_cms:3.2.8:*:*:*:*:*:*:*,Bolt CMS 3.2.8,['CVE-2018-19933'],2022-03-19T09:27Z

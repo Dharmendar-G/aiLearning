@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:heinekingmedia:stashcat:3.10.0:*:*:*:*:iphone_os:*:*,heinekingmedia stashcat 3.10.0 for iPhone OS,[''],2022-03-21T10:36Z
+1,cpe:2.3:a:heinekingmedia:stashcat:3.10.1:*:*:*:*:android:*:*,heinekingmedia stashcat 3.10.1 for Android,[''],2022-03-21T10:37Z
+2,[0],[0],[0],[0]
+3,cpe:2.3:a:heinekingmedia:stashcat:3.10.1:*:*:*:*:macos:*:*,Heinekingmedia Stashcat 3.10.1 for MacOS,[''],2022-03-21T10:37Z
+4,cpe:2.3:a:heinz_mauelshagen:lvm2:2.02.50:*:*:*:*:*:*:*,Heinz Mauelshagen LVM2 2.02.50,['CVE-2010-2526'],2022-03-21T10:37Z
+5,cpe:2.3:a:heinz_mauelshagen:lvm2:2.02.51:*:*:*:*:*:*:*,Heinz Mauelshagen LVM2 2.02.51,['CVE-2010-2526'],2022-03-21T10:37Z
+6,cpe:2.3:a:heinz_mauelshagen:lvm2:2.02.52:*:*:*:*:*:*:*,Heinz Mauelshagen LVM2 2.02.52,['CVE-2010-2526'],2022-03-21T10:37Z
+7,cpe:2.3:a:heinz_mauelshagen:lvm2:2.02.53:*:*:*:*:*:*:*,Heinz Mauelshagen LVM2 2.02.53,['CVE-2010-2526'],2022-03-21T10:37Z
+8,cpe:2.3:a:heinz_mauelshagen:lvm2:2.02.54:*:*:*:*:*:*:*,Heinz Mauelshagen LVM2 2.02.54,['CVE-2010-2526'],2022-03-21T10:37Z
+9,cpe:2.3:a:heinz_mauelshagen:lvm2:2.02.55:*:*:*:*:*:*:*,Heinz Mauelshagen LVM2 2.02.55,['CVE-2010-2526'],2022-03-21T10:37Z

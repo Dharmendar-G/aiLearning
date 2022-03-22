@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bludit:bludit:0.4:beta1:*:*:*:*:*:*,Bludit Bludit 0.4 Beta1,"['CVE-2019-12548', 'CVE-2019-12742', 'CVE-2021-45744', 'CVE-2021-45745']",2022-03-19T08:48Z
+1,cpe:2.3:a:bludit:bludit:0.5:*:*:*:*:*:*:*,Bludit Bludit 0.5,"['CVE-2019-12548', 'CVE-2019-12742', 'CVE-2021-45744', 'CVE-2021-45745']",2022-03-19T08:48Z
+2,cpe:2.3:a:bludit:bludit:0.6:beta1:*:*:*:*:*:*,Bludit Bludit 0.6 Beta1,"['CVE-2019-12548', 'CVE-2019-12742', 'CVE-2021-45744', 'CVE-2021-45745']",2022-03-19T08:48Z
+3,cpe:2.3:a:bludit:bludit:0.6:beta2:*:*:*:*:*:*,Bludit Bludit 0.6 Beta2,"['CVE-2019-12548', 'CVE-2019-12742', 'CVE-2021-45744', 'CVE-2021-45745']",2022-03-19T08:48Z
+4,cpe:2.3:a:bludit:bludit:0.6.1:*:*:*:*:*:*:*,Bludit Bludit 0.6.1,"['CVE-2019-12548', 'CVE-2019-12742', 'CVE-2021-45744', 'CVE-2021-45745']",2022-03-19T08:48Z
+5,cpe:2.3:a:bludit:bludit:0.6.2:*:*:*:*:*:*:*,Bludit Bludit 0.6.2,"['CVE-2019-12548', 'CVE-2019-12742', 'CVE-2021-45744', 'CVE-2021-45745']",2022-03-19T08:48Z
+6,cpe:2.3:a:bludit:bludit:0.7:-:*:*:*:*:*:*,Bludit Bludit 0.7,"['CVE-2019-12548', 'CVE-2019-12742', 'CVE-2021-45744', 'CVE-2021-45745']",2022-03-19T08:48Z
+7,cpe:2.3:a:bludit:bludit:0.7:beta1:*:*:*:*:*:*,Bludit Bludit 0.7 Beta1,"['CVE-2019-12548', 'CVE-2019-12742', 'CVE-2021-45744', 'CVE-2021-45745']",2022-03-19T08:48Z
+8,cpe:2.3:a:bludit:bludit:0.7.1:*:*:*:*:*:*:*,Bludit Bludit 0.7.1,"['CVE-2019-12548', 'CVE-2019-12742', 'CVE-2021-45744', 'CVE-2021-45745']",2022-03-19T08:48Z
+9,cpe:2.3:a:bludit:bludit:0.7.2:*:*:*:*:*:*:*,Bludit Bludit 0.7.2,"['CVE-2019-12548', 'CVE-2019-12742', 'CVE-2021-45744', 'CVE-2021-45745']",2022-03-19T08:49Z

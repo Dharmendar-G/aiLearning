@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:small_business_220_series_smart_plus_switches:1.0.0.17:*:*:*:*:*:*:*,Cisco Small Business 220 Series Smart Plus Switches 1.0.0.17,"['CVE-2016-1470', 'CVE-2016-1471', 'CVE-2016-1472', 'CVE-2016-1473']",2022-03-20T00:19Z
+1,cpe:2.3:a:cisco:small_business_220_series_smart_plus_switches:1.0.0.18:*:*:*:*:*:*:*,Cisco Small Business 220 Series Smart Plus Switches 1.0.0.18,"['CVE-2016-1470', 'CVE-2016-1471', 'CVE-2016-1472', 'CVE-2016-1473']",2022-03-20T00:19Z
+2,cpe:2.3:a:cisco:small_business_220_series_smart_plus_switches:1.0.0.19:*:*:*:*:*:*:*,Cisco Small Business 220 Series Smart Plus Switches 1.0.0.19,"['CVE-2016-1470', 'CVE-2016-1471', 'CVE-2016-1472', 'CVE-2016-1473']",2022-03-20T00:19Z
+3,cpe:2.3:o:cisco:small_business_500_series_stackable_managed_switches_firmware:2.2.5.68:*:*:*:*:*:*:*,Cisco Small Business 500 Series Stackable Managed Switches Firmware 2.2.5.68,['CVE-2018-0209'],2022-03-20T00:19Z
+4,cpe:2.3:o:cisco:small_business_500_series_stackable_managed_switches_firmware:2.3.0.130:*:*:*:*:*:*:*,Cisco Small Business 500 Series Stackable Managed Switches Firmware 2.3.0.130,['CVE-2018-0209'],2022-03-20T00:19Z
+5,cpe:2.3:h:cisco:small_business_ip_phone:spa510:*:*:*:*:*:*:*,Cisco Small Business IP Phone Service Pack A510,['CVE-2017-12259'],2022-03-20T00:19Z
+6,cpe:2.3:h:cisco:small_business_ip_phone:spa525g:*:*:*:*:*:*:*,Cisco Small Business IP Phone SPA525G,['CVE-2012-0333'],2022-03-20T00:19Z
+7,cpe:2.3:h:cisco:small_business_ip_phone:spa525g2:*:*:*:*:*:*:*,Cisco Small Business IP Phone SPA525G2,['CVE-2012-0333'],2022-03-20T00:19Z
+8,cpe:2.3:a:cisco:small_business_ip_phone_firmware:7.1.7:*:*:*:*:*:*:*,Cisco Small Business IP Phone Firmware 7.1.7,['CVE-2012-0333'],2022-03-20T00:19Z
+9,cpe:2.3:a:cisco:small_business_ip_phone_firmware:7.2.5:*:*:*:*:*:*:*,Cisco Small Business IP Phone Firmware 7.2.5,['CVE-2012-0333'],2022-03-20T00:19Z

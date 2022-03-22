@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:airsonic_project:airsonic:10.1.0:*:*:*:*:*:*:*,Airsonic Project Airsonic 10.1.0,['CVE-2018-20222'],2022-03-18T13:57Z
+1,cpe:2.3:a:airsonic_project:airsonic:10.1.1:*:*:*:*:*:*:*,Airsonic Project Airsonic 10.1.1,['CVE-2018-20222'],2022-03-18T13:57Z
+2,cpe:2.3:a:airsonic_project:airsonic:10.1.2:*:*:*:*:*:*:*,Airsonic Project Airsonic 10.1.2,[''],2022-03-18T13:57Z
+3,cpe:2.3:a:airsonic_project:airsonic:10.2.0:*:*:*:*:*:*:*,Airsonic Project Airsonic 10.2.0,[''],2022-03-18T13:57Z
+4,cpe:2.3:a:airsonic_project:airsonic:10.2.1:*:*:*:*:*:*:*,Airsonic Project Airsonic 10.2.1,"['CVE-2019-10907', 'CVE-2019-10908']",2022-03-18T13:57Z
+5,cpe:2.3:a:airswaptoken_project:airswaptoken:-:*:*:*:*:*:*:*,AirSwapToken Project AirSwapToken,['CVE-2018-13203'],2022-03-18T13:57Z
+6,cpe:2.3:h:airtame:hdmi_dongle:-:*:*:*:*:*:*:*,Airtame HDMI Dongle,"['CVE-2017-15304', 'CVE-2017-7450']",2022-03-18T13:57Z
+7,cpe:2.3:o:airtame:hdmi_dongle_firmware:-:*:*:*:*:*:*:*,Airtame HDMI Dongle Firmware,['CVE-2017-7450'],2022-03-18T13:57Z
+8,cpe:2.3:o:airtame:hdmi_dongle_firmware:2.1.1:*:*:*:*:*:*:*,Airtame HDMI Dongle Firmware 2.1.1,['CVE-2017-7450'],2022-03-18T13:57Z
+9,cpe:2.3:o:airtame:hdmi_dongle_firmware:2.3.3:b1:*:*:*:*:*:*,Airtame HDMI Dongle Firmware 2.3.3 B1,['CVE-2017-15304'],2022-03-18T13:57Z

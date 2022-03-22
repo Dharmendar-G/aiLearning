@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ceph:ceph-ansible:4.0.34:*:*:*:*:*:*:*,Ceph ceph-ansible 4.0.34,['CVE-2020-1716'],2022-03-19T16:07Z
+1,cpe:2.3:a:ceph:ceph-ansible:4.0.34.1:*:*:*:*:*:*:*,Ceph ceph-ansible 4.0.34.1,['CVE-2020-1716'],2022-03-19T16:07Z
+2,cpe:2.3:a:ceph:ceph-ansible:4.0.34.2:*:*:*:*:*:*:*,Ceph ceph-ansible 4.0.34.2,['CVE-2020-1716'],2022-03-19T16:07Z
+3,cpe:2.3:a:ceph:ceph-ansible:4.0.35:*:*:*:*:*:*:*,Ceph ceph-ansible 4.0.35,['CVE-2020-1716'],2022-03-19T16:07Z
+4,cpe:2.3:a:ceph:ceph-ansible:4.0.36:*:*:*:*:*:*:*,Ceph ceph-ansible 4.0.36,['CVE-2020-1716'],2022-03-19T16:07Z
+5,cpe:2.3:a:ceph:ceph-ansible:4.0.37:*:*:*:*:*:*:*,Ceph ceph-ansible 4.0.37,['CVE-2020-1716'],2022-03-19T16:07Z
+6,cpe:2.3:a:ceph:ceph-ansible:4.0.38:*:*:*:*:*:*:*,Ceph ceph-ansible 4.0.38,['CVE-2020-1716'],2022-03-19T16:07Z
+7,cpe:2.3:a:ceph:ceph-ansible:4.0.39:*:*:*:*:*:*:*,Ceph ceph-ansible 4.0.39,['CVE-2020-1716'],2022-03-19T16:07Z
+8,cpe:2.3:a:ceph:ceph-ansible:4.0.40:*:*:*:*:*:*:*,Ceph ceph-ansible 4.0.40,['CVE-2020-1716'],2022-03-19T16:07Z
+9,cpe:2.3:a:ceph:ceph-ansible:4.0.41:*:*:*:*:*:*:*,Ceph ceph-ansible 4.0.41,"['CVE-2020-1716', 'CVE-2020-25677']",2022-03-19T16:07Z

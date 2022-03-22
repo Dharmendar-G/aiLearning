@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:cgr1240:-:*:*:*:*:*:*:*,Cisco CGR1240,['CVE-2019-12648'],2022-03-19T19:10Z
+1,cpe:2.3:h:cisco:cisco_meeting_server_2000:-:*:*:*:*:*:*:*,Cisco Cisco Meeting Server 2000,[''],2022-03-19T19:10Z
+2,cpe:2.3:o:cisco:cisco_meeting_server_2000_firmware:2.2.5:*:*:*:*:*:*:*,Cisco Meeting Server 2000 Firmware 2.2.5,[''],2022-03-19T19:10Z
+3,cpe:2.3:a:cisco:cisco_nexus_1000v_intercloud:5.2\(1\)ic1\(1.2\):*:*:*:*:vmware:*:*,Cisco Nexus 1000V InterCloud 5.2(1)IC1(1.2) for VMware,['CVE-2014-0685'],2022-03-19T19:10Z
+4,cpe:2.3:o:cisco:cisco_ons_15454_system_software:9.0:*:*:*:*:*:*:*,Cisco ONS 15454 System Software 9.0,"['CVE-2013-6701', 'CVE-2014-2139', 'CVE-2014-2140', 'CVE-2014-2141', 'CVE-2014-2142']",2022-03-19T19:10Z
+5,cpe:2.3:o:cisco:cisco_ons_15454_system_software:9.1:*:*:*:*:*:*:*,Cisco ONS 15454 System Software 9.1,"['CVE-2013-6701', 'CVE-2014-2139', 'CVE-2014-2140', 'CVE-2014-2141', 'CVE-2014-2142']",2022-03-19T19:10Z
+6,cpe:2.3:o:cisco:cisco_ons_15454_system_software:9.2:*:*:*:*:*:*:*,Cisco ONS 15454 System Software 9.2,"['CVE-2013-6701', 'CVE-2014-2139', 'CVE-2014-2140', 'CVE-2014-2141', 'CVE-2014-2142']",2022-03-19T19:10Z
+7,cpe:2.3:o:cisco:cisco_ons_15454_system_software:9.2.1:*:*:*:*:*:*:*,Cisco ONS 15454 System Software 9.2.1,"['CVE-2013-6701', 'CVE-2014-2139', 'CVE-2014-2140', 'CVE-2014-2141', 'CVE-2014-2142']",2022-03-19T19:10Z
+8,cpe:2.3:o:cisco:cisco_ons_15454_system_software:9.2.2:*:*:*:*:*:*:*,Cisco ONS 15454 System Software 9.2.2,"['CVE-2013-6701', 'CVE-2014-2139', 'CVE-2014-2140', 'CVE-2014-2141', 'CVE-2014-2142']",2022-03-19T19:10Z
+9,cpe:2.3:o:cisco:cisco_ons_15454_system_software:9.3:*:*:*:*:*:*:*,Cisco ONS 15454 System Software 9.3,"['CVE-2013-6701', 'CVE-2014-2139', 'CVE-2014-2140', 'CVE-2014-2141', 'CVE-2014-2142']",2022-03-19T19:10Z

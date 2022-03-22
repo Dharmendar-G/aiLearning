@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:media_player:1.5:*:*:*:*:*:*:*,Adobe Media Player 1.5,[''],2022-03-18T12:45Z
+1,cpe:2.3:a:adobe:media_player:1.8:*:*:*:*:*:*:*,Adobe Media Player 1.8,[''],2022-03-18T12:45Z
+2,cpe:2.3:a:adobe:medium:-:*:*:*:*:*:*:*,Adobe Medium,['CVE-2021-28580'],2022-03-18T12:45Z
+3,cpe:2.3:a:adobe:medium:2.4.5.331:*:*:*:*:*:*:*,Adobe Medium 2.4.5.331,['CVE-2021-28580'],2022-03-18T12:45Z
+4,cpe:2.3:a:adobe:medium:2.4.5.332:*:*:*:*:*:*:*,Adobe Medium 2.4.5.332,[''],2022-03-18T12:45Z
+5,cpe:2.3:a:adobe:motionpicture_color_files:1.0:*:*:*:*:*:*:*,Adobe Motionpicture Color Files 1.0,[''],2022-03-18T12:45Z
+6,cpe:2.3:a:adobe:onlocation_cs3:3.0:*:*:*:*:*:*:*,Adobe Onlocation CS3 3.0,[''],2022-03-18T12:45Z
+7,cpe:2.3:a:adobe:onlocation_cs4:4.0.1:*:*:*:*:*:*:*,Adobe Onlocation CS4 4.0.1,['CVE-2010-3151'],2022-03-18T12:45Z
+8,cpe:2.3:a:adobe:onlocation_cs4:4.0.2:*:*:*:*:*:*:*,Adobe Onlocation CS4 4.0.2,['CVE-2010-3151'],2022-03-18T12:45Z
+9,cpe:2.3:a:adobe:onlocation_cs4:4.0.3:*:*:*:*:*:*:*,Adobe Onlocation CS4 4.0.3,['CVE-2010-3151'],2022-03-18T12:45Z

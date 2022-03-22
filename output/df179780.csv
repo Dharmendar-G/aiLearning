@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:inspiron_3511_firmware:1.8.0:*:*:*:*:*:*:*,Dell Inspiron 3511 Firmware 1.8.0,[''],2022-03-20T12:37Z
+1,cpe:2.3:h:dell:inspiron_3558:-:*:*:*:*:*:*:*,Dell Inspiron 3558 -,['CVE-2019-3717'],2022-03-20T12:37Z
+2,cpe:2.3:o:dell:inspiron_3558_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 3558 Firmware,['CVE-2019-3717'],2022-03-20T12:37Z
+3,cpe:2.3:o:dell:inspiron_3558_firmware:a18:*:*:*:*:*:*:*,Dell Inspiron 3558 Firmware A18,[''],2022-03-20T12:37Z
+4,cpe:2.3:o:dell:inspiron_3559_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 3559 Firmware,['CVE-2019-3717'],2022-03-20T12:37Z
+5,cpe:2.3:o:dell:inspiron_3559_firmware:1.9.0:*:*:*:*:*:*:*,Dell Inspiron 3559 Firmware 1.9.0,[''],2022-03-20T12:37Z
+6,cpe:2.3:o:dell:inspiron_3567_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 3567 Firmware,['CVE-2019-3717'],2022-03-20T12:37Z
+7,cpe:2.3:o:dell:inspiron_3567_firmware:2.9.0:*:*:*:*:*:*:*,Dell Inspiron 3567 Firmware 2.9.0,[''],2022-03-20T12:37Z
+8,cpe:2.3:o:dell:inspiron_3568_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 3568 Firmware,['CVE-2019-3717'],2022-03-20T12:37Z
+9,cpe:2.3:o:dell:inspiron_3568_firmware:1.12.0:*:*:*:*:*:*:*,Dell Inspiron 3568 Firmware 1.12.0,[''],2022-03-20T12:37Z

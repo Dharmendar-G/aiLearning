@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:clamscan_project:clamscan:1.0.1:*:*:*:*:*:*:*,Clamscan Project Clamscan 1.0.1,['CVE-2020-7613'],2022-03-20T02:08Z
+1,cpe:2.3:a:clamscan_project:clamscan:1.0.2:*:*:*:*:*:*:*,Clamscan Project Clamscan 1.0.2,['CVE-2020-7613'],2022-03-20T02:08Z
+2,cpe:2.3:a:clamscan_project:clamscan:1.0.3:*:*:*:*:*:*:*,Clamscan Project Clamscan 1.0.3,['CVE-2020-7613'],2022-03-20T02:08Z
+3,cpe:2.3:a:clamscan_project:clamscan:1.0.4:*:*:*:*:*:*:*,Clamscan Project Clamscan 1.0.4,['CVE-2020-7613'],2022-03-20T02:08Z
+4,cpe:2.3:a:clamscan_project:clamscan:1.0.5:*:*:*:*:*:*:*,Clamscan Project Clamscan 1.0.5,['CVE-2020-7613'],2022-03-20T02:08Z
+5,cpe:2.3:a:clamscan_project:clamscan:1.1.0:*:*:*:*:*:*:*,Clamscan Project Clamscan 1.1.0,['CVE-2020-7613'],2022-03-20T02:08Z
+6,cpe:2.3:a:clamscan_project:clamscan:1.2.0:*:*:*:*:*:*:*,Clamscan Project Clamscan 1.2.0,['CVE-2020-7613'],2022-03-20T02:08Z
+7,cpe:2.3:a:clamxav:clamxav:3.0.0:*:*:*:*:*:*:*,ClamXAV 3.0.0,['CVE-2020-26893'],2022-03-20T02:08Z
+8,cpe:2.3:a:clamxav:clamxav:3.0.1:*:*:*:*:*:*:*,ClamXAV 3.0.1,['CVE-2020-26893'],2022-03-20T02:08Z
+9,cpe:2.3:a:clamxav:clamxav:3.0.2:*:*:*:*:*:*:*,ClamXAV 3.0.2,['CVE-2020-26893'],2022-03-20T02:08Z

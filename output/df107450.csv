@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chainsafe:ethermint:0.2.0:*:*:*:*:*:*:*,ChainSafe Ethermint 0.2.0,"['CVE-2021-25834', 'CVE-2021-25835', 'CVE-2021-25836', 'CVE-2021-25837']",2022-03-19T16:28Z
+1,cpe:2.3:a:chainsafe:ethermint:0.2.1:*:*:*:*:*:*:*,ChainSafe Ethermint 0.2.1,"['CVE-2021-25834', 'CVE-2021-25835', 'CVE-2021-25836', 'CVE-2021-25837']",2022-03-19T16:28Z
+2,cpe:2.3:a:chainsafe:ethermint:0.3.0:*:*:*:*:*:*:*,ChainSafe Ethermint 0.3.0,"['CVE-2021-25834', 'CVE-2021-25835', 'CVE-2021-25836', 'CVE-2021-25837']",2022-03-19T16:28Z
+3,cpe:2.3:a:chainsafe:ethermint:0.3.1:*:*:*:*:*:*:*,ChainSafe Ethermint 0.3.1,"['CVE-2021-25834', 'CVE-2021-25835', 'CVE-2021-25836', 'CVE-2021-25837']",2022-03-19T16:28Z
+4,cpe:2.3:a:chainsafe:ethermint:0.4.0:*:*:*:*:*:*:*,ChainSafe Ethermint 0.4.0,"['CVE-2021-25834', 'CVE-2021-25835', 'CVE-2021-25836', 'CVE-2021-25837']",2022-03-19T16:28Z
+5,cpe:2.3:a:chama:memocgi:1.1:*:*:*:*:*:*:*,ChamaNet MemoCGI 1.1,[''],2022-03-19T16:28Z
+6,cpe:2.3:a:chama:memocgi:2.0:*:*:*:*:*:*:*,ChamaNet MemoCGI 2.0,[''],2022-03-19T16:28Z
+7,cpe:2.3:a:chama:memocgi:2.1:*:*:*:*:*:*:*,ChamaNet MemoCGI 2.1,[''],2022-03-19T16:28Z
+8,cpe:2.3:a:chama:memocgi:2.02:*:*:*:*:*:*:*,ChamaNet MemoCGI 2.02,[''],2022-03-19T16:28Z
+9,cpe:2.3:a:chama:memocgi:2.03:*:*:*:*:*:*:*,ChamaNet MemoCGI 2.03,[''],2022-03-19T16:28Z

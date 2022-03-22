@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hikvision:ds-2cd3526g2-is_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD3526G2-IS Firmware,['CVE-2021-36260'],2022-03-21T11:10Z
+1,cpe:2.3:h:hikvision:ds-2cd3543g2-is:-:*:*:*:*:*:*:*,Hikvision DS-2CD3543G2-IS,['CVE-2021-36260'],2022-03-21T11:10Z
+2,cpe:2.3:o:hikvision:ds-2cd3543g2-is_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD3543G2-IS Firmware,['CVE-2021-36260'],2022-03-21T11:10Z
+3,cpe:2.3:h:hikvision:ds-2cd3547g2-ls:-:*:*:*:*:*:*:*,Hikvision DS-2CD3547G2-LS,['CVE-2021-36260'],2022-03-21T11:10Z
+4,cpe:2.3:o:hikvision:ds-2cd3547g2-ls_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD3547G2-LS Firmware,['CVE-2021-36260'],2022-03-21T11:10Z
+5,cpe:2.3:h:hikvision:ds-2cd3556g2-is:-:*:*:*:*:*:*:*,Hikvision DS-2CD3556G2-IS,['CVE-2021-36260'],2022-03-21T11:10Z
+6,cpe:2.3:o:hikvision:ds-2cd3556g2-is_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD3556G2-IS Firmware,['CVE-2021-36260'],2022-03-21T11:10Z
+7,cpe:2.3:h:hikvision:ds-2cd3563g2-is:-:*:*:*:*:*:*:*,Hikvision DS-2CD3563G2-IS,['CVE-2021-36260'],2022-03-21T11:10Z
+8,cpe:2.3:o:hikvision:ds-2cd3563g2-is_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD3563G2-IS Firmware,['CVE-2021-36260'],2022-03-21T11:10Z
+9,cpe:2.3:h:hikvision:ds-2cd3586g2-is:-:*:*:*:*:*:*:*,Hikvision DS-2CD3586G2-IS,['CVE-2021-36260'],2022-03-21T11:10Z

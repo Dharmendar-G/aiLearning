@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:check_mk_project:check_mk:1.2.4:p5:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.4p5,"['CVE-2014-0243', 'CVE-2014-5338', 'CVE-2014-5339', 'CVE-2014-5340']",2022-03-19T16:41Z
+1,cpe:2.3:a:check_mk_project:check_mk:1.2.5:i1:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.5i1,"['CVE-2014-0243', 'CVE-2014-5338', 'CVE-2014-5339', 'CVE-2014-5340']",2022-03-19T16:41Z
+2,cpe:2.3:a:check_mk_project:check_mk:1.2.5:i2:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.5i2,"['CVE-2014-0243', 'CVE-2014-5338', 'CVE-2014-5339', 'CVE-2014-5340']",2022-03-19T16:41Z
+3,cpe:2.3:a:check_mk_project:check_mk:1.2.5:i2p1:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.5 i2p1,['CVE-2014-0243'],2022-03-19T16:41Z
+4,cpe:2.3:a:check_mk_project:check_mk:1.2.5:i3:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.5i3,"['CVE-2014-0243', 'CVE-2014-5338', 'CVE-2014-5339', 'CVE-2014-5340']",2022-03-19T16:41Z
+5,cpe:2.3:a:check_mk_project:check_mk:1.2.5:i4:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.5i4,['CVE-2014-0243'],2022-03-19T16:41Z
+6,cpe:2.3:a:check_mk_project:check_mk:1.2.5:i4p1:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.5 i4p1,['CVE-2014-0243'],2022-03-19T16:41Z
+7,cpe:2.3:a:check_mk_project:check_mk:1.2.5:i4p2:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.5 i4p2,['CVE-2014-0243'],2022-03-19T16:41Z
+8,cpe:2.3:a:check_mk_project:check_mk:1.2.5:i5:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.5i5,['CVE-2014-0243'],2022-03-19T16:41Z
+9,cpe:2.3:a:check_mk_project:check_mk:1.2.5:i5p1:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.5i5p1,['CVE-2014-0243'],2022-03-19T16:41Z

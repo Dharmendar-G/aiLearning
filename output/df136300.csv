@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:ucs-e140s_firmware:3.2\(11.5\):*:*:*:*:*:*:*,Cisco UCS-E140S FIRMWARE 3.2(11.5),['CVE-2021-1397'],2022-03-20T00:41Z
+1,cpe:2.3:h:cisco:ucs-e140s-k9:-:*:*:*:*:*:*:*,Cisco UCS-E140S-K9,['CVE-2018-0362'],2022-03-20T00:41Z
+2,cpe:2.3:o:cisco:ucs-e140s-k9_firmware:3.2\(3\):*:*:*:*:*:*:*,Cisco UCS E140S-K9 FIRMWARE 3.2(3),['CVE-2018-0362'],2022-03-20T00:41Z
+3,cpe:2.3:h:cisco:ucs-e140s-m1:-:*:*:*:*:*:*:*,Cisco UCS-E140S-M1,"['CVE-2018-0362', 'CVE-2021-1397']",2022-03-20T00:41Z
+4,cpe:2.3:o:cisco:ucs-e140s-m1_firmware:-:*:*:*:*:*:*:*,Cisco UCS-E140S-M1 FIRMWARE,['CVE-2021-1397'],2022-03-20T00:41Z
+5,cpe:2.3:o:cisco:ucs-e140s-m1_firmware:3.2\(3\):*:*:*:*:*:*:*,Cisco UCS E140S-M1 FIRMWARE 3.2(3),"['CVE-2018-0362', 'CVE-2021-1397']",2022-03-20T00:41Z
+6,cpe:2.3:o:cisco:ucs-e140s-m1_firmware:3.2\(11.5\):*:*:*:*:*:*:*,Cisco UCS-E140S-M1 FIRMWARE 3.2(11.5),['CVE-2021-1397'],2022-03-20T00:41Z
+7,cpe:2.3:h:cisco:ucs-e140s-m2:-:*:*:*:*:*:*:*,Cisco UCS-E140S-M2,"['CVE-2018-0362', 'CVE-2019-1634', 'CVE-2019-1850', 'CVE-2019-1863', 'CVE-2019-1864', 'CVE-2019-1865', 'CVE-2019-1871', 'CVE-2019-1883', 'CVE-2019-1896', 'CVE-2019-1950', 'CVE-2021-1397']",2022-03-20T00:41Z
+8,cpe:2.3:o:cisco:ucs-e140s-m2_firmware:-:*:*:*:*:*:*:*,Cisco UCS-E140S-M2 FIRMWARE,['CVE-2021-1397'],2022-03-20T00:41Z
+9,cpe:2.3:o:cisco:ucs-e140s-m2_firmware:3.2\(3\):*:*:*:*:*:*:*,Cisco UCS E140S-M2 FIRMWARE 3.2(3),"['CVE-2018-0362', 'CVE-2021-1397']",2022-03-20T00:41Z

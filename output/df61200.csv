@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:auth0:auth0.net:1.11.1:*:*:*:*:*:*:*,Auth0 auth0.net 1.11.1,[''],2022-03-19T03:00Z
+1,cpe:2.3:a:auth0:auth0.net:1.11.2:*:*:*:*:*:*:*,Auth0 auth0.net 1.11.2,[''],2022-03-19T03:00Z
+2,cpe:2.3:a:auth0:auth0.net:1.11.3:*:*:*:*:*:*:*,Auth0 auth0.net 1.11.3,[''],2022-03-19T03:00Z
+3,[0],[0],[0],[0]
+4,cpe:2.3:a:auth0:auth0.net:5.8.0:*:*:*:*:*:*:*,Auth0 auth0.net 5.8.0,['CVE-2019-16929'],2022-03-19T03:00Z
+5,cpe:2.3:a:auth0:auth0.net:5.10.0:*:*:*:*:*:*:*,Auth0 auth0.net 5.10.0,['CVE-2019-16929'],2022-03-19T03:00Z
+6,cpe:2.3:a:auth0:auth0.net:5.11.0:*:*:*:*:*:*:*,Auth0 auth0.net 5.11.0,['CVE-2019-16929'],2022-03-19T03:00Z
+7,cpe:2.3:a:auth0:auth0.net:6.0.0:*:*:*:*:*:*:*,Auth0 auth0.net 6.0.0,['CVE-2019-16929'],2022-03-19T03:00Z
+8,cpe:2.3:a:auth0:auth0.net:6.1.0:*:*:*:*:*:*:*,Auth0 auth0.net 6.1.0,['CVE-2019-16929'],2022-03-19T03:00Z
+9,cpe:2.3:a:auth0:auth0.net:6.2.0:*:*:*:*:*:*:*,Auth0 auth0.net 6.2.0,['CVE-2019-16929'],2022-03-19T03:00Z

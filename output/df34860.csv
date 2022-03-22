@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:openmeetings:4.0.11:*:*:*:*:*:*:*,Apache OpenMeetings 4.0.11,"['CVE-2020-13951', 'CVE-2021-27576']",2022-03-18T19:43Z
+1,cpe:2.3:a:apache:openmeetings:5.0.0:*:*:*:*:*:*:*,Apache OpenMeetings 5.0.0,"['CVE-2020-13951', 'CVE-2021-27576']",2022-03-18T19:43Z
+2,cpe:2.3:a:apache:openmeetings:5.0.1:*:*:*:*:*:*:*,Apache OpenMeetings 5.0.1,['CVE-2021-27576'],2022-03-18T19:43Z
+3,cpe:2.3:a:apache:openmeetings:6.0.0:*:*:*:*:*:*:*,Apache Software Foundation OpenMeetings 6.0.0,[''],2022-03-18T19:43Z
+4,cpe:2.3:a:apache:opennlp:1.5.0:*:*:*:*:*:*:*,Apache Software Foundation OpenNLP 1.5.0,['CVE-2017-12620'],2022-03-18T19:43Z
+5,cpe:2.3:a:apache:opennlp:1.5.1:*:*:*:*:*:*:*,Apache Software Foundation OpenNLP 1.5.1,['CVE-2017-12620'],2022-03-18T19:43Z
+6,cpe:2.3:a:apache:opennlp:1.5.2:*:*:*:*:*:*:*,Apache Software Foundation OpenNLP 1.5.2,['CVE-2017-12620'],2022-03-18T19:43Z
+7,cpe:2.3:a:apache:opennlp:1.5.3:*:*:*:*:*:*:*,Apache Software Foundation OpenNLP 1.5.3,['CVE-2017-12620'],2022-03-18T19:43Z
+8,cpe:2.3:a:apache:opennlp:1.6.0:*:*:*:*:*:*:*,Apache Software Foundation OpenNLP 1.6.0,['CVE-2017-12620'],2022-03-18T19:43Z
+9,cpe:2.3:a:apache:opennlp:1.7.0:*:*:*:*:*:*:*,Apache Software Foundation OpenNLP 1.7.0,['CVE-2017-12620'],2022-03-18T19:43Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dlink:dir-3060:-:*:*:*:*:*:*:*,D-Link DIR-3060,['CVE-2021-28144'],2022-03-20T15:47Z
+1,cpe:2.3:o:dlink:dir-330_firmware:1.12:*:*:*:*:*:*:*,D-Link DIR-330 Firmware 1.12,[''],2022-03-20T15:47Z
+2,cpe:2.3:h:dlink:dir-412:-:*:*:*:*:*:*:*,D-Link DIR-412 -,"['CVE-2019-17511', 'CVE-2019-17512']",2022-03-20T15:47Z
+3,cpe:2.3:o:dlink:dir-412_firmware:a1-1.14w:*:*:*:*:*:*:*,Dlink Dir-412 Firmware A1-1.14w,[''],2022-03-20T15:47Z
+4,cpe:2.3:o:dlink:dir-412_firmware:a1-1.14ww:*:*:*:*:*:*:*,D-Link DIR-412 Firmware A1-1.14WW,"['CVE-2019-17511', 'CVE-2019-17512']",2022-03-20T15:47Z
+5,cpe:2.3:o:dlink:dir-550a_firmware:2.10kr:*:*:*:*:*:*:*,D-Link DIR-550A Firmware 2.10KR,[''],2022-03-20T15:47Z
+6,cpe:2.3:h:dlink:dir-600:-:*:*:*:*:*:*:*,D-Link DIR-600,['CVE-2013-7471'],2022-03-20T15:47Z
+7,cpe:2.3:h:dlink:dir-600_b1:-:*:*:*:*:*:*:*,Dlink DIR-600 B1,['CVE-2019-18852'],2022-03-20T15:47Z
+8,cpe:2.3:o:dlink:dir-600_b1_firmware:2.01:*:*:*:*:*:*:*,Dlink DIR-600 B1 Firmware 2.01,['CVE-2019-18852'],2022-03-20T15:47Z
+9,cpe:2.3:o:dlink:dir-600_firmware:2.17b01:*:*:*:*:*:*:*,D-Link DIR-600 Firmware 2.17B01,[''],2022-03-20T15:47Z

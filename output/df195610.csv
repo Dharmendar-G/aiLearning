@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dradisframework:dradis:2.9.0:*:*:*:community:*:*:*,Dradis Framework Dradis 2.9.0 Community Edition,['CVE-2019-5925'],2022-03-20T17:44Z
+1,cpe:2.3:a:dradisframework:dradis:2.9.0:*:*:*:professional:*:*:*,Dradis Framework Dradis 2.9.0 Professional Edition,['CVE-2019-5925'],2022-03-20T17:44Z
+2,cpe:2.3:a:dradisframework:dradis:3.0.0:*:*:*:community:*:*:*,Dradis Framework Dradis 3.0.0 Community Edition,['CVE-2019-5925'],2022-03-20T17:44Z
+3,cpe:2.3:a:dradisframework:dradis:3.1.1:*:*:*:professional:*:*:*,Dradis Framework Dradis 3.1.1 Professional Edition,['CVE-2019-5925'],2022-03-20T17:44Z
+4,cpe:2.3:a:dradisframework:dradis:3.1.2:*:*:*:professional:*:*:*,Dradis Framework Dradis 3.1.2 Professional Edition,[''],2022-03-20T17:44Z
+5,cpe:2.3:a:dradisframework:dradis:3.4.1:*:*:*:professional:*:*:*,Dradis Framework Dradis 3.4.1 Professional Edition,['CVE-2019-19946'],2022-03-20T17:44Z
+6,cpe:2.3:a:dradisframework:dradis:3.6.0:*:*:*:community:*:*:*,Dradis Framework Dradis 3.6.0 Community Edition,['CVE-2019-5925'],2022-03-20T17:44Z
+7,cpe:2.3:a:dradisframework:dradis:3.10.0:*:*:*:community:*:*:*,Dradis Framework Dradis 3.10.0 Community Edition,['CVE-2019-5925'],2022-03-20T17:44Z
+8,cpe:2.3:a:dradisframework:dradis:3.11:*:*:*:community:*:*:*,Dradis Framework Dradis 3.11 Community Edition,['CVE-2019-5925'],2022-03-20T17:44Z
+9,cpe:2.3:a:dradisframework:dradis:3.11.1:*:*:*:community:*:*:*,Dradis Framework Dradis 3.11.1 Community Edition,[''],2022-03-20T17:44Z

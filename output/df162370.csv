@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:couchbase:couchbase_server:7.0.0:-:*:*:*:*:*:*,Couchbase Server 7.0.0,"['CVE-2021-35944', 'CVE-2021-35945', 'CVE-2021-37842', 'CVE-2021-42763']",2022-03-20T08:08Z
+1,cpe:2.3:a:couchbase:couchbase_server:7.0.0:beta:*:*:*:*:*:*,Couchbase Server 7.0.0 Beta,"['CVE-2021-25644', 'CVE-2021-35944', 'CVE-2021-35945']",2022-03-20T08:08Z
+2,cpe:2.3:a:couchbase:couchbase_server_java_sdk:2.6:*:*:*:*:*:*:*,Couchbase Server Java Sdk 2.6,['CVE-2020-9040'],2022-03-20T08:09Z
+3,cpe:2.3:a:couchbase:couchbase_server_java_sdk:2.7:*:*:*:*:*:*:*,Couchbase Server Java Sdk 2.7,['CVE-2020-9040'],2022-03-20T08:09Z
+4,cpe:2.3:a:couchbase:couchbase_server_java_sdk:3.0:*:*:*:*:*:*:*,Couchbase Server Java Sdk 3.0,[''],2022-03-20T08:08Z
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,[0],[0],[0],[0]
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

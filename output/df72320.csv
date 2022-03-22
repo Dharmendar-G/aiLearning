@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:beanshell:beanshell:1.0:*:*:*:*:*:*:*,BeanShell 1.0,['CVE-2016-2510'],2022-03-19T06:48Z
+1,cpe:2.3:a:beanshell:beanshell:2.0:beta1:*:*:*:*:*:*,BeanShell 2.0 Beta 1,['CVE-2016-2510'],2022-03-19T06:48Z
+2,cpe:2.3:a:beanshell:beanshell:2.0:beta4:*:*:*:*:*:*,BeanShell 2.0 Beta 4,['CVE-2016-2510'],2022-03-19T06:48Z
+3,cpe:2.3:a:beanshell:beanshell:2.0:beta5:*:*:*:*:*:*,BeanShell 2.0 Beta 5,['CVE-2016-2510'],2022-03-19T06:48Z
+4,cpe:2.3:a:beanshell:beanshell:2.0:beta6:*:*:*:*:*:*,BeanShell 2.0 Beta 6,[''],2022-03-19T06:48Z
+5,cpe:2.3:a:beanshell_project:beanshell:2.0b5:*:*:*:*:*:*:*,Beanshell Project Beanshell 2.0b5,[''],2022-03-19T06:48Z
+6,cpe:2.3:a:beanstalk_console_project:beanstalk_console:-:*:*:*:*:*:*:*,Beanstalk Console Project Beanstalk Console,"['CVE-2022-0501', 'CVE-2022-0539']",2022-03-19T06:48Z
+7,cpe:2.3:a:beanstalk_console_project:beanstalk_console:1.0:*:*:*:*:*:*:*,Beanstalk Console Project Beanstalk Console 1.0,"['CVE-2022-0501', 'CVE-2022-0539']",2022-03-19T06:48Z
+8,cpe:2.3:a:beanstalk_console_project:beanstalk_console:1.1:*:*:*:*:*:*:*,Beanstalk Console Project Beanstalk Console 1.1,"['CVE-2022-0501', 'CVE-2022-0539']",2022-03-19T06:48Z
+9,cpe:2.3:a:beanstalk_console_project:beanstalk_console:1.2:*:*:*:*:*:*:*,Beanstalk Console Project Beanstalk Console 1.2,"['CVE-2022-0501', 'CVE-2022-0539']",2022-03-19T06:49Z

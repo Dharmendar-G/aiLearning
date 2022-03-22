@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:rh2288_v3_firmware:v100r003c00:*:*:*:*:*:*:*,Huawei RH2288 V3 Firmware V100R003C00,"['CVE-2015-7842', 'CVE-2018-7943']",2022-03-21T18:28Z
+1,cpe:2.3:h:huawei:rh2288_v3_server:-:*:*:*:*:*:*:*,Huawei RH2288 V3 Server,"['CVE-2016-6825', 'CVE-2016-6838', 'CVE-2016-6899', 'CVE-2016-6900']",2022-03-21T18:28Z
+2,cpe:2.3:o:huawei:rh2288_v3_server_firmware:v100r003c00:*:*:*:*:*:*:*,Huawei RH2288 V3 Server Firmware V100R003C00,"['CVE-2016-6825', 'CVE-2016-6838', 'CVE-2016-6899', 'CVE-2016-6900']",2022-03-21T18:28Z
+3,cpe:2.3:h:huawei:rh2288a_v2:-:*:*:*:*:*:*:*,Huawei RH2288A V2,['CVE-2015-7842'],2022-03-21T18:28Z
+4,cpe:2.3:o:huawei:rh2288a_v2_firmware:-:*:*:*:*:*:*:*,Huawei Rh2288a V2 Firmware -,['CVE-2015-7842'],2022-03-21T18:28Z
+5,cpe:2.3:o:huawei:rh2288a_v2_firmware:v100r002c00:*:*:*:*:*:*:*,Huawei RH2288A V2 Firmware V100R002C00,['CVE-2015-7842'],2022-03-21T18:28Z
+6,cpe:2.3:h:huawei:rh2288h_v3:-:*:*:*:*:*:*:*,Huawei RH2288H V3,"['CVE-2015-7842', 'CVE-2018-7941', 'CVE-2018-7943', 'CVE-2018-7949', 'CVE-2018-7950', 'CVE-2018-7951']",2022-03-21T18:28Z
+7,cpe:2.3:o:huawei:rh2288h_v3_firmware:-:*:*:*:*:*:*:*,Huawei Rh2288h V3 Firmware -,['CVE-2015-7842'],2022-03-21T18:28Z
+8,cpe:2.3:o:huawei:rh2288h_v3_firmware:100r003c00:*:*:*:*:*:*:*,Huawei RH2288H V3 Firmware 100R003C00,"['CVE-2015-7842', 'CVE-2018-7941', 'CVE-2018-7949', 'CVE-2018-7950', 'CVE-2018-7951']",2022-03-21T18:28Z
+9,cpe:2.3:o:huawei:rh2288h_v3_firmware:v100r003c00:*:*:*:*:*:*:*,Huawei RH2288H V3 Firmware V100R003C00,"['CVE-2015-7842', 'CVE-2018-7943']",2022-03-21T18:28Z

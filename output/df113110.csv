@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:8000p_ip_camera:-:*:*:*:*:*:*:*,Cisco 8000p IP Camera,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507', 'CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:48Z
+1,cpe:2.3:o:cisco:8000p_ip_camera_firmware:1.0.9-1:*:*:*:*:*:*:*,Cisco 8000p IP Camera Firmware 1.0.9-1,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507']",2022-03-19T17:48Z
+2,cpe:2.3:o:cisco:8000p_ip_camera_firmware:1.0.9-4:*:*:*:*:*:*:*,Cisco 8000p IP Camera Firmware 1.0.9-4,"['CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:48Z
+3,cpe:2.3:h:cisco:800m_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 800m Integrated Services Router,['CVE-2018-0163'],2022-03-19T17:48Z
+4,cpe:2.3:h:cisco:8020_ip_camera:-:*:*:*:*:*:*:*,Cisco 8020 IP Camera,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507', 'CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:48Z
+5,cpe:2.3:o:cisco:8020_ip_camera_firmware:1.0.9-1:*:*:*:*:*:*:*,Cisco 8020 IP Camera Firmware 1.0.9-1,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507']",2022-03-19T17:48Z
+6,cpe:2.3:o:cisco:8020_ip_camera_firmware:1.0.9-4:*:*:*:*:*:*:*,Cisco 8020 IP Camera Firmware 1.0.9-4,"['CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:48Z
+7,cpe:2.3:h:cisco:8030_ip_camera:-:*:*:*:*:*:*:*,Cisco 8030 IP Camera,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507', 'CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:48Z
+8,cpe:2.3:o:cisco:8030_ip_camera_firmware:1.0.9-1:*:*:*:*:*:*:*,Cisco 8030 IP Camera Firmware 1.0.9-1,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507']",2022-03-19T17:48Z
+9,cpe:2.3:o:cisco:8030_ip_camera_firmware:1.0.9-4:*:*:*:*:*:*:*,Cisco 8030 IP Camera Firmware 1.0.9-4,"['CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:48Z

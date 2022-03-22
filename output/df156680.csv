@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:combodo:itop:3.0.0:beta2:*:*:*:*:*:*,Combodo iTop (aka IT Operations Portal) 3.0.0 Beta 2,"['CVE-2021-32775', 'CVE-2021-32776']",2022-03-20T06:48Z
+1,cpe:2.3:a:combodo:teemip:2.4.0:*:*:*:*:*:*:*,Combodo TeemIp 2.4.0,[''],2022-03-20T06:48Z
+2,cpe:2.3:a:comcast:xfinity_constant_guard_mobile:3.1.140603:*:*:*:*:android:*:*,Comcast XFINITY Constant Guard Mobile (aka com.whitesky.mobile.android) application for Android 3.1.140603,['CVE-2014-5747'],2022-03-20T06:48Z
+3,cpe:2.3:o:comcast:xfinity_home_security_system:-:*:*:*:*:*:*:*,Comcast Xfinity Home Security System,['CVE-2016-2398'],2022-03-20T06:48Z
+4,cpe:2.3:a:comcast:xfinity_wifi_hotspot:-:*:*:*:*:*:*:*,Comcast XFinity WiFi Hotspot,['CVE-2017-9475'],2022-03-20T06:48Z
+5,cpe:2.3:h:comcast:xfinity_xr11-20:-:*:*:*:*:*:*:*,Comcast XFinity XR11-20,['CVE-2017-9498'],2022-03-20T06:48Z
+6,cpe:2.3:o:comcast:xfinity_xr11-20_firmware:-:*:*:*:*:*:*:*,Comcast XFinity XR11-20 Firmware,['CVE-2017-9498'],2022-03-20T06:48Z
+7,cpe:2.3:a:comdev:jomestate_pro:3.7:*:*:*:*:joomla\!:*:*,comdev JomEstate pro 3.7 Joomla!,['CVE-2018-6368'],2022-03-20T06:49Z
+8,cpe:2.3:a:comdev:jomestate_pro:4.1:*:*:*:*:joomla\!:*:*,comdev JomEstate pro 4.1 Joomla!,[''],2022-03-20T06:49Z
+9,cpe:2.3:a:comelitgroup:away_from_home:2.8.0:*:*:*:*:*:*:*,Comelit Group Away From Home 2.8.0,['CVE-2019-14453'],2022-03-20T06:49Z

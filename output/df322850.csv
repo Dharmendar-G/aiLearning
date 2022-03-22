@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:insight_management_agent:8.15.0.0:*:*:*:*:*:*:*,HP Insight Management Agent 8.15.0.0,[''],2022-03-21T13:40Z
+1,cpe:2.3:a:hp:insight_management_agent:8.20.0.0:*:*:*:*:*:*:*,HP Insight Management Agent 8.20.0.0,[''],2022-03-21T13:40Z
+2,cpe:2.3:a:hp:insight_management_agent:8.26.0.0:*:*:*:*:*:*:*,HP Insight Management Agent 8.26.0.0,[''],2022-03-21T13:40Z
+3,cpe:2.3:a:hp:insight_management_agent:8.30.0.0:*:*:*:*:*:*:*,HP Insight Management Agent 8.30.0.0,[''],2022-03-21T13:40Z
+4,cpe:2.3:a:hp:insight_management_agent:8.40.0.0:*:*:*:*:*:*:*,HP Insight Management Agent 8.40.0.0,[''],2022-03-21T13:40Z
+5,cpe:2.3:a:hp:insight_management_agent:8.50.0.0:*:*:*:*:*:*:*,HP Insight Management Agent 8.50.0.0,[''],2022-03-21T13:40Z
+6,cpe:2.3:a:hp:insight_management_agent:8.60.0.0:*:*:*:*:*:*:*,HP Insight Management Agent 8.60.0.0,[''],2022-03-21T13:40Z
+7,cpe:2.3:a:hp:insight_management_agent:8.70.0.0:*:*:*:*:*:*:*,HP Insight Management Agent 8.70.0.0,[''],2022-03-21T13:40Z
+8,cpe:2.3:a:hp:insight_management_agents:6.30.0.0:*:*:*:*:*:*:*,HP Insight Management Agents 6.30.0.0,"['CVE-2010-4112', 'CVE-2012-2003', 'CVE-2012-2004', 'CVE-2012-2005', 'CVE-2012-2006']",2022-03-21T13:40Z
+9,cpe:2.3:a:hp:insight_management_agents:6.31.0.0:b:*:*:*:*:*:*,HP Insight Management Agents 6.31.0.0 (B),"['CVE-2010-4112', 'CVE-2012-2003', 'CVE-2012-2004', 'CVE-2012-2005', 'CVE-2012-2006']",2022-03-21T13:40Z

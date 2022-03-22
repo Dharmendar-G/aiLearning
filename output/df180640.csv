@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:latitude_rugged_5414:-:*:*:*:*:*:*:*,Dell Latitude Rugged 5414 ,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:54Z
+1,cpe:2.3:h:dell:latitude_rugged_5420:-:*:*:*:*:*:*:*,Dell Latitude Rugged 5420 ,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:54Z
+2,cpe:2.3:h:dell:latitude_rugged_5424:-:*:*:*:*:*:*:*,Dell Latitude Rugged 5424 ,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:54Z
+3,cpe:2.3:h:dell:latitude_rugged_5430:-:*:*:*:*:*:*:*,Dell Latitude Rugged 5430,"['CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:54Z
+4,cpe:2.3:o:dell:latitude_rugged_5430_firmware:-:*:*:*:*:*:*:*,Dell Latitude Rugged 5430 Firmware,"['CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:54Z
+5,cpe:2.3:h:dell:latitude_rugged_7220:-:*:*:*:*:*:*:*,Dell Latitude Rugged 7220 ,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:54Z
+6,cpe:2.3:h:dell:latitude_rugged_7220_extreme:-:*:*:*:*:*:*:*,Dell Latitude Rugged 7220 Extreme,"['CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:54Z
+7,cpe:2.3:o:dell:latitude_rugged_7220_extreme_firmware:-:*:*:*:*:*:*:*,Dell Latitude Rugged 7220 Extreme Firmware,"['CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:54Z
+8,cpe:2.3:h:dell:latitude_rugged_7220ex:-:*:*:*:*:*:*:*,Dell Latitude Rugged 7220ex ,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:54Z
+9,cpe:2.3:h:dell:latitude_rugged_7330:-:*:*:*:*:*:*:*,Dell Latitude Rugged 7330,"['CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:54Z

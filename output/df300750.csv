@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:grpc:grpc:1.7.3:*:*:*:*:go:*:*,gRPC 1.7.3 for Go,[''],2022-03-21T08:04Z
+1,cpe:2.3:a:grpc:grpc:1.7.4:*:*:*:*:go:*:*,gRPC 1.7.4 for Go,[''],2022-03-21T08:04Z
+2,cpe:2.3:a:grpc:grpc:1.7.5:*:*:*:*:go:*:*,gRPC 1.7.5 for Go,[''],2022-03-21T08:04Z
+3,cpe:2.3:a:grpc:grpc:1.8.0:*:*:*:*:java:*:*,gRPC 1.8.0 for Java,[''],2022-03-21T08:04Z
+4,cpe:2.3:a:grpc:grpc:1.8.0:*:*:*:*:-:*:*,gRPC 1.8.0 ,['CVE-2020-7768'],2022-03-21T08:04Z
+5,cpe:2.3:a:grpc:grpc:1.8.0:*:*:*:*:go:*:*,gRPC 1.8.0 for Go,[''],2022-03-21T08:04Z
+6,cpe:2.3:a:grpc:grpc:1.8.0:*:*:*:*:java:*:*,gRPC 1.8.0 for Java,[''],2022-03-21T08:04Z
+7,cpe:2.3:a:grpc:grpc:1.8.1:*:*:*:*:*:*:*,gRPC 1.8.1,[''],2022-03-21T08:04Z
+8,cpe:2.3:a:grpc:grpc:1.8.2:*:*:*:*:*:*:*,gRPC 1.8.2,[''],2022-03-21T08:04Z
+9,cpe:2.3:a:grpc:grpc:1.8.2:*:*:*:*:go:*:*,gRPC 1.8.2 for Go,[''],2022-03-21T08:04Z

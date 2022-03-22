@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:deskjet_3790_t8x42a:-:*:*:*:*:*:*:*,HP DeskJet 3790 T8X42A,['CVE-2020-28419'],2022-03-21T13:14Z
+1,cpe:2.3:h:hp:deskjet_3790_t8x44a:-:*:*:*:*:*:*:*,HP DeskJet 3790 T8X44A,['CVE-2020-28419'],2022-03-21T13:14Z
+2,cpe:2.3:h:hp:deskjet_3820_color_inkjet:-:*:*:*:*:*:*:*,HP Deskjet 3820 Color Inkjet (initial release),[''],2022-03-21T13:14Z
+3,cpe:2.3:h:hp:deskjet_5850:-:*:*:*:*:*:*:*,HP deskjet 5850 printer,[''],2022-03-21T13:14Z
+4,cpe:2.3:h:hp:deskjet_694c:-:*:*:*:*:*:*:*,hp deskjet 694c (inital release),[''],2022-03-21T13:14Z
+5,cpe:2.3:h:hp:deskjet_ink_advantage_2600_7fq79b:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 2600 7FQ79B,['CVE-2020-28419'],2022-03-21T13:14Z
+6,cpe:2.3:h:hp:deskjet_ink_advantage_2600_7fq80b:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 2600 7FQ80B,['CVE-2020-28419'],2022-03-21T13:14Z
+7,cpe:2.3:h:hp:deskjet_ink_advantage_2600_7fq81b:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 2600 7FQ81B,['CVE-2020-28419'],2022-03-21T13:14Z
+8,cpe:2.3:h:hp:deskjet_ink_advantage_2600_v1n02a:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 2600 V1N02A,"['CVE-2019-6332', 'CVE-2020-28419']",2022-03-21T13:14Z
+9,cpe:2.3:o:hp:deskjet_ink_advantage_2600_v1n02a_firmware:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 2600 V1N02A Firmware,['CVE-2019-6332'],2022-03-21T13:14Z

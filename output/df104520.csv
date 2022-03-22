@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cbioportal_project:cbioportal:3.6.7:*:*:*:*:*:*:*,cBioPortal Project cBioPortal 3.6.7,['CVE-2021-38244'],2022-03-19T15:50Z
+1,cpe:2.3:a:cbioportal_project:cbioportal:3.6.8:*:*:*:*:*:*:*,cBioPortal Project cBioPortal 3.6.8,['CVE-2021-38244'],2022-03-19T15:50Z
+2,cpe:2.3:a:cbioportal_project:cbioportal:3.6.9:*:*:*:*:*:*:*,cBioPortal Project cBioPortal 3.6.9,['CVE-2021-38244'],2022-03-19T15:50Z
+3,cpe:2.3:a:cbioportal_project:cbioportal:3.6.10:*:*:*:*:*:*:*,cBioPortal Project cBioPortal 3.6.10,['CVE-2021-38244'],2022-03-19T15:50Z
+4,cpe:2.3:a:cbioportal_project:cbioportal:3.6.11:*:*:*:*:*:*:*,cBioPortal Project cBioPortal 3.6.11,['CVE-2021-38244'],2022-03-19T15:50Z
+5,cpe:2.3:a:cbioportal_project:cbioportal:3.6.12:*:*:*:*:*:*:*,cBioPortal Project cBioPortal 3.6.12,['CVE-2021-38244'],2022-03-19T15:50Z
+6,cpe:2.3:a:cbioportal_project:cbioportal:3.6.13:*:*:*:*:*:*:*,cBioPortal Project cBioPortal 3.6.13,['CVE-2021-38244'],2022-03-19T15:50Z
+7,cpe:2.3:a:cbioportal_project:cbioportal:3.6.14:*:*:*:*:*:*:*,cBioPortal Project cBioPortal 3.6.14,['CVE-2021-38244'],2022-03-19T15:50Z
+8,cpe:2.3:a:cbioportal_project:cbioportal:3.6.15:*:*:*:*:*:*:*,cBioPortal Project cBioPortal 3.6.15,['CVE-2021-38244'],2022-03-19T15:50Z
+9,cpe:2.3:a:cbioportal_project:cbioportal:3.6.16:*:*:*:*:*:*:*,cBioPortal Project cBioPortal 3.6.16,['CVE-2021-38244'],2022-03-19T15:50Z

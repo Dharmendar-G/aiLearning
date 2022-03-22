@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:30.2:*:*:*:*:*:*:*,Cloud Foundry UAA Bosh (UAA Release) 30.2,"['CVE-2017-4972', 'CVE-2017-4973', 'CVE-2017-4974', 'CVE-2017-4991', 'CVE-2017-4992', 'CVE-2017-4994', 'CVE-2017-8032']",2022-03-20T03:19Z
+1,cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:30.3:*:*:*:*:*:*:*,Cloud Foundry UAA Bosh (UAA Release) 30.3,"['CVE-2017-4972', 'CVE-2017-4973', 'CVE-2017-4974', 'CVE-2017-4991', 'CVE-2017-4994', 'CVE-2017-8032']",2022-03-20T03:19Z
+2,cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:30.4:*:*:*:*:*:*:*,Cloud Foundry UAA Bosh (UAA Release) 30.4,"['CVE-2017-4991', 'CVE-2017-4994', 'CVE-2017-8032']",2022-03-20T03:19Z
+3,cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:30.5:*:*:*:*:*:*:*,Cloud Foundry UAA Bosh (UAA Release) 30.5,"['CVE-2017-4991', 'CVE-2017-4994', 'CVE-2017-8032']",2022-03-20T03:19Z
+4,cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:30.6:*:*:*:*:*:*:*,Cloud Foundry UAA Bosh (UAA Release) 30.6,"['CVE-2017-4991', 'CVE-2017-4994', 'CVE-2017-8032']",2022-03-20T03:19Z
+5,cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:30.7:*:*:*:*:*:*:*,Cloud Foundry UAA Bosh (UAA Release) 30.7,"['CVE-2017-4991', 'CVE-2017-4994', 'CVE-2017-8032']",2022-03-20T03:19Z
+6,cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:30.8:*:*:*:*:*:*:*,Cloud Foundry UAA Bosh (UAA Release) 30.8,"['CVE-2017-4991', 'CVE-2017-4994', 'CVE-2017-8032']",2022-03-20T03:19Z
+7,cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:30.9:*:*:*:*:*:*:*,Cloud Foundry UAA Bosh (UAA Release) 30.9,"['CVE-2017-4991', 'CVE-2017-4994', 'CVE-2017-8032']",2022-03-20T03:19Z
+8,cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:31:*:*:*:*:*:*:*,Cloud Foundry UAA Bosh (UAA Release) 31,"['CVE-2017-4991', 'CVE-2017-4994', 'CVE-2017-8032']",2022-03-20T03:19Z
+9,cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:32:*:*:*:*:*:*:*,Cloud Foundry UAA Bosh (UAA Release) 32,"['CVE-2017-4991', 'CVE-2017-4994', 'CVE-2017-8032']",2022-03-20T03:19Z

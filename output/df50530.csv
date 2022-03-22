@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:asus:tuf_gaming_ax3000_firmware:-:*:*:*:*:*:*:*,ASUS TUF GAMING AX3000 Firmware,"['CVE-2021-41435', 'CVE-2021-41436']",2022-03-18T23:58Z
+1,cpe:2.3:h:asus:tuf-ax5400:-:*:*:*:*:*:*:*,ASUS TUF-AX5400,"['CVE-2021-41435', 'CVE-2021-41436']",2022-03-18T23:58Z
+2,cpe:2.3:o:asus:tuf-ax5400_firmware:-:*:*:*:*:*:*:*,ASUS TUF-AX5400 Firmware,"['CVE-2021-41435', 'CVE-2021-41436']",2022-03-18T23:58Z
+3,cpe:2.3:h:asus:un65u:-:*:*:*:*:*:*:*,ASUS UN65U,['CVE-2022-21933'],2022-03-18T23:58Z
+4,cpe:2.3:h:asus:ux360ca:-:*:*:*:*:*:*:*,ASUS UX360CA,['CVE-2021-26943'],2022-03-18T23:58Z
+5,cpe:2.3:o:asus:ux360ca_bios:-:*:*:*:*:*:*:*,ASUS UX360CA BIOS,['CVE-2021-26943'],2022-03-18T23:58Z
+6,cpe:2.3:o:asus:ux360ca_bios:303:*:*:*:*:*:*:*,ASUS UX360CA BIOS 303,['CVE-2021-26943'],2022-03-18T23:58Z
+7,cpe:2.3:o:asus:ux360ca_bios:304:*:*:*:*:*:*:*,ASUS UX360CA BIOS 304,[''],2022-03-18T23:58Z
+8,cpe:2.3:h:asus:ux582lr:-:*:*:*:*:*:*:*,ASUS UX582LR -,['CVE-2021-42055'],2022-03-18T23:58Z
+9,cpe:2.3:o:asus:ux582lr_firmware:-:*:*:*:*:*:*:*,ASUS UX582LR FIRMWARE -,['CVE-2021-42055'],2022-03-18T23:58Z

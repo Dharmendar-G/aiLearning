@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:vpn_3000_concentrator_series_software:4.7.2.a:*:*:*:*:*:*:*,Cisco VPN 3000 Concentrator Series Software 4.7.2.a,"['CVE-2006-0483', 'CVE-2006-3906']",2022-03-20T01:06Z
+1,cpe:2.3:o:cisco:vpn_3000_concentrator_series_software:4.7.2.f:*:*:*:*:*:*:*,Cisco VPN 3000 Concentrator Series Software 4.7.2.f,"['CVE-2006-3906', 'CVE-2006-4313']",2022-03-20T01:06Z
+2,cpe:2.3:h:cisco:vpn_3001_concentrator:-:*:*:*:*:*:*:*,Cisco VPN 3001 Concentrator,"['CVE-2005-4499', 'CVE-2006-3906']",2022-03-20T01:06Z
+3,cpe:2.3:a:cisco:vpn_3002_hardware_client:-:*:*:*:*:*:*:*,Cisco VPN 3002 Hardware Client,"['CVE-2002-1094', 'CVE-2002-1095', 'CVE-2002-1096', 'CVE-2002-1097', 'CVE-2002-1098', 'CVE-2002-1099', 'CVE-2002-1100', 'CVE-2002-1101', 'CVE-2002-1102', 'CVE-2002-1103', 'CVE-2003-0258', 'CVE-2003-0259', 'CVE-2003-0260', 'CVE-2005-0943', 'CVE-2005-4499']",2022-03-20T01:06Z
+4,cpe:2.3:h:cisco:vpn_3005_concentrator:-:*:*:*:*:*:*:*,Cisco VPN 3005 Concentrator,"['CVE-2001-0427', 'CVE-2010-4354']",2022-03-20T01:06Z
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,[0],[0],[0],[0]
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

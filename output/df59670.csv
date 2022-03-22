@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:audiocodes:median_800c-msbr_firmware:f7.20a:*:*:*:*:*:*:*,AudioCodes Median 800C-MSBR Firmware F7.20a,"['CVE-2019-9228', 'CVE-2019-9229']",2022-03-19T02:29Z
+1,cpe:2.3:o:audiocodes:median_800c-msbr_firmware:f7.20a.251:*:*:*:*:*:*:*,AudioCodes Median 800C-MSBR Firmware F7.20a.251,"['CVE-2019-9228', 'CVE-2019-9229']",2022-03-19T02:30Z
+2,cpe:2.3:o:audiocodes:median_800c-msbr_firmware:f7.20a.252.062:*:*:*:*:*:*:*,AudioCodes Median 800C-MSBR Firmware F7.20a.252.062,['CVE-2019-9228'],2022-03-19T02:30Z
+3,cpe:2.3:o:audiocodes:median_m800b-msbr_firmware:f7.20a:*:*:*:*:*:*:*,AudioCodes Median M800B-MSBR Firmware F7.20a,"['CVE-2019-9228', 'CVE-2019-9229']",2022-03-19T02:30Z
+4,cpe:2.3:o:audiocodes:median_m800b-msbr_firmware:f7.20a.251:*:*:*:*:*:*:*,AudioCodes Median M800B-MSBR Firmware F7.20a.251,"['CVE-2019-9228', 'CVE-2019-9229']",2022-03-19T02:30Z
+5,cpe:2.3:o:audiocodes:median_m800b-msbr_firmware:f7.20a.252.062:*:*:*:*:*:*:*,AudioCodes Median M800B-MSBR Firmware F7.20a.252.062,['CVE-2019-9228'],2022-03-19T02:30Z
+6,cpe:2.3:h:audiocodes:mediant_500l-msbr:-:*:*:*:*:*:*:*,AudioCodes Mediant 500L-MSBR,"['CVE-2019-9230', 'CVE-2019-9231']",2022-03-19T02:30Z
+7,cpe:2.3:o:audiocodes:mediant_500l-msbr_firmware:f7.20a:*:*:*:*:*:*:*,AudioCodes Mediant 500L-MSBR Firmware F7.20a,"['CVE-2019-9230', 'CVE-2019-9231']",2022-03-19T02:30Z
+8,cpe:2.3:o:audiocodes:mediant_500l-msbr_firmware:f7.20a.202.307:*:*:*:*:*:*:*,Audiocodes Mediant 500l-msbr Firmware F7.20a.202.307,['CVE-2019-9230'],2022-03-19T02:30Z
+9,cpe:2.3:o:audiocodes:mediant_500l-msbr_firmware:f7.20a.253:*:*:*:*:*:*:*,AudioCodes Mediant 500L-MSBR Firmware F7.20a.253,['CVE-2019-9230'],2022-03-19T02:30Z

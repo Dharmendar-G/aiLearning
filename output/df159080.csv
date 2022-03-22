@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:consolekit_project:consolekit:0.2.9:*:*:*:*:*:*:*,ConsoleKit Project ConsoleKit 0.2.9,['CVE-2010-4664'],2022-03-20T07:25Z
+1,cpe:2.3:a:consolekit_project:consolekit:0.2.10:*:*:*:*:*:*:*,ConsoleKit Project ConsoleKit 0.2.10,['CVE-2010-4664'],2022-03-20T07:25Z
+2,cpe:2.3:a:consolekit_project:consolekit:0.3.0:*:*:*:*:*:*:*,ConsoleKit Project ConsoleKit 0.3.0,['CVE-2010-4664'],2022-03-20T07:25Z
+3,cpe:2.3:a:consolekit_project:consolekit:0.3.1:*:*:*:*:*:*:*,ConsoleKit Project ConsoleKit 0.3.1,['CVE-2010-4664'],2022-03-20T07:25Z
+4,cpe:2.3:a:consolekit_project:consolekit:0.4.0:*:*:*:*:*:*:*,ConsoleKit Project ConsoleKit 0.4.0,['CVE-2010-4664'],2022-03-20T07:25Z
+5,cpe:2.3:a:consolekit_project:consolekit:0.4.1:*:*:*:*:*:*:*,ConsoleKit Project ConsoleKit 0.4.1,['CVE-2010-4664'],2022-03-20T07:25Z
+6,cpe:2.3:a:consolekit_project:consolekit:0.4.2:*:*:*:*:*:*:*,ConsoleKit Project ConsoleKit 0.4.2,[''],2022-03-20T07:25Z
+7,cpe:2.3:a:consona:servicedesk_online:11.0:*:*:*:*:*:*:*,Consona Servicedesk Online 11.0,[''],2022-03-20T07:25Z
+8,cpe:2.3:a:constantcontact:constant_contact_forms:1.8.0:*:*:*:*:wordpress:*:*,Constant Contact Forms 1.8.0 for WordPress,['CVE-2021-24134'],2022-03-20T07:25Z
+9,cpe:2.3:a:constantcontact:constant_contact_forms:1.8.1:*:*:*:*:wordpress:*:*,Constant Contact Forms 1.8.1 for WordPress,['CVE-2021-24134'],2022-03-20T07:25Z

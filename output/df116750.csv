@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:catalyst_2975:-:*:*:*:*:*:*:*,Cisco Catalyst 2975,['CVE-2017-3881'],2022-03-19T18:54Z
+1,cpe:2.3:h:cisco:catalyst_2980g:-:*:*:*:*:*:*:*,Cisco Catalyst 2980G,"['CVE-2004-0551', 'CVE-2005-4258', 'CVE-2013-1100']",2022-03-19T18:54Z
+2,cpe:2.3:h:cisco:catalyst_2980g-a:-:*:*:*:*:*:*:*,Cisco Catalyst 2980G-A,"['CVE-2004-0551', 'CVE-2005-4258', 'CVE-2013-1100']",2022-03-19T18:54Z
+3,cpe:2.3:a:cisco:catalyst_29xx_supervisor_software:-:*:*:*:*:*:*:*,Cisco Catalyst 29xx supervisor software,[''],2022-03-19T18:54Z
+4,cpe:2.3:a:cisco:catalyst_29xx_supervisor_software:1.0:*:*:*:*:*:*:*,Cisco Catalyst 29xx supervisor software 1.0,['CVE-1999-0430'],2022-03-19T18:54Z
+5,cpe:2.3:a:cisco:catalyst_29xx_supervisor_software:2.1.5:*:*:*:*:*:*:*,Cisco Catalyst 29xx supervisor software 2.1.5,['CVE-1999-0430'],2022-03-19T18:54Z
+6,cpe:2.3:a:cisco:catalyst_29xx_supervisor_software:2.1.501:*:*:*:*:*:*:*,Cisco Catalyst 29xx supervisor software 2.1.501,['CVE-1999-0430'],2022-03-19T18:54Z
+7,cpe:2.3:a:cisco:catalyst_29xx_supervisor_software:2.1.502:*:*:*:*:*:*:*,Cisco Catalyst 29xx supervisor software 2.1.502,['CVE-1999-0430'],2022-03-19T18:54Z
+8,cpe:2.3:h:cisco:catalyst_3000:-:*:*:*:*:*:*:*,Cisco Catalyst 3000,"['CVE-2005-4258', 'CVE-2013-1100']",2022-03-19T18:54Z
+9,cpe:2.3:h:cisco:catalyst_3200:-:*:*:*:*:*:*:*,Cisco Catalyst 3200,"['CVE-2005-4258', 'CVE-2013-1100']",2022-03-19T18:54Z

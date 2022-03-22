@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:sling_auth_core_component:1.1.2:*:*:*:*:*:*:*,Apache Software Foundation Sling Auth Core Component 1.1.2,['CVE-2013-4390'],2022-03-18T20:01Z
+1,cpe:2.3:a:apache:sling_authentication_service:1.4.0:*:*:*:*:*:*:*,Apache Software Foundation Sling Authentication Service 1.4.0,['CVE-2017-15700'],2022-03-18T20:02Z
+2,cpe:2.3:a:apache:sling_cms:0.10.0:*:*:*:*:*:*:*,Apache Software Foundation Sling CMS 0.10.0,['CVE-2020-1949'],2022-03-18T20:02Z
+3,cpe:2.3:a:apache:sling_cms:0.11.0:*:*:*:*:*:*:*,Apache Software Foundation Sling CMS 0.11.0,['CVE-2020-1949'],2022-03-18T20:02Z
+4,cpe:2.3:a:apache:sling_cms:0.11.2:*:*:*:*:*:*:*,Apache Software Foundation Sling CMS 0.11.2,['CVE-2020-1949'],2022-03-18T20:02Z
+5,cpe:2.3:a:apache:sling_cms:0.12.0:*:*:*:*:*:*:*,Apache Software Foundation Sling CMS 0.12.0,['CVE-2020-1949'],2022-03-18T20:02Z
+6,cpe:2.3:a:apache:sling_cms:0.14.0:*:*:*:*:*:*:*,Apache Software Foundation Sling CMS 0.14.0,['CVE-2020-1949'],2022-03-18T20:02Z
+7,cpe:2.3:a:apache:sling_cms:0.16.0:*:*:*:*:*:*:*,Apache Software Foundation Sling CMS 0.16.0,[''],2022-03-18T20:02Z
+8,cpe:2.3:a:apache:sling_commons_messaging_mail:1.0.0:*:*:*:*:*:*:*,Apache Software Foundation Sling Commons Messaging Mail 1.0.0,['CVE-2021-44549'],2022-03-18T20:02Z
+9,cpe:2.3:a:apache:sling_jcr_contentloader:2.1.4:*:*:*:*:*:*:*,Apache Software Foundation Sling JCR ContentLoader 2.1.4,['CVE-2012-3353'],2022-03-18T20:02Z

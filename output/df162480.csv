@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:couponphp:couponphp:1.1.0:*:*:*:*:*:*:*,CouponPHP 1.1.0,"['CVE-2014-10034', 'CVE-2014-10035']",2022-03-20T08:10Z
+1,cpe:2.3:a:coupons:coupon_printer_for_windows:5.0.0.0:*:*:*:*:*:*:*,Coupons Coupon Printer For Windows 5.0.0.0,[''],2022-03-20T08:10Z
+2,cpe:2.3:a:courier_management_system_project:courier_management_system:1.0:*:*:*:*:*:*:*,Courier Management System Project Courier Management System 1.0,"['CVE-2020-35327', 'CVE-2020-35328', 'CVE-2020-35329', 'CVE-2021-46198']",2022-03-20T08:10Z
+3,cpe:2.3:a:courier-mta:courier_mail_server:0.72.0:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 0.72.0",['CVE-2021-38084'],2022-03-20T08:10Z
+4,cpe:2.3:a:courier-mta:courier_mail_server:0.73.0:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 0.73.0",['CVE-2021-38084'],2022-03-20T08:10Z
+5,cpe:2.3:a:courier-mta:courier_mail_server:0.73.1:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 0.73.1",['CVE-2021-38084'],2022-03-20T08:10Z
+6,cpe:2.3:a:courier-mta:courier_mail_server:0.73.2:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 0.73.2",['CVE-2021-38084'],2022-03-20T08:10Z
+7,cpe:2.3:a:courier-mta:courier_mail_server:0.74.0:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 0.74.0",['CVE-2021-38084'],2022-03-20T08:10Z
+8,cpe:2.3:a:courier-mta:courier_mail_server:0.74.1:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 0.74.1",['CVE-2021-38084'],2022-03-20T08:10Z
+9,cpe:2.3:a:courier-mta:courier_mail_server:0.74.2:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 0.74.2",['CVE-2021-38084'],2022-03-20T08:10Z

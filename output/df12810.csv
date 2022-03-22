@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adtran:pmaa:1.6.3:*:*:*:*:*:*:*,Adtran PMAA 1.6.3,['CVE-2018-19648'],2022-03-18T12:57Z
+1,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:-:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T12:57Z
+2,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:2.0.0:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce 2.0.0 for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T12:57Z
+3,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:3.0.0:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce 3.0.0 for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T12:57Z
+4,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:4.0.0:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce 4.0.0 for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T12:57Z
+5,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:5.0.0:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce 5.0.0 for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T12:57Z
+6,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:6.0.0:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce 6.0.0 for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T12:57Z
+7,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:7.0.0:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce 7.0.0 for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T12:57Z
+8,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:7.0.1:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce 7.0.1 for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T12:57Z
+9,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:7.0.2:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce 7.0.2 for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T12:57Z

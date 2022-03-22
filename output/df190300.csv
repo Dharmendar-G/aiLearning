@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:d-link:dcs-933l:-:*:*:*:*:*:*:*,D-Link DCS-933L,"['CVE-2017-7852', 'CVE-2018-18441']",2022-03-20T16:00Z
+1,cpe:2.3:o:d-link:dcs-933l_firmware:1.13.05:*:*:*:*:*:*:*,D-Link DCS-933L Firmware 1.13.05,"['CVE-2017-7852', 'CVE-2018-18441']",2022-03-20T16:00Z
+2,cpe:2.3:h:d-link:dcs-934l:-:*:*:*:*:*:*:*,D-Link DCS-934L,['CVE-2017-7852'],2022-03-20T16:00Z
+3,cpe:2.3:o:d-link:dcs-934l_firmware:1.04.15:*:*:*:*:*:*:*,D-Link DCS-934L Firmware 1.04.15,['CVE-2017-7852'],2022-03-20T16:00Z
+4,cpe:2.3:h:d-link:dcs-936l:-:*:*:*:*:*:*:*,D-Link DCS-936L,"['CVE-2017-7851', 'CVE-2018-18441']",2022-03-20T16:00Z
+5,cpe:2.3:h:d-link:dcs-942l:-:*:*:*:*:*:*:*,D-Link DCS-942L,"['CVE-2017-7852', 'CVE-2018-18441']",2022-03-20T16:00Z
+6,cpe:2.3:o:d-link:dcs-942l_firmware:1.27:*:*:*:*:*:*:*,D-Link DCS-942L Firmware 1.27,"['CVE-2017-7852', 'CVE-2018-18441']",2022-03-20T16:00Z
+7,cpe:2.3:o:d-link:dcs-942l_firmware:2.11.03:*:*:*:*:*:*:*,D-Link DCS-942L Firmware 2.11.03,"['CVE-2017-7852', 'CVE-2018-18441']",2022-03-20T16:00Z
+8,cpe:2.3:h:d-link:dcs-942lb1:-:*:*:*:*:*:*:*,D-Link DCS-942LB1,['CVE-2018-18441'],2022-03-20T16:00Z
+9,cpe:2.3:o:d-link:dgs-1100_firmware:1.01.018:*:*:*:*:*:*:*,D-Link DGS-1100 Firmware 1.01.018,['CVE-2016-10125'],2022-03-20T16:00Z

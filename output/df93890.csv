@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:brother:mfc-j6920dw:-:*:*:*:*:*:*:*,Brother MFC-J6920DW,['CVE-2017-7588'],2022-03-19T12:38Z
+1,cpe:2.3:h:brother:mfc-j6973cdw:-:*:*:*:*:*:*:*,Brother MFC-J6973CDW,['CVE-2017-7588'],2022-03-19T12:38Z
+2,cpe:2.3:h:brother:mfc-j960dwn:-:*:*:*:*:*:*:*,Brother MFC-J960DWN,['CVE-2017-2244'],2022-03-19T12:38Z
+3,cpe:2.3:h:brother:mfc-l2700dw:-:*:*:*:*:*:*:*,Brother MFC-L2700DW,['CVE-2017-7588'],2022-03-19T12:38Z
+4,cpe:2.3:h:brother:mfc-l2720dw:-:*:*:*:*:*:*:*,Brother MFC-L2720DW,['CVE-2017-7588'],2022-03-19T12:38Z
+5,cpe:2.3:h:brother:mfc-l2740dw:-:*:*:*:*:*:*:*,Brother MFC-L2740DW,['CVE-2017-7588'],2022-03-19T12:38Z
+6,cpe:2.3:h:brother:mfc-l8600cdw:-:*:*:*:*:*:*:*,Brother MFC-L8600CDW,['CVE-2017-7588'],2022-03-19T12:38Z
+7,cpe:2.3:h:brother:mfc-l8850cdw:-:*:*:*:*:*:*:*,Brother MFC-l8850CDW,['CVE-2017-7588'],2022-03-19T12:38Z
+8,cpe:2.3:h:brother:mfc-l9550cdw:-:*:*:*:*:*:*:*,Brother MFC-L9550CDW,['CVE-2017-7588'],2022-03-19T12:38Z
+9,cpe:2.3:a:brother:mfl-pro_suite:1.0:*:*:*:*:*:*:*,Brother Mfl-pro Suite 1.0,[''],2022-03-19T12:38Z

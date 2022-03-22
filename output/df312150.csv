@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hikvision:ds-7204hghi-f1:-:*:*:*:*:*:*:*,Hikvision DS-7204HGHI-F1,['CVE-2020-7057'],2022-03-21T11:14Z
+1,cpe:2.3:o:hikvision:ds-7204hghi-f1_firmware:4.0.1:180903:*:*:*:*:*:*,Hikvision DS-7204HGHI-F1 Firmware 4.0.1 180903,['CVE-2020-7057'],2022-03-21T11:14Z
+2,cpe:2.3:h:hikvision:ds-7604ni-e1\/4p:-:*:*:*:*:*:*:*,Hikvision DS-7604NI-E1/4P,"['CVE-2015-4407', 'CVE-2015-4408', 'CVE-2015-4409']",2022-03-21T11:14Z
+3,cpe:2.3:h:hikvision:ds-7604ni-k1:-:*:*:*:*:*:*:*,Hikvision DS-7604NI-K1,['CVE-2021-36260'],2022-03-21T11:14Z
+4,cpe:2.3:h:hikvision:ds-7604ni-k1\/4p\/4g:-:*:*:*:*:*:*:*,Hikvision DS-7604NI-K1/4P/4G,['CVE-2021-36260'],2022-03-21T11:14Z
+5,cpe:2.3:o:hikvision:ds-7604ni-k1\/4p\/4g_firmware:-:*:*:*:*:*:*:*,Hikvision DS-7604NI-K1/4P/4G Firmware,['CVE-2021-36260'],2022-03-21T11:14Z
+6,cpe:2.3:o:hikvision:ds-7604ni-k1_firmware:-:*:*:*:*:*:*:*,Hikvision DS-7604NI-K1 Firmware,['CVE-2021-36260'],2022-03-21T11:14Z
+7,cpe:2.3:h:hikvision:ds-7604ni-q1:-:*:*:*:*:*:*:*,Hikvision DS-7604NI-Q1,['CVE-2021-36260'],2022-03-21T11:14Z
+8,cpe:2.3:h:hikvision:ds-7604ni-q1\/4p:-:*:*:*:*:*:*:*,Hikvision DS-7604NI-Q1/4P,['CVE-2021-36260'],2022-03-21T11:14Z
+9,cpe:2.3:h:hikvision:ds-7608ni-12\/8p:-:*:*:*:*:*:*:*,Hikvision DS-7608NI-12/8P,"['CVE-2015-4407', 'CVE-2015-4408', 'CVE-2015-4409']",2022-03-21T11:14Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arqbackup:arq:5.9.7:*:*:*:*:macos:*:*,Arq Backup Arq 5.9.7 for macOS,['CVE-2017-16895'],2022-03-18T23:20Z
+1,cpe:2.3:a:arqbackup:arq:5.10:*:*:*:*:macos:*:*,Arq Backup Arq 5.10 for macOS,[''],2022-03-18T23:20Z
+2,cpe:2.3:a:arr_project:arr:0.1.0:*:*:*:*:rust:*:*,arr Project arr 0.1.0 for Rust,"['CVE-2020-35886', 'CVE-2020-35887', 'CVE-2020-35888']",2022-03-18T23:20Z
+3,cpe:2.3:a:arr_project:arr:0.2.0:*:*:*:*:rust:*:*,arr Project arr 0.2.0 for Rust,"['CVE-2020-35886', 'CVE-2020-35887', 'CVE-2020-35888']",2022-03-18T23:20Z
+4,cpe:2.3:a:arr_project:arr:0.3.0:*:*:*:*:rust:*:*,arr Project arr 0.3.0 for Rust,"['CVE-2020-35886', 'CVE-2020-35887', 'CVE-2020-35888']",2022-03-18T23:20Z
+5,cpe:2.3:a:arr_project:arr:0.3.1:*:*:*:*:rust:*:*,arr Project arr 0.3.1 for Rust,"['CVE-2020-35886', 'CVE-2020-35887', 'CVE-2020-35888']",2022-03-18T23:20Z
+6,cpe:2.3:a:arr_project:arr:0.4.0:*:*:*:*:rust:*:*,arr Project arr 0.4.0 for Rust,"['CVE-2020-35886', 'CVE-2020-35887', 'CVE-2020-35888']",2022-03-18T23:20Z
+7,cpe:2.3:a:arr_project:arr:0.4.1:*:*:*:*:rust:*:*,arr Project arr 0.4.1 for Rust,"['CVE-2020-35886', 'CVE-2020-35887', 'CVE-2020-35888']",2022-03-18T23:21Z
+8,cpe:2.3:a:arr_project:arr:0.5.0:*:*:*:*:rust:*:*,arr Project arr 0.5.0 for Rust,"['CVE-2020-35886', 'CVE-2020-35887', 'CVE-2020-35888']",2022-03-18T23:20Z
+9,cpe:2.3:a:arr_project:arr:0.6.0:*:*:*:*:rust:*:*,arr Project arr 0.6.0 for Rust,"['CVE-2020-35886', 'CVE-2020-35887', 'CVE-2020-35888']",2022-03-18T23:21Z

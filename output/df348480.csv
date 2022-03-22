@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:spectrum_control:5.2.2:*:*:*:*:*:*:*,IBM Tivoli Storage Productivity Center 5.2.2,['CVE-2016-5943'],2022-03-21T22:07Z
+1,cpe:2.3:a:ibm:spectrum_control:5.2.3:*:*:*:*:*:*:*,IBM Tivoli Storage Productivity Center 5.2.3,['CVE-2016-5943'],2022-03-21T22:07Z
+2,cpe:2.3:a:ibm:spectrum_control:5.2.4:*:*:*:*:*:*:*,IBM Tivoli Storage Productivity Center 5.2.4,['CVE-2016-5943'],2022-03-21T22:07Z
+3,cpe:2.3:a:ibm:spectrum_control:5.2.4.1:*:*:*:*:*:*:*,IBM Tivoli Storage Productivity Center 5.2.4.1,['CVE-2016-5943'],2022-03-21T22:07Z
+4,cpe:2.3:a:ibm:spectrum_control:5.2.5:*:*:*:*:*:*:*,IBM Tivoli Storage Productivity Center 5.2.5,['CVE-2016-5943'],2022-03-21T22:07Z
+5,cpe:2.3:a:ibm:spectrum_control:5.2.5.1:*:*:*:*:*:*:*,IBM Tivoli Storage Productivity Center 5.2.5.1,['CVE-2016-5943'],2022-03-21T22:07Z
+6,cpe:2.3:a:ibm:spectrum_control:5.2.6:*:*:*:*:*:*:*,IBM Tivoli Storage Productivity Center 5.2.6,['CVE-2016-5943'],2022-03-21T22:07Z
+7,cpe:2.3:a:ibm:spectrum_control:5.2.7:*:*:*:*:*:*:*,IBM Tivoli Storage Productivity Center 5.2.7,['CVE-2016-5943'],2022-03-21T22:07Z
+8,cpe:2.3:a:ibm:spectrum_control:5.2.7.1:*:*:*:*:*:*:*,IBM Tivoli Storage Productivity Center 5.2.7.1,['CVE-2016-5943'],2022-03-21T22:07Z
+9,cpe:2.3:a:ibm:spectrum_control:5.2.8:*:*:*:*:*:*:*,IBM Spectrum Control 5.2.8,"['CVE-2016-5943', 'CVE-2016-5944', 'CVE-2016-5945', 'CVE-2016-5946', 'CVE-2016-5947', 'CVE-2016-8941', 'CVE-2016-8942', 'CVE-2016-8943', 'CVE-2019-4071', 'CVE-2019-4072']",2022-03-21T22:07Z

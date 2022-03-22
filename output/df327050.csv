@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:pagewide_enterprise_color_flow_mfp_586z_g1w41a:-:*:*:*:*:*:*:*,HP PageWide Enterprise Color Flow MFP 586Z G1W41A,['CVE-2020-28419'],2022-03-21T15:38Z
+1,cpe:2.3:h:hp:pagewide_enterprise_color_flow_mfp_780f:-:*:*:*:*:*:*:*,HP PageWide Enterprise Color Flow MFP 780F,['CVE-2019-6318'],2022-03-21T15:38Z
+2,cpe:2.3:o:hp:pagewide_enterprise_color_flow_mfp_780f_firmware:-:*:*:*:*:*:*:*,HP Pagewide Enterprise Color Flow Mfp 780f Firmware -,"['CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T15:38Z
+3,cpe:2.3:o:hp:pagewide_enterprise_color_flow_mfp_780f_firmware:2407163_000211:*:*:*:*:*:*:*,HP Pagewide Enterprise Color Flow Mfp 780f Firmware 2407163 000211,[''],2022-03-21T15:38Z
+4,cpe:2.3:h:hp:pagewide_enterprise_color_flow_mfp_780f_j7z09a:-:*:*:*:*:*:*:*,HP PageWide Enterprise Color Flow MFP 780F J7Z09A,['CVE-2020-28419'],2022-03-21T15:38Z
+5,cpe:2.3:h:hp:pagewide_enterprise_color_flow_mfp_780f_j7z10a:-:*:*:*:*:*:*:*,HP PageWide Enterprise Color Flow MFP 780F J7Z10A,['CVE-2020-28419'],2022-03-21T15:38Z
+6,cpe:2.3:h:hp:pagewide_enterprise_color_flow_mfp_785_j7z11a:-:*:*:*:*:*:*:*,HP PageWide Enterprise Color Flow MFP 785 J7Z11A,['CVE-2020-28419'],2022-03-21T15:38Z
+7,cpe:2.3:h:hp:pagewide_enterprise_color_flow_mfp_785_j7z12a:-:*:*:*:*:*:*:*,HP PageWide Enterprise Color Flow MFP 785 J7Z12A,['CVE-2020-28419'],2022-03-21T15:38Z
+8,cpe:2.3:h:hp:pagewide_enterprise_color_flow_mpf_785:-:*:*:*:*:*:*:*,HP PageWide Enterprise Color Flow MPF 785,['CVE-2019-6318'],2022-03-21T15:38Z
+9,cpe:2.3:o:hp:pagewide_enterprise_color_flow_mpf_785_firmware:-:*:*:*:*:*:*:*,HP Pagewide Enterprise Color Flow Mpf 785 Firmware -,['CVE-2019-6318'],2022-03-21T15:38Z

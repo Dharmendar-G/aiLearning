@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avast:email_server_security:8.0.1606:*:*:*:*:*:*:*,Avast Email Server Security 8.0.1606,['CVE-2016-4025'],2022-03-19T03:58Z
+1,cpe:2.3:a:avast:email_server_security:8.0.1609:*:*:*:*:*:*:*,Avast Email Server Security 8.0.1609,['CVE-2016-4025'],2022-03-19T03:58Z
+2,cpe:2.3:a:avast:endpoint_protection:8.0.1606:*:*:*:*:*:*:*,Avast Endpoint Protection 8.0.1606,['CVE-2016-4025'],2022-03-19T03:58Z
+3,cpe:2.3:a:avast:endpoint_protection:8.0.1609:*:*:*:*:*:*:*,Avast Endpoint Protection 8.0.1609,['CVE-2016-4025'],2022-03-19T03:58Z
+4,cpe:2.3:a:avast:endpoint_protection_plus:8.0.1606:*:*:*:*:*:*:*,Avast Endpoint Protection Plus 8.0.1606,['CVE-2016-4025'],2022-03-19T03:58Z
+5,cpe:2.3:a:avast:endpoint_protection_plus:8.0.1609:*:*:*:*:*:*:*,Avast Endpoint Protection Plus 8.0.1609,['CVE-2016-4025'],2022-03-19T03:58Z
+6,cpe:2.3:a:avast:endpoint_protection_suite:8.0.1606:*:*:*:*:*:*:*,Avast Endpoint Protection Suite 8.0.1606,['CVE-2016-4025'],2022-03-19T03:58Z
+7,cpe:2.3:a:avast:endpoint_protection_suite:8.0.1609:*:*:*:*:*:*:*,Avast Endpoint Protection Suite 8.0.1609,['CVE-2016-4025'],2022-03-19T03:58Z
+8,cpe:2.3:a:avast:endpoint_protection_suite_plus:8.0.1606:*:*:*:*:*:*:*,Avast Endpoint Protection Suite Plus 8.0.1606,['CVE-2016-4025'],2022-03-19T03:58Z
+9,cpe:2.3:a:avast:endpoint_protection_suite_plus:8.0.1609:*:*:*:*:*:*:*,Avast Endpoint Protection Suite Plus 8.0.1609,['CVE-2016-4025'],2022-03-19T03:58Z

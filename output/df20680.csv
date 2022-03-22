@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alpinelinux:aports:3.8.0:rc5:*:*:*:alpine:*:*,Alpine Linux Aports 3.8.0 Release Candidate 5 for Alpine,['CVE-2021-36158'],2022-03-18T15:07Z
+1,cpe:2.3:a:alpinelinux:aports:3.8.0:rc6:*:*:*:alpine:*:*,Alpine Linux Aports 3.8.0 Release Candidate 6 for Alpine,['CVE-2021-36158'],2022-03-18T15:07Z
+2,cpe:2.3:a:alpinelinux:aports:3.8.0:rc7:*:*:*:alpine:*:*,Alpine Linux Aports 3.8.0 Release Candidate 7 for Alpine,['CVE-2021-36158'],2022-03-18T15:07Z
+3,cpe:2.3:a:alpinelinux:aports:3.8.0:rc8:*:*:*:alpine:*:*,Alpine Linux Aports 3.8.0 Release Candidate 8 for Alpine,['CVE-2021-36158'],2022-03-18T15:07Z
+4,cpe:2.3:a:alpinelinux:aports:3.8.0:rc9:*:*:*:alpine:*:*,Alpine Linux Aports 3.8.0 Release Candidate 9 for Alpine,['CVE-2021-36158'],2022-03-18T15:07Z
+5,cpe:2.3:a:alpinelinux:aports:3.8.1:*:*:*:*:alpine:*:*,Alpine Linux Aports 3.8.1 for Alpine,['CVE-2021-36158'],2022-03-18T15:07Z
+6,cpe:2.3:a:alpinelinux:aports:3.8.2:*:*:*:*:alpine:*:*,Alpine Linux Aports 3.8.2 for Alpine,['CVE-2021-36158'],2022-03-18T15:07Z
+7,cpe:2.3:a:alpinelinux:aports:3.8.3:*:*:*:*:alpine:*:*,Alpine Linux Aports 3.8.3 for Alpine,['CVE-2021-36158'],2022-03-18T15:07Z
+8,cpe:2.3:a:alpinelinux:aports:3.8.4:*:*:*:*:alpine:*:*,Alpine Linux Aports 3.8.4 for Alpine,['CVE-2021-36158'],2022-03-18T15:07Z
+9,cpe:2.3:a:alpinelinux:aports:3.8.5:*:*:*:*:alpine:*:*,Alpine Linux Aports 3.8.5 for Alpine,['CVE-2021-36158'],2022-03-18T15:07Z

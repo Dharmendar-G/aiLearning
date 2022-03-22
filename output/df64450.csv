@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:avaya:cajun_p880:-:*:*:*:*:*:*:*,Avaya Cajun P880 Series,[''],2022-03-19T04:11Z
+1,cpe:2.3:h:avaya:cajun_p880:5.2.14:*:*:*:*:*:*:*,Avaya Cajun P880 Series 5.2.14,['CVE-2002-1229'],2022-03-19T04:11Z
+2,cpe:2.3:h:avaya:cajun_p882:-:*:*:*:*:*:*:*,Avaya Cajun P882 Series,[''],2022-03-19T04:11Z
+3,cpe:2.3:h:avaya:cajun_p882:5.2.14:*:*:*:*:*:*:*,Avaya Cajun P882 Series 5.2.14,['CVE-2002-1229'],2022-03-19T04:11Z
+4,cpe:2.3:a:avaya:call_management_server_supervisor:-:*:*:*:*:*:*:*,Avaya Call Management Server Supervisor,['CVE-2011-1229'],2022-03-19T04:11Z
+5,cpe:2.3:a:avaya:call_management_system:-:*:*:*:*:*:*:*,Avaya Call Management System,[''],2022-03-19T04:11Z
+6,cpe:2.3:a:avaya:call_management_system:17.0:-:*:*:*:*:*:*,Avaya Call Management System 17.0,['CVE-2016-5285'],2022-03-19T04:11Z
+7,cpe:2.3:a:avaya:call_management_system:17.0:r3:*:*:*:*:*:*,Avaya Call Management System 17.0 R3,['CVE-2016-5285'],2022-03-19T04:11Z
+8,cpe:2.3:a:avaya:call_management_system:17.0:r4:*:*:*:*:*:*,Avaya Call Management System 17.0 R4,['CVE-2016-5285'],2022-03-19T04:11Z
+9,cpe:2.3:a:avaya:call_management_system:17.0:r5:*:*:*:*:*:*,Avaya Call Management System 17.0 R5,['CVE-2016-5285'],2022-03-19T04:12Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:jg861a_hp_msr3024_taa-compliant_ac_router:-:*:*:*:*:*:*:*,HP JG861A HP MSR3024 TAA-Compliant AC Router,['CVE-2015-5434'],2022-03-21T13:54Z
+1,cpe:2.3:h:hp:jg866a:-:*:*:*:*:*:*:*,HP JH060A HP MSR1003-8S AC Router,[''],2022-03-21T13:54Z
+2,cpe:2.3:h:hp:jg866a_hp_msr2003_taa-compliant_ac_router:-:*:*:*:*:*:*:*,HP JG866A HP MSR2003 TAA-Compliant AC Router,['CVE-2015-5434'],2022-03-21T13:54Z
+3,cpe:2.3:h:hp:jg869a:-:*:*:*:*:*:*:*,HP JG812AAE HP VSR1004 Comware 7 Virtual Services Router,[''],2022-03-21T13:54Z
+4,cpe:2.3:h:hp:jg875a:-:*:*:*:*:*:*:*,HP JG875A HP MSR1002-4 AC Router,[''],2022-03-21T13:54Z
+5,cpe:2.3:h:hp:jg894a:-:*:*:*:*:*:*:*,HP FlexFabric JG894A,[''],2022-03-21T13:54Z
+6,cpe:2.3:h:hp:jg896a:-:*:*:*:*:*:*:*,HP FlexFabric JG896A,[''],2022-03-21T13:54Z
+7,cpe:2.3:h:hp:jg898a:-:*:*:*:*:*:*:*,HP FlexFabric JG898A,[''],2022-03-21T13:54Z
+8,cpe:2.3:h:hp:jh060a:-:*:*:*:*:*:*:*,HP JG822A HP 10508-V TAA Switch Chassis,[''],2022-03-21T13:54Z
+9,cpe:2.3:h:hp:jh075a\):-:*:*:*:*:*:*:*,HP JG823A HP 10512 TAA Switch Chassis,[''],2022-03-21T13:54Z

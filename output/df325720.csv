@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:mercury_loadrunner_agent:8.1:*:*:*:*:*:*:*,HP Mercury LoadRunner Agent 8.1,['CVE-2007-0446'],2022-03-21T15:21Z
+1,cpe:2.3:a:hp:mercury_monitor_over_firewall:-:*:*:*:*:*:*:*,HP Mercury Monitor over Firewall,[''],2022-03-21T15:21Z
+2,cpe:2.3:a:hp:mercury_monitor_over_firewall:8.1:*:*:*:*:*:*:*,HP Mercury Monitor over Firewall 8.1,['CVE-2007-0446'],2022-03-21T15:21Z
+3,cpe:2.3:a:hp:mercury_performance_center_agent:-:*:*:*:*:*:*:*,HP Mercury Performance Center Agent,[''],2022-03-21T15:21Z
+4,cpe:2.3:a:hp:mercury_performance_center_agent:8.0:*:*:*:*:*:*:*,HP Mercury Performance Center Agent 8.0,['CVE-2007-0446'],2022-03-21T15:21Z
+5,cpe:2.3:a:hp:mercury_performance_center_agent:8.1:*:*:*:*:*:*:*,HP Mercury Performance Center Agent 8.1,['CVE-2007-0446'],2022-03-21T15:21Z
+6,cpe:2.3:a:hp:mercury_quality_center:-:*:*:*:*:*:*:*,HP Mercury Quality Center,['CVE-2007-5289'],2022-03-21T15:21Z
+7,cpe:2.3:a:hp:mercury_quality_center:8.2:*:*:*:*:*:*:*,HP Mercury Quality Center 8.2,['CVE-2007-5289'],2022-03-21T15:21Z
+8,cpe:2.3:a:hp:mercury_quality_center:8.2:sp1:*:*:*:*:*:*,HP Mercury Quality Center 8.2 sp1,"['CVE-2007-1819', 'CVE-2007-5289']",2022-03-21T15:21Z
+9,cpe:2.3:a:hp:mercury_quality_center:9.0:*:*:*:*:*:*:*,HP Mercury Quality Center 9.0,"['CVE-2007-1819', 'CVE-2007-5289']",2022-03-21T15:21Z

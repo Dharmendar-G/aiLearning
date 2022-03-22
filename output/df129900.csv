@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:network_services_orchestrator:4.2.6.1:*:*:*:*:*:*:*,Cisco Network Services Orchestrator (NSO) 4.2.6.1,"['CVE-2020-3362', 'CVE-2021-44228']",2022-03-19T23:05Z
+1,cpe:2.3:a:cisco:network_services_orchestrator:4.2.7:*:*:*:*:*:*:*,Cisco Network Services Orchestrator (NSO) 4.2.7,"['CVE-2020-3362', 'CVE-2021-44228']",2022-03-19T23:05Z
+2,cpe:2.3:a:cisco:network_services_orchestrator:4.3:*:*:*:*:*:*:*,Cisco Network Services Orchestrator (NSO) 4.3,"['CVE-2018-0274', 'CVE-2020-3362', 'CVE-2021-44228']",2022-03-19T23:05Z
+3,cpe:2.3:a:cisco:network_services_orchestrator:4.3.0.1:*:*:*:*:*:*:*,Cisco Network Services Orchestrator (NSO) 4.3.0.1,"['CVE-2018-0274', 'CVE-2020-3362', 'CVE-2021-44228']",2022-03-19T23:05Z
+4,cpe:2.3:a:cisco:network_services_orchestrator:4.3.0.2:*:*:*:*:*:*:*,Cisco Network Services Orchestrator (NSO) 4.3.0.2,"['CVE-2018-0274', 'CVE-2020-3362', 'CVE-2021-44228']",2022-03-19T23:05Z
+5,cpe:2.3:a:cisco:network_services_orchestrator:4.3.1:*:*:*:*:*:*:*,Cisco Network Services Orchestrator (NSO) 4.3.1,"['CVE-2018-0274', 'CVE-2020-3362', 'CVE-2021-44228']",2022-03-19T23:05Z
+6,cpe:2.3:a:cisco:network_services_orchestrator:4.3.1.1:*:*:*:*:*:*:*,Cisco Network Services Orchestrator (NSO) 4.3.1.1,"['CVE-2018-0274', 'CVE-2020-3362', 'CVE-2021-44228']",2022-03-19T23:05Z
+7,cpe:2.3:a:cisco:network_services_orchestrator:4.3.1.2:*:*:*:*:*:*:*,Cisco Network Services Orchestrator (NSO) 4.3.1.2,"['CVE-2018-0274', 'CVE-2020-3362', 'CVE-2021-44228']",2022-03-19T23:05Z
+8,cpe:2.3:a:cisco:network_services_orchestrator:4.3.2:*:*:*:*:*:*:*,Cisco Network Services Orchestrator (NSO) 4.3.2,"['CVE-2018-0274', 'CVE-2020-3362', 'CVE-2021-44228']",2022-03-19T23:05Z
+9,cpe:2.3:a:cisco:network_services_orchestrator:4.3.2.1:*:*:*:*:*:*:*,Cisco Network Services Orchestrator (NSO) 4.3.2.1,"['CVE-2018-0274', 'CVE-2020-3362', 'CVE-2021-44228']",2022-03-19T23:05Z

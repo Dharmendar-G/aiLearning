@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atmail:atmail:7.8.0.4:*:*:*:*:*:*:*,Atmail 7.8.0.4,[''],2022-03-19T02:19Z
+1,cpe:2.3:a:atmail:atmail:7.8.0.5:*:*:*:*:*:*:*,Atmail 7.8.0.5,[''],2022-03-19T02:19Z
+2,cpe:2.3:a:atmail:atmail:7.8.1:*:*:*:*:*:*:*,Atmail 7.8.1,[''],2022-03-19T02:19Z
+3,cpe:2.3:a:atmail:atmail:7.8.2:*:*:*:*:*:*:*,Atmail 7.8.2,[''],2022-03-19T02:19Z
+4,cpe:2.3:a:atmarkweb:\@web_shoppingcart:1.1.0.0:*:*:*:*:*:*:*,ウェブロジック ＠WEBショッピングカート 1.1.0.0,['CVE-2012-2631'],2022-03-19T02:19Z
+5,cpe:2.3:a:atmarkweb:\@web_shoppingcart:1.1.1.0:*:*:*:*:*:*:*,WEBLOGIC @WEB ShoppingCart 1.1.1.0,['CVE-2012-2631'],2022-03-19T02:19Z
+6,cpe:2.3:a:atmarkweb:\@web_shoppingcart:1.1.2.0:*:*:*:*:*:*:*,WEBLOGIC @WEB ShoppingCart 1.1.2.0,['CVE-2012-2631'],2022-03-19T02:19Z
+7,cpe:2.3:a:atmarkweb:\@web_shoppingcart:1.2.0.0:*:*:*:*:*:*:*,WEBLOGIC @WEB ShoppingCart 1.2.0.0,['CVE-2012-2631'],2022-03-19T02:19Z
+8,cpe:2.3:a:atmarkweb:\@web_shoppingcart:1.3.0.0:*:*:*:*:*:*:*,WEBLOGIC @WEB ShoppingCart 1.3.0.0,['CVE-2012-2631'],2022-03-19T02:19Z
+9,cpe:2.3:a:atmarkweb:\@web_shoppingcart:1.3.1.0:*:*:*:*:*:*:*,ウェブロジック ＠WEBショッピングカート 1.3.1.0,['CVE-2012-2631'],2022-03-19T02:19Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:diffplug:gradle:3.16.0:*:*:*:*:spotless:*:*,DiffPlug Gradle 3.16.0 for Spotless,['CVE-2019-9843'],2022-03-20T14:03Z
+1,cpe:2.3:a:diffplug:gradle:3.17.0:*:*:*:*:spotless:*:*,DiffPlug Gradle 3.17.0 for Spotless,['CVE-2019-9843'],2022-03-20T14:03Z
+2,cpe:2.3:a:diffplug:gradle:3.18.0:*:*:*:*:spotless:*:*,DiffPlug Gradle 3.18.0 for Spotless,['CVE-2019-9843'],2022-03-20T14:03Z
+3,cpe:2.3:a:diffplug:gradle:3.19.0:*:*:*:*:spotless:*:*,DiffPlug Gradle 3.19.0 for Spotless,['CVE-2019-9843'],2022-03-20T14:03Z
+4,cpe:2.3:a:diffplug:gradle:3.20.0:*:*:*:*:spotless:*:*,DiffPlug Gradle 3.20.0 for Spotless,[''],2022-03-20T14:03Z
+5,cpe:2.3:a:diffplug:gradle:3.21.0:*:*:*:*:spotless:*:*,DiffPlug Gradle 3.21.0 for Spotless,[''],2022-03-20T14:03Z
+6,cpe:2.3:a:diffplug:gradle:3.21.1:*:*:*:*:spotless:*:*,DiffPlug Gradle 3.21.1 for Spotless,[''],2022-03-20T14:03Z
+7,cpe:2.3:a:diffplug:gradle:3.22.0:*:*:*:*:spotless:*:*,DiffPlug Gradle 3.22.0 for Spotless,[''],2022-03-20T14:03Z
+8,cpe:2.3:a:diffplug:gradle:3.23.0:*:*:*:*:spotless:*:*,DiffPlug Gradle 3.23.0 for Spotless,[''],2022-03-20T14:03Z
+9,cpe:2.3:a:diffplug:gradle:3.23.1:*:*:*:*:spotless:*:*,DiffPlug Gradle 3.23.1 for Spotless,[''],2022-03-20T14:03Z

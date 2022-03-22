@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dahuasecurity:nvr5224-24p-4ks2_firmware:dh_nvr5224_eng_p_v2.616.0000.0.r.20171102:*:*:*:*:*:*:*,Dahua Security NVR5224-24p-4ks2 Firmware Dh Nvr5224 Eng Patch  V2.616.0000.0.r.20171102,[''],2022-03-20T09:57Z
+1,cpe:2.3:h:dahuasecurity:nvr5232-16p-4ks2:-:*:*:*:*:*:*:*,Dahua Technology USA Inc NVR5232-16P-4KS2,['CVE-2017-9314'],2022-03-20T09:57Z
+2,cpe:2.3:o:dahuasecurity:nvr5232-16p-4ks2_firmware:-:*:*:*:*:*:*:*,Dahua Security NVR5232-16p-4ks2 Firmware,['CVE-2017-9314'],2022-03-20T09:57Z
+3,cpe:2.3:o:dahuasecurity:nvr5232-16p-4ks2_firmware:dh_nvr5232_eng_p_v2.616.0000.0.r.20171102:*:*:*:*:*:*:*,Dahua Security NVR5232-16p-4ks2 Firmware Dh Nvr5232 Eng Patch V2.616.0000.0.r.20171102,[''],2022-03-20T09:57Z
+4,cpe:2.3:h:dahuasecurity:nvr5232-4ks2:-:*:*:*:*:*:*:*,Dahua Technology USA Inc NVR5232-4KS2,['CVE-2017-9314'],2022-03-20T09:57Z
+5,cpe:2.3:o:dahuasecurity:nvr5232-4ks2_firmware:-:*:*:*:*:*:*:*,Dahua Security NVR5232-4ks2 Firmware,['CVE-2017-9314'],2022-03-20T09:57Z
+6,cpe:2.3:o:dahuasecurity:nvr5232-4ks2_firmware:dh_nvr5232_eng_p_v2.616.0000.0.r.20171102:*:*:*:*:*:*:*,Dahua Security NVR5232-4ks2 Firmware Dh Nvr5232 Eng Patch V2.616.0000.0.r.20171102,[''],2022-03-20T09:57Z
+7,cpe:2.3:h:dahuasecurity:nvr5232-8p-4ks2:-:*:*:*:*:*:*:*,Dahua Technology USA Inc NVR5232-8P-4KS2,['CVE-2017-9314'],2022-03-20T09:57Z
+8,cpe:2.3:o:dahuasecurity:nvr5232-8p-4ks2_firmware:-:*:*:*:*:*:*:*,Dahua Security NVR5232-8p-4ks2 Firmware,['CVE-2017-9314'],2022-03-20T09:57Z
+9,cpe:2.3:o:dahuasecurity:nvr5232-8p-4ks2_firmware:dh_nvr5232_eng_p_v2.616.0000.0.r.20171102:*:*:*:*:*:*:*,Dahua Security NVR5232-8p-4ks2 Firmware Dh Nvr5232 Eng Patch V2.616.0000.0.r.20171102,[''],2022-03-20T09:57Z

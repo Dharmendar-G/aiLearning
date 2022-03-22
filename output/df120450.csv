@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:ids_4215:-:*:*:*:*:*:*:*,Cisco IDS 4215 Sensor,['CVE-2015-0631'],2022-03-19T20:04Z
+1,cpe:2.3:h:cisco:ids_4220:-:*:*:*:*:*:*:*,シスコシステムズ IDS 4220 Sensor,['CVE-2015-0631'],2022-03-19T20:04Z
+2,cpe:2.3:h:cisco:ids_4230:-:*:*:*:*:*:*:*,Cisco IDS 4230 Sensor,['CVE-2015-0631'],2022-03-19T20:04Z
+3,cpe:2.3:h:cisco:ids_4235:-:*:*:*:*:*:*:*,シスコシステムズ IDS 4235 Sensor,['CVE-2015-0631'],2022-03-19T20:04Z
+4,cpe:2.3:h:cisco:ids_4250:-:*:*:*:*:*:*:*,シスコシステムズ IDS 4250 Sensor,['CVE-2015-0631'],2022-03-19T20:04Z
+5,cpe:2.3:h:cisco:ids_4250_xl:-:*:*:*:*:*:*:*,Cisco IDS 4250 XL Sensor,['CVE-2015-0631'],2022-03-19T20:04Z
+6,cpe:2.3:a:cisco:ids_device_manager:-:*:*:*:*:*:*:*,Cisco IDS Device Manager,[''],2022-03-19T20:04Z
+7,cpe:2.3:a:cisco:ids_device_manager:3.1.1:*:*:*:*:*:*:*,Cisco IDS Device Manager 3.1.1,['CVE-2002-0908'],2022-03-19T20:05Z
+8,cpe:2.3:a:cisco:ids_sensor_software:4.0\(1\)e0:*:*:*:*:*:*:*,Cisco IDS Sensor Software 4.0(1)E0,[''],2022-03-19T20:04Z
+9,cpe:2.3:a:cisco:ids_sensor_software:4.1\(1\)e0:*:*:*:*:*:*:*,Cisco IDS Sensor Software 4.1(1)E0,[''],2022-03-19T20:05Z

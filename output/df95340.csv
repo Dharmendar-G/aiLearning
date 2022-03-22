@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bubblesoftapps:bubbleupnp:0.9:update_30:*:*:*:*:*:*,Bubblesoftapps BubbleUPnP 0.9 Update 30,['CVE-2018-15506'],2022-03-19T13:06Z
+1,cpe:2.3:a:budabot:budabot:0.6.0:*:*:*:*:*:*:*,Budabot 0.6.0,['CVE-2018-19290'],2022-03-19T13:06Z
+2,cpe:2.3:a:budabot:budabot:0.6.1:*:*:*:*:*:*:*,Budabot 0.6.1,['CVE-2018-19290'],2022-03-19T13:06Z
+3,cpe:2.3:a:budabot:budabot:0.6.2:*:*:*:*:*:*:*,Budabot 0.6.2,['CVE-2018-19290'],2022-03-19T13:06Z
+4,cpe:2.3:a:budabot:budabot:0.6.3:*:*:*:*:*:*:*,Budabot 0.6.3,['CVE-2018-19290'],2022-03-19T13:06Z
+5,cpe:2.3:a:budabot:budabot:0.6.4:*:*:*:*:*:*:*,Budabot 0.6.4,['CVE-2018-19290'],2022-03-19T13:06Z
+6,cpe:2.3:a:budabot:budabot:0.6.5:*:*:*:*:*:*:*,Budabot 0.6.5,['CVE-2018-19290'],2022-03-19T13:06Z
+7,cpe:2.3:a:budabot:budabot:1.0:*:*:*:*:*:*:*,Budabot 1.0,['CVE-2018-19290'],2022-03-19T13:06Z
+8,cpe:2.3:a:budabot:budabot:2.0:-:*:*:*:*:*:*,Budabot 2.0,['CVE-2018-19290'],2022-03-19T13:06Z
+9,cpe:2.3:a:budabot:budabot:2.0:rc1:*:*:*:*:*:*,Budabot 2.0 Release Candidate 1,['CVE-2018-19290'],2022-03-19T13:06Z

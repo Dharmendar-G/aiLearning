@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:single_sign-on:r12.51:*:*:*:*:*:*:*,Broadcom Single Sign-On R12.51,['CVE-2015-6853'],2022-03-19T12:30Z
+1,cpe:2.3:a:broadcom:single_sign-on:r12.52:*:*:*:*:*:*:*,Broadcom Single Sign-On R12.52,['CVE-2015-6853'],2022-03-19T12:30Z
+2,cpe:2.3:a:broadcom:siteminder:12.0:sp1:*:*:*:*:*:*,Broadcom SiteMinder 12.0 Service Pack 1,"['CVE-2009-2705', 'CVE-2013-5968']",2022-03-19T12:30Z
+3,cpe:2.3:a:broadcom:siteminder:12.0:sp2:*:*:*:*:*:*,Broadcom SiteMinder 12.0 Service Pack 2,"['CVE-2009-2705', 'CVE-2013-5968']",2022-03-19T12:30Z
+4,cpe:2.3:a:broadcom:siteminder:12.0:sp3:cr01:*:*:*:*:*,Broadcom SiteMinder 12.0 Service Pack 3 CR01 Edition,"['CVE-2009-2705', 'CVE-2011-1718', 'CVE-2013-5968']",2022-03-19T12:30Z
+5,cpe:2.3:a:broadcom:siteminder:12.5:*:*:*:*:*:*:*,Broadcom SiteMinder 12.5,"['CVE-2009-2705', 'CVE-2013-5968']",2022-03-19T12:30Z
+6,cpe:2.3:a:broadcom:siteminder:12.51:*:*:*:*:*:*:*,Broadcom SiteMinder 12.51,"['CVE-2009-2705', 'CVE-2013-5968']",2022-03-19T12:30Z
+7,cpe:2.3:a:broadcom:siteminder_federation:12.0:*:*:*:*:*:*:*,Broadcom SiteMinder Federation 12.0,[''],2022-03-19T12:30Z
+8,cpe:2.3:a:broadcom:spectrum:9.2:*:*:*:*:*:*:*,Broadcom Spectrum 9.2,"['CVE-2015-2827', 'CVE-2015-2828']",2022-03-19T12:30Z
+9,cpe:2.3:a:broadcom:spectrum:9.3:*:*:*:*:*:*:*,Broadcom Spectrum 9.3,"['CVE-2015-2827', 'CVE-2015-2828']",2022-03-19T12:30Z

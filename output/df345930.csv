@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:ibm:power_5_system_firmware:sf240_222_201:*:*:*:*:*:*:*,IBM Power 5 System Firmware SF240_222_201,['CVE-2012-4856'],2022-03-21T21:25Z
+1,cpe:2.3:o:ibm:power_5_system_firmware:sf240_233_201:*:*:*:*:*:*:*,IBM Power 5 System Firmware SF240_233_201,['CVE-2012-4856'],2022-03-21T21:25Z
+2,cpe:2.3:o:ibm:power_5_system_firmware:sf240_258_201:*:*:*:*:*:*:*,IBM Power 5 System Firmware SF240_258_201,['CVE-2012-4856'],2022-03-21T21:25Z
+3,cpe:2.3:o:ibm:power_5_system_firmware:sf240_259_201:*:*:*:*:*:*:*,IBM Power 5 System Firmware SF240_259_201,['CVE-2012-4856'],2022-03-21T21:25Z
+4,cpe:2.3:o:ibm:power_5_system_firmware:sf240_261_201:*:*:*:*:*:*:*,IBM Power 5 System Firmware SF240_261_201,['CVE-2012-4856'],2022-03-21T21:25Z
+5,cpe:2.3:o:ibm:power_5_system_firmware:sf240_284_201:*:*:*:*:*:*:*,IBM Power 5 System Firmware SF240_284_201,['CVE-2012-4856'],2022-03-21T21:25Z
+6,cpe:2.3:o:ibm:power_5_system_firmware:sf240_298_201:*:*:*:*:*:*:*,IBM Power 5 System Firmware SF240_298_201,['CVE-2012-4856'],2022-03-21T21:25Z
+7,cpe:2.3:o:ibm:power_5_system_firmware:sf240_299_201:*:*:*:*:*:*:*,IBM Power 5 System Firmware SF240_299_201,['CVE-2012-4856'],2022-03-21T21:25Z
+8,cpe:2.3:o:ibm:power_5_system_firmware:sf240_320_201:*:*:*:*:*:*:*,IBM Power 5 System Firmware SF240_320_201,['CVE-2012-4856'],2022-03-21T21:25Z
+9,cpe:2.3:o:ibm:power_5_system_firmware:sf240_332_201:*:*:*:*:*:*:*,IBM Power 5 System Firmware SF240_332_201,['CVE-2012-4856'],2022-03-21T21:26Z

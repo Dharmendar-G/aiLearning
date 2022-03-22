@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:compaq:power_management:-:*:*:*:*:*:*:*,Compaq Power Management,[''],2022-03-20T07:01Z
+1,cpe:2.3:h:compaq:proliant_bl_e-class_integrated_administrator_firmware:-:*:*:*:*:*:*:*,Compaq ProLiant BL e-Class Integrated Administrator firmware,[''],2022-03-20T07:01Z
+2,cpe:2.3:a:compaq:sanworks_resource_monitor:-:*:*:*:*:*:*:*,Compaq SANWorks Resource Monitor,[''],2022-03-20T07:01Z
+3,cpe:2.3:a:compaq:sanworks_resource_monitor:1.0:*:*:*:*:*:*:*,Compaq SANWorks Resource Monitor 1.0,['CVE-2001-0134'],2022-03-20T07:01Z
+4,cpe:2.3:a:compaq:smartstart:-:*:*:*:*:*:*:*,Compaq SmartStart,['CVE-1999-1356'],2022-03-20T07:01Z
+5,cpe:2.3:a:compaq:smartstart:4.50:*:*:*:*:*:*:*,Compaq SmartStart 4.50,['CVE-1999-1356'],2022-03-20T07:01Z
+6,cpe:2.3:a:compaq:storage_allocation_reporter:-:*:*:*:*:*:*:*,Compaq Storage Allocation Reporter,[''],2022-03-20T07:01Z
+7,cpe:2.3:a:compaq:storage_allocation_reporter:1.0:*:*:*:*:*:*:*,Compaq Storage Allocation Reporter 1.0,['CVE-2001-0134'],2022-03-20T07:01Z
+8,cpe:2.3:a:compaq:survey_utility:-:*:*:*:*:*:*:*,Compaq Survey Utility,[''],2022-03-20T07:01Z
+9,cpe:2.3:a:compaq:survey_utility:2.17:*:*:*:*:*:*:*,Compaq Survey Utility 2.17,['CVE-2001-0134'],2022-03-20T07:01Z

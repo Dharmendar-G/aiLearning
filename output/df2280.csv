@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:30lines:rentpress:6.5:*:*:*:*:wordpress:*:*,30 Lines RentPress 6.5 for WordPress,['CVE-2021-38323'],2022-03-18T09:59Z
+1,cpe:2.3:a:30lines:rentpress:6.5.1:*:*:*:*:wordpress:*:*,30 Lines RentPress 6.5.1 for WordPress,['CVE-2021-38323'],2022-03-18T09:59Z
+2,cpe:2.3:a:30lines:rentpress:6.5.2:*:*:*:*:wordpress:*:*,30 Lines RentPress 6.5.2 for WordPress,['CVE-2021-38323'],2022-03-18T09:59Z
+3,cpe:2.3:a:30lines:rentpress:6.6:*:*:*:*:wordpress:*:*,30 Lines RentPress 6.6 for WordPress,['CVE-2021-38323'],2022-03-18T09:59Z
+4,cpe:2.3:a:30lines:rentpress:6.6.1:*:*:*:*:wordpress:*:*,30 Lines RentPress 6.6.1 for WordPress,['CVE-2021-38323'],2022-03-18T09:59Z
+5,cpe:2.3:a:30lines:rentpress:6.6.2:*:*:*:*:wordpress:*:*,30 Lines RentPress 6.6.2 for WordPress,['CVE-2021-38323'],2022-03-18T09:59Z
+6,cpe:2.3:a:30lines:rentpress:6.6.3:*:*:*:*:wordpress:*:*,30 Lines RentPress 6.6.3 for WordPress,['CVE-2021-38323'],2022-03-18T09:59Z
+7,cpe:2.3:a:30lines:rentpress:6.6.4:*:*:*:*:wordpress:*:*,30 Lines RentPress 6.6.4 for WordPress,['CVE-2021-38323'],2022-03-18T09:59Z
+8,cpe:2.3:a:30lines:rentpress:6.6.5:*:*:*:*:wordpress:*:*,30 Lines RentPress 6.6.5 for WordPress,[''],2022-03-18T09:59Z
+9,cpe:2.3:h:360:360f5:-:*:*:*:*:*:*:*,360 360F5,['CVE-2019-3405'],2022-03-18T09:59Z

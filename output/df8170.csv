@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:addtoany:addtoany_share_buttons:1.7.40:*:*:*:*:wordpress:*:*,AddToAny Share Buttons 1.7.40 for WordPress,"['CVE-2021-24568', 'CVE-2021-24616']",2022-03-18T11:52Z
+1,cpe:2.3:a:addtoany:addtoany_share_buttons:1.7.41:*:*:*:*:wordpress:*:*,AddToAny Share Buttons 1.7.41 for WordPress,"['CVE-2021-24568', 'CVE-2021-24616']",2022-03-18T11:52Z
+2,cpe:2.3:a:addtoany:addtoany_share_buttons:1.7.42:*:*:*:*:wordpress:*:*,AddToAny Share Buttons 1.7.42 for WordPress,"['CVE-2021-24568', 'CVE-2021-24616']",2022-03-18T11:52Z
+3,cpe:2.3:a:addtoany:addtoany_share_buttons:1.7.43:*:*:*:*:wordpress:*:*,AddToAny Share Buttons 1.7.43 for WordPress,"['CVE-2021-24568', 'CVE-2021-24616']",2022-03-18T11:52Z
+4,cpe:2.3:a:addtoany:addtoany_share_buttons:1.7.44:*:*:*:*:wordpress:*:*,AddToAny Share Buttons 1.7.44 for WordPress,"['CVE-2021-24568', 'CVE-2021-24616']",2022-03-18T11:52Z
+5,cpe:2.3:a:addtoany:addtoany_share_buttons:1.7.45:*:*:*:*:wordpress:*:*,AddToAny Share Buttons 1.7.45 for WordPress,"['CVE-2021-24568', 'CVE-2021-24616']",2022-03-18T11:52Z
+6,cpe:2.3:a:addtoany:addtoany_share_buttons:1.7.46:*:*:*:*:wordpress:*:*,AddToAny Share Buttons 1.7.46 for WordPress,['CVE-2021-24616'],2022-03-18T11:52Z
+7,cpe:2.3:a:addtoany:addtoany_share_buttons:1.7.47:*:*:*:*:wordpress:*:*,AddToAny Share Buttons 1.7.47 for WordPress,['CVE-2021-24616'],2022-03-18T11:52Z
+8,cpe:2.3:a:addtoany:addtoany_share_buttons:1.7.48:*:*:*:*:wordpress:*:*,AddToAny Share Buttons 1.7.48 for WordPress,[''],2022-03-18T11:52Z
+9,cpe:2.3:a:addtoany:addtoany_share_buttons:1.8.0:*:*:*:*:wordpress:*:*,AddToAny Share Buttons 1.8.0 for WordPress,[''],2022-03-18T11:52Z

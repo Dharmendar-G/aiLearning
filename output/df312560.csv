@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitachi:infrastructure_analytics_advisor:4.2.0:*:*:*:*:*:*:*,Hitachi Infrastructure Analytics Advisor 4.2.0,"['CVE-2018-21033', 'CVE-2019-17360']",2022-03-21T11:20Z
+1,cpe:2.3:a:hitachi:infrastructure_analytics_advisor:4.2.0-00:*:*:*:*:*:*:*,Hitachi Infrastructure Analytics Advisor 4.2.0-00,['CVE-2019-17360'],2022-03-21T11:20Z
+2,cpe:2.3:a:hitachi:infrastructure_analytics_advisor:4.3.0:*:*:*:*:*:*:*,Hitachi Infrastructure Analytics Advisor 4.3.0,['CVE-2019-17360'],2022-03-21T11:20Z
+3,cpe:2.3:a:hitachi:infrastructure_analytics_advisor:4.4.0:*:*:*:*:*:*:*,Hitachi Infrastructure Analytics Advisor 4.4.0,['CVE-2019-17360'],2022-03-21T11:20Z
+4,cpe:2.3:a:hitachi:it_operations_analyzer:02-01:*:*:*:*:*:*:*,Hitachi IT Operations Analyzer 02-01,['CVE-2012-0917'],2022-03-21T11:20Z
+5,cpe:2.3:a:hitachi:it_operations_analyzer:02-51:*:*:*:*:*:*:*,Hitachi IT Operations Analyzer 02-51,['CVE-2012-0917'],2022-03-21T11:20Z
+6,cpe:2.3:a:hitachi:it_operations_analyzer:02-51-01:*:*:*:*:*:*:*,Hitachi IT Operations Analyzer 02-51-01,['CVE-2012-0917'],2022-03-21T11:20Z
+7,cpe:2.3:a:hitachi:it_operations_analyzer:02-53:*:*:*:*:*:*:*,Hitachi IT Operations Analyzer 02-53,['CVE-2012-0917'],2022-03-21T11:20Z
+8,cpe:2.3:a:hitachi:it_operations_analyzer:02-53-01:*:*:*:*:*:*:*,Hitachi IT Operations Analyzer 02-53-01,['CVE-2012-0917'],2022-03-21T11:20Z
+9,cpe:2.3:a:hitachi:it_operations_analyzer:02-53-02:*:*:*:*:*:*:*,Hitachi IT Operations Analyzer 02-53-02,['CVE-2012-0917'],2022-03-21T11:20Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:barrelstrengthdesign:sprout_forms:3.10.0:*:*:*:*:*:*:*,Barrelstrengthdesign Sprout Forms 3.10.0,[''],2022-03-19T06:22Z
+1,cpe:2.3:a:barrelstrengthdesign:sprout_forms:3.10.0.1:*:*:*:*:*:*:*,Barrelstrengthdesign Sprout Forms 3.10.0.1,[''],2022-03-19T06:22Z
+2,cpe:2.3:a:barrelstrengthdesign:sprout_forms:3.11.0:*:*:*:*:*:*:*,Barrelstrengthdesign Sprout Forms 3.11.0,[''],2022-03-19T06:22Z
+3,cpe:2.3:a:barrelstrengthdesign:sprout_forms:3.11.1:*:*:*:*:*:*:*,Barrelstrengthdesign Sprout Forms 3.11.1,[''],2022-03-19T06:22Z
+4,cpe:2.3:a:barrelstrengthdesign:sprout_forms:3.11.2:*:*:*:*:*:*:*,Barrelstrengthdesign Sprout Forms 3.11.2,[''],2022-03-19T06:22Z
+5,cpe:2.3:a:barrier_project:barrier:1.6.0:*:*:*:*:*:*:*,Barrier Project Barrier 1.6.0,"['CVE-2021-42072', 'CVE-2021-42073', 'CVE-2021-42074', 'CVE-2021-42075', 'CVE-2021-42076']",2022-03-19T06:22Z
+6,cpe:2.3:a:barrier_project:barrier:1.6.1:*:*:*:*:*:*:*,Barrier Project Barrier 1.6.1,"['CVE-2021-42072', 'CVE-2021-42073', 'CVE-2021-42074', 'CVE-2021-42075', 'CVE-2021-42076']",2022-03-19T06:22Z
+7,cpe:2.3:a:barrier_project:barrier:1.6.2:*:*:*:*:*:*:*,Barrier Project Barrier 1.6.2,"['CVE-2021-42072', 'CVE-2021-42073', 'CVE-2021-42074', 'CVE-2021-42075', 'CVE-2021-42076']",2022-03-19T06:22Z
+8,cpe:2.3:a:barrier_project:barrier:1.6.3:*:*:*:*:*:*:*,Barrier Project Barrier 1.6.3,"['CVE-2021-42072', 'CVE-2021-42073', 'CVE-2021-42074', 'CVE-2021-42075', 'CVE-2021-42076']",2022-03-19T06:22Z
+9,cpe:2.3:a:barrier_project:barrier:1.7.0:*:*:*:*:*:*:*,Barrier Project Barrier 1.7.0,"['CVE-2021-42072', 'CVE-2021-42073', 'CVE-2021-42074', 'CVE-2021-42075', 'CVE-2021-42076']",2022-03-19T06:22Z

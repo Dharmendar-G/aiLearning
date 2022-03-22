@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bosch:configuration_manager:5.50.0226:*:*:*:*:*:*:*,Bosch Configuration Manager 5.50.0226,"['CVE-2019-6957', 'CVE-2019-6958', 'CVE-2020-6788']",2022-03-19T10:01Z
+1,cpe:2.3:a:bosch:configuration_manager:5.51.0051:*:*:*:*:*:*:*,Bosch Configuration Manager 5.51.0051,"['CVE-2019-6957', 'CVE-2019-6958', 'CVE-2020-6788']",2022-03-19T10:01Z
+2,cpe:2.3:a:bosch:configuration_manager:5.52.0118:*:*:*:*:*:*:*,Bosch Configuration Manager 5.52.0118,"['CVE-2019-6957', 'CVE-2019-6958', 'CVE-2020-6788']",2022-03-19T10:01Z
+3,cpe:2.3:a:bosch:configuration_manager:5.53.0127:*:*:*:*:*:*:*,Bosch Configuration Manager 5.53.0127,"['CVE-2019-6957', 'CVE-2019-6958', 'CVE-2020-6788']",2022-03-19T10:01Z
+4,cpe:2.3:a:bosch:configuration_manager:5.54.0133:*:*:*:*:*:*:*,Bosch Configuration Manager 5.54.0133,"['CVE-2019-6957', 'CVE-2019-6958', 'CVE-2020-6788']",2022-03-19T10:01Z
+5,cpe:2.3:a:bosch:configuration_manager:6.10:*:*:*:*:*:*:*,Bosch Configuration Manager 6.10,['CVE-2020-6788'],2022-03-19T10:01Z
+6,cpe:2.3:a:bosch:configuration_manager:7.21.0078:*:*:*:*:*:*:*,Bosch Configuration Manager 7.21.0078,['CVE-2020-6788'],2022-03-19T10:01Z
+7,cpe:2.3:h:bosch:cpp13:-:*:*:*:*:*:*:*,Bosch CPP13,"['CVE-2021-23848', 'CVE-2021-23849', 'CVE-2021-23852', 'CVE-2021-23853', 'CVE-2021-23854']",2022-03-19T10:01Z
+8,cpe:2.3:o:bosch:cpp13_firmware:-:*:*:*:*:*:*:*,Bosch Common Product Platform 13 Firmware,"['CVE-2021-23848', 'CVE-2021-23852', 'CVE-2021-23853']",2022-03-19T10:01Z
+9,cpe:2.3:o:bosch:cpp13_firmware:7.75:*:*:*:*:*:*:*,Bosch Common Product Platform 13 Firmware 7.75,"['CVE-2021-23849', 'CVE-2021-23854']",2022-03-19T10:01Z

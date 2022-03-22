@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:officeconnect_1820_8g_switch_j9979a_firmware:pt.01.14:*:*:*:*:*:*:*,HP Officeconnect 1820 8g Switch J9979a Firmware Pt.01.14,['CVE-2017-5786'],2022-03-21T15:26Z
+1,cpe:2.3:o:hp:officeconnect_1820_8g_switch_j9979a_firmware:pt.02.01:*:*:*:*:*:*:*,HP Officeconnect 1820 8g Switch J9979a Firmware Pt.02.01,['CVE-2017-5786'],2022-03-21T15:26Z
+2,cpe:2.3:h:hp:officejet_250_cz992a:-:*:*:*:*:*:*:*,HP OfficeJet 250 CZ992A,['CVE-2020-28416'],2022-03-21T15:26Z
+3,cpe:2.3:o:hp:officejet_250_cz992a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET 250 CZ992A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:26Z
+4,cpe:2.3:o:hp:officejet_250_cz992a_firmware:40.11.1148:*:*:*:*:*:*:*,HP OFFICEJET 250 CZ992A FIRMWARE 40.11.1148,[''],2022-03-21T15:26Z
+5,cpe:2.3:h:hp:officejet_250c_l9d57a:-:*:*:*:*:*:*:*,HP OfficeJet 250C L9D57A,['CVE-2020-28416'],2022-03-21T15:26Z
+6,cpe:2.3:o:hp:officejet_250c_l9d57a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET 250C L9D57A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:26Z
+7,cpe:2.3:o:hp:officejet_250c_l9d57a_firmware:40.11.1148:*:*:*:*:*:*:*,HP OFFICEJET 250C L9D57A FIRMWARE 40.11.1148,[''],2022-03-21T15:26Z
+8,cpe:2.3:h:hp:officejet_252_n4l16c:-:*:*:*:*:*:*:*,HP OfficeJet 252 N4L16C,['CVE-2020-28416'],2022-03-21T15:26Z
+9,cpe:2.3:o:hp:officejet_252_n4l16c_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET 252 N4L16C FIRMWARE,['CVE-2020-28416'],2022-03-21T15:26Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:collne:welcart_e-commerce:1.7.2:*:*:*:*:wordpress:*:*,Collne Welcart e-Commerce 1.7.2 for WordPress,"['CVE-2016-4825', 'CVE-2016-4826', 'CVE-2016-4827', 'CVE-2016-4828', 'CVE-2020-28339']",2022-03-20T06:35Z
+1,cpe:2.3:a:collne:welcart_e-commerce:1.7.3:*:*:*:*:wordpress:*:*,Collne Welcart e-Commerce 1.7.3 for WordPress,"['CVE-2016-4825', 'CVE-2016-4826', 'CVE-2016-4827', 'CVE-2016-4828', 'CVE-2020-28339']",2022-03-20T06:35Z
+2,cpe:2.3:a:collne:welcart_e-commerce:1.7.4:*:*:*:*:wordpress:*:*,Collne Welcart e-Commerce 1.7.4 for WordPress,"['CVE-2016-4825', 'CVE-2016-4826', 'CVE-2016-4827', 'CVE-2016-4828', 'CVE-2020-28339']",2022-03-20T06:35Z
+3,cpe:2.3:a:collne:welcart_e-commerce:1.7.5:*:*:*:*:wordpress:*:*,Collne Welcart e-Commerce 1.7.5 for WordPress,"['CVE-2016-4825', 'CVE-2016-4826', 'CVE-2016-4827', 'CVE-2016-4828', 'CVE-2020-28339']",2022-03-20T06:35Z
+4,cpe:2.3:a:collne:welcart_e-commerce:1.8.0:*:*:*:*:wordpress:*:*,Collne Welcart e-Commerce 1.8.0 for WordPress,"['CVE-2016-4825', 'CVE-2016-4826', 'CVE-2016-4827', 'CVE-2016-4828', 'CVE-2020-28339']",2022-03-20T06:35Z
+5,cpe:2.3:a:collne:welcart_e-commerce:1.8.1:*:*:*:*:wordpress:*:*,Collne Welcart e-Commerce 1.8.1 for WordPress,"['CVE-2016-4825', 'CVE-2016-4826', 'CVE-2016-4827', 'CVE-2016-4828', 'CVE-2020-28339']",2022-03-20T06:35Z
+6,cpe:2.3:a:collne:welcart_e-commerce:1.8.2:*:*:*:*:wordpress:*:*,Collne Welcart e-Commerce 1.8.2 for WordPress,"['CVE-2016-4825', 'CVE-2016-4826', 'CVE-2016-4827', 'CVE-2016-4828', 'CVE-2020-28339']",2022-03-20T06:35Z
+7,cpe:2.3:a:collne:welcart_e-commerce:1.8.3:*:*:*:*:wordpress:*:*,Collne Welcart e-Commerce 1.8.3 for WordPress,['CVE-2020-28339'],2022-03-20T06:35Z
+8,cpe:2.3:a:collne:welcart_e-commerce:1.8.4:*:*:*:*:wordpress:*:*,Collne Welcart e-Commerce 1.8.4 for WordPress,['CVE-2020-28339'],2022-03-20T06:35Z
+9,cpe:2.3:a:collne:welcart_e-commerce:1.8.5:*:*:*:*:wordpress:*:*,Collne Welcart e-Commerce 1.8.5 for WordPress,['CVE-2020-28339'],2022-03-20T06:35Z

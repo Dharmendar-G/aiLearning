@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:darwin:factor:1.0.0:beta4:*:*:*:node.js:*:*,Darwin Factor 1.0.0 Beta 4 for Node.js,[''],2022-03-20T10:21Z
+1,cpe:2.3:a:darwin:factor:1.0.0:beta5:*:*:*:node.js:*:*,Darwin Factor 1.0.0 Beta 5 for Node.js,[''],2022-03-20T10:21Z
+2,cpe:2.3:a:darwin:factor:1.0.0:beta6:*:*:*:node.js:*:*,Darwin Factor 1.0.0 Beta 6 for Node.js,[''],2022-03-20T10:21Z
+3,cpe:2.3:a:darwin:factor:1.0.0:beta7:*:*:*:node.js:*:*,Darwin Factor 1.0.0 Beta 7 for Node.js,[''],2022-03-20T10:21Z
+4,cpe:2.3:a:darwin:factor:1.0.0:beta8:*:*:*:node.js:*:*,Darwin Factor 1.0.0 Beta 8 for Node.js,[''],2022-03-20T10:21Z
+5,cpe:2.3:a:darwin:factor:1.0.0:beta9:*:*:*:node.js:*:*,Darwin Factor 1.0.0 Beta 9 for Node.js,[''],2022-03-20T10:21Z
+6,cpe:2.3:a:darwin:factor:1.0.4:*:*:*:*:node.js:*:*,Darwin Factor 1.0.4 for Node.js,['CVE-2021-25985'],2022-03-20T10:21Z
+7,cpe:2.3:a:darwin:factor:1.0.5:*:*:*:*:node.js:*:*,Darwin Factor 1.0.5 for Node.js,['CVE-2021-25985'],2022-03-20T10:21Z
+8,cpe:2.3:a:darwin:factor:1.0.6:*:*:*:*:node.js:*:*,Darwin Factor 1.0.6 for Node.js,['CVE-2021-25985'],2022-03-20T10:21Z
+9,cpe:2.3:a:darwin:factor:1.0.7:*:*:*:*:node.js:*:*,Darwin Factor 1.0.7 for Node.js,['CVE-2021-25985'],2022-03-20T10:21Z

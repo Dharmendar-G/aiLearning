@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:crs-1_8-slot_line_card_chassis:-:*:*:*:*:*:*:*,Cisco Crs-1 8-slot Line Card Chassis,['CVE-2019-1842'],2022-03-19T19:17Z
+1,cpe:2.3:h:cisco:crs-1_8-slot_single-shelf_system:-:*:*:*:*:*:*:*,Cisco Crs-1 8-slot Single-shelf System,['CVE-2019-1842'],2022-03-19T19:17Z
+2,cpe:2.3:h:cisco:crs-1_fabric_card_chassis:-:*:*:*:*:*:*:*,Cisco Crs-1 Fabric Card Chassis,['CVE-2019-1842'],2022-03-19T19:17Z
+3,cpe:2.3:h:cisco:crs-1_line_card_chassis_\(dual\):-:*:*:*:*:*:*:*,Cisco Crs-1 Line Card Chassis (dual),['CVE-2019-1842'],2022-03-19T19:17Z
+4,cpe:2.3:h:cisco:crs-1_line_card_chassis_\(multi\):-:*:*:*:*:*:*:*,Cisco Crs-1 Line Card Chassis (multi),['CVE-2019-1842'],2022-03-19T19:17Z
+5,cpe:2.3:h:cisco:crs-1_multishelf_system:-:*:*:*:*:*:*:*,Cisco Crs-1 Multishelf System,['CVE-2019-1842'],2022-03-19T19:17Z
+6,cpe:2.3:h:cisco:crs-3_16-slot_single-shelf_system:-:*:*:*:*:*:*:*,Cisco Crs-3 16-slot Single-shelf System,['CVE-2019-1842'],2022-03-19T19:17Z
+7,cpe:2.3:h:cisco:crs-3_4-slot_single-shelf_system:-:*:*:*:*:*:*:*,Cisco Crs-3 4-slot Single-shelf System,['CVE-2019-1842'],2022-03-19T19:17Z
+8,cpe:2.3:h:cisco:crs-3_8-slot_single-shelf_system:-:*:*:*:*:*:*:*,Cisco Crs-3 8-slot Single-shelf System,['CVE-2019-1842'],2022-03-19T19:17Z
+9,cpe:2.3:h:cisco:crs-3_multishelf_system:-:*:*:*:*:*:*:*,Cisco Crs-3 Multishelf System,['CVE-2019-1842'],2022-03-19T19:17Z

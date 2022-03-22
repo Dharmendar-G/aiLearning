@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:ssl_visibility_appliance:3.11:*:*:*:*:*:*:*,Broadcom Ssl Visibility Appliance 3.11,['CVE-2017-15533'],2022-03-19T12:30Z
+1,cpe:2.3:a:broadcom:ssl_visibility_appliance:3.12:*:*:*:*:*:*:*,Broadcom Ssl Visibility Appliance 3.12,['CVE-2017-15533'],2022-03-19T12:30Z
+2,cpe:2.3:a:broadcom:ssl_visibility_appliance:4.4.5.1:*:*:*:*:*:*:*,Broadcom SSL Visibility Appliance 4.4.5.1,[''],2022-03-19T12:30Z
+3,cpe:2.3:a:broadcom:ssl_visibility_appliance:4.5.1.1:*:*:*:*:*:*:*,Broadcom SSL Visibility Appliance 4.5.1.1,[''],2022-03-19T12:30Z
+4,cpe:2.3:a:broadcom:ssl_visibility_appliance:4.5.3.1:*:*:*:*:*:*:*,Broadcom SSL Visibility Appliance 4.5.3.1,[''],2022-03-19T12:30Z
+5,cpe:2.3:a:broadcom:ssl_visibility_appliance:4.5.4.1:*:*:*:*:*:*:*,Broadcom SSL Visibility Appliance 4.5.4.1,[''],2022-03-19T12:30Z
+6,cpe:2.3:a:broadcom:ssl_visibility_appliance:4.5.5.1:*:*:*:*:*:*:*,Broadcom SSL Visibility Appliance 4.5.5.1,[''],2022-03-19T12:30Z
+7,cpe:2.3:a:broadcom:ssl_visibility_appliance:4.5.6.1:*:*:*:*:*:*:*,Broadcom SSL Visibility Appliance 4.5.6.1,[''],2022-03-19T12:30Z
+8,cpe:2.3:a:broadcom:ssl_visibility_appliance:4.5.7.1:*:*:*:*:*:*:*,Broadcom SSL Visibility Appliance 4.5.7.1,[''],2022-03-19T12:30Z
+9,cpe:2.3:a:broadcom:strong_authentication:7.1:*:*:*:*:*:*:*,Broadcom Strong Authentication 7.1,[''],2022-03-19T12:30Z

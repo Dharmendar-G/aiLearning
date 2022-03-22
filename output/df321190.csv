@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:elitebook_1030_g1_firmware:-:*:*:*:*:*:*:*,HP EliteBook 1030 G1 Firmware,"['CVE-2019-16284', 'CVE-2020-15596']",2022-03-21T13:17Z
+1,cpe:2.3:o:hp:elitebook_1030_g1_firmware:1.42:*:*:*:*:*:*:*,HP EliteBook 1030 G1 Firmware 1.42,['CVE-2020-15596'],2022-03-21T13:17Z
+2,cpe:2.3:o:hp:elitebook_1030_g1_firmware:8.2206.1717.166:*:*:*:*:*:*:*,HP EliteBook 1030 G1 Firmware 8.2206.1717.166,[''],2022-03-21T13:17Z
+3,cpe:2.3:h:hp:elitebook_1040_g2:-:*:*:*:*:*:*:*,HP EliteBook 1040 G2,"['CVE-2015-5367', 'CVE-2015-5368', 'CVE-2019-16284']",2022-03-21T13:17Z
+4,cpe:2.3:o:hp:elitebook_1040_g2_firmware:-:*:*:*:*:*:*:*,HP EliteBook 1040 G2 Firmware,['CVE-2019-16284'],2022-03-21T13:17Z
+5,cpe:2.3:o:hp:elitebook_1040_g2_firmware:1.17:*:*:*:*:*:*:*,HP EliteBook 1040 G2 Firmware 1.17,[''],2022-03-21T13:17Z
+6,cpe:2.3:h:hp:elitebook_1040_g4:-:*:*:*:*:*:*:*,HP EliteBook 1040 G4,"['CVE-2019-18618', 'CVE-2020-15596']",2022-03-21T13:17Z
+7,cpe:2.3:o:hp:elitebook_1040_g4_firmware:-:*:*:*:*:*:*:*,HP EliteBook 1040 G4 Firmware,"['CVE-2019-18618', 'CVE-2020-15596']",2022-03-21T13:17Z
+8,cpe:2.3:o:hp:elitebook_1040_g4_firmware:5.2.5026.26:*:*:*:*:*:*:*,HP EliteBook 1040 G4 Firmware 5.2.5026.26,['CVE-2020-15596'],2022-03-21T13:18Z
+9,cpe:2.3:o:hp:elitebook_1040_g4_firmware:8.2206.1717.634:*:*:*:*:*:*:*,HP EliteBook 1040 G4 Firmware 8.2206.1717.634,[''],2022-03-21T13:18Z

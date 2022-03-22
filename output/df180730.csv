@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:openmanage_server_administrator:7.0.0.1:*:*:*:*:*:*:*,Dell OpenManage Server Administrator 7.0.0.1,"['CVE-2012-6272', 'CVE-2013-0740', 'CVE-2021-21513', 'CVE-2021-21514']",2022-03-20T12:55Z
+1,cpe:2.3:a:dell:openmanage_server_administrator:7.1.0:*:*:*:*:*:*:*,Dell OpenManage Server Administrator 7.1.0,"['CVE-2012-4955', 'CVE-2013-0740', 'CVE-2021-21513', 'CVE-2021-21514']",2022-03-20T12:55Z
+2,cpe:2.3:a:dell:openmanage_server_administrator:7.1.0.1:*:*:*:*:*:*:*,Dell OpenManage Server Administrator 7.1.0.1,"['CVE-2012-6272', 'CVE-2013-0740', 'CVE-2021-21513', 'CVE-2021-21514']",2022-03-20T12:55Z
+3,cpe:2.3:a:dell:openmanage_server_administrator:7.2.0:*:*:*:*:*:*:*,Dell OpenManage Server Administrator 7.2.0,"['CVE-2013-0740', 'CVE-2021-21513', 'CVE-2021-21514']",2022-03-20T12:55Z
+4,cpe:2.3:a:dell:openmanage_server_administrator:7.3.0:*:*:*:*:*:*:*,Dell OpenManage Server Administrator 7.3.0,"['CVE-2021-21513', 'CVE-2021-21514']",2022-03-20T12:55Z
+5,cpe:2.3:a:dell:openmanage_server_administrator:8.2:*:*:*:*:*:*:*,Dell OpenManage Server Administrator 8.2,"['CVE-2016-4004', 'CVE-2021-21513', 'CVE-2021-21514']",2022-03-20T12:55Z
+6,cpe:2.3:a:dell:openmanage_server_administrator:9.4.0.3:*:*:*:*:*:*:*,Dell OpenManage Server Administrator 9.4.0.3,['CVE-2021-21514'],2022-03-20T12:55Z
+7,cpe:2.3:a:dell:openmanage_server_administrator:9.5.0.0:*:*:*:*:*:*:*,Dell OpenManage Server Administrator 9.5.0.0,['CVE-2021-21513'],2022-03-20T12:55Z
+8,cpe:2.3:a:dell:openmanage_server_administrator:9.5.0.1:*:*:*:*:*:*:*,Dell OpenManage Server Administrator 9.5.0.1,[''],2022-03-20T12:55Z
+9,cpe:2.3:a:dell:openmanage_server_administrator_installer:1.0.0:*:*:*:*:*:*:*,Dell Openmanage Server Administrator Installer 1.0.0,[''],2022-03-20T12:55Z

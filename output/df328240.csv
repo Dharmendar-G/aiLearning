@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:prodesk_480_g3_sff_firmware:-:*:*:*:*:*:*:*,HP ProDesk 480 G3 SFF Firmware,['CVE-2019-16284'],2022-03-21T15:54Z
+1,cpe:2.3:o:hp:prodesk_480_g3_sff_firmware:2.42:*:*:*:*:*:*:*,HP ProDesk 480 G3 SFF Firmware 2.42,[''],2022-03-21T15:54Z
+2,cpe:2.3:h:hp:prodesk_480_g5_microtower_pc:-:*:*:*:*:*:*:*,HP ProDesk 480 G5 Microtower PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:54Z
+3,cpe:2.3:h:hp:prodesk_480_g6_microtower_pc:-:*:*:*:*:*:*:*,HP ProDesk 480 G6 Microtower PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:54Z
+4,cpe:2.3:h:hp:prodesk_480_g6_mt:-:*:*:*:*:*:*:*,HP ProDesk 480 G6 MT,['CVE-2019-18913'],2022-03-21T15:54Z
+5,cpe:2.3:o:hp:prodesk_480_g6_mt_firmware:-:*:*:*:*:*:*:*,HP ProDesk 480 G6 MT Firmware,['CVE-2019-18913'],2022-03-21T15:54Z
+6,cpe:2.3:o:hp:prodesk_480_g6_mt_firmware:02.04.01:*:*:*:*:*:*:*,HP ProDesk 480 G6 MT Firmware 02.04.01,[''],2022-03-21T15:54Z
+7,cpe:2.3:h:hp:prodesk_480_g7_pci_microtower_pc:-:*:*:*:*:*:*:*,HP ProDesk 480 G7 PCI Microtower PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:54Z
+8,cpe:2.3:h:hp:prodesk_485_g2_mt:-:*:*:*:*:*:*:*,HP ProDesk 485 G2 MT,['CVE-2019-16284'],2022-03-21T15:54Z
+9,cpe:2.3:o:hp:prodesk_485_g2_mt_firmware:-:*:*:*:*:*:*:*,HP ProDesk 485 G2 MT Firmware,['CVE-2019-16284'],2022-03-21T15:54Z

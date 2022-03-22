@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:optiplex_3240:-:*:*:*:*:*:*:*,Dell OptiPlex 3240,"['CVE-2020-5326', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:56Z
+1,cpe:2.3:h:dell:optiplex_3240_aio:-:*:*:*:*:*:*:*,Dell OptiPlex 3240 AIO,"['CVE-2019-3717', 'CVE-2020-5362']",2022-03-20T12:56Z
+2,cpe:2.3:o:dell:optiplex_3240_aio_firmware:-:*:*:*:*:*:*:*,Dell OptiPlex 3240 AIO Firmware,"['CVE-2019-3717', 'CVE-2020-5362']",2022-03-20T12:56Z
+3,cpe:2.3:o:dell:optiplex_3240_aio_firmware:1.7.0:*:*:*:*:*:*:*,Dell OptiPlex 3240 AIO Firmware 1.7.0,['CVE-2020-5362'],2022-03-20T12:56Z
+4,cpe:2.3:h:dell:optiplex_3240_all-in-one:-:*:*:*:*:*:*:*,Dell Optiplex 3240 All-in-one,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:56Z
+5,cpe:2.3:o:dell:optiplex_3240_all-in-one_firmware:-:*:*:*:*:*:*:*,Dell Optiplex 3240 All-in-one Firmware,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:56Z
+6,cpe:2.3:o:dell:optiplex_3240_firmware:-:*:*:*:*:*:*:*,Dell OptiPlex 3240 Firmware,"['CVE-2020-5326', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:56Z
+7,cpe:2.3:o:dell:optiplex_3240_firmware:1.8.1:*:*:*:*:*:*:*,Dell OptiPlex 3240 Firmware 1.8.1,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:56Z
+8,cpe:2.3:h:dell:optiplex_3280:-:*:*:*:*:*:*:*,Dell Optiplex 3280 ,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:56Z
+9,cpe:2.3:h:dell:optiplex_3280_aio:-:*:*:*:*:*:*:*,Dell OptiPlex 3280 AIO,"['CVE-2020-5362', 'CVE-2021-36283', 'CVE-2021-36284', 'CVE-2021-36285']",2022-03-20T12:56Z

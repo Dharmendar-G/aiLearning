@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:axis:p5515_firmware:8.20.1:*:*:*:*:*:*:*,Axis Communications P5515 Firmware 8.20.1,[''],2022-03-19T04:54Z
+1,cpe:2.3:o:axis:p5515-e_firmware:8.20.1:*:*:*:*:*:*:*,Axis Communications P5515-E Firmware 8.20.1,[''],2022-03-19T04:54Z
+2,cpe:2.3:o:axis:p5522_firmware:5.51.5:*:*:*:*:*:*:*,Axis Communications P5522 Firmware 5.51.5,[''],2022-03-19T04:54Z
+3,cpe:2.3:o:axis:p5522-e_firmware:5.51.5:*:*:*:*:*:*:*,Axis Communications P5522-E Firmware 5.51.5,[''],2022-03-19T04:54Z
+4,cpe:2.3:o:axis:p5532_firmware:5.41.4:*:*:*:*:*:*:*,Axis Communications P5532 Firmware 5.41.4,[''],2022-03-19T04:54Z
+5,cpe:2.3:o:axis:p5532-e_firmware:5.41.4:*:*:*:*:*:*:*,Axis Communications P5532-E Firmware 5.41.4,[''],2022-03-19T04:54Z
+6,cpe:2.3:o:axis:p5534_firmware:5.41.4:*:*:*:*:*:*:*,Axis Communications P5534 Firmware 5.41.4,[''],2022-03-19T04:54Z
+7,cpe:2.3:o:axis:p5534-e_firmware:5.41.4:*:*:*:*:*:*:*,Axis Communications P5534-E Firmware 5.41.4,[''],2022-03-19T04:54Z
+8,cpe:2.3:o:axis:p5544_firmware:5.41.2.6:*:*:*:*:*:*:*,Axis Communications P5544 Firmware 5.41.2.6,[''],2022-03-19T04:54Z
+9,cpe:2.3:o:axis:p5624-e_firmware:6.50.2.3:*:*:*:*:*:*:*,Axis Communications P5624-E Firmware 6.50.2.3,[''],2022-03-19T04:54Z

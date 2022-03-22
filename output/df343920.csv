@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:inventory_scout:2.2.0.8:*:*:*:*:*:*:*,IBM Inventory Scout 2.2.0.8,[''],2022-03-21T20:53Z
+1,cpe:2.3:a:ibm:inventory_scout:2.2.0.9:*:*:*:*:*:*:*,IBM Inventory Scout 2.2.0.9,[''],2022-03-21T20:53Z
+2,cpe:2.3:a:ibm:iot_messagesight:2.0.0.0:*:*:*:*:*:*:*,IBM IoT MessageSight 2.0.0.0,['CVE-2020-4207'],2022-03-21T20:53Z
+3,cpe:2.3:a:ibm:iot_messagesight:2.0.0.1:*:*:*:*:*:*:*,IBM IoT MessageSight 2.0.0.1,['CVE-2020-4207'],2022-03-21T20:53Z
+4,cpe:2.3:a:ibm:iot_messagesight:2.0.0.2:*:*:*:*:*:*:*,IBM IoT MessageSight 2.0.0.2,[''],2022-03-21T20:53Z
+5,cpe:2.3:a:ibm:iot_messagesight:5.0.0.0:*:*:*:*:*:*:*,IBM IoT MessageSight 5.0.0.0,['CVE-2020-4207'],2022-03-21T20:53Z
+6,cpe:2.3:a:ibm:iris_xe_max_dedicated_graphics:-:*:*:*:*:*:*:*,IBM Iris Xe Max Dedicated Graphics -,['CVE-2021-0121'],2022-03-21T20:53Z
+7,cpe:2.3:a:ibm:iris_xe_max_dedicated_graphics:27.20.100.9466:*:*:*:*:*:*:*,IBM Iris Xe Max Dedicated Graphics 27.20.100.9466,[''],2022-03-21T20:53Z
+8,cpe:2.3:h:ibm:iseries:5.0:r2:*:*:*:*:*:*,IBM iSeries 5.0 Release 2 (V5R2),[''],2022-03-21T20:53Z
+9,cpe:2.3:h:ibm:iseries_as_400:-:*:*:*:*:*:*:*,IBM iSeries AS_400,"['CVE-2005-1133', 'CVE-2005-1238']",2022-03-21T20:53Z

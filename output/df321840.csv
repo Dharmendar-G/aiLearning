@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:eva_5000:-:*:*:*:*:*:*:*,HP eva 5000,[''],2022-03-21T13:26Z
+1,cpe:2.3:a:hp:event_monitoring_service:a.04.20.11.04:*:*:*:*:*:*:*,HP Event Monitoring Services (EMS) A.04.20.11.04,['CVE-2011-4159'],2022-03-21T13:26Z
+2,cpe:2.3:a:hp:event_monitoring_service:a.04.20.11.04:1:*:*:*:*:*:*,HP Event Monitoring Services (EMS) A.04.20.11.04_01,['CVE-2011-4159'],2022-03-21T13:26Z
+3,cpe:2.3:a:hp:event_monitoring_service:a.04.20.11.05:*:*:*:*:*:*:*,HP Event Monitoring Services (EMS) A.04.20.11.05,[''],2022-03-21T13:26Z
+4,cpe:2.3:a:hp:event_monitoring_service:a.04.20.23.06:*:*:*:*:*:*:*,HP Event Monitoring Services (EMS) A.04.20.23.06,[''],2022-03-21T13:26Z
+5,cpe:2.3:a:hp:event_monitoring_service:a.04.20.31.07:*:*:*:*:*:*:*,HP Event Monitoring Services (EMS) A.04.20.31.07,[''],2022-03-21T13:26Z
+6,cpe:2.3:a:hp:executive_scorecard:9.40:*:*:*:*:*:*:*,HP Executive Scorecard 9.40,"['CVE-2014-2609', 'CVE-2014-2610', 'CVE-2014-2611']",2022-03-21T13:26Z
+7,cpe:2.3:a:hp:executive_scorecard:9.41:*:*:*:*:*:*:*,HP Executive Scorecard 9.41,"['CVE-2014-2609', 'CVE-2014-2610', 'CVE-2014-2611']",2022-03-21T13:26Z
+8,cpe:2.3:a:hp:extended_capabilities:6.0:*:*:*:*:*:*:*,HP Extended Capabilities 6.0,[''],2022-03-21T13:26Z
+9,cpe:2.3:a:hp:ezmeral_container_platform:5.0:*:*:*:*:*:*:*,HP Ezmeral Container Platform 5.0,['CVE-2020-7196'],2022-03-21T13:26Z

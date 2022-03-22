@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dcs-5222lb1_firmware:1.09:*:*:*:*:*:*:*,D-Link DCS-5222LB1 Firmware 1.09,[''],2022-03-20T15:42Z
+1,cpe:2.3:o:dlink:dcs-5222lb1_firmware:1.14:*:*:*:*:*:*:*,D-Link DCS-5222LB1 Firmware 1.14,[''],2022-03-20T15:42Z
+2,cpe:2.3:o:dlink:dcs-5222lb1_firmware:1.27:*:*:*:*:*:*:*,D-Link DCS-5222LB1 Firmware 1.27,[''],2022-03-20T15:42Z
+3,cpe:2.3:o:dlink:dcs-5222lb1_firmware:2.12:*:*:*:*:*:*:*,D-Link DCS-5222LB1 Firmware 2.12,[''],2022-03-20T15:42Z
+4,cpe:2.3:o:dlink:dcs-5222lb1_firmware:2.14:*:*:*:*:*:*:*,D-Link DCS-5222LB1 Firmware 2.14,[''],2022-03-20T15:42Z
+5,cpe:2.3:o:dlink:dcs-5222lb1_firmware:2.16:*:*:*:*:*:*:*,D-Link DCS-5222LB1 Firmware 2.16,[''],2022-03-20T15:42Z
+6,cpe:2.3:o:dlink:dcs-5222lb1_firmware:2.17:*:*:*:*:*:*:*,D-Link DCS-5222LB1 Firmware 2.17,[''],2022-03-20T15:42Z
+7,cpe:2.3:h:dlink:dcs-5230:-:*:*:*:*:*:*:*,D-Link DCS-5230,"['CVE-2013-1599', 'CVE-2013-1601', 'CVE-2013-1602', 'CVE-2013-1603']",2022-03-20T15:42Z
+8,cpe:2.3:o:dlink:dcs-5230_firmware:1.02:*:*:*:*:*:*:*,D-Link DCS-5230 Firmware 1.02,"['CVE-2013-1599', 'CVE-2013-1601', 'CVE-2013-1602', 'CVE-2013-1603']",2022-03-20T15:43Z
+9,cpe:2.3:h:dlink:dcs-5230l:-:*:*:*:*:*:*:*,D-Link DCS-5230L,"['CVE-2013-1599', 'CVE-2013-1601', 'CVE-2013-1602', 'CVE-2013-1603']",2022-03-20T15:43Z

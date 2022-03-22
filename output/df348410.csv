@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:ibm:sng:2.1:*:*:*:*:*:*:*,IBM SNG 2.1,"['CVE-1999-0116', 'CVE-1999-0128', 'CVE-1999-0345']",2022-03-21T22:06Z
+1,cpe:2.3:h:ibm:sng:2.2:*:*:*:*:*:*:*,IBM SNG 2.2,"['CVE-1999-0116', 'CVE-1999-0128', 'CVE-1999-0345']",2022-03-21T22:06Z
+2,cpe:2.3:a:ibm:soar:40.0:*:*:*:*:*:*:*,IBM SOAR 40.0,['CVE-2020-4635'],2022-03-21T22:06Z
+3,cpe:2.3:a:ibm:social_media_analytics:1.2.0.0:*:*:*:*:*:*:*,IBM IBM Social Media Analytics 1.2.0.0,"['CVE-2013-3999', 'CVE-2014-8917']",2022-03-21T22:06Z
+4,cpe:2.3:a:ibm:social_media_analytics:1.2.0.1:*:*:*:*:*:*:*,IBM IBM Social Media Analytics 1.2.0.1 (Fix Pack 1),['CVE-2014-8917'],2022-03-21T22:06Z
+5,cpe:2.3:a:ibm:social_rendering_templates_for_digital_data_connector:1.0:*:*:*:*:*:*:*,IBM Social Rendering Templates for Digital Data Connector 1.0,['CVE-2016-8936'],2022-03-21T22:06Z
+6,cpe:2.3:a:ibm:softlayer:-:*:*:*:*:*:*:*,IBM SoftLayer,"['CVE-2017-1383', 'CVE-2017-1467', 'CVE-2017-1468']",2022-03-21T22:06Z
+7,cpe:2.3:a:ibm:soliddb:4.5.167:*:*:*:*:*:*:*,IBM solidDB 4.5.167,"['CVE-2008-1707', 'CVE-2008-1708', 'CVE-2010-2771', 'CVE-2010-4055', 'CVE-2010-4056', 'CVE-2010-4057', 'CVE-2011-1208', 'CVE-2011-1560', 'CVE-2011-4890', 'CVE-2012-0200']",2022-03-21T22:06Z
+8,cpe:2.3:a:ibm:soliddb:4.5.168:*:*:*:*:*:*:*,IBM solidDB 4.5.168,"['CVE-2008-1707', 'CVE-2008-1708', 'CVE-2010-2771', 'CVE-2010-4055', 'CVE-2010-4056', 'CVE-2010-4057', 'CVE-2011-1208', 'CVE-2011-1560', 'CVE-2011-4890', 'CVE-2012-0200']",2022-03-21T22:06Z
+9,cpe:2.3:a:ibm:soliddb:4.5.169:*:*:*:*:*:*:*,IBM solidDB 4.5.169,"['CVE-2008-1707', 'CVE-2008-1708', 'CVE-2010-2771', 'CVE-2010-4055', 'CVE-2010-4056', 'CVE-2010-4057', 'CVE-2011-1208', 'CVE-2011-1560', 'CVE-2011-4890', 'CVE-2012-0200']",2022-03-21T22:06Z

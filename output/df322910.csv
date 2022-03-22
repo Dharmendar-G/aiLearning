@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:insight_management_wbem_providers_for_windows_server_2003\/2008:2.6.0.0:*:*:*:*:*:x64:*,HP Insight Management Wbem Providers For Windows Server 2003/2008 2.6.0.0 (x64) 64-bit,[''],2022-03-21T13:41Z
+1,cpe:2.3:a:hp:insight_management_wbem_providers_for_windows_server_2003\/2008:2.7.0.0:*:*:*:*:*:*:*,HP Insight Management Wbem Providers For Windows Server 2003/2008 2.7.0.0,[''],2022-03-21T13:41Z
+2,cpe:2.3:a:hp:insight_management_wbem_providers_for_windows_server_2003\/2008:2.7.0.0:*:*:*:*:*:x64:*,HP Insight Management Wbem Providers For Windows Server 2003/2008 2.7.0.0 (x64) 64-bit,[''],2022-03-21T13:41Z
+3,cpe:2.3:a:hp:insight_management_wbem_providers_for_windows_server_2003\/2008:2.8.0.0:*:*:*:*:*:*:*,HP Insight Management Wbem Providers For Windows Server 2003/2008 2.8.0.0,[''],2022-03-21T13:41Z
+4,cpe:2.3:a:hp:insight_management_wbem_providers_for_windows_server_2003\/2008:2.8.0.0:*:*:*:*:*:x64:*,HP Insight Management Wbem Providers For Windows Server 2003/2008 2.8.0.0 (x64) 64-bit,[''],2022-03-21T13:41Z
+5,cpe:2.3:a:hp:insight_manager:-:*:*:*:*:*:*:*,HP Insight Manager,['CVE-2009-0712'],2022-03-21T13:41Z
+6,cpe:2.3:a:hp:install_network_printer_wizard:8.1.3:*:*:*:*:*:*:*,HP Install Network Printer Wizard 8.1.3,[''],2022-03-21T13:41Z
+7,cpe:2.3:a:hp:installmicgenerichook:1.0.0:*:*:*:*:*:*:*,HP Installmicgenerichook 1.0.0,[''],2022-03-21T13:41Z
+8,cpe:2.3:a:hp:instant_printing_utility:3.5.1:*:*:*:*:*:*:*,HP Instant Printing Utility 3.5.1,[''],2022-03-21T13:41Z
+9,cpe:2.3:a:hp:instant_share:45.4.157.0:*:*:*:*:*:*:*,HP Instant Share 45.4.157.0,[''],2022-03-21T13:41Z

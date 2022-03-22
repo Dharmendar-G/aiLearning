@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:carson-saint:saint_security_suite:9.8.20:*:*:*:*:*:*:*,Carson-Saint SAINT Security Suite 9.8.20,"['CVE-2020-16275', 'CVE-2020-16276', 'CVE-2020-16277', 'CVE-2020-16278']",2022-03-19T15:36Z
+1,cpe:2.3:a:carspot_project:carspot:1.0:*:*:*:*:wordpress:*:*,Carspot Project Carspot 1.0 for Wordpress,['CVE-2019-15870'],2022-03-19T15:36Z
+2,cpe:2.3:a:carspot_project:carspot:1.0.1:*:*:*:*:wordpress:*:*,Carspot Project Carspot 1.0.1 for Wordpress,['CVE-2019-15870'],2022-03-19T15:36Z
+3,cpe:2.3:a:carspot_project:carspot:1.0.2:*:*:*:*:wordpress:*:*,Carspot Project Carspot 1.0.2 for Wordpress,['CVE-2019-15870'],2022-03-19T15:36Z
+4,cpe:2.3:a:carspot_project:carspot:1.0.3:*:*:*:*:wordpress:*:*,Carspot Project Carspot 1.0.3 for Wordpress,['CVE-2019-15870'],2022-03-19T15:36Z
+5,cpe:2.3:a:carspot_project:carspot:1.0.4:*:*:*:*:wordpress:*:*,Carspot Project Carspot 1.0.4 for Wordpress,['CVE-2019-15870'],2022-03-19T15:36Z
+6,cpe:2.3:a:carspot_project:carspot:1.0.5:*:*:*:*:wordpress:*:*,Carspot Project Carspot 1.0.5 for Wordpress,['CVE-2019-15870'],2022-03-19T15:36Z
+7,cpe:2.3:a:carspot_project:carspot:1.0.6:*:*:*:*:wordpress:*:*,Carspot Project Carspot 1.0.6 for Wordpress,['CVE-2019-15870'],2022-03-19T15:36Z
+8,cpe:2.3:a:carspot_project:carspot:1.0.7:*:*:*:*:wordpress:*:*,Carspot Project Carspot 1.0.7 for Wordpress,['CVE-2019-15870'],2022-03-19T15:36Z
+9,cpe:2.3:a:carspot_project:carspot:1.0.8:*:*:*:*:wordpress:*:*,Carspot Project Carspot 1.0.8 for Wordpress,['CVE-2019-15870'],2022-03-19T15:36Z

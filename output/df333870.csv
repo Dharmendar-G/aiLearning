@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:espace_u1981_firmware:v200r003c30spc200:*:*:*:*:*:*:*,Huawei Espace U1981 Firmware V200r003c30spc200,"['CVE-2017-17295', 'CVE-2017-17296', 'CVE-2017-17297']",2022-03-21T17:42Z
+1,cpe:2.3:o:huawei:espace_u1981_firmware:v200r003c50:*:*:*:*:*:*:*,Huawei eSpace U1981 Firmware V200R003C50,['CVE-2017-17174'],2022-03-21T17:42Z
+2,cpe:2.3:o:huawei:espace_u1981_firmware:v200r003c50spc300:*:*:*:*:*:*:*,Huawei eSpace U1981 Firmware V200R003C50SPC300,[''],2022-03-21T17:42Z
+3,cpe:2.3:o:huawei:espace_u1981_firmware:v200r003c50spc700:*:*:*:*:*:*:*,Huawei eSpace U1981 Firmware V200R003C50SPC700,"['CVE-2019-5254', 'CVE-2019-5255', 'CVE-2019-5256', 'CVE-2019-5257', 'CVE-2019-5258']",2022-03-21T17:42Z
+4,cpe:2.3:o:huawei:espace_u1981_firmware:v200r003c50spc900:*:*:*:*:*:*:*,Huawei eSpace U1981 Firmware V200R003C50SPC900,[''],2022-03-21T17:42Z
+5,cpe:2.3:h:huawei:espace_usm:-:*:*:*:*:*:*:*,Huawei Espace Usm,['CVE-2017-17301'],2022-03-21T17:42Z
+6,cpe:2.3:o:huawei:espace_usm_firmware:v100r001c01:*:*:*:*:*:*:*,Huawei Espace Usm Firmware V100r001c01,['CVE-2017-17301'],2022-03-21T17:42Z
+7,cpe:2.3:o:huawei:espace_usm_firmware:v300r001c00:*:*:*:*:*:*:*,Huawei Espace Usm Firmware V300r001c00,['CVE-2017-17301'],2022-03-21T17:42Z
+8,cpe:2.3:h:huawei:eudc660:-:*:*:*:*:*:*:*,Huawei eUDC660,['CVE-2020-9206'],2022-03-21T17:42Z
+9,cpe:2.3:o:huawei:eudc660_firmware:v100r005c00:*:*:*:*:*:*:*,Huawei eUDC660 Firmware V100R005C00,['CVE-2020-9206'],2022-03-21T17:42Z

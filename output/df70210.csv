@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:banconeon:neon:3.7.4:*:*:*:*:iphone_os:*:*,Banconeon Neon 3.7.4 for iPhone OS,[''],2022-03-19T06:08Z
+1,cpe:2.3:a:banconeon:neon:3.7.5:*:*:*:*:iphone_os:*:*,Banconeon Neon 3.7.5 for iPhone OS,[''],2022-03-19T06:08Z
+2,cpe:2.3:a:band:band_-group_sharing_\&_planning:3.2.8:*:*:*:*:android:*:*,BAND BAND -Group sharing & planning (aka com.nhn.android.band) for Android 3.2.8,['CVE-2014-5668'],2022-03-19T06:08Z
+3,cpe:2.3:a:bandainamcogames:madomagi-ip_android:1.05:*:*:*:*:*:*:*,NAMCO BANDAI Games Puella Magi Madoka Magica iP for Android 1.05,['CVE-2012-2630'],2022-03-19T06:08Z
+4,cpe:2.3:a:bandainamcogames:madomagi-ip_android:1.06:*:*:*:*:*:*:*,バンダイナムコゲームス 魔法少女まどか☆マギカ iP for Android 1.06,[''],2022-03-19T06:08Z
+5,cpe:2.3:a:bandh:b\&h_photo_video_pro_audio:2.5.1:*:*:*:*:android:*:*,BandH B&H Photo Video Pro Audio (aka com.bhphoto) for android 2.5.1,['CVE-2014-7577'],2022-03-19T06:08Z
+6,cpe:2.3:a:bandisoft:ark_library:2.0:*:*:*:*:*:*:*,Bandisoft ARK Library 2.0,['CVE-2021-26603'],2022-03-19T06:08Z
+7,cpe:2.3:a:bandisoft:ark_library:3.0.0.1:*:*:*:*:*:*:*,Bandisoft ARK Library 3.0.0.1,['CVE-2021-26603'],2022-03-19T06:08Z
+8,cpe:2.3:a:bandisoft:ark_library:3.1.0.2:*:*:*:*:*:*:*,Bandisoft ARK Library 3.1.0.2,['CVE-2021-26603'],2022-03-19T06:08Z
+9,cpe:2.3:a:bandisoft:ark_library:3.2.0.3:*:*:*:*:*:*:*,Bandisoft ARK Library 3.2.0.3,['CVE-2021-26603'],2022-03-19T06:08Z

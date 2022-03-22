@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:allwinnertech:r818:-:*:*:*:*:*:*:*,Allwinner R818,"['CVE-2021-38783', 'CVE-2021-38784', 'CVE-2021-38785', 'CVE-2021-38786', 'CVE-2021-38787', 'CVE-2021-38788', 'CVE-2021-38789']",2022-03-18T14:54Z
+1,cpe:2.3:a:almanah_project:almanah:0.9.0:*:*:*:*:*:*:*,Almanah Project Almanah 0.9.0,['CVE-2013-1853'],2022-03-18T14:54Z
+2,cpe:2.3:a:almanah_project:almanah:0.10.0:*:*:*:*:*:*:*,Almanah Project Almanah 0.10.0,['CVE-2013-1853'],2022-03-18T14:54Z
+3,cpe:2.3:a:almas:compiere:j253b_a02:*:*:*:*:*:*:*,ALMAS Compiere J253b_A02,['CVE-2010-1333'],2022-03-18T14:54Z
+4,cpe:2.3:a:almas:compiere:j300_a01:*:*:*:*:*:*:*,ALMAS Compiere J300_A01,['CVE-2010-1333'],2022-03-18T14:54Z
+5,cpe:2.3:a:almas:compiere:j300_a02:*:*:*:*:*:*:*,ALMAS Compiere J300_A02,['CVE-2010-1333'],2022-03-18T14:54Z
+6,cpe:2.3:a:almasiapps:healing_bookstore:0.1:*:*:*:*:android:*:*,almasiapps Healing Bookstore (aka com.wHealingBookstore) for android 0.1,['CVE-2014-7741'],2022-03-18T14:54Z
+7,cpe:2.3:a:almera_responsive_portfolio_project:almera_responsive_portfolio:-:*:*:*:*:wordpress:*:*,Almera Responsive Portfolio Project Almera Responsive Portfolio for WordPress,['CVE-2015-9487'],2022-03-18T14:54Z
+8,cpe:2.3:a:almera_responsive_portfolio_project:almera_responsive_portfolio:2015-05-15:*:*:*:*:wordpress:*:*,Almera Responsive Portfolio Project Almera Responsive Portfolio 2015-05-15 for WordPress,['CVE-2015-9487'],2022-03-18T14:54Z
+9,cpe:2.3:a:almera_responsive_portfolio_site_template_project:almera_responsive_portfolio_site_template:-:*:*:*:*:wordpress:*:*,Almera Responsive Portfolio Site Template Project Almera Responsive Portfolio Site Template for WordPress,['CVE-2015-9488'],2022-03-18T14:54Z

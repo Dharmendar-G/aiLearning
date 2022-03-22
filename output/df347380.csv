@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:resilient:26.1:*:*:*:*:*:*:*,IBM Resilient 26.1,"['CVE-2016-6062', 'CVE-2021-20527']",2022-03-21T21:49Z
+1,cpe:2.3:a:ibm:resilient:26.2:*:*:*:*:*:*:*,IBM Resilient 26.2,"['CVE-2016-6062', 'CVE-2021-20527']",2022-03-21T21:49Z
+2,cpe:2.3:a:ibm:resilient:38.2.41:*:*:*:*:*:*:*,IBM Resilient 38.2.41,[''],2022-03-21T21:49Z
+3,cpe:2.3:a:ibm:resilient:39.0:*:*:*:*:*:*:*,IBM Resilient 39.0,['CVE-2021-20527'],2022-03-21T21:49Z
+4,cpe:2.3:a:ibm:resilient:39.0.6536:*:*:*:*:*:*:*,IBM Resilient 39.0.6536,[''],2022-03-21T21:49Z
+5,cpe:2.3:a:ibm:resilient:39.1:*:*:*:*:*:*:*,IBM Resilient 39.1,['CVE-2021-20527'],2022-03-21T21:49Z
+6,cpe:2.3:a:ibm:resilient:39.1.46:*:*:*:*:*:*:*,IBM Resilient 39.1.46,[''],2022-03-21T21:49Z
+7,cpe:2.3:a:ibm:resilient:39.2.17:*:*:*:*:*:*:*,IBM Resilient 39.2.17,['CVE-2021-20527'],2022-03-21T21:49Z
+8,cpe:2.3:a:ibm:resilient:39.2.21:*:*:*:*:*:*:*,IBM Resilient 39.2.21,[''],2022-03-21T21:49Z
+9,cpe:2.3:a:ibm:resilient:40.0.6554:*:*:*:*:*:*:*,IBM Resilient 40.0.6554,['CVE-2021-20527'],2022-03-21T21:49Z

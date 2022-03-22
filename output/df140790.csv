@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:citrix:sharefile_storagezones_controller:5.8.3:*:*:*:*:*:*:*,Citrix ShareFile StorageZones Controller 5.8.3,"['CVE-2021-22891', 'CVE-2021-22932', 'CVE-2021-22941']",2022-03-20T01:37Z
+1,cpe:2.3:a:citrix:sharefile_storagezones_controller:5.9:*:*:*:*:*:*:*,Citrix ShareFile StorageZones Controller 5.9,"['CVE-2021-22891', 'CVE-2021-22932', 'CVE-2021-22941']",2022-03-20T01:37Z
+2,cpe:2.3:a:citrix:sharefile_storagezones_controller:5.9.0:*:*:*:*:*:*:*,Citrix ShrareFile StorageZones Controller 5.9.0,"['CVE-2020-7473', 'CVE-2020-8982', 'CVE-2020-8983', 'CVE-2021-22891', 'CVE-2021-22932', 'CVE-2021-22941']",2022-03-20T01:37Z
+3,cpe:2.3:a:citrix:sharefile_storagezones_controller:5.9.3:*:*:*:*:*:*:*,Citrix ShareFile StorageZones Controller 5.9.3,"['CVE-2021-22932', 'CVE-2021-22941']",2022-03-20T01:37Z
+4,cpe:2.3:a:citrix:sharefile_storagezones_controller:5.10:*:*:*:*:*:*:*,Citrix ShareFile StorageZones Controller 5.10,"['CVE-2021-22891', 'CVE-2021-22932', 'CVE-2021-22941']",2022-03-20T01:37Z
+5,cpe:2.3:a:citrix:sharefile_storagezones_controller:5.10.1:*:*:*:*:*:*:*,Citrix ShareFile StorageZones Controller 5.10.1,"['CVE-2021-22932', 'CVE-2021-22941']",2022-03-20T01:37Z
+6,cpe:2.3:a:citrix:sharefile_storagezones_controller:5.11:*:*:*:*:*:*:*,Citrix ShareFile StorageZones Controller 5.11,"['CVE-2021-22891', 'CVE-2021-22932', 'CVE-2021-22941']",2022-03-20T01:37Z
+7,cpe:2.3:a:citrix:sharefile_storagezones_controller:5.11.17:*:*:*:*:*:*:*,Citrix ShareFile StorageZones Controller 5.11.17,"['CVE-2021-22891', 'CVE-2021-22932', 'CVE-2021-22941']",2022-03-20T01:37Z
+8,cpe:2.3:a:citrix:sharefile_storagezones_controller:5.11.18:*:*:*:*:*:*:*,Citrix ShareFile StorageZones Controller 5.11.18,"['CVE-2021-22932', 'CVE-2021-22941']",2022-03-20T01:37Z
+9,cpe:2.3:a:citrix:sharefile_storagezones_controller:5.11.19:*:*:*:*:*:*:*,Citrix ShareFile StorageZones Controller 5.11.19,['CVE-2021-22941'],2022-03-20T01:37Z

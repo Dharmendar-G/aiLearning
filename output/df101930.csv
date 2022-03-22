@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu1:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu1,"['CVE-2015-1341', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:15Z
+1,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu2:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu2,"['CVE-2015-1341', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:15Z
+2,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+3,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.1:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.1,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+4,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.2:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.2,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+5,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.3:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.3,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+6,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.4:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.4,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+7,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.5:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.5,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+8,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.6:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.6,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+9,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.7:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.7,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z

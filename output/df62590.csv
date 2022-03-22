@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:autodesk:civil_3d:2019:*:*:*:*:*:*:*,Autodesk Civil 3D 2019,"['CVE-2019-7364', 'CVE-2021-40160', 'CVE-2021-40161']",2022-03-19T03:28Z
+1,cpe:2.3:a:autodesk:civil_3d:2020:*:*:*:*:*:*:*,Autodesk Civil 3D 2020,"['CVE-2019-7364', 'CVE-2021-40160', 'CVE-2021-40161']",2022-03-19T03:28Z
+2,cpe:2.3:a:autodesk:civil_3d:2021:*:*:*:*:*:*:*,Autodesk Civil 3D 2021,"['CVE-2021-40160', 'CVE-2021-40161']",2022-03-19T03:28Z
+3,cpe:2.3:a:autodesk:civil_3d:2022:*:*:*:*:*:*:*,Autodesk Civil 3D 2022,"['CVE-2021-40160', 'CVE-2021-40161']",2022-03-19T03:28Z
+4,cpe:2.3:a:autodesk:civil_3d:2022.1.1:*:*:*:*:*:*:*,Autodesk Civil 3D 2022.1.1,[''],2022-03-19T03:28Z
+5,cpe:2.3:a:autodesk:civil_design:-:*:*:*:*:*:*:*,Autodesk Building Civil Design,[''],2022-03-19T03:28Z
+6,cpe:2.3:a:autodesk:civil_design:2005:*:*:*:*:*:*:*,Autodesk Building Civil Design 2005,['CVE-2005-4710'],2022-03-19T03:28Z
+7,cpe:2.3:a:autodesk:content_service:2.0.90:*:*:*:*:*:*:*,Autodesk Content Service 2.0.90,[''],2022-03-19T03:28Z
+8,cpe:2.3:a:autodesk:design_review:2011:*:*:*:*:*:*:*,Autodesk Design Review 2011,"['CVE-2014-9268', 'CVE-2019-7362', 'CVE-2019-7363', 'CVE-2021-27033', 'CVE-2021-27034', 'CVE-2021-27035', 'CVE-2021-27036', 'CVE-2021-27037', 'CVE-2021-27038', 'CVE-2021-27039', 'CVE-2021-40167']",2022-03-19T03:28Z
+9,cpe:2.3:a:autodesk:design_review:2012:*:*:*:*:*:*:*,Autodesk Design Review 2012,"['CVE-2014-9268', 'CVE-2019-7362', 'CVE-2019-7363', 'CVE-2021-27033', 'CVE-2021-27034', 'CVE-2021-27035', 'CVE-2021-27036', 'CVE-2021-27037', 'CVE-2021-27038', 'CVE-2021-27039', 'CVE-2021-40167']",2022-03-19T03:28Z

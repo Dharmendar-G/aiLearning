@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:a:hp:ignite-ux:-:*:*:*:*:*:*:*,HP ignite-ux,[''],2022-03-21T13:36Z
+2,cpe:2.3:a:hp:ignite-ux:a.3.5:*:*:*:*:*:*:*,HP Ignite-UX A.3.5,[''],2022-03-21T13:36Z
+3,cpe:2.3:a:hp:ignite-ux:a.3.6:*:*:*:*:*:*:*,HP Ignite-UX A.3.6,[''],2022-03-21T13:36Z
+4,cpe:2.3:a:hp:ignite-ux:a.3.7:*:*:*:*:*:*:*,HP Ignite-UX A.3.7,[''],2022-03-21T13:36Z
+5,cpe:2.3:a:hp:ignite-ux:b.3.5:*:*:*:*:*:*:*,HP Ignite-UX B.3.5,[''],2022-03-21T13:36Z
+6,cpe:2.3:a:hp:ignite-ux:b.3.6:*:*:*:*:*:*:*,HP Ignite-UX B.3.6,[''],2022-03-21T13:36Z
+7,cpe:2.3:a:hp:ignite-ux:b.3.7:*:*:*:*:*:*:*,HP Ignite-UX B.3.7,[''],2022-03-21T13:36Z
+8,cpe:2.3:a:hp:ignite-ux:b.3.8:*:*:*:*:*:*:*,HP Ignite-UX B.3.8,[''],2022-03-21T13:36Z
+9,cpe:2.3:a:hp:ignite-ux:b.4.0:*:*:*:*:*:*:*,HP Ignite-UX B.4.0,[''],2022-03-21T13:36Z

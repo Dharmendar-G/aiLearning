@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:vedge_5000_firmware:-:*:*:*:*:*:*:*,Cisco Vedge 5000 Firmware,"['CVE-2018-0432', 'CVE-2018-0433', 'CVE-2018-0434', 'CVE-2019-1646', 'CVE-2019-1648', 'CVE-2019-1650', 'CVE-2021-1512', 'CVE-2021-1513', 'CVE-2021-1514']",2022-03-20T00:59Z
+1,cpe:2.3:o:cisco:vedge_5000_firmware:18.3.0:*:*:*:*:*:*:*,Cisco vEdge 5000 Firmware 18.3.0,"['CVE-2019-1646', 'CVE-2019-1648', 'CVE-2019-1650']",2022-03-20T00:59Z
+2,cpe:2.3:o:cisco:vedge_5000_firmware:19.2.0:*:*:*:*:*:*:*,Cisco vEdge 5000 Firmware 19.2.0,"['CVE-2019-1646', 'CVE-2019-1648', 'CVE-2019-1650', 'CVE-2021-1546']",2022-03-20T00:59Z
+3,cpe:2.3:o:cisco:vedge_5000_firmware:19.2.1:*:*:*:*:*:*:*,Cisco vEdge 5000 Firmware 19.2.1,"['CVE-2019-1646', 'CVE-2019-1648', 'CVE-2019-1650', 'CVE-2021-1546']",2022-03-20T00:59Z
+4,cpe:2.3:o:cisco:vedge_5000_firmware:19.2.097:*:*:*:*:*:*:*,Cisco vEdge 5000 Firmware 19.2.097,"['CVE-2019-1646', 'CVE-2019-1648', 'CVE-2019-1650', 'CVE-2021-1546']",2022-03-20T00:59Z
+5,cpe:2.3:o:cisco:vedge_5000_firmware:19.2.098:*:*:*:*:*:*:*,Cisco vEdge 5000 Firmware 19.2.098,"['CVE-2019-1646', 'CVE-2019-1648', 'CVE-2019-1650', 'CVE-2021-1546']",2022-03-20T00:59Z
+6,cpe:2.3:o:cisco:vedge_5000_firmware:19.2.99:*:*:*:*:*:*:*,Cisco vEdge 5000 Firmware 19.2.99,"['CVE-2019-1646', 'CVE-2019-1648', 'CVE-2019-1650', 'CVE-2021-1509', 'CVE-2021-1510', 'CVE-2021-1511', 'CVE-2021-1546']",2022-03-20T00:59Z
+7,cpe:2.3:o:cisco:vedge_5000_firmware:20.4:*:*:*:*:*:*:*,Cisco vEdge 5000 Firmware 20.4,"['CVE-2019-1646', 'CVE-2019-1648', 'CVE-2019-1650', 'CVE-2021-1509', 'CVE-2021-1510', 'CVE-2021-1511', 'CVE-2021-1514', 'CVE-2021-1528', 'CVE-2021-1546']",2022-03-20T00:59Z
+8,cpe:2.3:o:cisco:vedge_5000_firmware:20.4.2:*:*:*:*:*:*:*,Cisco vEdge 5000 Firmware 20.4.2,"['CVE-2019-1646', 'CVE-2019-1648', 'CVE-2019-1650']",2022-03-20T00:59Z
+9,cpe:2.3:o:cisco:vedge_5000_firmware:20.5:*:*:*:*:*:*:*,Cisco vEdge 5000 Firmware 20.5,"['CVE-2019-1646', 'CVE-2019-1648', 'CVE-2019-1650', 'CVE-2021-1509', 'CVE-2021-1510', 'CVE-2021-1511', 'CVE-2021-1514', 'CVE-2021-1528', 'CVE-2021-1546']",2022-03-20T00:59Z

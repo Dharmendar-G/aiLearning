@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:brocade_network_advisor:14.4.1:*:*:*:*:*:*:*,Broadcom Brocade Network Advisor 14.4.1,[''],2022-03-19T12:15Z
+1,cpe:2.3:a:broadcom:brocade_network_advisor:14.4.2:*:*:*:*:*:*:*,Broadcom Brocade Network Advisor 14.4.2,[''],2022-03-19T12:15Z
+2,cpe:2.3:a:broadcom:brocade_network_advisor:14.4.3:*:*:*:*:*:*:*,Broadcom Brocade Network Advisor 14.4.3,[''],2022-03-19T12:15Z
+3,cpe:2.3:a:broadcom:brocade_sannav:1.1.0:*:*:*:*:*:*:*,Broadcom Brocade SANnav 1.1.0,"['CVE-2019-16205', 'CVE-2019-16206', 'CVE-2019-16207', 'CVE-2019-16208', 'CVE-2019-16209', 'CVE-2019-16210', 'CVE-2019-16211', 'CVE-2019-16212', 'CVE-2020-15379', 'CVE-2020-15382', 'CVE-2020-15387']",2022-03-19T12:15Z
+4,cpe:2.3:a:broadcom:brocade_sannav:1.1.1:*:*:*:*:*:*:*,Broadcom Brocade SANnav 1.1.1,"['CVE-2019-16205', 'CVE-2019-16206', 'CVE-2019-16207', 'CVE-2019-16208', 'CVE-2019-16209', 'CVE-2019-16210', 'CVE-2019-16211', 'CVE-2019-16212', 'CVE-2020-15379', 'CVE-2020-15382', 'CVE-2020-15387']",2022-03-19T12:15Z
+5,cpe:2.3:a:broadcom:brocade_sannav:2.0:*:*:*:*:*:*:*,Broadcom Brocade SANnav 2.0,"['CVE-2019-16211', 'CVE-2019-16212', 'CVE-2020-15379', 'CVE-2020-15382', 'CVE-2020-15387']",2022-03-19T12:15Z
+6,cpe:2.3:a:broadcom:brocade_sannav:2.1.0:*:*:*:*:*:*:*,Broadcom Brocade SANnav 2.1.0,"['CVE-2020-15379', 'CVE-2020-15382', 'CVE-2020-15387']",2022-03-19T12:15Z
+7,cpe:2.3:a:broadcom:brocade_sannav:2.1.1:*:*:*:*:*:*:*,Broadcom Brocade SANnav 2.1.1,[''],2022-03-19T12:15Z
+8,cpe:2.3:a:broadcom:business_intelligence:3.0.0.13:*:*:*:*:*:*:*,Broadcom Business Intelligence 3.0.0.13,[''],2022-03-19T12:15Z
+9,cpe:2.3:a:broadcom:business_protection_suite:-:*:*:*:*:*:*:*,Broadcom Business Protection Suite,[''],2022-03-19T12:15Z

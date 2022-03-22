@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:asus:smarthome:1.4.13:*:*:*:*:android:*:*,ASUS SmartHome 1.4.13 for Android,['CVE-2019-11063'],2022-03-18T23:57Z
+1,cpe:2.3:a:asus:smarthome:1.4.26:*:*:*:*:android:*:*,ASUS SmartHome 1.4.26 for Android,['CVE-2019-11063'],2022-03-18T23:57Z
+2,cpe:2.3:a:asus:smarthome:1.4.29:*:*:*:*:android:*:*,ASUS SmartHome 1.4.29 for Android,['CVE-2019-11063'],2022-03-18T23:57Z
+3,cpe:2.3:a:asus:smarthome:1.4.32:*:*:*:*:android:*:*,ASUS SmartHome 1.4.32 for Android,['CVE-2019-11063'],2022-03-18T23:57Z
+4,cpe:2.3:a:asus:smarthome:1.4.34:*:*:*:*:android:*:*,ASUS SmartHome 1.4.34 for Android,['CVE-2019-11063'],2022-03-18T23:57Z
+5,cpe:2.3:a:asus:smarthome:1.4.37:*:*:*:*:android:*:*,ASUS SmartHome 1.4.37 for Android,['CVE-2019-11063'],2022-03-18T23:57Z
+6,cpe:2.3:a:asus:smarthome:1.05.04:*:*:*:*:android:*:*,ASUS SmartHome 1.05.04 for Android,['CVE-2019-11063'],2022-03-18T23:57Z
+7,cpe:2.3:a:asus:smarthome:2.0.15:*:*:*:*:iphone_os:*:*,ASUS SmartHome 2.0.15 for iPhone OS,['CVE-2019-11063'],2022-03-18T23:57Z
+8,cpe:2.3:a:asus:smarthome:2.0.21:*:*:*:*:iphone_os:*:*,ASUS SmartHome 2.0.21 for iPhone OS,['CVE-2019-11063'],2022-03-18T23:57Z
+9,cpe:2.3:a:asus:smarthome:2.0.22:*:*:*:*:iphone_os:*:*,ASUS SmartHome 2.0.22 for iPhone OS,[''],2022-03-18T23:57Z

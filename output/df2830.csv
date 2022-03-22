@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:4homepages:4images:1.7.12:*:*:*:*:*:*:*,4homepages 4images 1.7.12,[''],2022-03-18T10:10Z
+1,cpe:2.3:a:4homepages:4images:1.7.13:*:*:*:*:*:*:*,4homepages 4images 1.7.13,[''],2022-03-18T10:10Z
+2,cpe:2.3:a:4homepages:4images:1.8:*:*:*:*:*:*:*,4homepages 4images 1.8,['CVE-2021-27308'],2022-03-18T10:10Z
+3,cpe:2.3:a:4mosan:gcb_doctor:-:*:*:*:*:*:*:*,4MOSAn GCB Doctor,"['CVE-2021-42338', 'CVE-2021-44159']",2022-03-18T10:10Z
+4,cpe:2.3:a:4mosan:gcb_doctor:2021-08-11:*:*:*:*:*:*:*,4MOSAn GCB Doctor 2021-08-11,"['CVE-2021-42338', 'CVE-2021-44159']",2022-03-18T10:10Z
+5,cpe:2.3:a:4mosan:gcb_doctor:2021-09-16:*:*:*:*:*:*:*,4MOSAn GCB Doctor 2021-09-16,['CVE-2021-42338'],2022-03-18T10:10Z
+6,cpe:2.3:a:4nb:videooffice:x2.9:*:*:*:*:*:*:*,4nb Videooffice X2.9,['CVE-2020-7878'],2022-03-18T10:10Z
+7,cpe:2.3:a:4t-niagara:tray_minimizer_free:4.40:*:*:*:*:*:*:*,4T Niagara Tray Minimizer Free 4.40,[''],2022-03-18T10:10Z
+8,cpe:2.3:a:4t-niagara:tray_minimizer_pro:4.40:*:*:*:*:*:*:*,4T Niagara Tray Minimizer Pro 4.40,[''],2022-03-18T10:10Z
+9,cpe:2.3:a:4you-studio:com_jphone:1.0:alpha3:*:*:*:*:*:*,4you-studio JPhone (com_jphone) component 1.0 Alpha3 for Joomla!,['CVE-2010-3426'],2022-03-18T10:10Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:block:eos:dawn-4.2.0:*:*:*:*:*:*:*,Block EOS Dawn 4.2.0,['CVE-2018-11548'],2022-03-19T08:41Z
+1,cpe:2.3:a:block:jit-wasm:4.1:*:*:*:*:*:*:*,Block Jit-wasm 4.1,['CVE-2018-13443'],2022-03-19T08:41Z
+2,cpe:2.3:a:block18:block18:-:*:*:*:*:*:*:*,Block18,['CVE-2018-12703'],2022-03-19T08:41Z
+3,cpe:2.3:a:blocklancertoken_project:blocklancertoken:-:*:*:*:*:*:*:*,BlocklancerToken Project BlocklancerToken,['CVE-2021-33403'],2022-03-19T08:41Z
+4,cpe:2.3:a:blocksera:image_hover_effects:-:*:*:*:*:wordpress:*:*,Blocksera Image Hover Effects for WordPress,"['CVE-2021-24264', 'CVE-2021-36888']",2022-03-19T08:41Z
+5,cpe:2.3:a:blocksera:image_hover_effects:1.0:*:*:*:*:wordpress:*:*,Blocksera Image Hover Effects 1.0 for WordPress,"['CVE-2021-24264', 'CVE-2021-36888']",2022-03-19T08:42Z
+6,cpe:2.3:a:blocksera:image_hover_effects:1.1:*:*:*:*:wordpress:*:*,Blocksera Image Hover Effects 1.1 for WordPress,"['CVE-2021-24264', 'CVE-2021-36888']",2022-03-19T08:41Z
+7,cpe:2.3:a:blocksera:image_hover_effects:1.2:*:*:*:*:wordpress:*:*,Blocksera Image Hover Effects 1.2 for WordPress,"['CVE-2021-24264', 'CVE-2021-36888']",2022-03-19T08:41Z
+8,cpe:2.3:a:blocksera:image_hover_effects:1.2.1:*:*:*:*:wordpress:*:*,Blocksera Image Hover Effects 1.2.1 for WordPress,"['CVE-2021-24264', 'CVE-2021-36888']",2022-03-19T08:42Z
+9,cpe:2.3:a:blocksera:image_hover_effects:1.2.2:*:*:*:*:wordpress:*:*,Blocksera Image Hover Effects 1.2.2 for WordPress,"['CVE-2021-24264', 'CVE-2021-36888']",2022-03-19T08:42Z

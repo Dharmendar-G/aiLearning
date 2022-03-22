@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:asciidoctor:asciidoctor:1.5.6.2:*:*:*:*:*:*:*,Asciidoctor Asciidoctor 1.5.6.2,['CVE-2018-18385'],2022-03-18T23:43Z
+1,cpe:2.3:a:asciidoctor:asciidoctor:1.5.7:*:*:*:*:*:*:*,Asciidoctor Asciidoctor 1.5.7,['CVE-2018-18385'],2022-03-18T23:43Z
+2,cpe:2.3:a:asciidoctor:asciidoctor:1.5.7.1:*:*:*:*:*:*:*,Asciidoctor Asciidoctor 1.5.7.1,['CVE-2018-18385'],2022-03-18T23:43Z
+3,cpe:2.3:a:asciidoctor:asciidoctor:1.5.8:*:*:*:*:*:*:*,Asciidoctor Asciidoctor 1.5.8,[''],2022-03-18T23:43Z
+4,cpe:2.3:a:asciitable.js_project:asciitable.js:-:*:*:*:*:node.js:*:*,asciitable.js Project asciitable.js for Node.js,['CVE-2020-7771'],2022-03-18T23:44Z
+5,cpe:2.3:a:asciitable.js_project:asciitable.js:1.0.0:*:*:*:*:node.js:*:*,asciitable.js Project asciitable.js 1.0.0 for Node.js,['CVE-2020-7771'],2022-03-18T23:43Z
+6,cpe:2.3:a:asciitable.js_project:asciitable.js:1.0.1:*:*:*:*:node.js:*:*,asciitable.js Project asciitable.js 1.0.1 for Node.js,['CVE-2020-7771'],2022-03-18T23:43Z
+7,cpe:2.3:a:asciitable.js_project:asciitable.js:1.0.2:*:*:*:*:node.js:*:*,asciitable.js Project asciitable.js 1.0.2 for Node.js,['CVE-2020-7771'],2022-03-18T23:44Z
+8,cpe:2.3:a:asciitable.js_project:asciitable.js:1.0.3:*:*:*:*:node.js:*:*,asciitable.js Project asciitable.js 1.0.3 for Node.js,[''],2022-03-18T23:44Z
+9,cpe:2.3:a:asg:asg_report.web_insight_viewer:3.2.1_\(build_367\):*:*:*:*:*:*:*,Asg Report.web Insight Viewer 3.2.1 (build 367),[''],2022-03-18T23:44Z

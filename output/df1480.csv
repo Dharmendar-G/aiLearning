@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:1password:1password:6.1:*:*:*:*:macos:*:*,1Password 6.1 for MacOS,[''],2022-03-18T09:47Z
+1,cpe:2.3:a:1password:1password:6.2:*:*:*:*:android:*:*,1Password 6.2 for Android,[''],2022-03-18T09:47Z
+2,cpe:2.3:a:1password:1password:6.2:*:*:*:*:macos:*:*,1Password 6.2 for MacOS,[''],2022-03-18T09:48Z
+3,cpe:2.3:a:1password:1password:6.2.1:*:*:*:*:android:*:*,1Password 6.2.1 for Android,[''],2022-03-18T09:47Z
+4,cpe:2.3:a:1password:1password:6.2.1:*:*:*:*:macos:*:*,1Password 6.2.1 for Macos,[''],2022-03-18T09:48Z
+5,cpe:2.3:a:1password:1password:6.3:*:*:*:*:android:*:*,1Password 6.3 for Android,[''],2022-03-18T09:48Z
+6,cpe:2.3:a:1password:1password:6.3:*:*:*:*:macos:*:*,1Password 6.3 for MacOS,[''],2022-03-18T09:48Z
+7,cpe:2.3:a:1password:1password:6.3.1:*:*:*:*:android:*:*,1Password 6.3.1 for Android,[''],2022-03-18T09:48Z
+8,cpe:2.3:a:1password:1password:6.3.1:*:*:*:*:macos:*:*,1Password 6.3.1 for MacOS,[''],2022-03-18T09:48Z
+9,cpe:2.3:a:1password:1password:6.3.2:*:*:*:*:android:*:*,1Password 6.3.2 for Android,[''],2022-03-18T09:48Z

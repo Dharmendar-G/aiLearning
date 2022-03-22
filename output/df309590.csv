@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:heimdalsecurity:heimdal:2.2.190:*:*:*:pro:*:*:*,Heimdal Security Heimdal 2.2.190 Pro Edition,"['CVE-2018-5349', 'CVE-2018-5731']",2022-03-21T10:35Z
+1,cpe:2.3:a:heimdalsecurity:thor:2.5.170:rc:*:*:*:*:*:*,Heimdal Security Thor 2.5.170 Release Candidate,['CVE-2019-8351'],2022-03-21T10:35Z
+2,cpe:2.3:a:heimdalsecurity:thor:2.5.171:*:*:*:*:*:*:*,Heimdal Security Thor 2.5.171,['CVE-2019-8351'],2022-03-21T10:35Z
+3,cpe:2.3:a:heimdalsecurity:thor:2.5.172:*:*:*:*:*:*:*,Heimdal Security Thor 2.5.172,['CVE-2019-8351'],2022-03-21T10:35Z
+4,cpe:2.3:a:heimdalsecurity:thor:2.5.173:*:*:*:*:*:*:*,Heimdalsecurity Thor 2.5.173,[''],2022-03-21T10:35Z
+5,cpe:2.3:a:heinekingmedia:stashcat:-:*:*:*:*:macos:*:*,Heinekingmedia Stashcat for macOS,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:35Z
+6,cpe:2.3:a:heinekingmedia:stashcat:-:*:*:*:*:windows:*:*,heinekingmedia stashcat for Windows,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:35Z
+7,cpe:2.3:a:heinekingmedia:stashcat:1.5.7:*:*:*:*:android:*:*,heinekingmedia stashcat 1.5.7 for Android,"['CVE-2017-11132', 'CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:35Z
+8,cpe:2.3:a:heinekingmedia:stashcat:1.5.10:*:*:*:*:android:*:*,heinekingmedia stashcat 1.5.10 for Android,"['CVE-2017-11132', 'CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:35Z
+9,cpe:2.3:a:heinekingmedia:stashcat:1.5.11:*:*:*:*:android:*:*,heinekingmedia stashcat 1.5.11 for Android,"['CVE-2017-11132', 'CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:35Z

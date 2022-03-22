@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adodb_project:adodb:5.01:beta:*:*:*:*:*:*,ADOdb Project ADOdb 5.01 Beta,"['CVE-2016-4855', 'CVE-2016-7405', 'CVE-2021-3850']",2022-03-18T12:53Z
+1,cpe:2.3:a:adodb_project:adodb:5.02:a:*:*:*:*:*:*,ADOdb Project ADOdb 5.02 Alpha,"['CVE-2016-4855', 'CVE-2016-7405', 'CVE-2021-3850']",2022-03-18T12:53Z
+2,cpe:2.3:a:adodb_project:adodb:5.02:a:*:*:*:*:*:*,ADOdb Project ADOdb 5.02 Alpha,"['CVE-2016-4855', 'CVE-2016-7405', 'CVE-2021-3850']",2022-03-18T12:53Z
+3,cpe:2.3:a:adodb_project:adodb:5.03:*:*:*:*:*:*:*,ADOdb Project ADOdb 5.03,"['CVE-2016-4855', 'CVE-2016-7405', 'CVE-2021-3850']",2022-03-18T12:53Z
+4,cpe:2.3:a:adodb_project:adodb:5.04:a:*:*:*:*:*:*,ADOdb Project ADOdb 5.04 Alpha,"['CVE-2016-4855', 'CVE-2016-7405', 'CVE-2021-3850']",2022-03-18T12:53Z
+5,cpe:2.3:a:adodb_project:adodb:5.04:a:*:*:*:*:*:*,ADOdb Project ADOdb 5.04 Alpha,"['CVE-2016-4855', 'CVE-2016-7405', 'CVE-2021-3850']",2022-03-18T12:53Z
+6,cpe:2.3:a:adodb_project:adodb:5.05:*:*:*:*:*:*:*,ADOdb Project ADOdb 5.05,"['CVE-2016-4855', 'CVE-2016-7405', 'CVE-2021-3850']",2022-03-18T12:53Z
+7,cpe:2.3:a:adodb_project:adodb:5.06:a:*:*:*:*:*:*,ADOdb Project ADOdb 5.06 Alpha,"['CVE-2016-4855', 'CVE-2016-7405', 'CVE-2021-3850']",2022-03-18T12:53Z
+8,cpe:2.3:a:adodb_project:adodb:5.06:a:*:*:*:*:*:*,ADOdb Project ADOdb 5.06 Alpha,"['CVE-2016-4855', 'CVE-2016-7405', 'CVE-2021-3850']",2022-03-18T12:53Z
+9,cpe:2.3:a:adodb_project:adodb:5.07:*:*:*:*:*:*:*,ADOdb Project ADOdb 5.07,"['CVE-2016-4855', 'CVE-2016-7405', 'CVE-2021-3850']",2022-03-18T12:53Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:smart_tank_plus_650_wireless_y0f71a:-:*:*:*:*:*:*:*,HP Smart Tank Plus 650 Wireless Y0F71A,['CVE-2020-28419'],2022-03-21T16:05Z
+1,cpe:2.3:h:hp:smart_tank_plus_650_wireless_y0f72a:-:*:*:*:*:*:*:*,HP Smart Tank Plus 650 Wireless Y0F72A,['CVE-2020-28419'],2022-03-21T16:05Z
+2,cpe:2.3:h:hp:smart_tank_plus_650_wireless_y0f73a:-:*:*:*:*:*:*:*,HP Smart Tank Plus 650 Wireless Y0F73A,['CVE-2020-28419'],2022-03-21T16:05Z
+3,cpe:2.3:h:hp:smart_tank_plus_650_wireless_y0f74a:-:*:*:*:*:*:*:*,HP Smart Tank Plus 650 Wireless Y0F74A,['CVE-2020-28419'],2022-03-21T16:05Z
+4,cpe:2.3:h:hp:smart_tank_wireless_450_z4b56a:-:*:*:*:*:*:*:*,HP Smart Tank Wireless 450 Z4B56A,"['CVE-2019-6332', 'CVE-2020-28419']",2022-03-21T16:05Z
+5,cpe:2.3:o:hp:smart_tank_wireless_450_z4b56a_firmware:-:*:*:*:*:*:*:*,HP Smart Tank Wireless 450 Z4B56A Firmware,['CVE-2019-6332'],2022-03-21T16:05Z
+6,cpe:2.3:o:hp:smart_tank_wireless_450_z4b56a_firmware:1924:*:*:*:*:*:*:*,HP Smart Tank Wireless 450 Z4B56A Firmware 1924,[''],2022-03-21T16:05Z
+7,cpe:2.3:h:hp:smart_tank_wireless_450_z6z96a:-:*:*:*:*:*:*:*,HP Smart Tank Wireless 450 Z6Z96A,"['CVE-2019-6332', 'CVE-2020-28419']",2022-03-21T16:05Z
+8,cpe:2.3:o:hp:smart_tank_wireless_450_z6z96a_firmware:-:*:*:*:*:*:*:*,HP Smart Tank Wireless 450 Z6Z96A Firmware,['CVE-2019-6332'],2022-03-21T16:05Z
+9,cpe:2.3:o:hp:smart_tank_wireless_450_z6z96a_firmware:1924:*:*:*:*:*:*:*,HP Smart Tank Wireless 450 Z6Z96A Firmware 1924,[''],2022-03-21T16:05Z

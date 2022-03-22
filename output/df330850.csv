@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hpe:synergy_620_gen9_compute_module_firmware:2.76:*:*:*:*:*:*:*,HPE Synergy 620 Gen9 Compute Module Firmware 2.76,[''],2022-03-21T16:36Z
+1,cpe:2.3:h:hpe:synergy_660_gen10_compute_module:-:*:*:*:*:*:*:*,HPE Synergy 660 Gen10 Compute Module,"['CVE-2019-11136', 'CVE-2019-11137', 'CVE-2020-7205']",2022-03-21T16:36Z
+2,cpe:2.3:o:hpe:synergy_660_gen10_compute_module_firmware:-:*:*:*:*:*:*:*,HPE Synergy 660 Gen10 Compute Module Firmware,"['CVE-2019-11136', 'CVE-2019-11137']",2022-03-21T16:36Z
+3,cpe:2.3:o:hpe:synergy_660_gen10_compute_module_firmware:2.20:*:*:*:*:*:*:*,HPE Synergy 660 Gen10 Compute Module Firmware 2.20,[''],2022-03-21T16:36Z
+4,cpe:2.3:h:hpe:synergy_660_gen9_compute_module:-:*:*:*:*:*:*:*,HPE Synergy 660 Gen9 Compute Module,['CVE-2020-7205'],2022-03-21T16:36Z
+5,cpe:2.3:h:hpe:synergy_680_gen9_compute_module:-:*:*:*:*:*:*:*,HPE Synergy 680 Gen9 Compute Module,"['CVE-2019-11136', 'CVE-2019-11137', 'CVE-2020-7205']",2022-03-21T16:36Z
+6,cpe:2.3:o:hpe:synergy_680_gen9_compute_module_firmware:-:*:*:*:*:*:*:*,HPE Synergy 680 Gen9 Compute Module Firmware,"['CVE-2019-11136', 'CVE-2019-11137']",2022-03-21T16:36Z
+7,cpe:2.3:o:hpe:synergy_680_gen9_compute_module_firmware:2.76:*:*:*:*:*:*:*,HPE Synergy 680 Gen9 Compute Module Firmware 2.76,[''],2022-03-21T16:36Z
+8,cpe:2.3:h:hpe:synergy_d3940_storage_module:-:*:*:*:*:*:*:*,HPE Synergy D3940 Storage Module,['CVE-2020-7205'],2022-03-21T16:36Z
+9,cpe:2.3:a:hpe:unified_data_management:1.2009.0:*:*:*:*:*:*:*,HPE Unified Data Management 1.2009.0,['CVE-2021-26579'],2022-03-21T16:36Z

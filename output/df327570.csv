@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:probook_450_g1_firmware:-:*:*:*:*:*:*:*,HP ProBook 450 G1 Firmware,['CVE-2019-16284'],2022-03-21T15:45Z
+1,cpe:2.3:o:hp:probook_450_g1_firmware:1.49:*:*:*:*:*:*:*,HP ProBook 450 G1 Firmware 1.49,[''],2022-03-21T15:45Z
+2,cpe:2.3:h:hp:probook_450_g2:-:*:*:*:*:*:*:*,HP ProBook 450 G2,"['CVE-2015-5367', 'CVE-2015-5368', 'CVE-2019-16284']",2022-03-21T15:45Z
+3,cpe:2.3:o:hp:probook_450_g2_firmware:-:*:*:*:*:*:*:*,HP ProBook 450 G2 Firmware,['CVE-2019-16284'],2022-03-21T15:45Z
+4,cpe:2.3:o:hp:probook_450_g2_firmware:1.52:*:*:*:*:*:*:*,HP ProBook 450 G2 Firmware 1.52,[''],2022-03-21T15:45Z
+5,cpe:2.3:h:hp:probook_450_g3:-:*:*:*:*:*:*:*,Hp Probook 450 G3,"['CVE-2017-8360', 'CVE-2019-16284']",2022-03-21T15:45Z
+6,cpe:2.3:o:hp:probook_450_g3_firmware:-:*:*:*:*:*:*:*,HP ProBook 450 G3 Firmware,['CVE-2019-16284'],2022-03-21T15:45Z
+7,cpe:2.3:o:hp:probook_450_g3_firmware:1.42:*:*:*:*:*:*:*,HP ProBook 450 G3 Firmware 1.42,[''],2022-03-21T15:45Z
+8,cpe:2.3:h:hp:probook_450_g5:-:*:*:*:*:*:*:*,HP ProBook 450 G5,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:45Z
+9,cpe:2.3:o:hp:probook_450_g5_firmware:-:*:*:*:*:*:*:*,HP ProBook 450 G5 Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:45Z

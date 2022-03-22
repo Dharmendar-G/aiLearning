@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huntcctv:dvr-16ch:-:*:*:*:*:*:*:*,Hunt Electronic DVR-16CH,['CVE-2013-1391'],2022-03-21T19:17Z
+1,cpe:2.3:o:huntcctv:dvr-16ch_firmware:-:*:*:*:*:*:*:*,Hunt Electronic DVR-16CH Firmware,['CVE-2013-1391'],2022-03-21T19:17Z
+2,cpe:2.3:h:huntcctv:hdr-04kd:-:*:*:*:*:*:*:*,Hunt Electronic HDR-04KD,['CVE-2013-1391'],2022-03-21T19:17Z
+3,cpe:2.3:o:huntcctv:hdr-04kd_firmware:-:*:*:*:*:*:*:*,Hunt Electronic HDR-04KD Firmware,['CVE-2013-1391'],2022-03-21T19:17Z
+4,cpe:2.3:h:huntcctv:hdr-08kd:-:*:*:*:*:*:*:*,Hunt Electronic HDR-08KD,['CVE-2013-1391'],2022-03-21T19:17Z
+5,cpe:2.3:o:huntcctv:hdr-08kd_firmware:-:*:*:*:*:*:*:*,Hunt Electronic HDR-08KD Firmware,['CVE-2013-1391'],2022-03-21T19:17Z
+6,cpe:2.3:a:huntercoin:huntercoin:-:*:*:*:*:*:*:*,HunterCoin,['CVE-2018-13530'],2022-03-21T19:17Z
+7,cpe:2.3:a:huntflow:huntflow_enterprise:-:*:*:*:*:*:*:*,Huntflow Enterprise,"['CVE-2021-37933', 'CVE-2021-37934', 'CVE-2021-37935']",2022-03-21T19:17Z
+8,cpe:2.3:a:huntflow:huntflow_enterprise:3.10.6:*:*:*:*:*:*:*,Huntflow Enterprise 3.10.6,['CVE-2021-37934'],2022-03-21T19:17Z
+9,cpe:2.3:a:hunting_trophy_whitetails_project:hunting_trophy_whitetails:0.75.13441.88885:*:*:*:*:android:*:*,Hunting Trophy Whitetails project Hunting Trophy Whitetails (aka com.wHuntingTrophyWhitetails) for android 0.75.13441.88885,['CVE-2014-7427'],2022-03-21T19:17Z

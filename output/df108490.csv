@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:check_mk_project:check_mk:1.2.7:i3p3:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.7 i3p3,[''],2022-03-19T16:42Z
+1,cpe:2.3:a:check_mk_project:check_mk:1.2.7:i3p4:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.7 i3p4,[''],2022-03-19T16:42Z
+2,cpe:2.3:a:check_mk_project:check_mk:1.2.7:i3p5:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.7 i3p5,[''],2022-03-19T16:42Z
+3,cpe:2.3:a:check_mk_project:check_mk:1.2.8:-:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.8,['CVE-2017-11507'],2022-03-19T16:42Z
+4,cpe:2.3:a:check_mk_project:check_mk:1.2.8:b1:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.8 Beta 1,['CVE-2017-11507'],2022-03-19T16:42Z
+5,cpe:2.3:a:check_mk_project:check_mk:1.2.8:b10:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.8 Beta 10,['CVE-2017-11507'],2022-03-19T16:42Z
+6,cpe:2.3:a:check_mk_project:check_mk:1.2.8:b11:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.8 Beta 11,['CVE-2017-11507'],2022-03-19T16:42Z
+7,cpe:2.3:a:check_mk_project:check_mk:1.2.8:b12:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.8 Beta 12,['CVE-2017-11507'],2022-03-19T16:42Z
+8,cpe:2.3:a:check_mk_project:check_mk:1.2.8:b13:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.8 Beta 13,['CVE-2017-11507'],2022-03-19T16:42Z
+9,cpe:2.3:a:check_mk_project:check_mk:1.2.8:b2:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.8 Beta 2,['CVE-2017-11507'],2022-03-19T16:42Z

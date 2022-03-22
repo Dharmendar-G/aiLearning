@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:xp7_tiered_storage_manager:-:*:*:*:*:*:*:*,HP Xp7 Tiered Storage Manager -,['CVE-2019-5408'],2022-03-21T16:18Z
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,cpe:2.3:h:hp:y0s18a:-:*:*:*:*:*:*:*,HP Y0S18A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:18Z
+5,cpe:2.3:o:hp:y0s18a_firmware:1830a:*:*:*:*:*:*:*,HP Y0S18A Firmware 1830A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:18Z
+6,cpe:2.3:h:hp:y0s19a:-:*:*:*:*:*:*:*,HP Y0S19A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:18Z
+7,cpe:2.3:o:hp:y0s19a_firmware:1828a:*:*:*:*:*:*:*,HP Y0S19A Firmware 1828A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:18Z
+8,cpe:2.3:h:hp:y3z44:-:*:*:*:*:*:*:*,HP Y3Z44,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:18Z
+9,cpe:2.3:o:hp:y3z44_firmware:005.1828a:*:*:*:*:*:*:*,HP Y3Z44 Firmware 005.1828A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:18Z

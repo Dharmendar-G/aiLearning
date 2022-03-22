@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:deepin:deepin_desktop_environment:15.4.1:*:*:*:*:*:*:*,Deepin Desktop Environment 15.4.1,[''],2022-03-20T12:03Z
+1,cpe:2.3:a:deepin:deepin_desktop_environment:15.5:-:*:*:*:*:*:*,Deepin Desktop Environment 15.5,[''],2022-03-20T12:03Z
+2,cpe:2.3:a:deepin:deepin_desktop_environment:15.5:beta:*:*:*:*:*:*,Deepin Desktop Environment 15.5 Beta,[''],2022-03-20T12:03Z
+3,cpe:2.3:a:deepin:deepin_desktop_environment:15.6:*:*:*:*:*:*:*,Deepin Desktop Environment 15.6,[''],2022-03-20T12:03Z
+4,cpe:2.3:a:deepin:deepin_desktop_environment:15.7:*:*:*:*:*:*:*,Deepin Desktop Environment 15.7,[''],2022-03-20T12:03Z
+5,cpe:2.3:a:deepin:deepin_desktop_environment:15.8:*:*:*:*:*:*:*,Deepin Desktop Environment 15.8,[''],2022-03-20T12:03Z
+6,cpe:2.3:a:deepin:deepin_desktop_environment:15.9:*:*:*:*:*:*:*,Deepin Desktop Environment 15.9,[''],2022-03-20T12:03Z
+7,cpe:2.3:a:deepin:deepin_desktop_environment:15.10:*:*:*:*:*:*:*,Deepin Desktop Environment 15.10,[''],2022-03-20T12:03Z
+8,cpe:2.3:a:deepin:deepin_desktop_environment:15.11:*:*:*:*:*:*:*,Deepin Desktop Environment 15.11,[''],2022-03-20T12:03Z
+9,cpe:2.3:a:deeply_project:deeply:-:*:*:*:*:node.js:*:*,Deeply Project Deeply for Node.js,['CVE-2019-10750'],2022-03-20T12:03Z

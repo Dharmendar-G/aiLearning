@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dovecot:pigeonhole:0.4.3:*:*:*:*:*:*:*,Dovecot Pigeonhole 0.4.3,['CVE-2019-11500'],2022-03-20T17:31Z
+1,cpe:2.3:a:dovecot:pigeonhole:0.4.4:*:*:*:*:*:*:*,Dovecot Pigeonhole 0.4.4,['CVE-2019-11500'],2022-03-20T17:31Z
+2,cpe:2.3:a:dovecot:pigeonhole:0.4.5:*:*:*:*:*:*:*,Dovecot Pigeonhole 0.4.5,['CVE-2019-11500'],2022-03-20T17:31Z
+3,cpe:2.3:a:dovecot:pigeonhole:0.4.6:*:*:*:*:*:*:*,Dovecot Pigeonhole 0.4.6,['CVE-2019-11500'],2022-03-20T17:31Z
+4,cpe:2.3:a:dovecot:pigeonhole:0.4.7:-:*:*:*:*:*:*,Dovecot Pigeonhole 0.4.7,['CVE-2019-11500'],2022-03-20T17:31Z
+5,cpe:2.3:a:dovecot:pigeonhole:0.4.7:rc1:*:*:*:*:*:*,Dovecot Pigeonhole 0.4.7 Release Candidate 1,['CVE-2019-11500'],2022-03-20T17:31Z
+6,cpe:2.3:a:dovecot:pigeonhole:0.4.7:rc2:*:*:*:*:*:*,Dovecot Pigeonhole 0.4.7 Release Candidate 2,['CVE-2019-11500'],2022-03-20T17:31Z
+7,cpe:2.3:a:dovecot:pigeonhole:0.4.7:rc3:*:*:*:*:*:*,Dovecot Pigeonhole 0.4.7 Release Candidate 3,['CVE-2019-11500'],2022-03-20T17:31Z
+8,cpe:2.3:a:dovecot:pigeonhole:0.4.8:-:*:*:*:*:*:*,Dovecot Pigeonhole 0.4.8,['CVE-2019-11500'],2022-03-20T17:31Z
+9,cpe:2.3:a:dovecot:pigeonhole:0.4.8:rc1:*:*:*:*:*:*,Dovecot Pigeonhole 0.4.8 Release Candidate 1,['CVE-2019-11500'],2022-03-20T17:31Z

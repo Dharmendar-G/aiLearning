@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:br-automation:automation_runtime:3.10:*:*:*:*:*:*:*,Br-automation Automation Runtime 3.10,"['CVE-2019-19108', 'CVE-2020-11637']",2022-03-19T10:38Z
+1,cpe:2.3:a:br-automation:automation_runtime:4.00:*:*:*:*:*:*:*,Br-automation Automation Runtime 4.00,"['CVE-2019-19108', 'CVE-2020-11637']",2022-03-19T10:38Z
+2,cpe:2.3:a:br-automation:automation_runtime:4.03:*:*:*:*:*:*:*,Br-automation Automation Runtime 4.03,"['CVE-2019-19108', 'CVE-2020-11637']",2022-03-19T10:38Z
+3,cpe:2.3:a:br-automation:automation_runtime:4.04:*:*:*:*:*:*:*,Br-automation Automation Runtime 4.04,"['CVE-2019-19108', 'CVE-2020-11637']",2022-03-19T10:38Z
+4,cpe:2.3:a:br-automation:automation_runtime:4.10:*:*:*:*:*:*:*,B&R Industrial Automation Automation Runtime 4.10,"['CVE-2019-19108', 'CVE-2020-11637']",2022-03-19T10:38Z
+5,cpe:2.3:a:br-automation:automation_runtime:4.20:*:*:*:*:*:*:*,B&R Industrial Automation Automation Runtime 4.20,"['CVE-2019-19108', 'CVE-2020-11637']",2022-03-19T10:38Z
+6,cpe:2.3:a:br-automation:automation_runtime:4.30:*:*:*:*:*:*:*,B&R Industrial Automation Automation Runtime 4.30,"['CVE-2019-19108', 'CVE-2020-11637']",2022-03-19T10:38Z
+7,cpe:2.3:a:br-automation:automation_runtime:4.40:*:*:*:*:*:*:*,B&R Industrial Automation Automation Runtime 4.40,"['CVE-2019-19108', 'CVE-2020-11637']",2022-03-19T10:38Z
+8,cpe:2.3:a:br-automation:automation_runtime:4.50:*:*:*:*:*:*:*,B&R Industrial Automation Automation Runtime 4.50,"['CVE-2019-19108', 'CVE-2020-11637']",2022-03-19T10:38Z
+9,cpe:2.3:a:br-automation:automation_runtime:4.60:*:*:*:*:*:*:*,B&R Industrial Automation Automation Runtime 4.60,"['CVE-2019-19108', 'CVE-2020-11637']",2022-03-19T10:38Z

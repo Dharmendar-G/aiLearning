@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:enterprise_common_services:8.2.9.92:*:*:*:*:*:*:*,Broadcom Enterprise Common Services 8.2.9.92,[''],2022-03-19T12:19Z
+1,cpe:2.3:a:broadcom:enterprise_common_services:8.3.5:*:*:*:*:*:*:*,Broadcom Enterprise Common Services 8.3.5,[''],2022-03-19T12:19Z
+2,cpe:2.3:a:broadcom:enterprise_log_manager:11.1.0:*:*:*:*:*:*:*,Broadcom Enterprise Log Manager 11.1.0,[''],2022-03-19T12:19Z
+3,cpe:2.3:a:broadcom:erwin_data_model_validator:-:*:*:*:*:*:*:*,Broadcom Erwin Data Model Validator,['CVE-2007-3696'],2022-03-19T12:19Z
+4,cpe:2.3:a:broadcom:erwin_data_modeler:7.1.1075:*:*:*:*:*:*:*,Broadcom Erwin Data Modeler 7.1.1075,[''],2022-03-19T12:19Z
+5,cpe:2.3:a:broadcom:erwin_process_modeler:-:*:*:*:*:*:*:*,Broadcom Erwin Process Modeler,[''],2022-03-19T12:19Z
+6,cpe:2.3:a:broadcom:erwin_process_modeler:7.1:*:*:*:*:*:*:*,Broadcom Erwin Process Modeler 7.1,['CVE-2007-3695'],2022-03-19T12:19Z
+7,cpe:2.3:a:broadcom:erwin_process_modeler:7.2:*:*:*:*:*:*:*,Broadcom Erwin Process Modeler 7.2,['CVE-2007-5435'],2022-03-19T12:19Z
+8,cpe:2.3:a:broadcom:etrust_access_control:-:*:*:*:*:*:*:*,Broadcom eTrust Access Control,[''],2022-03-19T12:19Z
+9,cpe:2.3:a:broadcom:etrust_access_control:4.1:*:*:*:*:*:*:*,Broadcom eTrust Access Control 4.1,['CVE-2000-0762'],2022-03-19T12:19Z

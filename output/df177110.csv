@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:debian:kernel-patch-vserver:1.9.5.2:*:*:*:*:*:*:*,Debian kernel-patch-vserver 1.9.5.2,['CVE-2005-4347'],2022-03-20T11:45Z
+1,cpe:2.3:a:debian:kernel-patch-vserver:1.9.5.3:*:*:*:*:*:*:*,Debian kernel-patch-vserver 1.9.5.3,['CVE-2005-4347'],2022-03-20T11:45Z
+2,cpe:2.3:a:debian:kernel-patch-vserver:1.9.5.4:*:*:*:*:*:*:*,Debian kernel-patch-vserver 1.9.5.4,['CVE-2005-4347'],2022-03-20T11:45Z
+3,cpe:2.3:a:debian:kernel-patch-vserver:1.9.5.5:*:*:*:*:*:*:*,Debian kernel-patch-vserver 1.9.5.5,[''],2022-03-20T11:45Z
+4,cpe:2.3:a:debian:kernel-patch-vserver:1.9.5.6:*:*:*:*:*:*:*,Debian kernel-patch-vserver 1.9.5.6,[''],2022-03-20T11:46Z
+5,cpe:2.3:a:debian:kernel-patch-vserver:2.0:*:*:*:*:*:*:*,Debian kernel-patch-vserver 2.0,['CVE-2005-4347'],2022-03-20T11:46Z
+6,cpe:2.3:a:debian:kernel-patch-vserver:2.1:*:*:*:*:*:*:*,Debian kernel-patch-vserver 2.1,['CVE-2005-4347'],2022-03-20T11:46Z
+7,cpe:2.3:a:debian:kernel-patch-vserver:2.2:*:*:*:*:*:*:*,Debian kernel-patch-vserver 2.2.x,[''],2022-03-20T11:46Z
+8,cpe:2.3:a:debian:kernel-patch-vserver:2.3:*:*:*:*:*:*:*,Debian kernel-patch-vserver 2.3,[''],2022-03-20T11:46Z
+9,cpe:2.3:a:debian:kernel-patch-vserver:2.4:*:*:*:*:*:*:*,Debian kernel-patch-vserver 2.4,[''],2022-03-20T11:46Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:coherence_project:coherence:0.3.1:*:*:*:*:*:*:*,Coherence Project Coherence 0.3.1,['CVE-2018-20301'],2022-03-20T06:25Z
+1,cpe:2.3:a:coherence_project:coherence:0.4.0:*:*:*:*:*:*:*,Coherence Project Coherence 0.4.0,['CVE-2018-20301'],2022-03-20T06:25Z
+2,cpe:2.3:a:coherence_project:coherence:0.5.0:*:*:*:*:*:*:*,Coherence Project Coherence 0.5.0,['CVE-2018-20301'],2022-03-20T06:25Z
+3,cpe:2.3:a:coherence_project:coherence:0.5.1:*:*:*:*:*:*:*,Coherence Project Coherence 0.5.1,['CVE-2018-20301'],2022-03-20T06:25Z
+4,cpe:2.3:a:coherence_project:coherence:0.5.2:*:*:*:*:*:*:*,Coherence Project Coherence 0.5.2,[''],2022-03-20T06:25Z
+5,cpe:2.3:a:cohesity:cohesity_dataplatform:6.3:*:*:*:*:*:*:*,Cohesity DataPlatform 6.3,"['CVE-2021-28123', 'CVE-2021-28124']",2022-03-20T06:25Z
+6,cpe:2.3:a:cohesity:cohesity_dataplatform:6.3.1g:*:*:*:*:*:*:*,Cohesity DataPlatform 6.3.1g,['CVE-2021-28124'],2022-03-20T06:25Z
+7,cpe:2.3:a:cohesity:cohesity_dataplatform:6.4:*:*:*:*:*:*:*,Cohesity DataPlatform 6.4,"['CVE-2021-28123', 'CVE-2021-28124']",2022-03-20T06:25Z
+8,cpe:2.3:a:cohesity:cohesity_dataplatform:6.4.1c:*:*:*:*:*:*:*,Cohesity DataPlatform 6.4.1c,['CVE-2021-28124'],2022-03-20T06:25Z
+9,cpe:2.3:a:cohesity:cohesity_dataplatform:6.5.1:*:*:*:*:*:*:*,Cohesity DataPlatform 6.5.1,"['CVE-2021-28123', 'CVE-2021-28124']",2022-03-20T06:25Z

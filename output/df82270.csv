@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bmc:bladelogic_server_automation_console:8.3.01:*:*:*:*:*:*:*,BMC BladeLogic Server Automation Console 8.3.01,"['CVE-2016-1542', 'CVE-2016-1543']",2022-03-19T09:08Z
+1,cpe:2.3:a:bmc:bladelogic_server_automation_console:8.3.02:*:*:*:*:*:*:*,BMC BladeLogic Server Automation Console 8.3.02,"['CVE-2016-1542', 'CVE-2016-1543']",2022-03-19T09:08Z
+2,cpe:2.3:a:bmc:bladelogic_server_automation_console:8.3.03:*:*:*:*:*:*:*,BMC BladeLogic Server Automation Console 8.3.03,"['CVE-2016-1542', 'CVE-2016-1543']",2022-03-19T09:08Z
+3,cpe:2.3:a:bmc:bladelogic_server_automation_console:8.5.00:*:*:*:*:*:*:*,BMC BladeLogic Server Automation Console 8.5.00,"['CVE-2016-1542', 'CVE-2016-1543']",2022-03-19T09:08Z
+4,cpe:2.3:a:bmc:bladelogic_server_automation_console:8.5.01:*:*:*:*:*:*:*,BMC BladeLogic Server Automation Console 8.5.01,"['CVE-2016-1542', 'CVE-2016-1543']",2022-03-19T09:08Z
+5,cpe:2.3:a:bmc:bladelogic_server_automation_console:8.6.00:*:*:*:*:*:*:*,BMC BladeLogic Server Automation Console 8.6.00,"['CVE-2016-1542', 'CVE-2016-1543']",2022-03-19T09:08Z
+6,cpe:2.3:a:bmc:bladelogic_server_automation_console:8.7.00:*:*:*:*:*:*:*,BMC BladeLogic Server Automation Console 8.7.00,"['CVE-2016-1542', 'CVE-2016-1543', 'CVE-2016-4322']",2022-03-19T09:08Z
+7,cpe:2.3:a:bmc:bladelogic_server_automation_operations_manager:7.4.6.790:*:*:*:*:*:*:*,Bmc Bladelogic Server Automation Operations Manager 7.4.6.790,[''],2022-03-19T09:08Z
+8,cpe:2.3:a:bmc:bladelogic_server_automation_rscd_agent:7.4.6.790:*:*:*:*:*:*:*,Bmc Bladelogic Server Automation Rscd Agent 7.4.6.790,[''],2022-03-19T09:08Z
+9,cpe:2.3:a:bmc:bladelogic_server_automation_rscd_agent:7.6.0.168:*:*:*:*:*:*:*,Bmc Bladelogic Server Automation Rscd Agent 7.6.0.168,[''],2022-03-19T09:08Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ad_inserter_project:ad_inserter:1.5.3:*:*:*:*:wordpress:*:*,Ad Inserter Project Ad Inserter 1.5.3 for WordPress,"['CVE-2019-15323', 'CVE-2019-15324', 'CVE-2022-0288']",2022-03-18T11:41Z
+1,cpe:2.3:a:ad_inserter_project:ad_inserter:1.5.4:*:*:*:*:wordpress:*:*,Ad Inserter Project Ad Inserter 1.5.4 for WordPress,"['CVE-2019-15323', 'CVE-2019-15324', 'CVE-2022-0288']",2022-03-18T11:41Z
+2,cpe:2.3:a:ad_inserter_project:ad_inserter:1.5.5:*:*:*:*:wordpress:*:*,Ad Inserter Project Ad Inserter 1.5.5 for WordPress,"['CVE-2019-15323', 'CVE-2019-15324', 'CVE-2022-0288']",2022-03-18T11:41Z
+3,cpe:2.3:a:ad_inserter_project:ad_inserter:1.5.6:*:*:*:*:wordpress:*:*,Ad Inserter Project Ad Inserter 1.5.6 for WordPress,"['CVE-2019-15323', 'CVE-2019-15324', 'CVE-2022-0288']",2022-03-18T11:41Z
+4,cpe:2.3:a:ad_inserter_project:ad_inserter:2.4.0:*:*:*:*:wordpress:*:*,Ad Inserter Project Ad Inserter 2.4.0 for WordPress,"['CVE-2019-15323', 'CVE-2019-15324', 'CVE-2022-0288']",2022-03-18T11:41Z
+5,cpe:2.3:a:ad_inserter_project:ad_inserter:2.4.1:*:*:*:*:wordpress:*:*,Ad Inserter Project Ad Inserter 2.4.1 for WordPress,"['CVE-2019-15323', 'CVE-2019-15324', 'CVE-2022-0288']",2022-03-18T11:41Z
+6,cpe:2.3:a:ad_inserter_project:ad_inserter:2.4.2:*:*:*:*:wordpress:*:*,Ad Inserter Project Ad Inserter 2.4.2 for WordPress,"['CVE-2019-15323', 'CVE-2019-15324', 'CVE-2022-0288']",2022-03-18T11:41Z
+7,cpe:2.3:a:ad_inserter_project:ad_inserter:2.4.3:*:*:*:*:wordpress:*:*,Ad Inserter Project Ad Inserter 2.4.3 for WordPress,"['CVE-2019-15323', 'CVE-2019-15324', 'CVE-2022-0288']",2022-03-18T11:41Z
+8,cpe:2.3:a:ad_inserter_project:ad_inserter:2.4.4:*:*:*:*:wordpress:*:*,Ad Inserter Project Ad Inserter 2.4.4 for WordPress,"['CVE-2019-15323', 'CVE-2019-15324', 'CVE-2022-0288']",2022-03-18T11:41Z
+9,cpe:2.3:a:ad_inserter_project:ad_inserter:2.4.5:*:*:*:*:wordpress:*:*,Ad Inserter Project Ad Inserter 2.4.5 for WordPress,"['CVE-2019-15323', 'CVE-2019-15324', 'CVE-2022-0288']",2022-03-18T11:41Z

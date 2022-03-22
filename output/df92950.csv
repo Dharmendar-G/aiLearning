@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:etrust_ez_antivirus:7.0.1:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 7.0.1,['CVE-2004-1149'],2022-03-19T12:20Z
+1,cpe:2.3:a:broadcom:etrust_ez_antivirus:7.0.1.1:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 7.0.1.1,['CVE-2004-1149'],2022-03-19T12:20Z
+2,cpe:2.3:a:broadcom:etrust_ez_antivirus:7.0.1.2:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 7.0.1.2,['CVE-2004-1149'],2022-03-19T12:20Z
+3,cpe:2.3:a:broadcom:etrust_ez_antivirus:7.0.1.3:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 7.0.1.3,['CVE-2004-1149'],2022-03-19T12:20Z
+4,cpe:2.3:a:broadcom:etrust_ez_antivirus:7.0.1.4:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 7.0.1.4,['CVE-2004-1149'],2022-03-19T12:20Z
+5,cpe:2.3:a:broadcom:etrust_ez_antivirus:7.0.2:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 7.0.2,['CVE-2004-1149'],2022-03-19T12:20Z
+6,cpe:2.3:a:broadcom:etrust_ez_antivirus:7.0.2.1:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 7.0.2.1,['CVE-2004-1149'],2022-03-19T12:20Z
+7,cpe:2.3:a:broadcom:etrust_ez_antivirus:7.0.3:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 7.0.3,['CVE-2004-1149'],2022-03-19T12:20Z
+8,cpe:2.3:a:broadcom:etrust_ez_antivirus:7.0.4:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 7.0.4,['CVE-2004-1149'],2022-03-19T12:20Z
+9,cpe:2.3:a:broadcom:etrust_ez_antivirus:7.1:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 7.1,[''],2022-03-19T12:20Z

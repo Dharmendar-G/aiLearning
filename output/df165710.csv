@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:crafty_social_buttons_project:crafty_social_buttons:1.5.8:*:*:*:*:wordpress:*:*,Crafty Social Buttons Project Crafty Social Buttons 1.5.8 for WordPress,[''],2022-03-20T08:52Z
+1,cpe:2.3:a:craig_barratt:backuppc:3.0.0:*:*:*:*:*:*:*,Craig Barratt BackupPC 3.0.0,['CVE-2011-4923'],2022-03-20T08:52Z
+2,cpe:2.3:a:craig_barratt:backuppc:3.1.0:*:*:*:*:*:*:*,Craig Barratt BackupPC 3.1.0,"['CVE-2009-3369', 'CVE-2011-4923', 'CVE-2011-5081']",2022-03-20T08:52Z
+3,cpe:2.3:a:craig_barratt:backuppc:3.2.0:*:*:*:*:*:*:*,Craig Barratt BackupPC 3.2.0,"['CVE-2011-3361', 'CVE-2011-4923']",2022-03-20T08:52Z
+4,cpe:2.3:a:craig_barratt:backuppc:3.2.1:*:*:*:*:*:*:*,Craig Barratt BackupPC 3.2.1,"['CVE-2011-4923', 'CVE-2011-5081']",2022-03-20T08:52Z
+5,cpe:2.3:a:craig_drummond:cantata:0.7.0:*:*:*:*:*:*:*,Craig Drummond cantata 0.7.0,"['CVE-2013-7300', 'CVE-2013-7301']",2022-03-20T08:52Z
+6,cpe:2.3:a:craig_drummond:cantata:0.7.1:*:*:*:*:*:*:*,Craig Drummond cantata 0.7.1,"['CVE-2013-7300', 'CVE-2013-7301']",2022-03-20T08:52Z
+7,cpe:2.3:a:craig_drummond:cantata:0.8.0:*:*:*:*:*:*:*,Craig Drummond cantata 0.8.0,"['CVE-2013-7300', 'CVE-2013-7301']",2022-03-20T08:52Z
+8,cpe:2.3:a:craig_drummond:cantata:0.8.1:*:*:*:*:*:*:*,Craig Drummond cantata 0.8.1,"['CVE-2013-7300', 'CVE-2013-7301']",2022-03-20T08:52Z
+9,cpe:2.3:a:craig_drummond:cantata:0.8.2:*:*:*:*:*:*:*,Craig Drummond cantata 0.8.2,"['CVE-2013-7300', 'CVE-2013-7301']",2022-03-20T08:52Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bloodhound_project:bloodhound:3.0.1:*:*:*:*:*:*:*,BloodHound Project BloodHound 3.0.1,['CVE-2021-3210'],2022-03-19T08:43Z
+1,cpe:2.3:a:bloodhound_project:bloodhound:3.0.2:*:*:*:*:*:*:*,BloodHound Project BloodHound 3.0.2,['CVE-2021-3210'],2022-03-19T08:43Z
+2,cpe:2.3:a:bloodhound_project:bloodhound:3.0.3:*:*:*:*:*:*:*,BloodHound Project BloodHound 3.0.3,['CVE-2021-3210'],2022-03-19T08:43Z
+3,cpe:2.3:a:bloodhound_project:bloodhound:3.0.4:*:*:*:*:*:*:*,BloodHound Project BloodHound 3.0.4,['CVE-2021-3210'],2022-03-19T08:43Z
+4,cpe:2.3:a:bloodhound_project:bloodhound:3.0.5:*:*:*:*:*:*:*,BloodHound Project BloodHound 3.0.5,['CVE-2021-3210'],2022-03-19T08:43Z
+5,cpe:2.3:a:bloodhound_project:bloodhound:4.0.0:*:*:*:*:*:*:*,BloodHound Project BloodHound 4.0.0,['CVE-2021-3210'],2022-03-19T08:43Z
+6,cpe:2.3:a:bloodhound_project:bloodhound:4.0.1:*:*:*:*:*:*:*,BloodHound Project BloodHound 4.0.1,['CVE-2021-3210'],2022-03-19T08:43Z
+7,cpe:2.3:a:bloodhound_project:bloodhound:4.0.2:*:*:*:*:*:*:*,BloodHound Project BloodHound 4.0.2,[''],2022-03-19T08:43Z
+8,cpe:2.3:a:bloodjournal:blood:2.1:*:*:*:*:android:*:*,bloodjournal Blood (aka com.sheridan.ash) for android 2.1,['CVE-2014-7543'],2022-03-19T08:43Z
+9,[0],[0],[0],[0]

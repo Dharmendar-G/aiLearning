@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:7.0.5:*:*:*:*:windows:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 7.0.5 for Windows,"['CVE-2021-1280', 'CVE-2021-1386']",2022-03-19T18:13Z
+1,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:7.1.1:*:*:*:*:windows:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 7.1.1 for Windows,"['CVE-2021-1280', 'CVE-2021-1386']",2022-03-19T18:13Z
+2,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:7.1.5:*:*:*:*:windows:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 7.1.5 for Windows,"['CVE-2021-1280', 'CVE-2021-1386']",2022-03-19T18:13Z
+3,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:7.2.11:*:*:*:*:windows:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 7.2.11 for Windows,"['CVE-2021-1280', 'CVE-2021-1386']",2022-03-19T18:13Z
+4,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:7.2.13:*:*:*:*:windows:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 7.2.13 for Windows,"['CVE-2021-1280', 'CVE-2021-1386']",2022-03-19T18:13Z
+5,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:7.3.1:*:*:*:*:windows:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 7.3.1 for Windows,"['CVE-2021-1280', 'CVE-2021-1386']",2022-03-19T18:13Z
+6,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:7.3.3:*:*:*:*:windows:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 7.3.3 for Windows,['CVE-2021-1386'],2022-03-19T18:13Z
+7,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:7.3.9:*:*:*:*:windows:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 7.3.9 for Windows,['CVE-2021-1386'],2022-03-19T18:13Z
+8,cpe:2.3:a:cisco:agent_desktop:-:*:*:*:*:*:*:*,Cisco Agent Desktop,['CVE-2005-0356'],2022-03-19T18:13Z
+9,cpe:2.3:a:cisco:agent_desktop:80.2.9:*:*:*:*:*:*:*,Cisco Agent Desktop 80.2.9,['CVE-2005-0356'],2022-03-19T18:13Z

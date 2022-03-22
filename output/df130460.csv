@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:nim-4mft-t1\/e1:-:*:*:*:*:*:*:*,Cisco NIM-4mft-t1/e1 -,['CVE-2019-1649'],2022-03-19T23:15Z
+1,cpe:2.3:h:cisco:nim-8ce1t1-pri:-:*:*:*:*:*:*:*,Cisco NIM-8ce1t1-pri -,['CVE-2019-1649'],2022-03-19T23:15Z
+2,cpe:2.3:h:cisco:nim-8mft-t1\/e1:-:*:*:*:*:*:*:*,Cisco NIM-8mft-t1/e1 -,['CVE-2019-1649'],2022-03-19T23:15Z
+3,cpe:2.3:a:cisco:node-jose:0.3.0:*:*:*:*:*:*:*,Cisco Node-jose 0.3.0,['CVE-2018-0114'],2022-03-19T23:15Z
+4,cpe:2.3:a:cisco:node-jose:0.3.0:*:*:*:*:node.js:*:*,Cisco Node-jose 0.3.0 for Node.js,"['CVE-2017-16007', 'CVE-2018-0114']",2022-03-19T23:15Z
+5,cpe:2.3:a:cisco:node-jose:0.3.1:*:*:*:*:*:*:*,Cisco Node-jose 0.3.1,['CVE-2018-0114'],2022-03-19T23:15Z
+6,cpe:2.3:a:cisco:node-jose:0.3.1:*:*:*:*:node.js:*:*,Cisco Node-jose 0.3.1 for Node.js,"['CVE-2017-16007', 'CVE-2018-0114']",2022-03-19T23:15Z
+7,cpe:2.3:a:cisco:node-jose:0.4.0:*:*:*:*:*:*:*,Cisco Node-jose 0.4.0,['CVE-2018-0114'],2022-03-19T23:15Z
+8,cpe:2.3:a:cisco:node-jose:0.4.0:*:*:*:*:node.js:*:*,Cisco Node-jose 0.4.0 for Node.js,"['CVE-2017-16007', 'CVE-2018-0114']",2022-03-19T23:15Z
+9,cpe:2.3:a:cisco:node-jose:0.5.0:*:*:*:*:*:*:*,Cisco Node-jose 0.5.0,['CVE-2018-0114'],2022-03-19T23:15Z

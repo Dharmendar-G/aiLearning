@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ari-soft:ari_adminer:1.2.2:*:*:*:*:wordpress:*:*,ARI Soft ARI Adminer 1.2.2 for WordPress,[''],2022-03-18T22:59Z
+1,cpe:2.3:a:ari-soft:ari_adminer:1.2.3:*:*:*:*:wordpress:*:*,ARI Soft ARI Adminer 1.2.3 for WordPress,[''],2022-03-18T22:59Z
+2,cpe:2.3:h:arista:7010t-48:-:*:*:*:*:*:*:*,Arista 7010T-48,['CVE-2020-26569'],2022-03-18T22:59Z
+3,cpe:2.3:h:arista:7020r:-:*:*:*:*:*:*:*,Arista 7020R -,['CVE-2019-14810'],2022-03-18T22:59Z
+4,cpe:2.3:h:arista:7050cx3-32s:-:*:*:*:*:*:*:*,Arista 7050CX3-3S,"['CVE-2020-15898', 'CVE-2020-26569']",2022-03-18T22:59Z
+5,cpe:2.3:h:arista:7050cx3m-32s:-:*:*:*:*:*:*:*,Arista 7050CX3M-32S,"['CVE-2020-15898', 'CVE-2020-26569']",2022-03-18T22:59Z
+6,cpe:2.3:h:arista:7050qx2-32s:-:*:*:*:*:*:*:*,Arista 7050QX2-32S,"['CVE-2020-15898', 'CVE-2020-26569']",2022-03-18T22:59Z
+7,cpe:2.3:h:arista:7050qx-32s:-:*:*:*:*:*:*:*,Arista 7050QX-32S,"['CVE-2020-15898', 'CVE-2020-26569']",2022-03-18T22:59Z
+8,cpe:2.3:h:arista:7050sx-128:-:*:*:*:*:*:*:*,Arista 7050SX-128,"['CVE-2020-15898', 'CVE-2020-26569']",2022-03-18T22:59Z
+9,cpe:2.3:h:arista:7050sx2-128:-:*:*:*:*:*:*:*,Arista 7050SX2-128,"['CVE-2020-15898', 'CVE-2020-26569']",2022-03-18T22:59Z

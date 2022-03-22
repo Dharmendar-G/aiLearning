@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:asg:asg-report.web:3.2.0:*:*:*:*:*:*:*,Asg Asg-report.web 3.2.0,[''],2022-03-18T23:44Z
+1,cpe:2.3:a:asgaros:asgaros_forum:-:*:*:*:*:wordpress:*:*,Asgaros Forum for WordPress,"['CVE-2021-24827', 'CVE-2021-25045', 'CVE-2021-42365', 'CVE-2022-0411']",2022-03-18T23:44Z
+2,cpe:2.3:a:asgaros:asgaros_forum:1.0.0:*:*:*:*:wordpress:*:*,Asgaros Forum 1.0.0 for WordPress,"['CVE-2021-24827', 'CVE-2021-25045', 'CVE-2021-42365', 'CVE-2022-0411']",2022-03-18T23:44Z
+3,cpe:2.3:a:asgaros:asgaros_forum:1.0.1:*:*:*:*:wordpress:*:*,Asgaros Forum 1.0.1 for WordPress,"['CVE-2021-24827', 'CVE-2021-25045', 'CVE-2021-42365', 'CVE-2022-0411']",2022-03-18T23:44Z
+4,cpe:2.3:a:asgaros:asgaros_forum:1.0.2:*:*:*:*:wordpress:*:*,Asgaros Forum 1.0.2 for WordPress,"['CVE-2021-24827', 'CVE-2021-25045', 'CVE-2021-42365', 'CVE-2022-0411']",2022-03-18T23:44Z
+5,cpe:2.3:a:asgaros:asgaros_forum:1.0.3:*:*:*:*:wordpress:*:*,Asgaros Forum 1.0.3 for WordPress,"['CVE-2021-24827', 'CVE-2021-25045', 'CVE-2021-42365', 'CVE-2022-0411']",2022-03-18T23:44Z
+6,cpe:2.3:a:asgaros:asgaros_forum:1.0.4:*:*:*:*:wordpress:*:*,Asgaros Forum 1.0.4 for WordPress,"['CVE-2021-24827', 'CVE-2021-25045', 'CVE-2021-42365', 'CVE-2022-0411']",2022-03-18T23:44Z
+7,cpe:2.3:a:asgaros:asgaros_forum:1.0.5:*:*:*:*:wordpress:*:*,Asgaros Forum 1.0.5 for WordPress,"['CVE-2021-24827', 'CVE-2021-25045', 'CVE-2021-42365', 'CVE-2022-0411']",2022-03-18T23:44Z
+8,cpe:2.3:a:asgaros:asgaros_forum:1.0.6:*:*:*:*:wordpress:*:*,Asgaros Forum 1.0.6 for WordPress,"['CVE-2021-24827', 'CVE-2021-25045', 'CVE-2021-42365', 'CVE-2022-0411']",2022-03-18T23:44Z
+9,cpe:2.3:a:asgaros:asgaros_forum:1.0.7:*:*:*:*:wordpress:*:*,Asgaros Forum 1.0.7 for WordPress,"['CVE-2021-24827', 'CVE-2021-25045', 'CVE-2021-42365', 'CVE-2022-0411']",2022-03-18T23:44Z

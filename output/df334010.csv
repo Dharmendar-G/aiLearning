@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:huawei:fusioncompute:6.5.1:*:*:*:*:*:*:*,Huawei FusionCompute 6.5.1,"['CVE-2016-6827', 'CVE-2020-9114', 'CVE-2020-9116', 'CVE-2021-37036', 'CVE-2021-37102', 'CVE-2021-37105']",2022-03-21T17:45Z
+1,cpe:2.3:a:huawei:fusioncompute:8.0.0:*:*:*:*:*:*:*,Huawei FusionCompute 8.0.0,"['CVE-2016-6827', 'CVE-2020-9078', 'CVE-2020-9114', 'CVE-2020-9116', 'CVE-2020-9128', 'CVE-2020-9228', 'CVE-2020-9229', 'CVE-2020-9233', 'CVE-2020-9242', 'CVE-2020-9246', 'CVE-2020-9248', 'CVE-2021-22358', 'CVE-2021-37102', 'CVE-2021-37105', 'CVE-2021-37106']",2022-03-21T17:45Z
+2,cpe:2.3:a:huawei:fusioncompute:v100r003c10:*:*:*:*:*:*:*,Huawei FusionCompute V100R003C10,['CVE-2016-6827'],2022-03-21T17:45Z
+3,cpe:2.3:o:huawei:fusioncompute:v100r005c00:*:*:*:*:*:*:*,Huawei FusionCompute V100R005C00,['CVE-2016-4057'],2022-03-21T17:45Z
+4,cpe:2.3:a:huawei:fusioncompute:v100r005c10:*:*:*:*:*:*:*,Huawei FusionCompute V100R005C10,['CVE-2017-8158'],2022-03-21T17:45Z
+5,cpe:2.3:o:huawei:fusioncompute_firmware:v100r003c00:*:*:*:*:*:*:*,Huawei FusionCompute Firmware v100r003c00,['CVE-2015-8336'],2022-03-21T17:45Z
+6,cpe:2.3:o:huawei:fusioncompute_firmware:v100r003c10:*:*:*:*:*:*:*,Huawei FusionCompute Firmware v100r003c10,['CVE-2015-8336'],2022-03-21T17:45Z
+7,cpe:2.3:a:huawei:fusioncube:6.0.2:*:*:*:*:*:*:*,Huawei FusionCube 6.0.2,[''],2022-03-21T17:45Z
+8,cpe:2.3:a:huawei:fusioninsight_hd:v100r002c30:*:*:*:*:*:*:*,Huawei FusionInsight HD V100R002C30,['CVE-2016-5723'],2022-03-21T17:45Z
+9,cpe:2.3:a:huawei:fusioninsight_hd:v100r002c50:*:*:*:*:*:*:*,Huawei FusionInsight HS V100R002C50,['CVE-2016-5723'],2022-03-21T17:45Z

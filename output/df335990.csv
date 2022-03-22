@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:rse6500_firmware:v500r002c00spci00:*:*:*:*:*:*:*,Huawei RSE6500 Firmware V500R002C00SPCi00,[''],2022-03-21T18:29Z
+1,cpe:2.3:o:huawei:rse6500_firmware:v500r002c00t:*:*:*:*:*:*:*,Huawei RSE6500 Firmware V500R002C00T,"['CVE-2017-17142', 'CVE-2017-17143', 'CVE-2017-17144']",2022-03-21T18:29Z
+2,cpe:2.3:o:huawei:s_series_firmware:-:*:*:*:*:*:*:*,Huawei S Series Firmware -,[''],2022-03-21T18:29Z
+3,cpe:2.3:o:huawei:s_series_firmware:v100r006c05:*:*:*:*:*:*:*,Huawei S Series Firmware V100R006C05,['CVE-2014-8572'],2022-03-21T18:29Z
+4,cpe:2.3:h:huawei:s12700:-:*:*:*:*:*:*:*,Huawei S12700,"['CVE-2015-2808', 'CVE-2015-3913', 'CVE-2015-8085', 'CVE-2015-8086', 'CVE-2016-2404', 'CVE-2016-4087', 'CVE-2016-6518', 'CVE-2016-6670', 'CVE-2016-8773', 'CVE-2016-8785', 'CVE-2016-8786', 'CVE-2016-8797', 'CVE-2017-15327', 'CVE-2017-15333', 'CVE-2017-15346', 'CVE-2017-17135', 'CVE-2017-17136', 'CVE-2017-17137', 'CVE-2017-17138', 'CVE-2017-17141', 'CVE-2017-17250', 'CVE-2017-17300', 'CVE-2017-8147', 'CVE-2019-19397', 'CVE-2019-5285', 'CVE-2020-1866', 'CVE-2021-22321', 'CVE-2021-22329', 'CVE-2021-22357', 'CVE-2021-22377', 'CVE-2021-37129']",2022-03-21T18:29Z
+5,cpe:2.3:o:huawei:s12700_firmware:-:*:*:*:*:*:*:*,Huawei S12700 Firmware -,['CVE-2015-2808'],2022-03-21T18:29Z
+6,cpe:2.3:o:huawei:s12700_firmware:v200r005c00:*:*:*:*:*:*:*,Huawei S12700 Firmware V200r005c00,"['CVE-2015-8085', 'CVE-2015-8086', 'CVE-2016-6518', 'CVE-2016-8786', 'CVE-2017-15327', 'CVE-2017-15333', 'CVE-2017-15346', 'CVE-2017-17141', 'CVE-2017-8147', 'CVE-2019-5285']",2022-03-21T18:29Z
+7,cpe:2.3:o:huawei:s12700_firmware:v200r005c00spc300:*:*:*:*:*:*:*,Huawei S12700 Firmware V200R005C00SPC300,"['CVE-2015-3913', 'CVE-2016-4087']",2022-03-21T18:29Z
+8,cpe:2.3:o:huawei:s12700_firmware:v200r005c00spc500:*:*:*:*:*:*:*,Huawei S12700 Firmware V200R005C00SPC500,['CVE-2016-2404'],2022-03-21T18:29Z
+9,cpe:2.3:o:huawei:s12700_firmware:v200r006c00:*:*:*:*:*:*:*,Huawei S12700 Firmware V200r006c00,"['CVE-2015-8085', 'CVE-2015-8086', 'CVE-2016-2404', 'CVE-2016-6518', 'CVE-2016-8786', 'CVE-2017-15327', 'CVE-2017-17141', 'CVE-2017-8147', 'CVE-2019-5285']",2022-03-21T18:29Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:asus:rt-ac66u_firmware:3.0.0.4.220:*:*:*:*:*:*:*,ASUS RT-AC66U Router Firmware 3.0.0.4.220,"['CVE-2013-4937', 'CVE-2014-2719', 'CVE-2018-8879', 'CVE-2018-9285']",2022-03-18T23:55Z
+1,cpe:2.3:o:asus:rt-ac66u_firmware:3.0.0.4.246:*:*:*:*:*:*:*,ASUS RT-AC66U Router Firmware 3.0.0.4.246,"['CVE-2013-4937', 'CVE-2014-2719', 'CVE-2018-8879', 'CVE-2018-9285']",2022-03-18T23:55Z
+2,cpe:2.3:o:asus:rt-ac66u_firmware:3.0.0.4.260:*:*:*:*:*:*:*,ASUS RT-AC66U Router Firmware 3.0.0.4.260,"['CVE-2013-4937', 'CVE-2014-2719', 'CVE-2018-8879', 'CVE-2018-9285']",2022-03-18T23:55Z
+3,cpe:2.3:o:asus:rt-ac66u_firmware:3.0.0.4.270:*:*:*:*:*:*:*,ASUS RT-AC66U Router Firmware 3.0.0.4.270,"['CVE-2013-4937', 'CVE-2014-2719', 'CVE-2018-8879', 'CVE-2018-9285']",2022-03-18T23:55Z
+4,cpe:2.3:o:asus:rt-ac66u_firmware:3.0.0.4.354:*:*:*:*:*:*:*,ASUS RT-AC66U Router Firmware 3.0.0.4.354,"['CVE-2013-4937', 'CVE-2014-2719', 'CVE-2018-8879', 'CVE-2018-9285']",2022-03-18T23:55Z
+5,cpe:2.3:o:asus:rt-ac66u_firmware:3.0.0.4.372_67:*:*:*:*:*:*:*,ASUS RT-AC66U Firmware 3.0.0.4.372_67,"['CVE-2018-8879', 'CVE-2018-9285', 'CVE-2020-7997']",2022-03-18T23:55Z
+6,cpe:2.3:o:asus:rt-ac66u_firmware:3.0.0.4.374_2050:*:*:*:*:*:*:*,ASUS RT-AC66U Firmware 3.0.0.4.374_2050,"['CVE-2013-3093', 'CVE-2018-8879', 'CVE-2018-9285']",2022-03-18T23:55Z
+7,cpe:2.3:o:asus:rt-ac66u_firmware:3.0.0.4.380.8228:*:*:*:*:*:*:*,ASUS RT-AC66U Firmware 3.0.0.4.380.8228,"['CVE-2018-8826', 'CVE-2018-8879', 'CVE-2018-9285']",2022-03-18T23:56Z
+8,cpe:2.3:o:asus:rt-ac66u_firmware:3.0.0.4.382.50470:*:*:*:*:*:*:*,ASUS RT-AC66U Firmware 3.0.0.4.382.50470,['CVE-2018-9285'],2022-03-18T23:55Z
+9,cpe:2.3:o:asus:rt-ac66u_firmware:3.0.0.4.382.51634:*:*:*:*:*:*:*,ASUS RT-AC66U Firmware 3.0.0.4.382.51634,['CVE-2018-9285'],2022-03-18T23:56Z

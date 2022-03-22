@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:jabber:11.9\(.0\):*:*:*:*:windows:*:*,Cisco Jabber 11.9(.0) for Windows,"['CVE-2018-0201', 'CVE-2019-1855', 'CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1411', 'CVE-2021-1417', 'CVE-2021-1418', 'CVE-2021-1469', 'CVE-2021-1471']",2022-03-19T22:47Z
+1,cpe:2.3:a:cisco:jabber:11.9\(0\):*:*:*:*:windows:*:*,Cisco Jabber 11.9(0) for Windows,"['CVE-2017-12358', 'CVE-2018-0199', 'CVE-2019-1855', 'CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1411', 'CVE-2021-1417', 'CVE-2021-1418', 'CVE-2021-1469', 'CVE-2021-1471']",2022-03-19T22:48Z
+2,cpe:2.3:a:cisco:jabber:11.9\(1\):*:*:*:*:windows:*:*,Cisco Jabber 11.9(1) for Windows,"['CVE-2017-12356', 'CVE-2019-1855', 'CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1411', 'CVE-2021-1417', 'CVE-2021-1418', 'CVE-2021-1469', 'CVE-2021-1471']",2022-03-19T22:47Z
+3,cpe:2.3:a:cisco:jabber:11.9\(2\):*:*:*:*:windows:*:*,Cisco Jabber 11.9(2) for Windows,"['CVE-2019-1855', 'CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1411', 'CVE-2021-1417', 'CVE-2021-1418', 'CVE-2021-1469', 'CVE-2021-1471']",2022-03-19T22:47Z
+4,cpe:2.3:a:cisco:jabber:11.9\(3\):*:*:*:*:windows:*:*,Cisco Jabber 11.9(3) for Windows,"['CVE-2019-1855', 'CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1411', 'CVE-2021-1417', 'CVE-2021-1418', 'CVE-2021-1469', 'CVE-2021-1471']",2022-03-19T22:48Z
+5,cpe:2.3:a:cisco:jabber:11.9.0:*:*:*:*:iphone_os:*:*,Cisco Jabber 11.9.0 for iPhone OS,"['CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:48Z
+6,cpe:2.3:a:cisco:jabber:11.9.1:*:*:*:*:iphone_os:*:*,Cisco Jabber 11.9.1 for iPhone OS,"['CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:48Z
+7,cpe:2.3:a:cisco:jabber:11.9.2:*:*:*:*:iphone_os:*:*,Cisco Jabber 11.9.2 for iPhone OS,"['CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:48Z
+8,cpe:2.3:a:cisco:jabber:12.0.0:*:*:*:*:iphone_os:*:*,Cisco Jabber 12.0.0 for iPhone OS,"['CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:48Z
+9,cpe:2.3:a:cisco:jabber:12.0.1:*:*:*:*:iphone_os:*:*,Cisco Jabber 12.0.1 for iPhone OS,"['CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:48Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:filenet_content_manager:4.0.1:*:*:*:*:*:*:*,IBM FileNet Content Manager 4.0.1,"['CVE-2009-1953', 'CVE-2010-2896']",2022-03-21T20:34Z
+1,cpe:2.3:a:ibm:filenet_content_manager:4.5:*:*:*:*:*:*:*,IBM FileNet Content Manager 4.5,['CVE-2009-1953'],2022-03-21T20:34Z
+2,cpe:2.3:a:ibm:filenet_content_manager:4.5.1:*:*:*:*:*:*:*,IBM FileNet Content Manager 4.5.1,"['CVE-2010-2896', 'CVE-2010-3317', 'CVE-2010-3318', 'CVE-2010-3319', 'CVE-2010-3320', 'CVE-2013-5449', 'CVE-2013-6746']",2022-03-21T20:34Z
+3,cpe:2.3:a:ibm:filenet_content_manager:5.0.0:*:*:*:*:*:*:*,IBM FileNet Content Manager 5.0.0,"['CVE-2013-5449', 'CVE-2013-6746']",2022-03-21T20:34Z
+4,cpe:2.3:a:ibm:filenet_content_manager:5.1.0:*:*:*:*:*:*:*,IBM FileNet Content Manager 5.1.0,"['CVE-2013-5449', 'CVE-2013-6746']",2022-03-21T20:34Z
+5,cpe:2.3:a:ibm:filenet_content_manager:5.2.0:*:*:*:*:*:*:*,IBM FileNet Content Manager 5.2.0,"['CVE-2013-5449', 'CVE-2013-6746', 'CVE-2014-4763']",2022-03-21T20:34Z
+6,cpe:2.3:a:ibm:filenet_content_manager:5.2.1:*:*:*:*:*:*:*,IBM FileNet Content Manager 5.2.1,"['CVE-2018-1542', 'CVE-2018-1555', 'CVE-2018-1556', 'CVE-2018-1844']",2022-03-21T20:34Z
+7,cpe:2.3:a:ibm:filenet_content_manager:5.5.0:*:*:*:*:*:*:*,IBM FileNet Content Manager 5.5.0,"['CVE-2018-1542', 'CVE-2018-1555', 'CVE-2018-1556', 'CVE-2018-1844']",2022-03-21T20:34Z
+8,cpe:2.3:a:ibm:filenet_content_manager:5.5.2:*:*:*:*:*:*:*,IBM FileNet Content Manager 5.5.2,['CVE-2019-4572'],2022-03-21T20:34Z
+9,cpe:2.3:a:ibm:filenet_content_manager:5.5.3:*:*:*:*:*:*:*,IBM FileNet Content Manager 5.5.3,"['CVE-2019-4572', 'CVE-2020-4447']",2022-03-21T20:34Z

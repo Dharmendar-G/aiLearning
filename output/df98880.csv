@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cabextract_project:cabextract:1.4:*:*:*:*:*:*:*,cabextract Project cabextract 1.4,"['CVE-2015-2060', 'CVE-2018-14679', 'CVE-2018-14680', 'CVE-2018-14681', 'CVE-2018-14682', 'CVE-2018-18584']",2022-03-19T14:23Z
+1,cpe:2.3:a:cabextract_project:cabextract:1.5:*:*:*:*:*:*:*,cabextract Project cabextract 1.5,"['CVE-2015-2060', 'CVE-2018-14679', 'CVE-2018-14680', 'CVE-2018-14681', 'CVE-2018-14682', 'CVE-2018-18584']",2022-03-19T14:23Z
+2,cpe:2.3:a:cabextract_project:cabextract:1.6:*:*:*:*:*:*:*,cabextract Project cabextract 1.6,['CVE-2018-18584'],2022-03-19T14:23Z
+3,cpe:2.3:a:cabextract_project:cabextract:1.7:*:*:*:*:*:*:*,cabextract Project cabextract 1.7,['CVE-2018-18584'],2022-03-19T14:23Z
+4,cpe:2.3:a:cabextract_project:cabextract:1.8:*:*:*:*:*:*:*,cabextract Project cabextract 1.8,[''],2022-03-19T14:23Z
+5,cpe:2.3:a:cabextract_project:cabextract:1.9:*:*:*:*:*:*:*,cabextract Project cabextract 1.9,[''],2022-03-19T14:23Z
+6,cpe:2.3:h:cabletron:2h252-25r:-:*:*:*:*:*:*:*,Cabletron 2H252-25R,[''],2022-03-19T14:23Z
+7,cpe:2.3:h:cabletron:2h252-25r:5.03.08:*:*:*:*:*:*:*,Cabletron 2H252-25R 05.03.08,[''],2022-03-19T14:23Z
+8,cpe:2.3:h:cabletron:2h252-25r:5.04.09:*:*:*:*:*:*:*,Cabletron 2H252-25R 05.04.09,[''],2022-03-19T14:23Z
+9,cpe:2.3:h:cabletron:2h252-25r:5.05.10:*:*:*:*:*:*:*,Cabletron 2H252-25R 05.05.10,[''],2022-03-19T14:23Z

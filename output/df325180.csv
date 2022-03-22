@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_mfp_m439_7zb23a:-:*:*:*:*:*:*:*,HP LASERJET MFP M439 7ZB23A,['CVE-2021-3438'],2022-03-21T15:14Z
+1,cpe:2.3:h:hp:laserjet_mfp_m439_7zb24a:-:*:*:*:*:*:*:*,HP LASERJET MFP M439 7ZB24A,['CVE-2021-3438'],2022-03-21T15:14Z
+2,cpe:2.3:h:hp:laserjet_mfp_m440_8af46a:-:*:*:*:*:*:*:*,HP LASERJET MFP M440 8AF46A,['CVE-2021-3438'],2022-03-21T15:14Z
+3,cpe:2.3:h:hp:laserjet_mfp_m440_8af47a:-:*:*:*:*:*:*:*,HP LASERJET MFP M440 8AF47A,['CVE-2021-3438'],2022-03-21T15:14Z
+4,cpe:2.3:h:hp:laserjet_mfp_m440_8af48a:-:*:*:*:*:*:*:*,HP LASERJET MFP M440 8AF48A,['CVE-2021-3438'],2022-03-21T15:14Z
+5,cpe:2.3:h:hp:laserjet_mfp_m442_8af71a:-:*:*:*:*:*:*:*,HP LASERJET MFP M442 8AF71A,['CVE-2021-3438'],2022-03-21T15:14Z
+6,cpe:2.3:h:hp:laserjet_mfp_m443_8af72a:-:*:*:*:*:*:*:*,HP LASERJET MFP M443 8AF72A,['CVE-2021-3438'],2022-03-21T15:14Z
+7,cpe:2.3:h:hp:laserjet_mfp_m72625-m72630_2zn49a:-:*:*:*:*:*:*:*,HP LASERJET MFP M72625-M72630 2ZN49A,['CVE-2021-3438'],2022-03-21T15:14Z
+8,cpe:2.3:h:hp:laserjet_mfp_m72625-m72630_2zn50a:-:*:*:*:*:*:*:*,HP LASERJET MFP M72625-M72630 2ZN50A,['CVE-2021-3438'],2022-03-21T15:14Z
+9,cpe:2.3:h:hp:laserjet_p1100_ce651a:-:*:*:*:*:*:*:*,HP LaserJet P1100 CE651A,['CVE-2020-28419'],2022-03-21T15:14Z

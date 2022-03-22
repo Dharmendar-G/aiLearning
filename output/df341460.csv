@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:datapower_gateway:7.6.0.8:*:*:*:*:*:*:*,IBM DataPower Gateway 7.6.0.8,"['CVE-2018-1661', 'CVE-2018-1663', 'CVE-2018-1664', 'CVE-2018-1665', 'CVE-2018-1666', 'CVE-2018-1667', 'CVE-2018-1668', 'CVE-2018-1669', 'CVE-2019-4294', 'CVE-2019-4621']",2022-03-21T20:11Z
+1,cpe:2.3:a:ibm:datapower_gateway:7.6.0.9:*:*:*:*:*:*:*,IBM DataPower Gateway 7.6.0.9,"['CVE-2018-1661', 'CVE-2018-1663', 'CVE-2018-1665', 'CVE-2018-1666', 'CVE-2018-1667', 'CVE-2018-1668', 'CVE-2019-4294', 'CVE-2019-4621']",2022-03-21T20:11Z
+2,cpe:2.3:a:ibm:datapower_gateway:7.6.0.10:*:*:*:*:*:*:*,IBM DataPower Gateway 7.6.0.10,"['CVE-2018-1665', 'CVE-2018-1666', 'CVE-2018-1667', 'CVE-2018-1668', 'CVE-2019-4294', 'CVE-2019-4621']",2022-03-21T20:11Z
+3,cpe:2.3:a:ibm:datapower_gateway:7.6.0.11:*:*:*:*:*:*:*,IBM DataPower Gateway 7.6.0.11,"['CVE-2018-1666', 'CVE-2018-1668', 'CVE-2019-4294', 'CVE-2019-4621']",2022-03-21T20:11Z
+4,cpe:2.3:a:ibm:datapower_gateway:7.6.0.12:*:*:*:*:*:*:*,IBM DataPower Gateway 7.6.0.12,"['CVE-2019-4294', 'CVE-2019-4621']",2022-03-21T20:11Z
+5,cpe:2.3:a:ibm:datapower_gateway:7.6.0.13:*:*:*:*:*:*:*,IBM DataPower Gateway 7.6.0.13,"['CVE-2019-4294', 'CVE-2019-4621']",2022-03-21T20:11Z
+6,cpe:2.3:a:ibm:datapower_gateway:7.6.0.14:*:*:*:*:*:*:*,IBM DataPower Gateway 7.6.0.14,"['CVE-2019-4294', 'CVE-2019-4621']",2022-03-21T20:11Z
+7,cpe:2.3:a:ibm:datapower_gateway:7.6.0.15:*:*:*:*:*:*:*,IBM DataPower Gateway 7.6.0.15,['CVE-2019-4294'],2022-03-21T20:11Z
+8,cpe:2.3:a:ibm:datapower_gateway:7.6.0.16:*:*:*:*:*:*:*,IBM DataPower Gateway 7.6.0.16,[''],2022-03-21T20:11Z
+9,cpe:2.3:a:ibm:datapower_gateway:7.7.0.0:*:*:*:continuous_delivery:*:*:*,IBM DataPower 7.7.0.0 Continuous Delivery Edition,"['CVE-2018-1663', 'CVE-2018-1664', 'CVE-2018-1665', 'CVE-2018-1666', 'CVE-2018-1667', 'CVE-2018-1669', 'CVE-2018-1677', 'CVE-2019-4294']",2022-03-21T20:11Z

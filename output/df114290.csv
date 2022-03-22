@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:adaptive_security_appliance_software:9.14:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Software 9.14,"['CVE-2020-3578', 'CVE-2020-3580', 'CVE-2020-3581', 'CVE-2020-3582', 'CVE-2020-3583', 'CVE-2020-3585']",2022-03-19T18:11Z
+1,cpe:2.3:o:cisco:adaptive_security_appliance_software:9.14.1.30:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Software 9.14.1.30,[''],2022-03-19T18:11Z
+2,cpe:2.3:a:cisco:adaptive_security_appliance_software:98.1\(1.154\):*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Software 98.1(1.154),['CVE-2018-0231'],2022-03-19T18:11Z
+3,cpe:2.3:a:cisco:adaptive_security_appliance_software:98.1\(12.187\):*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Software 98.1(12.187),['CVE-2018-0228'],2022-03-19T18:11Z
+4,cpe:2.3:a:cisco:adaptive_security_appliance_software:99.1\(20.190\):*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Software 99.1(20.190),['CVE-2018-0240'],2022-03-19T18:11Z
+5,cpe:2.3:a:cisco:adaptive_security_appliance_software:99.2\(0.32\):*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Software 99.2(0.32),['CVE-2018-0240'],2022-03-19T18:11Z
+6,cpe:2.3:a:cisco:adaptive_security_appliance_software:100.14\(0.4\):*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Software 100.14(0.4),['CVE-2017-6770'],2022-03-19T18:11Z
+7,cpe:2.3:a:cisco:adaptive_security_appliance_software:100.14\(1.1\):*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Software 100.14(1.1),"['CVE-2015-0742', 'CVE-2017-6770']",2022-03-19T18:11Z
+8,cpe:2.3:a:cisco:adaptive_security_appliance_software:101.3\(1.23\):*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Software 101.3(1.23),['CVE-2018-0240'],2022-03-19T18:11Z
+9,cpe:2.3:a:cisco:adaptive_security_appliance_software:101.3\(1.51\):*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Software 101.3(1.51),['CVE-2018-0240'],2022-03-19T18:11Z

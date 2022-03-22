@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:clickdesk:clickdesk:3.5.1:*:*:*:*:wordpress:*:*,ClickDesk 3.5.1 for WordPress,['CVE-2014-9211'],2022-03-20T02:29Z
+1,cpe:2.3:a:clickdesk:clickdesk:3.6:*:*:*:*:wordpress:*:*,ClickDesk 3.6 for WordPress,['CVE-2014-9211'],2022-03-20T02:29Z
+2,cpe:2.3:a:clickdesk:clickdesk:4.0:*:*:*:*:wordpress:*:*,ClickDesk 4.0 for WordPress,['CVE-2014-9211'],2022-03-20T02:29Z
+3,cpe:2.3:a:clickdesk:clickdesk:4.1:*:*:*:*:wordpress:*:*,ClickDesk 4.1 for WordPress,['CVE-2014-9211'],2022-03-20T02:29Z
+4,cpe:2.3:a:clickdesk:clickdesk:4.2:*:*:*:*:wordpress:*:*,ClickDesk 4.2 for WordPress,['CVE-2014-9211'],2022-03-20T02:29Z
+5,cpe:2.3:a:clickdesk:clickdesk:4.3:*:*:*:*:wordpress:*:*,ClickDesk 4.3 for WordPress,['CVE-2014-9211'],2022-03-20T02:29Z
+6,cpe:2.3:a:clickdesk:clickdesk:4.4:*:*:*:*:wordpress:*:*,ClickDesk 4.4 for WordPress,[''],2022-03-20T02:29Z
+7,cpe:2.3:a:clickdesk:clickdesk_live_support-live_chat_plugin:2.0:*:*:*:*:*:*:*,ClickDesk Live Support - Live Chat plugin 2.0 for WordPress,['CVE-2011-5181'],2022-03-20T02:29Z
+8,cpe:2.3:a:clickfraud-monitoring:adsense-click-fraud-monitoring:1.1:*:*:*:*:wordpress:*:*,AdSense Click-Fraud Monitoring 1.1 for WordPress,[''],2022-03-20T02:29Z
+9,cpe:2.3:a:clickfraud-monitoring:adsense-click-fraud-monitoring:1.2:*:*:*:*:wordpress:*:*,AdSense Click-Fraud Monitoring 1.2 for WordPress,[''],2022-03-20T02:29Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blackberry:qnx_momentics:6.6.0:*:*:*:*:*:*:*,BlackBerry QNX Momentics 6.6.0,[''],2022-03-19T08:36Z
+1,cpe:2.3:a:blackberry:qnx_momentics_tool_suite:4.5:*:*:*:*:*:*:*,BlackBerry QNX Momentics Tool Suite 4.5,['CVE-2013-2687'],2022-03-19T08:36Z
+2,cpe:2.3:a:blackberry:qnx_momentics_tool_suite:4.6:*:*:*:*:*:*:*,BlackBerry QNX Momentics Tool Suite 4.6,['CVE-2013-2687'],2022-03-19T08:36Z
+3,cpe:2.3:a:blackberry:qnx_momentics_tool_suite:4.7:*:*:*:*:*:*:*,BlackBerry QNX Momentics Tool Suite 4.7,['CVE-2013-2687'],2022-03-19T08:36Z
+4,cpe:2.3:a:blackberry:qnx_momentics_tool_suite:6.5.0:*:*:*:*:*:*:*,BlackBerry QNX Momentics Tool Suite 6.5.0,['CVE-2013-2687'],2022-03-19T08:36Z
+5,cpe:2.3:a:blackberry:qnx_momentics_tool_suite:6.5.0:sp1:*:*:*:*:*:*,BlackBerry QNX Momentics Tool Suite 6.5.0 Service Pack 1,['CVE-2013-2687'],2022-03-19T08:36Z
+6,cpe:2.3:o:blackberry:qnx_neutrino_rtos:6.4.1:*:*:*:*:*:*:*,BlackBerry QNX Neutrino RTOS 6.4.1,"['CVE-2013-2687', 'CVE-2013-2688', 'CVE-2014-2533', 'CVE-2014-2534']",2022-03-19T08:36Z
+7,cpe:2.3:o:blackberry:qnx_neutrino_rtos:6.5.0:*:*:*:*:*:*:*,BlackBerry QNX Neutrino RTOS 6.5.0,"['CVE-2013-2687', 'CVE-2013-2688', 'CVE-2014-2533', 'CVE-2014-2534']",2022-03-19T08:36Z
+8,cpe:2.3:o:blackberry:qnx_neutrino_rtos:6.5.0:sp1:*:*:*:*:*:*,BlackBerry QNX Neutrino RTOS 6.5.0 Service Pack 1,"['CVE-2013-2687', 'CVE-2013-2688', 'CVE-2014-2533', 'CVE-2014-2534']",2022-03-19T08:36Z
+9,cpe:2.3:o:blackberry:qnx_os_for_medical:-:*:*:*:*:*:*:*,BlackBerry QNX OS for Medical,['CVE-2021-22156'],2022-03-19T08:36Z

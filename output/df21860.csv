@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:amazon:aws_lambda:1.0.2:*:*:*:*:*:*:*,Amazon AWS Lambda 1.0.2,['CVE-2019-10777'],2022-03-18T15:24Z
+1,cpe:2.3:a:amazon:aws_lambda:1.0.3:*:*:*:*:*:*:*,Amazon AWS Lambda 1.0.3,['CVE-2019-10777'],2022-03-18T15:24Z
+2,cpe:2.3:a:amazon:aws_lambda:1.0.4:*:*:*:*:*:*:*,Amazon AWS Lambda 1.0.4,['CVE-2019-10777'],2022-03-18T15:24Z
+3,cpe:2.3:a:amazon:aws_lambda:1.0.5:*:*:*:*:*:*:*,Amazon AWS Lambda 1.0.5,[''],2022-03-18T15:25Z
+4,cpe:2.3:a:amazon:aws_opensearch:1.0.0:*:*:*:*:*:*:*,Amazon AWS OpenSearch 1.0.0,['CVE-2021-44833'],2022-03-18T15:25Z
+5,cpe:2.3:a:amazon:aws_opensearch:1.1.0:*:*:*:*:*:*:*,Amazon AWS OpenSearch 1.1.0,[''],2022-03-18T15:25Z
+6,cpe:2.3:a:amazon:aws_opensearch:1.2.0:*:*:*:*:*:*:*,Amazon AWS OpenSearch 1.2.0,[''],2022-03-18T15:25Z
+7,cpe:2.3:a:amazon:aws_opensearch:1.2.1:*:*:*:*:*:*:*,Amazon AWS OpenSearch 1.2.1,[''],2022-03-18T15:25Z
+8,cpe:2.3:a:amazon:aws_s3_crypto_sdk:-:*:*:*:*:golang:*:*,Amazon AWS S3 Crypto SDK for GoLang,"['CVE-2020-8911', 'CVE-2020-8912']",2022-03-18T15:25Z
+9,cpe:2.3:a:amazon:aws_s3_crypto_sdk:1:*:*:*:*:golang:*:*,Amazon AWS S3 Crypto SDK 1 for GoLang,"['CVE-2020-8911', 'CVE-2020-8912']",2022-03-18T15:25Z

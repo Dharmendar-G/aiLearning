@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dashlane:dashlane:3.5.1:*:*:*:*:android:*:*,Dashlane 3.5.1 for Android,[''],2022-03-20T10:32Z
+1,cpe:2.3:a:dashlane:dashlane:3.5.1:*:*:*:*:macos:*:*,Dashlane 3.5.1 for macOS,[''],2022-03-20T10:32Z
+2,cpe:2.3:a:dashlane:dashlane:3.5.2:*:*:*:*:macos:*:*,Dashlane 3.5.2 for macOS,[''],2022-03-20T10:32Z
+3,cpe:2.3:a:dashlane:dashlane:3.5.2:*:*:*:*:windows:*:*,Dashlane 3.5.2 for Windows,[''],2022-03-20T10:32Z
+4,cpe:2.3:a:dashlane:dashlane:3.5.2.94565:*:*:*:*:windows:*:*,Dashlane 3.5.2.94565 for Windows,[''],2022-03-20T10:33Z
+5,cpe:2.3:a:dashlane:dashlane:3.5.4:*:*:*:*:macos:*:*,Dashlane 3.5.4 for macOS,[''],2022-03-20T10:33Z
+6,cpe:2.3:a:dashlane:dashlane:3.6:*:*:*:*:android:*:*,Dashlane 3.6 for Android,[''],2022-03-20T10:33Z
+7,cpe:2.3:a:dashlane:dashlane:3.6:*:*:*:*:macos:*:*,Dashlane 3.6 for macOS,[''],2022-03-20T10:33Z
+8,cpe:2.3:a:dashlane:dashlane:3.6:*:*:*:*:windows:*:*,Dashlane 3.6 for Windows,[''],2022-03-20T10:33Z
+9,cpe:2.3:a:dashlane:dashlane:4.0:*:*:*:*:android:*:*,Dashlane 4.0 for Android,[''],2022-03-20T10:33Z

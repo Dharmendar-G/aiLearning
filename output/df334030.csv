@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:huawei:fusionserver_rh2288_v3:v100r003c00:*:*:*:*:*:*:*,Huawei FusionServer RH2288 V3 V100R003C00,"['CVE-2015-7841', 'CVE-2015-7843']",2022-03-21T17:45Z
+1,cpe:2.3:a:huawei:fusionserver_rh2288a_v2:v100r002c00:*:*:*:*:*:*:*,Huawei FusionServer RH2288A V2 V100R002C00,"['CVE-2015-7841', 'CVE-2015-7843']",2022-03-21T17:45Z
+2,cpe:2.3:a:huawei:fusionserver_rh2288h_v3:v100r003c00:*:*:*:*:*:*:*,Huawei FusionServer RH2288H V3 V100R003C00,"['CVE-2015-7841', 'CVE-2015-7843']",2022-03-21T17:46Z
+3,cpe:2.3:a:huawei:fusionserver_rh8100_v3:v100r003c00:*:*:*:*:*:*:*,Huawei FusionServer RH8100 V3 V100R003C00,"['CVE-2015-7841', 'CVE-2015-7843']",2022-03-21T17:46Z
+4,cpe:2.3:a:huawei:fusionserver_xh628_v3:v100r003c00:*:*:*:*:*:*:*,Huawei FusionServer XH628 V3 V100R003C00,"['CVE-2015-7841', 'CVE-2015-7843']",2022-03-21T17:46Z
+5,cpe:2.3:o:huawei:fusionsphere:v100r006c00spc102\(nfv\):*:*:*:*:*:*:*,Huawei FusionSphere V100R006C00SPC102(NFV),"['CVE-2017-8196', 'CVE-2017-8197', 'CVE-2017-8198']",2022-03-21T17:46Z
+6,cpe:2.3:h:huawei:fusionsphere_openstack:-:*:*:*:*:*:*:*,Huawei Fusionsphere Openstack,['CVE-2017-8187'],2022-03-21T17:46Z
+7,cpe:2.3:o:huawei:fusionsphere_openstack:6.5.1:*:*:*:*:*:*:*,Huawei FusionSphere OpenStack 6.5.1,"['CVE-2017-2714', 'CVE-2020-9225']",2022-03-21T17:46Z
+8,cpe:2.3:a:huawei:fusionsphere_openstack:8.0.0:*:*:*:*:*:*:*,Huawei FusionSphere OpenStack 8.0.0,['CVE-2020-9079'],2022-03-21T17:46Z
+9,cpe:2.3:o:huawei:fusionsphere_openstack:100r006c00:*:*:*:*:*:*:*,Huawei FusionSphere OpenStack 100R006C00,"['CVE-2017-2714', 'CVE-2018-7977']",2022-03-21T17:46Z

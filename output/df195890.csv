@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:draw:draw.io_diagrams:6.3.4.1:*:*:*:*:confluence:*:*,draw.io 6.3.4.1 for Confluence,['CVE-2019-13127'],2022-03-20T17:50Z
+1,cpe:2.3:a:draw:draw.io_diagrams:6.4.0.0:*:*:*:*:confluence:*:*,draw.io 6.4.0.0 for Confluence,['CVE-2019-13127'],2022-03-20T17:50Z
+2,cpe:2.3:a:draw:draw.io_diagrams:6.4.1.0:*:*:*:*:confluence:*:*,draw.io 6.4.1.0 for Confluence,['CVE-2019-13127'],2022-03-20T17:50Z
+3,cpe:2.3:a:draw:draw.io_diagrams:6.4.2.0:*:*:*:*:confluence:*:*,draw.io 6.4.2.0 for Confluence,['CVE-2019-13127'],2022-03-20T17:50Z
+4,cpe:2.3:a:draw:draw.io_diagrams:6.4.3:*:*:*:*:confluence:*:*,draw.io 6.4.3 for Confluence,['CVE-2019-13127'],2022-03-20T17:50Z
+5,cpe:2.3:a:draw:draw.io_diagrams:6.4.4:*:*:*:*:confluence:*:*,draw.io 6.4.4 for Confluence,['CVE-2019-13127'],2022-03-20T17:50Z
+6,cpe:2.3:a:draw:draw.io_diagrams:6.5.0:*:*:*:*:confluence:*:*,draw.io 6.5.0 for Confluence,['CVE-2019-13127'],2022-03-20T17:50Z
+7,cpe:2.3:a:draw:draw.io_diagrams:6.5.1:*:*:*:*:confluence:*:*,draw.io 6.5.1 for Confluence,['CVE-2019-13127'],2022-03-20T17:50Z
+8,cpe:2.3:a:draw:draw.io_diagrams:6.5.2:*:*:*:*:confluence:*:*,draw.io 6.5.2 for Confluence,['CVE-2019-13127'],2022-03-20T17:50Z
+9,cpe:2.3:a:draw:draw.io_diagrams:6.5.3:*:*:*:*:confluence:*:*,draw.io 6.5.3 for Confluence,['CVE-2019-13127'],2022-03-20T17:50Z

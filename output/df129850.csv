@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:network_convergence_system_1002:-:*:*:*:*:*:*:*,Cisco Network Convergence System 1002,['CVE-2019-1649'],2022-03-19T23:04Z
+1,cpe:2.3:h:cisco:network_convergence_system_5001:-:*:*:*:*:*:*:*,Cisco Network Convergence System 5001,['CVE-2019-1649'],2022-03-19T23:04Z
+2,cpe:2.3:h:cisco:network_convergence_system_5002:-:*:*:*:*:*:*:*,Cisco Network Convergence System 5002,['CVE-2019-1649'],2022-03-19T23:04Z
+3,cpe:2.3:h:cisco:network_convergence_system_520:-:*:*:*:*:*:*:*,Cisco Network Convergence System 520,"['CVE-2019-12647', 'CVE-2019-12658']",2022-03-19T23:04Z
+4,cpe:2.3:h:cisco:network_convergence_system_5500_series_routers:-:*:*:*:*:*:*:*,Cisco Network Convergence System 5500 Series Routers,[''],2022-03-19T23:04Z
+5,cpe:2.3:h:cisco:network_convergence_system_5508:-:*:*:*:*:*:*:*,Cisco Network Convergence System 5508,['CVE-2019-1842'],2022-03-19T23:04Z
+6,cpe:2.3:a:cisco:network_equipment_information:1.0.0:*:*:*:*:*:*:*,Cisco Network Equipment Information 1.0.0,[''],2022-03-19T23:04Z
+7,cpe:2.3:a:cisco:network_functions_virtualization_infrastructure:-:*:*:*:*:*:*:*,Cisco Network Functions Virtualization Infrastructure,"['CVE-2018-0459', 'CVE-2018-0460']",2022-03-19T23:04Z
+8,cpe:2.3:a:cisco:network_functions_virtualization_infrastructure:3.6.1:*:*:*:*:*:*:*,Cisco Network Functions Virtualization Infrastructure (NFVI) 3.6.1,"['CVE-2018-0323', 'CVE-2018-0324']",2022-03-19T23:04Z
+9,cpe:2.3:a:cisco:network_functions_virtualization_infrastructure:3.6.2:*:*:*:*:*:*:*,Cisco Network Functions Virtualization Infrastructure (NFVI) 3.6.2,['CVE-2018-0324'],2022-03-19T23:04Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:baijiacms_project:baijiacms:3.1:*:*:*:*:*:*:*,baijiacms Project baijiacms 3.1,[''],2022-03-19T06:06Z
+1,cpe:2.3:a:baijiacms_project:baijiacms:3.2:*:*:*:*:*:*:*,baijiacms Project baijiacms 3.2,[''],2022-03-19T06:06Z
+2,cpe:2.3:a:baijiacms_project:baijiacms:4:*:*:*:*:*:*:*,baijiacms Project baijiacms 4,['CVE-2020-25873'],2022-03-19T06:06Z
+3,cpe:2.3:a:baijiacms_project:baijiacms:4.0:*:*:*:*:*:*:*,baijiacms Project baijiacms 4.0,"['CVE-2018-16724', 'CVE-2018-16725', 'CVE-2019-7568']",2022-03-19T06:06Z
+4,cpe:2.3:a:baijiacms_project:baijiacms:4_1_4_20170105:*:*:*:*:*:*:*,baijiacms Project baijiacms 4_1_4_20170105,['CVE-2018-10503'],2022-03-19T06:06Z
+5,cpe:2.3:a:bakbone:netvault:8.2.2.17:*:*:*:*:*:*:*,Bakbone Netvault 8.2.2.17,[''],2022-03-19T06:06Z
+6,cpe:2.3:a:bakeshop_inventory_system_project:bakeshop_inventory_system:1.0:*:*:*:*:*:*:*,Bakeshop Inventory System Project Bakeshop Inventory System 1.0,['CVE-2018-18804'],2022-03-19T06:06Z
+7,cpe:2.3:a:bakeshop_online_ordering_system_project:bakeshop_online_ordering_system:-:*:*:*:*:*:*:*,Bakeshop Online Ordering System Project Bakeshop Online Ordering System,[''],2022-03-19T06:06Z
+8,cpe:2.3:a:bakeshop_online_ordering_system_project:bakeshop_online_ordering_system:1.0:*:*:*:*:*:*:*,Bakeshop Online Ordering System Project Bakeshop Online Ordering System 1.0,['CVE-2020-35309'],2022-03-19T06:06Z
+9,cpe:2.3:a:balanced:commerce_balanced_payments:7.x-1.2:*:*:*:*:drupal:*:*,Balanced Commerce Balanced Payments for Drupal 7.x-1.2,['CVE-2015-3388'],2022-03-19T06:06Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:belden:hirschmann_mice_switch_power:-:*:*:*:*:*:*:*,Belden Hirschmann Mice Switch Power,['CVE-2020-6994'],2022-03-19T06:52Z
+1,cpe:2.3:h:belden:hirschmann_ms20-0800eccp:-:*:*:*:*:*:*:*,Belden Hirschmann MS20-0800ECCP,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:52Z
+2,cpe:2.3:h:belden:hirschmann_ms20-0800saae:-:*:*:*:*:*:*:*,Belden Hirschmann MS20-0800SAAE,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:52Z
+3,cpe:2.3:h:belden:hirschmann_ms20-0800saap:-:*:*:*:*:*:*:*,Belden Hirschmann MS20-0800SAAP,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:52Z
+4,cpe:2.3:h:belden:hirschmann_ms20-1600eccp:-:*:*:*:*:*:*:*,Belden Hirschmann MS20-1600ECCP,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:52Z
+5,cpe:2.3:h:belden:hirschmann_ms20-1600saae:-:*:*:*:*:*:*:*,Belden Hirschmann MS20-1600SAAE,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:52Z
+6,cpe:2.3:h:belden:hirschmann_ms20-1600saap:-:*:*:*:*:*:*:*,Belden Hirschmann MS20-1600SAAP,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:52Z
+7,cpe:2.3:h:belden:hirschmann_ms30-0802saae:-:*:*:*:*:*:*:*,Belden Hirschmann MS30-0802SAAE,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:52Z
+8,cpe:2.3:h:belden:hirschmann_ms30-0802saap:-:*:*:*:*:*:*:*,Belden Hirschmann MS30-0802SAAP,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:52Z
+9,cpe:2.3:h:belden:hirschmann_ms30-1602saae:-:*:*:*:*:*:*:*,Belden Hirschmann MS30-1602SAAE,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:52Z

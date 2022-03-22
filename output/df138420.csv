@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:vsmart_controller_firmware:-:*:*:*:*:*:*:*,Cisco vSmart Controller Firmware,"['CVE-2021-1512', 'CVE-2021-1513', 'CVE-2021-1514']",2022-03-20T01:07Z
+1,cpe:2.3:o:cisco:vsmart_controller_firmware:20.4:*:*:*:*:*:*:*,Cisco vSmart Controller Firmware 20.4,"['CVE-2021-1514', 'CVE-2021-1546']",2022-03-20T01:07Z
+2,cpe:2.3:o:cisco:vsmart_controller_firmware:20.4.2:*:*:*:*:*:*:*,Cisco vSmart Controller  Firmware 20.4.2,[''],2022-03-20T01:07Z
+3,cpe:2.3:o:cisco:vsmart_controller_firmware:20.5:*:*:*:*:*:*:*,Cisco vSmart Controller  Firmware 20.5,"['CVE-2021-1514', 'CVE-2021-1546']",2022-03-20T01:07Z
+4,cpe:2.3:o:cisco:vsmart_controller_firmware:20.5.1:*:*:*:*:*:*:*,Cisco vSmart Controller Firmware 20.5.1,['CVE-2021-1546'],2022-03-20T01:07Z
+5,cpe:2.3:a:cisco:vspt:-:*:*:*:*:*:*:*,Cisco VSPT,['CVE-2002-2037'],2022-03-20T01:07Z
+6,cpe:2.3:a:cisco:wan_manager:-:*:*:*:*:*:*:*,Cisco WAN Manager,['CVE-2007-1467'],2022-03-20T01:07Z
+7,cpe:2.3:h:cisco:wap121:-:*:*:*:*:*:*:*,Cisco WAP121 Wireless Access Point,"['CVE-2018-0412', 'CVE-2018-0415']",2022-03-20T01:07Z
+8,cpe:2.3:o:cisco:wap121_firmware:1.0.6.6:*:*:*:*:*:*:*,Cisco WAP121 Firmware 1.0.6.6,"['CVE-2018-0412', 'CVE-2018-0415']",2022-03-20T01:07Z
+9,cpe:2.3:h:cisco:wap125:-:*:*:*:*:*:*:*,Cisco WAP125 Wireless Access Point,"['CVE-2018-0412', 'CVE-2018-0415', 'CVE-2021-1400', 'CVE-2021-1401', 'CVE-2021-1547', 'CVE-2021-1548', 'CVE-2021-1549', 'CVE-2021-1550', 'CVE-2021-1551', 'CVE-2021-1552', 'CVE-2021-1553', 'CVE-2021-1554', 'CVE-2021-1555']",2022-03-20T01:07Z

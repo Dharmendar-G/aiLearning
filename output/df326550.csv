@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:officejet_pro_8715_m9l70a:-:*:*:*:*:*:*:*,HP OfficeJet Pro 8715 M9L70A,['CVE-2020-28416'],2022-03-21T15:32Z
+1,cpe:2.3:o:hp:officejet_pro_8715_m9l70a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET PRO 8715 M9L70A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:32Z
+2,cpe:2.3:o:hp:officejet_pro_8715_m9l70a_firmware:40.12.1161:*:*:*:*:*:*:*,HP OFFICEJET PRO 8715 M9L70A FIRMWARE 40.12.1161,[''],2022-03-21T15:32Z
+3,cpe:2.3:h:hp:officejet_pro_8716_j6x77a:-:*:*:*:*:*:*:*,HP OfficeJet Pro 8716 J6X77A,['CVE-2020-28416'],2022-03-21T15:32Z
+4,cpe:2.3:o:hp:officejet_pro_8716_j6x77a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET PRO 8716 J6X77A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:32Z
+5,cpe:2.3:o:hp:officejet_pro_8716_j6x77a_firmware:40.12.1161:*:*:*:*:*:*:*,HP OFFICEJET PRO 8716 J6X77A FIRMWARE 40.12.1161,[''],2022-03-21T15:32Z
+6,cpe:2.3:h:hp:officejet_pro_8716_j6x81a:-:*:*:*:*:*:*:*,HP OfficeJet Pro 8716 J6X81A,['CVE-2020-28416'],2022-03-21T15:32Z
+7,cpe:2.3:o:hp:officejet_pro_8716_j6x81a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET PRO 8716 J6X81A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:32Z
+8,cpe:2.3:o:hp:officejet_pro_8716_j6x81a_firmware:40.12.1161:*:*:*:*:*:*:*,HP OFFICEJET PRO 8716 J6X81A FIRMWARE 40.12.1161,[''],2022-03-21T15:32Z
+9,cpe:2.3:h:hp:officejet_pro_8717_k7s38a:-:*:*:*:*:*:*:*,HP OfficeJet Pro 8717 K7S38A,['CVE-2020-28416'],2022-03-21T15:32Z

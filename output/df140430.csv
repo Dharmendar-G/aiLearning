@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:citrix:netscaler_firmware:12.1:build58.14:*:*:*:*:*:*,Citrix NetScaler 12.1 Build 58.14,[''],2022-03-20T01:32Z
+1,cpe:2.3:o:citrix:netscaler_firmware:13.0:build61.48:*:*:*:*:*:*,Citrix NetScaler 13.0 Build 61.48,[''],2022-03-20T01:32Z
+2,cpe:2.3:h:citrix:netscaler_gateway:-:*:*:*:*:*:*:*,Citrix NetScaler Gateway,"['CVE-2015-3642', 'CVE-2016-2071', 'CVE-2016-2072', 'CVE-2017-7219', 'CVE-2018-6808', 'CVE-2018-6809', 'CVE-2018-6810', 'CVE-2019-12044', 'CVE-2019-18225', 'CVE-2019-19781', 'CVE-2019-6485', 'CVE-2020-8187', 'CVE-2020-8190', 'CVE-2020-8191', 'CVE-2020-8193', 'CVE-2020-8194', 'CVE-2020-8195', 'CVE-2020-8196', 'CVE-2020-8197', 'CVE-2020-8198']",2022-03-20T01:32Z
+3,cpe:2.3:a:citrix:netscaler_gateway:11.0:*:*:*:*:*:*:*,Citrix NetScaler Gateway 11.0,['CVE-2018-5314'],2022-03-20T01:32Z
+4,cpe:2.3:a:citrix:netscaler_gateway:11.1:*:*:*:*:*:*:*,Citrix NetScaler Gateway 11.1,"['CVE-2018-5314', 'CVE-2020-8299', 'CVE-2020-8300', 'CVE-2021-22919', 'CVE-2021-22927']",2022-03-20T01:32Z
+5,cpe:2.3:a:citrix:netscaler_gateway:11.1-65.20:*:*:*:*:*:*:*,Citrix NetScaler Gateway 11.1-65.20,"['CVE-2021-22919', 'CVE-2021-22927']",2022-03-20T01:32Z
+6,cpe:2.3:a:citrix:netscaler_gateway:11.1-65.22:*:*:*:*:*:*:*,Citrix NetScaler Gateway 11.1-65.22,[''],2022-03-20T01:32Z
+7,cpe:2.3:a:citrix:netscaler_gateway:12.0:*:*:*:*:*:*:*,Citrix NetScaler Gateway 12.0,['CVE-2018-5314'],2022-03-20T01:32Z
+8,cpe:2.3:a:citrix:netscaler_gateway:12.1:*:*:*:*:*:*:*,Citrix NetScaler Gateway 12.1,"['CVE-2020-8245', 'CVE-2020-8246', 'CVE-2020-8247']",2022-03-20T01:32Z
+9,cpe:2.3:a:citrix:netscaler_gateway:12.1-58.15:*:*:*:*:*:*:*,Citrix NetScaler Gateway 12.1-58.15,[''],2022-03-20T01:32Z

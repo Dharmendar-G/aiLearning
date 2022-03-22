@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hashicorp:go-slug:0.3.1:*:*:*:*:*:*:*,HashiCorp go-slug 0.3.1,['CVE-2020-29529'],2022-03-21T09:47Z
+1,cpe:2.3:a:hashicorp:go-slug:0.4.0:*:*:*:*:*:*:*,HashiCorp go-slug 0.4.0,['CVE-2020-29529'],2022-03-21T09:47Z
+2,cpe:2.3:a:hashicorp:go-slug:0.4.1:*:*:*:*:*:*:*,HashiCorp go-slug 0.4.1,['CVE-2020-29529'],2022-03-21T09:47Z
+3,cpe:2.3:a:hashicorp:go-slug:0.4.2:*:*:*:*:*:*:*,HashiCorp go-slug 0.4.2,['CVE-2020-29529'],2022-03-21T09:47Z
+4,cpe:2.3:a:hashicorp:go-slug:0.4.3:*:*:*:*:*:*:*,HashiCorp go-slug 0.4.3,['CVE-2020-29529'],2022-03-21T09:47Z
+5,cpe:2.3:a:hashicorp:go-slug:0.5.0:*:*:*:*:*:*:*,HashiCorp go-slug 0.5.0,[''],2022-03-21T09:47Z
+6,cpe:2.3:a:hashicorp:nomad:0.0.0:*:*:*:-:*:*:*,Hashicorp Nomad 0.0.0 - Edition,"['CVE-2020-7218', 'CVE-2020-7956', 'CVE-2021-32575', 'CVE-2021-3283', 'CVE-2021-37218']",2022-03-21T09:47Z
+7,cpe:2.3:a:hashicorp:nomad:0.0.0:*:*:*:enterprise:*:*:*,Hashicorp Nomad 0.0.0 Enterprise Edition,"['CVE-2020-7218', 'CVE-2020-7956', 'CVE-2021-32575', 'CVE-2021-3283', 'CVE-2021-37218']",2022-03-21T09:47Z
+8,cpe:2.3:a:hashicorp:nomad:0.1.0:*:*:*:-:*:*:*,Hashicorp Nomad 0.1.0 - Edition,"['CVE-2020-7218', 'CVE-2020-7956', 'CVE-2021-32575', 'CVE-2021-3283', 'CVE-2021-37218']",2022-03-21T09:47Z
+9,cpe:2.3:a:hashicorp:nomad:0.1.0:*:*:*:enterprise:*:*:*,Hashicorp Nomad 0.1.0 Enterprise Edition,"['CVE-2020-7218', 'CVE-2020-7956', 'CVE-2021-32575', 'CVE-2021-3283', 'CVE-2021-37218']",2022-03-21T09:47Z

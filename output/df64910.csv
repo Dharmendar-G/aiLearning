@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aveva:intouch_machine_edition_2014:r2:*:*:*:*:*:*:*,Aveva InTouch Machine Edition 2014 R2,"['CVE-2018-17914', 'CVE-2018-17916', 'CVE-2019-6543', 'CVE-2019-6545']",2022-03-19T04:24Z
+1,cpe:2.3:a:aveva:suitelink:3.2.002:*:*:*:*:*:*:*,Aveva Suitelink 3.2.002,[''],2022-03-19T04:24Z
+2,cpe:2.3:a:aveva:wonderware_intouch_access_anywhere:11.5.2:sp1b:*:*:*:*:*:*,Aveva Wonderware InTouch Access Anywhere 11.5.2 SP1B,"['CVE-2017-5156', 'CVE-2017-5158', 'CVE-2017-5160']",2022-03-19T04:24Z
+3,cpe:2.3:a:aveva:wonderware_system_platform:2014:*:*:*:*:*:*:*,AVEVA Wonderware System Platform 2014,['CVE-2019-6525'],2022-03-19T04:24Z
+4,cpe:2.3:a:aveva:wonderware_system_platform:2014:r2:*:*:*:*:*:*,AVEVA Wonderware System Platform 2014 R2,['CVE-2019-6525'],2022-03-19T04:24Z
+5,cpe:2.3:a:aveva:wonderware_system_platform:2017:-:*:*:*:*:*:*,AVEVA Wonderware System Platform 2017,['CVE-2019-6525'],2022-03-19T04:24Z
+6,cpe:2.3:a:aveva:wonderware_system_platform:2017:update_1:*:*:*:*:*:*,AVEVA Wonderware System Platform 2017 Update 1,['CVE-2019-6525'],2022-03-19T04:24Z
+7,cpe:2.3:a:aveva:wonderware_system_platform:2017:update_2:*:*:*:*:*:*,AVEVA Wonderware System Platform 2017 Update 2,['CVE-2019-6525'],2022-03-19T04:24Z
+8,cpe:2.3:a:aveva:wonderware_system_platform:2017:update_3:*:*:*:*:*:*,AVEVA Wonderware System Platform 2017 Update 3,[''],2022-03-19T04:24Z
+9,cpe:2.3:a:avexim:noticias_bebes_beybies:1:*:*:*:*:android:*:*,avexim Noticias Bebes Beybies (aka com.beybies) for android 1.0,['CVE-2014-7551'],2022-03-19T04:24Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:advantech:iview:5.7.02:*:*:*:*:*:*:*,Advantech iView 5.7.02,"['CVE-2021-22652', 'CVE-2021-22654', 'CVE-2021-22656', 'CVE-2021-22658', 'CVE-2021-32930', 'CVE-2021-32932']",2022-03-18T13:14Z
+1,cpe:2.3:a:advantech:iview:5.7.03.6112:*:*:*:*:*:*:*,Advantech iView 5.7.03.6112,"['CVE-2021-32930', 'CVE-2021-32932']",2022-03-18T13:14Z
+2,cpe:2.3:a:advantech:iview:5.7.03.6182:*:*:*:*:*:*:*,Advantech iView 5.7.03.6182,[''],2022-03-18T13:14Z
+3,cpe:2.3:a:advantech:r-seenet:1.5.1:*:*:*:*:*:*:*,Advantech R-SeeNet 1.5.1,['CVE-2020-25157'],2022-03-18T13:14Z
+4,cpe:2.3:a:advantech:r-seenet:1.5.6:*:*:*:*:*:*:*,Advantech R-SeeNet 1.5.6,['CVE-2020-25157'],2022-03-18T13:14Z
+5,cpe:2.3:a:advantech:r-seenet:2.0.0:*:*:*:*:*:*:*,Advantech R-SeeNet 2.0.0,['CVE-2020-25157'],2022-03-18T13:14Z
+6,cpe:2.3:a:advantech:r-seenet:2.1.0:*:*:*:*:*:*:*,Advantech R-SeeNet 2.1.0,['CVE-2020-25157'],2022-03-18T13:14Z
+7,cpe:2.3:a:advantech:r-seenet:2.1.1:*:*:*:*:*:*:*,Advantech R-SeeNet 2.1.1,['CVE-2020-25157'],2022-03-18T13:14Z
+8,cpe:2.3:a:advantech:r-seenet:2.2.0:*:*:*:*:*:*:*,Advantech R-SeeNet 2.2.0,['CVE-2020-25157'],2022-03-18T13:14Z
+9,cpe:2.3:a:advantech:r-seenet:2.3.0:*:*:*:*:*:*:*,Advantech R-SeeNet 2.3.0,['CVE-2020-25157'],2022-03-18T13:14Z

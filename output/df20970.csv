@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alsa-project:alsa-lib:1.0.6:*:*:*:*:*:*:*,AlsaProject alsa-lib 1.0.6,['CVE-2005-0087'],2022-03-18T15:12Z
+1,cpe:2.3:a:alstom:e-terracontrol:3.5:*:*:*:*:*:*:*,Alstom e-terracontrol 3.5,"['CVE-2013-2787', 'CVE-2013-2818']",2022-03-18T15:12Z
+2,cpe:2.3:a:alstom:e-terracontrol:3.6:*:*:*:*:*:*:*,Alstom e-terracontrol 3.6,"['CVE-2013-2787', 'CVE-2013-2818']",2022-03-18T15:12Z
+3,cpe:2.3:a:alstom:e-terracontrol:3.7:*:*:*:*:*:*:*,Alstom e-terracontrol 3.7,"['CVE-2013-2787', 'CVE-2013-2818']",2022-03-18T15:12Z
+4,cpe:2.3:a:alstom:micom_s1_agile:1.0.2:*:*:*:*:*:*:*,Alstom Grid MiCOM S1 Agile 1.0.2,['CVE-2013-2786'],2022-03-18T15:12Z
+5,cpe:2.3:a:alstom:micom_s1_agile:1.0.3:*:*:*:*:*:*:*,Alstom Grid MiCOM S1 Agile 1.0.3,[''],2022-03-18T15:12Z
+6,cpe:2.3:a:alstom:micom_s1_studio:-:*:*:*:*:*:*:*,Alstom Grid MiCOM S1 Studio,['CVE-2013-2786'],2022-03-18T15:12Z
+7,cpe:2.3:a:alsunna_project:alsunna:0.1:*:*:*:*:android:*:*,Alsunna Project Alsunna (aka com.wAlsunna) for Android 0.1,['CVE-2014-5844'],2022-03-18T15:12Z
+8,cpe:2.3:a:altair:pbs_professional:13.0.0:*:*:*:*:*:*:*,Altair PBS Professional 13.0.0,['CVE-2019-15719'],2022-03-18T15:12Z
+9,cpe:2.3:a:altair:pbs_professional:13.0.412:*:*:*:*:*:*:*,Altair PBS Professional 13.0.412,[''],2022-03-18T15:12Z

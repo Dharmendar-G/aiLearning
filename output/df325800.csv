@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:network_automation:10.00:*:*:*:*:*:*:*,HP Network Automation 10.00,"['CVE-2016-1988', 'CVE-2016-1989', 'CVE-2016-4385', 'CVE-2016-8511', 'CVE-2017-5810', 'CVE-2017-5811', 'CVE-2017-5812', 'CVE-2017-5813', 'CVE-2017-5814', 'CVE-2018-6492', 'CVE-2018-6493']",2022-03-21T15:22Z
+1,cpe:2.3:a:hp:network_automation:10.00.01:*:*:*:*:*:*:*,HP Network Automation 10.00.01,"['CVE-2016-1988', 'CVE-2016-1989', 'CVE-2016-4385', 'CVE-2016-8511', 'CVE-2017-5810', 'CVE-2017-5811', 'CVE-2017-5812', 'CVE-2017-5813', 'CVE-2017-5814']",2022-03-21T15:22Z
+2,cpe:2.3:a:hp:network_automation:10.00.02:*:*:*:*:*:*:*,HP Network Automation 10.00.02,"['CVE-2016-4385', 'CVE-2016-8511', 'CVE-2017-5810', 'CVE-2017-5811', 'CVE-2017-5812', 'CVE-2017-5813', 'CVE-2017-5814']",2022-03-21T15:22Z
+3,cpe:2.3:a:hp:network_automation:10.10:*:*:*:*:*:*:*,HP Network Automation 10.10,"['CVE-2016-4385', 'CVE-2016-4386', 'CVE-2016-8511', 'CVE-2017-5810', 'CVE-2017-5811', 'CVE-2017-5812', 'CVE-2017-5813', 'CVE-2017-5814', 'CVE-2018-6492', 'CVE-2018-6493']",2022-03-21T15:22Z
+4,cpe:2.3:a:hp:network_automation:10.11:*:*:*:*:*:*:*,HP Network Automation 10.11,"['CVE-2016-4385', 'CVE-2016-8511', 'CVE-2017-5810', 'CVE-2017-5811', 'CVE-2017-5812', 'CVE-2017-5813', 'CVE-2017-5814', 'CVE-2018-6492', 'CVE-2018-6493']",2022-03-21T15:22Z
+5,cpe:2.3:a:hp:network_automation:10.11.01:*:*:*:*:*:*:*,HP Network Automation 10.11.01,['CVE-2016-8511'],2022-03-21T15:22Z
+6,cpe:2.3:a:hp:network_automation:10.20:*:*:*:*:*:*:*,HP Network Automation 10.20,"['CVE-2016-8511', 'CVE-2018-6492', 'CVE-2018-6493']",2022-03-21T15:22Z
+7,cpe:2.3:a:hp:network_automation:10.21:*:*:*:*:*:*:*,HP Network Automation 10.21,"['CVE-2017-5810', 'CVE-2017-5811', 'CVE-2017-5812', 'CVE-2017-5813', 'CVE-2017-5814']",2022-03-21T15:22Z
+8,cpe:2.3:a:hp:network_automation:10.30:*:*:*:*:*:*:*,HP Network Automation 10.30,"['CVE-2018-6492', 'CVE-2018-6493']",2022-03-21T15:22Z
+9,cpe:2.3:a:hp:network_automation:10.40:*:*:*:*:*:*:*,HP Network Automation 10.40,"['CVE-2018-6492', 'CVE-2018-6493']",2022-03-21T15:22Z

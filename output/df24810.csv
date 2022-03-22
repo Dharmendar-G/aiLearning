@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:analogic:poste.io:2.1.5:*:*:*:*:*:*:*,Analogic Poste.io 2.1.5,[''],2022-03-18T16:21Z
+1,cpe:2.3:a:analogic:poste.io:2.1.6:*:*:*:*:*:*:*,Analogic Poste.io 2.1.6,['CVE-2019-12938'],2022-03-18T16:21Z
+2,cpe:2.3:a:analogic:poste.io:2.1.7:*:*:*:*:*:*:*,Analogic Poste.io 2.1.7,[''],2022-03-18T16:21Z
+3,cpe:2.3:a:analogx:atomic_timesync:-:*:*:*:*:*:*:*,AnalogX Atomic TimeSync,[''],2022-03-18T16:21Z
+4,cpe:2.3:a:analogx:proxy:-:*:*:*:*:*:*:*,AnalogX AnalogX Proxy,[''],2022-03-18T16:21Z
+5,cpe:2.3:a:analogx:proxy:4.0:*:*:*:*:*:*:*,AnalogX AnalogX Proxy 4.0,['CVE-2002-1001'],2022-03-18T16:21Z
+6,cpe:2.3:a:analogx:proxy:4.0.1:*:*:*:*:*:*:*,AnalogX AnalogX Proxy 4.0.1,['CVE-2002-1001'],2022-03-18T16:21Z
+7,cpe:2.3:a:analogx:proxy:4.0.2:*:*:*:*:*:*:*,AnalogX AnalogX Proxy 4.0.2,['CVE-2002-1001'],2022-03-18T16:21Z
+8,cpe:2.3:a:analogx:proxy:4.0.3:*:*:*:*:*:*:*,AnalogX AnalogX Proxy 4.0.3,['CVE-2002-1001'],2022-03-18T16:21Z
+9,cpe:2.3:a:analogx:proxy:4.0.4:*:*:*:*:*:*:*,AnalogX AnalogX Proxy 4.0.4,['CVE-2002-1001'],2022-03-18T16:21Z

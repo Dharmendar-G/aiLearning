@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitdefender:antivirus_plus:25.0.7.29:*:*:*:*:*:*:*,Bitdefender ANTIVIRUS PLUS 25.0.7.29,"['CVE-2021-4198', 'CVE-2021-4199']",2022-03-19T08:05Z
+1,cpe:2.3:h:bitdefender:box:-:*:*:*:*:*:*:*,Bitdefender BOX,"['CVE-2019-12611', 'CVE-2019-12612']",2022-03-19T08:05Z
+2,cpe:2.3:h:bitdefender:box_2:-:*:*:*:*:*:*:*,Bitdefender Box 2,"['CVE-2019-17095', 'CVE-2019-17096', 'CVE-2019-17102']",2022-03-19T08:05Z
+3,cpe:2.3:o:bitdefender:box_2_firmware:-:*:*:*:*:*:*:*,Bitdefender Box 2 Firmware,"['CVE-2019-17096', 'CVE-2019-17102']",2022-03-19T08:05Z
+4,cpe:2.3:o:bitdefender:box_2_firmware:2.1.47.36:*:*:*:*:*:*:*,Bitdefender BOX 2 Firmware 2.1.47.36,[''],2022-03-19T08:05Z
+5,cpe:2.3:o:bitdefender:box_2_firmware:2.1.47.42:*:*:*:*:*:*:*,Bitdefender BOX 2 Firmware 2.1.47.42,['CVE-2019-17095'],2022-03-19T08:05Z
+6,cpe:2.3:o:bitdefender:box_2_firmware:2.1.53.45:*:*:*:*:*:*:*,Bitdefender BOX 2 Firmware 2.1.53.45,['CVE-2019-17095'],2022-03-19T08:05Z
+7,cpe:2.3:o:bitdefender:box_firmware:-:*:*:*:*:*:*:*,Bitdefender BOX Firmware,"['CVE-2019-12611', 'CVE-2019-12612']",2022-03-19T08:05Z
+8,cpe:2.3:o:bitdefender:box_firmware:2.1.37.37-34:*:*:*:*:*:*:*,Bitdefender BOX 2.1.37.37-34,[''],2022-03-19T08:05Z
+9,cpe:2.3:a:bitdefender:central:-:*:*:*:*:android:*:*,Bitdefender Central for Android,['CVE-2019-17096'],2022-03-19T08:05Z

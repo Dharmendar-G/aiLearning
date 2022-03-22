@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:xerces-j:1.4.0:*:*:*:*:*:*:*,Apache Xerces-J 1.4.0,"['CVE-2018-2799', 'CVE-2022-23437']",2022-03-18T20:57Z
+1,cpe:2.3:a:apache:xerces-j:1.4.1:*:*:*:*:*:*:*,Apache Xerces-J 1.4.1,"['CVE-2018-2799', 'CVE-2022-23437']",2022-03-18T20:57Z
+2,cpe:2.3:a:apache:xerces-j:1.4.2:*:*:*:*:*:*:*,Apache Xerces-J 1.4.2,"['CVE-2018-2799', 'CVE-2022-23437']",2022-03-18T20:57Z
+3,cpe:2.3:a:apache:xerces-j:1.4.3:*:*:*:*:*:*:*,Apache Xerces-J 1.4.3,"['CVE-2018-2799', 'CVE-2022-23437']",2022-03-18T20:57Z
+4,cpe:2.3:a:apache:xerces-j:1.4.4:*:*:*:*:*:*:*,Apache Xerces-J 1.4.4,"['CVE-2018-2799', 'CVE-2022-23437']",2022-03-18T20:57Z
+5,cpe:2.3:a:apache:xerces-j:2.0.0:-:*:*:*:*:*:*,Apache Xerces-J 2.0.0,"['CVE-2018-2799', 'CVE-2022-23437']",2022-03-18T20:57Z
+6,cpe:2.3:a:apache:xerces-j:2.0.0:alpha:*:*:*:*:*:*,Apache Xerces-J 2.0.0 Alpha,"['CVE-2018-2799', 'CVE-2022-23437']",2022-03-18T20:57Z
+7,cpe:2.3:a:apache:xerces-j:2.0.0:beta:*:*:*:*:*:*,Apache Xerces-J 2.0.0 Beta,"['CVE-2018-2799', 'CVE-2022-23437']",2022-03-18T20:57Z
+8,cpe:2.3:a:apache:xerces-j:2.0.0:beta2:*:*:*:*:*:*,Apache Xerces-J 2.0.0 Beta 2,"['CVE-2018-2799', 'CVE-2022-23437']",2022-03-18T20:57Z
+9,cpe:2.3:a:apache:xerces-j:2.0.0:beta3:*:*:*:*:*:*,Apache Xerces-J 2.0.0 Beta 3,"['CVE-2018-2799', 'CVE-2022-23437']",2022-03-18T20:57Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:encryption:10.4.0:*:*:*:enterprise:*:*:*,Dell Encryption 10.4.0 Enterprise Edition,['CVE-2020-5385'],2022-03-20T12:29Z
+1,cpe:2.3:a:dell:encryption:10.7.0:*:*:*:*:enterprise:*:*,Dell Encryption 10.7.0 for Enterprise,['CVE-2020-5358'],2022-03-20T12:29Z
+2,cpe:2.3:a:dell:encryption:10.8:*:*:*:enterprise:*:*:*,Dell Encryption 10.8 Enterprise Edition,[''],2022-03-20T12:29Z
+3,cpe:2.3:a:dell:endpoint_security_suite_enterprise:2.0.1:*:*:*:*:*:*:*,Dell Endpoint Security Suite Enterprise 2.0.1,"['CVE-2019-3745', 'CVE-2020-5358', 'CVE-2020-5385']",2022-03-20T12:29Z
+4,cpe:2.3:a:dell:endpoint_security_suite_enterprise:2.4.0:*:*:*:*:*:*:*,Dell Endpoint Security Suite Enterprise 2.4.0,"['CVE-2020-5358', 'CVE-2020-5385']",2022-03-20T12:29Z
+5,cpe:2.3:a:dell:endpoint_security_suite_enterprise:2.7:*:*:*:*:*:*:*,Dell Endpoint Security Suite Enterprise 2.7,['CVE-2020-5385'],2022-03-20T12:29Z
+6,cpe:2.3:a:dell:endpoint_security_suite_enterprise:2.8:*:*:*:*:*:*:*,Dell Endpoint Security Suite Enterprise 2.8,[''],2022-03-20T12:29Z
+7,cpe:2.3:a:dell:enterprise_storage_analytics:4.0.1:*:*:*:*:vrealize_operations:*:*,Dell Enterprise Storage Analytics 4.0.1 for vRealize Operations,['CVE-2021-43590'],2022-03-20T12:29Z
+8,cpe:2.3:a:dell:enterprise_storage_analytics:6.2.1:*:*:*:*:vrealize_operations:*:*,Dell Enterprise Storage Analytics 6.2.1 for vRealize Operations,['CVE-2021-43590'],2022-03-20T12:29Z
+9,cpe:2.3:a:dell:enterprise_storage_analytics:6.2.2:*:*:*:*:vrealize_operations:*:*,Dell Enterprise Storage Analytics 6.2.2 for vRealize Operations,[''],2022-03-20T12:29Z

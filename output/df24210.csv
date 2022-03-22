@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:amd:ryzen_4600ge:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 4600ge -,['CVE-2020-12965'],2022-03-18T16:09Z
+1,cpe:2.3:o:amd:ryzen_4600ge_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 4600ge Firmware ,['CVE-2020-12965'],2022-03-18T16:09Z
+2,cpe:2.3:h:amd:ryzen_4700g:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 4700g -,['CVE-2020-12965'],2022-03-18T16:09Z
+3,cpe:2.3:o:amd:ryzen_4700g_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 4700g Firmware ,['CVE-2020-12965'],2022-03-18T16:09Z
+4,cpe:2.3:h:amd:ryzen_4700ge:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 4700ge -,['CVE-2020-12965'],2022-03-18T16:09Z
+5,cpe:2.3:o:amd:ryzen_4700ge_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 4700ge Firmware ,['CVE-2020-12965'],2022-03-18T16:09Z
+6,cpe:2.3:h:amd:ryzen_5_5600x:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 5 5600X,"['CVE-2021-26313', 'CVE-2021-26314']",2022-03-18T16:09Z
+7,cpe:2.3:h:amd:ryzen_5300g:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 5300g -,['CVE-2020-12965'],2022-03-18T16:09Z
+8,cpe:2.3:o:amd:ryzen_5300g_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 5300g Firmware ,['CVE-2020-12965'],2022-03-18T16:09Z
+9,cpe:2.3:h:amd:ryzen_5300ge:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 5300ge -,['CVE-2020-12965'],2022-03-18T16:09Z

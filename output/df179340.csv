@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:emc_vnx5400:-:*:*:*:*:*:*:*,Dell Emc Vnx5400 -,[''],2022-03-20T12:29Z
+1,cpe:2.3:h:dell:emc_vnx5600:-:*:*:*:*:*:*:*,Dell Emc Vnx5600 -,[''],2022-03-20T12:29Z
+2,cpe:2.3:h:dell:emc_vnx5800:-:*:*:*:*:*:*:*,Dell Emc Vnx5800 -,[''],2022-03-20T12:29Z
+3,cpe:2.3:a:dell:emc_vnxe_3100_operating_environment:-:*:*:*:*:*:*:*,Dell EMC VNXe 3100 Operating Environment (OE),['CVE-2018-1183'],2022-03-20T12:29Z
+4,cpe:2.3:a:dell:emc_vnxe_3150_operating_environment:-:*:*:*:*:*:*:*,Dell EMC VNXe 3150 Operating Environment (OE),['CVE-2018-1183'],2022-03-20T12:29Z
+5,cpe:2.3:a:dell:emc_vnxe_3300__operating_environment:-:*:*:*:*:*:*:*,Dell EMC VNXe 3300 Operating Environment (OE),['CVE-2018-1183'],2022-03-20T12:29Z
+6,cpe:2.3:a:dell:emc_vnxe_oe_firmware:-:*:*:*:*:*:*:*,Dell EMC VNXe Operating Environment (OE) Firmware,[''],2022-03-20T12:29Z
+7,cpe:2.3:h:dell:emc_vnxe1600:-:*:*:*:*:*:*:*,Dell Emc Vnxe1600 -,[''],2022-03-20T12:29Z
+8,cpe:2.3:a:dell:emc_vnxe1600_operating_environment:3.1.9.9570228:*:*:*:*:*:*:*,Dell EMC VNXe 1600 Operating Environment (OE) 3.1.9.9570228,[''],2022-03-20T12:29Z
+9,cpe:2.3:h:dell:emc_vnxe3100:-:*:*:*:*:*:*:*,Dell Emc Vnxe3100 -,[''],2022-03-20T12:29Z

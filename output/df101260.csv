@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:call-cc:spiffy:2.38:*:*:*:*:*:*:*,CHICKEN Spiffy 2.38,['CVE-2015-8235'],2022-03-19T15:06Z
+1,cpe:2.3:a:call-cc:spiffy:2.39:*:*:*:*:*:*:*,CHICKEN Spiffy 2.39,['CVE-2015-8235'],2022-03-19T15:06Z
+2,cpe:2.3:a:call-cc:spiffy:2.40:*:*:*:*:*:*:*,CHICKEN Spiffy 2.40,['CVE-2015-8235'],2022-03-19T15:06Z
+3,cpe:2.3:a:call-cc:spiffy:2.41:*:*:*:*:*:*:*,CHICKEN Spiffy 2.41,['CVE-2015-8235'],2022-03-19T15:06Z
+4,cpe:2.3:a:call-cc:spiffy:2.42:*:*:*:*:*:*:*,CHICKEN Spiffy 2.42,['CVE-2015-8235'],2022-03-19T15:06Z
+5,cpe:2.3:a:call-cc:spiffy:2.43:*:*:*:*:*:*:*,CHICKEN Spiffy 2.43,['CVE-2015-8235'],2022-03-19T15:06Z
+6,cpe:2.3:a:call-cc:spiffy:3.0:*:*:*:*:*:*:*,CHICKEN Spiffy 3.0,['CVE-2015-8235'],2022-03-19T15:07Z
+7,cpe:2.3:a:call-cc:spiffy:3.1:*:*:*:*:*:*:*,CHICKEN Spiffy 3.1,['CVE-2015-8235'],2022-03-19T15:06Z
+8,cpe:2.3:a:call-cc:spiffy:3.2:*:*:*:*:*:*:*,CHICKEN Spiffy 3.2,['CVE-2015-8235'],2022-03-19T15:07Z
+9,cpe:2.3:a:call-cc:spiffy:3.3:*:*:*:*:*:*:*,CHICKEN Spiffy 3.3,['CVE-2015-8235'],2022-03-19T15:07Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:barracuda:network_access_client:5.2.2:*:*:*:*:windows:*:*,Barracuda Network Access Client (NAC) 5.2.2 for Windows,[''],2022-03-19T06:18Z
+1,cpe:2.3:a:barracuda:vpn_client:5.0:*:*:*:*:*:*:*,Barracuda VPN Client 5.0,['CVE-2019-6724'],2022-03-19T06:18Z
+2,cpe:2.3:a:barracuda:vpn_client:5.0.2.5:*:*:*:*:*:*:*,Barracuda VPN Client 5.0.2.5,['CVE-2019-6724'],2022-03-19T06:18Z
+3,cpe:2.3:a:barracuda:vpn_client:5.0.2.7:*:*:*:*:*:*:*,Barracuda VPN Client 5.0.2.7,[''],2022-03-19T06:18Z
+4,cpe:2.3:a:barracuda:web_application_firewall:7.8.1.013:*:*:*:*:*:*:*,Barracuda Web Application Firewall 7.8.1.013,['CVE-2014-2595'],2022-03-19T06:18Z
+5,cpe:2.3:a:barracuda:web_filter:7.0:*:*:*:*:*:*:*,Barracuda Web Filter 7.0,"['CVE-2015-0961', 'CVE-2015-0962']",2022-03-19T06:19Z
+6,cpe:2.3:a:barracuda:web_filter:7.0.1:*:*:*:*:*:*:*,Barracuda Web Filter 7.0.1,"['CVE-2015-0961', 'CVE-2015-0962']",2022-03-19T06:18Z
+7,cpe:2.3:a:barracuda:web_filter:7.1.0:*:*:*:*:*:*:*,Barracuda Web Filter 7.1.0,"['CVE-2015-0961', 'CVE-2015-0962']",2022-03-19T06:19Z
+8,cpe:2.3:a:barracuda:web_filter:8.0:*:*:*:*:*:*:*,Barracuda Web Filter 8.0,"['CVE-2015-0961', 'CVE-2015-0962']",2022-03-19T06:18Z
+9,cpe:2.3:a:barracuda:web_filter:8.0.002:*:*:*:*:*:*:*,Barracuda Web Filter 8.0.002,"['CVE-2015-0961', 'CVE-2015-0962']",2022-03-19T06:19Z

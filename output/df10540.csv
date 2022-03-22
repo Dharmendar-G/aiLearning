@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:color_common_setrgb:2.0:*:*:*:*:*:*:*,Adobe Color Common Setrgb 2.0,[''],2022-03-18T12:26Z
+1,cpe:2.3:a:adobe:color_common_settings:1.0:*:*:*:*:*:*:*,Adobe Color Common Settings 1.0,[''],2022-03-18T12:26Z
+2,cpe:2.3:a:adobe:color_common_settings:1.0.1:*:*:*:*:*:*:*,Adobe Color Common Settings 1.0.1,[''],2022-03-18T12:26Z
+3,cpe:2.3:a:adobe:color_extra_settings:1.0:*:*:*:*:*:*:*,Adobe Color Extra Settings 1.0,[''],2022-03-18T12:26Z
+4,cpe:2.3:a:adobe:color_extra_settings_cs4:2.0:*:*:*:*:*:*:*,Adobe Color Extra Settings CS4 2.0,[''],2022-03-18T12:26Z
+5,cpe:2.3:a:adobe:color_photoshop_specific:1.0:*:*:*:*:*:*:*,Adobe Color Photoshop Specific 1.0,[''],2022-03-18T12:26Z
+6,cpe:2.3:a:adobe:color_photoshop_specific_cs4:2.0:*:*:*:*:*:*:*,Adobe Color Photoshop Specific CS4 2.0,[''],2022-03-18T12:26Z
+7,cpe:2.3:a:adobe:color_recommended_settings:1.0:*:*:*:*:*:*:*,Adobe Color Recommended Settings 1.0,[''],2022-03-18T12:26Z
+8,cpe:2.3:a:adobe:color_recommended_settings_cs4:2.0:*:*:*:*:*:*:*,Adobe Color Recommended Settings CS4 2.0,[''],2022-03-18T12:26Z
+9,cpe:2.3:a:adobe:color_video_profiles_cs_cs4:2.0:*:*:*:*:*:*:*,Adobe Color Video Profiles Cs CS4 2.0,[''],2022-03-18T12:26Z

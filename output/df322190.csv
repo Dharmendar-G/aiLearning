@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:h3c_router:msr_30-40_poe:*:*:*:*:*:*:*,HP H3C Router MSR 30-40 POE,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+1,cpe:2.3:h:hp:h3c_router:msr_30-60:*:*:*:*:*:*:*,HP H3C Router MSR 30-60,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+2,cpe:2.3:h:hp:h3c_router:msr_30-60_poe:*:*:*:*:*:*:*,HP H3C Router MSR 30-60 POE,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+3,cpe:2.3:h:hp:h3c_router:msr_50-40:*:*:*:*:*:*:*,HP H3C Router MSR 50-40,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+4,cpe:2.3:h:hp:h3c_router:msr_50-60:*:*:*:*:*:*:*,HP H3C Router MSR 50-60,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+5,cpe:2.3:h:hp:h3c_router:msr_900:*:*:*:*:*:*:*,HP H3C Router MSR 900,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+6,cpe:2.3:h:hp:h3c_router:msr_920:*:*:*:*:*:*:*,HP H3C Router MSR 920,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+7,cpe:2.3:h:hp:h3c_router:msr_3010:*:*:*:*:*:*:*,HP H3C Router MSR 30-10,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+8,cpe:2.3:h:hp:h3c_router:msr_3016:*:*:*:*:*:*:*,HP H3C Router MSR 30-16,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+9,cpe:2.3:h:hp:h3c_router:msr_3016_poe:*:*:*:*:*:*:*,HP H3C Router MSR 30-16 POE,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z

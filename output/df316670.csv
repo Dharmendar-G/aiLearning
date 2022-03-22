@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:horde:horde_mime:2.9.3:*:*:*:*:*:*:*,Horde MIME 2.9.3,[''],2022-03-21T12:17Z
+1,cpe:2.3:a:horde:horde_mime:2.9.4:*:*:*:*:*:*:*,Horde MIME 2.9.4,[''],2022-03-21T12:17Z
+2,cpe:2.3:a:horde:horde_mime:2.9.5:*:*:*:*:*:*:*,Horde MIME 2.9.5,[''],2022-03-21T12:17Z
+3,cpe:2.3:a:horde:horde_mime:2.10.0:*:*:*:*:*:*:*,Horde MIME 2.10.0,[''],2022-03-21T12:17Z
+4,cpe:2.3:a:horde:horde_mime:2.10.1:*:*:*:*:*:*:*,Horde MIME 2.10.1,[''],2022-03-21T12:17Z
+5,cpe:2.3:a:horde:horde_mime:2.10.2:*:*:*:*:*:*:*,Horde MIME 2.10.2,[''],2022-03-21T12:17Z
+6,cpe:2.3:a:horde:horde_mime:2.10.3:*:*:*:*:*:*:*,Horde MIME 2.10.3,[''],2022-03-21T12:17Z
+7,cpe:2.3:a:horde:horde_mime:2.11.0:*:*:*:*:*:*:*,Horde MIME 2.11.0,[''],2022-03-21T12:17Z
+8,cpe:2.3:a:horde:horde_mime_viewer:1.0.0:-:*:*:*:*:*:*,Horde MIME Viewer 1.0.0,[''],2022-03-21T12:17Z
+9,cpe:2.3:a:horde:horde_mime_viewer:1.0.0:alpha1:*:*:*:*:*:*,Horde MIME Viewer 1.0.0 Alpha 1,[''],2022-03-21T12:17Z

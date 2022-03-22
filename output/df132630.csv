@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:sa520w:2.2.07:*:*:*:*:*:*:*,Cisco SA520w 2.2.07,['CVE-2015-6418'],2022-03-19T23:54Z
+1,cpe:2.3:o:cisco:sa540:2.2.07:*:*:*:*:*:*:*,Cisco SA540 2.2.07,['CVE-2015-6418'],2022-03-19T23:54Z
+2,cpe:2.3:h:cisco:sasr1k1xucmk9-1610:-:*:*:*:*:*:*:*,Cisco SASR1K1XUCMK9-1610,['CVE-2019-12671'],2022-03-19T23:54Z
+3,cpe:2.3:h:cisco:sasr1k2xucmk9-1610:-:*:*:*:*:*:*:*,Cisco SASR1K2XUCMK9-1610,['CVE-2019-12671'],2022-03-19T23:54Z
+4,cpe:2.3:h:cisco:sasr1khxucmk9-1610:-:*:*:*:*:*:*:*,Cisco SASR1KHXUCMK9-1610,['CVE-2019-12671'],2022-03-19T23:54Z
+5,cpe:2.3:a:cisco:sc2200:-:*:*:*:*:*:*:*,Cisco SC2200,['CVE-2002-2037'],2022-03-19T23:54Z
+6,cpe:2.3:a:cisco:sc2200:7.4:*:*:*:*:*:*:*,Cisco SC2200 7.4,['CVE-2002-2037'],2022-03-19T23:54Z
+7,cpe:2.3:h:cisco:scientific_atlanta__dpr\/epr2320:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPR/EPR2320,['CVE-2013-7043'],2022-03-19T23:55Z
+8,cpe:2.3:o:cisco:scientific_atlanta__dpr\/epr2320_firmware:2.0.2:r1262-090417:*:*:*:*:*:*,Cisco Scientific Atlanta DPR/EPR2320 firmware 2.0.2 R1262-090417,['CVE-2013-7043'],2022-03-19T23:55Z
+9,cpe:2.3:h:cisco:scientific_atlanta__dpr2325:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPR2325,['CVE-2013-7043'],2022-03-19T23:55Z

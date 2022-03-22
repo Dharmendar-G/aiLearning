@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:san_volume_controller_software:7.2.0.2:*:*:*:*:*:*:*,IBM SAN Volume Controller software 7.2.0.2,"['CVE-2014-0880', 'CVE-2014-4811']",2022-03-21T21:52Z
+1,cpe:2.3:a:ibm:san_volume_controller_software:7.2.0.3:*:*:*:*:*:*:*,IBM SAN Volume Controller software 7.2.0.3,['CVE-2014-4811'],2022-03-21T21:52Z
+2,cpe:2.3:h:ibm:sas_connectivity_module:-:*:*:*:*:*:*:*,IBM SAS Connectivity Module 1.3.3.004,"['CVE-2014-3018', 'CVE-2014-3019']",2022-03-21T21:52Z
+3,cpe:2.3:o:ibm:sas_connectivity_module_firmware:1.3.3.004:*:*:*:*:*:*:*,IBM SAS Connectivity Module Firmware 1.3.3.004,"['CVE-2014-3018', 'CVE-2014-3019']",2022-03-21T21:52Z
+4,cpe:2.3:h:ibm:sas_raid_module:-:*:*:*:*:*:*:*,IBM SAS RAID Module 1.3.3.004,"['CVE-2014-3018', 'CVE-2014-3019']",2022-03-21T21:52Z
+5,cpe:2.3:o:ibm:sas_raid_module_firmware:1.3.3.004:*:*:*:*:*:*:*,IBM SAS RAID Module Firmware 1.3.3.004,"['CVE-2014-3018', 'CVE-2014-3019']",2022-03-21T21:52Z
+6,cpe:2.3:a:ibm:sbma_smi_provider:1.0.0:*:*:*:*:*:*:*,IBM Sbma Smi Provider 1.0.0,[''],2022-03-21T21:52Z
+7,cpe:2.3:o:ibm:scale-out_lc_system_firmware:-:*:*:*:*:*:*:*,IBM Scale-Out LC System Firmware,['CVE-2021-20487'],2022-03-21T21:52Z
+8,cpe:2.3:o:ibm:scale-out_lc_system_firmware:op940.20:*:*:*:*:*:*:*,IBM Scale-Out LC System Firmware OP940.20,[''],2022-03-21T21:52Z
+9,cpe:2.3:a:ibm:sdk:1.1.0.20:*:*:*:*:node.js:*:*,IBM SDK 1.1.0.20 for Node.js,[''],2022-03-21T21:52Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:highlightjs:highlight.js:10.0.2:*:*:*:*:node.js:*:*,highlight.js 10.0.2 for Node.js,[''],2022-03-21T11:06Z
+1,cpe:2.3:a:highlightjs:highlight.js:10.0.3:*:*:*:*:node.js:*:*,highlight.js 10.0.3 for Node.js,[''],2022-03-21T11:06Z
+2,cpe:2.3:a:highlightjs:highlight.js:10.1.0:*:*:*:*:node.js:*:*,highlight.js 10.1.0 for Node.js,['CVE-2020-26237'],2022-03-21T11:06Z
+3,cpe:2.3:a:highlightjs:highlight.js:10.1.1:*:*:*:*:node.js:*:*,highlight.js 10.1.1 for Node.js,['CVE-2020-26237'],2022-03-21T11:06Z
+4,cpe:2.3:a:highlightjs:highlight.js:10.1.2:*:*:*:*:node.js:*:*,highlight.js 10.1.2 for Node.js,[''],2022-03-21T11:06Z
+5,cpe:2.3:a:highlightjs:highlight.js:10.2.0:*:*:*:*:node.js:*:*,highlight.js 10.2.0 for Node.js,[''],2022-03-21T11:06Z
+6,cpe:2.3:a:highlightjs:highlight.js:10.2.1:*:*:*:*:node.js:*:*,highlight.js 10.2.1 for Node.js,[''],2022-03-21T11:06Z
+7,cpe:2.3:a:highlightjs:highlight.js:10.3.0:*:*:*:*:node.js:*:*,highlight.js 10.3.0 for Node.js,[''],2022-03-21T11:06Z
+8,cpe:2.3:a:highlightjs:highlight.js:10.3.1:*:*:*:*:node.js:*:*,highlight.js 10.3.1 for Node.js,[''],2022-03-21T11:06Z
+9,cpe:2.3:a:highlightjs:highlight.js:10.3.2:*:*:*:*:node.js:*:*,highlight.js 10.3.2 for Node.js,[''],2022-03-21T11:06Z

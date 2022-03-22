@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codersclub:discuz\!ml:3.4:*:*:*:*:*:*:*,CodersClub Discuz!ML 3.4,['CVE-2019-13956'],2022-03-20T06:00Z
+1,cpe:2.3:a:coderstimes:out_of_stock_message_for_woocommerce:1.0.0:*:*:*:*:wordpress:*:*,Coders Time Out of Stock Message for WooCommerce 1.0.0 for WordPress,['CVE-2021-24520'],2022-03-20T06:00Z
+2,cpe:2.3:a:coderstimes:out_of_stock_message_for_woocommerce:1.0.1:*:*:*:*:wordpress:*:*,Coders Time Out of Stock Message for WooCommerce 1.0.1 for WordPress,['CVE-2021-24520'],2022-03-20T06:00Z
+3,cpe:2.3:a:coderstimes:out_of_stock_message_for_woocommerce:1.0.2:*:*:*:*:wordpress:*:*,Coders Time Out of Stock Message for WooCommerce 1.0.2 for WordPress,['CVE-2021-24520'],2022-03-20T06:00Z
+4,cpe:2.3:a:coderstimes:out_of_stock_message_for_woocommerce:1.0.3:*:*:*:*:wordpress:*:*,Coders Time Out of Stock Message for WooCommerce 1.0.3 for WordPress,['CVE-2021-24520'],2022-03-20T06:00Z
+5,cpe:2.3:a:coderstimes:out_of_stock_message_for_woocommerce:1.0.4:*:*:*:*:wordpress:*:*,Coders Time Out of Stock Message for WooCommerce 1.0.4 for WordPress,['CVE-2021-24520'],2022-03-20T06:00Z
+6,cpe:2.3:a:codesector:teracopy:2.2:*:*:*:*:*:*:*,Codesector Teracopy 2.2,[''],2022-03-20T06:00Z
+7,cpe:2.3:a:codesector:teracopy:2.12:*:*:*:*:*:*:*,Codesector Teracopy 2.12,[''],2022-03-20T06:00Z
+8,cpe:2.3:a:codeslab:shopy_point_of_sale:1.0:*:*:*:*:*:*:*,CodesLab Shopy Point Of Sale 1.0,['CVE-2018-10258'],2022-03-20T06:00Z
+9,cpe:2.3:a:codesnippets:code_snippets:2.10.0:*:*:*:*:wordpress:*:*,Code Snippets 2.10.0 for Wordpress,"['CVE-2020-8417', 'CVE-2021-25008']",2022-03-20T06:00Z

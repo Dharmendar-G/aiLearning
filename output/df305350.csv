@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:haraka_project:haraka:2.8.16:*:*:*:*:node.js:*:*,Haraka Project Haraka 2.8.16 for Node.js,[''],2022-03-21T09:20Z
+1,cpe:2.3:a:haraka_project:haraka:2.8.17:*:*:*:*:node.js:*:*,Haraka Project Haraka 2.8.17 for Node.js,[''],2022-03-21T09:20Z
+2,cpe:2.3:a:haraka_project:haraka:2.8.18:*:*:*:*:node.js:*:*,Haraka Project Haraka 2.8.18 for Node.js,[''],2022-03-21T09:20Z
+3,cpe:2.3:a:haraka_project:haraka:2.8.19:*:*:*:*:node.js:*:*,Haraka Project Haraka 2.8.19 for Node.js,[''],2022-03-21T09:20Z
+4,cpe:2.3:a:haraka_project:haraka:2.8.20:*:*:*:*:node.js:*:*,Haraka Project Haraka 2.8.20 for Node.js,[''],2022-03-21T09:20Z
+5,cpe:2.3:a:haraka_project:haraka:2.8.21:*:*:*:*:node.js:*:*,Haraka Project Haraka 2.8.21 for Node.js,[''],2022-03-21T09:20Z
+6,cpe:2.3:a:haraka_project:haraka:2.8.22:*:*:*:*:node.js:*:*,Haraka Project Haraka 2.8.22 for Node.js,[''],2022-03-21T09:20Z
+7,cpe:2.3:a:hardened-php:suhosin:-:beta_2006.09.07:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP BETA 2006.09.07,['CVE-2012-0807'],2022-03-21T09:20Z
+8,cpe:2.3:a:hardened-php:suhosin:-:beta_2006.09.09:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP BETA 2006.09.09,['CVE-2012-0807'],2022-03-21T09:20Z
+9,cpe:2.3:a:hardened-php:suhosin:0.9.0:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.0,['CVE-2012-0807'],2022-03-21T09:20Z

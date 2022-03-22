@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:altiris:symantec_endpoint_protection_integration_component:6.0.1171:*:*:*:*:*:*:*,Altiris Symantec Endpoint Protection Integration Component 6.0.1171,[''],2022-03-18T15:16Z
+1,cpe:2.3:a:altiris:symantec_endpoint_protection_integration_component_documentation:6.0.1008:*:*:*:*:*:*:*,Altiris Symantec Endpoint Protection Integration Component Documentation 6.0.1008,[''],2022-03-18T15:16Z
+2,cpe:2.3:a:altiris:task_management:6.0.1524:*:*:*:*:*:*:*,Altiris Task Management 6.0.1524,[''],2022-03-18T15:16Z
+3,cpe:2.3:a:altiris:task_management_pack:6.0.1504:*:*:*:*:*:*:*,Altiris Task Management Pack 6.0.1504,[''],2022-03-18T15:16Z
+4,cpe:2.3:a:altiris:task_management_pack_language_pack:6.0.1033:*:*:*:*:*:*:*,Altiris Task Management Pack Language Pack 6.0.1033,[''],2022-03-18T15:16Z
+5,cpe:2.3:a:altiris:task_management_pack_language_pack:6.0.1504:*:*:*:*:*:*:*,Altiris Task Management Pack Language Pack 6.0.1504,[''],2022-03-18T15:16Z
+6,cpe:2.3:a:altiris:task_server_documentation:6.0.1013:*:*:*:*:*:*:*,Altiris Task Server Documentation 6.0.1013,[''],2022-03-18T15:16Z
+7,cpe:2.3:a:altiris:task_server_language_pack:6.0.1404:*:*:*:*:*:*:*,Altiris Task Server Language Pack 6.0.1404,[''],2022-03-18T15:16Z
+8,cpe:2.3:a:altiris:task_server_language_pack:6.0.1509:*:*:*:*:*:*:*,Altiris Task Server Language Pack 6.0.1509,[''],2022-03-18T15:16Z
+9,cpe:2.3:a:altiris:task_synchronization_agent:6.1.1030.0:*:*:*:*:*:*:*,Altiris Task Synchronization Agent 6.1.1030.0,[''],2022-03-18T15:16Z

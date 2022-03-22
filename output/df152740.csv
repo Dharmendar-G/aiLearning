@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codeigniter-restserver_project:codeigniter-restserver:2.3:*:*:*:*:*:*:*,CodeIgniter RestServer Project CodeIgniter RestServer 2.3,[''],2022-03-20T05:28Z
+1,cpe:2.3:a:codeigniter-restserver_project:codeigniter-restserver:2.4:*:*:*:*:*:*:*,CodeIgniter RestServer Project CodeIgniter RestServer 2.4,[''],2022-03-20T05:29Z
+2,cpe:2.3:a:codeigniter-restserver_project:codeigniter-restserver:2.5:*:*:*:*:*:*:*,CodeIgniter RestServer Project CodeIgniter RestServer 2.5,[''],2022-03-20T05:29Z
+3,cpe:2.3:a:codeigniter-restserver_project:codeigniter-restserver:2.6.0:*:*:*:*:*:*:*,CodeIgniter RestServer Project CodeIgniter RestServer 2.6.0,[''],2022-03-20T05:29Z
+4,cpe:2.3:a:codeigniter-restserver_project:codeigniter-restserver:2.6.1:*:*:*:*:*:*:*,CodeIgniter RestServer Project CodeIgniter RestServer 2.6.1,[''],2022-03-20T05:29Z
+5,cpe:2.3:a:codeigniter-restserver_project:codeigniter-restserver:2.7.0:*:*:*:*:*:*:*,CodeIgniter RestServer Project CodeIgniter RestServer 2.7.0,[''],2022-03-20T05:29Z
+6,cpe:2.3:a:codeigniter-restserver_project:codeigniter-restserver:2.7.1:*:*:*:*:*:*:*,CodeIgniter RestServer Project CodeIgniter RestServer 2.7.1,['CVE-2015-3907'],2022-03-20T05:29Z
+7,cpe:2.3:a:codeigniter-restserver_project:codeigniter-restserver:2.7.2:*:*:*:*:*:*:*,CodeIgniter RestServer Project CodeIgniter RestServer 2.7.2,[''],2022-03-20T05:29Z
+8,cpe:2.3:a:codeigniter-restserver_project:codeigniter-restserver:2.7.3:*:*:*:*:*:*:*,CodeIgniter RestServer Project CodeIgniter RestServer 2.7.3,[''],2022-03-20T05:29Z
+9,cpe:2.3:a:codeigniter-restserver_project:codeigniter-restserver:2.7.4:*:*:*:*:*:*:*,CodeIgniter RestServer Project CodeIgniter RestServer 2.7.4,[''],2022-03-20T05:29Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.317.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.317.0 for Node.js,['CVE-2020-28472'],2022-03-18T15:34Z
+1,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.318.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.318.0 for Node.js,['CVE-2020-28472'],2022-03-18T15:34Z
+2,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.319.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.319.0 for Node.js,['CVE-2020-28472'],2022-03-18T15:34Z
+3,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.320.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.320.0 for Node.js,['CVE-2020-28472'],2022-03-18T15:34Z
+4,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.321.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.321.0 for Node.js,['CVE-2020-28472'],2022-03-18T15:34Z
+5,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.322.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.322.0 for Node.js,['CVE-2020-28472'],2022-03-18T15:34Z
+6,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.323.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.323.0 for Node.js,['CVE-2020-28472'],2022-03-18T15:34Z
+7,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.324.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.324.0 for Node.js,['CVE-2020-28472'],2022-03-18T15:34Z
+8,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.325.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.325.0 for Node.js,['CVE-2020-28472'],2022-03-18T15:34Z
+9,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.326.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.326.0 for Node.js,['CVE-2020-28472'],2022-03-18T15:34Z

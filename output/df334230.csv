@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:honor_20_firmware:10.0.0.187\(c00e60r4p11\):*:*:*:*:*:*:*,Huawei Honor 20 Firmware 10.0.0.187(C00E60R4P11),['CVE-2020-9074'],2022-03-21T17:50Z
+1,cpe:2.3:o:huawei:honor_20_firmware:10.0.0.194\(c432e9r5p1\):*:*:*:*:*:*:*,Huawei Honor 20 Firmware 10.0.0.194(C432E9R5P1),[''],2022-03-21T17:50Z
+2,cpe:2.3:h:huawei:honor_20_pro:-:*:*:*:*:*:*:*,Huawei Honor 20 Pro,"['CVE-2019-9506', 'CVE-2020-1808', 'CVE-2020-9074', 'CVE-2020-9223', 'CVE-2020-9235', 'CVE-2020-9244', 'CVE-2020-9247']",2022-03-21T17:50Z
+3,cpe:2.3:o:huawei:honor_20_pro_firmware:10.0.0.187\(c00e60r4p11\):*:*:*:*:*:*:*,Huawei Honor 20 PRO Firmware 10.0.0.187(C00E60R4P11),"['CVE-2020-9074', 'CVE-2020-9223', 'CVE-2020-9235', 'CVE-2020-9244', 'CVE-2020-9247']",2022-03-21T17:50Z
+4,cpe:2.3:o:huawei:honor_20_pro_firmware:10.0.0.194\(c00e62r8p12\):*:*:*:*:*:*:*,Huawei Honor 20 Pro Firmware 10.0.0.194(C00E62R8P12),"['CVE-2020-9074', 'CVE-2020-9223', 'CVE-2020-9235', 'CVE-2020-9247']",2022-03-21T17:50Z
+5,cpe:2.3:o:huawei:honor_20_pro_firmware:10.0.0.194\(c10e3r3p2\):*:*:*:*:*:*:*,Huawei Honor 20 Pro Firmware 10.0.0.194(C10E3R3P2),"['CVE-2020-9074', 'CVE-2020-9223', 'CVE-2020-9235', 'CVE-2020-9247']",2022-03-21T17:50Z
+6,cpe:2.3:o:huawei:honor_20_pro_firmware:10.0.0.194\(c432e9r5p1\):*:*:*:*:*:*:*,Huawei Honor 20 Pro Firmware 10.0.0.194(C432E9R5P1),"['CVE-2020-9074', 'CVE-2020-9223', 'CVE-2020-9235', 'CVE-2020-9247']",2022-03-21T17:50Z
+7,cpe:2.3:o:huawei:honor_20_pro_firmware:10.0.0.194\(c636e3r3p1\):*:*:*:*:*:*:*,Huawei Honor 20 Pro Firmware 10.0.0.194(C636E3R3P1),"['CVE-2020-9223', 'CVE-2020-9235', 'CVE-2020-9247']",2022-03-21T17:50Z
+8,cpe:2.3:o:huawei:honor_20_pro_firmware:10.1.0.230\(c432e9r5p1\):*:*:*:*:*:*:*,Huawei Honor 20 Pro Firmware 10.1.0.230(C432E9R5P1),"['CVE-2020-9223', 'CVE-2020-9235', 'CVE-2020-9247']",2022-03-21T17:50Z
+9,cpe:2.3:o:huawei:honor_20_pro_firmware:10.1.0.231\(c10e3r3p2\):*:*:*:*:*:*:*,Huawei Honor 20 Pro Firmware 10.1.0.231(C10E3R3P2),"['CVE-2020-9223', 'CVE-2020-9235']",2022-03-21T17:50Z

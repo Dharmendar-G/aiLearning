@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:deepsoft:weblibrarian:3.2.10.13:*:*:*:*:wordpress:*:*,Deepsoft WebLibrarian 3.2.10.13 for WordPress,"['CVE-2017-18538', 'CVE-2017-18539', 'CVE-2017-18540', 'CVE-2019-1010034']",2022-03-20T12:05Z
+1,cpe:2.3:a:deepsoft:weblibrarian:3.2.10.14:*:*:*:*:wordpress:*:*,Deepsoft WebLibrarian 3.2.10.14 for WordPress,"['CVE-2017-18538', 'CVE-2017-18539', 'CVE-2017-18540', 'CVE-2019-1010034']",2022-03-20T12:05Z
+2,cpe:2.3:a:deepsoft:weblibrarian:3.3:*:*:*:*:wordpress:*:*,Deepsoft WebLibrarian 3.3 for WordPress,"['CVE-2017-18538', 'CVE-2017-18539', 'CVE-2017-18540', 'CVE-2019-1010034']",2022-03-20T12:05Z
+3,cpe:2.3:a:deepsoft:weblibrarian:3.4:*:*:*:*:wordpress:*:*,Deepsoft WebLibrarian 3.4 for WordPress,"['CVE-2017-18538', 'CVE-2017-18539', 'CVE-2017-18540', 'CVE-2019-1010034']",2022-03-20T12:05Z
+4,cpe:2.3:a:deepsoft:weblibrarian:3.4.1:*:*:*:*:wordpress:*:*,Deepsoft WebLibrarian 3.4.1 for WordPress,"['CVE-2017-18538', 'CVE-2017-18539', 'CVE-2017-18540', 'CVE-2019-1010034']",2022-03-20T12:05Z
+5,cpe:2.3:a:deepsoft:weblibrarian:3.4.2:*:*:*:*:wordpress:*:*,Deepsoft WebLibrarian 3.4.2 for WordPress,"['CVE-2017-18538', 'CVE-2017-18539', 'CVE-2017-18540', 'CVE-2019-1010034']",2022-03-20T12:05Z
+6,cpe:2.3:a:deepsoft:weblibrarian:3.4.3:*:*:*:*:wordpress:*:*,Deepsoft WebLibrarian 3.4.3 for WordPress,"['CVE-2017-18538', 'CVE-2017-18539', 'CVE-2017-18540', 'CVE-2019-1010034']",2022-03-20T12:05Z
+7,cpe:2.3:a:deepsoft:weblibrarian:3.4.4:*:*:*:*:wordpress:*:*,Deepsoft WebLibrarian 3.4.4 for WordPress,"['CVE-2017-18538', 'CVE-2017-18539', 'CVE-2017-18540', 'CVE-2019-1010034']",2022-03-20T12:05Z
+8,cpe:2.3:a:deepsoft:weblibrarian:3.4.5:*:*:*:*:wordpress:*:*,Deepsoft WebLibrarian 3.4.5 for WordPress,"['CVE-2017-18538', 'CVE-2017-18539', 'CVE-2017-18540', 'CVE-2019-1010034']",2022-03-20T12:05Z
+9,cpe:2.3:a:deepsoft:weblibrarian:3.4.6:*:*:*:*:wordpress:*:*,Deepsoft WebLibrarian 3.4.6 for WordPress,"['CVE-2017-18538', 'CVE-2017-18539', 'CVE-2017-18540', 'CVE-2019-1010034']",2022-03-20T12:05Z

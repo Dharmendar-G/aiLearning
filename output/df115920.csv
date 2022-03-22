@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:asr_5000_series:18.0.l0.59219:*:*:*:*:*:*:*,Cisco ASR 5000 Series 18.0.l0.59219,[''],2022-03-19T18:38Z
+1,cpe:2.3:a:cisco:asr_5000_series:18.1.0:*:*:*:*:*:*:*,Cisco ASR 5000 Series 18.1.0,[''],2022-03-19T18:38Z
+2,cpe:2.3:a:cisco:asr_5000_series:18.1.0.59776:*:*:*:*:*:*:*,Cisco ASR 5000 Series 18.1.0.59776,[''],2022-03-19T18:38Z
+3,cpe:2.3:a:cisco:asr_5000_series:18.1.0.59780:*:*:*:*:*:*:*,Cisco ASR 5000 Series 18.1.0.59780,[''],2022-03-19T18:38Z
+4,cpe:2.3:a:cisco:asr_5000_series:18.1_base:*:*:*:*:*:*:*,Cisco ASR 5000 Series 18.1 Base,[''],2022-03-19T18:38Z
+5,cpe:2.3:a:cisco:asr_5000_series:18.3.0:*:*:*:*:*:*:*,Cisco ASR 5000 Series 18.3.0,[''],2022-03-19T18:38Z
+6,cpe:2.3:a:cisco:asr_5000_series:18.3_base:*:*:*:*:*:*:*,Cisco ASR 5000 Series 18.3 Base,[''],2022-03-19T18:38Z
+7,cpe:2.3:a:cisco:asr_5000_series:18.4.0:*:*:*:*:*:*:*,Cisco ASR 5000 Series 18.4.0,[''],2022-03-19T18:38Z
+8,cpe:2.3:a:cisco:asr_5000_series:19.0.1:*:*:*:*:*:*:*,Cisco ASR 5000 Series 19.0.1,[''],2022-03-19T18:38Z
+9,cpe:2.3:a:cisco:asr_5000_series:19.0.m0.60737:*:*:*:*:*:*:*,Cisco ASR 5000 Series 19.0.m0.60737,[''],2022-03-19T18:38Z

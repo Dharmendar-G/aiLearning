@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:crossbeam-channel_project:crossbeam-channel:0.3.0:*:*:*:*:rust:*:*,crossbeam-channel Project crossbeam-channel 0.3.0 for Rust,['CVE-2020-35904'],2022-03-20T09:04Z
+1,cpe:2.3:a:crossbeam-channel_project:crossbeam-channel:0.3.1:*:*:*:*:rust:*:*,crossbeam-channel Project crossbeam-channel 0.3.1 for Rust,['CVE-2020-35904'],2022-03-20T09:04Z
+2,cpe:2.3:a:crossbeam-channel_project:crossbeam-channel:0.3.2:*:*:*:*:rust:*:*,crossbeam-channel Project crossbeam-channel 0.3.2 for Rust,['CVE-2020-35904'],2022-03-20T09:04Z
+3,cpe:2.3:a:crossbeam-channel_project:crossbeam-channel:0.3.3:*:*:*:*:rust:*:*,crossbeam-channel Project crossbeam-channel 0.3.3 for Rust,['CVE-2020-35904'],2022-03-20T09:04Z
+4,cpe:2.3:a:crossbeam-channel_project:crossbeam-channel:0.3.4:*:*:*:*:rust:*:*,crossbeam-channel Project crossbeam-channel 0.3.4 for Rust,['CVE-2020-35904'],2022-03-20T09:04Z
+5,cpe:2.3:a:crossbeam-channel_project:crossbeam-channel:0.3.5:*:*:*:*:rust:*:*,crossbeam-channel Project crossbeam-channel 0.3.5 for Rust,['CVE-2020-35904'],2022-03-20T09:04Z
+6,cpe:2.3:a:crossbeam-channel_project:crossbeam-channel:0.3.6:*:*:*:*:rust:*:*,crossbeam-channel Project crossbeam-channel 0.3.6 for Rust,['CVE-2020-35904'],2022-03-20T09:04Z
+7,cpe:2.3:a:crossbeam-channel_project:crossbeam-channel:0.3.7:*:*:*:*:rust:*:*,crossbeam-channel Project crossbeam-channel 0.3.7 for Rust,['CVE-2020-35904'],2022-03-20T09:04Z
+8,cpe:2.3:a:crossbeam-channel_project:crossbeam-channel:0.3.8:*:*:*:*:rust:*:*,crossbeam-channel Project crossbeam-channel 0.3.8 for Rust,['CVE-2020-35904'],2022-03-20T09:04Z
+9,cpe:2.3:a:crossbeam-channel_project:crossbeam-channel:0.3.9:*:*:*:*:rust:*:*,crossbeam-channel Project crossbeam-channel 0.3.9 for Rust,['CVE-2020-35904'],2022-03-20T09:04Z

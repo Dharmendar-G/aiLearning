@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:honor_v20_firmware:-:*:*:*:*:*:*:*,Huawei Honor V20 Firmware,"['CVE-2019-5228', 'CVE-2019-5301', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2020-1803', 'CVE-2020-9244']",2022-03-21T17:54Z
+1,cpe:2.3:o:huawei:honor_v20_firmware:9.0.1.161\(c00e161r2p2\):*:*:*:*:*:*:*,Huawei Honor V20 Firmware 9.0.1.161(C00E161R2P2),"['CVE-2019-5228', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2020-1803', 'CVE-2020-9244']",2022-03-21T17:54Z
+2,cpe:2.3:o:huawei:honor_v20_firmware:9.1.0.234\(c00e234r4p3\):*:*:*:*:*:*:*,Huawei Honor V20 Firmware 9.1.0.234(C00E234R4P3),"['CVE-2019-5228', 'CVE-2020-1803', 'CVE-2020-9244']",2022-03-21T17:54Z
+3,cpe:2.3:o:huawei:honor_v20_firmware:10.0.0.179\(c636e3r4p3\):*:*:*:*:*:*:*,Huawei Honor V20 Firmware 10.0.0.179(C636E3R4P3),"['CVE-2019-5228', 'CVE-2020-1803', 'CVE-2020-9244']",2022-03-21T17:54Z
+4,cpe:2.3:o:huawei:honor_v20_firmware:10.0.0.180\(c185e3r3p3\):*:*:*:*:*:*:*,Huawei Honor V20 Firmware 10.0.0.180(C185E3R3P3),"['CVE-2019-5228', 'CVE-2020-1803', 'CVE-2020-9244']",2022-03-21T17:54Z
+5,cpe:2.3:o:huawei:honor_v20_firmware:10.0.0.180\(c432e10r3p4\):*:*:*:*:*:*:*,Huawei Honor V20 Firmware 10.0.0.180(C432E10R3P4),"['CVE-2019-5228', 'CVE-2020-9244']",2022-03-21T17:54Z
+6,cpe:2.3:o:huawei:honor_v20_firmware:10.0.0.188\(c00e62r2p11\):*:*:*:*:*:*:*,Huawei Honor V20 Firmware 10.0.0.188(C00E62R2P11),['CVE-2019-5228'],2022-03-21T17:54Z
+7,cpe:2.3:o:huawei:honor_v20_firmware:princeton-al10b_9.1.0.233\(c00e233r4p3\):*:*:*:*:*:*:*,Huawei Honor V20 Firmware Princeton-AL10B 9.1.0.233(C00E233R4P3),[''],2022-03-21T17:54Z
+8,cpe:2.3:h:huawei:honor_v30:-:*:*:*:*:*:*:*,Huawei Honor V30,"['CVE-2020-1788', 'CVE-2020-9064', 'CVE-2020-9259']",2022-03-21T17:54Z
+9,cpe:2.3:o:huawei:honor_v30_firmware:-:*:*:*:*:*:*:*,Huawei Honor V30 Firmware,"['CVE-2020-1788', 'CVE-2020-9064', 'CVE-2020-9259']",2022-03-21T17:54Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:docker:ghost_alpine_docker_image:1.254:*:*:*:*:*:*:*,Docker Ghost Alpine Docker Image 1.254,['CVE-2020-35185'],2022-03-20T16:34Z
+1,cpe:2.3:a:docker:ghost_alpine_docker_image:2.0.0:*:*:*:*:*:*:*,Docker Ghost Alpine Docker Image 2.0.0,['CVE-2020-35185'],2022-03-20T16:34Z
+2,cpe:2.3:a:docker:ghost_alpine_docker_image:2.0.3:*:*:*:*:*:*:*,Docker Ghost Alpine Docker Image 2.0.3,['CVE-2020-35185'],2022-03-20T16:34Z
+3,cpe:2.3:a:docker:ghost_alpine_docker_image:2.1.0:*:*:*:*:*:*:*,Docker Ghost Alpine Docker Image 2.1.0,['CVE-2020-35185'],2022-03-20T16:34Z
+4,cpe:2.3:a:docker:ghost_alpine_docker_image:2.1.1:*:*:*:*:*:*:*,Docker Ghost Alpine Docker Image 2.1.1,['CVE-2020-35185'],2022-03-20T16:34Z
+5,cpe:2.3:a:docker:ghost_alpine_docker_image:2.1.2:*:*:*:*:*:*:*,Docker Ghost Alpine Docker Image 2.1.2,['CVE-2020-35185'],2022-03-20T16:34Z
+6,cpe:2.3:a:docker:ghost_alpine_docker_image:2.1.3:*:*:*:*:*:*:*,Docker Ghost Alpine Docker Image 2.1.3,['CVE-2020-35185'],2022-03-20T16:34Z
+7,cpe:2.3:a:docker:ghost_alpine_docker_image:2.1.4:*:*:*:*:*:*:*,Docker Ghost Alpine Docker Image 2.1.4,['CVE-2020-35185'],2022-03-20T16:34Z
+8,cpe:2.3:a:docker:ghost_alpine_docker_image:2.2.0:*:*:*:*:*:*:*,Docker Ghost Alpine Docker Image 2.2.0,['CVE-2020-35185'],2022-03-20T16:34Z
+9,cpe:2.3:a:docker:ghost_alpine_docker_image:2.2.2:*:*:*:*:*:*:*,Docker Ghost Alpine Docker Image 2.2.2,['CVE-2020-35185'],2022-03-20T16:34Z

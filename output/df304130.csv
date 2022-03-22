@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hanwha-security:srn-1673s_firmware:-:*:*:*:*:*:*:*,Hanwha-Security SRN-1673S Firmware,['CVE-2019-12223'],2022-03-21T08:55Z
+1,cpe:2.3:o:hanwha-security:srn-1673s_firmware:2019-05-03:*:*:*:*:*:*:*,Hanwha-Security SRN-1673S Firmware 2019-05-03,[''],2022-03-21T08:55Z
+2,cpe:2.3:h:hanwha-security:srn-472s:-:*:*:*:*:*:*:*,Hanwha-Security SRN-472S,['CVE-2019-12223'],2022-03-21T08:55Z
+3,cpe:2.3:o:hanwha-security:srn-472s_firmware:1.07_190502:*:*:*:*:*:*:*,Hanwha-Security SRN-472S Firmware 1.07 190502,['CVE-2019-12223'],2022-03-21T08:55Z
+4,cpe:2.3:h:hanwha-security:srn-873s:-:*:*:*:*:*:*:*,Hanwha-Security SRN-873S,['CVE-2019-12223'],2022-03-21T08:55Z
+5,cpe:2.3:o:hanwha-security:srn-873s_firmware:-:*:*:*:*:*:*:*,Hanwha-Security SRN-873S Firmware,['CVE-2019-12223'],2022-03-21T08:55Z
+6,cpe:2.3:o:hanwha-security:srn-873s_firmware:2019-05-03:*:*:*:*:*:*:*,Hanwha-Security SRN-873S Firmware 2019-05-03,[''],2022-03-21T08:55Z
+7,cpe:2.3:a:haowanlab:qincard:2:*:*:*:*:android:*:*,haowanlab QinCard (aka com.haowan.qincard) for android 2.0,['CVE-2014-6959'],2022-03-21T08:55Z
+8,cpe:2.3:a:hapi:inert:1.0.0:*:*:*:*:node.js:*:*,hapi inert 1.0.0 for Node.js,['CVE-2014-10068'],2022-03-21T08:55Z
+9,cpe:2.3:a:hapi:inert:1.1.0:*:*:*:*:node.js:*:*,hapi inert 1.1.0 for Node.js,['CVE-2014-10068'],2022-03-21T08:55Z

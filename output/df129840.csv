@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:network_assistant:5.1:*:*:*:*:*:*:*,Cisco Network Assistant 5.1,[''],2022-03-19T23:03Z
+1,cpe:2.3:a:cisco:network_assistant:5.5:*:*:*:*:*:*:*,Cisco Network Assistant 5.5,[''],2022-03-19T23:03Z
+2,cpe:2.3:a:cisco:network_assistant:5.6:*:*:*:*:*:*:*,Cisco Network Assistant 5.6,[''],2022-03-19T23:03Z
+3,cpe:2.3:a:cisco:network_assistant:5.6.1:*:*:*:*:*:*:*,Cisco Network Assistant 5.6.1,[''],2022-03-19T23:03Z
+4,cpe:2.3:a:cisco:network_assistant:5.6.2:*:*:*:*:*:*:*,Cisco Network Assistant 5.6.2,[''],2022-03-19T23:03Z
+5,cpe:2.3:a:cisco:network_assistant:5.6.3:*:*:*:*:*:*:*,Cisco Network Assistant 5.6.3,[''],2022-03-19T23:03Z
+6,cpe:2.3:a:cisco:network_assistant:5.7.0:*:*:*:*:*:*:*,Cisco Network Assistant 5.7.0,[''],2022-03-19T23:03Z
+7,cpe:2.3:a:cisco:network_assistant:5.7.1:*:*:*:*:*:*:*,Cisco Network Assistant 5.7.1,[''],2022-03-19T23:04Z
+8,cpe:2.3:a:cisco:network_assurance_engine:2.1\(1a\):*:*:*:*:*:*:*,Cisco Network assurance engine 2.1(1a) ,"['CVE-2018-5390', 'CVE-2021-44228']",2022-03-19T23:04Z
+9,cpe:2.3:a:cisco:network_assurance_engine:3.0\(1\):*:*:*:*:*:*:*,Cisco Network Assurance Engine (NAE) 3.0(1),"['CVE-2019-1688', 'CVE-2021-44228']",2022-03-19T23:04Z

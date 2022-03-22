@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:ip_phone_8811_firmware:12.6\(1\)mn80:*:*:*:*:*:*:*,Cisco IP Phone 8811 Firmware 12.6(1)MN80,"['CVE-2020-3111', 'CVE-2021-33478', 'CVE-2021-34711', 'CVE-2022-20660']",2022-03-19T22:39Z
+1,cpe:2.3:o:cisco:ip_phone_8811_firmware:12.6\(1\)sr1:*:*:*:*:*:*:*,Cisco IP Phone 8811 Firmware 12.6(1)SR1,"['CVE-2020-3111', 'CVE-2021-33478', 'CVE-2021-34711', 'CVE-2022-20660']",2022-03-19T22:39Z
+2,cpe:2.3:o:cisco:ip_phone_8811_firmware:12.7\(1\):*:*:*:*:*:*:*,Cisco IP Phone 8811 Firmware 12.7(1),"['CVE-2021-33478', 'CVE-2021-34711', 'CVE-2022-20660']",2022-03-19T22:39Z
+3,cpe:2.3:o:cisco:ip_phone_8811_with_multiplatform_firmware:11.0\(0\):*:*:*:*:*:*:*,Cisco IP Phone 8811 with Multiplatform Firmware 11.0(0),"['CVE-2020-3111', 'CVE-2021-33478']",2022-03-19T22:39Z
+4,cpe:2.3:o:cisco:ip_phone_8811_with_multiplatform_firmware:11.0\(1\):*:*:*:*:*:*:*,Cisco IP Phone 8811 with Multiplatform Firmware 11.0(1),"['CVE-2020-3111', 'CVE-2021-33478']",2022-03-19T22:39Z
+5,cpe:2.3:o:cisco:ip_phone_8811_with_multiplatform_firmware:11.0\(1\)sr1:*:*:*:*:*:*:*,Cisco IP Phone 8811 with Multiplatform Firmware 11.0(1)SR1,"['CVE-2020-3111', 'CVE-2021-33478']",2022-03-19T22:39Z
+6,cpe:2.3:o:cisco:ip_phone_8811_with_multiplatform_firmware:11.1\(1\):*:*:*:*:*:*:*,Cisco IP Phone 8811 with Multiplatform Firmware 11.1(1),"['CVE-2020-3111', 'CVE-2021-33478']",2022-03-19T22:39Z
+7,cpe:2.3:o:cisco:ip_phone_8811_with_multiplatform_firmware:11.1\(1\)sr1:*:*:*:*:*:*:*,Cisco IP Phone 8811 with Multiplatform Firmware 11.1(1)SR1,"['CVE-2020-3111', 'CVE-2021-33478']",2022-03-19T22:39Z
+8,cpe:2.3:o:cisco:ip_phone_8811_with_multiplatform_firmware:11.1\(1\)sr2:*:*:*:*:*:*:*,Cisco IP Phone 8811 with Multiplatform Firmware 11.1(1)SR2,"['CVE-2020-3111', 'CVE-2021-33478']",2022-03-19T22:39Z
+9,cpe:2.3:o:cisco:ip_phone_8811_with_multiplatform_firmware:11.1\(2\):*:*:*:*:*:*:*,Cisco IP Phone 8811 with Multiplatform Firmware 11.1(2),"['CVE-2020-3111', 'CVE-2021-33478']",2022-03-19T22:39Z

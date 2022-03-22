@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avaya:callback_assist:4.7.1.1:patch2:*:*:*:*:*:*,Avaya Callback Assist 4.7.1.1 Patch 2,['CVE-2020-7036'],2022-03-19T04:12Z
+1,cpe:2.3:a:avaya:callback_assist:4.7.1.1:patch3:*:*:*:*:*:*,Avaya Callback Assist 4.7.1.1 Patch 3,['CVE-2020-7036'],2022-03-19T04:12Z
+2,cpe:2.3:a:avaya:callback_assist:4.7.1.1:patch4:*:*:*:*:*:*,Avaya Callback Assist 4.7.1.1 Patch 4,['CVE-2020-7036'],2022-03-19T04:12Z
+3,cpe:2.3:a:avaya:callback_assist:4.7.1.1:patch5:*:*:*:*:*:*,Avaya Callback Assist 4.7.1.1 Patch 5,['CVE-2020-7036'],2022-03-19T04:12Z
+4,cpe:2.3:a:avaya:callback_assist:4.7.1.1:patch6:*:*:*:*:*:*,Avaya Callback Assist 4.7.1.1 Patch 6,['CVE-2020-7036'],2022-03-19T04:12Z
+5,cpe:2.3:a:avaya:callpilot:4.0.x:*:*:*:*:*:*:*,Avaya CallPilot 4.0.x,['CVE-2011-1229'],2022-03-19T04:13Z
+6,cpe:2.3:a:avaya:callpilot:5.0.x:*:*:*:*:*:*:*,Avaya CallPilot 5.0.x,['CVE-2011-1229'],2022-03-19T04:13Z
+7,cpe:2.3:a:avaya:callvisor_asai_lan:-:*:*:*:*:*:*:*,Avaya CallVisor ASAI LAN,['CVE-2011-1229'],2022-03-19T04:13Z
+8,cpe:2.3:a:avaya:communication_manager:-:*:*:*:*:*:*:*,Avaya Communication Manager,"['CVE-2007-1490', 'CVE-2008-6573']",2022-03-19T04:13Z
+9,cpe:2.3:a:avaya:communication_manager:1.1:*:*:*:*:*:*:*,Avaya Communication Manager 1.1,"['CVE-2004-1082', 'CVE-2007-1490', 'CVE-2008-6573']",2022-03-19T04:13Z

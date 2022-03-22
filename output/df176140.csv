@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:debian:advanced_package_tool:2.3.5:*:*:*:*:*:*:*,Debian Advanced Package Tool (APT) 2.3.5,['CVE-2011-3374'],2022-03-20T11:26Z
+1,cpe:2.3:a:debian:advanced_package_tool:2.3.6:*:*:*:*:*:*:*,Debian Advanced Package Tool (APT) 2.3.6,['CVE-2011-3374'],2022-03-20T11:26Z
+2,cpe:2.3:a:debian:amaya:-:*:*:*:*:*:*:*,Debian amaya,[''],2022-03-20T11:26Z
+3,cpe:2.3:a:debian:amaya:9.2.1.6:*:*:*:*:*:*:*,Debian amaya 9.2.1.6,['CVE-2005-4728'],2022-03-20T11:26Z
+4,cpe:2.3:a:debian:apache:-:*:*:*:*:*:*:*,Debian Apache,[''],2022-03-20T11:26Z
+5,cpe:2.3:a:debian:apache:1.3.34.4:*:*:*:*:*:*:*,Debian Apache 1.3.34.4,['CVE-2006-7098'],2022-03-20T11:26Z
+6,[0],[0],[0],[0]
+7,[0],[0],[0],[0]
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

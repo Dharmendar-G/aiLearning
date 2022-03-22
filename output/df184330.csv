@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:digi:portserver_ts_mei_hardened:-:*:*:*:*:*:*:*,Digi PortServer TS MEI Hardened,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:05Z
+1,cpe:2.3:o:digi:portserver_ts_mei_hardened_firmware:-:*:*:*:*:*:*:*,Digi PortServer TS MEI Hardened Firmware,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:05Z
+2,cpe:2.3:h:digi:portserver_ts_p_mei:-:*:*:*:*:*:*:*,Digi PortServer TS P MEI,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:05Z
+3,cpe:2.3:o:digi:portserver_ts_p_mei_firmware:-:*:*:*:*:*:*:*,Digi PortServer TS P MEI Firmware,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:05Z
+4,cpe:2.3:a:digi:realport:1.9-40:*:*:*:*:linux:*:*,Digi RealPort 1.9-40 for Linux,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:05Z
+5,cpe:2.3:a:digi:realport:4.8.488.0:*:*:*:*:windows:*:*,Digi RealPort 4.8.488.0 for Windows,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:05Z
+6,cpe:2.3:o:digi:saros:-:*:*:*:*:*:*:*,Digi SarOS,['CVE-2020-10136'],2022-03-20T14:05Z
+7,cpe:2.3:o:digi:saros:8.1.0.1:*:*:*:*:*:*:*,Digi SarOS 8.1.0.1,[''],2022-03-20T14:05Z
+8,cpe:2.3:h:digi:transport_dr64:-:*:*:*:*:*:*:*,Digi International TransPort DR64,"['CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188']",2022-03-20T14:05Z
+9,cpe:2.3:o:digi:transport_dr64_firmware:-:*:*:*:*:*:*:*,Digi International TransPort DR64 Firmware,"['CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188']",2022-03-20T14:05Z

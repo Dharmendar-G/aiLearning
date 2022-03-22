@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:3c17541:-:*:*:*:*:*:*:*,HP 3C17541,['CVE-2012-3268'],2022-03-21T12:48Z
+1,cpe:2.3:h:hp:3c17541taa:-:*:*:*:*:*:*:*,HP 3C17541TAA,['CVE-2012-3268'],2022-03-21T12:48Z
+2,cpe:2.3:h:hp:3c17543:-:*:*:*:*:*:*:*,HP 3C17543,['CVE-2012-3268'],2022-03-21T12:48Z
+3,cpe:2.3:h:hp:3c17543taa:-:*:*:*:*:*:*:*,HP 3C17543TAA,['CVE-2012-3268'],2022-03-21T12:48Z
+4,cpe:2.3:h:hp:3com_baseline_plus_switch:2900:*:*:*:*:*:*:*,HP 3Com Baseline Plus Switch 2900,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+5,cpe:2.3:h:hp:3com_baseline_plus_switch:2900g:*:*:*:*:*:*:*,HP 3Com Baseline Plus Switch 2900G,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+6,cpe:2.3:h:hp:3com_baseline_plus_switch:2900g-28hpwr:*:*:*:*:*:*:*,HP 3Com Baseline Plus Switch 2900G-28HPWR,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+7,cpe:2.3:h:hp:3com_baseline_plus_switch:2900g-28pwr:*:*:*:*:*:*:*,HP 3Com Baseline Plus Switch 2900G-28PWR,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+8,cpe:2.3:o:hp:3com_officeconnect_gigabit_vpn_firewall_software:1.0.8:*:*:*:*:*:*:*,HP 3Com OfficeConnect Gigabit VPN Firewall Software 1.0.8,['CVE-2010-3010'],2022-03-21T12:49Z
+9,cpe:2.3:o:hp:3com_officeconnect_gigabit_vpn_firewall_software:1.0.12:*:*:*:*:*:*:*,HP 3Com OfficeConnect Gigabit VPN Firewall Software 1.0.12,['CVE-2010-3010'],2022-03-21T12:49Z

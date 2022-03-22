@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:finesse:12.5\(1\):es4:*:*:*:*:*:*,Cisco Finesse 12.5(1) ES4,"['CVE-2019-12632', 'CVE-2019-15278', 'CVE-2021-1245', 'CVE-2021-1246', 'CVE-2021-1254', 'CVE-2021-1358', 'CVE-2021-44228']",2022-03-19T19:33Z
+1,cpe:2.3:a:cisco:finesse:12.6\(1\):*:*:*:*:*:*:*,Cisco Finesse 12.6(1),"['CVE-2021-1358', 'CVE-2021-44228']",2022-03-19T19:33Z
+2,cpe:2.3:a:cisco:fireamp_connector_endpoint_software:4.4.0:*:*:*:*:*:*:*,Cisco FireAMP Connector Endpoint Software 4.4.0,['CVE-2016-6449'],2022-03-19T19:33Z
+3,cpe:2.3:a:cisco:fireamp_connector_endpoint_software:4.4.2.10200:*:*:*:*:*:*:*,Cisco FireAMP Connector Endpoint Software 4.4.2.10200,['CVE-2016-6449'],2022-03-19T19:33Z
+4,cpe:2.3:a:cisco:firepower:5.4.0.1:*:*:*:*:*:*:*,Cisco FirePOWER 5.4.0.1,['CVE-2015-6307'],2022-03-19T19:33Z
+5,cpe:2.3:a:cisco:firepower:6.2.1:*:*:*:*:*:*:*,Cisco Firepower 6.2.1,['CVE-2018-0272'],2022-03-19T19:33Z
+6,cpe:2.3:a:cisco:firepower:6.2.2.1:*:*:*:*:*:*:*,Cisco Firepower 6.2.2.1,['CVE-2018-0272'],2022-03-19T19:33Z
+7,cpe:2.3:a:cisco:firepower:6.2.3.1:*:*:*:*:*:*:*,Cisco Firepower 6.2.3.1,"['CVE-2019-12696', 'CVE-2019-12697']",2022-03-19T19:33Z
+8,cpe:2.3:a:cisco:firepower:6.2.3.7:*:*:*:*:*:*:*,Cisco Firepower 6.2.3.7,"['CVE-2019-12696', 'CVE-2019-12697']",2022-03-19T19:33Z
+9,cpe:2.3:a:cisco:firepower:6.3.0:*:*:*:*:*:*:*,Cisco Firepower 6.3.0,"['CVE-2019-12696', 'CVE-2019-12697']",2022-03-19T19:33Z

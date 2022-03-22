@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:add_link_to_facebook_project:add_link_to_facebook:2.2.9:*:*:*:*:wordpress:*:*,Add Link to Facebook Project Add Link to Facebook 2.2.9 for WordPress,['CVE-2018-5214'],2022-03-18T11:47Z
+1,cpe:2.3:a:add_link_to_facebook_project:add_link_to_facebook:2.2.10:*:*:*:*:wordpress:*:*,Add Link to Facebook Project Add Link to Facebook 2.2.10 for WordPress,['CVE-2018-5214'],2022-03-18T11:47Z
+2,cpe:2.3:a:add_link_to_facebook_project:add_link_to_facebook:2.3:*:*:*:*:wordpress:*:*,Add Link to Facebook Project Add Link to Facebook 2.3 for WordPress,['CVE-2018-5214'],2022-03-18T11:47Z
+3,cpe:2.3:a:add_sidebar_project:add_sidebar:-:*:*:*:*:wordpress:*:*,Add Sidebar Project Add Sidebar for WordPress,['CVE-2021-34666'],2022-03-18T11:47Z
+4,cpe:2.3:a:add_sidebar_project:add_sidebar:1.0.0:*:*:*:*:wordpress:*:*,Add Sidebar Project Add Sidebar 1.0.0 for WordPress,['CVE-2021-34666'],2022-03-18T11:47Z
+5,cpe:2.3:a:add_sidebar_project:add_sidebar:2.0.0:*:*:*:*:wordpress:*:*,Add Sidebar Project Add Sidebar 2.0.0 for Wordpress,['CVE-2021-34666'],2022-03-18T11:48Z
+6,cpe:2.3:a:add-edit-delete-listing-for-member-module_project:add-edit-delete-listing-for-member-module:1.0:*:*:*:*:wordpress:*:*,Add Edit Delete and Listing Module Project Add Edit Delete and Listing Module 1.0 for WordPress,['CVE-2017-1002025'],2022-03-18T11:48Z
+7,cpe:2.3:a:add-in-express:duplicate_remover_for_microsoft_excel:2.5.0:*:*:*:*:*:*:*,Add-in-express Duplicate Remover For Microsoft Excel 2.5.0,[''],2022-03-18T11:48Z
+8,cpe:2.3:a:addisgag:addis_gag_funny_amharic_pic:0.1:*:*:*:*:android:*:*,addisgag Addis Gag Funny Amharic Pic (aka com.wAmharicFunnyPicture) for Android 0.1,['CVE-2014-6663'],2022-03-18T11:48Z
+9,cpe:2.3:a:address_visualization_with_google_maps_project:address_visualization_with_google_maps:-:*:*:*:*:typo3:*:*,Address Visualization With Google Maps Project Address Visualization With Google Maps for TYPO3,['CVE-2014-6239'],2022-03-18T11:48Z

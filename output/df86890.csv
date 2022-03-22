@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bradynationalbank:bnb_mobile_banking:2.0.1:*:*:*:*:iphone_os:*:*,Brady National Bank BNB Mobile Banking 2.0.1 for iPhone OS,[''],2022-03-19T10:25Z
+1,cpe:2.3:a:bradynationalbank:bnb_mobile_banking:3.0.0:*:*:*:*:iphone_os:*:*,Brady National Bank BNB Mobile Banking 3.0.0 for iPhone OS,['CVE-2017-9582'],2022-03-19T10:25Z
+2,cpe:2.3:a:bradynationalbank:bnb_mobile_banking:4.2.0:*:*:*:*:iphone_os:*:*,Brady National Bank BNB Mobile Banking 4.2.0 for iPhone OS,[''],2022-03-19T10:25Z
+3,cpe:2.3:a:bradynationalbank:bnb_mobile_banking:4.5.1:*:*:*:*:iphone_os:*:*,Brady National Bank BNB Mobile Banking 4.5.1 for iPhone OS,[''],2022-03-19T10:25Z
+4,cpe:2.3:a:brafton:brafton:-:*:*:*:*:wordpress:*:*,Brafton for WordPress,['CVE-2016-10973'],2022-03-19T10:25Z
+5,cpe:2.3:a:brafton:brafton:3.3.3:*:*:*:*:wordpress:*:*,Brafton 3.3.3 for WordPress,['CVE-2016-10973'],2022-03-19T10:25Z
+6,cpe:2.3:a:brafton:brafton:3.3.10:*:*:*:*:wordpress:*:*,Brafton 3.3.10 for WordPress,['CVE-2016-10973'],2022-03-19T10:25Z
+7,cpe:2.3:a:brafton:brafton:3.4.2:*:*:*:*:wordpress:*:*,Brafton 3.4.2 for WordPress,['CVE-2016-10973'],2022-03-19T10:25Z
+8,cpe:2.3:a:brafton:brafton:3.4.3:*:*:*:*:wordpress:*:*,Brafton 3.4.3 for WordPress,['CVE-2016-10973'],2022-03-19T10:25Z
+9,cpe:2.3:a:brafton:brafton:3.4.4:*:*:*:*:wordpress:*:*,Brafton 3.4.4 for WordPress,['CVE-2016-10973'],2022-03-19T10:26Z

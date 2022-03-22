@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dearhive:dearflip:1.7.3:*:*:*:*:wordpress:*:*,DearHive DearFlip 1.7.3 for WordPress,['CVE-2021-24732'],2022-03-20T11:17Z
+1,cpe:2.3:a:dearhive:dearflip:1.7.4:*:*:*:*:wordpress:*:*,DearHive DearFlip 1.7.4 for WordPress,['CVE-2021-24732'],2022-03-20T11:17Z
+2,cpe:2.3:a:dearhive:dearflip:1.7.5:*:*:*:*:wordpress:*:*,DearHive DearFlip 1.7.5 for WordPress,['CVE-2021-24732'],2022-03-20T11:17Z
+3,cpe:2.3:a:dearhive:dearflip:1.7.6:*:*:*:*:wordpress:*:*,DearHive DearFlip 1.7.6 for WordPress,['CVE-2021-24732'],2022-03-20T11:17Z
+4,cpe:2.3:a:dearhive:dearflip:1.7.9:*:*:*:*:wordpress:*:*,DearHive DearFlip 1.7.9 for WordPress,['CVE-2021-24732'],2022-03-20T11:17Z
+5,cpe:2.3:a:dearhive:dearflip:1.7.10:*:*:*:*:wordpress:*:*,DearHive DearFlip 1.7.10 for WordPress,[''],2022-03-20T11:17Z
+6,cpe:2.3:a:dearhive:dearflip:1.7.13:*:*:*:*:wordpress:*:*,DearHive DearFlip 1.7.13 for WordPress,[''],2022-03-20T11:17Z
+7,[0],[0],[0],[0]
+8,cpe:2.3:a:debian:adequate:0.1:*:*:*:*:*:*:*,Debian adequate 0.1,['CVE-2013-6409'],2022-03-20T11:17Z
+9,cpe:2.3:a:debian:adequate:0.1.1:*:*:*:*:*:*:*,Debian adequate 0.1.1,['CVE-2013-6409'],2022-03-20T11:17Z

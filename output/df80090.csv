@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:blackbox:alertwerks_servsensor_eme110a-r2:-:*:*:*:*:*:*:*,Blackbox Alertwerks Servsensor Eme110a-r2 -,[''],2022-03-19T08:39Z
+1,cpe:2.3:o:blackbox:alertwerks_servsensor_firmware:-:*:*:*:*:*:*:*,Black Box AlertWerks ServSensor Firmware,['CVE-2016-2311'],2022-03-19T08:39Z
+2,cpe:2.3:h:blackbox:alertwerks_servsensor_junior_eme102a-r2:-:*:*:*:*:*:*:*,Black Box AlertWerks ServSensor Junior EME102A-R2,['CVE-2016-2311'],2022-03-19T08:39Z
+3,cpe:2.3:h:blackbox:alertwerks_servsensor_junior_eme103a-r2:-:*:*:*:*:*:*:*,Black Box AlertWerks ServSensor Junior EME103A-R2,['CVE-2016-2311'],2022-03-19T08:39Z
+4,cpe:2.3:h:blackbox:alertwerks_servsensor_junior_eme104a-r2:-:*:*:*:*:*:*:*,Black Box AlertWerks ServSensor Junior EME104A-R2,['CVE-2016-2311'],2022-03-19T08:39Z
+5,cpe:2.3:h:blackbox:alertwerks_servsensor_junior_eme152a:-:*:*:*:poe:*:*:*,Black Box AlertWerks ServSensor Junior EME152A with PoE,['CVE-2016-2311'],2022-03-19T08:39Z
+6,cpe:2.3:h:blackbox:alertwerks_servsensor_junior_eme153a:-:*:*:*:poe:*:*:*,Black Box AlertWerks ServSensor Junior EME153A with PoE,['CVE-2016-2311'],2022-03-19T08:39Z
+7,cpe:2.3:h:blackbox:alertwerks_servsensor_junior_eme154a:-:*:*:*:poe:*:*:*,Black Box AlertWerks ServSensor Junior EME154A with PoE,['CVE-2016-2311'],2022-03-19T08:39Z
+8,cpe:2.3:h:blackbox:alertwerks_servsensor_junior_eme155a:-:*:*:*:poe:*:*:*,Black Box AlertWerks ServSensor Junior EME155A with PoE,['CVE-2016-2311'],2022-03-19T08:39Z
+9,cpe:2.3:h:blackbox:alertwerks_servsensor_junior_eme158a:-:*:*:*:poe:*:*:*,Black Box AlertWerks ServSensor Junior EME158A with PoE,['CVE-2016-2311'],2022-03-19T08:39Z

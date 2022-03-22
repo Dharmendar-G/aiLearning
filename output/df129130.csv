@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:license_manager:3.1:*:*:*:*:*:*:*,Cisco License Manager 3.1,[''],2022-03-19T22:50Z
+1,cpe:2.3:a:cisco:license_manager:3.1.1:*:*:*:*:*:*:*,Cisco License Manager 3.1.1,[''],2022-03-19T22:50Z
+2,cpe:2.3:a:cisco:license_manager:3.2:*:*:*:*:*:*:*,Cisco License Manager 3.2,[''],2022-03-19T22:50Z
+3,cpe:2.3:a:cisco:license_manager:3.2.1:*:*:*:*:*:*:*,Cisco License Manager 3.2.1,[''],2022-03-19T22:50Z
+4,cpe:2.3:a:cisco:license_manager:3.2.2:*:*:*:*:*:*:*,Cisco License Manager 3.2.2,[''],2022-03-19T22:50Z
+5,cpe:2.3:a:cisco:license_manager:3.2.3:*:*:*:*:*:*:*,Cisco License Manager 3.2.3,[''],2022-03-19T22:50Z
+6,cpe:2.3:a:cisco:license_manager:3.2.4:*:*:*:*:*:*:*,Cisco License Manager 3.2.4,[''],2022-03-19T22:50Z
+7,cpe:2.3:a:cisco:license_manager:3.2.5:*:*:*:*:*:*:*,Cisco License Manager 3.2.5,[''],2022-03-19T22:50Z
+8,cpe:2.3:a:cisco:license_manager:3.2.6:*:*:*:*:*:*:*,Cisco License Manager 3.2.6,['CVE-2017-12263'],2022-03-19T22:50Z
+9,cpe:2.3:o:cisco:link_layer_discovery_protocol:3.2\(3d\)c:*:*:*:*:*:*:*,Cisco Link Layer Discovery Protocol (LLDP) 3.2(3d)c,[''],2022-03-19T22:50Z

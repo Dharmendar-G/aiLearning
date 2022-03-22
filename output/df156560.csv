@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:colossusxt:colossuscoinxt:2.1.4.0:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 2.1.4.0,[''],2022-03-20T06:46Z
+1,cpe:2.3:a:colossusxt:colossuscoinxt:2.1.5:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 2.1.5,[''],2022-03-20T06:46Z
+2,cpe:2.3:a:colossusxt:colossuscoinxt:2.1.6:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 2.1.6,[''],2022-03-20T06:46Z
+3,cpe:2.3:a:colossusxt:colossuscoinxt:2.1.7:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 2.1.7,[''],2022-03-20T06:46Z
+4,cpe:2.3:a:colossusxt:colossuscoinxt:2.2.0:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 2.2.0,[''],2022-03-20T06:46Z
+5,cpe:2.3:a:colossusxt:colossuscoinxt:2.2.1:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 2.2.1,[''],2022-03-20T06:46Z
+6,cpe:2.3:a:colossusxt:colossuscoinxt:2.3.0:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 2.3.0,[''],2022-03-20T06:46Z
+7,cpe:2.3:h:columbiaweather:weather_microserver:-:*:*:*:*:*:*:*,Columbia Weather Systems Weather MicroServer,"['CVE-2018-18875', 'CVE-2018-18876', 'CVE-2018-18877', 'CVE-2018-18878', 'CVE-2018-18879', 'CVE-2018-18880']",2022-03-20T06:46Z
+8,cpe:2.3:o:columbiaweather:weather_microserver_firmware:ms_2.6.9900:*:*:*:*:*:*:*,Columbia Weather Weather MicroServer Firmware MS 2.6.9900,"['CVE-2018-18875', 'CVE-2018-18876', 'CVE-2018-18877', 'CVE-2018-18878', 'CVE-2018-18879', 'CVE-2018-18880']",2022-03-20T06:46Z
+9,cpe:2.3:a:columnar_project:columnar:-:*:*:*:*:rust:*:*,columnar Project columnar for Rust,['CVE-2021-45685'],2022-03-20T06:46Z

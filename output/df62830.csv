@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:autohotkey:autohotkey:1.1.33.09:*:*:*:*:*:*:*,AutoHotkey 1.1.33.09,[''],2022-03-19T03:33Z
+1,cpe:2.3:a:autoit:autoit:3.3.0.0:*:*:*:*:*:*:*,Autoit 3.3.0.0,[''],2022-03-19T03:33Z
+2,cpe:2.3:a:autojump_project:autojump:1.0:*:*:*:*:*:*:*,autojump Project autojump 1.0,['CVE-2013-2012'],2022-03-19T03:33Z
+3,cpe:2.3:a:autojump_project:autojump:2.0:*:*:*:*:*:*:*,autojump Project autojump 2.0,['CVE-2013-2012'],2022-03-19T03:33Z
+4,cpe:2.3:a:autojump_project:autojump:3.0:*:*:*:*:*:*:*,autojump Project autojump 3.0,['CVE-2013-2012'],2022-03-19T03:33Z
+5,cpe:2.3:a:autojump_project:autojump:4.0:*:*:*:*:*:*:*,autojump Project autojump 4.0,['CVE-2013-2012'],2022-03-19T03:33Z
+6,cpe:2.3:a:autojump_project:autojump:5.0:*:*:*:*:*:*:*,autojump Project autojump 5.0,['CVE-2013-2012'],2022-03-19T03:33Z
+7,cpe:2.3:a:autojump_project:autojump:6.0:*:*:*:*:*:*:*,autojump Project autojump 6.0,['CVE-2013-2012'],2022-03-19T03:33Z
+8,cpe:2.3:a:autojump_project:autojump:7.0:*:*:*:*:*:*:*,autojump Project autojump 7.0,['CVE-2013-2012'],2022-03-19T03:33Z
+9,cpe:2.3:a:autojump_project:autojump:8.0:*:*:*:*:*:*:*,autojump Project autojump 8.0,['CVE-2013-2012'],2022-03-19T03:33Z

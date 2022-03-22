@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:amd:radeon_rx_550:-:*:*:*:*:*:*:*,AMD Radeon RX 550,"['CVE-2019-5049', 'CVE-2019-5098']",2022-03-18T16:08Z
+1,cpe:2.3:o:amd:radeon_rx_550_firmware:25.20.15031.5004:*:*:*:*:*:*:*,AMD Radeon RX 550 Firmware 25.20.15031.5004,['CVE-2019-5049'],2022-03-18T16:08Z
+2,cpe:2.3:o:amd:radeon_rx_550_firmware:25.20.15031.9002:*:*:*:*:*:*:*,AMD Radeon RX 550 Firmware 25.20.15031.9002,['CVE-2019-5049'],2022-03-18T16:08Z
+3,cpe:2.3:o:amd:radeon_rx_550_firmware:26.20.13001.29010:*:*:*:*:*:*:*,AMD Radeon RX 550 Firmware 26.20.13001.29010,['CVE-2019-5098'],2022-03-18T16:08Z
+4,cpe:2.3:h:amd:radeon_rx_550x:-:*:*:*:*:*:*:*,Amd Radeon RX 550X,['CVE-2019-5049'],2022-03-18T16:09Z
+5,cpe:2.3:o:amd:radeon_rx_550x_firmware:25.20.15031.5004:*:*:*:*:*:*:*,AMD Radeon RX 550X Firmware 25.20.15031.5004,['CVE-2019-5049'],2022-03-18T16:08Z
+6,cpe:2.3:o:amd:radeon_rx_550x_firmware:25.20.15031.9002:*:*:*:*:*:*:*,AMD Radeon RX 550X Firmware 25.20.15031.9002,['CVE-2019-5049'],2022-03-18T16:09Z
+7,cpe:2.3:a:amd:radeon_software:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Radeon Software,"['CVE-2020-12891', 'CVE-2020-12892', 'CVE-2020-12893', 'CVE-2020-12894', 'CVE-2020-12895', 'CVE-2020-12897', 'CVE-2020-12898', 'CVE-2020-12899', 'CVE-2020-12900', 'CVE-2020-12901', 'CVE-2020-12902', 'CVE-2020-12903', 'CVE-2020-12904', 'CVE-2020-12905', 'CVE-2020-12920', 'CVE-2020-12929', 'CVE-2020-12960', 'CVE-2020-12962', 'CVE-2020-12963', 'CVE-2020-12964', 'CVE-2020-12980', 'CVE-2020-12981', 'CVE-2020-12982', 'CVE-2020-12983', 'CVE-2020-12985', 'CVE-2020-12986', 'CVE-2020-12987']",2022-03-18T16:09Z
+8,cpe:2.3:a:amd:radeon_software:20.7.1:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Radeon Software 20.7.1,"['CVE-2020-12891', 'CVE-2020-12892', 'CVE-2020-12893', 'CVE-2020-12895', 'CVE-2020-12897', 'CVE-2020-12898', 'CVE-2020-12899', 'CVE-2020-12902', 'CVE-2020-12903', 'CVE-2020-12904', 'CVE-2020-12905', 'CVE-2020-12920', 'CVE-2020-12929', 'CVE-2020-12960', 'CVE-2020-12962', 'CVE-2020-12963']",2022-03-18T16:09Z
+9,cpe:2.3:a:amd:radeon_software:20.11.2:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Radeon Software 20.11.2,"['CVE-2020-12891', 'CVE-2020-12892', 'CVE-2020-12897', 'CVE-2020-12960']",2022-03-18T16:09Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:doom_vanille_project:doom_vanille:668:*:*:*:*:*:*:*,Doom Vanille Project Doom Vanille 668,['CVE-2020-15007'],2022-03-20T17:10Z
+1,cpe:2.3:a:doom_vanille_project:doom_vanille:669:*:*:*:*:*:*:*,Doom Vanille Project Doom Vanille 669,['CVE-2020-15007'],2022-03-20T17:10Z
+2,cpe:2.3:a:doom_vanille_project:doom_vanille:670:*:*:*:*:*:*:*,Doom Vanille Project Doom Vanille 670,['CVE-2020-15007'],2022-03-20T17:10Z
+3,cpe:2.3:a:doom_vanille_project:doom_vanille:671:*:*:*:*:*:*:*,Doom Vanille Project Doom Vanille 671,[''],2022-03-20T17:10Z
+4,cpe:2.3:a:doordash:doordash:-:*:*:*:*:android:*:*,DoorDash for Android,['CVE-2019-17397'],2022-03-20T17:10Z
+5,cpe:2.3:a:doordash:doordash:11.0.2:*:*:*:*:android:*:*,DoorDash 11.0.2 for Android,['CVE-2019-17397'],2022-03-20T17:10Z
+6,cpe:2.3:a:doordash:doordash:11.5.2:*:*:*:*:android:*:*,DoorDash 11.5.2 for Android,['CVE-2019-17397'],2022-03-20T17:10Z
+7,cpe:2.3:a:doorgets:doorgets:7.0:*:*:*:*:*:*:*,doorGets 7.0,"['CVE-2018-11126', 'CVE-2018-20064']",2022-03-20T17:10Z
+8,cpe:2.3:a:doorgets:doorgets_cms:7.0:*:*:*:*:*:*:*,DoorGets CMS 7.0,"['CVE-2019-11606', 'CVE-2019-11607', 'CVE-2019-11608', 'CVE-2019-11609', 'CVE-2019-11610', 'CVE-2019-11611', 'CVE-2019-11612', 'CVE-2019-11613', 'CVE-2019-11614', 'CVE-2019-11615', 'CVE-2019-11616', 'CVE-2019-11617', 'CVE-2019-11618', 'CVE-2019-11619', 'CVE-2019-11620', 'CVE-2019-11621', 'CVE-2019-11622', 'CVE-2019-11623', 'CVE-2019-11624', 'CVE-2019-11625', 'CVE-2019-11626']",2022-03-20T17:10Z
+9,cpe:2.3:a:doorkeeper_project:doorkeeper:0.1.0:*:*:*:*:ruby:*:*,Doorkeeper Project Doorkeeper 0.1.0 for Ruby,"['CVE-2014-8144', 'CVE-2016-6582', 'CVE-2018-1000211']",2022-03-20T17:10Z

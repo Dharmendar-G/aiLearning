@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:lenovo_tianyi_310-15ikb_firmware:-:*:*:*:*:*:*:*,HP Lenovo TianYi 310-15IKB Firmware,['CVE-2018-9069'],2022-03-21T15:19Z
+1,cpe:2.3:h:hp:lenovo_v720-14:-:*:*:*:*:*:*:*,HP Lenovo V720-14,['CVE-2018-9069'],2022-03-21T15:19Z
+2,cpe:2.3:o:hp:lenovo_v720-14_firmware:-:*:*:*:*:*:*:*,HP Lenovo V720-14 Firmware,['CVE-2018-9069'],2022-03-21T15:19Z
+3,cpe:2.3:o:hp:lenovo_v720-14_firmware:2.12:*:*:*:*:*:*:*,HP Lenovo V720-14 Firmware 2.12,[''],2022-03-21T15:19Z
+4,cpe:2.3:h:hp:lenovo_y520-15ikba:-:*:*:*:*:*:*:*,HP Lenovo Y520-15IKBA,['CVE-2018-9069'],2022-03-21T15:19Z
+5,cpe:2.3:o:hp:lenovo_y520-15ikba_firmware:-:*:*:*:*:*:*:*,HP Lenovo Y520-15IKBA Firmware,['CVE-2018-9069'],2022-03-21T15:19Z
+6,cpe:2.3:o:hp:lenovo_y520-15ikba_firmware:5jcn25ww:*:*:*:*:*:*:*,HP Lenovo Y520-15IKBA Firmware 5JCN25WW,[''],2022-03-21T15:19Z
+7,cpe:2.3:h:hp:lenovo_y520-15ikbm:-:*:*:*:*:*:*:*,HP Lenovo Y520-15IKBM,['CVE-2018-9069'],2022-03-21T15:19Z
+8,cpe:2.3:o:hp:lenovo_y520-15ikbm_firmware:-:*:*:*:*:*:*:*,HP Lenovo Y520-15IKBM Firmware,['CVE-2018-9069'],2022-03-21T15:19Z
+9,cpe:2.3:o:hp:lenovo_y520-15ikbm_firmware:5jcn25ww:*:*:*:*:*:*:*,HP Lenovo Y520-15IKBM Firmware 5JCN25WW,[''],2022-03-21T15:19Z

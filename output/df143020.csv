@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,"cpe:2.3:a:cleantalk:spam_protection\,_antispam\,_firewall:5.159.5:*:*:*:*:wordpress:*:*","CleanTalk Spam Protection, Antispam, Firewall 5.159.5 for WordPress",[''],2022-03-20T02:20Z
+1,"cpe:2.3:a:cleantalk:spam_protection\,_antispam\,_firewall:5.159.6:*:*:*:*:wordpress:*:*","CleanTalk Spam Protection, Antispam, Firewall 5.159.6 for WordPress",[''],2022-03-20T02:20Z
+2,"cpe:2.3:a:cleantalk:spam_protection\,_antispam\,_firewall:5.159.7:*:*:*:*:wordpress:*:*","CleanTalk Spam Protection, Antispam, Firewall 5.159.7 for WordPress",[''],2022-03-20T02:20Z
+3,"cpe:2.3:a:cleantalk:spam_protection\,_antispam\,_firewall:5.159.8:*:*:*:*:wordpress:*:*","CleanTalk Spam Protection, Antispam, Firewall 5.159.8 for WordPress",[''],2022-03-20T02:20Z
+4,"cpe:2.3:a:cleantalk:spam_protection\,_antispam\,_firewall:5.159.9:*:*:*:*:wordpress:*:*","CleanTalk Spam Protection, Antispam, Firewall 5.159.9 for WordPress",[''],2022-03-20T02:20Z
+5,[0],[0],[0],[0]
+6,cpe:2.3:a:clearfishing:pesca_de_carpa_lite:1.0:*:*:*:*:android:*:*,clearfishing Pesca de Carpa Lite (aka com.clearfishing.pescadecarpa.lite) for Android 1.0,['CVE-2014-6720'],2022-03-20T02:20Z
+7,cpe:2.3:a:clearfishing:pescuit_crap_lite:1:*:*:*:*:android:*:*,clearfishing Pescuit Crap Lite (aka ro.aventurilapescui.pescuitcrap.lite) for android 1.0,['CVE-2014-6722'],2022-03-20T02:20Z
+8,cpe:2.3:a:clearone:converge_console:5.2:*:*:*:*:*:*:*,Clearone Converge Console 5.2,[''],2022-03-20T02:20Z
+9,cpe:2.3:a:clearone:converge_console:5.3:*:*:*:*:*:*:*,Clearone Converge Console 5.3,[''],2022-03-20T02:20Z

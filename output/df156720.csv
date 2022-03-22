@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:comicsmart:ganma\!:3.2.3:*:*:*:*:iphone_os:*:*,Comics Mart Ganma! 3.2.3 iPhone OS,[''],2022-03-20T06:49Z
+1,cpe:2.3:a:comicsmart:ganma\!:3.2.4:*:*:*:*:iphone_os:*:*,Comics Mart Ganma! 3.2.4 iPhone OS,[''],2022-03-20T06:49Z
+2,cpe:2.3:a:comicsplusapp:comics_plus:1.06:*:*:*:*:android:*:*,comicsplusapp Comics Plus (aka com.iversecomics.comicsplus.android) for android 1.06,['CVE-2014-6723'],2022-03-20T06:49Z
+3,cpe:2.3:a:commax:cdp-1020mb_firmware:2019.12.30:*:*:*:*:*:*:*,Commax CDP-1020MB Firmware 2019.12.30,['CVE-2019-19163'],2022-03-20T06:49Z
+4,cpe:2.3:a:commdevices:distributed_database_manager-odbc:4.21.5:*:*:*:*:*:*:*,Commdevices Distributed Database Manager-odbc 4.21.5,[''],2022-03-20T06:49Z
+5,cpe:2.3:a:commdevices:distributed_database_manager-odbc:4.22.0:*:*:*:*:*:*:*,Commdevices Distributed Database Manager-odbc 4.22.0,[''],2022-03-20T06:49Z
+6,cpe:2.3:a:commdevices:distributed_database_manager-odbc:4.27.1:*:*:*:*:*:*:*,Commdevices Distributed Database Manager-odbc 4.27.1,[''],2022-03-20T06:49Z
+7,cpe:2.3:a:commdevices:secure_session_manager:4.22.0:*:*:*:*:*:*:*,Commdevices Secure Session Manager 4.22.0,[''],2022-03-20T06:49Z
+8,cpe:2.3:a:comment_highlighter_project:comment_highlighter:0.13:*:*:*:*:wordpress:*:*,Comment Highlighter Project Comment Highlighter 0.13 for WordPress,['CVE-2021-24393'],2022-03-20T06:49Z
+9,cpe:2.3:a:comment_project:comment:1.1:*:*:*:*:munkireport:*:*,Comment Project Comment 1.1 for MunkiReport,[''],2022-03-20T06:49Z

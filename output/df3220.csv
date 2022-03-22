@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:9bis:kitty:0.66.6.3:*:*:*:*:windows:*:*,9bis KiTTY 0.66.6.3 for Windows,['CVE-2016-2563'],2022-03-18T10:17Z
+1,cpe:2.3:a:9bis:kitty:0.66.6.3:*:*:*:*:windows:*:*,9bis KiTTY 0.66.6.3 for Windows,['CVE-2016-2563'],2022-03-18T10:18Z
+2,cpe:2.3:a:9bis:kitty:0.70.0.9:*:*:*:*:windows:*:*,9bis KiTTY 0.70.0.9 for Windows,[''],2022-03-18T10:17Z
+3,cpe:2.3:a:9bis:kitty:0.71.0.1:*:*:*:*:windows:*:*,9bis KiTTY 0.71.0.1 for Windows,[''],2022-03-18T10:18Z
+4,cpe:2.3:a:9bis:kitty:0.71.0.2:*:*:*:*:windows:*:*,9bis KiTTY 0.71.0.2 for Windows,[''],2022-03-18T10:18Z
+5,cpe:2.3:a:9bis:kitty:0.71.0.3:*:*:*:*:windows:*:*,9bis KiTTY 0.71.0.3 for Windows,[''],2022-03-18T10:18Z
+6,cpe:2.3:a:9bis:kitty:0.71.0.4:*:*:*:*:windows:*:*,9bis KiTTY 0.71.0.4 for Windows,[''],2022-03-18T10:18Z
+7,cpe:2.3:a:9bis:kitty:0.71.0.5:*:*:*:*:windows:*:*,9bis KiTTY 0.71.0.5 for Windows,[''],2022-03-18T10:18Z
+8,cpe:2.3:a:9bis:kitty:0.71.0.6:*:*:*:*:windows:*:*,9bis KiTTY 0.71.0.6 for Windows,[''],2022-03-18T10:18Z
+9,cpe:2.3:a:9bis:kitty:0.71.0.7:*:*:*:*:windows:*:*,9bis KiTTY 0.71.0.7 for Windows,[''],2022-03-18T10:18Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:conva:fathom_analytics:3.0.2:*:*:*:*:wordpress:*:*,Conva Ventures Fathom Analytics 3.0.2 for WordPress,['CVE-2021-41836'],2022-03-20T07:50Z
+1,cpe:2.3:a:conva:fathom_analytics:3.0.3:*:*:*:*:wordpress:*:*,Conva Ventures Fathom Analytics 3.0.3 for WordPress,['CVE-2021-41836'],2022-03-20T07:50Z
+2,cpe:2.3:a:conva:fathom_analytics:3.0.4:*:*:*:*:wordpress:*:*,Conva Ventures Fathom Analytics 3.0.4 for WordPress,['CVE-2021-41836'],2022-03-20T07:50Z
+3,cpe:2.3:a:conva:fathom_analytics:3.0.5:*:*:*:*:wordpress:*:*,Conva Ventures Fathom Analytics 3.0.5 for WordPress,[''],2022-03-20T07:50Z
+4,cpe:2.3:a:convergine:file_king_advanced_file_management:1.4:*:*:*:*:*:*:*,Convergine File King Advanced File Management 1.4,['CVE-2012-6040'],2022-03-20T07:50Z
+5,cpe:2.3:a:conversador_project:conversador:2.61:*:*:*:*:wordpress:*:*,Conversador Project Conversador 2.61 for WordPress,['CVE-2014-4519'],2022-03-20T07:50Z
+6,cpe:2.3:a:conversations:conversations:0.1:rc1:*:*:*:*:*:*,Conversations 0.1 Release Candidate 1,[''],2022-03-20T07:50Z
+7,cpe:2.3:a:conversations:conversations:0.1:-:*:*:*:*:*:*,Conversations 0.1,[''],2022-03-20T07:50Z
+8,cpe:2.3:a:conversations:conversations:0.1:rc1:*:*:*:*:*:*,Conversations 0.1 Release Candidate 1,[''],2022-03-20T07:50Z
+9,cpe:2.3:a:conversations:conversations:0.1:rc2:*:*:*:*:*:*,Conversations 0.1 Release Candidate 2,[''],2022-03-20T07:50Z

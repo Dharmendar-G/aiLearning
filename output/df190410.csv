@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:d-link:dir-816_a2:-:*:*:*:*:*:*:*,D-Link DIR-816 A2,"['CVE-2018-11013', 'CVE-2018-17063', 'CVE-2018-17064', 'CVE-2018-17065', 'CVE-2018-17066', 'CVE-2018-17067', 'CVE-2018-17068', 'CVE-2018-20305']",2022-03-20T16:02Z
+1,cpe:2.3:o:d-link:dir-816_a2_firmware:1.10_b05:*:*:*:*:*:*:*,D-Link DIR-816 1.10 B05,"['CVE-2018-17063', 'CVE-2018-17064', 'CVE-2018-17065', 'CVE-2018-17066', 'CVE-2018-17067', 'CVE-2018-17068']",2022-03-20T16:02Z
+2,cpe:2.3:h:d-link:dir-816l:-:*:*:*:*:*:*:*,D-Link DIR-816L Wireless Router,['CVE-2015-5999'],2022-03-20T16:02Z
+3,cpe:2.3:h:d-link:dir-816l:b1:*:*:*:*:*:*:*,D-Link DIR-816L B1,"['CVE-2020-15893', 'CVE-2020-15894', 'CVE-2020-15895']",2022-03-20T16:02Z
+4,cpe:2.3:o:d-link:dir-816l_firmware:2.05.b02:*:*:*:*:*:*:*,D-Link DIR-816L Firmware 2.05.B02,['CVE-2015-5999'],2022-03-20T16:02Z
+5,cpe:2.3:h:d-link:dir-817l\(w\):ax:*:*:*:*:*:*:*,D-Link DIR-817L(W) Ax,['CVE-2016-5681'],2022-03-20T16:02Z
+6,cpe:2.3:h:d-link:dir-817lw:a1:*:*:*:*:*:*:*,D-Link DIR-817LW A1,[''],2022-03-20T16:02Z
+7,cpe:2.3:h:d-link:dir-818l\(w\):ax:*:*:*:*:*:*:*,D-Link DIR-818L(W) Ax,['CVE-2016-5681'],2022-03-20T16:02Z
+8,cpe:2.3:h:d-link:dir-818lw:-:*:*:*:*:*:*:*,D-Link DIR-818LW,"['CVE-2018-19986', 'CVE-2018-19987']",2022-03-20T16:02Z
+9,cpe:2.3:h:d-link:dir-820l:-:*:*:*:*:*:*:*,D-Link DIR-820L,['CVE-2015-1187'],2022-03-20T16:02Z

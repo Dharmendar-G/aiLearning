@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:danielb:finder:6.x-1.0:alpha28:*:*:*:*:*:*,danielb Finder module for Drupal 6.x-1.0-alpha28,"['CVE-2012-1561', 'CVE-2012-1641', 'CVE-2012-6645']",2022-03-20T10:04Z
+1,cpe:2.3:a:danielb:finder:6.x-1.0:alpha3:*:*:*:*:*:*,danielb Finder module for Drupal 6.x-1.0-alpha3,"['CVE-2012-1561', 'CVE-2012-1641', 'CVE-2012-6645']",2022-03-20T10:04Z
+2,cpe:2.3:a:danielb:finder:6.x-1.0:alpha4:*:*:*:*:*:*,danielb Finder module for Drupal 6.x-1.0-alpha4,"['CVE-2012-1561', 'CVE-2012-1641', 'CVE-2012-6645']",2022-03-20T10:04Z
+3,cpe:2.3:a:danielb:finder:6.x-1.0:alpha5:*:*:*:*:*:*,danielb Finder module for Drupal 6.x-1.0-alpha5,"['CVE-2012-1561', 'CVE-2012-1641', 'CVE-2012-6645']",2022-03-20T10:04Z
+4,cpe:2.3:a:danielb:finder:6.x-1.0:alpha6:*:*:*:*:*:*,danielb Finder module for Drupal 6.x-1.0-alpha6,"['CVE-2012-1561', 'CVE-2012-1641', 'CVE-2012-6645']",2022-03-20T10:04Z
+5,cpe:2.3:a:danielb:finder:6.x-1.0:alpha7:*:*:*:*:*:*,danielb Finder module for Drupal 6.x-1.0-alpha7,"['CVE-2012-1561', 'CVE-2012-1641', 'CVE-2012-6645']",2022-03-20T10:04Z
+6,cpe:2.3:a:danielb:finder:6.x-1.0:alpha8:*:*:*:*:*:*,danielb Finder module for Drupal 6.x-1.0-alpha8,"['CVE-2012-1561', 'CVE-2012-1641', 'CVE-2012-6645']",2022-03-20T10:04Z
+7,cpe:2.3:a:danielb:finder:6.x-1.0:alpha9:*:*:*:*:*:*,danielb Finder module for Drupal 6.x-1.0-alpha9,"['CVE-2012-1561', 'CVE-2012-1641', 'CVE-2012-6645']",2022-03-20T10:04Z
+8,cpe:2.3:a:danielb:finder:6.x-1.0:beta1:*:*:*:*:*:*,danielb Finder module for Drupal 6.x-1.0-beta1,"['CVE-2012-1561', 'CVE-2012-1641', 'CVE-2012-6645']",2022-03-20T10:04Z
+9,cpe:2.3:a:danielb:finder:6.x-1.0:beta2:*:*:*:*:*:*,danielb Finder module for Drupal 6.x-1.0-beta2,"['CVE-2012-1561', 'CVE-2012-1641', 'CVE-2012-6645']",2022-03-20T10:04Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitdefender:total_security:7.2.1.65:*:*:*:*:*:*:*,Bitdefender Total Security 7.2.1.65,"['CVE-2007-5775', 'CVE-2017-6186', 'CVE-2019-14242', 'CVE-2020-15732', 'CVE-2020-8107', 'CVE-2021-3576', 'CVE-2021-4198', 'CVE-2021-4199']",2022-03-19T08:06Z
+1,cpe:2.3:a:bitdefender:total_security:12.0:*:*:*:*:*:*:*,Bitdefender Total Security 12.0,"['CVE-2007-5775', 'CVE-2017-6186', 'CVE-2019-14242', 'CVE-2020-15732', 'CVE-2020-8107', 'CVE-2021-3576', 'CVE-2021-4198', 'CVE-2021-4199']",2022-03-19T08:06Z
+2,cpe:2.3:a:bitdefender:total_security:21.0.24.62:*:*:*:*:*:*:*,Bitdefender Total Security 21.0.24.62,"['CVE-2007-5775', 'CVE-2017-10950', 'CVE-2019-14242', 'CVE-2020-15732', 'CVE-2020-8107', 'CVE-2021-3576', 'CVE-2021-4198', 'CVE-2021-4199']",2022-03-19T08:06Z
+3,cpe:2.3:a:bitdefender:total_security:23.0.24.120:*:*:*:*:*:*:*,Bitdefender Total Security 23.0.24.120,"['CVE-2007-5775', 'CVE-2020-15732', 'CVE-2020-8107', 'CVE-2021-3576', 'CVE-2021-4198', 'CVE-2021-4199']",2022-03-19T08:06Z
+4,cpe:2.3:a:bitdefender:total_security:24.0.26.136:*:*:*:*:*:*:*,Bitdefender Total Security 24.0.26.136,"['CVE-2007-5775', 'CVE-2020-15732', 'CVE-2021-3576', 'CVE-2021-4198', 'CVE-2021-4199']",2022-03-19T08:06Z
+5,cpe:2.3:a:bitdefender:total_security:25.0.7.29:*:*:*:*:*:*:*,Bitdefender Total Security 25.0.7.29,"['CVE-2007-5775', 'CVE-2021-3576', 'CVE-2021-4198', 'CVE-2021-4199']",2022-03-19T08:06Z
+6,cpe:2.3:a:bitdefender:total_security:2018:*:*:*:*:*:*:*,Bitdefender Total Security 2018,"['CVE-2007-5775', 'CVE-2018-6183']",2022-03-19T08:07Z
+7,cpe:2.3:a:bitdefender:total_security_2020:-:*:*:*:*:*:*:*,Bitdefender Total Security 2020,"['CVE-2019-17100', 'CVE-2020-8095', 'CVE-2020-8102']",2022-03-19T08:07Z
+8,cpe:2.3:a:bitdefender:total_security_2020:24.0.12.69:*:*:*:*:*:*:*,Bitdefender Total Security 2020 24.0.12.69,"['CVE-2020-8095', 'CVE-2020-8102']",2022-03-19T08:07Z
+9,cpe:2.3:a:bitdefender:total_security_2020:24.0.20.116:*:*:*:*:*:*:*,Bitdefender Total Security 2020 24.0.20.116,['CVE-2020-8095'],2022-03-19T08:07Z

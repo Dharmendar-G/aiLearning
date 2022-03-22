@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:inspiron_14_3459_firmware:1.12.0:*:*:*:*:*:*:*,Dell Inspiron 14 3459 Firmware 1.12.0,[''],2022-03-20T12:34Z
+1,cpe:2.3:h:dell:inspiron_14_3467:-:*:*:*:*:*:*:*,Dell Inspiron 14 3467,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:34Z
+2,cpe:2.3:o:dell:inspiron_14_3467_firmware:2.12.0:*:*:*:*:*:*:*,Dell Inspiron 14 3467 Firmware 2.12.0,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:34Z
+3,cpe:2.3:h:dell:inspiron_14_3468:-:*:*:*:*:*:*:*,Dell Inspiron 14 3468,['CVE-2020-5362'],2022-03-20T12:34Z
+4,cpe:2.3:o:dell:inspiron_14_3468_firmware:1.15.0:*:*:*:*:*:*:*,Dell Inspiron 14 3468 Firmware 1.15.0,[''],2022-03-20T12:34Z
+5,cpe:2.3:h:dell:inspiron_14_3473:-:*:*:*:*:*:*:*,Dell Inspiron 14 3473,"['CVE-2020-5362', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-24415', 'CVE-2022-24416', 'CVE-2022-24419', 'CVE-2022-24420', 'CVE-2022-24421']",2022-03-20T12:34Z
+6,cpe:2.3:o:dell:inspiron_14_3473_firmware:1.9.0:*:*:*:*:*:*:*,Dell Inspiron 14 3473 Firmware 1.9.0,"['CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-24415', 'CVE-2022-24416', 'CVE-2022-24419', 'CVE-2022-24420', 'CVE-2022-24421']",2022-03-20T12:34Z
+7,cpe:2.3:h:dell:inspiron_14_5410:-:*:*:*:*:*:*:*,Dell Inspiron 14 5410,"['CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:34Z
+8,cpe:2.3:o:dell:inspiron_14_5410_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 14 5410 Firmware,"['CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:34Z
+9,cpe:2.3:o:dell:inspiron_14_5410_firmware:2.6.1:*:*:*:*:*:*:*,Dell Inspiron 14 5410 Firmware 2.6.1,[''],2022-03-20T12:34Z

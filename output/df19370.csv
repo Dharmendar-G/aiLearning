@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:algosec:fireflow:6.3:b230:*:*:*:*:*:*,Algosec Fireflow 6.3-b230,['CVE-2014-4164'],2022-03-18T14:48Z
+1,cpe:2.3:a:algosec:firewall_analyzer:6.1:*:*:*:*:*:*:*,AlgoSec Firewall Analyzer 6.1,[''],2022-03-18T14:48Z
+2,cpe:2.3:a:algosec:firewall_analyzer:6.1:b86:*:*:*:*:*:*,AlgoSec Firewall Analyzer 6.1-b86,['CVE-2013-5092'],2022-03-18T14:48Z
+3,cpe:2.3:a:algosec:firewall_analyzer:6.4:*:*:*:*:*:*:*,AlgoSec Firewall Analyzer 6.4,['CVE-2013-7318'],2022-03-18T14:48Z
+4,cpe:2.3:a:alhazai:leadership_newspapers:1.2:*:*:*:*:android:*:*,alhazai Leadership Newspapers (aka com.LeadershipNewspapers) for Android 1.2,['CVE-2014-6657'],2022-03-18T14:48Z
+5,cpe:2.3:a:ali_visual_project:ali_visual:1:*:*:*:*:android:*:*,Ali Visual project Ali Visual (aka com.ali.visual) for android 1.0,['CVE-2014-7310'],2022-03-18T14:48Z
+6,cpe:2.3:a:aliakay:aptallik_testi:4:*:*:*:*:android:*:*,aliakay Aptallik Testi (aka com.wAptallikTesti) for android 4.0,['CVE-2014-7410'],2022-03-18T14:48Z
+7,cpe:2.3:h:aliasrobotics:mir100:-:*:*:*:*:*:*:*,Alias Robotics MiR100,"['CVE-2020-10269', 'CVE-2020-10270', 'CVE-2020-10271', 'CVE-2020-10272', 'CVE-2020-10273', 'CVE-2020-10278', 'CVE-2020-10279']",2022-03-18T14:48Z
+8,cpe:2.3:o:aliasrobotics:mir100_firmware:-:*:*:*:*:*:*:*,Alias Robotics MiR100 Firmware,"['CVE-2020-10269', 'CVE-2020-10270', 'CVE-2020-10271', 'CVE-2020-10272', 'CVE-2020-10273', 'CVE-2020-10278', 'CVE-2020-10279']",2022-03-18T14:48Z
+9,cpe:2.3:o:aliasrobotics:mir100_firmware:2.8.1.1:*:*:*:*:*:*:*,Alias Robotics MiR100 Firmware 2.8.1.1,"['CVE-2020-10269', 'CVE-2020-10270', 'CVE-2020-10271', 'CVE-2020-10272', 'CVE-2020-10273', 'CVE-2020-10278', 'CVE-2020-10279']",2022-03-18T14:48Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:staticfile_buildpack:1.4.16:*:*:*:*:*:*:*,Cloud Foundry Staticfile Buildpack 1.4.16,[''],2022-03-20T03:39Z
+1,cpe:2.3:a:cloudfoundry:staticfile_buildpack:1.4.18:*:*:*:*:*:*:*,Cloud Foundry Staticfile Buildpack 1.4.18,[''],2022-03-20T03:39Z
+2,cpe:2.3:a:cloudfoundry:staticfile_buildpack:1.4.19:*:*:*:*:*:*:*,Cloud Foundry Staticfile Buildpack 1.4.19,[''],2022-03-20T03:39Z
+3,cpe:2.3:a:cloudfoundry:staticfile_buildpack:1.4.20:*:*:*:*:*:*:*,Cloud Foundry Staticfile Buildpack 1.4.20,[''],2022-03-20T03:39Z
+4,cpe:2.3:a:cloudfoundry:staticfile_buildpack:1.4.21:*:*:*:*:*:*:*,Cloud Foundry Staticfile Buildpack 1.4.21,[''],2022-03-20T03:39Z
+5,cpe:2.3:a:cloudfoundry:staticfile_buildpack:1.4.22:*:*:*:*:*:*:*,Cloud Foundry Staticfile Buildpack 1.4.22,[''],2022-03-20T03:39Z
+6,cpe:2.3:a:cloudfoundry:staticfile_buildpack:1.4.23:*:*:*:*:*:*:*,Cloud Foundry Staticfile Buildpack 1.4.23,[''],2022-03-20T03:39Z
+7,cpe:2.3:a:cloudfoundry:staticfile_buildpack:1.4.24:*:*:*:*:*:*:*,Cloud Foundry Staticfile Buildpack 1.4.24,[''],2022-03-20T03:39Z
+8,cpe:2.3:a:cloudfoundry:staticfile_buildpack:1.4.25:*:*:*:*:*:*:*,Cloud Foundry Staticfile Buildpack 1.4.25,[''],2022-03-20T03:40Z
+9,cpe:2.3:a:cloudfoundry:staticfile_buildpack:1.4.27:*:*:*:*:*:*:*,Cloud Foundry Staticfile Buildpack 1.4.27,[''],2022-03-20T03:40Z

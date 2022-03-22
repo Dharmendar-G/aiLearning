@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:automattic:wp_super_cache:0.9.9.6:*:*:*:*:wordpress:*:*,Automattic WP Super Cache 0.9.9.6 for WordPress,"['CVE-2013-2010', 'CVE-2021-24209', 'CVE-2021-24312', 'CVE-2021-24329']",2022-03-19T03:50Z
+1,cpe:2.3:a:automattic:wp_super_cache:0.9.9.7:*:*:*:*:wordpress:*:*,Automattic WP Super Cache 0.9.9.7 for WordPress,"['CVE-2013-2010', 'CVE-2021-24209', 'CVE-2021-24312', 'CVE-2021-24329']",2022-03-19T03:50Z
+2,cpe:2.3:a:automattic:wp_super_cache:0.9.9.8:*:*:*:*:wordpress:*:*,Automattic WP Super Cache 0.9.9.8 for WordPress,"['CVE-2013-2010', 'CVE-2021-24209', 'CVE-2021-24312', 'CVE-2021-24329']",2022-03-19T03:50Z
+3,cpe:2.3:a:automattic:wp_super_cache:0.9.9.9:*:*:*:*:wordpress:*:*,Automattic WP Super Cache 0.9.9.9 for WordPress,"['CVE-2013-2010', 'CVE-2021-24209', 'CVE-2021-24312', 'CVE-2021-24329']",2022-03-19T03:50Z
+4,cpe:2.3:a:automattic:wp_super_cache:1.0:*:*:*:*:wordpress:*:*,Automattic WP Super Cache 1.0 for WordPress,"['CVE-2013-2010', 'CVE-2021-24209', 'CVE-2021-24312', 'CVE-2021-24329']",2022-03-19T03:50Z
+5,cpe:2.3:a:automattic:wp_super_cache:1.0.1:*:*:*:*:wordpress:*:*,Automattic WP Super Cache 1.0.1 for WordPress,"['CVE-2013-2010', 'CVE-2021-24209', 'CVE-2021-24312', 'CVE-2021-24329']",2022-03-19T03:50Z
+6,cpe:2.3:a:automattic:wp_super_cache:1.1:*:*:*:*:wordpress:*:*,Automattic WP Super Cache 1.1 for WordPress,"['CVE-2013-2010', 'CVE-2021-24209', 'CVE-2021-24312', 'CVE-2021-24329']",2022-03-19T03:50Z
+7,cpe:2.3:a:automattic:wp_super_cache:1.1.1:*:*:*:*:wordpress:*:*,Automattic WP Super Cache 1.1.1 for WordPress,"['CVE-2013-2010', 'CVE-2021-24209', 'CVE-2021-24312', 'CVE-2021-24329']",2022-03-19T03:50Z
+8,cpe:2.3:a:automattic:wp_super_cache:1.2:*:*:*:*:wordpress:*:*,Automattic WP Super Cache 1.2 for WordPress,"['CVE-2013-2009', 'CVE-2013-2010', 'CVE-2021-24209', 'CVE-2021-24312', 'CVE-2021-24329']",2022-03-19T03:50Z
+9,cpe:2.3:a:automattic:wp_super_cache:1.3:*:*:*:*:wordpress:*:*,Automattic WP Super Cache 1.3 for WordPress,"['CVE-2013-2008', 'CVE-2021-24209', 'CVE-2021-24312', 'CVE-2021-24329']",2022-03-19T03:50Z

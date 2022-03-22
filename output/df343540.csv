@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:informix_extended_parallel_server:8.40_uc2:*:*:*:*:*:*:*,IBM Informix Extended Parallel Server 8.40 UC2,"['CVE-2004-2319', 'CVE-2004-2490']",2022-03-21T20:47Z
+1,cpe:2.3:a:ibm:informix_i-connect:-:*:*:*:*:*:*:*,IBM Informix I-Connect,[''],2022-03-21T20:47Z
+2,cpe:2.3:a:ibm:informix_i-connect:2.90:*:*:*:*:*:*:*,IBM Informix I-Connect 2.90,"['CVE-2006-5663', 'CVE-2006-5664']",2022-03-21T20:47Z
+3,cpe:2.3:a:ibm:informix_open_admin_tool:2.0:*:*:*:*:*:*:*,Informix Open Admin Tool 2.0,['CVE-2013-0492'],2022-03-21T20:47Z
+4,cpe:2.3:a:ibm:informix_open_admin_tool:3.0:*:*:*:*:*:*:*,Informix Open Admin Tool 3.0,['CVE-2013-0492'],2022-03-21T20:47Z
+5,cpe:2.3:a:ibm:informix_open_admin_tool:3.11.1:*:*:*:*:*:*:*,Informix Open Admin Tool 3.11.1,[''],2022-03-21T20:47Z
+6,cpe:2.3:a:ibm:informix_storage_manager:-:*:*:*:*:*:*:*,IBM Informix Storage Manager,['CVE-2008-0768'],2022-03-21T20:47Z
+7,cpe:2.3:a:ibm:informix_web_datablade:-:*:*:*:*:*:*:*,IBM Informix Web DataBlade,[''],2022-03-21T20:47Z
+8,cpe:2.3:a:ibm:informix_web_datablade:3.3:*:*:*:*:*:*:*,IBM Informix Web DataBlade 3.3,['CVE-2001-0924'],2022-03-21T20:47Z
+9,cpe:2.3:a:ibm:informix_web_datablade:3.4:*:*:*:*:*:*:*,IBM Informix Web DataBlade 3.4,['CVE-2001-0924'],2022-03-21T20:47Z

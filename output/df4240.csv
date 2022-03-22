@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:abcm2ps_project:abcm2ps:8.13.23:*:*:*:*:*:*:*,abcm2ps Project abcm2ps 8.13.23,[''],2022-03-18T10:38Z
+1,cpe:2.3:a:abcm2ps_project:abcm2ps:8.13.24:*:*:*:*:*:*:*,abcm2ps Project abcm2ps 8.13.24,[''],2022-03-18T10:38Z
+2,cpe:2.3:a:abcm2ps_project:abcm2ps:8.14.0:*:*:*:*:*:*:*,abcm2ps Project abcm2ps 8.14.0,[''],2022-03-18T10:38Z
+3,cpe:2.3:a:abcm2ps_project:abcm2ps:8.14.1:*:*:*:*:*:*:*,abcm2ps Project abcm2ps 8.14.1,[''],2022-03-18T10:38Z
+4,cpe:2.3:a:abcm2ps_project:abcm2ps:8.14.2:*:*:*:*:*:*:*,abcm2ps Project abcm2ps 8.14.2,[''],2022-03-18T10:38Z
+5,cpe:2.3:a:abcm2ps_project:abcm2ps:8.14.3:*:*:*:*:*:*:*,abcm2ps Project abcm2ps 8.14.3,[''],2022-03-18T10:38Z
+6,cpe:2.3:a:abcm2ps_project:abcm2ps:8.14.4:*:*:*:*:*:*:*,abcm2ps Project abcm2ps 8.14.4,[''],2022-03-18T10:38Z
+7,cpe:2.3:a:abcm2ps_project:abcm2ps:8.14.5:*:*:*:*:*:*:*,abcm2ps Project abcm2ps 8.14.5,[''],2022-03-18T10:38Z
+8,cpe:2.3:a:abcprintf:upload-image-with-ajax:1.0:*:*:*:*:*:*:*,ABCPRINTF upload-image-with-ajax 1.0,['CVE-2019-8293'],2022-03-18T10:38Z
+9,cpe:2.3:a:abeel:simple_php_agenda:0.1:*:*:*:*:*:*:*,abeel Simple PHP Agenda 0.1,['CVE-2013-3961'],2022-03-18T10:38Z

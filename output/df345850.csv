@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:packaging_utility:1.8.0.0:*:*:*:*:*:*:*,IBM Packaging Utility 1.8.0.0,['CVE-2015-7442'],2022-03-21T21:24Z
+1,cpe:2.3:a:ibm:packaging_utility:1.8.1.0:*:*:*:*:*:*:*,IBM Packaging Utility 1.8.1.0,['CVE-2015-7442'],2022-03-21T21:24Z
+2,cpe:2.3:a:ibm:packaging_utility:1.8.2.0:*:*:*:*:*:*:*,IBM Packaging Utility 1.8.2.0,['CVE-2015-7442'],2022-03-21T21:24Z
+3,cpe:2.3:a:ibm:packaging_utility:1.8.2.1:*:*:*:*:*:*:*,IBM Packaging Utility 1.8.2.1,['CVE-2015-7442'],2022-03-21T21:24Z
+4,cpe:2.3:a:ibm:packaging_utility:1.8.3.0:*:*:*:*:*:*:*,IBM Packaging Utility 1.8.3.0,['CVE-2015-7442'],2022-03-21T21:24Z
+5,cpe:2.3:a:ibm:parallel_environment:-:*:*:*:*:*:*:*,IBM Parallel Environment,[''],2022-03-21T21:24Z
+6,cpe:2.3:a:ibm:parallel_environment:3.2:*:*:*:*:*:*:*,IBM Parallel Environment 3.2,['CVE-2004-2270'],2022-03-21T21:24Z
+7,cpe:2.3:a:ibm:parallel_environment:4.1:*:*:*:*:*:*:*,IBM Parallel Environment 4.1,['CVE-2004-2270'],2022-03-21T21:24Z
+8,cpe:2.3:a:ibm:partner_engagement_manager:2.0:*:*:*:*:*:*:*,IBM Partner Engagement Manager 2.0,['CVE-2021-29781'],2022-03-21T21:24Z
+9,cpe:2.3:a:ibm:personal_communications:6.0.0:*:*:*:*:*:*:*,IBM Personal Communications (PCOMM) 6.0.0,['CVE-2016-0321'],2022-03-21T21:24Z

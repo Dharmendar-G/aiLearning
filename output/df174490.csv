@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:datenstrom:yellow:0.8.2:*:*:*:*:*:*:*,Datenstrom Yellow 0.8.2,[''],2022-03-20T10:54Z
+1,cpe:2.3:a:datenstrom:yellow:0.8.3:*:*:*:*:*:*:*,Datenstrom Yellow 0.8.3,[''],2022-03-20T10:54Z
+2,cpe:2.3:a:datenstrom:yellow:0.8.4:*:*:*:*:*:*:*,Datenstrom Yellow 0.8.4,[''],2022-03-20T10:54Z
+3,cpe:2.3:a:datenstrom:yellow:0.8.5:*:*:*:*:*:*:*,Datenstrom Yellow 0.8.5,[''],2022-03-20T10:54Z
+4,cpe:2.3:a:datev:framework_library:-:*:*:*:*:*:*:*,DATEV Framework Library (DFL),[''],2022-03-20T10:54Z
+5,cpe:2.3:a:datev:framework_library:12.5.1001.5:*:*:*:*:*:*:*,DATEV Framework Library (DFL) 12.5.1001.5,[''],2022-03-20T10:54Z
+6,cpe:2.3:a:datev:grundpaket_basis:cd23.20:*:*:*:*:*:*:*,DATEV Grundpaket Basis cd23.20,['CVE-2011-5158'],2022-03-20T10:54Z
+7,cpe:2.3:a:datev:program:14.1:*:*:*:*:*:*:*,DATEV Program 14.1,[''],2022-03-20T10:54Z
+8,cpe:2.3:a:datiac_project:datiac:-:*:*:*:*:*:*:*,Datiac Project Datiac,['CVE-2018-13646'],2022-03-20T10:54Z
+9,cpe:2.3:a:datools:hmtalk:8.98.7:*:*:*:*:*:*:*,Datools Daviewindy 8.98.7,[''],2022-03-20T10:54Z

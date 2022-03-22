@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:isaac_mizrahi_smartwatch:1.3:*:*:*:*:iphone_os:*:*,HP Isaac Mizrahi Smartwatch 1.3 for iPhone OS,[''],2022-03-21T13:43Z
+1,cpe:2.3:a:hp:isaac_mizrahi_smartwatch:1.3.7:*:*:*:*:iphone_os:*:*,HP Isaac Mizrahi Smartwatch 1.3.7 for iPhone OS,['CVE-2017-2748'],2022-03-21T13:43Z
+2,cpe:2.3:a:hp:isaac_mizrahi_smartwatch:1.3.2016052319:*:*:*:*:android:*:*,HP Isaac Mizrahi Smartwatch 1.3.2016052319 for Android,['CVE-2017-2748'],2022-03-21T13:43Z
+3,cpe:2.3:a:hp:isaac_mizrahi_smartwatch:1.4:*:*:*:*:iphone_os:*:*,HP Isaac Mizrahi Smartwatch 1.4 for iPhone OS,[''],2022-03-21T13:43Z
+4,cpe:2.3:a:hp:isaac_mizrahi_smartwatch:1.4.8:*:*:*:*:iphone_os:*:*,HP Isaac Mizrahi Smartwatch 1.4.8 for iPhone OS,['CVE-2017-2748'],2022-03-21T13:43Z
+5,cpe:2.3:a:hp:isaac_mizrahi_smartwatch:1.4.2016072601:*:*:*:*:android:*:*,HP Isaac Mizrahi Smartwatch 1.4.2016072601 for Android,['CVE-2017-2748'],2022-03-21T13:43Z
+6,cpe:2.3:a:hp:isaac_mizrahi_smartwatch:2.3:*:*:*:*:iphone_os:*:*,HP Isaac Mizrahi Smartwatch 2.3 for iPhone OS,[''],2022-03-21T13:43Z
+7,cpe:2.3:a:hp:isaac_mizrahi_smartwatch:2.4:*:*:*:*:iphone_os:*:*,HP Isaac Mizrahi Smartwatch 2.4 for iPhone OS,[''],2022-03-21T13:43Z
+8,cpe:2.3:a:hp:isaac_mizrahi_smartwatch:2.5:*:*:*:*:iphone_os:*:*,HP Isaac Mizrahi Smartwatch 2.5 for iPhone OS,[''],2022-03-21T13:43Z
+9,cpe:2.3:a:hp:isaac_mizrahi_smartwatch:2.6:*:*:*:*:iphone_os:*:*,HP Isaac Mizrahi Smartwatch 2.6 for iPhone OS,[''],2022-03-21T13:43Z

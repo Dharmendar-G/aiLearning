@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:highlightjs:highlight.js:10.4.0:-:*:*:*:node.js:*:*,highlight.js 10.4.0 for Node.js,[''],2022-03-21T11:06Z
+1,cpe:2.3:a:highlightjs:highlight.js:10.4.0:beta0:*:*:*:node.js:*:*,highlight.js 10.4.0 Beta 0 for Node.js,[''],2022-03-21T11:06Z
+2,cpe:2.3:a:highlightjs:highlight.js:10.4.0:beta1:*:*:*:node.js:*:*,highlight.js 10.4.0 Beta 1 for Node.js,[''],2022-03-21T11:06Z
+3,cpe:2.3:a:highlightjs:highlight.js:10.4.1:*:*:*:*:node.js:*:*,highlight.js 10.4.1 for Node.js,[''],2022-03-21T11:06Z
+4,cpe:2.3:a:hijabmodern:hijab_modern:1.0:*:*:*:*:android:*:*,Hijabmodern Hijab Modern for android 1.0,['CVE-2014-8538'],2022-03-21T11:06Z
+5,cpe:2.3:a:hikashop:hikashop:2.5.0:*:*:*:*:joomla\!:*:*,HikaShop 2.5.0 for Joomla!,['CVE-2015-7344'],2022-03-21T11:06Z
+6,cpe:2.3:h:hikvision:ds-2cd2021g1-i\(w\):-:*:*:*:*:*:*:*,Hikvision DS-2CD2021G1-I(W),['CVE-2021-36260'],2022-03-21T11:06Z
+7,cpe:2.3:o:hikvision:ds-2cd2021g1-i\(w\)_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD2021G1-I(W) Firmware,['CVE-2021-36260'],2022-03-21T11:06Z
+8,cpe:2.3:h:hikvision:ds-2cd2023g2-i\(u\):-:*:*:*:*:*:*:*,Hikvision DS-2CD2023G2-I(U),['CVE-2021-36260'],2022-03-21T11:06Z
+9,cpe:2.3:o:hikvision:ds-2cd2023g2-i\(u\)_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD2023G2-I(U) Firmware,['CVE-2021-36260'],2022-03-21T11:06Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:mate_20_pro_firmware:10.1.0.270\(c431e7r1p5\):*:*:*:*:*:*:*,Huawei Mate 20 Pro Firmware 10.1.0.270(C431E7R1P5),"['CVE-2020-9244', 'CVE-2020-9247']",2022-03-21T18:05Z
+1,cpe:2.3:o:huawei:mate_20_pro_firmware:10.1.0.270\(c432e7r1p5\):*:*:*:*:*:*:*,Huawei Mate 20 Pro Firmware 10.1.0.270(C432E7R1P5),"['CVE-2020-9244', 'CVE-2020-9247']",2022-03-21T18:05Z
+2,cpe:2.3:o:huawei:mate_20_pro_firmware:10.1.0.270\(c635e3r1p5\):*:*:*:*:*:*:*,Huawei Mate 20 Pro Firmware 10.1.0.270(C635E3R1P5),"['CVE-2020-9244', 'CVE-2020-9247']",2022-03-21T18:05Z
+3,cpe:2.3:o:huawei:mate_20_pro_firmware:10.1.0.273\(c185e7r2p4\):*:*:*:*:*:*:*,Huawei Mate 20 Pro Firmware 10.1.0.273(C185E7R2P4),"['CVE-2020-9244', 'CVE-2020-9247']",2022-03-21T18:05Z
+4,cpe:2.3:o:huawei:mate_20_pro_firmware:10.1.0.273\(c636e7r2p4\):*:*:*:*:*:*:*,Huawei Mate 20 Pro Firmware 10.1.0.273(C636E7R2P4),['CVE-2020-9247'],2022-03-21T18:06Z
+5,cpe:2.3:o:huawei:mate_20_pro_firmware:10.1.0.277\(c10e7r2p4\):*:*:*:*:*:*:*,Huawei Mate 20 Pro Firmware 10.1.0.277(C10E7R2P4),['CVE-2020-9247'],2022-03-21T18:06Z
+6,cpe:2.3:o:huawei:mate_20_pro_firmware:10.1.0.277\(c605e7r1p5\):*:*:*:*:*:*:*,Huawei Mate 20 Pro Firmware 10.1.0.277(C605E7R1P5),[''],2022-03-21T18:06Z
+7,cpe:2.3:h:huawei:mate_20_rs:-:*:*:*:*:*:*:*,Huawei Mate 20 RS,"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-5308', 'CVE-2020-1882', 'CVE-2020-9244', 'CVE-2020-9252']",2022-03-21T18:06Z
+8,cpe:2.3:o:huawei:mate_20_rs_firmware:-:*:*:*:*:*:*:*,Huawei Mate 20 RS Firmware,"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-5308', 'CVE-2020-1882', 'CVE-2020-9244', 'CVE-2020-9252']",2022-03-21T18:06Z
+9,cpe:2.3:o:huawei:mate_20_rs_firmware:9.1.0.135\(c786e133r3p1\):*:*:*:*:*:*:*,Huawei Mate 20 RS Firmware 9.1.0.135(C786E133R3P1),"['CVE-2020-1882', 'CVE-2020-9244', 'CVE-2020-9252']",2022-03-21T18:06Z

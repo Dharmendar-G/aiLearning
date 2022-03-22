@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:log4j:1.2:beta4:*:*:*:*:*:*,Apache Software Foundation log4j 1.2 Beta 4,"['CVE-2019-17571', 'CVE-2021-4104', 'CVE-2022-23302', 'CVE-2022-23305', 'CVE-2022-23307']",2022-03-18T19:18Z
+1,cpe:2.3:a:apache:log4j:1.2:rc1:*:*:*:*:*:*,Apache Software Foundation log4j 1.2 Release Candidate 1,"['CVE-2019-17571', 'CVE-2021-4104', 'CVE-2022-23302', 'CVE-2022-23305', 'CVE-2022-23307']",2022-03-18T19:18Z
+2,cpe:2.3:a:apache:log4j:1.2.1:*:*:*:*:*:*:*,Apache Software Foundation log4j 1.2.1,"['CVE-2019-17571', 'CVE-2022-23302', 'CVE-2022-23305', 'CVE-2022-23307']",2022-03-18T19:18Z
+3,cpe:2.3:a:apache:log4j:1.2.2:*:*:*:*:*:*:*,Apache Software Foundation log4j 1.2.2,"['CVE-2019-17571', 'CVE-2022-23302', 'CVE-2022-23305', 'CVE-2022-23307']",2022-03-18T19:18Z
+4,cpe:2.3:a:apache:log4j:1.2.3:*:*:*:*:*:*:*,Apache Software Foundation log4j 1.2.3,"['CVE-2019-17571', 'CVE-2022-23302', 'CVE-2022-23305', 'CVE-2022-23307']",2022-03-18T19:19Z
+5,cpe:2.3:a:apache:log4j:1.2.4:*:*:*:*:*:*:*,Apache Software Foundation log4j 1.2.4,"['CVE-2019-17571', 'CVE-2022-23302', 'CVE-2022-23305', 'CVE-2022-23307']",2022-03-18T19:18Z
+6,cpe:2.3:a:apache:log4j:1.2.5:*:*:*:*:*:*:*,Apache Software Foundation log4j 1.2.5,"['CVE-2019-17571', 'CVE-2022-23302', 'CVE-2022-23305', 'CVE-2022-23307']",2022-03-18T19:19Z
+7,cpe:2.3:a:apache:log4j:1.2.6:*:*:*:*:*:*:*,Apache Software Foundation log4j 1.2.6,"['CVE-2019-17571', 'CVE-2022-23302', 'CVE-2022-23305', 'CVE-2022-23307']",2022-03-18T19:19Z
+8,cpe:2.3:a:apache:log4j:1.2.7:*:*:*:*:*:*:*,Apache Software Foundation log4j 1.2.7,"['CVE-2019-17571', 'CVE-2022-23302', 'CVE-2022-23305', 'CVE-2022-23307']",2022-03-18T19:19Z
+9,cpe:2.3:a:apache:log4j:1.2.8:*:*:*:*:*:*:*,Apache Software Foundation log4j 1.2.8,"['CVE-2019-17571', 'CVE-2022-23302', 'CVE-2022-23305', 'CVE-2022-23307']",2022-03-18T19:19Z

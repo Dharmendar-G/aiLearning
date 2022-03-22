@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:amd:amd_uprof:3.4.494:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) AMD uProf 3.4.494,['CVE-2021-26334'],2022-03-18T16:01Z
+1,cpe:2.3:a:amd:amd_uprof:3.4.502:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) AMD uProf 3.4.502,[''],2022-03-18T16:01Z
+2,cpe:2.3:h:amd:amd64:-:*:*:*:*:*:*:*,AMD AMD64,"['CVE-2007-4574', 'CVE-2008-1615', 'CVE-2008-3890']",2022-03-18T16:01Z
+3,cpe:2.3:a:amd:app_sdk_runtime:2.4.595.10:*:*:*:*:*:*:*,Amd App SDK Runtime 2.4.595.10,[''],2022-03-18T16:01Z
+4,cpe:2.3:a:amd:app_sdk_runtime:2.4.650.9:*:*:*:*:*:*:*,Amd App SDK Runtime 2.4.650.9,[''],2022-03-18T16:02Z
+5,cpe:2.3:a:amd:app_sdk_runtime:2.5.684.213:*:*:*:*:*:*:*,Amd App SDK Runtime 2.5.684.213,[''],2022-03-18T16:02Z
+6,cpe:2.3:a:amd:app_sdk_runtime:2.5.793.1:*:*:*:*:*:*:*,Amd App SDK Runtime 2.5.793.1,[''],2022-03-18T16:02Z
+7,cpe:2.3:h:amd:athlon:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Athlon ,['CVE-2021-26318'],2022-03-18T16:02Z
+8,cpe:2.3:h:amd:athlon_3050ge:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Athlon 3050ge -,['CVE-2020-12965'],2022-03-18T16:02Z
+9,cpe:2.3:o:amd:athlon_3050ge_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Athlon 3050ge Firmware ,['CVE-2020-12965'],2022-03-18T16:02Z

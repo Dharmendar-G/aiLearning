@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:networking_guide:1.0.1:*:*:*:*:*:*:*,Dell Networking Guide 1.0.1,[''],2022-03-20T12:54Z
+1,cpe:2.3:o:dell:networking_os10:10.3.2-r2:*:*:*:*:*:*:*,Dell Networking OS10 10.3.2-R2,"['CVE-2018-15778', 'CVE-2018-15784', 'CVE-2021-36306', 'CVE-2021-36307', 'CVE-2021-36308', 'CVE-2021-36310', 'CVE-2021-36319']",2022-03-20T12:54Z
+2,cpe:2.3:o:dell:networking_os10:10.4.0-r3s:*:*:*:*:*:*:*,Dell Networking OS10 10.4.0-R3S,"['CVE-2018-15778', 'CVE-2018-15784', 'CVE-2021-36306', 'CVE-2021-36307', 'CVE-2021-36308', 'CVE-2021-36310', 'CVE-2021-36319']",2022-03-20T12:54Z
+3,cpe:2.3:o:dell:networking_os10:10.4.1.4:*:*:*:*:*:*:*,Dell Networking OS10 10.4.1.4,"['CVE-2018-15778', 'CVE-2018-15784', 'CVE-2021-36306', 'CVE-2021-36307', 'CVE-2021-36308', 'CVE-2021-36310', 'CVE-2021-36319']",2022-03-20T12:54Z
+4,cpe:2.3:o:dell:networking_os10:10.4.2.1:*:*:*:*:*:*:*,Dell Networking OS10 10.4.2.1,"['CVE-2018-15784', 'CVE-2021-36306', 'CVE-2021-36307', 'CVE-2021-36308', 'CVE-2021-36310', 'CVE-2021-36319']",2022-03-20T12:54Z
+5,cpe:2.3:o:dell:networking_os10:10.4.3.0:*:*:*:*:*:*:*,Dell Networking OS10 10.4.3.0,"['CVE-2021-36306', 'CVE-2021-36307', 'CVE-2021-36308', 'CVE-2021-36310', 'CVE-2021-36319']",2022-03-20T12:54Z
+6,cpe:2.3:o:dell:networking_os10:10.4.3.8:*:*:*:*:*:*:*,Dell Networking OS10 10.4.3.8,[''],2022-03-20T12:54Z
+7,cpe:2.3:o:dell:networking_os10:10.5.0.10:*:*:*:*:*:*:*,Dell Networking OS10 10.5.0.10,[''],2022-03-20T12:54Z
+8,cpe:2.3:o:dell:networking_os10:10.5.1.10:*:*:*:*:*:*:*,Dell Networking OS10 10.5.1.10,[''],2022-03-20T12:54Z
+9,cpe:2.3:o:dell:networking_os10:10.5.2.0:*:*:*:*:*:*:*,Dell Networking OS10 10.5.2.0,"['CVE-2021-36306', 'CVE-2021-36307', 'CVE-2021-36308', 'CVE-2021-36310', 'CVE-2021-36319']",2022-03-20T12:54Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:inspiron_5300_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 5300 Firmware,"['CVE-2020-5362', 'CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:39Z
+1,cpe:2.3:o:dell:inspiron_5300_firmware:1.10.0:*:*:*:*:*:*:*,Dell Inspiron 5300 Firmware 1.10.0,[''],2022-03-20T12:39Z
+2,cpe:2.3:h:dell:inspiron_5301:-:*:*:*:*:*:*:*,Dell Inspiron 5301,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:39Z
+3,cpe:2.3:o:dell:inspiron_5301_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 5301 Firmware,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:39Z
+4,cpe:2.3:o:dell:inspiron_5301_firmware:1.12.0:*:*:*:*:*:*:*,Dell Inspiron 5301 Firmware 1.12.0,[''],2022-03-20T12:39Z
+5,cpe:2.3:h:dell:inspiron_5310:-:*:*:*:*:*:*:*,Dell Inspiron 5310,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:39Z
+6,cpe:2.3:o:dell:inspiron_5310_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 5310 Firmware,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:39Z
+7,cpe:2.3:o:dell:inspiron_5310_firmware:2.6.1:*:*:*:*:*:*:*,Dell Inspiron 5310 Firmware 2.6.1,[''],2022-03-20T12:39Z
+8,cpe:2.3:o:dell:inspiron_5368_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 5368 Firmware,['CVE-2019-3717'],2022-03-20T12:39Z
+9,cpe:2.3:o:dell:inspiron_5368_firmware:1.19.0:*:*:*:*:*:*:*,Dell Inspiron 5368 Firmware 1.19.0,[''],2022-03-20T12:39Z

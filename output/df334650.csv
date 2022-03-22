@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:jackman-l23_firmware:8.2.0.162\(c605\):*:*:*:*:*:*:*,Huawei Jackman-L23 Firmware 8.2.0.162(C605),['CVE-2019-5235'],2022-03-21T17:59Z
+1,cpe:2.3:h:huawei:jakarta-al00a:-:*:*:*:*:*:*:*,Huawei JAKARTA-AL00A,['CVE-2019-9506'],2022-03-21T17:59Z
+2,cpe:2.3:o:huawei:jakarta-al00a_firmware:-:*:*:*:*:*:*:*,Huawei JAKARTA-AL00A FIRMWARE,['CVE-2019-9506'],2022-03-21T17:59Z
+3,cpe:2.3:h:huawei:jennifer-an00c:-:*:*:*:*:*:*:*,Huawei Jennifer-AN00C,['CVE-2021-22398'],2022-03-21T17:59Z
+4,cpe:2.3:o:huawei:jennifer-an00c_firmware:10.1.1.171\(c00e170r6p3\):*:*:*:*:*:*:*,Huawei Jennifer-AN00C Firmware 10.1.1.171(C00E170R6P3),['CVE-2021-22398'],2022-03-21T17:59Z
+5,cpe:2.3:h:huawei:jenny-al10b:-:*:*:*:*:*:*:*,Huawei Jenny-AL10B,['CVE-2021-22398'],2022-03-21T17:59Z
+6,cpe:2.3:o:huawei:jenny-al10b_firmware:10.1.0.228\(c00e220r5p1\):*:*:*:*:*:*:*,Huawei Jenny-AL10B Firmware 10.1.0.228(C00E220R5P1),['CVE-2021-22398'],2022-03-21T17:59Z
+7,cpe:2.3:h:huawei:jimmy-al00a:-:*:*:*:*:*:*:*,Huawei Jimmy-AL00A,['CVE-2020-9239'],2022-03-21T17:59Z
+8,cpe:2.3:o:huawei:jimmy-al00a_firmware:jimmy-al00ac00b172:*:*:*:*:*:*:*,Huawei Jimmy-AL00A Firmware Jimmy-al00ac00b172,[''],2022-03-21T17:59Z
+9,cpe:2.3:h:huawei:johnson-al00ic:-:*:*:*:*:*:*:*,Huawei Johnson-AL00IC,['CVE-2019-5235'],2022-03-21T17:59Z

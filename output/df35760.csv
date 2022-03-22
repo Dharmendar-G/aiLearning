@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:skywalking:6.3.0:*:*:*:*:*:*:*,Apache Software Foundation Skywalking 6.3.0,['CVE-2020-9483'],2022-03-18T20:01Z
+1,cpe:2.3:a:apache:skywalking:6.4.0:*:*:*:*:*:*:*,Apache Software Foundation Skywalking 6.4.0,['CVE-2020-9483'],2022-03-18T20:01Z
+2,cpe:2.3:a:apache:skywalking:6.5.0:*:*:*:*:*:*:*,Apache Software Foundation Skywalking 6.5.0,"['CVE-2020-13921', 'CVE-2020-9483']",2022-03-18T20:01Z
+3,cpe:2.3:a:apache:skywalking:6.6.0:*:*:*:*:*:*:*,Apache Software Foundation SkyWalking 6.6.0,"['CVE-2020-13921', 'CVE-2020-9483']",2022-03-18T20:01Z
+4,cpe:2.3:a:apache:skywalking:7.0.0:*:*:*:*:*:*:*,Apache Software Foundation SkyWalking 7.0.0,"['CVE-2020-13921', 'CVE-2020-9483']",2022-03-18T20:01Z
+5,cpe:2.3:a:apache:skywalking:8.0.0:*:*:*:*:*:*:*,Apache Software Foundation Skywalking 8.0.0,['CVE-2020-13921'],2022-03-18T20:01Z
+6,cpe:2.3:a:apache:skywalking:8.0.1:*:*:*:*:*:*:*,Apache Software Foundation Skywalking 8.0.1,['CVE-2020-13921'],2022-03-18T20:01Z
+7,cpe:2.3:a:apache:skywalking:8.1.0:*:*:*:*:*:*:*,Apache Software Foundation Skywalking 8.1.0,[''],2022-03-18T20:01Z
+8,cpe:2.3:a:apache:skywalking:8.2.0:*:*:*:*:*:*:*,Apache Software Foundation Skywalking 8.2.0,[''],2022-03-18T20:01Z
+9,cpe:2.3:a:apache:skywalking:8.3.0:*:*:*:*:*:*:*,Apache Software Foundation Skywalking 8.3.0,[''],2022-03-18T20:01Z

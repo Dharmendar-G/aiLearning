@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:3crbsg2093:-:*:*:*:*:*:*:*,HP 3CRBSG2093,['CVE-2012-3268'],2022-03-21T12:50Z
+1,cpe:2.3:h:hp:3crbsg2893:-:*:*:*:*:*:*:*,HP 3CRBSG2893,['CVE-2012-3268'],2022-03-21T12:50Z
+2,cpe:2.3:h:hp:3crbsg28hpwr93:-:*:*:*:*:*:*:*,HP 3CRBSG28HPWR93,['CVE-2012-3268'],2022-03-21T12:50Z
+3,cpe:2.3:h:hp:3crbsg28pwr93:-:*:*:*:*:*:*:*,HP 3CRBSG28PWR93,['CVE-2012-3268'],2022-03-21T12:50Z
+4,cpe:2.3:h:hp:3crbsg5293:-:*:*:*:*:*:*:*,HP 3CRBSG5293,['CVE-2012-3268'],2022-03-21T12:50Z
+5,cpe:2.3:h:hp:3crbvcxmsr01a:-:*:*:*:*:*:*:*,HP 3CRBVCXMSR01A,['CVE-2012-3268'],2022-03-21T12:50Z
+6,cpe:2.3:h:hp:3crbvcxmsr02a:-:*:*:*:*:*:*:*,HP 3CRBVCXMSR02A,['CVE-2012-3268'],2022-03-21T12:50Z
+7,cpe:2.3:h:hp:3crbvcxmsr03a:-:*:*:*:*:*:*:*,HP 3CRBVCXMSR03A,['CVE-2012-3268'],2022-03-21T12:50Z
+8,cpe:2.3:h:hp:3crbvcxmsr05a:-:*:*:*:*:*:*:*,HP 3CRBVCXMSR05A,['CVE-2012-3268'],2022-03-21T12:50Z
+9,cpe:2.3:h:hp:3crbvcxmsr06a:-:*:*:*:*:*:*:*,HP 3CRBVCXMSR06A,['CVE-2012-3268'],2022-03-21T12:50Z

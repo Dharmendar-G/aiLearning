@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:digitalbazaar:forge:0.6.22:*:*:*:*:node.js:*:*,Digital Bazaar Forge 0.6.22 for Node.js,"['CVE-2020-7720', 'CVE-2022-0122']",2022-03-20T14:10Z
+1,cpe:2.3:a:digitalbazaar:forge:0.6.23:*:*:*:*:node.js:*:*,Digital Bazaar Forge 0.6.23 for Node.js,"['CVE-2020-7720', 'CVE-2022-0122']",2022-03-20T14:10Z
+2,cpe:2.3:a:digitalbazaar:forge:0.6.24:*:*:*:*:node.js:*:*,Digital Bazaar Forge 0.6.24 for Node.js,"['CVE-2020-7720', 'CVE-2022-0122']",2022-03-20T14:10Z
+3,cpe:2.3:a:digitalbazaar:forge:0.6.25:*:*:*:*:node.js:*:*,Digital Bazaar Forge 0.6.25 for Node.js,"['CVE-2020-7720', 'CVE-2022-0122']",2022-03-20T14:10Z
+4,cpe:2.3:a:digitalbazaar:forge:0.6.26:*:*:*:*:node.js:*:*,Digital Bazaar Forge 0.6.26 for Node.js,"['CVE-2020-7720', 'CVE-2022-0122']",2022-03-20T14:10Z
+5,cpe:2.3:a:digitalbazaar:forge:0.6.27:*:*:*:*:node.js:*:*,Digital Bazaar Forge 0.6.27 for Node.js,"['CVE-2020-7720', 'CVE-2022-0122']",2022-03-20T14:10Z
+6,cpe:2.3:a:digitalbazaar:forge:0.6.28:*:*:*:*:node.js:*:*,Digital Bazaar Forge 0.6.28 for Node.js,"['CVE-2020-7720', 'CVE-2022-0122']",2022-03-20T14:10Z
+7,cpe:2.3:a:digitalbazaar:forge:0.6.29:*:*:*:*:node.js:*:*,Digital Bazaar Forge 0.6.29 for Node.js,"['CVE-2020-7720', 'CVE-2022-0122']",2022-03-20T14:10Z
+8,cpe:2.3:a:digitalbazaar:forge:0.6.30:*:*:*:*:node.js:*:*,Digital Bazaar Forge 0.6.30 for Node.js,"['CVE-2020-7720', 'CVE-2022-0122']",2022-03-20T14:10Z
+9,cpe:2.3:a:digitalbazaar:forge:0.6.31:*:*:*:*:node.js:*:*,Digital Bazaar Forge 0.6.31 for Node.js,"['CVE-2020-7720', 'CVE-2022-0122']",2022-03-20T14:10Z

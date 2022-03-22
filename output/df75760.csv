@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bigint_project:bigint:4.4.3:*:*:*:*:rust:*:*,bigint Project bigint 4.4.3 for Rust,['CVE-2020-35880'],2022-03-19T07:38Z
+1,cpe:2.3:a:bigprof:appgini:3.01:*:*:*:*:*:*:*,BigProf AppGini 3.01,[''],2022-03-19T07:38Z
+2,cpe:2.3:a:bigprof:appgini:3.10:*:*:*:*:*:*:*,BigProf AppGini 3.10,[''],2022-03-19T07:38Z
+3,cpe:2.3:a:bigprof:appgini:3.20:*:*:*:*:*:*:*,BigProf AppGini 3.20,[''],2022-03-19T07:38Z
+4,cpe:2.3:a:bigprof:appgini:3.30:*:*:*:*:*:*:*,BigProf AppGini 3.30,[''],2022-03-19T07:38Z
+5,cpe:2.3:a:bigprof:appgini:3.40:*:*:*:*:*:*:*,BigProf AppGini 3.40,[''],2022-03-19T07:38Z
+6,cpe:2.3:a:bigprof:appgini:4.00:*:*:*:*:*:*:*,BigProf AppGini 4.00,[''],2022-03-19T07:38Z
+7,cpe:2.3:a:bigprof:appgini:4.10:*:*:*:*:*:*:*,BigProf AppGini 4.10,[''],2022-03-19T07:38Z
+8,cpe:2.3:a:bigprof:appgini:4.20:*:*:*:*:*:*:*,BigProf AppGini 4.20,[''],2022-03-19T07:38Z
+9,cpe:2.3:a:bigprof:appgini:4.30:*:*:*:*:*:*:*,BigProf AppGini 4.30,[''],2022-03-19T07:38Z

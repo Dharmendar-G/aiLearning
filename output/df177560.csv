@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:debian:reprepro:1.3.0:*:*:*:*:*:*:*,Debian reprepro 1.3.0,['CVE-2007-4739'],2022-03-20T11:54Z
+1,cpe:2.3:a:debian:reprepro:1.3.1:*:*:*:*:*:*:*,Debian reprepro 1.3.1,['CVE-2007-4739'],2022-03-20T11:54Z
+2,cpe:2.3:a:debian:reprepro:2.0.0:*:*:*:*:*:*:*,Debian reprepro 2.0.0,['CVE-2007-4739'],2022-03-20T11:54Z
+3,cpe:2.3:a:debian:reprepro:2.1.0:*:*:*:*:*:*:*,Debian reprepro 2.1.0,['CVE-2007-4739'],2022-03-20T11:54Z
+4,cpe:2.3:a:debian:reprepro:2.2.0:*:*:*:*:*:*:*,Debian reprepro 2.2.0,['CVE-2007-4739'],2022-03-20T11:54Z
+5,cpe:2.3:a:debian:reprepro:2.2.1:*:*:*:*:*:*:*,Debian reprepro 2.2.1,['CVE-2007-4739'],2022-03-20T11:54Z
+6,cpe:2.3:a:debian:reprepro:2.2.2:*:*:*:*:*:*:*,Debian reprepro 2.2.2,['CVE-2007-4739'],2022-03-20T11:54Z
+7,cpe:2.3:a:debian:reprepro:2.2.3:*:*:*:*:*:*:*,Debian reprepro 2.2.3,['CVE-2007-4739'],2022-03-20T11:54Z
+8,cpe:2.3:a:debian:sgml-tools:-:*:*:*:*:*:*:*,Debian sgml-tools,[''],2022-03-20T11:54Z
+9,cpe:2.3:a:debian:shadow:-:*:*:*:*:*:*:*,Debian shadow,"['CVE-2006-1174', 'CVE-2013-4235']",2022-03-20T11:54Z

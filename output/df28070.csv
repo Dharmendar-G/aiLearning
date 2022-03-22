@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:accumulo:1.7.4:*:*:*:*:*:*:*,Apache Software Foundation Accumulo 1.7.4,['CVE-2020-17533'],2022-03-18T17:28Z
+1,cpe:2.3:a:apache:accumulo:1.8.0:*:*:*:*:*:*:*,Apache Software Foundation Accumulo 1.8.0,['CVE-2020-17533'],2022-03-18T17:28Z
+2,cpe:2.3:a:apache:accumulo:1.8.1:*:*:*:*:*:*:*,Apache Software Foundation Accumulo 1.8.1,['CVE-2020-17533'],2022-03-18T17:28Z
+3,cpe:2.3:a:apache:accumulo:1.9.0:*:*:*:*:*:*:*,Apache Software Foundation Accumulo 1.9.0,['CVE-2020-17533'],2022-03-18T17:28Z
+4,cpe:2.3:a:apache:accumulo:1.9.1:*:*:*:*:*:*:*,Apache Software Foundation Accumulo 1.9.1,['CVE-2020-17533'],2022-03-18T17:28Z
+5,cpe:2.3:a:apache:accumulo:1.9.2:*:*:*:*:*:*:*,Apache Software Foundation Accumulo 1.9.2,['CVE-2020-17533'],2022-03-18T17:28Z
+6,cpe:2.3:a:apache:accumulo:1.9.3:*:*:*:*:*:*:*,Apache Software Foundation Accumulo 1.9.3,['CVE-2020-17533'],2022-03-18T17:28Z
+7,cpe:2.3:a:apache:accumulo:1.10.0:*:*:*:*:*:*:*,Apache Software Foundation Accumulo 1.10.0,['CVE-2020-17533'],2022-03-18T17:28Z
+8,cpe:2.3:a:apache:accumulo:1.10.1:*:*:*:*:*:*:*,Apache Software Foundation Accumulo 1.10.1,[''],2022-03-18T17:28Z
+9,cpe:2.3:a:apache:accumulo:2.0.0:-:*:*:*:*:*:*,Apache Software Foundation Accumulo 2.0.0 -,['CVE-2020-17533'],2022-03-18T17:28Z

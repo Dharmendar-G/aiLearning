@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:bosh-azure-cpi:33:*:*:*:*:*:*:*,Cloud Foundry bosh-azure-cpi 33,[''],2022-03-20T03:01Z
+1,cpe:2.3:a:cloudfoundry:bosh-azure-cpi:34:*:*:*:*:*:*:*,Cloud Foundry bosh-azure-cpi 34,[''],2022-03-20T03:01Z
+2,cpe:2.3:a:cloudfoundry:bosh-azure-cpi:34.0.1:*:*:*:*:*:*:*,Cloud Foundry bosh-azure-cpi 34.0.1,[''],2022-03-20T03:01Z
+3,cpe:2.3:a:cloudfoundry:bosh-azure-cpi:35.0.0:*:*:*:*:*:*:*,Cloud Foundry bosh-azure-cpi 35.0.0,[''],2022-03-20T03:01Z
+4,cpe:2.3:a:cloudfoundry:bosh-azure-cpi:35.1.0:*:*:*:*:*:*:*,Cloud Foundry bosh-azure-cpi 35.1.0,[''],2022-03-20T03:01Z
+5,cpe:2.3:a:cloudfoundry:bosh-azure-cpi:35.2.0:*:*:*:*:*:*:*,Cloud Foundry bosh-azure-cpi 35.2.0,[''],2022-03-20T03:01Z
+6,cpe:2.3:a:cloudfoundry:bosh-azure-cpi:35.3.0:*:*:*:*:*:*:*,Cloud Foundry bosh-azure-cpi 35.3.0,[''],2022-03-20T03:01Z
+7,cpe:2.3:a:cloudfoundry:bosh-azure-cpi:35.4.0:*:*:*:*:*:*:*,Cloud Foundry bosh-azure-cpi 35.4.0,[''],2022-03-20T03:01Z
+8,cpe:2.3:a:cloudfoundry:bosh-azure-cpi:35.4.1:*:*:*:*:*:*:*,Cloud Foundry bosh-azure-cpi 35.4.1,[''],2022-03-20T03:01Z
+9,cpe:2.3:a:cloudfoundry:bosh-azure-cpi:35.4.3:*:*:*:*:*:*:*,Cloud Foundry bosh-azure-cpi 35.4.3,[''],2022-03-20T03:01Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:privileged_access_manager:3.1.4:*:*:*:*:*:*:*,Broadcom Privileged Access Manager 3.1.4,[''],2022-03-19T12:28Z
+1,cpe:2.3:a:broadcom:privileged_access_manager:3.2.0:*:*:*:*:*:*:*,Broadcom Privileged Access Manager 3.2.0,['CVE-2019-7392'],2022-03-19T12:28Z
+2,cpe:2.3:a:broadcom:privileged_access_manager:3.2.1:*:*:*:*:*:*:*,Broadcom Privileged Access Manager 3.2.1,['CVE-2019-7392'],2022-03-19T12:28Z
+3,cpe:2.3:a:broadcom:privileged_access_manager:3.2.3:*:*:*:*:*:*:*,Broadcom Privileged Access Manager 3.2.3,[''],2022-03-19T12:28Z
+4,cpe:2.3:a:broadcom:privileged_access_manager:3.2.4:*:*:*:*:*:*:*,Broadcom Privileged Access Manager 3.2.4,[''],2022-03-19T12:28Z
+5,cpe:2.3:a:broadcom:project_portfolio_management:14.2:*:*:*:*:*:*:*,Broadcom Project Portfolio Management 14.2,"['CVE-2018-13822', 'CVE-2018-13823', 'CVE-2018-13824', 'CVE-2018-13825', 'CVE-2018-13826']",2022-03-19T12:28Z
+6,cpe:2.3:a:broadcom:project_portfolio_management:14.3:*:*:*:*:*:*:*,Broadcom Project Portfolio Management 14.3,"['CVE-2018-13822', 'CVE-2018-13823', 'CVE-2018-13824', 'CVE-2018-13825', 'CVE-2018-13826']",2022-03-19T12:28Z
+7,cpe:2.3:a:broadcom:project_portfolio_management:14.4:*:*:*:*:*:*:*,Broadcom Project Portfolio Management 14.4,"['CVE-2018-13822', 'CVE-2018-13823', 'CVE-2018-13824', 'CVE-2018-13825', 'CVE-2018-13826']",2022-03-19T12:28Z
+8,cpe:2.3:a:broadcom:project_portfolio_management:15.1:*:*:*:*:*:*:*,Broadcom Project Portfolio Management 15.1,"['CVE-2018-13822', 'CVE-2018-13823', 'CVE-2018-13824', 'CVE-2018-13825', 'CVE-2018-13826']",2022-03-19T12:28Z
+9,cpe:2.3:a:broadcom:project_portfolio_management:15.2:-:*:*:*:*:*:*,Broadcom Project Portfolio Management 15.2,[''],2022-03-19T12:28Z

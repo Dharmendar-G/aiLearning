@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:askey:ap5100w_firmware:-:*:*:*:*:*:*:*,Askey AP5100W Firmware,"['CVE-2020-15023', 'CVE-2020-15357']",2022-03-18T23:47Z
+1,cpe:2.3:o:askey:ap5100w_firmware:1.01.097:*:*:*:*:*:*:*,Askey AP5100W Firmware 1.01.097,"['CVE-2020-15023', 'CVE-2020-15357']",2022-03-18T23:47Z
+2,cpe:2.3:h:askey:rtf3505vw-n1_br_sv_g000_r3505vwn1001_s32_7:-:*:*:*:*:*:*:*,Askey RTF3505VW-N1 BR SV G000 R3505VWN1001 S32 7,['CVE-2020-28695'],2022-03-18T23:47Z
+3,cpe:2.3:o:askey:rtf3505vw-n1_br_sv_g000_r3505vwn1001_s32_7_firmware:-:*:*:*:*:*:*:*,Askey RTF3505VW-N1 BR SV G000 R3505VWN1001 S32 7 FIRMWARE,['CVE-2020-28695'],2022-03-18T23:47Z
+4,cpe:2.3:a:askia:askiaweb:-:*:*:*:*:*:*:*,Askia askiaweb,"['CVE-2013-0123', 'CVE-2013-0124']",2022-03-18T23:47Z
+5,cpe:2.3:a:askpop3d_project:askpop3d:0.7.7:*:*:*:*:*:*:*,askpop3d Project askpop3d 0.7.7,['CVE-2014-3208'],2022-03-18T23:47Z
+6,cpe:2.3:a:asn1_der_project:asn1_der:-:*:*:*:*:*:*:*,asn1_der Project asn1_der,['CVE-2019-15549'],2022-03-18T23:47Z
+7,cpe:2.3:a:asn1_der_project:asn1_der:0.5.0:*:*:*:*:*:*:*,asn1_der Project asn1_der 0.5.0,['CVE-2019-15549'],2022-03-18T23:47Z
+8,cpe:2.3:a:asn1_der_project:asn1_der:0.5.1:*:*:*:*:*:*:*,asn1_der Project asn1_der 0.5.1,['CVE-2019-15549'],2022-03-18T23:47Z
+9,cpe:2.3:a:asn1_der_project:asn1_der:0.5.2:*:*:*:*:*:*:*,asn1_der Project asn1_der 0.5.2,['CVE-2019-15549'],2022-03-18T23:47Z

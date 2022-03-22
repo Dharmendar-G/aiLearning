@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:8af51a:-:*:*:*:*:*:*:*,HP 8AF51A,[''],2022-03-21T12:52Z
+1,cpe:2.3:h:hp:8af52a:-:*:*:*:*:*:*:*,HP 8AF52A,[''],2022-03-21T12:52Z
+2,cpe:2.3:h:hp:8af71a:-:*:*:*:*:*:*:*,HP 8AF71A,[''],2022-03-21T12:52Z
+3,cpe:2.3:h:hp:8af72a:-:*:*:*:*:*:*:*,HP 8AF72A,[''],2022-03-21T12:52Z
+4,cpe:2.3:h:hp:8gb_simple_san_connection_kit:ak241a:*:*:*:*:*:*:*,HP 8GB Simple SAN Connection Kit AK241A,['CVE-2014-2603'],2022-03-21T12:52Z
+5,cpe:2.3:h:hp:8gb_simple_san_connection_kit:ak241b:*:*:*:*:*:*:*,HP 8GB Simple SAN Connection Kit AK241B,['CVE-2014-2603'],2022-03-21T12:52Z
+6,cpe:2.3:h:hp:9000:-:*:*:*:*:*:*:*,HP HP9000,['CVE-2010-4107'],2022-03-21T12:52Z
+7,cpe:2.3:h:hp:9100c_digital_sender:-:*:*:*:*:*:*:*,HP Network Printer HP Digital Sender 9100C,"['CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T12:52Z
+8,cpe:2.3:h:hp:9200c_digital_sender:-:*:*:*:*:*:*:*,HP Network Printer HP Digital Sender 9200C,"['CVE-2008-4419', 'CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T12:52Z
+9,cpe:2.3:h:hp:9500_vpn_firewall_module:jd245a:*:*:*:*:*:*:*,HP 9500 VPN Firewall Module JD245A,['CVE-2013-4840'],2022-03-21T12:52Z

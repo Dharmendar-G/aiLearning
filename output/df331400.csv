@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:htmldoc_project:htmldoc:1.9.4:*:*:*:*:*:*:*,HTMLDOC Project HTMLDOC 1.9.4,"['CVE-2021-20308', 'CVE-2021-23180', 'CVE-2021-23191', 'CVE-2021-23206', 'CVE-2021-40985', 'CVE-2021-43579']",2022-03-21T16:48Z
+1,cpe:2.3:a:htmldoc_project:htmldoc:1.9.5:*:*:*:*:*:*:*,HTMLDOC Project HTMLDOC 1.9.5,"['CVE-2021-20308', 'CVE-2021-23180', 'CVE-2021-23191', 'CVE-2021-23206', 'CVE-2021-40985', 'CVE-2021-43579']",2022-03-21T16:48Z
+2,cpe:2.3:a:htmldoc_project:htmldoc:1.9.6:*:*:*:*:*:*:*,HTMLDOC Project HTMLDOC 1.9.6,"['CVE-2021-20308', 'CVE-2021-23180', 'CVE-2021-23191', 'CVE-2021-23206', 'CVE-2021-40985', 'CVE-2021-43579']",2022-03-21T16:48Z
+3,cpe:2.3:a:htmldoc_project:htmldoc:1.9.7:*:*:*:*:*:*:*,HTMLDOC Project HTMLDOC 1.9.7,"['CVE-2019-19630', 'CVE-2021-20308', 'CVE-2021-23180', 'CVE-2021-23191', 'CVE-2021-23206', 'CVE-2021-40985', 'CVE-2021-43579']",2022-03-21T16:48Z
+4,cpe:2.3:a:htmldoc_project:htmldoc:1.9.8:*:*:*:*:*:*:*,HTMLDOC Project HTMLDOC 1.9.8,"['CVE-2021-20308', 'CVE-2021-23180', 'CVE-2021-23191', 'CVE-2021-23206', 'CVE-2021-40985', 'CVE-2021-43579']",2022-03-21T16:48Z
+5,cpe:2.3:a:htmldoc_project:htmldoc:1.9.9:*:*:*:*:*:*:*,HTMLDOC Project HTMLDOC 1.9.9,"['CVE-2021-20308', 'CVE-2021-23180', 'CVE-2021-23191', 'CVE-2021-23206', 'CVE-2021-40985', 'CVE-2021-43579']",2022-03-21T16:48Z
+6,cpe:2.3:a:htmldoc_project:htmldoc:1.9.10:*:*:*:*:*:*:*,HTMLDOC Project HTMLDOC 1.9.10,"['CVE-2021-20308', 'CVE-2021-23180', 'CVE-2021-23191', 'CVE-2021-23206', 'CVE-2021-40985', 'CVE-2021-43579']",2022-03-21T16:48Z
+7,cpe:2.3:a:htmldoc_project:htmldoc:1.9.11:*:*:*:*:*:*:*,HTMLDOC Project HTMLDOC 1.9.11,"['CVE-2021-20308', 'CVE-2021-23180', 'CVE-2021-23191', 'CVE-2021-23206', 'CVE-2021-26948', 'CVE-2021-40985', 'CVE-2021-43579']",2022-03-21T16:48Z
+8,cpe:2.3:a:htmldoc_project:htmldoc:1.9.12:*:*:*:*:*:*:*,HTMLDOC Project HTMLDOC 1.9.12,"['CVE-2021-23180', 'CVE-2021-23191', 'CVE-2021-23206', 'CVE-2021-26252', 'CVE-2021-26259', 'CVE-2021-43579']",2022-03-21T16:48Z
+9,cpe:2.3:a:htmldoc_project:htmldoc:1.9.13:*:*:*:*:*:*:*,HTMLDOC Project HTMLDOC 1.9.13,['CVE-2021-43579'],2022-03-21T16:48Z

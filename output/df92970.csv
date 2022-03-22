@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:etrust_ez_armor:3:*:*:*:*:*:*:*,Broadcom eTrust EZ Armor 3,['CVE-2007-3875'],2022-03-19T12:20Z
+1,cpe:2.3:a:broadcom:etrust_ez_armor:3.0:*:*:*:*:*:*:*,Broadcom eTrust EZ Armor 3.0,['CVE-2007-2864'],2022-03-19T12:21Z
+2,cpe:2.3:a:broadcom:etrust_ez_armor:3.1:*:*:*:*:*:*:*,Broadcom eTrust EZ Armor 3.1,['CVE-2007-2864'],2022-03-19T12:21Z
+3,cpe:2.3:a:broadcom:etrust_ez_armor_le:2.0:*:*:*:*:*:*:*,Broadcom eTrust EZ Armor LE 2.0,['CVE-2005-1693'],2022-03-19T12:21Z
+4,cpe:2.3:a:broadcom:etrust_ez_armor_le:3.0.0.14:*:*:*:*:*:*:*,Broadcom eTrust EZ Armor LE 3.0.0.14,['CVE-2005-1693'],2022-03-19T12:21Z
+5,cpe:2.3:a:broadcom:etrust_iam_suite:12.0:*:*:*:*:*:*:*,Broadcom eTrust Identity and Access Management Suite 12.0,[''],2022-03-19T12:21Z
+6,cpe:2.3:a:broadcom:etrust_iam_suite:12.0.1.114:*:*:*:*:*:*:*,Broadcom eTrust Identity and Access Management Suite 12.0.1.114,[''],2022-03-19T12:21Z
+7,cpe:2.3:a:broadcom:etrust_iam_suite:12.0.7.441:*:*:*:*:*:*:*,Broadcom eTrust Identity and Access Management Suite 12.0.7.441,[''],2022-03-19T12:21Z
+8,cpe:2.3:a:broadcom:etrust_identity_minder:-:*:*:*:*:*:*:*,Broadcom eTrust Identity Minder,[''],2022-03-19T12:21Z
+9,cpe:2.3:a:broadcom:etrust_identity_minder:8.0:*:*:*:*:*:*:*,Broadcom eTrust Identity Minder 8.0,['CVE-2005-3653'],2022-03-19T12:21Z

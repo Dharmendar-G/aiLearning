@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cliniccases:cliniccases:7.2.7:*:*:*:*:*:*:*,ClinicCases 7.2.7,[''],2022-03-20T02:31Z
+1,cpe:2.3:a:cliniccases:cliniccases:7.2.8:*:*:*:*:*:*:*,ClinicCases 7.2.8,[''],2022-03-20T02:31Z
+2,cpe:2.3:a:cliniccases:cliniccases:7.2.9:*:*:*:*:*:*:*,ClinicCases 7.2.9,[''],2022-03-20T02:31Z
+3,cpe:2.3:a:cliniccases:cliniccases:7.2.10:*:*:*:*:*:*:*,ClinicCases 7.2.10,[''],2022-03-20T02:31Z
+4,cpe:2.3:a:cliniccases:cliniccases:7.3.0:*:*:*:*:*:*:*,ClinicCases 7.3.0,[''],2022-03-20T02:31Z
+5,cpe:2.3:a:cliniccases:cliniccases:7.3.1:*:*:*:*:*:*:*,ClinicCases 7.3.1,[''],2022-03-20T02:31Z
+6,cpe:2.3:a:cliniccases:cliniccases:7.3.2:*:*:*:*:*:*:*,ClinicCases 7.3.2,[''],2022-03-20T02:31Z
+7,cpe:2.3:a:cliniccases:cliniccases:7.3.3:*:*:*:*:*:*:*,ClinicCases 7.3.3,"['CVE-2021-38704', 'CVE-2021-38705', 'CVE-2021-38706', 'CVE-2021-38707']",2022-03-20T02:31Z
+8,cpe:2.3:a:clipboard_project:clipboard:-:*:*:*:*:perl:*:*,Clipboard Project Clipboard for Perl,['CVE-2014-5509'],2022-03-20T02:32Z
+9,cpe:2.3:a:clipboard_project:clipboard:0.06:*:*:*:*:perl:*:*,Clipboard Project Clipboard 0.06 for Perl,[''],2022-03-20T02:32Z

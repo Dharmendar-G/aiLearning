@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:boltwire:boltwire:3.2.5:*:*:*:*:*:*:*,BoltWire 3.2.5,"['CVE-2013-0737', 'CVE-2013-2651']",2022-03-19T09:32Z
+1,cpe:2.3:a:boltwire:boltwire:3.2.6:*:*:*:*:*:*:*,BoltWire 3.2.6,"['CVE-2013-0737', 'CVE-2013-2651']",2022-03-19T09:32Z
+2,cpe:2.3:a:boltwire:boltwire:3.2.7:*:*:*:*:*:*:*,BoltWire 3.2.7,"['CVE-2013-0737', 'CVE-2013-2651']",2022-03-19T09:32Z
+3,cpe:2.3:a:boltwire:boltwire:3.2.8:*:*:*:*:*:*:*,BoltWire 3.2.8,"['CVE-2013-0737', 'CVE-2013-2651']",2022-03-19T09:32Z
+4,cpe:2.3:a:boltwire:boltwire:3.2.9:*:*:*:*:*:*:*,BoltWire 3.2.9,"['CVE-2013-0737', 'CVE-2013-2651']",2022-03-19T09:32Z
+5,cpe:2.3:a:boltwire:boltwire:3.2.10:*:*:*:*:*:*:*,BoltWire 3.2.10,"['CVE-2013-0737', 'CVE-2013-2651']",2022-03-19T09:32Z
+6,cpe:2.3:a:boltwire:boltwire:3.2.11:*:*:*:*:*:*:*,BoltWire 3.2.11,"['CVE-2013-0737', 'CVE-2013-2651']",2022-03-19T09:32Z
+7,cpe:2.3:a:boltwire:boltwire:3.3:*:*:*:*:*:*:*,BoltWire 3.3,"['CVE-2013-0737', 'CVE-2013-2651']",2022-03-19T09:32Z
+8,cpe:2.3:a:boltwire:boltwire:3.03:*:*:*:*:*:*:*,BoltWire 3.03,"['CVE-2013-0737', 'CVE-2013-2651']",2022-03-19T09:32Z
+9,cpe:2.3:a:boltwire:boltwire:3.3.1:*:*:*:*:*:*:*,BoltWire 3.3.1,"['CVE-2013-0737', 'CVE-2013-2651']",2022-03-19T09:32Z

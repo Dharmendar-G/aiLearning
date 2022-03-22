@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:secure_email:-:*:*:*:*:*:*:*,Cisco Secure Email,[''],2022-03-19T23:59Z
+1,cpe:2.3:h:cisco:secure_email_and_web_manager:-:*:*:*:*:*:*:*,Cisco Secure Email and Web Manager,['CVE-2021-1561'],2022-03-19T23:59Z
+2,cpe:2.3:a:cisco:secure_email_and_web_manager:-:*:*:*:*:*:*:*,Cisco Secure Email and Web Manager,[''],2022-03-19T23:59Z
+3,cpe:2.3:a:cisco:secure_intrusion_detection_system:-:*:*:*:*:*:*:*,Cisco Secure Intrusion Detection System,['CVE-2001-0669'],2022-03-19T23:59Z
+4,cpe:2.3:h:cisco:secure_pix_firewall:-:*:*:*:*:*:*:*,Cisco Secure PIX Firewall,['CVE-2006-3906'],2022-03-19T23:59Z
+5,cpe:2.3:a:cisco:secure_services_client:-:*:*:*:*:*:*:*,Cisco Secure Services Client,[''],2022-03-19T23:59Z
+6,cpe:2.3:a:cisco:secure_services_client:4.0:*:*:*:*:*:*:*,Cisco Secure Services Client 4.0,"['CVE-2007-1064', 'CVE-2007-1065', 'CVE-2007-1066', 'CVE-2007-1068']",2022-03-19T23:59Z
+7,cpe:2.3:a:cisco:secure_services_client:4.0.5:*:*:*:*:*:*:*,Cisco Secure Services Client 4.0.5,"['CVE-2007-1064', 'CVE-2007-1065', 'CVE-2007-1066', 'CVE-2007-1068']",2022-03-19T23:59Z
+8,cpe:2.3:a:cisco:secure_services_client:4.0.51:*:*:*:*:*:*:*,Cisco Secure Services Client 4.0.51,"['CVE-2007-1064', 'CVE-2007-1065', 'CVE-2007-1066', 'CVE-2007-1068']",2022-03-19T23:59Z
+9,cpe:2.3:a:cisco:security_agent:-:*:*:*:*:*:*:*,Cisco Security Agent,[''],2022-03-19T23:59Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ambittechnologies:itech_classifieds_script:7.41i:*:*:*:*:*:*:*,Ambit Technologies iTech Classifieds Script 7.41i,['CVE-2017-12757'],2022-03-18T16:00Z
+1,cpe:2.3:a:ambittechnologies:itech_dating_script:3.40i:*:*:*:*:*:*:*,Ambit Technologies iTech Dating Script 3.40i,['CVE-2017-12757'],2022-03-18T16:00Z
+2,cpe:2.3:a:ambittechnologies:itech_freelancer_script:5.27i:*:*:*:*:*:*:*,Ambit Technologies iTech Freelancer Script 5.27i,['CVE-2017-12757'],2022-03-18T16:00Z
+3,cpe:2.3:a:ambittechnologies:itech_image_sharing_script:4.13i:*:*:*:*:*:*:*,Ambit Technologies iTech Image Sharing Script 4.13i,['CVE-2017-12757'],2022-03-18T16:00Z
+4,cpe:2.3:a:ambittechnologies:itech_job_script:9.27i:*:*:*:*:*:*:*,Ambit Technologies iTech Job Script 9.27i,['CVE-2017-12757'],2022-03-18T16:00Z
+5,cpe:2.3:a:ambittechnologies:itech_movie_script:7.51i:*:*:*:*:*:*:*,Ambit Technologies iTech Movie Script 7.51i,['CVE-2017-12757'],2022-03-18T16:00Z
+6,cpe:2.3:a:ambittechnologies:itech_multi_vendor_script:6.63i:*:*:*:*:*:*:*,Ambit Technologies iTech Multi Vendor Script 6.63i,['CVE-2017-12757'],2022-03-18T16:00Z
+7,cpe:2.3:a:ambittechnologies:itech_social_networking_script:3.08i:*:*:*:*:*:*:*,Ambit Technologies iTech Social Networking Script 3.08i,['CVE-2017-12757'],2022-03-18T16:00Z
+8,cpe:2.3:a:ambittechnologies:itech_travel_script:9.49:*:*:*:*:*:*:*,Ambit Technologies iTech Travel Script 9.49,['CVE-2017-12757'],2022-03-18T16:00Z
+9,cpe:2.3:a:amcharts:flash:1.0:*:*:*:*:*:*:*,AMcharts Flash 1.0,['CVE-2012-1303'],2022-03-18T16:00Z

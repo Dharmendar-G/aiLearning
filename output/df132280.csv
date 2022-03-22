@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:rf_gateway_1:-:*:*:*:*:*:*:*,Cisco RF Gateway 1,['CVE-2017-12318'],2022-03-19T23:50Z
+1,cpe:2.3:o:cisco:rf_gateway_1_firmware:-:*:*:*:*:*:*:*,Cisco RF Gateway 1 Firmware,['CVE-2017-12318'],2022-03-19T23:50Z
+2,cpe:2.3:h:cisco:rf_gateway_10:-:*:*:*:*:*:*:*,Cisco RF Gateway 10,['CVE-2017-3881'],2022-03-19T23:50Z
+3,cpe:2.3:a:cisco:roomos:-:*:*:*:*:*:*:*,Cisco RoomOS,"['CVE-2019-15289', 'CVE-2020-26068', 'CVE-2020-3336']",2022-03-19T23:50Z
+4,cpe:2.3:o:cisco:roomos:9.7.2:*:*:*:*:*:*:*,Cisco RoomOS 9.7.2,"['CVE-2019-12622', 'CVE-2019-15288', 'CVE-2019-15967', 'CVE-2021-1532', 'CVE-2021-34758']",2022-03-19T23:50Z
+5,cpe:2.3:o:cisco:roomos:9.7.3:*:*:*:*:*:*:*,Cisco RoomOS 9.7.3,"['CVE-2019-15288', 'CVE-2019-15967', 'CVE-2021-1532', 'CVE-2021-34758']",2022-03-19T23:50Z
+6,cpe:2.3:o:cisco:roomos:9.8.0:*:*:*:*:*:*:*,Cisco RoomOS 9.8.0,"['CVE-2019-15288', 'CVE-2019-15967', 'CVE-2021-1532', 'CVE-2021-34758']",2022-03-19T23:50Z
+7,cpe:2.3:o:cisco:roomos:9.15.0.8:*:*:*:*:*:*:*,Cisco RoomOS 9.15.0.8,"['CVE-2019-15288', 'CVE-2019-15967', 'CVE-2021-1532', 'CVE-2021-34758']",2022-03-19T23:50Z
+8,cpe:2.3:o:cisco:roomos:9.15.1.11:*:*:*:*:*:*:*,Cisco RoomOS 9.15.1.11,"['CVE-2019-15288', 'CVE-2019-15967', 'CVE-2021-1532', 'CVE-2021-34758']",2022-03-19T23:50Z
+9,cpe:2.3:o:cisco:roomos:9.15.2.12:*:*:*:*:*:*:*,Cisco RoomOS 9.15.2.12,"['CVE-2019-15288', 'CVE-2019-15967', 'CVE-2021-1532', 'CVE-2021-34758']",2022-03-19T23:50Z

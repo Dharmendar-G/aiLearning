@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:s6700_firmware:v200r003:*:*:*:*:*:*:*,Huawei S6700 Firmware V200R003,['CVE-2014-8572'],2022-03-21T18:40Z
+1,cpe:2.3:o:huawei:s6700_firmware:v200r003c00:*:*:*:*:*:*:*,Huawei S6700 Firmware V200r003c00,"['CVE-2014-8572', 'CVE-2016-6518', 'CVE-2016-8773', 'CVE-2017-15333', 'CVE-2017-15346', 'CVE-2017-17141', 'CVE-2017-17165', 'CVE-2017-8147', 'CVE-2019-5285']",2022-03-21T18:40Z
+2,cpe:2.3:o:huawei:s6700_firmware:v200r003c00spc300:*:*:*:*:*:*:*,Huawei S6700 Firmware V200R003C00SPC300,"['CVE-2014-4705', 'CVE-2014-4706', 'CVE-2014-5394', 'CVE-2014-8572', 'CVE-2016-2404']",2022-03-21T18:40Z
+3,cpe:2.3:o:huawei:s6700_firmware:v200r003c02:*:*:*:*:*:*:*,Huawei S6700 Firmware V200r003c02,"['CVE-2014-8572', 'CVE-2017-8147']",2022-03-21T18:40Z
+4,cpe:2.3:o:huawei:s6700_firmware:v200r003c10:*:*:*:*:*:*:*,Huawei S6700 Firmware V200r003c10,"['CVE-2014-8572', 'CVE-2017-8147']",2022-03-21T18:40Z
+5,cpe:2.3:o:huawei:s6700_firmware:v200r005c00:*:*:*:*:*:*:*,Huawei S6700 Firmware V200R005C00,"['CVE-2014-8572', 'CVE-2016-8773', 'CVE-2017-15324', 'CVE-2017-15333', 'CVE-2017-15346', 'CVE-2017-17141', 'CVE-2017-17165', 'CVE-2017-8147', 'CVE-2019-19397', 'CVE-2019-5285', 'CVE-2019-5304']",2022-03-21T18:41Z
+6,cpe:2.3:o:huawei:s6700_firmware:v200r005c00spc300:*:*:*:*:*:*:*,Huawei S6700 Firmware V200R005C00SPC300,['CVE-2014-8572'],2022-03-21T18:41Z
+7,cpe:2.3:o:huawei:s6700_firmware:v200r005c00spc500:*:*:*:*:*:*:*,Huawei S6700 Firmware V200R005C00SPC500,"['CVE-2016-2404', 'CVE-2019-5290', 'CVE-2020-1810', 'CVE-2021-22359']",2022-03-21T18:41Z
+8,cpe:2.3:o:huawei:s6700_firmware:v200r005c01:*:*:*:*:*:*:*,Huawei S6700 Firmware V200R005C01,"['CVE-2017-17141', 'CVE-2017-17165', 'CVE-2019-19397', 'CVE-2019-5290', 'CVE-2019-5304', 'CVE-2020-1810']",2022-03-21T18:41Z
+9,cpe:2.3:o:huawei:s6700_firmware:v200r005c02:*:*:*:*:*:*:*,Huawei S6700 Firmware V200R005C02,"['CVE-2017-15333', 'CVE-2017-15346', 'CVE-2017-17141', 'CVE-2017-17165', 'CVE-2019-19397', 'CVE-2019-5290', 'CVE-2019-5304']",2022-03-21T18:41Z

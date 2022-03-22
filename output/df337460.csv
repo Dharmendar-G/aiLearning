@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:tp3206_firmware:v100r002c00spc700:*:*:*:*:*:*:*,Huawei TP3206 Firmware V100R002C00SPC700,"['CVE-2017-17142', 'CVE-2017-17143', 'CVE-2017-17144']",2022-03-21T19:02Z
+1,cpe:2.3:o:huawei:tp3206_firmware:v100r002c00spc800:*:*:*:*:*:*:*,Huawei TP3206 Firmware V100R002C00SPC800,[''],2022-03-21T19:02Z
+2,cpe:2.3:o:huawei:tp3206_firmware:v100r002c10:*:*:*:*:*:*:*,Huawei TP3206 Firmware V100R002C10,"['CVE-2017-15350', 'CVE-2017-17135', 'CVE-2017-17136', 'CVE-2017-17137', 'CVE-2017-17138', 'CVE-2017-17142', 'CVE-2017-17143', 'CVE-2017-17144', 'CVE-2017-17251', 'CVE-2017-17252', 'CVE-2017-17253', 'CVE-2017-17254', 'CVE-2017-17255', 'CVE-2017-17256', 'CVE-2017-17257', 'CVE-2017-17258', 'CVE-2017-17291', 'CVE-2017-17292', 'CVE-2017-17293', 'CVE-2017-17294', 'CVE-2017-17295', 'CVE-2017-17296', 'CVE-2017-17297', 'CVE-2017-17298']",2022-03-21T19:02Z
+3,cpe:2.3:h:huawei:tx50:-:*:*:*:*:*:*:*,Huawei TX50,"['CVE-2017-15353', 'CVE-2017-15354', 'CVE-2017-15355', 'CVE-2017-15356']",2022-03-21T19:02Z
+4,cpe:2.3:o:huawei:tx50_firmware:v500r002c00:*:*:*:*:*:*:*,Huawei TX50 Firmware V500r002c00,"['CVE-2017-15353', 'CVE-2017-15354', 'CVE-2017-15355', 'CVE-2017-15356']",2022-03-21T19:02Z
+5,cpe:2.3:o:huawei:tx50_firmware:v600r006c00:*:*:*:*:*:*:*,Huawei TX50 Firmware V600r006c00,"['CVE-2017-15353', 'CVE-2017-15354', 'CVE-2017-15355', 'CVE-2017-15356']",2022-03-21T19:02Z
+6,cpe:2.3:h:huawei:uap2105:-:*:*:*:*:*:*:*,Huawei UAP2105,['CVE-2015-6592'],2022-03-21T19:02Z
+7,cpe:2.3:o:huawei:uap2105_firmware:v300r011c0spc100:*:*:*:*:*:*:*,Huawei UAP2105 Firmware V300R011C0SPC100,['CVE-2015-6592'],2022-03-21T19:02Z
+8,cpe:2.3:o:huawei:uap2105_firmware:v300r011c01b028:*:*:*:*:*:*:*,Huawei UAP2105 Firmware V300R011C01B028,['CVE-2015-6592'],2022-03-21T19:02Z
+9,cpe:2.3:o:huawei:uap2105_firmware:v300r011c01b030:*:*:*:*:*:*:*,Huawei UAP2105  Firmware V300R011C01B030,['CVE-2015-6592'],2022-03-21T19:02Z

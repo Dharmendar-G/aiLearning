@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:integrated_management_controller_supervisor:4.0\(1d\):*:*:*:*:*:*:*,Cisco Integrated Management Controller Supervisor 4.0(1d),['CVE-2019-1907'],2022-03-19T20:10Z
+1,cpe:2.3:a:cisco:integrated_management_controller_supervisor:4.0\(2c\):*:*:*:*:*:*:*,Cisco Integrated Management Controller Supervisor 4.0(2c),['CVE-2019-1907'],2022-03-19T20:10Z
+2,cpe:2.3:a:cisco:integrated_management_controller_supervisor:4.0\(2f\):*:*:*:*:*:*:*,Cisco Integrated Management Controller Supervisor 4.0(2f),['CVE-2019-1907'],2022-03-19T20:10Z
+3,cpe:2.3:a:cisco:integrated_management_controller_supervisor:4.0\(4b\):*:*:*:*:*:*:*,Cisco Integrated Management Controller Supervisor 4.0(4b),[''],2022-03-19T20:10Z
+4,cpe:2.3:a:cisco:integrated_management_controller_supervisor:4.0.0.0:*:*:*:*:*:*:*,Cisco Integrated Management Controller Supervisor 4.0.0.0,[''],2022-03-19T20:10Z
+5,cpe:2.3:a:cisco:integrated_management_controller_supervisor:4.0\\\(4b\\\):*:*:*:*:*:*:*,Cisco Integrated Management Controller Supervisor 4.0\(4b\),[''],2022-03-19T20:10Z
+6,cpe:2.3:o:cisco:integrated_services_router_4200_firmware:1.1:*:*:*:*:*:*:*,Cisco Integrated Services Router 4200 Firmware 1.1,[''],2022-03-19T20:10Z
+7,cpe:2.3:h:cisco:integrated_services_router_4221:-:*:*:*:*:*:*:*,Cisco Integrated Services Router 4221,"['CVE-2020-3141', 'CVE-2020-3393', 'CVE-2020-3404', 'CVE-2020-3407', 'CVE-2020-3408', 'CVE-2020-3503']",2022-03-19T20:10Z
+8,cpe:2.3:o:cisco:integrated_services_router_4300_firmware:1.1:*:*:*:*:*:*:*,Cisco Integrated Services Router 4300 Firmware 1.1,[''],2022-03-19T20:10Z
+9,cpe:2.3:h:cisco:integrated_services_router_4331:-:*:*:*:*:*:*:*,Cisco Integrated Services Router 4331,"['CVE-2020-3141', 'CVE-2020-3393', 'CVE-2020-3404', 'CVE-2020-3407', 'CVE-2020-3408', 'CVE-2020-3503']",2022-03-19T20:10Z

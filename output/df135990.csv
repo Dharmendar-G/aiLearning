@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:telepresence_video_communication_server_software:x8.5.1:*:*:*:expressway:*:*:*,Cisco TelePresence Video Communication Server (VCS) Software X8.5.1 Expressway Edition,"['CVE-2015-4314', 'CVE-2015-4319', 'CVE-2015-6318', 'CVE-2015-6376', 'CVE-2016-1316', 'CVE-2016-1338', 'CVE-2016-1444']",2022-03-20T00:37Z
+1,cpe:2.3:a:cisco:telepresence_video_communication_server_software:x8.5.2:*:*:*:*:*:*:*,Cisco TelePresence Video Communication Server (VCS) Software X8.5.2,"['CVE-2015-4303', 'CVE-2015-4317', 'CVE-2015-4329', 'CVE-2016-1316', 'CVE-2016-1338']",2022-03-20T00:37Z
+2,cpe:2.3:a:cisco:telepresence_video_communication_server_software:x8.5.2:*:*:*:expressway:*:*:*,Cisco TelePresence Video Communication Server (VCS) Software Expressway X8.5.2,"['CVE-2015-4303', 'CVE-2015-4316', 'CVE-2015-4317', 'CVE-2015-4318', 'CVE-2015-4320', 'CVE-2015-4325', 'CVE-2015-4327', 'CVE-2015-4328', 'CVE-2015-4329', 'CVE-2015-4330', 'CVE-2015-6261', 'CVE-2015-6318', 'CVE-2016-1316', 'CVE-2016-1338', 'CVE-2016-1444']",2022-03-20T00:37Z
+3,cpe:2.3:a:cisco:telepresence_video_communication_server_software:x8.5.3:*:*:*:expressway:*:*:*,Cisco TelePresence Video Communication Server (VCS) Software X8.5.3 Expressway Edition,"['CVE-2015-4315', 'CVE-2016-1316', 'CVE-2016-1444']",2022-03-20T00:37Z
+4,cpe:2.3:a:cisco:telepresence_video_communication_server_software:x8.6:*:*:*:*:*:*:*,Cisco Telepresence Video Communication Server Software X8.6,['CVE-2015-6414'],2022-03-20T00:37Z
+5,cpe:2.3:a:cisco:telepresence_video_communication_server_software:x8.6:*:*:*:expressway:*:*:*,Cisco Telepresence Video Communication Server Software X8.6 Expressway,"['CVE-2015-6413', 'CVE-2015-6414', 'CVE-2016-1444']",2022-03-20T00:37Z
+6,cpe:2.3:a:cisco:telepresence_video_communication_server_software:x8.6.0:*:*:*:*:*:*:*,Cisco TelePresence Video Communication Server (VCS) Software X8.6.0,['CVE-2016-1316'],2022-03-20T00:37Z
+7,cpe:2.3:a:cisco:telepresence_video_communication_server_software:x8.6.1:*:*:*:*:*:*:*,Cisco TelePresence Video Communication Server (VCS) Software X8.6.1,['CVE-2016-1316'],2022-03-20T00:37Z
+8,[0],[0],[0],[0]
+9,cpe:2.3:a:cisco:telepresence_video_communication_server_software:x8.7_base:*:*:*:*:*:*:*,Cisco TelePresence Video Communication Server (VCS) Software X8.7 Base,['CVE-2016-1316'],2022-03-20T00:37Z

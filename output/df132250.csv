@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:registered_envelope_service:5.3:*:*:*:*:*:*:*,Cisco Registered Envelope Service (CRES) 5.3,['CVE-2018-0367'],2022-03-19T23:50Z
+1,cpe:2.3:a:cisco:registered_envelope_service:5.3.1:*:*:*:*:*:*:*,Cisco Registered Envelope Service (CRES) 5.3.1,['CVE-2018-0367'],2022-03-19T23:50Z
+2,cpe:2.3:a:cisco:registered_envelope_service:5.3.4:*:*:*:*:*:*:*,Cisco Registered Envelope Service (CRES) 5.3.4,['CVE-2018-0367'],2022-03-19T23:50Z
+3,cpe:2.3:a:cisco:registered_envelope_service:5.3.4-027:*:*:*:*:*:*:*,Cisco Registered Envelope Service 5.3.4-027,['CVE-2019-1777'],2022-03-19T23:50Z
+4,cpe:2.3:a:cisco:registered_envelope_service:5.4.0:*:*:*:*:*:*:*,Cisco Registered Envelope Service (CRES) 5.4.0,[''],2022-03-19T23:50Z
+5,cpe:2.3:a:cisco:remote:phy:-:*:*:*:*:*:*,Cisco Remote PHY,['CVE-2018-15391'],2022-03-19T23:50Z
+6,cpe:2.3:a:cisco:remote_access_plugins_for_adaptive_security_appliance:1.0.0:*:*:*:*:*:*:*,Cisco Remote Access Plugins for Adaptive Security Appliance (ASA) 1.0.0,[''],2022-03-19T23:50Z
+7,cpe:2.3:a:cisco:remote_access_plugins_for_adaptive_security_appliance:1.1.1:*:*:*:*:*:*:*,Cisco Remote Access Plugins for Adaptive Security Appliance (ASA) 1.1.1,[''],2022-03-19T23:50Z
+8,cpe:2.3:a:cisco:remote_expert_manager:11.0.0:*:*:*:*:*:*:*,Cisco Remote Expert Manager 11.0.0,"['CVE-2017-6641', 'CVE-2017-6642', 'CVE-2017-6643', 'CVE-2017-6644', 'CVE-2017-6645', 'CVE-2017-6646', 'CVE-2017-6647']",2022-03-19T23:50Z
+9,cpe:2.3:a:cisco:remote_monitoring_suite_option:-:*:*:*:*:*:*:*,Cisco Remote Monitoring Suite Option,['CVE-2005-0356'],2022-03-19T23:50Z

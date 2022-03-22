@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hpe:msa_2040_firmware:-:*:*:*:*:*:*:*,HPE MSA 2040 Firmware,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z
+1,cpe:2.3:o:hpe:msa_2040_firmware:gl225p001:*:*:*:*:*:*:*,HPE MSA 2040 Firmware GL225P001,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z
+2,cpe:2.3:h:hpe:msa_2042:-:*:*:*:*:*:*:*,HPE MSA 2042,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z
+3,cpe:2.3:o:hpe:msa_2042_firmware:-:*:*:*:*:*:*:*,HPE MSA 2042 Firmware,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z
+4,cpe:2.3:o:hpe:msa_2042_firmware:gl225p001:*:*:*:*:*:*:*,HPE MSA 2042 Firmware GL225P001,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z
+5,cpe:2.3:h:hpe:msa_2050:-:*:*:*:*:*:*:*,HPE MSA 2050,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z
+6,cpe:2.3:o:hpe:msa_2050_firmware:-:*:*:*:*:*:*:*,HPE MSA 2050 Firmware,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z
+7,cpe:2.3:o:hpe:msa_2050_firmware:vl270r001-01:*:*:*:*:*:*:*,HPE MSA 2050 Firmware VL270R001-01,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z
+8,cpe:2.3:h:hpe:msa_2052:-:*:*:*:*:*:*:*,HPE MSA 2052,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z
+9,cpe:2.3:o:hpe:msa_2052_firmware:-:*:*:*:*:*:*:*,HPE MSA 2052 Firmware,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z

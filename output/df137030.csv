@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:2.0\(4b\):*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 2.0(4b),[''],2022-03-20T00:50Z
+1,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:2.0\(4d\):*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 2.0(4d),[''],2022-03-20T00:50Z
+2,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:2.0\(5a\):*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 2.0(5a),[''],2022-03-20T00:50Z
+3,cpe:2.3:h:cisco:unified_computing_system_integrated_management_controller:-:*:*:*:*:*:*:*,Cisco Unified Computing System Cisco Integrated Management Controller,"['CVE-2013-1182', 'CVE-2013-1184', 'CVE-2013-1185', 'CVE-2013-1186']",2022-03-20T00:50Z
+4,cpe:2.3:h:cisco:unified_computing_system_manager:-:*:*:*:*:*:*:*,Cisco Unified Computing System Manager,['CVE-2017-12243'],2022-03-20T00:50Z
+5,cpe:2.3:o:cisco:unified_computing_system_manager_firmware:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) Firmware -,['CVE-2017-12243'],2022-03-20T00:50Z
+6,cpe:2.3:a:cisco:unified_computing_system_performance_manager:1.0_base:*:*:*:*:*:*:*,Cisco Unified Computing System Performance Manager 1.0 BASE,['CVE-2016-1374'],2022-03-20T00:50Z
+7,cpe:2.3:a:cisco:unified_computing_system_performance_manager:1.1.0:*:*:*:*:*:*:*,Cisco Unified Computing System Performance Manager 1.1.0,['CVE-2016-1374'],2022-03-20T00:50Z
+8,cpe:2.3:a:cisco:unified_computing_system_performance_manager:1.1.1:*:*:*:*:*:*:*,Cisco Unified Computing System Performance Manager 1.1.1,['CVE-2016-1374'],2022-03-20T00:50Z
+9,cpe:2.3:a:cisco:unified_computing_system_performance_manager:2.0.0:*:*:*:*:*:*:*,Cisco Unified Computing System Performance Manager 2.0.0,['CVE-2016-1374'],2022-03-20T00:50Z

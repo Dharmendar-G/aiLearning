@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:browserslist_project:browserslist:4.5.3:*:*:*:*:node.js:*:*,browserslist Project browserslist 4.5.3 for Node.js,['CVE-2021-23364'],2022-03-19T12:41Z
+1,cpe:2.3:a:browserslist_project:browserslist:4.5.4:*:*:*:*:node.js:*:*,browserslist Project browserslist 4.5.4 for Node.js,['CVE-2021-23364'],2022-03-19T12:41Z
+2,cpe:2.3:a:browserslist_project:browserslist:4.5.5:*:*:*:*:node.js:*:*,browserslist Project browserslist 4.5.5 for Node.js,['CVE-2021-23364'],2022-03-19T12:41Z
+3,cpe:2.3:a:browserslist_project:browserslist:4.5.6:*:*:*:*:node.js:*:*,browserslist Project browserslist 4.5.6 for Node.js,['CVE-2021-23364'],2022-03-19T12:41Z
+4,cpe:2.3:a:browserslist_project:browserslist:4.6.0:*:*:*:*:node.js:*:*,browserslist Project browserslist 4.6.0 for Node.js,['CVE-2021-23364'],2022-03-19T12:41Z
+5,cpe:2.3:a:browserslist_project:browserslist:4.6.1:*:*:*:*:node.js:*:*,browserslist Project browserslist 4.6.1 for Node.js,['CVE-2021-23364'],2022-03-19T12:41Z
+6,cpe:2.3:a:browserslist_project:browserslist:4.6.2:*:*:*:*:node.js:*:*,browserslist Project browserslist 4.6.2 for Node.js,['CVE-2021-23364'],2022-03-19T12:41Z
+7,cpe:2.3:a:browserslist_project:browserslist:4.6.3:*:*:*:*:node.js:*:*,browserslist Project browserslist 4.6.3 for Node.js,['CVE-2021-23364'],2022-03-19T12:41Z
+8,cpe:2.3:a:browserslist_project:browserslist:4.6.4:*:*:*:*:node.js:*:*,browserslist Project browserslist 4.6.4 for Node.js,['CVE-2021-23364'],2022-03-19T12:41Z
+9,cpe:2.3:a:browserslist_project:browserslist:4.6.5:*:*:*:*:node.js:*:*,browserslist Project browserslist 4.6.5 for Node.js,['CVE-2021-23364'],2022-03-19T12:41Z

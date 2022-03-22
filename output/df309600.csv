@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:heinekingmedia:stashcat:1.5.12:*:*:*:*:android:*:*,heinekingmedia stashcat 1.5.12 for Android,"['CVE-2017-11132', 'CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:35Z
+1,cpe:2.3:a:heinekingmedia:stashcat:1.5.13:*:*:*:*:android:*:*,heinekingmedia stashcat 1.5.13 for Android,"['CVE-2017-11132', 'CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:35Z
+2,cpe:2.3:a:heinekingmedia:stashcat:1.5.14:*:*:*:*:android:*:*,heinekingmedia stashcat 1.5.14 for Android,"['CVE-2017-11132', 'CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:35Z
+3,cpe:2.3:a:heinekingmedia:stashcat:1.5.15:*:*:*:*:android:*:*,heinekingmedia stashcat 1.5.15 for Android,"['CVE-2017-11132', 'CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:35Z
+4,cpe:2.3:a:heinekingmedia:stashcat:1.5.16:*:*:*:*:android:*:*,heinekingmedia stashcat 1.5.16 for Android,"['CVE-2017-11132', 'CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:35Z
+5,cpe:2.3:a:heinekingmedia:stashcat:1.5.17:*:*:*:*:android:*:*,heinekingmedia StashCat 1.5.17 for Android,"['CVE-2017-11132', 'CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:35Z
+6,cpe:2.3:a:heinekingmedia:stashcat:1.5.18:*:*:*:*:android:*:*,heinekingmedia stashcat 1.5.18 for Android,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:35Z
+7,cpe:2.3:a:heinekingmedia:stashcat:1.5.20:*:*:*:*:android:*:*,heinekingmedia stashcat 1.5.20 for Android,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:35Z
+8,cpe:2.3:a:heinekingmedia:stashcat:1.6.0:*:*:*:*:android:*:*,heinekingmedia stashcat 1.6.0 for Android,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:35Z
+9,cpe:2.3:a:heinekingmedia:stashcat:1.7.0:*:*:*:*:android:*:*,heinekingmedia stashcat 1.7.0 for Android,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:35Z

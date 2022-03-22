@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:amazon:sockeye:2.1.5:*:*:*:*:python:*:*,Amazon Sockeye 2.1.5 for Python,['CVE-2021-43811'],2022-03-18T15:58Z
+1,cpe:2.3:a:amazon:sockeye:2.1.6:*:*:*:*:python:*:*,Amazon Sockeye 2.1.6 for Python,['CVE-2021-43811'],2022-03-18T15:58Z
+2,cpe:2.3:a:amazon:sockeye:2.1.7:*:*:*:*:python:*:*,Amazon Sockeye 2.1.7 for Python,['CVE-2021-43811'],2022-03-18T15:58Z
+3,cpe:2.3:a:amazon:sockeye:2.1.8:*:*:*:*:python:*:*,Amazon Sockeye 2.1.8 for Python,['CVE-2021-43811'],2022-03-18T15:58Z
+4,cpe:2.3:a:amazon:sockeye:2.1.9:*:*:*:*:python:*:*,Amazon Sockeye 2.1.9 for Python,['CVE-2021-43811'],2022-03-18T15:58Z
+5,cpe:2.3:a:amazon:sockeye:2.1.10:*:*:*:*:python:*:*,Amazon Sockeye 2.1.10 for Python,['CVE-2021-43811'],2022-03-18T15:58Z
+6,cpe:2.3:a:amazon:sockeye:2.1.11:*:*:*:*:python:*:*,Amazon Sockeye 2.1.11 for Python,['CVE-2021-43811'],2022-03-18T15:58Z
+7,cpe:2.3:a:amazon:sockeye:2.1.12:*:*:*:*:python:*:*,Amazon Sockeye 2.1.12 for Python,['CVE-2021-43811'],2022-03-18T15:58Z
+8,cpe:2.3:a:amazon:sockeye:2.1.13:*:*:*:*:python:*:*,Amazon Sockeye 2.1.13 for Python,['CVE-2021-43811'],2022-03-18T15:58Z
+9,cpe:2.3:a:amazon:sockeye:2.1.14:*:*:*:*:python:*:*,Amazon Sockeye 2.1.14 for Python,['CVE-2021-43811'],2022-03-18T15:58Z

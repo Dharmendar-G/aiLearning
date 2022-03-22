@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codesys:linux:3.5.15.0:*:*:*:*:*:*:*,Codesys Linux 3.5.15.0,[''],2022-03-20T06:16Z
+1,cpe:2.3:a:codesys:opc_server:3.0:*:*:*:*:*:*:*,CODESYS Opc Server 3.0,"['CVE-2018-20026', 'CVE-2021-29242']",2022-03-20T06:16Z
+2,cpe:2.3:a:codesys:opc_server:3.5.14.0:*:*:*:*:*:*:*,CODESYS Opc Server 3.5.14.0,['CVE-2021-29242'],2022-03-20T06:16Z
+3,cpe:2.3:a:codesys:opc_server:3.5.17.0:*:*:*:*:*:*:*,CODESYS OPC Server 3.5.17.0,[''],2022-03-20T06:16Z
+4,cpe:2.3:a:codesys:plchandler:3.0:*:*:*:*:*:*:*,CODESYS Plchandler 3.0,"['CVE-2018-20026', 'CVE-2021-29242']",2022-03-20T06:16Z
+5,cpe:2.3:a:codesys:plchandler:3.5.14.0:*:*:*:*:*:*:*,CODESYS Plchandler 3.5.14.0,['CVE-2021-29242'],2022-03-20T06:16Z
+6,cpe:2.3:a:codesys:plchandler:3.5.17.0:*:*:*:*:*:*:*,CODESYS PLC Handler 3.5.17.0,[''],2022-03-20T06:16Z
+7,cpe:2.3:a:codesys:plcwinnt:-:*:*:*:*:*:*:*,CODESYS PLCWinNT,"['CVE-2019-19789', 'CVE-2021-30186', 'CVE-2021-30195', 'CVE-2021-34593', 'CVE-2021-34595', 'CVE-2021-34596']",2022-03-20T06:16Z
+8,cpe:2.3:a:codesys:plcwinnt:2.4.7.54:*:*:*:*:*:*:*,CODESYS PLCWinNT 2.4.7.54,"['CVE-2021-30186', 'CVE-2021-30195', 'CVE-2021-34593', 'CVE-2021-34595', 'CVE-2021-34596']",2022-03-20T06:16Z
+9,cpe:2.3:a:codesys:raspberry_pi:3.0:*:*:*:*:*:*:*,CODESYS Raspberry Pi 3.0,['CVE-2019-9013'],2022-03-20T06:16Z

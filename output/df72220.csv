@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:beakerbrowser:beaker:0.3.7:*:*:*:*:*:*:*,Beaker Browser 0.3.7,['CVE-2020-12079'],2022-03-19T06:47Z
+1,cpe:2.3:a:beakerbrowser:beaker:0.4.0:*:*:*:*:*:*:*,Beaker Browser 0.4.0,['CVE-2020-12079'],2022-03-19T06:47Z
+2,cpe:2.3:a:beakerbrowser:beaker:0.4.1:*:*:*:*:*:*:*,Beaker Browser 0.4.1,['CVE-2020-12079'],2022-03-19T06:47Z
+3,cpe:2.3:a:beakerbrowser:beaker:0.4.2:*:*:*:*:*:*:*,Beaker Browser 0.4.2,['CVE-2020-12079'],2022-03-19T06:47Z
+4,cpe:2.3:a:beakerbrowser:beaker:0.5:*:*:*:*:python:*:*,Beaker Browser 0.5 for Python,"['CVE-2013-7489', 'CVE-2020-12079']",2022-03-19T06:47Z
+5,cpe:2.3:a:beakerbrowser:beaker:0.5.0:*:*:*:*:*:*:*,Beaker Browser 0.5.0,['CVE-2020-12079'],2022-03-19T06:47Z
+6,cpe:2.3:a:beakerbrowser:beaker:0.5.1:*:*:*:*:*:*:*,Beaker Browser 0.5.1,['CVE-2020-12079'],2022-03-19T06:47Z
+7,cpe:2.3:a:beakerbrowser:beaker:0.5.2:*:*:*:*:*:*:*,Beaker Browser 0.5.2,['CVE-2020-12079'],2022-03-19T06:47Z
+8,cpe:2.3:a:beakerbrowser:beaker:0.6:*:*:*:*:python:*:*,Beaker Browser 0.6 for Python,"['CVE-2013-7489', 'CVE-2020-12079']",2022-03-19T06:47Z
+9,cpe:2.3:a:beakerbrowser:beaker:0.6.0:*:*:*:*:*:*:*,Beaker Browser 0.6.0,['CVE-2020-12079'],2022-03-19T06:47Z

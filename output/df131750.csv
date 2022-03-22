@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:pix_firewall_software:2.7:*:*:*:*:*:*:*,Cisco PIX Firewall Software 2.7,"['CVE-2005-3669', 'CVE-2005-4499', 'CVE-2006-0515', 'CVE-2006-3906', 'CVE-2008-0028']",2022-03-19T23:40Z
+1,cpe:2.3:o:cisco:pix_firewall_software:3.0:*:*:*:*:*:*:*,Cisco PIX Firewall Software 3.0,"['CVE-2005-3669', 'CVE-2005-4499', 'CVE-2006-0515', 'CVE-2006-3906', 'CVE-2008-0028']",2022-03-19T23:40Z
+2,cpe:2.3:o:cisco:pix_firewall_software:3.1:*:*:*:*:*:*:*,Cisco PIX Firewall Software 3.1,"['CVE-2005-3669', 'CVE-2005-4499', 'CVE-2006-0515', 'CVE-2006-3906', 'CVE-2008-0028']",2022-03-19T23:40Z
+3,cpe:2.3:o:cisco:pix_firewall_software:4.0:*:*:*:*:*:*:*,Cisco PIX Firewall Software 4.0,"['CVE-2005-3669', 'CVE-2005-4499', 'CVE-2006-0515', 'CVE-2006-3906', 'CVE-2008-0028']",2022-03-19T23:40Z
+4,cpe:2.3:o:cisco:pix_firewall_software:4.1\(6\):*:*:*:*:*:*:*,Cisco PIX Firewall Software 4.1(6),"['CVE-1999-0158', 'CVE-2000-0150', 'CVE-2005-3669', 'CVE-2005-4499', 'CVE-2006-0515', 'CVE-2006-3906', 'CVE-2008-0028']",2022-03-19T23:40Z
+5,cpe:2.3:o:cisco:pix_firewall_software:4.1\(6b\):*:*:*:*:*:*:*,Cisco PIX Firewall Software 4.1.6 b,"['CVE-2000-0150', 'CVE-2005-3669', 'CVE-2005-4499', 'CVE-2006-0515', 'CVE-2006-3906', 'CVE-2008-0028']",2022-03-19T23:40Z
+6,cpe:2.3:o:cisco:pix_firewall_software:4.2:*:*:*:*:*:*:*,Cisco PIX Firewall Software 4.2,"['CVE-2005-3669', 'CVE-2005-4499', 'CVE-2006-0515', 'CVE-2006-3906', 'CVE-2008-0028']",2022-03-19T23:40Z
+7,cpe:2.3:o:cisco:pix_firewall_software:4.2\(1\):*:*:*:*:*:*:*,Cisco PIX Firewall Software 4.2.1,"['CVE-1999-0157', 'CVE-1999-0158', 'CVE-2000-0150', 'CVE-2000-1022', 'CVE-2005-3669', 'CVE-2005-4499', 'CVE-2006-0515', 'CVE-2006-3906', 'CVE-2008-0028']",2022-03-19T23:40Z
+8,cpe:2.3:o:cisco:pix_firewall_software:4.2\(2\):*:*:*:*:*:*:*,Cisco PIX Firewall Software 4.2.2,"['CVE-2000-0150', 'CVE-2000-1022', 'CVE-2005-3669', 'CVE-2005-4499', 'CVE-2006-0515', 'CVE-2006-3906', 'CVE-2008-0028']",2022-03-19T23:40Z
+9,cpe:2.3:o:cisco:pix_firewall_software:4.2\(5\):*:*:*:*:*:*:*,Cisco PIX Firewall Software 4.2(5),"['CVE-2000-1022', 'CVE-2005-3669', 'CVE-2005-4499', 'CVE-2006-0515', 'CVE-2006-3906', 'CVE-2008-0028']",2022-03-19T23:40Z

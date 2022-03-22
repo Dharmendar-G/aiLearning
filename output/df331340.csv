@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:htmlcleaner_project:htmlcleaner:2.0:*:*:*:*:*:*:*,HtmlCleaner 2.0,['CVE-2013-5035'],2022-03-21T16:47Z
+1,cpe:2.3:a:htmlcleaner_project:htmlcleaner:2.1:*:*:*:*:*:*:*,HtmlCleaner 2.1,['CVE-2013-5035'],2022-03-21T16:47Z
+2,cpe:2.3:a:htmlcleaner_project:htmlcleaner:2.2:*:*:*:*:*:*:*,HtmlCleaner 2.2,['CVE-2013-5035'],2022-03-21T16:47Z
+3,cpe:2.3:a:htmlcleaner_project:htmlcleaner:2.2.1:*:*:*:*:*:*:*,HtmlCleaner 2.2.1,['CVE-2013-5035'],2022-03-21T16:47Z
+4,cpe:2.3:a:htmlcleaner_project:htmlcleaner:2.4:*:*:*:*:*:*:*,HtmlCleaner 2.4,['CVE-2013-5035'],2022-03-21T16:47Z
+5,cpe:2.3:a:htmlcleaner_project:htmlcleaner:2.5:*:*:*:*:*:*:*,HtmlCleaner 2.5,['CVE-2013-5035'],2022-03-21T16:47Z
+6,cpe:2.3:a:htmlcleaner_project:htmlcleaner:2.6:*:*:*:*:*:*:*,HtmlCleaner 2.6,[''],2022-03-21T16:47Z
+7,cpe:2.3:a:htmlcoin:htmlcoin:2.0.0.1:*:*:*:*:*:*:*,HTMLCOIN 2.0.0.1,['CVE-2018-19154'],2022-03-21T16:47Z
+8,cpe:2.3:a:htmlcoin:htmlcoin:2.0.0.2:*:*:*:*:*:*:*,HTMLCOIN 2.0.0.2,['CVE-2018-19154'],2022-03-21T16:47Z
+9,cpe:2.3:a:htmlcoin:htmlcoin:2.0.0.3:*:*:*:*:*:*:*,HTMLCOIN 2.0.0.3,['CVE-2018-19154'],2022-03-21T16:47Z

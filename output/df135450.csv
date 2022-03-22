@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:telepresence_management_suite:14.2.1:*:*:*:*:*:*:*,Cisco TelePresence Management Suite 14.2.1,"['CVE-2015-0620', 'CVE-2020-3185', 'CVE-2021-34760']",2022-03-20T00:30Z
+1,cpe:2.3:a:cisco:telepresence_management_suite:14.2.2:*:*:*:*:*:*:*,Cisco TelePresence Management Suite 14.2.2,"['CVE-2015-0620', 'CVE-2020-3185', 'CVE-2021-34760']",2022-03-20T00:30Z
+2,cpe:2.3:a:cisco:telepresence_management_suite:14.3:*:*:*:*:*:*:*,Cisco Telepresence Management Suite (TMS) 14.3,"['CVE-2015-0620', 'CVE-2020-3185', 'CVE-2021-34760']",2022-03-20T00:30Z
+3,cpe:2.3:a:cisco:telepresence_management_suite:14.3\(.1\):*:*:*:*:*:*:*,Cisco Telepresence Management Suite (TMS) 14.3(.1),"['CVE-2015-0620', 'CVE-2020-3185', 'CVE-2021-34760']",2022-03-20T00:30Z
+4,cpe:2.3:a:cisco:telepresence_management_suite:14.3\(.2\):*:*:*:*:*:*:*,Cisco Telepresence Management Suite (TMS) 14.3(.2),"['CVE-2015-0620', 'CVE-2020-3185', 'CVE-2021-34760']",2022-03-20T00:30Z
+5,cpe:2.3:a:cisco:telepresence_management_suite:14.3.1:*:*:*:*:*:*:*,Cisco TelePresence Management Suite 14.3.1,"['CVE-2020-3185', 'CVE-2021-34760']",2022-03-20T00:30Z
+6,cpe:2.3:a:cisco:telepresence_management_suite:14.3.2:*:*:*:*:*:*:*,Cisco TelePresence Management Suite 14.3.2,"['CVE-2020-3185', 'CVE-2021-34760']",2022-03-20T00:30Z
+7,cpe:2.3:a:cisco:telepresence_management_suite:14.4:*:*:*:*:*:*:*,Cisco TelePresence Management Suite 14.4,"['CVE-2020-3185', 'CVE-2021-34760']",2022-03-20T00:30Z
+8,cpe:2.3:a:cisco:telepresence_management_suite:14.4.1:*:*:*:*:*:*:*,Cisco TelePresence Management Suite 14.4.1,"['CVE-2020-3185', 'CVE-2021-34760']",2022-03-20T00:30Z
+9,cpe:2.3:a:cisco:telepresence_management_suite:14.4.2:*:*:*:*:*:*:*,Cisco TelePresence Management Suite 14.4.2,"['CVE-2020-3185', 'CVE-2021-34760']",2022-03-20T00:30Z

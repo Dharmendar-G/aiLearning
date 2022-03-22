@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apk-parser3_project:apk-parser3:0.1.4:*:*:*:*:node.js:*:*,apk-parser3 Project apk-parser3 0.1.4 for Node.js,[''],2022-03-18T21:21Z
+1,cpe:2.3:a:apk-parser3_project:apk-parser3:0.1.5:*:*:*:*:node.js:*:*,apk-parser3 Project apk-parser3 0.1.5 for Node.js,[''],2022-03-18T21:21Z
+2,cpe:2.3:a:apk-parser3_project:apk-parser3:0.1.6:*:*:*:*:node.js:*:*,apk-parser3 Project apk-parser3 0.1.6 for Node.js,[''],2022-03-18T21:21Z
+3,cpe:2.3:a:apk-parser3_project:apk-parser3:0.1.7:*:*:*:*:node.js:*:*,apk-parser3 Project apk-parser3 0.1.7 for Node.js,[''],2022-03-18T21:21Z
+4,cpe:2.3:a:aplixio:pdf_shapingup:5.0.0.139:*:*:*:*:*:*:*,Aplixio Pdf Shapingup 5.0.0.139,['CVE-2020-28969'],2022-03-18T21:21Z
+5,cpe:2.3:a:apng_disassembler_project:apng_disassembler:1.2:*:*:*:*:*:*:*,APNG Disassembler Project APNG Disassembler 1.2,"['CVE-2017-6191', 'CVE-2017-6192', 'CVE-2017-6193']",2022-03-18T21:21Z
+6,cpe:2.3:a:apng_disassembler_project:apng_disassembler:1.4:*:*:*:*:*:*:*,APNG Disassembler Project APNG Disassembler 1.4,"['CVE-2017-6191', 'CVE-2017-6192', 'CVE-2017-6193']",2022-03-18T21:21Z
+7,cpe:2.3:a:apng_disassembler_project:apng_disassembler:2.0:*:*:*:*:*:*:*,APNG Disassembler Project APNG Disassembler 2.0,"['CVE-2017-6191', 'CVE-2017-6192', 'CVE-2017-6193']",2022-03-18T21:21Z
+8,cpe:2.3:a:apng_disassembler_project:apng_disassembler:2.1:*:*:*:*:*:*:*,APNG Disassembler Project APNG Disassembler 2.1,"['CVE-2017-6191', 'CVE-2017-6192', 'CVE-2017-6193']",2022-03-18T21:21Z
+9,cpe:2.3:a:apng_disassembler_project:apng_disassembler:2.2:*:*:*:*:*:*:*,APNG Disassembler Project APNG Disassembler 2.2,"['CVE-2017-6191', 'CVE-2017-6192', 'CVE-2017-6193']",2022-03-18T21:21Z

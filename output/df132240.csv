@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:qos_policy_manager:4.0:*:*:*:*:*:*:*,Cisco QoS Policy Manager 4.0,['CVE-2010-3036'],2022-03-19T23:50Z
+1,cpe:2.3:a:cisco:qos_policy_manager:4.0.1:*:*:*:*:*:*:*,Cisco QoS Policy Manager 4.0.1,['CVE-2010-3036'],2022-03-19T23:50Z
+2,cpe:2.3:a:cisco:qos_policy_manager:4.0.2:*:*:*:*:*:*:*,Cisco QoS Policy Manager 4.0.2,['CVE-2010-3036'],2022-03-19T23:50Z
+3,cpe:2.3:a:cisco:quad:-:*:*:*:*:*:*:*,Cisco Quad,"['CVE-2012-6397', 'CVE-2013-1125', 'CVE-2013-1196']",2022-03-19T23:50Z
+4,cpe:2.3:a:cisco:redundancy_configuration_manager:-:*:*:*:*:staros:*:*,Cisco Redundancy Configuration Manager (RCM) for StarOS,['CVE-2022-20750'],2022-03-19T23:50Z
+5,cpe:2.3:a:cisco:redundancy_configuration_manager:21.24.0:*:*:*:*:staros:*:*,Cisco Redundancy Configuration Manager (RCM) 21.24.0 for StarOS,[''],2022-03-19T23:50Z
+6,cpe:2.3:a:cisco:registered_envelope_service:-:*:*:*:*:*:*:*,Cisco Registered Envelope Service,"['CVE-2017-12320', 'CVE-2017-12321', 'CVE-2017-12323', 'CVE-2018-15448']",2022-03-19T23:50Z
+7,cpe:2.3:a:cisco:registered_envelope_service:4.7:*:*:*:*:*:*:*,Cisco Registered Envelope Service (CRES) 4.7,['CVE-2018-0367'],2022-03-19T23:50Z
+8,cpe:2.3:a:cisco:registered_envelope_service:5.0:*:*:*:*:*:*:*,Cisco Registered Envelope Service (CRES) 5.0,['CVE-2018-0367'],2022-03-19T23:50Z
+9,cpe:2.3:a:cisco:registered_envelope_service:5.1.0-015:*:*:*:*:*:*:*,Cisco Registered Envelope Service (CRES) 5.1.0-015,['CVE-2017-3889'],2022-03-19T23:50Z

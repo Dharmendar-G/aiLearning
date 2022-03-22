@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:kobe-w09chn_firmware:-:*:*:*:*:*:*:*,Huawei Kobe-w09chn Firmware -,[''],2022-03-21T18:00Z
+1,cpe:2.3:o:huawei:kobe-w09chn_firmware:kob-w09c233b012:*:*:*:*:*:*:*,Huawei Kobe-w09chn Firmware Kob-w09c233b012,['CVE-2017-8159'],2022-03-21T18:00Z
+2,cpe:2.3:h:huawei:laya-al00ep:-:*:*:*:*:*:*:*,Huawei Laya-AL00EP,"['CVE-2019-5235', 'CVE-2019-9506', 'CVE-2020-9109', 'CVE-2020-9247', 'CVE-2021-22440']",2022-03-21T18:00Z
+3,cpe:2.3:o:huawei:laya-al00ep_firmware:-:*:*:*:*:*:*:*,Huawei LAYA-AL00EP FIRMWARE,"['CVE-2019-9506', 'CVE-2020-9109', 'CVE-2020-9247']",2022-03-21T18:00Z
+4,cpe:2.3:o:huawei:laya-al00ep_firmware:9.0.0.201\(c786e200r2p1\):*:*:*:*:*:*:*,Huawei Laya-AL00EP Firmware 9.0.0.201(C786E200R2P1),"['CVE-2019-5235', 'CVE-2020-9109', 'CVE-2020-9247']",2022-03-21T18:00Z
+5,cpe:2.3:o:huawei:laya-al00ep_firmware:9.1.0.139\(c786e133r3p1\):*:*:*:*:*:*:*,Huawei Laya-AL00EP Firmware 9.1.0.139(C786E133R3P1),"['CVE-2020-9109', 'CVE-2020-9247', 'CVE-2021-22440']",2022-03-21T18:00Z
+6,cpe:2.3:o:huawei:laya-al00ep_firmware:10.1.0.160\(c786e160r3p8\):*:*:*:*:*:*:*,Huawei Laya-AL00EP Firmware 10.1.0.160(C786E160R3P8),[''],2022-03-21T18:00Z
+7,cpe:2.3:h:huawei:leland-al00:-:*:*:*:*:*:*:*,Huawei Leland-AL00,['CVE-2018-7906'],2022-03-21T18:00Z
+8,cpe:2.3:o:huawei:leland-al00_firmware:8.0.0.114\(c636\):*:*:*:*:*:*:*,Huawei Leland-AL00 Firmware 8.0.0.114(C636),['CVE-2018-7906'],2022-03-21T18:00Z
+9,cpe:2.3:h:huawei:leland-al00a:-:*:*:*:*:*:*:*,Huawei Leland-AL00A,"['CVE-2019-19412', 'CVE-2019-5284']",2022-03-21T18:00Z

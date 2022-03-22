@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:universal_cmbd_foundation:10.20:*:*:*:*:*:*:*,HP Universal CMBD Foundation 10.20,"['CVE-2016-2001', 'CVE-2016-4367', 'CVE-2016-4368', 'CVE-2020-11853']",2022-03-21T16:13Z
+1,cpe:2.3:a:hp:universal_cmbd_foundation:10.21:*:*:*:*:*:*:*,HP Universal CMBD Foundation 10.21,"['CVE-2016-4367', 'CVE-2016-4368']",2022-03-21T16:13Z
+2,cpe:2.3:a:hp:universal_cmbd_foundation:10.30:*:*:*:*:*:*:*,HP Universal CMDB Foundation 10.30,['CVE-2020-11853'],2022-03-21T16:13Z
+3,cpe:2.3:a:hp:universal_cmbd_foundation:10.31:*:*:*:*:*:*:*,HP Universal CMDB Foundation 10.31,['CVE-2020-11853'],2022-03-21T16:13Z
+4,cpe:2.3:a:hp:universal_cmbd_foundation:10.32:*:*:*:*:*:*:*,HP Universal CMDB Foundation 10.32,['CVE-2020-11853'],2022-03-21T16:13Z
+5,cpe:2.3:a:hp:universal_cmbd_foundation:10.33:*:*:*:*:*:*:*,HP Universal CMDB Foundation 10.33,['CVE-2020-11853'],2022-03-21T16:13Z
+6,cpe:2.3:a:hp:universal_cmbd_foundation:11.0:*:*:*:*:*:*:*,HP Universal CMDB Foundation 11.0,['CVE-2020-11853'],2022-03-21T16:13Z
+7,cpe:2.3:a:hp:universal_cmbd_foundation:2018.05:*:*:*:*:*:*:*,HP Universal CMDB Foundation 2018.05,['CVE-2020-11853'],2022-03-21T16:13Z
+8,cpe:2.3:a:hp:universal_cmbd_foundation:2018.08:*:*:*:*:*:*:*,HP Universal CMDB Foundation 2018.08,['CVE-2020-11853'],2022-03-21T16:13Z
+9,cpe:2.3:a:hp:universal_cmbd_foundation:2018.11:*:*:*:*:*:*:*,HP Universal CMDB Foundation 2018.11,['CVE-2020-11853'],2022-03-21T16:13Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:console-io_project:console-io:9.1.0:*:*:*:*:node.js:*:*,console-io Project console-io 9.1.0 for Node.js,[''],2022-03-20T07:24Z
+1,cpe:2.3:a:console-io_project:console-io:10.0.0:*:*:*:*:node.js:*:*,console-io Project console-io 10.0.0 for Node.js,[''],2022-03-20T07:24Z
+2,cpe:2.3:a:console-io_project:console-io:10.0.1:*:*:*:*:node.js:*:*,console-io Project console-io 10.0.1 for Node.js,[''],2022-03-20T07:25Z
+3,cpe:2.3:a:console-io_project:console-io:10.0.2:*:*:*:*:node.js:*:*,console-io Project console-io 10.0.2 for Node.js,[''],2022-03-20T07:24Z
+4,cpe:2.3:a:console-io_project:console-io:10.0.3:*:*:*:*:node.js:*:*,console-io Project console-io 10.0.3 for Node.js,[''],2022-03-20T07:25Z
+5,cpe:2.3:a:console-io_project:console-io:10.0.4:*:*:*:*:node.js:*:*,console-io Project console-io 10.0.4 for Node.js,[''],2022-03-20T07:25Z
+6,cpe:2.3:a:console-io_project:console-io:10.0.5:*:*:*:*:node.js:*:*,console-io Project console-io 10.0.5 for Node.js,[''],2022-03-20T07:25Z
+7,cpe:2.3:a:consolekit_project:consolekit:-:*:*:*:*:*:*:*,ConsoleKit Project ConsoleKit,['CVE-2010-4664'],2022-03-20T07:25Z
+8,cpe:2.3:a:consolekit_project:consolekit:0.1.0:*:*:*:*:*:*:*,ConsoleKit Project ConsoleKit 0.1.0,['CVE-2010-4664'],2022-03-20T07:25Z
+9,cpe:2.3:a:consolekit_project:consolekit:0.1.1:*:*:*:*:*:*:*,ConsoleKit Project ConsoleKit 0.1.1,['CVE-2010-4664'],2022-03-20T07:25Z

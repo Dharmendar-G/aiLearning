@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:bpdsoftware:140.0.0.0:*:*:*:*:*:*:*,HP Bpdsoftware 140.0.0.0,[''],2022-03-21T12:57Z
+1,cpe:2.3:a:hp:bpdsoftware_ini:1.0.0:*:*:*:*:*:*:*,HP Bpdsoftware Ini 1.0.0,[''],2022-03-21T12:57Z
+2,cpe:2.3:a:hp:bromium:4.0.3.2060:*:*:*:*:*:*:*,HP Bromium 4.0.3.2060,['CVE-2019-18567'],2022-03-21T12:57Z
+3,cpe:2.3:a:hp:bromium:4.1.7:*:*:*:*:*:*:*,HP Bromium 4.1.7,['CVE-2019-18567'],2022-03-21T12:57Z
+4,cpe:2.3:a:hp:bsm_platform_application_performance_management_system_health:9.26:*:*:*:*:*:*:*,HP BSM Platform Application Performance Management System Health 9.26,"['CVE-2017-13982', 'CVE-2017-13983', 'CVE-2017-13984', 'CVE-2017-13985']",2022-03-21T12:57Z
+5,cpe:2.3:a:hp:bsm_platform_application_performance_management_system_health:9.30:*:*:*:*:*:*:*,HP BSM Platform Application Performance Management System Health 9.30,"['CVE-2017-13982', 'CVE-2017-13983', 'CVE-2017-13984', 'CVE-2017-13985']",2022-03-21T12:57Z
+6,cpe:2.3:a:hp:bsm_platform_application_performance_management_system_health:9.40:*:*:*:*:*:*:*,HP BSM Platform Application Performance Management System Health 9.40,"['CVE-2017-13982', 'CVE-2017-13983', 'CVE-2017-13984', 'CVE-2017-13985']",2022-03-21T12:57Z
+7,cpe:2.3:a:hp:bufferchm:45.4.157.0:*:*:*:*:*:*:*,HP Bufferchm 45.4.157.0,[''],2022-03-21T12:57Z
+8,cpe:2.3:a:hp:bufferchm:53.0.13.0:*:*:*:*:*:*:*,HP Bufferchm 53.0.13.0,[''],2022-03-21T12:57Z
+9,cpe:2.3:a:hp:bufferchm:53.0.24.0:*:*:*:*:*:*:*,HP Bufferchm 53.0.24.0,[''],2022-03-21T12:57Z

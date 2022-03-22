@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:jclouds:1.6.0:alpha3:*:*:*:*:*:*,The Apache Software Foundation jclouds 1.6.0 Alpha 3,[''],2022-03-18T19:00Z
+1,cpe:2.3:a:apache:jclouds:1.6.0:alpha4:*:*:*:*:*:*,The Apache Software Foundation jclouds 1.6.0 Alpha 4,[''],2022-03-18T19:00Z
+2,cpe:2.3:a:apache:jclouds:1.6.0:rc1:*:*:*:*:*:*,The Apache Software Foundation jclouds 1.6.0 Release Candidate 1,[''],2022-03-18T19:00Z
+3,cpe:2.3:a:apache:jclouds:1.6.0:rc2:*:*:*:*:*:*,The Apache Software Foundation jclouds 1.6.0 Release Candidate 2,[''],2022-03-18T19:00Z
+4,cpe:2.3:a:apache:jclouds:1.6.0:rc3:*:*:*:*:*:*,The Apache Software Foundation jclouds 1.6.0 Release Candidate 3,[''],2022-03-18T19:00Z
+5,cpe:2.3:a:apache:jclouds:1.6.0:rc4:*:*:*:*:*:*,The Apache Software Foundation jclouds 1.6.0 Release Candidate 4,[''],2022-03-18T19:00Z
+6,cpe:2.3:a:apache:jclouds:1.6.0:rc5:*:*:*:*:*:*,The Apache Software Foundation jclouds 1.6.0 Release Candidate 5,[''],2022-03-18T19:00Z
+7,cpe:2.3:a:apache:jclouds:1.6.1:incubating:*:*:*:*:*:*,The Apache Software Foundation jclouds 1.6.1 Incubating,[''],2022-03-18T19:00Z
+8,cpe:2.3:a:apache:jclouds:1.6.1:incubating-rc0:*:*:*:*:*:*,The Apache Software Foundation jclouds 1.6.1 Incubating-Release Candidate 0,[''],2022-03-18T19:00Z
+9,cpe:2.3:a:apache:jclouds:1.6.1:incubating-rc1:*:*:*:*:*:*,The Apache Software Foundation jclouds 1.6.1 Incubating-Release Candidate 1,[''],2022-03-18T19:00Z

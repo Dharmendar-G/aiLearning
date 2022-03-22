@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:deltaww:delta_industrial_automation_pmsoft:2.11:*:*:*:*:*:*:*,Deltaww Delta Industrial Automation Pmsoft 2.11,['CVE-2018-14824'],2022-03-20T13:18Z
+1,cpe:2.3:a:deltaww:delta_industrial_automation_screen_editor:2.00.23.00:*:*:*:*:*:*:*,Deltaww Delta Industrial Automation Screen Editor 2.00.23.00,"['CVE-2017-16745', 'CVE-2017-16747', 'CVE-2017-16749', 'CVE-2017-16751']",2022-03-20T13:18Z
+2,cpe:2.3:a:deltaww:devicenet_builder:2.02:*:*:*:*:*:*:*,Delta Industrial Automation DeviceNet Builder 2.02,[''],2022-03-20T13:18Z
+3,cpe:2.3:a:deltaww:devicenet_builder:2.04:*:*:*:*:*:*:*,Delta Industrial Automation DeviceNet Builder 2.04,"['CVE-2019-12898', 'CVE-2019-12899']",2022-03-20T13:18Z
+4,cpe:2.3:a:deltaww:diaenergie:-:*:*:*:*:*:*:*,Delta Electronics DIAEnergie,"['CVE-2021-23228', 'CVE-2021-31558', 'CVE-2021-32955', 'CVE-2021-32967', 'CVE-2021-32983', 'CVE-2021-32991', 'CVE-2021-33003', 'CVE-2021-38390', 'CVE-2021-38391', 'CVE-2021-38393', 'CVE-2021-44471', 'CVE-2021-44544']",2022-03-20T13:18Z
+5,cpe:2.3:a:deltaww:diaenergie:1.7.5:*:*:*:*:*:*:*,Delta Electronics DIAEnergie 1.7.5,"['CVE-2021-23228', 'CVE-2021-31558', 'CVE-2021-32955', 'CVE-2021-32967', 'CVE-2021-32983', 'CVE-2021-32991', 'CVE-2021-33003', 'CVE-2021-38390', 'CVE-2021-38391', 'CVE-2021-38393', 'CVE-2021-44471', 'CVE-2021-44544']",2022-03-20T13:18Z
+6,cpe:2.3:a:deltaww:dialink:1.2.4.0:*:*:*:*:*:*:*,Delta Electronics DIALink 1.2.4.0,"['CVE-2021-38403', 'CVE-2021-38407', 'CVE-2021-38411', 'CVE-2021-38416', 'CVE-2021-38418', 'CVE-2021-38420', 'CVE-2021-38422', 'CVE-2021-38424', 'CVE-2021-38428', 'CVE-2021-38488']",2022-03-20T13:18Z
+7,cpe:2.3:a:deltaww:dopsoft:-:*:*:*:*:*:*:*,Delta Electronics DOPSoft,"['CVE-2020-14482', 'CVE-2020-27275', 'CVE-2020-27277', 'CVE-2021-27412', 'CVE-2021-27455', 'CVE-2021-33019']",2022-03-20T13:18Z
+8,cpe:2.3:a:deltaww:dopsoft:2.00.07:*:*:*:*:*:*:*,Delta Electronics DOPSoft 2.00.07,"['CVE-2020-14482', 'CVE-2020-27275', 'CVE-2020-27277', 'CVE-2021-27412', 'CVE-2021-27455', 'CVE-2021-33019', 'CVE-2021-38402', 'CVE-2021-38404', 'CVE-2021-38406']",2022-03-20T13:18Z
+9,cpe:2.3:a:deltaww:dopsoft:4.00.08.15:*:*:*:*:*:*:*,Delta Electronics DOPSoft 4.00.08.15,"['CVE-2020-27275', 'CVE-2020-27277', 'CVE-2021-27412', 'CVE-2021-27455', 'CVE-2021-33019']",2022-03-20T13:18Z

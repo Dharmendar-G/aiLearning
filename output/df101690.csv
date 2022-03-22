@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:canon:eos_d_rebel_t6s_firmware:1.0.0:*:*:*:*:*:*:*,Canon EOS D Rebel T6s Firmware 1.0.0,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+1,cpe:2.3:h:canon:eos_d_rebel_t7:-:*:*:*:*:*:*:*,Canon EOS D Rebel T7,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+2,cpe:2.3:o:canon:eos_d_rebel_t7_firmware:-:*:*:*:*:*:*:*,Canon EOS D Rebel T7 Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+3,cpe:2.3:o:canon:eos_d_rebel_t7_firmware:1.0.0:*:*:*:*:*:*:*,Canon EOS D Rebel T7 Firmware 1.0.0,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+4,cpe:2.3:h:canon:eos_d_rebel_t7i:-:*:*:*:*:*:*:*,Canon EOS D Rebel T7i,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+5,cpe:2.3:o:canon:eos_d_rebel_t7i_firmware:-:*:*:*:*:*:*:*,Canon EOS D Rebel T7i Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+6,cpe:2.3:o:canon:eos_d_rebel_t7i_firmware:1.0.1:*:*:*:*:*:*:*,Canon EOS D Rebel T7i Firmware 1.0.1,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+7,cpe:2.3:h:canon:eos_d60:-:*:*:*:*:*:*:*,Canon EOS D60 Camera (intial release),[''],2022-03-19T15:13Z
+8,cpe:2.3:h:canon:eos_hi:-:*:*:*:*:*:*:*,Canon EOS Hi,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+9,cpe:2.3:o:canon:eos_hi_firmware:-:*:*:*:*:*:*:*,Canon EOS Hi Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z

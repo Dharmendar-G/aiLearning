@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:webex_meetings_online:32.11:*:*:*:*:*:*:*,Cisco Webex Meetings Online 32.11,"['CVE-2019-15283', 'CVE-2019-15285', 'CVE-2019-15287', 'CVE-2020-3142', 'CVE-2020-3412', 'CVE-2020-3413', 'CVE-2020-3463', 'CVE-2020-3472']",2022-03-20T01:13Z
+1,cpe:2.3:a:cisco:webex_meetings_online:39.4.0:*:*:*:*:*:*:*,Cisco Webex Meetings Online 39.4.0,"['CVE-2019-15283', 'CVE-2019-15285', 'CVE-2019-15287', 'CVE-2020-3142', 'CVE-2020-3412', 'CVE-2020-3413', 'CVE-2020-3463', 'CVE-2020-3472']",2022-03-20T01:13Z
+2,cpe:2.3:a:cisco:webex_meetings_online:39.11.5:*:*:*:*:*:*:*,Cisco Webex Meetings Online 39.11.5,"['CVE-2020-3142', 'CVE-2020-3412', 'CVE-2020-3413', 'CVE-2020-3463', 'CVE-2020-3472']",2022-03-20T01:13Z
+3,cpe:2.3:a:cisco:webex_meetings_online:40.1.3:*:*:*:*:*:*:*,Cisco Webex Meetings Online 40.1.3,"['CVE-2020-3412', 'CVE-2020-3413', 'CVE-2020-3463', 'CVE-2020-3472']",2022-03-20T01:13Z
+4,cpe:2.3:a:cisco:webex_meetings_online:40.7.0:*:*:*:*:*:*:*,Cisco Webex Meetings Online 40.7.0,[''],2022-03-20T01:13Z
+5,cpe:2.3:a:cisco:webex_meetings_online:40.7.1:*:*:*:*:*:*:*,Cisco Webex Meetings Online 40.7.1,[''],2022-03-20T01:13Z
+6,cpe:2.3:a:cisco:webex_meetings_online:40.7.2:*:*:*:*:*:*:*,Cisco Webex Meetings Online 40.7.2,[''],2022-03-20T01:13Z
+7,cpe:2.3:a:cisco:webex_meetings_online:40.7.3:*:*:*:*:*:*:*,Cisco Webex Meetings Online 40.7.3,[''],2022-03-20T01:13Z
+8,cpe:2.3:a:cisco:webex_meetings_online:40.7.4:*:*:*:*:*:*:*,Cisco Webex Meetings Online 40.7.4,[''],2022-03-20T01:13Z
+9,cpe:2.3:a:cisco:webex_meetings_online:40.7.5:*:*:*:*:*:*:*,Cisco Webex Meetings Online 40.7.5,[''],2022-03-20T01:13Z

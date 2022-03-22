@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avast:free_antivirus:19.1.2360:*:*:*:*:*:*:*,Avast Free Antivirus 19.1.2360,['CVE-2020-13657'],2022-03-19T03:58Z
+1,cpe:2.3:a:avast:free_antivirus:19.2.2364:*:*:*:*:*:*:*,Avast Free Antivirus 19.2.2364,['CVE-2020-13657'],2022-03-19T03:58Z
+2,cpe:2.3:a:avast:free_antivirus:19.3.2369:*:*:*:*:*:*:*,Avast Free Antivirus 19.3.2369,['CVE-2020-13657'],2022-03-19T03:58Z
+3,cpe:2.3:a:avast:free_antivirus:19.4.2374:*:*:*:*:*:*:*,Avast Free Antivirus 19.4.2374,['CVE-2020-13657'],2022-03-19T03:59Z
+4,cpe:2.3:a:avast:free_antivirus:19.5.2378:*:*:*:*:*:*:*,Avast Free Antivirus 19.5.2378,['CVE-2020-13657'],2022-03-19T03:58Z
+5,cpe:2.3:a:avast:free_antivirus:19.6.2383:*:*:*:*:*:*:*,Avast Free Antivirus 19.6.2383,['CVE-2020-13657'],2022-03-19T03:59Z
+6,cpe:2.3:a:avast:free_antivirus:19.7.2388:*:*:*:*:*:*:*,Avast Free Antivirus 19.7.2388,['CVE-2020-13657'],2022-03-19T03:59Z
+7,cpe:2.3:a:avast:free_antivirus:19.8.2393:*:*:*:*:*:*:*,Avast Free Antivirus 19.8.2393,['CVE-2020-13657'],2022-03-19T03:59Z
+8,cpe:2.3:a:avast:free_antivirus:20.1.2397:*:*:*:*:*:*:*,Avast Free Antivirus 20.1.2397,['CVE-2020-13657'],2022-03-19T03:59Z
+9,cpe:2.3:a:avast:free_antivirus:20.2.2401:*:*:*:*:*:*:*,Avast Free Antivirus 20.2.2401,['CVE-2020-13657'],2022-03-19T03:59Z

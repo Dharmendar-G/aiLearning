@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitdefender:endpoint_security_tools:6.2.21.155:*:*:*:*:linux:*:*,Bitdefender Endpoint Security Tools 6.2.21.155 for Linux,"['CVE-2019-17099', 'CVE-2021-3553', 'CVE-2021-3554', 'CVE-2021-3576', 'CVE-2021-4198']",2022-03-19T08:06Z
+1,cpe:2.3:a:bitdefender:endpoint_security_tools:6.6.8.115:*:*:*:*:*:*:*,Bitdefender Endpoint Security Tools 6.6.8.115,"['CVE-2019-17099', 'CVE-2021-3554', 'CVE-2021-3576', 'CVE-2021-4198']",2022-03-19T08:06Z
+2,cpe:2.3:a:bitdefender:endpoint_security_tools:6.6.11.163:*:*:*:*:*:*:*,Bitdefender Endpoint Security Tools 6.6.11.163,"['CVE-2021-3554', 'CVE-2021-3576', 'CVE-2021-4198']",2022-03-19T08:06Z
+3,cpe:2.3:a:bitdefender:endpoint_security_tools:6.6.12.170:*:*:*:*:*:*:*,Bitdefender Endpoint Security Tools 6.6.12.170,"['CVE-2021-3554', 'CVE-2021-3576', 'CVE-2021-4198']",2022-03-19T08:06Z
+4,cpe:2.3:a:bitdefender:endpoint_security_tools:6.6.18.261:*:*:*:*:windows:*:*,Bitdefender Endpoint Security Tools 6.6.18.261 for Windows,"['CVE-2020-15279', 'CVE-2021-3554', 'CVE-2021-3576', 'CVE-2021-3579', 'CVE-2021-4198', 'CVE-2021-4199']",2022-03-19T08:06Z
+5,cpe:2.3:a:bitdefender:endpoint_security_tools:6.6.23.320:*:*:*:*:windows:*:*,Bitdefender Endpoint Security Tools 6.6.23.320 for Windows,"['CVE-2021-3554', 'CVE-2021-3576', 'CVE-2021-3579', 'CVE-2021-4198', 'CVE-2021-4199']",2022-03-19T08:06Z
+6,cpe:2.3:a:bitdefender:endpoint_security_tools:7.2.1.65:*:*:*:*:*:*:*,Bitdefender Endpoint Security Tools 7.2.1.65,['CVE-2021-4198'],2022-03-19T08:06Z
+7,cpe:2.3:a:bitdefender:engines:-:*:*:*:*:*:*:*,Bitdefender Engines,"['CVE-2020-15731', 'CVE-2020-8100', 'CVE-2020-8109', 'CVE-2020-8110']",2022-03-19T08:06Z
+8,cpe:2.3:a:bitdefender:engines:7.84063:*:*:*:*:*:*:*,Bitdefender Engines 7.84063,"['CVE-2020-15731', 'CVE-2020-8109', 'CVE-2020-8110']",2022-03-19T08:06Z
+9,cpe:2.3:a:bitdefender:engines:7.84892:*:*:*:*:*:*:*,Bitdefender Engines 7.84892,"['CVE-2020-15731', 'CVE-2020-8109', 'CVE-2020-8110']",2022-03-19T08:06Z

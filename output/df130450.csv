@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:nim-2fxs\/4fxo:-:*:*:*:*:*:*:*,Cisco NIM-2fxs/4fxo -,['CVE-2019-1649'],2022-03-19T23:15Z
+1,cpe:2.3:h:cisco:nim-2fxs\/4fxop:-:*:*:*:*:*:*:*,Cisco NIM-2fxs/4fxop -,['CVE-2019-1649'],2022-03-19T23:15Z
+2,cpe:2.3:h:cisco:nim-2fxsp:-:*:*:*:*:*:*:*,Cisco NIM-2fxsp -,['CVE-2019-1649'],2022-03-19T23:15Z
+3,cpe:2.3:h:cisco:nim-2ge-cu-sfp:-:*:*:*:*:*:*:*,Cisco NIM-2ge-cu-sfp -,['CVE-2019-1649'],2022-03-19T23:15Z
+4,cpe:2.3:h:cisco:nim-2mft-t1\/e1:-:*:*:*:*:*:*:*,Cisco NIM-2mft-t1/e1 -,['CVE-2019-1649'],2022-03-19T23:15Z
+5,cpe:2.3:h:cisco:nim-4bri-nt\/te:-:*:*:*:*:*:*:*,Cisco NIM-4bri-nt/te -,['CVE-2019-1649'],2022-03-19T23:15Z
+6,cpe:2.3:h:cisco:nim-4e\/m:-:*:*:*:*:*:*:*,Cisco NIM-4e/m -,['CVE-2019-1649'],2022-03-19T23:15Z
+7,cpe:2.3:h:cisco:nim-4fxo:-:*:*:*:*:*:*:*,Cisco NIM-4fxo -,['CVE-2019-1649'],2022-03-19T23:15Z
+8,cpe:2.3:h:cisco:nim-4fxs:-:*:*:*:*:*:*:*,Cisco NIM-4fxs -,['CVE-2019-1649'],2022-03-19T23:15Z
+9,cpe:2.3:h:cisco:nim-4fxsp:-:*:*:*:*:*:*:*,Cisco NIM-4fxsp -,['CVE-2019-1649'],2022-03-19T23:15Z

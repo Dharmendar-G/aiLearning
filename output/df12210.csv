@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:premiere_pro_cs4:4.0.1:*:*:*:*:*:*:*,Adobe Premiere Pro CS4 4.0.1,['CVE-2010-3151'],2022-03-18T12:49Z
+1,cpe:2.3:a:adobe:premiere_pro_cs4:4.1.0:*:*:*:*:*:*:*,Adobe Premiere Pro CS4 4.1.0,['CVE-2010-3151'],2022-03-18T12:48Z
+2,cpe:2.3:a:adobe:premiere_pro_cs4:4.2.0:*:*:*:*:*:*:*,Adobe Premiere Pro CS4 4.2.0,['CVE-2010-3151'],2022-03-18T12:49Z
+3,cpe:2.3:a:adobe:premiere_pro_cs4:4.2.1:*:*:*:*:*:*:*,Adobe Premiere Pro CS4 4.2.1,['CVE-2010-3151'],2022-03-18T12:49Z
+4,cpe:2.3:a:adobe:premiere_rush:1.5.8:*:*:*:*:*:*:*,Adobe Premiere Rush 1.5.8,"['CVE-2020-9617', 'CVE-2020-9656', 'CVE-2020-9657', 'CVE-2021-40783', 'CVE-2021-40784', 'CVE-2021-43021', 'CVE-2021-43022', 'CVE-2021-43023', 'CVE-2021-43024', 'CVE-2021-43025', 'CVE-2021-43026', 'CVE-2021-43028', 'CVE-2021-43029', 'CVE-2021-43030', 'CVE-2021-43746', 'CVE-2021-43747', 'CVE-2021-43748', 'CVE-2021-43749', 'CVE-2021-43750', 'CVE-2022-23204']",2022-03-18T12:49Z
+5,cpe:2.3:a:adobe:premiere_rush:1.5.12:*:*:*:*:*:*:*,Adobe Premiere Rush 1.5.12,"['CVE-2020-9655', 'CVE-2020-9656', 'CVE-2020-9657', 'CVE-2021-40783', 'CVE-2021-40784', 'CVE-2021-43021', 'CVE-2021-43022', 'CVE-2021-43023', 'CVE-2021-43024', 'CVE-2021-43025', 'CVE-2021-43026', 'CVE-2021-43028', 'CVE-2021-43029', 'CVE-2021-43030', 'CVE-2021-43746', 'CVE-2021-43747', 'CVE-2021-43748', 'CVE-2021-43749', 'CVE-2021-43750', 'CVE-2022-23204']",2022-03-18T12:49Z
+6,cpe:2.3:a:adobe:premiere_rush:1.5.16:*:*:*:*:*:*:*,Adobe Premiere Rush 1.5.16,"['CVE-2021-40783', 'CVE-2021-40784', 'CVE-2021-43021', 'CVE-2021-43022', 'CVE-2021-43023', 'CVE-2021-43024', 'CVE-2021-43025', 'CVE-2021-43026', 'CVE-2021-43028', 'CVE-2021-43029', 'CVE-2021-43030', 'CVE-2021-43746', 'CVE-2021-43747', 'CVE-2021-43748', 'CVE-2021-43749', 'CVE-2021-43750', 'CVE-2022-23204']",2022-03-18T12:49Z
+7,cpe:2.3:a:adobe:premiere_rush:2.0:*:*:*:*:*:*:*,Adobe Premiere Rush 2.0,['CVE-2022-23204'],2022-03-18T12:49Z
+8,cpe:2.3:a:adobe:presenter:6.2.0:*:*:*:*:*:*:*,Adobe Presenter 6.2.0,[''],2022-03-18T12:49Z
+9,cpe:2.3:a:adobe:presenter:7.0:*:*:*:*:*:*:*,Adobe Presenter 7.0,[''],2022-03-18T12:49Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:scientific_atlanta_dpx110:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPX110,['CVE-2012-3047'],2022-03-19T23:55Z
+1,cpe:2.3:h:cisco:scientific_atlanta_dpx130:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPX130,['CVE-2012-3047'],2022-03-19T23:55Z
+2,cpe:2.3:h:cisco:scientific_atlanta_dpx213:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPX213,['CVE-2012-3047'],2022-03-19T23:55Z
+3,cpe:2.3:h:cisco:scientific_atlanta_dpx2213:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPX2213,['CVE-2012-3047'],2022-03-19T23:55Z
+4,cpe:2.3:h:cisco:scientific_atlanta_epc2420:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta EPC2420,['CVE-2012-3047'],2022-03-19T23:55Z
+5,cpe:2.3:h:cisco:scientific_atlanta_epc3825:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta EPC3825,['CVE-2012-3047'],2022-03-19T23:55Z
+6,cpe:2.3:h:cisco:scientific_atlanta_epc3925:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta EPC3925,['CVE-2012-3047'],2022-03-19T23:55Z
+7,cpe:2.3:h:cisco:scientific_atlanta_wag310g:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta WAG310G,['CVE-2012-3047'],2022-03-19T23:55Z
+8,cpe:2.3:a:cisco:sd-wan:-:*:*:*:*:*:*:*,Cisco SD-WAN,"['CVE-2019-1624', 'CVE-2019-1646', 'CVE-2019-1647', 'CVE-2019-1648', 'CVE-2019-1650', 'CVE-2020-27128', 'CVE-2020-3374', 'CVE-2020-3375', 'CVE-2020-3536', 'CVE-2020-3593', 'CVE-2020-3594', 'CVE-2020-3595', 'CVE-2020-3600', 'CVE-2021-1612', 'CVE-2021-34726']",2022-03-19T23:55Z
+9,cpe:2.3:a:cisco:sd-wan:16.2.0:*:*:*:*:*:*:*,Cisco SD-WAN 16.2.0,"['CVE-2019-1624', 'CVE-2019-1646', 'CVE-2019-1647', 'CVE-2019-1648', 'CVE-2019-1650', 'CVE-2020-27128', 'CVE-2020-3374', 'CVE-2020-3375', 'CVE-2020-3536', 'CVE-2020-3593', 'CVE-2020-3594', 'CVE-2020-3595', 'CVE-2020-3600', 'CVE-2021-1612', 'CVE-2021-34726']",2022-03-19T23:55Z

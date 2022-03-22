@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cluevo:learning_management_system:1.4.6:*:*:*:*:wordpress:*:*,Cluevo Learning Management System (CLUEVO LMS) 1.4.6 for WordPress,['CVE-2021-25029'],2022-03-20T04:00Z
+1,cpe:2.3:a:cluevo:learning_management_system:1.4.7:*:*:*:*:wordpress:*:*,Cluevo Learning Management System (CLUEVO LMS) 1.4.7 for WordPress,['CVE-2021-25029'],2022-03-20T04:00Z
+2,cpe:2.3:a:cluevo:learning_management_system:1.5.0:*:*:*:*:wordpress:*:*,Cluevo Learning Management System (CLUEVO LMS) 1.5.0 for WordPress,['CVE-2021-25029'],2022-03-20T04:00Z
+3,cpe:2.3:a:cluevo:learning_management_system:1.5.1:*:*:*:*:wordpress:*:*,Cluevo Learning Management System (CLUEVO LMS) 1.5.1 for WordPress,['CVE-2021-25029'],2022-03-20T04:00Z
+4,cpe:2.3:a:cluevo:learning_management_system:1.5.2:*:*:*:*:wordpress:*:*,Cluevo Learning Management System (CLUEVO LMS) 1.5.2 for WordPress,['CVE-2021-25029'],2022-03-20T04:00Z
+5,cpe:2.3:a:cluevo:learning_management_system:1.5.3:*:*:*:*:wordpress:*:*,Cluevo Learning Management System (CLUEVO LMS) 1.5.3 for WordPress,['CVE-2021-25029'],2022-03-20T04:00Z
+6,cpe:2.3:a:cluevo:learning_management_system:1.5.4:*:*:*:*:wordpress:*:*,Cluevo Learning Management System (CLUEVO LMS) 1.5.4 for WordPress,['CVE-2021-25029'],2022-03-20T04:00Z
+7,cpe:2.3:a:cluevo:learning_management_system:1.5.5:*:*:*:*:wordpress:*:*,Cluevo Learning Management System (CLUEVO LMS) 1.5.5 for WordPress,['CVE-2021-25029'],2022-03-20T04:00Z
+8,cpe:2.3:a:cluevo:learning_management_system:1.6.0:*:*:*:*:wordpress:*:*,Cluevo Learning Management System (CLUEVO LMS) 1.6.0 for WordPress,['CVE-2021-25029'],2022-03-20T04:00Z
+9,cpe:2.3:a:cluevo:learning_management_system:1.6.1:*:*:*:*:wordpress:*:*,Cluevo Learning Management System (CLUEVO LMS) 1.6.1 for WordPress,['CVE-2021-25029'],2022-03-20T04:00Z

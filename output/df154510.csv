@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codesys:control_for_iot2000_sl:3.5.14.0:*:*:*:*:*:*:*,CODESYS Control for IOT2000 SL 3.5.14.0,"['CVE-2019-9010', 'CVE-2019-9012', 'CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:06Z
+1,cpe:2.3:a:codesys:control_for_iot2000_sl:3.5.14.10:*:*:*:*:*:*:*,CODESYS Control For IOT2000 SL 3.5.14.10,"['CVE-2019-9010', 'CVE-2019-9012', 'CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:06Z
+2,cpe:2.3:a:codesys:control_for_iot2000_sl:3.5.14.20:*:*:*:*:*:*:*,CODESYS Control for IOT2000 SL 3.5.14.20,"['CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:06Z
+3,cpe:2.3:a:codesys:control_for_iot2000_sl:3.5.14.30:*:*:*:*:*:*:*,CODESYS Control For IOT2000 SL 3.5.14.30,"['CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:06Z
+4,cpe:2.3:a:codesys:control_for_iot2000_sl:3.5.14.40:*:*:*:*:*:*:*,CODESYS Control For IOT2000 SL 3.5.14.40,"['CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:06Z
+5,cpe:2.3:a:codesys:control_for_iot2000_sl:3.5.15.0:*:*:*:*:*:*:*,CODESYS Control for IOT2000 SL 3.5.15.0,"['CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:06Z
+6,cpe:2.3:a:codesys:control_for_iot2000_sl:3.5.15.10:*:*:*:*:*:*:*,CODESYS Control For IOT2000 SL 3.5.15.10,"['CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:06Z
+7,cpe:2.3:a:codesys:control_for_iot2000_sl:3.5.15.20:*:*:*:*:*:*:*,CODESYS Control For IOT2000 SL 3.5.15.20,"['CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:06Z
+8,cpe:2.3:a:codesys:control_for_iot2000_sl:3.5.15.30:*:*:*:*:*:*:*,CODESYS Control For IOT2000 SL 3.5.15.30,"['CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:06Z
+9,cpe:2.3:a:codesys:control_for_iot2000_sl:3.5.15.40:*:*:*:*:*:*:*,CODESYS Control For IOT2000 SL 3.5.15.40,"['CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:06Z

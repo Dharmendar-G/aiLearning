@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:unified_icm_hosted:-:*:*:*:*:*:*:*,Cisco Cisco Unified ICM Hosted,['CVE-2007-5539'],2022-03-20T00:52Z
+1,cpe:2.3:o:cisco:unified_intelligence_center:-:*:*:*:*:*:*:*,Cisco Unified Intelligence Center,"['CVE-2017-12337', 'CVE-2021-1395', 'CVE-2021-1463', 'CVE-2021-44228']",2022-03-20T00:52Z
+2,cpe:2.3:a:cisco:unified_intelligence_center:8.5.4:*:*:*:*:*:*:*,Cisco Unified Intelligence Center 8.5.4,"['CVE-2016-6425', 'CVE-2016-6426', 'CVE-2016-6427']",2022-03-20T00:52Z
+3,cpe:2.3:a:cisco:unified_intelligence_center:9.0\(2\):*:*:*:*:*:*:*,Cisco Unified Intelligence Center 9.0(2),"['CVE-2016-6425', 'CVE-2016-6426', 'CVE-2016-6427']",2022-03-20T00:52Z
+4,cpe:2.3:a:cisco:unified_intelligence_center:9.1\(1\):*:*:*:*:*:*:*,Cisco Unified Intelligence Center 9.1(1),"['CVE-2016-6425', 'CVE-2016-6426', 'CVE-2016-6427']",2022-03-20T00:52Z
+5,cpe:2.3:o:cisco:unified_intelligence_center:9.5\(1\):*:*:*:*:*:*:*,Cisco Unified Intelligence Center 9.5(1),"['CVE-2017-6779', 'CVE-2019-1670', 'CVE-2021-1395', 'CVE-2021-1463', 'CVE-2021-44228']",2022-03-20T00:52Z
+6,cpe:2.3:o:cisco:unified_intelligence_center:10.0\(1\):*:*:*:*:*:*:*,Cisco Unified Intelligence Center 10.0(1),"['CVE-2015-4274', 'CVE-2021-1395', 'CVE-2021-1463', 'CVE-2021-44228']",2022-03-20T00:52Z
+7,cpe:2.3:o:cisco:unified_intelligence_center:10.6\(1\):*:*:*:*:*:*:*,Cisco Unified Intelligence Center 10.6(1),"['CVE-2015-0740', 'CVE-2015-4274', 'CVE-2021-1395', 'CVE-2021-1463', 'CVE-2021-44228']",2022-03-20T00:52Z
+8,cpe:2.3:a:cisco:unified_intelligence_center:11.0\(1\)es10:*:*:*:*:*:*:*,Cisco Unified Intelligence Center 11.0(1)ES10,['CVE-2017-6789'],2022-03-20T00:52Z
+9,cpe:2.3:o:cisco:unified_intelligence_center:11.5\(1\):*:*:*:*:*:*:*,Cisco Unified Intelligence Center 11.5(1),"['CVE-2017-12248', 'CVE-2017-12253', 'CVE-2017-12254', 'CVE-2021-1395', 'CVE-2021-1463', 'CVE-2021-44228']",2022-03-20T00:52Z

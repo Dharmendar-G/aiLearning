@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:business_availability_center:7.0:*:*:*:*:*:*:*,HP Business Availability Center (BAC) 7.0,"['CVE-2011-0274', 'CVE-2011-1856']",2022-03-21T12:57Z
+1,cpe:2.3:a:hp:business_availability_center:7.55:*:*:*:*:*:*:*,HP Business Availability Center (BAC) 7.55,"['CVE-2011-0274', 'CVE-2011-1856']",2022-03-21T12:57Z
+2,cpe:2.3:a:hp:business_availability_center:8.0:*:*:*:*:*:*:*,HP Business Availability Center (BAC) 8.0,"['CVE-2011-0274', 'CVE-2011-1856']",2022-03-21T12:57Z
+3,cpe:2.3:a:hp:business_availability_center:8.01:*:*:*:*:*:*:*,HP Business Availability Center (BAC) 8.01,['CVE-2011-1856'],2022-03-21T12:57Z
+4,cpe:2.3:a:hp:business_availability_center:8.02:*:*:*:*:*:*:*,HP Business Availability Center (BAC) 8.02,['CVE-2011-1856'],2022-03-21T12:57Z
+5,cpe:2.3:a:hp:business_availability_center:8.03:*:*:*:*:*:*:*,HP Business Availability Center (BAC) 8.03,['CVE-2011-1856'],2022-03-21T12:57Z
+6,cpe:2.3:a:hp:business_availability_center:8.04:*:*:*:*:*:*:*,HP Business Availability Center (BAC) 8.04,['CVE-2011-1856'],2022-03-21T12:57Z
+7,cpe:2.3:a:hp:business_availability_center:8.05:*:*:*:*:*:*:*,HP Business Availability Center (BAC) 8.05,"['CVE-2011-0274', 'CVE-2011-1856']",2022-03-21T12:57Z
+8,cpe:2.3:a:hp:business_availability_center:8.06:*:*:*:*:*:*:*,HP Business Availability Center (BAC) 8.06,['CVE-2011-1856'],2022-03-21T12:57Z
+9,cpe:2.3:a:hp:business_availability_center:8.07:*:*:*:*:*:*:*,HP Business Availability Center (BAC) 8.07,"['CVE-2012-3255', 'CVE-2012-3256', 'CVE-2012-3257']",2022-03-21T12:57Z

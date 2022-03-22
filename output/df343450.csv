@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:ims_enterprise_suite:2.2:*:*:*:*:*:*:*,IBM IMS Enterprise Suite 2.2,"['CVE-2013-0483', 'CVE-2013-3003', 'CVE-2016-2887']",2022-03-21T20:45Z
+1,cpe:2.3:a:ibm:ims_enterprise_suite:3.2.0.0:*:*:*:*:*:*:*,IBM IMS Enterprise Suite 3.2.0.0,['CVE-2016-2887'],2022-03-21T20:45Z
+2,cpe:2.3:h:ibm:infoprint:-:*:*:*:*:*:*:*,IBM Infoprint,['CVE-2002-2372'],2022-03-21T20:45Z
+3,cpe:2.3:a:ibm:infoprint_21:1.047012:*:*:*:*:*:*:*,IBM Infoprint Controller Software 1.0_47012,['CVE-2002-2372'],2022-03-21T20:45Z
+4,cpe:2.3:a:ibm:infoprint_controller:-:*:*:*:*:*:*:*,IBM Infoprint Controller Software,[''],2022-03-21T20:45Z
+5,cpe:2.3:a:ibm:information_server_framework:8.5:*:*:*:*:*:*:*,IBM Information Server Framework 8.5,['CVE-2016-0280'],2022-03-21T20:45Z
+6,cpe:2.3:a:ibm:information_server_framework:8.7:*:*:*:*:*:*:*,IBM Information Server Framework 8.7,['CVE-2016-0280'],2022-03-21T20:45Z
+7,cpe:2.3:a:ibm:information_server_framework:9.1:*:*:*:*:*:*:*,IBM Information Server Framework 9.1,['CVE-2016-0280'],2022-03-21T20:45Z
+8,cpe:2.3:a:ibm:information_server_framework:11.3:*:*:*:*:*:*:*,IBM Information Server Framework 11.3,['CVE-2016-0280'],2022-03-21T20:45Z
+9,cpe:2.3:a:ibm:information_server_framework:11.5:*:*:*:*:*:*:*,IBM Information Server Framework 11.5,['CVE-2016-0280'],2022-03-21T20:46Z

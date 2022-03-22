@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cgal:computational_geometry_algorithms_library:5.1.1:*:*:*:*:*:*:*,CGAL Computational Geometry Algorithms Library 5.1.1,"['CVE-2020-28601', 'CVE-2020-28636', 'CVE-2020-35628', 'CVE-2020-35633', 'CVE-2020-35634', 'CVE-2020-35635', 'CVE-2020-35636']",2022-03-19T16:25Z
+1,cpe:2.3:a:cgal:computational_geometry_algorithms_library:5.1.2:*:*:*:*:*:*:*,CGAL Computational Geometry Algorithms Library 5.1.2,[''],2022-03-19T16:25Z
+2,cpe:2.3:a:cgal:computational_geometry_algorithms_library:5.1.3:*:*:*:*:*:*:*,CGAL Computational Geometry Algorithms Library 5.1.3,[''],2022-03-19T16:25Z
+3,cpe:2.3:a:cgal:computational_geometry_algorithms_library:5.2:*:*:*:*:*:*:*,CGAL Computational Geometry Algorithms Library 5.2,[''],2022-03-19T16:25Z
+4,cpe:2.3:a:cgal:computational_geometry_algorithms_library:5.2.1:*:*:*:*:*:*:*,CGAL Computational Geometry Algorithms Library 5.2.1,[''],2022-03-19T16:25Z
+5,cpe:2.3:a:cgctoken_project:cgctoken:-:*:*:*:*:*:*:*,CGCToken Project CGCToken,['CVE-2018-13778'],2022-03-19T16:25Z
+6,cpe:2.3:a:cgene:security_file_manager:1.0.6:-:-:*:pro:android:*:*,CGENE Security File Manager Pro for Android 1.0.6,['CVE-2014-0804'],2022-03-19T16:25Z
+7,cpe:2.3:a:cgene:security_file_manager:1.0.6:-:-:*:trial:android:*:*,CGENE Security File Manager Trial for Android 1.0.6,['CVE-2014-0804'],2022-03-19T16:25Z
+8,cpe:2.3:a:cgi:hotscan:-:*:*:*:*:*:*:*,CGI Hotscan (formerly Logica Hotscan),['CVE-2012-2624'],2022-03-19T16:25Z
+9,cpe:2.3:a:cgi_rescue:blobee:0.20:*:*:*:*:*:*:*,CGI RESCUE BloBee 0.20,['CVE-2015-2962'],2022-03-19T16:25Z

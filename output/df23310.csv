@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:amazon:firecracker:0.23.5:*:*:*:*:*:*:*,Amazon Firecracker 0.23.5,[''],2022-03-18T15:50Z
+1,cpe:2.3:a:amazon:firecracker:0.24.0:*:*:*:*:*:*:*,Amazon Firecracker 0.24.0,[''],2022-03-18T15:50Z
+2,cpe:2.3:a:amazon:firecracker:0.24.1:*:*:*:*:*:*:*,Amazon Firecracker 0.24.1,[''],2022-03-18T15:50Z
+3,cpe:2.3:a:amazon:firecracker:0.24.2:*:*:*:*:*:*:*,Amazon Firecracker 0.24.2,[''],2022-03-18T15:50Z
+4,cpe:2.3:a:amazon:firecracker:0.24.3:*:*:*:*:*:*:*,Amazon Firecracker 0.24.3,[''],2022-03-18T15:50Z
+5,cpe:2.3:a:amazon:firecracker:0.24.4:*:*:*:*:*:*:*,Amazon Firecracker 0.24.4,[''],2022-03-18T15:50Z
+6,cpe:2.3:a:amazon:firecracker:0.24.5:*:*:*:*:*:*:*,Amazon Firecracker 0.24.5,[''],2022-03-18T15:50Z
+7,cpe:2.3:a:amazon:flexible_payments_service:-:*:*:*:*:*:*:*,Amazon Flexible Payments Service (FPS),['CVE-2012-5782'],2022-03-18T15:50Z
+8,cpe:2.3:o:amazon:freertos:1.00:*:*:*:*:*:*:*,Amazon FreeRTOS 1.00,"['CVE-2018-16523', 'CVE-2018-16524', 'CVE-2018-16525', 'CVE-2018-16526', 'CVE-2018-16527', 'CVE-2018-16598', 'CVE-2018-16599', 'CVE-2018-16600', 'CVE-2018-16601', 'CVE-2018-16602', 'CVE-2018-16603', 'CVE-2019-13120', 'CVE-2021-31571', 'CVE-2021-31572', 'CVE-2021-32020']",2022-03-18T15:50Z
+9,cpe:2.3:o:amazon:freertos:1.0.0:*:*:*:*:*:*:*,Amazon FreeRTOS 1.0.0,"['CVE-2019-13120', 'CVE-2021-31571', 'CVE-2021-31572', 'CVE-2021-32020']",2022-03-18T15:50Z

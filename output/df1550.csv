@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:1password:1password:7.2:*:*:*:*:android:*:*,1Password 7.2 for Android,[''],2022-03-18T09:49Z
+1,cpe:2.3:a:1password:1password:7.2.3:beta0:*:*:*:macos:*:*,1Password 7.2.3 Beta 0 for MacOS,[''],2022-03-18T09:49Z
+2,cpe:2.3:a:1password:1password:7.2.3:beta1:*:*:*:macos:*:*,1Password 7.2.3 Beta 1 for MacOS,[''],2022-03-18T09:49Z
+3,cpe:2.3:a:1password:1password:7.2.3:beta2:*:*:*:macos:*:*,1Password 7.2.3 Beta 2 for MacOS,[''],2022-03-18T09:49Z
+4,cpe:2.3:a:1password:1password:7.2.3:beta3:*:*:*:macos:*:*,1Password 7.2.3 Beta 3 for MacOS,[''],2022-03-18T09:49Z
+5,cpe:2.3:a:1password:1password:7.2.3:beta4:*:*:*:macos:*:*,1Password 7.2.3 Beta 4 for MacOS,[''],2022-03-18T09:49Z
+6,cpe:2.3:a:1password:1password:7.3:*:*:*:*:android:*:*,1Password 7.3 for Android,[''],2022-03-18T09:49Z
+7,cpe:2.3:a:1password:1password:7.3.712:*:*:*:*:windows:*:*,1password 7.3.712 for Windows,['CVE-2020-18173'],2022-03-18T09:49Z
+8,cpe:2.3:a:1password:1password:7.7.0:*:*:*:*:macos:*:*,1Password 7.7.0 for macOS,['CVE-2021-41795'],2022-03-18T09:49Z
+9,cpe:2.3:a:1password:1password:7.8.7:*:*:*:*:macos:*:*,1Password 7.8.7 for macOS,[''],2022-03-18T09:49Z

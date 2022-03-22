@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:webex_meeting_center:2.7_base:*:*:*:*:*:*:*,Cisco Webex Meeting Center 2.7 Base,"['CVE-2014-0708', 'CVE-2017-12298', 'CVE-2017-3823']",2022-03-20T01:12Z
+1,cpe:2.3:a:cisco:webex_meeting_center:2.7_mr1:*:*:*:*:*:*:*,Cisco Webex Meeting Center 2.7 MR1,"['CVE-2014-0708', 'CVE-2017-12298', 'CVE-2017-3823']",2022-03-20T01:12Z
+2,cpe:2.3:a:cisco:webex_meeting_center:2.7_mr1:p1:*:*:*:*:*:*,Cisco Webex Meeting Center 2.7 MR1 Patch 1,"['CVE-2014-0708', 'CVE-2017-12298', 'CVE-2017-3823']",2022-03-20T01:12Z
+3,cpe:2.3:a:cisco:webex_meeting_center:2.7_mr2:*:*:*:*:*:*:*,Cisco Webex Meeting Center 2.7 MR2,"['CVE-2014-0708', 'CVE-2017-12298', 'CVE-2017-3823']",2022-03-20T01:12Z
+4,cpe:2.3:a:cisco:webex_meeting_center:base:*:*:*:*:*:*:*,Cisco Webex Meeting Center BASE,"['CVE-2014-0708', 'CVE-2015-6360', 'CVE-2017-12298']",2022-03-20T01:12Z
+5,cpe:2.3:a:cisco:webex_meeting_center:t29_base:*:*:*:*:*:*:*,Cisco Webex Meeting Center T29 Base,"['CVE-2014-0708', 'CVE-2017-12298', 'CVE-2017-3823']",2022-03-20T01:12Z
+6,cpe:2.3:a:cisco:webex_meeting_center:t30:sp7:*:*:*:*:*:*,Cisco WebEx Meeting Center T30 Service Pack 7,"['CVE-2014-0708', 'CVE-2017-12297', 'CVE-2017-12298', 'CVE-2017-12359', 'CVE-2017-12360']",2022-03-20T01:12Z
+7,cpe:2.3:a:cisco:webex_meeting_center:t30:sp8:*:*:*:*:*:*,Cisco WebEx Meeting Center T30 Service Pack 8,"['CVE-2014-0708', 'CVE-2017-12297', 'CVE-2017-12298', 'CVE-2017-12359', 'CVE-2017-12360']",2022-03-20T01:12Z
+8,cpe:2.3:a:cisco:webex_meeting_center:t30:sp9:*:*:*:*:*:*,Cisco WebEx Meeting Center T30 Service Pack 9,"['CVE-2014-0708', 'CVE-2017-12297', 'CVE-2017-12298', 'CVE-2017-12359', 'CVE-2017-12360']",2022-03-20T01:12Z
+9,cpe:2.3:a:cisco:webex_meeting_center:t30_base:*:*:*:*:*:*:*,Cisco Webex Meeting Center T30 Base,"['CVE-2014-0708', 'CVE-2017-12298', 'CVE-2017-3823', 'CVE-2017-6753']",2022-03-20T01:12Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:discourse:discourse_reactions:0.2:*:*:*:*:discourse:*:*,Discourse Reactions 0.2 for Discourse,[''],2022-03-20T15:10Z
+1,cpe:2.3:a:discourse:message_bus:0.0.1:*:*:*:*:ruby:*:*,Discourse Message Bus 0.0.1 for Ruby,['CVE-2021-43840'],2022-03-20T15:10Z
+2,cpe:2.3:a:discourse:message_bus:0.0.2:*:*:*:*:ruby:*:*,Discourse Message Bus 0.0.2 for Ruby,['CVE-2021-43840'],2022-03-20T15:10Z
+3,cpe:2.3:a:discourse:message_bus:0.9.3:*:*:*:*:ruby:*:*,Discourse Message Bus 0.9.3 for Ruby,['CVE-2021-43840'],2022-03-20T15:10Z
+4,cpe:2.3:a:discourse:message_bus:0.9.3.1:*:*:*:*:ruby:*:*,Discourse Message Bus 0.9.3.1 for Ruby,['CVE-2021-43840'],2022-03-20T15:10Z
+5,cpe:2.3:a:discourse:message_bus:0.9.3.2:*:*:*:*:ruby:*:*,Discourse Message Bus 0.9.3.2 for Ruby,['CVE-2021-43840'],2022-03-20T15:10Z
+6,cpe:2.3:a:discourse:message_bus:0.9.5:*:*:*:*:ruby:*:*,Discourse Message Bus 0.9.5 for Ruby,['CVE-2021-43840'],2022-03-20T15:10Z
+7,cpe:2.3:a:discourse:message_bus:0.9.6:*:*:*:*:ruby:*:*,Discourse Message Bus 0.9.6 for Ruby,['CVE-2021-43840'],2022-03-20T15:10Z
+8,cpe:2.3:a:discourse:message_bus:1.0.0:*:*:*:*:ruby:*:*,Discourse Message Bus 1.0.0 for Ruby,['CVE-2021-43840'],2022-03-20T15:10Z
+9,cpe:2.3:a:discourse:message_bus:1.0.1:*:*:*:*:ruby:*:*,Discourse Message Bus 1.0.1 for Ruby,['CVE-2021-43840'],2022-03-20T15:10Z

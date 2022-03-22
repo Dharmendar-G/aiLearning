@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adenion:blog2social:6.5.6:*:*:*:*:wordpress:*:*,Adenion Blog2Social 6.5.6 for WordPress,['CVE-2021-24956'],2022-03-18T11:53Z
+1,cpe:2.3:a:adenion:blog2social:6.5.7:*:*:*:*:wordpress:*:*,Adenion Blog2Social 6.5.7 for WordPress,['CVE-2021-24956'],2022-03-18T11:53Z
+2,cpe:2.3:a:adenion:blog2social:6.5.8:*:*:*:*:wordpress:*:*,Adenion Blog2Social 6.5.8 for WordPress,['CVE-2021-24956'],2022-03-18T11:53Z
+3,cpe:2.3:a:adenion:blog2social:6.6.0:*:*:*:*:wordpress:*:*,Adenion Blog2Social 6.6.0 for WordPress,['CVE-2021-24956'],2022-03-18T11:53Z
+4,cpe:2.3:a:adenion:blog2social:6.6.1:*:*:*:*:wordpress:*:*,Adenion Blog2Social 6.6.1 for WordPress,['CVE-2021-24956'],2022-03-18T11:53Z
+5,cpe:2.3:a:adenion:blog2social:6.6.2:*:*:*:*:wordpress:*:*,Adenion Blog2Social 6.6.2 for WordPress,['CVE-2021-24956'],2022-03-18T11:53Z
+6,cpe:2.3:a:adenion:blog2social:6.6.3:*:*:*:*:wordpress:*:*,Adenion Blog2Social 6.6.3 for WordPress,['CVE-2021-24956'],2022-03-18T11:53Z
+7,cpe:2.3:a:adenion:blog2social:6.6.4:*:*:*:*:wordpress:*:*,Adenion Blog2Social 6.6.4 for WordPress,['CVE-2021-24956'],2022-03-18T11:53Z
+8,cpe:2.3:a:adersoft:vbsedit:3.4:*:*:*:*:*:*:*,Adersoft Vbsedit 3.4,[''],2022-03-18T11:53Z
+9,cpe:2.3:a:adgjm:angel_browser:1.47b:*:*:*:*:*:*:*,adgjm Angel Browser1.47b,['CVE-2013-3642'],2022-03-18T11:53Z

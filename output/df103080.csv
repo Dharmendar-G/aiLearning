@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:canto:canto:1.3.0:*:*:*:*:wordpress:*:*,Canto 1.3.0 for WordPress,"['CVE-2020-24063', 'CVE-2020-28976', 'CVE-2020-28977', 'CVE-2020-28978']",2022-03-19T15:30Z
+1,cpe:2.3:a:canvasgfx:canvas_draw:5.0.0:*:*:*:*:macos:*:*,Canvas GFX Canvas Draw 5.0.0 for macOS,"['CVE-2018-3980', 'CVE-2018-3981']",2022-03-19T15:30Z
+2,cpe:2.3:a:canvasgfx:canvas_draw:5.0.0.28:*:*:*:*:macos:*:*,Canvas GFX Canvas Draw 5.0.0.28 for macOS,['CVE-2018-3976'],2022-03-19T15:30Z
+3,cpe:2.3:h:canyon-tech:cn-wf512:-:*:*:*:*:*:*:*,Canyon-Tech CN-WF512,"['CVE-2011-4501', 'CVE-2011-4502']",2022-03-19T15:30Z
+4,cpe:2.3:o:canyon-tech:cn-wf512_router_firmware:1.83:*:*:*:*:*:*:*,Canyon-Tech CN-WF512 router firmware 1.83,"['CVE-2011-4501', 'CVE-2011-4502']",2022-03-19T15:30Z
+5,cpe:2.3:h:canyon-tech:cn-wf514:-:*:*:*:*:*:*:*,Canyon-Tech CN-WF514,"['CVE-2011-4501', 'CVE-2011-4502']",2022-03-19T15:30Z
+6,cpe:2.3:o:canyon-tech:cn-wf514_router_firmware:2.08:*:*:*:*:*:*:*,Canyon-Tech CN-WF512 router firmware 2.08,"['CVE-2011-4501', 'CVE-2011-4502']",2022-03-19T15:30Z
+7,cpe:2.3:a:caolilinode_project:caolilinode:1.0.0:*:*:*:*:node.js:*:*,caolilinode Project caolilinode 1.0.0 for Node.js,['CVE-2017-16159'],2022-03-19T15:30Z
+8,cpe:2.3:a:capasystems:capainstaller:-:*:*:*:*:*:*:*,Capasystems Capainstaller,['CVE-2020-27977'],2022-03-19T15:30Z
+9,cpe:2.3:a:capasystems:capainstaller:5.6:*:*:*:*:*:*:*,Capasystems Capainstaller 5.6,['CVE-2020-27977'],2022-03-19T15:30Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:861w_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 861W Integrated Services Router,['CVE-2018-0163'],2022-03-19T17:49Z
+1,cpe:2.3:h:cisco:8620_ip_camera:-:*:*:*:*:*:*:*,Cisco 8620 IP Camera,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507', 'CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:49Z
+2,cpe:2.3:o:cisco:8620_ip_camera_firmware:1.0.9-1:*:*:*:*:*:*:*,Cisco 8620 IP Camera Firmware 1.0.9-1,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507']",2022-03-19T17:49Z
+3,cpe:2.3:o:cisco:8620_ip_camera_firmware:1.0.9-4:*:*:*:*:*:*:*,Cisco 8620 IP Camera Firmware 1.0.9-4,"['CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:49Z
+4,cpe:2.3:h:cisco:8630_ip_camera:-:*:*:*:*:*:*:*,Cisco 8630 IP Camera,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507', 'CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:49Z
+5,cpe:2.3:o:cisco:8630_ip_camera_firmware:1.0.9-1:*:*:*:*:*:*:*,Cisco 8630 IP Camera Firmware 1.0.9-1,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507']",2022-03-19T17:49Z
+6,cpe:2.3:o:cisco:8630_ip_camera_firmware:1.0.9-4:*:*:*:*:*:*:*,Cisco 8630 IP Camera Firmware 1.0.9-4,"['CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:49Z
+7,cpe:2.3:h:cisco:866vae_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 866VAE Integrated Services Router,['CVE-2018-0163'],2022-03-19T17:49Z
+8,cpe:2.3:h:cisco:867_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 867 Integrated Services Router,['CVE-2013-1241'],2022-03-19T17:49Z
+9,cpe:2.3:h:cisco:867vae_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 867VAE Integrated Services Router,['CVE-2018-0163'],2022-03-19T17:49Z

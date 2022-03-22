@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:360totalsecurity:360_total_security:-:*:*:*:*:*:*:*,360 Total Security,"['CVE-2017-12653', 'CVE-2020-15722', 'CVE-2020-15723', 'CVE-2020-15724']",2022-03-18T09:59Z
+1,cpe:2.3:a:360totalsecurity:360_total_security:3.5.0.1033:*:*:*:*:*:*:*,360 Total Security 3.5.0.1033,"['CVE-2017-12653', 'CVE-2018-18603', 'CVE-2020-15722', 'CVE-2020-15723', 'CVE-2020-15724']",2022-03-18T09:59Z
+2,cpe:2.3:a:360totalsecurity:360_total_security:9.0.0.1202:*:*:*:*:*:*:*,360 Total Security 9.0.0.1202,"['CVE-2017-12653', 'CVE-2020-15722', 'CVE-2020-15723', 'CVE-2020-15724']",2022-03-18T09:59Z
+3,cpe:2.3:a:360totalsecurity:360_total_security:12.1.0.1004:*:*:*:*:*:*:*,360totalsecurity 360 Total Security 12.1.0.1004,"['CVE-2020-15722', 'CVE-2020-15723', 'CVE-2020-15724']",2022-03-18T09:59Z
+4,cpe:2.3:a:360totalsecurity:360_total_security:12.1.0.1005:*:*:*:*:*:*:*,360totalsecurity 360 Total Security 12.1.0.1005,['CVE-2020-15724'],2022-03-18T09:59Z
+5,cpe:2.3:h:3com:141701:-:*:*:*:*:*:*:*,3Com Hiper ARC,[''],2022-03-18T09:59Z
+6,cpe:2.3:h:3com:3c13612:-:*:*:*:*:*:*:*,3Com Router 3012,[''],2022-03-18T09:59Z
+7,cpe:2.3:h:3com:3c13613:-:*:*:*:*:*:*:*,3Com Router 3013,[''],2022-03-18T09:59Z
+8,cpe:2.3:h:3com:3c13616:-:*:*:*:*:*:*:*,3Com Router 3016,[''],2022-03-18T10:00Z
+9,cpe:2.3:h:3com:3c13700:-:*:*:*:*:*:*:*,スリーコム Router 5009,[''],2022-03-18T10:00Z

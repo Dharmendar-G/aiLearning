@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:ibm:security_access_manager_for_mobile_appliance:-:*:*:*:*:*:*:*,IBM Security Access Manager For Mobile Appliance,"['CVE-2017-1473', 'CVE-2017-1534']",2022-03-21T21:55Z
+1,cpe:2.3:h:ibm:security_access_manager_for_mobile_appliance:8.0:*:*:*:*:*:*:*,IBM Security Access Manager for Mobile appliance 8.0,"['CVE-2014-3053', 'CVE-2014-3073', 'CVE-2014-4823', 'CVE-2014-6079', 'CVE-2015-5013', 'CVE-2016-2908', 'CVE-2016-3016', 'CVE-2016-3017', 'CVE-2016-3020', 'CVE-2016-3021', 'CVE-2016-3022', 'CVE-2016-3023', 'CVE-2016-3024', 'CVE-2016-3027', 'CVE-2016-3029', 'CVE-2016-3043', 'CVE-2016-3046', 'CVE-2016-5919', 'CVE-2017-1459']",2022-03-21T21:55Z
+2,cpe:2.3:a:ibm:security_access_manager_for_mobile_software:8.0:*:*:*:*:*:*:*,IBM Security Access Manager for Mobile software 8.0,"['CVE-2014-3053', 'CVE-2014-3073']",2022-03-21T21:55Z
+3,cpe:2.3:a:ibm:security_access_manager_for_web:6.0:*:*:*:*:*:*:*,IBM Security Access Manager for Web 6.0,['CVE-2013-6329'],2022-03-21T21:55Z
+4,cpe:2.3:a:ibm:security_access_manager_for_web:6.1:*:*:*:*:*:*:*,IBM Security Access Manager for Web 6.1,['CVE-2013-6329'],2022-03-21T21:55Z
+5,cpe:2.3:a:ibm:security_access_manager_for_web:6.1.1:*:*:*:*:*:*:*,IBM Security Access Manager for Web 6.1.1,['CVE-2013-6329'],2022-03-21T21:55Z
+6,cpe:2.3:a:ibm:security_access_manager_for_web:7.0:*:*:*:*:*:*:*,IBM Security Access Manager for Web 7.0,"['CVE-2013-6329', 'CVE-2014-6076', 'CVE-2014-6077', 'CVE-2014-6078', 'CVE-2014-6080', 'CVE-2014-6082', 'CVE-2014-6083', 'CVE-2014-6084', 'CVE-2014-6086', 'CVE-2014-6087', 'CVE-2014-6088', 'CVE-2014-6089', 'CVE-2015-4963']",2022-03-21T21:55Z
+7,cpe:2.3:a:ibm:security_access_manager_for_web:7.0.0:*:*:*:*:*:*:*,IBM Security Access Manager for Web 7.0.0,"['CVE-2016-3028', 'CVE-2016-3045', 'CVE-2017-1474', 'CVE-2017-1476']",2022-03-21T21:55Z
+8,cpe:2.3:a:ibm:security_access_manager_for_web:7.0.0.1:*:*:*:*:*:*:*,IBM Security Access Manager for Web 7.0.0.1,"['CVE-2015-4963', 'CVE-2017-1474', 'CVE-2017-1476']",2022-03-21T21:55Z
+9,cpe:2.3:a:ibm:security_access_manager_for_web:7.0.0.2:*:*:*:*:*:*:*,IBM Security Access Manager for Web 7.0.0.2,"['CVE-2015-4963', 'CVE-2017-1474', 'CVE-2017-1476']",2022-03-21T21:55Z

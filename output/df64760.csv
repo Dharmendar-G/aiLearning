@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avaya:wireless_ap-5:2.5.4:*:*:*:*:*:*:*,Avaya Wireless AP-5 2.5.4,['CVE-2005-3253'],2022-03-19T04:20Z
+1,cpe:2.3:a:avaya:wireless_ap-6:-:*:*:*:*:*:*:*,Avaya Wireless AP-6,[''],2022-03-19T04:20Z
+2,cpe:2.3:a:avaya:wireless_ap-6:2.5:*:*:*:*:*:*:*,Avaya Wireless AP-6 2.5,['CVE-2005-3253'],2022-03-19T04:20Z
+3,cpe:2.3:a:avaya:wireless_ap-6:2.5.4:*:*:*:*:*:*:*,Avaya Wireless AP-6 2.5.4,['CVE-2005-3253'],2022-03-19T04:20Z
+4,cpe:2.3:a:avaya:wireless_ap-7:-:*:*:*:*:*:*:*,Avaya Wireless AP-7,[''],2022-03-19T04:21Z
+5,cpe:2.3:a:avaya:wireless_ap-7:2.5:*:*:*:*:*:*:*,Avaya Wireless AP-7 2.5,['CVE-2005-3253'],2022-03-19T04:21Z
+6,cpe:2.3:a:avaya:wireless_ap-8:-:*:*:*:*:*:*:*,Avaya Wireless AP-8,[''],2022-03-19T04:21Z
+7,cpe:2.3:a:avaya:wireless_ap-8:2.5:*:*:*:*:*:*:*,Avaya Wireless AP-8 2.5,['CVE-2005-3253'],2022-03-19T04:21Z
+8,cpe:2.3:a:avd-app:avd_download_video:3.3.13:*:*:*:*:android:*:*,avd-app AVD Download Video (aka com.myboyfriendisageek.videocatcher.demo) for Android 3.3.13,['CVE-2014-5666'],2022-03-19T04:21Z
+9,cpe:2.3:a:av-data_project:av-data:0.1.0:*:*:*:*:rust:*:*,av-data Project av-data 0.1.0 for Rust,['CVE-2021-25904'],2022-03-19T04:21Z

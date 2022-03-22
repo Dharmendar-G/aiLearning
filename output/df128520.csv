@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:ip_phone_7861_with_multiplatform_firmware:11.2\(1\):*:*:*:*:*:*:*,Cisco IP Phone 7861 with Multiplatform Firmware 11.2(1),['CVE-2020-3111'],2022-03-19T22:38Z
+1,cpe:2.3:o:cisco:ip_phone_7861_with_multiplatform_firmware:11.2\(3\):*:*:*:*:*:*:*,Cisco IP Phone 7861 with Multiplatform Firmware 11.2(3),['CVE-2020-3111'],2022-03-19T22:38Z
+2,cpe:2.3:o:cisco:ip_phone_7861_with_multiplatform_firmware:11.2\(3\)sr1:*:*:*:*:*:*:*,Cisco IP Phone 7861 with Multiplatform Firmware 11.2(3)SR1,['CVE-2020-3111'],2022-03-19T22:38Z
+3,cpe:2.3:o:cisco:ip_phone_7861_with_multiplatform_firmware:11.3\(1\):*:*:*:*:*:*:*,Cisco IP Phone 7861 with Multiplatform Firmware 11.3(1),['CVE-2020-3111'],2022-03-19T22:38Z
+4,cpe:2.3:o:cisco:ip_phone_7861_with_multiplatform_firmware:11.3\(1\)sr1:*:*:*:*:*:*:*,Cisco IP Phone 7861 with Multiplatform Firmware 11.3(1)SR1,[''],2022-03-19T22:38Z
+5,cpe:2.3:h:cisco:ip_phone_7902:-:*:*:*:*:*:*:*,Cisco IP Phone 7902,['CVE-2005-4794'],2022-03-19T22:38Z
+6,cpe:2.3:h:cisco:ip_phone_7905:-:*:*:*:*:*:*:*,Cisco IP Phone 7905,['CVE-2005-4794'],2022-03-19T22:38Z
+7,cpe:2.3:h:cisco:ip_phone_7912:-:*:*:*:*:*:*:*,Cisco IP Phone 7912,['CVE-2005-4794'],2022-03-19T22:38Z
+8,cpe:2.3:h:cisco:ip_phone_7940:-:*:*:*:*:*:*:*,Cisco IP Phone 7940,"['CVE-2003-1109', 'CVE-2006-0179']",2022-03-19T22:38Z
+9,cpe:2.3:h:cisco:ip_phone_7960:-:*:*:*:*:*:*:*,Cisco IP Phone 7960,['CVE-2003-1109'],2022-03-19T22:38Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:boostio:boostnote:0.11.14:*:*:*:*:*:*:*,BoostIO Boostnote 0.11.14,[''],2022-03-19T09:51Z
+1,cpe:2.3:a:boostio:boostnote:0.11.15:*:*:*:*:*:*:*,BoostIO Boostnote 0.11.15,"['CVE-2019-12136', 'CVE-2019-12184']",2022-03-19T09:51Z
+2,cpe:2.3:a:boostio:boostnote:0.11.16:*:*:*:*:*:*:*,BoostIO Boostnote 0.11.16,[''],2022-03-19T09:51Z
+3,cpe:2.3:a:boostio:boostnote:0.11.17:*:*:*:*:*:*:*,BoostIO Boostnote 0.11.17,[''],2022-03-19T09:51Z
+4,cpe:2.3:a:boostio:boostnote:0.12.0:*:*:*:*:*:*:*,BoostIO Boostnote 0.12.0,[''],2022-03-19T09:51Z
+5,cpe:2.3:a:boostio:boostnote:0.12.1:*:*:*:*:*:*:*,BoostIO Boostnote 0.12.1,[''],2022-03-19T09:51Z
+6,cpe:2.3:a:boostio:boostnote:0.12.1-0:*:*:*:*:*:*:*,BoostIO Boostnote 0.12.1-0,[''],2022-03-19T09:51Z
+7,cpe:2.3:a:boostio:boostnote:0.12.1-1:*:*:*:*:*:*:*,BoostIO Boostnote 0.12.1-1,[''],2022-03-19T09:51Z
+8,cpe:2.3:a:boostio:boostnote:0.13.0:*:*:*:*:*:*:*,BoostIO Boostnote 0.13.0,[''],2022-03-19T09:51Z
+9,cpe:2.3:a:boostio:boostnote:0.14.0:*:*:*:*:*:*:*,BoostIO Boostnote 0.14.0,[''],2022-03-19T09:51Z

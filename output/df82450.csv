@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bmc:remedy_action_request_system_server:19.02:*:*:*:*:*:*:*,BMC Remedy Action Request System Server 19.02,[''],2022-03-19T09:11Z
+1,cpe:2.3:a:bmc:remedy_action_request_system_server:19.02.01:*:*:*:*:*:*:*,BMC Remedy Action Request System Server 19.02.01,[''],2022-03-19T09:11Z
+2,cpe:2.3:a:bmc:remedy_action_request_system_server:19.08:*:*:*:*:*:*:*,BMC Remedy Action Request System Server 19.08,[''],2022-03-19T09:11Z
+3,cpe:2.3:a:bmc:remedy_action_request_system_server:19.11:*:*:*:*:*:*:*,BMC Remedy Action Request System Server 19.11,[''],2022-03-19T09:11Z
+4,cpe:2.3:a:bmc:remedy_action_request_system_user:6.3:*:*:*:*:*:*:*,Bmc Remedy Action Request System User 6.3,[''],2022-03-19T09:11Z
+5,cpe:2.3:a:bmc:remedy_action_request_system_user:7.0:*:*:*:*:*:*:*,Bmc Remedy Action Request System User 7.0,[''],2022-03-19T09:11Z
+6,cpe:2.3:a:bmc:remedy_action_request_system_user:7.1:*:*:*:*:*:*:*,Bmc Remedy Action Request System User 7.1,[''],2022-03-19T09:11Z
+7,cpe:2.3:a:bmc:remedy_action_request_system_user:8.0.7820.0:*:*:*:*:*:*:*,Bmc Remedy Action Request System User 8.0.7820.0,[''],2022-03-19T09:11Z
+8,cpe:2.3:a:bmc:remedy_ar_system_server:8.0:*:*:*:*:*:*:*,BMC Remedy AR System Server 8.0,"['CVE-2015-5071', 'CVE-2015-5072']",2022-03-19T09:11Z
+9,cpe:2.3:a:bmc:remedy_ar_system_server:9.0:*:*:*:*:*:*:*,BMC Remedy AR System Server 9.0,"['CVE-2015-5071', 'CVE-2015-5072']",2022-03-19T09:11Z

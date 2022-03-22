@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:cio_components_installer:8.2.2:*:*:*:*:*:x64:*,HP Cio Components Installer 8.2.2 (x64) 64-bit,[''],2022-03-21T13:00Z
+1,cpe:2.3:a:hp:cio_components_installer:8.2.4:*:*:*:*:*:x64:*,HP Cio Components Installer 8.2.4 (x64) 64-bit,[''],2022-03-21T13:00Z
+2,cpe:2.3:a:hp:client_automation_administrator:7.80:*:*:*:*:*:*:*,HP Client Automation Administrator 7.80,[''],2022-03-21T13:00Z
+3,cpe:2.3:a:hp:client_automation_application_manager_agent:7.80:*:*:*:*:*:*:*,HP Client Automation Application Manager Agent 7.80,[''],2022-03-21T13:00Z
+4,cpe:2.3:a:hp:client_automation_core:7.80.0:*:*:*:*:*:*:*,HP Client Automation Core 7.80.0,[''],2022-03-21T13:00Z
+5,cpe:2.3:a:hp:client_automation_satellite:7.80.0:*:*:*:*:*:*:*,HP Client Automation Satellite 7.80.0,[''],2022-03-21T13:00Z
+6,cpe:2.3:a:hp:cluster_object_manager:-:*:*:*:*:*:*:*,HP Cluster Object Manager,[''],2022-03-21T13:00Z
+7,cpe:2.3:a:hp:cluster_object_manager:a.01.03:*:*:*:*:*:*:*,HP Cluster Object Manager A.01.03,['CVE-2004-1486'],2022-03-21T13:00Z
+8,cpe:2.3:a:hp:cluster_object_manager:b.01.04:*:*:*:*:*:*:*,HP Cluster Object Manager B.01.04,['CVE-2004-1486'],2022-03-21T13:00Z
+9,cpe:2.3:a:hp:cluster_object_manager:b.02.01.02:*:*:*:*:*:*:*,HP Cluster Object Manager B.02.01.02,['CVE-2004-1486'],2022-03-21T13:00Z

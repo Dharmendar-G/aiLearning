@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hbs_project:hbs:4.0.1:*:*:*:*:node.js:*:*,hbs Project hbs 4.0.1 for Node.js,[''],2022-03-21T10:24Z
+1,cpe:2.3:a:hbs_project:hbs:4.0.2:*:*:*:*:node.js:*:*,hbs Project hbs 4.0.2 for Node.js,[''],2022-03-21T10:25Z
+2,cpe:2.3:a:hbs_project:hbs:4.0.3:*:*:*:*:node.js:*:*,hbs Project hbs 4.0.3 for Node.js,[''],2022-03-21T10:24Z
+3,cpe:2.3:a:hbs_project:hbs:4.0.4:*:*:*:*:node.js:*:*,hbs Project hbs 4.0.4 for Node.js,[''],2022-03-21T10:25Z
+4,cpe:2.3:a:hbs_project:hbs:4.0.5:*:*:*:*:node.js:*:*,hbs Project hbs 4.0.5 for Node.js,[''],2022-03-21T10:25Z
+5,cpe:2.3:a:hbs_project:hbs:4.0.6:*:*:*:*:node.js:*:*,hbs Project hbs 4.0.6 for Node.js,[''],2022-03-21T10:25Z
+6,cpe:2.3:a:hbs_project:hbs:4.1.0:*:*:*:*:node.js:*:*,hbs Project hbs 4.1.0 for Node.js,[''],2022-03-21T10:25Z
+7,cpe:2.3:a:hbs_project:hbs:4.1.1:*:*:*:*:node.js:*:*,hbs Project hbs 4.1.1 for Node.js,[''],2022-03-21T10:25Z
+8,cpe:2.3:a:hbs_project:hbs:4.1.2:*:*:*:*:node.js:*:*,hbs Project hbs 4.1.2 for Node.js,[''],2022-03-21T10:25Z
+9,cpe:2.3:a:hbwsl:slidedeck_2:2.1.20120628:*:*:*:lite:wordpress:*:*,Hummingbird Web Solutions SlideDeck 2 2.1.20120628 Lite Edition for WordPress,['CVE-2013-7483'],2022-03-21T10:25Z

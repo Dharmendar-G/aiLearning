@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cobham:satcom_sailor_500_firmware:1.25:*:*:*:*:*:*:*,Cobham Satcom Sailor 500 Firmware 1.25,[''],2022-03-20T04:44Z
+1,cpe:2.3:o:cobham:satcom_sailor_800_firmware:-:*:*:*:*:*:*:*,Cobham Satcom Sailor 800 Firmware,"['CVE-2018-19393', 'CVE-2018-19394']",2022-03-20T04:44Z
+2,cpe:2.3:o:cobham:satcom_sailor_900_firmware:-:*:*:*:*:*:*:*,Cobham Satcom Sailor 900 Firmware,"['CVE-2018-19393', 'CVE-2018-19394']",2022-03-20T04:44Z
+3,cpe:2.3:h:cobham:sea_tel_116:-:*:*:*:*:*:*:*,Cobham Sea Tel 116,['CVE-2018-5071'],2022-03-20T04:44Z
+4,cpe:2.3:o:cobham:sea_tel_116_firmware:222429:*:*:*:*:*:*:*,Cobham Sea Tel 116 Firmware 222429,['CVE-2018-5071'],2022-03-20T04:44Z
+5,cpe:2.3:h:cobham:sea_tel_121:-:*:*:*:*:*:*:*,Cobham Sea Tel 121,"['CVE-2018-5266', 'CVE-2018-5267']",2022-03-20T04:44Z
+6,cpe:2.3:o:cobham:sea_tel_121_firmware:222701:*:*:*:*:*:*:*,Cobham Sea Tel 121 Firmware 222701,"['CVE-2018-5266', 'CVE-2018-5267']",2022-03-20T04:44Z
+7,cpe:2.3:h:cobham:sea_tel_4009_vsat_broadband-at-sea:-:*:*:*:*:*:*:*,Cobham Sea Tel 4009 VSAT Broadband-at-Sea,['CVE-2019-16320'],2022-03-20T04:44Z
+8,cpe:2.3:o:cobham:sea_tel_4009_vsat_broadband-at-sea_firmware:-:*:*:*:*:*:*:*,Cobham Sea Tel 4009 VSAT Broadband-at-Sea Firmware,[''],2022-03-20T04:44Z
+9,cpe:2.3:o:cobham:sea_tel_4009_vsat_broadband-at-sea_firmware:170_224521:*:*:*:*:*:*:*,Cobham Sea Tel 4009 VSAT Broadband-at-Sea Firmware 170 224521,['CVE-2019-16320'],2022-03-20T04:44Z

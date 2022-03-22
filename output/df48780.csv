@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arubanetworks:analytics_and_location_engine:2.1.0.2:*:*:*:*:*:*:*,Aruba Networks Analytics and Location Engine (ALE) 2.1.0.2,['CVE-2020-7119'],2022-03-18T23:34Z
+1,cpe:2.3:a:arubanetworks:analytics_and_location_engine:2.1.0.3:*:*:*:*:*:*:*,Aruba Networks Analytics and Location Engine (ALE) 2.1.0.3,[''],2022-03-18T23:34Z
+2,cpe:2.3:h:arubanetworks:ap-300_series_access_points:-:*:*:*:*:*:*:*,Aruba Networks AP-300 Series Access Points,['CVE-2018-7080'],2022-03-18T23:34Z
+3,cpe:2.3:o:arubanetworks:ap-300_series_access_points_firmware:-:*:*:*:*:*:*:*,Aruba Networks AP-300 Series Access Points Firmware,['CVE-2018-7080'],2022-03-18T23:34Z
+4,cpe:2.3:h:arubanetworks:ap-300_series_instant_access_points:-:*:*:*:*:*:*:*,Aruba Networks AP-300 Series Instant Access Points,['CVE-2018-7080'],2022-03-18T23:34Z
+5,cpe:2.3:o:arubanetworks:ap-300_series_instant_access_points_firmware:-:*:*:*:*:*:*:*,Aruba Networks AP-300 Series Instant Access Points Firmware,['CVE-2018-7080'],2022-03-18T23:34Z
+6,cpe:2.3:h:arubanetworks:aruba_2530:-:*:*:*:*:*:*:*,Aruba Networks Aruba 2530,[''],2022-03-18T23:34Z
+7,cpe:2.3:o:arubanetworks:aruba_2530_firmware:ya.16.10.0012:*:*:*:*:*:*:*,Aruba Networks Aruba 2530 Firmware YA.16.10.0012,[''],2022-03-18T23:34Z
+8,cpe:2.3:h:arubanetworks:aruba_2530ya:-:*:*:*:*:*:*:*,Aruba Networks Aruba 2530YA,['CVE-2021-25141'],2022-03-18T23:35Z
+9,cpe:2.3:o:arubanetworks:aruba_2530ya_firmware:ya.16.10.0012:*:*:*:*:*:*:*,Aruba Networks Aruba 2530YA Firmware YA.16.10.0012,[''],2022-03-18T23:35Z

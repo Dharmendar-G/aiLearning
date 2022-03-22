@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ayacms_project:ayacms:3.1.2:*:*:*:*:*:*:*,AyaCMS Project AyaCMS 3.1.2,"['CVE-2020-23686', 'CVE-2021-44238']",2022-03-19T04:59Z
+1,cpe:2.3:a:ayatana_project:unity:7.0.0:*:*:*:*:*:*:*,Ayatana Project Unity 7.0.0,"['CVE-2014-3202', 'CVE-2014-3203', 'CVE-2014-3204', 'CVE-2014-5195']",2022-03-19T04:59Z
+2,cpe:2.3:a:ayatana_project:unity:7.0.1:*:*:*:*:*:*:*,Ayatana Project Unity 7.0.1,"['CVE-2014-3202', 'CVE-2014-3203', 'CVE-2014-3204', 'CVE-2014-5195']",2022-03-19T04:59Z
+3,cpe:2.3:a:ayatana_project:unity:7.1.0:*:*:*:*:*:*:*,Ayatana Project Unity 7.1.0,"['CVE-2014-3202', 'CVE-2014-3203', 'CVE-2014-3204', 'CVE-2014-5195']",2022-03-19T04:59Z
+4,cpe:2.3:a:ayatana_project:unity:7.1.1:*:*:*:*:*:*:*,Ayatana Project Unity 7.1.1,"['CVE-2014-3202', 'CVE-2014-3203', 'CVE-2014-3204', 'CVE-2014-5195']",2022-03-19T04:59Z
+5,cpe:2.3:a:ayatana_project:unity:7.1.2:*:*:*:*:*:*:*,Ayatana Project Unity 7.1.2,"['CVE-2014-3202', 'CVE-2014-3203', 'CVE-2014-3204', 'CVE-2014-5195']",2022-03-19T04:59Z
+6,cpe:2.3:a:ayatana_project:unity:7.1.3:*:*:*:*:*:*:*,Ayatana Project Unity 7.1.3,"['CVE-2014-3202', 'CVE-2014-3203', 'CVE-2014-3204', 'CVE-2014-5195']",2022-03-19T04:59Z
+7,cpe:2.3:a:ayatana_project:unity:7.2.0:*:*:*:*:*:*:*,Ayatana Project Unity 7.2.0,"['CVE-2014-3202', 'CVE-2014-3203', 'CVE-2014-3204', 'CVE-2014-5195']",2022-03-19T04:59Z
+8,cpe:2.3:a:ayatana_project:unity:7.2.1:*:*:*:*:*:*:*,Ayatana Project Unity 7.2.1,['CVE-2014-5195'],2022-03-19T04:59Z
+9,cpe:2.3:a:ayecode:geodirectory:-:*:*:*:*:wordpress:*:*,AyeCode GeoDirectory for WordPress,['CVE-2021-24720'],2022-03-19T04:59Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:digi:connectport_ts_8\/16_firmware:-:*:*:*:*:*:*:*,Digi ConnectPort TS 8/16 Firmware,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:05Z
+1,cpe:2.3:h:digi:connectport_x2e:-:*:*:*:*:*:*:*,Digi International ConnectPort X2e,['CVE-2020-12878'],2022-03-20T14:05Z
+2,cpe:2.3:a:digi:connectport_x2e:3.2.30.6:*:*:*:*:*:*:*,Digi International ConnectPort X2e 3.2.30.6,[''],2022-03-20T14:05Z
+3,cpe:2.3:h:digi:one_ia:-:*:*:*:*:*:*:*,Digi One IA,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:05Z
+4,cpe:2.3:o:digi:one_ia_firmware:-:*:*:*:*:*:*:*,Digi One IA Firmware,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:05Z
+5,cpe:2.3:h:digi:one_iap:-:*:*:*:*:*:*:*,Digi One IAP,['CVE-2021-36767'],2022-03-20T14:05Z
+6,cpe:2.3:h:digi:one_iap_family:-:*:*:*:*:*:*:*,Digi One IAP Family,"['CVE-2021-35977', 'CVE-2021-35979']",2022-03-20T14:05Z
+7,cpe:2.3:o:digi:one_iap_family_firmware:-:*:*:*:*:*:*:*,Digi One IAP Family Firmware,"['CVE-2021-35977', 'CVE-2021-35979']",2022-03-20T14:05Z
+8,cpe:2.3:h:digi:one_iap_haz:-:*:*:*:*:*:*:*,Digi One IAP HAZ,['CVE-2021-36767'],2022-03-20T14:05Z
+9,cpe:2.3:h:digi:passport_integrated_console_server:-:*:*:*:*:*:*:*,Digi Passport Integrated Console Server,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:05Z

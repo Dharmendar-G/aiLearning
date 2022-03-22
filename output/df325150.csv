@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_managed_mfp_m725_cf069a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP M725 CF069A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:14Z
+1,cpe:2.3:o:hp:laserjet_managed_mfp_m725_firmware:-:*:*:*:*:*:*:*,HP Laserjet Managed Mfp M725 Firmware -,"['CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T15:14Z
+2,cpe:2.3:o:hp:laserjet_managed_mfp_m725_firmware:2309010_581420:*:*:*:*:*:*:*,HP Laserjet Managed Mfp M725 Firmware 2309010 581420,['CVE-2019-6318'],2022-03-21T15:14Z
+3,cpe:2.3:o:hp:laserjet_managed_mfp_m725_firmware:2407081_000570:*:*:*:*:*:*:*,HP Laserjet Managed Mfp M725 Firmware 2407081 000570,[''],2022-03-21T15:14Z
+4,cpe:2.3:h:hp:laserjet_managed_mfp_m725_l3u63a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP M725 L3U63A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:14Z
+5,cpe:2.3:h:hp:laserjet_managed_mfp_m725_l3u64a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP M725 L3U64A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:14Z
+6,cpe:2.3:h:hp:laserjet_managed_mfp_m775_cc522a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP M775 CC522A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:14Z
+7,cpe:2.3:h:hp:laserjet_managed_mfp_m775_cc523a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP M775 CC523A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:14Z
+8,cpe:2.3:h:hp:laserjet_managed_mfp_m775_cc524a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP M775 CC524A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:14Z
+9,cpe:2.3:h:hp:laserjet_managed_mfp_m775_cf304a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP M775 CF304A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:14Z

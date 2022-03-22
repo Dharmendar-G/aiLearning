@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:bosch:flexidome_ip_panoramic_7000_12mp_360_iva:-:*:*:*:*:*:*:*,Bosch FLEXIDOME IP panoramic 7000 12MP 360 IVA,['CVE-2018-19036'],2022-03-19T10:03Z
+1,cpe:2.3:h:bosch:flexidome_ip_panormic_5000:-:*:*:*:*:*:*:*,Bosch FLEXIDOME IP panoramic 5000,['CVE-2018-19036'],2022-03-19T10:03Z
+2,cpe:2.3:h:bosch:flexidome_ip_starlight_6000:-:*:*:*:*:*:*:*,Bosch FLEXIDOME IP starlight 6000,['CVE-2018-19036'],2022-03-19T10:03Z
+3,cpe:2.3:h:bosch:flexidome_ip_starlight_7000:-:*:*:*:*:*:*:*,Bosch FLEXIDOME IP starlight 7000,['CVE-2018-19036'],2022-03-19T10:03Z
+4,cpe:2.3:h:bosch:fsm-2500:-:*:*:*:*:*:*:*,Bosch FSM-2500,"['CVE-2020-6779', 'CVE-2020-6780']",2022-03-19T10:03Z
+5,cpe:2.3:o:bosch:fsm-2500_firmware:-:*:*:*:*:*:*:*,Bosch FSM-2500 Firmware,"['CVE-2020-6779', 'CVE-2020-6780']",2022-03-19T10:03Z
+6,cpe:2.3:o:bosch:fsm-2500_firmware:5.2:*:*:*:*:*:*:*,Bosch FSM-2500 Firmware 5.2,"['CVE-2020-6779', 'CVE-2020-6780']",2022-03-19T10:03Z
+7,cpe:2.3:o:bosch:fsm-2500_firmware:5.6:*:*:*:*:*:*:*,Bosch FSM-2500 Firmware 5.6,[''],2022-03-19T10:03Z
+8,cpe:2.3:h:bosch:fsm-5000:-:*:*:*:*:*:*:*,Bosch FSM-5000,"['CVE-2020-6779', 'CVE-2020-6780']",2022-03-19T10:03Z
+9,cpe:2.3:o:bosch:fsm-5000_firmware:-:*:*:*:*:*:*:*,Bosch FSM-5000 Firmware,"['CVE-2020-6779', 'CVE-2020-6780']",2022-03-19T10:03Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:elitebook_846_g6_healthcare_edition:-:*:*:*:*:*:*:*,HP EliteBook 846 G6 Healthcare Edition,"['CVE-2019-18618', 'CVE-2019-18913']",2022-03-21T13:19Z
+1,cpe:2.3:o:hp:elitebook_846_g6_healthcare_edition_firmware:-:*:*:*:*:*:*:*,HP EliteBook 846 G6 Healthcare Edition Firmware,"['CVE-2019-18618', 'CVE-2019-18913']",2022-03-21T13:19Z
+2,cpe:2.3:o:hp:elitebook_846_g6_healthcare_edition_firmware:01.04.02:*:*:*:*:*:*:*,HP EliteBook 846 G6 Healthcare Edition Firmware 01.04.02,['CVE-2019-18618'],2022-03-21T13:19Z
+3,cpe:2.3:o:hp:elitebook_846_g6_healthcare_edition_firmware:5.5.21.1099:*:*:*:*:*:*:*,HP EliteBook 846 G6 Healthcare Edition Firmware 5.5.21.1099,[''],2022-03-21T13:19Z
+4,cpe:2.3:h:hp:elitebook_848_g3:-:*:*:*:*:*:*:*,Hp Elitebook 848 G3,"['CVE-2017-8360', 'CVE-2019-16284']",2022-03-21T13:19Z
+5,cpe:2.3:o:hp:elitebook_848_g3_firmware:-:*:*:*:*:*:*:*,HP EliteBook 848 G3 Firmware,['CVE-2019-16284'],2022-03-21T13:19Z
+6,cpe:2.3:o:hp:elitebook_848_g3_firmware:1.42:*:*:*:*:*:*:*,HP EliteBook 848 G3 Firmware 1.42,[''],2022-03-21T13:19Z
+7,cpe:2.3:h:hp:elitebook_850_g1:-:*:*:*:*:*:*:*,HP EliteBook 850 G1,"['CVE-2015-0949', 'CVE-2015-5367', 'CVE-2015-5368', 'CVE-2019-16284']",2022-03-21T13:19Z
+8,cpe:2.3:o:hp:elitebook_850_g1_firmware:-:*:*:*:*:*:*:*,HP EliteBook 850 G1 Firmware,['CVE-2019-16284'],2022-03-21T13:19Z
+9,cpe:2.3:o:hp:elitebook_850_g1_firmware:01.09:*:*:*:*:*:*:*,HP EliteBook 850 G1 Firmware 01.09,"['CVE-2015-0949', 'CVE-2019-16284']",2022-03-21T13:19Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:campaign:21.2.1:*:*:*:*:*:*:*,Adobe Campaign 21.2.1,['CVE-2021-40745'],2022-03-18T12:23Z
+1,cpe:2.3:a:adobe:campaign_classic:2:*:*:*:gold_standard:*:*:*,Adobe Campaign Classic 2 Gold Standard Edition,"['CVE-2020-9666', 'CVE-2021-21009']",2022-03-18T12:23Z
+2,cpe:2.3:a:adobe:campaign_classic:3:*:*:*:gold_standard:*:*:*,Adobe Campaign Classic 3 Gold Standard Edition,"['CVE-2020-9666', 'CVE-2021-21009']",2022-03-18T12:23Z
+3,cpe:2.3:a:adobe:campaign_classic:4:*:*:*:gold_standard:*:*:*,Adobe Campaign Classic 4 Gold Standard Edition,"['CVE-2020-9666', 'CVE-2021-21009']",2022-03-18T12:23Z
+4,cpe:2.3:a:adobe:campaign_classic:5:*:*:*:gold_standard:*:*:*,Adobe Campaign Classic 5 Gold Standard Edition,"['CVE-2020-9666', 'CVE-2021-21009']",2022-03-18T12:23Z
+5,cpe:2.3:a:adobe:campaign_classic:6:*:*:*:gold_standard:*:*:*,Adobe Campaign Classic 6 Gold Standard Edition,"['CVE-2020-9666', 'CVE-2021-21009']",2022-03-18T12:23Z
+6,cpe:2.3:a:adobe:campaign_classic:8:*:*:*:gold_standard:*:*:*,Adobe Campaign Classic 8 Gold Standard Edition,"['CVE-2020-9666', 'CVE-2021-21009']",2022-03-18T12:23Z
+7,cpe:2.3:a:adobe:campaign_classic:9:*:*:*:gold_standard:*:*:*,Adobe Campaign Classic 9 Gold Standard Edition,"['CVE-2020-9666', 'CVE-2021-21009']",2022-03-18T12:23Z
+8,cpe:2.3:a:adobe:campaign_classic:10:*:*:*:gold_standard:*:*:*,Adobe Campaign Classic 10 Gold Standard Edition,"['CVE-2020-9666', 'CVE-2021-21009']",2022-03-18T12:23Z
+9,cpe:2.3:a:adobe:campaign_classic:11:*:*:*:gold_standard:*:*:*,Adobe Campaign Classic 11 Gold Standard Edition,"['CVE-2020-9666', 'CVE-2021-21009']",2022-03-18T12:23Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:change_and_configuration_management_database:7.1.1.12:*:*:*:*:*:*:*,IBM Change and Configuration Management Database (CCMDB) 7.1.1.12,"['CVE-2013-4016', 'CVE-2013-5402', 'CVE-2013-5465', 'CVE-2014-0824', 'CVE-2014-0825']",2022-03-21T19:59Z
+1,cpe:2.3:a:ibm:change_and_configuration_management_database:7.1.2:*:*:*:*:*:*:*,IBM Change and Configuration Management Database (CCMDB) 7.1.2,['CVE-2013-5402'],2022-03-21T19:59Z
+2,cpe:2.3:a:ibm:change_and_configuration_management_database:7.2:*:*:*:*:*:*:*,IBM Change and Configuration Management Database (CCMDB) 7.2,"['CVE-2013-3323', 'CVE-2013-5402', 'CVE-2014-4765', 'CVE-2014-6102', 'CVE-2014-6194', 'CVE-2015-0104', 'CVE-2015-0107', 'CVE-2015-0108', 'CVE-2015-0109', 'CVE-2015-1933', 'CVE-2015-1934', 'CVE-2015-4944', 'CVE-2015-4965', 'CVE-2015-4966', 'CVE-2015-4967', 'CVE-2015-5016', 'CVE-2015-5017', 'CVE-2015-7395', 'CVE-2015-7448', 'CVE-2015-7487']",2022-03-21T19:59Z
+3,cpe:2.3:a:ibm:change_and_configuration_management_database:7.2.0:*:*:*:*:*:*:*,IBM Change and Configuration Management Database (CCMDB) 7.2.0,"['CVE-2012-3316', 'CVE-2012-3322', 'CVE-2012-3327', 'CVE-2012-3328', 'CVE-2012-6355']",2022-03-21T19:59Z
+4,cpe:2.3:a:ibm:change_and_configuration_management_database:7.2.0.1:*:*:*:*:*:*:*,IBM Change and Configuration Management Database (CCMDB) 7.2.0.1,"['CVE-2013-5402', 'CVE-2015-7448']",2022-03-21T19:59Z
+5,cpe:2.3:a:ibm:change_and_configuration_management_database:7.2.0.2:*:*:*:*:*:*:*,IBM Change And Configuration Management Database 7.2.0.2,['CVE-2015-7448'],2022-03-21T19:59Z
+6,cpe:2.3:a:ibm:change_and_configuration_management_database:7.2.1:*:*:*:*:*:*:*,IBM Change And Configuration Management Database 7.2.1,['CVE-2015-7448'],2022-03-21T19:59Z
+7,cpe:2.3:a:ibm:change_and_configuration_management_database:7.2.1.1:*:*:*:*:*:*:*,IBM Change And Configuration Management Database 7.2.1.1,['CVE-2015-7448'],2022-03-21T19:59Z
+8,cpe:2.3:a:ibm:change_and_configuration_management_database:7.2.1.2:*:*:*:*:*:*:*,IBM Change and Configuration Management Database (CCMDB) 7.2.1.2,['CVE-2015-7448'],2022-03-21T19:59Z
+9,cpe:2.3:a:ibm:change_and_configuration_management_database:7.2.1.3:*:*:*:*:*:*:*,IBM Change And Configuration Management Database 7.2.1.3,['CVE-2015-7448'],2022-03-21T19:59Z

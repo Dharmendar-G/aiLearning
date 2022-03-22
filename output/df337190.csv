@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:sydneym-l23:-:*:*:*:*:*:*:*,Huawei SydneyM-L23,"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T18:56Z
+1,cpe:2.3:o:huawei:sydneym-l23_firmware:-:*:*:*:*:*:*:*,Huawei SYDNEYM-L23 FIRMWARE,"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T18:56Z
+2,cpe:2.3:o:huawei:sydneym-l23_firmware:9.1.0.226\(c605e2r1p1t8\):*:*:*:*:*:*:*,Huawei SydneyM-L23 Firmware 9.1.0.226(C605E2R1P1T8),[''],2022-03-21T18:56Z
+3,cpe:2.3:h:huawei:sydney-tl00:-:*:*:*:*:*:*:*,Huawei SYDNEY-TL00,['CVE-2019-9506'],2022-03-21T18:56Z
+4,cpe:2.3:o:huawei:sydney-tl00_firmware:-:*:*:*:*:*:*:*,Huawei SYDNEY-TL00 FIRMWARE,['CVE-2019-9506'],2022-03-21T18:56Z
+5,cpe:2.3:h:huawei:tag-al00:-:*:*:*:*:*:*:*,Huawei TAG-AL00,['CVE-2017-15340'],2022-03-21T18:56Z
+6,cpe:2.3:o:huawei:tag-al00_firmware:tag-al00c92b168:*:*:*:*:*:*:*,Huawei TAG-AL00 Firmware TAG-AL00C92B168,['CVE-2017-15340'],2022-03-21T18:56Z
+7,cpe:2.3:h:huawei:taurus-al00a:-:*:*:*:*:*:*:*,Huawei Taurus-AL00A,"['CVE-2020-9087', 'CVE-2020-9093', 'CVE-2021-22293', 'CVE-2021-22302', 'CVE-2021-22303', 'CVE-2021-22304']",2022-03-21T18:56Z
+8,cpe:2.3:o:huawei:taurus-al00a_firmware:10.0.0.1\(c00e1r1p1\):*:*:*:*:*:*:*,Huawei Taurus-AL00A Firmware 10.0.0.1(C00E1R1P1),"['CVE-2020-9087', 'CVE-2020-9093', 'CVE-2021-22293', 'CVE-2021-22302', 'CVE-2021-22303', 'CVE-2021-22304']",2022-03-21T18:57Z
+9,cpe:2.3:h:huawei:taurus-al00b:-:*:*:*:*:*:*:*,Huawei Taurus-AL00B,"['CVE-2019-5233', 'CVE-2020-9065', 'CVE-2020-9070', 'CVE-2020-9237']",2022-03-21T18:57Z

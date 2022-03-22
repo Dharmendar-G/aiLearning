@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_pro_300_color_mfp_m351_ce957a:-:*:*:*:*:*:*:*,HP LaserJet Pro 300 Color MFP M351 CE957A,['CVE-2020-28419'],2022-03-21T15:15Z
+1,cpe:2.3:h:hp:laserjet_pro_300_color_mfp_m351_ce958a:-:*:*:*:*:*:*:*,HP LaserJet Pro 300 Color MFP M351 CE958A,['CVE-2020-28419'],2022-03-21T15:15Z
+2,cpe:2.3:h:hp:laserjet_pro_300_color_mfp_printer_m375:ce903a:*:*:*:*:*:*:*,HP LaserJet Pro 300 color MFP Printer M375 CE903A,['CVE-2013-6193'],2022-03-21T15:15Z
+3,cpe:2.3:h:hp:laserjet_pro_300_color_printer_m351:ce955a:*:*:*:*:*:*:*,HP LaserJet Pro 300 color Printer M351 CE955A,['CVE-2013-6193'],2022-03-21T15:15Z
+4,cpe:2.3:h:hp:laserjet_pro_400_color_mfp_m451_ce955a:-:*:*:*:*:*:*:*,HP LaserJet Pro 400 Color MFP M451 CE955A,['CVE-2020-28419'],2022-03-21T15:15Z
+5,cpe:2.3:h:hp:laserjet_pro_400_color_mfp_m451_ce957a:-:*:*:*:*:*:*:*,HP LaserJet Pro 400 Color MFP M451 CE957A,['CVE-2020-28419'],2022-03-21T15:15Z
+6,cpe:2.3:h:hp:laserjet_pro_400_color_mfp_m451_ce958a:-:*:*:*:*:*:*:*,HP LaserJet Pro 400 Color MFP M451 CE958A,['CVE-2020-28419'],2022-03-21T15:15Z
+7,cpe:2.3:h:hp:laserjet_pro_400_color_mfp_m475:ce863a:*:*:*:*:*:*:*,HP LaserJet Pro 400 color MFP M475 CE863A,['CVE-2013-6193'],2022-03-21T15:15Z
+8,cpe:2.3:h:hp:laserjet_pro_400_color_mfp_m475:ce864a:*:*:*:*:*:*:*,HP LaserJet Pro 400 color MFP M475 CE864A,['CVE-2013-6193'],2022-03-21T15:15Z
+9,cpe:2.3:h:hp:laserjet_pro_400_color_mfp_m475_ce863a:-:*:*:*:*:*:*:*,HP LaserJet Pro 400 Color MFP M475 CE863A,['CVE-2020-28419'],2022-03-21T15:15Z

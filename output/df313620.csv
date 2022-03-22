@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hom.ee:brain_cube_firmware:-:*:*:*:*:*:*:*,Homee Brain Cube Firmware,[''],2022-03-21T11:34Z
+1,cpe:2.3:o:hom.ee:brain_cube_firmware:2.23.0:*:*:*:*:*:*:*,Homee Brain Cube Firmware 2.23.0,[''],2022-03-21T11:34Z
+2,cpe:2.3:a:home_dns_server_project:home_dns_server:0.10:*:*:*:*:*:*:*,Home DNS Server Project Home DNS Server 0.10,['CVE-2020-26132'],2022-03-21T11:34Z
+3,cpe:2.3:a:home_improvement_project:home_improvement:0.1:*:*:*:*:android:*:*,Home Improvement project Home Improvement (aka com.whomeimprovementapp) for android 0.1,['CVE-2014-7688'],2022-03-21T11:34Z
+4,cpe:2.3:a:home_made_air_freshener_project:home_made_air_freshener:1.1:*:*:*:*:android:*:*,Home Made Air Freshener project Home Made Air Freshener (aka com.wHomeMadeAirFreshener) for android 1.1,['CVE-2014-7676'],2022-03-21T11:34Z
+5,cpe:2.3:a:home_shopping_apps:buy_a_gift:13529.90084:*:*:*:*:android:*:*,Home Shopping Apps Buy A Gift (aka com.wBuyAGift) application for Android 13529.90084,['CVE-2014-5735'],2022-03-21T11:34Z
+6,cpe:2.3:a:homeadvisor:homeadvisor_mobile:3.0.3:*:*:*:*:android:*:*,homeadvisor HomeAdvisor Mobile (aka com.servicemagic.consumer) for android 3.0.3,['CVE-2014-6866'],2022-03-21T11:34Z
+7,cpe:2.3:a:home-assistant:home-assistant:0.7:*:*:*:*:*:*:*,Home Assistant 0.7,"['CVE-2017-16782', 'CVE-2018-21019', 'CVE-2021-3152']",2022-03-21T11:34Z
+8,cpe:2.3:a:home-assistant:home-assistant:0.7.1:*:*:*:*:*:*:*,Home Assistant 0.7.1,"['CVE-2017-16782', 'CVE-2018-21019', 'CVE-2021-3152']",2022-03-21T11:34Z
+9,cpe:2.3:a:home-assistant:home-assistant:0.7.2:*:*:*:*:*:*:*,Home Assistant 0.7.2,"['CVE-2017-16782', 'CVE-2018-21019', 'CVE-2021-3152']",2022-03-21T11:34Z

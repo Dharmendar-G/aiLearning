@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:nonstop_server_software:h06.11.01:*:*:*:*:*:*:*,HP nonstop Server software H06.11.01,['CVE-2012-3280'],2022-03-21T15:24Z
+1,cpe:2.3:a:hp:nonstop_server_software:h06.11.02:*:*:*:*:*:*:*,HP nonstop Server software H06.11.02,['CVE-2012-3280'],2022-03-21T15:24Z
+2,cpe:2.3:a:hp:nonstop_server_software:h06.11.03:*:*:*:*:*:*:*,HP nonstop Server software H06.11.03,['CVE-2012-3280'],2022-03-21T15:24Z
+3,cpe:2.3:a:hp:nonstop_server_software:h06.12.00:*:*:*:*:*:*:*,HP nonstop Server software H06.12.00,['CVE-2012-3280'],2022-03-21T15:24Z
+4,cpe:2.3:a:hp:nonstop_server_software:h06.13.00:*:*:*:*:*:*:*,HP nonstop Server software H06.13.00,['CVE-2012-3280'],2022-03-21T15:24Z
+5,cpe:2.3:a:hp:nonstop_server_software:h06.14.00:*:*:*:*:*:*:*,HP nonstop Server software H06.14.00,['CVE-2012-3280'],2022-03-21T15:24Z
+6,cpe:2.3:a:hp:nonstop_server_software:h06.15.00:*:*:*:*:*:*:*,HP nonstop Server software H06.15.00,"['CVE-2011-2411', 'CVE-2012-3280']",2022-03-21T15:24Z
+7,cpe:2.3:a:hp:nonstop_server_software:h06.15.01:*:*:*:*:*:*:*,HP nonstop Server software H06.15.01,"['CVE-2011-2411', 'CVE-2012-3280']",2022-03-21T15:24Z
+8,cpe:2.3:a:hp:nonstop_server_software:h06.15.02:*:*:*:*:*:*:*,HP nonstop Server software H06.15.02,"['CVE-2011-2411', 'CVE-2012-3280']",2022-03-21T15:24Z
+9,cpe:2.3:a:hp:nonstop_server_software:h06.16.00:*:*:*:*:*:*:*,HP nonstop Server software H06.16.00,"['CVE-2011-2411', 'CVE-2012-3280']",2022-03-21T15:24Z

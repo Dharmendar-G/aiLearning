@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:colorlib:fancybox:1.2:*:*:*:*:wordpress:*:*,colorlib FancyBox 1.2 WordPress,['CVE-2015-1494'],2022-03-20T06:37Z
+1,cpe:2.3:a:colorlib:fancybox:1.3:*:*:*:*:wordpress:*:*,colorlib FancyBox 1.3 WordPress,['CVE-2015-1494'],2022-03-20T06:37Z
+2,cpe:2.3:a:colorlib:fancybox:2.0:*:*:*:*:wordpress:*:*,colorlib FancyBox 2.0 WordPress,['CVE-2015-1494'],2022-03-20T06:37Z
+3,cpe:2.3:a:colorlib:fancybox:2.1:*:*:*:*:wordpress:*:*,colorlib FancyBox 2.1 WordPress,['CVE-2015-1494'],2022-03-20T06:37Z
+4,cpe:2.3:a:colorlib:fancybox:2.1.1:*:*:*:*:wordpress:*:*,colorlib FancyBox 2.1.1 WordPress,['CVE-2015-1494'],2022-03-20T06:37Z
+5,cpe:2.3:a:colorlib:fancybox:2.2:*:*:*:*:wordpress:*:*,colorlib FancyBox 2.2 WordPress,['CVE-2015-1494'],2022-03-20T06:37Z
+6,cpe:2.3:a:colorlib:fancybox:2.5:*:*:*:*:wordpress:*:*,colorlib FancyBox 2.5 WordPress,['CVE-2015-1494'],2022-03-20T06:37Z
+7,cpe:2.3:a:colorlib:fancybox:2.5.1:*:*:*:*:wordpress:*:*,colorlib FancyBox 2.5.1 WordPress,['CVE-2015-1494'],2022-03-20T06:37Z
+8,cpe:2.3:a:colorlib:fancybox:2.6.0:*:*:*:*:wordpress:*:*,colorlib FancyBox 2.6.0 WordPress,['CVE-2015-1494'],2022-03-20T06:37Z
+9,cpe:2.3:a:colorlib:fancybox:2.7.0:*:*:*:*:wordpress:*:*,colorlib FancyBox 2.7.0 WordPress,['CVE-2015-1494'],2022-03-20T06:37Z

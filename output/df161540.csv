@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cookiex-deep_project:cookiex-deep:0.0.4:*:*:*:*:node.js:*:*,cookiex-deep Project cookiex-deep (CX. Deep) 0.0.4 for Node.js,['CVE-2021-23442'],2022-03-20T07:57Z
+1,cpe:2.3:a:cookiex-deep_project:cookiex-deep:0.0.5:*:*:*:*:node.js:*:*,cookiex-deep Project cookiex-deep (CX. Deep) 0.0.5 for Node.js,['CVE-2021-23442'],2022-03-20T07:57Z
+2,cpe:2.3:a:cookiex-deep_project:cookiex-deep:0.0.6:*:*:*:*:node.js:*:*,cookiex-deep Project cookiex-deep (CX. Deep) 0.0.6 for Node.js,[''],2022-03-20T07:57Z
+3,cpe:2.3:a:cookiex-deep_project:cookiex-deep:0.0.7:*:*:*:*:node.js:*:*,cookiex-deep Project cookiex-deep (CX. Deep) 0.0.7 for Node.js,[''],2022-03-20T07:57Z
+4,cpe:2.3:a:cookpad:android_activities:1.5.16:*:*:*:*:*:*:*,COOKPAD Android Cookpad 1.5.16,['CVE-2012-0316'],2022-03-20T07:57Z
+5,cpe:2.3:a:cookpad:android_activities:1.5.17:*:*:*:*:*:*:*,COOKPAD Android Cookpad 1.5.17,[''],2022-03-20T07:57Z
+6,cpe:2.3:a:cookpad:android_mykitchen:1.1.1:*:*:*:*:*:*:*,COOKPAD Android Noseru 1.1.1,['CVE-2012-0316'],2022-03-20T07:57Z
+7,cpe:2.3:a:cookpad:android_mykitchen:1.1.2:*:*:*:*:*:*:*,クックパッド Android のせる 1.1.2,[''],2022-03-20T07:58Z
+8,cpe:2.3:a:cool_video_gallery_project:cool_video_gallery:1.9:*:*:*:*:wordpress:*:*,Cool Video Gallery Project Cool Video Gallery for WordPress 1.9,['CVE-2015-7527'],2022-03-20T07:58Z
+9,cpe:2.3:a:coolkit:ewelink:3.7.0:*:*:*:*:iphone_os:*:*,Cool House Technology eWeLink 3.7.0 for iPhone OS,"['CVE-2020-12702', 'CVE-2021-27941']",2022-03-20T07:58Z

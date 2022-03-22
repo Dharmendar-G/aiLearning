@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_9050:-:*:*:*:*:*:*:*,HP laserjet 9050,"['CVE-2004-2439', 'CVE-2008-4419', 'CVE-2009-0940', 'CVE-2009-0941', 'CVE-2011-4161']",2022-03-21T14:59Z
+1,cpe:2.3:h:hp:laserjet_9050:q7697a:*:*:*:*:*:*:*,HP laserjet 9050 Q7697A,"['CVE-2004-2439', 'CVE-2009-0940', 'CVE-2009-0941', 'CVE-2011-4161', 'CVE-2012-5221']",2022-03-21T14:59Z
+2,cpe:2.3:h:hp:laserjet_9050_mfp:-:*:*:*:*:*:*:*,HP LaserJet 9050 MFP printer,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2009-2684']",2022-03-21T14:59Z
+3,cpe:2.3:h:hp:laserjet_9050_mfp:q3721a:*:*:*:*:*:*:*,HP LaserJet 9050 Multifunction Printer (MFP) Q3721A,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2009-2684', 'CVE-2012-5221']",2022-03-21T14:59Z
+4,cpe:2.3:h:hp:laserjet_9050_mpf:-:*:*:*:*:*:*:*,HP laserjet 9050mpf,['CVE-2004-2439'],2022-03-21T14:59Z
+5,cpe:2.3:h:hp:laserjet_9050mfp:-:*:*:*:*:*:*:*,HP LaserJet 9050MPF,"['CVE-2008-4419', 'CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T14:59Z
+6,cpe:2.3:h:hp:laserjet_9055:-:*:*:*:*:*:*:*,HP laserjet 9055,"['CVE-2004-2439', 'CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T14:59Z
+7,cpe:2.3:h:hp:laserjet_9065:-:*:*:*:*:*:*:*,HP laserjet 9065,"['CVE-2004-2439', 'CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T14:59Z
+8,cpe:2.3:h:hp:laserjet_9500:-:*:*:*:*:*:*:*,HP laserjet 9500,"['CVE-2004-2439', 'CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T14:59Z
+9,cpe:2.3:h:hp:laserjet_9500_mpf:-:*:*:*:*:*:*:*,HP laserjet 9500mpf,['CVE-2004-2439'],2022-03-21T14:59Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:array_configuration_utility:8.10.1.0:*:*:*:*:*:*:*,HP Array Configuration Utility 8.10.1.0,['CVE-2013-6216'],2022-03-21T12:55Z
+1,cpe:2.3:a:hp:array_configuration_utility:8.25.5.0:*:*:*:*:*:*:*,HP Array Configuration Utility 8.25.5.0,['CVE-2013-6216'],2022-03-21T12:55Z
+2,cpe:2.3:a:hp:array_configuration_utility:8.28.13.0:*:*:*:*:*:*:*,HP Array Configuration Utility 8.28.13.0,['CVE-2013-6216'],2022-03-21T12:55Z
+3,cpe:2.3:a:hp:array_configuration_utility:8.30.5.0:*:*:*:*:*:*:*,HP Array Configuration Utility 8.30.5.0,['CVE-2013-6216'],2022-03-21T12:55Z
+4,cpe:2.3:a:hp:array_configuration_utility:8.40.4.0:*:*:*:*:*:*:*,HP Array Configuration Utility 8.40.4.0,['CVE-2013-6216'],2022-03-21T12:55Z
+5,cpe:2.3:a:hp:array_configuration_utility:8.50.5.0:*:*:*:*:*:*:*,HP Array Configuration Utility 8.50.5.0,['CVE-2013-6216'],2022-03-21T12:55Z
+6,cpe:2.3:a:hp:array_configuration_utility:8.60.7.0:*:*:*:*:*:*:*,HP Array Configuration Utility 8.60.7.0,['CVE-2013-6216'],2022-03-21T12:55Z
+7,cpe:2.3:a:hp:array_configuration_utility:8.70.9.0:*:*:*:*:*:*:*,HP Array Configuration Utility 8.70.9.0,['CVE-2013-6216'],2022-03-21T12:55Z
+8,cpe:2.3:a:hp:array_configuration_utility:8.75.12.0:*:*:*:*:*:*:*,HP Array Configuration Utility 8.75.12.0,['CVE-2013-6216'],2022-03-21T12:55Z
+9,cpe:2.3:a:hp:array_configuration_utility:9.40:*:*:*:*:*:*:*,HP Array Configuration Utility 9.40,['CVE-2013-6216'],2022-03-21T12:55Z

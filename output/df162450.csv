@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:count_per_day_project:count_per_day:3.0:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 3.0 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:10Z
+1,cpe:2.3:a:count_per_day_project:count_per_day:3.1:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 3.1 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:10Z
+2,cpe:2.3:a:count_per_day_project:count_per_day:3.1.1:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 3.1.1 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:10Z
+3,cpe:2.3:a:count_per_day_project:count_per_day:3.2:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 3.2 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:10Z
+4,cpe:2.3:a:count_per_day_project:count_per_day:3.2.1:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 3.2.1 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:10Z
+5,cpe:2.3:a:count_per_day_project:count_per_day:3.2.2:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 3.2.2 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:10Z
+6,cpe:2.3:a:count_per_day_project:count_per_day:3.2.3:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 3.2.3 for WordPress,"['CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:10Z
+7,cpe:2.3:a:count_per_day_project:count_per_day:3.2.4:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 3.2.4 for WordPress,"['CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:10Z
+8,cpe:2.3:a:count_per_day_project:count_per_day:3.2.5:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 3.2.5 for WordPress,"['CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:10Z
+9,cpe:2.3:a:count_per_day_project:count_per_day:3.2.6:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 3.2.6 for WordPress,['CVE-2015-5533'],2022-03-20T08:10Z

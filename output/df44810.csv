@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apsis:pound:2.5:*:*:*:*:*:*:*,Apsis Pound 2.5,"['CVE-2016-10711', 'CVE-2018-21245']",2022-03-18T22:39Z
+1,cpe:2.3:a:apsis:pound:2.6:*:*:*:*:*:*:*,Apsis Pound 2.6,"['CVE-2016-10711', 'CVE-2018-21245']",2022-03-18T22:39Z
+2,cpe:2.3:a:apsis:pound:2.7:*:*:*:*:*:*:*,Apsis Pound 2.7,"['CVE-2016-10711', 'CVE-2018-21245']",2022-03-18T22:39Z
+3,cpe:2.3:a:apsis:pound:2.8:*:*:*:*:*:*:*,Apsis Pound 2.8,[''],2022-03-18T22:39Z
+4,cpe:2.3:a:aptana:aflax:1.0:*:*:*:*:*:*:*,Aptana Aflax 1.0,['CVE-2014-5331'],2022-03-18T22:39Z
+5,cpe:2.3:a:aptana:aptana_studio:2.0.0:*:*:*:*:*:*:*,Aptana Studio 2.0.0,[''],2022-03-18T22:39Z
+6,cpe:2.3:a:aptana:jaxer:1.0.3.4547:*:*:*:*:*:*:*,Aptana Jaxer 1.0.3.4547,['CVE-2019-14312'],2022-03-18T22:39Z
+7,cpe:2.3:a:apt-cacher_project:apt-cacher:1.7.13:*:*:*:*:*:*:*,apt-cacher Project apt-cacher 1.7.13,['CVE-2017-7443'],2022-03-18T22:39Z
+8,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:-:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:39Z
+9,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:0.7.26:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 0.7.26,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:39Z

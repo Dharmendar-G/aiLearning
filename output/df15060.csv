@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:afnetworking_project:afnetworking:3.2.0:*:*:*:*:*:*:*,AFNetworking Project AFNetworking 3.2.0,[''],2022-03-18T13:31Z
+1,cpe:2.3:a:afnetworking_project:afnetworking:3.2.1:*:*:*:*:*:*:*,AFNetworking Project AFNetworking 3.2.1,[''],2022-03-18T13:30Z
+2,cpe:2.3:a:afnetworking_project:afnetworking:4.0.0:*:*:*:*:*:*:*,AFNetworking Project AFNetworking 4.0.0,[''],2022-03-18T13:31Z
+3,cpe:2.3:a:afnetworking_project:afnetworking:4.0.1:*:*:*:*:*:*:*,AFNetworking Project AFNetworking 4.0.1,[''],2022-03-18T13:30Z
+4,cpe:2.3:a:afreecatv:afreecatv:1.0.0.1:*:*:*:*:*:*:*,AfreecaTV 1.0.0.1,['CVE-2020-7881'],2022-03-18T13:31Z
+5,cpe:2.3:a:afro-beat_project:afro-beat:0.2:*:*:*:*:android:*:*,Afro-Beat project Afro-Beat (aka com.zero.themelock.tambourine) for android 0.2,['CVE-2014-6766'],2022-03-18T13:31Z
+6,cpe:2.3:a:afsinc:metalcasting_newsstand:3.12.0:*:*:*:*:android:*:*,afsinc Metalcasting Newsstand (aka air.com.yudu.ReaderAIR3017071) for android 3.12.0,['CVE-2014-6919'],2022-03-18T13:31Z
+7,cpe:2.3:a:aftab:tickfa:1.0.1:*:*:*:*:*:*:*,aftab TickFA 1.0.1,['CVE-2015-4676'],2022-03-18T13:31Z
+8,cpe:2.3:a:afterlifewitharchie:afterlife_with_archie:2.4.1:*:*:*:*:android:*:*,AfterlifeWithArchie AFTERLIFE WITH ARCHIE (aka com.afterlifewitharchie.afterlifewitharchie) for android 2.4.1,['CVE-2014-6953'],2022-03-18T13:31Z
+9,cpe:2.3:a:afterlogic:aurora:7.7.5:*:*:*:*:*:*:*,AfterLogic Aurora 7.7.5,"['CVE-2017-14597', 'CVE-2019-16238', 'CVE-2021-26293', 'CVE-2021-26294']",2022-03-18T13:31Z

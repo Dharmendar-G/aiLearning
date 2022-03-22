@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dayz:kinza:6.5.2:*:*:*:*:windows:*:*,Dayz Kinza 6.5.2 for Windows,[''],2022-03-20T11:06Z
+1,cpe:2.3:a:dayz:kinza:6.6.0:*:*:*:*:windows:*:*,Dayz Kinza 6.6.0 for Windows,[''],2022-03-20T11:06Z
+2,cpe:2.3:a:dayz:kinza:6.6.1:*:*:*:*:windows:*:*,Dayz Kinza 6.6.1 for Windows,[''],2022-03-20T11:06Z
+3,cpe:2.3:a:dayz:kinza:6.6.2:*:*:*:*:windows:*:*,Dayz Kinza 6.6.2 for Windows,[''],2022-03-20T11:06Z
+4,cpe:2.3:a:dayz:kinza:6.6.3:*:*:*:*:windows:*:*,Dayz Kinza 6.6.3 for Windows,[''],2022-03-20T11:06Z
+5,cpe:2.3:a:dayz:kinza:6.6.4:*:*:*:*:windows:*:*,Dayz Kinza 6.6.4 for Windows,[''],2022-03-20T11:06Z
+6,cpe:2.3:a:dayz:kinza:6.7.0:*:*:*:*:windows:*:*,Dayz Kinza 6.7.0 for Windows,[''],2022-03-20T11:06Z
+7,"cpe:2.3:a:dazzlersoftware:coming_soon\,_under_construction_\&_maintenance_mode_by_dazzler:-:*:*:*:*:wordpress:*:*","Dazzler Software Coming Soon, Under Construction & Maintenance Mode By Dazzler for WordPress",['CVE-2021-24539'],2022-03-20T11:06Z
+8,"cpe:2.3:a:dazzlersoftware:coming_soon\,_under_construction_\&_maintenance_mode_by_dazzler:1.0:*:*:*:*:wordpress:*:*","Dazzler Software Coming Soon, Under Construction & Maintenance Mode By Dazzler 1.0 for WordPress",['CVE-2021-24539'],2022-03-20T11:06Z
+9,"cpe:2.3:a:dazzlersoftware:coming_soon\,_under_construction_\&_maintenance_mode_by_dazzler:1.1:*:*:*:*:wordpress:*:*","Dazzler Software Coming Soon, Under Construction & Maintenance Mode By Dazzler 1.1 for WordPress",['CVE-2021-24539'],2022-03-20T11:06Z

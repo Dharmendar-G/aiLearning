@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:a10networks:acos_web_application_firewall:4.1.1:-:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) Web Application Firewall (WAF) 4.1.1,['CVE-2018-15904'],2022-03-18T10:21Z
+1,cpe:2.3:a:a10networks:acos_web_application_firewall:4.1.1:p3:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) Web Application Firewall (WAF) 4.1.1 Patch 3,['CVE-2018-15904'],2022-03-18T10:21Z
+2,cpe:2.3:a:a10networks:acos_web_application_firewall:4.1.1:p4:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) Web Application Firewall (WAF) 4.1.1 Patch 4,['CVE-2018-15904'],2022-03-18T10:21Z
+3,cpe:2.3:a:a10networks:acos_web_application_firewall:4.1.1:p5:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) Web Application Firewall (WAF) 4.1.1 Patch 5,['CVE-2018-15904'],2022-03-18T10:21Z
+4,cpe:2.3:a:a10networks:acos_web_application_firewall:4.1.1:p6:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) Web Application Firewall (WAF) 4.1.1 Patch 6,['CVE-2018-15904'],2022-03-18T10:21Z
+5,cpe:2.3:a:a10networks:acos_web_application_firewall:4.1.1:p7:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) Web Application Firewall (WAF) 4.1.1 Patch 7,['CVE-2018-15904'],2022-03-18T10:21Z
+6,cpe:2.3:a:a10networks:acos_web_application_firewall:4.1.2:*:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) Web Application Firewall (WAF) 4.1.2,['CVE-2018-15904'],2022-03-18T10:21Z
+7,cpe:2.3:o:a10networks:advanced_core_operating_system:2.7.0:*:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) 2.7.0,['CVE-2014-3976'],2022-03-18T10:21Z
+8,cpe:2.3:o:a10networks:advanced_core_operating_system:2.7.1:*:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) 2.7.1,['CVE-2014-3976'],2022-03-18T10:21Z
+9,cpe:2.3:o:a10networks:advanced_core_operating_system:2.7.2:p7:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) 2.7.2 Patch 7,['CVE-2016-10213'],2022-03-18T10:21Z

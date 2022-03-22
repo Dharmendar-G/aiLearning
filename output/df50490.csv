@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:asus:rt-n65u_firmware:3.0.0.4.346:*:*:*:*:*:*:*,ASUS RT-N65U Router Firmware 3.0.0.4.346,"['CVE-2013-4937', 'CVE-2014-2719']",2022-03-18T23:57Z
+1,cpe:2.3:h:asus:rt-n66r:-:*:*:*:*:*:*:*,Asus RT-N66R,"['CVE-2014-2718', 'CVE-2018-20333', 'CVE-2018-20334', 'CVE-2018-20335']",2022-03-18T23:57Z
+2,cpe:2.3:h:asus:rt-n66u:-:*:*:*:*:*:*:*,ASUS RT-N66U Router,"['CVE-2013-4937', 'CVE-2014-2718', 'CVE-2014-7269', 'CVE-2014-7270', 'CVE-2014-9583', 'CVE-2018-20333', 'CVE-2018-20334', 'CVE-2018-20335']",2022-03-18T23:57Z
+3,cpe:2.3:o:asus:rt-n66u_firmware:3.0.0.4.272:*:*:*:*:*:*:*,ASUS RT-N66U Router Firmware 3.0.0.4.272,"['CVE-2013-4937', 'CVE-2014-2719', 'CVE-2014-7269', 'CVE-2014-7270']",2022-03-18T23:57Z
+4,cpe:2.3:o:asus:rt-n66u_firmware:3.0.0.4.370:*:*:*:*:*:*:*,ASUS RT-N66U Router Firmware 3.0.0.4.370,"['CVE-2013-4937', 'CVE-2014-2719', 'CVE-2014-7269', 'CVE-2014-7270']",2022-03-18T23:57Z
+5,cpe:2.3:o:asus:rt-n66u_firmware:3.0.0.4.376.3715:*:*:*:*:*:*:*,ASUS RT-N66U Firmware 3.0.0.4.376.3715,"['CVE-2014-7269', 'CVE-2014-7270']",2022-03-18T23:57Z
+6,cpe:2.3:a:asus:screenpad2_upgrade_tool:1.0.3:*:*:*:*:*:*:*,Asus ScreenPad2 Upgrade Tool 1.0.3,['CVE-2020-15009'],2022-03-18T23:57Z
+7,cpe:2.3:a:asus:smarthome:1.00.00:*:*:*:*:iphone_os:*:*,ASUS SmartHome 1.00.00 for iPhone OS,['CVE-2019-11063'],2022-03-18T23:57Z
+8,cpe:2.3:a:asus:smarthome:1.00.04:*:*:*:*:iphone_os:*:*,ASUS SmartHome 1.00.04 for iPhone OS,['CVE-2019-11063'],2022-03-18T23:57Z
+9,cpe:2.3:a:asus:smarthome:1.00.06:*:*:*:*:iphone_os:*:*,ASUS SmartHome 1.00.06 for iPhone OS,['CVE-2019-11063'],2022-03-18T23:57Z

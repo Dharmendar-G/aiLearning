@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aapanel:aapanel:6.7.1:*:*:*:*:*:*:*,aaPanel 6.7.1,['CVE-2021-37840'],2022-03-18T10:24Z
+1,cpe:2.3:a:aapanel:aapanel:6.7.2:*:*:*:*:*:*:*,aaPanel 6.7.2,['CVE-2021-37840'],2022-03-18T10:24Z
+2,cpe:2.3:a:aapanel:aapanel:6.7.3:*:*:*:*:*:*:*,aaPanel 6.7.3,['CVE-2021-37840'],2022-03-18T10:24Z
+3,cpe:2.3:a:aapanel:aapanel:6.8.4:*:*:*:*:*:*:*,aaPanel 6.8.4,['CVE-2021-37840'],2022-03-18T10:24Z
+4,cpe:2.3:a:aapanel:aapanel:6.8.8:*:*:*:*:*:*:*,aaPanel 6.8.8,['CVE-2021-37840'],2022-03-18T10:24Z
+5,cpe:2.3:a:aapanel:aapanel:6.8.12:*:*:*:*:*:*:*,aaPanel 6.8.12,['CVE-2021-37840'],2022-03-18T10:24Z
+6,cpe:2.3:a:aaptjs_project:aaptjs:1.0.0:*:*:*:*:node.js:*:*,aaptjs Project aaptjs 1.0.0 for Node.js,[''],2022-03-18T10:24Z
+7,cpe:2.3:a:aaptjs_project:aaptjs:1.1.0:*:*:*:*:node.js:*:*,aaptjs Project aaptjs 1.1.0 for Node.js,[''],2022-03-18T10:24Z
+8,cpe:2.3:a:aaptjs_project:aaptjs:1.1.1:*:*:*:*:node.js:*:*,aaptjs Project aaptjs 1.1.1 for Node.js,[''],2022-03-18T10:24Z
+9,cpe:2.3:a:aaptjs_project:aaptjs:1.1.2:*:*:*:*:node.js:*:*,aaptjs Project aaptjs 1.1.2 for Node.js,[''],2022-03-18T10:24Z

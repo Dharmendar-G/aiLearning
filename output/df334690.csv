@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:johnson-tl00f:-:*:*:*:*:*:*:*,Huawei Johnson-TL00F,"['CVE-2019-5235', 'CVE-2019-9506']",2022-03-21T18:00Z
+1,cpe:2.3:o:huawei:johnson-tl00f_firmware:-:*:*:*:*:*:*:*,Huawei JOHNSON-TL00F FIRMWARE,['CVE-2019-9506'],2022-03-21T18:00Z
+2,cpe:2.3:o:huawei:johnson-tl00f_firmware:8.2.0.100\(c541custc541d1\):*:*:*:*:*:*:*,Huawei Johnson-TL00F Firmware 8.2.0.100(C541CUSTC541D1),['CVE-2019-5235'],2022-03-21T18:00Z
+3,cpe:2.3:h:huawei:katyusha-al00a:-:*:*:*:*:*:*:*,Huawei KATYUSHA-AL00A,['CVE-2019-9506'],2022-03-21T18:00Z
+4,cpe:2.3:o:huawei:katyusha-al00a_firmware:-:*:*:*:*:*:*:*,Huawei KATYUSHA-AL00A FIRMWARE,['CVE-2019-9506'],2022-03-21T18:00Z
+5,cpe:2.3:h:huawei:knt:-:*:*:*:*:*:*:*,Huawei KNT-,['CVE-2017-2697'],2022-03-21T18:00Z
+6,cpe:2.3:o:huawei:knt_firmware:-:*:*:*:*:*:*:*,Huawei KNT Firmware -,['CVE-2017-2697'],2022-03-21T18:00Z
+7,cpe:2.3:h:huawei:kobe-l09a:-:*:*:*:*:*:*:*,Huawei Kobe-L09A,['CVE-2018-7907'],2022-03-21T18:00Z
+8,cpe:2.3:o:huawei:kobe-l09a_firmware:kob-l09c100b252custc100d001:*:*:*:*:*:*:*,Huawei Kobe-L09A Firmware KOB-L09C100B252CUSTC100D001,['CVE-2018-7907'],2022-03-21T18:00Z
+9,cpe:2.3:o:huawei:kobe-l09a_firmware:kob-l09c209b002custc209d001:*:*:*:*:*:*:*,Huawei Kobe-L09A Firmware KOB-L09C209B002CUSTC209D001,['CVE-2018-7907'],2022-03-21T18:00Z

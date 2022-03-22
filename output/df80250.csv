@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blinkwebeffects:social-media-widget:4.0.1:*:*:*:*:*:*:*,blinkwebeffects Social Media Widget (social-media-widget) plugin 4.0.1,[''],2022-03-19T08:41Z
+1,cpe:2.3:a:blinkwebeffects:social-media-widget:4.0.2:*:*:*:*:*:*:*,blinkwebeffects Social Media Widget (social-media-widget) plugin 4.0.2,[''],2022-03-19T08:41Z
+2,cpe:2.3:h:blipcare:wi-fi_blood_pressure_monitor:-:*:*:*:*:*:*:*,Blipcare Wi-Fi Blood Pressure Monitor,"['CVE-2017-11578', 'CVE-2017-11579', 'CVE-2017-11580']",2022-03-19T08:41Z
+3,cpe:2.3:o:blipcare:wi-fi_blood_pressure_monitor_firmware:-:*:*:*:*:*:*:*,Blipcare Wi-Fi Blood Pressure Monitor Firmware,"['CVE-2017-11578', 'CVE-2017-11579', 'CVE-2017-11580']",2022-03-19T08:41Z
+4,cpe:2.3:o:blipcare:wi-fi_blood_pressure_monitor_firmware:bp700_10.1:*:*:*:*:*:*:*,Blipcare Wi-Fi Blood Pressure Monitor Firmware BP700 10.1,"['CVE-2017-11578', 'CVE-2017-11579', 'CVE-2017-11580']",2022-03-19T08:41Z
+5,cpe:2.3:a:blitzjs:superjson:0.0.1:*:*:*:*:node.js:*:*,Blitzjs Superjson 0.0.1 for Node.js,['CVE-2022-23631'],2022-03-19T08:41Z
+6,cpe:2.3:a:blitzjs:superjson:0.0.2:*:*:*:*:node.js:*:*,Blitzjs Superjson 0.0.2 for Node.js,['CVE-2022-23631'],2022-03-19T08:41Z
+7,cpe:2.3:a:blitzjs:superjson:0.0.3:*:*:*:*:node.js:*:*,Blitzjs Superjson 0.0.3 for Node.js,['CVE-2022-23631'],2022-03-19T08:41Z
+8,cpe:2.3:a:blitzjs:superjson:0.0.4:*:*:*:*:node.js:*:*,Blitzjs Superjson 0.0.4 for Node.js,['CVE-2022-23631'],2022-03-19T08:41Z
+9,cpe:2.3:a:blitzjs:superjson:0.0.5:*:*:*:*:node.js:*:*,Blitzjs Superjson 0.0.5 for Node.js,['CVE-2022-23631'],2022-03-19T08:41Z

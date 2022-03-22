@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dropwizard:dropwizard_validation:2.0.7:*:*:*:*:*:*:*,Dropwizard Validation 2.0.7,[''],2022-03-20T18:15Z
+1,cpe:2.3:h:drtrust:electrocardiogram_pen:2.00.08:*:*:*:*:*:*:*,Drtrust Electrocardiogram Pen 2.00.08,['CVE-2020-15486'],2022-03-20T18:15Z
+2,cpe:2.3:o:drtrust:electrocardiogram_pen_firmware:2.00.08:*:*:*:*:*:*:*,Drtrust Electrocardiogram Pen Firmware 2.00.08,['CVE-2020-15486'],2022-03-20T18:15Z
+3,cpe:2.3:a:druide:antidote:8.0:*:*:*:*:*:*:*,Druide Antidote 8.0,['CVE-2019-9565'],2022-03-20T18:15Z
+4,cpe:2.3:a:druide:antidote:8.05.2287:*:*:*:*:*:*:*,Druide Antidote 8.05.2287,[''],2022-03-20T18:15Z
+5,cpe:2.3:a:druide:antidote:9.0:*:*:*:*:*:*:*,Druide Antidote 9.0,['CVE-2019-9565'],2022-03-20T18:15Z
+6,cpe:2.3:a:druide:antidote:9.5.3937:*:*:*:*:*:*:*,Druide Antidote 9.5.3937,[''],2022-03-20T18:15Z
+7,cpe:2.3:a:druide:antidote:10.0:*:*:*:*:*:*:*,Druide Antidote 10.0,['CVE-2019-9565'],2022-03-20T18:15Z
+8,cpe:2.3:a:druide:antidote:10.1.2147:*:*:*:*:*:*:*,Druide Antidote 10.1.2147,[''],2022-03-20T18:15Z
+9,cpe:2.3:a:druide:antidote_10:1.1:*:*:*:*:*:*:*,Druide Antidote 10 v1.1,[''],2022-03-20T18:15Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:recoverpoint_for_virtual_machines:5.2.0.2:*:*:*:*:*:*:*,Dell Recoverpoint For Virtual Machines 5.2.0.2,[''],2022-03-20T13:05Z
+1,cpe:2.3:a:dell:red_cloak_windows_agent:2.0.7.9:*:*:*:*:*:*:*,Dell Red Cloak Windows Agent 2.0.7.9,[''],2022-03-20T13:05Z
+2,cpe:2.3:h:dell:remote_access_card:-:*:*:*:*:*:*:*,Dell Remote Access Card,[''],2022-03-20T13:05Z
+3,cpe:2.3:h:dell:remote_access_card:4:*:*:*:*:*:*:*,Dell Remote Access Card 4,[''],2022-03-20T13:05Z
+4,cpe:2.3:a:dell:remote_access_configuration_tool:1.0.0:*:*:*:*:*:*:*,Dell Remote Access Configuration Tool 1.0.0,[''],2022-03-20T13:05Z
+5,cpe:2.3:a:dell:remote_console_switch_software:3.0.0.16:*:*:*:*:*:*:*,Dell Remote Console Switch Software 3.0.0.16,[''],2022-03-20T13:05Z
+6,cpe:2.3:a:dell:repository_manager:1.1.52:*:*:*:*:*:*:*,Dell Repository Manager 1.1.52,[''],2022-03-20T13:05Z
+7,cpe:2.3:a:dell:repository_manager:1.2.155:*:*:*:*:*:*:*,Dell Repository Manager 1.2.155,[''],2022-03-20T13:06Z
+8,cpe:2.3:a:dell:repository_manager:1.3.124:*:*:*:*:*:*:*,Dell Repository Manager 1.3.124,[''],2022-03-20T13:06Z
+9,cpe:2.3:a:dell:resource_cd:1.0.0:*:*:*:*:*:*:*,Dell Resource Cd 1.0.0,[''],2022-03-20T13:06Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dino:dino:0.1.2:*:*:*:*:*:*:*,Dino 0.1.2,[''],2022-03-20T14:54Z
+1,cpe:2.3:a:dino:dino:0.2.0:*:*:*:*:*:*:*,Dino 0.2.0,['CVE-2021-33896'],2022-03-20T14:54Z
+2,cpe:2.3:a:dino:dino:0.2.1:*:*:*:*:*:*:*,Dino 0.2.1,[''],2022-03-20T14:54Z
+3,cpe:2.3:a:dinsteincoin_project:dinsteincoin:-:*:*:*:*:*:*:*,DinsteinCoin Project DinsteinCoin,['CVE-2018-13671'],2022-03-20T14:54Z
+4,cpe:2.3:a:diplomat_\|_political_project:diplomat_\|_political:-:*:*:*:*:wordpress:*:*,Diplomat | Political Project Diplomat | Political for WordPress,['CVE-2015-9481'],2022-03-20T14:54Z
+5,cpe:2.3:a:diplomat_\|_political_project:diplomat_\|_political:2015-05-15:*:*:*:*:wordpress:*:*,Diplomat | Political Project Diplomat | Political 2015-05-15 for WordPress,['CVE-2015-9481'],2022-03-20T14:54Z
+6,cpe:2.3:h:diqee:diqee360:-:*:*:*:*:*:*:*,DiQEE DiQEE360,"['CVE-2018-10987', 'CVE-2018-10988']",2022-03-20T14:54Z
+7,cpe:2.3:o:diqee:diqee360_firmware:-:*:*:*:*:*:*:*,Diqee Diqee360 Firmware,"['CVE-2018-10987', 'CVE-2018-10988']",2022-03-20T14:54Z
+8,cpe:2.3:a:dir2web:dir2web:3.0:*:*:*:*:*:*:*,Dir2web 3.0,"['CVE-2012-4069', 'CVE-2012-4070']",2022-03-20T14:54Z
+9,[0],[0],[0],[0]
