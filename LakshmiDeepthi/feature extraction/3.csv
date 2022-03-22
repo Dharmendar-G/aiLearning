@@ -1,0 +1,456 @@
+,level,page_num,block_num,par_num,line_num,word_num,left,top,width,height,conf,text,required_col,new_col
+0,5,1,1,1,1,1,695,166,50,50,96.248698,A,"block_1,line_1,word_ 1",A PREMIUM ESTIMATE DERIVED FROM THIS WORKSHEET IS NOT THE RESULT OFA
+1,5,1,1,1,1,2,769,166,318,51,96.191221,PREMIUM,"block_1,line_1,word_ 2",A PREMIUM ESTIMATE DERIVED FROM THIS WORKSHEET IS NOT THE RESULT OFA
+2,5,1,1,1,1,3,1116,165,345,52,96.444742,ESTIMATE,"block_1,line_1,word_ 3",A PREMIUM ESTIMATE DERIVED FROM THIS WORKSHEET IS NOT THE RESULT OFA
+3,5,1,1,1,1,4,1488,166,299,50,95.976465,DERIVED,"block_1,line_1,word_ 4",A PREMIUM ESTIMATE DERIVED FROM THIS WORKSHEET IS NOT THE RESULT OFA
+4,5,1,1,1,1,5,1815,165,195,52,95.215989,FROM,"block_1,line_1,word_ 5",A PREMIUM ESTIMATE DERIVED FROM THIS WORKSHEET IS NOT THE RESULT OFA
+5,5,1,1,1,1,6,2034,165,153,52,95.215989,THIS,"block_1,line_1,word_ 6",A PREMIUM ESTIMATE DERIVED FROM THIS WORKSHEET IS NOT THE RESULT OFA
+6,5,1,1,1,1,7,2209,165,451,52,95.240276,WORKSHEET,"block_1,line_1,word_ 7",A PREMIUM ESTIMATE DERIVED FROM THIS WORKSHEET IS NOT THE RESULT OFA
+7,5,1,1,1,1,8,2689,165,56,52,90.301479,IS,"block_1,line_1,word_ 8",A PREMIUM ESTIMATE DERIVED FROM THIS WORKSHEET IS NOT THE RESULT OFA
+8,5,1,1,1,1,9,2772,165,140,52,96.433440,NOT,"block_1,line_1,word_ 9",A PREMIUM ESTIMATE DERIVED FROM THIS WORKSHEET IS NOT THE RESULT OFA
+9,5,1,1,1,1,10,2935,166,135,50,96.021741,THE,"block_1,line_1,word_ 10",A PREMIUM ESTIMATE DERIVED FROM THIS WORKSHEET IS NOT THE RESULT OFA
+10,5,1,1,1,1,11,3097,165,271,52,95.919375,RESULT,"block_1,line_1,word_ 11",A PREMIUM ESTIMATE DERIVED FROM THIS WORKSHEET IS NOT THE RESULT OFA
+11,5,1,1,1,1,12,3392,165,162,52,81.833081,OFA,"block_1,line_1,word_ 12",A PREMIUM ESTIMATE DERIVED FROM THIS WORKSHEET IS NOT THE RESULT OFA
+12,5,1,1,1,2,1,553,249,380,52,95.790759,COMPLETE,"block_1,line_2,word_ 1",COMPLETE UNDERWRITING PROCESS NOR DOES IT CONSTITUTE AN OFFER OF COVERAGE
+13,5,1,1,1,2,2,960,249,538,52,95.790759,UNDERWRITING,"block_1,line_2,word_ 2",COMPLETE UNDERWRITING PROCESS NOR DOES IT CONSTITUTE AN OFFER OF COVERAGE
+14,5,1,1,1,2,3,1526,249,330,52,95.878261,PROCESS,"block_1,line_2,word_ 3",COMPLETE UNDERWRITING PROCESS NOR DOES IT CONSTITUTE AN OFFER OF COVERAGE
+15,5,1,1,1,2,4,1883,249,150,52,95.705012,NOR,"block_1,line_2,word_ 4",COMPLETE UNDERWRITING PROCESS NOR DOES IT CONSTITUTE AN OFFER OF COVERAGE
+16,5,1,1,1,2,5,2059,249,188,52,93.843119,DOES,"block_1,line_2,word_ 5",COMPLETE UNDERWRITING PROCESS NOR DOES IT CONSTITUTE AN OFFER OF COVERAGE
+17,5,1,1,1,2,6,2275,250,54,50,93.843119,IT,"block_1,line_2,word_ 6",COMPLETE UNDERWRITING PROCESS NOR DOES IT CONSTITUTE AN OFFER OF COVERAGE
+18,5,1,1,1,2,7,2354,249,439,52,95.937372,CONSTITUTE,"block_1,line_2,word_ 7",COMPLETE UNDERWRITING PROCESS NOR DOES IT CONSTITUTE AN OFFER OF COVERAGE
+19,5,1,1,1,2,8,2815,250,94,50,96.352409,AN,"block_1,line_2,word_ 8",COMPLETE UNDERWRITING PROCESS NOR DOES IT CONSTITUTE AN OFFER OF COVERAGE
+20,5,1,1,1,2,9,2936,249,232,52,95.965359,OFFER,"block_1,line_2,word_ 9",COMPLETE UNDERWRITING PROCESS NOR DOES IT CONSTITUTE AN OFFER OF COVERAGE
+21,5,1,1,1,2,10,3192,249,90,52,95.884932,OF,"block_1,line_2,word_ 10",COMPLETE UNDERWRITING PROCESS NOR DOES IT CONSTITUTE AN OFFER OF COVERAGE
+22,5,1,1,1,2,11,3307,249,390,52,96.174188,COVERAGE,"block_1,line_2,word_ 11",COMPLETE UNDERWRITING PROCESS NOR DOES IT CONSTITUTE AN OFFER OF COVERAGE
+23,5,1,2,1,1,1,773,424,333,68,95.737241,CHUBB,"block_2,line_1,word_ 1",CHUBB QUICK FLOOD ESTIMATE WORKSHEET (CHECK ONE)
+24,5,1,2,1,1,2,1138,424,324,84,95.788326,QUICK,"block_2,line_1,word_ 2",CHUBB QUICK FLOOD ESTIMATE WORKSHEET (CHECK ONE)
+25,5,1,2,1,1,3,1486,425,336,66,95.334546,FLOOD,"block_2,line_1,word_ 3",CHUBB QUICK FLOOD ESTIMATE WORKSHEET (CHECK ONE)
+26,5,1,2,1,1,4,1851,424,502,68,95.334546,ESTIMATE,"block_2,line_1,word_ 4",CHUBB QUICK FLOOD ESTIMATE WORKSHEET (CHECK ONE)
+27,5,1,2,1,1,5,2382,424,632,68,94.516473,WORKSHEET,"block_2,line_1,word_ 5",CHUBB QUICK FLOOD ESTIMATE WORKSHEET (CHECK ONE)
+28,5,1,2,1,1,6,3045,443,271,61,95.870448,(CHECK,"block_2,line_1,word_ 6",CHUBB QUICK FLOOD ESTIMATE WORKSHEET (CHECK ONE)
+29,5,1,2,1,1,7,3335,443,166,61,96.829390,ONE),"block_2,line_1,word_ 7",CHUBB QUICK FLOOD ESTIMATE WORKSHEET (CHECK ONE)
+30,5,1,3,1,1,1,335,626,279,58,96.557288,CHUBB,"block_3,line_1,word_ 1",CHUBB PERSONAL (PRIMARY) FLOOD OR CHUBB EXCESS FLOOD
+31,5,1,3,1,1,2,639,626,430,58,96.554531,PERSONAL,"block_3,line_1,word_ 2",CHUBB PERSONAL (PRIMARY) FLOOD OR CHUBB EXCESS FLOOD
+32,5,1,3,1,1,3,1092,625,428,76,96.107194,(PRIMARY),"block_3,line_1,word_ 3",CHUBB PERSONAL (PRIMARY) FLOOD OR CHUBB EXCESS FLOOD
+33,5,1,3,1,1,4,1547,627,273,57,96.107194,FLOOD,"block_3,line_1,word_ 4",CHUBB PERSONAL (PRIMARY) FLOOD OR CHUBB EXCESS FLOOD
+34,5,1,3,1,1,5,2161,627,109,57,95.998157,OR,"block_3,line_1,word_ 5",CHUBB PERSONAL (PRIMARY) FLOOD OR CHUBB EXCESS FLOOD
+35,5,1,3,1,1,6,2317,627,281,57,96.355734,CHUBB,"block_3,line_1,word_ 6",CHUBB PERSONAL (PRIMARY) FLOOD OR CHUBB EXCESS FLOOD
+36,5,1,3,1,1,7,2624,627,304,57,95.694835,EXCESS,"block_3,line_1,word_ 7",CHUBB PERSONAL (PRIMARY) FLOOD OR CHUBB EXCESS FLOOD
+37,5,1,3,1,1,8,2955,627,273,57,96.129456,FLOOD,"block_3,line_1,word_ 8",CHUBB PERSONAL (PRIMARY) FLOOD OR CHUBB EXCESS FLOOD
+38,5,1,4,1,1,1,333,716,199,50,96.486932,Primary,"block_4,line_1,word_ 1",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+39,5,1,4,1,1,2,546,729,30,13,94.491347,=,"block_4,line_1,word_ 2",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+40,5,1,4,1,1,3,595,716,64,39,92.938426,Ist,"block_4,line_1,word_ 3",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+41,5,1,4,1,1,4,675,717,139,38,96.836614,dollar,"block_4,line_1,word_ 4",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+42,5,1,4,1,1,5,831,728,205,38,96.311521,coverage,"block_4,line_1,word_ 5",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+43,5,1,4,1,1,6,1055,728,56,38,95.513034,up,"block_4,line_1,word_ 6",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+44,5,1,4,1,1,7,1128,719,44,36,92.388748,to,"block_4,line_1,word_ 7",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+45,5,1,4,1,1,8,1189,717,105,49,91.452602,repl.,"block_4,line_1,word_ 8",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+46,5,1,4,1,1,9,1327,719,105,45,93.171186,cost;,"block_4,line_1,word_ 9",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+47,5,1,4,1,1,10,1452,716,132,42,92.644974,$15M,"block_4,line_1,word_ 10",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+48,5,1,4,1,1,11,1601,717,106,38,96.127411,total,"block_4,line_1,word_ 11",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+49,5,1,4,1,1,12,1723,719,208,47,92.151151,property,"block_4,line_1,word_ 12",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+50,5,1,4,1,1,13,1947,716,130,50,92.151151,@one,"block_4,line_1,word_ 13",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+51,5,1,4,1,1,14,2094,716,187,39,93.233701,location,"block_4,line_1,word_ 14",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+52,5,1,4,1,1,15,2295,739,29,4,90.802528,—,"block_4,line_1,word_ 15",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+53,5,1,4,1,1,16,2339,717,156,38,96.305849,Excess,"block_4,line_1,word_ 16",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+54,5,1,4,1,1,17,2512,729,30,13,96.224329,=,"block_4,line_1,word_ 17",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+55,5,1,4,1,1,18,2559,728,101,27,95.869141,over,"block_4,line_1,word_ 18",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+56,5,1,4,1,1,19,2677,716,236,39,93.189003,maximum,"block_4,line_1,word_ 19",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+57,5,1,4,1,1,20,2930,717,127,38,89.918225,NFIP,"block_4,line_1,word_ 20",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+58,5,1,4,1,1,21,3075,716,128,39,96.142474,limits,"block_4,line_1,word_ 21",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+59,5,1,4,1,1,22,3221,728,49,27,96.330297,or,"block_4,line_1,word_ 22",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+60,5,1,4,1,1,23,3286,717,70,38,93.298472,the,"block_4,line_1,word_ 23",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+61,5,1,4,1,1,24,3376,716,288,39,88.290154,Self-Insured,"block_4,line_1,word_ 24",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+62,5,1,4,1,1,25,3680,716,230,39,96.327277,Retention,"block_4,line_1,word_ 25",Primary = Ist dollar coverage up to repl. cost; $15M total property @one location — Excess = over maximum NFIP limits or the Self-Insured Retention
+63,5,1,5,1,1,1,253,823,3718,37,95.000000, ,"block_5,line_1,word_ 1", 
+64,5,1,6,1,1,1,300,877,253,57,95.883906,Submit,"block_6,line_1,word_ 1",Submit to: Thomas Phillips ext. 5004 tphillips@wncfirst.com
+65,5,1,6,1,1,2,577,881,85,53,95.879894,to:,"block_6,line_1,word_ 2",Submit to: Thomas Phillips ext. 5004 tphillips@wncfirst.com
+66,5,1,6,1,1,3,2252,885,219,49,96.688493,Thomas,"block_6,line_1,word_ 3",Submit to: Thomas Phillips ext. 5004 tphillips@wncfirst.com
+67,5,1,6,1,1,4,2491,885,209,63,96.351222,Phillips,"block_6,line_1,word_ 4",Submit to: Thomas Phillips ext. 5004 tphillips@wncfirst.com
+68,5,1,6,1,1,5,2723,892,95,42,96.791026,ext.,"block_6,line_1,word_ 5",Submit to: Thomas Phillips ext. 5004 tphillips@wncfirst.com
+69,5,1,6,1,1,6,2845,886,133,48,71.807272,5004,"block_6,line_1,word_ 6",Submit to: Thomas Phillips ext. 5004 tphillips@wncfirst.com
+70,5,1,6,1,1,7,3015,885,655,63,71.807272,tphillips@wncfirst.com,"block_6,line_1,word_ 7",Submit to: Thomas Phillips ext. 5004 tphillips@wncfirst.com
+71,5,1,6,1,2,1,309,973,176,57,96.709056,WNC,"block_6,line_2,word_ 1",WNC First Insurance Services by Fax: (305) 270-0327 — Scarlett Fernandez ext. 5007 sfernandez@wncfirst.com
+72,5,1,6,1,2,2,512,971,149,59,96.200396,First,"block_6,line_2,word_ 2",WNC First Insurance Services by Fax: (305) 270-0327 — Scarlett Fernandez ext. 5007 sfernandez@wncfirst.com
+73,5,1,6,1,2,3,686,974,319,56,96.200396,Insurance,"block_6,line_2,word_ 3",WNC First Insurance Services by Fax: (305) 270-0327 — Scarlett Fernandez ext. 5007 sfernandez@wncfirst.com
+74,5,1,6,1,2,4,1033,971,275,59,96.135813,Services,"block_6,line_2,word_ 4",WNC First Insurance Services by Fax: (305) 270-0327 — Scarlett Fernandez ext. 5007 sfernandez@wncfirst.com
+75,5,1,6,1,2,5,1331,971,84,76,96.135813,by,"block_6,line_2,word_ 5",WNC First Insurance Services by Fax: (305) 270-0327 — Scarlett Fernandez ext. 5007 sfernandez@wncfirst.com
+76,5,1,6,1,2,6,1437,974,153,56,96.761963,Fax:,"block_6,line_2,word_ 6",WNC First Insurance Services by Fax: (305) 270-0327 — Scarlett Fernandez ext. 5007 sfernandez@wncfirst.com
+77,5,1,6,1,2,7,1621,971,175,76,95.542526,(305),"block_6,line_2,word_ 7",WNC First Insurance Services by Fax: (305) 270-0327 — Scarlett Fernandez ext. 5007 sfernandez@wncfirst.com
+78,5,1,6,1,2,8,1823,973,312,57,92.244555,270-0327,"block_6,line_2,word_ 8",WNC First Insurance Services by Fax: (305) 270-0327 — Scarlett Fernandez ext. 5007 sfernandez@wncfirst.com
+79,5,1,6,1,2,9,2181,967,35,84,46.795635,—,"block_6,line_2,word_ 9",WNC First Insurance Services by Fax: (305) 270-0327 — Scarlett Fernandez ext. 5007 sfernandez@wncfirst.com
+80,5,1,6,1,2,10,2254,981,208,49,96.280533,Scarlett,"block_6,line_2,word_ 10",WNC First Insurance Services by Fax: (305) 270-0327 — Scarlett Fernandez ext. 5007 sfernandez@wncfirst.com
+81,5,1,6,1,2,11,2481,981,285,49,96.338972,Fernandez,"block_6,line_2,word_ 11",WNC First Insurance Services by Fax: (305) 270-0327 — Scarlett Fernandez ext. 5007 sfernandez@wncfirst.com
+82,5,1,6,1,2,12,2787,988,95,42,96.812063,ext.,"block_6,line_2,word_ 12",WNC First Insurance Services by Fax: (305) 270-0327 — Scarlett Fernandez ext. 5007 sfernandez@wncfirst.com
+83,5,1,6,1,2,13,2909,982,134,48,93.294454,5007,"block_6,line_2,word_ 13",WNC First Insurance Services by Fax: (305) 270-0327 — Scarlett Fernandez ext. 5007 sfernandez@wncfirst.com
+84,5,1,6,1,2,14,3066,981,726,63,92.465073,sfernandez@wncfirst.com,"block_6,line_2,word_ 14",WNC First Insurance Services by Fax: (305) 270-0327 — Scarlett Fernandez ext. 5007 sfernandez@wncfirst.com
+85,5,1,6,1,3,1,299,1086,73,40,95.850903,or,"block_6,line_3,word_ 1",or email: chubbflood@wncfirst.com Dayanara Lago-Ciriaco ext 5003 dciriaco@wncfirst.com
+86,5,1,6,1,3,2,397,1068,212,58,92.911155,email:,"block_6,line_3,word_ 2",or email: chubbflood@wncfirst.com Dayanara Lago-Ciriaco ext 5003 dciriaco@wncfirst.com
+87,5,1,6,1,3,3,661,1067,891,76,62.609837,chubbflood@wncfirst.com,"block_6,line_3,word_ 3",or email: chubbflood@wncfirst.com Dayanara Lago-Ciriaco ext 5003 dciriaco@wncfirst.com
+88,5,1,6,1,3,4,2251,1079,265,61,92.565033,Dayanara,"block_6,line_3,word_ 4",or email: chubbflood@wncfirst.com Dayanara Lago-Ciriaco ext 5003 dciriaco@wncfirst.com
+89,5,1,6,1,3,5,2553,1077,364,63,92.370767,Lago-Ciriaco,"block_6,line_3,word_ 5",or email: chubbflood@wncfirst.com Dayanara Lago-Ciriaco ext 5003 dciriaco@wncfirst.com
+90,5,1,6,1,3,6,2942,1084,80,42,96.987667,ext,"block_6,line_3,word_ 6",or email: chubbflood@wncfirst.com Dayanara Lago-Ciriaco ext 5003 dciriaco@wncfirst.com
+91,5,1,6,1,3,7,3045,1078,130,48,93.194875,5003,"block_6,line_3,word_ 7",or email: chubbflood@wncfirst.com Dayanara Lago-Ciriaco ext 5003 dciriaco@wncfirst.com
+92,5,1,6,1,3,8,3201,1077,648,63,85.569730,dciriaco@wncfirst.com,"block_6,line_3,word_ 8",or email: chubbflood@wncfirst.com Dayanara Lago-Ciriaco ext 5003 dciriaco@wncfirst.com
+93,5,1,6,1,4,1,299,1165,273,57,96.552391,Contact:,"block_6,line_4,word_ 1",Contact: (888) 386-9488 Lydia Argote ext. 5005 largote@wncfirst.com
+94,5,1,6,1,4,2,601,1163,174,76,96.955060,(888),"block_6,line_4,word_ 2",Contact: (888) 386-9488 Lydia Argote ext. 5005 largote@wncfirst.com
+95,5,1,6,1,4,3,803,1165,310,57,96.368810,386-9488,"block_6,line_4,word_ 3",Contact: (888) 386-9488 Lydia Argote ext. 5005 largote@wncfirst.com
+96,5,1,6,1,4,4,2251,1173,161,63,93.269436,Lydia,"block_6,line_4,word_ 4",Contact: (888) 386-9488 Lydia Argote ext. 5005 largote@wncfirst.com
+97,5,1,6,1,4,5,2430,1174,192,62,90.021483,Argote,"block_6,line_4,word_ 5",Contact: (888) 386-9488 Lydia Argote ext. 5005 largote@wncfirst.com
+98,5,1,6,1,4,6,2644,1180,93,42,96.951323,ext.,"block_6,line_4,word_ 6",Contact: (888) 386-9488 Lydia Argote ext. 5005 largote@wncfirst.com
+99,5,1,6,1,4,7,2764,1174,131,48,93.218745,5005,"block_6,line_4,word_ 7",Contact: (888) 386-9488 Lydia Argote ext. 5005 largote@wncfirst.com
+100,5,1,6,1,4,8,2919,1173,618,63,90.731591,largote@wncfirst.com,"block_6,line_4,word_ 8",Contact: (888) 386-9488 Lydia Argote ext. 5005 largote@wncfirst.com
+101,5,1,6,2,1,1,1490,1262,679,57,91.657408,AGENT/BROKER,"block_6,line_1,word_ 1",AGENT/BROKER INFORMATION
+102,5,1,6,2,1,2,2191,1262,617,57,96.114959,INFORMATION,"block_6,line_1,word_ 2",AGENT/BROKER INFORMATION
+103,5,1,6,2,2,1,298,1433,383,48,95.209361,PRODUCER,"block_6,line_2,word_ 1",PRODUCER NAME: _ KRA Insurance Agency PRODUCER NO: 61857
+104,5,1,6,2,2,2,696,1433,223,48,86.164241,NAME:,"block_6,line_2,word_ 2",PRODUCER NAME: _ KRA Insurance Agency PRODUCER NO: 61857
+105,5,1,6,2,2,3,986,1429,42,71,81.476407,_,"block_6,line_2,word_ 3",PRODUCER NAME: _ KRA Insurance Agency PRODUCER NO: 61857
+106,5,1,6,2,2,4,999,1433,218,62,82.610961,KRA,"block_6,line_2,word_ 4",PRODUCER NAME: _ KRA Insurance Agency PRODUCER NO: 61857
+107,5,1,6,2,2,5,1234,1434,282,47,96.674391,Insurance,"block_6,line_2,word_ 5",PRODUCER NAME: _ KRA Insurance Agency PRODUCER NO: 61857
+108,5,1,6,2,2,6,1533,1433,212,62,96.827741,Agency,"block_6,line_2,word_ 6",PRODUCER NAME: _ KRA Insurance Agency PRODUCER NO: 61857
+109,5,1,6,2,2,7,2413,1433,384,48,96.669985,PRODUCER,"block_6,line_2,word_ 7",PRODUCER NAME: _ KRA Insurance Agency PRODUCER NO: 61857
+110,5,1,6,2,2,8,2812,1433,118,48,95.395120,NO:,"block_6,line_2,word_ 8",PRODUCER NAME: _ KRA Insurance Agency PRODUCER NO: 61857
+111,5,1,6,2,2,9,3120,1433,164,48,96.826172,61857,"block_6,line_2,word_ 9",PRODUCER NAME: _ KRA Insurance Agency PRODUCER NO: 61857
+112,5,1,6,2,3,1,299,1513,334,48,96.658925,CONTACT,"block_6,line_3,word_ 1",CONTACT INFO: Name Adam Burrick Phone: _ 973-671-0078 Fax: 973-850-4323
+113,5,1,6,2,3,2,651,1513,184,48,95.972477,INFO:,"block_6,line_3,word_ 2",CONTACT INFO: Name Adam Burrick Phone: _ 973-671-0078 Fax: 973-850-4323
+114,5,1,6,2,3,3,858,1514,165,47,96.446102,Name,"block_6,line_3,word_ 3",CONTACT INFO: Name Adam Burrick Phone: _ 973-671-0078 Fax: 973-850-4323
+115,5,1,6,2,3,4,1157,1513,177,48,92.479727,Adam,"block_6,line_3,word_ 4",CONTACT INFO: Name Adam Burrick Phone: _ 973-671-0078 Fax: 973-850-4323
+116,5,1,6,2,3,5,1351,1513,227,48,90.953692,Burrick,"block_6,line_3,word_ 5",CONTACT INFO: Name Adam Burrick Phone: _ 973-671-0078 Fax: 973-850-4323
+117,5,1,6,2,3,6,1812,1514,192,47,45.058742,Phone:,"block_6,line_3,word_ 6",CONTACT INFO: Name Adam Burrick Phone: _ 973-671-0078 Fax: 973-850-4323
+118,5,1,6,2,3,7,2058,1570,48,5,59.706535,_,"block_6,line_3,word_ 7",CONTACT INFO: Name Adam Burrick Phone: _ 973-671-0078 Fax: 973-850-4323
+119,5,1,6,2,3,8,2117,1513,368,48,96.264105,973-671-0078,"block_6,line_3,word_ 8",CONTACT INFO: Name Adam Burrick Phone: _ 973-671-0078 Fax: 973-850-4323
+120,5,1,6,2,3,9,2655,1509,121,70,96.537738,Fax:,"block_6,line_3,word_ 9",CONTACT INFO: Name Adam Burrick Phone: _ 973-671-0078 Fax: 973-850-4323
+121,5,1,6,2,3,10,2916,1513,372,48,96.567452,973-850-4323,"block_6,line_3,word_ 10",CONTACT INFO: Name Adam Burrick Phone: _ 973-671-0078 Fax: 973-850-4323
+122,5,1,6,3,1,1,1606,1598,442,57,90.582881,INSURED’S,"block_6,line_1,word_ 1",INSURED’S INFORMATION
+123,5,1,6,3,1,2,2075,1598,616,57,96.299654,INFORMATION,"block_6,line_1,word_ 2",INSURED’S INFORMATION
+124,5,1,6,4,1,1,291,1750,360,48,91.456086,INSURED’S,"block_6,line_1,word_ 1",INSURED’S NAME: ___Dr Barney Kenet CHUBB POLICY NO. 768062861
+125,5,1,6,4,1,2,673,1750,226,48,62.329874,NAME:,"block_6,line_1,word_ 2",INSURED’S NAME: ___Dr Barney Kenet CHUBB POLICY NO. 768062861
+126,5,1,6,4,1,3,921,1751,181,61,62.329874,___Dr,"block_6,line_1,word_ 3",INSURED’S NAME: ___Dr Barney Kenet CHUBB POLICY NO. 768062861
+127,5,1,6,4,1,4,1122,1751,202,61,93.302049,Barney,"block_6,line_1,word_ 4",INSURED’S NAME: ___Dr Barney Kenet CHUBB POLICY NO. 768062861
+128,5,1,6,4,1,5,1343,1751,166,47,92.390334,Kenet,"block_6,line_1,word_ 5",INSURED’S NAME: ___Dr Barney Kenet CHUBB POLICY NO. 768062861
+129,5,1,6,4,1,6,2152,1750,245,48,95.043212,CHUBB,"block_6,line_1,word_ 6",INSURED’S NAME: ___Dr Barney Kenet CHUBB POLICY NO. 768062861
+130,5,1,6,4,1,7,2421,1750,271,48,95.043212,POLICY,"block_6,line_1,word_ 7",INSURED’S NAME: ___Dr Barney Kenet CHUBB POLICY NO. 768062861
+131,5,1,6,4,1,8,2712,1750,117,48,96.538242,NO.,"block_6,line_1,word_ 8",INSURED’S NAME: ___Dr Barney Kenet CHUBB POLICY NO. 768062861
+132,5,1,6,4,1,9,2949,1707,295,110,81.847429,768062861,"block_6,line_1,word_ 9",INSURED’S NAME: ___Dr Barney Kenet CHUBB POLICY NO. 768062861
+133,5,1,7,1,1,1,2837,1802,949,8,95.000000, ,"block_7,line_1,word_ 1", 
+134,5,1,8,1,1,1,905,1802,1244,8,95.000000, ,"block_8,line_1,word_ 1", 
+135,5,1,9,1,1,1,291,1889,512,48,92.034394,HOUSE/CONDO,"block_9,line_1,word_ 1",HOUSE/CONDO or CO-OP PROPERTY LOCATION (must be insured with Chubb - EX-WIND POLICIES ARE INELIGIBLE):
+136,5,1,9,1,1,2,825,1903,61,34,96.212022,or,"block_9,line_1,word_ 2",HOUSE/CONDO or CO-OP PROPERTY LOCATION (must be insured with Chubb - EX-WIND POLICIES ARE INELIGIBLE):
+137,5,1,9,1,1,3,905,1889,217,48,95.891931,CO-OP,"block_9,line_1,word_ 3",HOUSE/CONDO or CO-OP PROPERTY LOCATION (must be insured with Chubb - EX-WIND POLICIES ARE INELIGIBLE):
+138,5,1,9,1,1,4,1142,1889,375,48,96.144556,PROPERTY,"block_9,line_1,word_ 4",HOUSE/CONDO or CO-OP PROPERTY LOCATION (must be insured with Chubb - EX-WIND POLICIES ARE INELIGIBLE):
+139,5,1,9,1,1,5,1535,1889,373,48,96.507877,LOCATION,"block_9,line_1,word_ 5",HOUSE/CONDO or CO-OP PROPERTY LOCATION (must be insured with Chubb - EX-WIND POLICIES ARE INELIGIBLE):
+140,5,1,9,1,1,6,1928,1890,149,59,96.327999,(must,"block_9,line_1,word_ 6",HOUSE/CONDO or CO-OP PROPERTY LOCATION (must be insured with Chubb - EX-WIND POLICIES ARE INELIGIBLE):
+141,5,1,9,1,1,7,2097,1891,61,46,96.741003,be,"block_9,line_1,word_ 7",HOUSE/CONDO or CO-OP PROPERTY LOCATION (must be insured with Chubb - EX-WIND POLICIES ARE INELIGIBLE):
+142,5,1,9,1,1,8,2181,1891,191,46,96.165015,insured,"block_9,line_1,word_ 8",HOUSE/CONDO or CO-OP PROPERTY LOCATION (must be insured with Chubb - EX-WIND POLICIES ARE INELIGIBLE):
+143,5,1,9,1,1,9,2392,1891,106,45,96.165015,with,"block_9,line_1,word_ 9",HOUSE/CONDO or CO-OP PROPERTY LOCATION (must be insured with Chubb - EX-WIND POLICIES ARE INELIGIBLE):
+144,5,1,9,1,1,10,2521,1891,175,46,93.249269,Chubb,"block_9,line_1,word_ 10",HOUSE/CONDO or CO-OP PROPERTY LOCATION (must be insured with Chubb - EX-WIND POLICIES ARE INELIGIBLE):
+145,5,1,9,1,1,11,2716,1917,17,6,90.324588,-,"block_9,line_1,word_ 11",HOUSE/CONDO or CO-OP PROPERTY LOCATION (must be insured with Chubb - EX-WIND POLICIES ARE INELIGIBLE):
+146,5,1,9,1,1,12,2753,1891,263,45,91.560781,EX-WIND,"block_9,line_1,word_ 12",HOUSE/CONDO or CO-OP PROPERTY LOCATION (must be insured with Chubb - EX-WIND POLICIES ARE INELIGIBLE):
+147,5,1,9,1,1,13,3037,1890,283,47,96.295402,POLICIES,"block_9,line_1,word_ 13",HOUSE/CONDO or CO-OP PROPERTY LOCATION (must be insured with Chubb - EX-WIND POLICIES ARE INELIGIBLE):
+148,5,1,9,1,1,14,3336,1891,134,45,96.804175,ARE,"block_9,line_1,word_ 14",HOUSE/CONDO or CO-OP PROPERTY LOCATION (must be insured with Chubb - EX-WIND POLICIES ARE INELIGIBLE):
+149,5,1,9,1,1,15,3485,1890,374,59,91.380849,INELIGIBLE):,"block_9,line_1,word_ 15",HOUSE/CONDO or CO-OP PROPERTY LOCATION (must be insured with Chubb - EX-WIND POLICIES ARE INELIGIBLE):
+150,5,1,9,1,2,1,566,2028,160,48,96.330293,Street:,"block_9,line_2,word_ 1",Street: 234 E 72™ St
+151,5,1,9,1,2,2,800,2028,100,48,91.288838,234,"block_9,line_2,word_ 2",Street: 234 E 72™ St
+152,5,1,9,1,2,3,921,2029,39,46,74.131432,E,"block_9,line_2,word_ 3",Street: 234 E 72™ St
+153,5,1,9,1,2,4,984,2018,113,58,74.131432,72™,"block_9,line_2,word_ 4",Street: 234 E 72™ St
+154,5,1,9,1,2,5,1119,2028,54,48,96.142778,St,"block_9,line_2,word_ 5",Street: 234 E 72™ St
+155,5,1,10,1,1,1,565,2176,132,72,96.882522,City:,"block_10,line_1,word_ 1",City: New York County: (requirep) __ Manhattan _State:_NY_ Zip: _10021 _
+156,5,1,10,1,1,2,914,2182,132,47,96.017441,New,"block_10,line_1,word_ 2",City: New York County: (requirep) __ Manhattan _State:_NY_ Zip: _10021 _
+157,5,1,10,1,1,3,1066,2180,144,49,96.492425,York,"block_10,line_1,word_ 3",City: New York County: (requirep) __ Manhattan _State:_NY_ Zip: _10021 _
+158,5,1,10,1,1,4,1764,2181,213,62,93.227090,County:,"block_10,line_1,word_ 4",City: New York County: (requirep) __ Manhattan _State:_NY_ Zip: _10021 _
+159,5,1,10,1,1,5,2004,2199,233,38,21.326613,(requirep),"block_10,line_1,word_ 5",City: New York County: (requirep) __ Manhattan _State:_NY_ Zip: _10021 _
+160,5,1,10,1,1,6,2282,2176,60,72,27.230520,__,"block_10,line_1,word_ 6",City: New York County: (requirep) __ Manhattan _State:_NY_ Zip: _10021 _
+161,5,1,10,1,1,7,2346,2180,295,49,62.719262,Manhattan,"block_10,line_1,word_ 7",City: New York County: (requirep) __ Manhattan _State:_NY_ Zip: _10021 _
+162,5,1,10,1,1,8,2765,2180,704,63,33.672175,_State:_NY_,"block_10,line_1,word_ 8",City: New York County: (requirep) __ Manhattan _State:_NY_ Zip: _10021 _
+163,5,1,10,1,1,9,3056,2176,126,72,49.749207,Zip:,"block_10,line_1,word_ 9",City: New York County: (requirep) __ Manhattan _State:_NY_ Zip: _10021 _
+164,5,1,10,1,1,10,3212,2180,186,63,80.375757,_10021,"block_10,line_1,word_ 10",City: New York County: (requirep) __ Manhattan _State:_NY_ Zip: _10021 _
+165,5,1,10,1,1,11,3434,2176,36,72,80.375757,_,"block_10,line_1,word_ 11",City: New York County: (requirep) __ Manhattan _State:_NY_ Zip: _10021 _
+166,5,1,10,1,2,1,1377,2338,292,57,95.897878,FLOOD,"block_10,line_2,word_ 1",FLOOD COVERAGE INFORMATION!
+167,5,1,10,1,2,2,1696,2337,472,58,96.253002,COVERAGE,"block_10,line_2,word_ 2",FLOOD COVERAGE INFORMATION!
+168,5,1,10,1,2,3,2195,2325,643,70,92.038696,INFORMATION!,"block_10,line_2,word_ 3",FLOOD COVERAGE INFORMATION!
+169,5,1,11,1,1,1,251,2502,238,63,96.075482,Building,"block_11,line_1,word_ 1","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+170,5,1,11,1,1,2,511,2518,58,33,96.002530,or,"block_11,line_1,word_ 2","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+171,5,1,11,1,1,3,588,2503,151,48,33.316054,AXA,"block_11,line_1,word_ 3","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+172,5,1,11,1,1,4,761,2500,27,55,84.960977,$,"block_11,line_1,word_ 4","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+173,5,1,11,1,1,5,790,2503,402,62,40.986218,"500,000","block_11,line_1,word_ 5","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+174,5,1,11,1,1,6,1213,2503,242,48,51.620970,Contents,"block_11,line_1,word_ 6","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+175,5,1,11,1,1,7,1488,2500,18,55,51.620970,$,"block_11,line_1,word_ 7","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+176,5,1,11,1,1,8,1561,2496,55,73,7.178421,—_,"block_11,line_1,word_ 8","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+177,5,1,11,1,1,9,1622,2503,214,58,32.018399,"100,000","block_11,line_1,word_ 9","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+178,5,1,11,1,1,10,2032,2502,299,49,95.234420,Deductible,"block_11,line_1,word_ 10","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+179,5,1,11,1,1,11,2354,2504,103,59,96.823753,(Not,"block_11,line_1,word_ 11","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+180,5,1,11,1,1,12,2474,2510,247,51,96.765839,applicable,"block_11,line_1,word_ 12","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+181,5,1,11,1,1,13,2740,2512,43,39,95.675752,to,"block_11,line_1,word_ 13","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+182,5,1,11,1,1,14,2802,2504,190,59,78.223410,excess),"block_11,line_1,word_ 14","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+183,5,1,11,1,1,15,3027,2503,16,52,78.223410,$,"block_11,line_1,word_ 15","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+184,5,1,11,1,1,16,3191,2503,188,62,44.279585,"5,000","block_11,line_1,word_ 16","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+185,5,1,11,1,1,17,3329,2498,54,71,44.279585,__,"block_11,line_1,word_ 17","Building or AXA $ 500,000 Contents $ —_ 100,000 Deductible (Not applicable to excess) $ 5,000 __"
+186,5,1,11,1,2,1,1616,2589,335,58,95.415963,RATING,"block_11,line_2,word_ 1",RATING INFORMATION?
+187,5,1,11,1,2,2,1976,2576,656,71,95.856999,INFORMATION?,"block_11,line_2,word_ 2",RATING INFORMATION?
+188,5,1,12,1,1,1,251,2680,138,49,96.913214,Prior,"block_12,line_1,word_ 1",Prior losses: Yes xx No
+189,5,1,12,1,1,2,408,2680,176,49,96.499426,losses:,"block_12,line_1,word_ 2",Prior losses: Yes xx No
+190,5,1,12,1,1,3,904,2682,105,47,96.497957,Yes,"block_12,line_1,word_ 3",Prior losses: Yes xx No
+191,5,1,12,1,1,4,1222,2697,67,31,89.531901,xx,"block_12,line_1,word_ 4",Prior losses: Yes xx No
+192,5,1,12,1,1,5,1392,2682,83,47,89.531901,No,"block_12,line_1,word_ 5",Prior losses: Yes xx No
+193,5,1,13,1,1,1,251,2842,129,47,96.782629,Date,"block_13,line_1,word_ 1",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+194,5,1,13,1,1,2,400,2840,64,49,96.866701,of,"block_13,line_1,word_ 2",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+195,5,1,13,1,1,3,476,2840,368,49,96.324994,Construction:,"block_13,line_1,word_ 3",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+196,5,1,13,1,1,4,925,2841,44,62,62.313185,4,"block_13,line_1,word_ 4",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+197,5,1,13,1,1,5,1051,2840,44,63,57.746000,/,"block_13,line_1,word_ 5",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+198,5,1,13,1,1,6,1153,2841,38,62,69.257636,1,"block_13,line_1,word_ 6",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+199,5,1,13,1,1,7,1261,2840,62,63,59.726477,/,"block_13,line_1,word_ 7",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+200,5,1,13,1,1,8,1375,2841,154,62,53.789153,1910,"block_13,line_1,word_ 8",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+201,5,1,13,1,1,9,1579,2900,42,3,43.033228,_,"block_13,line_1,word_ 9",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+202,5,1,13,1,1,10,1658,2842,387,59,78.211927,(orsubstantial,"block_13,line_1,word_ 10",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+203,5,1,13,1,1,11,2069,2843,356,57,96.363646,improvement,"block_13,line_1,word_ 11",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+204,5,1,13,1,1,12,2446,2843,116,46,96.836641,date,"block_13,line_1,word_ 12",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+205,5,1,13,1,1,13,2587,2842,27,46,96.719967,if,"block_13,line_1,word_ 13",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+206,5,1,13,1,1,14,2635,2843,26,45,96.601154,it,"block_13,line_1,word_ 14",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+207,5,1,13,1,1,15,2684,2843,262,46,93.293589,increased,"block_13,line_1,word_ 15",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+208,5,1,13,1,1,16,2971,2843,254,58,91.708803,building’s,"block_13,line_1,word_ 16",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+209,5,1,13,1,1,17,3250,2843,187,46,92.988054,market,"block_13,line_1,word_ 17",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+210,5,1,13,1,1,18,3456,2842,329,59,90.174505,value>50%),"block_13,line_1,word_ 18",Date of Construction: 4 / 1 / 1910 _ (orsubstantial improvement date if it increased building’s market value>50%)
+211,5,1,13,1,2,1,253,2999,178,49,92.688136,Chubb,"block_13,line_2,word_ 1",Chubb Homeowners/Condominium/Cooperative Coverage Limits:
+212,5,1,13,1,2,2,452,2999,1148,63,91.704478,Homeowners/Condominium/Cooperative,"block_13,line_2,word_ 2",Chubb Homeowners/Condominium/Cooperative Coverage Limits:
+213,5,1,13,1,2,3,1623,3000,260,62,96.416145,Coverage,"block_13,line_2,word_ 3",Chubb Homeowners/Condominium/Cooperative Coverage Limits:
+214,5,1,13,1,2,4,1904,2999,192,49,96.751778,Limits:,"block_13,line_2,word_ 4",Chubb Homeowners/Condominium/Cooperative Coverage Limits:
+215,5,1,13,2,1,1,251,3159,238,63,95.872975,Building,"block_13,line_1,word_ 1","Building or AXR®A$ A&A: 4,493,000 Contents$ ———_—-6 43,000"
+216,5,1,13,2,1,2,511,3175,58,33,93.132846,or,"block_13,line_1,word_ 2","Building or AXR®A$ A&A: 4,493,000 Contents$ ———_—-6 43,000"
+217,5,1,13,2,1,3,587,3160,152,48,0.000000,AXR®A$,"block_13,line_1,word_ 3","Building or AXR®A$ A&A: 4,493,000 Contents$ ———_—-6 43,000"
+218,5,1,13,2,1,4,761,3157,371,65,34.597578,A&A:,"block_13,line_1,word_ 4","Building or AXR®A$ A&A: 4,493,000 Contents$ ———_—-6 43,000"
+219,5,1,13,2,1,5,1156,3160,276,58,95.389166,"4,493,000","block_13,line_1,word_ 5","Building or AXR®A$ A&A: 4,493,000 Contents$ ———_—-6 43,000"
+220,5,1,13,2,1,6,2082,3160,242,48,62.624800,Contents$,"block_13,line_1,word_ 6","Building or AXR®A$ A&A: 4,493,000 Contents$ ———_—-6 43,000"
+221,5,1,13,2,1,7,2450,3153,168,77,0.000000,———_—-6,"block_13,line_1,word_ 7","Building or AXR®A$ A&A: 4,493,000 Contents$ ———_—-6 43,000"
+222,5,1,13,2,1,8,2629,3160,180,58,2.918253,"43,000","block_13,line_1,word_ 8","Building or AXR®A$ A&A: 4,493,000 Contents$ ———_—-6 43,000"
+223,5,1,13,3,1,1,251,3319,161,49,95.610002,Flood,"block_13,line_1,word_ 1",Flood Zone ———x_~——sSTFype of Building: Single Family xs‘ 2-Family Condominium/Cooperative x
+224,5,1,13,3,1,2,431,3321,139,47,33.229756,Zone,"block_13,line_1,word_ 2",Flood Zone ———x_~——sSTFype of Building: Single Family xs‘ 2-Family Condominium/Cooperative x
+225,5,1,13,3,1,3,588,3321,578,61,0.000000,———x_~——sSTFype,"block_13,line_1,word_ 3",Flood Zone ———x_~——sSTFype of Building: Single Family xs‘ 2-Family Condominium/Cooperative x
+226,5,1,13,3,1,4,1188,3319,64,49,95.241512,of,"block_13,line_1,word_ 4",Flood Zone ———x_~——sSTFype of Building: Single Family xs‘ 2-Family Condominium/Cooperative x
+227,5,1,13,3,1,5,1262,3319,259,63,96.400161,Building:,"block_13,line_1,word_ 5",Flood Zone ———x_~——sSTFype of Building: Single Family xs‘ 2-Family Condominium/Cooperative x
+228,5,1,13,3,1,6,1574,3319,170,63,96.109374,Single,"block_13,line_1,word_ 6",Flood Zone ———x_~——sSTFype of Building: Single Family xs‘ 2-Family Condominium/Cooperative x
+229,5,1,13,3,1,7,1765,3319,195,63,82.762244,Family,"block_13,line_1,word_ 7",Flood Zone ———x_~——sSTFype of Building: Single Family xs‘ 2-Family Condominium/Cooperative x
+230,5,1,13,3,1,8,1976,3336,245,46,9.931641,xs‘,"block_13,line_1,word_ 8",Flood Zone ———x_~——sSTFype of Building: Single Family xs‘ 2-Family Condominium/Cooperative x
+231,5,1,13,3,1,9,2251,3319,252,63,49.677486,2-Family,"block_13,line_1,word_ 9",Flood Zone ———x_~——sSTFype of Building: Single Family xs‘ 2-Family Condominium/Cooperative x
+232,5,1,13,3,1,10,2821,3319,998,63,91.841615,Condominium/Cooperative,"block_13,line_1,word_ 10",Flood Zone ———x_~——sSTFype of Building: Single Family xs‘ 2-Family Condominium/Cooperative x
+233,5,1,13,3,1,11,3639,3315,54,71,9.872656,x,"block_13,line_1,word_ 11",Flood Zone ———x_~——sSTFype of Building: Single Family xs‘ 2-Family Condominium/Cooperative x
+234,5,1,14,1,1,1,251,3479,314,49,96.207986,Foundation,"block_14,line_1,word_ 1",Foundation Information
+235,5,1,14,1,1,2,585,3479,328,49,96.694446,Information,"block_14,line_1,word_ 2",Foundation Information
+236,5,1,15,1,1,1,1249,3778,140,3,95.000000, ,"block_15,line_1,word_ 1", 
+237,5,1,16,1,1,1,249,3639,175,62,5.242929,__3.__,"block_16,line_1,word_ 1",__3.__ Number of Stories (excluding basement) ___y | Basement(Y/N) Finished ___x___ Unfinished
+238,5,1,16,1,1,2,440,3638,228,49,91.084455,Number,"block_16,line_1,word_ 2",__3.__ Number of Stories (excluding basement) ___y | Basement(Y/N) Finished ___x___ Unfinished
+239,5,1,16,1,1,3,688,3638,64,49,95.688304,of,"block_16,line_1,word_ 3",__3.__ Number of Stories (excluding basement) ___y | Basement(Y/N) Finished ___x___ Unfinished
+240,5,1,16,1,1,4,764,3638,186,49,96.691784,Stories,"block_16,line_1,word_ 4",__3.__ Number of Stories (excluding basement) ___y | Basement(Y/N) Finished ___x___ Unfinished
+241,5,1,16,1,1,5,973,3647,233,51,96.153491,(excluding,"block_16,line_1,word_ 5",__3.__ Number of Stories (excluding basement) ___y | Basement(Y/N) Finished ___x___ Unfinished
+242,5,1,16,1,1,6,1221,3647,227,50,93.025988,basement),"block_16,line_1,word_ 6",__3.__ Number of Stories (excluding basement) ___y | Basement(Y/N) Finished ___x___ Unfinished
+243,5,1,16,1,1,7,1499,3655,208,46,35.094008,___y,"block_16,line_1,word_ 7",__3.__ Number of Stories (excluding basement) ___y | Basement(Y/N) Finished ___x___ Unfinished
+244,5,1,16,1,1,8,1688,3634,31,71,24.853120,|,"block_16,line_1,word_ 8",__3.__ Number of Stories (excluding basement) ___y | Basement(Y/N) Finished ___x___ Unfinished
+245,5,1,16,1,1,9,1726,3638,437,62,91.009555,Basement(Y/N),"block_16,line_1,word_ 9",__3.__ Number of Stories (excluding basement) ___y | Basement(Y/N) Finished ___x___ Unfinished
+246,5,1,16,1,1,10,2498,3641,227,46,96.732707,Finished,"block_16,line_1,word_ 10",__3.__ Number of Stories (excluding basement) ___y | Basement(Y/N) Finished ___x___ Unfinished
+247,5,1,16,1,1,11,2995,3634,237,71,4.773388,___x___,"block_16,line_1,word_ 11",__3.__ Number of Stories (excluding basement) ___y | Basement(Y/N) Finished ___x___ Unfinished
+248,5,1,16,1,1,12,3245,3634,285,71,4.773388,Unfinished,"block_16,line_1,word_ 12",__3.__ Number of Stories (excluding basement) ___y | Basement(Y/N) Finished ___x___ Unfinished
+249,5,1,16,1,2,1,532,3721,272,46,96.563505,Enclosure,"block_16,line_2,word_ 1",Enclosure Slab on Grade Crawl Space
+250,5,1,16,1,2,2,1411,3718,115,49,95.443982,Slab,"block_16,line_2,word_ 2",Enclosure Slab on Grade Crawl Space
+251,5,1,16,1,2,3,1547,3734,68,33,95.443982,on,"block_16,line_2,word_ 3",Enclosure Slab on Grade Crawl Space
+252,5,1,16,1,2,4,1635,3718,166,49,96.505516,Grade,"block_16,line_2,word_ 4",Enclosure Slab on Grade Crawl Space
+253,5,1,16,1,2,5,2496,3718,167,49,95.187817,Crawl,"block_16,line_2,word_ 5",Enclosure Slab on Grade Crawl Space
+254,5,1,16,1,2,6,2683,3719,160,62,96.763684,Space,"block_16,line_2,word_ 6",Enclosure Slab on Grade Crawl Space
+255,5,1,16,1,3,1,442,3798,241,49,96.317663,Elevated,"block_16,line_3,word_ 1",Elevated (If Yes by) Piers/Posts/Columns (circle)
+256,5,1,16,1,3,2,704,3798,74,62,95.207854,(If,"block_16,line_3,word_ 2",Elevated (If Yes by) Piers/Posts/Columns (circle)
+257,5,1,16,1,3,3,787,3800,105,47,96.750644,Yes,"block_16,line_3,word_ 3",Elevated (If Yes by) Piers/Posts/Columns (circle)
+258,5,1,16,1,3,4,913,3798,86,63,97.007960,by),"block_16,line_3,word_ 4",Elevated (If Yes by) Piers/Posts/Columns (circle)
+259,5,1,16,1,3,5,1212,3798,572,49,90.784267,Piers/Posts/Columns,"block_16,line_3,word_ 5",Elevated (If Yes by) Piers/Posts/Columns (circle)
+260,5,1,16,1,3,6,1808,3807,155,51,96.260653,(circle),"block_16,line_3,word_ 6",Elevated (If Yes by) Piers/Posts/Columns (circle)
+261,5,1,17,1,1,1,253,3955,129,46,96.371875,FOR,"block_17,line_1,word_ 1","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+262,5,1,17,1,1,2,398,3955,92,45,96.415190,ANY,"block_17,line_1,word_ 2","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+263,5,1,17,1,1,3,553,3955,31,45,95.228419,A,"block_17,line_1,word_ 3","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+264,5,1,17,1,1,4,616,3954,89,47,85.536715,OR,"block_17,line_1,word_ 4","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+265,5,1,17,1,1,5,729,3955,42,45,85.536715,V,"block_17,line_1,word_ 5","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+266,5,1,17,1,1,6,785,3955,214,46,96.467937,FLOOD,"block_17,line_1,word_ 6","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+267,5,1,17,1,1,7,1018,3954,185,56,96.445347,"ZONE,","block_17,line_1,word_ 7","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+268,5,1,17,1,1,8,1229,3954,249,47,96.389892,PLEASE,"block_17,line_1,word_ 8","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+269,5,1,17,1,1,9,1496,3954,281,47,96.279329,PROVIDE,"block_17,line_1,word_ 9","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+270,5,1,17,1,1,10,1800,3955,120,45,95.989764,THE,"block_17,line_1,word_ 10","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+271,5,1,17,1,1,11,1938,3954,377,47,96.146498,FOLLOWING,"block_17,line_1,word_ 11","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+272,5,1,17,1,1,12,2336,3955,439,46,96.583604,INFORMATION,"block_17,line_1,word_ 12","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+273,5,1,17,1,1,13,2796,3954,116,59,96.419395,(not,"block_17,line_1,word_ 13","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+274,5,1,17,1,1,14,2929,3955,254,57,96.263110,required,"block_17,line_1,word_ 14","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+275,5,1,17,1,1,15,3199,3954,84,47,93.297340,for,"block_17,line_1,word_ 15","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+276,5,1,17,1,1,16,3300,3955,55,55,91.155201,"B,","block_17,line_1,word_ 16","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+277,5,1,17,1,1,17,3384,3955,40,46,93.264285,C,"block_17,line_1,word_ 17","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+278,5,1,17,1,1,18,3444,3955,123,46,93.152733,or,"block_17,line_1,word_ 18","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+279,5,1,17,1,1,19,3527,3947,32,73,91.535894,X,"block_17,line_1,word_ 19","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+280,5,1,17,1,1,20,3579,3954,215,59,95.527970,zones):,"block_17,line_1,word_ 20","FOR ANY A OR V FLOOD ZONE, PLEASE PROVIDE THE FOLLOWING INFORMATION (not required for B, C or X zones):"
+281,5,1,17,1,2,1,251,4029,161,49,96.477927,Flood,"block_17,line_2,word_ 1",Flood Zone X Community Number If applicable: BFE LFE
+282,5,1,17,1,2,2,431,4031,139,47,96.477927,Zone,"block_17,line_2,word_ 2",Flood Zone X Community Number If applicable: BFE LFE
+283,5,1,17,1,2,3,747,4046,32,31,80.129137,X,"block_17,line_2,word_ 3",Flood Zone X Community Number If applicable: BFE LFE
+284,5,1,17,1,2,4,974,4029,329,63,96.429809,Community,"block_17,line_2,word_ 4",Flood Zone X Community Number If applicable: BFE LFE
+285,5,1,17,1,2,5,1318,4029,229,49,96.022248,Number,"block_17,line_2,word_ 5",Flood Zone X Community Number If applicable: BFE LFE
+286,5,1,17,1,2,6,2331,4029,51,48,96.286625,If,"block_17,line_2,word_ 6",Flood Zone X Community Number If applicable: BFE LFE
+287,5,1,17,1,2,7,2393,4029,296,63,96.017552,applicable:,"block_17,line_2,word_ 7",Flood Zone X Community Number If applicable: BFE LFE
+288,5,1,17,1,2,8,2732,4031,123,46,96.323883,BFE,"block_17,line_2,word_ 8",Flood Zone X Community Number If applicable: BFE LFE
+289,5,1,17,1,2,9,3312,4031,120,46,91.686013,LFE,"block_17,line_2,word_ 9",Flood Zone X Community Number If applicable: BFE LFE
+290,5,1,18,1,1,1,379,4170,38,40,96.880044,1.,"block_18,line_1,word_ 1","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+291,5,1,18,1,1,2,440,4170,84,41,96.798015,For,"block_18,line_1,word_ 2","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+292,5,1,18,1,1,3,544,4170,199,52,96.560368,primary,"block_18,line_1,word_ 3","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+293,5,1,18,1,1,4,760,4170,132,41,96.314006,flood,"block_18,line_1,word_ 4","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+294,5,1,18,1,1,5,913,4181,60,30,96.762434,an,"block_18,line_1,word_ 5","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+295,5,1,18,1,1,6,994,4170,255,41,96.334729,additional,"block_18,line_1,word_ 6","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+296,5,1,18,1,1,7,1273,4170,227,51,96.289111,premium,"block_18,line_1,word_ 7","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+297,5,1,18,1,1,8,1521,4170,186,51,96.380437,applies,"block_18,line_1,word_ 8","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+298,5,1,18,1,1,9,1727,4171,49,40,96.930708,to,"block_18,line_1,word_ 9","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+299,5,1,18,1,1,10,1798,4170,249,41,96.298005,increases,"block_18,line_1,word_ 10","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+300,5,1,18,1,1,11,2066,4171,48,40,95.877174,to,"block_18,line_1,word_ 11","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+301,5,1,18,1,1,12,2135,4180,91,42,96.309226,any,"block_18,line_1,word_ 12","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+302,5,1,18,1,1,13,2246,4170,51,41,96.488222,of,"block_18,line_1,word_ 13","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+303,5,1,18,1,1,14,2312,4170,80,41,96.604116,the,"block_18,line_1,word_ 14","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+304,5,1,18,1,1,15,2411,4170,238,52,96.449828,following,"block_18,line_1,word_ 15","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+305,5,1,18,1,1,16,2670,4181,286,41,96.111732,coverages:,"block_18,line_1,word_ 16","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+306,5,1,18,1,1,17,2982,4170,109,41,96.692765,Real,"block_18,line_1,word_ 17","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+307,5,1,18,1,1,18,3113,4170,225,52,95.884914,Property,"block_18,line_1,word_ 18","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+308,5,1,18,1,1,19,3358,4170,42,40,95.884914,in,"block_18,line_1,word_ 19","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+309,5,1,18,1,1,20,3420,4170,81,41,96.001892,the,"block_18,line_1,word_ 20","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+310,5,1,18,1,1,21,3522,4170,273,48,96.387687,"Basement,","block_18,line_1,word_ 21","1. For primary flood an additional premium applies to increases to any of the following coverages: Real Property in the Basement,"
+311,5,1,18,1,2,1,378,4234,233,41,96.178015,Contents,"block_18,line_2,word_ 1","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+312,5,1,18,1,2,2,634,4234,43,40,96.675717,in,"block_18,line_2,word_ 2","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+313,5,1,18,1,2,3,695,4234,81,41,96.454837,the,"block_18,line_2,word_ 3","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+314,5,1,18,1,2,4,797,4234,273,48,96.644429,"Basement,","block_18,line_2,word_ 4","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+315,5,1,18,1,2,5,1093,4234,280,52,95.729992,Rebuilding,"block_18,line_2,word_ 5","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+316,5,1,18,1,2,6,1394,4235,49,40,96.793525,to,"block_18,line_2,word_ 6","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+317,5,1,18,1,2,7,1463,4234,134,41,96.386828,Code,"block_18,line_2,word_ 7","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+318,5,1,18,1,2,8,1617,4234,92,41,95.459772,and,"block_18,line_2,word_ 8","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+319,5,1,18,1,2,9,1730,4234,266,41,96.350214,Additional,"block_18,line_2,word_ 9","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+320,5,1,18,1,2,10,2019,4234,156,52,95.694367,Living,"block_18,line_2,word_ 10","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+321,5,1,18,1,2,11,2198,4234,251,51,96.410530,Expenses,"block_18,line_2,word_ 11","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+322,5,1,18,1,2,12,2472,4233,156,53,96.790839,(ALE).,"block_18,line_2,word_ 12","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+323,5,1,18,1,2,13,2668,4234,85,41,96.392596,For,"block_18,line_2,word_ 13","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+324,5,1,18,1,2,14,2770,4245,182,30,96.153882,excess,"block_18,line_2,word_ 14","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+325,5,1,18,1,2,15,2971,4234,130,41,96.813046,flood,"block_18,line_2,word_ 15","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+326,5,1,18,1,2,16,3123,4231,165,51,96.852270,"$7,500","block_18,line_2,word_ 16","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+327,5,1,18,1,2,17,3308,4234,53,41,96.884478,of,"block_18,line_2,word_ 17","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+328,5,1,18,1,2,18,3375,4234,107,40,96.709860,ALE,"block_18,line_2,word_ 18","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+329,5,1,18,1,2,19,3502,4245,241,41,95.984199,coverage,"block_18,line_2,word_ 19","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+330,5,1,18,1,2,20,3764,4234,39,41,96.136513,is,"block_18,line_2,word_ 20","Contents in the Basement, Rebuilding to Code and Additional Living Expenses (ALE). For excess flood $7,500 of ALE coverage is"
+331,5,1,18,1,3,1,379,4298,235,41,96.049135,included.,"block_18,line_3,word_ 1","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+332,5,1,18,1,3,2,649,4298,222,41,96.634701,Addition,"block_18,line_3,word_ 2","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+333,5,1,18,1,3,3,892,4298,51,41,96.595327,of,"block_18,line_3,word_ 3","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+334,5,1,18,1,3,4,958,4308,93,42,95.795509,any,"block_18,line_3,word_ 4","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+335,5,1,18,1,3,5,1069,4298,53,41,96.809159,of,"block_18,line_3,word_ 5","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+336,5,1,18,1,3,6,1136,4298,81,41,96.199753,the,"block_18,line_3,word_ 6","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+337,5,1,18,1,3,7,1238,4298,258,52,96.754416,remaining,"block_18,line_3,word_ 7","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+338,5,1,18,1,3,8,1519,4298,175,41,96.093873,related,"block_18,line_3,word_ 8","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+339,5,1,18,1,3,9,1716,4308,269,42,96.055357,coverages,"block_18,line_3,word_ 9","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+340,5,1,18,1,3,10,2006,4309,53,30,96.486055,or,"block_18,line_3,word_ 10","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+341,5,1,18,1,3,11,2079,4298,251,41,96.176552,increased,"block_18,line_3,word_ 11","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+342,5,1,18,1,3,12,2350,4298,106,40,96.600066,ALE,"block_18,line_3,word_ 12","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+343,5,1,18,1,3,13,2480,4298,39,41,96.778192,is,"block_18,line_3,word_ 13","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+344,5,1,18,1,3,14,2539,4298,225,51,96.201836,"optional,","block_18,line_3,word_ 14","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+345,5,1,18,1,3,15,2786,4298,192,52,96.027820,subject,"block_18,line_3,word_ 15","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+346,5,1,18,1,3,16,2995,4299,50,40,96.311055,to,"block_18,line_3,word_ 16","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+347,5,1,18,1,3,17,3065,4309,60,30,96.311055,an,"block_18,line_3,word_ 17","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+348,5,1,18,1,3,18,3146,4298,257,41,96.115477,additional,"block_18,line_3,word_ 18","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+349,5,1,18,1,3,19,3425,4298,227,51,95.871851,premium,"block_18,line_3,word_ 19","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+350,5,1,18,1,3,20,3673,4298,93,41,95.871851,and,"block_18,line_3,word_ 20","included. Addition of any of the remaining related coverages or increased ALE is optional, subject to an additional premium and"
+351,5,1,18,1,4,1,379,4362,327,52,95.597694,underwriting,"block_18,line_4,word_ 1",underwriting acceptability.
+352,5,1,18,1,4,2,728,4362,346,52,95.257684,acceptability.,"block_18,line_4,word_ 2",underwriting acceptability.
+353,5,1,18,2,1,1,376,4426,41,40,96.311353,2.,"block_18,line_1,word_ 1","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+354,5,1,18,2,1,2,441,4426,30,40,95.167723,If,"block_18,line_1,word_ 2","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+355,5,1,18,2,1,3,485,4426,81,41,96.624380,the,"block_18,line_1,word_ 3","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+356,5,1,18,2,1,4,585,4427,238,40,96.290888,structure,"block_18,line_1,word_ 4","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+357,5,1,18,2,1,5,845,4426,88,41,96.977612,has,"block_18,line_1,word_ 5","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+358,5,1,18,2,1,6,955,4426,123,41,96.359674,been,"block_18,line_1,word_ 6","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+359,5,1,18,2,1,7,1100,4426,272,52,96.518684,previously,"block_18,line_1,word_ 7","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+360,5,1,18,2,1,8,1392,4426,194,41,96.502357,insured,"block_18,line_1,word_ 8","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+361,5,1,18,2,1,9,1610,4426,148,41,96.520386,under,"block_18,line_1,word_ 9","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+362,5,1,18,2,1,10,1775,4426,80,41,93.129275,the,"block_18,line_1,word_ 10","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+363,5,1,18,2,1,11,1876,4426,120,40,91.976714,NFIP,"block_18,line_1,word_ 11","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+364,5,1,18,2,1,12,2016,4437,53,30,95.662832,or,"block_18,line_1,word_ 12","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+365,5,1,18,2,1,13,2090,4426,59,52,96.716231,by,"block_18,line_1,word_ 13","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+366,5,1,18,2,1,14,2167,4426,202,41,96.153140,another,"block_18,line_1,word_ 14","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+367,5,1,18,2,1,15,2385,4426,131,41,95.802172,flood,"block_18,line_1,word_ 15","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+368,5,1,18,2,1,16,2538,4426,182,48,95.742282,"carrier,","block_18,line_1,word_ 16","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+369,5,1,18,2,1,17,2744,4426,166,51,96.611816,please,"block_18,line_1,word_ 17","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+370,5,1,18,2,1,18,2928,4426,80,41,95.899983,fax,"block_18,line_1,word_ 18","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+371,5,1,18,2,1,19,3025,4437,27,30,96.971065,a,"block_18,line_1,word_ 19","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+372,5,1,18,2,1,20,3072,4437,126,41,95.815207,copy,"block_18,line_1,word_ 20","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+373,5,1,18,2,1,21,3218,4426,51,41,96.887626,of,"block_18,line_1,word_ 21","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+374,5,1,18,2,1,22,3283,4426,81,41,96.679640,the,"block_18,line_1,word_ 22","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+375,5,1,18,2,1,23,3386,4426,122,51,96.905275,prior,"block_18,line_1,word_ 23","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+376,5,1,18,2,1,24,3528,4426,155,52,96.870339,policy,"block_18,line_1,word_ 24","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+377,5,1,18,2,1,25,3701,4425,172,42,96.075056,and/or,"block_18,line_1,word_ 25","2. If the structure has been previously insured under the NFIP or by another flood carrier, please fax a copy of the prior policy and/or"
+378,5,1,18,2,2,1,376,4490,79,41,96.628395,the,"block_18,line_2,word_ 1","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+379,5,1,18,2,2,2,474,4490,236,41,95.930375,elevation,"block_18,line_2,word_ 2","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+380,5,1,18,2,2,3,731,4490,272,48,96.520841,"certificate,","block_18,line_2,word_ 3","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+381,5,1,18,2,2,4,1025,4490,32,40,96.744260,if,"block_18,line_2,word_ 4","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+382,5,1,18,2,2,5,1073,4490,245,41,96.376066,available.,"block_18,line_2,word_ 5","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+383,5,1,18,2,2,6,1357,4490,86,41,91.582710,For,"block_18,line_2,word_ 6","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+384,5,1,18,2,2,7,1462,4490,266,41,91.582710,Post-FIRM,"block_18,line_2,word_ 7","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+385,5,1,18,2,2,8,1751,4490,124,41,96.341331,risks,"block_18,line_2,word_ 8","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+386,5,1,18,2,2,9,1897,4490,42,40,96.717742,in,"block_18,line_2,word_ 9","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+387,5,1,18,2,2,10,1959,4490,40,40,95.972454,A,"block_18,line_2,word_ 10","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+388,5,1,18,2,2,11,2016,4501,53,30,92.930489,or,"block_18,line_2,word_ 11","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+389,5,1,18,2,2,12,2085,4490,37,40,92.233345,V,"block_18,line_2,word_ 12","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+390,5,1,18,2,2,13,2138,4500,167,38,96.135364,"zones,","block_18,line_2,word_ 13","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+391,5,1,18,2,2,14,2327,4490,236,41,95.793275,elevation,"block_18,line_2,word_ 14","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+392,5,1,18,2,2,15,2585,4490,298,41,96.330906,information,"block_18,line_2,word_ 15","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+393,5,1,18,2,2,16,2902,4490,85,40,94.316806,will,"block_18,line_2,word_ 16","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+394,5,1,18,2,2,17,3011,4490,59,41,96.875271,be,"block_18,line_2,word_ 17","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+395,5,1,18,2,2,18,3091,4490,214,51,96.604676,required,"block_18,line_2,word_ 18","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+396,5,1,18,2,2,19,3327,4491,50,40,96.175398,to,"block_18,line_2,word_ 19","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+397,5,1,18,2,2,20,3398,4490,186,41,96.106571,receive,"block_18,line_2,word_ 20","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+398,5,1,18,2,2,21,3603,4501,27,30,94.490075,a,"block_18,line_2,word_ 21","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+399,5,1,18,2,2,22,3647,4490,167,41,96.055089,formal,"block_18,line_2,word_ 22","the elevation certificate, if available. For Post-FIRM risks in A or V zones, elevation information will be required to receive a formal"
+400,5,1,18,2,3,1,377,4554,92,41,96.298682,and,"block_18,line_3,word_ 1",and guaranteed quote.
+401,5,1,18,2,3,2,490,4554,294,52,96.768333,guaranteed,"block_18,line_3,word_ 2",and guaranteed quote.
+402,5,1,18,2,3,3,804,4555,161,50,96.033557,quote.,"block_18,line_3,word_ 3",and guaranteed quote.
+403,5,1,19,1,1,1,251,4702,136,47,96.730172,Date,"block_19,line_1,word_ 1",Date Quote Submitted to WNC: 12/7/21
+404,5,1,19,1,1,2,409,4701,178,60,96.123165,Quote,"block_19,line_1,word_ 2",Date Quote Submitted to WNC: 12/7/21
+405,5,1,19,1,1,3,609,4701,303,48,96.123165,Submitted,"block_19,line_1,word_ 3",Date Quote Submitted to WNC: 12/7/21
+406,5,1,19,1,1,4,932,4705,54,44,95.759006,to,"block_19,line_1,word_ 4",Date Quote Submitted to WNC: 12/7/21
+407,5,1,19,1,1,5,1007,4701,183,48,95.759006,WNC:,"block_19,line_1,word_ 5",Date Quote Submitted to WNC: 12/7/21
+408,5,1,19,1,1,6,1484,4700,192,49,96.587415,12/7/21,"block_19,line_1,word_ 6",Date Quote Submitted to WNC: 12/7/21
+409,5,1,20,1,1,1,286,5132,40,40,94.319986,A,"block_20,line_1,word_ 1",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+410,5,1,20,1,1,2,344,5132,232,41,94.319986,FORMAL,"block_20,line_1,word_ 2",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+411,5,1,20,1,1,3,594,5132,116,40,96.517044,AND,"block_20,line_1,word_ 3",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+412,5,1,20,1,1,4,732,5132,386,41,96.322312,GUARANTEED,"block_20,line_1,word_ 4",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+413,5,1,20,1,1,5,1139,5132,191,44,96.611102,QUOTE,"block_20,line_1,word_ 5",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+414,5,1,20,1,1,6,1352,5132,112,41,96.259950,CAN,"block_20,line_1,word_ 6",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+415,5,1,20,1,1,7,1487,5132,153,41,96.259950,ONLY,"block_20,line_1,word_ 7",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+416,5,1,20,1,1,8,1658,5132,72,40,96.711392,BE,"block_20,line_1,word_ 8",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+417,5,1,20,1,1,9,1751,5132,283,41,96.329972,OBTAINED,"block_20,line_1,word_ 9",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+418,5,1,20,1,1,10,2057,5132,152,41,93.217834,UPON,"block_20,line_1,word_ 10",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+419,5,1,20,1,1,11,2232,5132,247,41,91.185542,CHUBB’S,"block_20,line_1,word_ 11",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+420,5,1,20,1,1,12,2502,5132,214,40,95.984141,REVIEW,"block_20,line_1,word_ 12",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+421,5,1,20,1,1,13,2736,5132,72,41,96.470571,OF,"block_20,line_1,word_ 13",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+422,5,1,20,1,1,14,2826,5132,40,40,94.421477,A,"block_20,line_1,word_ 14",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+423,5,1,20,1,1,15,2884,5132,174,41,94.421477,FULLY,"block_20,line_1,word_ 15",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+424,5,1,20,1,1,16,3076,5132,343,41,95.406331,COMPLETED,"block_20,line_1,word_ 16",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+425,5,1,20,1,1,17,3441,5132,195,41,95.039390,CHUBB,"block_20,line_1,word_ 17",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+426,5,1,20,1,1,18,3658,5132,301,41,95.039390,PERSONAL,"block_20,line_1,word_ 18",A FORMAL AND GUARANTEED QUOTE CAN ONLY BE OBTAINED UPON CHUBB’S REVIEW OF A FULLY COMPLETED CHUBB PERSONAL
+427,5,1,20,1,2,1,263,5215,81,41,96.854683,OR,"block_20,line_2,word_ 1","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+428,5,1,20,1,2,2,363,5215,219,41,96.631254,EXCESS,"block_20,line_2,word_ 2","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+429,5,1,20,1,2,3,605,5215,185,41,96.315786,FLOOD,"block_20,line_2,word_ 3","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+430,5,1,20,1,2,4,810,5215,371,41,96.596438,APPLICATION,"block_20,line_2,word_ 4","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+431,5,1,20,1,2,5,1203,5215,110,52,95.017936,(and,"block_20,line_2,word_ 5","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+432,5,1,20,1,2,6,1336,5215,241,41,96.132141,Elevation,"block_20,line_2,word_ 6","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+433,5,1,20,1,2,7,1598,5215,281,48,95.953328,"Certificate,","block_20,line_2,word_ 7","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+434,5,1,20,1,2,8,1903,5215,31,40,96.820250,if,"block_20,line_2,word_ 8","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+435,5,1,20,1,2,9,1951,5215,284,52,93.853317,applicable),"block_20,line_2,word_ 9","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+436,5,1,20,1,2,10,2254,5215,116,40,96.017913,AND,"block_20,line_2,word_ 10","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+437,5,1,20,1,2,11,2391,5215,106,40,96.433940,THE,"block_20,line_2,word_ 11","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+438,5,1,20,1,2,12,2519,5215,362,41,95.616116,COMPLETION,"block_20,line_2,word_ 12","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+439,5,1,20,1,2,13,2903,5215,73,41,92.989506,OF,"block_20,line_2,word_ 13","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+440,5,1,20,1,2,14,2997,5215,247,41,91.112382,CHUBB’S,"block_20,line_2,word_ 14","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+441,5,1,20,1,2,15,3267,5215,429,41,96.208480,UNDERWRITING,"block_20,line_2,word_ 15","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+442,5,1,20,1,2,16,3718,5215,266,41,96.484627,PROCESS,"block_20,line_2,word_ 16","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+443,5,1,20,1,3,1,924,5298,195,41,96.570998,CHUBB,"block_20,line_3,word_ 1","OR EXCESS FLOOD APPLICATION (and Elevation Certificate, if applicable) AND THE COMPLETION OF CHUBB’S UNDERWRITING PROCESS"
+444,5,1,20,1,3,2,1141,5298,219,41,95.507163,REFERS,"block_20,line_3,word_ 2",
+445,5,1,20,1,3,3,1380,5298,73,41,95.507163,TO,"block_20,line_3,word_ 3",
+446,5,1,20,1,3,4,1471,5298,107,40,96.634098,THE,"block_20,line_3,word_ 4",
+447,5,1,20,1,3,5,1601,5298,279,41,96.214676,INSURERS,"block_20,line_3,word_ 5",
+448,5,1,20,1,3,6,1901,5298,72,41,96.567297,OF,"block_20,line_3,word_ 6",
+449,5,1,20,1,3,7,1992,5298,106,40,96.340755,THE,"block_20,line_3,word_ 7",
+450,5,1,20,1,3,8,2120,5298,195,41,95.961922,CHUBB,"block_20,line_3,word_ 8",
+451,5,1,20,1,3,9,2336,5298,198,41,95.875659,GROUP,"block_20,line_3,word_ 9",
+452,5,1,20,1,3,10,2555,5298,72,41,96.714733,OF,"block_20,line_3,word_ 10",
+453,5,1,20,1,3,11,2650,5298,321,41,95.993198,INSURANCE,"block_20,line_3,word_ 11",
+454,5,1,20,1,3,12,2993,5298,329,41,96.199339,COMPANIES,"block_20,line_3,word_ 12",
