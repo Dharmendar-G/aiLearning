@@ -1,7 +1,11 @@
 import pandas as pd
 import re
+import os
 
-df2=pd.read_csv("dataset/6.csv")
+print(os.getcwd())
+
+df=pd.read_csv("../../dataset/StandardTemplate.csv",encoding='cp1252')
+df2=pd.read_csv("../../dataset/6.csv")
 
 b = []
 for i in df2["new_col"].astype(str):
@@ -36,7 +40,7 @@ csv6.append(0)
 csv6.append(city(w))
 csv6.append(0)
 
-df3 = pd.read_csv("dataset/5.csv")
+df3 = pd.read_csv("../../dataset/5.csv")
 
 c = []
 for i in df3["new_col"].astype(str):
@@ -62,7 +66,7 @@ csv5.append(0)
 csv5.append(city1(e)[0])
 csv5.append(0)
 
-df4 = pd.read_csv("dataset/4.csv")
+df4 = pd.read_csv("../../dataset/4.csv")
 
 z = []
 for i in df4["new_col"].astype(str):
@@ -100,7 +104,7 @@ csv4.append(0)
 csv4.append(city1(r).split()[0])
 csv4.append(0)
 
-df5=pd.read_csv("dataset/3.csv")
+df5=pd.read_csv("../../dataset/3.csv")
 
 def fax_num(text):
     fax=re.findall(r'(Fax:)\s+([\+\(]?[1-9][0-9 .\-\(\)]{8,}[0-9])',str(text))
@@ -156,7 +160,7 @@ csv3.append(street(t))
 csv3.append(city3(t))
 csv3.append(0)
 
-df6 = pd.read_csv("dataset/2.csv")
+df6 = pd.read_csv("../../dataset/2.csv")
 
 m = []
 for i in df6["new_col"].astype(str):
@@ -190,7 +194,7 @@ csv2.append(street(y))
 csv2.append(city3(y))
 csv2.append(country_req(y))
 
-df7 = pd.read_csv("dataset/1.csv")
+df7 = pd.read_csv("../../dataset/1.csv")
 
 n = []
 for i in df7["new_col"].astype(str):
@@ -237,4 +241,6 @@ for i, j in enumerate(lst):
     df.loc[5, j] = csv6[i]
 
 
-df.to_csv("gopal/featureExtraction/submission_StandardTemplate.csv")
+df.to_csv("submission_StandardTemplate.csv")
+
+
