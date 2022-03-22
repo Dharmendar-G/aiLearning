@@ -5,12 +5,12 @@ import warnings
 warnings.filterwarnings('ignore')
 import re
 
-df1 = pd.read_csv('C:\\Users\\MorampudiManasa\\Downloads\\1.csv')
-df2 = pd.read_csv('C:\\Users\\MorampudiManasa\\Downloads\\2.csv')
-df3 = pd.read_csv('C:\\Users\\MorampudiManasa\\Downloads\\3.csv')
-df4 = pd.read_csv('C:\\Users\\MorampudiManasa\\Downloads\\4.csv')
-df5 = pd.read_csv('C:\\Users\\MorampudiManasa\\Downloads\\5.csv')
-df6 = pd.read_csv('C:\\Users\\MorampudiManasa\\Downloads\\6.csv')
+df1 = pd.read_csv('https://github.com/abhiMishra1234/aiLearning/blob/main/dataset/1.csv')
+df2 = pd.read_csv('https://github.com/abhiMishra1234/aiLearning/blob/main/dataset/2.csv')
+df3 = pd.read_csv('https://github.com/abhiMishra1234/aiLearning/blob/main/dataset/3.csv')
+df4 = pd.read_csv('https://github.com/abhiMishra1234/aiLearning/blob/main/dataset/4.csv')
+df5 = pd.read_csv('https://github.com/abhiMishra1234/aiLearning/blob/main/dataset/5.csv')
+df6 = pd.read_csv('https://github.com/abhiMishra1234/aiLearning/blob/main/dataset/6.csv')
 
 data = ' '.join(list(df4['text'].values))
 data
