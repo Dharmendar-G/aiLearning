@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:jira_integration_for_hipchat:6.29.2:*:*:*:*:*:*:*,Atlassian JIRA Integration For Hipchat 6.29.2,['CVE-2016-6668'],2022-03-19T01:42Z
+1,cpe:2.3:a:atlassian:jira_integration_for_hipchat:6.31.0:*:*:*:*:*:*:*,Atlassian JIRA Integration For Hipchat 6.31.0,['CVE-2016-6668'],2022-03-19T01:42Z
+2,cpe:2.3:a:atlassian:jira_integration_for_hipchat:7.1.0:*:*:*:*:*:*:*,Atlassian JIRA Integration For Hipchat 7.1.0,['CVE-2016-6668'],2022-03-19T01:42Z
+3,cpe:2.3:a:atlassian:jira_integration_for_hipchat:7.2.1:*:*:*:*:*:*:*,Atlassian JIRA Integration For Hipchat 7.2.1,['CVE-2016-6668'],2022-03-19T01:42Z
+4,cpe:2.3:a:atlassian:jira_integration_for_hipchat:7.3.2:*:*:*:*:*:*:*,Atlassian JIRA Integration For Hipchat 7.3.2,['CVE-2016-6668'],2022-03-19T01:42Z
+5,cpe:2.3:a:atlassian:jira_integration_for_hipchat:7.3.3:*:*:*:*:*:*:*,Atlassian JIRA Integration For Hipchat 7.3.3,['CVE-2016-6668'],2022-03-19T01:42Z
+6,cpe:2.3:a:atlassian:jira_integration_for_hipchat:7.4.1:*:*:*:*:*:*:*,Atlassian JIRA Integration For Hipchat 7.4.1,['CVE-2016-6668'],2022-03-19T01:42Z
+7,cpe:2.3:a:atlassian:jira_integration_for_hipchat:7.8.1:*:*:*:*:*:*:*,Atlassian JIRA Integration For Hipchat 7.8.1,['CVE-2016-6668'],2022-03-19T01:42Z
+8,cpe:2.3:a:atlassian:jira_integration_for_hipchat:7.8.3:*:*:*:*:*:*:*,Atlassian JIRA Integration For Hipchat 7.8.3,['CVE-2016-6668'],2022-03-19T01:42Z
+9,cpe:2.3:a:atlassian:jira_integration_for_hipchat:7.8.12:*:*:*:*:*:*:*,Atlassian JIRA Integration For Hipchat 7.8.12,['CVE-2016-6668'],2022-03-19T01:42Z

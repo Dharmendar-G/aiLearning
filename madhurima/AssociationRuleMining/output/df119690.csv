@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:firesight_management_center_1500_firmware:6.6.0:*:*:*:*:*:*:*,Cisco Firesight Management Center 1500 Firmware 6.6.0,"['CVE-2019-15268', 'CVE-2019-15269']",2022-03-19T19:50Z
+1,cpe:2.3:h:cisco:firesight_management_center_3500:-:*:*:*:*:*:*:*,Cisco FireSIGHT Management Center 3500,"['CVE-2018-0254', 'CVE-2018-0365', 'CVE-2019-12627', 'CVE-2019-15268', 'CVE-2019-15269']",2022-03-19T19:50Z
+2,cpe:2.3:o:cisco:firesight_management_center_3500_firmware:-:*:*:*:*:*:*:*,Cisco Firesight Management Center 3500 Firmware -,"['CVE-2019-15268', 'CVE-2019-15269']",2022-03-19T19:50Z
+3,cpe:2.3:o:cisco:firesight_management_center_3500_firmware:6.0.1:*:*:*:*:*:*:*,Cisco Firesight Management Center 3500 Firmware 6.0.1,['CVE-2018-0365'],2022-03-19T19:50Z
+4,cpe:2.3:o:cisco:firesight_management_center_3500_firmware:6.1.0:*:*:*:*:*:*:*,Cisco Firesight Management Center 3500 Firmware 6.1.0,['CVE-2018-0365'],2022-03-19T19:50Z
+5,cpe:2.3:o:cisco:firesight_management_center_3500_firmware:6.2.0:*:*:*:*:*:*:*,Cisco Firesight Management Center 3500 Firmware 6.2.0,['CVE-2018-0365'],2022-03-19T19:50Z
+6,cpe:2.3:o:cisco:firesight_management_center_3500_firmware:6.2.1:*:*:*:*:*:*:*,Cisco Firesight Management Center 3500 Firmware 6.2.1,['CVE-2018-0365'],2022-03-19T19:50Z
+7,cpe:2.3:o:cisco:firesight_management_center_3500_firmware:6.2.2:*:*:*:*:*:*:*,Cisco Firesight Management Center 3500 Firmware 6.2.2,['CVE-2018-0365'],2022-03-19T19:50Z
+8,cpe:2.3:o:cisco:firesight_management_center_3500_firmware:6.2.3:*:*:*:*:*:*:*,Cisco Firesight Management Center 3500 Firmware 6.2.3,['CVE-2018-0365'],2022-03-19T19:50Z
+9,cpe:2.3:o:cisco:firesight_management_center_3500_firmware:6.3.0:*:*:*:*:*:*:*,Cisco Firesight Management Center 3500 Firmware 6.3.0,"['CVE-2019-15268', 'CVE-2019-15269']",2022-03-19T19:50Z

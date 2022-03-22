@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bat_project:bat:0.2.3:*:*:*:*:rust:*:*,BAT Project BAT 0.2.3 for Rust,['CVE-2021-36753'],2022-03-19T06:31Z
+1,cpe:2.3:a:bat_project:bat:0.3.0:*:*:*:*:rust:*:*,BAT Project BAT 0.3.0 for Rust,['CVE-2021-36753'],2022-03-19T06:31Z
+2,cpe:2.3:a:bat_project:bat:0.4.0:*:*:*:*:rust:*:*,BAT Project BAT 0.4.0 for Rust,['CVE-2021-36753'],2022-03-19T06:31Z
+3,cpe:2.3:a:bat_project:bat:0.4.1:*:*:*:*:rust:*:*,BAT Project BAT 0.4.1 for Rust,['CVE-2021-36753'],2022-03-19T06:31Z
+4,cpe:2.3:a:bat_project:bat:0.5.0:*:*:*:*:rust:*:*,BAT Project BAT 0.5.0 for Rust,['CVE-2021-36753'],2022-03-19T06:31Z
+5,cpe:2.3:a:bat_project:bat:0.6.0:*:*:*:*:rust:*:*,BAT Project BAT 0.6.0 for Rust,['CVE-2021-36753'],2022-03-19T06:31Z
+6,cpe:2.3:a:bat_project:bat:0.6.1:*:*:*:*:rust:*:*,BAT Project BAT 0.6.1 for Rust,['CVE-2021-36753'],2022-03-19T06:31Z
+7,cpe:2.3:a:bat_project:bat:0.7.0:*:*:*:*:rust:*:*,BAT Project BAT 0.7.0 for Rust,['CVE-2021-36753'],2022-03-19T06:31Z
+8,cpe:2.3:a:bat_project:bat:0.7.1:*:*:*:*:rust:*:*,BAT Project BAT 0.7.1 for Rust,['CVE-2021-36753'],2022-03-19T06:31Z
+9,cpe:2.3:a:bat_project:bat:0.8.0:*:*:*:*:rust:*:*,BAT Project BAT 0.8.0 for Rust,['CVE-2021-36753'],2022-03-19T06:31Z

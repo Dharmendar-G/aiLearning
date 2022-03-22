@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:huge-it:image_gallery:1.0.1:*:*:*:*:wordpress:*:*,Huge-IT Image Gallery for WordPress 1.0.1,"['CVE-2014-7153', 'CVE-2016-11018']",2022-03-21T19:14Z
+1,cpe:2.3:a:huge-it:image_gallery:1.9.0:*:*:*:*:wordpress:*:*,Huge-IT Image Gallery 1.9.0 for WordPress,[''],2022-03-21T19:14Z
+2,[0],[0],[0],[0]
+3,cpe:2.3:a:huge-it:portfolio_gallery:1.0.6:*:*:*:*:joomla\!:*:*,Huge-IT Portfolio Gallery 1.0.6 for Joomla!,['CVE-2016-1000124'],2022-03-21T19:14Z
+4,cpe:2.3:a:huge-it:portfolio_gallery_manager:1.1.0:*:*:*:*:joomla\!:*:*,Huge-IT Portfolio Gallery Manager 1.1.5 for Joomla!,['CVE-2016-1000115'],2022-03-21T19:14Z
+5,cpe:2.3:a:huge-it:slider:1.0.9:*:*:*:*:joomla\!:*:*,huge-IT Slider for Joomla! 1.0.9,[''],2022-03-21T19:14Z
+6,cpe:2.3:a:huge-it:slideshow:1.0.4:*:*:*:*:joomla\!:*:*,huge-IT Slideshow 1.0.4 for Joomla!,['CVE-2016-1000118'],2022-03-21T19:14Z
+7,cpe:2.3:a:huge-it:video_gallery:1.0.9:*:*:*:*:joomla:*:*,Huge-IT Video Gallery 1.0.9 for Joomla!,['CVE-2016-1000123'],2022-03-21T19:14Z
+8,cpe:2.3:a:huge-it_catalog_project:huge-it_catalog:1.0.7:*:*:*:*:joomla:*:*,Huge-IT Catalog 1.0.7 for Joomla,[''],2022-03-21T19:14Z
+9,cpe:2.3:h:hughes:dw7000:-:*:*:*:*:*:*:*,Hughes DW7000,"['CVE-2016-9494', 'CVE-2016-9495', 'CVE-2016-9496', 'CVE-2016-9497']",2022-03-21T19:14Z

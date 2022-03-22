@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hedgedoc:hedgedoc:1.7.1:*:*:*:*:*:*:*,HedgeDoc 1.7.1,"['CVE-2021-21259', 'CVE-2021-29474', 'CVE-2021-29503', 'CVE-2021-39175']",2022-03-21T10:33Z
+1,cpe:2.3:a:hedgedoc:hedgedoc:1.7.2:*:*:*:*:*:*:*,HedgeDoc HedgeDoc 1.7.2,"['CVE-2021-29474', 'CVE-2021-29503', 'CVE-2021-39175']",2022-03-21T10:33Z
+2,cpe:2.3:a:hedgedoc:hedgedoc:1.8.0:-:*:*:*:*:*:*,HedgeDoc 1.8.0,"['CVE-2021-29503', 'CVE-2021-39175']",2022-03-21T10:33Z
+3,cpe:2.3:a:hedgedoc:hedgedoc:1.8.0:rc1:*:*:*:*:*:*,HedgeDoc 1.8.0 Release Candidate 1,"['CVE-2021-29503', 'CVE-2021-39175']",2022-03-21T10:33Z
+4,cpe:2.3:a:hedgedoc:hedgedoc:1.8.1:*:*:*:*:*:*:*,HedgeDoc 1.8.1,"['CVE-2021-29503', 'CVE-2021-39175']",2022-03-21T10:33Z
+5,cpe:2.3:a:hedgedoc:hedgedoc:1.8.2:*:*:*:*:*:*:*,HedgeDoc 1.8.2,['CVE-2021-39175'],2022-03-21T10:33Z
+6,cpe:2.3:a:heidelberg:prinect_archiver:2013:1.0:*:*:*:*:*:*,Heidelberg Prinect Archiver 2013 1.0,['CVE-2019-10685'],2022-03-21T10:33Z
+7,cpe:2.3:a:heikki_hokkanen:viewgit:0.0.1:*:*:*:*:*:*:*,Heikki Hokkanen ViewGit 0.0.1,['CVE-2012-5314'],2022-03-21T10:33Z
+8,cpe:2.3:a:heikki_hokkanen:viewgit:0.0.2:*:*:*:*:*:*:*,Heikki Hokkanen ViewGit 0.0.2,['CVE-2012-5314'],2022-03-21T10:33Z
+9,cpe:2.3:a:heikki_hokkanen:viewgit:0.0.3:*:*:*:*:*:*:*,Heikki Hokkanen ViewGit 0.0.3,['CVE-2012-5314'],2022-03-21T10:33Z

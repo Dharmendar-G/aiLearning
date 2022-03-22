@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:bsafe_cert-j:6.1:*:*:*:*:*:*:*,Dell BSAFE Cert-J 6.1,"['CVE-2019-3738', 'CVE-2019-3739', 'CVE-2019-3740']",2022-03-20T12:12Z
+1,cpe:2.3:a:dell:bsafe_cert-j:6.2:*:*:*:*:*:*:*,Dell BSAFE Cert-J 6.2,"['CVE-2019-3738', 'CVE-2019-3739', 'CVE-2019-3740']",2022-03-20T12:12Z
+2,cpe:2.3:a:dell:bsafe_cert-j:6.2.1:*:*:*:*:*:*:*,Dell BSAFE Cert-J 6.2.1,"['CVE-2019-3738', 'CVE-2019-3739', 'CVE-2019-3740']",2022-03-20T12:12Z
+3,cpe:2.3:a:dell:bsafe_cert-j:6.2.4:*:*:*:*:*:*:*,Dell BSAFE Cert-J 6.2.4,"['CVE-2019-3738', 'CVE-2019-3739', 'CVE-2019-3740']",2022-03-20T12:12Z
+4,cpe:2.3:a:dell:bsafe_crypto-c:-:*:*:*:*:*:*:*,Dell BSAFE Crypto-C,['CVE-2006-3894'],2022-03-20T12:12Z
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,[0],[0],[0],[0]
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:awstats:awstats:7.5:*:*:*:*:*:*:*,AWStats 7.5,"['CVE-2017-1000501', 'CVE-2018-10245', 'CVE-2020-29600', 'CVE-2020-35176']",2022-03-19T04:38Z
+1,cpe:2.3:a:awstats:awstats:7.6:*:*:*:*:*:*:*,AWStats 7.6,"['CVE-2017-1000501', 'CVE-2018-10245', 'CVE-2020-29600', 'CVE-2020-35176']",2022-03-19T04:38Z
+2,cpe:2.3:a:awstats:awstats:7.7:*:*:*:*:*:*:*,AWStats 7.7,"['CVE-2020-29600', 'CVE-2020-35176']",2022-03-19T04:38Z
+3,cpe:2.3:a:awstats:awstats:7.8:*:*:*:*:*:*:*,AWStats 7.8,['CVE-2020-35176'],2022-03-19T04:38Z
+4,cpe:2.3:a:axcient:replibit:-:*:*:*:*:*:*:*,Axcient Replibit,['CVE-2017-13707'],2022-03-19T04:38Z
+5,cpe:2.3:a:axcient:replibit:2017.05.11:*:*:*:*:*:*:*,Axcient Replibit 2017.05.11,['CVE-2017-13707'],2022-03-19T04:38Z
+6,cpe:2.3:a:axcient:replibit:2017.08.04:*:*:*:*:*:*:*,Axcient Replibit 2017.08.04,[''],2022-03-19T04:38Z
+7,cpe:2.3:a:axcient:replibit:2017.08.07:*:*:*:*:*:*:*,Axcient Replibit 2017.08.07,[''],2022-03-19T04:38Z
+8,cpe:2.3:a:axel_jung:js_css_optimizer:0.0.1:*:*:*:*:*:*:*,Axel Jung  js_css_optimizer 0.0.1 for TYPO3,['CVE-2013-5570'],2022-03-19T04:38Z
+9,cpe:2.3:a:axel_jung:js_css_optimizer:0.1.0:*:*:*:*:*:*:*,Axel Jung  js_css_optimizer 0.1.0 for TYPO3,['CVE-2013-5570'],2022-03-19T04:38Z

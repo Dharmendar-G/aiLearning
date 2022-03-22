@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:db2:9.8.0.1:*:*:*:workgroup:*:*:*,IBM DB2 9.8.0.1 Workgroup,"['CVE-2007-5090', 'CVE-2012-3324', 'CVE-2016-0211']",2022-03-21T20:16Z
+1,cpe:2.3:a:ibm:db2:9.8.0.2:*:*:*:enterprise:*:*:*,IBM DB2 9.8.0.2 Enterprise,"['CVE-2007-5090', 'CVE-2012-3324', 'CVE-2016-0211']",2022-03-21T20:16Z
+2,cpe:2.3:a:ibm:db2:9.8.0.2:*:*:*:advanced_enterprise:*:*:*,IBM DB2 9.8.0.2 Advanced Enterprise,"['CVE-2007-5090', 'CVE-2012-3324', 'CVE-2016-0211']",2022-03-21T20:16Z
+3,cpe:2.3:a:ibm:db2:9.8.0.2:*:*:*:advanced_workgroup:*:*:*,IBM DB2 9.8.0.2 Advanced Workgroup,"['CVE-2007-5090', 'CVE-2012-3324', 'CVE-2016-0211']",2022-03-21T20:16Z
+4,cpe:2.3:a:ibm:db2:9.8.0.2:*:*:*:enterprise:*:*:*,IBM DB2 9.8.0.2 Enterprise,"['CVE-2007-5090', 'CVE-2012-3324', 'CVE-2016-0211']",2022-03-21T20:16Z
+5,cpe:2.3:a:ibm:db2:9.8.0.2:*:*:*:express:*:*:*,IBM DB2 9.8.0.2 Express,"['CVE-2007-5090', 'CVE-2012-3324', 'CVE-2016-0211']",2022-03-21T20:16Z
+6,cpe:2.3:a:ibm:db2:9.8.0.2:*:*:*:workgroup:*:*:*,IBM DB2 9.8.0.2 Workgroup,"['CVE-2007-5090', 'CVE-2012-3324', 'CVE-2016-0211']",2022-03-21T20:16Z
+7,cpe:2.3:a:ibm:db2:9.8.0.3:*:*:*:*:*:*:*,IBM DB2 9.8.0.3 (Fix Pack 3),"['CVE-2007-5090', 'CVE-2012-2180', 'CVE-2012-2194', 'CVE-2012-2196', 'CVE-2012-2197', 'CVE-2012-3324', 'CVE-2013-6717', 'CVE-2014-3094', 'CVE-2014-3095', 'CVE-2016-0211']",2022-03-21T20:17Z
+8,cpe:2.3:a:ibm:db2:9.8.0.3:*:*:*:advanced_enterprise:*:*:*,IBM DB2 9.8.0.3 Advanced Enterprise,"['CVE-2007-5090', 'CVE-2012-2180', 'CVE-2012-2194', 'CVE-2012-2196', 'CVE-2012-2197', 'CVE-2012-3324', 'CVE-2013-6717', 'CVE-2014-3094', 'CVE-2014-3095', 'CVE-2016-0211']",2022-03-21T20:17Z
+9,cpe:2.3:a:ibm:db2:9.8.0.3:*:*:*:advanced_workgroup:*:*:*,IBM DB2 9.8.0.3 Advanced Workgroup,"['CVE-2007-5090', 'CVE-2012-2180', 'CVE-2012-2194', 'CVE-2012-2196', 'CVE-2012-2197', 'CVE-2012-3324', 'CVE-2013-6717', 'CVE-2014-3094', 'CVE-2014-3095', 'CVE-2016-0211']",2022-03-21T20:17Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:caucho:resin:4.0.9:*:*:*:*:*:*:*,Caucho Technology Resin 4.0.9,"['CVE-2010-2087', 'CVE-2012-2965', 'CVE-2012-2966', 'CVE-2012-2967', 'CVE-2012-2968', 'CVE-2012-2969']",2022-03-19T15:47Z
+1,cpe:2.3:a:caucho:resin:4.0.10:*:*:*:*:*:*:*,Caucho Technology Resin 4.0.10,"['CVE-2010-2087', 'CVE-2012-2965', 'CVE-2012-2966', 'CVE-2012-2967', 'CVE-2012-2968', 'CVE-2012-2969']",2022-03-19T15:47Z
+2,cpe:2.3:a:caucho:resin:4.0.11:*:*:*:*:*:*:*,Caucho Technology Resin 4.0.11,"['CVE-2010-2087', 'CVE-2012-2965', 'CVE-2012-2966', 'CVE-2012-2967', 'CVE-2012-2968', 'CVE-2012-2969']",2022-03-19T15:47Z
+3,cpe:2.3:a:caucho:resin:4.0.12:*:*:*:*:*:*:*,Caucho Technology Resin 4.0.12,"['CVE-2010-2087', 'CVE-2012-2965', 'CVE-2012-2966', 'CVE-2012-2967', 'CVE-2012-2968', 'CVE-2012-2969']",2022-03-19T15:47Z
+4,cpe:2.3:a:caucho:resin:4.0.13:*:*:*:*:*:*:*,Caucho Technology Resin 4.0.13,"['CVE-2010-2087', 'CVE-2012-2965', 'CVE-2012-2966', 'CVE-2012-2967', 'CVE-2012-2968', 'CVE-2012-2969']",2022-03-19T15:47Z
+5,cpe:2.3:a:caucho:resin:4.0.14:*:*:*:*:*:*:*,Caucho Technology Resin 4.0.14,"['CVE-2010-2087', 'CVE-2012-2965', 'CVE-2012-2966', 'CVE-2012-2967', 'CVE-2012-2968', 'CVE-2012-2969']",2022-03-19T15:47Z
+6,cpe:2.3:a:caucho:resin:4.0.15:*:*:*:*:*:*:*,Caucho Technology Resin 4.0.15,"['CVE-2010-2087', 'CVE-2012-2965', 'CVE-2012-2966', 'CVE-2012-2967', 'CVE-2012-2968', 'CVE-2012-2969']",2022-03-19T15:47Z
+7,cpe:2.3:a:caucho:resin:4.0.16:*:*:*:*:*:*:*,Caucho Technology Resin 4.0.16,"['CVE-2010-2087', 'CVE-2012-2965', 'CVE-2012-2966', 'CVE-2012-2967', 'CVE-2012-2968', 'CVE-2012-2969']",2022-03-19T15:47Z
+8,cpe:2.3:a:caucho:resin:4.0.17:*:*:*:*:*:*:*,Caucho Technology Resin 4.0.17,"['CVE-2010-2087', 'CVE-2012-2965', 'CVE-2012-2966', 'CVE-2012-2967', 'CVE-2012-2968', 'CVE-2012-2969']",2022-03-19T15:47Z
+9,cpe:2.3:a:caucho:resin:4.0.18:*:*:*:*:*:*:*,Caucho Technology Resin 4.0.18,"['CVE-2010-2087', 'CVE-2012-2965', 'CVE-2012-2966', 'CVE-2012-2967', 'CVE-2012-2968', 'CVE-2012-2969']",2022-03-19T15:47Z

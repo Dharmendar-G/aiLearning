@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cncf:portmap:0.6.0:rc2:*:*:*:container_networking_interface:*:*,CNCF Portmap 0.6.0 Release Candidate 2 for Container Networking Interface (CNI),['CVE-2019-9946'],2022-03-20T04:34Z
+1,cpe:2.3:a:cncf:portmap:0.7.0:-:*:*:*:container_networking_interface:*:*,CNCF Portmap 0.7.0 - for Container Networking Interface (CNI),['CVE-2019-9946'],2022-03-20T04:34Z
+2,cpe:2.3:a:cncf:portmap:0.7.0:rc1:*:*:*:container_networking_interface:*:*,CNCF Portmap 0.7.0 Release Candidate 1 for Container Networking Interface (CNI),['CVE-2019-9946'],2022-03-20T04:34Z
+3,cpe:2.3:a:cncf:portmap:0.7.0:rc2:*:*:*:container_networking_interface:*:*,CNCF Portmap 0.7.0 Release Candidate 2 for Container Networking Interface (CNI),['CVE-2019-9946'],2022-03-20T04:35Z
+4,cpe:2.3:a:cncf:portmap:0.7.1:*:*:*:*:container_networking_interface:*:*,CNCF Portmap 0.7.1 for Container Networking Interface (CNI),['CVE-2019-9946'],2022-03-20T04:35Z
+5,cpe:2.3:a:cncf:portmap:0.7.2:*:*:*:*:container_networking_interface:*:*,CNCF Portmap 0.7.2 for Container Networking Interface (CNI),['CVE-2019-9946'],2022-03-20T04:35Z
+6,cpe:2.3:a:cncf:portmap:0.7.3:*:*:*:*:container_networking_interface:*:*,CNCF Portmap 0.7.3 for Container Networking Interface (CNI),['CVE-2019-9946'],2022-03-20T04:35Z
+7,cpe:2.3:a:cncf:portmap:0.7.4:*:*:*:*:container_networking_interface:*:*,CNCF Portmap 0.7.4 for Container Networking Interface (CNI),['CVE-2019-9946'],2022-03-20T04:35Z
+8,cpe:2.3:a:cncf:portmap:0.7.5:*:*:*:*:container_networking_interface:*:*,CNCF Portmap 0.7.5 for Container Networking Interface (CNI),[''],2022-03-20T04:35Z
+9,cpe:2.3:a:cncf:spire:-:*:*:*:*:*:*:*,Cloud Native Computing Foundation SPIRE,['CVE-2021-27099'],2022-03-20T04:35Z

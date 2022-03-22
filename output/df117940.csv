@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:content_services_gateway:-:*:*:*:*:*:*:*,Cisco Content Services Gateway (CSG),['CVE-2013-5552'],2022-03-19T19:16Z
+1,cpe:2.3:h:cisco:content_services_switch_11000:-:*:*:*:*:*:*:*,Cisco Content Service 11000,"['CVE-2001-0621', 'CVE-2001-0622', 'CVE-2002-0792', 'CVE-2002-0870', 'CVE-2003-1132', 'CVE-2004-0352', 'CVE-2005-0356', 'CVE-2006-4352', 'CVE-2007-4654']",2022-03-19T19:16Z
+2,cpe:2.3:h:cisco:content_services_switch_11050:-:*:*:*:*:*:*:*,Cisco Cisco Content Services 11050,"['CVE-2001-0412', 'CVE-2004-0352', 'CVE-2005-0356']",2022-03-19T19:16Z
+3,cpe:2.3:h:cisco:content_services_switch_11150:-:*:*:*:*:*:*:*,Cisco Cisco Content Services 11150,"['CVE-2001-0412', 'CVE-2004-0352', 'CVE-2005-0356']",2022-03-19T19:16Z
+4,cpe:2.3:h:cisco:content_services_switch_11500:-:*:*:*:*:*:*:*,Cisco Content Service Switch 11500,"['CVE-2003-1132', 'CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112', 'CVE-2005-0356', 'CVE-2005-3426', 'CVE-2006-1631', 'CVE-2010-1576', 'CVE-2010-2629', 'CVE-2015-0667']",2022-03-19T19:16Z
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,[0],[0],[0],[0]
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

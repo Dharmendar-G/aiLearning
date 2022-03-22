@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:deskjet_ink_advantage_5200_m2u76a_firmware:003.1925a:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 5200 M2U76A Firmware 003.1925A,[''],2022-03-21T13:15Z
+1,cpe:2.3:h:hp:deskjet_ink_advantage_5200_m2u78b:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 5200 M2U78B,['CVE-2019-6332'],2022-03-21T13:15Z
+2,cpe:2.3:o:hp:deskjet_ink_advantage_5200_m2u78b_firmware:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 5200 M2U78B Firmware,['CVE-2019-6332'],2022-03-21T13:15Z
+3,cpe:2.3:o:hp:deskjet_ink_advantage_5200_m2u78b_firmware:003.1925a:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 5200 M2U78B Firmware 003.1925A,[''],2022-03-21T13:15Z
+4,cpe:2.3:h:hp:deskjet_ink_advantage_ultra_5730_f5s60a:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage Ultra 5730 F5S60A,['CVE-2020-28419'],2022-03-21T13:15Z
+5,cpe:2.3:h:hp:deskjet_ink_advantage_ultra_5730_f5s61a:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage Ultra 5730 F5S61A,['CVE-2020-28419'],2022-03-21T13:15Z
+6,cpe:2.3:h:hp:deskjet_plus_4100_3xv13a:-:*:*:*:*:*:*:*,HP DeskJet Plus 4100 3XV13A,['CVE-2020-28419'],2022-03-21T13:15Z
+7,cpe:2.3:h:hp:deskjet_plus_4100_3xv14b:-:*:*:*:*:*:*:*,HP DeskJet Plus 4100 3XV14B,['CVE-2020-28419'],2022-03-21T13:15Z
+8,cpe:2.3:h:hp:deskjet_plus_4100_3xv14c:-:*:*:*:*:*:*:*,HP DeskJet Plus 4100 3XV14C,['CVE-2020-28419'],2022-03-21T13:15Z
+9,cpe:2.3:h:hp:deskjet_plus_4100_3xv15a:-:*:*:*:*:*:*:*,HP DeskJet Plus 4100 3XV15A,['CVE-2020-28419'],2022-03-21T13:15Z

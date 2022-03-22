@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:camera_raw:3.5:*:*:*:*:*:*:*,Adobe Camera Raw plug-in 3.5,"['CVE-2012-5679', 'CVE-2012-5680']",2022-03-18T12:22Z
+1,cpe:2.3:a:adobe:camera_raw:3.6:*:*:*:*:*:*:*,Adobe Camera Raw plug-in 3.6,"['CVE-2012-5679', 'CVE-2012-5680']",2022-03-18T12:22Z
+2,cpe:2.3:a:adobe:camera_raw:3.7:*:*:*:*:*:*:*,Adobe Camera Raw plug-in 3.7,"['CVE-2012-5679', 'CVE-2012-5680']",2022-03-18T12:22Z
+3,cpe:2.3:a:adobe:camera_raw:4.0:*:*:*:*:*:*:*,Adobe Camera Raw plug-in 4.0,"['CVE-2012-5679', 'CVE-2012-5680']",2022-03-18T12:22Z
+4,cpe:2.3:a:adobe:camera_raw:4.1:*:*:*:*:*:*:*,Adobe Camera Raw plug-in 4.1,"['CVE-2012-5679', 'CVE-2012-5680']",2022-03-18T12:22Z
+5,cpe:2.3:a:adobe:camera_raw:4.2:*:*:*:*:*:*:*,Adobe Camera Raw plug-in 4.2,"['CVE-2012-5679', 'CVE-2012-5680']",2022-03-18T12:22Z
+6,cpe:2.3:a:adobe:camera_raw:4.3.1:*:*:*:*:*:*:*,Adobe Camera Raw plug-in 4.3.1,"['CVE-2012-5679', 'CVE-2012-5680']",2022-03-18T12:23Z
+7,cpe:2.3:a:adobe:camera_raw:4.4.1:*:*:*:*:*:*:*,Adobe Camera Raw plug-in 4.4.1,"['CVE-2012-5679', 'CVE-2012-5680']",2022-03-18T12:22Z
+8,cpe:2.3:a:adobe:camera_raw:4.5:*:*:*:*:*:*:*,Adobe Camera Raw plug-in 4.5,"['CVE-2012-5679', 'CVE-2012-5680']",2022-03-18T12:23Z
+9,cpe:2.3:a:adobe:camera_raw:4.6:*:*:*:*:*:*:*,Adobe Camera Raw plug-in 4.6,"['CVE-2012-5679', 'CVE-2012-5680']",2022-03-18T12:23Z

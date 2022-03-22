@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:saml_single_sign_on:2.4.8:*:*:*:*:bitbucket:*:*,Atlassian SAML Single Sign On (SSO) 2.4.8 for Bitbucket,"['CVE-2019-13347', 'CVE-2021-37843']",2022-03-19T02:02Z
+1,cpe:2.3:a:atlassian:saml_single_sign_on:2.5.0:*:*:*:*:bitbucket:*:*,Atlassian SAML Single Sign On (SSO) 2.5.0 for Bitbucket,"['CVE-2019-13347', 'CVE-2021-37843']",2022-03-19T02:02Z
+2,cpe:2.3:a:atlassian:saml_single_sign_on:2.5.1:*:*:*:*:bamboo:*:*,Atlassian SAML Single Sign On (SSO) 2.5.1 for Bamboo,"['CVE-2019-13347', 'CVE-2021-37843']",2022-03-19T02:02Z
+3,cpe:2.3:a:atlassian:saml_single_sign_on:2.5.1:*:*:*:*:bitbucket:*:*,Atlassian SAML Single Sign On (SSO) 2.5.1 for Bitbucket,"['CVE-2019-13347', 'CVE-2021-37843']",2022-03-19T02:02Z
+4,cpe:2.3:a:atlassian:saml_single_sign_on:2.5.2:*:*:*:*:bamboo:*:*,Atlassian SAML Single Sign On (SSO) 2.5.2 for Bamboo,"['CVE-2019-13347', 'CVE-2021-37843']",2022-03-19T02:02Z
+5,cpe:2.3:a:atlassian:saml_single_sign_on:2.5.2:*:*:*:*:bitbucket:*:*,Atlassian SAML Single Sign On (SSO) 2.5.2 for Bitbucket,"['CVE-2019-13347', 'CVE-2021-37843']",2022-03-19T02:02Z
+6,cpe:2.3:a:atlassian:saml_single_sign_on:2.5.3:*:*:*:*:bitbucket:*:*,Atlassian SAML Single Sign On (SSO) 2.5.3 for Bitbucket,"['CVE-2019-13347', 'CVE-2021-37843']",2022-03-19T02:02Z
+7,cpe:2.3:a:atlassian:saml_single_sign_on:2.5.4:*:*:*:*:bamboo:*:*,Atlassian SAML Single Sign On (SSO) 2.5.4 for Bamboo,"['CVE-2019-13347', 'CVE-2021-37843']",2022-03-19T02:03Z
+8,cpe:2.3:a:atlassian:saml_single_sign_on:2.5.5:*:*:*:*:bamboo:*:*,Atlassian SAML Single Sign On (SSO) 2.5.5 for Bamboo,"['CVE-2019-13347', 'CVE-2021-37843']",2022-03-19T02:03Z
+9,cpe:2.3:a:atlassian:saml_single_sign_on:2.5.6:*:*:*:*:bamboo:*:*,Atlassian SAML Single Sign On (SSO) 2.5.6 for Bamboo,"['CVE-2019-13347', 'CVE-2021-37843']",2022-03-19T02:03Z

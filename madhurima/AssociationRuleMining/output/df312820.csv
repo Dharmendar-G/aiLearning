@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitachi:ucosminexus_developer:6.7:-:standard:*:*:*:*:*,Hitachi uCosminexus Developer 6.7 Standard Edition,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:23Z
+1,cpe:2.3:a:hitachi:ucosminexus_developer:7:-:light:*:*:*:*:*,Hitachi uCosminexus Developer 7 Light,"['CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:23Z
+2,cpe:2.3:a:hitachi:ucosminexus_developer:7:-:pro:*:*:*:*:*,Hitachi uCosminexus Developer 7 Professional,['CVE-2009-4776'],2022-03-21T11:23Z
+3,cpe:2.3:a:hitachi:ucosminexus_developer:7:-:standard:*:*:*:*:*,Hitachi uCosminexus Developer 7 Standard Edition,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:23Z
+4,cpe:2.3:a:hitachi:ucosminexus_developer:07-00:-:pro:*:*:*:*:*,Hitachi uCosminexus Developer 07-00 Professional,['CVE-2009-4776'],2022-03-21T11:23Z
+5,cpe:2.3:a:hitachi:ucosminexus_developer:07-00:-:standard:*:*:*:*:*,Hitachi uCosminexus Developer 07-00 Standard Edition,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:23Z
+6,cpe:2.3:a:hitachi:ucosminexus_developer:07-00-05:-:pro:*:*:*:*:*,Hitachi uCosminexus Developer 07-00-05 Professional,[''],2022-03-21T11:23Z
+7,cpe:2.3:a:hitachi:ucosminexus_developer:07-00-05:-:standard:*:*:*:*:*,Hitachi uCosminexus Developer 07-00-05 Standard Edition,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:24Z
+8,cpe:2.3:a:hitachi:ucosminexus_developer:07-00-06:-:pro:*:*:*:*:*,Hitachi uCosminexus Developer 07-00-06 Professional,[''],2022-03-21T11:24Z
+9,cpe:2.3:a:hitachi:ucosminexus_developer:07-00-06:-:standard:*:*:*:*:*,Hitachi uCosminexus Developer 07-00-06 Standard Edition,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:24Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:coder:code-server:3.7.3:*:*:*:*:*:*:*,Coder code-server 3.7.3,['CVE-2021-3810'],2022-03-20T05:59Z
+1,cpe:2.3:a:coder:code-server:3.7.4:*:*:*:*:*:*:*,Coder code-server 3.7.4,['CVE-2021-3810'],2022-03-20T05:59Z
+2,cpe:2.3:a:coder:code-server:3.8.0:*:*:*:*:*:*:*,Coder code-server 3.8.0,['CVE-2021-3810'],2022-03-20T05:59Z
+3,cpe:2.3:a:coder:code-server:3.8.1:*:*:*:*:*:*:*,Coder code-server 3.8.1,['CVE-2021-3810'],2022-03-20T05:59Z
+4,cpe:2.3:a:coder:code-server:3.9.0:*:*:*:*:*:*:*,Coder code-server 3.9.0,['CVE-2021-3810'],2022-03-20T05:59Z
+5,cpe:2.3:a:coder:code-server:3.9.1:*:*:*:*:*:*:*,Coder code-server 3.9.1,['CVE-2021-3810'],2022-03-20T05:59Z
+6,cpe:2.3:a:coder:code-server:3.9.2:*:*:*:*:*:*:*,Coder code-server 3.9.2,['CVE-2021-3810'],2022-03-20T05:59Z
+7,cpe:2.3:a:coder:code-server:3.9.3:*:*:*:*:*:*:*,Coder code-server 3.9.3,['CVE-2021-3810'],2022-03-20T05:59Z
+8,cpe:2.3:a:coder:code-server:3.10.0:*:*:*:*:*:*:*,Coder code-server 3.10.0,['CVE-2021-3810'],2022-03-20T05:59Z
+9,cpe:2.3:a:coder:code-server:3.10.1:*:*:*:*:*:*:*,Coder code-server 3.10.1,['CVE-2021-3810'],2022-03-20T05:59Z

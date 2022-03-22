@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blamer_project:blamer:0.1.13:*:*:*:*:node.js:*:*,Blamer Project Blamer 0.1.13 for Node.js,"['CVE-2019-10807', 'CVE-2020-8137']",2022-03-19T08:40Z
+1,cpe:2.3:a:blamer_project:blamer:1.0.1:*:*:*:*:node.js:*:*,Blamer Project Blamer 1.0.1 for Node.js,[''],2022-03-19T08:40Z
+2,cpe:2.3:a:blender:blender:2.78c:*:*:*:*:*:*:*,Blender 2.78c,"['CVE-2008-1103', 'CVE-2017-12081', 'CVE-2017-12082', 'CVE-2017-12086', 'CVE-2017-12099', 'CVE-2017-12100', 'CVE-2017-12101', 'CVE-2017-12102', 'CVE-2017-12103', 'CVE-2017-12104', 'CVE-2017-12105', 'CVE-2017-2899', 'CVE-2017-2900', 'CVE-2017-2901', 'CVE-2017-2902', 'CVE-2017-2903', 'CVE-2017-2904', 'CVE-2017-2905', 'CVE-2017-2906', 'CVE-2017-2907', 'CVE-2017-2908', 'CVE-2017-2918', 'CVE-2022-0544', 'CVE-2022-0545']",2022-03-19T08:40Z
+3,cpe:2.3:a:blessing_premium_responsive_project:blessing_premium_responsive:-:*:*:*:*:wordpress:*:*,Blessing Premium Responsive Project Blessing Premium Responsive - for WordPress,['CVE-2015-9491'],2022-03-19T08:40Z
+4,cpe:2.3:a:blessing_premium_responsive_project:blessing_premium_responsive:2015-05-15:*:*:*:*:wordpress:*:*,Blessing Premium Responsive Project Blessing Premium Responsive 2015-05-15 for WordPress,['CVE-2015-9491'],2022-03-19T08:40Z
+5,cpe:2.3:a:blftech:visualview_hmi:9.9.14.0:*:*:*:*:*:*:*,BLF-Tech LLC VisualView HMI 9.9.14.0,['CVE-2017-6051'],2022-03-19T08:40Z
+6,cpe:2.3:a:blinger:blinger:1.0.0219:*:*:*:*:*:*:*,Blinger 1.0.0219,[''],2022-03-19T08:40Z
+7,cpe:2.3:a:blinger:blinger:1.0.0319:*:*:*:*:*:*:*,Blinger 1.0.0319,[''],2022-03-19T08:40Z
+8,cpe:2.3:a:blinger:blinger:1.0.0419:*:*:*:*:*:*:*,Blinger 1.0.0419,[''],2022-03-19T08:40Z
+9,cpe:2.3:a:blinger:blinger:1.0.0919:*:*:*:*:*:*:*,Blinger 1.0.0919,[''],2022-03-19T08:40Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:audiocodes:420hd_ip_phone_firmware:2.2.12.126:*:*:*:*:*:*:*,AudioCodes 420HD IP Phone Firmware 2.2.12.126,"['CVE-2018-10091', 'CVE-2018-10093']",2022-03-19T02:29Z
+1,cpe:2.3:o:audiocodes:420hd_ip_phone_firmware:3.0.0.535.106:*:*:*:*:*:*:*,Audiocodes 420HD IP Phone Firmware 3.0.0.535.106,['CVE-2018-5757'],2022-03-19T02:29Z
+2,cpe:2.3:h:audiocodes:440hd:-:*:*:*:*:*:*:*,AudioCodes 440HD,['CVE-2018-18567'],2022-03-19T02:29Z
+3,cpe:2.3:h:audiocodes:450hd:-:*:*:*:*:*:*:*,AudioCodes 450HD,['CVE-2018-18567'],2022-03-19T02:29Z
+4,cpe:2.3:o:audiocodes:median_500l-msbr_firmware:f7.20a:*:*:*:*:*:*:*,AudioCodes Median 500l-MSBR Firmware F7.20a,"['CVE-2019-9228', 'CVE-2019-9229']",2022-03-19T02:29Z
+5,cpe:2.3:o:audiocodes:median_500l-msbr_firmware:f7.20a.251:*:*:*:*:*:*:*,AudioCodes Median 500l-MSBR Firmware F7.20a.251,"['CVE-2019-9228', 'CVE-2019-9229']",2022-03-19T02:29Z
+6,cpe:2.3:o:audiocodes:median_500l-msbr_firmware:f7.20a.252.062:*:*:*:*:*:*:*,AudioCodes Median 500L-MSBR Firmware F7.20a.252.062,['CVE-2019-9228'],2022-03-19T02:29Z
+7,cpe:2.3:o:audiocodes:median_500-msbr_firmware:f7.20a:*:*:*:*:*:*:*,AudioCodes Median 500-MSBR Firmware F7.20a,"['CVE-2019-9228', 'CVE-2019-9229']",2022-03-19T02:29Z
+8,cpe:2.3:o:audiocodes:median_500-msbr_firmware:f7.20a.251:*:*:*:*:*:*:*,AudioCodes Median 500-MSBR Firmware F7.20a.251,"['CVE-2019-9228', 'CVE-2019-9229']",2022-03-19T02:29Z
+9,cpe:2.3:o:audiocodes:median_500-msbr_firmware:f7.20a.252.062:*:*:*:*:*:*:*,AudioCodes Median 500-MSBR Firmware F7.20a.252.062,['CVE-2019-9228'],2022-03-19T02:29Z

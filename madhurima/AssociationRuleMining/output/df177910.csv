@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:decred:dcrd:1.5.0:-:*:*:*:*:*:*,Decred dcrd 1.5.0,['CVE-2018-17145'],2022-03-20T12:01Z
+1,cpe:2.3:a:decred:dcrd:1.5.0:rc1:*:*:*:*:*:*,Decred dcrd 1.5.0 Release Candidate 1,['CVE-2018-17145'],2022-03-20T12:01Z
+2,cpe:2.3:a:decred:dcrd:1.5.0:rc2:*:*:*:*:*:*,Decred dcrd 1.5.0 Release Candidate 2,['CVE-2018-17145'],2022-03-20T12:01Z
+3,cpe:2.3:a:decred:dcrd:1.5.1:-:*:*:*:*:*:*,Decred dcrd 1.5.1,['CVE-2018-17145'],2022-03-20T12:01Z
+4,cpe:2.3:a:decred:dcrd:1.5.1:rc1:*:*:*:*:*:*,Decred dcrd 1.5.1 Release Candidate 1,['CVE-2018-17145'],2022-03-20T12:01Z
+5,cpe:2.3:a:decred:dcrd:1.5.2:*:*:*:*:*:*:*,Decred dcrd 1.5.2,[''],2022-03-20T12:01Z
+6,cpe:2.3:a:dectoken_project:dectoken:-:*:*:*:*:*:*:*,DECToken project DECToken,['CVE-2018-13587'],2022-03-20T12:01Z
+7,cpe:2.3:a:dedecms:dedecms:5.5:*:*:*:*:*:*:*,DedeCMS 5.5,"['CVE-2010-1097', 'CVE-2015-4553', 'CVE-2017-17727', 'CVE-2017-17730', 'CVE-2017-17731', 'CVE-2018-12045', 'CVE-2018-12046', 'CVE-2019-8362']",2022-03-20T12:01Z
+8,cpe:2.3:a:dedecms:dedecms:5.6:*:*:*:*:*:*:*,DedeCMS 5.6,"['CVE-2011-5200', 'CVE-2015-4553', 'CVE-2017-17727', 'CVE-2017-17730', 'CVE-2017-17731', 'CVE-2018-12045', 'CVE-2018-12046', 'CVE-2019-8362']",2022-03-20T12:01Z
+9,cpe:2.3:a:dedecms:dedecms:5.7:-:*:*:*:*:*:*,DedeCMS 5.7,"['CVE-2015-4553', 'CVE-2017-17730', 'CVE-2017-17731', 'CVE-2018-12045', 'CVE-2018-12046', 'CVE-2018-6881', 'CVE-2018-6910', 'CVE-2018-7700', 'CVE-2018-9134', 'CVE-2018-9174', 'CVE-2018-9175', 'CVE-2019-8362', 'CVE-2020-22198']",2022-03-20T12:01Z

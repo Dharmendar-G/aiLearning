@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:belden:hirschmann_rs20-1600l2m2sdau:-:*:*:*:*:*:*:*,Belden Hirschmann RS20-1600L2M2SDAU,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+1,cpe:2.3:h:belden:hirschmann_rs20-1600l2s2sdau:-:*:*:*:*:*:*:*,Belden Hirschmann RS20-1600L2S2SDAU,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+2,cpe:2.3:h:belden:hirschmann_rs20-1600l2t1sdau:-:*:*:*:*:*:*:*,Belden Hirschmann RS20-1600L2T1SDAU,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+3,cpe:2.3:h:belden:hirschmann_rs20-1600m2m2sdau:-:*:*:*:*:*:*:*,Belden Hirschmann RS20-1600M2M2SDAU,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+4,cpe:2.3:h:belden:hirschmann_rs20-1600m2t1sdau:-:*:*:*:*:*:*:*,Belden Hirschmann RS20-1600M2T1SDAU,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+5,cpe:2.3:h:belden:hirschmann_rs20-1600s2m2sdau:-:*:*:*:*:*:*:*,Belden Hirschmann RS20-1600S2M2SDAU,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+6,cpe:2.3:h:belden:hirschmann_rs20-1600s2s2sdau:-:*:*:*:*:*:*:*,Belden Hirschmann RS20-1600S2S2SDAU,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+7,cpe:2.3:h:belden:hirschmann_rs20-1600s2t1sdau:-:*:*:*:*:*:*:*,Belden Hirschmann RS20-1600S2T1SDAU,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+8,cpe:2.3:h:belden:hirschmann_rsb20-0800m2m2saab:-:*:*:*:*:*:*:*,Belden Hirschmann RSB20-0800M2M2SAAB,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+9,cpe:2.3:h:belden:hirschmann_rsb20-0800m2m2saabe:-:*:*:*:*:*:*:*,Belden Hirschmann RSB20-0800M2M2SAABE,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z

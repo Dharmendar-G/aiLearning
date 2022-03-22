@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ave:dominaplus:1.10.35:*:*:*:*:*:*:*,AVE DOMINA plus 1.10.35,"['CVE-2020-21991', 'CVE-2020-21994', 'CVE-2020-21996']",2022-03-19T04:21Z
+1,cpe:2.3:a:ave:dominaplus:1.10.44:*:*:*:*:*:*:*,AVE DOMINA plus 1.10.44,"['CVE-2020-21991', 'CVE-2020-21994', 'CVE-2020-21996']",2022-03-19T04:21Z
+2,cpe:2.3:a:ave:dominaplus:1.10.45:*:*:*:*:*:*:*,AVE DOMINA plus 1.10.45,"['CVE-2020-21991', 'CVE-2020-21994', 'CVE-2020-21996']",2022-03-19T04:21Z
+3,cpe:2.3:a:ave:dominaplus:1.10.46:*:*:*:*:*:*:*,AVE DOMINA plus 1.10.46,"['CVE-2020-21991', 'CVE-2020-21994', 'CVE-2020-21996']",2022-03-19T04:21Z
+4,cpe:2.3:a:ave:dominaplus:1.10.49:*:*:*:*:*:*:*,AVE DOMINA plus 1.10.49,"['CVE-2020-21991', 'CVE-2020-21994', 'CVE-2020-21996']",2022-03-19T04:21Z
+5,cpe:2.3:a:ave:dominaplus:1.10.52:*:*:*:*:*:*:*,AVE DOMINA plus 1.10.52,"['CVE-2020-21991', 'CVE-2020-21994', 'CVE-2020-21996']",2022-03-19T04:21Z
+6,cpe:2.3:a:ave:dominaplus:1.10.52a:*:*:*:*:*:*:*,AVE DOMINA plus 1.10.52a,"['CVE-2020-21991', 'CVE-2020-21994', 'CVE-2020-21996']",2022-03-19T04:21Z
+7,cpe:2.3:a:ave:dominaplus:1.10.60:*:*:*:*:*:*:*,AVE DOMINA plus 1.10.60,"['CVE-2020-21991', 'CVE-2020-21994', 'CVE-2020-21996']",2022-03-19T04:21Z
+8,cpe:2.3:a:ave:dominaplus:1.10.62:*:*:*:*:*:*:*,AVE DOMINA plus 1.10.62,"['CVE-2020-21991', 'CVE-2020-21994', 'CVE-2020-21996']",2022-03-19T04:21Z
+9,cpe:2.3:a:ave:dominaplus:1.10.64:*:*:*:*:*:*:*,AVE DOMINA plus 1.10.64,"['CVE-2020-21991', 'CVE-2020-21994', 'CVE-2020-21996']",2022-03-19T04:21Z

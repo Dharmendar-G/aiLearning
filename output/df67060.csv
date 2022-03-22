@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ays-pro:image_slider:2.5.0:*:*:*:*:wordpress:*:*,AYS Pro Image Slider 2.5.0 for WordPress,[''],2022-03-19T05:05Z
+1,cpe:2.3:a:ays-pro:photo_gallery:1.0.1:*:*:*:*:wordpress:*:*,AYS Pro Photo Gallery 1.0.1 for WordPress,['CVE-2021-24462'],2022-03-19T05:05Z
+2,cpe:2.3:a:ays-pro:photo_gallery:1.1.0:*:*:*:*:wordpress:*:*,AYS Pro Photo Gallery 1.1.0 for WordPress,['CVE-2021-24462'],2022-03-19T05:05Z
+3,cpe:2.3:a:ays-pro:photo_gallery:2.1:*:*:*:*:wordpress:*:*,AYS Pro Photo Gallery 2.1 for WordPress,['CVE-2021-24462'],2022-03-19T05:05Z
+4,cpe:2.3:a:ays-pro:photo_gallery:3.0.0:*:*:*:*:wordpress:*:*,AYS Pro Photo Gallery 3.0.0 for WordPress,['CVE-2021-24462'],2022-03-19T05:05Z
+5,cpe:2.3:a:ays-pro:photo_gallery:3.0.1:*:*:*:*:wordpress:*:*,AYS Pro Photo Gallery 3.0.1 for WordPress,['CVE-2021-24462'],2022-03-19T05:05Z
+6,cpe:2.3:a:ays-pro:photo_gallery:3.0.2:*:*:*:*:wordpress:*:*,AYS Pro Photo Gallery 3.0.2 for WordPress,['CVE-2021-24462'],2022-03-19T05:05Z
+7,cpe:2.3:a:ays-pro:photo_gallery:3.0.3:*:*:*:*:wordpress:*:*,AYS Pro Photo Gallery 3.0.3 for WordPress,['CVE-2021-24462'],2022-03-19T05:05Z
+8,cpe:2.3:a:ays-pro:photo_gallery:3.0.4:*:*:*:*:wordpress:*:*,AYS Pro Photo Gallery 3.0.4 for WordPress,['CVE-2021-24462'],2022-03-19T05:05Z
+9,cpe:2.3:a:ays-pro:photo_gallery:3.0.5:*:*:*:*:wordpress:*:*,AYS Pro Photo Gallery 3.0.5 for WordPress,['CVE-2021-24462'],2022-03-19T05:05Z

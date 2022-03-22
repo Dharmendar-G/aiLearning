@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:sonic_primo_sdk:53.0.13.0:*:*:*:*:*:*:*,HP Sonic Primo SDK 53.0.13.0,[''],2022-03-21T16:06Z
+1,cpe:2.3:a:hp:sonic_primo_sdk:70.0.170.0:*:*:*:*:*:*:*,HP Sonic Primo SDK 70.0.170.0,[''],2022-03-21T16:06Z
+2,cpe:2.3:h:hp:spectre_x360:-:*:*:*:*:*:*:*,HP Spectre x360,"['CVE-2019-18618', 'CVE-2019-18619']",2022-03-21T16:06Z
+3,cpe:2.3:o:hp:spectre_x360_firmware:-:*:*:*:*:*:*:*,HP Spectre x360 Firmware,"['CVE-2019-18618', 'CVE-2019-18619']",2022-03-21T16:06Z
+4,cpe:2.3:o:hp:spectre_x360_firmware:5.5.26.1102:*:*:*:*:*:*:*,HP Spectre x360 Firmware 5.5.26.1102,[''],2022-03-21T16:06Z
+5,cpe:2.3:h:hp:sprout_pro:-:*:*:*:*:*:*:*,HP Sprout Pro,['CVE-2019-16284'],2022-03-21T16:06Z
+6,cpe:2.3:o:hp:sprout_pro_firmware:-:*:*:*:*:*:*:*,HP Sprout Pro Firmware,['CVE-2019-16284'],2022-03-21T16:06Z
+7,cpe:2.3:o:hp:sprout_pro_firmware:a0.14:*:*:*:*:*:*:*,HP Sprout Pro Firmware A0.14,[''],2022-03-21T16:06Z
+8,cpe:2.3:a:hp:ssl_http_server:-:*:*:*:*:*:*:*,HP ssl http server,[''],2022-03-21T16:06Z
+9,cpe:2.3:a:hp:status:53.0.13.0:*:*:*:*:*:*:*,HP Status 53.0.13.0,[''],2022-03-21T16:06Z

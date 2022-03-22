@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:hostscan_engine:3.1.06073:*:*:*:*:*:*:*,Cisco HostScan Engine 3.1.06073,['CVE-2016-6436'],2022-03-19T19:57Z
+1,cpe:2.3:a:cisco:hostscan_engine:3.1.14018:*:*:*:*:*:*:*,Cisco HostScan Engine 3.1.14018,['CVE-2016-6436'],2022-03-19T19:57Z
+2,cpe:2.3:a:cisco:hsrp:-:*:*:*:*:*:*:*,Cisco HSRP,['CVE-2001-0741'],2022-03-19T19:57Z
+3,cpe:2.3:h:cisco:hx220c_af_m5:-:*:*:*:*:*:*:*,Cisco HX220C AF M5,['CVE-2019-1857'],2022-03-19T19:57Z
+4,cpe:2.3:o:cisco:hx220c_af_m5_firmware:3.0\(1a\):*:*:*:*:*:*:*,Cisco HX220C AF M5 Firmware 3.0(1A),['CVE-2019-1857'],2022-03-19T19:57Z
+5,cpe:2.3:h:cisco:hx220c_all_nvme_m5:-:*:*:*:*:*:*:*,Cisco HX220C ALL NVME M5,['CVE-2019-1857'],2022-03-19T19:57Z
+6,cpe:2.3:o:cisco:hx220c_all_nvme_m5_firmware:3.0\(1a\):*:*:*:*:*:*:*,Cisco HX220C ALL NVME M5 Firmware 3.0(1A),['CVE-2019-1857'],2022-03-19T19:57Z
+7,cpe:2.3:h:cisco:hx220c_edge_m5:-:*:*:*:*:*:*:*,Cisco HX220C EDGE M5,['CVE-2019-1857'],2022-03-19T19:57Z
+8,cpe:2.3:o:cisco:hx220c_edge_m5_firmware:3.0\(1a\):*:*:*:*:*:*:*,Cisco HX220C EDGE M5 Firmware 3.0(1A),['CVE-2019-1857'],2022-03-19T19:57Z
+9,cpe:2.3:h:cisco:hx220c_m5:-:*:*:*:*:*:*:*,Cisco HX220C M5,['CVE-2019-1857'],2022-03-19T19:57Z

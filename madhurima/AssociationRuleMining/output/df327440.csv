@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:performance_center:12.01:p3:*:*:*:*:*:*,HP Performance Center 12.01 Patch 3,"['CVE-2015-6857', 'CVE-2016-4359', 'CVE-2016-4360', 'CVE-2016-4361', 'CVE-2016-4382', 'CVE-2017-5789', 'CVE-2017-8953']",2022-03-21T15:43Z
+1,cpe:2.3:a:hp:performance_center:12.20:p2:*:*:*:*:*:*,HP Performance Center 12.20 Patch 2,"['CVE-2015-6857', 'CVE-2016-4359', 'CVE-2016-4360', 'CVE-2016-4361', 'CVE-2016-4382', 'CVE-2016-4384', 'CVE-2017-14359', 'CVE-2017-5789', 'CVE-2017-8953']",2022-03-21T15:43Z
+2,cpe:2.3:a:hp:performance_center:12.50:p1:*:*:*:*:*:*,HP Performance Center 12.50 Patch 1,"['CVE-2015-6857', 'CVE-2016-4359', 'CVE-2016-4360', 'CVE-2016-4361', 'CVE-2016-4382', 'CVE-2017-5789', 'CVE-2017-8953']",2022-03-21T15:43Z
+3,cpe:2.3:a:hp:performance_core:10.50.90:*:*:*:*:*:*:*,HP Performance Core 10.50.90,[''],2022-03-21T15:44Z
+4,cpe:2.3:a:hp:performance_core:10.50.190:*:*:*:*:*:*:*,HP Performance Core 10.50.190,[''],2022-03-21T15:44Z
+5,cpe:2.3:a:hp:performance_core:10.50.225:*:*:*:*:*:*:*,HP Performance Core 10.50.225,[''],2022-03-21T15:44Z
+6,cpe:2.3:a:hp:performance_insight:5.0:*:*:*:*:*:*:*,HP Performance Insight 5.0,['CVE-2011-1536'],2022-03-21T15:44Z
+7,cpe:2.3:a:hp:performance_insight:5.1:*:*:*:*:*:*:*,HP Performance Insight 5.1,['CVE-2011-1536'],2022-03-21T15:44Z
+8,cpe:2.3:a:hp:performance_insight:5.1.1:*:*:*:*:*:*:*,HP Performance Insight 5.1.1,['CVE-2011-1536'],2022-03-21T15:44Z
+9,cpe:2.3:a:hp:performance_insight:5.1.2:*:*:*:*:*:*:*,HP Performance Insight 5.1.2,['CVE-2011-1536'],2022-03-21T15:44Z

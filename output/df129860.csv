@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:network_functions_virtualization_infrastructure:3.7.1:*:*:*:*:*:*:*,Cisco Network Functions Virtualization Infrastructure (NFVI) 3.7.1,"['CVE-2018-0323', 'CVE-2018-0324']",2022-03-19T23:04Z
+1,cpe:2.3:a:cisco:network_level_service:1.5\(0.128\):*:*:*:*:*:*:*,Cisco Network Level Service 1.5(0.128),['CVE-2018-0446'],2022-03-19T23:04Z
+2,cpe:2.3:a:cisco:network_level_service:1.6\(0.369\):*:*:*:*:*:*:*,Cisco Network Level Service 1.6(0.369),['CVE-2019-1976'],2022-03-19T23:04Z
+3,cpe:2.3:a:cisco:network_level_service:1.8\(0.142\):*:*:*:*:*:*:*,Cisco Network Level Service 1.8(0.142),['CVE-2020-3567'],2022-03-19T23:04Z
+4,cpe:2.3:a:cisco:network_level_service:1.9\(0.63\):*:*:*:*:*:*:*,Cisco Network Level Service 1.9(0.63),['CVE-2020-3567'],2022-03-19T23:04Z
+5,cpe:2.3:a:cisco:network_level_service:3.0\(0.0.83b\):*:*:*:*:*:*:*,Cisco Network Level Service 3.0(0.0.83B),"['CVE-2019-1821', 'CVE-2019-1823', 'CVE-2019-1825']",2022-03-19T23:04Z
+6,cpe:2.3:a:cisco:network_recording_player:2.3.1109:*:*:*:*:*:*:*,Cisco Network Recording Player 2.3.1109,[''],2022-03-19T23:04Z
+7,cpe:2.3:a:cisco:network_registrar:9.1\(2\):*:*:*:*:*:*:*,Cisco Network Registrar 9.1(2),['CVE-2019-1852'],2022-03-19T23:04Z
+8,cpe:2.3:a:cisco:network_services_manager:-:*:*:*:*:*:*:*,Cisco Network Services Manager,"['CVE-2013-1125', 'CVE-2013-1196']",2022-03-19T23:04Z
+9,cpe:2.3:a:cisco:network_services_orchestrator:1.2.0:*:*:*:*:*:*:*,Cisco Network Services Orchestrator 1.2.0,"['CVE-2018-0463', 'CVE-2020-3362', 'CVE-2021-44228']",2022-03-19T23:04Z

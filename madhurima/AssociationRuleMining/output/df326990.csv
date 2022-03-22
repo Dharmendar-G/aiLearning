@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:operations_orchestration:10.22.1:*:*:*:*:*:*:*,Hp Operations Orchestration 10.22.1,"['CVE-2016-1997', 'CVE-2017-8994']",2022-03-21T15:38Z
+1,cpe:2.3:a:hp:operations_orchestration:10.50:*:*:*:*:*:*:*,Hp Operations Orchestration 10.50,"['CVE-2016-1997', 'CVE-2017-8994']",2022-03-21T15:38Z
+2,cpe:2.3:a:hp:operations_orchestration:10.70:*:*:*:*:*:*:*,HP Operations Orchestration 10.70,['CVE-2017-8994'],2022-03-21T15:38Z
+3,cpe:2.3:a:hp:operations_orchestration_content:1.5.3:*:*:*:*:*:*:*,Hp Operations Orchestration Content 1.5.3,['CVE-2016-1997'],2022-03-21T15:38Z
+4,cpe:2.3:a:hp:oracle_for_openview:-:*:*:*:*:*:*:*,HP Oracle for OpenView,[''],2022-03-21T15:38Z
+5,cpe:2.3:a:hp:oracle_for_openview:8.1.7:*:*:*:*:*:*:*,HP Oracle for OpenView 8.1.7,"['CVE-2005-4654', 'CVE-2008-1666']",2022-03-21T15:38Z
+6,cpe:2.3:a:hp:oracle_for_openview:9.1.01:*:*:*:*:*:*:*,HP Oracle for OpenView 9.1.01,"['CVE-2005-4654', 'CVE-2008-1666']",2022-03-21T15:38Z
+7,cpe:2.3:a:hp:oracle_for_openview:9.2:*:*:*:*:*:*:*,HP Oracle for OpenView 9.2,"['CVE-2005-4654', 'CVE-2008-1666']",2022-03-21T15:38Z
+8,cpe:2.3:h:hp:p0r21a:-:*:*:*:*:*:*:*,HP P0R21A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T15:38Z
+9,cpe:2.3:o:hp:p0r21a_firmware:1829a:*:*:*:*:*:*:*,HP P0r21a Firmware 1829a,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T15:38Z

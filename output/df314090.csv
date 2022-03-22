@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:honeywell:h4w4per2_firmware:-:*:*:*:*:*:*:*,Honeywell H4W4PER2 Firmware,"['CVE-2019-18226', 'CVE-2019-18228']",2022-03-21T11:40Z
+1,cpe:2.3:h:honeywell:h4w4per3:-:*:*:*:*:*:*:*,Honeywell H4W4PER3,"['CVE-2019-18226', 'CVE-2019-18228']",2022-03-21T11:40Z
+2,cpe:2.3:o:honeywell:h4w4per3_firmware:-:*:*:*:*:*:*:*,Honeywell H4W4PER3 Firmware,"['CVE-2019-18226', 'CVE-2019-18228']",2022-03-21T11:40Z
+3,cpe:2.3:h:honeywell:h4w8pr2:-:*:*:*:*:*:*:*,Honeywell H4W8PR2,"['CVE-2019-13523', 'CVE-2019-18226', 'CVE-2019-18228']",2022-03-21T11:40Z
+4,cpe:2.3:o:honeywell:h4w8pr2_firmware:-:*:*:*:*:*:*:*,Honeywell H4W8PR2 Firmware,"['CVE-2019-13523', 'CVE-2019-18226', 'CVE-2019-18228']",2022-03-21T11:40Z
+5,cpe:2.3:h:honeywell:hbd2per1:-:*:*:*:*:*:*:*,Honeywell HBD2PER1,"['CVE-2019-18226', 'CVE-2019-18228']",2022-03-21T11:40Z
+6,cpe:2.3:o:honeywell:hbd2per1_firmware:-:*:*:*:*:*:*:*,Honeywell HBD2PER1 Firmware,"['CVE-2019-18226', 'CVE-2019-18228']",2022-03-21T11:40Z
+7,cpe:2.3:h:honeywell:hbd3pr1:-:*:*:*:*:*:*:*,Honeywell HBD3PR1,['CVE-2019-13523'],2022-03-21T11:40Z
+8,cpe:2.3:o:honeywell:hbd3pr1_firmware:-:*:*:*:*:*:*:*,Honeywell HBD3PR1 Firmware,['CVE-2019-13523'],2022-03-21T11:40Z
+9,cpe:2.3:h:honeywell:hbd3pr2:-:*:*:*:*:*:*:*,Honeywell HBD3PR2,['CVE-2019-13523'],2022-03-21T11:40Z

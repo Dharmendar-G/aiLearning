@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blackboard:blackboard_learn:9.1:q4_2016_cumulative_update4:*:*:*:*:*:*,Blackboard Learn 9.1 Q4 2016 Cumulative Update 4,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+1,cpe:2.3:a:blackboard:blackboard_learn:9.1:q4_2016_cumulative_update5:*:*:*:*:*:*,Blackboard Learn 9.1 Q4 2016 Cumulative Update 5,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+2,cpe:2.3:a:blackboard:blackboard_learn:9.1:q4_2016_cumulative_update6:*:*:*:*:*:*,Blackboard Learn 9.1 Q4 2016 Cumulative Update 6,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+3,cpe:2.3:a:blackboard:blackboard_learn:9.1:q4_2016_cumulative_update7:*:*:*:*:*:*,Blackboard Learn 9.1 Q4 2016 Cumulative Update 7,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+4,cpe:2.3:a:blackboard:blackboard_learn:9.1:q4_2017:*:*:*:*:*:*,Blackboard Learn 9.1 Q4 2017,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+5,cpe:2.3:a:blackboard:blackboard_learn:9.1:q4_2017_cumulative_update7:*:*:*:*:*:*,Blackboard Learn 9.1 Q4 2017 Cumulative Update 7,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+6,cpe:2.3:a:blackboard:blackboard_learn:9.1:q4_2017_cumulative_update8:*:*:*:*:*:*,Blackboard Learn 9.1 Q4 2017 Cumulative Update 8,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+7,cpe:2.3:a:blackboard:blackboard_learn:9.1:q4_2017_cumulative_update9:*:*:*:*:*:*,Blackboard Learn 9.1 Q4 2017 Cumulative Update 9,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+8,cpe:2.3:a:blackboard:blackboard_learn:9.1:q4_2018:*:*:*:*:*:*,Blackboard Blackboard Learn 9.1 Q4 2018,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+9,cpe:2.3:a:blackboard:blackboard_learn:9.1:q4_2018_cumulative_update1:*:*:*:*:*:*,Blackboard Learn 9.1 Q4 2018 Cumulative Update 1,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z

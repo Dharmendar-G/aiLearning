@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:acyba:acymailing:6.6.0:*:*:*:*:joomla\!:*:*,Acyba AcyMailing 6.6.0 for Joomla!,['CVE-2020-10934'],2022-03-18T11:38Z
+1,cpe:2.3:a:acyba:acymailing:6.7:*:*:*:*:joomla\!:*:*,Acyba AcyMailing 6.7 for Joomla!,['CVE-2020-10934'],2022-03-18T11:38Z
+2,cpe:2.3:a:acyba:acymailing:6.8:*:*:*:*:joomla\!:*:*,Acyba AcyMailing 6.8 for Joomla!,['CVE-2020-10934'],2022-03-18T11:38Z
+3,cpe:2.3:a:acyba:acymailing:6.9:*:*:*:*:joomla\!:*:*,Acyba AcyMailing 6.9 for Joomla!,['CVE-2020-10934'],2022-03-18T11:38Z
+4,cpe:2.3:a:acyba:acymailing:6.9.2:*:*:*:*:joomla\!:*:*,Acyba AcyMailing 6.9.2 for Joomla!,[''],2022-03-18T11:38Z
+5,cpe:2.3:a:acyba:acysms:1.0.0:*:*:*:*:joomla\!:*:*,Acyba AcySMS 1.0.0 for Joomla!,['CVE-2018-9106'],2022-03-18T11:38Z
+6,cpe:2.3:a:acyba:acysms:1.0.1:*:*:*:*:joomla\!:*:*,Acyba AcySMS 1.0.1 for Joomla!,['CVE-2018-9106'],2022-03-18T11:39Z
+7,cpe:2.3:a:acyba:acysms:1.0.2:*:*:*:*:joomla\!:*:*,Acyba AcySMS 1.0.2 for Joomla!,['CVE-2018-9106'],2022-03-18T11:38Z
+8,cpe:2.3:a:acyba:acysms:1.1.0:*:*:*:*:joomla\!:*:*,Acyba AcySMS 1.1.0 for Joomla!,['CVE-2018-9106'],2022-03-18T11:39Z
+9,cpe:2.3:a:acyba:acysms:1.1.1:*:*:*:*:joomla\!:*:*,Acyba AcySMS 1.1.1 for Joomla!,['CVE-2018-9106'],2022-03-18T11:39Z

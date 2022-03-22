@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:honeywell:falcon_xlweb_linux_controller:2.04.01:*:*:*:*:*:*:*,Honeywell Falcon XLWeb Linux Controller 2.04.01,"['CVE-2014-2717', 'CVE-2014-3110']",2022-03-21T11:39Z
+1,cpe:2.3:h:honeywell:falcon_xlweb_xlwebexe:2.02.11:*:*:*:*:*:*:*,Honeywell Falcon XLWeb XLWebEXE 2.02.11,"['CVE-2014-2717', 'CVE-2014-3110']",2022-03-21T11:39Z
+2,cpe:2.3:o:honeywell:fusion_iv_rev_c_firmware_nvr:-:*:*:*:*:*:*:*,Honeywell Fusion IV Rev C NVR Firmware,[''],2022-03-21T11:39Z
+3,cpe:2.3:h:honeywell:fusion_iv_rev_c_nvr:-:*:*:*:*:*:*:*,Honeywell Fusion IV Rev C NVR,[''],2022-03-21T11:39Z
+4,cpe:2.3:o:honeywell:h2w2gr1:-:*:*:*:*:*:*:*,Honeywell H2W2GR1,[''],2022-03-21T11:39Z
+5,cpe:2.3:o:honeywell:h2w2gr1_firmware:-:*:*:*:*:*:*:*,Honeywell H2W2GR1 Firmware,"['CVE-2019-18226', 'CVE-2019-18228', 'CVE-2019-18230']",2022-03-21T11:39Z
+6,cpe:2.3:o:honeywell:h2w2gr1_firmware:1.000.0000.18.20190409:*:*:*:*:*:*:*,Honeywell H2W2GR1 Firmware 1.000.0000.18.20190409,[''],2022-03-21T11:39Z
+7,cpe:2.3:h:honeywell:h2w2pc1m:-:*:*:*:*:*:*:*,Honeywell H2W2PC1M,"['CVE-2019-13523', 'CVE-2019-18226', 'CVE-2019-18228']",2022-03-21T11:39Z
+8,cpe:2.3:o:honeywell:h2w2pc1m_firmware:-:*:*:*:*:*:*:*,Honeywell H2W2PC1M Firmware,"['CVE-2019-13523', 'CVE-2019-18226', 'CVE-2019-18228']",2022-03-21T11:40Z
+9,cpe:2.3:h:honeywell:h2w2per3:-:*:*:*:*:*:*:*,Honeywell H2W2PER3,"['CVE-2019-13523', 'CVE-2019-18226', 'CVE-2019-18228']",2022-03-21T11:40Z

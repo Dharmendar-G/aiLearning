@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apostrophecms:apostrophecms:3.5.0:*:*:*:*:*:*:*,ApostropheCMS 3.5.0,[''],2022-03-18T21:43Z
+1,cpe:2.3:a:apostrophecms:apostrophecms:3.6.0:*:*:*:*:*:*:*,ApostropheCMS 3.6.0,[''],2022-03-18T21:43Z
+2,cpe:2.3:a:apostrophecms:apostrophecms:3.7.0:*:*:*:*:*:*:*,ApostropheCMS 3.7.0,[''],2022-03-18T21:43Z
+3,cpe:2.3:a:apostrophecms:apostrophecms:3.8.0:*:*:*:*:*:*:*,ApostropheCMS 3.8.0,[''],2022-03-18T21:43Z
+4,cpe:2.3:a:apostrophecms:apostrophecms:3.8.1:*:*:*:*:*:*:*,ApostropheCMS 3.8.1,[''],2022-03-18T21:43Z
+5,cpe:2.3:a:apostrophecms:apostrophecms:3.9.0:*:*:*:*:*:*:*,ApostropheCMS 3.9.0,[''],2022-03-18T21:43Z
+6,cpe:2.3:a:apostrophecms:apostrophecms:3.10.0:*:*:*:*:*:*:*,ApostropheCMS 3.10.0,[''],2022-03-18T21:43Z
+7,cpe:2.3:a:apostrophecms:apostrophecms:3.11.0:*:*:*:*:*:*:*,ApostropheCMS 3.11.0,[''],2022-03-18T21:43Z
+8,cpe:2.3:a:apostrophecms:apostrophecms:v0.4.68:*:*:*:*:*:*:*,ApostropheCMS V0.4.68,[''],2022-03-18T21:43Z
+9,cpe:2.3:a:apostrophecms:sanitize-html:0.1.0:*:*:*:*:node.js:*:*,ApostropheCMS Sanitize-html 0.1.0 for Node.js,"['CVE-2016-1000237', 'CVE-2021-26539', 'CVE-2021-26540']",2022-03-18T21:43Z

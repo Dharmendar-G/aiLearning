@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:asus:ux582lr_firmware:302:*:*:*:*:*:*:*,ASUS UX582LR FIRMWARE 302,['CVE-2021-42055'],2022-03-18T23:58Z
+1,cpe:2.3:o:asus:ux582lr_firmware:303:*:*:*:*:*:*:*,ASUS UX582LR FIRMWARE 303,[''],2022-03-18T23:58Z
+2,cpe:2.3:h:asus:vc65-c1:-:*:*:*:*:*:*:*,ASUS VC65-C1,['CVE-2022-21933'],2022-03-18T23:58Z
+3,cpe:2.3:h:asus:ve278q:-:*:*:*:*:*:*:*,Asus VE278Q,[''],2022-03-18T23:58Z
+4,cpe:2.3:a:asus:video_security_online:-:*:*:*:*:*:*:*,Asus Video Security,"['CVE-2005-3489', 'CVE-2005-3490']",2022-03-18T23:58Z
+5,cpe:2.3:a:asus:vivobaby:1.1.09:*:*:*:*:android:*:*,Asus VivoBaby 1.1.09 for Android,[''],2022-03-18T23:58Z
+6,cpe:2.3:h:asus:wl-330nul:-:*:*:*:*:*:*:*,ASUS WL-330NUL router,"['CVE-2013-7293', 'CVE-2015-7787', 'CVE-2015-7788', 'CVE-2015-7789', 'CVE-2015-7790', 'CVE-2018-0647']",2022-03-18T23:58Z
+7,cpe:2.3:o:asus:wl-330nul_firmware:3.0.0.41:*:*:*:*:*:*:*,ASUS WL-330NUL Firmware 3.0.0.41,"['CVE-2015-7787', 'CVE-2015-7788', 'CVE-2015-7790', 'CVE-2018-0647']",2022-03-18T23:58Z
+8,cpe:2.3:o:asus:wl-330nul_firmware:3.0.0.46:*:*:*:*:*:*:*,ASUS WL-330NUL Firmware 3.0.0.46,[''],2022-03-18T23:58Z
+9,cpe:2.3:h:asus:wmp-n12:-:*:*:*:*:*:*:*,Asus WMP-N12,"['CVE-2016-6557', 'CVE-2016-6558']",2022-03-18T23:58Z

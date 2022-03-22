@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:small_business_rv_router_firmware:1.0.5.8:*:*:*:*:*:*:*,Cisco Small Business RV Router Firmware 1.0.5.8,['CVE-2017-3882'],2022-03-20T00:19Z
+1,cpe:2.3:a:cisco:small_business_rv_router_firmware:1.0.6.6:*:*:*:*:*:*:*,Cisco Small Business RV Router Firmware 1.0.6.6,['CVE-2017-3882'],2022-03-20T00:19Z
+2,cpe:2.3:a:cisco:small_business_rv_router_firmware:1.0.39:*:*:*:*:*:*:*,Cisco Small Business RV Router Firmware 1.0.39,['CVE-2017-3882'],2022-03-20T00:19Z
+3,cpe:2.3:a:cisco:small_business_rv_router_firmware_1.0:0.2:*:*:*:*:*:*:*,Cisco Small Business RV Router Firmware 1.0 0.2,['CVE-2017-3882'],2022-03-20T00:19Z
+4,cpe:2.3:h:cisco:small_business_rv_series_router:-:*:*:*:*:*:*:*,Cisco Small Business RV Series Router,['CVE-2017-6620'],2022-03-20T00:19Z
+5,cpe:2.3:o:cisco:small_business_rv_series_router_firmware:1.0.0.30:*:*:*:*:*:*:*,Cisco Small Business RV Series Router Firmware 1.0.0.30,"['CVE-2021-1602', 'CVE-2021-1609', 'CVE-2021-1610']",2022-03-20T00:19Z
+6,cpe:2.3:o:cisco:small_business_rv_series_router_firmware:1.0.0.33:*:*:*:*:*:*:*,Cisco Small Business RV Series Router Firmware 1.0.0.33,"['CVE-2021-1602', 'CVE-2021-1609', 'CVE-2021-1610']",2022-03-20T00:19Z
+7,cpe:2.3:o:cisco:small_business_rv_series_router_firmware:1.0.1.9:*:*:*:*:*:*:*,Cisco Small Business RV Series Router Firmware 1.0.1.9,"['CVE-2021-1609', 'CVE-2021-1610']",2022-03-20T00:19Z
+8,cpe:2.3:o:cisco:small_business_rv_series_router_firmware:1.0.1.16:*:*:*:*:*:*:*,Cisco Small Business RV Series Router Firmware 1.0.1.16,"['CVE-2021-1609', 'CVE-2021-1610']",2022-03-20T00:19Z
+9,cpe:2.3:o:cisco:small_business_rv_series_router_firmware:1.0.1.19:*:*:*:*:*:*:*,Cisco Small Business RV Series Router Firmware 1.0.1.19,"['CVE-2017-6620', 'CVE-2021-1609', 'CVE-2021-1610']",2022-03-20T00:19Z

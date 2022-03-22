@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codesys:control_win_sl:3.5.12.50:*:*:*:*:*:*:*,CODESYS Control Win Sl 3.5.12.50,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013', 'CVE-2021-33485', 'CVE-2021-36763']",2022-03-20T06:13Z
+1,cpe:2.3:a:codesys:control_win_sl:3.5.12.60:*:*:*:*:*:*:*,CODESYS Control Win Sl 3.5.12.60,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013', 'CVE-2021-33485', 'CVE-2021-36763']",2022-03-20T06:13Z
+2,cpe:2.3:a:codesys:control_win_sl:3.5.12.70:*:*:*:*:*:*:*,CODESYS Control Win Sl 3.5.12.70,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013', 'CVE-2021-33485', 'CVE-2021-36763']",2022-03-20T06:13Z
+3,cpe:2.3:a:codesys:control_win_sl:3.5.13.0:*:*:*:*:*:*:*,CODESYS Control Win Sl 3.5.13.0,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013', 'CVE-2021-33485', 'CVE-2021-36763']",2022-03-20T06:13Z
+4,cpe:2.3:a:codesys:control_win_sl:3.5.13.10:*:*:*:*:*:*:*,CODESYS Control Win Sl 3.5.13.10,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013', 'CVE-2021-33485', 'CVE-2021-36763']",2022-03-20T06:13Z
+5,cpe:2.3:a:codesys:control_win_sl:3.5.13.20:*:*:*:*:*:*:*,CODESYS Control Win Sl 3.5.13.20,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013', 'CVE-2021-33485', 'CVE-2021-36763']",2022-03-20T06:13Z
+6,cpe:2.3:a:codesys:control_win_sl:3.5.13.30:*:*:*:*:*:*:*,CODESYS Control Win Sl 3.5.13.30,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013', 'CVE-2021-33485', 'CVE-2021-36763']",2022-03-20T06:13Z
+7,cpe:2.3:a:codesys:control_win_sl:3.5.13.40:*:*:*:*:*:*:*,CODESYS Control Win SL 3.5.13.40,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013', 'CVE-2021-33485', 'CVE-2021-36763']",2022-03-20T06:13Z
+8,cpe:2.3:a:codesys:control_win_sl:3.5.14.0:*:*:*:*:*:*:*,CODESYS Control Win Sl 3.5.14.0,"['CVE-2019-9013', 'CVE-2021-33485', 'CVE-2021-36763']",2022-03-20T06:13Z
+9,cpe:2.3:a:codesys:control_win_sl:3.5.14.10:*:*:*:*:*:*:*,CODESYS Control Win SL 3.5.14.10,"['CVE-2019-9013', 'CVE-2021-33485', 'CVE-2021-36763']",2022-03-20T06:13Z

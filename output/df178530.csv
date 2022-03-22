@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:bsafe_crypto-j:6.2.5:*:*:*:*:*:*:*,Dell BSAFE Crypto-J 6.2.5,[''],2022-03-20T12:13Z
+1,cpe:2.3:a:dell:bsafe_crypto-j:6.2.5.1:*:*:*:*:*:*:*,Dell BSAFE Crypto-J 6.2.5.1,[''],2022-03-20T12:13Z
+2,cpe:2.3:a:dell:bsafe_crypto-j:6.2.6:*:*:*:*:*:*:*,Dell BSAFE Crypto-J 6.2.6,[''],2022-03-20T12:13Z
+3,[0],[0],[0],[0]
+4,cpe:2.3:a:dell:bsafe_micro-edition-suite:3.1:*:*:*:*:*:*:*,Dell BSAFE Micro Edition Suite 3.1,"['CVE-2020-5359', 'CVE-2020-5360']",2022-03-20T12:13Z
+5,cpe:2.3:a:dell:bsafe_micro-edition-suite:3.2.0:*:*:*:*:*:*:*,Dell BSAFE Micro Edition Suite 3.2.0,"['CVE-2014-0636', 'CVE-2020-5359', 'CVE-2020-5360']",2022-03-20T12:13Z
+6,cpe:2.3:a:dell:bsafe_micro-edition-suite:3.2.1:*:*:*:*:*:*:*,Dell BSAFE Micro Edition Suite 3.2.1,"['CVE-2014-0636', 'CVE-2020-5359', 'CVE-2020-5360']",2022-03-20T12:13Z
+7,cpe:2.3:a:dell:bsafe_micro-edition-suite:3.2.2:*:*:*:*:*:*:*,Dell BSAFE Micro Edition Suite 3.2.2,"['CVE-2014-0636', 'CVE-2020-5359', 'CVE-2020-5360']",2022-03-20T12:13Z
+8,cpe:2.3:a:dell:bsafe_micro-edition-suite:3.2.3:*:*:*:*:*:*:*,Dell BSAFE Micro Edition Suite 3.2.3,"['CVE-2014-0636', 'CVE-2020-5359', 'CVE-2020-5360']",2022-03-20T12:13Z
+9,cpe:2.3:a:dell:bsafe_micro-edition-suite:3.2.4:*:*:*:*:*:*:*,Dell BSAFE Micro Edition Suite 3.2.4,"['CVE-2014-0636', 'CVE-2020-5359', 'CVE-2020-5360']",2022-03-20T12:13Z

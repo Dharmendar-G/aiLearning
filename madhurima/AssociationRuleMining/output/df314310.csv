@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:honeywell:hswb2g1:-:*:*:*:*:*:*:*,Honeywell HSWB2G1,['CVE-2019-18226'],2022-03-21T11:43Z
+1,cpe:2.3:o:honeywell:hswb2g1_firmware:-:*:*:*:*:*:*:*,Honeywell HSWB2G1 Firmware,['CVE-2019-18226'],2022-03-21T11:43Z
+2,cpe:2.3:h:honeywell:inncom_inncontrol:-:*:*:*:*:*:*:*,Honeywell INCOM INNControl,['CVE-2020-6968'],2022-03-21T11:43Z
+3,cpe:2.3:o:honeywell:inncom_inncontrol_firmware:-:*:*:*:*:*:*:*,Honeywell INNCOM INNControl Firmware,[''],2022-03-21T11:43Z
+4,cpe:2.3:o:honeywell:inncom_inncontrol_firmware:3.0:*:*:*:*:*:*:*,Honeywell INNCOM INNControl Firmware 3.0,['CVE-2020-6968'],2022-03-21T11:43Z
+5,cpe:2.3:o:honeywell:inncom_inncontrol_firmware:3.21:*:*:*:*:*:*:*,Honeywell INNCOM INNControl Firmware 3.21,['CVE-2020-6968'],2022-03-21T11:43Z
+6,cpe:2.3:h:honeywell:intermec_pc23:-:*:*:*:*:*:*:*,Honeywell Intermec PC23,['CVE-2017-5671'],2022-03-21T11:43Z
+7,cpe:2.3:o:honeywell:intermec_pc23_firmware:10.10.011406:*:*:*:*:*:*:*,Honeywell Intermec PC23 Firmware 10.10.011406,['CVE-2017-5671'],2022-03-21T11:43Z
+8,cpe:2.3:h:honeywell:intermec_pc42:-:*:*:*:*:*:*:*,Honeywell Intermec PC42,['CVE-2017-5671'],2022-03-21T11:43Z
+9,cpe:2.3:o:honeywell:intermec_pc42_firmware:10.10.011406:*:*:*:*:*:*:*,Honeywell Intermec PC42 Firmware 10.10.011406,['CVE-2017-5671'],2022-03-21T11:43Z

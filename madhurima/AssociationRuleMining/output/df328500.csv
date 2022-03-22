@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:proliant_ml350_gen9:-:*:*:*:*:*:*:*,HP ProLiant Ml350 Gen9,"['CVE-2019-11982', 'CVE-2019-11983']",2022-03-21T15:57Z
+1,cpe:2.3:h:hp:proliant_ml350_gen9_server:-:*:*:*:*:*:*:*,Hp Proliant Ml350 Gen9 Server -,"['CVE-2018-7112', 'CVE-2020-7202']",2022-03-21T15:57Z
+2,cpe:2.3:h:hp:proliant_ml350e_gen8_server:-:*:*:*:*:*:*:*,Hp Proliant Ml350e Gen8 Server -,"['CVE-2018-7112', 'CVE-2020-7202']",2022-03-21T15:57Z
+3,cpe:2.3:h:hp:proliant_ml350e_gen8_v2_server:-:*:*:*:*:*:*:*,Hp Proliant Ml350e Gen8 V2 Server -,"['CVE-2018-7112', 'CVE-2020-7202']",2022-03-21T15:57Z
+4,cpe:2.3:h:hp:proliant_ml350p_gen8_server:-:*:*:*:*:*:*:*,Hp Proliant Ml350p Gen8 Server -,"['CVE-2018-7112', 'CVE-2020-7202']",2022-03-21T15:57Z
+5,cpe:2.3:h:hp:proliant_ml370_g6_server:-:*:*:*:*:*:*:*,Hp Proliant Ml370 G6 Server -,['CVE-2018-7112'],2022-03-21T15:57Z
+6,cpe:2.3:a:hp:proliant_remote_monitor_service:5.11.1.0:*:*:*:*:*:*:*,HP Proliant Remote Monitor Service 5.11.1.0,[''],2022-03-21T15:57Z
+7,cpe:2.3:a:hp:proliant_remote_monitor_service:5.11.2.0:*:*:*:*:*:*:*,HP Proliant Remote Monitor Service 5.11.2.0,[''],2022-03-21T15:57Z
+8,cpe:2.3:a:hp:proliant_remote_monitor_service:5.11.3.0:*:*:*:*:*:*:*,HP Proliant Remote Monitor Service 5.11.3.0,[''],2022-03-21T15:57Z
+9,cpe:2.3:a:hp:proliant_remote_monitor_service:5.20.0.0:*:*:*:*:*:*:*,HP Proliant Remote Monitor Service 5.20.0.0,[''],2022-03-21T15:58Z

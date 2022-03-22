@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:color_laserjet_managed_flow_mfp_m880zm_firmware:-:*:*:*:*:*:*:*,HP Color Laserjet Managed Flow Mfp M880zm Firmware -,"['CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T13:05Z
+1,cpe:2.3:o:hp:color_laserjet_managed_flow_mfp_m880zm_firmware:2309010_581433:*:*:*:*:*:*:*,HP Color Laserjet Managed Flow Mfp M880zm Firmware 2309010 581433,['CVE-2019-6318'],2022-03-21T13:05Z
+2,cpe:2.3:o:hp:color_laserjet_managed_flow_mfp_m880zm_firmware:2407081_000599:*:*:*:*:*:*:*,HP Color Laserjet Managed Flow Mfp M880zm Firmware 2407081 000599,[''],2022-03-21T13:05Z
+3,cpe:2.3:h:hp:color_laserjet_managed_flow_mfp_m880zm_l3u51a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed Flow MFP M880ZM L3U51A,['CVE-2020-28419'],2022-03-21T13:05Z
+4,cpe:2.3:h:hp:color_laserjet_managed_flow_mfp_m880zm_l3u52a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed Flow MFP M880ZM L3U52A,['CVE-2020-28419'],2022-03-21T13:05Z
+5,cpe:2.3:h:hp:color_laserjet_managed_m553:-:*:*:*:*:*:*:*,HP Color LaserJet Managed M553,['CVE-2019-6318'],2022-03-21T13:05Z
+6,cpe:2.3:h:hp:color_laserjet_managed_m553_b5l24a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed M553 B5L24A,['CVE-2020-28419'],2022-03-21T13:05Z
+7,cpe:2.3:h:hp:color_laserjet_managed_m553_b5l25a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed M553 B5L25A,['CVE-2020-28419'],2022-03-21T13:05Z
+8,cpe:2.3:h:hp:color_laserjet_managed_m553_b5l26a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed M553 B5L26A,['CVE-2020-28419'],2022-03-21T13:05Z
+9,cpe:2.3:h:hp:color_laserjet_managed_m553_b5l38a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed M553 B5L38A,['CVE-2020-28419'],2022-03-21T13:05Z

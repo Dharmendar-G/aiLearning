@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hashicorp:consul:1.6.5:*:*:*:enterprise:*:*:*,Hashicorp Consul 1.6.5 Enterprise Edition,"['CVE-2020-12758', 'CVE-2020-12797', 'CVE-2020-13170', 'CVE-2020-13250', 'CVE-2020-25864', 'CVE-2020-28053', 'CVE-2021-3121', 'CVE-2021-32574', 'CVE-2021-37219', 'CVE-2021-38698']",2022-03-21T09:44Z
+1,cpe:2.3:a:hashicorp:consul:1.6.6:*:*:*:enterprise:*:*:*,HashiCorpConsul 1.6.6 Enterprise Edition,"['CVE-2020-12797', 'CVE-2020-25864', 'CVE-2020-28053', 'CVE-2021-3121', 'CVE-2021-32574', 'CVE-2021-37219', 'CVE-2021-38698']",2022-03-21T09:44Z
+2,cpe:2.3:a:hashicorp:consul:1.6.6:*:*:*:-:*:*:*,Hashicorp Consul 1.6.6,"['CVE-2020-25864', 'CVE-2020-28053', 'CVE-2021-3121', 'CVE-2021-32574', 'CVE-2021-37219', 'CVE-2021-38698']",2022-03-21T09:44Z
+3,cpe:2.3:a:hashicorp:consul:1.6.6:*:*:*:enterprise:*:*:*,HashiCorpConsul 1.6.6 Enterprise Edition,"['CVE-2020-12797', 'CVE-2020-25864', 'CVE-2020-28053', 'CVE-2021-3121', 'CVE-2021-32574', 'CVE-2021-37219', 'CVE-2021-38698']",2022-03-21T09:44Z
+4,cpe:2.3:a:hashicorp:consul:1.6.7:*:*:*:-:*:*:*,HashiCorp Consul 1.6.7,"['CVE-2020-25864', 'CVE-2020-28053', 'CVE-2021-3121', 'CVE-2021-32574', 'CVE-2021-37219', 'CVE-2021-38698']",2022-03-21T09:44Z
+5,cpe:2.3:a:hashicorp:consul:1.6.7:*:*:*:enterprise:*:*:*,HashiCorp Consul 1.6.7 Enterprise Edition,"['CVE-2020-25864', 'CVE-2020-28053', 'CVE-2021-3121', 'CVE-2021-32574', 'CVE-2021-37219', 'CVE-2021-38698']",2022-03-21T09:44Z
+6,cpe:2.3:a:hashicorp:consul:1.6.8:*:*:*:-:*:*:*,HashiCorp Consul 1.6.8,"['CVE-2020-25864', 'CVE-2020-28053', 'CVE-2021-3121', 'CVE-2021-32574', 'CVE-2021-37219', 'CVE-2021-38698']",2022-03-21T09:44Z
+7,cpe:2.3:a:hashicorp:consul:1.6.8:*:*:*:enterprise:*:*:*,HashiCorp Consul 1.6.8 Enterprise Edition,"['CVE-2020-25864', 'CVE-2020-28053', 'CVE-2021-3121', 'CVE-2021-32574', 'CVE-2021-37219', 'CVE-2021-38698']",2022-03-21T09:44Z
+8,cpe:2.3:a:hashicorp:consul:1.6.9:*:*:*:-:*:*:*,HashiCorp Consul 1.6.9,"['CVE-2020-25864', 'CVE-2020-28053', 'CVE-2021-3121', 'CVE-2021-32574', 'CVE-2021-37219', 'CVE-2021-38698']",2022-03-21T09:44Z
+9,cpe:2.3:a:hashicorp:consul:1.6.9:*:*:*:enterprise:*:*:*,HashiCorp Consul 1.6.9 Enterprise Edition,"['CVE-2020-25864', 'CVE-2020-28053', 'CVE-2021-3121', 'CVE-2021-32574', 'CVE-2021-37219', 'CVE-2021-38698']",2022-03-21T09:44Z

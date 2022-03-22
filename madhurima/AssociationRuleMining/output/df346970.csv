@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:rational_doors_next_generation:7.0.2:*:*:*:*:*:*:*,IBM Rational DOORS Next Generation 7.0.2,"['CVE-2020-4495', 'CVE-2020-4732', 'CVE-2020-4974', 'CVE-2020-4977', 'CVE-2020-5004', 'CVE-2020-5030', 'CVE-2020-5031', 'CVE-2021-20338', 'CVE-2021-20343', 'CVE-2021-20345', 'CVE-2021-20346', 'CVE-2021-20347', 'CVE-2021-20348', 'CVE-2021-20371', 'CVE-2021-20507', 'CVE-2021-29668', 'CVE-2021-29670', 'CVE-2021-29673', 'CVE-2021-29786', 'CVE-2021-29844']",2022-03-21T21:43Z
+1,cpe:2.3:a:ibm:rational_doors_web_access:9.5.1.0:*:*:*:*:*:*:*,IBM Rational DOORS Web Access 9.5.1.0,['CVE-2018-1975'],2022-03-21T21:43Z
+2,cpe:2.3:a:ibm:rational_doors_web_access:9.5.1.11:*:*:*:*:*:*:*,IBM Rational DOORS Web Access 9.5.1.11,[''],2022-03-21T21:43Z
+3,cpe:2.3:a:ibm:rational_doors_web_access:9.5.2.0:*:*:*:*:*:*:*,IBM Rational DOORS Web Access 9.5.2.0,['CVE-2018-1975'],2022-03-21T21:43Z
+4,cpe:2.3:a:ibm:rational_doors_web_access:9.5.2.10:*:*:*:*:*:*:*,IBM Rational DOORS Web Access 9.5.2.10,[''],2022-03-21T21:43Z
+5,cpe:2.3:a:ibm:rational_doors_web_access:9.6.0.0:*:*:*:*:*:*:*,IBM Rational DOORS Web Access 9.6.0.0,['CVE-2018-1975'],2022-03-21T21:43Z
+6,cpe:2.3:a:ibm:rational_doors_web_access:9.6.0.9:*:*:*:*:*:*:*,IBM Rational DOORS Web Access 9.6.0.9,[''],2022-03-21T21:43Z
+7,cpe:2.3:a:ibm:rational_doors_web_access:9.6.1.0:*:*:*:*:*:*:*,IBM Rational DOORS Web Access 9.6.1.0,['CVE-2018-1975'],2022-03-21T21:43Z
+8,cpe:2.3:a:ibm:rational_doors_web_access:9.6.1.12:*:*:*:*:*:*:*,IBM Rational DOORS Web Access 9.6.1.12,[''],2022-03-21T21:43Z
+9,cpe:2.3:a:ibm:rational_engineering_lifecycle_manager:1.0:*:*:*:*:*:*:*,IBM Rational Engineering Lifecycle Manager (RELM) 1.0,"['CVE-2014-3037', 'CVE-2014-3092', 'CVE-2015-0112', 'CVE-2015-1928', 'CVE-2015-1971', 'CVE-2015-4946', 'CVE-2015-4962']",2022-03-21T21:43Z

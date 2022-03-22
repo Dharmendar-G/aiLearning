@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hyphp:hybbs2:2.2.8:*:*:*:*:*:*:*,Hyphp Hybbs2 2.2.8,"['CVE-2022-24676', 'CVE-2022-24677']",2022-03-21T19:34Z
+1,cpe:2.3:a:hyphp:hybbs2:2.2.9:*:*:*:*:*:*:*,Hyphp Hybbs2 2.2.9,"['CVE-2022-24676', 'CVE-2022-24677']",2022-03-21T19:34Z
+2,cpe:2.3:a:hyphp:hybbs2:2.2.10:*:*:*:*:*:*:*,Hyphp Hybbs2 2.2.10,"['CVE-2022-24676', 'CVE-2022-24677']",2022-03-21T19:34Z
+3,cpe:2.3:a:hyphp:hybbs2:2.3:*:*:*:*:*:*:*,Hyphp Hybbs2 2.3,"['CVE-2022-24676', 'CVE-2022-24677']",2022-03-21T19:34Z
+4,cpe:2.3:a:hyphp:hybbs2:2.3.2:*:*:*:*:*:*:*,Hyphp Hybbs2 2.3.2,"['CVE-2022-24676', 'CVE-2022-24677']",2022-03-21T19:34Z
+5,cpe:2.3:a:hyphp:hybbs2:2.3.3:*:*:*:*:*:*:*,Hyphp Hybbs2 2.3.3,[''],2022-03-21T19:34Z
+6,cpe:2.3:a:hyuki:yukiwiki:1.6.2:*:*:*:*:*:*:*,Hiroshi Yuki YukiWiki 1.6.2,"['CVE-2018-0699', 'CVE-2018-0700']",2022-03-21T19:34Z
+7,cpe:2.3:a:hyuki:yukiwiki:1.6.3:*:*:*:*:*:*:*,Hiroshi Yuki YukiWiki 1.6.3,"['CVE-2018-0699', 'CVE-2018-0700']",2022-03-21T19:34Z
+8,cpe:2.3:a:hyuki:yukiwiki:1.6.4:*:*:*:*:*:*:*,Hiroshi Yuki YukiWiki 1.6.4,"['CVE-2018-0699', 'CVE-2018-0700']",2022-03-21T19:34Z
+9,cpe:2.3:a:hyuki:yukiwiki:1.6.5:*:*:*:*:*:*:*,Hiroshi Yuki YukiWiki 1.6.5,"['CVE-2018-0699', 'CVE-2018-0700']",2022-03-21T19:34Z

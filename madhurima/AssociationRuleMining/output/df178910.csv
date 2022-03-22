@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:emc_idrac9_firmware:4.40.35.00:*:*:*:*:*:*:*,Dell EMC iDRAC9 Firmware 4.40.35.00,"['CVE-2021-21576', 'CVE-2021-21577', 'CVE-2021-21578', 'CVE-2021-21579', 'CVE-2021-21580', 'CVE-2021-21581', 'CVE-2021-36300', 'CVE-2021-36301']",2022-03-20T12:20Z
+1,cpe:2.3:o:dell:emc_idrac9_firmware:4.40.40.00:*:*:*:*:*:*:*,Dell EMC iDRAC9 Firmware 4.40.40.00,"['CVE-2021-21580', 'CVE-2021-21581', 'CVE-2021-36300']",2022-03-20T12:20Z
+2,cpe:2.3:o:dell:emc_idrac9_firmware:4.40.45.00:*:*:*:*:*:*:*,Dell EMC iDRAC9 Firmware 4.40.45.00,"['CVE-2021-21580', 'CVE-2021-21581', 'CVE-2021-36300']",2022-03-20T12:20Z
+3,cpe:2.3:o:dell:emc_idrac9_firmware:4.40.55.00:*:*:*:*:*:*:*,Dell EMC iDRAC9 Firmware 4.40.55.00,"['CVE-2021-21580', 'CVE-2021-21581', 'CVE-2021-36300']",2022-03-20T12:20Z
+4,cpe:2.3:o:dell:emc_idrac9_firmware:5.00.00.00:*:*:*:*:*:*:*,Dell EMC iDRAC9 Firmware 5.00.00.00,['CVE-2021-36299'],2022-03-20T12:20Z
+5,cpe:2.3:o:dell:emc_idrac9_firmware:5.00.10.20:*:*:*:*:*:*:*,Dell EMC iDRAC9 Firmware 5.00.10.20,[''],2022-03-20T12:20Z
+6,cpe:2.3:o:dell:emc_idrac9_firmware:5.00.15.00:*:*:*:*:*:*:*,Dell EMC iDRAC9 Firmware 5.00.15.00,[''],2022-03-20T12:20Z
+7,cpe:2.3:a:dell:emc_integrated_data_protection_appliance:2.0:*:*:*:*:*:*:*,Dell EMC Integrated Data Protection Applicance 2.0,"['CVE-2018-11048', 'CVE-2018-11062', 'CVE-2018-11066', 'CVE-2018-11067', 'CVE-2018-11076', 'CVE-2018-11077', 'CVE-2018-1217', 'CVE-2019-3752', 'CVE-2019-3762', 'CVE-2019-3765', 'CVE-2020-5350', 'CVE-2021-21601']",2022-03-20T12:20Z
+8,cpe:2.3:a:dell:emc_integrated_data_protection_appliance:2.1:*:*:*:*:*:*:*,Dell EMC Integrated Data Protection Applicance 2.1,"['CVE-2018-11048', 'CVE-2018-11062', 'CVE-2018-11066', 'CVE-2018-11067', 'CVE-2018-11077', 'CVE-2018-1217', 'CVE-2019-3752', 'CVE-2019-3762', 'CVE-2019-3765', 'CVE-2020-5350', 'CVE-2021-21601']",2022-03-20T12:20Z
+9,cpe:2.3:a:dell:emc_integrated_data_protection_appliance:2.2:*:*:*:*:*:*:*,Dell EMC Integrated Data Protection Applicance 2.2,"['CVE-2018-11062', 'CVE-2018-11066', 'CVE-2018-11067', 'CVE-2018-11077', 'CVE-2019-3752', 'CVE-2019-3762', 'CVE-2019-3765', 'CVE-2020-5350', 'CVE-2021-21601']",2022-03-20T12:20Z

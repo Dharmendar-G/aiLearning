@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:abu_ali_anasheeds_project:abu_ali_anasheeds:1.1:*:*:*:*:android:*:*,Abu Ali Anasheeds project Abu Ali Anasheeds (aka com.faapps.abuali_anasheeds) for android 1.1,['CVE-2014-6797'],2022-03-18T10:43Z
+1,cpe:2.3:h:abus:secvest_fuaa50000:-:*:*:*:*:*:*:*,ABUS Secvest FUAA50000,[''],2022-03-18T10:43Z
+2,cpe:2.3:o:abus:secvest_fuaa50000_firmware:3.01.01:*:*:*:*:*:*:*,ABUS Secvest FUAA50000 Firmware 3.01.01,[''],2022-03-18T10:43Z
+3,cpe:2.3:h:abus:secvest_hybrid_fumo50110:-:*:*:*:*:*:*:*,ABUS Secvest Hybrid FUMO50110,['CVE-2020-14158'],2022-03-18T10:43Z
+4,cpe:2.3:o:abus:secvest_hybrid_fumo50110_firmware:-:*:*:*:*:*:*:*,ABUS Secvest Hybrid FUMO50110 Firmware,['CVE-2020-14158'],2022-03-18T10:43Z
+5,cpe:2.3:h:abus:secvest_wireless_alarm_system_fuaa50000:-:*:*:*:*:*:*:*,ABUS Secvest Wireless Alarm System FUAA50000,"['CVE-2019-14261', 'CVE-2019-9860', 'CVE-2019-9861', 'CVE-2019-9862', 'CVE-2019-9863', 'CVE-2020-28973']",2022-03-18T10:43Z
+6,cpe:2.3:o:abus:secvest_wireless_alarm_system_fuaa50000_firmware:3.01.01:*:*:*:*:*:*:*,ABUS Secvest Wireless Alarm System FUAA50000 Firmware 3.01.01,"['CVE-2019-14261', 'CVE-2019-9860', 'CVE-2019-9861', 'CVE-2019-9862', 'CVE-2019-9863']",2022-03-18T10:43Z
+7,cpe:2.3:o:abus:secvest_wireless_alarm_system_fuaa50000_firmware:3.01.17:*:*:*:*:*:*:*,ABUS Secvest Wireless Alarm System FUAA50000 Firmware 3.01.17,['CVE-2020-28973'],2022-03-18T10:43Z
+8,cpe:2.3:o:abus:secvest_wireless_alarm_system_fuaa50000_firmware:3.01.21:*:*:*:*:*:*:*,ABUS Secvest Wireless Alarm System FUAA50000 Firmware 3.01.21,[''],2022-03-18T10:43Z
+9,cpe:2.3:h:abus:secvest_wireless_control_fube50001:-:*:*:*:*:*:*:*,ABUS Secvest Wireless Control FUBE50001,['CVE-2020-14157'],2022-03-18T10:43Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:addthis:addthis:5.0.9:*:*:*:*:wordpress:*:*,AddThis 5.0.9 for WordPress,['CVE-2015-9439'],2022-03-18T11:49Z
+1,cpe:2.3:a:addthis:addthis:5.0.10:*:*:*:*:wordpress:*:*,AddThis 5.0.10 for WordPress,['CVE-2015-9439'],2022-03-18T11:49Z
+2,cpe:2.3:a:addthis:addthis:5.0.11:*:*:*:*:wordpress:*:*,AddThis 5.0.11 for WordPress,['CVE-2015-9439'],2022-03-18T11:49Z
+3,cpe:2.3:a:addthis:addthis:5.0.12:*:*:*:*:wordpress:*:*,AddThis 5.0.12 for WordPress,['CVE-2015-9439'],2022-03-18T11:49Z
+4,cpe:2.3:a:addthis:addthis:5.0.13:*:*:*:*:wordpress:*:*,AddThis 5.0.13 for WordPress,[''],2022-03-18T11:49Z
+5,cpe:2.3:a:addthis:addthis:5.1.0:*:*:*:*:wordpress:*:*,AddThis 5.1.0 for WordPress,[''],2022-03-18T11:49Z
+6,cpe:2.3:a:addthis:addthis:5.1.1:*:*:*:*:wordpress:*:*,AddThis 5.1.1 for WordPress,[''],2022-03-18T11:49Z
+7,cpe:2.3:a:addthis:addthis:5.1.2:*:*:*:*:wordpress:*:*,AddThis 5.1.2 for WordPress,[''],2022-03-18T11:49Z
+8,cpe:2.3:a:addthis:addthis:5.1.3:*:*:*:*:wordpress:*:*,AddThis 5.1.3 for WordPress,[''],2022-03-18T11:49Z
+9,cpe:2.3:a:addthis:addthis:6.0.0:*:*:*:*:wordpress:*:*,AddThis 6.0.0 for WordPress,[''],2022-03-18T11:49Z

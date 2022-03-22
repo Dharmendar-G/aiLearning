@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ca:unicenter_web_services_distributed_management:-:*:*:*:*:*:*:*,Computer Associates Unicenter Web Services Distributed Management,['CVE-2004-2478'],2022-03-19T14:22Z
+1,cpe:2.3:a:ca:unicenter_web_services_distributed_management:11.0:*:*:*:*:*:*:*,Computer Associates Unicenter Web Services Distributed Management 11.0,['CVE-2005-3653'],2022-03-19T14:22Z
+2,cpe:2.3:a:ca:unified_infrastructure_management:8.4.7:*:*:*:*:*:*:*,CA Unified Infrastructure Management 8.4.7,"['CVE-2016-9165', 'CVE-2018-13819', 'CVE-2018-13820', 'CVE-2018-13821']",2022-03-19T14:22Z
+3,cpe:2.3:a:ca:unified_infrastructure_management:8.5:*:*:*:*:*:*:*,CA Unified Infrastructure Management 8.5,"['CVE-2016-9165', 'CVE-2018-13819', 'CVE-2018-13820', 'CVE-2018-13821']",2022-03-19T14:22Z
+4,cpe:2.3:a:ca:unified_infrastructure_management:8.5.1:*:*:*:*:*:*:*,CA Unified Infrastructure Management 8.5.1,"['CVE-2016-9165', 'CVE-2018-13819', 'CVE-2018-13820', 'CVE-2018-13821']",2022-03-19T14:22Z
+5,cpe:2.3:a:ca:universal_job_management_agent:11.2:*:*:*:*:*:*:*,CA Technologies Universal Job Management Agent 11.2,['CVE-2016-9795'],2022-03-19T14:22Z
+6,cpe:2.3:a:ca:vet_antivirus:-:*:*:*:*:*:*:*,Computer Associates Vet Antivirus,[''],2022-03-19T14:22Z
+7,cpe:2.3:a:ca:vet_antivirus:10.66:*:*:*:*:*:*:*,Computer Associates Vet Antivirus 10.66,['CVE-2005-1693'],2022-03-19T14:22Z
+8,cpe:2.3:a:ca:virtual_assurance_for_infrastructure_managers:12.8:*:*:*:*:*:*:*,CA Virtual Assurance For Infrastructure Managers 12.8,"['CVE-2015-3316', 'CVE-2015-3317', 'CVE-2015-3318', 'CVE-2016-9795']",2022-03-19T14:22Z
+9,cpe:2.3:a:ca:virtual_assurance_for_infrastructure_managers:12.9:*:*:*:*:*:*:*,CA Virtual Assurance For Infrastructure Managers 12.9,"['CVE-2015-3316', 'CVE-2015-3317', 'CVE-2015-3318', 'CVE-2016-9795']",2022-03-19T14:22Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bosch:bosch_video_management_system:5.5:*:*:*:*:*:*:*,Bosch Video Management System 5.5,"['CVE-2019-6957', 'CVE-2019-6958', 'CVE-2021-23859', 'CVE-2021-23860', 'CVE-2021-23861', 'CVE-2021-23862']",2022-03-19T10:00Z
+1,cpe:2.3:a:bosch:bosch_video_management_system:5.5.5:*:*:*:*:*:*:*,Bosch Video Management System 5.5.5,"['CVE-2019-6957', 'CVE-2019-6958', 'CVE-2021-23859', 'CVE-2021-23860', 'CVE-2021-23861', 'CVE-2021-23862']",2022-03-19T10:00Z
+2,cpe:2.3:a:bosch:bosch_video_management_system:5.5.8:*:*:*:*:*:*:*,Bosch Video Management System 5.5.8,"['CVE-2019-6957', 'CVE-2019-6958', 'CVE-2021-23859', 'CVE-2021-23860', 'CVE-2021-23861', 'CVE-2021-23862']",2022-03-19T10:00Z
+3,cpe:2.3:a:bosch:bosch_video_management_system:6.0:*:*:*:*:*:*:*,Bosch Video Management System 6.0,"['CVE-2019-6957', 'CVE-2019-6958', 'CVE-2021-23859', 'CVE-2021-23860', 'CVE-2021-23861', 'CVE-2021-23862']",2022-03-19T10:01Z
+4,cpe:2.3:a:bosch:bosch_video_management_system:6.5:*:*:*:*:*:*:*,Bosch Video Management System 6.5,"['CVE-2019-6957', 'CVE-2019-6958', 'CVE-2021-23859', 'CVE-2021-23860', 'CVE-2021-23861', 'CVE-2021-23862']",2022-03-19T10:01Z
+5,cpe:2.3:a:bosch:bosch_video_management_system:7.0:*:*:*:*:*:*:*,Bosch Video Management System 7.0,"['CVE-2019-6957', 'CVE-2019-6958', 'CVE-2021-23859', 'CVE-2021-23860', 'CVE-2021-23861', 'CVE-2021-23862']",2022-03-19T10:01Z
+6,cpe:2.3:a:bosch:bosch_video_management_system:7.5:*:*:*:*:*:*:*,Bosch Video Management System 7.5,"['CVE-2019-6957', 'CVE-2019-6958', 'CVE-2021-23859', 'CVE-2021-23860', 'CVE-2021-23861', 'CVE-2021-23862']",2022-03-19T10:01Z
+7,cpe:2.3:a:bosch:bosch_video_management_system:8.0:*:*:*:*:*:*:*,Bosch Video Management System 8.0,"['CVE-2019-6957', 'CVE-2019-6958', 'CVE-2021-23859', 'CVE-2021-23860', 'CVE-2021-23861', 'CVE-2021-23862']",2022-03-19T10:01Z
+8,cpe:2.3:a:bosch:bosch_video_management_system:9.0:*:*:*:*:*:*:*,Bosch Video Management System 9.0,"['CVE-2019-6957', 'CVE-2019-6958', 'CVE-2021-23859', 'CVE-2021-23860', 'CVE-2021-23861', 'CVE-2021-23862']",2022-03-19T10:01Z
+9,cpe:2.3:a:bosch:bosch_video_management_system_mobile_video_service:7.5:*:*:*:*:*:*:*,Bosch Video Management System Mobile Video Service 7.5,['CVE-2020-6770'],2022-03-19T10:01Z

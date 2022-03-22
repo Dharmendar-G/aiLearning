@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:barco:clickshare_cs-100_firmware:1.7.1.1:*:*:*:*:*:*:*,Barco ClickShare CS-100 Firmware 1.7.1.1,"['CVE-2019-18826', 'CVE-2019-18827', 'CVE-2019-18828', 'CVE-2019-18830', 'CVE-2019-18831']",2022-03-19T06:13Z
+1,cpe:2.3:o:barco:clickshare_cs-100_firmware:1.8.0.6:*:*:*:*:*:*:*,Barco ClickShare CS-100 Firmware 1.8.0.6,"['CVE-2019-18826', 'CVE-2019-18827', 'CVE-2019-18828', 'CVE-2019-18830', 'CVE-2019-18831']",2022-03-19T06:13Z
+2,cpe:2.3:o:barco:clickshare_cs-100_firmware:1.8.1.2:*:*:*:*:*:*:*,Barco ClickShare CS-100 Firmware 1.8.1.2,"['CVE-2019-18826', 'CVE-2019-18827', 'CVE-2019-18828', 'CVE-2019-18830', 'CVE-2019-18831']",2022-03-19T06:13Z
+3,cpe:2.3:o:barco:clickshare_cs-100_firmware:1.9.1.7:*:*:*:*:*:*:*,Barco ClickShare CS-100 Firmware 1.9.1.7,[''],2022-03-19T06:13Z
+4,cpe:2.3:h:barco:clickshare_cs-100_huddle:-:*:*:*:*:*:*:*,Barco ClickShare CS-100 Huddle,['CVE-2019-18825'],2022-03-19T06:13Z
+5,cpe:2.3:o:barco:clickshare_cs-100_huddle_firmware:-:*:*:*:*:*:*:*,Barco ClickShare CS-100 Huddle Firmware,['CVE-2019-18825'],2022-03-19T06:13Z
+6,cpe:2.3:o:barco:clickshare_cs-100_huddle_firmware:1.6.1.2:*:*:*:*:*:*:*,Barco ClickShare CS-100 Huddle Firmware 1.6.1.2,['CVE-2019-18825'],2022-03-19T06:13Z
+7,cpe:2.3:o:barco:clickshare_cs-100_huddle_firmware:1.8.1.2:*:*:*:*:*:*:*,Barco ClickShare CS-100 Huddle Firmware 1.8.1.2,['CVE-2019-18825'],2022-03-19T06:13Z
+8,cpe:2.3:o:barco:clickshare_cs-100_huddle_firmware:1.9.0:*:*:*:*:*:*:*,Barco ClickShare CS-100 Huddle Firmware 1.9.0,[''],2022-03-19T06:14Z
+9,cpe:2.3:h:barco:clickshare_csc-1:-:*:*:*:*:*:*:*,Barco ClickShare CSC-1,"['CVE-2016-3149', 'CVE-2016-3150', 'CVE-2016-3151', 'CVE-2016-3152', 'CVE-2017-12460', 'CVE-2017-9377']",2022-03-19T06:14Z

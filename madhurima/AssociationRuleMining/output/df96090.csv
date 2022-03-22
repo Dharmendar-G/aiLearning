@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:buffalotech:whr-1166dhp:-:*:*:*:*:*:*:*,BUFFALO WHR-1166DHP,"['CVE-2014-9284', 'CVE-2016-1134', 'CVE-2016-1135']",2022-03-19T13:21Z
+1,cpe:2.3:h:buffalotech:whr-1166dhp_firmware:1.41:*:*:*:*:*:*:*,バッファロー WHR-1166DHP ファームウェア 1.41,['CVE-2014-9284'],2022-03-19T13:21Z
+2,cpe:2.3:h:buffalotech:whr-1166dhp_firmware:1.60:*:*:*:*:*:*:*,バッファロー WHR-1166DHP ファームウェア 1.60,['CVE-2014-9284'],2022-03-19T13:21Z
+3,cpe:2.3:o:buffalotech:whr-1166dhp_firmware:1.70:*:*:*:*:*:*:*,BUFFALO WHR-1166DHP Firmware 1.70,['CVE-2016-1134'],2022-03-19T13:21Z
+4,cpe:2.3:o:buffalotech:whr-1166dhp_firmware:1.90:*:*:*:*:*:*:*,BUFFALO WHR-1166DHP Firmware 1.90,"['CVE-2016-1134', 'CVE-2016-1135']",2022-03-19T13:21Z
+5,cpe:2.3:h:buffalotech:whr-300hp2:-:*:*:*:*:*:*:*,バッファロー WHR-300HP2,"['CVE-2014-9284', 'CVE-2016-1134', 'CVE-2016-1135']",2022-03-19T13:21Z
+6,cpe:2.3:h:buffalotech:whr-300hp2_firmware:1.10:*:*:*:*:*:*:*,BUFFALO WHR-300HP2 Firmware 1.10,['CVE-2014-9284'],2022-03-19T13:21Z
+7,cpe:2.3:h:buffalotech:whr-300hp2_firmware:1.20:*:*:*:*:*:*:*,BUFFALO WHR-300HP2 Firmware 1.20,['CVE-2014-9284'],2022-03-19T13:21Z
+8,cpe:2.3:h:buffalotech:whr-300hp2_firmware:1.40:*:*:*:*:*:*:*,BUFFALO WHR-300HP2 Firmware 1.40,['CVE-2014-9284'],2022-03-19T13:21Z
+9,cpe:2.3:h:buffalotech:whr-300hp2_firmware:1.60:*:*:*:*:*:*:*,バッファロー WHR-300HP2 ファームウェア 1.60,['CVE-2014-9284'],2022-03-19T13:21Z

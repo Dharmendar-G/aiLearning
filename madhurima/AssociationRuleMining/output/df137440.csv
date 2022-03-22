@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:4.2\(7\):sr106:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 4.2(7) SR106,[''],2022-03-20T00:55Z
+1,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:4.2\(7\):sr106_es21:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 4.2(7) SR106 ES21,[''],2022-03-20T00:55Z
+2,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:4.3\(0\):sr100:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 4.3(0) SR100,[''],2022-03-20T00:55Z
+3,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:4.3\(0\):sr100_es10:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 4.3(0) SR100 ES10,[''],2022-03-20T00:55Z
+4,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:4.3\(0\):sr246:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 4.3(0) SR246,[''],2022-03-20T00:55Z
+5,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:4.3\(0\):sr246_es5:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 4.3(0) SR246 ES5,[''],2022-03-20T00:55Z
+6,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:4.3\(0\):sr63:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 4.3(0) SR63,[''],2022-03-20T00:55Z
+7,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:4.3\(0\):sr63_es6:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 4.3(0) SR63 ES6,[''],2022-03-20T00:55Z
+8,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:5.3\(104\):*:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 5.3(104),[''],2022-03-20T00:55Z
+9,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:5.3\(104\):sr3:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 5.3(104) SR3,[''],2022-03-20T00:55Z

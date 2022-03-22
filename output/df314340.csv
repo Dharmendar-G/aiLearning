@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:honeywell:maxpro_nvr_pe_firmware:5.6:*:*:*:*:*:*:*,Honeywell MAXPRO NVR PE Firmware 5.6,"['CVE-2020-6959', 'CVE-2020-6960']",2022-03-21T11:43Z
+1,cpe:2.3:h:honeywell:maxpro_nvr_se:-:*:*:*:*:*:*:*,Honeywell MAXPRO NVR SE,"['CVE-2017-14263', 'CVE-2020-6959', 'CVE-2020-6960']",2022-03-21T11:44Z
+2,cpe:2.3:o:honeywell:maxpro_nvr_se_firmware:-:*:*:*:*:*:*:*,Honeywell MAXPRO NVR SE Firmware,"['CVE-2017-14263', 'CVE-2020-6959', 'CVE-2020-6960']",2022-03-21T11:44Z
+3,cpe:2.3:o:honeywell:maxpro_nvr_se_firmware:5.6:*:*:*:*:*:*:*,Honeywell MAXPRO NVR SE Firmware 5.6,"['CVE-2020-6959', 'CVE-2020-6960']",2022-03-21T11:44Z
+4,cpe:2.3:h:honeywell:maxpro_nvr_xe:-:*:*:*:*:*:*:*,Honeywell MAXPRO NVR XE,"['CVE-2017-14263', 'CVE-2020-6959', 'CVE-2020-6960']",2022-03-21T11:44Z
+5,cpe:2.3:o:honeywell:maxpro_nvr_xe_firmware:-:*:*:*:*:*:*:*,Honeywell MAXPRO NVR XE Firmware,"['CVE-2017-14263', 'CVE-2020-6959', 'CVE-2020-6960']",2022-03-21T11:44Z
+6,cpe:2.3:o:honeywell:maxpro_nvr_xe_firmware:5.6:*:*:*:*:*:*:*,Honeywell MAXPRO NVR XE Firmware 5.6,"['CVE-2020-6959', 'CVE-2020-6960']",2022-03-21T11:44Z
+7,cpe:2.3:h:honeywell:midas:-:*:*:*:*:*:*:*,Honeywell Midas,['CVE-2015-7908'],2022-03-21T11:44Z
+8,cpe:2.3:h:honeywell:midas_black:-:*:*:*:*:*:*:*,Honeywell Midas Black,['CVE-2015-7908'],2022-03-21T11:44Z
+9,cpe:2.3:o:honeywell:midas_black_firmware:2.13b1:*:*:*:*:*:*:*,Honeywell Midas Black Firmware 2.13b1,"['CVE-2015-7907', 'CVE-2015-7908']",2022-03-21T11:44Z

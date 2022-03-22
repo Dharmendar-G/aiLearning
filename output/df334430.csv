@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:honor_v9_firmware:duke-al20c00b195:*:*:*:*:*:*:*,Huawei Honor V9 Firmware DUKE-AL20C00B195,"['CVE-2017-8214', 'CVE-2017-8215']",2022-03-21T17:54Z
+1,cpe:2.3:o:huawei:honor_v9_firmware:duke-tl30c01b191:*:*:*:*:*:*:*,Huawei Honor V9 Firmware Duke-TL30C01B191,[''],2022-03-21T17:54Z
+2,cpe:2.3:h:huawei:honor_v9_play:-:*:*:*:*:*:*:*,Huawei Honor V9 Play,"['CVE-2017-15351', 'CVE-2017-17145']",2022-03-21T17:54Z
+3,cpe:2.3:o:huawei:honor_v9_play_firmware:jimmy-al00ac00b135:*:*:*:*:*:*:*,Huawei Honor V9 Play Firmware Jimmy-AL00AC00B135,['CVE-2017-15351'],2022-03-21T17:54Z
+4,cpe:2.3:h:huawei:honor_view_10:-:*:*:*:*:*:*:*,Huawei Honor View 10,"['CVE-2019-19412', 'CVE-2019-5216', 'CVE-2019-5295', 'CVE-2019-9506']",2022-03-21T17:54Z
+5,cpe:2.3:o:huawei:honor_view_10_firmware:-:*:*:*:*:*:*:*,Huawei HONOR VIEW 10 FIRMWARE,"['CVE-2019-19412', 'CVE-2019-5216', 'CVE-2019-5295', 'CVE-2019-9506']",2022-03-21T17:54Z
+6,cpe:2.3:o:huawei:honor_view_10_firmware:9.0.0.202\(c567e6r1p12t8\):*:*:*:*:*:*:*,Huawei Honor View 10 Firmware 9.0.0.202(C567E6R1P12T8),"['CVE-2019-5216', 'CVE-2019-5295']",2022-03-21T17:54Z
+7,cpe:2.3:o:huawei:honor_view_10_firmware:berkeley-al20_9.0.0.125\(c00e125r2p14t8\):*:*:*:*:*:*:*,Huawei Honor View 10 Firmware Berkeley-AL20 9.0.0.125(C00E125R2P14T8),['CVE-2019-5216'],2022-03-21T17:54Z
+8,cpe:2.3:o:huawei:honor_view_10_firmware:berkeley-al20_9.0.0.156\(c00e156r2p14t8\):*:*:*:*:*:*:*,Huawei Honor View 10 Firmware Berkeley-AL20 9.0.0.156(C00E156R2P14T8),[''],2022-03-21T17:54Z
+9,cpe:2.3:h:huawei:honor_view_20:-:*:*:*:*:*:*:*,Huawei Honor View 20,"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506', 'CVE-2020-1808', 'CVE-2020-9074', 'CVE-2020-9235']",2022-03-21T17:54Z

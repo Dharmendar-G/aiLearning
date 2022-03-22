@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:checkpoint:zonealarm_extreme_security:8.0.298.000:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Extreme Security 8.0.298.000,['CVE-2020-6013'],2022-03-19T16:50Z
+1,cpe:2.3:a:checkpoint:zonealarm_extreme_security:8.0.298.035:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Extreme Security 8.0.298.035,['CVE-2020-6013'],2022-03-19T16:50Z
+2,cpe:2.3:a:checkpoint:zonealarm_extreme_security:8.0.400.020:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Extreme Security 8.0.400.020,['CVE-2020-6013'],2022-03-19T16:50Z
+3,cpe:2.3:a:checkpoint:zonealarm_extreme_security:9.0.083.000:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Extreme Security 9.0.083.000,['CVE-2020-6013'],2022-03-19T16:50Z
+4,cpe:2.3:a:checkpoint:zonealarm_extreme_security:9.0.114.000:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Extreme Security 9.0.114.000,['CVE-2020-6013'],2022-03-19T16:50Z
+5,cpe:2.3:a:checkpoint:zonealarm_extreme_security:9.1.008.000:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Extreme Security 9.1.008.000,['CVE-2020-6013'],2022-03-19T16:50Z
+6,cpe:2.3:a:checkpoint:zonealarm_extreme_security:9.1.507.000:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Extreme Security 9.1.507.000,"['CVE-2010-5184', 'CVE-2020-6013']",2022-03-19T16:50Z
+7,cpe:2.3:a:checkpoint:zonealarm_extreme_security:9.1.603.000:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Extreme Security 9.1.603.000,['CVE-2020-6013'],2022-03-19T16:50Z
+8,cpe:2.3:a:checkpoint:zonealarm_extreme_security:9.3.014.000:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Extreme Security 9.3.014.000,['CVE-2020-6013'],2022-03-19T16:50Z
+9,cpe:2.3:a:checkpoint:zonealarm_extreme_security:9.3.037.000:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Extreme Security 9.3.037.000,['CVE-2020-6013'],2022-03-19T16:50Z

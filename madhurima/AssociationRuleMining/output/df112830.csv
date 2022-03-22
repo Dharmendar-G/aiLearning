@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cinny_project:cinny:1.5.1:*:*:*:*:*:*:*,Cinny Project Cinny 1.5.1,['CVE-2021-44538'],2022-03-19T17:42Z
+1,cpe:2.3:a:cinny_project:cinny:1.6.0:*:*:*:*:*:*:*,Cinny Project Cinny 1.6.0,[''],2022-03-19T17:42Z
+2,cpe:2.3:a:ciphercoin:contact_form_7_database_addon_-_cfdb7:1.0.0:*:*:*:*:wordpress:*:*,CipherCoin Contact Form 7 Database Addon - CFDB7 1.0.0 WordPress,"['CVE-2021-36885', 'CVE-2021-36886']",2022-03-19T17:42Z
+3,cpe:2.3:a:ciphercoin:contact_form_7_database_addon_-_cfdb7:1.2.4.11:*:*:*:*:wordpress:*:*,CipherCoin Contact Form 7 Database Addon - CFDB7 1.2.4.11 WordPress,"['CVE-2021-36885', 'CVE-2021-36886']",2022-03-19T17:42Z
+4,cpe:2.3:a:ciphercoin:contact_form_7_database_addon_-_cfdb7:1.2.5:*:*:*:*:wordpress:*:*,CipherCoin Contact Form 7 Database Addon - CFDB7 1.2.5 WordPress,"['CVE-2021-36885', 'CVE-2021-36886']",2022-03-19T17:42Z
+5,cpe:2.3:a:ciphercoin:contact_form_7_database_addon_-_cfdb7:1.2.5.3:*:*:*:*:wordpress:*:*,CipherCoin Contact Form 7 Database Addon - CFDB7 1.2.5.3 WordPress,"['CVE-2021-36885', 'CVE-2021-36886']",2022-03-19T17:42Z
+6,cpe:2.3:a:ciphercoin:contact_form_7_database_addon_-_cfdb7:1.2.5.4:*:*:*:*:wordpress:*:*,CipherCoin Contact Form 7 Database Addon - CFDB7 1.2.5.4 WordPress,"['CVE-2021-36885', 'CVE-2021-36886']",2022-03-19T17:42Z
+7,cpe:2.3:a:ciphercoin:contact_form_7_database_addon_-_cfdb7:1.2.5.8:*:*:*:*:wordpress:*:*,CipherCoin Contact Form 7 Database Addon - CFDB7 1.2.5.8 WordPress,"['CVE-2021-36885', 'CVE-2021-36886']",2022-03-19T17:42Z
+8,cpe:2.3:a:ciphercoin:contact_form_7_database_addon_-_cfdb7:1.2.5.9:*:*:*:*:wordpress:*:*,CipherCoin Contact Form 7 Database Addon - CFDB7 1.2.5.9 WordPress,"['CVE-2021-36885', 'CVE-2021-36886']",2022-03-19T17:42Z
+9,cpe:2.3:a:ciphercoin:contact_form_7_database_addon_-_cfdb7:1.2.6.1:*:*:*:*:wordpress:*:*,CipherCoin Contact Form 7 Database Addon - CFDB7 1.2.6.1 WordPress,['CVE-2021-36885'],2022-03-19T17:42Z

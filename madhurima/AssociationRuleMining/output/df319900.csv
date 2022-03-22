@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:color_laserjet_4650:-:*:*:*:*:*:*:*,HP Color LaserJet 4650,"['CVE-2007-0161', 'CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T13:01Z
+1,cpe:2.3:h:hp:color_laserjet_4700:-:*:*:*:*:*:*:*,HP Color LaserJet 4700,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2011-4161']",2022-03-21T13:01Z
+2,cpe:2.3:h:hp:color_laserjet_4700:q7492a:*:*:*:*:*:*:*,HP Color LaserJet 4700 Q7492A,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2011-4161', 'CVE-2012-5221']",2022-03-21T13:01Z
+3,cpe:2.3:a:hp:color_laserjet_4700_driver:-:*:*:*:*:*:*:*,HP Color LaserJet 4700 printer software,[''],2022-03-21T13:01Z
+4,cpe:2.3:h:hp:color_laserjet_4730_mfp:-:*:*:*:*:*:*:*,HP Color LaserJet 4730 MFP printer,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2009-2684', 'CVE-2011-4161']",2022-03-21T13:01Z
+5,cpe:2.3:h:hp:color_laserjet_4730_mfp:cb480a:*:*:*:*:*:*:*,HP Color LaserJet 4730 Multifunction Printer (MFP) CB480A,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2009-2684', 'CVE-2011-4161', 'CVE-2012-5221']",2022-03-21T13:01Z
+6,cpe:2.3:h:hp:color_laserjet_5550:-:*:*:*:*:*:*:*,HP Color LaserJet 5550,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2011-4161']",2022-03-21T13:01Z
+7,cpe:2.3:h:hp:color_laserjet_5550:q3714a:*:*:*:*:*:*:*,HP Color LaserJet 5550 Q3714A,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2011-4161', 'CVE-2012-5221']",2022-03-21T13:01Z
+8,cpe:2.3:h:hp:color_laserjet_8500:-:*:*:*:*:*:*:*,HP color laserjet 8500 printer,"['CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T13:01Z
+9,cpe:2.3:h:hp:color_laserjet_8550:-:*:*:*:*:*:*:*,HP color laserjet 8550 printer,"['CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T13:01Z

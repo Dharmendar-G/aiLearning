@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:probook_470_g3:-:*:*:*:*:*:*:*,Hp Probook 470 G3,"['CVE-2017-8360', 'CVE-2019-16284']",2022-03-21T15:46Z
+1,cpe:2.3:o:hp:probook_470_g3_firmware:-:*:*:*:*:*:*:*,HP ProBook 470 G3 Firmware,['CVE-2019-16284'],2022-03-21T15:46Z
+2,cpe:2.3:o:hp:probook_470_g3_firmware:1.42:*:*:*:*:*:*:*,HP ProBook 470 G3 Firmware 1.42,[''],2022-03-21T15:46Z
+3,cpe:2.3:h:hp:probook_470_g5:-:*:*:*:*:*:*:*,HP ProBook 470 G5,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:46Z
+4,cpe:2.3:o:hp:probook_470_g5_firmware:-:*:*:*:*:*:*:*,HP ProBook 470 G5 Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:46Z
+5,cpe:2.3:h:hp:probook_630_g8:-:*:*:*:*:*:*:*,HP Probook 630 G8,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:46Z
+6,cpe:2.3:o:hp:probook_630_g8_firmware:-:*:*:*:*:*:*:*,HP ProBook 630 G8 Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:46Z
+7,cpe:2.3:h:hp:probook_640_g1:-:*:*:*:*:*:*:*,HP ProBook 640 G1,"['CVE-2015-5367', 'CVE-2015-5368', 'CVE-2019-16284']",2022-03-21T15:46Z
+8,cpe:2.3:o:hp:probook_640_g1_firmware:-:*:*:*:*:*:*:*,HP ProBook 640 G1 Firmware,['CVE-2019-16284'],2022-03-21T15:46Z
+9,cpe:2.3:o:hp:probook_640_g1_firmware:1.49:*:*:*:*:*:*:*,HP ProBook 640 G1 Firmware 1.49,[''],2022-03-21T15:46Z

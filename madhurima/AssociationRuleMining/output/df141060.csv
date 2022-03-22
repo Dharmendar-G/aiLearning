@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:citrix:xenmobile_server:10.10:*:*:*:*:*:*:*,Citrix XenMobile Server 10.10,[''],2022-03-20T01:42Z
+1,cpe:2.3:a:citrix:xenmobile_server:10.10.0:-:*:*:*:*:*:*,Citrix XenMobile Server 10.10.0,"['CVE-2020-8208', 'CVE-2020-8209', 'CVE-2020-8210', 'CVE-2020-8211', 'CVE-2020-8212', 'CVE-2020-8253']",2022-03-20T01:42Z
+2,cpe:2.3:a:citrix:xenmobile_server:10.10.0:rolling_patch1:*:*:*:*:*:*,Citrix XenMobile Server 10.10.0 Rolling Patch 1,"['CVE-2020-8208', 'CVE-2020-8209', 'CVE-2020-8210', 'CVE-2020-8211', 'CVE-2020-8212', 'CVE-2020-8253']",2022-03-20T01:42Z
+3,cpe:2.3:a:citrix:xenmobile_server:10.10.0:rolling_patch2:*:*:*:*:*:*,Citrix XenMobile Server 10.10.0 Rolling Patch 2,"['CVE-2020-8208', 'CVE-2020-8209', 'CVE-2020-8210', 'CVE-2020-8211', 'CVE-2020-8212', 'CVE-2020-8253']",2022-03-20T01:42Z
+4,cpe:2.3:a:citrix:xenmobile_server:10.10.0:rolling_patch3:*:*:*:*:*:*,Citrix XenMobile Server 10.10.0 Rolling Patch 3,"['CVE-2020-8208', 'CVE-2020-8209', 'CVE-2020-8210', 'CVE-2020-8211', 'CVE-2020-8212', 'CVE-2020-8253']",2022-03-20T01:42Z
+5,cpe:2.3:a:citrix:xenmobile_server:10.10.0:rolling_patch4:*:*:*:*:*:*,Citrix XenMobile Server 10.10.0 Rolling Patch 4,"['CVE-2020-8208', 'CVE-2020-8209', 'CVE-2020-8210', 'CVE-2020-8211', 'CVE-2020-8212', 'CVE-2020-8253']",2022-03-20T01:42Z
+6,cpe:2.3:a:citrix:xenmobile_server:10.10.0:rolling_patch5:*:*:*:*:*:*,Citrix XenMobile Server 10.10.0 Rolling Patch 5,"['CVE-2020-8208', 'CVE-2020-8209', 'CVE-2020-8210', 'CVE-2020-8211', 'CVE-2020-8212', 'CVE-2020-8253']",2022-03-20T01:42Z
+7,cpe:2.3:a:citrix:xenmobile_server:10.11.0:-:*:*:*:*:*:*,Citrix XenMobile Server 10.11.0,"['CVE-2020-8208', 'CVE-2020-8209', 'CVE-2020-8210', 'CVE-2020-8211', 'CVE-2020-8212', 'CVE-2020-8253']",2022-03-20T01:42Z
+8,cpe:2.3:a:citrix:xenmobile_server:10.11.0:rolling_patch1:*:*:*:*:*:*,Citrix XenMobile Server 10.11.0 Rolling Patch 1,"['CVE-2020-8208', 'CVE-2020-8209', 'CVE-2020-8210', 'CVE-2020-8211', 'CVE-2020-8212', 'CVE-2020-8253']",2022-03-20T01:42Z
+9,cpe:2.3:a:citrix:xenmobile_server:10.11.0:rolling_patch2:*:*:*:*:*:*,Citrix XenMobile Server 10.11.0 Rolling Patch 2,"['CVE-2020-8208', 'CVE-2020-8209', 'CVE-2020-8210', 'CVE-2020-8211', 'CVE-2020-8212', 'CVE-2020-8253']",2022-03-20T01:42Z

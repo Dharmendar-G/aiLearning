@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avast:internet_security:11.1.2241:*:*:*:*:*:*:*,Avast Internet Security 11.1.2241,"['CVE-2016-4025', 'CVE-2017-5567']",2022-03-19T03:59Z
+1,cpe:2.3:a:avast:internet_security:11.1.2245:*:*:*:*:*:*:*,Avast Internet Security 11.1.2245,"['CVE-2016-4025', 'CVE-2017-5567']",2022-03-19T03:59Z
+2,cpe:2.3:a:avast:internet_security:11.1.2253:*:*:*:*:*:*:*,Avast Internet Security 11.1.2253,"['CVE-2016-4025', 'CVE-2017-5567']",2022-03-19T03:59Z
+3,cpe:2.3:a:avast:internet_security:11.1.2260:*:*:*:*:*:*:*,Avast Internet Security 11.1.2260,"['CVE-2016-4025', 'CVE-2017-5567']",2022-03-19T03:59Z
+4,cpe:2.3:a:avast:internet_security:11.1.2261:*:*:*:*:*:*:*,Avast Internet Security 11.1.2261,"['CVE-2016-4025', 'CVE-2017-5567']",2022-03-19T03:59Z
+5,cpe:2.3:a:avast:internet_security:11.1.2262:*:*:*:*:*:*:*,Avast Internet Security 11.1.2262,"['CVE-2016-4025', 'CVE-2017-5567']",2022-03-19T03:59Z
+6,cpe:2.3:a:avast:internet_security:12.3:*:*:*:*:*:*:*,Avast Internet Security 12.3,['CVE-2017-5567'],2022-03-19T03:59Z
+7,cpe:2.3:a:avast:premier:11.1.2241:*:*:*:*:*:*:*,Avast Premier 11.1.2241,"['CVE-2016-4025', 'CVE-2017-5567']",2022-03-19T03:59Z
+8,cpe:2.3:a:avast:premier:11.1.2245:*:*:*:*:*:*:*,Avast Premier 11.1.2245,"['CVE-2016-4025', 'CVE-2017-5567']",2022-03-19T03:59Z
+9,cpe:2.3:a:avast:premier:11.1.2253:*:*:*:*:*:*:*,Avast Premier 11.1.2253,"['CVE-2016-4025', 'CVE-2017-5567']",2022-03-19T03:59Z

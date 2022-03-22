@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:algolplus:advanced_order_export:2.1.1:*:*:*:*:wordpress:*:*,Algol Plus Advanced Order Export 2.1.1 for WordPress,"['CVE-2021-24169', 'CVE-2021-27349']",2022-03-18T14:48Z
+1,cpe:2.3:a:algolplus:advanced_order_export:3.0.0:*:*:*:*:wordpress:*:*,Algol Plus Advanced Order Export 3.0.0 for WordPress,"['CVE-2021-24169', 'CVE-2021-27349']",2022-03-18T14:48Z
+2,cpe:2.3:a:algolplus:advanced_order_export:3.1.3:*:*:*:*:wordpress:*:*,Algol Plus Advanced Order Export 3.1.3 for WordPress,"['CVE-2020-11727', 'CVE-2021-24169', 'CVE-2021-27349']",2022-03-18T14:48Z
+3,cpe:2.3:a:algolplus:advanced_order_export:3.1.4:*:*:*:*:wordpress:*:*,Algolplus Advanced Order Export 3.1.4 for WordPress,"['CVE-2021-24169', 'CVE-2021-27349']",2022-03-18T14:48Z
+4,cpe:2.3:a:algolplus:advanced_order_export:3.1.5:*:*:*:*:wordpress:*:*,Algolplus Advanced Order Export 3.1.5 for WordPress,"['CVE-2021-24169', 'CVE-2021-27349']",2022-03-18T14:48Z
+5,cpe:2.3:a:algolplus:advanced_order_export:3.1.6:*:*:*:*:wordpress:*:*,Algolplus Advanced Order Export 3.1.6 for WordPress,"['CVE-2021-24169', 'CVE-2021-27349']",2022-03-18T14:48Z
+6,cpe:2.3:a:algolplus:advanced_order_export:3.1.7:*:*:*:*:wordpress:*:*,Algolplus Advanced Order Export 3.1.7 for WordPress,"['CVE-2021-24169', 'CVE-2021-27349']",2022-03-18T14:48Z
+7,cpe:2.3:a:algolplus:advanced_order_export:3.1.8:*:*:*:*:wordpress:*:*,Algolplus Advanced Order Export 3.1.8 for WordPress,[''],2022-03-18T14:48Z
+8,cpe:2.3:a:algorithmica_project:algorithmica:-:*:*:*:*:rust:*:*,Algorithmica Project Algorithmica for Rust,['CVE-2021-31996'],2022-03-18T14:48Z
+9,cpe:2.3:a:algorithmica_project:algorithmica:2021-03-07:*:*:*:*:rust:*:*,Algorithmica Project Algorithmica 2021-03-07 for Rust,['CVE-2021-31996'],2022-03-18T14:48Z

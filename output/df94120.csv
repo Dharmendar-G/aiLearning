@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bscw:bscw_classic:5.1.0:*:*:*:*:*:*:*,BSCW Classic 5.1.0,"['CVE-2021-36359', 'CVE-2021-39271']",2022-03-19T12:43Z
+1,cpe:2.3:a:bscw:bscw_classic:5.1.10:*:*:*:*:*:*:*,BSCW Classic 5.1.10,[''],2022-03-19T12:43Z
+2,cpe:2.3:a:bscw:bscw_classic:5.2.0:*:*:*:*:*:*:*,BSCW Classic 5.2.0,"['CVE-2021-36359', 'CVE-2021-39271']",2022-03-19T12:43Z
+3,cpe:2.3:a:bscw:bscw_classic:5.2.4:*:*:*:*:*:*:*,BSCW Classic 5.2.4,[''],2022-03-19T12:43Z
+4,cpe:2.3:a:bscw:bscw_classic:7.3.0:*:*:*:*:*:*:*,BSCW Classic 7.3.0,"['CVE-2021-36359', 'CVE-2021-39271']",2022-03-19T12:43Z
+5,cpe:2.3:a:bscw:bscw_classic:7.3.3:*:*:*:*:*:*:*,BSCW Classic 7.3.3,[''],2022-03-19T12:43Z
+6,cpe:2.3:a:bscw:bscw_classic:7.4.0:*:*:*:*:*:*:*,BSCW Classic 7.4.0,"['CVE-2021-36359', 'CVE-2021-39271']",2022-03-19T12:43Z
+7,cpe:2.3:a:bscw:bscw_classic:7.4.3:*:*:*:*:*:*:*,BSCW Classic 7.4.3,[''],2022-03-19T12:43Z
+8,cpe:2.3:a:bsd_group:license_server:6.1.2:*:*:*:*:*:*:*,Bsd Group License Server 6.1.2,[''],2022-03-19T12:43Z
+9,cpe:2.3:a:bsd_mailx_project:bsd_mailx:8.1.2:*:*:*:*:*:*:*,BSD mailx project bsd mailx 8.1.2,"['CVE-2004-2771', 'CVE-2014-7844']",2022-03-19T12:43Z

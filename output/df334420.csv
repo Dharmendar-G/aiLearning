@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:honor_v30_firmware:10.0.1.135\(c00e130r4p1\):*:*:*:*:*:*:*,Huawei Honor V30 Firmware 10.0.1.135(C00E130R4P1),"['CVE-2020-9064', 'CVE-2020-9259']",2022-03-21T17:54Z
+1,cpe:2.3:o:huawei:honor_v30_firmware:10.1.0.212\(c00e210r5p1\):*:*:*:*:*:*:*,Huawei Honor V30 Firmware 10.1.0.212(C00E210R5P1),['CVE-2020-9064'],2022-03-21T17:54Z
+2,cpe:2.3:o:huawei:honor_v30_firmware:oxfords-an00a_10.0.1.167\(c00e166r4p1\):*:*:*:*:*:*:*,Huawei Honor V30 Firmware OxfordS-AN00A 10.0.1.167(C00E166R4P1),['CVE-2020-9064'],2022-03-21T17:54Z
+3,cpe:2.3:h:huawei:honor_v8:-:*:*:*:*:*:*:*,Huawei Honor V8,"['CVE-2017-8214', 'CVE-2017-8215']",2022-03-21T17:54Z
+4,cpe:2.3:o:huawei:honor_v8_firmware:knt-al10c00b391:*:*:*:*:*:*:*,Huawei Honor V8 Firmware KNT-AL10C00B391,"['CVE-2017-8214', 'CVE-2017-8215']",2022-03-21T17:54Z
+5,cpe:2.3:o:huawei:honor_v8_firmware:knt-al20c00b391:*:*:*:*:*:*:*,Huawei Honor V8 Firmware KNT-AL20C00B391,"['CVE-2017-8214', 'CVE-2017-8215']",2022-03-21T17:54Z
+6,cpe:2.3:o:huawei:honor_v8_firmware:knt-tl10c00b391:*:*:*:*:*:*:*,Huawei Honor V8 Firmware KNT-TL10C00B391,"['CVE-2017-8214', 'CVE-2017-8215']",2022-03-21T17:54Z
+7,cpe:2.3:o:huawei:honor_v8_firmware:knt-ul10c00b391:*:*:*:*:*:*:*,Huawei Honor V8 Firmware KNT-UL10C00B391,[''],2022-03-21T17:54Z
+8,cpe:2.3:h:huawei:honor_v9:-:*:*:*:*:*:*:*,Huawei Honor V9,"['CVE-2017-8166', 'CVE-2017-8214', 'CVE-2017-8215']",2022-03-21T17:54Z
+9,cpe:2.3:o:huawei:honor_v9_firmware:duke-al20c00b191:*:*:*:*:*:*:*,Huawei Honor V9 Firmware Duke-AL20C00B191,"['CVE-2017-8166', 'CVE-2017-8214', 'CVE-2017-8215']",2022-03-21T17:54Z

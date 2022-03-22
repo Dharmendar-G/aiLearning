@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:courier-mta:courier_mail_server:0.78.3:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 0.78.3",['CVE-2021-38084'],2022-03-20T08:10Z
+1,cpe:2.3:a:courier-mta:courier_mail_server:1.0.0:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 1.0.0",['CVE-2021-38084'],2022-03-20T08:10Z
+2,cpe:2.3:a:courier-mta:courier_mail_server:1.0.1:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 1.0.1",['CVE-2021-38084'],2022-03-20T08:10Z
+3,cpe:2.3:a:courier-mta:courier_mail_server:1.0.2:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 1.0.2",['CVE-2021-38084'],2022-03-20T08:10Z
+4,cpe:2.3:a:courier-mta:courier_mail_server:1.0.3:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 1.0.3",['CVE-2021-38084'],2022-03-20T08:10Z
+5,cpe:2.3:a:courier-mta:courier_mail_server:1.0.4:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 1.0.4",['CVE-2021-38084'],2022-03-20T08:10Z
+6,cpe:2.3:a:courier-mta:courier_mail_server:1.0.5:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 1.0.5",['CVE-2021-38084'],2022-03-20T08:10Z
+7,cpe:2.3:a:courier-mta:courier_mail_server:1.0.6:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 1.0.6",['CVE-2021-38084'],2022-03-20T08:10Z
+8,cpe:2.3:a:courier-mta:courier_mail_server:1.0.7:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 1.0.7",['CVE-2021-38084'],2022-03-20T08:10Z
+9,cpe:2.3:a:courier-mta:courier_mail_server:1.0.8:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, INC) Courier Mail Server 1.0.8",['CVE-2021-38084'],2022-03-20T08:10Z

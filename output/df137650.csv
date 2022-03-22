@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:unity_connection:11.5su7:*:*:*:*:*:*:*,Cisco Unity Connection 11.5su7,"['CVE-2020-3129', 'CVE-2021-1380', 'CVE-2021-1409', 'CVE-2021-34701']",2022-03-20T00:58Z
+1,cpe:2.3:a:cisco:unity_connection:12.0:*:*:*:*:*:*:*,Cisco Unity Connection 12.0,"['CVE-2017-6779', 'CVE-2019-12707', 'CVE-2019-1915', 'CVE-2020-3129', 'CVE-2020-3130', 'CVE-2021-1380', 'CVE-2021-1409', 'CVE-2021-34701']",2022-03-20T00:58Z
+2,cpe:2.3:a:cisco:unity_connection:12.0\(1\):*:*:*:*:*:*:*,Cisco Unity Connection 12.0(1),"['CVE-2020-3129', 'CVE-2020-3130', 'CVE-2020-3282', 'CVE-2021-1226', 'CVE-2021-1362', 'CVE-2021-1380', 'CVE-2021-1409', 'CVE-2021-34701']",2022-03-20T00:58Z
+3,cpe:2.3:a:cisco:unity_connection:12.0\(1\)su4:*:*:*:*:*:*:*,Cisco Unity Connection 12.0(1)SU4,"['CVE-2020-3129', 'CVE-2020-3130', 'CVE-2021-1362', 'CVE-2021-1380', 'CVE-2021-1409', 'CVE-2021-34701']",2022-03-20T00:58Z
+4,cpe:2.3:a:cisco:unity_connection:12.5:*:*:*:*:*:*:*,Cisco Unity Connection 12.5,"['CVE-2018-0354', 'CVE-2018-15396', 'CVE-2019-12707', 'CVE-2019-1685', 'CVE-2019-1915', 'CVE-2020-3129', 'CVE-2020-3130', 'CVE-2021-1362', 'CVE-2021-1380', 'CVE-2021-1409', 'CVE-2021-34701']",2022-03-20T00:58Z
+5,cpe:2.3:a:cisco:unity_connection:12.5\(1\):*:*:*:*:*:*:*,Cisco Unity Connection 12.5(1),"['CVE-2020-3129', 'CVE-2020-3130', 'CVE-2020-3282', 'CVE-2021-1226', 'CVE-2021-1362', 'CVE-2021-1380', 'CVE-2021-1409', 'CVE-2021-34701']",2022-03-20T00:58Z
+6,cpe:2.3:a:cisco:unity_connection:12.5\(1\)su3:*:*:*:*:*:*:*,Cisco Unity Connection 12.5(1)SU3,"['CVE-2020-3129', 'CVE-2020-3130', 'CVE-2021-1362', 'CVE-2021-1380', 'CVE-2021-1409', 'CVE-2021-34701']",2022-03-20T00:58Z
+7,cpe:2.3:a:cisco:unity_connection:12.5su2:*:*:*:*:*:*:*,Cisco Unity Connection 12.5SU2,"['CVE-2021-1380', 'CVE-2021-1409', 'CVE-2021-34701']",2022-03-20T00:58Z
+8,cpe:2.3:a:cisco:unity_connection:14.0:*:*:*:*:*:*:*,Cisco Unity Connection 14.0,"['CVE-2019-1915', 'CVE-2021-34701']",2022-03-20T00:58Z
+9,cpe:2.3:a:cisco:unity_connection:vmo-11.5\(1\):*:*:*:*:*:*:*,Cisco Unity Connection VMO 11.5(1),['CVE-2018-15426'],2022-03-20T00:58Z

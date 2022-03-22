@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:blackberry:blackberry_os:10.1.0.2006:*:*:*:*:*:*:*,Blackberry OS 10.1.0.2006,['CVE-2014-2388'],2022-03-19T08:35Z
+1,cpe:2.3:o:blackberry:blackberry_os:10.1.0.2014:*:*:*:*:*:*:*,Blackberry OS 10.1.0.2014,['CVE-2014-2388'],2022-03-19T08:35Z
+2,cpe:2.3:o:blackberry:blackberry_os:10.1.0.2019:*:*:*:*:*:*:*,Blackberry OS 10.1.0.2019,['CVE-2014-2388'],2022-03-19T08:35Z
+3,cpe:2.3:o:blackberry:blackberry_os:10.1.0.2312:*:*:*:*:*:*:*,Blackberry OS 10.1.0.2312,"['CVE-2014-2388', 'CVE-2014-2389']",2022-03-19T08:35Z
+4,cpe:2.3:o:blackberry:blackberry_os:10.1.0.2354:*:*:*:*:*:*:*,BlackBerry OS 10.1.0.2354,['CVE-2014-2388'],2022-03-19T08:35Z
+5,cpe:2.3:o:blackberry:blackberry_os:10.2.0:*:*:*:*:*:*:*,Blackberry OS 10.2.0,['CVE-2014-6611'],2022-03-19T08:35Z
+6,cpe:2.3:o:blackberry:blackberry_os:10.2.0.1055:*:*:*:*:*:*:*,BlackBerry OS 10.2.0.1055,[''],2022-03-19T08:35Z
+7,cpe:2.3:o:blackberry:blackberry_os:10.2.0.1443:*:*:*:*:*:*:*,BlackBerry OS 10.2.0.1443,[''],2022-03-19T08:35Z
+8,cpe:2.3:o:blackberry:blackberry_os:10.2.1:*:*:*:*:*:*:*,Blackberry OS 10.2.1,['CVE-2014-6611'],2022-03-19T08:35Z
+9,cpe:2.3:o:blackberry:blackberry_os:10.2.1.3175:*:*:*:*:*:*:*,BlackBerry OS 10.2.1.3175,[''],2022-03-19T08:35Z

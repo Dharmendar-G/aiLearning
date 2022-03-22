@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:cloudtoken:0.1.14:*:*:*:*:*:*:*,Atlassian Cloudtoken 0.1.14,['CVE-2018-13390'],2022-03-19T00:25Z
+1,cpe:2.3:a:atlassian:cloudtoken:0.1.15:*:*:*:*:*:*:*,Atlassian Cloudtoken 0.1.15,['CVE-2018-13390'],2022-03-19T00:25Z
+2,cpe:2.3:a:atlassian:cloudtoken:0.1.16:*:*:*:*:*:*:*,Atlassian Cloudtoken 0.1.16,['CVE-2018-13390'],2022-03-19T00:25Z
+3,cpe:2.3:a:atlassian:cloudtoken:0.1.17:*:*:*:*:*:*:*,Atlassian Cloudtoken 0.1.17,['CVE-2018-13390'],2022-03-19T00:25Z
+4,cpe:2.3:a:atlassian:cloudtoken:0.1.18:*:*:*:*:*:*:*,Atlassian Cloudtoken 0.1.18,['CVE-2018-13390'],2022-03-19T00:25Z
+5,cpe:2.3:a:atlassian:cloudtoken:0.1.19:*:*:*:*:*:*:*,Atlassian Cloudtoken 0.1.19,['CVE-2018-13390'],2022-03-19T00:25Z
+6,cpe:2.3:a:atlassian:cloudtoken:0.1.21:*:*:*:*:*:*:*,Atlassian Cloudtoken 0.1.21,['CVE-2018-13390'],2022-03-19T00:25Z
+7,cpe:2.3:a:atlassian:cloudtoken:0.1.22:*:*:*:*:*:*:*,Atlassian Cloudtoken 0.1.22,['CVE-2018-13390'],2022-03-19T00:25Z
+8,cpe:2.3:a:atlassian:cloudtoken:0.1.23:*:*:*:*:*:*:*,Atlassian Cloudtoken 0.1.23,['CVE-2018-13390'],2022-03-19T00:25Z
+9,cpe:2.3:a:atlassian:cloudtoken:0.1.24:*:*:*:*:*:*:*,Atlassian Cloudtoken 0.1.24,[''],2022-03-19T00:25Z

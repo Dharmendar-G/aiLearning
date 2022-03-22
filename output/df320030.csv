@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:color_laserjet_enterprise_m750_d3l08a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise M750 D3L08A,['CVE-2020-28419'],2022-03-21T13:03Z
+1,cpe:2.3:h:hp:color_laserjet_enterprise_m750_d3l09a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise M750 D3L09A,['CVE-2020-28419'],2022-03-21T13:03Z
+2,cpe:2.3:h:hp:color_laserjet_enterprise_m750_d3l10a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise M750 D3L10A,['CVE-2020-28419'],2022-03-21T13:03Z
+3,cpe:2.3:o:hp:color_laserjet_enterprise_m750_firmware:-:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise M750 Firmware -,"['CVE-2018-5923', 'CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T13:03Z
+4,cpe:2.3:o:hp:color_laserjet_enterprise_m750_firmware:2308974_579776:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise M750 Firmware 2308974 579776,['CVE-2019-6318'],2022-03-21T13:03Z
+5,cpe:2.3:o:hp:color_laserjet_enterprise_m750_firmware:2309010_581423:*:*:*:*:*:*:*,HP Color Laserjet Enterprise M750 Firmware 2309010 581423,[''],2022-03-21T13:03Z
+6,cpe:2.3:h:hp:color_laserjet_enterprise_m855:-:*:*:*:*:*:*:*,HP Color Laserjet Enterprise M855,['CVE-2019-6318'],2022-03-21T13:03Z
+7,cpe:2.3:h:hp:color_laserjet_enterprise_m855_a2w77a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise M855 A2W77A,['CVE-2020-28419'],2022-03-21T13:03Z
+8,cpe:2.3:h:hp:color_laserjet_enterprise_m855_a2w78a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise M855 A2W78A,['CVE-2020-28419'],2022-03-21T13:03Z
+9,cpe:2.3:h:hp:color_laserjet_enterprise_m855_a2w79a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise M855 A2W79A,['CVE-2020-28419'],2022-03-21T13:03Z

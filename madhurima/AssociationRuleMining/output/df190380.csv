@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:d-link:dir-619l:-:*:*:*:*:*:*:*,D-Link DIR-619L,"['CVE-2018-20056', 'CVE-2018-20057']",2022-03-20T16:01Z
+1,cpe:2.3:h:d-link:dir-619l:a1:*:*:*:*:*:*:*,D-Link Dir-619L A1,['CVE-2014-8361'],2022-03-20T16:01Z
+2,cpe:2.3:h:d-link:dir-619l:b1:*:*:*:*:*:*:*,D-Link Dir-619L B1,['CVE-2014-8361'],2022-03-20T16:01Z
+3,cpe:2.3:o:d-link:dir-619l_firmware:1.15:*:*:*:*:*:*:*,D-Link Dir-619L Firmware 1.15,['CVE-2014-8361'],2022-03-20T16:01Z
+4,cpe:2.3:o:d-link:dir-619l_firmware:2.03:*:*:*:*:*:*:*,D-Link Dir-619L Firmware 2.03,['CVE-2014-8361'],2022-03-20T16:01Z
+5,cpe:2.3:h:d-link:dir-620:-:*:*:*:*:*:*:*,D-Link DIR-620,"['CVE-2018-6211', 'CVE-2018-6212', 'CVE-2018-6213']",2022-03-20T16:01Z
+6,cpe:2.3:h:d-link:dir-626l:-:*:*:*:*:*:*:*,D-Link DIR-626L,['CVE-2015-1187'],2022-03-20T16:01Z
+7,cpe:2.3:h:d-link:dir-636l:-:*:*:*:*:*:*:*,D-Link DIR-636L,['CVE-2015-1187'],2022-03-20T16:01Z
+8,cpe:2.3:h:d-link:dir-640l:-:*:*:*:*:*:*:*,D-Link DIR-640L,"['CVE-2018-10822', 'CVE-2018-10824']",2022-03-20T16:02Z
+9,cpe:2.3:o:d-link:dir-640l_firmware:-:*:*:*:*:*:*:*,D-Link DIR-640L Firmware,"['CVE-2018-10822', 'CVE-2018-10824']",2022-03-20T16:02Z

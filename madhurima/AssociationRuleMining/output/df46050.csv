@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:argosoft:mail_server:1.2.2.0:*:*:*:*:*:*:*,ArGo Software Design Mail Server 1.2.2.0,[''],2022-03-18T22:57Z
+1,cpe:2.3:a:argosoft:mail_server:1.2.3.0:*:*:*:*:*:*:*,ArGo Software Design Mail Server 1.2.3.0,[''],2022-03-18T22:56Z
+2,cpe:2.3:a:argosoft:mail_server:1.8.8.9:*:*:*:*:*:*:*,ArGo Software Design Mail Server 1.8.8.9,['CVE-2020-23824'],2022-03-18T22:57Z
+3,cpe:2.3:a:argosoft:mini_mail_server:1.0.0.2:*:*:*:*:*:*:*,ArGo Software Design Mini Mail Server 1.0.0.2,['CVE-2017-15223'],2022-03-18T22:57Z
+4,cpe:2.3:a:argussurveillance:dvr:4.0.0.0:*:*:*:*:*:*:*,Argus Surveillance DVR 4.0.0.0,"['CVE-2018-15745', 'CVE-2022-25012']",2022-03-18T22:57Z
+5,cpe:2.3:a:argyllcms:argyllcms:0.1.0:*:*:*:*:*:*:*,Argyll Color Management System (CMS) 0.1.0,"['CVE-2009-0583', 'CVE-2009-0792', 'CVE-2012-1616']",2022-03-18T22:57Z
+6,cpe:2.3:a:argyllcms:argyllcms:0.2.0:*:*:*:*:*:*:*,Argyll Color Management System (CMS) 0.2.0,"['CVE-2009-0583', 'CVE-2009-0792', 'CVE-2012-1616']",2022-03-18T22:57Z
+7,cpe:2.3:a:argyllcms:argyllcms:0.2.1:*:*:*:*:*:*:*,Argyll Color Management System (CMS) 0.2.1,"['CVE-2009-0583', 'CVE-2009-0792', 'CVE-2012-1616']",2022-03-18T22:57Z
+8,cpe:2.3:a:argyllcms:argyllcms:0.2.2:*:*:*:*:*:*:*,Argyll Color Management System (CMS) 0.2.2,"['CVE-2009-0583', 'CVE-2009-0792', 'CVE-2012-1616']",2022-03-18T22:57Z
+9,cpe:2.3:a:argyllcms:argyllcms:0.3.0:*:*:*:*:*:*:*,Argyll Color Management System (CMS) 0.3.0,"['CVE-2009-0583', 'CVE-2009-0792', 'CVE-2012-1616']",2022-03-18T22:57Z

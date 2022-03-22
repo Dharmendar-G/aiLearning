@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:acronis:true_image:2019:2:*:*:*:macos:*:*,Acronis True Image 2019 2 for MacOS,"['CVE-2020-15495', 'CVE-2020-15496', 'CVE-2020-25593', 'CVE-2020-25736']",2022-03-18T11:07Z
+1,cpe:2.3:a:acronis:true_image:2019:3:*:*:*:macos:*:*,Acronis True Image 2019 3 for MacOS,"['CVE-2020-15495', 'CVE-2020-15496', 'CVE-2020-25593', 'CVE-2020-25736']",2022-03-18T11:07Z
+2,cpe:2.3:a:acronis:true_image:2020:*:*:*:*:android:*:*,Acronis True Image 2020 for Android,[''],2022-03-18T11:07Z
+3,cpe:2.3:a:acronis:true_image:2020:*:*:*:*:-:*:*,Acronis True Image 2020,[''],2022-03-18T11:07Z
+4,cpe:2.3:a:acronis:true_image:2020:*:*:*:*:android:*:*,Acronis True Image 2020 for Android,[''],2022-03-18T11:08Z
+5,cpe:2.3:a:acronis:true_image:2020:*:*:*:*:iphone_os:*:*,Acronis True Image 2020 for iPhone OS,[''],2022-03-18T11:07Z
+6,cpe:2.3:a:acronis:true_image:2020:*:*:*:*:macos:*:*,Acronis True Image 2020 for Macos,"['CVE-2020-15496', 'CVE-2020-25593', 'CVE-2020-25736']",2022-03-18T11:07Z
+7,cpe:2.3:a:acronis:true_image:2020:*:*:*:*:windows:*:*,Acronis True Image 2020 for Windows,['CVE-2020-35145'],2022-03-18T11:08Z
+8,cpe:2.3:a:acronis:true_image:2020:-:*:*:*:macos:*:*,Acronis True Image 2020 - for MacOS,"['CVE-2020-15495', 'CVE-2020-15496', 'CVE-2020-25593', 'CVE-2020-25736']",2022-03-18T11:08Z
+9,cpe:2.3:a:acronis:true_image:2021:*:*:*:*:android:*:*,Acronis True Image 2021 for Android,"['CVE-2020-10139', 'CVE-2020-10140']",2022-03-18T11:08Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:actiontec:wcb6200q_firmware:1.1.04.35:*:*:*:*:*:*:*,Actiontec WCB6200Q 1.1.04.35,['CVE-2018-10252'],2022-03-18T11:12Z
+1,cpe:2.3:o:actiontec:wcb6200q_firmware:1.1.04.36:*:*:*:*:*:*:*,Actiontec WCB6200Q 1.1.04.36,['CVE-2018-10252'],2022-03-18T11:12Z
+2,cpe:2.3:o:actiontec:wcb6200q_firmware:1.1.06.24:*:*:*:*:*:*:*,Actiontec WCB6200Q 1.1.06.24,['CVE-2018-10252'],2022-03-18T11:12Z
+3,cpe:2.3:o:actiontec:wcb6200q_firmware:1.1.10.20:*:*:*:*:*:*:*,Actiontec WCB6200Q 1.1.10.20,['CVE-2018-10252'],2022-03-18T11:12Z
+4,cpe:2.3:o:actiontec:wcb6200q_firmware:1.1.10.20a:*:*:*:*:*:*:*,Actiontec WCB6200Q 1.1.10.20A,[''],2022-03-18T11:12Z
+5,cpe:2.3:h:actiontec:web6000q:-:*:*:*:*:*:*:*,Actiontec WEB6000Q,"['CVE-2018-15555', 'CVE-2018-15556', 'CVE-2018-15557']",2022-03-18T11:12Z
+6,cpe:2.3:o:actiontec:web6000q_firmware:1.1.02.22:*:*:*:*:*:*:*,Actiontec WEB6000Q Firmware 1.1.02.22,"['CVE-2018-15555', 'CVE-2018-15556', 'CVE-2018-15557']",2022-03-18T11:12Z
+7,cpe:2.3:a:activcard:activcard_gold_for_cac:-:*:*:*:*:*:*:*,ActivCard ActivCard Gold CAC,[''],2022-03-18T11:12Z
+8,cpe:2.3:a:activcard:activcard_gold_for_cac:2.24:*:*:*:*:*:*:*,ActivCard ActivCard Gold CAC 2.24,[''],2022-03-18T11:12Z
+9,cpe:2.3:a:activcard:activcard_gold_for_cac:3.0:*:*:*:*:*:*:*,ActivCard ActivCard Gold CAC 3.0,[''],2022-03-18T11:13Z

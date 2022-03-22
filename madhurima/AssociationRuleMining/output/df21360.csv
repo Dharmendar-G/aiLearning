@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:altn:mdaemon:18.5.1:*:*:*:*:*:*:*,Alt-N MDaemon 18.5.1,"['CVE-2019-8983', 'CVE-2019-8984', 'CVE-2021-27180', 'CVE-2021-27181', 'CVE-2021-27182', 'CVE-2021-27183']",2022-03-18T15:17Z
+1,cpe:2.3:a:altn:mdaemon:18.5.2:*:*:*:*:*:*:*,Alt-N MDaemon 18.5.2,"['CVE-2021-27180', 'CVE-2021-27181', 'CVE-2021-27182', 'CVE-2021-27183']",2022-03-18T15:17Z
+2,cpe:2.3:a:altn:mdaemon:18.5.3:*:*:*:*:*:*:*,Alt-N MDaemon 18.5.3,"['CVE-2021-27180', 'CVE-2021-27181', 'CVE-2021-27182', 'CVE-2021-27183']",2022-03-18T15:17Z
+3,cpe:2.3:a:altn:mdaemon_email_server:17.5.1:*:*:*:*:*:*:*,Altn MDaemon Email Server 17.5.1,['CVE-2019-19497'],2022-03-18T15:17Z
+4,cpe:2.3:a:altn:mdaemon_email_server:19:*:*:*:*:*:*:*,Altn MDaemon Email Server 19,['CVE-2019-13612'],2022-03-18T15:17Z
+5,cpe:2.3:a:altn:mdaemon_webmail:-:*:*:*:*:*:*:*,Altn Mdaemon Webmail,"['CVE-2020-18723', 'CVE-2020-18724']",2022-03-18T15:17Z
+6,cpe:2.3:a:altn:mdaemon_webmail:14.0:*:*:*:*:*:*:*,Altn Mdaemon Webmail 14.0,"['CVE-2018-17792', 'CVE-2020-18723', 'CVE-2020-18724']",2022-03-18T15:17Z
+7,cpe:2.3:a:altn:mdaemon_webmail:20.0.0:*:*:*:*:*:*:*,Altn Mdaemon Webmail 20.0.0,"['CVE-2020-18723', 'CVE-2020-18724']",2022-03-18T15:17Z
+8,cpe:2.3:a:altn:mdaemon_webmail:20.0.1:*:*:*:*:*:*:*,Altn Mdaemon Webmail 20.0.1,[''],2022-03-18T15:17Z
+9,cpe:2.3:a:altnet:altnet_download_manager:4.0.0.2:*:*:*:*:*:*:*,Altnet Altnet Download Manager 4.0.0.2,['CVE-2004-2433'],2022-03-18T15:17Z

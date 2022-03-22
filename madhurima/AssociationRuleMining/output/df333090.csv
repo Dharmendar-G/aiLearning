@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:b2368-66:-:*:*:*:*:*:*:*,Huawei B2368-66,['CVE-2020-9199'],2022-03-21T17:24Z
+1,cpe:2.3:o:huawei:b2368-66_firmware:v100r001c00:*:*:*:*:*:*:*,Huawei B2368-66 Firmware V100R001C00,['CVE-2020-9199'],2022-03-21T17:24Z
+2,cpe:2.3:o:huawei:b2368-66_firmware:v100r001c00spc180:*:*:*:*:*:*:*,Huawei B2368-66 Firmware V100R001C00SPC180,[''],2022-03-21T17:24Z
+3,cpe:2.3:h:huawei:b315s-22:-:*:*:*:*:*:*:*,Huawei B315s-22 -,['CVE-2018-7921'],2022-03-21T17:24Z
+4,cpe:2.3:o:huawei:b315s-22_firmware:21.318.01.00.26:*:*:*:*:*:*:*,Huawei B315s-22 Firmware 21.318.01.00.26,['CVE-2018-7921'],2022-03-21T17:24Z
+5,cpe:2.3:h:huawei:baggio2-u01a:-:*:*:*:*:*:*:*,Huawei Baggio2-U01A,['CVE-2018-7907'],2022-03-21T17:25Z
+6,cpe:2.3:o:huawei:baggio2-u01a_firmware:bg2-u01c100b160custc100d001:*:*:*:*:*:*:*,Huawei Baggio2-U01A Firmware BG2-U01C100B160CUSTC100D001,['CVE-2018-7907'],2022-03-21T17:25Z
+7,cpe:2.3:o:huawei:baggio2-u01a_firmware:bg2-u01c170b160custc170d001:*:*:*:*:*:*:*,Huawei Baggio2-U01A Firmware BG2-U01C170B160CUSTC170D001,['CVE-2018-7907'],2022-03-21T17:25Z
+8,cpe:2.3:o:huawei:baggio2-u01a_firmware:bg2-u01c199b162custc199d001:*:*:*:*:*:*:*,Huawei Baggio2-U01A Firmware BG2-U01C199B162CUSTC199D001,['CVE-2018-7907'],2022-03-21T17:25Z
+9,cpe:2.3:o:huawei:baggio2-u01a_firmware:bg2-u01c209b160custc209d001:*:*:*:*:*:*:*,Huawei Baggio2-U01A Firmware BG2-U01C209B160CUSTC209D001,['CVE-2018-7907'],2022-03-21T17:25Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,cpe:2.3:a:duplicity_project:duplicity:0.4.5:*:*:*:*:*:*:*,Duplicity Project Duplicity 0.4.5,['CVE-2007-5201'],2022-03-20T18:53Z
+3,cpe:2.3:a:duplicity_project:duplicity:0.4.6:*:*:*:*:*:*:*,Duplicity Project Duplicity 0.4.6,['CVE-2007-5201'],2022-03-20T18:53Z
+4,cpe:2.3:a:duplicity_project:duplicity:0.4.7:*:*:*:*:*:*:*,Duplicity Project Duplicity 0.4.7,['CVE-2007-5201'],2022-03-20T18:53Z
+5,cpe:2.3:a:duplicity_project:duplicity:0.4.8:*:*:*:*:*:*:*,Duplicity Project Duplicity 0.4.8,['CVE-2007-5201'],2022-03-20T18:53Z
+6,cpe:2.3:a:duplicity_project:duplicity:0.4.9:*:*:*:*:*:*:*,Duplicity Project Duplicity 0.4.9,[''],2022-03-20T18:53Z
+7,cpe:2.3:a:duplicity_project:duplicity:0.4.10:*:*:*:*:*:*:*,Duplicity Project Duplicity 0.4.10,[''],2022-03-20T18:53Z
+8,cpe:2.3:a:duplicity_project:duplicity:0.4.11:*:*:*:*:*:*:*,Duplicity Project Duplicity 0.4.11,[''],2022-03-20T18:53Z
+9,cpe:2.3:a:duplicity_project:duplicity:0.4.12:*:*:*:*:*:*:*,Duplicity Project Duplicity 0.4.12,[''],2022-03-20T18:53Z

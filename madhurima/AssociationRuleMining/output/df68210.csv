@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:azkaban_project:azkaban:2.5.0:rc2:*:*:*:*:*:*,Azkaban Project Azkaban 2.5.0 Release Candidate 2,['CVE-2020-10992'],2022-03-19T05:28Z
+1,cpe:2.3:a:azkaban_project:azkaban:2.5.0:rc3:*:*:*:*:*:*,Azkaban Project Azkaban 2.5.0 Release Candidate 3,['CVE-2020-10992'],2022-03-19T05:28Z
+2,cpe:2.3:a:azkaban_project:azkaban:2.5.0:rc4:*:*:*:*:*:*,Azkaban Project Azkaban 2.5.0 Release Candidate 4,['CVE-2020-10992'],2022-03-19T05:28Z
+3,cpe:2.3:a:azkaban_project:azkaban:2.6.0:*:*:*:*:*:*:*,Azkaban Project Azkaban 2.6.0,['CVE-2020-10992'],2022-03-19T05:28Z
+4,cpe:2.3:a:azkaban_project:azkaban:2.6.1:*:*:*:*:*:*:*,Azkaban Project Azkaban 2.6.1,['CVE-2020-10992'],2022-03-19T05:28Z
+5,cpe:2.3:a:azkaban_project:azkaban:2.6.2:*:*:*:*:*:*:*,Azkaban Project Azkaban 2.6.2,['CVE-2020-10992'],2022-03-19T05:28Z
+6,cpe:2.3:a:azkaban_project:azkaban:2.6.3:*:*:*:*:*:*:*,Azkaban Project Azkaban 2.6.3,['CVE-2020-10992'],2022-03-19T05:28Z
+7,cpe:2.3:a:azkaban_project:azkaban:2.6.4:*:*:*:*:*:*:*,Azkaban Project Azkaban 2.6.4,['CVE-2020-10992'],2022-03-19T05:28Z
+8,cpe:2.3:a:azkaban_project:azkaban:2.7.0:*:*:*:*:*:*:*,Azkaban Project Azkaban 2.7.0,['CVE-2020-10992'],2022-03-19T05:28Z
+9,cpe:2.3:a:azkaban_project:azkaban:3.0.0:*:*:*:*:*:*:*,Azkaban Project Azkaban 3.0.0,['CVE-2020-10992'],2022-03-19T05:28Z

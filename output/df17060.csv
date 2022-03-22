@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ajaxplorer:ajaxplorer:2.7.1:*:*:*:*:*:*:*,AjaXplorer 2.7.1,"['CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z
+1,cpe:2.3:a:ajaxplorer:ajaxplorer:2.7.2:*:*:*:*:*:*:*,AjaXplorer 2.7.2,"['CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z
+2,cpe:2.3:a:ajaxplorer:ajaxplorer:2.7.3:*:*:*:*:*:*:*,AjaXplorer 2.7.3,"['CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z
+3,cpe:2.3:a:ajaxplorer:ajaxplorer:3.0:*:*:*:*:*:*:*,AjaXplorer 3.0,"['CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z
+4,cpe:2.3:a:ajaxplorer:ajaxplorer:3.0.1:*:*:*:*:*:*:*,AjaXplorer 3.0.1,"['CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z
+5,cpe:2.3:a:ajaxplorer:ajaxplorer:3.0.2:*:*:*:*:*:*:*,AjaXplorer 3.0.2,"['CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z
+6,cpe:2.3:a:ajaxplorer:ajaxplorer:3.0.3:*:*:*:*:*:*:*,AjaXplorer 3.0.3,"['CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z
+7,cpe:2.3:a:ajaxplorer:ajaxplorer:3.1:*:*:*:*:*:*:*,AjaXplorer 3.1,"['CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z
+8,cpe:2.3:a:ajaxplorer:ajaxplorer:3.1.1:*:*:*:*:*:*:*,AjaXplorer 3.1.1,"['CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z
+9,cpe:2.3:a:ajaxplorer:ajaxplorer:3.2:*:*:*:*:*:*:*,AjaXplorer 3.2,"['CVE-2012-1839', 'CVE-2012-1840', 'CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z

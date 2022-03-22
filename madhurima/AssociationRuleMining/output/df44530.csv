@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:appserver:appserver:0.9.12:*:*:*:*:*:*:*,Appserver 0.9.12,['CVE-2015-1847'],2022-03-18T22:35Z
+1,cpe:2.3:a:appserver:appserver:0.9.13:*:*:*:*:*:*:*,Appserver 0.9.13,['CVE-2015-1847'],2022-03-18T22:35Z
+2,cpe:2.3:a:appserver:appserver:0.9.14:*:*:*:*:*:*:*,Appserver 0.9.14,['CVE-2015-1847'],2022-03-18T22:35Z
+3,cpe:2.3:a:appserver:appserver:0.9.15:*:*:*:*:*:*:*,Appserver 0.9.15,['CVE-2015-1847'],2022-03-18T22:35Z
+4,cpe:2.3:a:appserver:appserver:0.9.16:*:*:*:*:*:*:*,Appserver 0.9.16,['CVE-2015-1847'],2022-03-18T22:35Z
+5,cpe:2.3:a:appserver:appserver:0.10.0:*:*:*:*:*:*:*,Appserver 0.10.0,['CVE-2015-1847'],2022-03-18T22:35Z
+6,cpe:2.3:a:appserver:appserver:0.10.1:*:*:*:*:*:*:*,Appserver 0.10.1,['CVE-2015-1847'],2022-03-18T22:35Z
+7,cpe:2.3:a:appserver:appserver:0.10.2:*:*:*:*:*:*:*,Appserver 0.10.2,['CVE-2015-1847'],2022-03-18T22:35Z
+8,cpe:2.3:a:appserver:appserver:0.10.3:*:*:*:*:*:*:*,Appserver 0.10.3,['CVE-2015-1847'],2022-03-18T22:35Z
+9,cpe:2.3:a:appserver:appserver:0.10.4:*:*:*:*:*:*:*,Appserver 0.10.4,['CVE-2015-1847'],2022-03-18T22:35Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.197:*:*:*:*:*:*:*,CentOS Web Panel 0.9.8.197,"['CVE-2018-18772', 'CVE-2018-18773', 'CVE-2018-18774', 'CVE-2019-12190', 'CVE-2019-7646']",2022-03-19T15:57Z
+1,cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.226:*:*:*:*:*:*:*,CentOS Web Panel 0.9.8.226,"['CVE-2018-18772', 'CVE-2018-18773', 'CVE-2018-18774', 'CVE-2019-12190', 'CVE-2019-7646']",2022-03-19T15:57Z
+2,cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.237:*:*:*:*:*:*:*,CentOS Web Panel 0.9.8.237,"['CVE-2018-18772', 'CVE-2018-18773', 'CVE-2018-18774', 'CVE-2019-12190', 'CVE-2019-7646']",2022-03-19T15:57Z
+3,cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.238:*:*:*:*:*:*:*,CentOS Web Panel 0.9.8.238,"['CVE-2018-18772', 'CVE-2018-18773', 'CVE-2018-18774', 'CVE-2019-12190', 'CVE-2019-7646']",2022-03-19T15:57Z
+4,cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.239:*:*:*:*:*:*:*,CentOS Web Panel 0.9.8.239,"['CVE-2018-18772', 'CVE-2018-18773', 'CVE-2018-18774', 'CVE-2019-12190', 'CVE-2019-7646']",2022-03-19T15:57Z
+5,cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.240:*:*:*:*:*:*:*,CentOS Web Panel 0.9.8.240,"['CVE-2018-18772', 'CVE-2018-18773', 'CVE-2018-18774', 'CVE-2019-12190', 'CVE-2019-7646']",2022-03-19T15:57Z
+6,cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.247:*:*:*:*:*:*:*,CentOS Web Panel 0.9.8.247,"['CVE-2018-18772', 'CVE-2018-18773', 'CVE-2018-18774', 'CVE-2019-12190', 'CVE-2019-7646']",2022-03-19T15:57Z
+7,cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.248:*:*:*:*:*:*:*,CentOS Web Panel 0.9.8.248,"['CVE-2018-18772', 'CVE-2018-18773', 'CVE-2018-18774', 'CVE-2019-12190', 'CVE-2019-7646']",2022-03-19T15:57Z
+8,cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.249:*:*:*:*:*:*:*,CentOS Web Panel 0.9.8.249,"['CVE-2018-18772', 'CVE-2018-18773', 'CVE-2018-18774', 'CVE-2019-12190', 'CVE-2019-7646']",2022-03-19T15:57Z
+9,cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.250:*:*:*:*:*:*:*,CentOS Web Panel 0.9.8.250,"['CVE-2018-18772', 'CVE-2018-18773', 'CVE-2018-18774', 'CVE-2019-12190', 'CVE-2019-7646']",2022-03-19T15:57Z

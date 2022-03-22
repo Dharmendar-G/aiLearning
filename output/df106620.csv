@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cern:root:6-06-08:*:*:*:*:*:*:*,CERN Root 6-06-08,['CVE-2017-1000203'],2022-03-19T16:17Z
+1,cpe:2.3:a:cern:root:6-07-01:rootaas-1:*:*:*:*:*:*,CERN Root 6-07-01 Rootaas-1,['CVE-2017-1000203'],2022-03-19T16:17Z
+2,cpe:2.3:a:cern:root:6-07-02:*:*:*:*:*:*:*,CERN Root 6-07-02,['CVE-2017-1000203'],2022-03-19T16:17Z
+3,cpe:2.3:a:cern:root:6-07-04:*:*:*:*:*:*:*,CERN Root 6-07-04,['CVE-2017-1000203'],2022-03-19T16:17Z
+4,cpe:2.3:a:cern:root:6-07-06:*:*:*:*:*:*:*,CERN Root 6-07-06,['CVE-2017-1000203'],2022-03-19T16:17Z
+5,cpe:2.3:a:cern:root:6-07-07:aliceml:*:*:*:*:*:*,CERN Root 6-07-07 Aliceml,['CVE-2017-1000203'],2022-03-19T16:17Z
+6,cpe:2.3:a:cern:root:6-08-00:rc1:*:*:*:*:*:*,CERN Root 6-08-00 Release Candidate 1,['CVE-2017-1000203'],2022-03-19T16:17Z
+7,cpe:2.3:a:cern:root:6-08-02:*:*:*:*:*:*:*,CERN Root 6-08-02,['CVE-2017-1000203'],2022-03-19T16:17Z
+8,cpe:2.3:a:cern:root:6-08-04:*:*:*:*:*:*:*,CERN Root 6-08-04,['CVE-2017-1000203'],2022-03-19T16:17Z
+9,cpe:2.3:a:cern:root:6-08-06:*:*:*:*:*:*:*,CERN Root 6-08-06,['CVE-2017-1000203'],2022-03-19T16:17Z

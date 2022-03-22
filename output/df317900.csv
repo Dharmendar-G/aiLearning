@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:horde:kronolith_h4:3.0:*:*:*:*:*:*:*,Horde Kronolith H4 3.0,"['CVE-2012-5566', 'CVE-2012-5567', 'CVE-2012-6620']",2022-03-21T12:35Z
+1,cpe:2.3:a:horde:kronolith_h4:3.0:alpha1:*:*:*:*:*:*,Horde Kronolith H4 3.0 alpha1,"['CVE-2012-5566', 'CVE-2012-5567', 'CVE-2012-6620']",2022-03-21T12:35Z
+2,cpe:2.3:a:horde:kronolith_h4:3.0:beta1:*:*:*:*:*:*,Horde Kronolith H4 3.0 beta1,"['CVE-2012-5566', 'CVE-2012-5567', 'CVE-2012-6620']",2022-03-21T12:35Z
+3,cpe:2.3:a:horde:kronolith_h4:3.0:rc1:*:*:*:*:*:*,Horde Kronolith H4 3.0 release candidate 1,"['CVE-2012-5566', 'CVE-2012-5567', 'CVE-2012-6620']",2022-03-21T12:35Z
+4,cpe:2.3:a:horde:kronolith_h4:3.0:rc2:*:*:*:*:*:*,Horde Kronolith H4 3.0 release candidate 2,"['CVE-2012-5566', 'CVE-2012-5567', 'CVE-2012-6620']",2022-03-21T12:35Z
+5,cpe:2.3:a:horde:kronolith_h4:3.0.1:*:*:*:*:*:*:*,Horde Kronolith H4 3.0.1,"['CVE-2012-5566', 'CVE-2012-5567', 'CVE-2012-6620']",2022-03-21T12:35Z
+6,cpe:2.3:a:horde:kronolith_h4:3.0.2:*:*:*:*:*:*:*,Horde Kronolith H4 3.0.2,"['CVE-2012-5566', 'CVE-2012-5567', 'CVE-2012-6620']",2022-03-21T12:35Z
+7,cpe:2.3:a:horde:kronolith_h4:3.0.3:*:*:*:*:*:*:*,Horde Kronolith H4 3.0.3,"['CVE-2012-5566', 'CVE-2012-5567', 'CVE-2012-6620']",2022-03-21T12:35Z
+8,cpe:2.3:a:horde:kronolith_h4:3.0.4:*:*:*:*:*:*:*,Horde Kronolith H4 3.0.4,"['CVE-2012-5566', 'CVE-2012-5567', 'CVE-2012-6620']",2022-03-21T12:35Z
+9,cpe:2.3:a:horde:kronolith_h4:3.0.5:*:*:*:*:*:*:*,Horde Kronolith H4 3.0.5,"['CVE-2012-5566', 'CVE-2012-5567', 'CVE-2012-6620']",2022-03-21T12:35Z

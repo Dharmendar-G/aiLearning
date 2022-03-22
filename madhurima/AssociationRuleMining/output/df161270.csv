@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:convertplug:convertplus:2.3.2:*:*:*:*:wordpress:*:*,ConvertPlug ConvertPlus 2.3.2 for WordPress,['CVE-2019-15863'],2022-03-20T07:54Z
+1,cpe:2.3:a:convertplug:convertplus:2.3.3:*:*:*:*:wordpress:*:*,ConvertPlug ConvertPlus 2.3.3 for WordPress,['CVE-2019-15863'],2022-03-20T07:54Z
+2,cpe:2.3:a:convertplug:convertplus:2.4.0:*:*:*:*:wordpress:*:*,ConvertPlug ConvertPlus 2.4.0 for WordPress,['CVE-2019-15863'],2022-03-20T07:54Z
+3,cpe:2.3:a:convertplug:convertplus:2.4.1:*:*:*:*:wordpress:*:*,ConvertPlug ConvertPlus 2.4.1 for WordPress,['CVE-2019-15863'],2022-03-20T07:54Z
+4,cpe:2.3:a:convertplug:convertplus:2.4.2:*:*:*:*:wordpress:*:*,ConvertPlug ConvertPlus 2.4.2 for WordPress,['CVE-2019-15863'],2022-03-20T07:54Z
+5,cpe:2.3:a:convertplug:convertplus:3.0:*:*:*:*:wordpress:*:*,ConvertPlug ConvertPlus 3.0 for WordPress,['CVE-2019-15863'],2022-03-20T07:54Z
+6,cpe:2.3:a:convertplug:convertplus:3.0.1:*:*:*:*:wordpress:*:*,ConvertPlug ConvertPlus 3.0.1 for WordPress,['CVE-2019-15863'],2022-03-20T07:54Z
+7,cpe:2.3:a:convertplug:convertplus:3.0.2:*:*:*:*:wordpress:*:*,ConvertPlug ConvertPlus 3.0.2 for WordPress,['CVE-2019-15863'],2022-03-20T07:54Z
+8,cpe:2.3:a:convertplug:convertplus:3.0.3:*:*:*:*:wordpress:*:*,ConvertPlug ConvertPlus 3.0.3 for WordPress,['CVE-2019-15863'],2022-03-20T07:54Z
+9,cpe:2.3:a:convertplug:convertplus:3.1.0:*:*:*:*:wordpress:*:*,ConvertPlug ConvertPlus 3.1.0 for WordPress,['CVE-2019-15863'],2022-03-20T07:54Z

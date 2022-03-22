@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apostrophecms:apostrophecms:2.92.0:*:*:*:*:*:*:*,ApostropheCMS 2.92.0,"['CVE-2021-25978', 'CVE-2021-25979']",2022-03-18T21:42Z
+1,cpe:2.3:a:apostrophecms:apostrophecms:2.92.1:*:*:*:*:*:*:*,ApostropheCMS 2.92.1,"['CVE-2021-25978', 'CVE-2021-25979']",2022-03-18T21:42Z
+2,cpe:2.3:a:apostrophecms:apostrophecms:2.93.0:*:*:*:*:*:*:*,ApostropheCMS 2.93.0,"['CVE-2021-25978', 'CVE-2021-25979']",2022-03-18T21:42Z
+3,cpe:2.3:a:apostrophecms:apostrophecms:2.94.0:*:*:*:*:*:*:*,ApostropheCMS 2.94.0,"['CVE-2021-25978', 'CVE-2021-25979']",2022-03-18T21:42Z
+4,cpe:2.3:a:apostrophecms:apostrophecms:2.94.1:*:*:*:*:*:*:*,ApostropheCMS 2.94.1,"['CVE-2021-25978', 'CVE-2021-25979']",2022-03-18T21:42Z
+5,cpe:2.3:a:apostrophecms:apostrophecms:2.95.0:*:*:*:*:*:*:*,ApostropheCMS 2.95.0,"['CVE-2021-25978', 'CVE-2021-25979']",2022-03-18T21:42Z
+6,cpe:2.3:a:apostrophecms:apostrophecms:2.95.1:*:*:*:*:*:*:*,ApostropheCMS 2.95.1,"['CVE-2021-25978', 'CVE-2021-25979']",2022-03-18T21:42Z
+7,cpe:2.3:a:apostrophecms:apostrophecms:2.96.1:*:*:*:*:*:*:*,ApostropheCMS 2.96.1,"['CVE-2021-25978', 'CVE-2021-25979']",2022-03-18T21:42Z
+8,cpe:2.3:a:apostrophecms:apostrophecms:2.96.2:*:*:*:*:*:*:*,ApostropheCMS 2.96.2,"['CVE-2021-25978', 'CVE-2021-25979']",2022-03-18T21:42Z
+9,cpe:2.3:a:apostrophecms:apostrophecms:2.97.0:*:*:*:*:*:*:*,ApostropheCMS 2.97.0,"['CVE-2021-25978', 'CVE-2021-25979']",2022-03-18T21:42Z

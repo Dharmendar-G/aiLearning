@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:contact_form_with_captcha_project:contact_form_with_captcha:1.5.9:*:*:*:*:wordpress:*:*,Contact Form With Captcha Project Contact Form With Captcha 1.5.9 for WordPress,['CVE-2021-42358'],2022-03-20T07:26Z
+1,cpe:2.3:a:contact_form_with_captcha_project:contact_form_with_captcha:1.6.0:*:*:*:*:wordpress:*:*,Contact Form With Captcha Project Contact Form With Captcha 1.6.0 for WordPress,['CVE-2021-42358'],2022-03-20T07:26Z
+2,cpe:2.3:a:contact_form_with_captcha_project:contact_form_with_captcha:1.6.1:*:*:*:*:wordpress:*:*,Contact Form With Captcha Project Contact Form With Captcha 1.6.1 for WordPress,['CVE-2021-42358'],2022-03-20T07:26Z
+3,cpe:2.3:a:contact_form_with_captcha_project:contact_form_with_captcha:1.6.2:*:*:*:*:wordpress:*:*,Contact Form With Captcha Project Contact Form With Captcha 1.6.2 for WordPress,['CVE-2021-42358'],2022-03-20T07:26Z
+4,cpe:2.3:a:contact-form-7-datepicker_project:contact-form-7-datepicker:-:*:*:*:*:wordpress:*:*,contact-form-7-datepicker Project contact-form-7-datepicker for WordPress,['CVE-2020-11516'],2022-03-20T07:26Z
+5,cpe:2.3:a:contact-form-7-datepicker_project:contact-form-7-datepicker:2.6.0:*:*:*:*:wordpress:*:*,Contact-form-7-datepicker Project Contact-form-7-datepicker 2.6.0 for WordPress,['CVE-2020-11516'],2022-03-20T07:26Z
+6,cpe:2.3:a:contact-form-7-to-database-extension_project:contact-form-7-to-database-extension:2.10.30:*:*:*:*:*:*:*,contact-form-7-to-database-extension Project Contact-form-7-to-database-extension 2.10.30,['CVE-2018-9035'],2022-03-20T07:26Z
+7,cpe:2.3:a:contact-form-7-to-database-extension_project:contact-form-7-to-database-extension:2.10.31:*:*:*:*:*:*:*,contact-form-7-to-database-extension Project Contact-form-7-to-database-extension 2.10.31,['CVE-2018-9035'],2022-03-20T07:26Z
+8,cpe:2.3:a:contact-form-7-to-database-extension_project:contact-form-7-to-database-extension:2.10.32:*:*:*:*:*:*:*,contact-form-7-to-database-extension Project Contact-form-7-to-database-extension 2.10.32,['CVE-2018-9035'],2022-03-20T07:26Z
+9,cpe:2.3:a:contact-form-7-to-database-extension_project:contact-form-7-to-database-extension:2.10.33:*:*:*:*:*:*:*,contact-form-7-to-database-extension Project Contact-form-7-to-database-extension 2.10.33,[''],2022-03-20T07:26Z

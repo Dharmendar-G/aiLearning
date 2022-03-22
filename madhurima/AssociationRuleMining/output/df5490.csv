@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:acquia:commons:6.x-2.7:*:*:*:*:*:*:*,acquia Drupal Commons (commons) module 6.x-2.7 for Drupal,"['CVE-2012-4483', 'CVE-2013-1907', 'CVE-2013-1908']",2022-03-18T11:03Z
+1,cpe:2.3:a:acquia:commons:6.x-2.8:*:*:*:*:*:*:*,acquia Drupal Commons (commons) module 6.x-2.8 for Drupal,"['CVE-2013-1907', 'CVE-2013-1908']",2022-03-18T11:03Z
+2,cpe:2.3:a:acquia:commons:6.x-2.9:*:*:*:*:*:*:*,acquia Drupal Commons (commons) module 6.x-2.9 for Drupal,"['CVE-2013-1907', 'CVE-2013-1908']",2022-03-18T11:03Z
+3,cpe:2.3:a:acquia:commons:6.x-2.10:*:*:*:*:*:*:*,acquia Drupal Commons (commons) module 6.x-2.10 for Drupal,"['CVE-2013-1907', 'CVE-2013-1908']",2022-03-18T11:03Z
+4,cpe:2.3:a:acquia:commons:6.x-2.x:dev:*:*:*:*:*:*,acquia Drupal Commons (commons) module 6.x-2.x-dev for Drupal,"['CVE-2012-4483', 'CVE-2013-1907', 'CVE-2013-1908']",2022-03-18T11:03Z
+5,cpe:2.3:a:acquia:commons:7.x-3.0:*:*:*:*:*:*:*,acquia Drupal Commons (commons) module 7.x-3.0 for Drupal,"['CVE-2013-1907', 'CVE-2013-1908']",2022-03-18T11:03Z
+6,cpe:2.3:a:acquia:commons:7.x-3.1:*:*:*:*:*:*:*,acquia Drupal Commons (commons) module 7.x-3.1 for Drupal,[''],2022-03-18T11:03Z
+7,cpe:2.3:a:acquia:commons:7.x-3.2:*:*:*:*:*:*:*,acquia Drupal Commons (commons) module 7.x-3.2 for Drupal,[''],2022-03-18T11:03Z
+8,cpe:2.3:a:acquia:commons:7.x-3.x:dev:*:*:*:*:*:*,acquia Drupal Commons (commons) module 7.x-3.x-dev for Drupal,"['CVE-2013-1907', 'CVE-2013-1908']",2022-03-18T11:03Z
+9,cpe:2.3:a:acquia:mautic:-:*:*:*:*:*:*:*,Acquia Mautic,"['CVE-2020-35124', 'CVE-2020-35125', 'CVE-2021-27908', 'CVE-2021-27909', 'CVE-2021-27910', 'CVE-2021-27911', 'CVE-2021-27912', 'CVE-2021-27913']",2022-03-18T11:03Z

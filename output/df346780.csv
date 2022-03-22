@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:rational_clearquest:8.0.1.10:*:*:*:*:*:*:*,IBM Rational ClearQuest 8.0.1.10,"['CVE-2007-4592', 'CVE-2016-2922']",2022-03-21T21:40Z
+1,cpe:2.3:a:ibm:rational_clearquest:8.0.1.11:*:*:*:*:*:*:*,IBM Rational ClearQuest 8.0.1.11,"['CVE-2007-4592', 'CVE-2016-2922']",2022-03-21T21:40Z
+2,cpe:2.3:a:ibm:rational_clearquest:8.0.1.12:*:*:*:*:*:*:*,IBM Rational ClearQuest 8.0.1.12,"['CVE-2007-4592', 'CVE-2016-2922']",2022-03-21T21:40Z
+3,cpe:2.3:a:ibm:rational_clearquest:8.0.1.13:*:*:*:*:*:*:*,IBM Rational ClearQuest 8.0.1.13,"['CVE-2007-4592', 'CVE-2016-2922']",2022-03-21T21:40Z
+4,cpe:2.3:a:ibm:rational_clearquest:8.0.1.14:*:*:*:*:*:*:*,IBM Rational ClearQuest 8.0.1.14,"['CVE-2007-4592', 'CVE-2016-2922']",2022-03-21T21:40Z
+5,cpe:2.3:a:ibm:rational_clearquest:8.0.1.15:*:*:*:*:*:*:*,IBM Rational ClearQuest 8.0.1.15,"['CVE-2007-4592', 'CVE-2016-2922']",2022-03-21T21:40Z
+6,cpe:2.3:a:ibm:rational_clearquest:8.0.1.16:*:*:*:*:*:*:*,IBM Rational ClearQuest 8.0.1.16,"['CVE-2007-4592', 'CVE-2016-2922']",2022-03-21T21:40Z
+7,cpe:2.3:a:ibm:rational_clearquest:8.0.1.17:*:*:*:*:*:*:*,IBM Rational ClearQuest 8.0.1.17,"['CVE-2007-4592', 'CVE-2016-2922']",2022-03-21T21:40Z
+8,cpe:2.3:a:ibm:rational_clearquest:8.0.1.20:*:*:*:*:*:*:*,IBM Rational ClearQuest 8.0.1.20,['CVE-2007-4592'],2022-03-21T21:40Z
+9,cpe:2.3:a:ibm:rational_clearquest:9.0:*:*:*:*:*:*:*,IBM Rational ClearQuest 9.0,['CVE-2007-4592'],2022-03-21T21:40Z

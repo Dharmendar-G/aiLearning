@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitwise-it:webp_express:0.14.22:*:*:*:*:wordpress:*:*,Bitwise-it WebP 0.14.22 for WordPress,[''],2022-03-19T08:34Z
+1,cpe:2.3:a:bixie:portfolio:1.2.0:*:*:*:*:pagekit:*:*,Bixie Portfolio 1.2.0 for Pagekit,['CVE-2018-18087'],2022-03-19T08:34Z
+2,cpe:2.3:a:bizagi:business_process_management_suite:10.0:*:*:*:*:*:*:*,Bizagi Business Process Management (BPM) Suite 10.0,"['CVE-2014-2947', 'CVE-2014-2948']",2022-03-19T08:34Z
+3,cpe:2.3:a:bizagi:business_process_management_suite:10.0.1:*:*:*:*:*:*:*,Bizagi Business Process Management (BPM) Suite 10.0.1,"['CVE-2014-2947', 'CVE-2014-2948']",2022-03-19T08:34Z
+4,cpe:2.3:a:bizagi:business_process_management_suite:10.1:*:*:*:*:*:*:*,Bizagi Business Process Management (BPM) Suite 10.1,"['CVE-2014-2947', 'CVE-2014-2948']",2022-03-19T08:34Z
+5,cpe:2.3:a:bizagi:business_process_management_suite:10.2:*:*:*:*:*:*:*,Bizagi Business Process Management (BPM) Suite 10.2,"['CVE-2014-2947', 'CVE-2014-2948']",2022-03-19T08:34Z
+6,cpe:2.3:a:bizagi:business_process_management_suite:10.3:*:*:*:*:*:*:*,Bizagi Business Process Management (BPM) Suite 10.3,['CVE-2014-2948'],2022-03-19T08:34Z
+7,cpe:2.3:a:bizagi:business_process_management_suite:10.4:*:*:*:*:*:*:*,Bizagi Business Process Management (BPM) Suite 10.4,['CVE-2014-2948'],2022-03-19T08:34Z
+8,cpe:2.3:a:bizcon:concrii:-:*:*:*:*:*:*:*,Bizcon Concrii,[''],2022-03-19T08:34Z
+9,cpe:2.3:a:bizlogicdev:xnami:1.0:*:*:*:*:*:*:*,BizLogic xnami 1.0,['CVE-2018-5370'],2022-03-19T08:34Z

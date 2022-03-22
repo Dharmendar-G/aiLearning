@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:devolutions:devolutions_server:2020.3.18:*:*:*:lts:*:*:*,Devolutions Server 2020.3.18 LTS Edition,['CVE-2021-36382'],2022-03-20T13:46Z
+1,cpe:2.3:a:devolutions:devolutions_server:2020.3.20:*:*:*:lts:*:*:*,Devolutions Server 2020.3.20 LTS Edition,['CVE-2021-36382'],2022-03-20T13:46Z
+2,cpe:2.3:a:devolutions:devolutions_server:2020.3.21:*:*:*:lts:*:*:*,Devolutions Server 2020.3.21 LTS Edition,['CVE-2021-36382'],2022-03-20T13:46Z
+3,cpe:2.3:a:devolutions:devolutions_server:2021.1:*:*:*:-:*:*:*,Devolutions Server 2021.1,['CVE-2021-36382'],2022-03-20T13:46Z
+4,cpe:2.3:a:devolutions:devolutions_server:2021.1.7.0:*:*:*:*:*:*:*,Devolutions Server 2021.1.7.0,['CVE-2021-36382'],2022-03-20T13:46Z
+5,cpe:2.3:a:devolutions:devolutions_server:2021.1.17:*:*:*:*:*:*:*,Devolutions Server 2021.1.17,['CVE-2021-36382'],2022-03-20T13:46Z
+6,cpe:2.3:a:devolutions:devolutions_server:2021.1.18:*:*:*:*:*:*:*,Devolutions Server 2021.1.18,[''],2022-03-20T13:46Z
+7,cpe:2.3:a:devolutions:gfwx:-:*:*:*:*:rust:*:*,Devolutions Gfwx for Rust,['CVE-2020-36211'],2022-03-20T13:46Z
+8,cpe:2.3:a:devolutions:gfwx:0.1.0:*:*:*:*:rust:*:*,Devolutions Gfwx 0.1.0 for Rust,['CVE-2020-36211'],2022-03-20T13:46Z
+9,cpe:2.3:a:devolutions:gfwx:0.2.0:*:*:*:*:rust:*:*,Devolutions Gfwx 0.2.0 for Rust,['CVE-2020-36211'],2022-03-20T13:46Z

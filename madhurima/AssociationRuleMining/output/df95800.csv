@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:buffalo:whr-hp-g300n:-:*:*:*:*:*:*:*,Buffalo WHR-HP-G300N,"['CVE-2016-4816', 'CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:15Z
+1,cpe:2.3:o:buffalo:whr-hp-g300n_firmware:-:*:*:*:*:*:*:*,Buffalo WHR-HP-G300N FIRMWARE,"['CVE-2016-4816', 'CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:15Z
+2,cpe:2.3:o:buffalo:whr-hp-g300n_firmware:1.96:*:*:*:*:*:*:*,Buffalo WHR-HP-G300N Firmware 1.96,"['CVE-2016-4816', 'CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:15Z
+3,cpe:2.3:o:buffalo:whr-hp-g300n_firmware:1.99:*:*:*:*:*:*:*,Buffalo WHR-HP-G300N FIRMWARE 1.99,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:15Z
+4,cpe:2.3:o:buffalo:whr-hp-g300n_firmware:2.00:*:*:*:*:*:*:*,Buffalo WHR-HP-G300N FIRMWARE 2.00,[''],2022-03-19T13:15Z
+5,cpe:2.3:h:buffalo:whr-hp-gn:-:*:*:*:*:*:*:*,Buffalo WHR-HP-GN,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:15Z
+6,cpe:2.3:o:buffalo:whr-hp-gn_firmware:-:*:*:*:*:*:*:*,Buffalo WHR-HP-GN FIRMWARE,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:15Z
+7,cpe:2.3:o:buffalo:whr-hp-gn_firmware:1.86:*:*:*:*:*:*:*,Buffalo WHR-HP-GN FIRMWARE 1.86,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:15Z
+8,cpe:2.3:o:buffalo:whr-hp-gn_firmware:1.87:*:*:*:*:*:*:*,Buffalo WHR-HP-GN FIRMWARE 1.87,[''],2022-03-19T13:15Z
+9,cpe:2.3:h:buffalo:wla2-g54:-:*:*:*:*:*:*:*,Buffalo WLA2-G54,['CVE-2021-20716'],2022-03-19T13:15Z

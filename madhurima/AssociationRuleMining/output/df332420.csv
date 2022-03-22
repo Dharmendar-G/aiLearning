@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:ais-bw50-00:-:*:*:*:*:*:*:*,Huawei AIS-BW50-00,['CVE-2021-37101'],2022-03-21T17:10Z
+1,cpe:2.3:o:huawei:ais-bw50-00_firmware:9.0.6.2\(h100sp10c00\):*:*:*:*:*:*:*,Huawei AIS-BW50-00 Firmware 9.0.6.2(H100SP10C00),['CVE-2021-37101'],2022-03-21T17:10Z
+2,cpe:2.3:o:huawei:ais-bw50-00_firmware:9.0.6.2\(h100sp15c00\):*:*:*:*:*:*:*,Huawei AIS-BW50-00 Firmware 9.0.6.2(H100SP15C00),['CVE-2021-37101'],2022-03-21T17:10Z
+3,cpe:2.3:h:huawei:ais-bw80h-00:-:*:*:*:*:*:*:*,Huawei AIS-BW80H-00,"['CVE-2020-9118', 'CVE-2021-40043']",2022-03-21T17:10Z
+4,cpe:2.3:o:huawei:ais-bw80h-00_firmware:9.0.3.1\(h100sp3c00\):*:*:*:*:*:*:*,Huawei AIS-BW80H-00 Firmware 9.0.3.1(H100SP3C00),"['CVE-2020-9118', 'CVE-2021-40043']",2022-03-21T17:10Z
+5,cpe:2.3:o:huawei:ais-bw80h-00_firmware:9.0.3.1\(h100sp9c00\):*:*:*:*:*:*:*,Huawei AIS-BW80H-00 Firmware 9.0.3.1(H100SP9C00),"['CVE-2020-9118', 'CVE-2021-40043']",2022-03-21T17:10Z
+6,cpe:2.3:o:huawei:ais-bw80h-00_firmware:9.0.3.1\(h100sp13c00\):*:*:*:*:*:*:*,Huawei AIS-BW80H-00 Firmware 9.0.3.1(H100SP13C00),"['CVE-2020-9118', 'CVE-2021-40043']",2022-03-21T17:10Z
+7,cpe:2.3:o:huawei:ais-bw80h-00_firmware:9.0.3.1\(h100sp18c00\):*:*:*:*:*:*:*,Huawei AIS-BW80H-00 Firmware 9.0.3.1(H100SP18C00),"['CVE-2020-9118', 'CVE-2021-40043']",2022-03-21T17:10Z
+8,cpe:2.3:o:huawei:ais-bw80h-00_firmware:9.0.3.2\(h100sp1c00\):*:*:*:*:*:*:*,Huawei AIS-BW80H-00 Firmware 9.0.3.2(H100SP1C00),"['CVE-2020-9118', 'CVE-2021-40043']",2022-03-21T17:10Z
+9,cpe:2.3:o:huawei:ais-bw80h-00_firmware:9.0.3.2\(h100sp2c00\):*:*:*:*:*:*:*,Huawei AIS-BW80H-00 Firmware 9.0.3.2(H100SP2C00),"['CVE-2020-9118', 'CVE-2021-40043']",2022-03-21T17:10Z

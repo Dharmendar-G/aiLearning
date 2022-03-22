@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:clamxav:clamxav:3.0.14:*:*:*:*:*:*:*,ClamXAV 3.0.14,['CVE-2020-26893'],2022-03-20T02:08Z
+1,cpe:2.3:a:clamxav:clamxav:3.0.15:*:*:*:*:*:*:*,ClamXAV 3.0.15,['CVE-2020-26893'],2022-03-20T02:08Z
+2,cpe:2.3:a:clamxav:clamxav:3.1:*:*:*:*:*:*:*,ClamXAV 3.1,['CVE-2020-26893'],2022-03-20T02:08Z
+3,cpe:2.3:a:clamxav:clamxav:3.1.1:*:*:*:*:*:*:*,ClamXAV 3.1.1,[''],2022-03-20T02:08Z
+4,cpe:2.3:a:clang-extra_project:clang-extra:-:*:*:*:*:node.js:*:*,clang-extra Project clang-extra for Node.js,['CVE-2016-10655'],2022-03-20T02:08Z
+5,cpe:2.3:a:clang-extra_project:clang-extra:0.1.0:*:*:*:*:node.js:*:*,clang-extra Project clang-extra 0.1.0 for Node.js,[''],2022-03-20T02:08Z
+6,cpe:2.3:a:clang-extra_project:clang-extra:0.1.1:*:*:*:*:node.js:*:*,clang-extra Project clang-extra 0.1.1 for Node.js,[''],2022-03-20T02:08Z
+7,cpe:2.3:a:claranova:adaware_antivirus:12.6.1005.11662:*:*:*:*:*:*:*,Claranova Adaware Antivirus 12.6.1005.11662,['CVE-2019-18979'],2022-03-20T02:08Z
+8,cpe:2.3:a:claranova:adaware_antivirus:12.7.1055.0:*:*:*:*:*:*:*,Claranova Adaware Antivirus 12.7.1055.0,['CVE-2019-18979'],2022-03-20T02:08Z
+9,cpe:2.3:a:claris:claris_emailer:2.0v2:*:*:*:*:*:*:*,Claris Emailer 2.0v2,[''],2022-03-20T02:08Z

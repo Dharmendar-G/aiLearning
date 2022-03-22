@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:ar3200_firmware:v200r003c01:*:*:*:*:*:*:*,Huawei AR3200 Firmware V200R003C01,"['CVE-2016-6206', 'CVE-2019-5304']",2022-03-21T17:21Z
+1,cpe:2.3:o:huawei:ar3200_firmware:v200r003c01spc100:*:*:*:*:*:*:*,Huawei AR3200 Firmware V200R003C01SPC100,"['CVE-2014-4705', 'CVE-2015-7846']",2022-03-21T17:21Z
+2,cpe:2.3:o:huawei:ar3200_firmware:v200r003c01spc200:*:*:*:*:*:*:*,Huawei AR3200 Firmware V200R003C01SPC200,['CVE-2015-7846'],2022-03-21T17:21Z
+3,cpe:2.3:o:huawei:ar3200_firmware:v200r003c01spc300:*:*:*:*:*:*:*,Huawei AR3200 Firmware V200R003C01SPC300,"['CVE-2014-4705', 'CVE-2015-7846']",2022-03-21T17:21Z
+4,cpe:2.3:o:huawei:ar3200_firmware:v200r003c01spc500:*:*:*:*:*:*:*,Huawei AR3200 Firmware V200R003C01SPC500,['CVE-2015-7846'],2022-03-21T17:21Z
+5,cpe:2.3:o:huawei:ar3200_firmware:v200r003c01spc600:*:*:*:*:*:*:*,Huawei AR3200 Firmware V200R003C01SPC600,['CVE-2015-7846'],2022-03-21T17:21Z
+6,cpe:2.3:o:huawei:ar3200_firmware:v200r003c01spc800:*:*:*:*:*:*:*,Huawei AR3200 Firmware V200R003C01SPC800,['CVE-2015-7846'],2022-03-21T17:21Z
+7,cpe:2.3:o:huawei:ar3200_firmware:v200r003c01spc900:*:*:*:*:*:*:*,Huawei AR3200 Firmware V200R003C01SPC900,"['CVE-2014-4705', 'CVE-2015-7846']",2022-03-21T17:21Z
+8,cpe:2.3:o:huawei:ar3200_firmware:v200r003c05:*:*:*:*:*:*:*,Huawei AR3200 Firmware V200R003C05,['CVE-2016-6206'],2022-03-21T17:21Z
+9,cpe:2.3:o:huawei:ar3200_firmware:v200r005c00:*:*:*:*:*:*:*,Huawei AR3200 Firmware V200R005C00,['CVE-2016-6206'],2022-03-21T17:21Z

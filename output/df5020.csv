@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:accomplishtechnology:phpmydirectory:1.1.6:*:*:*:*:*:*:*,"Accomplish Technology, LLC phpMyDirectory 1.1.6","['CVE-2006-2521', 'CVE-2006-3138', 'CVE-2006-4755', 'CVE-2006-4756']",2022-03-18T10:53Z
+1,cpe:2.3:a:accomplishtechnology:phpmydirectory:1.1.7:*:*:*:*:*:*:*,"Accomplish Technology, LLC phpMyDirectory 1.1.7","['CVE-2006-2521', 'CVE-2006-3138', 'CVE-2006-4755', 'CVE-2006-4756']",2022-03-18T10:53Z
+2,cpe:2.3:a:accomplishtechnology:phpmydirectory:1.1.8:*:*:*:*:*:*:*,"Accomplish Technology, LLC phpMyDirectory 1.1.8","['CVE-2006-2521', 'CVE-2006-3138', 'CVE-2006-4755', 'CVE-2006-4756']",2022-03-18T10:53Z
+3,cpe:2.3:a:accomplishtechnology:phpmydirectory:1.1.9:*:*:*:*:*:*:*,"Accomplish Technology, LLC phpMyDirectory 1.1.9","['CVE-2006-2521', 'CVE-2006-3138', 'CVE-2006-4755', 'CVE-2006-4756']",2022-03-18T10:53Z
+4,cpe:2.3:a:accomplishtechnology:phpmydirectory:1.2.0:*:*:*:*:*:*:*,"Accomplish Technology, LLC phpMyDirectory 1.2.0","['CVE-2006-2521', 'CVE-2006-3138', 'CVE-2006-4755', 'CVE-2006-4756']",2022-03-18T10:53Z
+5,cpe:2.3:a:accomplishtechnology:phpmydirectory:1.2.0:b:*:*:*:*:*:*,"Accomplish Technology, LLC phpMyDirectory 1.2.0b (beta)","['CVE-2006-2521', 'CVE-2006-3138', 'CVE-2006-4755', 'CVE-2006-4756']",2022-03-18T10:53Z
+6,cpe:2.3:a:accomplishtechnology:phpmydirectory:1.2.1:*:*:*:*:*:*:*,"Accomplish Technology, LLC phpMyDirectory 1.2.1","['CVE-2006-2521', 'CVE-2006-3138', 'CVE-2006-4755', 'CVE-2006-4756']",2022-03-18T10:53Z
+7,cpe:2.3:a:accomplishtechnology:phpmydirectory:1.3.0:*:*:*:*:*:*:*,"Accomplish Technology, LLC phpMyDirectory 1.3.0","['CVE-2006-2521', 'CVE-2006-3138', 'CVE-2006-4755', 'CVE-2006-4756']",2022-03-18T10:53Z
+8,cpe:2.3:a:accomplishtechnology:phpmydirectory:1.3.0:b:*:*:*:*:*:*,"Accomplish Technology, LLC phpMyDirectory 1.3.0b (beta)","['CVE-2006-2521', 'CVE-2006-3138', 'CVE-2006-4755', 'CVE-2006-4756']",2022-03-18T10:53Z
+9,cpe:2.3:a:accomplishtechnology:phpmydirectory:1.3.1:*:*:*:*:*:*:*,"Accomplish Technology, LLC phpMyDirectory 1.3.1","['CVE-2006-2521', 'CVE-2006-3138', 'CVE-2006-4755', 'CVE-2006-4756']",2022-03-18T10:53Z

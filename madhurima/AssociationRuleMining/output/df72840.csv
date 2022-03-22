@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:beronet:bn16fxsfax_b:-:*:*:*:*:*:*:*,Beronet BN16FXSFAX B,['CVE-2017-18923'],2022-03-19T06:55Z
+1,cpe:2.3:h:beronet:bn16fxsfax_c:-:*:*:*:*:*:*:*,Beronet BN16FXSFAX C,['CVE-2017-18923'],2022-03-19T06:55Z
+2,cpe:2.3:a:beroux:rename-it:3.32:*:*:*:*:*:*:*,Beroux Rename-it 3.32,[''],2022-03-19T06:55Z
+3,cpe:2.3:a:berta:berta_cms:0.7.3b:*:*:*:*:*:*:*,Berta CMS 0.7.3b,['CVE-2015-2780'],2022-03-19T06:55Z
+4,cpe:2.3:a:berta:berta_cms:0.7.4b:*:*:*:*:*:*:*,Berta CMS 0.7.4b,['CVE-2015-2780'],2022-03-19T06:55Z
+5,cpe:2.3:a:berta:berta_cms:0.8.0b:*:*:*:*:*:*:*,Berta CMS 0.8.0b,['CVE-2015-2780'],2022-03-19T06:55Z
+6,cpe:2.3:a:berta:berta_cms:0.8.1b:*:*:*:*:*:*:*,Berta CMS 0.8.1b,['CVE-2015-2780'],2022-03-19T06:55Z
+7,cpe:2.3:a:berta:berta_cms:0.8.2b:*:*:*:*:*:*:*,Berta CMS 0.8.2b,['CVE-2015-2780'],2022-03-19T06:55Z
+8,cpe:2.3:a:berta:berta_cms:0.8.3b:*:*:*:*:*:*:*,Berta CMS 0.8.3b,['CVE-2015-2780'],2022-03-19T06:55Z
+9,cpe:2.3:a:berta:berta_cms:0.8.4b:*:*:*:*:*:*:*,Berta CMS 0.8.4b,['CVE-2015-2780'],2022-03-19T06:55Z

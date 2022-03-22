@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:jc178b:-:*:*:*:*:*:*:*,HP JC178B,['CVE-2012-3268'],2022-03-21T13:46Z
+1,cpe:2.3:h:hp:jc474a:-:*:*:*:*:*:*:*,HP JC612A HP 10508 Switch Chassis,[''],2022-03-21T13:46Z
+2,cpe:2.3:h:hp:jc474a_hp_a9508-v_switch_chassis:-:*:*:*:*:*:*:*,HP JC474A HP A9508-V Switch Chassis,['CVE-2015-5434'],2022-03-21T13:46Z
+3,cpe:2.3:h:hp:jc474b:-:*:*:*:*:*:*:*,HP JC613A HP 10504 Switch Chassis,[''],2022-03-21T13:46Z
+4,cpe:2.3:h:hp:jc474b_hp_9508-v_switch_chassis:-:*:*:*:*:*:*:*,HP JC474B HP 9508-V Switch Chassis,['CVE-2015-5434'],2022-03-21T13:46Z
+5,cpe:2.3:h:hp:jc496a:-:*:*:*:*:*:*:*,HP JC496A,['CVE-2012-3268'],2022-03-21T13:46Z
+6,cpe:2.3:h:hp:jc566a:-:*:*:*:*:*:*:*,HP JC566A,['CVE-2012-3268'],2022-03-21T13:46Z
+7,cpe:2.3:h:hp:jc611a:-:*:*:*:*:*:*:*,HP JC653A HP 12518 DC Switch Chassis,[''],2022-03-21T13:46Z
+8,cpe:2.3:h:hp:jc611a_hp_10508-v_switch_chassis:-:*:*:*:*:*:*:*,HP JC611A HP 10508-V Switch Chassis,['CVE-2015-5434'],2022-03-21T13:46Z
+9,cpe:2.3:h:hp:jc612a:-:*:*:*:*:*:*:*,HP JC072B HP 12500 Main Processing Unit,[''],2022-03-21T13:46Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:p10_firmware:-:*:*:*:*:*:*:*,Huawei P10 Firmware -,"['CVE-2017-2724', 'CVE-2017-2725', 'CVE-2017-2726', 'CVE-2017-8144', 'CVE-2017-8145', 'CVE-2017-8146', 'CVE-2017-8149', 'CVE-2017-8150', 'CVE-2017-8172', 'CVE-2018-7938']",2022-03-21T18:18Z
+1,cpe:2.3:o:huawei:p10_firmware:victoria-al00ac00b217:*:*:*:*:*:*:*,Huawei P10 Firmware Victoria-AL00AC00B217,"['CVE-2017-2724', 'CVE-2017-2725', 'CVE-2017-2726', 'CVE-2017-8144', 'CVE-2017-8145', 'CVE-2017-8146', 'CVE-2017-8149', 'CVE-2017-8150', 'CVE-2017-8172']",2022-03-21T18:18Z
+2,cpe:2.3:o:huawei:p10_firmware:victoria-l09ac605b162:*:*:*:*:*:*:*,Huawei P10 Firmware Victoria-L09AC605B162,"['CVE-2017-2724', 'CVE-2017-2725', 'CVE-2017-2726', 'CVE-2017-8144', 'CVE-2017-8145', 'CVE-2017-8146', 'CVE-2017-8149', 'CVE-2017-8150', 'CVE-2017-8172']",2022-03-21T18:19Z
+3,cpe:2.3:o:huawei:p10_firmware:victoria-l29ac605b162:*:*:*:*:*:*:*,Huawei P10 Firmware Victoria-L29AC605B162,"['CVE-2017-2724', 'CVE-2017-2725', 'CVE-2017-2726', 'CVE-2017-8144', 'CVE-2017-8145', 'CVE-2017-8146', 'CVE-2017-8172']",2022-03-21T18:19Z
+4,cpe:2.3:o:huawei:p10_firmware:vtr-al00c00b123:*:*:*:*:*:*:*,Huawei P10 Firmware VTR-AL00C00B123,"['CVE-2017-8144', 'CVE-2017-8145', 'CVE-2017-8146', 'CVE-2017-8172']",2022-03-21T18:19Z
+5,cpe:2.3:o:huawei:p10_firmware:vtr-al00c00b167:*:*:*:*:*:*:*,Huawei P10 Firmware VTR-AL00C00B167,"['CVE-2017-8144', 'CVE-2017-8145', 'CVE-2017-8146']",2022-03-21T18:19Z
+6,cpe:2.3:h:huawei:p10_lite:-:*:*:*:*:*:*:*,Huawei P10 Lite,['CVE-2017-8216'],2022-03-21T18:19Z
+7,cpe:2.3:o:huawei:p10_lite_firmware:warsaw-al00c00b180:*:*:*:*:android:*:*,Huawei P10 Lite Firmware WARSAW-AL00C00B180 for Android,['CVE-2017-8216'],2022-03-21T18:19Z
+8,cpe:2.3:o:huawei:p10_lite_firmware:warsaw-tl10c01b180:*:*:*:*:android:*:*,Huawei P10 Lite Firmware WARSAW-TL10C01B180 for Android,[''],2022-03-21T18:19Z
+9,cpe:2.3:h:huawei:p10_plus:-:*:*:*:*:*:*:*,Huawei P10 Plus,"['CVE-2017-2724', 'CVE-2017-2725', 'CVE-2017-2726', 'CVE-2017-8141', 'CVE-2017-8144', 'CVE-2017-8145', 'CVE-2017-8146', 'CVE-2017-8149', 'CVE-2017-8150', 'CVE-2017-8171', 'CVE-2017-8172', 'CVE-2017-8214', 'CVE-2017-8215', 'CVE-2018-7992', 'CVE-2020-1872']",2022-03-21T18:19Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:buildah_project:buildah:1.13.0:*:*:*:*:*:*:*,Buildah Project Buildah 1.13.0,"['CVE-2020-10696', 'CVE-2021-3602']",2022-03-19T13:25Z
+1,cpe:2.3:a:buildah_project:buildah:1.13.1:*:*:*:*:*:*:*,Buildah Project Buildah 1.13.1,"['CVE-2020-10696', 'CVE-2021-3602']",2022-03-19T13:25Z
+2,cpe:2.3:a:buildah_project:buildah:1.13.2:*:*:*:*:*:*:*,Buildah Project Buildah 1.13.2,"['CVE-2020-10696', 'CVE-2021-3602']",2022-03-19T13:25Z
+3,cpe:2.3:a:buildah_project:buildah:1.14.0:*:*:*:*:*:*:*,Buildah Project Buildah 1.14.0,"['CVE-2020-10696', 'CVE-2021-3602']",2022-03-19T13:25Z
+4,cpe:2.3:a:buildah_project:buildah:1.14.1:*:*:*:*:*:*:*,Buildah Project Buildah 1.14.1,"['CVE-2020-10696', 'CVE-2021-3602']",2022-03-19T13:25Z
+5,cpe:2.3:a:buildah_project:buildah:1.14.2:*:*:*:*:*:*:*,Buildah Project Buildah 1.14.2,"['CVE-2020-10696', 'CVE-2021-3602']",2022-03-19T13:25Z
+6,cpe:2.3:a:buildah_project:buildah:1.14.3:*:*:*:*:*:*:*,Buildah Project Buildah 1.14.3,"['CVE-2020-10696', 'CVE-2021-3602']",2022-03-19T13:25Z
+7,cpe:2.3:a:buildah_project:buildah:1.14.5:*:*:*:*:*:*:*,Buildah Project Buildah 1.14.5,['CVE-2021-3602'],2022-03-19T13:25Z
+8,cpe:2.3:a:buildbot:buildbot:0.9.0:*:*:*:*:*:*:*,Buildbot 0.9.0,"['CVE-2019-12300', 'CVE-2019-7313']",2022-03-19T13:25Z
+9,cpe:2.3:a:buildbot:buildbot:0.9.1:*:*:*:*:*:*:*,Buildbot 0.9.1,"['CVE-2019-12300', 'CVE-2019-7313']",2022-03-19T13:25Z

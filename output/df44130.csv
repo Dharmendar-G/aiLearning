@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:appleple:a-blog_cms:2.7.29:*:*:*:*:*:*:*,Appleple a-blog cms 2.7.29,[''],2022-03-18T22:30Z
+1,cpe:2.3:a:appleple:a-blog_cms:2.7.30:*:*:*:*:*:*:*,Appleple a-blog cms 2.7.30,[''],2022-03-18T22:30Z
+2,cpe:2.3:a:appleple:a-blog_cms:2.7.31:*:*:*:*:*:*:*,Appleple a-blog cms 2.7.31,[''],2022-03-18T22:30Z
+3,cpe:2.3:a:appleple:a-blog_cms:2.7.32:*:*:*:*:*:*:*,Appleple a-blog cms 2.7.32,[''],2022-03-18T22:30Z
+4,cpe:2.3:a:appleple:a-blog_cms:2.7.33:*:*:*:*:*:*:*,Appleple a-blog cms 2.7.33,[''],2022-03-18T22:30Z
+5,cpe:2.3:a:appleple:a-blog_cms:2.7.34:*:*:*:*:*:*:*,Appleple a-blog cms 2.7.34,[''],2022-03-18T22:30Z
+6,cpe:2.3:a:appleple:a-blog_cms:2.8:*:*:*:*:*:*:*,Appleple a-blog cms 2.8,[''],2022-03-18T22:30Z
+7,cpe:2.3:a:appleple:a-blog_cms:2.8.0:*:*:*:*:*:*:*,Appleple a-blog cms 2.8.0,"['CVE-2019-6033', 'CVE-2019-6034', 'CVE-2022-21142', 'CVE-2022-23810', 'CVE-2022-23916', 'CVE-2022-24374']",2022-03-18T22:30Z
+8,cpe:2.3:a:appleple:a-blog_cms:2.8.1:*:*:*:*:*:*:*,Appleple a-blog cms 2.8.1,"['CVE-2019-6033', 'CVE-2019-6034', 'CVE-2022-21142', 'CVE-2022-23810', 'CVE-2022-23916', 'CVE-2022-24374']",2022-03-18T22:30Z
+9,cpe:2.3:a:appleple:a-blog_cms:2.8.2:*:*:*:*:*:*:*,Appleple a-blog cms 2.8.2,"['CVE-2019-6033', 'CVE-2019-6034', 'CVE-2022-21142', 'CVE-2022-23810', 'CVE-2022-23916', 'CVE-2022-24374']",2022-03-18T22:30Z

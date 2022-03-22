@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:emc_unityvsa_operating_environment:5.1.0.0.5.394:*:*:*:*:*:*:*,Dell EMC UnityVSA Operating Environment (OE) 5.1.0.0.5.394,['CVE-2021-43589'],2022-03-20T12:28Z
+1,cpe:2.3:a:dell:emc_unityvsa_operating_environment:5.1.2.0.5.007:*:*:*:*:*:*:*,Dell EMC UnityVSA Operating Environment 5.1.2.0.5.007,[''],2022-03-20T12:28Z
+2,cpe:2.3:a:dell:emc_vasa_provider_virtual_appliance:8.3.0:*:*:*:*:*:*:*,Dell EMC VASA Provider Virtual Appliance 8.3.0,"['CVE-2017-4997', 'CVE-2018-1183']",2022-03-20T12:28Z
+3,cpe:2.3:a:dell:emc_vasa_provider_virtual_appliance:8.4.0.512:*:*:*:*:*:*:*,Dell EMC VASA Provider Virtual Appliance 8.4.0.512,[''],2022-03-20T12:28Z
+4,cpe:2.3:a:dell:emc_vasa_virtual_appliance:8.4.0.514:*:*:*:*:*:*:*,Dell EMC VASA Virtual Appliance 8.4.0.514,[''],2022-03-20T12:28Z
+5,cpe:2.3:a:dell:emc_vipr_srm:-:*:*:*:*:*:*:*,Dell EMC ViPR SRM,"['CVE-2017-8007', 'CVE-2017-8011', 'CVE-2017-8012', 'CVE-2018-1183']",2022-03-20T12:28Z
+6,cpe:2.3:a:dell:emc_vipr_srm:3.7:*:*:*:*:windows:*:*,Dell EMC ViPR SRM 3.7 for Windows,"['CVE-2017-8007', 'CVE-2017-8011', 'CVE-2017-8012', 'CVE-2018-1183']",2022-03-20T12:28Z
+7,cpe:2.3:a:dell:emc_vipr_srm:3.7.1:*:*:*:*:windows:*:*,Dell EMC ViPR SRM 3.7.1 for Windows,"['CVE-2017-8007', 'CVE-2017-8011', 'CVE-2017-8012', 'CVE-2018-1183']",2022-03-20T12:28Z
+8,cpe:2.3:a:dell:emc_vipr_srm:3.7.2:*:*:*:*:windows:*:*,Dell EMC ViPR SRM 3.7.2 for Windows,"['CVE-2017-8007', 'CVE-2017-8011', 'CVE-2017-8012', 'CVE-2018-1183']",2022-03-20T12:28Z
+9,cpe:2.3:a:dell:emc_vipr_srm:4.0:*:*:*:*:windows:*:*,Dell EMC ViPR SRM 4.0 for Windows,"['CVE-2017-8007', 'CVE-2017-8011', 'CVE-2017-8012', 'CVE-2018-1183']",2022-03-20T12:28Z

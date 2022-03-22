@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:unified_computing_system:2.2\(2e\):*:*:*:*:*:*:*,Cisco Unified Computing System 2.2(2e),"['CVE-2016-6402', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+1,cpe:2.3:a:cisco:unified_computing_system:2.2\(3a\):*:*:*:*:*:*:*,Cisco Unified Computing System 2.2(3a),"['CVE-2015-6435', 'CVE-2016-6402', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+2,cpe:2.3:a:cisco:unified_computing_system:2.2\(3b\):*:*:*:*:*:*:*,Cisco Unified Computing System 2.2(3b),"['CVE-2015-4279', 'CVE-2015-6435', 'CVE-2016-6402', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+3,cpe:2.3:a:cisco:unified_computing_system:2.2\(3c\):*:*:*:*:*:*:*,Cisco Unified Computing System 2.2(3c),"['CVE-2015-6435', 'CVE-2016-6402', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+4,cpe:2.3:a:cisco:unified_computing_system:2.2\(3d\):*:*:*:*:*:*:*,Cisco Unified Computing System 2.2(3d),"['CVE-2015-6435', 'CVE-2016-6402', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+5,cpe:2.3:a:cisco:unified_computing_system:2.2\(3e\):*:*:*:*:*:*:*,Cisco Unified Computing System 2.2(3e),"['CVE-2015-6435', 'CVE-2016-6402', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+6,cpe:2.3:a:cisco:unified_computing_system:2.2\(3f\):*:*:*:*:*:*:*,Cisco Unified Computing System 2.2(3f),"['CVE-2015-6435', 'CVE-2016-6402', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+7,cpe:2.3:o:cisco:unified_computing_system:2.2\(3f\)a:*:*:*:*:*:*:*,Cisco Unified Computing System 2.2(3F)A,"['CVE-2015-6415', 'CVE-2021-1590']",2022-03-20T00:48Z
+8,cpe:2.3:a:cisco:unified_computing_system:2.2\(3g\):*:*:*:*:*:*:*,Cisco Unified Computing System 2.2(3g),"['CVE-2015-6435', 'CVE-2016-6402', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+9,cpe:2.3:a:cisco:unified_computing_system:2.2\(4b\):*:*:*:*:*:*:*,Cisco Unified Computing System 2.2(4b),"['CVE-2015-6435', 'CVE-2016-6402', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bluestacks:bluestacks:3.7.44:*:*:*:*:*:*:*,BlueStacks 3.7.44,"['CVE-2018-0701', 'CVE-2019-14220']",2022-03-19T09:01Z
+1,cpe:2.3:a:bluestacks:bluestacks:3.50:*:*:*:*:*:*:*,BlueStacks 3.50,"['CVE-2018-0701', 'CVE-2019-14220']",2022-03-19T09:01Z
+2,cpe:2.3:a:bluestacks:bluestacks:3.50.48:*:*:*:*:*:*:*,BlueStacks 3.50.48,"['CVE-2018-0701', 'CVE-2019-14220']",2022-03-19T09:01Z
+3,cpe:2.3:a:bluestacks:bluestacks:3.50.49:*:*:*:*:*:*:*,BlueStacks 3.50.49,"['CVE-2018-0701', 'CVE-2019-14220']",2022-03-19T09:01Z
+4,cpe:2.3:a:bluestacks:bluestacks:3.50.50:*:*:*:*:*:*:*,BlueStacks 3.50.50,"['CVE-2018-0701', 'CVE-2019-14220']",2022-03-19T09:01Z
+5,cpe:2.3:a:bluestacks:bluestacks:3.50.56:*:*:*:*:*:*:*,BlueStacks 3.50.56,"['CVE-2018-0701', 'CVE-2019-14220']",2022-03-19T09:01Z
+6,cpe:2.3:a:bluestacks:bluestacks:3.50.60:*:*:*:*:*:*:*,BlueStacks 3.50.60,"['CVE-2018-0701', 'CVE-2019-14220']",2022-03-19T09:01Z
+7,cpe:2.3:a:bluestacks:bluestacks:3.50.63:*:*:*:*:*:*:*,BlueStacks 3.50.63,"['CVE-2018-0701', 'CVE-2019-14220']",2022-03-19T09:01Z
+8,cpe:2.3:a:bluestacks:bluestacks:3.50.66:*:*:*:*:*:*:*,BlueStacks 3.50.66,"['CVE-2018-0701', 'CVE-2019-14220']",2022-03-19T09:01Z
+9,cpe:2.3:a:bluestacks:bluestacks:3.52.66:*:*:*:*:*:*:*,BlueStacks 3.52.66,"['CVE-2018-0701', 'CVE-2019-14220']",2022-03-19T09:01Z

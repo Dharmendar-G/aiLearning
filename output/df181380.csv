@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:supportassist_for_business_pcs:2.0.0:*:*:*:*:*:*:*,Dell SupportAssist for Business PCs 2.0.0,['CVE-2021-21518'],2022-03-20T13:08Z
+1,cpe:2.3:a:dell:supportassist_for_business_pcs:2.0.1:*:*:*:*:*:*:*,Dell SupportAssist For Business PCs 2.0.1,"['CVE-2019-12280', 'CVE-2020-5316']",2022-03-20T13:08Z
+2,cpe:2.3:a:dell:supportassist_for_business_pcs:2.0.2:*:*:*:*:*:*:*,Dell SupportAssist for Business PCS 2.0.2,['CVE-2020-5316'],2022-03-20T13:08Z
+3,cpe:2.3:a:dell:supportassist_for_business_pcs:2.1:*:*:*:*:*:*:*,Dell SupportAssist for Business PCS 2.1,['CVE-2020-5316'],2022-03-20T13:08Z
+4,cpe:2.3:a:dell:supportassist_for_business_pcs:2.1.0:*:*:*:*:*:*:*,Dell SupportAssist for Business PCs 2.1.0,['CVE-2021-21518'],2022-03-20T13:08Z
+5,cpe:2.3:a:dell:supportassist_for_business_pcs:2.1.1:*:*:*:*:*:*:*,Dell SupportAssist for Business PCS 2.1.1,['CVE-2020-5316'],2022-03-20T13:08Z
+6,cpe:2.3:a:dell:supportassist_for_business_pcs:2.1.2:*:*:*:*:*:*:*,Dell SupportAssist for Business PCS 2.1.2,['CVE-2020-5316'],2022-03-20T13:08Z
+7,cpe:2.3:a:dell:supportassist_for_business_pcs:2.1.3:*:*:*:*:*:*:*,Dell SupportAssist for Business PCS 2.1.3,['CVE-2020-5316'],2022-03-20T13:08Z
+8,cpe:2.3:a:dell:supportassist_for_business_pcs:2.2.0:*:*:*:*:*:*:*,Dell SupportAssist for Business PCs 2.2.0,['CVE-2021-21518'],2022-03-20T13:08Z
+9,cpe:2.3:a:dell:supportassist_for_home_pcs:-:*:*:*:*:*:*:*,Dell SupportAssist for Home PCs,['CVE-2021-36297'],2022-03-20T13:08Z

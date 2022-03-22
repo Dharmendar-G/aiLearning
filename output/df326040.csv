@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:officeconnect_1810-48g_switch:-:*:*:*:*:*:*:*,HP Officeconnect 1810-48g Switch,['CVE-2018-7100'],2022-03-21T15:25Z
+1,cpe:2.3:h:hp:officeconnect_1810-8_v2_switch:-:*:*:*:*:*:*:*,HP Officeconnect 1810-8 V2 Switch,['CVE-2018-7100'],2022-03-21T15:25Z
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,cpe:2.3:h:hp:officeconnect_1820_24g_switch_j9980a:-:*:*:*:*:*:*:*,HP OfficeConnect 1820 24G Switch J9980A,['CVE-2017-5786'],2022-03-21T15:25Z
+8,cpe:2.3:o:hp:officeconnect_1820_24g_switch_j9980a_firmware:-:*:*:*:*:*:*:*,HP Officeconnect 1820 24g Switch J9980a Firmware,[''],2022-03-21T15:25Z
+9,cpe:2.3:o:hp:officeconnect_1820_24g_switch_j9980a_firmware:pt.01.03:*:*:*:*:*:*:*,HP Officeconnect 1820 24g Switch J9980a Firmware Pt.01.03,['CVE-2017-5786'],2022-03-21T15:25Z

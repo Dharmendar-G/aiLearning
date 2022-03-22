@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:digital_delivery:3.5.2015:*:*:*:*:*:*:*,Dell Digital Delivery 3.5.2015,[''],2022-03-20T12:17Z
+1,cpe:2.3:a:dell:digital_delivery:4.0.15.0:*:*:*:*:*:*:*,Dell Digital Delivery 4.0.15.0,"['CVE-2019-3742', 'CVE-2019-3744']",2022-03-20T12:17Z
+2,cpe:2.3:a:dell:digital_delivery:4.0.41:*:*:*:*:*:*:*,Dell Digital Delivery 4.0.41,[''],2022-03-20T12:17Z
+3,cpe:2.3:h:dell:dock_wd15:-:*:*:*:*:*:*:*,Dell Dock WD15,['CVE-2020-5357'],2022-03-20T12:17Z
+4,cpe:2.3:o:dell:dock_wd15_firmware:-:*:*:*:*:*:*:*,Dell Dock WD15 Firmware,['CVE-2020-5357'],2022-03-20T12:17Z
+5,cpe:2.3:o:dell:dock_wd15_firmware:1.0.8:*:*:*:*:*:*:*,Dell Dock WD15 Firmware 1.0.8,[''],2022-03-20T12:17Z
+6,cpe:2.3:h:dell:dock_wd19:-:*:*:*:*:*:*:*,Dell Dock WD19,['CVE-2020-5357'],2022-03-20T12:17Z
+7,cpe:2.3:o:dell:dock_wd19_firmware:-:*:*:*:*:*:*:*,Dell Dock WD19 Firmware,['CVE-2020-5357'],2022-03-20T12:17Z
+8,cpe:2.3:o:dell:dock_wd19_firmware:1.0.14:*:*:*:*:*:*:*,Dell Dock WD19 Firmware 1.0.14,[''],2022-03-20T12:17Z
+9,cpe:2.3:a:dell:dvdsentry:1.0.0:*:*:*:*:*:*:*,Dell Dvdsentry 1.0.0,[''],2022-03-20T12:17Z

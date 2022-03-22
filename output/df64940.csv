@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avg:anti-virus:9.0:-:business:*:*:*:*:*,AVG Anti-Virus Business Edition 9.0,"['CVE-2010-3498', 'CVE-2019-17093']",2022-03-19T04:24Z
+1,cpe:2.3:a:avg:anti-virus:9.0:-:email_server:*:*:*:*:*,AVG Email Server Edition 9.0,"['CVE-2010-3498', 'CVE-2019-17093']",2022-03-19T04:24Z
+2,cpe:2.3:a:avg:anti-virus:9.0:-:file_server:*:*:*:*:*,AVG File Server Edition 9.0,"['CVE-2010-3498', 'CVE-2019-17093']",2022-03-19T04:24Z
+3,cpe:2.3:a:avg:anti-virus:9.0:-:free:*:*:*:*:*,AVG Anti-Virus Free Edition 9.0,"['CVE-2010-3498', 'CVE-2019-17093']",2022-03-19T04:24Z
+4,cpe:2.3:a:avg:anti-virus:17.1:*:*:*:free:*:*:*,AVG Anti-Virus 17.1 Free,"['CVE-2010-3498', 'CVE-2017-5566', 'CVE-2019-17093']",2022-03-19T04:24Z
+5,cpe:2.3:a:avg:anti-virus:19.3.3084:*:*:*:internet_security:*:*:*,AVG Anti-virus 19.3.3084 Internet Security Edition,"['CVE-2010-3498', 'CVE-2019-17093', 'CVE-2019-18654']",2022-03-19T04:24Z
+6,cpe:2.3:a:avg:anti-virus:19.8:*:*:*:*:*:*:*,AVG Anti-Virus 19.8,['CVE-2010-3498'],2022-03-19T04:24Z
+7,cpe:2.3:a:avg:anti-virus:4668:*:*:*:*:*:*:*,AVG Anti-Virus 4668,['CVE-2010-3498'],2022-03-19T04:24Z
+8,cpe:2.3:a:avg:anti-virus_plus_firewall:8.5:*:*:*:*:*:*:*,AVG Anti-Virus plus Firewall 8.5,[''],2022-03-19T04:24Z
+9,cpe:2.3:a:avg:anti-virus_plus_firewall:9.0:*:*:*:*:*:*:*,AVG Anti-Virus plus Firewall 9.0,[''],2022-03-19T04:24Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:boostifythemes:goto:-:*:*:*:*:wordpress:*:*,BoostifyThemes Goto for WordPress,"['CVE-2021-24235', 'CVE-2021-24297', 'CVE-2021-24314']",2022-03-19T09:49Z
+1,cpe:2.3:a:boostifythemes:goto:2.0:*:*:*:*:wordpress:*:*,BoostifyThemes Goto 2.0 for WordPress,"['CVE-2021-24297', 'CVE-2021-24314']",2022-03-19T09:49Z
+2,cpe:2.3:a:boostifythemes:goto:2.1:*:*:*:*:wordpress:*:*,Boostifythemes Goto 2.1 for WordPress,[''],2022-03-19T09:49Z
+3,cpe:2.3:a:boostio:boostnote:0.1:*:*:*:*:*:*:*,BoostIO Boostnote 0.1,[''],2022-03-19T09:49Z
+4,cpe:2.3:a:boostio:boostnote:0.1.1:*:*:*:*:*:*:*,BoostIO Boostnote 0.1.1,[''],2022-03-19T09:49Z
+5,cpe:2.3:a:boostio:boostnote:0.1.2:*:*:*:*:*:*:*,BoostIO Boostnote 0.1.2,[''],2022-03-19T09:49Z
+6,cpe:2.3:a:boostio:boostnote:0.2.1:*:*:*:*:*:*:*,BoostIO Boostnote 0.2.1,[''],2022-03-19T09:49Z
+7,cpe:2.3:a:boostio:boostnote:0.2.2:*:*:*:*:*:*:*,BoostIO Boostnote 0.2.2,[''],2022-03-19T09:49Z
+8,cpe:2.3:a:boostio:boostnote:0.2.3:*:*:*:*:*:*:*,BoostIO Boostnote 0.2.3,[''],2022-03-19T09:49Z
+9,cpe:2.3:a:boostio:boostnote:0.2.4:*:*:*:*:*:*:*,BoostIO Boostnote 0.2.4,[''],2022-03-19T09:49Z

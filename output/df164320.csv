@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cpanel:whm:64.0.32:*:*:*:*:*:*:*,CPanel WHM 64.0.32,['CVE-2017-11441'],2022-03-20T08:34Z
+1,cpe:2.3:a:cpanel:whm:66.0.1:*:*:*:*:*:*:*,CPanel WHM 66.0.1,['CVE-2017-11441'],2022-03-20T08:34Z
+2,cpe:2.3:h:cpap:luna_cpap_machine:-:*:*:*:*:*:*:*,CPAP Luna CPAP Machines,['CVE-2017-12701'],2022-03-20T08:34Z
+3,cpe:2.3:o:cpap:luna_cpap_machine_firmware:20170701:*:*:*:*:*:*:*,CPAP Luna CPAP Machine Firmware 20170701,[''],2022-03-20T08:34Z
+4,cpe:2.3:a:cpe17:autorun_killer:1.7.1:*:*:*:*:*:*:*,CPE17 Autorun Killer 1.7.1,['CVE-2012-4054'],2022-03-20T08:34Z
+5,cpe:2.3:a:cpe17:autorun_killer:1.8.6:*:*:*:*:*:*:*,CPE17 Autorun Killer 1.8.6,[''],2022-03-20T08:34Z
+6,cpe:2.3:a:c-periphery_project:c-periphery:1.0.0:*:*:*:*:*:*:*,c-periphery 1.0.0,[''],2022-03-20T08:34Z
+7,cpe:2.3:a:c-periphery_project:c-periphery:1.0.1:*:*:*:*:*:*:*,c-periphery 1.0.1,[''],2022-03-20T08:34Z
+8,cpe:2.3:a:c-periphery_project:c-periphery:1.0.2:*:*:*:*:*:*:*,c-periphery 1.0.2,[''],2022-03-20T08:34Z
+9,cpe:2.3:a:c-periphery_project:c-periphery:1.0.3:*:*:*:*:*:*:*,c-periphery 1.0.3,[''],2022-03-20T08:34Z

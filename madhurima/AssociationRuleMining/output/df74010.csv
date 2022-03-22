@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bestwebsoft:google_analytics:1.6.4:*:*:*:*:wordpress:*:*,BestWebSoft Google Analytics 1.6.4 for WordPress,"['CVE-2017-18556', 'CVE-2017-2171']",2022-03-19T07:12Z
+1,cpe:2.3:a:bestwebsoft:google_analytics:1.6.5:*:*:*:*:wordpress:*:*,BestWebSoft Google Analytics 1.6.5 for WordPress,"['CVE-2017-18556', 'CVE-2017-2171']",2022-03-19T07:12Z
+2,cpe:2.3:a:bestwebsoft:google_analytics:1.6.6:*:*:*:*:wordpress:*:*,BestWebSoft Google Analytics 1.6.6 for WordPress,"['CVE-2017-18556', 'CVE-2017-2171']",2022-03-19T07:12Z
+3,cpe:2.3:a:bestwebsoft:google_analytics:1.6.7:*:*:*:*:wordpress:*:*,BestWebSoft Google Analytics 1.6.7 for WordPress,"['CVE-2017-18556', 'CVE-2017-2171']",2022-03-19T07:12Z
+4,cpe:2.3:a:bestwebsoft:google_analytics:1.6.8:*:*:*:*:wordpress:*:*,BestWebSoft Google Analytics 1.6.8 for WordPress,"['CVE-2017-18556', 'CVE-2017-2171']",2022-03-19T07:12Z
+5,cpe:2.3:a:bestwebsoft:google_analytics:1.6.9:*:*:*:*:wordpress:*:*,BestWebSoft Google Analytics 1.6.9 for WordPress,"['CVE-2017-18556', 'CVE-2017-2171']",2022-03-19T07:12Z
+6,cpe:2.3:a:bestwebsoft:google_analytics:1.7.0:*:*:*:*:wordpress:*:*,BestWebSoft Google Analytics 1.7.0 for WordPress,"['CVE-2017-18556', 'CVE-2017-2171']",2022-03-19T07:12Z
+7,cpe:2.3:a:bestwebsoft:google_analytics:1.7.1:*:*:*:*:wordpress:*:*,BestWebSoft Google Analytics 1.7.1 for WordPress,[''],2022-03-19T07:12Z
+8,cpe:2.3:a:bestwebsoft:google_analytics:1.7.2:*:*:*:*:wordpress:*:*,BestWebSoft Google Analytics 1.7.2 for WordPress,[''],2022-03-19T07:12Z
+9,cpe:2.3:a:bestwebsoft:google_analytics:1.7.3:*:*:*:*:wordpress:*:*,BestWebSoft Google Analytics 1.7.3 for WordPress,[''],2022-03-19T07:12Z

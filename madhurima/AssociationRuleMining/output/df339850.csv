@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,cpe:2.3:h:iball:ib-wra150n:-:*:*:*:*:*:*:*,iball iB-WRA150N,"['CVE-2017-14244', 'CVE-2017-6558', 'CVE-2018-6387', 'CVE-2018-6388']",2022-03-21T19:44Z
+3,cpe:2.3:o:iball:ib-wra150n_firmware:1.2.6:*:*:*:*:*:*:*,iball iB-WRA150N Firmware 1.2.6,"['CVE-2017-6558', 'CVE-2018-6387', 'CVE-2018-6388']",2022-03-21T19:44Z
+4,cpe:2.3:o:iball:ib-wra150n_firmware:fw_ib-lr7011a_1.0.2:*:*:*:*:*:*:*,iBall iB-WRA150N Firmware FW iB-LR7011A 1.0.2,['CVE-2017-14244'],2022-03-21T19:44Z
+5,cpe:2.3:h:iball:ib-wra300n3gt:-:*:*:*:*:*:*:*,iBall iB-WRA300N3GT,['CVE-2017-11169'],2022-03-21T19:44Z
+6,cpe:2.3:o:iball:ib-wra300n3gt_firmware:1.1.1:*:*:*:*:*:*:*,iBall iB-WRA300N3GT Firmware 1.1.1,['CVE-2017-11169'],2022-03-21T19:44Z
+7,cpe:2.3:h:iball:ib-wrb302n:-:*:*:*:*:*:*:*,iBall IB-WRB302N,"['CVE-2018-20008', 'CVE-2018-6355']",2022-03-21T19:44Z
+8,cpe:2.3:o:iball:ib-wrb302n_firmware:1.0.1-sep_8_2017:*:*:*:*:*:*:*,iBall IB-WRB302N Firmware 1.0.1-SEP 8 2017,['CVE-2018-6355'],2022-03-21T19:44Z
+9,cpe:2.3:h:iball:wrb303n:-:*:*:*:*:*:*:*,iBall WRB303N,['CVE-2020-15043'],2022-03-21T19:44Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:jf430a:-:*:*:*:*:*:*:*,HP JC652A HP 12508 DC Switch Chassis,[''],2022-03-21T13:51Z
+1,cpe:2.3:h:hp:jf430a_hp_a12518_switch_chassis:-:*:*:*:*:*:*:*,HP JF430A HP A12518 Switch Chassis,['CVE-2015-5434'],2022-03-21T13:51Z
+2,cpe:2.3:h:hp:jf430b:-:*:*:*:*:*:*:*,HP JC654A HP 12504 AC Switch Chassis,[''],2022-03-21T13:51Z
+3,cpe:2.3:h:hp:jf430b_hp_12518_switch_chassis:-:*:*:*:*:*:*:*,HP JF430B HP 12518 Switch Chassis,['CVE-2015-5434'],2022-03-21T13:51Z
+4,cpe:2.3:h:hp:jf430c:-:*:*:*:*:*:*:*,HP JF430C HP 12518 AC Switch Chassis,[''],2022-03-21T13:51Z
+5,cpe:2.3:h:hp:jf430c_hp_12518_ac_switch_chassis:-:*:*:*:*:*:*:*,HP JF430C HP 12518 AC Switch Chassis,['CVE-2015-5434'],2022-03-21T13:51Z
+6,cpe:2.3:h:hp:jf431a:-:*:*:*:*:*:*:*,HP JC086A HP A12508 Switch Chassis,[''],2022-03-21T13:51Z
+7,cpe:2.3:h:hp:jf431a_hp_a12508_switch_chassis:-:*:*:*:*:*:*:*,HP JF431A HP A12508 Switch Chassis,['CVE-2015-5434'],2022-03-21T13:51Z
+8,cpe:2.3:h:hp:jf431b:-:*:*:*:*:*:*:*,HP JF431B HP 12508 Switch Chassis,[''],2022-03-21T13:51Z
+9,cpe:2.3:h:hp:jf431b_hp_12508_switch_chassis:-:*:*:*:*:*:*:*,HP JF431B HP 12508 Switch Chassis,['CVE-2015-5434'],2022-03-21T13:51Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:abb:mybuildings:2021-05-03:*:*:*:*:*:*:*,ABB MyBuildings 2021-05-03,[''],2022-03-18T10:31Z
+1,cpe:2.3:a:abb:netcadops:-:*:*:*:*:*:*:*,ABB netCADOPS,[''],2022-03-18T10:31Z
+2,cpe:2.3:a:abb:netcadops:3.0:*:*:*:*:*:*:*,ABB netCADOPS 3.0,['CVE-2018-5477'],2022-03-18T10:31Z
+3,cpe:2.3:a:abb:netcadops:3.4:*:*:*:*:*:*:*,ABB netCADOPS 3.4,['CVE-2018-5477'],2022-03-18T10:31Z
+4,cpe:2.3:a:abb:netcadops:7.1:*:*:*:*:*:*:*,ABB netCADOPS 7.1,['CVE-2018-5477'],2022-03-18T10:31Z
+5,cpe:2.3:a:abb:netcadops:7.2.0:*:*:*:*:*:*:*,ABB netCADOPS 7.2.0,['CVE-2018-5477'],2022-03-18T10:31Z
+6,cpe:2.3:a:abb:netcadops:7.2.10:*:*:*:*:*:*:*,ABB netCADOPS 7.2.10,[''],2022-03-18T10:31Z
+7,cpe:2.3:a:abb:netcadops:8.0:*:*:*:*:*:*:*,ABB netCADOPS 8.0,['CVE-2018-5477'],2022-03-18T10:31Z
+8,cpe:2.3:a:abb:netcadops:8.1:*:*:*:*:*:*:*,ABB netCADOPS 8.1,['CVE-2018-5477'],2022-03-18T10:31Z
+9,cpe:2.3:a:abb:opc_server:6.0:*:*:*:*:*:*:*,ABB OPC Server 6.0,"['CVE-2020-8472', 'CVE-2020-8478']",2022-03-18T10:31Z

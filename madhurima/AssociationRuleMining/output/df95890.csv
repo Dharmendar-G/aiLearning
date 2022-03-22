@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:buffalo:wzr-1166dhp2_firmware:2.13:*:*:*:*:*:*:*,Buffalo WZR-1166DHP2 Firmware 2.13,['CVE-2016-4816'],2022-03-19T13:17Z
+1,cpe:2.3:h:buffalo:wzr-1750dhp:-:*:*:*:*:*:*:*,Buffalo WZR-1750DHP,['CVE-2016-4816'],2022-03-19T13:17Z
+2,cpe:2.3:o:buffalo:wzr-1750dhp_firmware:2.28:*:*:*:*:*:*:*,Buffalo WZR-1750DHP Firmware 2.28,['CVE-2016-4816'],2022-03-19T13:17Z
+3,cpe:2.3:h:buffalo:wzr-1750dhp2:-:*:*:*:*:*:*:*,Buffalo WZR-1750DHP2,"['CVE-2016-4816', 'CVE-2018-0554', 'CVE-2018-0555', 'CVE-2018-0556']",2022-03-19T13:17Z
+4,cpe:2.3:o:buffalo:wzr-1750dhp2_firmware:2.28:*:*:*:*:*:*:*,Buffalo WZR-1750DHP2 Firmware 2.28,"['CVE-2016-4816', 'CVE-2018-0554', 'CVE-2018-0555', 'CVE-2018-0556']",2022-03-19T13:17Z
+5,cpe:2.3:o:buffalo:wzr-1750dhp2_firmware:2.30:*:*:*:*:*:*:*,Buffalo WZR-1750DHP2 Firmware 2.30,"['CVE-2018-0554', 'CVE-2018-0555', 'CVE-2018-0556']",2022-03-19T13:17Z
+6,cpe:2.3:h:buffalo:wzr-300hp:-:*:*:*:*:*:*:*,Buffalo WZR-300HP,"['CVE-2016-4816', 'CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:17Z
+7,cpe:2.3:o:buffalo:wzr-300hp_firmware:-:*:*:*:*:*:*:*,Buffalo WZR-300HP FIRMWARE,"['CVE-2016-4816', 'CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:17Z
+8,cpe:2.3:o:buffalo:wzr-300hp_firmware:1.96:*:*:*:*:*:*:*,Buffalo WZR-300HP Firmware 1.96,"['CVE-2016-4816', 'CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:17Z
+9,cpe:2.3:o:buffalo:wzr-300hp_firmware:1.99:*:*:*:*:*:*:*,Buffalo WZR-300HP FIRMWARE 1.99,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:17Z

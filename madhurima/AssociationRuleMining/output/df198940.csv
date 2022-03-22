@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:duo:authentication_proxy:3.2.1:*:*:*:*:*:*:*,Duo Authentication Proxy 3.2.1,['CVE-2021-1492'],2022-03-20T18:50Z
+1,cpe:2.3:a:duo:authentication_proxy:3.2.2:*:*:*:*:*:*:*,Duo Authentication Proxy 3.2.2,['CVE-2021-1492'],2022-03-20T18:50Z
+2,cpe:2.3:a:duo:authentication_proxy:3.2.3:*:*:*:*:*:*:*,Duo Authentication Proxy 3.2.3,['CVE-2021-1492'],2022-03-20T18:50Z
+3,cpe:2.3:a:duo:authentication_proxy:3.2.4:*:*:*:*:*:*:*,Duo Authentication Proxy 3.2.4,['CVE-2021-1492'],2022-03-20T18:50Z
+4,cpe:2.3:a:duo:authentication_proxy:4.0.0:*:*:*:*:*:*:*,Duo Authentication Proxy 4.0.0,['CVE-2021-1492'],2022-03-20T18:50Z
+5,cpe:2.3:a:duo:authentication_proxy:4.0.1:*:*:*:*:*:*:*,Duo Authentication Proxy 4.0.1,['CVE-2021-1492'],2022-03-20T18:50Z
+6,cpe:2.3:a:duo:authentication_proxy:4.0.2:*:*:*:*:*:*:*,Duo Authentication Proxy 4.0.2,['CVE-2021-1492'],2022-03-20T18:50Z
+7,cpe:2.3:a:duo:authentication_proxy:5.0.0:*:*:*:*:*:*:*,Duo Authentication Proxy 5.0.0,['CVE-2021-1492'],2022-03-20T18:50Z
+8,cpe:2.3:a:duo:authentication_proxy:5.0.1:*:*:*:*:*:*:*,Duo Authentication Proxy 5.0.1,['CVE-2021-1492'],2022-03-20T18:50Z
+9,cpe:2.3:a:duo:authentication_proxy:5.0.2:*:*:*:*:*:*:*,Duo Authentication Proxy 5.0.2,['CVE-2021-1492'],2022-03-20T18:50Z

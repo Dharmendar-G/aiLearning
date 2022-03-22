@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dlink:dir-809:-:*:*:*:*:*:*:*,D-Link DIR-809,"['CVE-2021-33265', 'CVE-2021-33266', 'CVE-2021-33267', 'CVE-2021-33268', 'CVE-2021-33269', 'CVE-2021-33270', 'CVE-2021-33271', 'CVE-2021-33274']",2022-03-20T15:49Z
+1,cpe:2.3:o:dlink:dir-809_a1_firmware:1.09:*:*:*:*:*:*:*,D-Link DIR-809 A1 Firmware 1.09,[''],2022-03-20T15:49Z
+2,cpe:2.3:o:dlink:dir-809_a2_firmware:1.09:*:*:*:*:*:*:*,D-Link DIR-809 A2 Firmware 1.09,[''],2022-03-20T15:49Z
+3,cpe:2.3:o:dlink:dir-809_a2_firmware:1.11:*:*:*:*:*:*:*,D-Link DIR-809 A2 Firmware 1.11,[''],2022-03-20T15:49Z
+4,cpe:2.3:o:dlink:dir-809_firmware:1.00:*:*:*:*:*:*:*,D-Link DIR-809 Firmware 1.00,"['CVE-2021-33265', 'CVE-2021-33266', 'CVE-2021-33267', 'CVE-2021-33268', 'CVE-2021-33269', 'CVE-2021-33270', 'CVE-2021-33271', 'CVE-2021-33274']",2022-03-20T15:49Z
+5,cpe:2.3:o:dlink:dir-809_firmware:1.12wwb03:*:*:*:*:*:*:*,D-Link DIR-809 Firmware 1.12WWB03,"['CVE-2021-33265', 'CVE-2021-33266', 'CVE-2021-33267', 'CVE-2021-33268', 'CVE-2021-33269', 'CVE-2021-33270', 'CVE-2021-33271', 'CVE-2021-33274']",2022-03-20T15:49Z
+6,cpe:2.3:o:dlink:dir-809_guestzone_firmware:-:*:*:*:*:*:*:*,D-Link DIR-809 GuestZone Firmware,[''],2022-03-20T15:49Z
+7,cpe:2.3:o:dlink:dir-809_guestzone_firmware:1.09:*:*:*:*:*:*:*,D-Link DIR-809 GuestZone Firmware 1.09,[''],2022-03-20T15:49Z
+8,cpe:2.3:h:dlink:dir-810l:-:*:*:*:*:*:*:*,D-Link DIR-810L,['CVE-2021-45382'],2022-03-20T15:49Z
+9,cpe:2.3:o:dlink:dir-810l_firmware:-:*:*:*:*:*:*:*,D-Link DIR-810L Firmware,['CVE-2021-45382'],2022-03-20T15:49Z

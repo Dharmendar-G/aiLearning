@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codemirror:codemirror:5.37.0:*:*:*:*:*:*:*,Codemirror 5.37.0,['CVE-2020-7760'],2022-03-20T05:37Z
+1,cpe:2.3:a:codemirror:codemirror:5.38.0:*:*:*:*:*:*:*,Codemirror 5.38.0,['CVE-2020-7760'],2022-03-20T05:37Z
+2,cpe:2.3:a:codemirror:codemirror:5.39.0:*:*:*:*:*:*:*,Codemirror 5.39.0,['CVE-2020-7760'],2022-03-20T05:37Z
+3,cpe:2.3:a:codemirror:codemirror:5.39.2:*:*:*:*:*:*:*,Codemirror 5.39.2,['CVE-2020-7760'],2022-03-20T05:37Z
+4,cpe:2.3:a:codemirror:codemirror:5.40.0:*:*:*:*:*:*:*,Codemirror 5.40.0,['CVE-2020-7760'],2022-03-20T05:37Z
+5,cpe:2.3:a:codemirror:codemirror:5.40.2:*:*:*:*:*:*:*,Codemirror 5.40.2,['CVE-2020-7760'],2022-03-20T05:37Z
+6,cpe:2.3:a:codemirror:codemirror:5.41.0:*:*:*:*:*:*:*,Codemirror 5.41.0,['CVE-2020-7760'],2022-03-20T05:37Z
+7,cpe:2.3:a:codemirror:codemirror:5.42.0:*:*:*:*:*:*:*,Codemirror 5.42.0,['CVE-2020-7760'],2022-03-20T05:37Z
+8,cpe:2.3:a:codemirror:codemirror:5.42.2:*:*:*:*:*:*:*,Codemirror 5.42.2,['CVE-2020-7760'],2022-03-20T05:37Z
+9,cpe:2.3:a:codemirror:codemirror:5.43.0:*:*:*:*:*:*:*,Codemirror 5.43.0,['CVE-2020-7760'],2022-03-20T05:37Z

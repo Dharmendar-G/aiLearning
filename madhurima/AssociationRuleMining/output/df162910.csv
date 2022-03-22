@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cozmoslabs:profile_builder:2.6.5:*:*:*:*:wordpress:*:*,Cozmoslabs Profile Builder 2.6.5 for WordPress,"['CVE-2021-24448', 'CVE-2021-24527', 'CVE-2022-0653']",2022-03-20T08:16Z
+1,cpe:2.3:a:cozmoslabs:profile_builder:2.6.6:*:*:*:*:wordpress:*:*,Cozmoslabs Profile Builder 2.6.6 for WordPress,"['CVE-2021-24448', 'CVE-2021-24527', 'CVE-2022-0653']",2022-03-20T08:16Z
+2,cpe:2.3:a:cozmoslabs:profile_builder:2.6.7:*:*:*:*:wordpress:*:*,Cozmoslabs Profile Builder 2.6.7 for WordPress,"['CVE-2021-24448', 'CVE-2021-24527', 'CVE-2022-0653']",2022-03-20T08:16Z
+3,cpe:2.3:a:cozmoslabs:profile_builder:2.6.8:*:*:*:*:wordpress:*:*,Cozmoslabs Profile Builder 2.6.8 for WordPress,"['CVE-2021-24448', 'CVE-2021-24527', 'CVE-2022-0653']",2022-03-20T08:16Z
+4,cpe:2.3:a:cozmoslabs:profile_builder:2.6.9:*:*:*:*:wordpress:*:*,Cozmoslabs Profile Builder 2.6.9 for WordPress,"['CVE-2021-24448', 'CVE-2021-24527', 'CVE-2022-0653']",2022-03-20T08:16Z
+5,cpe:2.3:a:cozmoslabs:profile_builder:2.7.0:*:*:*:*:wordpress:*:*,Cozmoslabs Profile Builder 2.7.0 for WordPress,"['CVE-2021-24448', 'CVE-2021-24527', 'CVE-2022-0653']",2022-03-20T08:16Z
+6,cpe:2.3:a:cozmoslabs:profile_builder:2.7.1:*:*:*:*:wordpress:*:*,Cozmoslabs Profile Builder 2.7.1 for WordPress,"['CVE-2021-24448', 'CVE-2021-24527', 'CVE-2022-0653']",2022-03-20T08:16Z
+7,cpe:2.3:a:cozmoslabs:profile_builder:2.7.2:*:*:*:*:wordpress:*:*,Cozmoslabs Profile Builder 2.7.2 for WordPress,"['CVE-2021-24448', 'CVE-2021-24527', 'CVE-2022-0653']",2022-03-20T08:16Z
+8,cpe:2.3:a:cozmoslabs:profile_builder:2.7.3:*:*:*:*:wordpress:*:*,Cozmoslabs Profile Builder 2.7.3 for WordPress,"['CVE-2021-24448', 'CVE-2021-24527', 'CVE-2022-0653']",2022-03-20T08:16Z
+9,cpe:2.3:a:cozmoslabs:profile_builder:2.7.4:*:*:*:*:wordpress:*:*,Cozmoslabs Profile Builder 2.7.4 for WordPress,"['CVE-2021-24448', 'CVE-2021-24527', 'CVE-2022-0653']",2022-03-20T08:16Z

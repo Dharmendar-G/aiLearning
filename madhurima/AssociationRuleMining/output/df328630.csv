@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:r720-15ikbn_firmware:4gcn38ww:*:*:*:*:*:*:*,HP R720-15IKBN Firmware 4GCN38WW,[''],2022-03-21T15:59Z
+1,cpe:2.3:a:hp:radia_client:3.1.0.0:*:*:*:*:*:*:*,HP Radia Notify Daemon 3.1.0.0,['CVE-2005-1826'],2022-03-21T15:59Z
+2,cpe:2.3:a:hp:radia_client:3.1.2.0:*:*:*:*:*:*:*,HP Radia Notify Daemon 3.1.2.0,['CVE-2005-1825'],2022-03-21T15:59Z
+3,cpe:2.3:a:hp:radia_notify_daemon:-:*:*:*:*:*:*:*,HP Radia Notify Daemon,[''],2022-03-21T15:59Z
+4,cpe:2.3:a:hp:randmap:53.0.13.0:*:*:*:*:*:*:*,HP Randmap 53.0.13.0,[''],2022-03-21T15:59Z
+5,cpe:2.3:a:hp:randmap:70.0.170.0:*:*:*:*:*:*:*,HP Randmap 70.0.170.0,[''],2022-03-21T15:59Z
+6,cpe:2.3:a:hp:rapid_deployment_pack:-:*:*:*:*:*:*:*,HP Rapid Deployment Pack (RDP),"['CVE-2010-4494', 'CVE-2013-6205', 'CVE-2013-6206']",2022-03-21T15:59Z
+7,cpe:2.3:a:hp:readme:47.0.1.0:*:*:*:*:*:*:*,HP Readme 47.0.1.0,[''],2022-03-21T15:59Z
+8,cpe:2.3:a:hp:readme:50.0.206.0:*:*:*:*:*:*:*,HP Readme 50.0.206.0,[''],2022-03-21T15:59Z
+9,cpe:2.3:a:hp:readme:60.0.196.0:*:*:*:*:*:*:*,HP Readme 60.0.196.0,[''],2022-03-21T15:59Z

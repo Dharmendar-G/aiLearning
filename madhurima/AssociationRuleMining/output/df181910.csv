@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:deltaww:cncsoft_screeneditor:1.00.96:*:*:*:*:*:*:*,Delta Industrial Automation CNCSoft ScreenEditor 1.00.96,"['CVE-2020-16199', 'CVE-2020-16201', 'CVE-2020-16203', 'CVE-2020-27281', 'CVE-2020-6976', 'CVE-2020-7002', 'CVE-2021-22668', 'CVE-2021-22672']",2022-03-20T13:18Z
+1,cpe:2.3:a:deltaww:cncsoft_screeneditor:1.01.23:*:*:*:*:*:*:*,Delta Industrial Automation CNCSoft ScreenEditor 1.01.23,"['CVE-2020-16199', 'CVE-2020-16201', 'CVE-2020-16203', 'CVE-2020-27281', 'CVE-2021-22668', 'CVE-2021-22672']",2022-03-20T13:18Z
+2,cpe:2.3:a:deltaww:cncsoft_screeneditor:1.01.26:*:*:*:*:*:*:*,Delta Electronics Industrial Automation CNCSoft ScreenEditor 1.01.26,"['CVE-2020-27281', 'CVE-2021-22668', 'CVE-2021-22672']",2022-03-20T13:18Z
+3,cpe:2.3:a:deltaww:cncsoft_screeneditor:1.01.30:*:*:*:*:*:*:*,Delta Electronics Industrial Automation CNCSoft ScreenEditor 1.01.30,[''],2022-03-20T13:18Z
+4,cpe:2.3:a:deltaww:cncsoft-b:1.0.0.2:*:*:*:*:*:*:*,DeltaWW CNCSoft-B 1.0.0.2,"['CVE-2020-27287', 'CVE-2020-27289', 'CVE-2020-27291', 'CVE-2020-27293']",2022-03-20T13:18Z
+5,cpe:2.3:a:deltaww:cnssoft_screeneditor:-:*:*:*:*:*:*:*,Deltaww CNCSoft ScreenEditor,"['CVE-2019-10982', 'CVE-2019-10992']",2022-03-20T13:18Z
+6,cpe:2.3:a:deltaww:cnssoft_screeneditor:1.00.89:*:*:*:*:*:*:*,Deltaww CNCSoft ScreenEditor 1.00.89,"['CVE-2019-10982', 'CVE-2019-10992']",2022-03-20T13:18Z
+7,cpe:2.3:a:deltaww:commgr:1.08:*:*:*:*:*:*:*,Delta Electronics COMMGR 1.08,['CVE-2018-10594'],2022-03-20T13:18Z
+8,cpe:2.3:a:deltaww:dcisoft:1.21:*:*:*:*:*:*:*,Delta Electronics DCISoft 1.21,['CVE-2019-16247'],2022-03-20T13:18Z
+9,cpe:2.3:a:deltaww:delta_industrial_automation_dopsoft:-:*:*:*:*:*:*:*,Delta Electronics Industrial Automation DOPSoft,"['CVE-2018-10617', 'CVE-2018-10621', 'CVE-2018-10623', 'CVE-2018-5476', 'CVE-2019-13513', 'CVE-2019-13514', 'CVE-2020-10597']",2022-03-20T13:18Z

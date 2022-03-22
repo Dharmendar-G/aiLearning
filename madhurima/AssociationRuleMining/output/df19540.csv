@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alibaba:fastjson:1.2.50:*:*:*:*:*:*:*,Alibaba fastJSON 1.2.50,[''],2022-03-18T14:50Z
+1,cpe:2.3:a:alibaba:fastjson:1.2.51:*:*:*:*:*:*:*,Alibaba fastJSON 1.2.51,[''],2022-03-18T14:50Z
+2,cpe:2.3:a:alibaba:fastjson:1.2.52:*:*:*:*:*:*:*,Alibaba fastJSON 1.2.52,[''],2022-03-18T14:50Z
+3,cpe:2.3:a:alibaba:fastjson:1.2.54:*:*:*:*:*:*:*,Alibaba fastJSON 1.2.54,[''],2022-03-18T14:50Z
+4,cpe:2.3:a:alibaba:nacos:0.1.0:*:*:*:*:*:*:*,Alibaba Nacos 0.1.0,"['CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:50Z
+5,cpe:2.3:a:alibaba:nacos:0.2.0:*:*:*:*:*:*:*,Alibaba Nacos 0.2.0,"['CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:50Z
+6,cpe:2.3:a:alibaba:nacos:0.2.1:-:*:*:*:*:*:*,Alibaba Nacos 0.2.1,"['CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:50Z
+7,cpe:2.3:a:alibaba:nacos:0.2.1:rc1:*:*:*:*:*:*,Alibaba Nacos 0.2.1 Release Candidate 1,"['CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:50Z
+8,cpe:2.3:a:alibaba:nacos:0.3.0:-:*:*:*:*:*:*,Alibaba Nacos 0.3.0,"['CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:50Z
+9,cpe:2.3:a:alibaba:nacos:0.3.0:rc1:*:*:*:*:*:*,Alibaba Nacos 0.3.0 Release Candidate 1,"['CVE-2021-29441', 'CVE-2021-29442']",2022-03-18T14:50Z

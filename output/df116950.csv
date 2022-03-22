@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:catalyst_3750x-24p-s:-:*:*:*:*:*:*:*,Cisco Catalyst 3750X-24P-S,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:58Z
+1,cpe:2.3:h:cisco:catalyst_3750x-24s-e:-:*:*:*:*:*:*:*,Cisco Catalyst 3750X-24S-E,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:58Z
+2,cpe:2.3:h:cisco:catalyst_3750x-24s-s:-:*:*:*:*:*:*:*,Cisco Catalyst 3750X-24S-S,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:58Z
+3,cpe:2.3:h:cisco:catalyst_3750x-24t-e:-:*:*:*:*:*:*:*,Cisco Catalyst 3750X-24T-E,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:58Z
+4,cpe:2.3:h:cisco:catalyst_3750x-24t-l:-:*:*:*:*:*:*:*,Cisco Catalyst 3750X-24T-L,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:58Z
+5,cpe:2.3:h:cisco:catalyst_3750x-24t-s:-:*:*:*:*:*:*:*,Cisco Catalyst 3750X-24T-S,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:58Z
+6,cpe:2.3:h:cisco:catalyst_3750x-24u-e:-:*:*:*:*:*:*:*,Cisco Catalyst 3750X-24U-E,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:58Z
+7,cpe:2.3:h:cisco:catalyst_3750x-24u-l:-:*:*:*:*:*:*:*,Cisco Catalyst 3750X-24U-L,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:58Z
+8,cpe:2.3:h:cisco:catalyst_3750x-24u-s:-:*:*:*:*:*:*:*,Cisco Catalyst 3750X-24U-S,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:58Z
+9,cpe:2.3:h:cisco:catalyst_3750x-48p-e:-:*:*:*:*:*:*:*,Cisco Catalyst 3750X-48P-E,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:58Z

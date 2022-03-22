@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codesys:control_runtime_toolkit:3.5.15.0:*:*:*:*:*:*:*,CODESYS Control Runtime Toolkit 3.5.15.0,[''],2022-03-20T06:12Z
+1,cpe:2.3:a:codesys:control_win:-:*:*:*:*:*:*:*,CODESYS Control Win,"['CVE-2019-18858', 'CVE-2019-9009']",2022-03-20T06:12Z
+2,cpe:2.3:a:codesys:control_win:3.0:*:*:*:*:*:*:*,Codesys Control Win 3.0,"['CVE-2019-18858', 'CVE-2019-9009', 'CVE-2020-12068', 'CVE-2021-29242']",2022-03-20T06:12Z
+3,cpe:2.3:a:codesys:control_win:3.5.9.80:*:*:*:*:*:*:*,CODESYS Control Win 3.5.9.80,"['CVE-2019-13532', 'CVE-2019-13548', 'CVE-2019-18858', 'CVE-2019-9009', 'CVE-2020-10245', 'CVE-2020-12068', 'CVE-2020-15806', 'CVE-2020-7052', 'CVE-2021-29242']",2022-03-20T06:12Z
+4,cpe:2.3:a:codesys:control_win:3.5.12.80:*:*:*:*:*:*:*,Codesys Control Win 3.5.12.80,"['CVE-2019-13532', 'CVE-2019-13542', 'CVE-2019-13548', 'CVE-2019-18858', 'CVE-2019-9009', 'CVE-2020-10245', 'CVE-2020-12068', 'CVE-2020-15806', 'CVE-2020-7052', 'CVE-2021-29242']",2022-03-20T06:12Z
+5,cpe:2.3:a:codesys:control_win:3.5.15.30:*:*:*:*:*:*:*,CODESYS Control Win 3.5.15.30,"['CVE-2020-10245', 'CVE-2020-12068', 'CVE-2020-15806', 'CVE-2021-29242']",2022-03-20T06:12Z
+6,cpe:2.3:a:codesys:control_win:3.5.16.0:*:*:*:*:*:*:*,Codesys Control Win 3.5.16.0,"['CVE-2020-15806', 'CVE-2021-29242']",2022-03-20T06:12Z
+7,cpe:2.3:a:codesys:control_win:3.5.17.0:*:*:*:*:*:*:*,Codesys Control Win 3.5.17.0,[''],2022-03-20T06:12Z
+8,cpe:2.3:a:codesys:control_win_sl:3.0:*:*:*:*:*:*:*,CODESYS Control Win SL 3.0,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013', 'CVE-2021-33485', 'CVE-2021-36763']",2022-03-20T06:12Z
+9,cpe:2.3:a:codesys:control_win_sl:3.5.9.80:*:*:*:*:*:*:*,CODESYS Control Win Sl 3.5.9.80,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013', 'CVE-2021-33485', 'CVE-2021-36763']",2022-03-20T06:12Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:isaac_mizrahi_smartwatch:2.7.0.3:*:*:*:*:iphone_os:*:*,HP Isaac Mizrahi Smartwatch 2.7.0.3 for iPhone OS,[''],2022-03-21T13:43Z
+1,cpe:2.3:a:hp:isaac_mizrahi_smartwatch:2.7.1.1:*:*:*:*:iphone_os:*:*,HP Isaac Mizrahi Smartwatch 2.7.1.1 for iPhone OS,[''],2022-03-21T13:43Z
+2,cpe:2.3:h:hp:j2d37a:-:*:*:*:*:*:*:*,HP J2D37A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:43Z
+3,cpe:2.3:o:hp:j2d37a_firmware:1828a:*:*:*:*:*:*:*,HP J2D37A Firmware 1828A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:43Z
+4,cpe:2.3:h:hp:j3p65a:-:*:*:*:*:*:*:*,HP J3P65A,['CVE-2019-6337'],2022-03-21T13:43Z
+5,cpe:2.3:o:hp:j3p65a_firmware:001.1937c:*:*:*:*:*:*:*,HP J3P65A Firmware 001.1937C,[''],2022-03-21T13:43Z
+6,cpe:2.3:h:hp:j3p68a:-:*:*:*:*:*:*:*,HP J3P68A,"['CVE-2017-2741', 'CVE-2018-5924', 'CVE-2018-5925', 'CVE-2019-6337']",2022-03-21T13:43Z
+7,cpe:2.3:o:hp:j3p68a_firmware:001.1937c:*:*:*:*:*:*:*,HP J3P68A Firmware 001.1937C,['CVE-2017-2741'],2022-03-21T13:43Z
+8,cpe:2.3:o:hp:j3p68a_firmware:1829a:*:*:*:*:*:*:*,HP J3P68A Firmware 1829A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:44Z
+9,cpe:2.3:h:hp:j5t77a:-:*:*:*:*:*:*:*,HP J5T77A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:44Z

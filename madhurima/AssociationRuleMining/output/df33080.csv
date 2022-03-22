@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:kafka:0.7.1:*:*:*:*:*:*:*,Apache Software Foundation Kafka 0.7.1,[''],2022-03-18T19:07Z
+1,cpe:2.3:a:apache:kafka:0.7.2:*:*:*:*:*:*:*,Apache Software Foundation Kafka 0.7.2,[''],2022-03-18T19:07Z
+2,cpe:2.3:a:apache:kafka:0.8.0:beta1:*:*:*:*:*:*,Apache Software Foundation Kafka 0.8.0 Beta 1,[''],2022-03-18T19:07Z
+3,cpe:2.3:a:apache:kafka:0.8.0:-:*:*:*:*:*:*,Apache Software Foundation Kafka 0.8.0,[''],2022-03-18T19:07Z
+4,cpe:2.3:a:apache:kafka:0.8.0:beta1:*:*:*:*:*:*,Apache Software Foundation Kafka 0.8.0 Beta 1,[''],2022-03-18T19:07Z
+5,cpe:2.3:a:apache:kafka:0.8.0.2:*:*:*:*:*:*:*,Apache Software Foundation Kafka 0.8.0.2,[''],2022-03-18T19:07Z
+6,cpe:2.3:a:apache:kafka:0.8.1:*:*:*:*:*:*:*,Apache Software Foundation Kafka 0.8.1,[''],2022-03-18T19:07Z
+7,cpe:2.3:a:apache:kafka:0.8.1.1:*:*:*:*:*:*:*,Apache Software Foundation Kafka 0.8.1.1,[''],2022-03-18T19:07Z
+8,cpe:2.3:a:apache:kafka:0.8.2:beta:*:*:*:*:*:*,Apache Software Foundation Kafka 0.8.2 Beta,[''],2022-03-18T19:07Z
+9,cpe:2.3:a:apache:kafka:0.8.2.0:*:*:*:*:*:*:*,Apache Software Foundation Kafka 0.8.2.0,[''],2022-03-18T19:07Z

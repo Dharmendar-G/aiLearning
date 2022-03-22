@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:infosphere_import_export_manager:8.1.2:*:*:*:*:*:*:*,IBM InfoSphere Import Export Manager 8.1.2,['CVE-2012-0204'],2022-03-21T20:48Z
+1,cpe:2.3:a:ibm:infosphere_import_export_manager:8.5:*:*:*:*:*:*:*,IBM InfoSphere Import Export Manager 8.5,['CVE-2012-0204'],2022-03-21T20:48Z
+2,cpe:2.3:a:ibm:infosphere_import_export_manager:8.7:*:*:*:*:*:*:*,IBM InfoSphere Import Export Manager 8.7,['CVE-2012-0204'],2022-03-21T20:48Z
+3,cpe:2.3:a:ibm:infosphere_import_export_manager:9.1:*:*:*:*:*:*:*,IBM InfoSphere Import Export Manager 9.1,['CVE-2012-0204'],2022-03-21T20:48Z
+4,cpe:2.3:a:ibm:infosphere_information_analyzer:8.1.0:*:*:*:*:*:*:*,IBM InfoSphere Information Analyzer 8.1.0,[''],2022-03-21T20:48Z
+5,cpe:2.3:a:ibm:infosphere_information_analyzer:8.5.0:*:*:*:*:*:*:*,IBM InfoSphere Information Analyzer 8.5.0,[''],2022-03-21T20:48Z
+6,cpe:2.3:a:ibm:infosphere_information_analyzer:8.7.0:*:*:*:*:*:*:*,IBM InfoSphere Information Analyzer 8.7.0,[''],2022-03-21T20:48Z
+7,cpe:2.3:a:ibm:infosphere_information_analyzer:9.1.0:*:*:*:*:*:*:*,IBM InfoSphere Information Analyzer 9.1.0,[''],2022-03-21T20:48Z
+8,cpe:2.3:a:ibm:infosphere_information_analyzer:11.3.0:*:*:*:*:*:*:*,IBM InfoSphere Information Analyzer 11.3.0,[''],2022-03-21T20:48Z
+9,cpe:2.3:a:ibm:infosphere_information_analyzer:11.5.0:*:*:*:*:*:*:*,IBM InfoSphere Information Analyzer 11.5.0,[''],2022-03-21T20:48Z

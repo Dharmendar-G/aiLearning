@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:y520-15ikba:-:*:*:*:*:*:*:*,HP Y520-15IKBA,['CVE-2018-9069'],2022-03-21T16:19Z
+1,cpe:2.3:o:hp:y520-15ikba_firmware:-:*:*:*:*:*:*:*,HP Y520-15IKBA Firmware,['CVE-2018-9069'],2022-03-21T16:19Z
+2,cpe:2.3:o:hp:y520-15ikba_firmware:5jcn25ww:*:*:*:*:*:*:*,HP Y520-15IKBA Firmware 5JCN25WW,[''],2022-03-21T16:19Z
+3,cpe:2.3:h:hp:y520-15ikbn:-:*:*:*:*:*:*:*,HP Y520-15IKBN,['CVE-2018-9069'],2022-03-21T16:19Z
+4,cpe:2.3:o:hp:y520-15ikbn_firmware:-:*:*:*:*:*:*:*,HP Y520-15IKBN Firmware,['CVE-2018-9069'],2022-03-21T16:19Z
+5,cpe:2.3:o:hp:y520-15ikbn_firmware:4gcn38ww:*:*:*:*:*:*:*,HP Y520-15IKBN Firmware 4GCN38WW,[''],2022-03-21T16:19Z
+6,cpe:2.3:h:hp:y5h60a:-:*:*:*:*:*:*:*,HP Y5H60A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:19Z
+7,cpe:2.3:o:hp:y5h60a_firmware:1828a:*:*:*:*:*:*:*,HP Y5H60A Firmware 1828A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:19Z
+8,cpe:2.3:h:hp:y5h80a:-:*:*:*:*:*:*:*,HP Y5H80A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:19Z
+9,cpe:2.3:o:hp:y5h80a_firmware:1828a:*:*:*:*:*:*:*,HP Y5H80A Firmware 1828A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:19Z

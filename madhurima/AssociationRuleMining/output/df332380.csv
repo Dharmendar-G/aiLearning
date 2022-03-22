@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:ac6605_firmware:v200r005c10:*:*:*:*:*:*:*,Huawei AC6605 Firmware V200R005C10,['CVE-2016-6824'],2022-03-21T17:09Z
+1,cpe:2.3:o:huawei:ac6605_firmware:v200r006c00:*:*:*:*:*:*:*,Huawei AC6605 Firmware V200R006C00,['CVE-2016-6824'],2022-03-21T17:09Z
+2,cpe:2.3:o:huawei:ac6605_firmware:v200r006c10:*:*:*:*:*:*:*,Huawei AC6605 Firmware V200R006C10,['CVE-2017-2700'],2022-03-21T17:09Z
+3,cpe:2.3:o:huawei:ac6605_firmware:v200r006c10spc200:*:*:*:*:*:*:*,Huawei Ac6605 Firmware V200r006c10spc200,['CVE-2017-8147'],2022-03-21T17:09Z
+4,cpe:2.3:h:huawei:access_router:v200r002c01spc200:*:*:*:*:*:*:*,Huawei Access Router V200R002C01SPC200,['CVE-2013-4632'],2022-03-21T17:09Z
+5,cpe:2.3:h:huawei:access_router:v200r002spc003:*:*:*:*:*:*:*,Huawei Access Router V200R002SPC003,[''],2022-03-21T17:09Z
+6,cpe:2.3:h:huawei:acu:-:*:*:*:*:*:*:*,Huawei ACU,['CVE-2014-8572'],2022-03-21T17:09Z
+7,cpe:2.3:h:huawei:acu:v100r003c01spc100:*:*:*:*:*:*:*,Huawei ACU V100R003C01SPC100,['CVE-2012-4960'],2022-03-21T17:09Z
+8,cpe:2.3:h:huawei:acu:v200r001c00:*:*:*:*:*:*:*,Huawei ACU V200R001C00,['CVE-2012-4960'],2022-03-21T17:09Z
+9,cpe:2.3:h:huawei:acu:v200r001c00spc100:*:*:*:*:*:*:*,Huawei ACU V200R001C00SPC100,['CVE-2012-4960'],2022-03-21T17:09Z

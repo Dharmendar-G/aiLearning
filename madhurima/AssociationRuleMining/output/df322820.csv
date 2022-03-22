@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:insight_diagnostics:7.9.0.2359:unknown:online_windows_server_2003_x64:*:*:*:*:*,HP Insight Diagnostics 7.9.0.2359 Online Edition for Windows Server 2003 x64,['CVE-2008-3542'],2022-03-21T13:39Z
+1,cpe:2.3:a:hp:insight_diagnostics:7.9.0_rev_a:offline:*:*:*:*:*:*,HP Insight Diagnostics 7.9.0 Rev. A Offline Edition,['CVE-2008-3542'],2022-03-21T13:39Z
+2,cpe:2.3:a:hp:insight_diagnostics:7.9.0_rev_a:unknown:offline:*:*:*:*:*,HP Insight Diagnostics 7.9.0 Rev. A Offline Edition,['CVE-2008-3542'],2022-03-21T13:39Z
+3,cpe:2.3:a:hp:insight_diagnostics:7.9.1-15:unknown:online_linux:*:*:*:*:*,HP Insight Diagnostics 7.9.1-15 Online Edition for Linux,"['CVE-2008-3542', 'CVE-2010-3003']",2022-03-21T13:39Z
+4,cpe:2.3:a:hp:insight_diagnostics:7.9.1.2401:online_windows_server_2003:*:*:*:*:*:*,HP Insight Diagnostics 7.9.1.2401 Online Edition for Windows Server 2003,['CVE-2008-3542'],2022-03-21T13:39Z
+5,cpe:2.3:a:hp:insight_diagnostics:7.9.1.2401:online_windows_server_2003_x64:*:*:*:*:*:*,HP Insight Diagnostics 7.9.1.2401 Online Edition for Windows Server 2003 x64,['CVE-2008-3542'],2022-03-21T13:39Z
+6,cpe:2.3:a:hp:insight_diagnostics:7.9.1.2401:unknown:online_windows_server_2003:*:*:*:*:*,HP Insight Diagnostics 7.9.1.2401 Online Edition for Windows Server 2003,['CVE-2008-3542'],2022-03-21T13:39Z
+7,cpe:2.3:a:hp:insight_diagnostics:7.9.1.2401:unknown:online_windows_server_2003_x64:*:*:*:*:*,HP Insight Diagnostics 7.9.1.2401 Online Edition for Windows Server 2003 x64,['CVE-2008-3542'],2022-03-21T13:40Z
+8,cpe:2.3:a:hp:insight_diagnostics:7.9.1.2402:*:*:*:*:*:*:*,HP Insight Diagnostics 7.9.1.2402,[''],2022-03-21T13:40Z
+9,cpe:2.3:a:hp:insight_diagnostics:9.4.0.4710:*:*:*:*:*:*:*,HP Insight Diagnostics 9.4.0.4710,"['CVE-2013-3573', 'CVE-2013-3574', 'CVE-2013-3575']",2022-03-21T13:40Z

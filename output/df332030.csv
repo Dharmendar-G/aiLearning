@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,[0],[0],[0],[0]
+8,cpe:2.3:a:http-body_project:http-body:0.01:*:*:*:*:*:*:*,HTTP-Body Project HTTP-Body 0.01,['CVE-2013-4407'],2022-03-21T17:01Z
+9,cpe:2.3:a:http-body_project:http-body:0.2:*:*:*:*:*:*:*,HTTP-Body Project HTTP-Body 0.2,['CVE-2013-4407'],2022-03-21T17:01Z

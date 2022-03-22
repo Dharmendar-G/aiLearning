@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hikvision:ds-2td6266t-50h2l:-:*:*:*:*:*:*:*,Hikvision DS-2TD6266T-50H2L,['CVE-2021-36260'],2022-03-21T11:13Z
+1,cpe:2.3:o:hikvision:ds-2td6266t-50h2l_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2TD6266T-50H2L Firmware,['CVE-2021-36260'],2022-03-21T11:13Z
+2,cpe:2.3:h:hikvision:ds-2td6267-100c4l\/w:-:*:*:*:*:*:*:*,Hikvision DS-2TD6267-100C4L/W,['CVE-2021-36260'],2022-03-21T11:13Z
+3,cpe:2.3:o:hikvision:ds-2td6267-100c4l\/w_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2TD6267-100C4L/W Firmware,['CVE-2021-36260'],2022-03-21T11:13Z
+4,cpe:2.3:h:hikvision:ds-2td6267-100c4l\/wy:-:*:*:*:*:*:*:*,Hikvision DS-2TD6267-100C4L/WY,['CVE-2021-36260'],2022-03-21T11:13Z
+5,cpe:2.3:o:hikvision:ds-2td6267-100c4l\/wy_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2TD6267-100C4L/WY Firmware,['CVE-2021-36260'],2022-03-21T11:13Z
+6,cpe:2.3:h:hikvision:ds-2td6267-50h4l\/w:-:*:*:*:*:*:*:*,Hikvision DS-2TD6267-50H4L/W,['CVE-2021-36260'],2022-03-21T11:13Z
+7,cpe:2.3:o:hikvision:ds-2td6267-50h4l\/w_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2TD6267-50H4L/W Firmware,['CVE-2021-36260'],2022-03-21T11:13Z
+8,cpe:2.3:h:hikvision:ds-2td6267-75c4l\/w:-:*:*:*:*:*:*:*,Hikvision DS-2TD6267-75C4L/W,['CVE-2021-36260'],2022-03-21T11:13Z
+9,cpe:2.3:o:hikvision:ds-2td6267-75c4l\/w_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2TD6267-75C4L/W Firmware,['CVE-2021-36260'],2022-03-21T11:13Z

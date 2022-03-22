@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:etrust_integrated_threat_management:-:*:*:*:*:*:*:*,Broadcom eTrust Integrated Threat Management,[''],2022-03-19T12:21Z
+1,cpe:2.3:a:broadcom:etrust_integrated_threat_management:8.0:*:*:*:*:*:*:*,Broadcom eTrust Integrated Threat Management 8.0,"['CVE-2005-3653', 'CVE-2007-2522']",2022-03-19T12:21Z
+2,cpe:2.3:a:broadcom:etrust_integrated_threat_management:8.1:*:*:*:*:*:*:*,Broadcom eTrust Integrated Threat Management 8.1,"['CVE-2007-5437', 'CVE-2007-5439', 'CVE-2009-3587', 'CVE-2009-3588']",2022-03-19T12:21Z
+3,cpe:2.3:a:broadcom:etrust_internet_security_suite:-:*:*:*:*:*:*:*,Broadcom eTrust Internet Security Suite,[''],2022-03-19T12:21Z
+4,cpe:2.3:a:broadcom:etrust_internet_security_suite:1:*:*:*:*:*:*:*,Broadcom eTrust Internet Security Suite 1,['CVE-2007-3875'],2022-03-19T12:21Z
+5,cpe:2.3:a:broadcom:etrust_internet_security_suite:2:*:*:*:*:*:*:*,Broadcom eTrust Internet Security Suite 2,['CVE-2007-3875'],2022-03-19T12:21Z
+6,cpe:2.3:a:broadcom:etrust_intrusion_detection:-:*:*:*:*:*:*:*,Broadcom eTrust Intrusion Detection,['CVE-2000-0559'],2022-03-19T12:21Z
+7,cpe:2.3:a:broadcom:etrust_intrusion_detection:1.4.1.13:*:*:*:*:*:*:*,Broadcom eTrust Intrusion Detection 1.4.1.13,"['CVE-2000-0559', 'CVE-2004-0932', 'CVE-2004-0933', 'CVE-2004-0934', 'CVE-2004-0935', 'CVE-2004-0936', 'CVE-2004-0937', 'CVE-2004-1096', 'CVE-2005-1693']",2022-03-19T12:21Z
+8,cpe:2.3:a:broadcom:etrust_intrusion_detection:1.4.5:*:*:*:*:*:*:*,Broadcom eTrust Intrusion Detection 1.4.5,"['CVE-2004-0932', 'CVE-2004-0933', 'CVE-2004-0934', 'CVE-2004-0935', 'CVE-2004-0936', 'CVE-2004-0937', 'CVE-2004-1096', 'CVE-2005-1693']",2022-03-19T12:21Z
+9,cpe:2.3:a:broadcom:etrust_intrusion_detection:1.5:*:*:*:*:*:*:*,Broadcom eTrust Intrusion Detection 1.5,"['CVE-2004-0932', 'CVE-2004-0933', 'CVE-2004-0934', 'CVE-2004-0935', 'CVE-2004-0936', 'CVE-2004-0937', 'CVE-2004-1096', 'CVE-2005-1693']",2022-03-19T12:21Z

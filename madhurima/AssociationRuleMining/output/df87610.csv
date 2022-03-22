@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:br-automation:automation_studio:4.8.3.111:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.8.3.111,[''],2022-03-19T10:40Z
+1,cpe:2.3:a:br-automation:automation_studio:4.82.2.1:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.82.2.1,[''],2022-03-19T10:40Z
+2,cpe:2.3:h:br-automation:gatemanager_4260:-:*:*:*:*:*:*:*,BR-Automation GateManager 4260,"['CVE-2020-11643', 'CVE-2020-11644', 'CVE-2020-11645', 'CVE-2020-11646']",2022-03-19T10:40Z
+3,cpe:2.3:o:br-automation:gatemanager_4260_firmware:-:*:*:*:*:*:*:*,BR-Automation GateManager 4260 Firmware,"['CVE-2020-11643', 'CVE-2020-11644', 'CVE-2020-11645', 'CVE-2020-11646']",2022-03-19T10:40Z
+4,cpe:2.3:o:br-automation:gatemanager_4260_firmware:9.0.20262:*:*:*:*:*:*:*,BR-Automation GateManager 4260 Firmware 9.0.20262,[''],2022-03-19T10:40Z
+5,cpe:2.3:h:br-automation:gatemanager_8250:-:*:*:*:*:*:*:*,BR-Automation GateManager 8250,"['CVE-2020-11643', 'CVE-2020-11644', 'CVE-2020-11645', 'CVE-2020-11646']",2022-03-19T10:40Z
+6,cpe:2.3:o:br-automation:gatemanager_8250_firmware:-:*:*:*:*:*:*:*,BR-Automation GateManager 8250 Firmware,"['CVE-2020-11643', 'CVE-2020-11644', 'CVE-2020-11645', 'CVE-2020-11646']",2022-03-19T10:40Z
+7,cpe:2.3:o:br-automation:gatemanager_8250_firmware:9.2.620236042:*:*:*:*:*:*:*,BR-Automation GateManager 8250 Firmware 9.2.620236042,[''],2022-03-19T10:40Z
+8,cpe:2.3:h:br-automation:gatemanager_9250:-:*:*:*:*:*:*:*,BR-Automation GateManager 9250,"['CVE-2020-11643', 'CVE-2020-11644', 'CVE-2020-11645', 'CVE-2020-11646']",2022-03-19T10:40Z
+9,cpe:2.3:o:br-automation:gatemanager_9250_firmware:-:*:*:*:*:*:*:*,BR-Automation GateManager 9250 Firmware,"['CVE-2020-11643', 'CVE-2020-11644', 'CVE-2020-11645', 'CVE-2020-11646']",2022-03-19T10:40Z

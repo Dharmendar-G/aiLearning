@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:robohelp:2020.2:*:*:*:*:*:*:*,Adobe RoboHelp 2020.2,[''],2022-03-18T12:51Z
+1,cpe:2.3:a:adobe:robohelp:2020.3:*:*:*:*:*:*:*,Adobe RoboHelp 2020.3,[''],2022-03-18T12:51Z
+2,cpe:2.3:a:adobe:robohelp:x5:*:*:*:*:*:*:*,Adobe RoboHelp X5,['CVE-2007-1280'],2022-03-18T12:51Z
+3,cpe:2.3:a:adobe:robohelp_server:-:*:*:*:*:*:*:*,Adobe RoboHelp Server,"['CVE-2021-28588', 'CVE-2021-42727']",2022-03-18T12:51Z
+4,cpe:2.3:a:adobe:robohelp_server:6:*:*:*:*:*:*:*,アドビシステムズ RoboHelp Server 6,"['CVE-2007-1280', 'CVE-2008-2991', 'CVE-2009-0523', 'CVE-2009-0524', 'CVE-2021-28588', 'CVE-2021-42727']",2022-03-18T12:51Z
+5,cpe:2.3:a:adobe:robohelp_server:7:*:*:*:*:*:*:*,Adobe RoboHelp Server 7,"['CVE-2008-2991', 'CVE-2009-0523', 'CVE-2009-0524', 'CVE-2010-2885', 'CVE-2010-2886', 'CVE-2011-0613', 'CVE-2021-28588', 'CVE-2021-42727']",2022-03-18T12:51Z
+6,cpe:2.3:a:adobe:robohelp_server:8:*:*:*:*:*:*:*,Adobe RoboHelp Server 8,"['CVE-2009-3068', 'CVE-2010-2885', 'CVE-2010-2886', 'CVE-2011-0613', 'CVE-2011-2133', 'CVE-2021-28588', 'CVE-2021-42727']",2022-03-18T12:51Z
+7,cpe:2.3:a:adobe:robohelp_server:2019.0.9:*:*:*:*:*:*:*,Adobe RoboHelp Server 2019.0.9,"['CVE-2021-28588', 'CVE-2021-42727']",2022-03-18T12:51Z
+8,cpe:2.3:a:adobe:search_for_help:1.0:*:*:*:*:*:*:*,Adobe Search For Help 1.0,[''],2022-03-18T12:51Z
+9,cpe:2.3:a:adobe:service_manager_extension:1.0:*:*:*:*:*:*:*,Adobe Service Manager Extension 1.0,[''],2022-03-18T12:51Z

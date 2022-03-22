@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ahsay:cloud_backup_suite:7.15.2.2:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.15.2.2,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:45Z
+1,cpe:2.3:a:ahsay:cloud_backup_suite:7.15.4.10:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.15.4.10,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:45Z
+2,cpe:2.3:a:ahsay:cloud_backup_suite:7.15.4.41:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.15.4.41,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:46Z
+3,cpe:2.3:a:ahsay:cloud_backup_suite:7.15.6.38:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.15.6.38,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:46Z
+4,cpe:2.3:a:ahsay:cloud_backup_suite:7.15.6.55:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.15.6.55,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:46Z
+5,cpe:2.3:a:ahsay:cloud_backup_suite:7.17.0.30:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.17.0.30,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:46Z
+6,cpe:2.3:a:ahsay:cloud_backup_suite:7.17.0.50:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.17.0.50,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:46Z
+7,cpe:2.3:a:ahsay:cloud_backup_suite:8.1.0.24:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 8.1.0.24,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:46Z
+8,cpe:2.3:a:ahsay:cloud_backup_suite:8.1.0.50:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 8.1.0.50,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:46Z
+9,cpe:2.3:a:ahsay:cloud_backup_suite:8.1.1.50:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 8.1.1.50,[''],2022-03-18T13:46Z

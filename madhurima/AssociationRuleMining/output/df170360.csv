@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:daggerhartlab:openid_connect_generic_client:3.8.0:*:*:*:*:wordpress:*:*,Daggerhartlab OpenID Connect Generic Client 3.8.0 for WordPress,['CVE-2021-24214'],2022-03-20T09:54Z
+1,cpe:2.3:a:daggerhartlab:openid_connect_generic_client:3.8.1:*:*:*:*:wordpress:*:*,Daggerhartlab OpenID Connect Generic Client 3.8.1 for WordPress,['CVE-2021-24214'],2022-03-20T09:54Z
+2,cpe:2.3:o:dahuasecurity:camera_firmware:2.400.0000.28.r:*:*:*:*:*:*:*,Dahua Technology CAMERA Firmware 2.400.0000.28.r,"['CVE-2017-6341', 'CVE-2017-6342', 'CVE-2017-6343']",2022-03-20T09:54Z
+3,cpe:2.3:h:dahuasecurity:ddh-hcvr4xxx:-:*:*:*:*:*:*:*,Dahua Technology USA Inc DDH-HCVR4XXX,"['CVE-2017-7925', 'CVE-2017-7927']",2022-03-20T09:54Z
+4,cpe:2.3:o:dahuasecurity:dh-hcvr4xxx_firmware:-:*:*:*:*:*:*:*,Dahuasecurity DH-HCVR4xxx Firmware -,"['CVE-2017-7925', 'CVE-2017-7927']",2022-03-20T09:54Z
+5,cpe:2.3:h:dahuasecurity:dh-hcvr5xxx:-:*:*:*:*:*:*:*,Dahua Technology USA Inc DH-HCVR5XXX,"['CVE-2017-7925', 'CVE-2017-7927']",2022-03-20T09:54Z
+6,cpe:2.3:o:dahuasecurity:dh-hcvr5xxx_firmware:-:*:*:*:*:*:*:*,Dahuasecurity DH-HCVR5xxx Firmware -,"['CVE-2017-7925', 'CVE-2017-7927']",2022-03-20T09:54Z
+7,cpe:2.3:h:dahuasecurity:dhi-hcvr51a04he-s3:-:*:*:*:*:*:*:*,Dahua Technology USA Inc DHI-HCVR51A04HE-S3,"['CVE-2017-7925', 'CVE-2017-7927']",2022-03-20T09:54Z
+8,cpe:2.3:o:dahuasecurity:dhi-hcvr51a04he-s3_firmware:-:*:*:*:*:*:*:*,Dahuasecurity DHI-HCVR51a04he-s3 Firmware -,"['CVE-2017-7925', 'CVE-2017-7927']",2022-03-20T09:54Z
+9,cpe:2.3:h:dahuasecurity:dhi-hcvr51a08he-s3:-:*:*:*:*:*:*:*,Dahua Technology USA Inc DHI-HCVR51A08HE-S3,"['CVE-2017-7925', 'CVE-2017-7927']",2022-03-20T09:54Z

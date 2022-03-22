@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avahi:avahi:0.8-5:*:*:*:*:*:*:*,Avahi Avahi 0.8-5,['CVE-2021-3502'],2022-03-19T03:55Z
+1,cpe:2.3:a:avanquest:expert_pdf_ultimate:9.0.270:*:*:*:*:*:*:*,Avanquest eXpertPDF Ultimate 9.0.270,['CVE-2018-18689'],2022-03-19T03:55Z
+2,cpe:2.3:a:avanquest:expert_pdf_ultimate:12.0.20:*:*:*:*:*:*:*,Avanquest eXpertPDF Ultimate 12.0.20,['CVE-2018-18689'],2022-03-19T03:55Z
+3,cpe:2.3:a:avanset:visual_certexam_manager:2.0:*:*:*:*:*:*:*,Avanset CertExam Manager 2.0,['CVE-2013-7175'],2022-03-19T03:55Z
+4,cpe:2.3:a:avanset:visual_certexam_manager:2.1:*:*:*:*:*:*:*,Avanset CertExam Manager 2.1,['CVE-2013-7175'],2022-03-19T03:55Z
+5,cpe:2.3:a:avanset:visual_certexam_manager:2.1.1:*:*:*:*:*:*:*,Avanset CertExam Manager 2.1.1,['CVE-2013-7175'],2022-03-19T03:55Z
+6,cpe:2.3:a:avanset:visual_certexam_manager:2.3:*:*:*:*:*:*:*,Avanset CertExam Manager 2.3,['CVE-2013-7175'],2022-03-19T03:55Z
+7,cpe:2.3:a:avanset:visual_certexam_manager:2.4:*:*:*:*:*:*:*,Avanset CertExam Manager 2.4,['CVE-2013-7175'],2022-03-19T03:55Z
+8,cpe:2.3:a:avanset:visual_certexam_manager:2.4.1:*:*:*:*:*:*:*,Avanset CertExam Manager 2.4.1,['CVE-2013-7175'],2022-03-19T03:55Z
+9,cpe:2.3:a:avanset:visual_certexam_manager:2.4.2:*:*:*:*:*:*:*,Avanset CertExam Manager 2.4.2,['CVE-2013-7175'],2022-03-19T03:56Z

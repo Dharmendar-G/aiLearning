@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:optiplex_7440_aio:-:*:*:*:*:*:*:*,Dell Optiplex 7440 AIO,"['CVE-2019-3717', 'CVE-2020-5362', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:58Z
+1,cpe:2.3:o:dell:optiplex_7440_aio_firmware:-:*:*:*:*:*:*:*,Dell OptiPlex 7440 Aio Firmware,"['CVE-2019-3717', 'CVE-2020-5362', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:58Z
+2,cpe:2.3:o:dell:optiplex_7440_aio_firmware:1.10.0:*:*:*:*:*:*:*,Dell OptiPlex 7440 AIO Firmware 1.10.0,"['CVE-2020-5362', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:58Z
+3,cpe:2.3:o:dell:optiplex_7440_firmware:-:*:*:*:*:*:*:*,Dell OptiPlex 7440 Firmware,"['CVE-2020-5326', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:58Z
+4,cpe:2.3:o:dell:optiplex_7440_firmware:1.11.1:*:*:*:*:*:*:*,Dell OptiPlex 7440 Firmware 1.11.1,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:58Z
+5,cpe:2.3:h:dell:optiplex_7450:-:*:*:*:*:*:*:*,Dell OptiPlex 7450,"['CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:58Z
+6,cpe:2.3:o:dell:optiplex_7450_aio_firmware:-:*:*:*:*:*:*:*,Dell OptiPlex 7450 AIO Firmware,['CVE-2019-3717'],2022-03-20T12:58Z
+7,cpe:2.3:o:dell:optiplex_7450_aio_firmware:1.12.1:*:*:*:*:*:*:*,Dell OptiPlex 7450 AIO Firmware 1.12.1,[''],2022-03-20T12:58Z
+8,cpe:2.3:o:dell:optiplex_7450_firmware:-:*:*:*:*:*:*:*,Dell OptiPlex 7450 Firmware,"['CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:58Z
+9,cpe:2.3:o:dell:optiplex_7450_firmware:1.13.1:*:*:*:*:*:*:*,Dell OptiPlex 7450 Firmware 1.13.1,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:58Z

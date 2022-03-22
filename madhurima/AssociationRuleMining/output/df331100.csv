@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ht2labs:learning_locker:3.17.2:*:*:*:*:*:*:*,Ht2labs Learning Locker 3.17.2,[''],2022-03-21T16:41Z
+1,cpe:2.3:a:ht2labs:learning_locker:3.18.0:*:*:*:*:*:*:*,Ht2labs Learning Locker 3.18.0,[''],2022-03-21T16:41Z
+2,cpe:2.3:a:htacg:tidy:4.9.30:*:*:*:*:*:*:*,HTACG Tidy 4.9.30,"['CVE-2015-5522', 'CVE-2015-5523']",2022-03-21T16:41Z
+3,cpe:2.3:a:htacg:tidy:5.0.0:*:*:*:*:*:*:*,HTACG Tidy 5.0.0,[''],2022-03-21T16:41Z
+4,cpe:2.3:a:htacg:tidy:5.1.8:*:*:*:*:*:*:*,HTACG Tidy 5.1.8,[''],2022-03-21T16:41Z
+5,cpe:2.3:a:htacg:tidy:5.1.14:*:*:*:*:*:*:*,HTACG Tidy 5.1.14,[''],2022-03-21T16:42Z
+6,cpe:2.3:a:htacg:tidy:5.1.24:*:*:*:*:*:*:*,HTACG Tidy 5.1.24,[''],2022-03-21T16:42Z
+7,cpe:2.3:a:htacg:tidy:5.1.25:*:*:*:*:*:*:*,HTACG Tidy 5.1.25,[''],2022-03-21T16:42Z
+8,cpe:2.3:a:htacg:tidy:5.2.0:*:*:*:*:*:*:*,HTACG Tidy 5.2.0,[''],2022-03-21T16:42Z
+9,cpe:2.3:a:htacg:tidy:5.4.0:*:*:*:*:*:*:*,HTACG Tidy 5.4.0,[''],2022-03-21T16:42Z

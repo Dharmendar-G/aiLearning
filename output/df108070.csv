@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:charybdis_project:charybdis:3.4.1:*:*:*:*:*:*:*,Charybdis Project Charybdis 3.4.1,['CVE-2016-7143'],2022-03-19T16:36Z
+1,cpe:2.3:a:charybdis_project:charybdis:3.4.2:*:*:*:*:*:*:*,Charybdis Project Charybdis 3.4.2,['CVE-2016-7143'],2022-03-19T16:36Z
+2,cpe:2.3:a:charybdis_project:charybdis:3.5.0:-:*:*:*:*:*:*,Charybdis Project Charybdis 3.5.0,['CVE-2016-7143'],2022-03-19T16:36Z
+3,cpe:2.3:a:charybdis_project:charybdis:3.5.0:rc1:*:*:*:*:*:*,Charybdis Project Charybdis 3.5.0 Release Candidate 1,['CVE-2016-7143'],2022-03-19T16:36Z
+4,cpe:2.3:a:charybdis_project:charybdis:3.5.0:test1:*:*:*:*:*:*,Charybdis Project Charybdis 3.5.0 Test 1,['CVE-2016-7143'],2022-03-19T16:36Z
+5,cpe:2.3:a:charybdis_project:charybdis:3.5.1:*:*:*:*:*:*:*,Charybdis Project Charybdis 3.5.1,['CVE-2016-7143'],2022-03-19T16:36Z
+6,cpe:2.3:a:charybdis_project:charybdis:3.5.2:*:*:*:*:*:*:*,Charybdis Project Charybdis 3.5.2,['CVE-2016-7143'],2022-03-19T16:36Z
+7,cpe:2.3:a:charybdis_project:charybdis:3.5.3:*:*:*:*:*:*:*,Charybdis Project Charybdis 3.5.3,[''],2022-03-19T16:36Z
+8,cpe:2.3:a:charybdis_project:charybdis:3.5.4:*:*:*:*:*:*:*,Charybdis Project Charybdis 3.5.4,[''],2022-03-19T16:36Z
+9,cpe:2.3:a:charybdis_project:charybdis:3.5.5:*:*:*:*:*:*:*,Charybdis Project Charybdis 3.5.5,[''],2022-03-19T16:36Z

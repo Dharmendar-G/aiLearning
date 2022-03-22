@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:anker:nebula_capsule_projector_firmware:nbui_m1_v2.1.9:*:*:*:*:*:*:*,Anker Nebula Capsule Projector Firmware Nbui M1 V2.1.9,['CVE-2018-19980'],2022-03-18T16:41Z
+1,cpe:2.3:h:anker-in:roav_dashcam_a1:-:*:*:*:*:*:*:*,Anker Innovations Roav Dashcam A1,"['CVE-2018-4014', 'CVE-2018-4016', 'CVE-2018-4017', 'CVE-2018-4018', 'CVE-2018-4023', 'CVE-2018-4024', 'CVE-2018-4025', 'CVE-2018-4026', 'CVE-2018-4027', 'CVE-2018-4028', 'CVE-2018-4029']",2022-03-18T16:41Z
+2,cpe:2.3:o:anker-in:roav_dashcam_a1_firmware:1.9:*:*:*:*:*:*:*,Anker-in Roav Dashcam A1 Firmware 1.9,"['CVE-2018-4018', 'CVE-2018-4023', 'CVE-2018-4024', 'CVE-2018-4025', 'CVE-2018-4026', 'CVE-2018-4027', 'CVE-2018-4028', 'CVE-2018-4029']",2022-03-18T16:41Z
+3,cpe:2.3:o:anker-in:roav_dashcam_a1_firmware:roava1swv1.9:*:*:*:*:*:*:*,Anker Innovation Roav Dashcam A1 Firmware RoavA1SWV1.9,"['CVE-2018-4014', 'CVE-2018-4016', 'CVE-2018-4017']",2022-03-18T16:41Z
+4,cpe:2.3:a:anl:bcfg2:0.9.6:*:*:*:*:*:*:*,anl (Argonne National Laboratory) bcfg2 0.9.6,[''],2022-03-18T16:41Z
+5,cpe:2.3:a:anl:bcfg2:1.0.1:*:*:*:*:*:*:*,anl (Argonne National Laboratory) bcfg2 1.0.1,[''],2022-03-18T16:41Z
+6,cpe:2.3:a:anl:bcfg2:1.1.3:*:*:*:*:*:*:*,anl (Argonne National Laboratory) bcfg2 1.1.3,[''],2022-03-18T16:41Z
+7,cpe:2.3:a:anl:bcfg2:1.2.0:*:*:*:*:*:*:*,anl (Argonne National Laboratory) bcfg2 1.2.0,['CVE-2012-3366'],2022-03-18T16:41Z
+8,cpe:2.3:a:anl:bcfg2:1.2.0:rc2:*:*:*:*:*:*,anl (Argonne National Laboratory) bcfg2 1.2.0 release candidate 2,['CVE-2012-3366'],2022-03-18T16:41Z
+9,cpe:2.3:a:anl:bcfg2:1.2.3:*:*:*:*:*:*:*,anl (Argonne National Laboratory) bcfg2 1.2.3,[''],2022-03-18T16:41Z

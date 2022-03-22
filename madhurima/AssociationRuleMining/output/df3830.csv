@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:abb:cs141_firmware:1.88:*:*:*:*:*:*:*,ABB CS141 Firmware 1.88,['CVE-2020-11420'],2022-03-18T10:30Z
+1,cpe:2.3:o:abb:cs141_firmware:1.90:*:*:*:*:*:*:*,ABB CS141 Firmware 1.90,[''],2022-03-18T10:30Z
+2,cpe:2.3:a:abb:datamanager:1.0.0:*:*:*:*:*:*:*,ABB DataManager 1.0.0,['CVE-2013-5021'],2022-03-18T10:30Z
+3,cpe:2.3:a:abb:datamanager:6.3.6:*:*:*:*:*:*:*,ABB DataManager 6.3.6,['CVE-2013-5021'],2022-03-18T10:30Z
+4,cpe:2.3:a:abb:device_library_wizard:6.0.3.2:*:*:*:*:*:*:*,Abb Device Library Wizard 6.0.3.2,['CVE-2020-8482'],2022-03-18T10:30Z
+5,cpe:2.3:a:abb:device_library_wizard:6.1.0:*:*:*:*:*:*:*,Abb Device Library Wizard 6.1.0,['CVE-2020-8482'],2022-03-18T10:30Z
+6,cpe:2.3:a:abb:ellipse:8.3.0:*:*:*:*:*:*:*,Abb Ellipse 8.3.0,['CVE-2017-16731'],2022-03-18T10:30Z
+7,cpe:2.3:a:abb:ellipse:8.9.0:*:*:*:*:*:*:*,Abb Ellipse 8.9.0,['CVE-2017-16731'],2022-03-18T10:30Z
+8,cpe:2.3:a:abb:esoms:-:*:*:*:*:*:*:*,ABB eSOMS,['CVE-2021-35527'],2022-03-18T10:30Z
+9,cpe:2.3:a:abb:esoms:3.9:*:*:*:*:*:*:*,ABB eSOMS 3.9,"['CVE-2019-19094', 'CVE-2021-35527']",2022-03-18T10:30Z

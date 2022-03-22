@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ash-aio_project:ash-aio:2.0.0.0:*:*:*:*:*:*:*,ASH-AIO Project ASH-AIO Ash-aio 2.0.0.0,['CVE-2019-1020016'],2022-03-18T23:46Z
+1,cpe:2.3:a:ash-aio_project:ash-aio:2.0.0.1:*:*:*:*:*:*:*,ASH-AIO Project ASH-AIO Ash-aio 2.0.0.1,['CVE-2019-1020016'],2022-03-18T23:46Z
+2,cpe:2.3:a:ash-aio_project:ash-aio:2.0.0.2:*:*:*:*:*:*:*,ASH-AIO Project ASH-AIO Ash-aio 2.0.0.2,['CVE-2019-1020016'],2022-03-18T23:46Z
+3,cpe:2.3:a:ash-aio_project:ash-aio:2.0.0.3:*:*:*:*:*:*:*,ASH-AIO Project ASH-AIO Ash-aio 2.0.0.3,[''],2022-03-18T23:46Z
+4,cpe:2.3:a:ashikagabank:ashigin:-:*:*:*:*:android:*:*,Ashikaga Bank Ashigin for Android,['CVE-2020-5523'],2022-03-18T23:46Z
+5,cpe:2.3:a:ashikagabank:ashigin:1.0.4:*:*:*:*:android:*:*,Ashikaga Bank Ashigin 1.0.4 for Android,['CVE-2020-5523'],2022-03-18T23:46Z
+6,cpe:2.3:a:ashikagabank:ashigin:1.0.5:*:*:*:*:android:*:*,Ashikaga Bank Ashigin 1.0.5 for Android,[''],2022-03-18T23:46Z
+7,cpe:2.3:a:ashok88:jja-_juvenile_justice_act_1986:1:*:*:*:*:android:*:*,ashok88 JJA- Juvenile Justice Act 1986 (aka com.felix.jja) for android 1.0,['CVE-2014-7650'],2022-03-18T23:46Z
+8,cpe:2.3:h:asi:chromebook:-:*:*:*:*:*:*:*,ASI Chromebook,['CVE-2017-15361'],2022-03-18T23:46Z
+9,cpe:2.3:a:asial:monaca_debugger:1.4.1:*:*:*:*:*:*:*,Asial Co. Ltd. Monaca Debugger 1.4.1,['CVE-2012-5172'],2022-03-18T23:46Z

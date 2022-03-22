@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:citrix:receiver_aero:13.0.0.6685:*:*:*:*:*:*:*,Citrix Receiver Aero 13.0.0.6685,[''],2022-03-20T01:34Z
+1,cpe:2.3:a:citrix:receiver_desktop:4.5:*:*:*:*:*:*:*,Citrix Receiver Desktop 4.5,['CVE-2016-9111'],2022-03-20T01:34Z
+2,cpe:2.3:a:citrix:receiver_dv:13.0.0.6684:*:*:*:*:*:*:*,Citrix Receiver Dv 13.0.0.6684,[''],2022-03-20T01:34Z
+3,cpe:2.3:a:citrix:receiver_dv:13.0.0.6685:*:*:*:*:*:*:*,Citrix Receiver Dv 13.0.0.6685,[''],2022-03-20T01:34Z
+4,cpe:2.3:a:citrix:receiver_enterprise:13.0.0.6685:*:*:*:*:*:*:*,Citrix Receiver Enterprise 13.0.0.6685,[''],2022-03-20T01:34Z
+5,cpe:2.3:a:citrix:receiver_hdx_flash_redirection:13.0.0.6684:*:*:*:*:*:*:*,Citrix Receiver Hdx Flash Redirection 13.0.0.6684,[''],2022-03-20T01:34Z
+6,cpe:2.3:a:citrix:receiver_hdx_flash_redirection:13.0.0.6685:*:*:*:*:*:*:*,Citrix Receiver Hdx Flash Redirection 13.0.0.6685,[''],2022-03-20T01:34Z
+7,cpe:2.3:a:citrix:receiver_inside:3.0.0.56418:*:*:*:*:*:*:*,Citrix Receiver Inside 3.0.0.56418,[''],2022-03-20T01:34Z
+8,cpe:2.3:a:citrix:receiver_pna:13.0.0.6685:*:*:*:*:*:*:*,Citrix Receiver Pna 13.0.0.6685,[''],2022-03-20T01:34Z
+9,cpe:2.3:a:citrix:receiver_sson:13.0.0.6685:*:*:*:*:*:*:*,Citrix Receiver Sson 13.0.0.6685,[''],2022-03-20T01:34Z

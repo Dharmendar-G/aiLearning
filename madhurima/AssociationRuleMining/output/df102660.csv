@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:canonical:subiquity:0.0.25:*:*:*:*:*:*:*,Canonical Subiquity 0.0.25,['CVE-2020-11932'],2022-03-19T15:25Z
+1,cpe:2.3:a:canonical:subiquity:0.0.26:*:*:*:*:*:*:*,Canonical Subiquity 0.0.26,['CVE-2020-11932'],2022-03-19T15:25Z
+2,cpe:2.3:a:canonical:subiquity:0.0.27:*:*:*:*:*:*:*,Canonical Subiquity 0.0.27,['CVE-2020-11932'],2022-03-19T15:25Z
+3,cpe:2.3:a:canonical:subiquity:0.0.28:*:*:*:*:*:*:*,Canonical Subiquity 0.0.28,['CVE-2020-11932'],2022-03-19T15:25Z
+4,cpe:2.3:a:canonical:subiquity:0.0.29:*:*:*:*:*:*:*,Canonical Subiquity 0.0.29,['CVE-2020-11932'],2022-03-19T15:25Z
+5,cpe:2.3:a:canonical:subiquity:19.04.1:*:*:*:*:*:*:*,Canonical Subiquity 19.04.1,['CVE-2020-11932'],2022-03-19T15:25Z
+6,cpe:2.3:a:canonical:subiquity:19.04.2:*:*:*:*:*:*:*,Canonical Subiquity 19.04.2,['CVE-2020-11932'],2022-03-19T15:25Z
+7,cpe:2.3:a:canonical:subiquity:19.04.3:*:*:*:*:*:*:*,Canonical Subiquity 19.04.3,['CVE-2020-11932'],2022-03-19T15:25Z
+8,cpe:2.3:a:canonical:subiquity:19.04.4:*:*:*:*:*:*:*,Canonical Subiquity 19.04.4,['CVE-2020-11932'],2022-03-19T15:25Z
+9,cpe:2.3:a:canonical:subiquity:19.04.5:*:*:*:*:*:*:*,Canonical Subiquity 19.04.5,['CVE-2020-11932'],2022-03-19T15:25Z

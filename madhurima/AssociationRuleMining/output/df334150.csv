@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:hima-l29c_firmware:10.1.0.275\(c10e4r2p4\):*:*:*:*:*:*:*,Huawei Hima-L29C Firmware 10.1.0.275(C10E4R2P4),['CVE-2019-5282'],2022-03-21T17:48Z
+1,cpe:2.3:o:huawei:hima-l29c_firmware:hima-l29c_9.0.0.204\(c636e10r2p1\):*:*:*:*:*:*:*,Huawei Hima-L29C Firmware Hima-L29C 9.0.0.204(C636E10R2P1),[''],2022-03-21T17:48Z
+2,cpe:2.3:h:huawei:hima-l29ca:-:*:*:*:*:*:*:*,Huawei Hima-L29CA,['CVE-2019-5282'],2022-03-21T17:48Z
+3,cpe:2.3:o:huawei:hima-l29ca_firmware:-:*:*:*:*:*:*:*,Huawei Hima-L29CA Firmware,['CVE-2019-5282'],2022-03-21T17:48Z
+4,cpe:2.3:o:huawei:hima-l29ca_firmware:hima-l29ca_9.0.0.198\(c432e10r1p16\):*:*:*:*:*:*:*,Huawei Hima-L29CA Firmware Hima-L29CA 9.0.0.198(C432E10R1P16),[''],2022-03-21T17:48Z
+5,cpe:2.3:h:huawei:hirouter-cd15-10:-:*:*:*:*:*:*:*,Huawei HiRouter-CD15-10,"['CVE-2019-5268', 'CVE-2019-5269']",2022-03-21T17:48Z
+6,cpe:2.3:o:huawei:hirouter-cd15-10_firmware:-:*:*:*:*:*:*:*,Huawei HiRouter-CD15-10 Firmware,[''],2022-03-21T17:48Z
+7,cpe:2.3:o:huawei:hirouter-cd15-10_firmware:9.0.2.3:*:*:*:*:*:*:*,Huawei HiRouter-CD15-10 Firmware 9.0.2.3,"['CVE-2019-5268', 'CVE-2019-5269']",2022-03-21T17:48Z
+8,cpe:2.3:o:huawei:hirouter-cd15-10_firmware:10.0.2.5:*:*:*:*:*:*:*,Huawei HiRouter-CD15-10 Firmware 10.0.2.5,[''],2022-03-21T17:48Z
+9,cpe:2.3:h:huawei:hirouter-cd20:-:*:*:*:*:*:*:*,Huawei HiRouter-CD20,"['CVE-2018-7933', 'CVE-2018-7937']",2022-03-21T17:48Z

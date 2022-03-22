@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:canonical:apt-xapian-index:0.37:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.37,[''],2022-03-19T15:18Z
+1,cpe:2.3:a:canonical:apt-xapian-index:0.38:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.38,[''],2022-03-19T15:18Z
+2,cpe:2.3:a:canonical:apt-xapian-index:0.38ubuntu1:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.38ubuntu1,[''],2022-03-19T15:18Z
+3,cpe:2.3:a:canonical:apt-xapian-index:0.39:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.39,[''],2022-03-19T15:18Z
+4,cpe:2.3:a:canonical:apt-xapian-index:0.39ubuntu1:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.39ubuntu1,[''],2022-03-19T15:18Z
+5,cpe:2.3:a:canonical:apt-xapian-index:0.41ubuntu1:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.41ubuntu1,[''],2022-03-19T15:18Z
+6,cpe:2.3:a:canonical:apt-xapian-index:0.41ubuntu2:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.41ubuntu2,[''],2022-03-19T15:18Z
+7,cpe:2.3:a:canonical:apt-xapian-index:0.41ubuntu3:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.41ubuntu3,[''],2022-03-19T15:18Z
+8,cpe:2.3:a:canonical:apt-xapian-index:0.41ubuntu4:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.41ubuntu4,[''],2022-03-19T15:18Z
+9,cpe:2.3:a:canonical:apt-xapian-index:0.41ubuntu5:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.41ubuntu5,[''],2022-03-19T15:18Z

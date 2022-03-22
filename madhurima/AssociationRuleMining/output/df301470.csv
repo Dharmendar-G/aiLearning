@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:gtranslate:google_language_translator:4.0.9:*:*:*:*:wordpress:*:*,GTranslate Google Language Translator 4.0.9 for WordPress,"['CVE-2016-10870', 'CVE-2021-24594']",2022-03-21T08:14Z
+1,cpe:2.3:a:gtranslate:google_language_translator:5.0.0:*:*:*:*:wordpress:*:*,GTranslate Google Language Translator 5.0.0 for WordPress,"['CVE-2016-10870', 'CVE-2021-24594']",2022-03-21T08:14Z
+2,cpe:2.3:a:gtranslate:google_language_translator:5.0.01:*:*:*:*:wordpress:*:*,GTranslate Google Language Translator 5.0.01 for WordPress,"['CVE-2016-10870', 'CVE-2021-24594']",2022-03-21T08:15Z
+3,cpe:2.3:a:gtranslate:google_language_translator:5.0.02:*:*:*:*:wordpress:*:*,GTranslate Google Language Translator 5.0.02 for WordPress,"['CVE-2016-10870', 'CVE-2021-24594']",2022-03-21T08:15Z
+4,cpe:2.3:a:gtranslate:google_language_translator:5.0.03:*:*:*:*:wordpress:*:*,GTranslate Google Language Translator 5.0.03 for WordPress,"['CVE-2016-10870', 'CVE-2021-24594']",2022-03-21T08:15Z
+5,cpe:2.3:a:gtranslate:google_language_translator:5.0.04:*:*:*:*:wordpress:*:*,GTranslate Google Language Translator 5.0.04 for WordPress,"['CVE-2016-10870', 'CVE-2021-24594']",2022-03-21T08:15Z
+6,cpe:2.3:a:gtranslate:google_language_translator:5.0.05:*:*:*:*:wordpress:*:*,GTranslate Google Language Translator 5.0.05 for WordPress,"['CVE-2016-10870', 'CVE-2021-24594']",2022-03-21T08:15Z
+7,cpe:2.3:a:gtranslate:google_language_translator:5.0.06:*:*:*:*:wordpress:*:*,GTranslate Google Language Translator 5.0.06 for WordPress,['CVE-2021-24594'],2022-03-21T08:15Z
+8,cpe:2.3:a:gtranslate:google_language_translator:5.0.07:*:*:*:*:wordpress:*:*,GTranslate Google Language Translator 5.0.07 for WordPress,['CVE-2021-24594'],2022-03-21T08:15Z
+9,cpe:2.3:a:gtranslate:google_language_translator:5.0.08:*:*:*:*:wordpress:*:*,GTranslate Google Language Translator 5.0.08 for WordPress,['CVE-2021-24594'],2022-03-21T08:15Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:compo:composr_cms:10.0.27:*:*:*:*:*:*:*,Compo Composr CMS 10.0.27,"['CVE-2021-38708', 'CVE-2021-38709']",2022-03-20T07:04Z
+1,cpe:2.3:a:compo:composr_cms:10.0.28:*:*:*:*:*:*:*,Compo Composr CMS 10.0.28,"['CVE-2021-38708', 'CVE-2021-38709']",2022-03-20T07:04Z
+2,cpe:2.3:a:compo:composr_cms:10.0.29:*:*:*:*:*:*:*,Compo Composr CMS 10.0.29,"['CVE-2021-38708', 'CVE-2021-38709']",2022-03-20T07:04Z
+3,cpe:2.3:a:compo:composr_cms:10.0.30:*:*:*:*:*:*:*,Compo Composr CMS 10.0.30,"['CVE-2021-38708', 'CVE-2021-38709']",2022-03-20T07:04Z
+4,cpe:2.3:a:compo:composr_cms:10.0.31:*:*:*:*:*:*:*,Compo Composr CMS 10.0.31,"['CVE-2021-38708', 'CVE-2021-38709']",2022-03-20T07:04Z
+5,cpe:2.3:a:compo:composr_cms:10.0.32:*:*:*:*:*:*:*,Compo Composr CMS 10.0.32,"['CVE-2021-38708', 'CVE-2021-38709']",2022-03-20T07:04Z
+6,cpe:2.3:a:compo:composr_cms:10.0.33:*:*:*:*:*:*:*,Compo Composr CMS 10.0.33,"['CVE-2021-38708', 'CVE-2021-38709']",2022-03-20T07:04Z
+7,cpe:2.3:a:compo:composr_cms:10.0.34:*:*:*:*:*:*:*,Compo Composr CMS 10.0.34,"['CVE-2021-38708', 'CVE-2021-38709']",2022-03-20T07:04Z
+8,cpe:2.3:a:compo:composr_cms:10.1:beta1:*:*:*:*:*:*,Compo Composr CMS 10.1 Beta 1,[''],2022-03-20T07:04Z
+9,cpe:2.3:a:compo:composr_cms:10.1:beta10:*:*:*:*:*:*,Compo Composr CMS 10.1 Beta 10,[''],2022-03-20T07:04Z

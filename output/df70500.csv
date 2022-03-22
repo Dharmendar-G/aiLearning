@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:barco:clickshare_cse-200_firmware:1.6.1.2:*:*:*:*:*:*:*,Barco ClickShare CSE-200 Firmware 1.6.1.2,"['CVE-2016-3150', 'CVE-2019-18825', 'CVE-2019-18826', 'CVE-2019-18827', 'CVE-2019-18828', 'CVE-2019-18830', 'CVE-2019-18831']",2022-03-19T06:14Z
+1,cpe:2.3:o:barco:clickshare_cse-200_firmware:1.7.0.22:*:*:*:*:*:*:*,Barco ClickShare CSE-200 Firmware 1.7.0.22,"['CVE-2016-3150', 'CVE-2019-18825', 'CVE-2019-18826', 'CVE-2019-18827', 'CVE-2019-18828', 'CVE-2019-18830', 'CVE-2019-18831']",2022-03-19T06:14Z
+2,cpe:2.3:o:barco:clickshare_cse-200_firmware:1.7.1.1:*:*:*:*:*:*:*,Barco ClickShare CSE-200 Firmware 1.7.1.1,"['CVE-2016-3150', 'CVE-2019-18825', 'CVE-2019-18826', 'CVE-2019-18827', 'CVE-2019-18828', 'CVE-2019-18830', 'CVE-2019-18831']",2022-03-19T06:14Z
+3,cpe:2.3:o:barco:clickshare_cse-200_firmware:1.8.0.6:*:*:*:*:*:*:*,Barco ClickShare CSE-200 Firmware 1.8.0.6,"['CVE-2016-3150', 'CVE-2019-18825', 'CVE-2019-18826', 'CVE-2019-18827', 'CVE-2019-18828', 'CVE-2019-18830', 'CVE-2019-18831']",2022-03-19T06:14Z
+4,cpe:2.3:o:barco:clickshare_cse-200_firmware:1.8.1.2:*:*:*:*:*:*:*,Barco ClickShare CSE-200 Firmware 1.8.1.2,"['CVE-2016-3150', 'CVE-2019-18825', 'CVE-2019-18826', 'CVE-2019-18827', 'CVE-2019-18828', 'CVE-2019-18830', 'CVE-2019-18831']",2022-03-19T06:14Z
+5,cpe:2.3:o:barco:clickshare_cse-200_firmware:1.9.1.7:*:*:*:*:*:*:*,Barco ClickShare CSE-200 Firmware 1.9.1.7,['CVE-2016-3150'],2022-03-19T06:14Z
+6,cpe:2.3:o:barco:clickshare_cse-200_firmware:01.09.02.05:*:*:*:*:*:*:*,Barco ClickShare CSE-200 Firmware 01.09.02.05,['CVE-2016-3150'],2022-03-19T06:14Z
+7,[0],[0],[0],[0]
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

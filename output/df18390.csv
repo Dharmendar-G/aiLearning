@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:alcatel:speed_touch_home:khdsaa.133:*:*:*:*:*:*:*,"Alcatel Speed Touch Home KHDSAA,133","['CVE-2001-1424', 'CVE-2001-1425', 'CVE-2001-1426']",2022-03-18T14:31Z
+1,cpe:2.3:h:alcatel:speed_touch_home:khdsaa.134:*:*:*:*:*:*:*,"Alcatel Speed Touch Home KHDSAA,134","['CVE-2001-1424', 'CVE-2001-1425', 'CVE-2001-1426']",2022-03-18T14:31Z
+2,cpe:2.3:h:alcatel:speedtouch_7g_router:-:*:*:*:*:*:*:*,Alcatel SpeedTouch 7G router,"['CVE-2007-5383', 'CVE-2007-5384', 'CVE-2007-5385']",2022-03-18T14:31Z
+3,cpe:2.3:h:alcatel:switched_firewall:-:*:*:*:*:*:*:*,Alcatel Switched Firewall,[''],2022-03-18T14:31Z
+4,cpe:2.3:a:alcatel-lucent:home_device_manager:4.1.9:*:*:*:*:*:*:*,Alcatel-Lucent Home Device Manager 4.1.9,['CVE-2015-6498'],2022-03-18T14:31Z
+5,cpe:2.3:a:alcatel-lucent:home_device_manager:4.2.0:*:*:*:*:*:*:*,Alcatel-Lucent Home Device Manager 4.2.0,['CVE-2015-6498'],2022-03-18T14:31Z
+6,cpe:2.3:a:alcatel-lucent:home_device_manager:4.2.1:*:*:*:*:*:*:*,Alcatel-Lucent Home Device Manager 4.2.1,['CVE-2015-6498'],2022-03-18T14:31Z
+7,cpe:2.3:a:alcatel-lucent:motive_home_device_manager:4.1.10.5:*:*:*:*:*:*:*,Alcatel-Lucent Motive Home Device Manager 4.1.10.5,['CVE-2015-8687'],2022-03-18T14:31Z
+8,cpe:2.3:h:alcatel-lucent:omniaccess_wireless:-:*:*:*:*:*:*:*,Alcatel-Lucent OmniAccess Wireless,[''],2022-03-18T14:31Z
+9,cpe:2.3:a:alcatel-lucent:omnipcx:-:*:*:*:*:*:*:*,Alcatel-Lucent OmniPCX,[''],2022-03-18T14:31Z

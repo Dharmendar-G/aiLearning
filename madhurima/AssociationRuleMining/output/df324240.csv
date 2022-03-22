@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_enterprise_flow_mfp_m632_j8j71a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise Flow MFP M632 J8J71A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:02Z
+1,cpe:2.3:h:hp:laserjet_enterprise_flow_mfp_m632_j8j72a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise Flow MFP M632 J8J72A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:02Z
+2,cpe:2.3:h:hp:laserjet_enterprise_flow_mfp_m632z:-:*:*:*:*:*:*:*,Hp LaserJet Enterprise Flow MFP M632Z,['CVE-2018-5923'],2022-03-21T15:02Z
+3,cpe:2.3:o:hp:laserjet_enterprise_flow_mfp_m632z_firmware:-:*:*:*:*:*:*:*,Hp Laserjet Enterprise Flow Mfp M632z Firmware -,['CVE-2018-5923'],2022-03-21T15:02Z
+4,cpe:2.3:o:hp:laserjet_enterprise_flow_mfp_m632z_firmware:2406048_029629:*:*:*:*:*:*:*,Hp Laserjet Enterprise Flow Mfp M632z Firmware 2406048 029629,[''],2022-03-21T15:02Z
+5,cpe:2.3:h:hp:laserjet_enterprise_flow_mfp_m633:-:*:*:*:*:*:*:*,HP LaserJet Enterprise Flow MFP M633,['CVE-2019-6318'],2022-03-21T15:02Z
+6,cpe:2.3:o:hp:laserjet_enterprise_flow_mfp_m633_firmware:-:*:*:*:*:*:*:*,HP Laserjet Enterprise Flow Mfp M633 Firmware -,['CVE-2019-6318'],2022-03-21T15:02Z
+7,cpe:2.3:o:hp:laserjet_enterprise_flow_mfp_m633_firmware:2407081_000592:*:*:*:*:*:*:*,HP Laserjet Enterprise Flow Mfp M633 Firmware 2407081 000592,[''],2022-03-21T15:02Z
+8,cpe:2.3:h:hp:laserjet_enterprise_flow_mfp_m633_j8j76a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise Flow MFP M633 J8J76A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:02Z
+9,cpe:2.3:h:hp:laserjet_enterprise_flow_mfp_m633_j8j78a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise Flow MFP M633 J8J78A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:02Z

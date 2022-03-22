@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:code42:crashplan:6.0:*:*:*:*:*:*:*,Code42 CrashPlan 6.0,[''],2022-03-20T04:51Z
+1,cpe:2.3:a:code42:crashplan:6.1:*:*:*:*:*:*:*,Code42 CrashPlan 6.1,[''],2022-03-20T04:51Z
+2,cpe:2.3:a:code42:crashplan:6.5:*:*:*:*:*:*:*,Code42 CrashPlan 6.5,[''],2022-03-20T04:51Z
+3,cpe:2.3:a:code42:crashplan:6.6:*:*:*:*:*:*:*,Code42 CrashPlan 6.6,[''],2022-03-20T04:51Z
+4,cpe:2.3:a:code42:crashplan:6.7:*:*:*:*:*:*:*,Code42 CrashPlan 6.7,[''],2022-03-20T04:51Z
+5,cpe:2.3:a:code42:crashplan:6.8:*:*:*:*:*:*:*,Code42 CrashPlan 6.8,[''],2022-03-20T04:51Z
+6,cpe:2.3:a:code42:crashplan:6.9.0:*:*:*:*:*:*:*,Code42 CrashPlan 6.9.0,[''],2022-03-20T04:51Z
+7,cpe:2.3:a:code42:crashplan:6.9.1:*:*:*:*:*:*:*,Code42 CrashPlan 6.9.1,[''],2022-03-20T04:51Z
+8,cpe:2.3:a:code42:crashplan_for_small_business:-:*:*:*:*:*:*:*,Code42 Crashplan For Small Business,['CVE-2019-11551'],2022-03-20T04:51Z
+9,cpe:2.3:a:code42:crashplan_for_small_business:3.1:*:*:*:*:*:*:*,Code42 Crashplan For Small Business 3.1,['CVE-2019-11551'],2022-03-20T04:51Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:informix_dynamic_server:9.40.xc7:*:*:*:*:*:*:*,IBM Informix IDS 9.40.xC7,"['CVE-2006-3853', 'CVE-2006-3858', 'CVE-2007-5956', 'CVE-2010-4069', 'CVE-2010-4070']",2022-03-21T20:46Z
+1,cpe:2.3:a:ibm:informix_dynamic_server:10.00:*:*:*:*:*:*:*,IBM Informix Dynamic Server 10.00,"['CVE-2006-5663', 'CVE-2006-5664', 'CVE-2007-5956', 'CVE-2008-0369', 'CVE-2008-0768', 'CVE-2010-4069', 'CVE-2010-4070']",2022-03-21T20:46Z
+2,cpe:2.3:a:ibm:informix_dynamic_server:10.0:*:*:*:*:*:*:*,IBM Informix Dynamic Server 10.0,"['CVE-2006-3853', 'CVE-2006-3855', 'CVE-2006-3856', 'CVE-2006-3858', 'CVE-2006-3861', 'CVE-2007-5956', 'CVE-2008-0368', 'CVE-2008-0727', 'CVE-2008-0768', 'CVE-2008-0949', 'CVE-2009-2753', 'CVE-2009-2754', 'CVE-2009-3470']",2022-03-21T20:46Z
+3,cpe:2.3:a:ibm:informix_dynamic_server:10.0.tc1:*:*:*:*:*:*:*,IBM Informix IDS 10.0.TC1,"['CVE-2006-3862', 'CVE-2008-0768', 'CVE-2009-2753', 'CVE-2009-2754']",2022-03-21T20:46Z
+4,cpe:2.3:a:ibm:informix_dynamic_server:10.00.tc3tl:*:*:*:*:*:*:*,IBM Informix Dynamic Server 10.00.TC3TL,"['CVE-2007-5957', 'CVE-2008-0768', 'CVE-2010-4069', 'CVE-2010-4070']",2022-03-21T20:46Z
+5,cpe:2.3:a:ibm:informix_dynamic_server:10.0.xc1:*:*:*:*:*:*:*,IBM Informix IDS 10.0.xC1,"['CVE-2006-3856', 'CVE-2006-3858', 'CVE-2006-3861', 'CVE-2006-3862', 'CVE-2008-0768', 'CVE-2009-2753', 'CVE-2009-2754']",2022-03-21T20:46Z
+6,cpe:2.3:a:ibm:informix_dynamic_server:10.0.xc3:*:*:*:*:*:*:*,IBM Informix IDS 10.0.xC3,"['CVE-2006-3853', 'CVE-2006-3855', 'CVE-2006-3858', 'CVE-2008-0727', 'CVE-2008-0768', 'CVE-2008-0949', 'CVE-2009-2753', 'CVE-2009-2754']",2022-03-21T20:46Z
+7,cpe:2.3:a:ibm:informix_dynamic_server:10.00.xc4:*:*:*:*:*:*:*,IBM Informix Dynamic Server 10.00.xC4,"['CVE-2008-0768', 'CVE-2009-3470', 'CVE-2010-4069', 'CVE-2010-4070']",2022-03-21T20:46Z
+8,cpe:2.3:a:ibm:informix_dynamic_server:10.00.xc5:*:*:*:*:*:*:*,IBM Informix Dynamic Server 10.00.xC5,"['CVE-2008-0768', 'CVE-2009-3470', 'CVE-2010-4069', 'CVE-2010-4070']",2022-03-21T20:46Z
+9,cpe:2.3:a:ibm:informix_dynamic_server:10.00.xc6:*:*:*:*:*:*:*,IBM Informix Dynamic Server 10.00.xC6,"['CVE-2008-0768', 'CVE-2009-3470', 'CVE-2010-4069', 'CVE-2010-4070']",2022-03-21T20:46Z

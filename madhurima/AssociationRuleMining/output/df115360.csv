@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:asa_5505_firmware:201.5\(23.16\):*:*:*:*:*:*:*,Cisco ASA 5505 Firmware 201.5(23.16),['CVE-2020-3186'],2022-03-19T18:27Z
+1,cpe:2.3:h:cisco:asa_5506h-x:-:*:*:*:*:*:*:*,Cisco ASA 5506H-X,"['CVE-2018-0242', 'CVE-2019-1649', 'CVE-2019-1705', 'CVE-2019-1708', 'CVE-2019-1873', 'CVE-2020-3298']",2022-03-19T18:27Z
+2,cpe:2.3:o:cisco:asa_5506h-x_firmware:9.6\(4.16\):*:*:*:*:*:*:*,Cisco ASA 5506H-X Firmware 9.6(4.16),['CVE-2019-1873'],2022-03-19T18:27Z
+3,cpe:2.3:o:cisco:asa_5506h-x_firmware:9.8\(3.8\):*:*:*:*:*:*:*,Cisco ASA 5506H-X Firmware 9.8(3.8),['CVE-2019-1873'],2022-03-19T18:27Z
+4,cpe:2.3:h:cisco:asa_5506w-x:-:*:*:*:*:*:*:*,Cisco ASA 5506W-X,"['CVE-2018-0240', 'CVE-2018-0242', 'CVE-2019-1649', 'CVE-2019-1705', 'CVE-2019-1708', 'CVE-2019-1873', 'CVE-2020-3298']",2022-03-19T18:27Z
+5,cpe:2.3:o:cisco:asa_5506w-x_firmware:9.6\(4.16\):*:*:*:*:*:*:*,Cisco ASA 5506W-X Firmware 9.6(4.16),['CVE-2019-1873'],2022-03-19T18:27Z
+6,cpe:2.3:o:cisco:asa_5506w-x_firmware:9.8\(3.8\):*:*:*:*:*:*:*,Cisco ASA 5506W-X Firmware 9.8(3.8),['CVE-2019-1873'],2022-03-19T18:27Z
+7,cpe:2.3:h:cisco:asa_5506-x:-:*:*:*:*:*:*:*,Cisco ASA 5506-X,"['CVE-2018-0240', 'CVE-2018-0242', 'CVE-2019-1649', 'CVE-2019-1705', 'CVE-2019-1873', 'CVE-2020-3298']",2022-03-19T18:27Z
+8,cpe:2.3:o:cisco:asa_5506-x_firmware:9.6\(4.16\):*:*:*:*:*:*:*,Cisco ASA 5506-X Firmware 9.6(4.16),['CVE-2019-1873'],2022-03-19T18:27Z
+9,cpe:2.3:o:cisco:asa_5506-x_firmware:9.8\(3.8\):*:*:*:*:*:*:*,Cisco ASA 5506-X Firmware 9.8(3.8),['CVE-2019-1873'],2022-03-19T18:27Z

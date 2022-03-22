@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:global_retention_policy_and_schedule_management:6.0.1.0:*:*:*:*:*:*:*,IBM Global Retention Policy And Schedule Management 6.0.1.0,"['CVE-2013-6321', 'CVE-2013-6334', 'CVE-2014-0889', 'CVE-2016-6100']",2022-03-21T20:41Z
+1,cpe:2.3:a:ibm:global_retention_policy_and_schedule_management:6.0.1.1:*:*:*:*:*:*:*,IBM Global Retention Policy And Schedule Management 6.0.1.1,"['CVE-2013-6321', 'CVE-2013-6334', 'CVE-2014-0889', 'CVE-2016-6100']",2022-03-21T20:41Z
+2,cpe:2.3:a:ibm:global_retention_policy_and_schedule_management:6.0.1.2:*:*:*:*:*:*:*,IBM Global Retention Policy And Schedule Management 6.0.1.2,"['CVE-2013-6321', 'CVE-2013-6334', 'CVE-2014-0889', 'CVE-2016-6100']",2022-03-21T20:41Z
+3,cpe:2.3:a:ibm:global_retention_policy_and_schedule_management:6.0.1.3:*:*:*:*:*:*:*,IBM Global Retention Policy And Schedule Management 6.0.1.3,"['CVE-2013-6321', 'CVE-2013-6334', 'CVE-2014-0889', 'CVE-2016-6100']",2022-03-21T20:41Z
+4,cpe:2.3:a:ibm:global_retention_policy_and_schedule_management:6.0.1.4:*:*:*:*:*:*:*,IBM Global Retention Policy And Schedule Management 6.0.1.4,"['CVE-2013-6321', 'CVE-2013-6334', 'CVE-2014-0889', 'CVE-2016-6100']",2022-03-21T20:41Z
+5,cpe:2.3:a:ibm:global_retention_policy_and_schedule_management:6.0.1.5:*:*:*:*:*:*:*,IBM Global Retention Policy and Schedule Management 6.0.1.5,"['CVE-2013-6321', 'CVE-2013-6334', 'CVE-2014-0889', 'CVE-2016-6100']",2022-03-21T20:41Z
+6,cpe:2.3:a:ibm:global_retention_policy_and_schedule_management:6.0.1.6:*:*:*:*:*:*:*,IBM Global Retention Policy and Schedule Management 6.0.1.6,"['CVE-2014-0889', 'CVE-2016-6100']",2022-03-21T20:41Z
+7,cpe:2.3:a:ibm:global_retention_policy_and_schedule_management:6.0.1.7:*:*:*:*:*:*:*,IBM Global Retention Policy And Schedule Management 6.0.1.7,"['CVE-2014-0889', 'CVE-2016-6100']",2022-03-21T20:41Z
+8,cpe:2.3:a:ibm:global_retention_policy_and_schedule_management:6.0.2:*:*:*:*:*:*:*,IBM Global Retention Policy and Schedule Management 6.0.2,"['CVE-2013-6321', 'CVE-2013-6334', 'CVE-2014-0889', 'CVE-2016-6100']",2022-03-21T20:41Z
+9,cpe:2.3:a:ibm:global_retention_policy_and_schedule_management:6.0.3:*:*:*:*:*:*:*,IBM Global Retention Policy and Schedule Management 6.0.3,"['CVE-2014-0889', 'CVE-2016-6100']",2022-03-21T20:41Z

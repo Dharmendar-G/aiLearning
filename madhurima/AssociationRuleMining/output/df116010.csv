@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:asr_5700:-:*:*:*:*:*:*:*,Cisco ASR 5700,"['CVE-2015-0711', 'CVE-2015-0712', 'CVE-2018-0115', 'CVE-2018-0122', 'CVE-2018-0217', 'CVE-2018-0224', 'CVE-2018-0239', 'CVE-2018-0273', 'CVE-2018-0369', 'CVE-2019-16026', 'CVE-2019-1869', 'CVE-2020-3244', 'CVE-2020-3500', 'CVE-2020-3601', 'CVE-2020-3602', 'CVE-2021-1145', 'CVE-2021-1353', 'CVE-2021-1539', 'CVE-2021-1540']",2022-03-19T18:40Z
+1,cpe:2.3:o:cisco:asr_5700_firmware:21.3.0.67664:*:*:*:*:*:*:*,Cisco ASR 5700 Firmware 21.3.0.67664,['CVE-2018-0217'],2022-03-19T18:40Z
+2,cpe:2.3:o:cisco:asr_5700_firmware:21.7.0:*:*:*:*:*:*:*,Cisco ASR 5700 Firmware 21.7.0,['CVE-2018-0217'],2022-03-19T18:40Z
+3,cpe:2.3:h:cisco:asr_900:-:*:*:*:*:*:*:*,Cisco Asr 900,"['CVE-2019-12647', 'CVE-2019-12658']",2022-03-19T18:40Z
+4,cpe:2.3:h:cisco:asr_900_:-:*:*:*:*:*:*:*,Cisco ASR 900,['CVE-2019-12658'],2022-03-19T18:40Z
+5,cpe:2.3:h:cisco:asr_900_route_switch_processor_2_\(rsp2\):-:*:*:*:*:*:*:*,Cisco ASR 900 Route Switch Processor 2 (RSP2),['CVE-2018-0315'],2022-03-19T18:40Z
+6,cpe:2.3:h:cisco:asr_900_route_switch_processor_3_\(rsp3\):-:*:*:*:*:*:*:*,Cisco ASR 900 Route Switch Processor 3 (RSP3),['CVE-2018-0315'],2022-03-19T18:40Z
+7,cpe:2.3:o:cisco:asr_900_series_firmware:15.4\(3\)s3.15:*:*:*:*:*:*:*,Cisco ASR 900 Series Firmware 15.4(3)S3.15,['CVE-2017-6603'],2022-03-19T18:40Z
+8,cpe:2.3:a:cisco:asr_900_series_software:16.6.2:*:*:*:*:*:*:*,Cisco ASR 900 Series Software 16.6.2,['CVE-2018-15464'],2022-03-19T18:40Z
+9,cpe:2.3:h:cisco:asr_9000:-:*:*:*:*:*:-:*,Cisco ASR 9000,"['CVE-2019-16019', 'CVE-2019-16021', 'CVE-2019-16023', 'CVE-2019-1710', 'CVE-2021-34713']",2022-03-19T18:40Z

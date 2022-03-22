@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:axigen:axigen_mail_server:8.2.0:*:*:*:*:*:*:*,Axigen Mail Server 8.2.0,['CVE-2015-5379'],2022-03-19T04:44Z
+1,cpe:2.3:a:aximediasoft:slide_show_creator:4.4.3:*:*:*:*:android:*:*,Aximediasoft  Slide Show Creator (aka com.amem) for Android 4.4.3,['CVE-2014-5860'],2022-03-19T04:44Z
+2,cpe:2.3:a:axioma_premium_responsive_project:axioma_premium_responsive:-:*:*:*:*:wordpress:*:*,Axioma Premium Responsive Project Axioma Premium Responsive for WordPress,['CVE-2015-9486'],2022-03-19T04:44Z
+3,cpe:2.3:a:axioma_premium_responsive_project:axioma_premium_responsive:2015-05-15:*:*:*:*:wordpress:*:*,Axioma Premium Responsive Project Axioma Premium Responsive 2015-05-15 for WordPress,['CVE-2015-9486'],2022-03-19T04:44Z
+4,cpe:2.3:a:axiomsl:axiom:9.5.3:*:*:*:*:*:*:*,AxiomSL Axiom 9.5.3,"['CVE-2015-5384', 'CVE-2015-5462', 'CVE-2015-5463']",2022-03-19T04:44Z
+5,cpe:2.3:a:axios:axios:0.1.0:*:*:*:*:node.js:*:*,Axios 0.1.0 for Node.js,"['CVE-2019-10742', 'CVE-2021-3749']",2022-03-19T04:44Z
+6,cpe:2.3:a:axios:axios:0.2.0:*:*:*:*:node.js:*:*,Axios 0.2.0 for Node.js,"['CVE-2019-10742', 'CVE-2021-3749']",2022-03-19T04:44Z
+7,cpe:2.3:a:axios:axios:0.2.1:*:*:*:*:node.js:*:*,Axios 0.2.1 for Node.js,"['CVE-2019-10742', 'CVE-2021-3749']",2022-03-19T04:44Z
+8,cpe:2.3:a:axios:axios:0.2.2:*:*:*:*:node.js:*:*,Axios 0.2.2 for Node.js,"['CVE-2019-10742', 'CVE-2021-3749']",2022-03-19T04:44Z
+9,cpe:2.3:a:axios:axios:0.3.0:*:*:*:*:node.js:*:*,Axios 0.3.0 for Node.js,"['CVE-2019-10742', 'CVE-2021-3749']",2022-03-19T04:44Z

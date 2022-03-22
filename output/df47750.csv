@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arr_project:arr:0.6.1:*:*:*:*:rust:*:*,arr Project arr 0.6.1 for Rust,"['CVE-2020-35886', 'CVE-2020-35888']",2022-03-18T23:21Z
+1,cpe:2.3:a:arrayfire:arrayfire:-:*:*:*:*:*:*:*,Arrayfire,['CVE-2018-20998'],2022-03-18T23:21Z
+2,cpe:2.3:a:arrayfire:arrayfire:3.2.0:*:*:*:*:*:*:*,Arrayfire 3.2.0,['CVE-2018-20998'],2022-03-18T23:21Z
+3,cpe:2.3:a:arrayfire:arrayfire:3.3.0:*:*:*:*:*:*:*,Arrayfire 3.3.0,['CVE-2018-20998'],2022-03-18T23:21Z
+4,cpe:2.3:a:arrayfire:arrayfire:3.3.1:*:*:*:*:*:*:*,Arrayfire 3.3.1,['CVE-2018-20998'],2022-03-18T23:21Z
+5,cpe:2.3:a:arrayfire:arrayfire:3.4.0:*:*:*:*:*:*:*,Arrayfire 3.4.0,['CVE-2018-20998'],2022-03-18T23:21Z
+6,cpe:2.3:a:arrayfire:arrayfire:3.4.1:*:*:*:*:*:*:*,Arrayfire 3.4.1,['CVE-2018-20998'],2022-03-18T23:21Z
+7,cpe:2.3:a:arrayfire:arrayfire:3.4.2:*:*:*:*:*:*:*,Arrayfire 3.4.2,['CVE-2018-20998'],2022-03-18T23:21Z
+8,cpe:2.3:a:arrayfire:arrayfire:3.4.3:*:*:*:*:*:*:*,Arrayfire 3.4.3,['CVE-2018-20998'],2022-03-18T23:21Z
+9,cpe:2.3:a:arrayfire:arrayfire:3.5.0:*:*:*:*:*:*:*,Arrayfire 3.5.0,['CVE-2018-20998'],2022-03-18T23:21Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:confluence_server:7.0.5:*:*:*:*:*:*:*,Atlassian Confluence Server 7.0.5,['CVE-2021-43940'],2022-03-19T00:40Z
+1,cpe:2.3:a:atlassian:confluence_server:7.1.0:*:*:*:*:*:*:*,Atlassian Confluence Server 7.1.0,"['CVE-2019-15006', 'CVE-2019-20406', 'CVE-2021-43940']",2022-03-19T00:40Z
+2,cpe:2.3:a:atlassian:confluence_server:7.1.1:*:*:*:*:*:*:*,Atlassian Confluence Server 7.1.1,"['CVE-2019-15006', 'CVE-2021-43940']",2022-03-19T00:40Z
+3,cpe:2.3:a:atlassian:confluence_server:7.1.2:*:*:*:*:*:*:*,Atlassian Confluence Server 7.1.2,['CVE-2021-43940'],2022-03-19T00:40Z
+4,cpe:2.3:a:atlassian:confluence_server:7.2.0:*:*:*:*:*:*:*,Atlassian Confluence Server 7.2.0,['CVE-2021-43940'],2022-03-19T00:40Z
+5,cpe:2.3:a:atlassian:confluence_server:7.2.1:*:*:*:*:*:*:*,Atlassian Confluence Server 7.2.1,['CVE-2021-43940'],2022-03-19T00:40Z
+6,cpe:2.3:a:atlassian:confluence_server:7.2.2:*:*:*:*:*:*:*,Atlassian Confluence Server 7.2.2,['CVE-2021-43940'],2022-03-19T00:40Z
+7,cpe:2.3:a:atlassian:confluence_server:7.3.0:*:*:*:*:*:*:*,Atlassian Confluence Server 7.3.0,['CVE-2021-43940'],2022-03-19T00:40Z
+8,cpe:2.3:a:atlassian:confluence_server:7.3.1:*:*:*:*:*:*:*,Atlassian Confluence Server 7.3.1,['CVE-2021-43940'],2022-03-19T00:40Z
+9,cpe:2.3:a:atlassian:confluence_server:7.3.2:*:*:*:*:*:*:*,Atlassian Confluence Server 7.3.2,['CVE-2021-43940'],2022-03-19T00:40Z

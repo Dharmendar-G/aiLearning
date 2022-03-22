@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.2.4:*:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.2.4,"['CVE-2014-4829', 'CVE-2014-4831', 'CVE-2014-4832', 'CVE-2014-6075', 'CVE-2017-1724']",2022-03-21T21:35Z
+1,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.2.6:p1:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.2.6 Patch 1,['CVE-2017-1724'],2022-03-21T21:35Z
+2,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.2.6:p2:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.2.6 Patch 2,['CVE-2017-1724'],2022-03-21T21:35Z
+3,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.2.6:p3:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.2.6 Patch 3,['CVE-2017-1724'],2022-03-21T21:35Z
+4,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.2.6:p4:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.2.6 Patch 4,['CVE-2017-1724'],2022-03-21T21:35Z
+5,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.2.6:p5:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.2.6 Patch 5,['CVE-2017-1724'],2022-03-21T21:35Z
+6,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.2.6:p6:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.2.6 Patch 6,['CVE-2017-1724'],2022-03-21T21:35Z
+7,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.2.6:p7:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.2.6 Patch 7,['CVE-2017-1724'],2022-03-21T21:35Z
+8,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.2.8:-:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.2.8,['CVE-2017-1724'],2022-03-21T21:35Z
+9,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.2.8:p1:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.2.8 Patch 1,['CVE-2017-1724'],2022-03-21T21:35Z

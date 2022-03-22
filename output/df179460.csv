@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:g7_7700:-:*:*:*:*:*:*:*,Dell G7 7700,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:31Z
+1,cpe:2.3:o:dell:g7_7700_firmware:-:*:*:*:*:*:*:*,Dell G7 7700 Firmware,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:31Z
+2,cpe:2.3:o:dell:g7_7700_firmware:1.11.1:*:*:*:*:*:*:*,Dell G7 7700 Firmware 1.11.1,[''],2022-03-20T12:31Z
+3,cpe:2.3:h:dell:g7_7790:-:*:*:*:*:*:*:*,Dell G7 7790,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342']",2022-03-20T12:31Z
+4,cpe:2.3:o:dell:g7_7790_firmware:-:*:*:*:*:*:*:*,Dell G7 7790 Firmware,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342']",2022-03-20T12:31Z
+5,cpe:2.3:o:dell:g7_7790_firmware:1.3.1:*:*:*:*:*:*:*,Dell G7 7790 Firmware 1.3.1,"['CVE-2020-5326', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342']",2022-03-20T12:31Z
+6,cpe:2.3:o:dell:g7_7790_firmware:1.8.0:*:*:*:*:*:*:*,Dell G7 7790 Firmware 1.8.0,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342']",2022-03-20T12:31Z
+7,cpe:2.3:a:dell:help_and_support_customization:1.0.0:*:*:*:*:*:*:*,Dell Help And Support Customization 1.0.0,[''],2022-03-20T12:31Z
+8,cpe:2.3:a:dell:ibm_tape_diagnostic_tool:1.2.0.6:*:*:*:dell_customer_release:*:*:*,Dell Ibm Tape Diagnostic Tool Dell Customer Release 1.2.0.6,[''],2022-03-20T12:31Z
+9,cpe:2.3:o:dell:idrac6_firmware:1.0:*:*:*:*:*:*:*,Dell iDRAC6 Monolithic firmware 1.0,"['CVE-2013-3589', 'CVE-2018-1243', 'CVE-2019-3705']",2022-03-20T12:31Z

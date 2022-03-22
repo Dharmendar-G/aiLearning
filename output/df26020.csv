@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:antisip:exosip2:5.2.1:*:*:*:*:*:*:*,Antisip eXosip2 5.2.1,[''],2022-03-18T16:46Z
+1,cpe:2.3:a:anti-spam_smtp_proxy_project:anti-spam_smtp_proxy:-:*:*:*:*:gentoo:*:*,Anti-Spam SMTP Proxy Project Anti-Spam SMTP Proxy (ASSP) for Gentoo,['CVE-2017-16659'],2022-03-18T16:46Z
+2,cpe:2.3:a:anti-spam_smtp_proxy_project:anti-spam_smtp_proxy:1.9.8.13030:*:*:*:*:gentoo:*:*,Anti-Spam SMTP Proxy Project Anti-Spam SMTP Proxy (ASSP) 1.9.8.13030 for Gentoo,['CVE-2017-16659'],2022-03-18T16:46Z
+3,cpe:2.3:a:anti-virus:virusblockada32:3.12.12.4:-:personal:*:*:*:*:*,anti-virus.by VirusBlockAda32 (VBA32) 3.12.12.4 Personal Edition,['CVE-2010-5180'],2022-03-18T16:46Z
+4,cpe:2.3:a:antiword_project:antiword:0.37:*:*:*:*:*:*:*,Antiword Project Antiword 0.37,['CVE-2014-8123'],2022-03-18T16:46Z
+5,cpe:2.3:o:antixlinux:antix_linux:-:*:*:*:*:*:*:*,antiX Linux,['CVE-2020-10587'],2022-03-18T16:46Z
+6,cpe:2.3:o:antixlinux:antix_linux:16.1:*:*:*:*:*:*:*,antiX Linux 16.1,[''],2022-03-18T16:46Z
+7,cpe:2.3:o:antixlinux:antix_linux:16.2:*:*:*:*:*:*:*,antiX Linux 16.2,[''],2022-03-18T16:46Z
+8,cpe:2.3:o:antixlinux:antix_linux:16.3:*:*:*:*:*:*:*,antiX Linux 16.3,[''],2022-03-18T16:46Z
+9,cpe:2.3:o:antixlinux:antix_linux:17.1:*:*:*:*:*:*:*,antiX Linux 17.1,[''],2022-03-18T16:46Z

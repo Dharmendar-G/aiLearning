@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chevereto:chevereto:1.0.11:*:*:*:free:*:*:*,Chevereto 1.0.11 Free Edition,"['CVE-2017-1000058', 'CVE-2018-12030', 'CVE-2021-31721']",2022-03-19T17:20Z
+1,cpe:2.3:a:chevereto:chevereto:1.0.12:*:*:*:free:*:*:*,Chevereto 1.0.12 Free Edition,"['CVE-2017-1000058', 'CVE-2018-12030', 'CVE-2021-31721']",2022-03-19T17:20Z
+2,cpe:2.3:a:chevereto:chevereto:1.0.13:*:*:*:free:*:*:*,Chevereto 1.0.13 Free Edition,"['CVE-2017-1000058', 'CVE-2021-31721']",2022-03-19T17:20Z
+3,cpe:2.3:a:chevereto:chevereto:1.1.0:*:*:*:free:*:*:*,Chevereto 1.1.0 Free Edition,"['CVE-2017-1000058', 'CVE-2021-31721']",2022-03-19T17:21Z
+4,cpe:2.3:a:chevereto:chevereto:1.1.1:*:*:*:free:*:*:*,Chevereto 1.1.1 Free Edition,"['CVE-2017-1000058', 'CVE-2021-31721']",2022-03-19T17:21Z
+5,cpe:2.3:a:chevereto:chevereto:1.1.2:*:*:*:free:*:*:*,Chevereto 1.1.2 Free Edition,"['CVE-2017-1000058', 'CVE-2021-31721']",2022-03-19T17:21Z
+6,cpe:2.3:a:chevereto:chevereto:1.1.3:*:*:*:free:*:*:*,Chevereto 1.1.3 Free Edition,"['CVE-2017-1000058', 'CVE-2021-31721']",2022-03-19T17:21Z
+7,cpe:2.3:a:chevereto:chevereto:3.0.0:*:*:*:*:*:*:*,Chevereto 3.0.0,"['CVE-2017-1000058', 'CVE-2021-31721']",2022-03-19T17:21Z
+8,cpe:2.3:a:chevereto:chevereto:3.0.1:*:*:*:*:*:*:*,Chevereto 3.0.1,"['CVE-2017-1000058', 'CVE-2021-31721']",2022-03-19T17:21Z
+9,cpe:2.3:a:chevereto:chevereto:3.0.2:*:*:*:*:*:*:*,Chevereto 3.0.2,"['CVE-2017-1000058', 'CVE-2021-31721']",2022-03-19T17:21Z

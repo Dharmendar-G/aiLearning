@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:doc4design:multicons:2.0:*:*:*:*:wordpress:*:*,Doc4 Design Multicons 2.0 for WordPress,['CVE-2015-9424'],2022-03-20T16:15Z
+1,cpe:2.3:a:doc4design:multicons:3.0:*:*:*:*:wordpress:*:*,Doc4 Design Multicons 3.0 for WordPress,[''],2022-03-20T16:15Z
+2,cpe:2.3:a:doc4design:multicons:4.0:*:*:*:*:wordpress:*:*,Doc4 Design Multicons 4.0 for WordPress,[''],2022-03-20T16:15Z
+3,cpe:2.3:a:doc4design:multicons:4.1:*:*:*:*:wordpress:*:*,Doc4 Design Multicons 4.1 for WordPress,[''],2022-03-20T16:15Z
+4,cpe:2.3:a:doc4design:multicons:4.2:*:*:*:*:wordpress:*:*,Doc4 Design Multicons 4.2 for WordPress,[''],2022-03-20T16:15Z
+5,cpe:2.3:a:doc4design:multicons:5:*:*:*:*:wordpress:*:*,Doc4 Design Multicons 5 for WordPress,[''],2022-03-20T16:15Z
+6,cpe:2.3:a:doccms:doccms:2016.5.8:*:*:*:*:*:*:*,DocCms 2016.5.8,[''],2022-03-20T16:15Z
+7,cpe:2.3:a:doccms:doccms:2016.5.12:*:*:*:*:*:*:*,DocCms 2016.5.12,['CVE-2018-18835'],2022-03-20T16:16Z
+8,cpe:2.3:a:doccms:doccms:2016.5.17:*:*:*:*:*:*:*,DocCms 2016.5.17,['CVE-2019-16192'],2022-03-20T16:16Z
+9,cpe:2.3:a:doc-coin:doccoin:-:*:*:*:*:*:*:*,Doc-coin doccoin,['CVE-2018-13631'],2022-03-20T16:16Z

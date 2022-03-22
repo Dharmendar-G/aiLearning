@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:infosphere_datastage:9.1:*:*:*:*:*:*:*,IBM InfoSphere DataStage 9.1,"['CVE-2015-1900', 'CVE-2016-8982', 'CVE-2016-8999', 'CVE-2016-9000']",2022-03-21T20:48Z
+1,cpe:2.3:a:ibm:infosphere_datastage:11.3:*:*:*:*:*:*:*,IBM InfoSphere DataStage 11.3,"['CVE-2015-1900', 'CVE-2016-6059', 'CVE-2016-8982', 'CVE-2016-8999', 'CVE-2016-9000']",2022-03-21T20:48Z
+2,cpe:2.3:a:ibm:infosphere_datastage:11.3.1:*:*:*:*:*:*:*,IBM InfoSphere DataStage 11.3.1,"['CVE-2015-1900', 'CVE-2016-6059']",2022-03-21T20:48Z
+3,cpe:2.3:a:ibm:infosphere_datastage:11.3.1.2:*:*:*:*:*:*:*,IBM InfoSphere DataStage 11.3.1.2,['CVE-2015-1900'],2022-03-21T20:48Z
+4,cpe:2.3:a:ibm:infosphere_datastage:11.5:*:*:*:*:*:*:*,IBM InfoSphere Datastage 11.5,"['CVE-2016-6059', 'CVE-2016-8999', 'CVE-2016-9000']",2022-03-21T20:48Z
+5,cpe:2.3:a:ibm:infosphere_fasttrack:8.1:*:*:*:*:*:*:*,IBM Infosphere FastTrack 8.1,['CVE-2012-0700'],2022-03-21T20:48Z
+6,cpe:2.3:a:ibm:infosphere_fasttrack:8.1.1:*:*:*:*:*:*:*,IBM Infosphere FastTrack 8.1.1,['CVE-2012-0700'],2022-03-21T20:48Z
+7,cpe:2.3:a:ibm:infosphere_fasttrack:8.1.2:*:*:*:*:*:*:*,IBM Infosphere FastTrack 8.1.2,['CVE-2012-0700'],2022-03-21T20:48Z
+8,cpe:2.3:a:ibm:infosphere_fasttrack:8.5:*:*:*:*:*:*:*,IBM Infosphere FastTrack 8.5,['CVE-2012-0700'],2022-03-21T20:48Z
+9,cpe:2.3:a:ibm:infosphere_fasttrack:8.7:*:*:*:*:*:*:*,IBM Infosphere FastTrack 8.7,['CVE-2012-0700'],2022-03-21T20:48Z

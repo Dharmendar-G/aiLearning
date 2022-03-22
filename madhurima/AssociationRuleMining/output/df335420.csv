@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:oceanstor_5600:-:*:*:*:*:*:*:*,Huawei Oceanstor 5600,['CVE-2017-15352'],2022-03-21T18:16Z
+1,cpe:2.3:o:huawei:oceanstor_5600_firmware:v300r003c00:*:*:*:*:*:*:*,Huawei Oceanstor 5600 Firmware V300R003C00,['CVE-2017-15352'],2022-03-21T18:16Z
+2,cpe:2.3:o:huawei:oceanstor_5600_firmware:v300r003c10:*:*:*:*:*:*:*,Huawei Oceanstor 5600 Firmware V300R003C10,['CVE-2017-15352'],2022-03-21T18:16Z
+3,cpe:2.3:o:huawei:oceanstor_5600_firmware:v300r003c20:*:*:*:*:*:*:*,Huawei Oceanstor 5600 Firmware V300R003C20,['CVE-2017-15352'],2022-03-21T18:16Z
+4,cpe:2.3:h:huawei:oceanstor_5600_v3:-:*:*:*:*:*:*:*,Huawei Oceanstor 5600 V3 -,"['CVE-2016-8754', 'CVE-2016-8801']",2022-03-21T18:16Z
+5,cpe:2.3:o:huawei:oceanstor_5600_v3_firmware:v300r003c00:*:*:*:*:*:*:*,Huawei OceanStor 5600 V3 Firmware V300R003C00,"['CVE-2016-8754', 'CVE-2016-8801']",2022-03-21T18:16Z
+6,cpe:2.3:o:huawei:oceanstor_5600_v3_firmware:v300r003c00c10:*:*:*:*:*:*:*,Huawei OceanStor 5600 V3 Firmware V300R003C00C10,['CVE-2016-8801'],2022-03-21T18:16Z
+7,cpe:2.3:h:huawei:oceanstor_5800:-:*:*:*:*:*:*:*,Huawei Oceanstor 5800,['CVE-2017-15352'],2022-03-21T18:16Z
+8,cpe:2.3:o:huawei:oceanstor_5800_firmware:v300r003c00:*:*:*:*:*:*:*,Huawei Oceanstor 5800 Firmware V300R003C00,['CVE-2017-15352'],2022-03-21T18:16Z
+9,cpe:2.3:o:huawei:oceanstor_5800_firmware:v300r003c10:*:*:*:*:*:*:*,Huawei Oceanstor 5800 Firmware V300R003C10,['CVE-2017-15352'],2022-03-21T18:16Z

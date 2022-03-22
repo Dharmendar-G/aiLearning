@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:capi-release:1.95.0:*:*:*:*:*:*:*,Cloud Foundry CAPI-release 1.95.0,"['CVE-2020-5417', 'CVE-2020-5418', 'CVE-2020-5423', 'CVE-2021-22101', 'CVE-2021-22115']",2022-03-20T03:06Z
+1,cpe:2.3:a:cloudfoundry:capi-release:1.96.0:*:*:*:*:*:*:*,Cloud Foundry CAPI-release 1.96.0,"['CVE-2020-5417', 'CVE-2020-5418', 'CVE-2020-5423', 'CVE-2021-22101', 'CVE-2021-22115']",2022-03-20T03:06Z
+2,cpe:2.3:a:cloudfoundry:capi-release:1.97.0:*:*:*:*:*:*:*,Cloud Foundry CAPI-release 1.97.0,"['CVE-2020-5418', 'CVE-2020-5423', 'CVE-2021-22101', 'CVE-2021-22115']",2022-03-20T03:06Z
+3,cpe:2.3:a:cloudfoundry:capi-release:1.98.0:*:*:*:*:*:*:*,Cloud Foundry CAPI-release 1.98.0,"['CVE-2020-5423', 'CVE-2021-22101', 'CVE-2021-22115']",2022-03-20T03:06Z
+4,cpe:2.3:a:cloudfoundry:capi-release:1.99.0:*:*:*:*:*:*:*,Cloud Foundry CAPI-release 1.99.0,"['CVE-2020-5423', 'CVE-2021-22101', 'CVE-2021-22115']",2022-03-20T03:06Z
+5,cpe:2.3:a:cloudfoundry:capi-release:1.100.0:*:*:*:*:*:*:*,Cloud Foundry CAPI-release 1.100.0,"['CVE-2020-5423', 'CVE-2021-22101', 'CVE-2021-22115']",2022-03-20T03:06Z
+6,cpe:2.3:a:cloudfoundry:capi-release:1.101.0:*:*:*:*:*:*:*,Cloud Foundry CAPI-release 1.101.0,"['CVE-2021-22101', 'CVE-2021-22115']",2022-03-20T03:06Z
+7,cpe:2.3:a:cloudfoundry:capi-release:1.102.0:*:*:*:*:*:*:*,Cloud Foundry CAPI-release 1.102.0,"['CVE-2021-22101', 'CVE-2021-22115']",2022-03-20T03:06Z
+8,cpe:2.3:a:cloudfoundry:capi-release:1.103.0:*:*:*:*:*:*:*,Cloud Foundry CAPI-release 1.103.0,"['CVE-2021-22101', 'CVE-2021-22115']",2022-03-20T03:06Z
+9,cpe:2.3:a:cloudfoundry:capi-release:1.104.0:*:*:*:*:*:*:*,Cloud Foundry CAPI-release 1.104.0,"['CVE-2021-22101', 'CVE-2021-22115']",2022-03-20T03:06Z

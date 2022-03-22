@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:actix:actix-web:0.6.10:*:*:*:*:rust:*:*,Actix actix-web 0.6.10 for Rust,"['CVE-2018-25024', 'CVE-2018-25025', 'CVE-2018-25026']",2022-03-18T11:34Z
+1,cpe:2.3:a:actix:actix-web:0.6.11:*:*:*:*:rust:*:*,Actix actix-web 0.6.11 for Rust,"['CVE-2018-25024', 'CVE-2018-25025', 'CVE-2018-25026']",2022-03-18T11:34Z
+2,cpe:2.3:a:actix:actix-web:0.6.12:*:*:*:*:rust:*:*,Actix actix-web 0.6.12 for Rust,"['CVE-2018-25024', 'CVE-2018-25025', 'CVE-2018-25026']",2022-03-18T11:34Z
+3,cpe:2.3:a:actix:actix-web:0.6.13:*:*:*:*:rust:*:*,Actix actix-web 0.6.13 for Rust,"['CVE-2018-25024', 'CVE-2018-25025', 'CVE-2018-25026']",2022-03-18T11:34Z
+4,cpe:2.3:a:actix:actix-web:0.6.14:*:*:*:*:rust:*:*,Actix actix-web 0.6.14 for Rust,"['CVE-2018-25024', 'CVE-2018-25025', 'CVE-2018-25026']",2022-03-18T11:34Z
+5,cpe:2.3:a:actix:actix-web:0.6.15:*:*:*:*:rust:*:*,Actix actix-web 0.6.15 for Rust,"['CVE-2018-25024', 'CVE-2018-25025', 'CVE-2018-25026']",2022-03-18T11:34Z
+6,cpe:2.3:a:actix:actix-web:0.7.0:*:*:*:*:rust:*:*,Actix actix-web 0.7.0 for Rust,"['CVE-2018-25024', 'CVE-2018-25025', 'CVE-2018-25026']",2022-03-18T11:34Z
+7,cpe:2.3:a:actix:actix-web:0.7.1:*:*:*:*:rust:*:*,Actix actix-web 0.7.1 for Rust,"['CVE-2018-25024', 'CVE-2018-25025', 'CVE-2018-25026']",2022-03-18T11:34Z
+8,cpe:2.3:a:actix:actix-web:0.7.2:*:*:*:*:rust:*:*,Actix actix-web 0.7.2 for Rust,"['CVE-2018-25024', 'CVE-2018-25025', 'CVE-2018-25026']",2022-03-18T11:34Z
+9,cpe:2.3:a:actix:actix-web:0.7.3:*:*:*:*:rust:*:*,Actix actix-web 0.7.3 for Rust,"['CVE-2018-25024', 'CVE-2018-25025', 'CVE-2018-25026']",2022-03-18T11:34Z

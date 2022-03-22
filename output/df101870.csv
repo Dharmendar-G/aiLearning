@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:canon:mf4870dn:-:*:*:*:*:*:*:*,Canon MF4870DN,['CVE-2020-16849'],2022-03-19T15:15Z
+1,cpe:2.3:o:canon:mf4870dn_firmware:-:*:*:*:*:*:*:*,Canon MF4870DN Firmware,['CVE-2020-16849'],2022-03-19T15:15Z
+2,cpe:2.3:h:canon:mf4880dw:-:*:*:*:*:*:*:*,Canon MF4880DW,['CVE-2021-20877'],2022-03-19T15:15Z
+3,cpe:2.3:h:canon:mf4890dw:-:*:*:*:*:*:*:*,Canon MF4890DW,"['CVE-2020-16849', 'CVE-2021-20877']",2022-03-19T15:15Z
+4,cpe:2.3:o:canon:mf4890dw_firmware:-:*:*:*:*:*:*:*,Canon MF4890DW Firmware,['CVE-2020-16849'],2022-03-19T15:15Z
+5,cpe:2.3:a:canon:mp_navigator:2.2:*:*:*:*:*:*:*,Canon Mp Navigator 2.2,[''],2022-03-19T15:15Z
+6,cpe:2.3:a:canon:mp_navigator_ex:1.0:*:*:*:*:*:*:*,Canon Mp Navigator Ex 1.0,[''],2022-03-19T15:15Z
+7,cpe:2.3:a:canon:mp_navigator_ex:2.0:*:*:*:*:*:*:*,Canon Mp Navigator Ex 2.0,[''],2022-03-19T15:15Z
+8,cpe:2.3:a:canon:mp_navigator_ex:2.1:*:*:*:*:*:*:*,Canon Mp Navigator Ex 2.1,[''],2022-03-19T15:15Z
+9,cpe:2.3:a:canon:mp_navigator_ex:4.0:*:*:*:*:*:*:*,Canon Mp Navigator Ex 4.0,[''],2022-03-19T15:15Z

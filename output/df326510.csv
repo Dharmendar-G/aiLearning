@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:officejet_pro_8210_j3p67a:-:*:*:*:*:*:*:*,HP OfficeJet Pro 8210 J3P67A,['CVE-2020-28419'],2022-03-21T15:31Z
+1,cpe:2.3:h:hp:officejet_pro_8210_j3p68a:-:*:*:*:*:*:*:*,HP OfficeJet Pro 8210 J3P68A,"['CVE-2019-16240', 'CVE-2020-28419']",2022-03-21T15:31Z
+2,cpe:2.3:h:hp:officejet_pro_8210_t0g70a:-:*:*:*:*:*:*:*,HP OfficeJet Pro 8210 T0G70A,"['CVE-2019-16240', 'CVE-2020-28419']",2022-03-21T15:31Z
+3,cpe:2.3:h:hp:officejet_pro_8500:cb022a:*:*:*:*:*:*:*,HP Officejet Pro 8500 (A909) All-in-One Printer Model CB022A,['CVE-2013-4845'],2022-03-21T15:31Z
+4,cpe:2.3:h:hp:officejet_pro_8500:cb023a:*:*:*:*:*:*:*,HP Officejet Pro 8500 (A909) All-in-One Printer Model CB023A,['CVE-2013-4845'],2022-03-21T15:31Z
+5,cpe:2.3:h:hp:officejet_pro_8500:cb025a:*:*:*:*:*:*:*,HP Officejet Pro 8500 (A909) All-in-One Printer Model CB025A,['CVE-2013-4845'],2022-03-21T15:31Z
+6,cpe:2.3:h:hp:officejet_pro_8500:cb793a:*:*:*:*:*:*:*,HP Officejet Pro 8500 (A909) All-in-One Printer Model CB793A,['CVE-2013-4845'],2022-03-21T15:31Z
+7,cpe:2.3:h:hp:officejet_pro_8500:cb794a:*:*:*:*:*:*:*,HP Officejet Pro 8500 (A909) All-in-One Printer Model CB794A,['CVE-2013-4845'],2022-03-21T15:31Z
+8,cpe:2.3:h:hp:officejet_pro_8500:cb862a:*:*:*:*:*:*:*,HP Officejet Pro 8500 (A909) All-in-One Printer Model CB862A,['CVE-2013-4845'],2022-03-21T15:31Z
+9,cpe:2.3:h:hp:officejet_pro_8500:cb874a:*:*:*:*:*:*:*,HP Officejet Pro 8500 (A909) All-in-One Printer Model CB874A,['CVE-2013-4845'],2022-03-21T15:31Z

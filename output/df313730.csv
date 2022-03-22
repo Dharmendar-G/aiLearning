@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:home-assistant:home-assistant:0.39.3:*:*:*:*:*:*:*,Home Assistant 0.39.3,"['CVE-2017-16782', 'CVE-2018-21019', 'CVE-2021-3152']",2022-03-21T11:36Z
+1,cpe:2.3:a:home-assistant:home-assistant:0.40:*:*:*:*:*:*:*,Home Assistant 0.40,"['CVE-2017-16782', 'CVE-2018-21019', 'CVE-2021-3152']",2022-03-21T11:36Z
+2,cpe:2.3:a:home-assistant:home-assistant:0.40.1:*:*:*:*:*:*:*,Home Assistant 0.40.1,"['CVE-2017-16782', 'CVE-2018-21019', 'CVE-2021-3152']",2022-03-21T11:36Z
+3,cpe:2.3:a:home-assistant:home-assistant:0.40.2:*:*:*:*:*:*:*,Home Assistant 0.40.2,"['CVE-2017-16782', 'CVE-2018-21019', 'CVE-2021-3152']",2022-03-21T11:36Z
+4,cpe:2.3:a:home-assistant:home-assistant:0.41:*:*:*:*:*:*:*,Home Assistant 0.41,"['CVE-2017-16782', 'CVE-2018-21019', 'CVE-2021-3152']",2022-03-21T11:36Z
+5,cpe:2.3:a:home-assistant:home-assistant:0.42:*:*:*:*:*:*:*,Home Assistant 0.42,"['CVE-2017-16782', 'CVE-2018-21019', 'CVE-2021-3152']",2022-03-21T11:36Z
+6,cpe:2.3:a:home-assistant:home-assistant:0.42.1:*:*:*:*:*:*:*,Home Assistant 0.42.1,"['CVE-2017-16782', 'CVE-2018-21019', 'CVE-2021-3152']",2022-03-21T11:36Z
+7,cpe:2.3:a:home-assistant:home-assistant:0.42.2:*:*:*:*:*:*:*,Home Assistant 0.42.2,"['CVE-2017-16782', 'CVE-2018-21019', 'CVE-2021-3152']",2022-03-21T11:36Z
+8,cpe:2.3:a:home-assistant:home-assistant:0.42.3:*:*:*:*:*:*:*,Home Assistant 0.42.3,"['CVE-2017-16782', 'CVE-2018-21019', 'CVE-2021-3152']",2022-03-21T11:36Z
+9,cpe:2.3:a:home-assistant:home-assistant:0.42.4:*:*:*:*:*:*:*,Home Assistant 0.42.4,"['CVE-2017-16782', 'CVE-2018-21019', 'CVE-2021-3152']",2022-03-21T11:36Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:cordova:3.9.1:*:*:*:*:iphone_os:*:*,Apache Software Foundation Cordova 3.9.1 for iOS,"['CVE-2015-5207', 'CVE-2015-5208']",2022-03-18T18:02Z
+1,cpe:2.3:a:apache:cordova:3.9.2:*:*:*:*:iphone_os:*:*,Apache Software Foundation Cordova 3.9.2 for IPhone OS,[''],2022-03-18T18:02Z
+2,cpe:2.3:a:apache:cordova:4.0.0:*:*:*:*:android:*:*,Apache Software Foundation Cordova 4.0.0 for Android,"['CVE-2015-1835', 'CVE-2016-6799', 'CVE-2017-3160']",2022-03-18T18:02Z
+3,cpe:2.3:a:apache:cordova:4.0.0:*:*:*:*:iphone_os:*:*,Apache Software Foundation Cordova 4.0.0 for IPhone OS,[''],2022-03-18T18:02Z
+4,cpe:2.3:a:apache:cordova:4.0.1:*:*:*:*:android:*:*,Apache Software Foundation Cordova 4.0.1 for Android,"['CVE-2015-1835', 'CVE-2016-6799', 'CVE-2017-3160']",2022-03-18T18:02Z
+5,cpe:2.3:a:apache:cordova:4.0.1:*:*:*:*:iphone_os:*:*,Apache Software Foundation Cordova 4.0.1 for IPhone OS,[''],2022-03-18T18:02Z
+6,cpe:2.3:a:apache:cordova:4.0.2:*:*:*:*:android:*:*,Apache Software Foundation Cordova 4.0.2 for Android,"['CVE-2016-6799', 'CVE-2017-3160']",2022-03-18T18:02Z
+7,cpe:2.3:a:apache:cordova:4.1.0:*:*:*:*:android:*:*,Apache Software Foundation Cordova 4.1.0 for Android,"['CVE-2016-6799', 'CVE-2017-3160', 'CVE-2020-11990']",2022-03-18T18:02Z
+8,cpe:2.3:a:apache:cordova:4.1.0:*:*:*:*:iphone_os:*:*,Apache Software Foundation Cordova 4.1.0 for IPhone OS,[''],2022-03-18T18:03Z
+9,cpe:2.3:a:apache:cordova:4.1.1:*:*:*:*:android:*:*,Apache Software Foundation Cordova 4.1.1 for Android,"['CVE-2016-6799', 'CVE-2017-3160']",2022-03-18T18:02Z

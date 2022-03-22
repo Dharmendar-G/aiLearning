@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:clusterlabs:pacemaker:2.0.0:rc1:*:*:*:*:*:*,ClusterLabs Pacemaker 2.0.0 Release Candidate 1,"['CVE-2018-16877', 'CVE-2018-16878', 'CVE-2019-3885', 'CVE-2020-25654']",2022-03-20T04:06Z
+1,cpe:2.3:a:clusterlabs:pacemaker:2.0.0:rc2:*:*:*:*:*:*,ClusterLabs Pacemaker 2.0.0 Release Candidate 2,"['CVE-2018-16877', 'CVE-2018-16878', 'CVE-2019-3885', 'CVE-2020-25654']",2022-03-20T04:06Z
+2,cpe:2.3:a:clusterlabs:pacemaker:2.0.0:rc3:*:*:*:*:*:*,ClusterLabs Pacemaker 2.0.0 Release Candidate 3,"['CVE-2018-16877', 'CVE-2018-16878', 'CVE-2019-3885', 'CVE-2020-25654']",2022-03-20T04:06Z
+3,cpe:2.3:a:clusterlabs:pacemaker:2.0.0:rc4:*:*:*:*:*:*,ClusterLabs Pacemaker 2.0.0 Release Candidate 4,"['CVE-2018-16877', 'CVE-2018-16878', 'CVE-2019-3885', 'CVE-2020-25654']",2022-03-20T04:06Z
+4,cpe:2.3:a:clusterlabs:pacemaker:2.0.0:rc5:*:*:*:*:*:*,ClusterLabs Pacemaker 2.0.0 Release Candidate 5,"['CVE-2018-16877', 'CVE-2018-16878', 'CVE-2019-3885', 'CVE-2020-25654']",2022-03-20T04:06Z
+5,cpe:2.3:a:clusterlabs:pacemaker:2.0.0:rc6:*:*:*:*:*:*,ClusterLabs Pacemaker 2.0.0 Release Candidate 6,"['CVE-2018-16877', 'CVE-2018-16878', 'CVE-2019-3885', 'CVE-2020-25654']",2022-03-20T04:06Z
+6,cpe:2.3:a:clusterlabs:pacemaker:2.0.1:-:*:*:*:*:*:*,ClusterLabs Pacemaker 2.0.1 -,"['CVE-2018-16878', 'CVE-2019-3885', 'CVE-2020-25654']",2022-03-20T04:06Z
+7,cpe:2.3:a:clusterlabs:pacemaker:2.0.1:rc1:*:*:*:*:*:*,ClusterLabs Pacemaker 2.0.1 Release Candidate 1,"['CVE-2018-16878', 'CVE-2019-3885', 'CVE-2020-25654']",2022-03-20T04:06Z
+8,cpe:2.3:a:clusterlabs:pacemaker:2.0.1:rc2:*:*:*:*:*:*,ClusterLabs Pacemaker 2.0.1 Release Candidate 2,"['CVE-2018-16878', 'CVE-2019-3885', 'CVE-2020-25654']",2022-03-20T04:06Z
+9,cpe:2.3:a:clusterlabs:pacemaker:2.0.1:rc3:*:*:*:*:*:*,ClusterLabs Pacemaker 2.0.1 Release Candidate 3,"['CVE-2018-16878', 'CVE-2019-3885', 'CVE-2020-25654']",2022-03-20T04:06Z

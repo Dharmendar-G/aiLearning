@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:contao:contao:2.9:beta1:*:*:*:*:*:*,Contao 2.9 Beta 1,['CVE-2012-4383'],2022-03-20T07:33Z
+1,cpe:2.3:a:contao:contao:2.9:rc1:*:*:*:*:*:*,Contao 2.9 Release Candidate 1,['CVE-2012-4383'],2022-03-20T07:33Z
+2,cpe:2.3:a:contao:contao:2.9.0:*:*:*:*:*:*:*,Contao 2.9.0,['CVE-2012-4383'],2022-03-20T07:33Z
+3,cpe:2.3:a:contao:contao:2.9.1:*:*:*:*:*:*:*,Contao 2.9.1,['CVE-2012-4383'],2022-03-20T07:33Z
+4,cpe:2.3:a:contao:contao:2.9.2:*:*:*:*:*:*:*,Contao 2.9.2,['CVE-2012-4383'],2022-03-20T07:33Z
+5,cpe:2.3:a:contao:contao:2.9.3:*:*:*:*:*:*:*,Contao 2.9.3,['CVE-2012-4383'],2022-03-20T07:33Z
+6,cpe:2.3:a:contao:contao:2.9.4:*:*:*:*:*:*:*,Contao 2.9.4,['CVE-2012-4383'],2022-03-20T07:33Z
+7,cpe:2.3:a:contao:contao:2.9.5:*:*:*:*:*:*:*,Contao 2.9.5,['CVE-2012-4383'],2022-03-20T07:33Z
+8,cpe:2.3:a:contao:contao:2.10:beta1:*:*:*:*:*:*,Contao 2.10 Beta 1,['CVE-2012-4383'],2022-03-20T07:33Z
+9,cpe:2.3:a:contao:contao:2.10:rc1:*:*:*:*:*:*,Contao 2.10 Release Candidate 1,['CVE-2012-4383'],2022-03-20T07:33Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:guacamole:1.0.0:rc1:*:*:*:*:*:*,Apache Software Foundation Guacamole 1.0.0 Release Candidate 1,"['CVE-2020-11997', 'CVE-2020-9497', 'CVE-2020-9498', 'CVE-2021-41767']",2022-03-18T18:32Z
+1,cpe:2.3:a:apache:guacamole:1.0.0:rc1:*:*:*:*:*:*,Apache Software Foundation Guacamole 1.0.0 Release Candidate 1,"['CVE-2020-11997', 'CVE-2020-9497', 'CVE-2020-9498', 'CVE-2021-41767']",2022-03-18T18:32Z
+2,cpe:2.3:a:apache:guacamole:1.1.0:rc1:*:*:*:*:*:*,Apache Software Foundation Guacamole 1.1.0 Release Candidate 1,"['CVE-2020-11997', 'CVE-2020-9497', 'CVE-2020-9498', 'CVE-2021-41767']",2022-03-18T18:32Z
+3,cpe:2.3:a:apache:guacamole:1.1.0:rc1:*:*:*:*:*:*,Apache Software Foundation Guacamole 1.1.0 Release Candidate 1,"['CVE-2020-11997', 'CVE-2020-9497', 'CVE-2020-9498', 'CVE-2021-41767']",2022-03-18T18:32Z
+4,cpe:2.3:a:apache:guacamole:1.2.0:-:*:*:*:*:*:*,Apache Software Foundation Guacamole 1.2.0,"['CVE-2020-11997', 'CVE-2021-41767', 'CVE-2021-43999']",2022-03-18T18:32Z
+5,cpe:2.3:a:apache:guacamole:1.2.0:rc1:*:*:*:*:*:*,Apache Software Foundation Guacamole 1.2.0 Release Candidate 1,"['CVE-2020-11997', 'CVE-2021-41767']",2022-03-18T18:32Z
+6,cpe:2.3:a:apache:guacamole:1.3.0:-:*:*:*:*:*:*,Apache Software Foundation Guacamole 1.3.0,"['CVE-2021-22898', 'CVE-2021-41767', 'CVE-2021-43999']",2022-03-18T18:32Z
+7,cpe:2.3:a:apache:guacamole:1.3.0:rc1:*:*:*:*:*:*,Apache Software Foundation Guacamole 1.3.0 Release Candidate 1,['CVE-2021-41767'],2022-03-18T18:32Z
+8,cpe:2.3:a:apache:hadoop:0.1.0:*:*:*:*:*:*:*,Apache Software Foundation Hadoop 0.1.0,"['CVE-2012-4449', 'CVE-2016-5001', 'CVE-2017-3161', 'CVE-2017-3162']",2022-03-18T18:32Z
+9,cpe:2.3:a:apache:hadoop:0.1.1:*:*:*:*:*:*:*,Apache Software Foundation Hadoop 0.1.1,"['CVE-2012-4449', 'CVE-2016-5001', 'CVE-2017-3161', 'CVE-2017-3162']",2022-03-18T18:32Z

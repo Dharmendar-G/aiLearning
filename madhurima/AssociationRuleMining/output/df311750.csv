@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hikvision:ds-2cd2666g2-izsu\/sl_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD2666G2-IZSU/SL Firmware,['CVE-2021-36260'],2022-03-21T11:08Z
+1,cpe:2.3:h:hikvision:ds-2cd2683g2-izs:-:*:*:*:*:*:*:*,Hikvision DS-2CD2683G2-IZS,['CVE-2021-36260'],2022-03-21T11:08Z
+2,cpe:2.3:o:hikvision:ds-2cd2683g2-izs_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD2683G2-IZS Firmware,['CVE-2021-36260'],2022-03-21T11:08Z
+3,cpe:2.3:h:hikvision:ds-2cd2686g2-izs:-:*:*:*:*:*:*:*,Hikvision DS-2CD2686G2-IZS,['CVE-2021-36260'],2022-03-21T11:08Z
+4,cpe:2.3:o:hikvision:ds-2cd2686g2-izs_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD2686G2-IZS Firmware,['CVE-2021-36260'],2022-03-21T11:08Z
+5,cpe:2.3:h:hikvision:ds-2cd2686g2-izsu\/sl:-:*:*:*:*:*:*:*,Hikvision DS-2CD2686G2-IZSU/SL,['CVE-2021-36260'],2022-03-21T11:08Z
+6,cpe:2.3:o:hikvision:ds-2cd2686g2-izsu\/sl_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD2686G2-IZSU/SL Firmware,['CVE-2021-36260'],2022-03-21T11:08Z
+7,cpe:2.3:h:hikvision:ds-2cd2712f-i\(s\):-:*:*:*:*:*:*:*,Hikvision DS-2CD2712F-I(S),"['CVE-2017-7921', 'CVE-2017-7923']",2022-03-21T11:08Z
+8,cpe:2.3:o:hikvision:ds-2cd2712f-i\(s\)_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD2712F-I(S) Firmware,"['CVE-2017-7921', 'CVE-2017-7923']",2022-03-21T11:08Z
+9,cpe:2.3:h:hikvision:ds-2cd2721g0-i\(z\)\(s\):-:*:*:*:*:*:*:*,Hikvision DS-2CD2721G0-I(Z)(S),['CVE-2021-36260'],2022-03-21T11:08Z

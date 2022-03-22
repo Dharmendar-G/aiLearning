@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hpe:primera_670_firmware:4.0.0:*:*:*:*:*:*:*,HPE PRIMERA 670 FIRMWARE 4.0.0,['CVE-2021-26588'],2022-03-21T16:31Z
+1,cpe:2.3:o:hpe:primera_670_firmware:4.3.3:*:*:*:*:*:*:*,HPE PRIMERA 670 FIRMWARE 4.3.3,['CVE-2021-26588'],2022-03-21T16:31Z
+2,cpe:2.3:a:hpe:project_and_portfolio_management_center:9.20:*:*:*:*:*:*:*,HPE Project and Portfolio Management Center 9.20,['CVE-2016-4370'],2022-03-21T16:31Z
+3,cpe:2.3:a:hpe:project_and_portfolio_management_center:9.21:*:*:*:*:*:*:*,HPE Project and Portfolio Management Center 9.21,['CVE-2016-4370'],2022-03-21T16:31Z
+4,cpe:2.3:a:hpe:project_and_portfolio_management_center:9.22:*:*:*:*:*:*:*,HPE Project and Portfolio Management Center 9.22,['CVE-2016-4370'],2022-03-21T16:31Z
+5,cpe:2.3:a:hpe:project_and_portfolio_management_center:9.30:*:*:*:*:*:*:*,HPE Project and Portfolio Management Center 9.30,['CVE-2016-4370'],2022-03-21T16:31Z
+6,cpe:2.3:a:hpe:project_and_portfolio_management_center:9.31:*:*:*:*:*:*:*,HPE Project and Portfolio Management Center 9.31,['CVE-2016-4370'],2022-03-21T16:31Z
+7,cpe:2.3:a:hpe:project_and_portfolio_management_center:9.32:*:*:*:*:*:*:*,HPE Project and Portfolio Management Center 9.32,['CVE-2016-4370'],2022-03-21T16:31Z
+8,cpe:2.3:h:hpe:proliant_bl460c_gen10_server_blade:-:*:*:*:*:*:*:*,HPE ProLiant BL460c Gen10 Server Blade,"['CVE-2019-11136', 'CVE-2019-11137', 'CVE-2020-7205']",2022-03-21T16:31Z
+9,cpe:2.3:o:hpe:proliant_bl460c_gen10_server_blade_firmware:-:*:*:*:*:*:*:*,HPE ProLiant BL460c Gen10 Server Blade Firmware,"['CVE-2019-11136', 'CVE-2019-11137']",2022-03-21T16:31Z

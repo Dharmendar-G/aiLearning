@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:zookeeper:3.4.6:*:*:*:*:*:*:*,Apache Software Foundation ZooKeeper 3.4.6,"['CVE-2016-5017', 'CVE-2017-5637', 'CVE-2018-8012', 'CVE-2019-0201']",2022-03-18T21:00Z
+1,cpe:2.3:a:apache:zookeeper:3.4.6:-:*:*:*:*:*:*,Apache Zookeeper 3.4.6,"['CVE-2016-5017', 'CVE-2017-5637', 'CVE-2018-8012', 'CVE-2019-0201']",2022-03-18T21:00Z
+2,cpe:2.3:a:apache:zookeeper:3.4.6:rc0:*:*:*:*:*:*,Apache Zookeeper 3.4.6 Release Candidate 0,"['CVE-2016-5017', 'CVE-2017-5637', 'CVE-2018-8012', 'CVE-2019-0201']",2022-03-18T21:00Z
+3,cpe:2.3:a:apache:zookeeper:3.4.7:*:*:*:*:*:*:*,Apache Software Foundation ZooKeeper 3.4.7,"['CVE-2016-5017', 'CVE-2017-5637', 'CVE-2018-8012', 'CVE-2019-0201']",2022-03-18T21:00Z
+4,cpe:2.3:a:apache:zookeeper:3.4.7:-:*:*:*:*:*:*,Apache Zookeeper 3.4.7,"['CVE-2016-5017', 'CVE-2017-5637', 'CVE-2018-8012', 'CVE-2019-0201']",2022-03-18T21:00Z
+5,cpe:2.3:a:apache:zookeeper:3.4.7:rc0:*:*:*:*:*:*,Apache Zookeeper 3.4.7 Release Candidate 0,"['CVE-2016-5017', 'CVE-2017-5637', 'CVE-2018-8012', 'CVE-2019-0201']",2022-03-18T21:00Z
+6,cpe:2.3:a:apache:zookeeper:3.4.8:*:*:*:*:*:*:*,Apache Software Foundation Zookeeper 3.4.8,"['CVE-2016-5017', 'CVE-2017-5637', 'CVE-2018-8012', 'CVE-2019-0201']",2022-03-18T21:00Z
+7,cpe:2.3:a:apache:zookeeper:3.4.8:-:*:*:*:*:*:*,Apache Zookeeper 3.4.8,"['CVE-2016-5017', 'CVE-2017-5637', 'CVE-2018-8012', 'CVE-2019-0201']",2022-03-18T21:00Z
+8,cpe:2.3:a:apache:zookeeper:3.4.8:rc0:*:*:*:*:*:*,Apache Zookeeper 3.4.8 Release Candidate 0,"['CVE-2016-5017', 'CVE-2017-5637', 'CVE-2018-8012', 'CVE-2019-0201']",2022-03-18T21:00Z
+9,cpe:2.3:a:apache:zookeeper:3.4.9:*:*:*:*:*:*:*,Apache Software Foundation ZooKeeper 3.4.9,"['CVE-2017-5637', 'CVE-2018-8012', 'CVE-2019-0201']",2022-03-18T21:00Z

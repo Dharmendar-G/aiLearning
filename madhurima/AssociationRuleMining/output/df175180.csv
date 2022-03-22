@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dbdeployer:dbdeployer:0.3.1:*:*:*:*:*:*:*,DBdeployer 0.3.1,['CVE-2020-26277'],2022-03-20T11:07Z
+1,cpe:2.3:a:dbdeployer:dbdeployer:0.3.7:*:*:*:*:*:*:*,DBdeployer 0.3.7,['CVE-2020-26277'],2022-03-20T11:07Z
+2,cpe:2.3:a:dbdeployer:dbdeployer:0.3.9:*:*:*:*:*:*:*,DBdeployer 0.3.9,['CVE-2020-26277'],2022-03-20T11:07Z
+3,cpe:2.3:a:dbdeployer:dbdeployer:1.0.0:*:*:*:*:*:*:*,DBdeployer 1.0.0,['CVE-2020-26277'],2022-03-20T11:07Z
+4,cpe:2.3:a:dbdeployer:dbdeployer:1.0.1:*:*:*:*:*:*:*,DBdeployer 1.0.1,['CVE-2020-26277'],2022-03-20T11:07Z
+5,cpe:2.3:a:dbdeployer:dbdeployer:1.1.0:*:*:*:*:*:*:*,DBdeployer 1.1.0,['CVE-2020-26277'],2022-03-20T11:07Z
+6,cpe:2.3:a:dbdeployer:dbdeployer:1.1.1:*:*:*:*:*:*:*,DBdeployer 1.1.1,['CVE-2020-26277'],2022-03-20T11:07Z
+7,cpe:2.3:a:dbdeployer:dbdeployer:1.2.0:*:*:*:*:*:*:*,DBdeployer 1.2.0,['CVE-2020-26277'],2022-03-20T11:07Z
+8,cpe:2.3:a:dbdeployer:dbdeployer:1.3.0:*:*:*:*:*:*:*,DBdeployer 1.3.0,['CVE-2020-26277'],2022-03-20T11:07Z
+9,cpe:2.3:a:dbdeployer:dbdeployer:1.4.0:*:*:*:*:*:*:*,DBdeployer 1.4.0,['CVE-2020-26277'],2022-03-20T11:07Z

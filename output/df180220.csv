@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:latitude_13_7370_ultrabook_firmware:-:*:*:*:*:*:*:*,Dell Latitude 13 7370 Ultrabook Firmware,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:45Z
+1,cpe:2.3:h:dell:latitude_13_7389_2-in-1:-:*:*:*:*:*:*:*,Dell Latitude 13 7389 2-in-1,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:46Z
+2,cpe:2.3:o:dell:latitude_13_7389_2-in-1_firmware:-:*:*:*:*:*:*:*,Dell Latitude 13 7389 2-in-1 Firmware,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:46Z
+3,cpe:2.3:h:dell:latitude_13_7390_2-in-1:-:*:*:*:*:*:*:*,Dell Latitude 13 7390 2-in-1,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:46Z
+4,cpe:2.3:o:dell:latitude_13_7390_2-in-1_firmware:-:*:*:*:*:*:*:*,Dell Latitude 13 7390 2-in-1 Firmware,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:46Z
+5,cpe:2.3:h:dell:latitude_14_rugged_5414:-:*:*:*:*:*:*:*,Dell Latitude 14 Rugged 5414,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:46Z
+6,cpe:2.3:o:dell:latitude_14_rugged_5414_firmware:-:*:*:*:*:*:*:*,Dell Latitude 14 Rugged 5414 Firmware,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:46Z
+7,cpe:2.3:h:dell:latitude_2110_netbook:-:*:*:*:*:*:*:*,Dell Latitude 2110 Netbook,['CVE-2010-0834'],2022-03-20T12:46Z
+8,cpe:2.3:h:dell:latitude_3120:-:*:*:*:*:*:*:*,Dell Latitude 3120,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:46Z
+9,cpe:2.3:h:dell:latitude_3150:-:*:*:*:*:*:*:*,Dell Latitude 3150,['CVE-2019-3717'],2022-03-20T12:46Z

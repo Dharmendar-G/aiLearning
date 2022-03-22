@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:admincolumns:admin_columns:2.4.9:*:*:*:*:wordpress:*:*,Admin Columns 2.4.9 for WordPress,[''],2022-03-18T12:01Z
+1,cpe:2.3:a:admincolumns:admin_columns:2.4.9:*:*:*:free:wordpress:*:*,Admin Columns 2.4.9 Free Edition for WordPress,"['CVE-2021-24365', 'CVE-2021-24366']",2022-03-18T12:01Z
+2,cpe:2.3:a:admincolumns:admin_columns:2.4.10:*:*:*:free:wordpress:*:*,Admin Columns 2.4.10 Free Edition for WordPress,"['CVE-2021-24365', 'CVE-2021-24366']",2022-03-18T12:01Z
+3,cpe:2.3:a:admincolumns:admin_columns:2.5:*:*:*:*:wordpress:*:*,Admin Columns 2.5 for WordPress,[''],2022-03-18T12:01Z
+4,cpe:2.3:a:admincolumns:admin_columns:2.5:*:*:*:free:wordpress:*:*,Admin Columns 2.5 Free Edition for WordPress,"['CVE-2021-24365', 'CVE-2021-24366']",2022-03-18T12:01Z
+5,cpe:2.3:a:admincolumns:admin_columns:2.5.1:*:*:*:*:wordpress:*:*,Admin Columns 2.5.1 for WordPress,[''],2022-03-18T12:01Z
+6,cpe:2.3:a:admincolumns:admin_columns:2.5.1:*:*:*:free:wordpress:*:*,Admin Columns 2.5.1 Free Edition for WordPress,"['CVE-2021-24365', 'CVE-2021-24366']",2022-03-18T12:01Z
+7,cpe:2.3:a:admincolumns:admin_columns:2.5.2:*:*:*:free:wordpress:*:*,Admin Columns 2.5.2 Free Edition for WordPress,"['CVE-2021-24365', 'CVE-2021-24366']",2022-03-18T12:02Z
+8,cpe:2.3:a:admincolumns:admin_columns:2.5.3:*:*:*:*:wordpress:*:*,Admin Columns 2.5.3 for WordPress,[''],2022-03-18T12:02Z
+9,cpe:2.3:a:admincolumns:admin_columns:2.5.3:*:*:*:free:wordpress:*:*,Admin Columns 2.5.3 Free Edition for WordPress,"['CVE-2021-24365', 'CVE-2021-24366']",2022-03-18T12:02Z

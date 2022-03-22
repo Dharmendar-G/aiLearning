@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:credova:financial:1.4.4:*:*:*:*:wordpress:*:*,Credova Financial 1.4.4 for WordPress,['CVE-2021-39342'],2022-03-20T08:58Z
+1,cpe:2.3:a:credova:financial:1.4.5:*:*:*:*:wordpress:*:*,Credova Financial 1.4.5 for WordPress,['CVE-2021-39342'],2022-03-20T08:58Z
+2,cpe:2.3:a:credova:financial:1.4.6:*:*:*:*:wordpress:*:*,Credova Financial 1.4.6 for WordPress,['CVE-2021-39342'],2022-03-20T08:58Z
+3,cpe:2.3:a:credova:financial:1.4.7:*:*:*:*:wordpress:*:*,Credova Financial 1.4.7 for WordPress,['CVE-2021-39342'],2022-03-20T08:58Z
+4,cpe:2.3:a:credova:financial:1.4.8:*:*:*:*:wordpress:*:*,Credova Financial 1.4.8 for WordPress,['CVE-2021-39342'],2022-03-20T08:58Z
+5,cpe:2.3:a:credova:financial:1.4.9:*:*:*:*:wordpress:*:*,Credova Financial 1.4.9 for WordPress,[''],2022-03-20T08:58Z
+6,cpe:2.3:a:crelly_slider_project:crelly_slider:0.6.5:*:*:*:*:wordpress:*:*,Crelly Slider Project Crelly Slider 0.6.5 for WordPress,['CVE-2019-15866'],2022-03-20T08:58Z
+7,cpe:2.3:a:crelly_slider_project:crelly_slider:0.6.6:*:*:*:*:wordpress:*:*,Crelly Slider Project Crelly Slider 0.6.6 for WordPress,['CVE-2019-15866'],2022-03-20T08:58Z
+8,cpe:2.3:a:crelly_slider_project:crelly_slider:0.6.7:*:*:*:*:wordpress:*:*,Crelly Slider Project Crelly Slider 0.6.7 for WordPress,['CVE-2019-15866'],2022-03-20T08:58Z
+9,cpe:2.3:a:crelly_slider_project:crelly_slider:0.6.8:*:*:*:*:wordpress:*:*,Crelly Slider Project Crelly Slider 0.6.8 for WordPress,['CVE-2019-15866'],2022-03-20T08:58Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:nonstop_server_software:t0801l02\^abx:*:*:*:*:*:*:*,HP NonStop Server Software T0801L02^ABX,['CVE-2017-5803'],2022-03-21T15:25Z
+1,cpe:2.3:a:hp:nonstop_server_software:t0894h02:*:*:*:*:*:*:*,HP NonStop Server Software T0894H02,['CVE-2017-5788'],2022-03-21T15:25Z
+2,cpe:2.3:a:hp:nonstop_server_software:t0894h02\^aai:*:*:*:*:*:*:*,HP NonStop Server Software T0894H02^AAI,['CVE-2017-5788'],2022-03-21T15:25Z
+3,cpe:2.3:a:hp:nonstop_server_software:t6533h02:*:*:*:*:*:*:*,HP NonStop Server Software T6533H02,['CVE-2017-8974'],2022-03-21T15:25Z
+4,cpe:2.3:a:hp:nonstop_server_software:t6533h04\^adf:*:*:*:*:*:*:*,HP NonStop Server Software T6533H04^ADF,['CVE-2017-8974'],2022-03-21T15:25Z
+5,cpe:2.3:a:hp:nonstop_server_software:t6533l01:*:*:*:*:*:*:*,HP NonStop Server Software T6533L01,['CVE-2017-8974'],2022-03-21T15:25Z
+6,cpe:2.3:a:hp:nonstop_server_software:t6533l01\^adn:*:*:*:*:*:*:*,HP NonStop Server Software T6533L01^ADN,['CVE-2017-8974'],2022-03-21T15:25Z
+7,cpe:2.3:a:hp:nonstop_standard_security_h_series:-:*:*:*:*:*:*:*,HPE NonStop Standard Security H Series -,['CVE-2018-7119'],2022-03-21T15:25Z
+8,cpe:2.3:a:hp:nonstop_standard_security_j_series:t6533h05\^adw:*:*:*:*:*:*:*,HPE NonStop Standard Security J Series T6533h05^adw,['CVE-2018-7119'],2022-03-21T15:25Z
+9,cpe:2.3:a:hp:nonstop_standard_security_l_series:t6533l01\^adu:*:*:*:*:*:*:*,HPE NonStop Standard Security L Series T6533l01^adu,[''],2022-03-21T15:25Z

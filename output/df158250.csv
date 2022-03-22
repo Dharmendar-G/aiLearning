@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:confluent:cp-ansible:5.1.4:*:*:*:*:*:*:*,Confluent CP-Ansible 5.1.4,[''],2022-03-20T07:14Z
+1,cpe:2.3:a:confluent:cp-ansible:5.2.0:*:*:*:*:*:*:*,Confluent CP-Ansible 5.2.0,[''],2022-03-20T07:14Z
+2,cpe:2.3:a:confluent:cp-ansible:5.2.1:*:*:*:*:*:*:*,Confluent CP-Ansible 5.2.1,[''],2022-03-20T07:14Z
+3,cpe:2.3:a:confluent:cp-ansible:5.2.2:*:*:*:*:*:*:*,Confluent CP-Ansible 5.2.2,[''],2022-03-20T07:14Z
+4,cpe:2.3:a:confluent:cp-ansible:5.2.3:*:*:*:*:*:*:*,Confluent CP-Ansible 5.2.3,[''],2022-03-20T07:14Z
+5,cpe:2.3:a:confluent:cp-ansible:5.2.4:*:*:*:*:*:*:*,Confluent CP-Ansible 5.2.4,[''],2022-03-20T07:14Z
+6,cpe:2.3:a:confluent:cp-ansible:5.3.0:*:*:*:*:*:*:*,Confluent CP-Ansible 5.3.0,[''],2022-03-20T07:14Z
+7,cpe:2.3:a:confluent:cp-ansible:5.3.1:*:*:*:*:*:*:*,Confluent CP-Ansible 5.3.1,[''],2022-03-20T07:14Z
+8,cpe:2.3:a:confluent:cp-ansible:5.3.2:*:*:*:*:*:*:*,Confluent CP-Ansible 5.3.2,[''],2022-03-20T07:14Z
+9,cpe:2.3:a:confluent:cp-ansible:5.3.3:*:*:*:*:*:*:*,Confluent CP-Ansible 5.3.3,[''],2022-03-20T07:14Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aviatrix:controller:4.7.378:*:*:*:*:*:*:*,Aviatrix Controller 4.7.378,"['CVE-2020-13412', 'CVE-2020-13413', 'CVE-2020-13414', 'CVE-2020-13415', 'CVE-2020-13416', 'CVE-2020-13417']",2022-03-19T04:26Z
+1,cpe:2.3:a:aviatrix:controller:4.7.419:*:*:*:*:*:*:*,Aviatrix Controller 4.7.419,"['CVE-2020-13412', 'CVE-2020-13413', 'CVE-2020-13414', 'CVE-2020-13415', 'CVE-2020-13416', 'CVE-2020-13417']",2022-03-19T04:26Z
+2,cpe:2.3:a:aviatrix:controller:4.7.473:*:*:*:*:*:*:*,Aviatrix Controller 4.7.473,"['CVE-2020-13412', 'CVE-2020-13413', 'CVE-2020-13414', 'CVE-2020-13415', 'CVE-2020-13416', 'CVE-2020-13417']",2022-03-19T04:26Z
+3,cpe:2.3:a:aviatrix:controller:4.7.494:*:*:*:*:*:*:*,Aviatrix Controller 4.7.494,"['CVE-2020-13412', 'CVE-2020-13413', 'CVE-2020-13414', 'CVE-2020-13415', 'CVE-2020-13416', 'CVE-2020-13417']",2022-03-19T04:26Z
+4,cpe:2.3:a:aviatrix:controller:4.7.501:*:*:*:*:*:*:*,Aviatrix Controller 4.7.501,"['CVE-2020-13412', 'CVE-2020-13413', 'CVE-2020-13414', 'CVE-2020-13415', 'CVE-2020-13416', 'CVE-2020-13417']",2022-03-19T04:26Z
+5,cpe:2.3:a:aviatrix:controller:4.7.581:*:*:*:*:*:*:*,Aviatrix Controller 4.7.581,"['CVE-2020-13412', 'CVE-2020-13413', 'CVE-2020-13414', 'CVE-2020-13415', 'CVE-2020-13416', 'CVE-2020-13417']",2022-03-19T04:26Z
+6,cpe:2.3:a:aviatrix:controller:4.7.590:*:*:*:*:*:*:*,Aviatrix Controller 4.7.590,"['CVE-2020-13412', 'CVE-2020-13413', 'CVE-2020-13414', 'CVE-2020-13415', 'CVE-2020-13416', 'CVE-2020-13417']",2022-03-19T04:26Z
+7,cpe:2.3:a:aviatrix:controller:5.0.2667:*:*:*:*:*:*:*,Aviatrix Controller 5.0.2667,"['CVE-2020-13412', 'CVE-2020-13413', 'CVE-2020-13414', 'CVE-2020-13415', 'CVE-2020-13416', 'CVE-2020-13417']",2022-03-19T04:26Z
+8,cpe:2.3:a:aviatrix:controller:5.0.2754:*:*:*:*:*:*:*,Aviatrix Controller 5.0.2754,"['CVE-2020-13412', 'CVE-2020-13413', 'CVE-2020-13414', 'CVE-2020-13415', 'CVE-2020-13416', 'CVE-2020-13417']",2022-03-19T04:26Z
+9,cpe:2.3:a:aviatrix:controller:5.0.2768:*:*:*:*:*:*:*,Aviatrix Controller 5.0.2768,"['CVE-2020-13412', 'CVE-2020-13413', 'CVE-2020-13414', 'CVE-2020-13415', 'CVE-2020-13416', 'CVE-2020-13417']",2022-03-19T04:26Z

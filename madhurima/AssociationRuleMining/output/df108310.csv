@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chatwoot:chatwoot:1.18.0:*:*:*:*:*:*:*,Chatwoot 1.18.0,"['CVE-2021-3649', 'CVE-2021-3813', 'CVE-2022-0526', 'CVE-2022-0527']",2022-03-19T16:39Z
+1,cpe:2.3:a:chatwoot:chatwoot:1.18.1:*:*:*:*:*:*:*,Chatwoot 1.18.1,"['CVE-2021-3813', 'CVE-2022-0526', 'CVE-2022-0527']",2022-03-19T16:39Z
+2,cpe:2.3:a:chatwoot:chatwoot:1.18.2:*:*:*:*:*:*:*,Chatwoot 1.18.2,"['CVE-2021-3813', 'CVE-2022-0526', 'CVE-2022-0527']",2022-03-19T16:39Z
+3,cpe:2.3:a:chatwoot:chatwoot:1.19.0:*:*:*:*:*:*:*,Chatwoot 1.19.0,"['CVE-2021-3813', 'CVE-2022-0526', 'CVE-2022-0527']",2022-03-19T16:39Z
+4,cpe:2.3:a:chatwoot:chatwoot:1.20.0:*:*:*:*:*:*:*,Chatwoot 1.20.0,"['CVE-2021-3813', 'CVE-2022-0526', 'CVE-2022-0527']",2022-03-19T16:39Z
+5,cpe:2.3:a:chatwoot:chatwoot:1.21.0:*:*:*:*:*:*:*,Chatwoot 1.21.0,"['CVE-2021-3813', 'CVE-2022-0526', 'CVE-2022-0527']",2022-03-19T16:39Z
+6,cpe:2.3:a:chatwoot:chatwoot:1.21.1:*:*:*:*:*:*:*,Chatwoot 1.21.1,"['CVE-2021-3813', 'CVE-2022-0526', 'CVE-2022-0527']",2022-03-19T16:39Z
+7,cpe:2.3:a:chatwoot:chatwoot:1.22.0:*:*:*:*:*:*:*,Chatwoot 1.22.0,"['CVE-2021-3813', 'CVE-2022-0526', 'CVE-2022-0527']",2022-03-19T16:39Z
+8,cpe:2.3:a:chatwoot:chatwoot:1.22.1:*:*:*:*:*:*:*,Chatwoot 1.22.1,"['CVE-2021-3813', 'CVE-2022-0526', 'CVE-2022-0527']",2022-03-19T16:39Z
+9,cpe:2.3:a:chatwoot:chatwoot:2.0.0:*:*:*:*:*:*:*,Chatwoot 2.0.0,"['CVE-2021-3813', 'CVE-2022-0526', 'CVE-2022-0527']",2022-03-19T16:39Z

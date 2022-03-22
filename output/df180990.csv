@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:poweredge_r740xd_firmware:2.9.4:*:*:*:*:*:*:*,Dell PowerEdge R740XD Firmware 2.9.4,"['CVE-2021-21555', 'CVE-2021-21556', 'CVE-2021-21557']",2022-03-20T13:00Z
+1,cpe:2.3:o:dell:poweredge_r740xd_firmware:2.11.2:*:*:*:*:*:*:*,Dell PowerEdge R740xd Firmware 2.11.2,[''],2022-03-20T13:00Z
+2,cpe:2.3:h:dell:poweredge_r740xd2:-:*:*:*:*:*:*:*,Dell PowerEdge R740XD2,['CVE-2021-21557'],2022-03-20T13:00Z
+3,cpe:2.3:o:dell:poweredge_r740xd2_firmware:-:*:*:*:*:*:*:*,Dell Poweredge R740xd2 Firmware -,['CVE-2021-21557'],2022-03-20T13:00Z
+4,cpe:2.3:o:dell:poweredge_r740xd2_firmware:2.11.2:*:*:*:*:*:*:*,Dell Poweredge R740xd2 Firmware 2.11.2,[''],2022-03-20T13:00Z
+5,cpe:2.3:h:dell:poweredge_r7415:-:*:*:*:*:*:*:*,Dell PowerEdge R7415,['CVE-2021-21557'],2022-03-20T13:00Z
+6,cpe:2.3:o:dell:poweredge_r7415_firmware:-:*:*:*:*:*:*:*,Dell Poweredge R7415 Firmware -,['CVE-2021-21557'],2022-03-20T13:00Z
+7,cpe:2.3:o:dell:poweredge_r7415_firmware:1.16.1:*:*:*:*:*:*:*,Dell Poweredge R7415 Firmware 1.16.1,[''],2022-03-20T13:00Z
+8,cpe:2.3:h:dell:poweredge_r7425:-:*:*:*:*:*:*:*,Dell PowerEdge R7425,['CVE-2021-21557'],2022-03-20T13:00Z
+9,cpe:2.3:o:dell:poweredge_r7425_firmware:-:*:*:*:*:*:*:*,Dell Poweredge R7425 Firmware -,['CVE-2021-21557'],2022-03-20T13:00Z

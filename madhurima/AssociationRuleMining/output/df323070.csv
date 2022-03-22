@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:intelligent_management_center_application_performance_manager:7.2:*:*:*:*:*:*:*,HP Intelligent Management Center (Application Performance Manager) 7.2,['CVE-2016-4372'],2022-03-21T13:43Z
+1,cpe:2.3:a:hp:intelligent_management_center_branch_intelligent_management_system:7.2:*:*:*:*:*:*:*,HP Intelligent Management Center (Branch Intelligent Management) System 7.2,['CVE-2016-4372'],2022-03-21T13:43Z
+2,cpe:2.3:a:hp:intelligent_management_center_endpoint_admission_defense:7.2:*:*:*:*:*:*:*,HP Intelligent Management Center (Endpoint Admission Defense) 7.2,['CVE-2016-4372'],2022-03-21T13:43Z
+3,cpe:2.3:a:hp:intelligent_management_center_for_automated_network_manager:5.1:e0202:*:*:*:*:*:*,HP Intelligent Management Center for Automated Network Manager 5.1 E0202,"['CVE-2012-5200', 'CVE-2012-5201', 'CVE-2012-5202', 'CVE-2012-5203', 'CVE-2012-5204', 'CVE-2012-5205', 'CVE-2012-5206', 'CVE-2012-5207', 'CVE-2012-5208', 'CVE-2012-5209', 'CVE-2012-5212', 'CVE-2012-5213']",2022-03-21T13:43Z
+4,cpe:2.3:a:hp:intelligent_management_center_network_traffic_analyzer:7.2:*:*:*:*:*:*:*,HP Intelligent Management Center (Network Traffic Analyzer) 7.2,['CVE-2016-4372'],2022-03-21T13:43Z
+5,cpe:2.3:a:hp:intelligent_management_center_plat:7.2:e0403p06:*:*:*:*:*:*,HP Intelligent Management Center (iMC) PLAT 7.2 E0403P06,['CVE-2017-5791'],2022-03-21T13:43Z
+6,cpe:2.3:a:hp:intelligent_management_center_platform:7.2:*:*:*:*:*:*:*,HP Intelligent Management Center Platform 7.2,['CVE-2016-4372'],2022-03-21T13:43Z
+7,cpe:2.3:a:hp:intelligent_management_center_user_access_management:7.2:*:*:*:*:*:*:*,HP Intelligent Management Center (User Access Management) 7.2,['CVE-2016-4372'],2022-03-21T13:43Z
+8,cpe:2.3:a:hp:intelligent_management_center_wireless_services_manager_software:7.3:-:*:*:*:*:*:*,HP Intelligent Management Center Wireless Services Manager Software 7.3,"['CVE-2018-7103', 'CVE-2018-7104']",2022-03-21T13:43Z
+9,cpe:2.3:a:hp:intelligent_management_center_wireless_services_manager_software:7.3:e0506:*:*:*:*:*:*,HP Intelligent Management Center Wireless Services Manager Software 7.3 E0506,"['CVE-2018-7103', 'CVE-2018-7104']",2022-03-21T13:43Z

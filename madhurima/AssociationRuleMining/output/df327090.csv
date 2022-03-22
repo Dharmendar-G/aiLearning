@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:pagewide_enterprise_color_mpf_785zs:-:*:*:*:*:*:*:*,HP PageWide Enterprise Color MPF 785ZS,['CVE-2018-5923'],2022-03-21T15:39Z
+1,cpe:2.3:o:hp:pagewide_enterprise_color_mpf_785zs_firmware:-:*:*:*:*:*:*:*,Hp Pagewide Enterprise Color Mpf 785zs Firmware -,['CVE-2018-5923'],2022-03-21T15:39Z
+2,cpe:2.3:o:hp:pagewide_enterprise_color_mpf_785zs_firmware:2406048_029621:*:*:*:*:*:*:*,Hp Pagewide Enterprise Color Mpf 785zs Firmware 2406048 029621,[''],2022-03-21T15:39Z
+3,cpe:2.3:h:hp:pagewide_enterprise_color_x556dn:-:*:*:*:*:*:*:*,HP PageWide Enterprise Color X556DN,['CVE-2018-5923'],2022-03-21T15:39Z
+4,cpe:2.3:o:hp:pagewide_enterprise_color_x556dn_firmware:-:*:*:*:*:*:*:*,Hp Pagewide Enterprise Color X556dn Firmware -,['CVE-2018-5923'],2022-03-21T15:39Z
+5,cpe:2.3:o:hp:pagewide_enterprise_color_x556dn_firmware:2308974_579766:*:*:*:*:*:*:*,Hp Pagewide Enterprise Color X556dn Firmware 2308974 579766,['CVE-2018-5923'],2022-03-21T15:39Z
+6,cpe:2.3:o:hp:pagewide_enterprise_color_x556dn_firmware:2406048_029637:*:*:*:*:*:*:*,Hp Pagewide Enterprise Color X556dn Firmware 2406048 029637,[''],2022-03-21T15:39Z
+7,cpe:2.3:h:hp:pagewide_enterprise_color_x556xh:-:*:*:*:*:*:*:*,HP PageWide Enterprise Color X556XH,['CVE-2018-5923'],2022-03-21T15:39Z
+8,cpe:2.3:o:hp:pagewide_enterprise_color_x556xh_firmware:-:*:*:*:*:*:*:*,Hp Pagewide Enterprise Color X556xh Firmware -,['CVE-2018-5923'],2022-03-21T15:39Z
+9,cpe:2.3:o:hp:pagewide_enterprise_color_x556xh_firmware:2308974_579766:*:*:*:*:*:*:*,Hp Pagewide Enterprise Color X556xh Firmware 2308974 579766,['CVE-2018-5923'],2022-03-21T15:39Z

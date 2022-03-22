@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:axis:modular_camera:-:*:*:*:*:*:*:*,Axis Modular Camera,"['CVE-2015-8256', 'CVE-2015-8257']",2022-03-19T04:52Z
+1,cpe:2.3:h:axis:mpeg-2_video_server:-:*:*:*:*:*:*:*,Axis Communications AXIS MPEG-2 Video Server,[''],2022-03-19T04:52Z
+2,cpe:2.3:h:axis:neteye_200:-:*:*:*:*:*:*:*,Axis Communications Network Camera 200,['CVE-2001-1543'],2022-03-19T04:52Z
+3,[0],[0],[0],[0]
+4,cpe:2.3:o:axis:network_camera_firmware:-:*:*:*:*:*:*:*,Axis Communications NETWORK CAMERA Firmware,"['CVE-2015-8256', 'CVE-2015-8257']",2022-03-19T04:52Z
+5,cpe:2.3:h:axis:onboard_camera:-:*:*:*:*:*:*:*,Axis Onboard Camera,"['CVE-2015-8256', 'CVE-2015-8257']",2022-03-19T04:52Z
+6,cpe:2.3:o:axis:p1125-z_firmware:7.10.1.1:*:*:*:*:*:*:*,Axis Communications P1125-Z Firmware 7.10.1.1,[''],2022-03-19T04:52Z
+7,cpe:2.3:o:axis:p1125-zl_firmware:7.10.1.1:*:*:*:*:*:*:*,Axis Communications P1125-ZL Firmware 7.10.1.1,[''],2022-03-19T04:52Z
+8,cpe:2.3:o:axis:p1126-z_firmware:7.10.1.1:*:*:*:*:*:*:*,Axis Communications P1126-Z Firmware 7.10.1.1,[''],2022-03-19T04:52Z
+9,cpe:2.3:o:axis:p1126-zl_firmware:7.10.1.1:*:*:*:*:*:*:*,Axis Communications P1126-ZL Firmware 7.10.1.1,[''],2022-03-19T04:52Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:airties:air_5021_firmware:1.0.0.18:*:*:*:*:*:*:*,AirTies Air 5021 Firmware 1.0.0.18,['CVE-2018-17588'],2022-03-18T13:57Z
+1,cpe:2.3:o:airties:air_5341_firmware:1.0.0.12:*:*:*:*:*:*:*,AirTies Air 5341 Firmware 1.0.0.12,['CVE-2019-6967'],2022-03-18T13:57Z
+2,cpe:2.3:h:airties:air_5343v2:-:*:*:*:*:*:*:*,AirTies Air 5343V2,['CVE-2018-17591'],2022-03-18T13:57Z
+3,cpe:2.3:o:airties:air_5343v2_firmware:1.0.0.18:*:*:*:*:*:*:*,AirTies Air 5343V2 Firmware 1.0.0.18,['CVE-2018-17591'],2022-03-18T13:57Z
+4,cpe:2.3:o:airties:air_5442_firmware:1.0.0.18:*:*:*:*:*:*:*,AirTies Air 5442 Firmware 1.0.0.18,['CVE-2018-17590'],2022-03-18T13:57Z
+5,cpe:2.3:h:airties:air_5443v2:-:*:*:*:*:*:*:*,AirTies Air 5443V2,['CVE-2018-17594'],2022-03-18T13:57Z
+6,cpe:2.3:o:airties:air_5443v2_firmware:1.0.0.18:*:*:*:*:*:*:*,AirTies Air 5443V2 Firmware 1.0.0.18,['CVE-2018-17594'],2022-03-18T13:57Z
+7,cpe:2.3:o:airties:air_5453_firmware:1.0.0.18:*:*:*:*:*:*:*,AirTies Air 5453 Firmware 1.0.0.18,['CVE-2018-17593'],2022-03-18T13:57Z
+8,cpe:2.3:h:airties:air_5650:-:*:*:*:*:*:*:*,AirTies Air 5650,['CVE-2018-17589'],2022-03-18T13:57Z
+9,cpe:2.3:o:airties:air_5650_firmware:1.0.0.18:*:*:*:*:*:*:*,AirTies Air 5650 Firmware 1.0.0.18,['CVE-2018-17589'],2022-03-18T13:57Z

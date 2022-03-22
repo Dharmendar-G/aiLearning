@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:amcrest:ipm-721s_firmware:amcrest_ipc-awxx_eng_n_v2.420.ac00.17.r.20170322:*:*:*:*:*:*:*,Amcrest IPM-721S Firmware Amcrest IPC-AWXX_Eng_N_V2.420.AC00.17.R.20170322,['CVE-2017-13719'],2022-03-18T16:01Z
+1,cpe:2.3:o:amcrest:ipm-721s_firmware:amcrest_ipc-awxx_eng_n_v2.420.ac00.18.r.20170521:*:*:*:*:*:*:*,Amcrest IPM-721s Firmware Amcrest IPC-AWXX Eng N V2.420.AC00.18.R.20170521,[''],2022-03-18T16:01Z
+2,cpe:2.3:o:amcrest:ipm-721s_firmware:amcrest_ipc-awxx_eng_n_v2.520.ac00.18.r.20170629:*:*:*:*:*:*:*,Amcrest IPM-721S Firmware Amcrest IPC-AWXX Eng N V2.520.AC00.18.R.20170629,[''],2022-03-18T16:01Z
+3,cpe:2.3:h:amcrest:ipm-hx1:-:*:*:*:*:*:*:*,Amcrest IPM-HX1,"['CVE-2020-5735', 'CVE-2020-5736']",2022-03-18T16:01Z
+4,cpe:2.3:o:amcrest:ipm-hx1_firmware:v2.420.ac00.18.r.20200217:*:*:*:*:*:*:*,Amcrest IPM-HX1 Firmware V2.420.AC00.18.R.20200217,[''],2022-03-18T16:01Z
+5,cpe:2.3:a:amcrest:web_server:2.520.ac00.18.r:*:*:*:*:*:*:*,Amcrest Web Server 2.520.AC00.18.R,['CVE-2020-7222'],2022-03-18T16:01Z
+6,cpe:2.3:h:amd:16h_model_00h_processor:-:*:*:*:*:*:*:*,AMD 16h Model 00H Processor,['CVE-2013-6885'],2022-03-18T16:01Z
+7,cpe:2.3:h:amd:16h_model_0fh_processor:-:*:*:*:*:*:*:*,AMD 16h Model 0FH Processor,['CVE-2013-6885'],2022-03-18T16:01Z
+8,cpe:2.3:o:amd:16h_model_processor_firmware:-:*:*:*:*:*:*:*,AMD 16h Model Processor Firmware,['CVE-2013-6885'],2022-03-18T16:01Z
+9,cpe:2.3:o:amd:amd_generic_encapsulated_software_architecture:-:*:*:*:*:*:*:*,Advanced Micro Devices AMD Generic Encapsulated Software Architecture (AGESA),['CVE-2020-12890'],2022-03-18T16:01Z

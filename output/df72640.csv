@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:belden:hirschmann_octopus_8m:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus 8M,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+1,cpe:2.3:h:belden:hirschmann_octopus_8m-6poe:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus 8M-6POE,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+2,cpe:2.3:h:belden:hirschmann_octopus_8m-8poe:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus 8M-8POE,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+3,cpe:2.3:h:belden:hirschmann_octopus_8m-train:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus 8M-TRAIN,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+4,cpe:2.3:h:belden:hirschmann_octopus_8m-train-bp:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus 8M-TRAIN-BP,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+5,cpe:2.3:h:belden:hirschmann_octopus_8tx_poe-eec:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus 8TX POE-EEC,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+6,cpe:2.3:h:belden:hirschmann_octopus_8tx-eec:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus 8TX-EEC,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+7,cpe:2.3:h:belden:hirschmann_octopus_os20-000900t5t5tafbhh:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus OS20-000900T5T5TAFBHH,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+8,cpe:2.3:h:belden:hirschmann_octopus_os20-000900t5t5tnebhh:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus OS20-000900T5T5TNEBHH,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+9,cpe:2.3:h:belden:hirschmann_octopus_os20-0010001m1mtrephh:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus OS20-0010001M1MTREPHH,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z

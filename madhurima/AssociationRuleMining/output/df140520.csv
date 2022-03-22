@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:citrix:netscaler_sd-wan_center:9.3.5:*:*:*:*:*:*:*,Citrix NetScaler SD-WAN Center 9.3.5,"['CVE-2019-10883', 'CVE-2020-6175']",2022-03-20T01:33Z
+1,cpe:2.3:a:citrix:netscaler_sd-wan_center:9.3.6:*:*:*:*:*:*:*,Citrix NetScaler SD-WAN Center 9.3.6,"['CVE-2019-10883', 'CVE-2020-6175']",2022-03-20T01:33Z
+2,cpe:2.3:a:citrix:netscaler_sd-wan_center:10.0.1:*:*:*:*:*:*:*,Citrix Citrix SD-WAN Center 10.0.1,"['CVE-2019-10883', 'CVE-2019-11345', 'CVE-2020-6175']",2022-03-20T01:33Z
+3,cpe:2.3:a:citrix:netscaler_sd-wan_center:10.0.2:*:*:*:*:*:*:*,Citrix Citrix SD-WAN Center 10.0.2,"['CVE-2019-10883', 'CVE-2019-11345', 'CVE-2020-6175']",2022-03-20T01:33Z
+4,cpe:2.3:a:citrix:netscaler_sd-wan_center:10.0.3:*:*:*:*:*:*:*,Citrix Citrix SD-WAN Center 10.0.3,"['CVE-2019-10883', 'CVE-2019-11345', 'CVE-2020-6175']",2022-03-20T01:33Z
+5,cpe:2.3:a:citrix:netscaler_sd-wan_center:10.0.4:*:*:*:*:*:*:*,Citrix Citrix SD-WAN Center 10.0.4,"['CVE-2019-10883', 'CVE-2019-11345', 'CVE-2020-6175']",2022-03-20T01:33Z
+6,cpe:2.3:a:citrix:netscaler_sd-wan_center:10.0.5:*:*:*:*:*:*:*,Citrix Citrix SD-WAN Center 10.0.5,"['CVE-2019-10883', 'CVE-2019-11345', 'CVE-2020-6175']",2022-03-20T01:33Z
+7,cpe:2.3:a:citrix:netscaler_sd-wan_center:10.0.6:*:*:*:*:*:*:*,Citrix Citrix SD-WAN Center 10.0.6,"['CVE-2019-10883', 'CVE-2019-11345', 'CVE-2020-6175']",2022-03-20T01:33Z
+8,cpe:2.3:a:citrix:netscaler_sd-wan_center:10.0.7:*:*:*:*:*:*:*,Citrix Citrix SD-WAN Center 10.0.7,['CVE-2020-6175'],2022-03-20T01:33Z
+9,cpe:2.3:a:citrix:netscaler_sd-wan_center:10.0.8:*:*:*:*:*:*:*,Citrix Citrix SD-WAN Center 10.0.8,['CVE-2020-6175'],2022-03-20T01:33Z

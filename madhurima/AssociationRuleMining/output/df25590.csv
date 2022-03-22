@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:angularjs:angular.js:1.2.10:*:*:*:*:*:*:*,AngularJS 1.2.10,"['CVE-2019-10768', 'CVE-2019-14863', 'CVE-2020-7676']",2022-03-18T16:37Z
+1,cpe:2.3:a:angularjs:angular.js:1.2.11:*:*:*:*:*:*:*,AngularJS 1.2.11,"['CVE-2019-10768', 'CVE-2019-14863', 'CVE-2020-7676']",2022-03-18T16:37Z
+2,cpe:2.3:a:angularjs:angular.js:1.2.12:*:*:*:*:*:*:*,AngularJS 1.2.12,"['CVE-2019-10768', 'CVE-2019-14863', 'CVE-2020-7676']",2022-03-18T16:37Z
+3,cpe:2.3:a:angularjs:angular.js:1.2.13:*:*:*:*:*:*:*,AngularJS 1.2.13,"['CVE-2019-10768', 'CVE-2019-14863', 'CVE-2020-7676']",2022-03-18T16:37Z
+4,cpe:2.3:a:angularjs:angular.js:1.2.14:*:*:*:*:*:*:*,AngularJS 1.2.14,"['CVE-2019-10768', 'CVE-2019-14863', 'CVE-2020-7676']",2022-03-18T16:37Z
+5,cpe:2.3:a:angularjs:angular.js:1.2.15:*:*:*:*:*:*:*,AngularJS 1.2.15,"['CVE-2019-10768', 'CVE-2019-14863', 'CVE-2020-7676']",2022-03-18T16:37Z
+6,cpe:2.3:a:angularjs:angular.js:1.2.16:*:*:*:*:*:*:*,AngularJS 1.2.16,"['CVE-2019-10768', 'CVE-2019-14863', 'CVE-2020-7676']",2022-03-18T16:37Z
+7,cpe:2.3:a:angularjs:angular.js:1.2.17:*:*:*:*:*:*:*,AngularJS 1.2.17,"['CVE-2019-10768', 'CVE-2019-14863', 'CVE-2020-7676']",2022-03-18T16:37Z
+8,cpe:2.3:a:angularjs:angular.js:1.2.18:*:*:*:*:*:*:*,AngularJS 1.2.18,"['CVE-2019-10768', 'CVE-2019-14863', 'CVE-2020-7676']",2022-03-18T16:37Z
+9,cpe:2.3:a:angularjs:angular.js:1.2.19:*:*:*:*:*:*:*,AngularJS 1.2.19,"['CVE-2019-10768', 'CVE-2019-14863', 'CVE-2020-7676']",2022-03-18T16:37Z

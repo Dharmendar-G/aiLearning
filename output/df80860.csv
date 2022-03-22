@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bluecatnetworks:adonis:5.5.2.0:*:*:*:*:*:*:*,Bluecatnetworks Adonis 5.5.2.0,[''],2022-03-19T08:50Z
+1,cpe:2.3:a:bluecatnetworks:adonis_management_console:4.0.0.0:*:*:*:*:*:*:*,Bluecatnetworks Adonis Management Console 4.0.0.0,[''],2022-03-19T08:50Z
+2,cpe:2.3:a:bluecatnetworks:adonis_management_console:5.5.2.0:*:*:*:*:*:*:*,Bluecatnetworks Adonis Management Console 5.5.2.0,[''],2022-03-19T08:50Z
+3,cpe:2.3:a:bluecats:bc_reveal:1.0:*:*:*:*:iphone_os:*:*,BlueCats BC Reveal 1.0 for iPhone OS,['CVE-2019-5627'],2022-03-19T08:50Z
+4,cpe:2.3:a:bluecats:bc_reveal:2.0:*:*:*:*:iphone_os:*:*,BlueCats BC Reveal 2.0 for iPhone OS,['CVE-2019-5627'],2022-03-19T08:50Z
+5,cpe:2.3:a:bluecats:bc_reveal:3.0:*:*:*:*:iphone_os:*:*,BlueCats BC Reveal 3.0 for iPhone OS,['CVE-2019-5627'],2022-03-19T08:50Z
+6,cpe:2.3:a:bluecats:bc_reveal:3.4:*:*:*:*:iphone_os:*:*,BlueCats BC Reveal 3.4 for iPhone OS,['CVE-2019-5627'],2022-03-19T08:50Z
+7,cpe:2.3:a:bluecats:bc_reveal:3.6:*:*:*:*:iphone_os:*:*,BlueCats BC Reveal 3.6 for iPhone OS,['CVE-2019-5627'],2022-03-19T08:50Z
+8,cpe:2.3:a:bluecats:bc_reveal:4.0:*:*:*:*:iphone_os:*:*,BlueCats BC Reveal 4.0 for iPhone OS,['CVE-2019-5627'],2022-03-19T08:50Z
+9,cpe:2.3:a:bluecats:bc_reveal:4.1:*:*:*:*:iphone_os:*:*,BlueCats BC Reveal 4.1 for iPhone OS,['CVE-2019-5627'],2022-03-19T08:50Z

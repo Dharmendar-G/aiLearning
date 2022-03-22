@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dir-850l_firmware:1.02:*:*:*:*:*:*:*,D-Link DIR-850L Firmware 1.02,"['CVE-2018-20674', 'CVE-2018-20675', 'CVE-2018-9032']",2022-03-20T15:51Z
+1,cpe:2.3:o:dlink:dir-850l_firmware:1.09:*:*:*:*:*:*:*,D-Link DIR-850L Firmware 1.09,"['CVE-2018-20674', 'CVE-2018-20675', 'CVE-2018-9032', 'CVE-2019-7642']",2022-03-20T15:51Z
+2,cpe:2.3:o:dlink:dir-850l_firmware:1.14b07:*:*:*:*:*:*:*,D-Link DIR-850L Firmware 1.14B07,"['CVE-2018-20674', 'CVE-2018-20675', 'CVE-2018-9032']",2022-03-20T15:51Z
+3,cpe:2.3:o:dlink:dir-850l_firmware:1.21b07:*:*:*:*:*:*:*,D-Link DIR-850L Firmware 1.21B07,"['CVE-2018-20674', 'CVE-2018-20675', 'CVE-2018-9032']",2022-03-20T15:51Z
+4,cpe:2.3:o:dlink:dir-850l_firmware:2.06:*:*:*:*:*:*:*,D-Link DIR-850L Firmware 2.06,"['CVE-2018-20674', 'CVE-2018-20675', 'CVE-2018-9032']",2022-03-20T15:51Z
+5,cpe:2.3:o:dlink:dir-850l_firmware:2.07.b05:*:*:*:*:*:*:*,D-Link DIR-850L Firmware 2.07.B05,"['CVE-2018-20674', 'CVE-2018-20675']",2022-03-20T15:51Z
+6,cpe:2.3:o:dlink:dir-850l_firmware:2.21b01:*:*:*:*:*:*:*,D-Link DIR-850L Firmware 2.21B01,"['CVE-2018-20674', 'CVE-2018-20675']",2022-03-20T15:51Z
+7,cpe:2.3:o:dlink:dir-850l_firmware:2.22b02:beta:*:*:*:*:*:*,D-Link DIR-850L Firmware 2.22B02 Beta,"['CVE-2018-20674', 'CVE-2018-20675']",2022-03-20T15:51Z
+8,cpe:2.3:o:dlink:dir-850l_firmware:fw114wwb07_h2ab:beta1:*:*:*:*:*:*,D-Link DIR-850L Firmware FW114WWB07 H2AB Beta 1,[''],2022-03-20T15:51Z
+9,cpe:2.3:o:dlink:dir-850l_firmware:fw208wwb02:*:*:*:*:*:*:*,D-Link DIR-850L Firmware FW208WWB02,[''],2022-03-20T15:51Z

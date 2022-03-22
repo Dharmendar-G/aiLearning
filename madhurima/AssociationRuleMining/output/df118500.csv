@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:embedded_service_2020_ncp:-:*:*:*:*:*:*:*,Cisco Embedded Service 2020 NCP,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T19:27Z
+1,cpe:2.3:h:cisco:embedded_service_2020_ncp_b:-:*:*:*:*:*:*:*,Cisco Embedded Service 2020 NCP B,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T19:27Z
+2,cpe:2.3:a:cisco:emergency_responder:-:*:*:*:*:*:*:*,Cisco Emergency Responder,"['CVE-2014-2114', 'CVE-2014-2115', 'CVE-2014-2116', 'CVE-2014-2117', 'CVE-2017-12227', 'CVE-2017-12337', 'CVE-2019-16025', 'CVE-2021-44228']",2022-03-19T19:27Z
+3,cpe:2.3:a:cisco:emergency_responder:1.1:*:*:*:*:*:*:*,Cisco Emergency Responder 1.1,"['CVE-2004-1759', 'CVE-2004-1760', 'CVE-2005-0356', 'CVE-2014-2114', 'CVE-2014-2115', 'CVE-2014-2116', 'CVE-2014-2117', 'CVE-2019-16025', 'CVE-2021-44228']",2022-03-19T19:27Z
+4,cpe:2.3:a:cisco:emergency_responder:8.0:*:*:*:*:*:*:*,Cisco Emergency Responder 8.0,"['CVE-2014-2114', 'CVE-2014-2115', 'CVE-2014-2116', 'CVE-2014-2117', 'CVE-2019-16025', 'CVE-2021-44228']",2022-03-19T19:27Z
+5,cpe:2.3:a:cisco:emergency_responder:8.5:*:*:*:*:*:*:*,Cisco Emergency Responder 8.5,"['CVE-2014-2114', 'CVE-2014-2115', 'CVE-2014-2116', 'CVE-2014-2117', 'CVE-2019-16025', 'CVE-2021-44228']",2022-03-19T19:27Z
+6,cpe:2.3:a:cisco:emergency_responder:10.5:*:*:*:*:*:*:*,Cisco Emergency Responder 10.5,"['CVE-2017-6779', 'CVE-2019-16025', 'CVE-2021-44228']",2022-03-19T19:27Z
+7,cpe:2.3:a:cisco:emergency_responder:10.5\(1.10000.5\):*:*:*:*:*:*:*,Cisco Emergency Responder 10.5(1.10000.5),"['CVE-2015-6406', 'CVE-2017-6779', 'CVE-2019-16025', 'CVE-2021-44228']",2022-03-19T19:27Z
+8,cpe:2.3:a:cisco:emergency_responder:10.5\(1a\):*:*:*:*:*:*:*,Cisco Emergency Responder 10.5(1a),"['CVE-2015-6400', 'CVE-2015-6405', 'CVE-2019-16025', 'CVE-2021-44228']",2022-03-19T19:27Z
+9,cpe:2.3:a:cisco:emergency_responder:10.5\(2\):*:*:*:*:*:*:*,Cisco Emergency Responder 10.5(2),"['CVE-2019-16025', 'CVE-2021-1226', 'CVE-2021-44228']",2022-03-19T19:27Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dart:dart_software_development_kit:1.5.0:dev4.3:*:*:*:*:*:*,Dart Software Development Kit (SDK) 1.5.0 Dev 4.3,"['CVE-2020-8923', 'CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:11Z
+1,cpe:2.3:a:dart:dart_software_development_kit:1.5.0:dev4.4:*:*:*:*:*:*,Dart Software Development Kit (SDK) 1.5.0 Dev 4.4,"['CVE-2020-8923', 'CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:11Z
+2,cpe:2.3:a:dart:dart_software_development_kit:1.5.0:dev4.5:*:*:*:*:*:*,Dart Software Development Kit (SDK) 1.5.0 Dev 4.5,"['CVE-2020-8923', 'CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:11Z
+3,cpe:2.3:a:dart:dart_software_development_kit:1.5.0:dev4.6:*:*:*:*:*:*,Dart Software Development Kit (SDK) 1.5.0 Dev 4.6,"['CVE-2020-8923', 'CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:11Z
+4,cpe:2.3:a:dart:dart_software_development_kit:1.5.0:dev4.7:*:*:*:*:*:*,Dart Software Development Kit (SDK) 1.5.0 Dev 4.7,"['CVE-2020-8923', 'CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:11Z
+5,cpe:2.3:a:dart:dart_software_development_kit:1.5.0:dev4.8:*:*:*:*:*:*,Dart Software Development Kit (SDK) 1.5.0 Dev 4.8,"['CVE-2020-8923', 'CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:11Z
+6,cpe:2.3:a:dart:dart_software_development_kit:1.5.0:dev4.9:*:*:*:*:*:*,Dart Software Development Kit (SDK) 1.5.0 Dev 4.9,"['CVE-2020-8923', 'CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:11Z
+7,cpe:2.3:a:dart:dart_software_development_kit:1.5.2:*:*:*:*:*:*:*,Dart Software Development Kit (SDK) 1.5.2,"['CVE-2020-8923', 'CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:11Z
+8,cpe:2.3:a:dart:dart_software_development_kit:1.5.3:*:*:*:*:*:*:*,Dart Software Development Kit (SDK) 1.5.3,"['CVE-2020-8923', 'CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:11Z
+9,cpe:2.3:a:dart:dart_software_development_kit:1.5.4:*:*:*:*:*:*:*,Dart Software Development Kit (SDK) 1.5.4,"['CVE-2020-8923', 'CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:11Z

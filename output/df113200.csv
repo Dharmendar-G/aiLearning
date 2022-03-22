@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:888w_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 888w Integrated Services Router,['CVE-2018-0163'],2022-03-19T17:50Z
+1,cpe:2.3:h:cisco:891_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 891 Integrated Services Router,"['CVE-2013-1241', 'CVE-2018-0163']",2022-03-19T17:50Z
+2,cpe:2.3:h:cisco:891-24x_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 891-24x Integrated Services Router,['CVE-2018-0163'],2022-03-19T17:50Z
+3,cpe:2.3:h:cisco:891w_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 891w Integrated Services Router,['CVE-2018-0163'],2022-03-19T17:50Z
+4,cpe:2.3:h:cisco:892_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 892 Integrated Services Router,"['CVE-2013-1241', 'CVE-2018-0163']",2022-03-19T17:50Z
+5,cpe:2.3:h:cisco:892f-cube_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 892f-cube Integrated Services Router,['CVE-2018-0163'],2022-03-19T17:50Z
+6,cpe:2.3:h:cisco:892w_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 892w Integrated Services Router,['CVE-2018-0163'],2022-03-19T17:50Z
+7,cpe:2.3:h:cisco:8930_speed_dome_ip_camera:-:*:*:*:*:*:*:*,Cisco 8930 Speed Dome IP Camera,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507', 'CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:50Z
+8,cpe:2.3:o:cisco:8930_speed_dome_ip_camera_firmware:1.0.9-1:*:*:*:*:*:*:*,Cisco 8930 Speed Dome IP Camera Firmware 1.0.9-1,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507']",2022-03-19T17:50Z
+9,cpe:2.3:o:cisco:8930_speed_dome_ip_camera_firmware:1.0.9-4:*:*:*:*:*:*:*,Cisco 8930 Speed Dome IP Camera Firmware 1.0.9-4,"['CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:50Z

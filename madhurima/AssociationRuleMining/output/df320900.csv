@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:deskjet_3755_t8x23b:-:*:*:*:*:*:*:*,HP DeskJet 3755 T8X23B,['CVE-2020-28419'],2022-03-21T13:14Z
+1,cpe:2.3:h:hp:deskjet_3755_t8x27b:-:*:*:*:*:*:*:*,HP DeskJet 3755 T8X27B,['CVE-2020-28419'],2022-03-21T13:14Z
+2,cpe:2.3:h:hp:deskjet_3790_1sh08a:-:*:*:*:*:*:*:*,HP DeskJet 3790 1SH08A,['CVE-2020-28419'],2022-03-21T13:14Z
+3,cpe:2.3:h:hp:deskjet_3790_t8x39a:-:*:*:*:*:*:*:*,HP DeskJet 3790 T8X39A,['CVE-2020-28419'],2022-03-21T13:14Z
+4,cpe:2.3:h:hp:deskjet_3790_t8x39b:-:*:*:*:*:*:*:*,HP DeskJet 3790 T8X39B,['CVE-2020-28419'],2022-03-21T13:14Z
+5,cpe:2.3:h:hp:deskjet_3790_t8x39c:-:*:*:*:*:*:*:*,HP DeskJet 3790 T8X39C,['CVE-2020-28419'],2022-03-21T13:14Z
+6,cpe:2.3:h:hp:deskjet_3790_t8x39d:-:*:*:*:*:*:*:*,HP DeskJet 3790 T8X39D,['CVE-2020-28419'],2022-03-21T13:14Z
+7,cpe:2.3:h:hp:deskjet_3790_t8x40a:-:*:*:*:*:*:*:*,HP DeskJet 3790 T8X40A,['CVE-2020-28419'],2022-03-21T13:14Z
+8,cpe:2.3:h:hp:deskjet_3790_t8x40b:-:*:*:*:*:*:*:*,HP DeskJet 3790 T8X40B,['CVE-2020-28419'],2022-03-21T13:14Z
+9,cpe:2.3:h:hp:deskjet_3790_t8x40d:-:*:*:*:*:*:*:*,HP DeskJet 3790 T8X40D,['CVE-2020-28419'],2022-03-21T13:14Z

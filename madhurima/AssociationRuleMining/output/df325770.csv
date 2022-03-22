@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:mt45_firmware:-:*:*:*:*:*:*:*,HP Mt45 Firmware,['CVE-2019-18618'],2022-03-21T15:22Z
+1,cpe:2.3:o:hp:mt45_firmware:5.5.21.1099:*:*:*:*:*:*:*,HP Mt45 Firmware 5.5.21.1099,[''],2022-03-21T15:22Z
+2,cpe:2.3:a:hp:my_display:2.0:*:*:*:*:*:*:*,Hp My display 2.0 ,['CVE-2017-3210'],2022-03-21T15:22Z
+3,cpe:2.3:a:hp:my_print_mileage:1.0.0:*:*:*:*:*:*:*,HP My Print Mileage 1.0.0,[''],2022-03-21T15:22Z
+4,cpe:2.3:h:hp:n4k99c:-:*:*:*:*:*:*:*,HP N4K99C,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T15:22Z
+5,cpe:2.3:o:hp:n4k99c_firmware:1828a:*:*:*:*:*:*:*,HP N4K99C Firmware 1828A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T15:22Z
+6,cpe:2.3:h:hp:n4l14c:-:*:*:*:*:*:*:*,HP N4L14C,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T15:22Z
+7,cpe:2.3:o:hp:n4l14c_firmware:1827a:*:*:*:*:*:*:*,HP N4L14C Firmware 1827A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T15:22Z
+8,cpe:2.3:h:hp:n4l17a:-:*:*:*:*:*:*:*,HP N4L17A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T15:22Z
+9,cpe:2.3:o:hp:n4l17a_firmware:1828a:*:*:*:*:*:*:*,HP N4L17A Firmware 1828A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T15:22Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:egatherer:2.0.16:*:*:*:*:*:*:*,IBM eGatherer 2.0.16,['CVE-2006-4221'],2022-03-21T20:26Z
+1,cpe:2.3:a:ibm:egatherer:2.42.243:*:*:*:*:*:*:*,IBM eGatherer 2.42.243,['CVE-2006-4221'],2022-03-21T20:26Z
+2,cpe:2.3:a:ibm:elastic_storage_server:2.0.0:*:*:*:*:*:*:*,IBM Elastic Storage Server 2.0.0,['CVE-2017-1304'],2022-03-21T20:26Z
+3,cpe:2.3:a:ibm:elastic_storage_server:2.5.0:*:*:*:*:*:*:*,IBM Elastic Storage Server 2.5.0,"['CVE-2016-0392', 'CVE-2017-1304']",2022-03-21T20:26Z
+4,cpe:2.3:a:ibm:elastic_storage_server:2.5.1:*:*:*:*:*:*:*,IBM Elastic Storage Server 2.5.1,['CVE-2016-0392'],2022-03-21T20:26Z
+5,cpe:2.3:a:ibm:elastic_storage_server:2.5.2:*:*:*:*:*:*:*,IBM Elastic Storage Server 2.5.2,['CVE-2016-0392'],2022-03-21T20:26Z
+6,cpe:2.3:a:ibm:elastic_storage_server:2.5.3:*:*:*:*:*:*:*,IBM Elastic Storage Server 2.5.3,['CVE-2016-0392'],2022-03-21T20:26Z
+7,cpe:2.3:a:ibm:elastic_storage_server:2.5.4:*:*:*:*:*:*:*,IBM Elastic Storage Server 2.5.4,['CVE-2016-0392'],2022-03-21T20:26Z
+8,cpe:2.3:a:ibm:elastic_storage_server:2.5.5:*:*:*:*:*:*:*,IBM Elastic Storage Server 2.5.5,"['CVE-2016-0392', 'CVE-2017-1304']",2022-03-21T20:26Z
+9,cpe:2.3:a:ibm:elastic_storage_server:3.0.0:*:*:*:*:*:*:*,IBM Elastic Storage Server 3.0.0,"['CVE-2016-0392', 'CVE-2017-1304']",2022-03-21T20:26Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:inode_management_center_pc:5.0:e0101:*:*:*:*:*:*,HP iNode Management Center PC 5.0 E0101,['CVE-2012-3254'],2022-03-21T13:38Z
+1,cpe:2.3:a:hp:inode_management_center_pc:5.0:e0101:*:*:*:*:*:*,HP iNode Management Center PC 5.0 E0101,['CVE-2012-3254'],2022-03-21T13:38Z
+2,cpe:2.3:a:hp:inode_management_center_pc:5.1:*:*:*:*:*:*:*,HP iNode Management Center PC 5.1,['CVE-2012-3254'],2022-03-21T13:38Z
+3,cpe:2.3:a:hp:inode_management_center_pc:5.1:e0304:*:*:*:*:*:*,HP iNode Management Center PC 5.1 E0304,['CVE-2012-3254'],2022-03-21T13:38Z
+4,cpe:2.3:a:hp:insight_contol:7.5:*:*:*:*:*:*:*,HP Insight Contol 7.5,['CVE-2016-2024'],2022-03-21T13:38Z
+5,cpe:2.3:a:hp:insight_control:7.6:lr1:*:*:*:*:*:*,HPE Insight Control 7.6 LR1,['CVE-2017-8969'],2022-03-21T13:38Z
+6,cpe:2.3:a:hp:insight_control_performance_management:5.0:*:*:*:*:*:*:*,HP Insight Control Performance Management 5.0,"['CVE-2010-4030', 'CVE-2010-4031', 'CVE-2010-4032', 'CVE-2010-4100', 'CVE-2011-1544', 'CVE-2011-1545']",2022-03-21T13:38Z
+7,cpe:2.3:a:hp:insight_control_performance_management:5.2:*:*:*:*:*:*:*,HP Insight Control Performance Management 5.2,"['CVE-2010-4030', 'CVE-2010-4031', 'CVE-2010-4032', 'CVE-2010-4100', 'CVE-2011-1544', 'CVE-2011-1545']",2022-03-21T13:38Z
+8,cpe:2.3:a:hp:insight_control_performance_management:5.2.2:*:*:*:*:*:*:*,HP Insight Control Performance Management 5.2.2,"['CVE-2010-4030', 'CVE-2010-4031', 'CVE-2010-4032', 'CVE-2010-4100', 'CVE-2011-1544', 'CVE-2011-1545']",2022-03-21T13:38Z
+9,cpe:2.3:a:hp:insight_control_performance_management:6.0:*:*:*:*:*:*:*,HP Insight Control Performance Management 6.0,"['CVE-2010-4030', 'CVE-2010-4031', 'CVE-2010-4032', 'CVE-2010-4100', 'CVE-2011-1544', 'CVE-2011-1545']",2022-03-21T13:38Z

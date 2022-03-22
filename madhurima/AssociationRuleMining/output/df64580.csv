@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avaya:ip_office:10.1:sp3:*:*:*:*:*:*,Avaya IP Office 10.1 Service Pack 3,"['CVE-2017-11309', 'CVE-2018-15610', 'CVE-2018-15614', 'CVE-2019-7005', 'CVE-2020-7030']",2022-03-19T04:17Z
+1,cpe:2.3:a:avaya:ip_office:10.1.0.7:*:*:*:*:*:*:*,Avaya IP Office 10.1.0.7,"['CVE-2017-11309', 'CVE-2019-7005', 'CVE-2020-7030']",2022-03-19T04:17Z
+2,cpe:2.3:a:avaya:ip_office:10.1.0.8:*:*:*:*:*:*:*,Avaya IP Office 10.1.0.8,['CVE-2017-11309'],2022-03-19T04:17Z
+3,cpe:2.3:a:avaya:ip_office:11.0:*:*:*:*:*:*:*,Avaya IP Office 11.0,"['CVE-2018-15614', 'CVE-2019-7005', 'CVE-2020-7030']",2022-03-19T04:17Z
+4,cpe:2.3:a:avaya:ip_office:11.0:sp1:*:*:*:*:*:*,Avaya IP Office 11.0 Service Pack 1,"['CVE-2018-15614', 'CVE-2019-7005', 'CVE-2020-7030']",2022-03-19T04:17Z
+5,cpe:2.3:a:avaya:ip_office:11.0.4.2:*:*:*:*:*:*:*,Avaya IP Office 11.0.4.2,"['CVE-2019-7005', 'CVE-2020-7030']",2022-03-19T04:17Z
+6,cpe:2.3:a:avaya:ip_office:11.0.4.3:*:*:*:*:*:*:*,Avaya IP Office 11.0.4.3,[''],2022-03-19T04:17Z
+7,cpe:2.3:a:avaya:ip_office_application_server:-:*:*:*:*:*:*:*,Avaya IP Office Application Server,[''],2022-03-19T04:17Z
+8,cpe:2.3:a:avaya:ip_office_application_server:11.0:*:*:*:*:*:*:*,Avaya IP Office Application Server 11.0,['CVE-2019-7004'],2022-03-19T04:17Z
+9,cpe:2.3:a:avaya:ip_office_application_server:11.0.4.0:*:*:*:*:*:*:*,Avaya IP Office Application Server 11.0.4.0,['CVE-2019-7004'],2022-03-19T04:17Z

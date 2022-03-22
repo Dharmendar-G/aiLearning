@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:operations_analytics_predictive_insights:1.3.0:*:*:*:*:*:*:*,IBM Operations Analytics Predictive Insights 1.3.0,['CVE-2017-1376'],2022-03-21T21:24Z
+1,cpe:2.3:a:ibm:operations_analytics_predictive_insights:1.3.1:*:*:*:*:*:*:*,IBM Operations Analytics Predictive Insights 1.3.1,['CVE-2017-1376'],2022-03-21T21:24Z
+2,cpe:2.3:a:ibm:operations_analytics_predictive_insights:1.3.2:*:*:*:*:*:*:*,IBM Operations Analytics Predictive Insights 1.3.2,['CVE-2017-1376'],2022-03-21T21:24Z
+3,cpe:2.3:a:ibm:operations_analytics_predictive_insights:1.3.3:*:*:*:*:*:*:*,IBM Operations Analytics Predictive Insights 1.3.3,['CVE-2017-1376'],2022-03-21T21:24Z
+4,cpe:2.3:a:ibm:operations_analytics_predictive_insights:1.3.5:*:*:*:*:*:*:*,IBM Operations Analytics Predictive Insights 1.3.5,['CVE-2017-1376'],2022-03-21T21:24Z
+5,cpe:2.3:a:ibm:operations_analytics_predictive_insights:1.3.6:*:*:*:*:*:*:*,IBM Operations Analytics Predictive Insights 1.3.6,['CVE-2017-1376'],2022-03-21T21:24Z
+6,cpe:2.3:a:ibm:optim_performance_manager:4.1.1:*:*:*:*:*:*:*,IBM Optim Performance Manager 4.1.1,"['CVE-2013-2979', 'CVE-2014-6154']",2022-03-21T21:24Z
+7,cpe:2.3:a:ibm:optim_performance_manager:4.1.1.1:*:*:*:*:*:*:*,IBM Optim Performance Manager 4.1.1.1,['CVE-2014-6154'],2022-03-21T21:24Z
+8,cpe:2.3:a:ibm:optim_performance_manager:5.1.0:*:*:*:*:*:*:*,IBM Optim Performance Manager 5.1.0,"['CVE-2013-4022', 'CVE-2013-4024', 'CVE-2013-4025', 'CVE-2014-6154']",2022-03-21T21:24Z
+9,cpe:2.3:a:ibm:optim_workload_replay:2.1:*:*:*:*:*:*:*,IBM Optim Workload Replay 2.1,"['CVE-2015-1894', 'CVE-2015-1895']",2022-03-21T21:24Z

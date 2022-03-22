@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:etrust_antivirus_sdk:-:*:*:*:*:*:*:*,Broadcom eTrust Antivirus SDK,['CVE-2007-2864'],2022-03-19T12:20Z
+1,cpe:2.3:a:broadcom:etrust_antivirus_webscan:-:*:*:*:*:*:*:*,Broadcom eTrust Antivirus Webscan,"['CVE-2006-3975', 'CVE-2006-3976']",2022-03-19T12:20Z
+2,cpe:2.3:a:broadcom:etrust_antivirus_webscan:1.1.0.1045:*:*:*:*:*:*:*,Broadcom eTrust Antivirus Webscan 1.1.0.1045,"['CVE-2006-3975', 'CVE-2006-3976', 'CVE-2006-3977']",2022-03-19T12:20Z
+3,cpe:2.3:a:broadcom:etrust_antivirus_webscan:1.1.0.1047:*:*:*:*:*:*:*,Broadcom eTrust Antivirus Webscan 1.1.0.1047,"['CVE-2006-3975', 'CVE-2006-3976', 'CVE-2006-3977']",2022-03-19T12:20Z
+4,cpe:2.3:a:broadcom:etrust_audit_aries:-:*:*:*:*:*:*:*,Broadcom eTrust Audit Aries,[''],2022-03-19T12:20Z
+5,cpe:2.3:a:broadcom:etrust_audit_aries:8.0:*:*:*:*:*:*:*,Broadcom eTrust Audit Aries 8.0,['CVE-2005-3653'],2022-03-19T12:20Z
+6,cpe:2.3:a:broadcom:etrust_audit_client:-:*:*:*:*:*:*:*,Broadcom eTrust Audit Client,[''],2022-03-19T12:20Z
+7,cpe:2.3:a:broadcom:etrust_audit_client:1.5:sp2:*:*:*:*:*:*,Broadcom eTrust Audit Client 1.5 Service Pack 2,['CVE-2006-4901'],2022-03-19T12:20Z
+8,cpe:2.3:a:broadcom:etrust_audit_client:1.5:sp3:*:*:*:*:*:*,Broadcom eTrust Audit Client 1.5 Service Pack 3,['CVE-2006-4901'],2022-03-19T12:20Z
+9,cpe:2.3:a:broadcom:etrust_audit_client:8.0:*:*:*:*:*:*:*,Broadcom eTrust Audit Client 8.0,['CVE-2006-4901'],2022-03-19T12:20Z

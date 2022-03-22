@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:divx:converter:6.5:*:*:*:*:*:*:*,DivX Converter 6.5,[''],2022-03-20T15:19Z
+1,cpe:2.3:a:divx:converter:6.5.1:*:*:*:*:*:*:*,DivX Converter 6.5.1,[''],2022-03-20T15:19Z
+2,cpe:2.3:a:divx:converter:6.6:*:*:*:*:*:*:*,DivX Converter 6.6,[''],2022-03-20T15:19Z
+3,cpe:2.3:a:divx:converter:7.1:*:*:*:*:*:*:*,DivX Converter 7.1,[''],2022-03-20T15:19Z
+4,cpe:2.3:a:divx:directshowdemuxfilter:-:*:*:*:*:*:*:*,Divx DirectShowDemuxFilter,['CVE-2014-10024'],2022-03-20T15:19Z
+5,cpe:2.3:a:divx:divx_codec:6.8.5:*:*:*:*:*:*:*,Divx Codec 6.8.5,[''],2022-03-20T15:19Z
+6,cpe:2.3:a:divx:divx_codec:6.9.1:*:*:*:*:*:*:*,Divx Codec 6.9.1,[''],2022-03-20T15:19Z
+7,cpe:2.3:a:divx:divx_converter:7.1.0:*:*:*:*:*:*:*,Divx Converter 7.1.0,[''],2022-03-20T15:19Z
+8,cpe:2.3:a:divx:divx_player:7.2.0:*:*:*:*:*:*:*,Divx Player 7.2.0,[''],2022-03-20T15:19Z
+9,cpe:2.3:a:divx:divx_player:7.2.0.19:*:*:*:*:*:*:*,Divx Player 7.2.0.19,['CVE-2010-5231'],2022-03-20T15:20Z

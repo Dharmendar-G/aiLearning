@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:highcharts:highcharts:8.0.1:*:*:*:*:*:*:*,Highcharts 8.0.1,['CVE-2021-29489'],2022-03-21T11:04Z
+1,cpe:2.3:a:highcharts:highcharts:8.0.2:*:*:*:*:*:*:*,Highcharts 8.0.2,['CVE-2021-29489'],2022-03-21T11:04Z
+2,cpe:2.3:a:highcharts:highcharts:8.0.3:*:*:*:*:*:*:*,Highcharts 8.0.3,['CVE-2021-29489'],2022-03-21T11:04Z
+3,cpe:2.3:a:highcharts:highcharts:8.0.4:*:*:*:*:*:*:*,Highcharts 8.0.4,['CVE-2021-29489'],2022-03-21T11:04Z
+4,cpe:2.3:a:highcharts:highcharts:8.1.0:*:*:*:*:*:*:*,Highcharts 8.1.0,['CVE-2021-29489'],2022-03-21T11:04Z
+5,cpe:2.3:a:highcharts:highcharts:8.1.1:*:*:*:*:*:*:*,Highcharts 8.1.1,['CVE-2021-29489'],2022-03-21T11:04Z
+6,cpe:2.3:a:highcharts:highcharts:8.1.2:*:*:*:*:*:*:*,Highcharts 8.1.2,['CVE-2021-29489'],2022-03-21T11:04Z
+7,cpe:2.3:a:highcharts:highcharts:8.2.0:*:*:*:*:*:*:*,Highcharts 8.2.0,['CVE-2021-29489'],2022-03-21T11:04Z
+8,cpe:2.3:a:highcharts:highcharts:8.2.2:*:*:*:*:*:*:*,Highcharts 8.2.2,['CVE-2021-29489'],2022-03-21T11:04Z
+9,cpe:2.3:a:highcharts:highcharts:9.0.0:*:*:*:*:*:*:*,Highcharts 9.0.0,[''],2022-03-21T11:04Z

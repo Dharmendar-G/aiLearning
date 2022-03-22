@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:beyondtrust:privilege_management_for_unix\/linux:10.3.2-10:*:*:*:basic:*:*:*,BeyondTrust Privilege Management for Unix/Linux 10.3.2-10 Basic Edition,[''],2022-03-19T07:29Z
+1,cpe:2.3:a:beyondtrust:privilege_management_for_windows_and_mac:5.1:*:*:*:*:*:*:*,BeyondTrust Privilege Management for Windows and Mac 5.1,['CVE-2020-9326'],2022-03-19T07:29Z
+2,cpe:2.3:a:beyondtrust:privilege_management_for_windows_and_mac:5.4:-:*:*:*:*:*:*,BeyondTrust Privilege Management for Windows and Mac 5.4,['CVE-2020-9326'],2022-03-19T07:29Z
+3,cpe:2.3:a:beyondtrust:privilege_management_for_windows_and_mac:5.4:sr3:*:*:*:*:*:*,BeyondTrust Privilege Management for Windows and Mac 5.4 SR3,['CVE-2020-9326'],2022-03-19T07:30Z
+4,cpe:2.3:a:beyondtrust:privilege_management_for_windows_and_mac:5.4.123:*:*:*:*:*:*:*,BeyondTrust Privilege Management for Windows and Mac 5.4.123,['CVE-2020-9326'],2022-03-19T07:30Z
+5,cpe:2.3:a:beyondtrust:privilege_management_for_windows_and_mac:5.5:-:*:*:*:*:*:*,BeyondTrust Privilege Management for Windows and Mac 5.5,['CVE-2020-9326'],2022-03-19T07:29Z
+6,cpe:2.3:a:beyondtrust:remote_support:9.0.0:*:*:*:*:*:*:*,BeyondTrust Remote Support 9.0.0,[''],2022-03-19T07:29Z
+7,cpe:2.3:a:beyondtrust:remote_support:9.0.1:*:*:*:*:*:*:*,BeyondTrust Remote Support 9.0.1,[''],2022-03-19T07:30Z
+8,cpe:2.3:a:beyondtrust:remote_support:9.0.2:*:*:*:*:*:*:*,BeyondTrust Remote Support 9.0.2,[''],2022-03-19T07:30Z
+9,cpe:2.3:a:beyondtrust:remote_support:9.1.0:*:*:*:*:*:*:*,BeyondTrust Remote Support 9.1.0,[''],2022-03-19T07:30Z

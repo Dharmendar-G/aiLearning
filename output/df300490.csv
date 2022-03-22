@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:groups_communities_and_co_project:gcc:7.x-1.0:alpha3:*:*:*:drupal:*:*,"Groups, Communities and Co (GCC) project Groups, Communities and Co (GCC) for Drupal 7.x-1.0 alpha3",['CVE-2013-4598'],2022-03-21T08:00Z
+1,cpe:2.3:a:groups_communities_and_co_project:gcc:7.x-1.0:alpha4:*:*:*:drupal:*:*,"Groups, Communities and Co (GCC) project Groups, Communities and Co (GCC) for Drupal 7.x-1.0 alpha4",['CVE-2013-4598'],2022-03-21T08:00Z
+2,cpe:2.3:a:groups_communities_and_co_project:gcc:7.x-1.0:beta2:*:*:*:drupal:*:*,"Groups, Communities and Co (GCC) project Groups, Communities and Co (GCC) for Drupal 7.x-1.0 beta2",['CVE-2013-4598'],2022-03-21T08:00Z
+3,cpe:2.3:a:groups_communities_and_co_project:gcc:7.x-1.1:*:*:*:*:drupal:*:*,"Groups, Communities and Co (GCC) project Groups, Communities and Co (GCC) for Drupal 7.x-1.1",[''],2022-03-21T08:00Z
+4,cpe:2.3:a:groups_communities_and_co_project:gcc:7.x-1.1:beta1:*:*:*:drupal:*:*,"Groups, Communities and Co (GCC) project Groups, Communities and Co (GCC) for Drupal 7.x-1.0 beta1",['CVE-2013-4598'],2022-03-21T08:00Z
+5,cpe:2.3:a:groups_communities_and_co_project:gcc:7.x-1.x:dev:*:*:*:drupal:*:*,"Groups, Communities and Co (GCC) project Groups, Communities and Co (GCC) for Drupal 7.x-1.x-dev",['CVE-2013-4598'],2022-03-21T08:00Z
+6,cpe:2.3:a:groupsession:groupsession:4.6.4:*:*:*:*:*:*:*,GroupSession 4.6.4,"['CVE-2017-2165', 'CVE-2017-2166']",2022-03-21T08:00Z
+7,cpe:2.3:a:groupsession:groupsession:4.7.0:*:*:*:*:*:*:*,GroupSession 4.7.0,['CVE-2017-2166'],2022-03-21T08:00Z
+8,cpe:2.3:a:growl_project:growl:1.0.0:*:*:*:*:node.js:*:*,Growl Project Growl 1.0.0 for Node.js,['CVE-2017-16042'],2022-03-21T08:00Z
+9,cpe:2.3:a:growl_project:growl:1.0.1:*:*:*:*:node.js:*:*,Growl Project Growl 1.0.1 for Node.js,['CVE-2017-16042'],2022-03-21T08:00Z

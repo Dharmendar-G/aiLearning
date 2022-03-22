@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bird_project:bird:1.6.0:*:*:*:*:*:*:*,BIRD Internet Routing Daemon project BIRD Internet Routing Daemon 1.6.0,['CVE-2018-12066'],2022-03-19T07:43Z
+1,cpe:2.3:a:bird_project:bird:1.6.1:*:*:*:*:*:*:*,BIRD Internet Routing Daemon project BIRD Internet Routing Daemon 1.6.1,['CVE-2018-12066'],2022-03-19T07:43Z
+2,cpe:2.3:a:bird_project:bird:1.6.2:*:*:*:*:*:*:*,BIRD Internet Routing Daemon project BIRD Internet Routing Daemon 1.6.2,['CVE-2018-12066'],2022-03-19T07:43Z
+3,cpe:2.3:a:bird_project:bird:1.6.3:*:*:*:*:*:*:*,BIRD Internet Routing Daemon project BIRD Internet Routing Daemon 1.6.3,['CVE-2018-12066'],2022-03-19T07:43Z
+4,cpe:2.3:a:bird_project:bird:1.6.4:*:*:*:*:*:*:*,BIRD Internet Routing Daemon project BIRD Internet Routing Daemon 1.6.4,[''],2022-03-19T07:43Z
+5,cpe:2.3:a:bird_project:bird:2.0.0:*:*:*:*:*:*:*,BIRD Internet Routing Daemon project BIRD Internet Routing Daemon 2.0.0,[''],2022-03-19T07:43Z
+6,cpe:2.3:a:bird_project:bird:2.0.1:*:*:*:*:*:*:*,BIRD Internet Routing Daemon project BIRD Internet Routing Daemon 2.0.1,[''],2022-03-19T07:43Z
+7,cpe:2.3:a:bird_project:bird:2.0.2:*:*:*:*:*:*:*,BIRD Internet Routing Daemon project BIRD Internet Routing Daemon 2.0.2,[''],2022-03-19T07:43Z
+8,cpe:2.3:a:birebin:birebin.com_app:-:*:*:*:*:android:*:*,Birebin.com application for Android,[''],2022-03-19T07:43Z
+9,cpe:2.3:a:biscom:faxcom_cover_page_editor:9.3.313:*:*:*:*:*:*:*,Biscom Faxcom Cover Page Editor 9.3.313,[''],2022-03-19T07:43Z

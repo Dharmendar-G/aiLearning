@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:optiplex_7780_aio:-:*:*:*:*:*:*:*,Dell OptiPlex 7780 AIO,"['CVE-2020-5362', 'CVE-2021-36283']",2022-03-20T12:59Z
+1,cpe:2.3:h:dell:optiplex_7780_all-in-one:-:*:*:*:*:*:*:*,Dell OptiPlex 7780 All-in-one,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:59Z
+2,cpe:2.3:h:dell:optiplex_790:-:*:*:*:*:*:*:*,Dell Optiplex 790,['CVE-2015-2890'],2022-03-20T12:59Z
+3,cpe:2.3:h:dell:optiplex_990:-:*:*:*:*:*:*:*,Dell Optiplex 990,['CVE-2015-2890'],2022-03-20T12:59Z
+4,cpe:2.3:h:dell:optiplex_xe3:-:*:*:*:*:*:*:*,Dell OptiPlex XE3,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:59Z
+5,cpe:2.3:o:dell:optiplex_xe3_firmware:-:*:*:*:*:*:*:*,Dell OptiPlex XE3 Firmware,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:59Z
+6,cpe:2.3:o:dell:optiplex_xe3_firmware:1.3.4:*:*:*:*:*:*:*,Dell OptiPlex XE3 Firmware 1.3.4,"['CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:59Z
+7,cpe:2.3:o:dell:optiplex_xe3_firmware:1.4.2:*:*:*:*:*:*:*,Dell OptiPlex XE3 Firmware 1.4.2,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:59Z
+8,cpe:2.3:o:dell:os_recovery_image_for_microsoft_windows_10:-:*:*:*:*:*:*:*,Dell OS Recovery Image for Microsoft Windows 10,['CVE-2020-5343'],2022-03-20T12:59Z
+9,cpe:2.3:o:dell:os_recovery_image_for_microsoft_windows_10:2019-12-20:*:*:*:*:*:*:*,Dell OS Recovery Image for Microsoft Windows 10 2019-12-20,[''],2022-03-20T12:59Z

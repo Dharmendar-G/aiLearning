@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cs-cart:cs-cart_multivendor:4.3.8:*:*:ja:*:*:*:*,CS-Cart CS-Cart Multivendor 4.3.8 Japanese,['CVE-2017-10886'],2022-03-20T09:13Z
+1,cpe:2.3:a:cs-cart:cs-cart_multivendor:4.3.9:*:*:ja:*:*:*:*,CS-Cart CS-Cart Multivendor 4.3.9 Japanese,['CVE-2017-10886'],2022-03-20T09:13Z
+2,cpe:2.3:a:cs-cart:cs-cart_multivendor:4.3.10:*:*:ja:*:*:*:*,CS-Cart CS-Cart Multivendor 4.3.10 Japanese,['CVE-2017-10886'],2022-03-20T09:13Z
+3,cpe:2.3:a:cs-cart:cs-cart_multivendor:4.3.10:*:*:*:japanese:*:*:*,cs-cart Multivendor 4.3.10 Japanese Edition,['CVE-2017-2138'],2022-03-20T09:13Z
+4,cpe:2.3:a:csdoom:csdoom_2005:0.7:*:*:*:*:*:*:*,csDoom 2005 0.7,['CVE-2006-1403'],2022-03-20T09:13Z
+5,cpe:2.3:a:cse_bookstore_project:cse_bookstore:1.0:*:*:*:*:*:*:*,CSE Bookstore Project CSE Bookstore 1.0,['CVE-2020-36112'],2022-03-20T09:13Z
+6,cpe:2.3:a:csilvers:gperftools:0.1:*:*:*:*:*:*:*,csilvers gperftools (google-perftools) 0.1,['CVE-2005-4895'],2022-03-20T09:13Z
+7,cpe:2.3:a:csilvers:gperftools:0.2:*:*:*:*:*:*:*,csilvers gperftools (google-perftools) 0.2,['CVE-2005-4895'],2022-03-20T09:13Z
+8,cpe:2.3:a:csilvers:gperftools:0.3:*:*:*:*:*:*:*,csilvers gperftools (google-perftools) 0.3,['CVE-2005-4895'],2022-03-20T09:13Z
+9,cpe:2.3:a:csounds:csound:5.10:*:*:*:*:*:*:*,csounds Csound 5.10,"['CVE-2012-0270', 'CVE-2012-2107', 'CVE-2012-2108']",2022-03-20T09:13Z

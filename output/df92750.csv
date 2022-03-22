@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:ca_harvest_software_change_manager:13.0.4:*:*:*:*:*:*:*,Broadcom CA Harvest Software Change Manager 13.0.4,['CVE-2022-22689'],2022-03-19T12:16Z
+1,cpe:2.3:a:broadcom:ca_harvest_software_change_manager:14.0.0:*:*:*:*:*:*:*,Broadcom CA Harvest Software Change Manager 14.0.0,['CVE-2022-22689'],2022-03-19T12:16Z
+2,cpe:2.3:a:broadcom:ca_harvest_software_change_manager:14.0.1:*:*:*:*:*:*:*,Broadcom CA Harvest Software Change Manager 14.0.1,['CVE-2022-22689'],2022-03-19T12:16Z
+3,cpe:2.3:a:broadcom:ca_identity_governance:12.6:*:*:*:*:*:*:*,Broadcom CA Identity Governance 12.6,['CVE-2018-14597'],2022-03-19T12:16Z
+4,cpe:2.3:a:broadcom:ca_identity_governance:14.0:*:*:*:*:*:*:*,Broadcom CA Identity Governance 14.0,['CVE-2018-14597'],2022-03-19T12:16Z
+5,cpe:2.3:a:broadcom:ca_identity_governance:14.2:*:*:*:*:*:*:*,Broadcom CA Identity Governance 14.2,['CVE-2018-14597'],2022-03-19T12:16Z
+6,cpe:2.3:a:broadcom:ca_identity_governance:14.4:*:*:*:*:*:*:*,Broadcom CA Identity Governance 14.4,[''],2022-03-19T12:16Z
+7,cpe:2.3:a:broadcom:ca_identity_manager:12.6:ga:*:*:*:*:*:*,Broadcom CA Identity Manager 12.6 GA,['CVE-2017-9393'],2022-03-19T12:16Z
+8,cpe:2.3:a:broadcom:ca_identity_manager:12.6:sp1:*:*:*:*:*:*,Broadcom CA Identity Manager 12.6 Service Pack 1,['CVE-2017-9393'],2022-03-19T12:16Z
+9,cpe:2.3:a:broadcom:ca_identity_manager:12.6:sp2:*:*:*:*:*:*,Broadcom CA Identity Manager 12.6 Service Pack 2,['CVE-2017-9393'],2022-03-19T12:16Z

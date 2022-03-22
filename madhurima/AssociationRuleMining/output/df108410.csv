@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:check_mk_project:check_mk:1.2.3:i2:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.3 i2,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:41Z
+1,cpe:2.3:a:check_mk_project:check_mk:1.2.3:i3:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.3 i3,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:41Z
+2,cpe:2.3:a:check_mk_project:check_mk:1.2.3:i4:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.3 i4,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:41Z
+3,cpe:2.3:a:check_mk_project:check_mk:1.2.3:i5:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.3 i5,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:41Z
+4,cpe:2.3:a:check_mk_project:check_mk:1.2.3:i6:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.3 i6,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:41Z
+5,cpe:2.3:a:check_mk_project:check_mk:1.2.3:i7:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.3 i7,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:41Z
+6,cpe:2.3:a:check_mk_project:check_mk:1.2.3:i7p1:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.3 i7p1,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:41Z
+7,cpe:2.3:a:check_mk_project:check_mk:1.2.3:i7p2:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.3 i7p2,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:41Z
+8,cpe:2.3:a:check_mk_project:check_mk:1.2.4:*:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.4,"['CVE-2014-0243', 'CVE-2014-5338', 'CVE-2014-5339', 'CVE-2014-5340']",2022-03-19T16:41Z
+9,cpe:2.3:a:check_mk_project:check_mk:1.2.4:b1:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.4 Beta 1,"['CVE-2014-0243', 'CVE-2014-5338', 'CVE-2014-5339', 'CVE-2014-5340']",2022-03-19T16:41Z

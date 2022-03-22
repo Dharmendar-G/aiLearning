@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:berlin-l23:-:*:*:*:*:*:*:*,Huawei Berlin-l23 -,"['CVE-2017-17201', 'CVE-2017-2721']",2022-03-21T17:26Z
+1,cpe:2.3:o:huawei:berlin-l23_firmware:berlin-l23c605b131:*:*:*:*:*:*:*,Huawei Berlin-l23 Firmware Berlin-L23C605B131,"['CVE-2017-17201', 'CVE-2017-2721']",2022-03-21T17:27Z
+2,cpe:2.3:o:huawei:berlin-l23_firmware:berlin-l23c605b141:*:*:*:*:*:*:*,Huawei Berlin-l23 Firmware Berlin-l23c605b141,[''],2022-03-21T17:27Z
+3,cpe:2.3:o:huawei:berlin-l23_firmware:berlin-l23domc109b160:*:*:*:*:*:*:*,Huawei Berlin-L23 Firmware Berlin-L23DOMC109B160,['CVE-2017-17201'],2022-03-21T17:27Z
+4,cpe:2.3:o:huawei:berlin-l23_firmware:berlin-l23domc109b162:*:*:*:*:*:*:*,Huawei Berlin-l23 Firmware Berlin-l23domc109b162,[''],2022-03-21T17:27Z
+5,cpe:2.3:h:huawei:berlin-l24hn:-:*:*:*:*:*:*:*,Huawei Berlin-l24hn -,['CVE-2017-2721'],2022-03-21T17:27Z
+6,cpe:2.3:o:huawei:berlin-l24hn_firmware:berlin-l24hnc567b110:*:*:*:*:*:*:*,Huawei Berlin-l24hn Firmware Berlin-L24HNC567B110,['CVE-2017-2721'],2022-03-21T17:27Z
+7,cpe:2.3:h:huawei:bla-a09:-:*:*:*:*:*:*:*,Huawei BLA-A09,['CVE-2020-9239'],2022-03-21T17:27Z
+8,cpe:2.3:o:huawei:bla-a09_firmware:8.0.0.123\(c212\):*:*:*:*:*:*:*,Huawei BLA-A09 Firmware 8.0.0.123(C212),['CVE-2020-9239'],2022-03-21T17:27Z
+9,cpe:2.3:o:huawei:bla-a09_firmware:8.0.0.123\(c567\):*:*:*:*:*:*:*,Huawei BLA-A09 Firmware 8.0.0.123(C567),['CVE-2020-9239'],2022-03-21T17:27Z

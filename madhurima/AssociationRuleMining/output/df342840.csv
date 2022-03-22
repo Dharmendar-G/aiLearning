@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:financial_transaction_manager:2.1.0.0:*:*:*:*:*:*:*,IBM Financial Transaction Manager 2.1.0.0,"['CVE-2014-0830', 'CVE-2014-8917']",2022-03-21T20:35Z
+1,cpe:2.3:a:ibm:financial_transaction_manager:2.1.0.1:*:*:*:*:*:*:*,IBM Financial Transaction Manager 2.1.0.1,['CVE-2014-8917'],2022-03-21T20:35Z
+2,cpe:2.3:a:ibm:financial_transaction_manager:2.1.0.2:*:*:*:*:*:*:*,IBM Financial Transaction Manager 2.1.0.2,['CVE-2014-8917'],2022-03-21T20:35Z
+3,cpe:2.3:a:ibm:financial_transaction_manager:2.1.1.0:*:*:*:*:*:*:*,IBM Financial Transaction Manager 2.1.1.0,['CVE-2014-8917'],2022-03-21T20:35Z
+4,cpe:2.3:a:ibm:financial_transaction_manager:2.1.1.0:*:*:*:*:cps_services:*:*,IBM Financial Transaction Manager 2.1.1.0 CPS Services,"['CVE-2014-8917', 'CVE-2020-4555']",2022-03-21T20:35Z
+5,cpe:2.3:a:ibm:financial_transaction_manager:2.1.1.1:*:*:*:*:*:*:*,IBM Financial Transaction Manager 2.1.1.1,['CVE-2014-8917'],2022-03-21T20:35Z
+6,cpe:2.3:a:ibm:financial_transaction_manager:2.1.1.2:*:*:*:*:ach_services:*:*,IBM Financial Transaction Manager 2.1.1.2 for ACH Services,"['CVE-2016-0253', 'CVE-2016-0268', 'CVE-2016-0272', 'CVE-2016-0274', 'CVE-2016-0275']",2022-03-21T20:35Z
+7,cpe:2.3:a:ibm:financial_transaction_manager:2.1.1.2:*:*:*:*:check_services:*:*,IBM Financial Transaction Manager 2.1.1.2 for Check Services,"['CVE-2016-0253', 'CVE-2016-0268', 'CVE-2016-0272', 'CVE-2016-0274', 'CVE-2016-0275']",2022-03-21T20:35Z
+8,cpe:2.3:a:ibm:financial_transaction_manager:2.1.1.2:*:*:*:*:cps_services:*:*,IBM Financial Transaction Manager 2.1.1.2 for CPS Services,"['CVE-2016-0253', 'CVE-2016-0268', 'CVE-2016-0272', 'CVE-2016-0274', 'CVE-2016-0275']",2022-03-21T20:35Z
+9,cpe:2.3:a:ibm:financial_transaction_manager:2.1.1.8:*:*:*:*:check_services:*:*,IBM Financial Transaction Manager 2.1.1.8 Check Services,[''],2022-03-21T20:35Z

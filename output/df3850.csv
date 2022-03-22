@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:abb:eth-fw_firmware:1.01:*:*:*:*:*:*:*,ABB ETH-FW Firmware 1.01,['CVE-2018-17926'],2022-03-18T10:30Z
+1,cpe:2.3:h:abb:fox515t:-:*:*:*:*:*:*:*,ABB FOX515T,"['CVE-2017-14025', 'CVE-2017-15583']",2022-03-18T10:30Z
+2,cpe:2.3:o:abb:fox515t_firmware:1.0:*:*:*:*:*:*:*,ABB FOX515T Firmware 1.0,"['CVE-2017-14025', 'CVE-2017-15583']",2022-03-18T10:30Z
+3,cpe:2.3:o:abb:fox515t_firmware:r.1.0_ics10:*:*:*:*:*:*:*,ABB FOX515T Firmware R.1.0 ICS10,['CVE-2017-15583'],2022-03-18T10:30Z
+4,cpe:2.3:h:abb:fox615_tego1:-:*:*:*:*:*:*:*,ABB FOX615 TEGO1,['CVE-2021-27196'],2022-03-18T10:30Z
+5,cpe:2.3:o:abb:fox615_tego1_firmware:-:*:*:*:*:*:*:*,ABB FOX615 TEGO1 Firmware,['CVE-2021-27196'],2022-03-18T10:30Z
+6,cpe:2.3:o:abb:fox615_tego1_firmware:r2a16:*:*:*:*:*:*:*,ABB FOX615 TEGO1 Firmware R2A16,[''],2022-03-18T10:30Z
+7,cpe:2.3:o:abb:fw_firmware:2.22:*:*:*:*:*:*:*,ABB FW Firmware 2.22,['CVE-2018-17926'],2022-03-18T10:30Z
+8,cpe:2.3:h:abb:gate-e1:-:*:*:*:*:*:*:*,ABB GATE-E1,"['CVE-2018-18995', 'CVE-2018-18997']",2022-03-18T10:30Z
+9,cpe:2.3:o:abb:gate-e1_firmware:-:*:*:*:*:*:*:*,ABB GATE-E1 Firmware,"['CVE-2018-18995', 'CVE-2018-18997']",2022-03-18T10:30Z

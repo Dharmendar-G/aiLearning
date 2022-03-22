@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:compaq_14-h000:-:*:*:*:*:*:*:*,HP Compaq 14-h000,['CVE-2017-2751'],2022-03-21T13:07Z
+1,cpe:2.3:o:hp:compaq_14-h000_firmware:-:*:*:*:*:*:*:*,HP Compaq 14-H000 Firmware,['CVE-2017-2751'],2022-03-21T13:07Z
+2,cpe:2.3:h:hp:compaq_14-s000:-:*:*:*:*:*:*:*,HP Compaq 14-s000,['CVE-2017-2751'],2022-03-21T13:07Z
+3,cpe:2.3:o:hp:compaq_14-s000_firmware:-:*:*:*:*:*:*:*,HP Compaq 14-S000 Firmware,['CVE-2017-2751'],2022-03-21T13:07Z
+4,cpe:2.3:h:hp:compaq_cq45-900:-:*:*:*:*:*:*:*,HP Compaq Cq45-900,['CVE-2017-2751'],2022-03-21T13:07Z
+5,cpe:2.3:o:hp:compaq_cq45-900_firmware:-:*:*:*:*:*:*:*,HP Compaq CQ45-900 Firmware,['CVE-2017-2751'],2022-03-21T13:07Z
+6,cpe:2.3:a:hp:compaqhttpserver:-:*:*:*:*:*:*:*,HP compaqhttpserver,[''],2022-03-21T13:07Z
+7,cpe:2.3:a:hp:compaqhttpserver:9.9:*:*:*:*:*:*:*,HP compaqhttpserver 9.9,['CVE-2006-1774'],2022-03-21T13:07Z
+8,cpe:2.3:a:hp:content_manager:9.0:*:*:*:*:*:*:*,HP Content Manager 9.0,['CVE-2017-14360'],2022-03-21T13:07Z
+9,cpe:2.3:a:hp:continuous_delivery_automation:1.3.0:*:*:*:*:*:*:*,HP Continuous Delivery Automation (CDA) 1.3.0,['CVE-2016-1986'],2022-03-21T13:07Z

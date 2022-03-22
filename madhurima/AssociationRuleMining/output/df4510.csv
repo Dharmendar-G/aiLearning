@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:accadvocacy:acc_advocacy_action:2:*:*:*:*:android:*:*,accadvocacy ACC Advocacy Action (aka com.acc.app.android.ui) for android 2.0,['CVE-2014-7387'],2022-03-18T10:43Z
+1,cpe:2.3:a:acccheck_project:acccheck.pl:0.2.1:*:*:*:*:*:*:*,acccheck Project acccheck.pl 0.2.1,['CVE-2018-12268'],2022-03-18T10:43Z
+2,cpe:2.3:a:accela:civic_platform:-:*:*:*:*:*:*:*,Accela Civic Platform,"['CVE-2016-5660', 'CVE-2021-33904', 'CVE-2021-34369', 'CVE-2021-34370']",2022-03-18T10:43Z
+3,cpe:2.3:a:accela:civic_platform:19.2:*:*:*:*:*:*:*,Accela Civic Platform 19.2,"['CVE-2021-33904', 'CVE-2021-34369', 'CVE-2021-34370']",2022-03-18T10:43Z
+4,cpe:2.3:a:accela:civic_platform:20.1:*:*:*:*:*:*:*,Accela Civic Platform 20.1,"['CVE-2021-33904', 'CVE-2021-34369', 'CVE-2021-34370']",2022-03-18T10:43Z
+5,cpe:2.3:a:accela:civic_platform:20.2:*:*:*:*:*:*:*,Accela Civic Platform 20.2,['CVE-2021-33904'],2022-03-18T10:43Z
+6,cpe:2.3:a:accela:civic_platform:21.1:*:*:*:*:*:*:*,Accela Civic Platform 21.1,['CVE-2021-33904'],2022-03-18T10:43Z
+7,cpe:2.3:a:accelatech:bizsearch:3.2:-:*:*:*:linux_kernel:*:*,AccelaTech BizSearch 3.2 on Linux Kernel,['CVE-2013-4711'],2022-03-18T10:43Z
+8,cpe:2.3:a:accelatech:bizsearch:3.2:-:*:*:*:sunos:*:*,AccelaTech BizSearch 3.2 on Linux SunOS,['CVE-2013-4711'],2022-03-18T10:43Z
+9,cpe:2.3:a:accellion:file_transfer_appliance:8_0_540:*:*:*:*:*:*:*,Accellion File Transfer Appliance 8 0 540,"['CVE-2015-2856', 'CVE-2015-2857', 'CVE-2016-2350', 'CVE-2016-2351', 'CVE-2016-2352', 'CVE-2016-2353', 'CVE-2017-8303', 'CVE-2017-8304', 'CVE-2017-8760', 'CVE-2017-8788', 'CVE-2017-8789', 'CVE-2017-8790', 'CVE-2017-8791', 'CVE-2017-8792', 'CVE-2017-8793', 'CVE-2017-8794', 'CVE-2017-8795', 'CVE-2017-8796', 'CVE-2019-5622', 'CVE-2019-5623']",2022-03-18T10:43Z

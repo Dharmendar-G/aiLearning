@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:procurve_switch_software:h:10.74:*:*:*:*:*:*,HP Procurve Switch Software H.10.74,"['CVE-2010-2705', 'CVE-2010-2706', 'CVE-2010-2707', 'CVE-2010-2708', 'CVE-2012-5216']",2022-03-21T15:51Z
+1,cpe:2.3:o:hp:procurve_switch_software:h:10.80:*:*:*:*:*:*,HP Procurve Switch Software H.10.80,"['CVE-2010-2705', 'CVE-2010-2706', 'CVE-2010-2707', 'CVE-2010-2708', 'CVE-2012-5216']",2022-03-21T15:51Z
+2,cpe:2.3:o:hp:procurve_switch_software:h.07.02:*:*:*:*:*:*:*,HP Procurve Switch Software H.07.02,"['CVE-2010-2705', 'CVE-2010-2706', 'CVE-2010-2707', 'CVE-2010-2708', 'CVE-2012-5216']",2022-03-21T15:51Z
+3,cpe:2.3:o:hp:procurve_switch_software:h.07.03:*:*:*:*:*:*:*,HP Procurve Switch Software H.07.03,"['CVE-2010-2705', 'CVE-2010-2706', 'CVE-2010-2707', 'CVE-2010-2708', 'CVE-2012-5216']",2022-03-21T15:51Z
+4,cpe:2.3:o:hp:procurve_switch_software:h.07.31:*:*:*:*:*:*:*,HP Procurve Switch Software H.07.31,"['CVE-2010-2705', 'CVE-2010-2706', 'CVE-2010-2707', 'CVE-2010-2708', 'CVE-2012-5216']",2022-03-21T15:51Z
+5,cpe:2.3:o:hp:procurve_switch_software:h.07.32:*:*:*:*:*:*:*,HP Procurve Switch Software H.07.32,"['CVE-2010-2705', 'CVE-2010-2706', 'CVE-2010-2707', 'CVE-2010-2708', 'CVE-2012-5216']",2022-03-21T15:51Z
+6,cpe:2.3:o:hp:procurve_switch_software:h.07.41:*:*:*:*:*:*:*,HP Procurve Switch Software H.07.41,"['CVE-2010-2705', 'CVE-2010-2706', 'CVE-2010-2707', 'CVE-2010-2708', 'CVE-2012-5216']",2022-03-21T15:51Z
+7,cpe:2.3:o:hp:procurve_switch_software:h.07.45:*:*:*:*:*:*:*,HP Procurve Switch Software H.07.45,"['CVE-2010-2705', 'CVE-2010-2706', 'CVE-2010-2707', 'CVE-2010-2708', 'CVE-2012-5216']",2022-03-21T15:51Z
+8,cpe:2.3:o:hp:procurve_switch_software:h.07.46:*:*:*:*:*:*:*,HP Procurve Switch Software H.07.46,"['CVE-2010-2705', 'CVE-2010-2706', 'CVE-2010-2707', 'CVE-2010-2708', 'CVE-2012-5216']",2022-03-21T15:51Z
+9,cpe:2.3:o:hp:procurve_switch_software:h.07.50:*:*:*:*:*:*:*,HP Procurve Switch Software H.07.50,"['CVE-2010-2705', 'CVE-2010-2706', 'CVE-2010-2707', 'CVE-2010-2708', 'CVE-2012-5216']",2022-03-21T15:51Z

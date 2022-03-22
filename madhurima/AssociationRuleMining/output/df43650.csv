@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apple:swiftnio_http\/2:1.16.0:*:*:*:*:swift:*:*,Apple SwiftNIO HTTP/2 1.16.0 for Swift,"['CVE-2022-0618', 'CVE-2022-24666', 'CVE-2022-24667', 'CVE-2022-24668']",2022-03-18T22:24Z
+1,cpe:2.3:a:apple:swiftnio_http\/2:1.16.1:*:*:*:*:swift:*:*,Apple SwiftNIO HTTP/2 1.16.1 for Swift,"['CVE-2022-0618', 'CVE-2022-24666', 'CVE-2022-24667', 'CVE-2022-24668']",2022-03-18T22:24Z
+2,cpe:2.3:a:apple:swiftnio_http\/2:1.16.2:*:*:*:*:swift:*:*,Apple SwiftNIO HTTP/2 1.16.2 for Swift,"['CVE-2022-0618', 'CVE-2022-24666', 'CVE-2022-24667', 'CVE-2022-24668']",2022-03-18T22:24Z
+3,cpe:2.3:a:apple:swiftnio_http\/2:1.16.3:*:*:*:*:swift:*:*,Apple SwiftNIO HTTP/2 1.16.3 for Swift,"['CVE-2022-0618', 'CVE-2022-24666', 'CVE-2022-24667', 'CVE-2022-24668']",2022-03-18T22:24Z
+4,cpe:2.3:a:apple:swiftnio_http\/2:1.17.0:*:*:*:*:swift:*:*,Apple SwiftNIO HTTP/2 1.17.0 for Swift,"['CVE-2022-0618', 'CVE-2022-24666', 'CVE-2022-24667', 'CVE-2022-24668']",2022-03-18T22:24Z
+5,cpe:2.3:a:apple:swiftnio_http\/2:1.18.0:*:*:*:*:swift:*:*,Apple SwiftNIO HTTP/2 1.18.0 for Swift,"['CVE-2022-0618', 'CVE-2022-24666', 'CVE-2022-24667', 'CVE-2022-24668']",2022-03-18T22:24Z
+6,cpe:2.3:a:apple:swiftnio_http\/2:1.18.1:*:*:*:*:swift:*:*,Apple SwiftNIO HTTP/2 1.18.1 for Swift,"['CVE-2022-0618', 'CVE-2022-24666', 'CVE-2022-24667', 'CVE-2022-24668']",2022-03-18T22:24Z
+7,cpe:2.3:a:apple:swiftnio_http\/2:1.18.2:*:*:*:*:swift:*:*,Apple SwiftNIO HTTP/2 1.18.2 for Swift,"['CVE-2022-0618', 'CVE-2022-24666', 'CVE-2022-24667', 'CVE-2022-24668']",2022-03-18T22:24Z
+8,cpe:2.3:a:apple:swiftnio_http\/2:1.18.3:*:*:*:*:swift:*:*,Apple SwiftNIO HTTP/2 1.18.3 for Swift,"['CVE-2022-0618', 'CVE-2022-24666', 'CVE-2022-24667', 'CVE-2022-24668']",2022-03-18T22:24Z
+9,cpe:2.3:a:apple:swiftnio_http\/2:1.18.4:*:*:*:*:swift:*:*,Apple SwiftNIO HTTP/2 1.18.4 for Swift,"['CVE-2022-0618', 'CVE-2022-24666', 'CVE-2022-24667', 'CVE-2022-24668']",2022-03-18T22:24Z

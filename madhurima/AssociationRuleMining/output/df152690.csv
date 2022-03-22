@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codeigniter:codeigniter:3.0.0:*:*:*:*:*:*:*,CodeIgniter 3.0.0,"['CVE-2016-10131', 'CVE-2018-12071', 'CVE-2020-10793']",2022-03-20T05:28Z
+1,cpe:2.3:a:codeigniter:codeigniter:3.0.1:*:*:*:*:*:*:*,CodeIgniter 3.0.1,"['CVE-2016-10131', 'CVE-2018-12071', 'CVE-2020-10793']",2022-03-20T05:28Z
+2,cpe:2.3:a:codeigniter:codeigniter:3.0.2:*:*:*:*:*:*:*,CodeIgniter 3.0.2,"['CVE-2016-10131', 'CVE-2018-12071', 'CVE-2020-10793']",2022-03-20T05:28Z
+3,cpe:2.3:a:codeigniter:codeigniter:3.0.3:*:*:*:*:*:*:*,CodeIgniter 3.0.3,"['CVE-2016-10131', 'CVE-2018-12071', 'CVE-2020-10793']",2022-03-20T05:28Z
+4,cpe:2.3:a:codeigniter:codeigniter:3.0.4:*:*:*:*:*:*:*,CodeIgniter 3.0.4,"['CVE-2016-10131', 'CVE-2018-12071', 'CVE-2020-10793']",2022-03-20T05:28Z
+5,cpe:2.3:a:codeigniter:codeigniter:3.0.5:*:*:*:*:*:*:*,CodeIgniter 3.0.5,"['CVE-2016-10131', 'CVE-2018-12071', 'CVE-2020-10793']",2022-03-20T05:28Z
+6,cpe:2.3:a:codeigniter:codeigniter:3.0.6:*:*:*:*:*:*:*,CodeIgniter 3.0.6,"['CVE-2016-10131', 'CVE-2018-12071', 'CVE-2020-10793']",2022-03-20T05:28Z
+7,cpe:2.3:a:codeigniter:codeigniter:3.1.0:*:*:*:*:*:*:*,CodeIgniter 3.1.0,"['CVE-2016-10131', 'CVE-2018-12071', 'CVE-2020-10793']",2022-03-20T05:28Z
+8,cpe:2.3:a:codeigniter:codeigniter:3.1.1:*:*:*:*:*:*:*,CodeIgniter 3.1.1,"['CVE-2016-10131', 'CVE-2018-12071', 'CVE-2020-10793']",2022-03-20T05:28Z
+9,cpe:2.3:a:codeigniter:codeigniter:3.1.2:*:*:*:*:*:*:*,CodeIgniter 3.1.2,"['CVE-2016-10131', 'CVE-2018-12071', 'CVE-2020-10793']",2022-03-20T05:28Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:altiris:deployment_agent:1.0.0:*:*:*:*:*:*:*,Altiris Deployment Agent 1.0.0,[''],2022-03-18T15:14Z
+1,cpe:2.3:a:altiris:deployment_server_extension_for_ibm_director:-:*:*:*:*:*:*:*,Altiris Deployment Server,[''],2022-03-18T15:14Z
+2,cpe:2.3:a:altiris:deployment_server_extension_for_ibm_director:5.0.1:*:*:*:*:*:*:*,Altiris Deployment Server 5.0.1,['CVE-2004-2622'],2022-03-18T15:14Z
+3,cpe:2.3:a:altiris:deployment_server_extension_for_ibm_director:5.5:*:*:*:*:*:*:*,Altiris Deployment Server 5.5,['CVE-2004-2622'],2022-03-18T15:14Z
+4,cpe:2.3:a:altiris:deployment_server_extension_for_ibm_director:6.0:*:*:*:*:*:*:*,Altiris Deployment Server 6.0,['CVE-2004-2622'],2022-03-18T15:14Z
+5,cpe:2.3:a:altiris:deployment_server_extension_for_ibm_director:6.1:*:*:*:*:*:*:*,Altiris Deployment Server 6.1,['CVE-2004-2622'],2022-03-18T15:14Z
+6,cpe:2.3:a:altiris:deployment_solution:-:*:*:*:*:*:*:*,Altiris Deployment Solution,[''],2022-03-18T15:14Z
+7,cpe:2.3:a:altiris:deployment_solution:5.6:*:*:*:*:*:*:*,Altiris Deployment Solution 5.6,[''],2022-03-18T15:14Z
+8,cpe:2.3:a:altiris:deployment_solution:5.6:sp1:*:*:*:*:*:*,Altiris Deployment Solution 5.6 SP1,['CVE-2005-1590'],2022-03-18T15:14Z
+9,cpe:2.3:a:altiris:deployment_solution:5.6.181:*:*:*:*:*:*:*,Altiris Deployment Solution 5.6.181,['CVE-2005-1590'],2022-03-18T15:14Z

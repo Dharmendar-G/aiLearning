@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avg:identity_protection:-:*:*:*:*:*:*:*,AVG Identity Protection,[''],2022-03-19T04:24Z
+1,cpe:2.3:a:avg:internet_security:8.5:*:*:*:*:*:*:*,AVG Internet Security 8.5,[''],2022-03-19T04:24Z
+2,cpe:2.3:a:avg:internet_security:8.5:-:3-pack:*:*:*:*:*,AVG Internet Security 3-Pack Edition 8.5,[''],2022-03-19T04:24Z
+3,cpe:2.3:a:avg:internet_security:8.5:-:network:*:*:*:*:*,AVG Internet Security Network Edition 8.5,[''],2022-03-19T04:24Z
+4,cpe:2.3:a:avg:internet_security:8.5:-:sbs:*:*:*:*:*,AVG Internet Security SBS Edition 8.5,[''],2022-03-19T04:24Z
+5,cpe:2.3:a:avg:internet_security:9.0:*:*:*:*:*:*:*,AVG Internet Security 9.0,[''],2022-03-19T04:24Z
+6,cpe:2.3:a:avg:internet_security:9.0:-:business:*:*:*:*:*,AVG Internet Security Business Edition 9.0,[''],2022-03-19T04:24Z
+7,cpe:2.3:a:avg:internet_security:9.0.791:*:*:*:*:*:*:*,AVG Internet Security 9.0.791,['CVE-2010-5152'],2022-03-19T04:24Z
+8,cpe:2.3:a:avg:internet_security:17.1:*:*:*:*:*:*:*,AVG Internet Security 17.1,['CVE-2017-5566'],2022-03-19T04:25Z
+9,cpe:2.3:a:avg:internet_security:2013:*:*:*:*:*:*:*,AVG Internet Security 2013,['CVE-2014-9632'],2022-03-19T04:25Z

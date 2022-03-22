@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aviatrix:controller:5.4.1201:*:*:*:*:*:*:*,Aviatrix Controller 5.4.1201,"['CVE-2020-13412', 'CVE-2020-13413', 'CVE-2020-13414']",2022-03-19T04:27Z
+1,cpe:2.3:a:aviatrix:controller:5.4.1204:*:*:*:*:*:*:*,Aviatrix Controller 5.4.1204,[''],2022-03-19T04:27Z
+2,cpe:2.3:a:aviatrix:controller:5.4.1232:*:*:*:*:*:*:*,Aviatrix Controller 5.4.1232,[''],2022-03-19T04:27Z
+3,cpe:2.3:a:aviatrix:controller:5.4.1234:*:*:*:*:*:*:*,Aviatrix Controller 5.4.1234,[''],2022-03-19T04:27Z
+4,cpe:2.3:a:aviatrix:controller:5.4.1238:*:*:*:*:*:*:*,Aviatrix Controller 5.4.1238,[''],2022-03-19T04:27Z
+5,cpe:2.3:a:aviatrix:controller:6.0:*:*:*:*:*:*:*,Aviatrix Controller 6.0,[''],2022-03-19T04:27Z
+6,cpe:2.3:a:aviatrix:gateway:5.3:*:*:*:*:*:*:*,Aviatrix Gateway 5.3,['CVE-2020-13414'],2022-03-19T04:27Z
+7,cpe:2.3:a:aviatrix:gateway:5.4.1204:*:*:*:*:*:*:*,Aviatrix Gateway 5.4.1204,[''],2022-03-19T04:27Z
+8,cpe:2.3:a:aviatrix:openvpn:-:*:*:*:*:*:*:*,Aviatrix OpenVPN,"['CVE-2020-27569', 'CVE-2020-7224']",2022-03-19T04:27Z
+9,cpe:2.3:a:aviatrix:openvpn:1.0:*:*:*:*:*:*:*,Aviatrix OpenVPN 1.0,"['CVE-2020-27569', 'CVE-2020-7224']",2022-03-19T04:27Z

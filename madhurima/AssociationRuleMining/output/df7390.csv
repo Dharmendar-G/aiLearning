@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:acymailing:acymailing:7.4.1:*:*:*:*:wordpress:*:*,AcyMailing 7.4.1 for Wordpress,['CVE-2021-24288'],2022-03-18T11:40Z
+1,cpe:2.3:a:acymailing:acymailing:7.5.0:*:*:*:*:wordpress:*:*,AcyMailing 7.5.0 for Wordpress,[''],2022-03-18T11:40Z
+2,cpe:2.3:a:ad_buttons_project:ad_buttons:1.0:*:*:*:*:wordpress:*:*,Ad Buttons Project Ad Buttons 1.0 for WordPress,['CVE-2017-18553'],2022-03-18T11:40Z
+3,cpe:2.3:a:ad_buttons_project:ad_buttons:1.0.1:*:*:*:*:wordpress:*:*,Ad Buttons Project Ad Buttons 1.0.1 for WordPress,['CVE-2017-18553'],2022-03-18T11:40Z
+4,cpe:2.3:a:ad_buttons_project:ad_buttons:1.0.2:*:*:*:*:wordpress:*:*,Ad Buttons Project Ad Buttons 1.0.2 for WordPress,['CVE-2017-18553'],2022-03-18T11:40Z
+5,cpe:2.3:a:ad_buttons_project:ad_buttons:1.0.3:*:*:*:*:wordpress:*:*,Ad Buttons Project Ad Buttons 1.0.3 for WordPress,['CVE-2017-18553'],2022-03-18T11:40Z
+6,cpe:2.3:a:ad_buttons_project:ad_buttons:1.0.4:*:*:*:*:wordpress:*:*,Ad Buttons Project Ad Buttons 1.0.4 for WordPress,['CVE-2017-18553'],2022-03-18T11:40Z
+7,cpe:2.3:a:ad_buttons_project:ad_buttons:1.0.5:*:*:*:*:wordpress:*:*,Ad Buttons Project Ad Buttons 1.0.5 for WordPress,['CVE-2017-18553'],2022-03-18T11:40Z
+8,cpe:2.3:a:ad_buttons_project:ad_buttons:1.1.0:*:*:*:*:wordpress:*:*,Ad Buttons Project Ad Buttons 1.1.0 for WordPress,['CVE-2017-18553'],2022-03-18T11:40Z
+9,cpe:2.3:a:ad_buttons_project:ad_buttons:1.2.0:*:*:*:*:wordpress:*:*,Ad Buttons Project Ad Buttons 1.2.0 for WordPress,['CVE-2017-18553'],2022-03-18T11:40Z

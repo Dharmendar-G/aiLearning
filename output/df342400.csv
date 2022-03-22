@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:emptoris_contract_management:10.0.2.16:*:*:*:*:*:*:*,IBM Emptoris Contract Management 10.0.2.16,"['CVE-2016-6018', 'CVE-2018-1961']",2022-03-21T20:28Z
+1,cpe:2.3:a:ibm:emptoris_contract_management:10.0.2.17:*:*:*:*:*:*:*,IBM Emptoris Contract Management 10.0.2.17,"['CVE-2016-6018', 'CVE-2018-1961']",2022-03-21T20:28Z
+2,cpe:2.3:a:ibm:emptoris_contract_management:10.0.2.19:*:*:*:*:*:*:*,IBM Emptoris Contract Management 10.0.2.19,['CVE-2018-1961'],2022-03-21T20:28Z
+3,cpe:2.3:a:ibm:emptoris_contract_management:10.0.2.20:*:*:*:*:*:*:*,IBM Emptoris Contract Management 10.0.2.20,['CVE-2018-1961'],2022-03-21T20:28Z
+4,cpe:2.3:a:ibm:emptoris_contract_management:10.0.2.21:*:*:*:*:*:*:*,IBM Emptoris Contract Management 10.0.2.21,['CVE-2018-1961'],2022-03-21T20:28Z
+5,cpe:2.3:a:ibm:emptoris_contract_management:10.0.2.22:*:*:*:*:*:*:*,IBM Emptoris Contract Management 10.0.2.22,['CVE-2018-1961'],2022-03-21T20:28Z
+6,cpe:2.3:a:ibm:emptoris_contract_management:10.0.4.0:*:*:*:*:*:*:*,IBM Emptoris Contract Management 10.0.4.0,"['CVE-2015-5042', 'CVE-2015-5050', 'CVE-2015-7398', 'CVE-2016-6018', 'CVE-2018-1961']",2022-03-21T20:28Z
+7,cpe:2.3:a:ibm:emptoris_contract_management:10.1.0:*:*:*:*:*:*:*,IBM Emptoris Contract Management 10.1.0,"['CVE-2018-1961', 'CVE-2019-4308', 'CVE-2019-4481', 'CVE-2019-4483', 'CVE-2019-4484', 'CVE-2019-4485']",2022-03-21T20:28Z
+8,cpe:2.3:a:ibm:emptoris_contract_management:10.1.0.0:*:*:*:*:*:*:*,IBM Emptoris Contract Management 10.1.0.0,"['CVE-2016-6018', 'CVE-2018-1961', 'CVE-2019-4308', 'CVE-2019-4481', 'CVE-2019-4483', 'CVE-2019-4484', 'CVE-2019-4485', 'CVE-2020-4897']",2022-03-21T20:28Z
+9,cpe:2.3:a:ibm:emptoris_contract_management:10.1.0.38:*:*:*:*:*:*:*,IBM Emptoris Contract Management 10.1.0.38,"['CVE-2018-1961', 'CVE-2019-4308', 'CVE-2019-4481', 'CVE-2019-4483', 'CVE-2019-4484', 'CVE-2019-4485']",2022-03-21T20:28Z

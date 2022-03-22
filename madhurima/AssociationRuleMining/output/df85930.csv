@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:bose:soundtouch_30:-:*:*:*:*:*:*:*,Bose SoundTouch 30,['CVE-2017-6520'],2022-03-19T10:07Z
+1,cpe:2.3:a:boson:exam_environment:1.4.2:*:*:*:*:*:*:*,Boson Exam Environment 1.4.2,[''],2022-03-19T10:07Z
+2,cpe:2.3:a:boson:exam_environment:1.5.5:*:*:*:*:*:*:*,Boson Exam Environment 1.5.5,[''],2022-03-19T10:07Z
+3,cpe:2.3:a:boson:exam_environment:1.5.9:*:*:*:*:*:*:*,Boson Exam Environment 1.5.9,[''],2022-03-19T10:07Z
+4,cpe:2.3:a:boson:ms-exam_for_comptia_sy0-201:9.41:*:*:*:*:*:*:*,Boson Ms-exam For Comptia Sy0-201 9.41,[''],2022-03-19T10:07Z
+5,cpe:2.3:a:boson:netsim:8.2:*:*:*:*:*:*:*,Boson Netsim 8.2,[''],2022-03-19T10:07Z
+6,cpe:2.3:a:boson:subnet_calculator:2.0.4:*:*:*:*:*:*:*,Boson Subnet Calculator 2.0.4,[''],2022-03-19T10:07Z
+7,cpe:2.3:h:bostonscientific:zoom_latitude_prm_3120:-:*:*:*:*:*:*:*,Boston Scientific Zoom Latitude PRM 3120,"['CVE-2017-14012', 'CVE-2017-14014']",2022-03-19T10:07Z
+8,cpe:2.3:o:bostonscientific:zoom_latitude_prm_3120_firmware:-:*:*:*:*:*:*:*,Boston Scientific Zoom Latitude PRM 3120 Firmware,"['CVE-2017-14012', 'CVE-2017-14014']",2022-03-19T10:07Z
+9,cpe:2.3:a:botan_project:botan:-:*:*:*:*:*:*:*,Botan Project Botan,"['CVE-2014-9742', 'CVE-2015-7824', 'CVE-2015-7825', 'CVE-2015-7826', 'CVE-2015-7827', 'CVE-2016-2194', 'CVE-2016-2195', 'CVE-2016-6878', 'CVE-2017-14737', 'CVE-2018-20187', 'CVE-2021-24115', 'CVE-2021-40529']",2022-03-19T10:07Z

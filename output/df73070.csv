@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bestpractical:request_tracker:4.3.8:*:*:*:*:*:*:*,Best Practical Request Tracker 4.3.8,['CVE-2018-18898'],2022-03-19T06:58Z
+1,cpe:2.3:a:bestpractical:request_tracker:4.3.9:*:*:*:*:*:*:*,Best Practical Request Tracker 4.3.9,['CVE-2018-18898'],2022-03-19T06:58Z
+2,cpe:2.3:a:bestpractical:request_tracker:4.3.10:*:*:*:*:*:*:*,Best Practical Request Tracker 4.3.10,['CVE-2018-18898'],2022-03-19T06:58Z
+3,cpe:2.3:a:bestpractical:request_tracker:4.3.11:*:*:*:*:*:*:*,Best Practical Request Tracker 4.3.11,['CVE-2018-18898'],2022-03-19T06:58Z
+4,cpe:2.3:a:bestpractical:request_tracker:4.3.12:*:*:*:*:*:*:*,Best Practical Request Tracker 4.3.12,['CVE-2018-18898'],2022-03-19T06:58Z
+5,cpe:2.3:a:bestpractical:request_tracker:4.3.13:*:*:*:*:*:*:*,Best Practical Request Tracker 4.3.13,['CVE-2018-18898'],2022-03-19T06:58Z
+6,cpe:2.3:a:bestpractical:request_tracker:4.4.0:*:*:*:*:*:*:*,Best Practical Request Tracker 4.4.0,"['CVE-2016-6127', 'CVE-2017-5361', 'CVE-2017-5943', 'CVE-2017-5944', 'CVE-2018-18898', 'CVE-2021-38562']",2022-03-19T06:58Z
+7,cpe:2.3:a:bestpractical:request_tracker:4.4.1:*:*:*:*:*:*:*,Best Practical Request Tracker 4.4.1,"['CVE-2016-6127', 'CVE-2017-5361', 'CVE-2017-5943', 'CVE-2017-5944', 'CVE-2021-38562']",2022-03-19T06:58Z
+8,cpe:2.3:a:bestpractical:request_tracker:4.4.2:*:*:*:*:*:*:*,Best Practical Request Tracker 4.4.2,['CVE-2021-38562'],2022-03-19T06:58Z
+9,cpe:2.3:a:bestpractical:request_tracker:4.4.3:*:*:*:*:*:*:*,Best Practical Request Tracker 4.4.3,['CVE-2021-38562'],2022-03-19T06:58Z

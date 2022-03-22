@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:camunda:min-dash:2.2.0:*:*:*:*:*:*:*,Camunda min-dash 2.2.0,['CVE-2021-23460'],2022-03-19T15:08Z
+1,cpe:2.3:a:camunda:min-dash:2.3.0:*:*:*:*:*:*:*,Camunda min-dash 2.3.0,['CVE-2021-23460'],2022-03-19T15:08Z
+2,cpe:2.3:a:camunda:min-dash:2.4.0:*:*:*:*:*:*:*,Camunda min-dash 2.4.0,['CVE-2021-23460'],2022-03-19T15:08Z
+3,cpe:2.3:a:camunda:min-dash:3.0.0:*:*:*:*:*:*:*,Camunda min-dash 3.0.0,['CVE-2021-23460'],2022-03-19T15:08Z
+4,cpe:2.3:a:camunda:min-dash:3.1.0:*:*:*:*:*:*:*,Camunda min-dash 3.1.0,['CVE-2021-23460'],2022-03-19T15:08Z
+5,cpe:2.3:a:camunda:min-dash:3.2.0:*:*:*:*:*:*:*,Camunda min-dash 3.2.0,['CVE-2021-23460'],2022-03-19T15:08Z
+6,cpe:2.3:a:camunda:min-dash:3.3.0:*:*:*:*:*:*:*,Camunda min-dash 3.3.0,['CVE-2021-23460'],2022-03-19T15:08Z
+7,cpe:2.3:a:camunda:min-dash:3.4.0:*:*:*:*:*:*:*,Camunda min-dash 3.4.0,['CVE-2021-23460'],2022-03-19T15:08Z
+8,cpe:2.3:a:camunda:min-dash:3.5.0:*:*:*:*:*:*:*,Camunda min-dash 3.5.0,['CVE-2021-23460'],2022-03-19T15:08Z
+9,cpe:2.3:a:camunda:min-dash:3.5.1:*:*:*:*:*:*:*,Camunda min-dash 3.5.1,['CVE-2021-23460'],2022-03-19T15:08Z

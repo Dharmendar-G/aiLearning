@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:honeywell:midas_firmware:1.13b1:*:*:*:*:*:*:*,Honeywell Midas Firmware 1.13b1,"['CVE-2015-7907', 'CVE-2015-7908']",2022-03-21T11:44Z
+1,cpe:2.3:h:honeywell:mpnvrswxx:-:*:*:*:*:*:*:*,Honeywell MPNVRSWXX,"['CVE-2020-6959', 'CVE-2020-6960']",2022-03-21T11:44Z
+2,cpe:2.3:o:honeywell:mpnvrswxx_firmware:5.6:*:*:*:*:*:*:*,Honeywell MPNVRSWXX Firmware 5.6,"['CVE-2020-6959', 'CVE-2020-6960']",2022-03-21T11:44Z
+3,cpe:2.3:a:honeywell:notifier_webserver:3.50:*:*:*:*:*:*:*,Honeywell Notifier WebServer 3.50,"['CVE-2020-6972', 'CVE-2020-6974']",2022-03-21T11:44Z
+4,cpe:2.3:a:honeywell:notifier_webserver:4.30:*:*:*:*:*:*:*,Honeywell Notifier WebServer 4.30,[''],2022-03-21T11:44Z
+5,cpe:2.3:a:honeywell:opc_ua_tunneller:-:*:*:*:*:*:*:*,Honeywell OPC UA Tunneller,"['CVE-2020-27274', 'CVE-2020-27295', 'CVE-2020-27297', 'CVE-2020-27299']",2022-03-21T11:44Z
+6,cpe:2.3:a:honeywell:opc_ua_tunneller:6.3.0.8233:*:*:*:*:*:*:*,Honeywell OPC UA Tunneller 6.3.0.8233,[''],2022-03-21T11:44Z
+7,cpe:2.3:a:honeywell:symmetre:r310:*:*:*:*:*:*:*,Honeywell SymmetrE R310,['CVE-2013-0108'],2022-03-21T11:44Z
+8,cpe:2.3:a:honeywell:symmetre:r400.2:*:*:*:*:*:*:*,Honeywell SymmetrE R400.2,['CVE-2013-0108'],2022-03-21T11:44Z
+9,cpe:2.3:a:honeywell:symmetre:r410.1:*:*:*:*:*:*:*,Honeywell SymmetrE R410.1,"['CVE-2012-0254', 'CVE-2013-0108']",2022-03-21T11:44Z

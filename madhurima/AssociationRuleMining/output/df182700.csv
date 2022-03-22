@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,cpe:2.3:h:depstech:wifi_digital_microscope_3:-:*:*:*:*:*:*:*,Depstech WiFi Digital Microscope 3,"['CVE-2020-12732', 'CVE-2020-12733', 'CVE-2020-12734']",2022-03-20T13:33Z
+6,cpe:2.3:o:depstech:wifi_digital_microscope_3_firmware:-:*:*:*:*:*:*:*,Depstech WiFi Digital Microscope 3 Firmware,"['CVE-2020-12732', 'CVE-2020-12733', 'CVE-2020-12734']",2022-03-20T13:33Z
+7,cpe:2.3:a:derhansen:event_management_and_registration:0.5.0:*:*:*:*:typo3:*:*,Derhansen Event Management and Registration 0.5.0 for TYPO3,['CVE-2020-25026'],2022-03-20T13:33Z
+8,cpe:2.3:a:derhansen:event_management_and_registration:0.5.1:*:*:*:*:typo3:*:*,Derhansen Event Management and Registration 0.5.1 for TYPO3,['CVE-2020-25026'],2022-03-20T13:33Z
+9,cpe:2.3:a:derhansen:event_management_and_registration:0.5.2:*:*:*:*:typo3:*:*,Derhansen Event Management and Registration 0.5.2 for TYPO3,['CVE-2020-25026'],2022-03-20T13:33Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:y9_firmware:9.1.0.131\(c432e6r1p5t8\):*:*:*:*:*:*:*,Huawei Y9 Firmware 9.1.0.131(C432E6R1P5T8),[''],2022-03-21T19:11Z
+1,cpe:2.3:h:huawei:yale-al00a:-:*:*:*:*:*:*:*,Huawei Yale-AL00A,"['CVE-2019-9506', 'CVE-2020-9235']",2022-03-21T19:11Z
+2,cpe:2.3:o:huawei:yale-al00a_firmware:-:*:*:*:*:*:*:*,Huawei YALE-AL00A FIRMWARE,"['CVE-2019-9506', 'CVE-2020-9235']",2022-03-21T19:11Z
+3,cpe:2.3:o:huawei:yale-al00a_firmware:10.1.0.160\(c00e160r8p12\):*:*:*:*:*:*:*,Huawei Yale-AL00A Firmware 10.1.0.160(C00E160R8P12),[''],2022-03-21T19:11Z
+4,cpe:2.3:h:huawei:yale-al50a:-:*:*:*:*:*:*:*,Huawei YALE-AL50A,['CVE-2019-9506'],2022-03-21T19:11Z
+5,cpe:2.3:o:huawei:yale-al50a_firmware:-:*:*:*:*:*:*:*,Huawei YALE-AL50A FIRMWARE,['CVE-2019-9506'],2022-03-21T19:11Z
+6,cpe:2.3:h:huawei:yale-l21a:-:*:*:*:*:*:*:*,Huawei Yale-L21A,"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506', 'CVE-2020-9223', 'CVE-2020-9235']",2022-03-21T19:11Z
+7,cpe:2.3:o:huawei:yale-l21a_firmware:-:*:*:*:*:*:*:*,Huawei YALE-L21A FIRMWARE,"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506', 'CVE-2020-9223', 'CVE-2020-9235']",2022-03-21T19:12Z
+8,cpe:2.3:o:huawei:yale-l21a_firmware:9.1.0.154\(c432e2r3p2\):*:*:*:*:*:*:*,Huawei Yale-L21A Firmware 9.1.0.154(C432E2R3P2),"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2020-9223', 'CVE-2020-9235']",2022-03-21T19:12Z
+9,cpe:2.3:o:huawei:yale-l21a_firmware:9.1.0.154\(c461e2r2p1\):*:*:*:*:*:*:*,Huawei Yale-L21A Firmware 9.1.0.154(C461E2R2P1),"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2020-9223', 'CVE-2020-9235']",2022-03-21T19:12Z

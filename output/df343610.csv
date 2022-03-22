@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:infosphere_guardium:8.01:*:*:*:*:*:*:*,IBM Infosphere Guardium 8.01,"['CVE-2012-3309', 'CVE-2012-3312', 'CVE-2012-3336', 'CVE-2012-3337', 'CVE-2012-3338']",2022-03-21T20:48Z
+1,cpe:2.3:a:ibm:infosphere_guardium:8.2:*:*:*:*:*:*:*,IBM Infosphere Guardium 8.2,"['CVE-2012-3309', 'CVE-2012-3312', 'CVE-2012-3336', 'CVE-2012-3337', 'CVE-2012-3338', 'CVE-2012-3340', 'CVE-2012-3341']",2022-03-21T20:48Z
+2,cpe:2.3:a:ibm:infosphere_guardium:8.2.0:*:*:*:*:*:*:*,IBM InfoSphere Guardium 8.2.0,['CVE-2012-2204'],2022-03-21T20:48Z
+3,cpe:2.3:a:ibm:infosphere_guardium:8.20:*:*:*:*:*:*:*,IBM Infosphere Guardium 8.20,[''],2022-03-21T20:48Z
+4,cpe:2.3:a:ibm:infosphere_guardium_activity_monitor:10.6:*:*:*:*:*:*:*,IBM Infosphere Guardium Activity Monitor 10.6,['CVE-2020-4173'],2022-03-21T20:48Z
+5,cpe:2.3:a:ibm:infosphere_guardium_activity_monitor:11.0:*:*:*:*:*:*:*,IBM Infosphere Guardium Activity Monitor 11.0,['CVE-2020-4173'],2022-03-21T20:48Z
+6,cpe:2.3:a:ibm:infosphere_identity_insight:8.1:*:*:*:*:*:*:*,IBM InfoSphere Identity Insight 8.1,['CVE-2019-4433'],2022-03-21T20:48Z
+7,cpe:2.3:a:ibm:infosphere_identity_insight:9.0:*:*:*:*:*:*:*,IBM InfoSphere Identity Insight 9.0,['CVE-2019-4433'],2022-03-21T20:48Z
+8,cpe:2.3:a:ibm:infosphere_import_export_manager:8.1:*:*:*:*:*:*:*,IBM InfoSphere Import Export Manager 8.1,['CVE-2012-0204'],2022-03-21T20:48Z
+9,cpe:2.3:a:ibm:infosphere_import_export_manager:8.1.1:*:*:*:*:*:*:*,IBM InfoSphere Import Export Manager 8.1.1,['CVE-2012-0204'],2022-03-21T20:48Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:designchemical:social_network_tabs:1.6.0.1:*:*:*:*:wordpress:*:*,Design Chemical Social Network Tabs 1.6.0.1 for WordPress,[''],2022-03-20T13:35Z
+1,cpe:2.3:a:designchemical:social_network_tabs:1.6.0.2:*:*:*:*:wordpress:*:*,Design Chemical Social Network Tabs 1.6.0.2 for WordPress,[''],2022-03-20T13:35Z
+2,cpe:2.3:a:designchemical:social_network_tabs:1.6.1:*:*:*:*:wordpress:*:*,Design Chemical Social Network Tabs 1.6.1 for WordPress,[''],2022-03-20T13:35Z
+3,cpe:2.3:a:designchemical:social_network_tabs:1.7:*:*:*:*:wordpress:*:*,Design Chemical Social Network Tabs 1.7 for WordPress,[''],2022-03-20T13:35Z
+4,cpe:2.3:a:designchemical:social_network_tabs:1.7.1:*:*:*:*:wordpress:*:*,Design Chemical Social Network Tabs 1.7.1 for WordPress,['CVE-2018-20555'],2022-03-20T13:35Z
+5,cpe:2.3:a:designmasterevents:conference_management:1.0.0:*:*:*:*:*:*:*,Designmasterevents Conference Management 1.0.0,['CVE-2020-23980'],2022-03-20T13:35Z
+6,cpe:2.3:a:designmasterevents:conference_management_cms:1.0.0:*:*:*:*:*:*:*,DesignMasterEvents Conference Management CMS 1.0.0,['CVE-2020-23982'],2022-03-20T13:35Z
+7,cpe:2.3:a:designmodo:qards:-:*:*:*:*:wordpress:*:*,Designmodo Qards for WordPress,['CVE-2017-18598'],2022-03-20T13:35Z
+8,cpe:2.3:a:designmodo:qards:-:*:*:*:*:wordpress:*:*,Designmodo Qards for WordPress,['CVE-2017-18598'],2022-03-20T13:35Z
+9,cpe:2.3:a:designmodo:qards:1.0:*:*:*:*:wordpress:*:*,Designmodo Qards 1.0 for WordPress,['CVE-2017-18598'],2022-03-20T13:35Z

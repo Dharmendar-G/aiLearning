@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:dpc3212:-:*:*:*:*:*:*:*,Cisco DPC3212 VoIP Cable Modem,['CVE-2014-3306'],2022-03-19T19:20Z
+1,cpe:2.3:h:cisco:dpc3825:-:*:*:*:*:*:*:*,Cisco DPC3825 8x4 DOCSIS 3.0 Wireless Residential Gateway,['CVE-2014-3306'],2022-03-19T19:20Z
+2,cpe:2.3:h:cisco:dpc3925:-:*:*:*:*:*:*:*,Cisco Model DPC3925 8x4 DOCSIS 3.0 with Wireless Residential Gateway with EDVA,['CVE-2014-3306'],2022-03-19T19:20Z
+3,cpe:2.3:h:cisco:dpc3928ad_docsis_wireless_router:-:*:*:*:*:*:*:*,Cisco DPC3928AD DOCSIS Wireless Router,['CVE-2017-11502'],2022-03-19T19:20Z
+4,cpe:2.3:o:cisco:dpc3928ad_docsis_wireless_router_firmware:-:*:*:*:*:*:*:*,Cisco DPC3928AD DOCSIS Wireless Router Firmware,['CVE-2017-11502'],2022-03-19T19:20Z
+5,cpe:2.3:h:cisco:dpc3939:-:*:*:*:*:*:*:*,Cisco DPC3939,"['CVE-2017-9476', 'CVE-2017-9477', 'CVE-2017-9478', 'CVE-2017-9479', 'CVE-2017-9480', 'CVE-2017-9481', 'CVE-2017-9482', 'CVE-2017-9483', 'CVE-2017-9484', 'CVE-2017-9485', 'CVE-2017-9486', 'CVE-2017-9487', 'CVE-2017-9488', 'CVE-2017-9491', 'CVE-2017-9492', 'CVE-2017-9521']",2022-03-19T19:20Z
+6,cpe:2.3:o:cisco:dpc3939_firmware:dpc3939-p20-18-v303r20421733-160420a-cmcst:*:*:*:*:*:*:*,Cisco DPC3939 Firmware DPC3939-P20-18-V303R20421733-160420A-CMCST,"['CVE-2017-9476', 'CVE-2017-9477', 'CVE-2017-9478', 'CVE-2017-9484', 'CVE-2017-9491', 'CVE-2017-9492', 'CVE-2017-9521']",2022-03-19T19:20Z
+7,cpe:2.3:o:cisco:dpc3939_firmware:dpc3939-p20-18-v303r20421746-170221a-cmcst:*:*:*:*:*:*:*,Cisco DPC3939 Firmware DPC3939-P20-18-v303r20421746-170221a-CMCST,"['CVE-2017-9476', 'CVE-2017-9477', 'CVE-2017-9478', 'CVE-2017-9479', 'CVE-2017-9480', 'CVE-2017-9481', 'CVE-2017-9482', 'CVE-2017-9483', 'CVE-2017-9484', 'CVE-2017-9485', 'CVE-2017-9486', 'CVE-2017-9487', 'CVE-2017-9488', 'CVE-2017-9491', 'CVE-2017-9492', 'CVE-2017-9521']",2022-03-19T19:21Z
+8,cpe:2.3:h:cisco:dpc3939_wireless_residential_voice_gateway:-:*:*:*:*:*:*:*,Cisco DPC3939 Wireless Residential Voice Gateway,"['CVE-2015-6361', 'CVE-2016-1325']",2022-03-19T19:20Z
+9,cpe:2.3:o:cisco:dpc3939_wireless_residential_voice_gateway_firmware:121109acmcst_base:*:*:*:*:*:*:*,Cisco DPC3939 Wireless Residential Voice Gateway Firmware 121109ACMCST BASE,['CVE-2015-6361'],2022-03-19T19:21Z

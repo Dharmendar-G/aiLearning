@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:commsy:commsy:9.1.2:*:*:*:*:*:*:*,Commsy 9.1.2,[''],2022-03-20T06:54Z
+1,cpe:2.3:a:commsy:commsy:9.2.0:*:*:*:*:*:*:*,Commsy 9.2.0,[''],2022-03-20T06:54Z
+2,cpe:2.3:a:communigate:communigate_pro:2.6:*:*:*:*:*:*:*,CommuniGate Pro 2.6,['CVE-2017-16962'],2022-03-20T06:54Z
+3,cpe:2.3:a:communigate:communigate_pro:2.7:*:*:*:*:*:*:*,CommuniGate Pro 2.7,['CVE-2017-16962'],2022-03-20T06:54Z
+4,cpe:2.3:a:communigate:communigate_pro:2.8:*:*:*:*:*:*:*,CommuniGate Pro 2.8,['CVE-2017-16962'],2022-03-20T06:54Z
+5,cpe:2.3:a:communigate:communigate_pro:2.9:*:*:*:*:*:*:*,CommuniGate Pro 2.9,['CVE-2017-16962'],2022-03-20T06:54Z
+6,cpe:2.3:a:communigate:communigate_pro:2.9.1:*:*:*:*:*:*:*,CommuniGate Pro 2.9.1,['CVE-2017-16962'],2022-03-20T06:54Z
+7,cpe:2.3:a:communigate:communigate_pro:3.0:*:*:*:*:*:*:*,CommuniGate Pro 3.0,['CVE-2017-16962'],2022-03-20T06:54Z
+8,cpe:2.3:a:communigate:communigate_pro:3.0.1:*:*:*:*:*:*:*,CommuniGate Pro 3.0.1,['CVE-2017-16962'],2022-03-20T06:54Z
+9,cpe:2.3:a:communigate:communigate_pro:3.1:*:*:*:*:*:*:*,CommuniGate Pro 3.1,['CVE-2017-16962'],2022-03-20T06:54Z

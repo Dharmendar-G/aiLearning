@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:acronis:backup_\&_recovery_tray_monitor:10.0.11639:*:*:*:*:*:*:*,Acronis Backup & Recovery Tray Monitor 10.0.11639,[''],2022-03-18T11:06Z
+1,cpe:2.3:a:acronis:backup_\&_recovery_tray_monitor:11.0.17318:*:*:*:*:*:*:*,Acronis Backup & Recovery Tray Monitor 11.0.17318,[''],2022-03-18T11:06Z
+2,cpe:2.3:a:acronis:backup_\&_recovery_universal_restore:10.0.13545:*:*:*:*:*:*:*,Acronis Backup & Recovery Universal Restore 10.0.13545,[''],2022-03-18T11:06Z
+3,cpe:2.3:a:acronis:backup_\&_recovery_universal_restore:10.0.13762:*:*:*:*:*:*:*,Acronis Backup & Recovery Universal Restore 10.0.13762,[''],2022-03-18T11:06Z
+4,cpe:2.3:a:acronis:backup_\&_recovery_universal_restore:11.0.17217:*:*:*:*:*:*:*,Acronis Backup & Recovery Universal Restore 11.0.17217,[''],2022-03-18T11:06Z
+5,cpe:2.3:a:acronis:backup_\&_recovery_universal_restore:11.0.17318:*:*:*:*:*:*:*,Acronis Backup & Recovery Universal Restore 11.0.17318,[''],2022-03-18T11:06Z
+6,cpe:2.3:a:acronis:backup_\&_recovery_upgrade_tool:10.0.11639:*:*:*:*:*:*:*,Acronis Backup & Recovery Upgrade Tool 10.0.11639,[''],2022-03-18T11:06Z
+7,cpe:2.3:a:acronis:components_for_remote_installation:11.0.17318:*:*:*:*:*:*:*,Acronis Components For Remote Installation 11.0.17318,[''],2022-03-18T11:06Z
+8,cpe:2.3:a:acronis:cyber_backup:12.5:-:*:*:*:*:*:*,Acronis Cyber Backup 12.5,['CVE-2020-16171'],2022-03-18T11:06Z
+9,cpe:2.3:a:acronis:cyber_backup:12.5:10130:*:*:*:*:*:*,Acronis Cyber Backup 12.5 10130,['CVE-2020-16171'],2022-03-18T11:06Z

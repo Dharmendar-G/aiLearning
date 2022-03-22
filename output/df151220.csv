@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:a:codecabin:wp_google_maps:-:*:*:*:free:wordpress:*:*,CodeCabin WP Google Maps Free Edition for WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36870']",2022-03-20T04:59Z
+2,cpe:2.3:a:codecabin:wp_google_maps:-:*:*:*:pro:wordpress:*:*,CodeCabin WP Google Maps Pro Edition WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36871']",2022-03-20T04:59Z
+3,cpe:2.3:a:codecabin:wp_google_maps:2.1:*:*:*:pro:wordpress:*:*,CodeCabin WP Google Maps 2.1 Pro Edition WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36871']",2022-03-20T04:59Z
+4,cpe:2.3:a:codecabin:wp_google_maps:3.0:*:*:*:pro:wordpress:*:*,CodeCabin WP Google Maps 3.0 Pro Edition WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36871']",2022-03-20T04:59Z
+5,cpe:2.3:a:codecabin:wp_google_maps:3.1:*:*:*:pro:wordpress:*:*,CodeCabin WP Google Maps 3.1 Pro Edition WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36871']",2022-03-20T04:59Z
+6,cpe:2.3:a:codecabin:wp_google_maps:3.2:*:*:*:pro:wordpress:*:*,CodeCabin WP Google Maps 3.2 Pro Edition WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36871']",2022-03-20T04:59Z
+7,cpe:2.3:a:codecabin:wp_google_maps:3.3:*:*:*:pro:wordpress:*:*,CodeCabin WP Google Maps 3.3 Pro Edition WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36871']",2022-03-20T04:59Z
+8,cpe:2.3:a:codecabin:wp_google_maps:3.4:*:*:*:pro:wordpress:*:*,CodeCabin WP Google Maps 3.4 Pro Edition WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36871']",2022-03-20T04:59Z
+9,cpe:2.3:a:codecabin:wp_google_maps:3.5:*:*:*:pro:wordpress:*:*,CodeCabin WP Google Maps 3.5 Pro Edition WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36871']",2022-03-20T04:59Z

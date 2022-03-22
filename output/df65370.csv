@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:awful-salmonella-tar_project:awful-salmonella-tar:0.0.3:*:*:*:*:*:*:*,awful-salmonella-tar Project awful-salmonella-tar 0.0.3,['CVE-2022-25358'],2022-03-19T04:33Z
+1,cpe:2.3:a:awful-salmonella-tar_project:awful-salmonella-tar:0.0.4:*:*:*:*:*:*:*,awful-salmonella-tar Project awful-salmonella-tar 0.0.4,[''],2022-03-19T04:33Z
+2,cpe:2.3:a:awpcp:another_wordpress_classifieds_plugin:3.3.1:*:*:*:*:wordpress:*:*,AWPCP Another WordPress Classifieds Plugin for WordPress 3.3.1,"['CVE-2014-10012', 'CVE-2014-10013']",2022-03-19T04:34Z
+3,cpe:2.3:a:awplife:contact_form_widget:1.0.7:*:*:*:*:wordpress:*:*,Awplife Contact Form Widget 1.0.7 for WordPress,[''],2022-03-19T04:34Z
+4,cpe:2.3:a:awplife:contact_form_widget:1.0.8:*:*:*:*:wordpress:*:*,Awplife Contact Form Widget 1.0.8 for WordPress,[''],2022-03-19T04:34Z
+5,cpe:2.3:a:awplife:contact_form_widget:1.0.9:*:*:*:*:wordpress:*:*,AWPLIFE Contact Form Widget 1.0.9 for WordPress,['CVE-2019-17072'],2022-03-19T04:34Z
+6,cpe:2.3:a:awplife:contact_form_widget:1.0.10:*:*:*:*:wordpress:*:*,Awplife Contact Form Widget 1.0.10 for WordPress,[''],2022-03-19T04:34Z
+7,cpe:2.3:a:awplife:grid_gallery:0.0.1:*:*:*:*:wordpress:*:*,A WP Life Grid Gallery 0.0.1 for WordPress,['CVE-2021-24529'],2022-03-19T04:34Z
+8,cpe:2.3:a:awplife:grid_gallery:0.0.2:*:*:*:*:wordpress:*:*,A WP Life Grid Gallery 0.0.2 for WordPress,['CVE-2021-24529'],2022-03-19T04:34Z
+9,cpe:2.3:a:awplife:grid_gallery:0.0.3:*:*:*:*:wordpress:*:*,A WP Life Grid Gallery 0.0.3 for WordPress,['CVE-2021-24529'],2022-03-19T04:34Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:hp_14-g000_firmware:f.45:*:*:*:*:*:*:*,HP Hp 14-g000 Firmware F.45,[''],2022-03-21T13:32Z
+1,cpe:2.3:h:hp:hp_14-r000:-:*:*:*:*:*:*:*,HP HP 14-R000,['CVE-2017-2751'],2022-03-21T13:32Z
+2,cpe:2.3:o:hp:hp_14-r000_firmware:f.43:*:*:*:*:*:*:*,HP Hp 14-r000 Firmware F.43,[''],2022-03-21T13:32Z
+3,cpe:2.3:h:hp:hp_15-r000:-:*:*:*:*:*:*:*,HP HP 15-R000,['CVE-2017-2751'],2022-03-21T13:32Z
+4,cpe:2.3:o:hp:hp_15-r000_firmware:f.43:*:*:*:*:*:*:*,HP Hp 15-r000 Firmware F.43,[''],2022-03-21T13:33Z
+5,cpe:2.3:h:hp:hp_15-r500:-:*:*:*:*:*:*:*,HP HP 15-R500,['CVE-2017-2751'],2022-03-21T13:33Z
+6,cpe:2.3:h:hp:hp_240_g1:-:*:*:*:*:*:*:*,HP HP 240 G1,['CVE-2017-2751'],2022-03-21T13:33Z
+7,cpe:2.3:o:hp:hp_240_g1_firmware:f.48:*:*:*:*:*:*:*,HP Hp 240 G1 Firmware F.48,[''],2022-03-21T13:33Z
+8,cpe:2.3:h:hp:hp_240_g3:-:*:*:*:*:*:*:*,HP HP 240 G3,['CVE-2017-2751'],2022-03-21T13:33Z
+9,cpe:2.3:o:hp:hp_240_g3_firmware:f.43:*:*:*:*:*:*:*,HP Hp 240 G3 Firmware F.43,[''],2022-03-21T13:33Z

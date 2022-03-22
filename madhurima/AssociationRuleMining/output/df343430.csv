@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:ibm_db:2.6.0:*:*:*:*:node.js:*:*,IBM ibm_db 2.6.0 for Node.js,[''],2022-03-21T20:45Z
+1,cpe:2.3:a:ibm:ibm_db:2.6.1:*:*:*:*:node.js:*:*,IBM ibm_db 2.6.1 for Node.js,[''],2022-03-21T20:45Z
+2,cpe:2.3:a:ibm:ibm_db:2.6.2:*:*:*:*:node.js:*:*,IBM ibm_db 2.6.2 for Node.js,[''],2022-03-21T20:45Z
+3,cpe:2.3:a:ibm:ibmhsssb:-:*:*:*:*:*:*:*,IBM IBMHSSSB,[''],2022-03-21T20:45Z
+4,cpe:2.3:a:ibm:ics_viewer:6.0:*:*:*:*:*:*:*,IBM Ics Viewer 6.0,[''],2022-03-21T20:45Z
+5,cpe:2.3:h:ibm:idataplex_dx360_m4_:-:*:*:*:*:*:*:*,IBM Idataplex Dx360 M4 -,['CVE-2018-9085'],2022-03-21T20:45Z
+6,cpe:2.3:o:ibm:idataplex_dx360_m4_firmware:-:*:*:*:*:*:*:*,IBM Idataplex Dx360 M4 Firmware,"['CVE-2017-3768', 'CVE-2018-9068', 'CVE-2018-9085', 'CVE-2019-6157']",2022-03-21T20:45Z
+7,cpe:2.3:o:ibm:idataplex_dx360_m4_firmware:6.4:*:*:*:*:*:*:*,IBM iDataPlex dx360 M4 Firmware 6.4,"['CVE-2018-9068', 'CVE-2018-9085', 'CVE-2019-6157']",2022-03-21T20:45Z
+8,cpe:2.3:o:ibm:idataplex_dx360_m4_firmware:6.80:*:*:*:*:*:*:*,IBM Idataplex Dx360 M4 Firmware 6.80,"['CVE-2018-9085', 'CVE-2019-6157']",2022-03-21T20:45Z
+9,cpe:2.3:o:ibm:idataplex_dx360_m4_firmware:7.20:*:*:*:*:*:*:*,IBM iDataPlex DX360 M4 Firmware 7.20,['CVE-2018-9085'],2022-03-21T20:45Z

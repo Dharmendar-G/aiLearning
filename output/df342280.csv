@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:doors_next_generation:5.0:*:*:*:*:*:*:*,IBM DOORS Next Generation 5.0,"['CVE-2018-1731', 'CVE-2018-1913']",2022-03-21T20:26Z
+1,cpe:2.3:a:ibm:doors_next_generation:5.0.3:*:*:*:*:*:*:*,IBM DOORS Next Generation 5.0.3,[''],2022-03-21T20:26Z
+2,cpe:2.3:a:ibm:doors_next_generation:6.0:*:*:*:*:*:*:*,IBM DOORS Next Generation 6.0,"['CVE-2018-1731', 'CVE-2018-1913']",2022-03-21T20:26Z
+3,cpe:2.3:a:ibm:doors_next_generation:6.0.2:*:*:*:*:*:*:*,IBM DOORS Next Generation 6.0.2,"['CVE-2018-1731', 'CVE-2018-1913', 'CVE-2019-4737', 'CVE-2019-4740', 'CVE-2019-4746', 'CVE-2020-4252']",2022-03-21T20:26Z
+4,cpe:2.3:a:ibm:doors_next_generation:6.0.6:*:*:*:*:*:*:*,IBM DOORS Next Generation 6.0.6,"['CVE-2018-1913', 'CVE-2019-4737', 'CVE-2019-4740', 'CVE-2019-4746', 'CVE-2020-4252']",2022-03-21T20:26Z
+5,cpe:2.3:a:ibm:doors_next_generation:6.0.6.1:*:*:*:*:*:*:*,IBM DOORS Next Generation 6.0.6.1,"['CVE-2019-4737', 'CVE-2019-4740', 'CVE-2019-4746', 'CVE-2020-4252']",2022-03-21T20:26Z
+6,cpe:2.3:a:ibm:ds_storage_manager_host_software:10.8:*:*:*:*:*:*:*,IBM Ds Storage Manager Host Software 10.8,"['CVE-2012-2171', 'CVE-2012-2172']",2022-03-21T20:26Z
+7,cpe:2.3:a:ibm:ds_storage_manager_host_software:10.60.x5.14:*:*:*:*:*:*:*,IBM Ds Storage Manager Host Software 10.60.x5.14,"['CVE-2012-2171', 'CVE-2012-2172']",2022-03-21T20:26Z
+8,cpe:2.3:a:ibm:ds_storage_manager_host_software:10.83:*:*:*:*:*:*:*,IBM Ds Storage Manager Host Software 10.83,"['CVE-2012-2171', 'CVE-2012-2172']",2022-03-21T20:26Z
+9,cpe:2.3:a:ibm:ds_storage_manager_host_software:10.83.05.18:*:*:*:*:*:*:*,IBM Ds Storage Manager Host Software 10.83.05.18,[''],2022-03-21T20:26Z

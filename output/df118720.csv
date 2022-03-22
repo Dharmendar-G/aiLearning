@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:expressway:x8.9.1:*:*:*:*:*:*:*,Cisco Expressway X8.9.1,"['CVE-2017-12287', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34716']",2022-03-19T19:31Z
+1,cpe:2.3:a:cisco:expressway:x8.9.2:*:*:*:*:*:*:*,Cisco Expressway X8.9.2,"['CVE-2017-12287', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34716']",2022-03-19T19:31Z
+2,cpe:2.3:a:cisco:expressway:x8.10:*:*:*:*:*:*:*,Cisco Expressway X8.10,"['CVE-2017-12287', 'CVE-2018-5390', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34716']",2022-03-19T19:31Z
+3,cpe:2.3:a:cisco:expressway:x8.10.1:*:*:*:*:*:*:*,Cisco Expressway X8.10.1,"['CVE-2017-12287', 'CVE-2018-5390', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34716']",2022-03-19T19:31Z
+4,cpe:2.3:a:cisco:expressway:x8.10.2:*:*:*:*:*:*:*,Cisco Expressway X8.10.2,"['CVE-2017-12287', 'CVE-2018-5390', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34716']",2022-03-19T19:31Z
+5,cpe:2.3:a:cisco:expressway:x8.10.3:*:*:*:*:*:*:*,Cisco Expressway X8.10.3,"['CVE-2017-12287', 'CVE-2018-5390', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34716']",2022-03-19T19:31Z
+6,cpe:2.3:a:cisco:expressway:x8.10.4:*:*:*:*:*:*:*,Cisco Expressway X8.10.4,"['CVE-2017-12287', 'CVE-2018-5390', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34716']",2022-03-19T19:31Z
+7,cpe:2.3:a:cisco:expressway:x8.11:*:*:*:*:*:*:*,Cisco Expressway X8.11 ,"['CVE-2017-12287', 'CVE-2018-5390', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34716']",2022-03-19T19:31Z
+8,cpe:2.3:a:cisco:expressway:x8.11.4:*:*:*:*:*:*:*,Cisco Expressway X8.11.4,"['CVE-2017-12287', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34716']",2022-03-19T19:31Z
+9,cpe:2.3:a:cisco:expressway:x12.5:*:*:*:*:*:*:*,Cisco Expressway X12.5,"['CVE-2017-12287', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34716']",2022-03-19T19:31Z

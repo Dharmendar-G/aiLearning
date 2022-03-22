@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:indesign:14.0.1:*:*:*:*:*:*:*,Adobe InDesign 14.0.1,"['CVE-2019-7107', 'CVE-2020-24421', 'CVE-2020-9727', 'CVE-2020-9728', 'CVE-2020-9729', 'CVE-2020-9730', 'CVE-2020-9731', 'CVE-2021-21098', 'CVE-2021-21099', 'CVE-2021-36004', 'CVE-2021-39821', 'CVE-2021-42731', 'CVE-2021-45057', 'CVE-2021-45058', 'CVE-2021-45059']",2022-03-18T12:44Z
+1,cpe:2.3:a:adobe:indesign:15.1.1:*:*:*:*:*:*:*,Adobe InDesign 15.1.1,"['CVE-2020-24421', 'CVE-2020-9727', 'CVE-2020-9728', 'CVE-2020-9729', 'CVE-2020-9730', 'CVE-2020-9731', 'CVE-2021-21098', 'CVE-2021-21099', 'CVE-2021-36004', 'CVE-2021-39821', 'CVE-2021-42731', 'CVE-2021-45057', 'CVE-2021-45058', 'CVE-2021-45059']",2022-03-18T12:44Z
+2,cpe:2.3:a:adobe:indesign:15.1.2:*:*:*:*:*:*:*,Adobe InDesign 15.1.2,"['CVE-2020-24421', 'CVE-2021-21098', 'CVE-2021-21099', 'CVE-2021-36004', 'CVE-2021-39821', 'CVE-2021-42731', 'CVE-2021-45057', 'CVE-2021-45058', 'CVE-2021-45059']",2022-03-18T12:44Z
+3,cpe:2.3:a:adobe:indesign:16.0:*:*:*:*:*:*:*,Adobe InDesign 16.0,"['CVE-2021-21098', 'CVE-2021-21099', 'CVE-2021-36004', 'CVE-2021-39821', 'CVE-2021-42731', 'CVE-2021-45057', 'CVE-2021-45058', 'CVE-2021-45059']",2022-03-18T12:44Z
+4,cpe:2.3:a:adobe:indesign:16.4:*:*:*:*:*:*:*,Adobe InDesign 16.4,"['CVE-2021-42731', 'CVE-2021-45057', 'CVE-2021-45058', 'CVE-2021-45059']",2022-03-18T12:44Z
+5,cpe:2.3:a:adobe:indesign_cs3_icon_handler:5.0:*:*:*:*:*:*:*,Adobe Indesign CS3 Icon Handler 5.0,[''],2022-03-18T12:44Z
+6,cpe:2.3:a:adobe:indesign_cs4_application_feature_set_files:6.0:*:*:*:*:*:*:*,Adobe Indesign CS4 Application Feature Set Files 6.0,[''],2022-03-18T12:44Z
+7,cpe:2.3:a:adobe:indesign_cs4_common_base_files:6.0:*:*:*:*:*:*:*,Adobe Indesign CS4 Common Base Files 6.0,[''],2022-03-18T12:44Z
+8,cpe:2.3:a:adobe:indesign_cs4_icon_handler:6.0:*:*:*:*:*:*:*,Adobe Indesign CS4 Icon Handler 6.0,[''],2022-03-18T12:44Z
+9,cpe:2.3:a:adobe:indesign_cs4_icon_handler:6.0:*:*:*:*:*:x64:*,Adobe Indesign CS4 Icon Handler 6.0 (x64) 64-bit,[''],2022-03-18T12:44Z

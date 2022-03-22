@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hcltech:domino:9.0.1:-:*:*:*:*:*:*,HCL Technologies Domino 9.0.1,"['CVE-2020-14230', 'CVE-2020-14234', 'CVE-2020-14244', 'CVE-2020-14260', 'CVE-2020-14270', 'CVE-2020-4128']",2022-03-21T10:26Z
+1,cpe:2.3:a:hcltech:domino:9.0.1:feature_pack_10_interim_fix_3:*:*:*:*:*:*,HCL Technologies Domino 9.0.1 Feature Pack 10 Interim Fix 3,"['CVE-2020-14230', 'CVE-2020-14234', 'CVE-2020-14244', 'CVE-2020-14260', 'CVE-2020-14270', 'CVE-2020-4128']",2022-03-21T10:26Z
+2,cpe:2.3:a:hcltech:domino:9.0.1:feature_pack_10_interim_fix_4:*:*:*:*:*:*,HCL Technologies Domino 9.0.1 Feature Pack 10 Interim Fix 4,"['CVE-2020-14230', 'CVE-2020-14234', 'CVE-2020-14244', 'CVE-2020-14260', 'CVE-2020-14270', 'CVE-2020-4128']",2022-03-21T10:26Z
+3,cpe:2.3:a:hcltech:domino:9.0.1:feature_pack_10_interim_fix_5:*:*:*:*:*:*,Hcltech Domino 9.0.1 Feature Pack 10 Interim Fix 5,"['CVE-2020-14234', 'CVE-2020-14244', 'CVE-2020-14260', 'CVE-2020-14270', 'CVE-2020-4128']",2022-03-21T10:26Z
+4,cpe:2.3:a:hcltech:domino:9.0.1:feature_pack_8:*:*:*:*:*:*,HCL Technologies Domino 9.0.1 Feature Pack 8,"['CVE-2020-14230', 'CVE-2020-14234', 'CVE-2020-14244', 'CVE-2020-14260', 'CVE-2020-14270', 'CVE-2020-4128']",2022-03-21T10:26Z
+5,cpe:2.3:a:hcltech:domino:9.0.1:feature_pack_8_interim_fix_1:*:*:*:*:*:*,HCL Technologies Domino 9.0.1 Feature Pack 8 Interim Fix 1,"['CVE-2020-14230', 'CVE-2020-14234', 'CVE-2020-14244', 'CVE-2020-14260', 'CVE-2020-14270', 'CVE-2020-4128']",2022-03-21T10:26Z
+6,cpe:2.3:a:hcltech:domino:9.0.1:feature_pack_8_interim_fix_2:*:*:*:*:*:*,HCL Technologies Domino 9.0.1 Feature Pack 8 Interim Fix 2,"['CVE-2020-14230', 'CVE-2020-14234', 'CVE-2020-14244', 'CVE-2020-14260', 'CVE-2020-14270', 'CVE-2020-4128']",2022-03-21T10:26Z
+7,cpe:2.3:a:hcltech:domino:9.0.1:feature_pack_8_interim_fix_3:*:*:*:*:*:*,HCL Technologies Domino 9.0.1 Feature Pack 8 Interim Fix 3,"['CVE-2020-14230', 'CVE-2020-14234', 'CVE-2020-14244', 'CVE-2020-14260', 'CVE-2020-14270', 'CVE-2020-4128']",2022-03-21T10:26Z
+8,cpe:2.3:a:hcltech:domino:10.0:*:*:*:*:*:*:*,Hcltech Domino 10.0,"['CVE-2020-14244', 'CVE-2020-14270']",2022-03-21T10:26Z
+9,cpe:2.3:a:hcltech:domino:10.0.0:*:*:*:*:*:*:*,HCLTech Domino 10.0.0,"['CVE-2020-14230', 'CVE-2020-14234', 'CVE-2020-14244', 'CVE-2020-14260', 'CVE-2020-14270', 'CVE-2020-4080', 'CVE-2020-4128']",2022-03-21T10:26Z

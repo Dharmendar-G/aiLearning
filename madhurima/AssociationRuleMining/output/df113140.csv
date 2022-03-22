@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:829:-:*:*:*:*:*:*:*,Cisco 829,"['CVE-2020-3198', 'CVE-2020-3199', 'CVE-2020-3205', 'CVE-2020-3208', 'CVE-2020-3210', 'CVE-2020-3234']",2022-03-19T17:48Z
+1,cpe:2.3:h:cisco:829_industrial_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 829 Industrial Integrated Services Router,"['CVE-2018-0163', 'CVE-2020-3426', 'CVE-2021-1460']",2022-03-19T17:48Z
+2,cpe:2.3:h:cisco:8400_ip_camera:-:*:*:*:*:*:*:*,Cisco 8400 IP Camera,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507', 'CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:48Z
+3,cpe:2.3:o:cisco:8400_ip_camera_firmware:1.0.9-1:*:*:*:*:*:*:*,Cisco 8400 IP Camera Firmware 1.0.9-1,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507']",2022-03-19T17:49Z
+4,cpe:2.3:o:cisco:8400_ip_camera_firmware:1.0.9-4:*:*:*:*:*:*:*,Cisco 8400 IP Camera Firmware 1.0.9-4,"['CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:49Z
+5,cpe:2.3:h:cisco:8500_wireless_lan_controller:-:*:*:*:*:*:*:*,Cisco 8500 Series Wireless LAN Controller,"['CVE-2012-5991', 'CVE-2012-5992', 'CVE-2012-6007', 'CVE-2013-1102', 'CVE-2013-1103', 'CVE-2013-1104', 'CVE-2013-1105', 'CVE-2013-1235']",2022-03-19T17:48Z
+6,cpe:2.3:h:cisco:8510_wireless_lan_controller:-:*:*:*:*:*:*:*,Cisco 8510 Wireless LAN Controller,['CVE-2017-3854'],2022-03-19T17:49Z
+7,cpe:2.3:h:cisco:8540_wireless_lan_controller:-:*:*:*:*:*:*:*,Cisco 8540 Wireless LAN Controller,['CVE-2017-3854'],2022-03-19T17:49Z
+8,cpe:2.3:h:cisco:860vae-w_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 860VAE-W Integrated Services Router,['CVE-2018-0163'],2022-03-19T17:49Z
+9,cpe:2.3:h:cisco:861_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 861 Integrated Services Router,"['CVE-2013-1241', 'CVE-2018-0163']",2022-03-19T17:49Z

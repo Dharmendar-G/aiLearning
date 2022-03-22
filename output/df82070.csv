@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bluezone:bluezone:1.0.0:*:*:*:*:*:*:*,Bluezone 1.0.0,['CVE-2020-12270'],2022-03-19T09:06Z
+1,cpe:2.3:h:bluproducts:studio_6.0_hd:-:*:*:*:*:*:*:*,BLU Studio 6.0 HD,['CVE-2016-6564'],2022-03-19T09:06Z
+2,cpe:2.3:o:bluproducts:studio_6.0_hd_firmware:-:*:*:*:*:*:*:*,BLU Studio 6.0 HD Firmware,['CVE-2016-6564'],2022-03-19T09:06Z
+3,cpe:2.3:h:bluproducts:studio_c_hd:-:*:*:*:*:*:*:*,BLU Studio C HD,['CVE-2016-6564'],2022-03-19T09:06Z
+4,cpe:2.3:o:bluproducts:studio_c_hd_firmware:-:*:*:*:*:*:*:*,BLU Studio C HD Firmware,['CVE-2016-6564'],2022-03-19T09:06Z
+5,cpe:2.3:h:bluproducts:studio_g:-:*:*:*:*:*:*:*,BLU Studio G,['CVE-2016-6564'],2022-03-19T09:06Z
+6,cpe:2.3:o:bluproducts:studio_g_firmware:-:*:*:*:*:*:*:*,BLU Studio G Firmware,['CVE-2016-6564'],2022-03-19T09:06Z
+7,cpe:2.3:h:bluproducts:studio_g_plus:-:*:*:*:*:*:*:*,BLU Studio G Plus,['CVE-2016-6564'],2022-03-19T09:06Z
+8,cpe:2.3:o:bluproducts:studio_g_plus_firmware:-:*:*:*:*:*:*:*,BLU Studio G Plus Firmware,['CVE-2016-6564'],2022-03-19T09:06Z
+9,cpe:2.3:h:bluproducts:studio_x:-:*:*:*:*:*:*:*,BLU Studio X,['CVE-2016-6564'],2022-03-19T09:06Z

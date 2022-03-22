@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:debian:advanced_package_tool:1.2.8:*:*:*:*:*:*:*,Debian Advanced Package Tool (APT) 1.2.8,"['CVE-2011-3374', 'CVE-2019-3462', 'CVE-2020-27350', 'CVE-2020-27351']",2022-03-20T11:22Z
+1,cpe:2.3:a:debian:advanced_package_tool:1.2.9:*:*:*:*:*:*:*,Debian Advanced Package Tool (APT) 1.2.9,"['CVE-2011-3374', 'CVE-2019-3462', 'CVE-2020-27350', 'CVE-2020-27351']",2022-03-20T11:23Z
+2,cpe:2.3:a:debian:advanced_package_tool:1.2.10:*:*:*:*:*:*:*,Debian Advanced Package Tool (APT) 1.2.10,"['CVE-2011-3374', 'CVE-2019-3462', 'CVE-2020-27350', 'CVE-2020-27351']",2022-03-20T11:23Z
+3,cpe:2.3:a:debian:advanced_package_tool:1.2.11:*:*:*:*:*:*:*,Debian Advanced Package Tool (APT) 1.2.11,"['CVE-2011-3374', 'CVE-2019-3462', 'CVE-2020-27350', 'CVE-2020-27351']",2022-03-20T11:23Z
+4,cpe:2.3:a:debian:advanced_package_tool:1.2.12:*:*:*:*:*:*:*,Debian Advanced Package Tool (APT) 1.2.12,"['CVE-2011-3374', 'CVE-2019-3462', 'CVE-2020-27350', 'CVE-2020-27351']",2022-03-20T11:23Z
+5,cpe:2.3:a:debian:advanced_package_tool:1.2.13:*:*:*:*:*:*:*,Debian Advanced Package Tool (APT) 1.2.13,"['CVE-2011-3374', 'CVE-2019-3462', 'CVE-2020-27350', 'CVE-2020-27351']",2022-03-20T11:23Z
+6,cpe:2.3:a:debian:advanced_package_tool:1.2.14:*:*:*:*:*:*:*,Debian Advanced Package Tool (APT) 1.2.14,"['CVE-2011-3374', 'CVE-2019-3462', 'CVE-2020-27350', 'CVE-2020-27351']",2022-03-20T11:23Z
+7,cpe:2.3:a:debian:advanced_package_tool:1.2.15:*:*:*:*:*:*:*,Debian Advanced Package Tool (APT) 1.2.15,"['CVE-2011-3374', 'CVE-2019-3462', 'CVE-2020-27350', 'CVE-2020-27351']",2022-03-20T11:23Z
+8,cpe:2.3:a:debian:advanced_package_tool:1.2.16:*:*:*:*:*:*:*,Debian Advanced Package Tool (APT) 1.2.16,"['CVE-2011-3374', 'CVE-2019-3462', 'CVE-2020-27350', 'CVE-2020-27351']",2022-03-20T11:23Z
+9,cpe:2.3:a:debian:advanced_package_tool:1.2.17:*:*:*:*:*:*:*,Debian Advanced Package Tool (APT) 1.2.17,"['CVE-2011-3374', 'CVE-2019-3462', 'CVE-2020-27350', 'CVE-2020-27351']",2022-03-20T11:23Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:crestron:tsw-1060:-:*:*:*:*:*:*:*,Crestron TSW-1060,"['CVE-2018-11228', 'CVE-2018-11229']",2022-03-20T08:59Z
+1,cpe:2.3:h:crestron:tsw-1060-b-s:-:*:*:*:*:*:*:*,Crestron TSW-1060-B-S,"['CVE-2018-10630', 'CVE-2018-13341']",2022-03-20T08:59Z
+2,cpe:2.3:h:crestron:tsw-1060-nc:-:*:*:*:*:*:*:*,Crestron TSW-1060-NC,"['CVE-2018-11228', 'CVE-2018-11229']",2022-03-20T08:59Z
+3,cpe:2.3:h:crestron:tsw-1060-nc-b-s:-:*:*:*:*:*:*:*,Crestron TSW-1060-NC-B-S,"['CVE-2018-10630', 'CVE-2018-13341']",2022-03-20T08:59Z
+4,cpe:2.3:h:crestron:tsw-1060-nc-w-s:-:*:*:*:*:*:*:*,Crestron TSW-1060-NC-W-S,"['CVE-2018-10630', 'CVE-2018-13341']",2022-03-20T08:59Z
+5,cpe:2.3:h:crestron:tsw-1060-w-s:-:*:*:*:*:*:*:*,Crestron TSW-1060-W-S,"['CVE-2018-10630', 'CVE-2018-13341']",2022-03-20T08:59Z
+6,cpe:2.3:h:crestron:tsw-560:-:*:*:*:*:*:*:*,Crestron TSW-560,"['CVE-2018-11228', 'CVE-2018-11229']",2022-03-20T08:59Z
+7,cpe:2.3:h:crestron:tsw-560-b-s:-:*:*:*:*:*:*:*,Crestron TSW-560-B-S,"['CVE-2018-10630', 'CVE-2018-13341']",2022-03-20T08:59Z
+8,cpe:2.3:h:crestron:tsw-560-nc:-:*:*:*:*:*:*:*,Crestron TSW-560-NC,"['CVE-2018-11228', 'CVE-2018-11229']",2022-03-20T08:59Z
+9,cpe:2.3:h:crestron:tsw-560-nc-b-s:-:*:*:*:*:*:*:*,Crestron TSW-560-NC-B-S,"['CVE-2018-10630', 'CVE-2018-13341']",2022-03-20T08:59Z

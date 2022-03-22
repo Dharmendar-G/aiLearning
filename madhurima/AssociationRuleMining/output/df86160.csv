@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:botan_project:botan:2.8.0:*:*:*:*:*:*:*,Botan Project Botan 2.8.0,"['CVE-2018-20187', 'CVE-2021-24115', 'CVE-2021-40529']",2022-03-19T10:11Z
+1,cpe:2.3:a:botan_project:botan:2.9.0:*:*:*:*:*:*:*,Botan Project Botan 2.9.0,"['CVE-2021-24115', 'CVE-2021-40529']",2022-03-19T10:11Z
+2,cpe:2.3:a:botan_project:botan:2.10.0:*:*:*:*:*:*:*,Botan Project Botan 2.10.0,"['CVE-2021-24115', 'CVE-2021-40529']",2022-03-19T10:11Z
+3,cpe:2.3:a:botan_project:botan:2.11.0:*:*:*:*:*:*:*,Botan Project Botan 2.11.0,"['CVE-2021-24115', 'CVE-2021-40529']",2022-03-19T10:11Z
+4,cpe:2.3:a:botan_project:botan:2.12.0:*:*:*:*:*:*:*,Botan Project Botan 2.12.0,"['CVE-2021-24115', 'CVE-2021-40529']",2022-03-19T10:11Z
+5,cpe:2.3:a:botan_project:botan:2.12.1:*:*:*:*:*:*:*,Botan Project Botan 2.12.1,"['CVE-2021-24115', 'CVE-2021-40529']",2022-03-19T10:11Z
+6,cpe:2.3:a:botan_project:botan:2.13.0:*:*:*:*:*:*:*,Botan Project Botan 2.13.0,"['CVE-2021-24115', 'CVE-2021-40529']",2022-03-19T10:11Z
+7,cpe:2.3:a:botan_project:botan:2.14.0:*:*:*:*:*:*:*,Botan Project Botan 2.14.0,"['CVE-2021-24115', 'CVE-2021-40529']",2022-03-19T10:11Z
+8,cpe:2.3:a:botan_project:botan:2.15.0:*:*:*:*:*:*:*,Botan Project Botan 2.15.0,"['CVE-2021-24115', 'CVE-2021-40529']",2022-03-19T10:11Z
+9,cpe:2.3:a:botan_project:botan:2.16.0:*:*:*:*:*:*:*,Botan Project Botan 2.16.0,"['CVE-2021-24115', 'CVE-2021-40529']",2022-03-19T10:11Z

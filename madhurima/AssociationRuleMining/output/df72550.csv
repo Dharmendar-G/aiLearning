@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:beims:contractorweb.net:5.18.0.0:*:*:*:*:*:*:*,BEIMS ContractorWeb.NET 5.18.0.0,"['CVE-2018-5328', 'CVE-2018-5329']",2022-03-19T06:51Z
+1,cpe:2.3:a:bekirk:creative_management_system_lite:1.4:*:*:*:*:*:*:*,Bekirk Creative Management System (CMS) Lite 1.4,['CVE-2017-15984'],2022-03-19T06:51Z
+2,cpe:2.3:a:belarc:advisor:7.1:*:*:*:*:*:*:*,Belarc Advisor 7.1,[''],2022-03-19T06:51Z
+3,cpe:2.3:a:belarc:advisor:7.2:*:*:*:*:*:*:*,Belarc Advisor 7.2,[''],2022-03-19T06:51Z
+4,cpe:2.3:a:belarc:advisor:8.1:*:*:*:*:*:*:*,Belarc Advisor 8.1,[''],2022-03-19T06:52Z
+5,cpe:2.3:a:belarc:belmanage\/belsecure_2010:8.1.7.2:*:*:*:*:*:*:*,Belarc BelManage/BelSecure 2010 (8.1.7.2),[''],2022-03-19T06:51Z
+6,cpe:2.3:a:belarc:belmonitor_client_components:8.1.9.0:*:*:*:*:*:*:*,BelMonitor Client Components,[''],2022-03-19T06:52Z
+7,cpe:2.3:a:belasfrasesdeamor:belas_frases_de_amor:1.0:*:*:*:*:android:*:*,Belas Frases de Amor (aka com.goodbarber.frasesdeamor) for Android 1.0,['CVE-2014-6003'],2022-03-19T06:52Z
+8,cpe:2.3:h:belden:hirschmann_eagle20:-:*:*:*:*:*:*:*,Belden Hirschmann Eagle20,['CVE-2020-6994'],2022-03-19T06:51Z
+9,cpe:2.3:h:belden:hirschmann_eagle30:-:*:*:*:*:*:*:*,Belden Hirschmann Eagle30,['CVE-2020-6994'],2022-03-19T06:52Z

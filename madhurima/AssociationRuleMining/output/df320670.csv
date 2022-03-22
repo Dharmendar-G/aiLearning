@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:designjet_5500:-:*:*:*:*:*:*:*,HP designjet 5500 printer,[''],2022-03-21T13:11Z
+1,cpe:2.3:h:hp:designjet_755:-:*:*:*:*:*:*:*,HP designjet 755 printer,[''],2022-03-21T13:11Z
+2,cpe:2.3:h:hp:designjet_t1530_l2y23a:-:*:*:*:*:*:*:*,HP DesignJet T1530 L2Y23A,['CVE-2021-3965'],2022-03-21T13:11Z
+3,cpe:2.3:o:hp:designjet_t1530_l2y23a_firmware:mry_07_07_04.1:*:*:*:*:*:*:*,HP DesignJet T1530 L2Y23A Firmware MRY_07_07_04.1,['CVE-2021-3965'],2022-03-21T13:11Z
+4,cpe:2.3:h:hp:designjet_t1530_l2y24a:-:*:*:*:*:*:*:*,HP DesignJet T1530 L2Y24A,['CVE-2021-3965'],2022-03-21T13:11Z
+5,cpe:2.3:o:hp:designjet_t1530_l2y24a_firmware:mry_07_07_04.1:*:*:*:*:*:*:*,HP DesignJet T1530 L2Y24A Firmware MRY_07_07_04.1,['CVE-2021-3965'],2022-03-21T13:11Z
+6,cpe:2.3:h:hp:designjet_t1530_l2y24b:-:*:*:*:*:*:*:*,HP DesignJet T1530 L2Y24B,['CVE-2021-3965'],2022-03-21T13:11Z
+7,cpe:2.3:o:hp:designjet_t1530_l2y24b_firmware:mry_07_07_04.1:*:*:*:*:*:*:*,HP DesignJet T1530 L2Y24B Firmware MRY_07_07_04.1,['CVE-2021-3965'],2022-03-21T13:11Z
+8,cpe:2.3:h:hp:designjet_t2530_l2y25a:-:*:*:*:*:*:*:*,HP DesignJet T2530 L2Y25A,['CVE-2021-3965'],2022-03-21T13:11Z
+9,cpe:2.3:o:hp:designjet_t2530_l2y25a_firmware:mry_07_07_04.1:*:*:*:*:*:*:*,HP DesignJet T2530 L2Y25A Firmware MRY_07_07_04.1,['CVE-2021-3965'],2022-03-21T13:11Z

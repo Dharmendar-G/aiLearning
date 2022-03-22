@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:vostro_3458:-:*:*:*:*:*:*:*,Dell Vostro 3458,"['CVE-2019-3717', 'CVE-2020-5362']",2022-03-20T13:10Z
+1,cpe:2.3:o:dell:vostro_3458_firmware:-:*:*:*:*:*:*:*,Dell Vostro 3458 Firmware,"['CVE-2019-3717', 'CVE-2020-5362']",2022-03-20T13:10Z
+2,cpe:2.3:o:dell:vostro_3458_firmware:a15:*:*:*:*:*:*:*,Dell Vostro 3458 Firmware A15,['CVE-2020-5362'],2022-03-20T13:10Z
+3,cpe:2.3:h:dell:vostro_3459:-:*:*:*:*:*:*:*,Dell Vostro 3459,"['CVE-2019-3717', 'CVE-2020-5362']",2022-03-20T13:10Z
+4,cpe:2.3:o:dell:vostro_3459_firmware:-:*:*:*:*:*:*:*,Dell Vostro 3459 Firmware,"['CVE-2019-3717', 'CVE-2020-5362']",2022-03-20T13:10Z
+5,cpe:2.3:o:dell:vostro_3459_firmware:1.6.0:*:*:*:*:*:*:*,Dell Vostro 3459 Firmware 1.6.0,['CVE-2020-5362'],2022-03-20T13:10Z
+6,cpe:2.3:h:dell:vostro_3468:-:*:*:*:*:*:*:*,Dell Vostro 3468,['CVE-2019-3717'],2022-03-20T13:10Z
+7,cpe:2.3:o:dell:vostro_3468_firmware:-:*:*:*:*:*:*:*,Dell Vostro 3468 Firmware,['CVE-2019-3717'],2022-03-20T13:10Z
+8,cpe:2.3:o:dell:vostro_3468_firmware:3.3.0:*:*:*:*:*:*:*,Dell Vostro 3468 Firmware 3.3.0,[''],2022-03-20T13:10Z
+9,cpe:2.3:h:dell:vostro_3470:-:*:*:*:*:*:*:*,Dell Vostro 3470,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:10Z

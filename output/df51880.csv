@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:automation_for_jira:7.1.4:*:*:*:*:*:*:*,Atlassian Automation For Jira 7.1.4,['CVE-2020-14193'],2022-03-19T00:16Z
+1,cpe:2.3:a:atlassian:automation_for_jira:7.1.5:*:*:*:*:*:*:*,Atlassian Automation For Jira 7.1.5,['CVE-2020-14193'],2022-03-19T00:16Z
+2,cpe:2.3:a:atlassian:automation_for_jira:7.1.7:*:*:*:*:*:*:*,Atlassian Automation For Jira 7.1.7,['CVE-2020-14193'],2022-03-19T00:16Z
+3,cpe:2.3:a:atlassian:automation_for_jira:7.1.8:*:*:*:*:*:*:*,Atlassian Automation For Jira 7.1.8,['CVE-2020-14193'],2022-03-19T00:16Z
+4,cpe:2.3:a:atlassian:automation_for_jira:7.1.9:*:*:*:*:*:*:*,Atlassian Automation For Jira 7.1.9,['CVE-2020-14193'],2022-03-19T00:16Z
+5,cpe:2.3:a:atlassian:automation_for_jira:7.1.12:*:*:*:*:*:*:*,Atlassian Automation For Jira 7.1.12,['CVE-2020-14193'],2022-03-19T00:16Z
+6,cpe:2.3:a:atlassian:automation_for_jira:7.1.13:*:*:*:*:*:*:*,Atlassian Automation For Jira 7.1.13,['CVE-2020-14193'],2022-03-19T00:16Z
+7,cpe:2.3:a:atlassian:automation_for_jira:7.1.14:*:*:*:*:*:*:*,Atlassian Automation For Jira 7.1.14,['CVE-2020-14193'],2022-03-19T00:16Z
+8,cpe:2.3:a:atlassian:automation_for_jira:7.1.15:*:*:*:*:*:*:*,Atlassian Automation For Jira 7.1.15,[''],2022-03-19T00:16Z
+9,cpe:2.3:a:atlassian:automation_for_jira:7.1.16:*:*:*:*:*:*:*,Atlassian Automation For Jira 7.1.16,[''],2022-03-19T00:16Z

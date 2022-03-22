@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:latitude_e5570_firmware:1.20.4:*:*:*:*:*:*:*,Dell Latitude E5570 Firmware 1.20.4,"['CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:53Z
+1,cpe:2.3:o:dell:latitude_e5570_firmware:1.21.4:*:*:*:*:*:*:*,Dell Latitude E5570 Firmware 1.21.4,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:53Z
+2,cpe:2.3:h:dell:latitude_e6220:-:*:*:*:*:*:*:*,Dell Latitude E6220,['CVE-2015-2890'],2022-03-20T12:53Z
+3,cpe:2.3:h:dell:latitude_e6320:-:*:*:*:*:*:*:*,Dell Latitude E6320,['CVE-2015-2890'],2022-03-20T12:53Z
+4,cpe:2.3:h:dell:latitude_e6400:-:*:*:*:*:*:*:*,Dell Latitude E6400 -,['CVE-2013-3582'],2022-03-20T12:53Z
+5,cpe:2.3:h:dell:latitude_e6400_atg:-:*:*:*:*:*:*:*,Dell Latitude E6400 ATG -,['CVE-2013-3582'],2022-03-20T12:53Z
+6,cpe:2.3:h:dell:latitude_e6400_atg_xfr:-:*:*:*:*:*:*:*,Dell Latitude E6400 ATG XFR -,['CVE-2013-3582'],2022-03-20T12:53Z
+7,cpe:2.3:h:dell:latitude_e6410_atg:-:*:*:*:*:*:*:*,Dell Latitude E6410 ATG,['CVE-2015-2890'],2022-03-20T12:53Z
+8,cpe:2.3:h:dell:latitude_e6420_atg:-:*:*:*:*:*:*:*,Dell Latitude E6420 ATG,['CVE-2015-2890'],2022-03-20T12:53Z
+9,cpe:2.3:h:dell:latitude_e6420_xfr:-:*:*:*:*:*:*:*,Dell Latitude E6420 XFR,['CVE-2015-2890'],2022-03-20T12:53Z

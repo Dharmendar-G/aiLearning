@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ahsay:cloud_backup_suite:7.9.2.0:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.9.2.0,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:45Z
+1,cpe:2.3:a:ahsay:cloud_backup_suite:7.9.2.2:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.9.2.2,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:45Z
+2,cpe:2.3:a:ahsay:cloud_backup_suite:7.11.0.4:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.11.0.4,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:45Z
+3,cpe:2.3:a:ahsay:cloud_backup_suite:7.11.0.10:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.11.0.10,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:45Z
+4,cpe:2.3:a:ahsay:cloud_backup_suite:7.11.0.20:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.11.0.20,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:45Z
+5,cpe:2.3:a:ahsay:cloud_backup_suite:7.13.0.0:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.13.0.0,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:45Z
+6,cpe:2.3:a:ahsay:cloud_backup_suite:7.13.0.2:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.13.0.2,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:45Z
+7,cpe:2.3:a:ahsay:cloud_backup_suite:7.13.0.6:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.13.0.6,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:45Z
+8,cpe:2.3:a:ahsay:cloud_backup_suite:7.15.0.8:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.15.0.8,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:46Z
+9,cpe:2.3:a:ahsay:cloud_backup_suite:7.15.0.20:*:*:*:*:*:*:*,Ahsay Cloud Backup Suite 7.15.0.20,"['CVE-2019-10263', 'CVE-2019-10264', 'CVE-2019-10265', 'CVE-2019-10266', 'CVE-2019-10267']",2022-03-18T13:46Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hammock:assetview:9.2:*:*:*:*:*:*:*,Hammock AssetView 9.2,"['CVE-2017-2240', 'CVE-2017-2241']",2022-03-21T08:44Z
+1,cpe:2.3:a:hana_flv_player_project:hana_flv_player:-:*:*:*:*:wordpress:*:*,Hana Flv Player Project Hana Flv Player for WordPress,[''],2022-03-21T08:44Z
+2,cpe:2.3:a:hana_flv_player_project:hana_flv_player:1.7:*:*:*:*:wordpress:*:*,Hana Flv Player Project Hana Flv Player 1.7 for WordPress,[''],2022-03-21T08:44Z
+3,cpe:2.3:a:hana_flv_player_project:hana_flv_player:1.8:*:*:*:*:wordpress:*:*,Hana Flv Player Project Hana Flv Player 1.8 for WordPress,[''],2022-03-21T08:44Z
+4,cpe:2.3:a:hana_flv_player_project:hana_flv_player:2.0:*:*:*:*:wordpress:*:*,Hana Flv Player Project Hana Flv Player 2.0 for WordPress,[''],2022-03-21T08:45Z
+5,cpe:2.3:a:hana_flv_player_project:hana_flv_player:2.2:*:*:*:*:wordpress:*:*,Hana Flv Player Project Hana Flv Player 2.2 for WordPress,[''],2022-03-21T08:44Z
+6,cpe:2.3:a:hana_flv_player_project:hana_flv_player:2.3:*:*:*:*:wordpress:*:*,Hana Flv Player Project Hana Flv Player 2.3 for WordPress,[''],2022-03-21T08:45Z
+7,cpe:2.3:a:hana_flv_player_project:hana_flv_player:2.4:*:*:*:*:wordpress:*:*,Hana Flv Player Project Hana Flv Player 2.4 for WordPress,[''],2022-03-21T08:45Z
+8,cpe:2.3:a:hana_flv_player_project:hana_flv_player:2.4.1:*:*:*:*:wordpress:*:*,Hana Flv Player Project Hana Flv Player 2.4.1 for WordPress,[''],2022-03-21T08:45Z
+9,cpe:2.3:a:hana_flv_player_project:hana_flv_player:2.4.2:*:*:*:*:wordpress:*:*,Hana Flv Player Project Hana Flv Player 2.4.2 for WordPress,[''],2022-03-21T08:45Z

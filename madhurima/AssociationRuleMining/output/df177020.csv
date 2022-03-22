@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:debian:fsp:-:*:*:*:*:*:*:*,Debian FSP,"['CVE-2003-1022', 'CVE-2004-0011']",2022-03-20T11:44Z
+1,cpe:2.3:a:debian:fsp:2.81.b18:*:*:*:*:*:*:*,Debian FSP 2.81.b18,"['CVE-2003-1022', 'CVE-2004-0011']",2022-03-20T11:44Z
+2,cpe:2.3:a:debian:ftpsync:20171016:*:*:*:*:*:*:*,Debian ftpsync 20171016,['CVE-2017-8805'],2022-03-20T11:44Z
+3,cpe:2.3:a:debian:fuse:2.9.3-14:*:*:*:*:*:*:*,Debian Fuse 2.9.3-14,['CVE-2016-1233'],2022-03-20T11:44Z
+4,cpe:2.3:a:debian:gfax:-:*:*:*:*:*:*:*,Debian gfax,['CVE-2007-2839'],2022-03-20T11:44Z
+5,cpe:2.3:a:debian:gfax:0.4.2:*:*:*:*:*:*:*,Debian gfax 0.4.2,['CVE-2007-2839'],2022-03-20T11:44Z
+6,cpe:2.3:a:debian:guilt:-:*:*:*:*:*:*:*,Debian guilt,[''],2022-03-20T11:44Z
+7,cpe:2.3:a:debian:guilt:0.27:*:*:*:*:*:*:*,Debian guilt 0.27,['CVE-2007-5207'],2022-03-20T11:44Z
+8,cpe:2.3:a:debian:iceape:1.0.9:*:*:*:*:*:*:*,Debian Iceape 1.0.9,[''],2022-03-20T11:44Z
+9,cpe:2.3:a:debian:ifupdown:0.6.9:*:*:*:*:*:*:*,Debian ifupdown 0.6.9,[''],2022-03-20T11:44Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:berkeley-al20_firmware:8.0.0.142\(c00\):*:*:*:*:*:*:*,Huawei Berkley-AL20 Firmware 8.0.0.142(C00),"['CVE-2018-7899', 'CVE-2019-19412', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:25Z
+1,cpe:2.3:o:huawei:berkeley-al20_firmware:8.0.0.151\(c00\):*:*:*:*:*:*:*,Huawei Berkley-AL20 Firmware 8.0.0.151(C00),"['CVE-2018-7899', 'CVE-2019-19412', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:25Z
+2,cpe:2.3:o:huawei:berkeley-al20_firmware:9.0.0.156\(c00e156r2p14t8\):*:*:*:*:*:*:*,Huawei Berkeley-AL20 Firmware 9.0.0.156(C00E156R2P14T8),"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:25Z
+3,cpe:2.3:o:huawei:berkeley-al20_firmware:9.1.0.333\(c00e333r2p1t8\):*:*:*:*:*:*:*,Huawei Berkeley-AL20 Firmware 9.1.0.333(C00E333R2P1T8),[''],2022-03-21T17:25Z
+4,cpe:2.3:h:huawei:berkeley-bd:-:*:*:*:*:*:*:*,Huawei Berkley-BD,['CVE-2018-7899'],2022-03-21T17:25Z
+5,cpe:2.3:o:huawei:berkeley-bd_firmware:1.0.0.21:*:*:*:*:*:*:*,Huawei Berkley-BD Firmware 1.0.0.21,['CVE-2018-7899'],2022-03-21T17:25Z
+6,cpe:2.3:o:huawei:berkeley-bd_firmware:1.0.0.22:*:*:*:*:*:*:*,Huawei Berkley-BD Firmware 1.0.0.22,['CVE-2018-7899'],2022-03-21T17:25Z
+7,cpe:2.3:o:huawei:berkeley-bd_firmware:1.0.0.23:*:*:*:*:*:*:*,Huawei Berkley-BD Firmware 1.0.0.23,['CVE-2018-7899'],2022-03-21T17:25Z
+8,cpe:2.3:o:huawei:berkeley-bd_firmware:1.0.0.24:*:*:*:*:*:*:*,Huawei Berkley-BD Firmware 1.0.0.24,['CVE-2018-7899'],2022-03-21T17:26Z
+9,cpe:2.3:o:huawei:berkeley-bd_firmware:1.0.0.26:*:*:*:*:*:*:*,Huawei Berkley-BD Firmware 1.0.0.26,['CVE-2018-7899'],2022-03-21T17:26Z

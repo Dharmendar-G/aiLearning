@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:s600-e:-:*:*:*:*:*:*:*,Huawei S600-E,"['CVE-2017-17165', 'CVE-2019-5285']",2022-03-21T18:39Z
+1,cpe:2.3:o:huawei:s600-e_firmware:v200r008c00:*:*:*:*:*:*:*,Huawei S600-e Firmware V200R008C00,"['CVE-2017-17165', 'CVE-2019-5285']",2022-03-21T18:39Z
+2,cpe:2.3:o:huawei:s600-e_firmware:v200r009c00:*:*:*:*:*:*:*,Huawei S600-e Firmware V200R009C00,['CVE-2017-17165'],2022-03-21T18:39Z
+3,cpe:2.3:o:huawei:s600-e_firmware:v200r010c00:*:*:*:*:*:*:*,Huawei S600-e Firmware V200r010c00,['CVE-2019-5285'],2022-03-21T18:39Z
+4,cpe:2.3:o:huawei:s600-e_firmware:v200r011c10:*:*:*:*:*:*:*,Huawei S600-e Firmware V200r011c10,['CVE-2019-5285'],2022-03-21T18:39Z
+5,cpe:2.3:o:huawei:s600-e_firmware:v200r012c00:*:*:*:*:*:*:*,Huawei S600-e Firmware V200r012c00,['CVE-2019-5285'],2022-03-21T18:39Z
+6,cpe:2.3:o:huawei:s600-e_firmware:v200r013c00:*:*:*:*:*:*:*,Huawei S600-e Firmware V200r013c00,['CVE-2019-5285'],2022-03-21T18:39Z
+7,cpe:2.3:h:huawei:s6300:-:*:*:*:*:*:*:*,Huawei S6300,"['CVE-2014-3223', 'CVE-2014-4705', 'CVE-2014-4706', 'CVE-2014-5394', 'CVE-2014-8572', 'CVE-2016-6518', 'CVE-2016-8773', 'CVE-2016-8797', 'CVE-2017-17165', 'CVE-2017-8147', 'CVE-2019-5285']",2022-03-21T18:39Z
+8,cpe:2.3:h:huawei:s6300:v100r006:*:*:*:*:*:*:*,Huawei S6300 V100R006,['CVE-2012-4960'],2022-03-21T18:39Z
+9,cpe:2.3:h:huawei:s6300:v200r001:*:*:*:*:*:*:*,Huawei S6300 V200R001,['CVE-2012-4960'],2022-03-21T18:39Z

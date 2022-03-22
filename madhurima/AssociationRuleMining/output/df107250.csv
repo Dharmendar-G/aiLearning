@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cgi_rescue:blobee:0.21:*:*:*:*:*:*:*,CGI RESCUE BloBee 0.21,['CVE-2015-2962'],2022-03-19T16:25Z
+1,cpe:2.3:a:cgi_rescue:blobee:1.00:*:*:*:*:*:*:*,シージーアイ・レスキュー ぶろびー 1.00,['CVE-2015-2962'],2022-03-19T16:25Z
+2,cpe:2.3:a:cgi_rescue:blobee:1.01:*:*:*:*:*:*:*,CGI RESCUE BloBee 1.01,['CVE-2015-2962'],2022-03-19T16:25Z
+3,cpe:2.3:a:cgi_rescue:blobee:1.02:*:*:*:*:*:*:*,CGI RESCUE BloBee 1.02,['CVE-2015-2962'],2022-03-19T16:25Z
+4,cpe:2.3:a:cgi_rescue:blobee:1.03:*:*:*:*:*:*:*,CGI RESCUE BloBee 1.03,['CVE-2015-2962'],2022-03-19T16:25Z
+5,cpe:2.3:a:cgi_rescue:blobee:1.04:*:*:*:*:*:*:*,シージーアイ・レスキュー ぶろびー 1.04,['CVE-2015-2962'],2022-03-19T16:25Z
+6,cpe:2.3:a:cgi_rescue:blobee:1.05:*:*:*:*:*:*:*,シージーアイ・レスキュー ぶろびー 1.05,['CVE-2015-2962'],2022-03-19T16:25Z
+7,cpe:2.3:a:cgi_rescue:blobee:1.10:*:*:*:*:*:*:*,CGI RESCUE BloBee 1.10,['CVE-2015-2962'],2022-03-19T16:25Z
+8,cpe:2.3:a:cgi_rescue:blobee:1.11:*:*:*:*:*:*:*,CGI RESCUE BloBee 1.11,['CVE-2015-2962'],2022-03-19T16:25Z
+9,cpe:2.3:a:cgi_rescue:blobee:1.12:*:*:*:*:*:*:*,CGI RESCUE BloBee 1.12,['CVE-2015-2962'],2022-03-19T16:25Z

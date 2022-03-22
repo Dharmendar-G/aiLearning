@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:secure_access_control_system:5.8\(0.32\):*:*:*:*:*:*:*,Cisco Secure Access Control System (ACS) 5.8(0.32),['CVE-2017-12354'],2022-03-19T23:59Z
+1,cpe:2.3:a:cisco:secure_access_control_system:5.8\(1.5\):*:*:*:*:*:*:*,Cisco Secure Access Control System (ACS) 5.8(1.5),['CVE-2017-6769'],2022-03-19T23:59Z
+2,cpe:2.3:a:cisco:secure_access_control_system:5.8\(2.5\):*:*:*:*:*:*:*,Cisco Secure Access Control System (ACS) 5.8(2.5),"['CVE-2017-3838', 'CVE-2017-3839', 'CVE-2017-3840', 'CVE-2017-3841']",2022-03-19T23:59Z
+3,cpe:2.3:a:cisco:secure_access_control_system:5.8.1:*:*:*:*:*:*:*,Cisco Secure Access Control System (ACS) 5.8.1,[''],2022-03-19T23:59Z
+4,cpe:2.3:a:cisco:secure_acs:-:*:*:*:*:*:*:*,Cisco Secure ACS,['CVE-2008-2441'],2022-03-19T23:59Z
+5,cpe:2.3:a:cisco:secure_acs_for_unix:-:*:*:*:*:*:*:*,Cisco Secure ACS for Unix,[''],2022-03-19T23:59Z
+6,cpe:2.3:a:cisco:secure_acs_for_windows_nt:-:*:*:*:*:*:*:*,Cisco Secure ACS for Windows NT,[''],2022-03-19T23:59Z
+7,cpe:2.3:a:cisco:secure_acs_for_windows_server:-:*:*:*:*:*:*:*,Cisco Secure ACS for Windows Server,[''],2022-03-19T23:59Z
+8,cpe:2.3:a:cisco:secure_acs_solution_engine:-:*:*:*:*:*:*:*,Cisco Secure ACS Solution Engine,"['CVE-2004-1099', 'CVE-2004-1458', 'CVE-2004-1459', 'CVE-2004-1460', 'CVE-2004-1461']",2022-03-19T23:59Z
+9,cpe:2.3:h:cisco:secure_content_accelerator:-:*:*:*:*:*:*:*,Cisco Secure Content Accelerator,[''],2022-03-19T23:59Z

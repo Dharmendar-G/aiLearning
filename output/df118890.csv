@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:firepower_9300_sm-56_x_3:-:*:*:*:*:*:*:*,Cisco Firepower 9300 SM-56 X 3,"['CVE-2020-3169', 'CVE-2020-3455', 'CVE-2020-3456', 'CVE-2020-3457', 'CVE-2020-3459', 'CVE-2021-34714']",2022-03-19T19:35Z
+1,cpe:2.3:h:cisco:firepower_9300_with_1_sm-24_module:-:*:*:*:*:*:*:*,Cisco Firepower 9300 With 1 SM-24 Module,"['CVE-2019-1795', 'CVE-2019-1858', 'CVE-2019-1963', 'CVE-2021-34714']",2022-03-19T19:35Z
+2,cpe:2.3:h:cisco:firepower_9300_with_1_sm-36_module:-:*:*:*:*:*:*:*,Cisco Firepower 9300 With 1 SM-36 Module,"['CVE-2019-1795', 'CVE-2019-1858', 'CVE-2019-1963', 'CVE-2021-34714']",2022-03-19T19:35Z
+3,cpe:2.3:h:cisco:firepower_9300_with_1_sm-44_module:-:*:*:*:*:*:*:*,Cisco Firepower 9300 With 1 SM-44 Module,"['CVE-2019-1795', 'CVE-2019-1858', 'CVE-2019-1963', 'CVE-2021-34714']",2022-03-19T19:35Z
+4,cpe:2.3:h:cisco:firepower_9300_with_3_sm-44_module:-:*:*:*:*:*:*:*,Cisco Firepower 9300 With 3 SM-44 Module,"['CVE-2019-1858', 'CVE-2019-1963', 'CVE-2021-34714']",2022-03-19T19:35Z
+5,cpe:2.3:h:cisco:firepower_appliance_7010:-:*:*:*:*:*:*:*,Cisco FirePOWER Appliance 7010,"['CVE-2018-0254', 'CVE-2018-0365', 'CVE-2019-15268', 'CVE-2019-15269']",2022-03-19T19:35Z
+6,cpe:2.3:o:cisco:firepower_appliance_7010_firmware:-:*:*:*:*:*:*:*,Cisco FirePOWER Appliance 7010 -,"['CVE-2019-15268', 'CVE-2019-15269']",2022-03-19T19:35Z
+7,cpe:2.3:o:cisco:firepower_appliance_7010_firmware:6.0.1:*:*:*:*:*:*:*,Cisco FirePOWER Appliance 7010 6.0.1,['CVE-2018-0365'],2022-03-19T19:35Z
+8,cpe:2.3:o:cisco:firepower_appliance_7010_firmware:6.1.0:*:*:*:*:*:*:*,Cisco FirePOWER Appliance 7010 6.1.0,['CVE-2018-0365'],2022-03-19T19:35Z
+9,cpe:2.3:o:cisco:firepower_appliance_7010_firmware:6.2.0:*:*:*:*:*:*:*,Cisco FirePOWER Appliance 7010 6.2.0,['CVE-2018-0365'],2022-03-19T19:35Z

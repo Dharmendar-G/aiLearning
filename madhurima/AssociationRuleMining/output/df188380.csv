@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:django-basic-auth-ip-whitelist_project:django-basic-auth-ip-whitelist:0.3.1:*:*:*:*:*:*:*,Django-basic-auth-ip-whitelist Project Django-basic-auth-ip-whitelist 0.3.1,['CVE-2020-4071'],2022-03-20T15:23Z
+1,cpe:2.3:a:django-basic-auth-ip-whitelist_project:django-basic-auth-ip-whitelist:0.3.2:a0:*:*:*:*:*:*,Django-basic-auth-ip-whitelist Project Django-basic-auth-ip-whitelist 0.3.2 A0,['CVE-2020-4071'],2022-03-20T15:23Z
+2,cpe:2.3:a:django-basic-auth-ip-whitelist_project:django-basic-auth-ip-whitelist:0.3.3:-:*:*:*:*:*:*,Django-basic-auth-ip-whitelist Project Django-basic-auth-ip-whitelist 0.3.3,['CVE-2020-4071'],2022-03-20T15:23Z
+3,cpe:2.3:a:django-basic-auth-ip-whitelist_project:django-basic-auth-ip-whitelist:0.3.3:a0:*:*:*:*:*:*,Django-basic-auth-ip-whitelist Project Django-basic-auth-ip-whitelist 0.3.3 A0,['CVE-2020-4071'],2022-03-20T15:23Z
+4,cpe:2.3:a:django-basic-auth-ip-whitelist_project:django-basic-auth-ip-whitelist:0.3.4:*:*:*:*:*:*:*,django-basic-auth-ip-whitelist Project django-basic-auth-ip-whitelist 0.3.4,[''],2022-03-20T15:23Z
+5,cpe:2.3:a:django-celery-results_project:django-celery-results:1.0.0:*:*:*:*:*:*:*,django-celery-results Project django-celery-results 1.0.0,['CVE-2020-17495'],2022-03-20T15:23Z
+6,cpe:2.3:a:django-celery-results_project:django-celery-results:1.0.1:*:*:*:*:*:*:*,django-celery-results Project django-celery-results 1.0.1,['CVE-2020-17495'],2022-03-20T15:23Z
+7,cpe:2.3:a:django-celery-results_project:django-celery-results:1.0.2:*:*:*:*:*:*:*,django-celery-results Project django-celery-results 1.0.2,['CVE-2020-17495'],2022-03-20T15:23Z
+8,cpe:2.3:a:django-celery-results_project:django-celery-results:1.0.3:*:*:*:*:*:*:*,django-celery-results Project django-celery-results 1.0.3,['CVE-2020-17495'],2022-03-20T15:23Z
+9,cpe:2.3:a:django-celery-results_project:django-celery-results:1.0.4:*:*:*:*:*:*:*,django-celery-results Project django-celery-results 1.0.4,['CVE-2020-17495'],2022-03-20T15:23Z

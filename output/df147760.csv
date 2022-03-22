@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:uaa-release:45.2:*:*:*:*:*:*:*,Cloud Foundry UAA release 45.2,['CVE-2017-8031'],2022-03-20T03:51Z
+1,cpe:2.3:a:cloudfoundry:uaa-release:45.3:*:*:*:*:*:*:*,Cloud Foundry UAA release 45.3,['CVE-2017-8031'],2022-03-20T03:51Z
+2,cpe:2.3:a:cloudfoundry:uaa-release:45.4:*:*:*:*:*:*:*,Cloud Foundry UAA release 45.4,[''],2022-03-20T03:51Z
+3,cpe:2.3:a:cloudfoundry:uaa-release:45.5:*:*:*:*:*:*:*,Cloud Foundry UAA release 45.5,[''],2022-03-20T03:51Z
+4,cpe:2.3:a:cloudfoundry:uaa-release:45.6:*:*:*:*:*:*:*,Cloud Foundry UAA release 45.6,[''],2022-03-20T03:51Z
+5,cpe:2.3:a:cloudfoundry:uaa-release:45.7:*:*:*:*:*:*:*,Cloud Foundry UAA release 45.7,[''],2022-03-20T03:51Z
+6,cpe:2.3:a:cloudfoundry:uaa-release:45.8:*:*:*:*:*:*:*,Cloud Foundry UAA release 45.8,[''],2022-03-20T03:51Z
+7,cpe:2.3:a:cloudfoundry:uaa-release:45.9:*:*:*:*:*:*:*,Cloud Foundry UAA release 45.9,[''],2022-03-20T03:51Z
+8,cpe:2.3:a:cloudfoundry:uaa-release:45.10:*:*:*:*:*:*:*,Cloud Foundry UAA release 45.10,[''],2022-03-20T03:51Z
+9,cpe:2.3:a:cloudfoundry:uaa-release:45.11:*:*:*:*:*:*:*,Cloud Foundry UAA release 45.11,[''],2022-03-20T03:51Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:cbs350-16t-e-2g:-:*:*:*:*:*:*:*,Cisco CBS350-16T-E-2G,['CVE-2021-34739'],2022-03-19T19:10Z
+1,cpe:2.3:h:cisco:cbs350-16xts:-:*:*:*:*:*:*:*,Cisco CBS350-16XTS,['CVE-2021-34739'],2022-03-19T19:10Z
+2,cpe:2.3:h:cisco:cbs350-24fp-4g:-:*:*:*:*:*:*:*,Cisco CBS350-24FP-4G,['CVE-2021-34739'],2022-03-19T19:10Z
+3,cpe:2.3:h:cisco:cbs350-24fp-4x:-:*:*:*:*:*:*:*,Cisco CBS350-24FP-4X,['CVE-2021-34739'],2022-03-19T19:10Z
+4,cpe:2.3:h:cisco:cbs350-24mgp-4x:-:*:*:*:*:*:*:*,Cisco CBS350-24MGP-4X,['CVE-2021-34739'],2022-03-19T19:10Z
+5,cpe:2.3:h:cisco:cbs350-24ngp-4x:-:*:*:*:*:*:*:*,Cisco CBS350-24NGP-4X,['CVE-2021-34739'],2022-03-19T19:10Z
+6,cpe:2.3:h:cisco:cbs350-24p-4g:-:*:*:*:*:*:*:*,Cisco CBS350-24P-4G,['CVE-2021-34739'],2022-03-19T19:10Z
+7,cpe:2.3:h:cisco:cbs350-24p-4x:-:*:*:*:*:*:*:*,Cisco CBS350-24P-4X,['CVE-2021-34739'],2022-03-19T19:10Z
+8,cpe:2.3:h:cisco:cbs350-24s-4g:-:*:*:*:*:*:*:*,Cisco CBS350-24S-4G,['CVE-2021-34739'],2022-03-19T19:10Z
+9,cpe:2.3:h:cisco:cbs350-24t-4g:-:*:*:*:*:*:*:*,Cisco CBS350-24T-4G,['CVE-2021-34739'],2022-03-19T19:10Z

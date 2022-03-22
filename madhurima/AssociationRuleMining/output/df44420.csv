@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apport_project:apport:2.2.1:*:*:*:*:*:*:*,Apport Project Apport 2.2.1,"['CVE-2015-1338', 'CVE-2016-9949', 'CVE-2016-9950', 'CVE-2016-9951', 'CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14179']",2022-03-18T22:34Z
+1,cpe:2.3:a:apport_project:apport:2.2.2:*:*:*:*:*:*:*,Apport Project Apport 2.2.2,"['CVE-2015-1338', 'CVE-2016-9949', 'CVE-2016-9950', 'CVE-2016-9951', 'CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14179']",2022-03-18T22:34Z
+2,cpe:2.3:a:apport_project:apport:2.2.3:*:*:*:*:*:*:*,Apport Project Apport 2.2.3,"['CVE-2015-1338', 'CVE-2016-9949', 'CVE-2016-9950', 'CVE-2016-9951', 'CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14179']",2022-03-18T22:34Z
+3,cpe:2.3:a:apport_project:apport:2.2.4:*:*:*:*:*:*:*,Apport Project Apport 2.2.4,"['CVE-2015-1338', 'CVE-2016-9949', 'CVE-2016-9950', 'CVE-2016-9951', 'CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14179']",2022-03-18T22:34Z
+4,cpe:2.3:a:apport_project:apport:2.2.5:*:*:*:*:*:*:*,Apport Project Apport 2.2.5,"['CVE-2015-1338', 'CVE-2016-9949', 'CVE-2016-9950', 'CVE-2016-9951', 'CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14179']",2022-03-18T22:34Z
+5,cpe:2.3:a:apport_project:apport:2.3:*:*:*:*:*:*:*,Apport Project Apport 2.3,"['CVE-2015-1338', 'CVE-2016-9949', 'CVE-2016-9950', 'CVE-2016-9951', 'CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14179']",2022-03-18T22:34Z
+6,cpe:2.3:a:apport_project:apport:2.4:*:*:*:*:*:*:*,Apport Project Apport 2.4,"['CVE-2015-1338', 'CVE-2016-9949', 'CVE-2016-9950', 'CVE-2016-9951', 'CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14179']",2022-03-18T22:34Z
+7,cpe:2.3:a:apport_project:apport:2.5:*:*:*:*:*:*:*,Apport Project Apport 2.5,"['CVE-2015-1338', 'CVE-2016-9949', 'CVE-2016-9950', 'CVE-2016-9951', 'CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14179']",2022-03-18T22:34Z
+8,cpe:2.3:a:apport_project:apport:2.5.1:*:*:*:*:*:*:*,Apport Project Apport 2.5.1,"['CVE-2015-1338', 'CVE-2016-9949', 'CVE-2016-9950', 'CVE-2016-9951', 'CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14179']",2022-03-18T22:34Z
+9,cpe:2.3:a:apport_project:apport:2.5.2:*:*:*:*:*:*:*,Apport Project Apport 2.5.2,"['CVE-2015-1338', 'CVE-2016-9949', 'CVE-2016-9950', 'CVE-2016-9951', 'CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14179']",2022-03-18T22:34Z

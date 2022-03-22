@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:gtranslate:gtranslate:2.8.11:*:*:*:enterprise:wordpress:*:*,GTranslate 2.8.11 Enterprise Edition for WordPress,['CVE-2021-34630'],2022-03-21T08:18Z
+1,cpe:2.3:a:gtranslate:gtranslate:2.8.11:*:*:*:pro:wordpress:*:*,GTranslate 2.8.11 Pro Edition for WordPress,['CVE-2021-34630'],2022-03-21T08:18Z
+2,cpe:2.3:a:gtranslate:gtranslate:2.8.12:*:*:*:enterprise:wordpress:*:*,GTranslate 2.8.12 Enterprise Edition for WordPress,['CVE-2021-34630'],2022-03-21T08:18Z
+3,cpe:2.3:a:gtranslate:gtranslate:2.8.12:*:*:*:pro:wordpress:*:*,GTranslate 2.8.12 Pro Edition for WordPress,['CVE-2021-34630'],2022-03-21T08:18Z
+4,cpe:2.3:a:gtranslate:gtranslate:2.8.13:*:*:*:enterprise:wordpress:*:*,GTranslate 2.8.13 Enterprise Edition for WordPress,['CVE-2021-34630'],2022-03-21T08:18Z
+5,cpe:2.3:a:gtranslate:gtranslate:2.8.13:*:*:*:pro:wordpress:*:*,GTranslate 2.8.13 Pro Edition for WordPress,['CVE-2021-34630'],2022-03-21T08:18Z
+6,cpe:2.3:a:gtranslate:gtranslate:2.8.14:*:*:*:enterprise:wordpress:*:*,GTranslate 2.8.14 Enterprise Edition for WordPress,['CVE-2021-34630'],2022-03-21T08:18Z
+7,cpe:2.3:a:gtranslate:gtranslate:2.8.14:*:*:*:pro:wordpress:*:*,GTranslate 2.8.14 Pro Edition for WordPress,['CVE-2021-34630'],2022-03-21T08:18Z
+8,cpe:2.3:a:gtranslate:gtranslate:2.8.15:*:*:*:enterprise:wordpress:*:*,GTranslate 2.8.15 Enterprise Edition for WordPress,['CVE-2021-34630'],2022-03-21T08:18Z
+9,cpe:2.3:a:gtranslate:gtranslate:2.8.15:*:*:*:pro:wordpress:*:*,GTranslate 2.8.15 Pro Edition for WordPress,['CVE-2021-34630'],2022-03-21T08:18Z

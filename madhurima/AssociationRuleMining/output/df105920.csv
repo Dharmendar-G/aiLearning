@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cerberusftp:ftp_server:2.41:*:*:*:*:*:*:*,Cerberus FTP Server 2.41,"['CVE-2004-2769', 'CVE-2012-2999', 'CVE-2012-5301', 'CVE-2012-6339']",2022-03-19T16:08Z
+1,cpe:2.3:a:cerberusftp:ftp_server:2.42:*:*:*:*:*:*:*,Cerberus FTP Server 2.42,"['CVE-2004-2769', 'CVE-2012-2999', 'CVE-2012-5301', 'CVE-2012-6339']",2022-03-19T16:08Z
+2,cpe:2.3:a:cerberusftp:ftp_server:2.43:*:*:*:*:*:*:*,Cerberus FTP Server 2.43,"['CVE-2004-2769', 'CVE-2012-2999', 'CVE-2012-5301', 'CVE-2012-6339']",2022-03-19T16:08Z
+3,cpe:2.3:a:cerberusftp:ftp_server:2.44:*:*:*:*:*:*:*,Cerberus FTP Server 2.44,"['CVE-2004-2769', 'CVE-2012-2999', 'CVE-2012-5301', 'CVE-2012-6339']",2022-03-19T16:08Z
+4,cpe:2.3:a:cerberusftp:ftp_server:2.45:*:*:*:*:*:*:*,Cerberus FTP Server 2.45,"['CVE-2004-2769', 'CVE-2012-2999', 'CVE-2012-5301', 'CVE-2012-6339']",2022-03-19T16:08Z
+5,cpe:2.3:a:cerberusftp:ftp_server:2.46:*:*:*:*:*:*:*,Cerberus FTP Server 2.46,"['CVE-2004-2769', 'CVE-2012-2999', 'CVE-2012-5301', 'CVE-2012-6339']",2022-03-19T16:08Z
+6,cpe:2.3:a:cerberusftp:ftp_server:2.47:*:*:*:*:*:*:*,Cerberus FTP Server 2.47,"['CVE-2004-2769', 'CVE-2012-2999', 'CVE-2012-5301', 'CVE-2012-6339']",2022-03-19T16:08Z
+7,cpe:2.3:a:cerberusftp:ftp_server:2.48:*:*:*:*:*:*:*,Cerberus FTP Server 2.48,"['CVE-2004-2769', 'CVE-2012-2999', 'CVE-2012-5301', 'CVE-2012-6339']",2022-03-19T16:08Z
+8,cpe:2.3:a:cerberusftp:ftp_server:2.49:*:*:*:*:*:*:*,Cerberus FTP Server 2.49,"['CVE-2004-2769', 'CVE-2012-2999', 'CVE-2012-5301', 'CVE-2012-6339']",2022-03-19T16:08Z
+9,cpe:2.3:a:cerberusftp:ftp_server:2.50:*:*:*:*:*:*:*,Cerberus FTP Server 2.50,"['CVE-2004-2769', 'CVE-2012-2999', 'CVE-2012-5301', 'CVE-2012-6339']",2022-03-19T16:08Z

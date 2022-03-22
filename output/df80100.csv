@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:blackbox:alertwerks_servsensor_junior_firmware:-:*:*:*:*:*:*:*,Black Box AlertWerks ServSensor Junior Firmware,['CVE-2016-2311'],2022-03-19T08:39Z
+1,cpe:2.3:o:blackbox:alertwerks_servsensor_junior_firmware:-:*:*:*:poe:*:*:*,Black Box AlertWerks ServSensor Junior Firmware with PoE,['CVE-2016-2311'],2022-03-19T08:39Z
+2,cpe:2.3:h:blackbox:hd_wireless_presentation_system:-:*:*:*:*:*:*:*,Blackbox HD Wireless Presentation System,"['CVE-2019-3929', 'CVE-2019-3930']",2022-03-19T08:39Z
+3,cpe:2.3:o:blackbox:hd_wireless_presentation_system_firmware:1.0.0.5:*:*:*:*:*:*:*,Blackbox Hd Wireless Presentation System Firmware 1.0.0.5,"['CVE-2019-3929', 'CVE-2019-3930']",2022-03-19T08:39Z
+4,cpe:2.3:h:blackbox:icompel:-:*:*:*:*:*:*:*,BlackBox iCompel,['CVE-2019-15497'],2022-03-19T08:39Z
+5,cpe:2.3:o:blackbox:icompel_firmware:9.2.3:*:*:*:*:*:*:*,BlackBox iCompel Firmware 9.2.3,['CVE-2019-15497'],2022-03-19T08:39Z
+6,cpe:2.3:o:blackbox:icompel_firmware:11.1.4:*:*:*:*:*:*:*,BlackBox iCompel Firmware 11.1.4,['CVE-2019-15497'],2022-03-19T08:39Z
+7,cpe:2.3:a:blackbox:inkra_center_point:2.1.5-b011:*:*:*:*:*:*:*,Blackbox Inkra Center Point 2.1.5-b011,[''],2022-03-19T08:39Z
+8,cpe:2.3:a:blackbox:inkra_center_point:2.1.6-b032:*:*:*:*:*:*:*,Blackbox Inkra Center Point 2.1.6-b032,[''],2022-03-19T08:39Z
+9,cpe:2.3:a:blackbox:inkra_suite:2.1.5-b011:*:*:*:*:*:*:*,Blackbox Inkra Suite 2.1.5-b011,[''],2022-03-19T08:39Z

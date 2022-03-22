@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:ch140l_v3_firmware:100r001c00:*:*:*:*:*:*:*,Huawei CH140L V3 Firmware 100R001C00,"['CVE-2018-7941', 'CVE-2018-7949', 'CVE-2018-7950', 'CVE-2018-7951']",2022-03-21T17:30Z
+1,cpe:2.3:o:huawei:ch140l_v3_firmware:v100r001c00:*:*:*:*:*:*:*,Huawei Ch140l V3 Firmware V100R001C00,['CVE-2018-7943'],2022-03-21T17:30Z
+2,cpe:2.3:h:huawei:ch220_v3:-:*:*:*:*:*:*:*,Huawei CH220 V3,"['CVE-2015-7842', 'CVE-2018-7941', 'CVE-2018-7943', 'CVE-2018-7949', 'CVE-2018-7950', 'CVE-2018-7951']",2022-03-21T17:30Z
+3,cpe:2.3:o:huawei:ch220_v3_firmware:-:*:*:*:*:*:*:*,Huawei Ch220 V3 Firmware -,['CVE-2015-7842'],2022-03-21T17:30Z
+4,cpe:2.3:o:huawei:ch220_v3_firmware:100r001c00:*:*:*:*:*:*:*,Huawei CH220 V3 Firmware 100R001C00,"['CVE-2015-7842', 'CVE-2018-7941', 'CVE-2018-7949', 'CVE-2018-7950', 'CVE-2018-7951']",2022-03-21T17:30Z
+5,cpe:2.3:o:huawei:ch220_v3_firmware:v100r001c00:*:*:*:*:*:*:*,Huawei CH220 V3 Firmware V100R001C00,"['CVE-2015-7842', 'CVE-2018-7943']",2022-03-21T17:30Z
+6,cpe:2.3:h:huawei:ch220_v3_server:-:*:*:*:*:*:*:*,Huawei CH220 V3 Server,['CVE-2016-6838'],2022-03-21T17:30Z
+7,cpe:2.3:o:huawei:ch220_v3_server_firmware:v100r001c00:*:*:*:*:*:*:*,Huawei CH220 V3 Server Firmware V100R001C00,['CVE-2016-6838'],2022-03-21T17:30Z
+8,cpe:2.3:h:huawei:ch222_v3:-:*:*:*:*:*:*:*,Huawei CH222 V3,"['CVE-2015-7842', 'CVE-2018-7941', 'CVE-2018-7943', 'CVE-2018-7949', 'CVE-2018-7950', 'CVE-2018-7951']",2022-03-21T17:30Z
+9,cpe:2.3:o:huawei:ch222_v3_firmware:-:*:*:*:*:*:*:*,Huawei Ch222 V3 Firmware -,['CVE-2015-7842'],2022-03-21T17:30Z

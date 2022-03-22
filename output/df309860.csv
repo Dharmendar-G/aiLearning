@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:helm:chartmuseum:0.5.0:*:*:*:*:*:*:*,Helm ChartMuseum 0.5.0,['CVE-2019-1000009'],2022-03-21T10:40Z
+1,cpe:2.3:a:helm:chartmuseum:0.5.1:*:*:*:*:*:*:*,Helm ChartMuseum 0.5.1,['CVE-2019-1000009'],2022-03-21T10:40Z
+2,cpe:2.3:a:helm:chartmuseum:0.5.2:*:*:*:*:*:*:*,Helm ChartMuseum 0.5.2,['CVE-2019-1000009'],2022-03-21T10:40Z
+3,cpe:2.3:a:helm:chartmuseum:0.6.0:*:*:*:*:*:*:*,Helm ChartMuseum 0.6.0,['CVE-2019-1000009'],2022-03-21T10:40Z
+4,cpe:2.3:a:helm:chartmuseum:0.7.0:*:*:*:*:*:*:*,Helm ChartMuseum 0.7.0,['CVE-2019-1000009'],2022-03-21T10:40Z
+5,cpe:2.3:a:helm:chartmuseum:0.7.1:*:*:*:*:*:*:*,Helm ChartMuseum 0.7.1,['CVE-2019-1000009'],2022-03-21T10:40Z
+6,cpe:2.3:a:helm:chartmuseum:0.8.0:*:*:*:*:*:*:*,Helm ChartMuseum 0.8.0,['CVE-2019-1000009'],2022-03-21T10:40Z
+7,cpe:2.3:a:helm:chartmuseum:0.8.1:*:*:*:*:*:*:*,Helm ChartMuseum 0.8.1,[''],2022-03-21T10:40Z
+8,cpe:2.3:a:helm:helm:1.0:*:*:*:*:*:*:*,Helm 1.0,"['CVE-2019-1010275', 'CVE-2021-32690']",2022-03-21T10:40Z
+9,cpe:2.3:a:helm:helm:1.1:*:*:*:*:*:*:*,Helm 1.1,"['CVE-2019-1010275', 'CVE-2021-32690']",2022-03-21T10:40Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:horde:horde_autoloader:2.0.1:*:*:*:*:*:*:*,Horde Autoloader 2.0.1,[''],2022-03-21T11:56Z
+1,cpe:2.3:a:horde:horde_autoloader:2.1.0:*:*:*:*:*:*:*,Horde Autoloader 2.1.0,[''],2022-03-21T11:56Z
+2,cpe:2.3:a:horde:horde_autoloader:2.1.1:*:*:*:*:*:*:*,Horde Autoloader 2.1.1,[''],2022-03-21T11:56Z
+3,cpe:2.3:a:horde:horde_autoloader:2.1.2:*:*:*:*:*:*:*,Horde Autoloader 2.1.2,[''],2022-03-21T11:56Z
+4,cpe:2.3:a:horde:horde_autoloader_cache:1.0.0:-:*:*:*:*:*:*,Horde Autoloader Cache 1.0.0,[''],2022-03-21T11:56Z
+5,cpe:2.3:a:horde:horde_autoloader_cache:1.0.0:rc:*:*:*:*:*:*,Horde Autoloader Cache 1.0.0 Release Candidate,[''],2022-03-21T11:56Z
+6,cpe:2.3:a:horde:horde_autoloader_cache:1.0.0:rc2:*:*:*:*:*:*,Horde Autoloader Cache 1.0.0 Release Candidate 2,[''],2022-03-21T11:56Z
+7,cpe:2.3:a:horde:horde_autoloader_cache:1.0.0:rc3:*:*:*:*:*:*,Horde Autoloader Cache 1.0.0 Release Candidate 3,[''],2022-03-21T11:56Z
+8,cpe:2.3:a:horde:horde_autoloader_cache:1.0.1:*:*:*:*:*:*:*,Horde Autoloader Cache 1.0.1,[''],2022-03-21T11:56Z
+9,cpe:2.3:a:horde:horde_autoloader_cache:2.0.0:-:*:*:*:*:*:*,Horde Autoloader Cache 2.0.0,[''],2022-03-21T11:56Z

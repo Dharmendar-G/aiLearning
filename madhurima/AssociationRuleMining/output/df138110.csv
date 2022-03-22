@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:virtualization_experience_client_6000_series_firmware:9.0:*:*:*:*:*:*:*,Cisco Virtualization Experience Client 6000 Series Firmware 9.0,[''],2022-03-20T01:03Z
+1,cpe:2.3:o:cisco:virtualization_experience_client_6000_series_firmware:9.2:*:*:*:*:*:*:*,Cisco Virtualization Experience Client 6000 Series Firmware 9.2,[''],2022-03-20T01:03Z
+2,cpe:2.3:o:cisco:virtualization_experience_client_6000_series_firmware:11.2\(27.4\):*:*:*:*:*:*:*,Cisco Virtualization Experience Client 6000 Series Firmware 11.2(27.4),['CVE-2015-4186'],2022-03-20T01:03Z
+3,cpe:2.3:h:cisco:virtualization_experience_client_6215:-:*:*:*:*:*:*:*,Cisco Virtualization Experience Client 6215,['CVE-2013-3408'],2022-03-20T01:03Z
+4,cpe:2.3:a:cisco:virtualized_packet:20.0:*:*:*:*:*:*:*,Cisco Virtualized Packet 20.0,[''],2022-03-20T01:03Z
+5,cpe:2.3:a:cisco:virtualized_packet_core:-:*:*:*:*:*:*:*,Cisco Virtualized Packet Core,"['CVE-2021-1539', 'CVE-2021-1540']",2022-03-20T01:03Z
+6,cpe:2.3:a:cisco:virtualized_packet_core:18.0:*:*:*:*:*:*:*,Cisco Virtualized Packet Core 18.0,[''],2022-03-20T01:03Z
+7,cpe:2.3:a:cisco:virtualized_packet_core:19.0:*:*:*:*:*:*:*,Cisco Virtualized Packet Core 19.0,[''],2022-03-20T01:03Z
+8,cpe:2.3:a:cisco:virtualized_packet_core:19.2:*:*:*:*:*:*:*,Cisco Virtualized Packet Core 19.2,[''],2022-03-20T01:03Z
+9,cpe:2.3:a:cisco:virtualized_packet_core:19.3:*:*:*:*:*:*:*,Cisco Virtualized Packet Core 19.3,[''],2022-03-20T01:03Z

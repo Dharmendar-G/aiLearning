@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_managed_mfp_e77825_z8z00a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP E77825 Z8Z00A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:12Z
+1,cpe:2.3:h:hp:laserjet_managed_mfp_e77825_z8z02a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP E77825 Z8Z02A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:12Z
+2,cpe:2.3:h:hp:laserjet_managed_mfp_e77825_z8z04a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP E77825 Z8Z04A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:12Z
+3,cpe:2.3:h:hp:laserjet_managed_mfp_e77830_x3a78a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP E77830 X3A78A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:12Z
+4,cpe:2.3:h:hp:laserjet_managed_mfp_e77830_x3a81a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP E77830 X3A81A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:12Z
+5,cpe:2.3:h:hp:laserjet_managed_mfp_e77830_x3a84a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP E77830 X3A84A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:12Z
+6,cpe:2.3:h:hp:laserjet_managed_mfp_e77830_z8z00a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP E77830 Z8Z00A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:12Z
+7,cpe:2.3:h:hp:laserjet_managed_mfp_e77830_z8z02a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP E77830 Z8Z02A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:12Z
+8,cpe:2.3:h:hp:laserjet_managed_mfp_e77830_z8z04a:-:*:*:*:*:*:*:*,HP LaserJet Managed MFP E77830 Z8Z04A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:12Z
+9,cpe:2.3:h:hp:laserjet_managed_mfp_e82540:-:*:*:*:*:*:*:*,HP Laserjet Managed Mfp E82540 -,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T15:12Z

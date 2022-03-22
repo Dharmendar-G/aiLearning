@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bosch:iot_gateway_software:9.1.1:*:*:*:*:*:*:*,Bosch IoT Gateway Software 9.1.1,"['CVE-2019-11601', 'CVE-2019-11602', 'CVE-2019-11897']",2022-03-19T10:04Z
+1,cpe:2.3:a:bosch:iot_gateway_software:9.2.0:*:*:*:*:*:*:*,Bosch IoT Gateway Software 9.2.0,['CVE-2019-11897'],2022-03-19T10:04Z
+2,cpe:2.3:a:bosch:iot_gateway_software:9.3.0:*:*:*:*:*:*:*,Bosch IoT Gateway Software 9.3.0,[''],2022-03-19T10:04Z
+3,cpe:2.3:a:bosch:iot_gateway_software:9.3.1:*:*:*:*:*:*:*,Bosch IoT Gateway Software 9.3.1,[''],2022-03-19T10:04Z
+4,cpe:2.3:a:bosch:iot_gateway_software:9.3.2:*:*:*:*:*:*:*,Bosch IoT Gateway Software 9.3.2,[''],2022-03-19T10:04Z
+5,cpe:2.3:a:bosch:ip_helper:-:*:*:*:*:*:*:*,Bosch IP Helper,['CVE-2020-6771'],2022-03-19T10:04Z
+6,cpe:2.3:a:bosch:ip_helper:1.00.0008:*:*:*:*:*:*:*,Bosch IP Helper 1.00.0008,['CVE-2020-6771'],2022-03-19T10:04Z
+7,cpe:2.3:h:bosch:mic_ip_dynamic_7000:-:*:*:*:*:*:*:*,Bosch MIC IP dynamic 7000,['CVE-2018-19036'],2022-03-19T10:04Z
+8,cpe:2.3:h:bosch:mic_ip_fusion_9000i:-:*:*:*:*:*:*:*,Bosch MIC IP fusion 9000i,['CVE-2018-19036'],2022-03-19T10:04Z
+9,cpe:2.3:h:bosch:mic_ip_starlight_7000:-:*:*:*:*:*:*:*,Bosch MIC IP starlight 7000,['CVE-2018-19036'],2022-03-19T10:04Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:industrial_ethernet_2000_4t-l_switch:-:*:*:*:*:*:*:*,Cisco Industrial Ethernet 2000 4T-L Switch,['CVE-2017-3812'],2022-03-19T20:08Z
+1,cpe:2.3:h:cisco:industrial_ethernet_2000_4ts-b_switch:-:*:*:*:*:*:*:*,Cisco Industrial Ethernet 2000 4TS-B Switch,['CVE-2017-3812'],2022-03-19T20:08Z
+2,cpe:2.3:h:cisco:industrial_ethernet_2000_4ts-g-b_switch:-:*:*:*:*:*:*:*,Cisco Industrial Ethernet 2000 4TS-G-B Switch,['CVE-2017-3812'],2022-03-19T20:08Z
+3,cpe:2.3:h:cisco:industrial_ethernet_2000_4ts-g-l_switch:-:*:*:*:*:*:*:*,Cisco Industrial Ethernet 2000 4TS-G-L Switch,['CVE-2017-3812'],2022-03-19T20:08Z
+4,cpe:2.3:h:cisco:industrial_ethernet_2000_4ts-l_switch:-:*:*:*:*:*:*:*,Cisco Industrial Ethernet 2000 4TS-L Switch,['CVE-2017-3812'],2022-03-19T20:08Z
+5,cpe:2.3:h:cisco:industrial_ethernet_2000_8t67-b_switch:-:*:*:*:*:*:*:*,Cisco Industrial Ethernet 2000 8T67-B Switch,['CVE-2017-3812'],2022-03-19T20:08Z
+6,cpe:2.3:h:cisco:industrial_ethernet_2000_8t67p-g-e_switch:-:*:*:*:*:*:*:*,Cisco Industrial Ethernet 2000 8T67P-G-E Switch,['CVE-2017-3812'],2022-03-19T20:08Z
+7,cpe:2.3:h:cisco:industrial_ethernet_2000_8tc-b_switch:-:*:*:*:*:*:*:*,Cisco Industrial Ethernet 2000 8TC-B Switch,['CVE-2017-3812'],2022-03-19T20:08Z
+8,cpe:2.3:h:cisco:industrial_ethernet_2000_8tc-g-b_switch:-:*:*:*:*:*:*:*,Cisco Industrial Ethernet 2000 8TC-G-B Switch,['CVE-2017-3812'],2022-03-19T20:08Z
+9,cpe:2.3:h:cisco:industrial_ethernet_2000_8tc-g-e_switch:-:*:*:*:*:*:*:*,Cisco Industrial Ethernet 2000 8TC-G-E Switch,['CVE-2017-3812'],2022-03-19T20:08Z

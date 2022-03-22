@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cells:blog:3.1:*:*:*:*:*:*:*,Cells Blog 3.1,[''],2022-03-19T15:56Z
+1,cpe:2.3:a:cells:blog:3.2:*:*:*:*:*:*:*,Cells Blog 3.2,[''],2022-03-19T15:56Z
+2,cpe:2.3:a:cells:blog:3.3:*:*:*:*:*:*:*,Cells Blog 3.3,[''],2022-03-19T15:56Z
+3,cpe:2.3:a:cells:blog:3.4:*:*:*:*:*:*:*,Cells Blog 3.4,[''],2022-03-19T15:56Z
+4,cpe:2.3:a:cells:blog:3.5:*:*:*:*:*:*:*,Cells Blog 3.5,"['CVE-2017-17948', 'CVE-2017-17949', 'CVE-2017-17950']",2022-03-19T15:56Z
+5,cpe:2.3:a:cells:blog:4.0:*:*:*:*:*:*:*,Cells Blog 4.0,[''],2022-03-19T15:56Z
+6,cpe:2.3:a:celluloid:reel:0.0.1:*:*:*:*:*:*:*,Celluloid Reel 0.0.1,['CVE-2020-7659'],2022-03-19T15:56Z
+7,cpe:2.3:a:celluloid:reel:0.0.2:*:*:*:*:*:*:*,Celluloid Reel 0.0.2,['CVE-2020-7659'],2022-03-19T15:56Z
+8,cpe:2.3:a:celluloid:reel:0.1.0:*:*:*:*:*:*:*,Celluloid Reel 0.1.0,['CVE-2020-7659'],2022-03-19T15:56Z
+9,cpe:2.3:a:celluloid:reel:0.2.0:*:*:*:*:*:*:*,Celluloid Reel 0.2.0,['CVE-2020-7659'],2022-03-19T15:56Z

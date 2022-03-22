@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:320-15ikbrn:-:*:*:*:*:*:*:*,HP 320-15IKBRN,['CVE-2018-9069'],2022-03-21T12:48Z
+1,cpe:2.3:o:hp:320-15ikbrn_firmware:-:*:*:*:*:*:*:*,HP 320-15IKBRN Firmware,['CVE-2018-9069'],2022-03-21T12:48Z
+2,cpe:2.3:o:hp:320-15ikbrn_firmware:6jcn24ww:*:*:*:*:*:*:*,HP 320-15IKBRN Firmware 6JCN24WW,[''],2022-03-21T12:48Z
+3,cpe:2.3:h:hp:320-15ikbrn_touch:-:*:*:*:*:*:*:*,HP 320-15IKBRN Touch,['CVE-2018-9069'],2022-03-21T12:48Z
+4,cpe:2.3:o:hp:320-15ikbrn_touch_firmware:-:*:*:*:*:*:*:*,HP 320-15IKBRN Touch Firmware,['CVE-2018-9069'],2022-03-21T12:48Z
+5,cpe:2.3:o:hp:320-15ikbrn_touch_firmware:6jcn24ww:*:*:*:*:*:*:*,HP 320-15IKBRN Touch Firmware 6JCN24WW,[''],2022-03-21T12:48Z
+6,cpe:2.3:h:hp:320-17ikbrn:-:*:*:*:*:*:*:*,HP 320-17IKBRN,['CVE-2018-9069'],2022-03-21T12:48Z
+7,cpe:2.3:h:hp:320-17ikbrn:2.09:*:*:*:*:*:*:*,HP 320-17IKBRN 2.09,[''],2022-03-21T12:48Z
+8,cpe:2.3:h:hp:320s-14ikb:-:*:*:*:*:*:*:*,HP 320S-14IKB,['CVE-2018-9069'],2022-03-21T12:48Z
+9,cpe:2.3:h:hp:320s-14ikb:2.09:*:*:*:*:*:*:*,HP 320S-14IKB 2.09,[''],2022-03-21T12:48Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:cr7770a:-:*:*:*:*:*:*:*,HP CR7770A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:08Z
+1,cpe:2.3:o:hp:cr7770a_firmware:1828a:*:*:*:*:*:*:*,HP CR7770A Firmware 1828A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:08Z
+2,cpe:2.3:a:hp:creativeprojects:45.4.157.0:*:*:*:*:*:*:*,HP Creativeprojects 45.4.157.0,[''],2022-03-21T13:08Z
+3,cpe:2.3:a:hp:creativeprojects_atenashokunin1config:45.4.131.0:*:*:*:*:*:*:*,HP Creativeprojects Atenashokunin1config 45.4.131.0,[''],2022-03-21T13:08Z
+4,cpe:2.3:a:hp:creativeprojects_atenashokunin1config:53.0.13.0:*:*:*:*:*:*:*,HP Creativeprojects Atenashokunin1config 53.0.13.0,[''],2022-03-21T13:08Z
+5,cpe:2.3:a:hp:creativeprojects_calendartemplates1:53.0.13.0:*:*:*:*:*:*:*,HP Creativeprojects Calendartemplates1 53.0.13.0,[''],2022-03-21T13:08Z
+6,cpe:2.3:a:hp:creativeprojects_calendartemplates1:70.0.170.0:*:*:*:*:*:*:*,HP Creativeprojects Calendartemplates1 70.0.170.0,[''],2022-03-21T13:08Z
+7,cpe:2.3:a:hp:creativeprojects_dwshrek2albums1:45.4.157.0:*:*:*:*:*:*:*,HP Creativeprojects Dwshrek2albums1 45.4.157.0,[''],2022-03-21T13:08Z
+8,cpe:2.3:a:hp:creativeprojects_dwshrek2cards1:45.4.157.0:*:*:*:*:*:*:*,HP Creativeprojects Dwshrek2cards1 45.4.157.0,[''],2022-03-21T13:08Z
+9,cpe:2.3:a:hp:creativeprojects_onlineprojectsconfig:70.0.170.0:*:*:*:*:*:*:*,HP Creativeprojects Onlineprojectsconfig 70.0.170.0,[''],2022-03-21T13:08Z

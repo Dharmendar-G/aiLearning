@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blubrry:powerpress_podcasting:7.4.4:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting 7.4.4 for WordPress,[''],2022-03-19T08:48Z
+1,cpe:2.3:a:blubrry:powerpress_podcasting:7.5:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting 7.5 for WordPress,[''],2022-03-19T08:48Z
+2,cpe:2.3:a:blubrry:powerpress_podcasting:7.5.1:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting 7.5.1 for WordPress,[''],2022-03-19T08:48Z
+3,cpe:2.3:a:blubrry:powerpress_podcasting:7.5.2:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting 7.5.2 for WordPress,[''],2022-03-19T08:48Z
+4,cpe:2.3:a:blubrry:powerpress_podcasting:7.5.3:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting 7.5.3 for WordPress,[''],2022-03-19T08:48Z
+5,cpe:2.3:a:blubrry:powerpress_podcasting:7.5.4:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting 7.5.4 for WordPress,[''],2022-03-19T08:48Z
+6,cpe:2.3:a:blubrry:subscribe_sidebar:1.3.1:*:*:*:*:wordpress:*:*,Blubrry Subscribe Sidebar 1.3.1 for WordPress,['CVE-2020-25033'],2022-03-19T08:48Z
+7,cpe:2.3:a:bludit:bludit:0.1:*:*:*:*:*:*:*,Bludit Bludit 0.1,"['CVE-2019-12548', 'CVE-2019-12742', 'CVE-2021-45744', 'CVE-2021-45745']",2022-03-19T08:48Z
+8,cpe:2.3:a:bludit:bludit:0.2:-:*:*:*:*:*:*,Bludit Bludit 0.2,"['CVE-2019-12548', 'CVE-2019-12742', 'CVE-2021-45744', 'CVE-2021-45745']",2022-03-19T08:48Z
+9,cpe:2.3:a:bludit:bludit:0.2:beta1:*:*:*:*:*:*,Bludit Bludit 0.2 Beta1,"['CVE-2019-12548', 'CVE-2019-12742', 'CVE-2021-45744', 'CVE-2021-45745']",2022-03-19T08:48Z

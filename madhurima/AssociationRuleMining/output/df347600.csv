@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:sdk:7.0.0.0:*:*:*:java_technology:*:*:*,IBM SDK 7.0.0.0 Java Technology Edition,['CVE-2019-4732'],2022-03-21T21:53Z
+1,cpe:2.3:a:ibm:sdk:7.0.10.55:*:*:*:java_technology:*:*:*,IBM SDK 7.0.10.55 Java Technology Edition,['CVE-2019-4732'],2022-03-21T21:53Z
+2,cpe:2.3:a:ibm:sdk:7.1.0.0:*:*:*:java_technology:*:*:*,IBM SDK 7.1.0.0 Java Technology Edition,['CVE-2019-4732'],2022-03-21T21:53Z
+3,cpe:2.3:a:ibm:sdk:7.1.4.55:*:*:*:java_technology:*:*:*,IBM SDK 7.1.4.55 Java Technology Edition,['CVE-2019-4732'],2022-03-21T21:53Z
+4,cpe:2.3:a:ibm:sdk:7r1:service_refresh_4_fp1:*:*:java_technology_edition:*:*:*,IBM SDK 7R1 Service Refresh 4 FIX Pack 1 Java Technology Edition Edition,['CVE-2017-1289'],2022-03-21T21:53Z
+5,cpe:2.3:a:ibm:sdk:8:service_refresh_4_fp2:*:*:java_technology_edition:*:*:*,IBM SDK 8 Service Refresh 4 Fix Pack 2 Java Technology Edition Edition,['CVE-2017-1289'],2022-03-21T21:53Z
+6,cpe:2.3:a:ibm:sdk:8.0:*:*:*:java_technology:*:*:*,IBM SDK 8.0 Java Technology Edition,"['CVE-2018-1656', 'CVE-2018-1890']",2022-03-21T21:53Z
+7,cpe:2.3:a:ibm:sdk:8.0.0.0:*:*:*:java_technology:*:*:*,IBM SDK 8.0.0.0 Java Technology Edition,['CVE-2019-4732'],2022-03-21T21:53Z
+8,cpe:2.3:a:ibm:sdk:8.0.6.0:*:*:*:java_technology:*:*:*,IBM SDK 8.0.6.0 Java Technology Edition,['CVE-2019-4732'],2022-03-21T21:53Z
+9,cpe:2.3:a:ibm:secureway:-:*:*:*:*:*:*:*,IBM SecureWay,[''],2022-03-21T21:53Z

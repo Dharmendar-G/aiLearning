@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blackberry:workspaces_vapp:5.5.9:*:*:*:*:*:*:*,BlackBerry Workspaces vApp 5.5.9,"['CVE-2017-9367', 'CVE-2017-9368']",2022-03-19T08:37Z
+1,cpe:2.3:a:blackberry:workspaces_vapp:5.6.0:*:*:*:*:*:*:*,BlackBerry Workspaces vApp 5.6.0,"['CVE-2017-9367', 'CVE-2017-9368']",2022-03-19T08:37Z
+2,cpe:2.3:a:blackberry:workspaces_vapp:5.6.1:*:*:*:*:*:*:*,BlackBerry Workspaces vApp 5.6.1,"['CVE-2017-9367', 'CVE-2017-9368']",2022-03-19T08:37Z
+3,cpe:2.3:a:blackberry:workspaces_vapp:5.6.2:*:*:*:*:*:*:*,BlackBerry Workspaces vApp 5.6.2,"['CVE-2017-9367', 'CVE-2017-9368']",2022-03-19T08:37Z
+4,cpe:2.3:a:blackberry:workspaces_vapp:5.6.3:*:*:*:*:*:*:*,BlackBerry Workspaces vApp 5.6.3,"['CVE-2017-9367', 'CVE-2017-9368']",2022-03-19T08:37Z
+5,cpe:2.3:a:blackberry:workspaces_vapp:5.6.4:*:*:*:*:*:*:*,BlackBerry Workspaces vApp 5.6.4,"['CVE-2017-9367', 'CVE-2017-9368']",2022-03-19T08:37Z
+6,cpe:2.3:a:blackberry:workspaces_vapp:5.6.5:*:*:*:*:*:*:*,BlackBerry Workspaces vApp 5.6.5,"['CVE-2017-9367', 'CVE-2017-9368']",2022-03-19T08:37Z
+7,cpe:2.3:a:blackberry:workspaces_vapp:5.6.6:*:*:*:*:*:*:*,BlackBerry Workspaces vApp 5.6.6,"['CVE-2017-9367', 'CVE-2017-9368']",2022-03-19T08:37Z
+8,cpe:2.3:h:blackberry:z10:-:*:*:*:*:*:*:*,BlackBerry Z10,"['CVE-2013-3692', 'CVE-2014-2388']",2022-03-19T08:37Z
+9,cpe:2.3:h:blackberry:z30:-:*:*:*:*:*:*:*,BlackBerry Z30,['CVE-2014-2388'],2022-03-19T08:37Z

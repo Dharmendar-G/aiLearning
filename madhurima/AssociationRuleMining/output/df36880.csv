@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:tapestry:4.0.0:beta5:*:*:*:*:*:*,Apache Software Foundation Tapestry 4.0.0 Beta 5,"['CVE-2014-1972', 'CVE-2020-17531']",2022-03-18T20:23Z
+1,cpe:2.3:a:apache:tapestry:4.0.0:beta6:*:*:*:*:*:*,Apache Software Foundation Tapestry 4.0.0 Beta 6,"['CVE-2014-1972', 'CVE-2020-17531']",2022-03-18T20:23Z
+2,cpe:2.3:a:apache:tapestry:4.0.0:beta7:*:*:*:*:*:*,Apache Software Foundation Tapestry 4.0.0 Beta 7,"['CVE-2014-1972', 'CVE-2020-17531']",2022-03-18T20:23Z
+3,cpe:2.3:a:apache:tapestry:4.0.0:beta8:*:*:*:*:*:*,Apache Software Foundation Tapestry 4.0.0 Beta 8,"['CVE-2014-1972', 'CVE-2020-17531']",2022-03-18T20:23Z
+4,cpe:2.3:a:apache:tapestry:4.0.0:beta9:*:*:*:*:*:*,Apache Software Foundation Tapestry 4.0.0 Beta 9,"['CVE-2014-1972', 'CVE-2020-17531']",2022-03-18T20:24Z
+5,cpe:2.3:a:apache:tapestry:4.0.0:rc1:*:*:*:*:*:*,Apache Software Foundation Tapestry 4.0.0 Release Candidate 1,"['CVE-2014-1972', 'CVE-2020-17531']",2022-03-18T20:24Z
+6,cpe:2.3:a:apache:tapestry:4.0.0:rc2:*:*:*:*:*:*,Apache Software Foundation Tapestry 4.0.0 Release Candidate 2,"['CVE-2014-1972', 'CVE-2020-17531']",2022-03-18T20:24Z
+7,cpe:2.3:a:apache:tapestry:4.0.0:rc3:*:*:*:*:*:*,Apache Software Foundation Tapestry 4.0.0 Release Candidate 3,"['CVE-2014-1972', 'CVE-2020-17531']",2022-03-18T20:24Z
+8,cpe:2.3:a:apache:tapestry:4.0.1:*:*:*:*:*:*:*,Apache Software Foundation Tapestry 4.0.1,"['CVE-2014-1972', 'CVE-2020-17531']",2022-03-18T20:24Z
+9,cpe:2.3:a:apache:tapestry:4.0.2:*:*:*:*:*:*:*,Apache Software Foundation Tapestry 4.0.2,"['CVE-2014-1972', 'CVE-2020-17531']",2022-03-18T20:24Z

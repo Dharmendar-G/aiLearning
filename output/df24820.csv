@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:analogx:proxy:4.0.5:*:*:*:*:*:*:*,AnalogX AnalogX Proxy 4.0.5,['CVE-2002-1001'],2022-03-18T16:21Z
+1,cpe:2.3:a:analogx:proxy:4.0.6:*:*:*:*:*:*:*,AnalogX AnalogX Proxy 4.0.6,['CVE-2002-1001'],2022-03-18T16:21Z
+2,cpe:2.3:a:analogx:proxy:4.0.7:*:*:*:*:*:*:*,AnalogX AnalogX Proxy 4.0.7,['CVE-2002-1001'],2022-03-18T16:21Z
+3,cpe:2.3:a:analogx:proxy:4.4:*:*:*:*:*:*:*,AnalogX AnalogX Proxy 4.4,"['CVE-2000-0656', 'CVE-2000-0657', 'CVE-2000-0658', 'CVE-2000-0659']",2022-03-18T16:21Z
+4,cpe:2.3:a:analogx:proxy:4.13:*:*:*:*:*:*:*,AnalogX AnalogX Proxy 4.13,['CVE-2003-0410'],2022-03-18T16:21Z
+5,cpe:2.3:a:analogx:simpleserver_shout:-:*:*:*:*:*:*:*,AnalogX SimpleServer Shout,[''],2022-03-18T16:21Z
+6,cpe:2.3:a:analogx:simpleserver_shout:1.0:*:*:*:*:*:*:*,AnalogX SimpleServer Shout 1.0,['CVE-2002-1000'],2022-03-18T16:21Z
+7,cpe:2.3:a:analogx:simpleserver_www:-:*:*:*:*:*:*:*,AnalogX SimpleServer WWW,"['CVE-2001-0386', 'CVE-2001-1586', 'CVE-2002-0968']",2022-03-18T16:22Z
+8,cpe:2.3:a:analogx:simpleserver_www:1.0.1:*:*:*:*:*:*:*,AnalogX SimpleServer 1.0.1,"['CVE-2000-0011', 'CVE-2001-0386', 'CVE-2001-1586', 'CVE-2002-0968']",2022-03-18T16:21Z
+9,cpe:2.3:a:analogx:simpleserver_www:1.0.3:*:*:*:*:*:*:*,AnalogX SimpleServer 1.0.3,"['CVE-2000-0243', 'CVE-2001-0386', 'CVE-2001-1586', 'CVE-2002-0968']",2022-03-18T16:22Z

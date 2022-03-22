@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:cz249a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise CZ249A,"['CVE-2016-2244', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T13:09Z
+1,cpe:2.3:h:hp:cz250a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise CZ250A,"['CVE-2016-2244', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T13:09Z
+2,cpe:2.3:h:hp:cz251a:-:*:*:*:*:*:*:*,HP CZ251A,['CVE-2017-2750'],2022-03-21T13:09Z
+3,cpe:2.3:h:hp:cz255a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise CZ255A,"['CVE-2016-2244', 'CVE-2017-2750']",2022-03-21T13:09Z
+4,cpe:2.3:h:hp:cz256a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise CZ256A,"['CVE-2016-2244', 'CVE-2017-2750']",2022-03-21T13:09Z
+5,cpe:2.3:h:hp:cz257a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise CZ257A,"['CVE-2016-2244', 'CVE-2017-2750']",2022-03-21T13:09Z
+6,cpe:2.3:h:hp:cz258a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise CZ258A,"['CVE-2016-2244', 'CVE-2017-2750']",2022-03-21T13:09Z
+7,cpe:2.3:h:hp:cz276a:-:*:*:*:*:*:*:*,HP CZ276A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:09Z
+8,cpe:2.3:o:hp:cz276a_firmware:1827a:*:*:*:*:*:*:*,HP CZ276A Firmware 1827A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:09Z
+9,cpe:2.3:h:hp:cz282a:-:*:*:*:*:*:*:*,HP CZ282A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:09Z

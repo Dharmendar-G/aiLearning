@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:subversion:1.9.2:*:*:*:*:*:*:*,Apache Software Foundation Subversion 1.9.2,"['CVE-2004-0179', 'CVE-2015-5259', 'CVE-2015-5343', 'CVE-2016-2167', 'CVE-2016-2168', 'CVE-2016-8734', 'CVE-2017-9800', 'CVE-2018-11782', 'CVE-2019-0203', 'CVE-2020-17525']",2022-03-18T20:16Z
+1,cpe:2.3:a:apache:subversion:1.9.3:*:*:*:*:*:*:*,Apache Software Foundation Subversion 1.9.3,"['CVE-2004-0179', 'CVE-2016-2167', 'CVE-2016-2168', 'CVE-2016-8734', 'CVE-2017-9800', 'CVE-2018-11782', 'CVE-2019-0203', 'CVE-2020-17525']",2022-03-18T20:16Z
+2,cpe:2.3:a:apache:subversion:1.9.4:*:*:*:*:*:*:*,Apache Software Foundation Subversion 1.9.4,"['CVE-2004-0179', 'CVE-2016-8734', 'CVE-2017-9800', 'CVE-2018-11782', 'CVE-2019-0203', 'CVE-2020-17525']",2022-03-18T20:16Z
+3,cpe:2.3:a:apache:subversion:1.9.5:*:*:*:*:*:*:*,Apache Software Foundation Subversion 1.9.5,"['CVE-2004-0179', 'CVE-2017-9800', 'CVE-2018-11782', 'CVE-2019-0203', 'CVE-2020-17525']",2022-03-18T20:16Z
+4,cpe:2.3:a:apache:subversion:1.9.6:*:*:*:*:*:*:*,Apache Software Foundation Subversion 1.9.6,"['CVE-2004-0179', 'CVE-2017-9800', 'CVE-2018-11782', 'CVE-2019-0203', 'CVE-2020-17525']",2022-03-18T20:16Z
+5,cpe:2.3:a:apache:subversion:1.9.10:*:*:*:*:*:*:*,Apache Software Foundation Subversion 1.9.10,"['CVE-2004-0179', 'CVE-2018-11782', 'CVE-2019-0203', 'CVE-2020-17525']",2022-03-18T20:16Z
+6,cpe:2.3:a:apache:subversion:1.10.0:*:*:*:*:*:*:*,Apache Software Foundation Subversion 1.10.0,"['CVE-2004-0179', 'CVE-2017-9800', 'CVE-2018-11782', 'CVE-2018-11803', 'CVE-2019-0203', 'CVE-2020-17525']",2022-03-18T20:16Z
+7,cpe:2.3:a:apache:subversion:1.10.0:alpha1:*:*:*:*:*:*,Apache Software Foundation Subversion 1.10.0 Alpha 1,"['CVE-2004-0179', 'CVE-2017-9800', 'CVE-2018-11782', 'CVE-2018-11803', 'CVE-2019-0203', 'CVE-2020-17525']",2022-03-18T20:16Z
+8,cpe:2.3:a:apache:subversion:1.10.0:alpha2:*:*:*:*:*:*,Apache Software Foundation Subversion 1.10.0 Alpha 2,"['CVE-2004-0179', 'CVE-2017-9800', 'CVE-2018-11782', 'CVE-2018-11803', 'CVE-2019-0203', 'CVE-2020-17525']",2022-03-18T20:16Z
+9,cpe:2.3:a:apache:subversion:1.10.0:alpha3:*:*:*:*:*:*,Apache Software Foundation Subversion 1.10.0 Alpha 3,"['CVE-2004-0179', 'CVE-2017-9800', 'CVE-2018-11782', 'CVE-2018-11803', 'CVE-2019-0203', 'CVE-2020-17525']",2022-03-18T20:16Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:arrow:0.5.0:*:*:*:*:*:*:*,Apache Software Foundation Arrow 0.5.0,[''],2022-03-18T17:40Z
+1,cpe:2.3:a:apache:arrow:0.6.0:*:*:*:*:*:*:*,Apache Software Foundation Arrow 0.6.0,[''],2022-03-18T17:40Z
+2,cpe:2.3:a:apache:arrow:0.7.0:*:*:*:*:*:*:*,Apache Software Foundation Arrow 0.7.0,[''],2022-03-18T17:40Z
+3,cpe:2.3:a:apache:arrow:0.7.1:*:*:*:*:*:*:*,Apache Software Foundation Arrow 0.7.1,[''],2022-03-18T17:40Z
+4,cpe:2.3:a:apache:arrow:0.8.0:*:*:*:*:*:*:*,Apache Software Foundation Arrow 0.8.0,[''],2022-03-18T17:40Z
+5,cpe:2.3:a:apache:arrow:0.9.0:*:*:*:*:*:*:*,Apache Software Foundation Arrow 0.9.0,[''],2022-03-18T17:40Z
+6,cpe:2.3:a:apache:arrow:0.10.0:*:*:*:*:*:*:*,Apache Software Foundation Arrow 0.10.0,[''],2022-03-18T17:40Z
+7,cpe:2.3:a:apache:arrow:0.11.0:*:*:*:*:*:*:*,Apache Software Foundation Arrow 0.11.0,[''],2022-03-18T17:40Z
+8,cpe:2.3:a:apache:arrow:0.11.1:*:*:*:*:*:*:*,Apache Software Foundation Arrow 0.11.1,[''],2022-03-18T17:40Z
+9,cpe:2.3:a:apache:arrow:0.12.0:*:*:*:*:*:*:*,Apache Software Foundation Arrow 0.12.0,['CVE-2019-12410'],2022-03-18T17:40Z

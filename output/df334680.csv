@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:johnson-l42ic:-:*:*:*:*:*:*:*,Huawei Johnson-L42IC,['CVE-2019-5235'],2022-03-21T17:59Z
+1,cpe:2.3:o:huawei:johnson-l42ic_firmware:8.2.0.155\(c675r2p1\):*:*:*:*:*:*:*,Huawei Johnson-L42IC Firmware 8.2.0.155(C675R2P1),['CVE-2019-5235'],2022-03-21T17:59Z
+2,cpe:2.3:h:huawei:johnson-l42ie:-:*:*:*:*:*:*:*,Huawei Johnson-L42IE,['CVE-2019-5235'],2022-03-21T18:00Z
+3,cpe:2.3:o:huawei:johnson-l42ie_firmware:8.2.0.155\(c675r2p1\):*:*:*:*:*:*:*,Huawei Johnson-L42IE Firmware 8.2.0.155(C675R2P1),['CVE-2019-5235'],2022-03-21T18:00Z
+4,cpe:2.3:h:huawei:johnson-l42if:-:*:*:*:*:*:*:*,Huawei Johnson-L42IF,['CVE-2019-5235'],2022-03-21T18:00Z
+5,cpe:2.3:o:huawei:johnson-l42if_firmware:8.2.0.155\(c675r2p1\):*:*:*:*:*:*:*,Huawei Johnson-L42IF Firmware 8.2.0.155(C675R2P1),['CVE-2019-5235'],2022-03-21T18:00Z
+6,cpe:2.3:h:huawei:johnson-tl00d:-:*:*:*:*:*:*:*,Huawei Johnson-TL00D,"['CVE-2019-5235', 'CVE-2019-9506']",2022-03-21T18:00Z
+7,cpe:2.3:o:huawei:johnson-tl00d_firmware:-:*:*:*:*:*:*:*,Huawei JOHNSON-TL00D FIRMWARE,['CVE-2019-9506'],2022-03-21T18:00Z
+8,cpe:2.3:o:huawei:johnson-tl00d_firmware:8.2.0.100\(c541custc541d1\):*:*:*:*:*:*:*,Huawei Johnson-TL00D Firmware 8.2.0.100(C541CUSTC541D1),['CVE-2019-5235'],2022-03-21T18:00Z
+9,cpe:2.3:o:huawei:johnson-tl00d_firmware:8.2.0.165\(c01r1p16\):*:*:*:*:*:*:*,Huawei Johnson-TL00D Firmware 8.2.0.165(C01R1P16),['CVE-2019-5235'],2022-03-21T18:00Z

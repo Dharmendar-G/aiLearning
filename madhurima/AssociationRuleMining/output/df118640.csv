@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:esw2-550x48dc_firmware:1.4.10.6:*:*:*:*:*:*:*,Cisco ESW2-550X48DC Firmware 1.4.10.6,[''],2022-03-19T19:30Z
+1,cpe:2.3:o:cisco:esw2-550x-48dc_firmware:1.4.7.0:*:*:*:*:*:*:*,Cisco ESW2-550X-48DC Firmware 1.4.7.0,"['CVE-2017-12307', 'CVE-2017-12308', 'CVE-2017-6720', 'CVE-2021-34739']",2022-03-19T19:30Z
+2,cpe:2.3:o:cisco:esw2-550x-48dc_firmware:1.4.8.06:*:*:*:*:*:*:*,Cisco ESW2-550X-48DC Firmware 1.4.8.06,"['CVE-2017-12307', 'CVE-2017-12308', 'CVE-2021-34739']",2022-03-19T19:30Z
+3,cpe:2.3:o:cisco:esw2-550x-48dc_firmware:1.4.9.4:*:*:*:*:*:*:*,Cisco ESW2-550X-48DC Firmware 1.4.9.4,['CVE-2021-34739'],2022-03-19T19:30Z
+4,cpe:2.3:h:cisco:esw6300:-:*:*:*:*:*:*:*,Cisco ESW6300,"['CVE-2021-1423', 'CVE-2021-1437', 'CVE-2021-1439', 'CVE-2021-1449']",2022-03-19T19:30Z
+5,cpe:2.3:h:cisco:esw-6300-con-x-k9:-:*:*:*:*:*:*:*,Cisco ESW-6300-CON-X-K9,['CVE-2020-3560'],2022-03-19T19:30Z
+6,cpe:2.3:o:cisco:ethernet_subscriber_solution_engine:-:*:*:*:*:*:*:*,Cisco Ethernet Subscriber Solution Engine,['CVE-2006-1961'],2022-03-19T19:30Z
+7,cpe:2.3:a:cisco:evolved_programmable_network_manager:1.1:*:*:*:*:*:*:*,Cisco Evolved Programmable Network Manager 1.1,"['CVE-2019-15958', 'CVE-2019-1818', 'CVE-2019-1819', 'CVE-2019-1820', 'CVE-2019-1821', 'CVE-2019-1822', 'CVE-2019-1823', 'CVE-2019-1824', 'CVE-2019-1825', 'CVE-2021-1306', 'CVE-2021-1487', 'CVE-2021-34707', 'CVE-2021-34733', 'CVE-2021-34784', 'CVE-2021-44228', 'CVE-2022-20659']",2022-03-19T19:30Z
+8,cpe:2.3:a:cisco:evolved_programmable_network_manager:1.1.2:*:*:*:*:*:*:*,Cisco Evolved Programmable Network Manager 1.1.2,"['CVE-2019-15958', 'CVE-2019-1818', 'CVE-2019-1819', 'CVE-2019-1820', 'CVE-2019-1821', 'CVE-2019-1822', 'CVE-2019-1823', 'CVE-2019-1824', 'CVE-2019-1825', 'CVE-2021-1306', 'CVE-2021-1487', 'CVE-2021-34707', 'CVE-2021-34733', 'CVE-2021-34784', 'CVE-2021-44228', 'CVE-2022-20659']",2022-03-19T19:30Z
+9,cpe:2.3:a:cisco:evolved_programmable_network_manager:1.2:*:*:*:*:*:*:*,Cisco Evolved Programmable Network Manager 1.2,"['CVE-2016-6443', 'CVE-2019-15958', 'CVE-2019-1818', 'CVE-2019-1819', 'CVE-2019-1820', 'CVE-2019-1821', 'CVE-2019-1822', 'CVE-2019-1823', 'CVE-2019-1824', 'CVE-2019-1825', 'CVE-2021-1306', 'CVE-2021-1487', 'CVE-2021-34707', 'CVE-2021-34733', 'CVE-2021-34784', 'CVE-2021-44228', 'CVE-2022-20659']",2022-03-19T19:30Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hello.js_project:hello.js:1.17.0:*:*:*:*:node.js:*:*,Hello.js Project Hello.js 1.17.0 for Node.js,['CVE-2020-7741'],2022-03-21T10:39Z
+1,cpe:2.3:a:hello.js_project:hello.js:1.17.1:*:*:*:*:node.js:*:*,Hello.js Project Hello.js 1.17.1 for Node.js,['CVE-2020-7741'],2022-03-21T10:39Z
+2,cpe:2.3:a:hello.js_project:hello.js:1.18.0:*:*:*:*:node.js:*:*,Hello.js Project Hello.js 1.18.0 for Node.js,['CVE-2020-7741'],2022-03-21T10:39Z
+3,cpe:2.3:a:hello.js_project:hello.js:1.18.1:*:*:*:*:node.js:*:*,Hello.js Project Hello.js 1.18.1 for Node.js,['CVE-2020-7741'],2022-03-21T10:39Z
+4,cpe:2.3:a:hello.js_project:hello.js:1.18.2:*:*:*:*:node.js:*:*,Hello.js Project Hello.js 1.18.2 for Node.js,['CVE-2020-7741'],2022-03-21T10:39Z
+5,cpe:2.3:a:hello.js_project:hello.js:1.18.3:*:*:*:*:node.js:*:*,Hello.js Project Hello.js 1.18.3 for Node.js,['CVE-2020-7741'],2022-03-21T10:39Z
+6,cpe:2.3:a:hello.js_project:hello.js:1.18.4:*:*:*:*:node.js:*:*,Hello.js Project Hello.js 1.18.4 for Node.js,['CVE-2020-7741'],2022-03-21T10:39Z
+7,cpe:2.3:a:hello.js_project:hello.js:1.18.5:*:*:*:*:node.js:*:*,Hello.js Project Hello.js 1.18.5 for Node.js,['CVE-2020-7741'],2022-03-21T10:39Z
+8,cpe:2.3:a:hello.js_project:hello.js:1.18.6:*:*:*:*:node.js:*:*,Hello.js Project Hello.js 1.18.6 for Node.js,[''],2022-03-21T10:39Z
+9,cpe:2.3:a:hello.js_project:hello.js:2.0.0-1:*:*:*:*:node.js:*:*,Hello.js Project Hello.js 2.0.0-1 for Node.js,[''],2022-03-21T10:39Z

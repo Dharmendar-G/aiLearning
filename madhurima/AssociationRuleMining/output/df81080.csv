@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bluecoat:winproxy:-:*:*:*:*:*:*:*,Blue Coat Systems WinProxy,['CVE-2008-5121'],2022-03-19T08:53Z
+1,cpe:2.3:a:bluecoat:winproxy:6.0:*:*:*:*:*:*:*,Blue Coat Systems Blue Coat Systems WinProxy 6.0,"['CVE-2005-3187', 'CVE-2008-5121']",2022-03-19T08:53Z
+2,cpe:2.3:a:bluecoat:winproxy:6.0:r1c:*:*:*:*:*:*,Blue Coat Systems WinProxy 6.0 r1c,"['CVE-2005-3187', 'CVE-2007-0796', 'CVE-2008-5121']",2022-03-19T08:53Z
+3,cpe:2.3:a:bluecoat:winproxy:6.1:r1a:*:*:*:*:*:*,Blue Coat Systems WinProxy 6.1a,"['CVE-2007-0796', 'CVE-2008-5121']",2022-03-19T08:53Z
+4,cpe:2.3:a:blueeleph_project:blueeleph:1:*:*:*:*:android:*:*,blueeleph project blueeleph (aka eg.film.blueeleph) for android 1.0,['CVE-2014-6777'],2022-03-19T08:53Z
+5,cpe:2.3:a:blueman_project:blueman:-:*:*:*:*:*:*:*,Blueman Project Blueman,"['CVE-2015-8612', 'CVE-2020-15238']",2022-03-19T08:53Z
+6,cpe:2.3:a:blueman_project:blueman:1.99:alpha1:*:*:*:*:*:*,Blueman Project Blueman 1.99 Alpha 1,"['CVE-2015-8612', 'CVE-2020-15238']",2022-03-19T08:53Z
+7,cpe:2.3:a:blueman_project:blueman:1.99:alpha2:*:*:*:*:*:*,Blueman Project Blueman 1.99 Alpha 2,"['CVE-2015-8612', 'CVE-2020-15238']",2022-03-19T08:53Z
+8,cpe:2.3:a:blueman_project:blueman:2.0:*:*:*:*:*:*:*,Blueman Project Blueman 2.0,"['CVE-2015-8612', 'CVE-2020-15238']",2022-03-19T08:53Z
+9,cpe:2.3:a:blueman_project:blueman:2.0:rc1:*:*:*:*:*:*,Blueman Project Blueman 2.0 Release Candidate 1,"['CVE-2015-8612', 'CVE-2020-15238']",2022-03-19T08:53Z

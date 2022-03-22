@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dir-820lw_firmware:-:*:*:*:*:*:*:*,D-Link DIR-820LW Firmware,['CVE-2021-45382'],2022-03-20T15:50Z
+1,cpe:2.3:h:dlink:dir-822:-:*:*:*:*:*:*:*,D-Link DIR-822,"['CVE-2016-6563', 'CVE-2018-20674', 'CVE-2018-20675', 'CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:50Z
+2,cpe:2.3:o:dlink:dir-822_firmware:-:*:*:*:*:*:*:*,D-Link DIR-822 Firmware,"['CVE-2016-6563', 'CVE-2018-20674', 'CVE-2018-20675', 'CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:50Z
+3,cpe:2.3:o:dlink:dir-822_firmware:2.00krb06:*:*:*:*:*:*:*,D-Link DIR-822 Firmware 2.00KRB06,"['CVE-2018-20674', 'CVE-2018-20675', 'CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:50Z
+4,cpe:2.3:o:dlink:dir-822_firmware:2.02krb01:*:*:*:*:*:*:*,D-Link DIR-822 Firmware 2.02KRB01,"['CVE-2018-20674', 'CVE-2018-20675', 'CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:50Z
+5,cpe:2.3:o:dlink:dir-822_firmware:2.02krb05:*:*:*:*:*:*:*,D-Link DIR-822 Firmware 2.02KRB05,"['CVE-2018-20674', 'CVE-2018-20675', 'CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:50Z
+6,cpe:2.3:o:dlink:dir-822_firmware:2.02krb06:*:*:*:*:*:*:*,D-Link DIR-822 Firmware 2.02KRB06,"['CVE-2018-20674', 'CVE-2018-20675', 'CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:50Z
+7,cpe:2.3:o:dlink:dir-822_firmware:2.03b01:*:*:*:*:*:*:*,D-Link DIR-822 Firmware 2.03b01,"['CVE-2018-20674', 'CVE-2018-20675', 'CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:50Z
+8,cpe:2.3:o:dlink:dir-822_firmware:3.10b06:*:*:*:*:*:*:*,D-Link DIR-822 Firmware 3.10B06,"['CVE-2018-20674', 'CVE-2018-20675', 'CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:50Z
+9,cpe:2.3:o:dlink:dir-822_firmware:3.12b04:*:*:*:*:*:*:*,D-Link DIR-822 Firmware 3.12b04,"['CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:50Z

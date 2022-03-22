@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:webex_business_suite:39.2.205:*:*:*:*:*:*:*,Cisco Webex Business Suite 39.2.205,"['CVE-2019-15284', 'CVE-2019-15286', 'CVE-2019-1924', 'CVE-2019-1925', 'CVE-2019-1926', 'CVE-2019-1927', 'CVE-2019-1928', 'CVE-2019-1929']",2022-03-20T01:10Z
+1,cpe:2.3:a:cisco:webex_business_suite:39.5.5:*:*:*:*:*:*:*,Cisco Webex Business Suite 39.5.5,"['CVE-2019-15284', 'CVE-2019-15286']",2022-03-20T01:10Z
+2,cpe:2.3:a:cisco:webex_business_suite_30:-:*:*:*:*:*:*:*,Cisco WebEx Business Suite 30,[''],2022-03-20T01:10Z
+3,cpe:2.3:a:cisco:webex_business_suite_31:-:*:*:*:*:*:*:*,Cisco Webex Business Suite 31,"['CVE-2018-0112', 'CVE-2018-0264', 'CVE-2018-0422', 'CVE-2018-15409', 'CVE-2018-15410', 'CVE-2018-15418']",2022-03-20T01:10Z
+4,cpe:2.3:a:cisco:webex_business_suite_31:31.1:*:*:*:*:*:*:*,Cisco WebEx Business Suite 31 31.1,"['CVE-2018-0112', 'CVE-2018-0264', 'CVE-2018-0422', 'CVE-2018-15409', 'CVE-2018-15410', 'CVE-2018-15418']",2022-03-20T01:10Z
+5,cpe:2.3:a:cisco:webex_business_suite_31:31.2:*:*:*:*:*:*:*,Cisco WebEx Business Suite 31 31.2,"['CVE-2018-0112', 'CVE-2018-0264', 'CVE-2018-0422', 'CVE-2018-15409', 'CVE-2018-15410', 'CVE-2018-15418']",2022-03-20T01:10Z
+6,cpe:2.3:a:cisco:webex_business_suite_31:31.3:*:*:*:*:*:*:*,Cisco WebEx Business Suite 31 31.3,"['CVE-2018-0112', 'CVE-2018-0264', 'CVE-2018-0422', 'CVE-2018-15409', 'CVE-2018-15410', 'CVE-2018-15418']",2022-03-20T01:10Z
+7,cpe:2.3:a:cisco:webex_business_suite_31:31.4:*:*:*:*:*:*:*,Cisco WebEx Business Suite 31 31.4,"['CVE-2018-0112', 'CVE-2018-0264', 'CVE-2018-0422', 'CVE-2018-15409', 'CVE-2018-15410', 'CVE-2018-15418']",2022-03-20T01:10Z
+8,cpe:2.3:a:cisco:webex_business_suite_31:31.5:*:*:*:*:*:*:*,Cisco WebEx Business Suite 31 31.5,"['CVE-2018-0112', 'CVE-2018-0264', 'CVE-2018-0422', 'CVE-2018-15409', 'CVE-2018-15410', 'CVE-2018-15418']",2022-03-20T01:10Z
+9,cpe:2.3:a:cisco:webex_business_suite_31:31.5.20:*:*:*:*:*:*:*,Cisco WebEx Business Suite 31 31.5.20,"['CVE-2018-0112', 'CVE-2018-0264', 'CVE-2018-0422', 'CVE-2018-15409', 'CVE-2018-15410', 'CVE-2018-15418']",2022-03-20T01:10Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:10.7.5:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce 10.7.5 for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T13:03Z
+1,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:10.7.6:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce 10.7.6 for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T13:03Z
+2,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:10.7.7:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce 10.7.7 for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T13:03Z
+3,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:10.7.8:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce 10.7.8 for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T13:03Z
+4,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:10.7.9:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce 10.7.9 for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T13:03Z
+5,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:10.8.0:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce 10.8.0 for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T13:03Z
+6,cpe:2.3:a:adtribes:product_feed_pro_for_woocommerce:10.8.1:*:*:*:*:wordpress:*:*,Adtribes Product Feed PRO for WooCommerce 10.8.1 for WordPress,"['CVE-2021-24974', 'CVE-2022-0426']",2022-03-18T13:03Z
+7,cpe:2.3:a:adt-taxis:adt_taxis:6.0:*:*:*:*:android:*:*,ADT Taxis (aka com.icabbi.adttaxisApp) for Android 6.0,['CVE-2014-5639'],2022-03-18T13:03Z
+8,cpe:2.3:a:adultscriptpro:adultscriptpro:2.2.4:*:*:*:*:*:*:*,Adult Script Pro  2.2.4,['CVE-2017-15959'],2022-03-18T13:03Z
+9,cpe:2.3:a:adups:adups_fota:-:*:*:*:*:*:*:*,Adups Firmware Over The Air (FOTA),"['CVE-2016-10136', 'CVE-2016-10137', 'CVE-2016-10138', 'CVE-2016-10139']",2022-03-18T13:03Z

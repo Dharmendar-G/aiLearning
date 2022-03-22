@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:gunicorn:gunicorn:0.6.3:*:*:*:*:*:*:*,Gunicorn 0.6.3,[''],2022-03-21T08:25Z
+1,cpe:2.3:a:gunicorn:gunicorn:0.6.4:*:*:*:*:*:*:*,Gunicorn 0.6.4,[''],2022-03-21T08:25Z
+2,cpe:2.3:a:gunicorn:gunicorn:0.6.6:*:*:*:*:*:*:*,Gunicorn 0.6.6,[''],2022-03-21T08:25Z
+3,cpe:2.3:a:gunicorn:gunicorn:0.6.7:*:*:*:*:*:*:*,Gunicorn 0.6.7,[''],2022-03-21T08:25Z
+4,cpe:2.3:a:gunicorn:gunicorn:0.7:*:*:*:*:*:*:*,Gunicorn 0.7,[''],2022-03-21T08:25Z
+5,cpe:2.3:a:gunicorn:gunicorn:0.7.0:*:*:*:*:*:*:*,Gunicorn 0.7.0,[''],2022-03-21T08:25Z
+6,cpe:2.3:a:gunicorn:gunicorn:0.7.1:*:*:*:*:*:*:*,Gunicorn 0.7.1,[''],2022-03-21T08:25Z
+7,cpe:2.3:a:gunicorn:gunicorn:0.7.2:*:*:*:*:*:*:*,Gunicorn 0.7.2,[''],2022-03-21T08:25Z
+8,cpe:2.3:a:gunicorn:gunicorn:0.8.0:*:*:*:*:*:*:*,Gunicorn 0.8.0,[''],2022-03-21T08:25Z
+9,cpe:2.3:a:gunicorn:gunicorn:0.8.2:*:*:*:*:*:*:*,Gunicorn 0.8.2,[''],2022-03-21T08:25Z

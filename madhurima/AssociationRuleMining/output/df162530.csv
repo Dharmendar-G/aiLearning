@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:courier-mta:courtier-authlib:0.57:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, Inc) courtier-authlib 0.57","['CVE-2008-2380', 'CVE-2008-2667']",2022-03-20T08:11Z
+1,cpe:2.3:a:courier-mta:courtier-authlib:0.58:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, Inc) courtier-authlib 0.58","['CVE-2008-2380', 'CVE-2008-2667']",2022-03-20T08:11Z
+2,cpe:2.3:a:courier-mta:courtier-authlib:0.59:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, Inc) courtier-authlib 0.59","['CVE-2008-2380', 'CVE-2008-2667']",2022-03-20T08:11Z
+3,cpe:2.3:a:courier-mta:courtier-authlib:0.59.1:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, Inc) courtier-authlib 0.59.1","['CVE-2008-2380', 'CVE-2008-2667']",2022-03-20T08:11Z
+4,cpe:2.3:a:courier-mta:courtier-authlib:0.59.2:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, Inc) courtier-authlib 0.59.2","['CVE-2008-2380', 'CVE-2008-2667']",2022-03-20T08:11Z
+5,cpe:2.3:a:courier-mta:courtier-authlib:0.59.3:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, Inc) courtier-authlib 0.59.3","['CVE-2008-2380', 'CVE-2008-2667']",2022-03-20T08:11Z
+6,cpe:2.3:a:courier-mta:courtier-authlib:0.60:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, Inc) courtier-authlib 0.60","['CVE-2008-2380', 'CVE-2008-2667']",2022-03-20T08:11Z
+7,cpe:2.3:a:courier-mta:courtier-authlib:0.60.1:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, Inc) courtier-authlib 0.60.1","['CVE-2008-2380', 'CVE-2008-2667']",2022-03-20T08:11Z
+8,cpe:2.3:a:courier-mta:courtier-authlib:0.60.2:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, Inc) courtier-authlib 0.60.2","['CVE-2008-2380', 'CVE-2008-2667']",2022-03-20T08:11Z
+9,cpe:2.3:a:courier-mta:courtier-authlib:0.60.3:*:*:*:*:*:*:*,"Courier-MTA (Double Precision, Inc) courtier-authlib 0.60.3","['CVE-2008-2380', 'CVE-2008-2667']",2022-03-20T08:11Z

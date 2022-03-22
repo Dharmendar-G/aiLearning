@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitwarden:server:1.5.1:*:*:*:*:*:*:*,Bitwarden Server 1.5.1,['CVE-2019-19766'],2022-03-19T08:33Z
+1,cpe:2.3:a:bitwarden:server:1.6.0:*:*:*:*:*:*:*,Bitwarden Server 1.6.0,['CVE-2019-19766'],2022-03-19T08:33Z
+2,cpe:2.3:a:bitwarden:server:1.7.0:*:*:*:*:*:*:*,Bitwarden Server 1.7.0,['CVE-2019-19766'],2022-03-19T08:33Z
+3,cpe:2.3:a:bitwarden:server:1.8.0:*:*:*:*:*:*:*,Bitwarden Server 1.8.0,['CVE-2019-19766'],2022-03-19T08:33Z
+4,cpe:2.3:a:bitwarden:server:1.8.1:*:*:*:*:*:*:*,Bitwarden Server 1.8.1,['CVE-2019-19766'],2022-03-19T08:33Z
+5,cpe:2.3:a:bitwarden:server:1.8.2:*:*:*:*:*:*:*,Bitwarden Server 1.8.2,['CVE-2019-19766'],2022-03-19T08:33Z
+6,cpe:2.3:a:bitwarden:server:1.9.0:*:*:*:*:*:*:*,Bitwarden Server 1.9.0,['CVE-2019-19766'],2022-03-19T08:33Z
+7,cpe:2.3:a:bitwarden:server:1.10.0:*:*:*:*:*:*:*,Bitwarden Server 1.10.0,['CVE-2019-19766'],2022-03-19T08:33Z
+8,cpe:2.3:a:bitwarden:server:1.11.0:*:*:*:*:*:*:*,Bitwarden Server 1.11.0,['CVE-2019-19766'],2022-03-19T08:33Z
+9,cpe:2.3:a:bitwarden:server:1.11.1:*:*:*:*:*:*:*,Bitwarden Server 1.11.1,['CVE-2019-19766'],2022-03-19T08:33Z

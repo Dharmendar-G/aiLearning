@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:columbia-al10b_firmware:8.1.0.163\(c00\):*:*:*:*:*:*:*,Huawei Columbia-AL10B Firmware 8.1.0.163(C00),"['CVE-2019-5235', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:33Z
+1,cpe:2.3:o:huawei:columbia-al10b_firmware:9.1.0.333\(c00e333r1p1t8\):*:*:*:*:*:*:*,Huawei Columbia-AL10B Firmware 9.1.0.333(C00E333R1P1T8),[''],2022-03-21T17:33Z
+2,cpe:2.3:h:huawei:columbia-al10i:-:*:*:*:*:*:*:*,Huawei Columbia-AL10I,"['CVE-2019-5235', 'CVE-2019-9506']",2022-03-21T17:33Z
+3,cpe:2.3:o:huawei:columbia-al10i_firmware:8.1.0.150\(c675custc675d2\):*:*:*:*:*:*:*,Huawei Columbia-AL10I Firmware 8.1.0.150(C675CUSTC675D2),"['CVE-2019-5235', 'CVE-2019-9506']",2022-03-21T17:33Z
+4,cpe:2.3:h:huawei:columbia-l29d:-:*:*:*:*:*:*:*,Huawei Columbia-L29D,"['CVE-2019-5235', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:33Z
+5,cpe:2.3:o:huawei:columbia-l29d_firmware:8.1.0.146\(c461\):*:*:*:*:*:*:*,Huawei Columbia-L29D Firmware 8.1.0.146(C461),"['CVE-2019-5235', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:33Z
+6,cpe:2.3:o:huawei:columbia-l29d_firmware:8.1.0.148\(c185\):*:*:*:*:*:*:*,Huawei Columbia-L29D Firmware 8.1.0.148(C185),"['CVE-2019-5235', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:33Z
+7,cpe:2.3:o:huawei:columbia-l29d_firmware:8.1.0.151\(c10\):*:*:*:*:*:*:*,Huawei Columbia-L29D Firmware 8.1.0.151(C10),"['CVE-2019-5235', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:33Z
+8,cpe:2.3:o:huawei:columbia-l29d_firmware:8.1.0.151\(c432\):*:*:*:*:*:*:*,Huawei Columbia-L29D Firmware 8.1.0.151(C432),"['CVE-2019-5235', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:33Z
+9,cpe:2.3:o:huawei:columbia-l29d_firmware:9.1.0.350\(c10e5r1p14t8\):*:*:*:*:*:*:*,Huawei Columbia-L29D Firmware 9.1.0.350(C10E5R1P14T8),"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:33Z

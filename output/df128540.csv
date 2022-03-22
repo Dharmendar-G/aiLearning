@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:ip_phone_8800_firmware:12.0\(1\)sr1:*:*:*:*:*:*:*,Cisco IP Phone 8800 Firmware 12.0(1)sr1,"['CVE-2019-1684', 'CVE-2019-1716', 'CVE-2019-1763', 'CVE-2019-1764', 'CVE-2019-1765', 'CVE-2019-1766', 'CVE-2021-33478']",2022-03-19T22:38Z
+1,cpe:2.3:o:cisco:ip_phone_8800_firmware:12.0\(1\)sr3:*:*:*:*:*:*:*,Cisco IP Phone 8800 Firmware 12.0(1)sr3,"['CVE-2019-1684', 'CVE-2019-1716', 'CVE-2019-1763', 'CVE-2019-1764', 'CVE-2019-1765', 'CVE-2019-1766', 'CVE-2021-33478']",2022-03-19T22:38Z
+2,cpe:2.3:o:cisco:ip_phone_8800_firmware:12.1\(1\):*:*:*:*:*:*:*,Cisco IP Phone 8800 Firmware 12.1(1),"['CVE-2019-1684', 'CVE-2019-1716', 'CVE-2019-1763', 'CVE-2019-1764', 'CVE-2019-1765', 'CVE-2019-1766', 'CVE-2021-33478']",2022-03-19T22:38Z
+3,cpe:2.3:o:cisco:ip_phone_8800_firmware:12.1\(1\)sr1:*:*:*:*:*:*:*,Cisco IP Phone 8800 Firmware 12.1(1)sr1,"['CVE-2019-1684', 'CVE-2019-1716', 'CVE-2019-1763', 'CVE-2019-1764', 'CVE-2019-1765', 'CVE-2019-1766', 'CVE-2021-33478']",2022-03-19T22:38Z
+4,cpe:2.3:o:cisco:ip_phone_8800_firmware:12.5\(1\):*:*:*:*:*:*:*,Cisco IP Phone 8800 Firmware 12.5(1),"['CVE-2019-1684', 'CVE-2019-1716', 'CVE-2019-1763', 'CVE-2019-1764', 'CVE-2019-1765', 'CVE-2019-1766', 'CVE-2021-33478']",2022-03-19T22:38Z
+5,cpe:2.3:o:cisco:ip_phone_8800_firmware:12.5\(1\)sr1:*:*:*:*:*:*:*,Cisco IP Phone 8800 Firmware 12.5(1)sr1,"['CVE-2019-1684', 'CVE-2021-33478']",2022-03-19T22:38Z
+6,cpe:2.3:o:cisco:ip_phone_8800_firmware:12.6\(1\)mn80:*:*:*:*:*:*:*,Cisco IP Phone 8800 Firmware 12.6(1)mn80,['CVE-2021-33478'],2022-03-19T22:38Z
+7,cpe:2.3:a:cisco:ip_phone_8800_series:11.0\(0.1\):*:*:*:*:*:*:*,Cisco IP Phone 8800 Series 11.0(0.1),['CVE-2017-6656'],2022-03-19T22:39Z
+8,cpe:2.3:o:cisco:ip_phone_8800_series_firmware:10.2\(1\):*:*:*:*:*:*:*,Cisco IP Phone 8800 Series Firmware 10.2(1),"['CVE-2016-1403', 'CVE-2017-12305']",2022-03-19T22:39Z
+9,cpe:2.3:o:cisco:ip_phone_8800_series_firmware:10.2\(2\):*:*:*:*:*:*:*,Cisco IP Phone 8800 Series Firmware 10.2(2),"['CVE-2016-1403', 'CVE-2017-12305']",2022-03-19T22:39Z

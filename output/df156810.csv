@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:commerceguys:commerce:7.x-1.0:alpha1:*:*:*:drupal:*:*,commerceguys Commerce module for Drupal 7.x-1.0 Alpha 1,"['CVE-2012-1639', 'CVE-2014-9025']",2022-03-20T06:51Z
+1,cpe:2.3:a:commerceguys:commerce:7.x-1.0:alpha2:*:*:*:*:*:*,commerceguys Commerce module for Drupal 7.x-1.0 Alpha 2,['CVE-2012-1639'],2022-03-20T06:51Z
+2,cpe:2.3:a:commerceguys:commerce:7.x-1.0:alpha2:*:*:*:drupal:*:*,commerceguys Commerce module for Drupal 7.x-1.0 Alpha 2,"['CVE-2012-1639', 'CVE-2014-9025']",2022-03-20T06:51Z
+3,cpe:2.3:a:commerceguys:commerce:7.x-1.0:alpha3:*:*:*:*:*:*,commerceguys Commerce module for Drupal 7.x-1.0 Alpha 3,['CVE-2012-1639'],2022-03-20T06:51Z
+4,cpe:2.3:a:commerceguys:commerce:7.x-1.0:alpha3:*:*:*:drupal:*:*,commerceguys Commerce module for Drupal 7.x-1.0 Alpha 3,"['CVE-2012-1639', 'CVE-2014-9025']",2022-03-20T06:51Z
+5,cpe:2.3:a:commerceguys:commerce:7.x-1.0:alpha4:*:*:*:*:*:*,commerceguys Commerce module for Drupal 7.x-1.0 Alpha 4,['CVE-2012-1639'],2022-03-20T06:51Z
+6,cpe:2.3:a:commerceguys:commerce:7.x-1.0:alpha4:*:*:*:drupal:*:*,commerceguys Commerce module for Drupal 7.x-1.0 Alpha 4,"['CVE-2012-1639', 'CVE-2014-9025']",2022-03-20T06:51Z
+7,cpe:2.3:a:commerceguys:commerce:7.x-1.0:alpha5:*:*:*:*:*:*,commerceguys Commerce module for Drupal 7.x-1.0 Alpha 5,['CVE-2012-1639'],2022-03-20T06:51Z
+8,cpe:2.3:a:commerceguys:commerce:7.x-1.0:alpha5:*:*:*:drupal:*:*,commerceguys Commerce module for Drupal 7.x-1.0 Alpha 5,"['CVE-2012-1639', 'CVE-2014-9025']",2022-03-20T06:51Z
+9,cpe:2.3:a:commerceguys:commerce:7.x-1.0:beta1:*:*:*:*:*:*,commerceguys Commerce module for Drupal 7.x-1.0 Beta 1,['CVE-2012-1639'],2022-03-20T06:51Z

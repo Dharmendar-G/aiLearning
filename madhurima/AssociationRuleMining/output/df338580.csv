@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hybridgroup:gobot:1.10.2:*:*:*:*:*:*:*,The Hybrid Group Gobot 1.10.2,['CVE-2019-12496'],2022-03-21T19:21Z
+1,cpe:2.3:a:hybridgroup:gobot:1.11.0:*:*:*:*:*:*:*,The Hybrid Group Gobot 1.11.0,['CVE-2019-12496'],2022-03-21T19:21Z
+2,cpe:2.3:a:hybridgroup:gobot:1.11.1:*:*:*:*:*:*:*,The Hybrid Group Gobot 1.11.1,['CVE-2019-12496'],2022-03-21T19:21Z
+3,cpe:2.3:a:hybridgroup:gobot:1.12.0:*:*:*:*:*:*:*,The Hybrid Group Gobot 1.12.0,['CVE-2019-12496'],2022-03-21T19:21Z
+4,cpe:2.3:a:hybridgroup:gobot:1.13.0:*:*:*:*:*:*:*,The Hybrid Group Gobot 1.13.0,[''],2022-03-21T19:21Z
+5,cpe:2.3:a:hycus_cms_project:hycus_cms:1.0.4:*:*:*:*:*:*:*,Hycus CMS Project Hycus CMS 1.0.4,['CVE-2018-12984'],2022-03-21T19:21Z
+6,cpe:2.3:a:hydra_project:hydra:0.1.8:*:*:*:*:*:*:*,Hydra Project Hydra 0.1.8,['CVE-2019-17502'],2022-03-21T19:21Z
+7,cpe:2.3:a:hygeia_project:hygeia:1.0.0:-:*:*:*:*:*:*,Hygeia Project Hygeia 1.0.0,[''],2022-03-21T19:21Z
+8,cpe:2.3:a:hygeia_project:hygeia:1.0.0:beta1:*:*:*:*:*:*,Hygeia Project Hygeia 1.0.0 Beta 1,[''],2022-03-21T19:21Z
+9,cpe:2.3:a:hygeia_project:hygeia:1.0.0:beta2:*:*:*:*:*:*,Hygeia Project Hygeia 1.0.0 Beta 2,[''],2022-03-21T19:21Z

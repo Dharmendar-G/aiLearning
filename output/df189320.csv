@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dcs-2630l_firmware:2.12:*:*:*:*:*:*:*,D-Link DCS-2630L Firmware 2.12,[''],2022-03-20T15:41Z
+1,cpe:2.3:o:dlink:dcs-2630l_firmware:2.14:*:*:*:*:*:*:*,D-Link DCS-2630L Firmware 2.14,[''],2022-03-20T15:41Z
+2,cpe:2.3:o:dlink:dcs-2630l_firmware:2.16:*:*:*:*:*:*:*,D-Link DCS-2630L Firmware 2.16,[''],2022-03-20T15:41Z
+3,cpe:2.3:o:dlink:dcs-2630l_firmware:2.17:*:*:*:*:*:*:*,D-Link DCS-2630L Firmware 2.17,[''],2022-03-20T15:41Z
+4,cpe:2.3:h:dlink:dcs-2670l:-:*:*:*:*:*:*:*,D-Link DCS-2670L,['CVE-2020-25079'],2022-03-20T15:41Z
+5,cpe:2.3:o:dlink:dcs-2670l_firmware:-:*:*:*:*:*:*:*,D-Link DCS-2670L Firmware,['CVE-2020-25079'],2022-03-20T15:41Z
+6,cpe:2.3:o:dlink:dcs-2670l_firmware:1.10:*:*:*:*:*:*:*,D-Link DCS-2670L Firmware 1.10,['CVE-2020-25079'],2022-03-20T15:41Z
+7,cpe:2.3:o:dlink:dcs-2670l_firmware:2.01:*:*:*:*:*:*:*,D-Link DCS-2670L Firmware 2.01,['CVE-2020-25079'],2022-03-20T15:41Z
+8,cpe:2.3:o:dlink:dcs-2670l_firmware:2.02:*:*:*:*:*:*:*,D-Link DCS-2670L Firmware 2.02,['CVE-2020-25079'],2022-03-20T15:41Z
+9,cpe:2.3:h:dlink:dcs-3410:-:*:*:*:*:*:*:*,D-Link DCS-3410,"['CVE-2013-1599', 'CVE-2013-1601', 'CVE-2013-1602', 'CVE-2013-1603']",2022-03-20T15:41Z

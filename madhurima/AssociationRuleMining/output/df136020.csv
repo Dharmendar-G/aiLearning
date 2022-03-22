@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:thor_video_codec:18de8f9f0762c3a542b1122589edb8af859d9813:*:*:*:*:*:*:*,Cisco Thor Video Codec 18de8f9f0762c3a542b1122589edb8af859d9813,['CVE-2018-0429'],2022-03-20T00:37Z
+1,cpe:2.3:a:cisco:thor_video_codec:2018-8-8:*:*:*:*:*:*:*,Cisco Thor Video Codec 2018-8-8,[''],2022-03-20T00:37Z
+2,cpe:2.3:a:cisco:thousandeyes_recorder:-:*:*:*:*:*:*:*,Cisco ThousandEyes Recorder,['CVE-2021-1537'],2022-03-20T00:37Z
+3,cpe:2.3:a:cisco:thousandeyes_recorder:1.0.3:*:*:*:*:*:*:*,Cisco ThousandEyes Recorder 1.0.3,['CVE-2021-1537'],2022-03-20T00:37Z
+4,cpe:2.3:a:cisco:thousandeyes_recorder:1.0.5:*:*:*:*:*:*:*,Cisco ThousandEyes Recorder 1.0.5,[''],2022-03-20T00:37Z
+5,cpe:2.3:a:cisco:threat_grid-cloud:-:*:*:*:*:*:*:*,Cisco Threat Grid-Cloud,['CVE-2018-5390'],2022-03-20T00:37Z
+6,cpe:2.3:a:cisco:threat_response:-:*:*:*:*:*:*:*,Cisco Threat Response,"['CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112']",2022-03-20T00:37Z
+7,cpe:2.3:a:cisco:tidal_enterprise_scheduler:3.0.0:*:*:*:*:*:*:*,Cisco Tidal Enterprise Scheduler (TES) 3.0.0,['CVE-2014-3272'],2022-03-20T00:37Z
+8,cpe:2.3:a:cisco:tidal_enterprise_scheduler:3.0.1:*:*:*:*:*:*:*,Cisco Tidal Enterprise Scheduler (TES) 3.0.1,['CVE-2014-3272'],2022-03-20T00:37Z
+9,cpe:2.3:a:cisco:tidal_enterprise_scheduler:5.2.2:*:*:*:*:*:*:*,Cisco Tidal Enterprise Scheduler (TES) 5.2.2,['CVE-2014-3272'],2022-03-20T00:37Z

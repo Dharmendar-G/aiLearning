@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:policy_suite:-:*:*:*:*:*:*:*,Cisco Policy Suite,"['CVE-2018-0375', 'CVE-2018-0376', 'CVE-2018-0377', 'CVE-2021-40119']",2022-03-19T23:42Z
+1,cpe:2.3:a:cisco:policy_suite:9.0.0:*:*:*:*:*:*:*,Cisco Policy Suite 9.0.0,"['CVE-2017-6781', 'CVE-2018-0375', 'CVE-2018-0376', 'CVE-2018-0377', 'CVE-2021-40119']",2022-03-19T23:42Z
+2,cpe:2.3:a:cisco:policy_suite:9.1.0:*:*:*:*:*:*:*,Cisco Policy Suite 9.1.0,"['CVE-2017-6781', 'CVE-2018-0375', 'CVE-2018-0376', 'CVE-2018-0377', 'CVE-2021-40119']",2022-03-19T23:42Z
+3,cpe:2.3:a:cisco:policy_suite:10.0.0:*:*:*:*:*:*:*,Cisco Policy Suite 10.0.0,"['CVE-2017-6623', 'CVE-2017-6781', 'CVE-2018-0089', 'CVE-2018-0375', 'CVE-2018-0376', 'CVE-2018-0377', 'CVE-2021-40119']",2022-03-19T23:42Z
+4,cpe:2.3:a:cisco:policy_suite:10.1.0:*:*:*:*:*:*:*,Cisco Policy Suite 10.1.0,"['CVE-2017-6623', 'CVE-2018-0375', 'CVE-2018-0376', 'CVE-2018-0377', 'CVE-2021-40119']",2022-03-19T23:42Z
+5,cpe:2.3:a:cisco:policy_suite:11.0.0:*:*:*:*:*:*:*,Cisco Policy Suite 11.0.0,"['CVE-2017-6623', 'CVE-2017-6781', 'CVE-2018-0089', 'CVE-2018-0375', 'CVE-2018-0376', 'CVE-2018-0377', 'CVE-2021-40119']",2022-03-19T23:42Z
+6,cpe:2.3:a:cisco:policy_suite:11.1.0:*:*:*:*:*:*:*,Cisco Policy Suite 11.1.0,"['CVE-2018-0089', 'CVE-2018-0375', 'CVE-2018-0376', 'CVE-2018-0377', 'CVE-2021-40119']",2022-03-19T23:42Z
+7,cpe:2.3:a:cisco:policy_suite:12.0.0:*:*:*:*:*:*:*,Cisco Policy Suite 12.0.0,"['CVE-2017-6781', 'CVE-2018-0375', 'CVE-2018-0376', 'CVE-2018-0377', 'CVE-2021-40119']",2022-03-19T23:42Z
+8,cpe:2.3:a:cisco:policy_suite:18.0.0:*:*:*:*:*:*:*,Cisco Policy Suite 18.0.0,"['CVE-2018-0375', 'CVE-2018-0376', 'CVE-2018-0377', 'CVE-2021-40119']",2022-03-19T23:42Z
+9,cpe:2.3:a:cisco:policy_suite:18.1.0:*:*:*:*:*:*:*,Cisco Policy Suite 18.1.0,"['CVE-2018-0375', 'CVE-2018-0376', 'CVE-2021-40119']",2022-03-19T23:42Z

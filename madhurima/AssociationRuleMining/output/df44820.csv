@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:0.7.26-1:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 0.7.26-1,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:39Z
+1,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:0.7.26-2:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 0.7.26-2,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:39Z
+2,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:0.7.27:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 0.7.27,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:39Z
+3,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:0.7.27-1:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 0.7.27-1,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:39Z
+4,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:0.8.0:-:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 0.8.0,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:39Z
+5,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:0.8.0:pre1:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 0.8.0 Pre1,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:39Z
+6,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:0.8.0:pre1-1:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 0.8.0 Pre1-1,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:39Z
+7,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:0.8.0:pre2:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 0.8.0 Pre2,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:39Z
+8,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:0.8.0:pre2-1:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 0.8.0 Pre2-1,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:39Z
+9,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:0.8.0:pre3:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 0.8.0 Pre3,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:40Z

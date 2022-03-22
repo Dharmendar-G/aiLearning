@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.3.1:p6:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.3.1 Patch 6,['CVE-2017-1724'],2022-03-21T21:36Z
+1,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.3.1:p7:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.3.1 Patch 7,['CVE-2017-1724'],2022-03-21T21:36Z
+2,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.3.1:p8:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.3.1 Patch 8,['CVE-2017-1724'],2022-03-21T21:36Z
+3,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.3.2:-:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.3.2,[''],2022-03-21T21:36Z
+4,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.3.2:p4:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.3.2 Patch 4,[''],2022-03-21T21:36Z
+5,cpe:2.3:a:ibm:qradar_vulnerability_manager:7.3.3:p1:*:*:*:*:*:*,IBM QRadar Vulnerability Manager 7.3.3 Patch 1,[''],2022-03-21T21:36Z
+6,cpe:2.3:a:ibm:quickfile:1.0.0.0:*:*:*:*:*:*:*,IBM QuickFile 1.0.0.0,['CVE-2013-6729'],2022-03-21T21:36Z
+7,cpe:2.3:a:ibm:quickfile:1.1.0.0:*:*:*:*:*:*:*,IBM QuickFile 1.1.0.0,[''],2022-03-21T21:36Z
+8,cpe:2.3:a:ibm:quickfile:1.1.0.1:*:*:*:*:*:*:*,IBM QuickFile 1.1.0.1,['CVE-2013-6729'],2022-03-21T21:36Z
+9,cpe:2.3:h:ibm:r07:-:*:*:*:*:*:*:*,IBM System z9 Business Class Model R07 (Machine Type 2096),[''],2022-03-21T21:36Z

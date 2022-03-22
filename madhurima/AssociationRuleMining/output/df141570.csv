@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ckeditor:ckeditor_5-link:0.2.0:*:*:*:*:ckeditor_5:*:*,CKEditor CKEditor 5-link 0.2.0 for CKEditor 5,['CVE-2018-11093'],2022-03-20T01:52Z
+1,cpe:2.3:a:ckeditor:ckeditor_5-link:0.3.0:*:*:*:*:ckeditor_5:*:*,CKEditor CKEditor 5-link 0.3.0 for CKEditor 5,['CVE-2018-11093'],2022-03-20T01:52Z
+2,cpe:2.3:a:ckeditor:ckeditor_5-link:0.4.0:*:*:*:*:ckeditor_5:*:*,CKEditor CKEditor 5-link 0.4.0 for CKEditor 5,['CVE-2018-11093'],2022-03-20T01:52Z
+3,cpe:2.3:a:ckeditor:ckeditor_5-link:0.5.0:*:*:*:*:ckeditor_5:*:*,CKEditor CKEditor 5-link 0.5.0 for CKEditor 5,['CVE-2018-11093'],2022-03-20T01:52Z
+4,cpe:2.3:a:ckeditor:ckeditor_5-link:0.5.1:*:*:*:*:ckeditor_5:*:*,CKEditor CKEditor 5-link 0.5.1 for CKEditor 5,['CVE-2018-11093'],2022-03-20T01:52Z
+5,cpe:2.3:a:ckeditor:ckeditor_5-link:0.6.0:*:*:*:*:ckeditor_5:*:*,CKEditor CKEditor 5-link 0.6.0 for CKEditor 5,['CVE-2018-11093'],2022-03-20T01:52Z
+6,cpe:2.3:a:ckeditor:ckeditor_5-link:0.7.0:*:*:*:*:ckeditor_5:*:*,CKEditor CKEditor 5-link 0.7.0 for CKEditor 5,['CVE-2018-11093'],2022-03-20T01:52Z
+7,cpe:2.3:a:ckeditor:ckeditor_5-link:0.8.0:*:*:*:*:ckeditor_5:*:*,CKEditor CKEditor 5-link 0.8.0 for CKEditor 5,['CVE-2018-11093'],2022-03-20T01:52Z
+8,cpe:2.3:a:ckeditor:ckeditor_5-link:1.0.0:alpha1:*:*:*:ckeditor_5:*:*,CKEditor CKEditor 5-link 1.0.0 Alpha 1 for CKEditor 5,['CVE-2018-11093'],2022-03-20T01:52Z
+9,cpe:2.3:a:ckeditor:ckeditor_5-link:1.0.0:beta1:*:*:*:ckeditor_5:*:*,CKEditor CKEditor 5-link 1.0.0 Beta 1 for CKEditor 5,['CVE-2018-11093'],2022-03-20T01:52Z

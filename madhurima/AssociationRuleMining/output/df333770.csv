@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:espace_7950_firmware:v200r003c00:*:*:*:*:*:*:*,Huawei eSpace 7950 Firmware V200R003C00,['CVE-2017-2722'],2022-03-21T17:40Z
+1,cpe:2.3:o:huawei:espace_7950_firmware:v200r003c00spck00:*:*:*:*:*:*:*,Huawei eSpace 7950 Firmware V200R003C00SPCk00,[''],2022-03-21T17:40Z
+2,cpe:2.3:o:huawei:espace_7950_firmware:v200r003c30:*:*:*:*:*:*:*,Huawei eSpace 7950 Firmware V200R003C30,"['CVE-2017-17221', 'CVE-2017-17222', 'CVE-2017-17223', 'CVE-2017-2722', 'CVE-2018-7958', 'CVE-2018-7959', 'CVE-2018-7960']",2022-03-21T17:40Z
+3,cpe:2.3:h:huawei:espace_8950:-:*:*:*:*:*:*:*,Huawei eSpace 8950,"['CVE-2015-8230', 'CVE-2017-17221', 'CVE-2017-17222', 'CVE-2017-17223']",2022-03-21T17:40Z
+4,cpe:2.3:a:huawei:espace_8950:v200r003c00spc200:*:*:*:*:*:*:*,Huawei eSpace 8950 V200R003C00SPC200,['CVE-2015-8230'],2022-03-21T17:40Z
+5,cpe:2.3:o:huawei:espace_8950_firmware:v200r003c00:*:*:*:*:*:*:*,Huawei eSpace 8950 Firmware V200R003C00,"['CVE-2017-17221', 'CVE-2017-17222', 'CVE-2017-17223']",2022-03-21T17:40Z
+6,cpe:2.3:o:huawei:espace_8950_firmware:v200r003c30:*:*:*:*:*:*:*,Huawei eSpace 8950 Firmware V200R003C30,"['CVE-2017-17221', 'CVE-2017-17222', 'CVE-2017-17223']",2022-03-21T17:40Z
+7,cpe:2.3:a:huawei:espace_desktop:300r001c00:*:*:*:*:*:*:*,Huawei eSpace Desktop 300R001C00,"['CVE-2014-9415', 'CVE-2014-9416', 'CVE-2014-9417', 'CVE-2014-9418', 'CVE-2018-7976']",2022-03-21T17:40Z
+8,cpe:2.3:a:huawei:espace_desktop:300r001c50:*:*:*:*:*:*:*,Huawei eSpace Desktop 300R001C50,"['CVE-2014-9415', 'CVE-2014-9416', 'CVE-2014-9417', 'CVE-2014-9418', 'CVE-2018-7976']",2022-03-21T17:40Z
+9,cpe:2.3:a:huawei:espace_desktop:v100r001c02:*:*:*:*:*:*:*,Huawei eSpace Desktop V100R001C02,"['CVE-2014-9415', 'CVE-2014-9416', 'CVE-2014-9417', 'CVE-2014-9418']",2022-03-21T17:40Z

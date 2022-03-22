@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:dreamweaver:2014.1:*:*:*:*:*:*:*,Adobe Dreamweaver 2014.1,['CVE-2008-6062'],2022-03-18T12:29Z
+1,cpe:2.3:a:adobe:dreamweaver:2015:*:*:*:*:*:*:*,Adobe Dreamweaver 2015,['CVE-2008-6062'],2022-03-18T12:29Z
+2,cpe:2.3:a:adobe:dreamweaver:2015.1:*:*:*:*:*:*:*,Adobe Dreamweaver 2015.1,['CVE-2008-6062'],2022-03-18T12:29Z
+3,cpe:2.3:a:adobe:dreamweaver:2015.2:*:*:*:*:*:*:*,Adobe Dreamweaver 2015.2,['CVE-2008-6062'],2022-03-18T12:29Z
+4,cpe:2.3:a:adobe:dreamweaver:2017:*:*:*:*:*:*:*,Adobe Dreamweaver 2017,['CVE-2008-6062'],2022-03-18T12:29Z
+5,cpe:2.3:a:adobe:dreamweaver_cs3:-:*:*:*:*:*:*:*,Adobe Dreamweaver CS3,[''],2022-03-18T12:29Z
+6,cpe:2.3:a:adobe:dreamweaver_cs4:-:*:*:*:*:*:*:*,Adobe Dreamweaver CS4,[''],2022-03-18T12:29Z
+7,cpe:2.3:a:adobe:dreamweaver_cs5.5:11.5:*:*:*:*:*:*:*,Adobe Dreamweaver CS5.5 11.5,[''],2022-03-18T12:29Z
+8,cpe:2.3:a:adobe:dreamweaver_mx:6.0:*:*:*:*:*:*:*,Adobe Dreamweaver MX 6.0,[''],2022-03-18T12:29Z
+9,cpe:2.3:a:adobe:dreamweaver_mx:6.1:*:*:*:*:*:*:*,Adobe Dreamweaver MX 6.1,[''],2022-03-18T12:29Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:asus:rt-ac1900p_firmware:3.0.0.4.385.10000:*:*:*:*:*:*:*,ASUS RT-AC1900P Firmware 3.0.0.4.385.10000,"['CVE-2020-15498', 'CVE-2020-15499', 'CVE-2021-3128']",2022-03-18T23:55Z
+1,cpe:2.3:o:asus:rt-ac1900p_firmware:3.0.0.4.385.20252:*:*:*:*:*:*:*,ASUS RT-AC1900P Firmware 3.0.0.4.385.20252,"['CVE-2020-15498', 'CVE-2020-15499', 'CVE-2021-3128']",2022-03-18T23:55Z
+2,cpe:2.3:o:asus:rt-ac1900p_firmware:3.0.0.4.385.20253:*:*:*:*:*:*:*,ASUS RT-AC1900P Firmware 3.0.0.4.385.20253,['CVE-2021-3128'],2022-03-18T23:55Z
+3,cpe:2.3:o:asus:rt-ac1900p_firmware:3.0.0.4.385.20433:*:*:*:*:*:*:*,ASUS RT-AC1900P Firmware 3.0.0.4.385.20433,['CVE-2021-3128'],2022-03-18T23:55Z
+4,cpe:2.3:o:asus:rt-ac1900p_firmware:3.0.0.4.385.20490:*:*:*:*:*:*:*,ASUS RT-AC1900P Firmware 3.0.0.4.385.20490,['CVE-2021-3128'],2022-03-18T23:55Z
+5,cpe:2.3:o:asus:rt-ac1900p_firmware:3.0.0.4.385.20585:*:*:*:*:*:*:*,ASUS RT-AC1900P Firmware 3.0.0.4.385.20585,['CVE-2021-3128'],2022-03-18T23:55Z
+6,cpe:2.3:o:asus:rt-ac1900p_firmware:3.0.0.4.385.20630:*:*:*:*:*:*:*,ASUS RT-AC1900P Firmware 3.0.0.4.385.20630,['CVE-2021-3128'],2022-03-18T23:55Z
+7,cpe:2.3:o:asus:rt-ac1900p_firmware:3.0.0.4.385.20632:*:*:*:*:*:*:*,ASUS RT-AC1900P Firmware 3.0.0.4.385.20632,['CVE-2021-3128'],2022-03-18T23:55Z
+8,cpe:2.3:o:asus:rt-ac1900p_firmware:3.0.0.4.385.20633:*:*:*:*:*:*:*,ASUS RT-AC1900P Firmware 3.0.0.4.385.20633,['CVE-2021-3128'],2022-03-18T23:55Z
+9,cpe:2.3:o:asus:rt-ac1900p_firmware:3.0.0.4.385.32738:*:*:*:*:*:*:*,ASUS RT-AC1900P Firmware 3.0.0.4.385.32738,['CVE-2021-3128'],2022-03-18T23:55Z

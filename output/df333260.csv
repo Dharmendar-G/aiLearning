@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:campus_s7700_firmware:v200r001c00spc300:*:*:*:*:*:*:*,Huawei Campus S7700 Firmware V200R001C00SPC300,['CVE-2014-4707'],2022-03-21T17:28Z
+1,cpe:2.3:o:huawei:campus_s7700_firmware:v200r002c00spc100:*:*:*:*:*:*:*,Huawei Campus S7700 Firmware V200R002C00SPC100,['CVE-2014-4707'],2022-03-21T17:28Z
+2,cpe:2.3:o:huawei:campus_s7700_firmware:v200r003c00spc300:*:*:*:*:*:*:*,Huawei Campus S7700 Firmware V200R003C00SPC300,"['CVE-2014-4706', 'CVE-2014-4707']",2022-03-21T17:28Z
+3,cpe:2.3:o:huawei:campus_s7700_firmware:v200r003c00spc500:*:*:*:*:*:*:*,Huawei Campus S7700 Firmware V200R003C00SPC500,['CVE-2014-4706'],2022-03-21T17:28Z
+4,cpe:2.3:h:huawei:campus_s9300:-:*:*:*:*:*:*:*,Huawei Campus Series S9300 switch,"['CVE-2014-4190', 'CVE-2014-4707', 'CVE-2015-2800']",2022-03-21T17:28Z
+5,cpe:2.3:o:huawei:campus_s9300_firmware:-:*:*:*:*:*:*:*,Huawei Campus S9300 Firmware -,[''],2022-03-21T17:28Z
+6,cpe:2.3:o:huawei:campus_s9300_firmware:v200r001c00spc300:*:*:*:*:*:*:*,Huawei Campus S9300 Firmware V200R001C00SPC300,['CVE-2014-4707'],2022-03-21T17:28Z
+7,cpe:2.3:o:huawei:campus_s9300_firmware:v200r002c00spc100:*:*:*:*:*:*:*,Huawei Campus S9300 Firmware V200R002C00SPC100,['CVE-2014-4707'],2022-03-21T17:28Z
+8,cpe:2.3:o:huawei:campus_s9300_firmware:v200r003c00spc300:*:*:*:*:*:*:*,Huawei Campus S9300 Firmware V200R003C00SPC300,['CVE-2014-4707'],2022-03-21T17:28Z
+9,cpe:2.3:h:huawei:campus_s9300e:-:*:*:*:*:*:*:*,Huawei Campus Series S9300E switch,['CVE-2014-4190'],2022-03-21T17:29Z

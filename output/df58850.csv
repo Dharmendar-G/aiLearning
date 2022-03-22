@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:sourcetree:2.6.10.0:*:*:*:-:windows:*:*,Atlassian Sourcetree 2.6.10.0 for Windows,"['CVE-2018-13397', 'CVE-2018-20235', 'CVE-2018-20236', 'CVE-2019-11582']",2022-03-19T02:14Z
+1,[0],[0],[0],[0]
+2,cpe:2.3:a:atlassian:sourcetree:2.7:*:*:*:*:macos:*:*,Atlassian Sourcetree 2.7 for macOS,['CVE-2018-20234'],2022-03-19T02:14Z
+3,cpe:2.3:a:atlassian:sourcetree:2.7:*:*:*:*:windows:*:*,Atlassian Sourcetree 2.7 for Windows,"['CVE-2018-13397', 'CVE-2018-20235', 'CVE-2018-20236', 'CVE-2019-11582']",2022-03-19T02:14Z
+4,[0],[0],[0],[0]
+5,cpe:2.3:a:atlassian:sourcetree:2.7.1:*:*:*:*:macos:*:*,Atlassian Sourcetree 2.7.1 for macOS,['CVE-2018-20234'],2022-03-19T02:14Z
+6,cpe:2.3:a:atlassian:sourcetree:2.7.1:*:*:*:*:windows:*:*,Atlassian Sourcetree 2.7.1 for Windows,"['CVE-2018-13397', 'CVE-2018-20235', 'CVE-2018-20236', 'CVE-2019-11582']",2022-03-19T02:14Z
+7,[0],[0],[0],[0]
+8,cpe:2.3:a:atlassian:sourcetree:2.7.2:*:*:*:*:macos:*:*,Atlassian Sourcetree 2.7.2 for macOS,['CVE-2018-20234'],2022-03-19T02:14Z
+9,cpe:2.3:a:atlassian:sourcetree:2.7.2:*:*:*:*:windows:*:*,Atlassian Sourcetree 2.7.2 for Windows,"['CVE-2018-13397', 'CVE-2018-20235', 'CVE-2018-20236', 'CVE-2019-11582']",2022-03-19T02:14Z

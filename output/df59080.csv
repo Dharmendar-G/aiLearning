@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassolutions:accipiter_direct_server:7.0.9:*:*:*:*:*:*:*,Atlassolutions Accipiter Direct Server 7.0.9,[''],2022-03-19T02:18Z
+1,cpe:2.3:a:atlassolutions:accipiter_direct_server:7.0.10:*:*:*:*:*:*:*,Atlassolutions Accipiter Direct Server 7.0.10,[''],2022-03-19T02:18Z
+2,cpe:2.3:a:atlassolutions:accipiter_direct_server:8.0.3:*:*:*:*:*:*:*,Atlassolutions Accipiter Direct Server 8.0.3,[''],2022-03-19T02:18Z
+3,cpe:2.3:a:atlassolutions:accipiter_direct_server:8.0.5:*:*:*:*:*:*:*,Atlassolutions Accipiter Direct Server 8.0.5,[''],2022-03-19T02:18Z
+4,cpe:2.3:a:atlassolutions:accipiter_direct_server:8.0.6:*:*:*:*:*:*:*,Atlassolutions Accipiter Direct Server 8.0.6,[''],2022-03-19T02:18Z
+5,cpe:2.3:a:atlassolutions:accipiter_direct_server:8.0.7:*:*:*:*:*:*:*,Atlassolutions Accipiter Direct Server 8.0.7,[''],2022-03-19T02:18Z
+6,cpe:2.3:a:atlassolutions:accipiter_direct_server:10.0:*:*:*:*:*:*:*,Atlassolutions Accipiter Direct Server 10.0,[''],2022-03-19T02:18Z
+7,cpe:2.3:a:atmail:atmail:6.3.0:*:*:*:*:*:*:*,AtMail 6.3.0,"['CVE-2013-5031', 'CVE-2013-5032', 'CVE-2013-5033', 'CVE-2013-5034', 'CVE-2013-6017', 'CVE-2013-6028', 'CVE-2017-11617', 'CVE-2017-9517', 'CVE-2017-9518', 'CVE-2017-9519']",2022-03-19T02:18Z
+8,cpe:2.3:a:atmail:atmail:6.3.1:*:*:*:*:*:*:*,AtMail 6.3.1,"['CVE-2013-5031', 'CVE-2013-5032', 'CVE-2013-5033', 'CVE-2013-5034', 'CVE-2013-6017', 'CVE-2013-6028', 'CVE-2017-11617', 'CVE-2017-9517', 'CVE-2017-9518', 'CVE-2017-9519']",2022-03-19T02:18Z
+9,cpe:2.3:a:atmail:atmail:6.3.2:*:*:*:*:*:*:*,AtMail 6.3.2,"['CVE-2013-5031', 'CVE-2013-5032', 'CVE-2013-5033', 'CVE-2013-5034', 'CVE-2013-6017', 'CVE-2013-6028', 'CVE-2017-11617', 'CVE-2017-9517', 'CVE-2017-9518', 'CVE-2017-9519']",2022-03-19T02:18Z

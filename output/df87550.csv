@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:br-automation:automation_studio:4.0.28.24:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.0.28.24,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:38Z
+1,cpe:2.3:a:br-automation:automation_studio:4.0.29.87:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.0.29.87,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:38Z
+2,cpe:2.3:a:br-automation:automation_studio:4.1:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.1,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:38Z
+3,cpe:2.3:a:br-automation:automation_studio:4.1.5.68:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.1.5.68,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:38Z
+4,cpe:2.3:a:br-automation:automation_studio:4.1.6.81:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.1.6.81,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:39Z
+5,cpe:2.3:a:br-automation:automation_studio:4.1.7.61:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.1.7.61,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:39Z
+6,cpe:2.3:a:br-automation:automation_studio:4.1.8.44:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.1.8.44,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:39Z
+7,cpe:2.3:a:br-automation:automation_studio:4.1.9.44:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.1.9.44,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:39Z
+8,cpe:2.3:a:br-automation:automation_studio:4.1.10.69:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.1.10.69,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:39Z
+9,cpe:2.3:a:br-automation:automation_studio:4.1.11.118:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.1.11.118,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:39Z

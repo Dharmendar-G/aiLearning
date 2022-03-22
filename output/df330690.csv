@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hpe:proliant_dl80_gen9_server_firmware:2.76:*:*:*:*:*:*:*,HPE ProLiant DL80 Gen9 Server Firmware 2.76,[''],2022-03-21T16:33Z
+1,cpe:2.3:h:hpe:proliant_dx170r_gen10_server:-:*:*:*:*:*:*:*,HPE Proliant DX170r Gen10 Server,['CVE-2020-7205'],2022-03-21T16:33Z
+2,cpe:2.3:h:hpe:proliant_dx190r_gen10_server:-:*:*:*:*:*:*:*,HPE Proliant DX190r Gen10 Server,['CVE-2020-7205'],2022-03-21T16:33Z
+3,cpe:2.3:h:hpe:proliant_dx360_gen10_server:-:*:*:*:*:*:*:*,HPE Proliant DX360 Gen10 Server,['CVE-2020-7205'],2022-03-21T16:33Z
+4,cpe:2.3:h:hpe:proliant_dx380_gen10_server:-:*:*:*:*:*:*:*,HPE Proliant DX380 Gen10 Server,['CVE-2020-7205'],2022-03-21T16:33Z
+5,cpe:2.3:h:hpe:proliant_dx385_gen10_plus_server:-:*:*:*:*:*:*:*,HPE Proliant DX385 Gen10 Plus Server,['CVE-2020-7205'],2022-03-21T16:33Z
+6,cpe:2.3:h:hpe:proliant_dx4200_gen10_server:-:*:*:*:*:*:*:*,HPE Proliant DX4200 Gen10 Server,['CVE-2020-7205'],2022-03-21T16:33Z
+7,cpe:2.3:h:hpe:proliant_dx560_gen10_server:-:*:*:*:*:*:*:*,HPE Proliant DX560 Gen10 Server,['CVE-2020-7205'],2022-03-21T16:33Z
+8,cpe:2.3:h:hpe:proliant_e910_server_blade:-:*:*:*:*:*:*:*,HPE ProLiant E910 Server Blade,"['CVE-2019-11136', 'CVE-2019-11137', 'CVE-2020-7205']",2022-03-21T16:33Z
+9,cpe:2.3:o:hpe:proliant_e910_server_blade_firmware:-:*:*:*:*:*:*:*,HPE ProLiant E910 Server Blade Firmware,"['CVE-2019-11136', 'CVE-2019-11137']",2022-03-21T16:33Z

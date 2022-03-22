@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aveva:clearscada:2010:r3.1:*:*:*:*:*:*,AVEVA ClearSCADA 2010 R3.1,"['CVE-2013-6142', 'CVE-2014-0779', 'CVE-2014-5411', 'CVE-2014-5412', 'CVE-2014-5413', 'CVE-2017-6021', 'CVE-2017-9962']",2022-03-19T04:22Z
+1,cpe:2.3:a:aveva:clearscada:2013:r1:*:*:*:*:*:*,AVEVA ClearSCADA 2013 R1,"['CVE-2013-6142', 'CVE-2014-0779', 'CVE-2014-5411', 'CVE-2014-5412', 'CVE-2014-5413']",2022-03-19T04:22Z
+2,cpe:2.3:a:aveva:clearscada:2013:r1.1:*:*:*:*:*:*,AVEVA ClearSCADA 2013 R1.1,"['CVE-2013-6142', 'CVE-2014-0779', 'CVE-2014-5411', 'CVE-2014-5412', 'CVE-2014-5413']",2022-03-19T04:22Z
+3,cpe:2.3:a:aveva:clearscada:2013:r1.1a:*:*:*:*:*:*,AVEVA ClearSCADA 2013 R1.1a,"['CVE-2013-6142', 'CVE-2014-0779', 'CVE-2014-5411', 'CVE-2014-5412', 'CVE-2014-5413']",2022-03-19T04:23Z
+4,cpe:2.3:a:aveva:clearscada:2013:r1.2:*:*:*:*:*:*,AVEVA ClearSCADA 2013 R1.2,"['CVE-2013-6142', 'CVE-2014-0779', 'CVE-2014-5411', 'CVE-2014-5412', 'CVE-2014-5413']",2022-03-19T04:23Z
+5,cpe:2.3:a:aveva:clearscada:2013:r2:*:*:*:*:*:*,AVEVA ClearSCADA 2013 R2,"['CVE-2014-0779', 'CVE-2014-5411', 'CVE-2014-5412', 'CVE-2014-5413']",2022-03-19T04:23Z
+6,cpe:2.3:a:aveva:edge:8.1:-:*:*:*:*:*:*,Aveva Edge 8.1,"['CVE-2018-17914', 'CVE-2018-17916']",2022-03-19T04:23Z
+7,cpe:2.3:a:aveva:edge:8.1:sp1:*:*:*:*:*:*,Aveva Edge 8.1 Service Pack 1,"['CVE-2018-17914', 'CVE-2018-17916']",2022-03-19T04:23Z
+8,cpe:2.3:a:aveva:edge:8.1:sp2:*:*:*:*:*:*,Aveva Edge 8.1 Service Pack 2,[''],2022-03-19T04:23Z
+9,cpe:2.3:a:aveva:edge:8.1:sp3:*:*:*:*:*:*,Aveva Edge 8.1 Service Pack 3,[''],2022-03-19T04:23Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:kobe-l09a_firmware:kob-l09c362b001custc362d001:*:*:*:*:*:*:*,Huawei Kobe-L09A Firmware KOB-L09C362B001CUSTC362D001,['CVE-2018-7907'],2022-03-21T18:00Z
+1,cpe:2.3:h:huawei:kobe-l09ahn:-:*:*:*:*:*:*:*,Huawei Kobe-l09ahn -,"['CVE-2017-8159', 'CVE-2018-7907']",2022-03-21T18:00Z
+2,cpe:2.3:o:huawei:kobe-l09ahn:kob-l09c233b017:*:*:*:*:*:*:*,Huawei Kobe-L09AHN KOB-L09C233B017,[''],2022-03-21T18:00Z
+3,cpe:2.3:o:huawei:kobe-l09ahn_firmware:-:*:*:*:*:*:*:*,Huawei Kobe-l09ahn Firmware -,[''],2022-03-21T18:00Z
+4,cpe:2.3:o:huawei:kobe-l09ahn_firmware:kob-l09c233b017:*:*:*:*:*:*:*,Huawei Kobe-l09ahn Firmware Kob-l09c233b017,['CVE-2017-8159'],2022-03-21T18:00Z
+5,cpe:2.3:o:huawei:kobe-l09ahn_firmware:kob-l09c233b226:*:*:*:*:*:*:*,Huawei Kobe-L09AHN Firmware KOB-L09C233B226,['CVE-2018-7907'],2022-03-21T18:00Z
+6,cpe:2.3:h:huawei:kobe-w09c:-:*:*:*:*:*:*:*,Huawei Kobe-W09C,['CVE-2018-7907'],2022-03-21T18:00Z
+7,cpe:2.3:o:huawei:kobe-w09c_firmware:kob-w09c128b251custc128d001:*:*:*:*:*:*:*,Huawei Kobe-W09C Firmware KOB-W09C128B251CUSTC128D001,['CVE-2018-7907'],2022-03-21T18:00Z
+8,cpe:2.3:h:huawei:kobe-w09chn:-:*:*:*:*:*:*:*,Huawei Kobe-w09chn -,['CVE-2017-8159'],2022-03-21T18:00Z
+9,cpe:2.3:o:huawei:kobe-w09chn:kob-w09c233b012:*:*:*:*:*:*:*,Huawei Kobe-W09CHN KOB-W09C233B012,[''],2022-03-21T18:00Z

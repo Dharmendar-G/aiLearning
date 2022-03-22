@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:cloud_services_platform_2100_firmware:1.0:*:*:*:*:*:*:*,Cisco Cloud Services Platform 2100 Firmware 1.0,[''],2022-03-19T19:13Z
+1,cpe:2.3:o:cisco:cloud_services_platform_2100_firmware:2.0.0:*:*:*:*:*:*:*,Cisco Cloud Services Platform 2100 Firmware 2.0.0,[''],2022-03-19T19:13Z
+2,cpe:2.3:o:cisco:cloud_services_platform_2100_firmware:2.1.0:*:*:*:*:*:*:*,Cisco Cloud Services Platform 2100 Firmware 2.1.0,[''],2022-03-19T19:14Z
+3,cpe:2.3:o:cisco:cloud_services_platform_2100_firmware:2.1.1:*:*:*:*:*:*:*,Cisco Cloud Services Platform 2100 Firmware 2.1.1,[''],2022-03-19T19:13Z
+4,cpe:2.3:o:cisco:cloud_services_platform_2100_firmware:2.1.2:*:*:*:*:*:*:*,Cisco Cloud Services Platform 2100 Firmware 2.1.2,[''],2022-03-19T19:14Z
+5,cpe:2.3:o:cisco:cloud_services_platform_2100_firmware:2.2:*:*:*:*:*:*:*,Cisco Cloud Services Platform 2100 Firmware 2.2,[''],2022-03-19T19:14Z
+6,cpe:2.3:o:cisco:cloud_services_platform_2100_firmware:2.2\(4\):*:*:*:*:*:*:*,Cisco Cloud Services Platform 2100 Firmware 2.2(4),['CVE-2018-0454'],2022-03-19T19:14Z
+7,cpe:2.3:o:cisco:cloud_services_platform_2100_firmware:2.2.1:*:*:*:*:*:*:*,Cisco Cloud Services Platform 2100 Firmware 2.2.1,[''],2022-03-19T19:14Z
+8,cpe:2.3:o:cisco:cloud_services_platform_2100_firmware:2.2.2:*:*:*:*:*:*:*,Cisco Cloud Services Platform 2100 Firmware 2.2.2,[''],2022-03-19T19:14Z
+9,cpe:2.3:o:cisco:cloud_services_platform_2100_firmware:2.2.3:*:*:*:*:*:*:*,Cisco Cloud Services Platform 2100 Firmware 2.2.3,[''],2022-03-19T19:14Z

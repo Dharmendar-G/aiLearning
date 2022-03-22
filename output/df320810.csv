@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:deskjet_3630_k4t93a_firmware:-:*:*:*:*:*:*:*,HP DeskJet 3630 K4T93A Firmware,"['CVE-2019-6319', 'CVE-2019-6320']",2022-03-21T13:13Z
+1,cpe:2.3:o:hp:deskjet_3630_k4t93a_firmware:swp1fn1912br:*:*:*:*:*:*:*,HP DeskJet 3630 K4T93A Firmware SWP1FN1912BR,[''],2022-03-21T13:13Z
+2,cpe:2.3:h:hp:deskjet_3630_k4t94a:-:*:*:*:*:*:*:*,HP DeskJet 3630 K4T94A,['CVE-2020-28419'],2022-03-21T13:13Z
+3,cpe:2.3:h:hp:deskjet_3630_k4t95a:-:*:*:*:*:*:*:*,HP DeskJet 3630 K4T95A,['CVE-2020-28419'],2022-03-21T13:13Z
+4,cpe:2.3:h:hp:deskjet_3630_k4t96a:-:*:*:*:*:*:*:*,HP DeskJet 3630 K4T96A,['CVE-2020-28419'],2022-03-21T13:13Z
+5,cpe:2.3:h:hp:deskjet_3630_k4t97a:-:*:*:*:*:*:*:*,HP DeskJet 3630 K4T97A,['CVE-2020-28419'],2022-03-21T13:13Z
+6,cpe:2.3:h:hp:deskjet_3630_k4t99b:-:*:*:*:*:*:*:*,HP DeskJet 3630 K4T99B,['CVE-2020-28419'],2022-03-21T13:13Z
+7,cpe:2.3:h:hp:deskjet_3630_k4t99c:-:*:*:*:*:*:*:*,HP DeskJet 3630 K4T99C,"['CVE-2019-6319', 'CVE-2019-6320', 'CVE-2020-28419']",2022-03-21T13:13Z
+8,cpe:2.3:o:hp:deskjet_3630_k4t99c_firmware:-:*:*:*:*:*:*:*,HP DeskJet 3630 K4T99C Firmware,"['CVE-2019-6319', 'CVE-2019-6320']",2022-03-21T13:13Z
+9,cpe:2.3:o:hp:deskjet_3630_k4t99c_firmware:swp1fn1912br:*:*:*:*:*:*:*,HP DeskJet 3630 K4T99C Firmware SWP1FN1912BR,[''],2022-03-21T13:13Z

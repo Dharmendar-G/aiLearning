@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:artsproject:arts:1.5.10:*:*:*:*:*:*:*,artsproject aRts 1.5.10,['CVE-2015-7543'],2022-03-18T23:31Z
+1,cpe:2.3:a:artware_cms_project:artware_cms:-:*:*:*:*:*:*:*,ARTWARE CMS Project ARTWARE CMS,['CVE-2021-32538'],2022-03-18T23:31Z
+2,cpe:2.3:a:artware_cms_project:artware_cms:2021-01-08:*:*:*:*:*:*:*,ARTWARE CMS Project ARTWARE CMS 2021-01-08,[''],2022-03-18T23:31Z
+3,"cpe:2.3:a:artworks_gallery_in_php\,_css\,_javascript\,_and_mysql_project:artworks_gallery_in_php\,_css\,_javascript\,_and_mysql:1.0:*:*:*:*:*:*:*","ARTWORKS GALLERY IN PHP, CSS, JAVASCRIPT, AND MYSQL Project ARTWORKS GALLERY IN PHP, CSS, JAVASCRIPT, AND MYSQL 1.0","['CVE-2020-28687', 'CVE-2020-28688']",2022-03-18T23:31Z
+4,cpe:2.3:h:aruba:cx_6200f:-:*:*:*:*:*:*:*,Aruba CX 6200F,"['CVE-2020-7121', 'CVE-2020-7122']",2022-03-18T23:31Z
+5,cpe:2.3:o:aruba:cx_6200f_firmware:10.04.1000:*:*:*:*:*:*:*,Aruba CX 6200F Firmware 10.04.1000,"['CVE-2020-7121', 'CVE-2020-7122']",2022-03-18T23:31Z
+6,cpe:2.3:o:aruba:cx_6200f_firmware:10.04.3021:*:*:*:*:*:*:*,Aruba CX 6200F Firmware 10.04.3021,['CVE-2020-7121'],2022-03-18T23:31Z
+7,cpe:2.3:h:aruba:cx_6300:-:*:*:*:*:*:*:*,Aruba CX 6300,"['CVE-2020-7121', 'CVE-2020-7122']",2022-03-18T23:31Z
+8,cpe:2.3:o:aruba:cx_6300_firmware:10.04.1000:*:*:*:*:*:*:*,Aruba CX 6300 Firmware 10.04.1000,"['CVE-2020-7121', 'CVE-2020-7122']",2022-03-18T23:31Z
+9,cpe:2.3:o:aruba:cx_6300_firmware:10.04.3021:*:*:*:*:*:*:*,Aruba CX 6300 Firmware 10.04.3021,['CVE-2020-7121'],2022-03-18T23:31Z

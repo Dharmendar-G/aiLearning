@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:config-model_project:config-model:2.096:*:*:*:*:*:*:*,Config-model Project Config-model 2.096,"['CVE-2017-0373', 'CVE-2017-0374']",2022-03-20T07:13Z
+1,cpe:2.3:a:config-model_project:config-model:2.097:*:*:*:*:*:*:*,Config-model Project Config-model 2.097,"['CVE-2017-0373', 'CVE-2017-0374']",2022-03-20T07:13Z
+2,cpe:2.3:a:config-model_project:config-model:2.098:*:*:*:*:*:*:*,Config-model Project Config-model 2.098,"['CVE-2017-0373', 'CVE-2017-0374']",2022-03-20T07:13Z
+3,cpe:2.3:a:config-model_project:config-model:2.099:*:*:*:*:*:*:*,Config-model Project Config-model 2.099,"['CVE-2017-0373', 'CVE-2017-0374']",2022-03-20T07:13Z
+4,cpe:2.3:a:config-model_project:config-model:2.100:*:*:*:*:*:*:*,Config-model Project Config-model 2.100,"['CVE-2017-0373', 'CVE-2017-0374']",2022-03-20T07:13Z
+5,cpe:2.3:a:config-model_project:config-model:2.101:*:*:*:*:*:*:*,Config-model Project Config-model 2.101,"['CVE-2017-0373', 'CVE-2017-0374']",2022-03-20T07:13Z
+6,cpe:2.3:a:config-model_project:config-model:2.102:*:*:*:*:*:*:*,Config-model Project Config-model 2.102,[''],2022-03-20T07:13Z
+7,cpe:2.3:a:confinit_project:confinit:0.1.0:*:*:*:*:node.js:*:*,confinit Project confinit 0.1.0 for Node.js,['CVE-2020-7638'],2022-03-20T07:13Z
+8,cpe:2.3:a:confinit_project:confinit:0.2.0:*:*:*:*:node.js:*:*,confinit Project confinit 0.2.0 for Node.js,['CVE-2020-7638'],2022-03-20T07:13Z
+9,cpe:2.3:a:confinit_project:confinit:0.3.0:*:*:*:*:node.js:*:*,confinit Project confinit 0.3.0 for Node.js,['CVE-2020-7638'],2022-03-20T07:13Z

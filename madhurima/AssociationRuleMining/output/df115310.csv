@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:asa_5500_csc-ssm_firmware:6.6.1125.0:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) 5500 Content Security and Control Security Services Module (CSC-SSM) Firmware 6.6.1125.0,['CVE-2016-1312'],2022-03-19T18:26Z
+1,cpe:2.3:o:cisco:asa_5500_firmware:1.1.15:*:*:*:*:*:*:*,Cisco ASA 5500 Firmware 1.1.15,[''],2022-03-19T18:26Z
+2,cpe:2.3:o:cisco:asa_5500_firmware:8.2:*:*:*:*:*:*:*,Cisco ASA 5500 Firmware 8.2,[''],2022-03-19T18:26Z
+3,cpe:2.3:o:cisco:asa_5500_firmware:8.4\(1\):*:*:*:*:*:*:*,Cisco ASA 5500 Firmware 8.4(1),['CVE-2011-2054'],2022-03-19T18:26Z
+4,cpe:2.3:h:cisco:asa_5500-x:-:*:*:*:*:*:*:*,Cisco Asa 5500-x -,"['CVE-2019-12696', 'CVE-2019-12697']",2022-03-19T18:26Z
+5,cpe:2.3:a:cisco:asa_5500-x_series_ips_ssp_software:7.1:*:*:*:*:*:*:*,Cisco ASA 5500-X Series IPS SSP Software 7.1,"['CVE-2013-1218', 'CVE-2013-1243']",2022-03-19T18:26Z
+6,cpe:2.3:h:cisco:asa_5505:-:*:*:*:*:*:*:*,Cisco ASA 5505,"['CVE-2010-1578', 'CVE-2010-1579', 'CVE-2010-1580', 'CVE-2010-1581', 'CVE-2010-2814', 'CVE-2010-2815', 'CVE-2010-2816', 'CVE-2010-2817', 'CVE-2011-0395', 'CVE-2011-0396', 'CVE-2018-15388', 'CVE-2019-12673', 'CVE-2019-12676', 'CVE-2019-12677', 'CVE-2019-12678', 'CVE-2019-12693', 'CVE-2019-12695', 'CVE-2019-12698', 'CVE-2019-15256', 'CVE-2019-1687', 'CVE-2019-1693', 'CVE-2019-1694', 'CVE-2019-1697', 'CVE-2019-1701', 'CVE-2019-1713', 'CVE-2020-3125', 'CVE-2020-3179', 'CVE-2020-3186', 'CVE-2020-3187', 'CVE-2020-3188', 'CVE-2020-3189', 'CVE-2020-3191', 'CVE-2020-3195', 'CVE-2020-3196', 'CVE-2020-3254', 'CVE-2020-3255', 'CVE-2020-3283', 'CVE-2020-3303', 'CVE-2020-3305', 'CVE-2020-3306', 'CVE-2020-3452', 'CVE-2021-34783', 'CVE-2021-34787', 'CVE-2021-34790', 'CVE-2021-34791', 'CVE-2021-34792', 'CVE-2021-34793', 'CVE-2021-34794', 'CVE-2021-40117', 'CVE-2021-40118', 'CVE-2021-40125']",2022-03-19T18:26Z
+7,cpe:2.3:o:cisco:asa_5505_firmware:9.4\(1\):*:*:*:*:*:*:*,Cisco ASA 5505 Firmware 9.4(1),['CVE-2020-3191'],2022-03-19T18:26Z
+8,cpe:2.3:o:cisco:asa_5505_firmware:9.4\(4\):*:*:*:*:*:*:*,Cisco ASA 5505 Firmware 9.4(4),['CVE-2020-3196'],2022-03-19T18:26Z
+9,cpe:2.3:o:cisco:asa_5505_firmware:9.6\(4\):*:*:*:*:*:*:*,Cisco ASA 5505 Firmware 9.6(4),['CVE-2020-3187'],2022-03-19T18:26Z

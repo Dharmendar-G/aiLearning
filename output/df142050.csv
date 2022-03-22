@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cksource:ckeditor:1.0.4:*:*:*:*:wordpress:*:*,CKSource CKEditor 1.0.4 for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z
+1,cpe:2.3:a:cksource:ckeditor:1.0.5:*:*:*:*:wordpress:*:*,CKSource CKEditor 1.0.5 for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z
+2,cpe:2.3:a:cksource:ckeditor:1.0.6:*:*:*:*:wordpress:*:*,CKSource CKEditor 1.0.6 for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z
+3,cpe:2.3:a:cksource:ckeditor:1.0.7:*:*:*:*:wordpress:*:*,CKSource CKEditor 1.0.7 for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z
+4,cpe:2.3:a:cksource:ckeditor:1.0.8:*:*:*:*:wordpress:*:*,CKSource CKEditor 1.0.8 for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z
+5,cpe:2.3:a:cksource:ckeditor:1.0.9:*:*:*:*:wordpress:*:*,CKSource CKEditor 1.0.9 for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z
+6,cpe:2.3:a:cksource:ckeditor:3.6.1:*:*:*:*:wordpress:*:*,CKSource CKEditor 3.6.1 for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z
+7,cpe:2.3:a:cksource:ckeditor:3.6.2:*:*:*:*:wordpress:*:*,CKSource CKEditor 3.6.2 for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z
+8,cpe:2.3:a:cksource:ckeditor:3.6.2.1:*:*:*:*:wordpress:*:*,CKSource CKEditor 3.6.2.1 for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z
+9,cpe:2.3:a:cksource:ckeditor:3.6.2.2:*:*:*:*:wordpress:*:*,CKSource CKEditor 3.6.2.2 for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z

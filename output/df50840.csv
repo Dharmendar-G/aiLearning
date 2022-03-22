@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:async-git_project:async-git:1.9.0:*:*:*:*:node.js:*:*,async-git Project async-git 1.9.0 for Node.js,"['CVE-2020-28490', 'CVE-2021-3190']",2022-03-19T00:02Z
+1,cpe:2.3:a:async-git_project:async-git:1.10.0:*:*:*:*:node.js:*:*,async-git Project async-git 1.10.0 for Node.js,"['CVE-2020-28490', 'CVE-2021-3190']",2022-03-19T00:02Z
+2,cpe:2.3:a:async-git_project:async-git:1.10.1:*:*:*:*:node.js:*:*,async-git Project async-git 1.10.1 for Node.js,"['CVE-2020-28490', 'CVE-2021-3190']",2022-03-19T00:02Z
+3,cpe:2.3:a:async-git_project:async-git:1.11.0:*:*:*:*:node.js:*:*,async-git Project async-git 1.11.0 for Node.js,"['CVE-2020-28490', 'CVE-2021-3190']",2022-03-19T00:02Z
+4,cpe:2.3:a:async-git_project:async-git:1.12.0:*:*:*:*:node.js:*:*,async-git Project async-git 1.12.0 for Node.js,"['CVE-2020-28490', 'CVE-2021-3190']",2022-03-19T00:02Z
+5,cpe:2.3:a:async-git_project:async-git:1.13.0:*:*:*:*:node.js:*:*,async-git Project async-git 1.13.0 for Node.js,"['CVE-2020-28490', 'CVE-2021-3190']",2022-03-19T00:02Z
+6,cpe:2.3:a:async-git_project:async-git:1.13.1:*:*:*:*:node.js:*:*,async-git Project async-git 1.13.1 for Node.js,"['CVE-2020-28490', 'CVE-2021-3190']",2022-03-19T00:02Z
+7,cpe:2.3:a:async-git_project:async-git:1.13.2:*:*:*:*:node.js:*:*,async-git Project async-git 1.13.2 for Node.js,[''],2022-03-19T00:02Z
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

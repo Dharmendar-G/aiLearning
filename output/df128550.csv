@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:ip_phone_8800_series_firmware:10.3:*:*:*:*:*:*:*,Cisco IP Phone 8800 Series Firmware 10.3,"['CVE-2016-1403', 'CVE-2017-12305']",2022-03-19T22:39Z
+1,cpe:2.3:o:cisco:ip_phone_8800_series_firmware:10.3\(2\):*:*:*:*:*:*:*,Cisco IP Phone 8800 Series Firmware 10.3(2),"['CVE-2015-6360', 'CVE-2016-1403', 'CVE-2017-12305']",2022-03-19T22:39Z
+2,cpe:2.3:o:cisco:ip_phone_8800_series_firmware:11.0\(0.1\):*:*:*:*:*:*:*,Cisco IP Phone 8800 Series Firmware 11.0(0.1),"['CVE-2017-12305', 'CVE-2017-12328', 'CVE-2017-6630']",2022-03-19T22:39Z
+3,cpe:2.3:o:cisco:ip_phone_8800_series_firmware:11.0\(1\):*:*:*:*:*:*:*,Cisco IP Phone 8800 Series Firmware 11.0(1),"['CVE-2015-6360', 'CVE-2016-1403', 'CVE-2016-1421', 'CVE-2016-1434', 'CVE-2016-1435', 'CVE-2016-1479', 'CVE-2017-12305']",2022-03-19T22:39Z
+4,cpe:2.3:o:cisco:ip_phone_8800_series_firmware:11.0_base:*:*:*:*:*:*:*,Cisco IP Phone 8800 Series Firmware 11.0 Base,"['CVE-2016-1476', 'CVE-2017-12305']",2022-03-19T22:39Z
+5,cpe:2.3:o:cisco:ip_phone_8800_series_firmware:12.5\(1\):*:*:*:*:*:*:*,Cisco IP Phone 8800 Series Firmware 12.5(1),"['CVE-2017-12305', 'CVE-2018-0461']",2022-03-19T22:39Z
+6,cpe:2.3:h:cisco:ip_phone_8811:-:*:*:*:*:*:*:*,Cisco IP Phone 8811,"['CVE-2018-0316', 'CVE-2018-0332', 'CVE-2018-0341', 'CVE-2018-0461', 'CVE-2019-16008', 'CVE-2019-1635', 'CVE-2019-1684', 'CVE-2019-1922', 'CVE-2020-3111', 'CVE-2020-3161', 'CVE-2020-3574', 'CVE-2021-34711', 'CVE-2022-20660']",2022-03-19T22:39Z
+7,cpe:2.3:o:cisco:ip_phone_8811_firmware:-:*:*:*:*:*:*:*,Cisco IP Phone 8811 Firmware,"['CVE-2019-16008', 'CVE-2019-1684', 'CVE-2020-3111', 'CVE-2020-3574', 'CVE-2021-33478', 'CVE-2021-34711', 'CVE-2022-20660']",2022-03-19T22:39Z
+8,cpe:2.3:o:cisco:ip_phone_8811_firmware:9.3\(4\)sr3:*:*:*:*:*:*:*,Cisco IP Phone 8811 Firmware 9.3(4)SR3,"['CVE-2019-16008', 'CVE-2019-1635', 'CVE-2019-1684', 'CVE-2020-3111', 'CVE-2020-3574', 'CVE-2021-33478', 'CVE-2021-34711', 'CVE-2022-20660']",2022-03-19T22:39Z
+9,cpe:2.3:o:cisco:ip_phone_8811_firmware:10.2\(2\):*:*:*:*:*:*:*,Cisco IP Phone 8811 Firmware 10.2(2),"['CVE-2019-16008', 'CVE-2019-1684', 'CVE-2020-3111', 'CVE-2020-3574', 'CVE-2021-33478', 'CVE-2021-34711', 'CVE-2022-20660']",2022-03-19T22:39Z

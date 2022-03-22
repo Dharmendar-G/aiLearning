@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:ibm:storwize_v3500_firmware:7.8.1.8:*:*:*:*:*:*:*,IBM Storwize V3500 Firmware 7.8.1.8,[''],2022-03-21T22:22Z
+1,cpe:2.3:o:ibm:storwize_v3500_firmware:7.8.1.9:*:*:*:*:*:*:*,IBM Storwize V3500 Firmware 7.8.1.9,[''],2022-03-21T22:23Z
+2,cpe:2.3:o:ibm:storwize_v3500_firmware:7.8.1.10:*:*:*:*:*:*:*,IBM Storwize V3500 Firmware 7.8.1.10,[''],2022-03-21T22:23Z
+3,cpe:2.3:o:ibm:storwize_v3500_firmware:7.8.1.11:*:*:*:*:*:*:*,IBM Storwize V3500 Firmware 7.8.1.11,[''],2022-03-21T22:23Z
+4,cpe:2.3:o:ibm:storwize_v3500_firmware:7.8.1.12:*:*:*:*:*:*:*,IBM Storwize V3500 Firmware 7.8.1.12,[''],2022-03-21T22:23Z
+5,cpe:2.3:o:ibm:storwize_v3500_firmware:8.1.0.0:*:*:*:*:*:*:*,IBM Storwize V3500 Firmware 8.1.0.0,[''],2022-03-21T22:23Z
+6,cpe:2.3:o:ibm:storwize_v3500_firmware:8.1.0.1:*:*:*:*:*:*:*,IBM Storwize V3500 Firmware 8.1.0.1,[''],2022-03-21T22:23Z
+7,cpe:2.3:o:ibm:storwize_v3500_firmware:8.1.0.2:*:*:*:*:*:*:*,IBM Storwize V3500 Firmware 8.1.0.2,[''],2022-03-21T22:23Z
+8,cpe:2.3:o:ibm:storwize_v3500_firmware:8.1.1.0:*:*:*:*:*:*:*,IBM Storwize V3500 Firmware 8.1.1.0,"['CVE-2018-1433', 'CVE-2018-1434', 'CVE-2018-1438', 'CVE-2018-1461', 'CVE-2018-1462', 'CVE-2018-1463', 'CVE-2018-1464', 'CVE-2018-1465', 'CVE-2018-1466']",2022-03-21T22:23Z
+9,cpe:2.3:o:ibm:storwize_v3500_firmware:8.1.1.1:*:*:*:*:*:*:*,IBM Storwize V3500 Firmware 8.1.1.1,"['CVE-2018-1433', 'CVE-2018-1434', 'CVE-2018-1438', 'CVE-2018-1461', 'CVE-2018-1462', 'CVE-2018-1463', 'CVE-2018-1464', 'CVE-2018-1465', 'CVE-2018-1466']",2022-03-21T22:23Z

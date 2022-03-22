@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:clusterlabs:crmsh:3.0.3:*:*:*:*:*:*:*,ClusterLabs crmsh 3.0.3,['CVE-2020-35459'],2022-03-20T04:01Z
+1,cpe:2.3:a:clusterlabs:crmsh:3.0.4:*:*:*:*:*:*:*,ClusterLabs crmsh 3.0.4,['CVE-2020-35459'],2022-03-20T04:01Z
+2,cpe:2.3:a:clusterlabs:crmsh:3.0.5:*:*:*:*:*:*:*,ClusterLabs crmsh 3.0.5,['CVE-2020-35459'],2022-03-20T04:01Z
+3,cpe:2.3:a:clusterlabs:crmsh:4.0.0:*:*:*:*:*:*:*,ClusterLabs crmsh 4.0.0,['CVE-2020-35459'],2022-03-20T04:01Z
+4,cpe:2.3:a:clusterlabs:crmsh:4.1.0:*:*:*:*:*:*:*,ClusterLabs crmsh 4.1.0,['CVE-2020-35459'],2022-03-20T04:02Z
+5,cpe:2.3:a:clusterlabs:crmsh:4.2.0:*:*:*:*:*:*:*,ClusterLabs crmsh 4.2.0,['CVE-2020-35459'],2022-03-20T04:02Z
+6,cpe:2.3:a:clusterlabs:crmsh:4.2.1:*:*:*:*:*:*:*,ClusterLabs crmsh 4.2.1,['CVE-2020-35459'],2022-03-20T04:02Z
+7,cpe:2.3:a:clusterlabs:fence-agents:-:*:*:*:*:*:*:*,ClusterLabs Fence-agents,"['CVE-2014-0104', 'CVE-2019-10153']",2022-03-20T04:02Z
+8,cpe:2.3:a:clusterlabs:fence-agents:3.1.0:*:*:*:*:*:*:*,ClusterLabs Fence-agents 3.1.0,"['CVE-2014-0104', 'CVE-2019-10153']",2022-03-20T04:02Z
+9,cpe:2.3:a:clusterlabs:fence-agents:3.1.1:*:*:*:*:*:*:*,ClusterLabs Fence-agents 3.1.1,"['CVE-2014-0104', 'CVE-2019-10153']",2022-03-20T04:02Z

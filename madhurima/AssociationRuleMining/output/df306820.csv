@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hashicorp:terraform:2.16.0:*:*:*:*:aws:*:*,HashiCorp Terraform 2.16.0 for AWS,[''],2022-03-21T09:54Z
+1,cpe:2.3:a:hashicorp:terraform:2.17.0:*:*:*:*:aws:*:*,HashiCorp Terraform 2.17.0 for AWS,[''],2022-03-21T09:54Z
+2,cpe:2.3:a:hashicorp:terraform:2.18.0:*:*:*:*:aws:*:*,HashiCorp Terraform 2.18.0 for AWS,[''],2022-03-21T09:54Z
+3,cpe:2.3:a:hashicorp:terraform:2.19.0:*:*:*:*:aws:*:*,HashiCorp Terraform 2.19.0 for AWS,[''],2022-03-21T09:54Z
+4,cpe:2.3:a:hashicorp:terraform_enterprise:-:*:*:*:*:*:*:*,Hashicorp Terraform Enterprise,"['CVE-2020-15511', 'CVE-2021-3153', 'CVE-2021-40862', 'CVE-2022-25374']",2022-03-21T09:54Z
+5,cpe:2.3:a:hashicorp:terraform_enterprise:202007-1:*:*:*:*:*:*:*,Hashicorp Terraform Enterprise 202007-1,"['CVE-2021-3153', 'CVE-2021-40862', 'CVE-2022-25374']",2022-03-21T09:54Z
+6,cpe:2.3:a:hashicorp:terraform_enterprise:202106-1:*:*:*:*:*:*:*,Hashicorp Terraform Enterprise 202106-1,"['CVE-2021-40862', 'CVE-2022-25374']",2022-03-21T09:54Z
+7,cpe:2.3:a:hashicorp:terraform_enterprise:202107-1:*:*:*:*:*:*:*,Hashicorp Terraform Enterprise 202107-1,"['CVE-2021-40862', 'CVE-2022-25374']",2022-03-21T09:54Z
+8,cpe:2.3:a:hashicorp:terraform_enterprise:202108-1:*:*:*:*:*:*:*,Hashicorp Terraform Enterprise 202108-1,"['CVE-2021-40862', 'CVE-2022-25374']",2022-03-21T09:54Z
+9,cpe:2.3:a:hashicorp:terraform_enterprise:202109-1:*:*:*:*:*:*:*,Hashicorp Terraform Enterprise 202109-1,['CVE-2022-25374'],2022-03-21T09:54Z

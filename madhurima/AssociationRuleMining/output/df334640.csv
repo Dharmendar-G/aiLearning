@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:huawei:ireader:8.0.2.301:*:*:*:*:*:*:*,Huawei iReader 8.0.2.301,[''],2022-03-21T17:59Z
+1,cpe:2.3:h:huawei:jackman-al00d:-:*:*:*:*:*:*:*,Huawei Jackman-AL00D,['CVE-2020-1848'],2022-03-21T17:59Z
+2,cpe:2.3:o:huawei:jackman-al00d_firmware:8.2.0.185\(c00r2p1\):*:*:*:*:*:*:*,Huawei Jackman-AL00D Firmware 8.2.0.185(C00R2P1),['CVE-2020-1848'],2022-03-21T17:59Z
+3,cpe:2.3:h:huawei:jackman-l21:-:*:*:*:*:*:*:*,Huawei Jackman-L21,['CVE-2019-5235'],2022-03-21T17:59Z
+4,cpe:2.3:o:huawei:jackman-l21_firmware:8.2.0.160\(c185\):*:*:*:*:*:*:*,Huawei Jackman-L21 Firmware 8.2.0.160(C185),['CVE-2019-5235'],2022-03-21T17:59Z
+5,cpe:2.3:h:huawei:jackman-l22:-:*:*:*:*:*:*:*,Huawei Jackman-L22,"['CVE-2019-5235', 'CVE-2019-5302', 'CVE-2019-5303']",2022-03-21T17:59Z
+6,cpe:2.3:o:huawei:jackman-l22_firmware:8.2.0.156\(c636r2p2\):*:*:*:*:*:*:*,Huawei Jackman-L22 Firmware 8.2.0.156(C636R2P2),"['CVE-2019-5235', 'CVE-2019-5302', 'CVE-2019-5303']",2022-03-21T17:59Z
+7,cpe:2.3:o:huawei:jackman-l22_firmware:9.1.0.247\(c636e2r4p1t8\):*:*:*:*:*:*:*,Huawei Jackman-L22 Firmware 9.1.0.247(C636E2R4P1T8),[''],2022-03-21T17:59Z
+8,cpe:2.3:h:huawei:jackman-l23:-:*:*:*:*:*:*:*,Huawei Jackman-L23,['CVE-2019-5235'],2022-03-21T17:59Z
+9,cpe:2.3:o:huawei:jackman-l23_firmware:8.2.0.152\(c45custc45d1\):*:*:*:*:*:*:*,Huawei Jackman-L23 Firmware 8.2.0.152(C45CUSTC45D1),['CVE-2019-5235'],2022-03-21T17:59Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:color_laserjet_cp4005:cb503a:*:*:*:*:*:*:*,HP Color LaserJet CP4005 CB503A,"['CVE-2011-4161', 'CVE-2012-5221']",2022-03-21T13:01Z
+1,cpe:2.3:a:hp:color_laserjet_cp4520-cp4020_series_screen_fonts:2.0.0.0:*:*:*:*:*:*:*,HP Color Laserjet Cp4520-cp4020 Series Screen Fonts 2.0.0.0,[''],2022-03-21T13:01Z
+2,cpe:2.3:a:hp:color_laserjet_cp4520-cp4020_series_user_guide:1.0.0.0:*:*:*:*:*:*:*,HP Color Laserjet Cp4520-cp4020 Series User Guide 1.0.0.0,[''],2022-03-21T13:01Z
+3,cpe:2.3:h:hp:color_laserjet_cp5225:ce710a:*:*:*:*:*:*:*,HP Color LaserJet CP5225 Series CE710A,['CVE-2013-6193'],2022-03-21T13:01Z
+4,cpe:2.3:h:hp:color_laserjet_cp5225:ce711a:*:*:*:*:*:*:*,HP Color LaserJet CP5225 Series CE711A,['CVE-2013-6193'],2022-03-21T13:01Z
+5,cpe:2.3:h:hp:color_laserjet_cp5225:ce712a:*:*:*:*:*:*:*,HP Color LaserJet CP5225 Series CE712A,['CVE-2013-6193'],2022-03-21T13:01Z
+6,cpe:2.3:h:hp:color_laserjet_cp5525:-:*:*:*:*:*:*:*,HP Color LaserJet CP5525,"['CVE-2011-4161', 'CVE-2018-5923']",2022-03-21T13:01Z
+7,cpe:2.3:o:hp:color_laserjet_cp5525_firmware:-:*:*:*:*:*:*:*,Hp Color Laserjet Cp5525 Firmware -,['CVE-2018-5923'],2022-03-21T13:01Z
+8,cpe:2.3:o:hp:color_laserjet_cp5525_firmware:2308974_579753:*:*:*:*:*:*:*,Hp Color Laserjet Cp5525 Firmware 2308974 579753,[''],2022-03-21T13:01Z
+9,cpe:2.3:h:hp:color_laserjet_cp6015:q3932a:*:*:*:*:*:*:*,HP Color LaserJet CP6015 Q3932A,"['CVE-2009-2684', 'CVE-2011-4161', 'CVE-2012-5221']",2022-03-21T13:01Z

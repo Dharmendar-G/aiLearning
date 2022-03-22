@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hibernate:hibernate_orm:6.0.0:alpha8:*:*:*:*:*:*,Hibernate ORM 6.0.0 Alpha 8,[''],2022-03-21T11:00Z
+1,cpe:2.3:a:hibernate:hibernate-validator:-:*:*:*:*:*:*:*,Hibernate Hibernate-validator,[''],2022-03-21T11:00Z
+2,[0],[0],[0],[0]
+3,cpe:2.3:o:hichip:shenzhen_hichip_vision_technology_firmware:-:*:*:*:*:*:*:*,Hichip Shenzhen Hichip Vision Technology Firmware,"['CVE-2020-9527', 'CVE-2020-9528', 'CVE-2020-9529']",2022-03-21T11:00Z
+4,cpe:2.3:o:hichip:shenzhen_hichip_vision_technology_firmware:2020-06-29:*:*:*:*:*:*:*,Hichip Shenzhen Hichip Vision Technology Firmware 2020-06-29,[''],2022-03-21T11:00Z
+5,cpe:2.3:a:hickoryhardware:hickory_smart:1.0:*:*:*:*:iphone_os:*:*,Hickory Hardware Hickory Smart 1.0 for iPhone OS,[''],2022-03-21T11:00Z
+6,cpe:2.3:a:hickoryhardware:hickory_smart:01.01.03:*:*:*:*:iphone_os:*:*,Hickory Hardware Hickory Smart 01.01.03 for iPhone OS,[''],2022-03-21T11:00Z
+7,cpe:2.3:a:hickoryhardware:hickory_smart:01.01.04:*:*:*:*:iphone_os:*:*,Hickory Hardware Hickory Smart 01.01.04 for iPhone OS,[''],2022-03-21T11:00Z
+8,cpe:2.3:a:hickoryhardware:hickory_smart:01.01.05:*:*:*:*:iphone_os:*:*,Hickory Hardware Hickory Smart 01.01.05 for iPhone OS,[''],2022-03-21T11:00Z
+9,cpe:2.3:a:hickoryhardware:hickory_smart:01.01.06:*:*:*:*:iphone_os:*:*,Hickory Hardware Hickory Smart 01.01.06 for iPhone OS,[''],2022-03-21T11:00Z

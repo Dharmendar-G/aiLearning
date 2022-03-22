@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:compal_broadband_networks:cg6640e_wireless_gateway:1.0:*:*:*:*:*:*:*,Compal Broadband Networks CG6640E Wireless Gateway 1.0,"['CVE-2014-8653', 'CVE-2014-8654', 'CVE-2014-8655', 'CVE-2014-8656', 'CVE-2014-8657']",2022-03-20T07:00Z
+1,cpe:2.3:h:compal_broadband_networks:ch664oe_wireless_gateway:1.0:*:*:*:*:*:*:*,Compal Broadband Networks CH6640E Wireless Gateway 1.0,"['CVE-2014-8653', 'CVE-2014-8654', 'CVE-2014-8655', 'CVE-2014-8656', 'CVE-2014-8657']",2022-03-20T07:00Z
+2,cpe:2.3:o:compal_broadband_networks:firmware:ch6640-3.5.11.7-nosh:*:*:*:*:*:*:*,Compal Broadband Networks Firmware CH6640-3.5.11.7-NOSH,['CVE-2014-8653'],2022-03-20T07:00Z
+3,cpe:2.3:h:company:cs-c2shw:-:*:*:*:*:*:*:*,Company CS-C2SHW,"['CVE-2020-27539', 'CVE-2020-27540', 'CVE-2020-27541', 'CVE-2020-27542']",2022-03-20T07:00Z
+4,cpe:2.3:o:company:cs-c2shw_firmware:5.0.082.1:*:*:*:*:*:*:*,Company CS-C2SHW Firmware 5.0.082.1,"['CVE-2020-27539', 'CVE-2020-27540', 'CVE-2020-27541', 'CVE-2020-27542']",2022-03-20T07:00Z
+5,cpe:2.3:a:compaq:acms:-:*:*:*:*:*:*:*,Compaq ACMS,[''],2022-03-20T07:00Z
+6,cpe:2.3:a:compaq:acms:4.3:*:*:*:*:*:*:*,Compaq ACMS 4.3,['CVE-2002-2000'],2022-03-20T07:00Z
+7,cpe:2.3:a:compaq:acms:4.4:*:*:*:*:*:*:*,Compaq ACMS 4.4,['CVE-2002-2000'],2022-03-20T07:00Z
+8,cpe:2.3:a:compaq:armada_insight_manager:-:*:*:*:*:*:*:*,Compaq Armada Insight Manager,[''],2022-03-20T07:00Z
+9,cpe:2.3:a:compaq:armada_insight_manager:4.20:*:*:*:*:*:*:*,Compaq Armada Insight Manager 4.20,['CVE-2001-0134'],2022-03-20T07:00Z

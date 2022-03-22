@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:neverstop_laser_1200a_5nl12a:-:*:*:*:*:*:*:*,HP NeverStop Laser 1200a 5NL12A,['CVE-2020-28419'],2022-03-21T15:23Z
+1,cpe:2.3:a:hp:newcopy:50.0.206.0:*:*:*:*:*:*:*,HP Newcopy 50.0.206.0,[''],2022-03-21T15:23Z
+2,cpe:2.3:a:hp:newcopy_cda:70.0.231.0:*:*:*:*:*:*:*,HP Newcopy Cda 70.0.231.0,[''],2022-03-21T15:23Z
+3,cpe:2.3:a:hp:newcopy_cda:71.0.215.0:*:*:*:*:*:*:*,HP Newcopy Cda 71.0.215.0,[''],2022-03-21T15:23Z
+4,cpe:2.3:h:hp:nonstop_himalaya:-:*:*:*:*:*:*:*,HP NonStop Himalaya Servers,[''],2022-03-21T15:23Z
+5,cpe:2.3:h:hp:nonstop_himalaya_s74:-:*:*:*:*:*:*:*,HP nonstop himalaya servers s74,[''],2022-03-21T15:23Z
+6,cpe:2.3:h:hp:nonstop_himalaya_s76:-:*:*:*:*:*:*:*,HP nonstop himalaya servers s76,[''],2022-03-21T15:23Z
+7,cpe:2.3:h:hp:nonstop_himalaya_s78:-:*:*:*:*:*:*:*,HP nonstop himalaya servers s78,[''],2022-03-21T15:23Z
+8,cpe:2.3:h:hp:nonstop_himalaya_s7800:-:*:*:*:*:*:*:*,HP nonstop himalaya servers s7800,[''],2022-03-21T15:23Z
+9,cpe:2.3:a:hp:nonstop_netbatch:g06.14:*:*:*:*:*:*:*,HP NonStop NetBatch G06.14,['CVE-2014-2627'],2022-03-21T15:23Z

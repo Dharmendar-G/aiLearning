@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hibernate:hibernate_orm:5.2.0:*:*:*:*:*:*:*,Hibernate Hibernate ORM 5.2.0,"['CVE-2019-14900', 'CVE-2020-25638']",2022-03-21T10:58Z
+1,cpe:2.3:a:hibernate:hibernate_orm:5.2.1:*:*:*:*:*:*:*,Hibernate Hibernate ORM 5.2.1,"['CVE-2019-14900', 'CVE-2020-25638']",2022-03-21T10:58Z
+2,cpe:2.3:a:hibernate:hibernate_orm:5.2.2:*:*:*:*:*:*:*,Hibernate Hibernate ORM 5.2.2,"['CVE-2019-14900', 'CVE-2020-25638']",2022-03-21T10:58Z
+3,cpe:2.3:a:hibernate:hibernate_orm:5.2.3:*:*:*:*:*:*:*,Hibernate Hibernate ORM 5.2.3,"['CVE-2019-14900', 'CVE-2020-25638']",2022-03-21T10:58Z
+4,cpe:2.3:a:hibernate:hibernate_orm:5.2.4:*:*:*:*:*:*:*,Hibernate Hibernate ORM 5.2.4,"['CVE-2019-14900', 'CVE-2020-25638']",2022-03-21T10:58Z
+5,cpe:2.3:a:hibernate:hibernate_orm:5.2.5:*:*:*:*:*:*:*,Hibernate Hibernate ORM 5.2.5,"['CVE-2019-14900', 'CVE-2020-25638']",2022-03-21T10:58Z
+6,cpe:2.3:a:hibernate:hibernate_orm:5.2.6:*:*:*:*:*:*:*,Hibernate Hibernate ORM 5.2.6,"['CVE-2019-14900', 'CVE-2020-25638']",2022-03-21T10:58Z
+7,cpe:2.3:a:hibernate:hibernate_orm:5.2.7:*:*:*:*:*:*:*,Hibernate Hibernate ORM 5.2.7,"['CVE-2019-14900', 'CVE-2020-25638']",2022-03-21T10:58Z
+8,cpe:2.3:a:hibernate:hibernate_orm:5.2.8:*:*:*:*:*:*:*,Hibernate Hibernate ORM 5.2.8,"['CVE-2019-14900', 'CVE-2020-25638']",2022-03-21T10:58Z
+9,cpe:2.3:a:hibernate:hibernate_orm:5.2.9:*:*:*:*:*:*:*,Hibernate Hibernate ORM 5.2.9,"['CVE-2019-14900', 'CVE-2020-25638']",2022-03-21T10:58Z

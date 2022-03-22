@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:c220_m5:-:*:*:*:*:*:*:*,Cisco C220 M5,"['CVE-2020-3470', 'CVE-2021-1397']",2022-03-19T18:47Z
+1,cpe:2.3:o:cisco:c220_m5_firmware:-:*:*:*:*:*:*:*,Cisco C220 M5 FIRMWARE,['CVE-2021-1397'],2022-03-19T18:47Z
+2,cpe:2.3:h:cisco:c220_m6:-:*:*:*:*:*:*:*,Cisco C220 M6,['CVE-2021-1397'],2022-03-19T18:47Z
+3,cpe:2.3:o:cisco:c220_m6_firmware:-:*:*:*:*:*:*:*,Cisco C220 M6 FIRMWARE,['CVE-2021-1397'],2022-03-19T18:47Z
+4,cpe:2.3:h:cisco:c225_m6:-:*:*:*:*:*:*:*,Cisco C225 M6,['CVE-2021-1397'],2022-03-19T18:47Z
+5,cpe:2.3:o:cisco:c225_m6_firmware:-:*:*:*:*:*:*:*,Cisco C225 M6 FIRMWARE,['CVE-2021-1397'],2022-03-19T18:47Z
+6,cpe:2.3:h:cisco:c24_m3:-:*:*:*:*:*:*:*,Cisco C24 M3,['CVE-2015-0633'],2022-03-19T18:48Z
+7,cpe:2.3:h:cisco:c240_m3:-:*:*:*:*:*:*:*,Cisco C240 M3,['CVE-2015-0633'],2022-03-19T18:48Z
+8,cpe:2.3:h:cisco:c240_m4:-:*:*:*:*:*:*:*,Cisco C240 M4,['CVE-2015-0633'],2022-03-19T18:48Z
+9,cpe:2.3:h:cisco:c240_m5:-:*:*:*:*:*:*:*,Cisco C240 M5,"['CVE-2020-3470', 'CVE-2021-1397']",2022-03-19T18:48Z

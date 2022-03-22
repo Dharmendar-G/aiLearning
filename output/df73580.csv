@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bestwebsoft:contact_form:4.0.1:*:*:*:*:wordpress:*:*,BestWebSoft Contact Form 4.0.1 WordPress,"['CVE-2016-10869', 'CVE-2017-18491', 'CVE-2017-2171']",2022-03-19T07:06Z
+1,cpe:2.3:a:bestwebsoft:contact_form:4.0.2:*:*:*:*:wordpress:*:*,BestWebSoft Contact Form 4.0.2 for WordPress,"['CVE-2017-18491', 'CVE-2017-2171']",2022-03-19T07:06Z
+2,cpe:2.3:a:bestwebsoft:contact_form:4.0.3:*:*:*:*:wordpress:*:*,BestWebSoft Contact Form 4.0.3 WordPress,"['CVE-2017-18491', 'CVE-2017-2171']",2022-03-19T07:06Z
+3,cpe:2.3:a:bestwebsoft:contact_form:4.0.4:*:*:*:*:wordpress:*:*,BestWebSoft Contact Form 4.0.4 WordPress,"['CVE-2017-18491', 'CVE-2017-2171']",2022-03-19T07:06Z
+4,cpe:2.3:a:bestwebsoft:contact_form:4.0.5:*:*:*:*:wordpress:*:*,BestWebSoft Contact Form 4.0.5 WordPress,"['CVE-2017-18491', 'CVE-2017-2171']",2022-03-19T07:06Z
+5,cpe:2.3:a:bestwebsoft:contact_form:4.0.6:*:*:*:*:wordpress:*:*,BestWebSoft Contact Form 4.0.6 WordPress,[''],2022-03-19T07:06Z
+6,cpe:2.3:a:bestwebsoft:contact_form:4.0.7:*:*:*:*:wordpress:*:*,BestWebSoft Contact Form 4.0.7 WordPress,[''],2022-03-19T07:06Z
+7,cpe:2.3:a:bestwebsoft:contact_form:4.0.8:*:*:*:*:wordpress:*:*,BestWebSoft Contact Form 4.0.8 WordPress,[''],2022-03-19T07:06Z
+8,cpe:2.3:a:bestwebsoft:contact_form:4.0.9:*:*:*:*:wordpress:*:*,BestWebSoft Contact Form 4.0.9 WordPress,[''],2022-03-19T07:06Z
+9,cpe:2.3:a:bestwebsoft:contact_form:4.1.0:*:*:*:*:wordpress:*:*,BestWebSoft Contact Form 4.1.0 WordPress,[''],2022-03-19T07:06Z

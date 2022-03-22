@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:abb:compact_hmi:5.1:-:*:*:*:*:*:*,ABB Compact HMI 5.1,"['CVE-2020-8471', 'CVE-2020-8475', 'CVE-2020-8476', 'CVE-2020-8479']",2022-03-18T10:28Z
+1,cpe:2.3:a:abb:compact_hmi:5.1:feature_pack_4_revision_d:*:*:*:*:*:*,ABB Compact HMI 5.1 Feature Pack 4 Revision D,"['CVE-2020-8471', 'CVE-2020-8475', 'CVE-2020-8476', 'CVE-2020-8479']",2022-03-18T10:28Z
+2,cpe:2.3:a:abb:compact_hmi:5.1:revision_b:*:*:*:*:*:*,ABB Compact HMI 5.1 Revision B,"['CVE-2020-8471', 'CVE-2020-8475', 'CVE-2020-8476', 'CVE-2020-8479']",2022-03-18T10:28Z
+3,cpe:2.3:a:abb:compact_hmi:5.1:revision_d:*:*:*:*:*:*,ABB Compact HMI 5.1 Revision D,"['CVE-2020-8471', 'CVE-2020-8475', 'CVE-2020-8476', 'CVE-2020-8479']",2022-03-18T10:29Z
+4,cpe:2.3:a:abb:compact_hmi:6.0.1-1:*:*:*:*:*:*:*,ABB Compact HMI 6.0.1-1,"['CVE-2020-8475', 'CVE-2020-8476', 'CVE-2020-8479']",2022-03-18T10:29Z
+5,cpe:2.3:a:abb:compact_hmi:6.0.3-2:*:*:*:*:*:*:*,ABB Compact HMI 6.0.3-2,"['CVE-2020-8475', 'CVE-2020-8476', 'CVE-2020-8479']",2022-03-18T10:29Z
+6,cpe:2.3:a:abb:control_builder_m:6.1:*:*:*:professional:*:*:*,ABB Control Builder M 6.1 Professional Edition,['CVE-2020-8472'],2022-03-18T10:29Z
+7,cpe:2.3:a:abb:control_builder_safe:1.0:*:*:*:*:*:*:*,ABB Control Builder Safe 1.0,"['CVE-2020-8471', 'CVE-2020-8475', 'CVE-2020-8476', 'CVE-2020-8479']",2022-03-18T10:29Z
+8,cpe:2.3:a:abb:control_builder_safe:1.1:*:*:*:*:*:*:*,ABB Control Builder Safe 1.1,"['CVE-2020-8471', 'CVE-2020-8475', 'CVE-2020-8476', 'CVE-2020-8479']",2022-03-18T10:29Z
+9,cpe:2.3:a:abb:control_builder_safe:2.0:*:*:*:*:*:*:*,ABB Control Builder Safe 2.0,"['CVE-2020-8475', 'CVE-2020-8476', 'CVE-2020-8479']",2022-03-18T10:29Z

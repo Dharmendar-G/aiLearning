@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:z6_g4_workstation:-:*:*:*:*:*:*:*,HP Z6 G4 Workstation,"['CVE-2019-6321', 'CVE-2019-6322', 'CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:20Z
+1,cpe:2.3:o:hp:z6_g4_workstation_firmware:1.71:*:*:*:*:*:*:*,HP Z6 G4 Workstation Firmware 1.71,[''],2022-03-21T16:20Z
+2,cpe:2.3:o:hp:z6_g4_workstation_firmware:1.71:*:*:*:*:linux:*:*,HP Z6 G4 Workstation Firmware 1.71 for Linux,[''],2022-03-21T16:20Z
+3,cpe:2.3:o:hp:z6_g4_workstation_firmware:2.18:*:*:*:*:*:*:*,HP Z6 G4 Workstation Firmware 2.18,[''],2022-03-21T16:20Z
+4,cpe:2.3:o:hp:z6_g4_workstation_firmware:2.18:*:*:*:*:linux:*:*,HP Z6 G4 Workstation Firmware 2.18 for Linux,[''],2022-03-21T16:21Z
+5,cpe:2.3:h:hp:z6z11a:-:*:*:*:*:*:*:*,HP Z6z11a,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:21Z
+6,cpe:2.3:o:hp:z6z11a_firmware:1805j:*:*:*:*:*:*:*,HP Z6Z11A Firmware 1805J,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:21Z
+7,cpe:2.3:h:hp:z6z95a:-:*:*:*:*:*:*:*,HP Z6z95a,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:21Z
+8,cpe:2.3:o:hp:z6z95a_firmware:1805j:*:*:*:*:*:*:*,HP Z6Z95A Firmware 1805J,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:21Z
+9,cpe:2.3:h:hp:z6z97a:-:*:*:*:*:*:*:*,HP Z6z97a,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:21Z

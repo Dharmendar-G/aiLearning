@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bestwebsoft:user_role:1.5.7:*:*:*:*:wordpress:*:*,BestWebSoft User Role 1.5.7 for WordPress,[''],2022-03-19T07:26Z
+1,cpe:2.3:a:bestwebsoft:user_role:1.5.8:*:*:*:*:wordpress:*:*,BestWebSoft User Role 1.5.8 for WordPress,[''],2022-03-19T07:26Z
+2,cpe:2.3:a:bestwebsoft:user_role:1.5.9:*:*:*:*:wordpress:*:*,BestWebSoft User Role 1.5.9 for WordPress,[''],2022-03-19T07:26Z
+3,cpe:2.3:a:bestwebsoft:user_role:1.6.0:*:*:*:*:wordpress:*:*,BestWebSoft User Role 1.6.0 for WordPress,[''],2022-03-19T07:26Z
+4,cpe:2.3:a:bestwebsoft:user_role:1.6.1:*:*:*:*:wordpress:*:*,BestWebSoft User Role 1.6.1 for WordPress,[''],2022-03-19T07:26Z
+5,cpe:2.3:a:bestwebsoft:visitors_online:0.1:*:*:*:*:wordpress:*:*,BestWebSoft Visitors Online 0.1 for WordPress,"['CVE-2015-9325', 'CVE-2017-18537', 'CVE-2017-2171', 'CVE-2021-24350']",2022-03-19T07:26Z
+6,cpe:2.3:a:bestwebsoft:visitors_online:0.2:*:*:*:*:wordpress:*:*,BestWebSoft Visitors Online 0.2 for WordPress,"['CVE-2015-9325', 'CVE-2017-18537', 'CVE-2017-2171', 'CVE-2021-24350']",2022-03-19T07:26Z
+7,cpe:2.3:a:bestwebsoft:visitors_online:0.3:*:*:*:*:wordpress:*:*,BestWebSoft Visitors Online 0.3 for WordPress,"['CVE-2015-9325', 'CVE-2017-18537', 'CVE-2017-2171', 'CVE-2021-24350']",2022-03-19T07:26Z
+8,cpe:2.3:a:bestwebsoft:visitors_online:0.4:*:*:*:*:wordpress:*:*,BestWebSoft Visitors Online 0.4 for WordPress,"['CVE-2017-18537', 'CVE-2017-2171']",2022-03-19T07:26Z
+9,cpe:2.3:a:bestwebsoft:visitors_online:0.5:*:*:*:*:wordpress:*:*,BestWebSoft Visitors Online 0.5 for WordPress,"['CVE-2017-18537', 'CVE-2017-2171']",2022-03-19T07:26Z

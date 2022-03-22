@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:ws6500-10_firmware:-:*:*:*:*:*:*:*,Huawei WS6500-10 Firmware,['CVE-2020-9069'],2022-03-21T19:10Z
+1,cpe:2.3:o:huawei:ws6500-10_firmware:10.0.2.3:*:*:*:*:*:*:*,Huawei WS6500-10 Firmware 10.0.2.3,"['CVE-2019-5268', 'CVE-2019-5269', 'CVE-2020-9069']",2022-03-21T19:10Z
+2,cpe:2.3:o:huawei:ws6500-10_firmware:10.0.2.5:*:*:*:*:*:*:*,Huawei WS6500-10 Firmware 10.0.2.5,['CVE-2020-9069'],2022-03-21T19:10Z
+3,cpe:2.3:o:huawei:ws6500-10_firmware:10.0.2.8:*:*:*:*:*:*:*,Huawei WS6500-10 Firmware 10.0.2.8,[''],2022-03-21T19:10Z
+4,cpe:2.3:h:huawei:ws6500-11:-:*:*:*:*:*:*:*,Huawei WS6500-11,"['CVE-2019-5268', 'CVE-2019-5269']",2022-03-21T19:10Z
+5,cpe:2.3:o:huawei:ws6500-11_firmware:-:*:*:*:*:*:*:*,Huawei WS6500-11 Firmware,[''],2022-03-21T19:10Z
+6,cpe:2.3:o:huawei:ws6500-11_firmware:10.0.2.2:*:*:*:*:*:*:*,Huawei WS6500-11 Firmware 10.0.2.2,"['CVE-2019-5268', 'CVE-2019-5269']",2022-03-21T19:10Z
+7,cpe:2.3:o:huawei:ws6500-11_firmware:10.0.2.7:*:*:*:*:*:*:*,Huawei WS6500-11 Firmware 10.0.2.7,[''],2022-03-21T19:10Z
+8,cpe:2.3:h:huawei:ws6500-16:-:*:*:*:*:*:*:*,Huawei WS6500-16,['CVE-2020-9069'],2022-03-21T19:10Z
+9,cpe:2.3:o:huawei:ws6500-16_firmware:10.0.2.8:*:*:*:*:*:*:*,Huawei WS6500-16 Firmware 10.0.2.8,[''],2022-03-21T19:10Z

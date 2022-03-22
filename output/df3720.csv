@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:abb:800xa_base_system:6.0.3.1:*:*:*:*:*:*:*,ABB 800xA Base System 6.0.3.1,"['CVE-2020-8473', 'CVE-2020-8487']",2022-03-18T10:27Z
+1,cpe:2.3:a:abb:800xa_base_system:6.0.3.2:*:*:*:*:*:*:*,ABB 800xA Base System 6.0.3.2,"['CVE-2020-8473', 'CVE-2020-8487']",2022-03-18T10:27Z
+2,cpe:2.3:a:abb:800xa_base_system:6.0.3.3:*:*:*:*:*:*:*,ABB 800xA Base System 6.0.3.3,"['CVE-2020-8473', 'CVE-2020-8487']",2022-03-18T10:27Z
+3,cpe:2.3:a:abb:800xa_base_system:6.1:*:*:*:*:*:*:*,ABB 800xA Base System 6.1,"['CVE-2020-8473', 'CVE-2020-8487']",2022-03-18T10:27Z
+4,cpe:2.3:a:abb:800xa_batch_management:-:*:*:*:*:*:*:*,ABB 800xA Batch Management,['CVE-2020-8488'],2022-03-18T10:27Z
+5,cpe:2.3:a:abb:800xa_information_management:-:*:*:*:*:*:*:*,ABB 800xA Information Management,['CVE-2020-8489'],2022-03-18T10:27Z
+6,cpe:2.3:a:abb:800xa_information_manager:5.1:*:*:*:*:*:*:*,ABB 800xa Information Manager 5.1,['CVE-2020-8477'],2022-03-18T10:27Z
+7,cpe:2.3:a:abb:800xa_information_manager:6.0.0:*:*:*:*:*:*:*,ABB 800xa Information Manager 6.0.0,['CVE-2020-8477'],2022-03-18T10:28Z
+8,cpe:2.3:a:abb:800xa_information_manager:6.0.3.2:*:*:*:*:*:*:*,ABB 800xa Information Manager 6.0.3.2,['CVE-2020-8477'],2022-03-18T10:28Z
+9,cpe:2.3:a:abb:800xa_information_manager:6.1:*:*:*:*:*:*:*,ABB 800xa Information Manager 6.1,['CVE-2020-8477'],2022-03-18T10:28Z

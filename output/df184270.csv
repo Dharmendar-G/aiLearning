@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:diffplug:maven:1.18.0:*:*:*:*:spotless:*:*,DiffPlug Maven 1.18.0 for Spotless,['CVE-2019-9843'],2022-03-20T14:04Z
+1,cpe:2.3:a:diffplug:maven:1.19.0:*:*:*:*:spotless:*:*,DiffPlug Maven 1.19.0 for Spotless,['CVE-2019-9843'],2022-03-20T14:04Z
+2,cpe:2.3:a:diffplug:maven:1.20.0:*:*:*:*:spotless:*:*,DiffPlug Maven 1.20.0 for Spotless,[''],2022-03-20T14:04Z
+3,cpe:2.3:a:diffplug:maven:1.21.0:*:*:*:*:spotless:*:*,DiffPlug Maven 1.21.0 for Spotless,[''],2022-03-20T14:04Z
+4,cpe:2.3:a:diffplug:maven:1.21.1:*:*:*:*:spotless:*:*,DiffPlug Maven 1.21.1 for Spotless,[''],2022-03-20T14:04Z
+5,cpe:2.3:a:diffplug:maven:1.22.0:*:*:*:*:spotless:*:*,DiffPlug Maven 1.22.0 for Spotless,[''],2022-03-20T14:04Z
+6,cpe:2.3:a:diffplug:maven:1.23.0:*:*:*:*:spotless:*:*,DiffPlug Maven 1.23.0 for Spotless,[''],2022-03-20T14:04Z
+7,cpe:2.3:a:diffplug:maven:1.23.1:*:*:*:*:spotless:*:*,DiffPlug Maven 1.23.1 for Spotless,[''],2022-03-20T14:04Z
+8,cpe:2.3:a:diffplug:maven:1.24.0:*:*:*:*:spotless:*:*,DiffPlug Maven 1.24.0 for Spotless,[''],2022-03-20T14:04Z
+9,cpe:2.3:a:diffplug:maven:1.24.1:*:*:*:*:spotless:*:*,DiffPlug Maven 1.24.1 for Spotless,[''],2022-03-20T14:04Z

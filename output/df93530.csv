@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:broadcom:symantec_embedded_security_critical_system_protection:1.0:*:*:*:*:*:*:*,Broadcom Symantec Embedded Security Critical System Protection 1.0,"['CVE-2015-8157', 'CVE-2015-8798', 'CVE-2015-8799', 'CVE-2015-8800']",2022-03-19T12:31Z
+1,cpe:2.3:o:broadcom:symantec_embedded_security_critical_system_protection_for_controllers_and_devices:6.5.0:*:*:*:*:*:*:*,Broadcom Symantec Embedded Security Critical System Protection For Controllers And Devices 6.5.0,"['CVE-2015-8157', 'CVE-2015-8798', 'CVE-2015-8799', 'CVE-2015-8800']",2022-03-19T12:31Z
+2,cpe:2.3:a:broadcom:symantec_identity_manager:14.0:*:*:*:*:*:*:*,Broadcom Symantec Identity Manager 14.0,[''],2022-03-19T12:31Z
+3,cpe:2.3:a:broadcom:symantec_identity_manager:14.1:*:*:*:*:*:*:*,Broadcom Symantec Identity Manager 14.1,[''],2022-03-19T12:31Z
+4,cpe:2.3:a:broadcom:symantec_identity_manager:14.2:*:*:*:*:*:*:*,Broadcom Symantec Identity Manager 14.2,[''],2022-03-19T12:31Z
+5,cpe:2.3:a:broadcom:symantec_identity_manager:14.3:*:*:*:*:*:*:*,Broadcom Symantec Identity Manager 14.3,[''],2022-03-19T12:31Z
+6,cpe:2.3:a:broadcom:symantec_identity_manager:14.4:*:*:*:*:*:*:*,Broadcom Symantec Identity Manager 14.4,[''],2022-03-19T12:31Z
+7,cpe:2.3:a:broadcom:symantec_intelligencecenter:3.2:*:*:*:*:*:*:*,Broadcom Symantec IntelligenceCenter 3.2,[''],2022-03-19T12:31Z
+8,cpe:2.3:a:broadcom:symantec_intelligencecenter:3.3:*:*:*:*:*:*:*,Broadcom Symantec IntelligenceCenter 3.3,['CVE-2017-18268'],2022-03-19T12:31Z
+9,cpe:2.3:a:broadcom:symantec_messaging_gateway:-:*:*:*:*:*:*:*,Broadcom Symantec Messaging Gateway (SMG),"['CVE-2020-12594', 'CVE-2020-12595']",2022-03-19T12:31Z

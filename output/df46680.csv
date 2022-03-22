@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:arm:armv8-m:-:*:*:*:*:*:*:*,Arm Armv8-M,['CVE-2020-16273'],2022-03-18T23:05Z
+1,cpe:2.3:o:arm:armv8-m_firmware:-:*:*:*:*:*:*:*,Arm Armv8-M Firmware,['CVE-2020-16273'],2022-03-18T23:05Z
+2,cpe:2.3:a:arm:bifrost:r16p0:*:*:*:*:*:*:*,ARM Bifrost r16p0,['CVE-2022-22706'],2022-03-18T23:05Z
+3,cpe:2.3:a:arm:bifrost:r16p0-01eac0:*:*:*:*:*:*:*,ARM Bifrost R16p0-01eac0,"['CVE-2021-29256', 'CVE-2022-22706']",2022-03-18T23:05Z
+4,cpe:2.3:a:arm:bifrost:r30p0:*:*:*:*:*:*:*,ARM Bifrost r30p0,"['CVE-2021-29256', 'CVE-2022-22706']",2022-03-18T23:05Z
+5,cpe:2.3:a:arm:bifrost:r30p0-01eac0:*:*:*:*:*:*:*,ARM Bifrost R30p0-01eac0,['CVE-2022-22706'],2022-03-18T23:05Z
+6,cpe:2.3:a:arm:bifrost_gpu_kernel_driver:-:*:*:*:*:*:*:*,ARM Bifrost GPU Kernel Driver,[''],2022-03-18T23:05Z
+7,cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r0p0:*:*:*:*:*:*:*,ARM Bifrost GPU Kernel Driver r0p0,"['CVE-2021-28663', 'CVE-2021-28664', 'CVE-2021-44828']",2022-03-18T23:05Z
+8,cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r34p0:*:*:*:*:*:*:*,ARM Bifrost GPU Kernel Driverr r34p0,['CVE-2021-44828'],2022-03-18T23:05Z
+9,cpe:2.3:h:arm:china_star-mc1:-:*:*:*:*:*:*:*,ARM China STAR-MC1,['CVE-2021-35465'],2022-03-18T23:05Z

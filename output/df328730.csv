@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:scanjet_enterprise_8500_document_capture_workstation_firmware:2308974_579756:*:*:*:*:*:*:*,Hp Scanjet Enterprise 8500 Document Capture Workstation Firmware 2308974 579756,[''],2022-03-21T16:01Z
+1,cpe:2.3:h:hp:scanjet_enterprise_8500_fn1_document_capture_workstation:-:*:*:*:*:*:*:*,HP Scanjet Enterprise 8500 Fn1 Document Capture Workstation -,['CVE-2019-6318'],2022-03-21T16:01Z
+2,cpe:2.3:o:hp:scanjet_enterprise_8500_fn1_document_capture_workstation_firmware:-:*:*:*:*:*:*:*,HP Scanjet Enterprise 8500 Fn1 Document Capture Workstation Firmware -,['CVE-2019-6318'],2022-03-21T16:01Z
+3,cpe:2.3:o:hp:scanjet_enterprise_8500_fn1_document_capture_workstation_firmware:2309010_581403:*:*:*:*:*:*:*,HP Scanjet Enterprise 8500 Fn1 Document Capture Workstation Firmware 2309010 581403,[''],2022-03-21T16:01Z
+4,cpe:2.3:h:hp:scanjet_enterprise_8500_fn1_document_capture_workstation_l2717a:-:*:*:*:*:*:*:*,HP Scanjet Enterprise 8500 fn1 Document Capture Workstation L2717A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T16:01Z
+5,cpe:2.3:h:hp:scanjet_enterprise_flow_n9120_document_flatbed_scanner:-:*:*:*:*:*:*:*,Hp Scanjet Enterprise Flow N9120 Document Flatbed Scanner -,['CVE-2018-5923'],2022-03-21T16:01Z
+6,cpe:2.3:o:hp:scanjet_enterprise_flow_n9120_document_flatbed_scanner_firmware:-:*:*:*:*:*:*:*,Hp Scanjet Enterprise Flow N9120 Document Flatbed Scanner Firmware -,['CVE-2018-5923'],2022-03-21T16:01Z
+7,cpe:2.3:o:hp:scanjet_enterprise_flow_n9120_document_flatbed_scanner_firmware:2406048_029625:*:*:*:*:*:*:*,Hp Scanjet Enterprise Flow N9120 Document Flatbed Scanner Firmware 2406048 029625,[''],2022-03-21T16:01Z
+8,cpe:2.3:h:hp:scanjet_enterprise_flow_n9120_fn2_document_scanner:-:*:*:*:*:*:*:*,HP Scanjet Enterprise Flow N9120 Fn2 Document Scanner -,['CVE-2019-6318'],2022-03-21T16:01Z
+9,cpe:2.3:o:hp:scanjet_enterprise_flow_n9120_fn2_document_scanner_firmware:-:*:*:*:*:*:*:*,HP Scanjet Enterprise Flow N9120 Fn2 Document Scanner Firmware -,['CVE-2019-6318'],2022-03-21T16:01Z

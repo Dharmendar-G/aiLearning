@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:proone_400_g5_aio_firmware:-:*:*:*:*:*:*:*,HP ProOne 400 G5 AiO Firmware,['CVE-2019-18913'],2022-03-21T15:58Z
+1,cpe:2.3:o:hp:proone_400_g5_aio_firmware:02.04.01:*:*:*:*:*:*:*,HP ProOne 400 G5 AiO Firmware 02.04.01,[''],2022-03-21T15:58Z
+2,cpe:2.3:h:hp:proone_400_g6_20_all-in-one_pc:-:*:*:*:*:*:*:*,HP ProOne 400 G6 20 All-in-One PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:58Z
+3,cpe:2.3:h:hp:proone_400_g6_24_all-in-one_pc:-:*:*:*:*:*:*:*,HP ProOne 400 G6 24 All-in-One PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:58Z
+4,cpe:2.3:h:hp:proone_440_g4_23.8-inch_non-touch_all-in-one_business_pc:-:*:*:*:*:*:*:*,HP ProOne 440 G4 23.8-inch Non-Touch All-in-One Business PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:58Z
+5,cpe:2.3:h:hp:proone_440_g5_23.8-in_all-in-one_business_pc:-:*:*:*:*:*:*:*,HP ProOne 440 G5 23.8-in All-in-One Business PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:59Z
+6,cpe:2.3:h:hp:proone_440_g5_aio:-:*:*:*:*:*:*:*,HP ProOne 440 G5 AiO,['CVE-2019-18913'],2022-03-21T15:59Z
+7,cpe:2.3:o:hp:proone_440_g5_aio_firmware:-:*:*:*:*:*:*:*,HP ProOne 440 G5 AiO Firmware,['CVE-2019-18913'],2022-03-21T15:59Z
+8,cpe:2.3:o:hp:proone_440_g5_aio_firmware:02.04.01:*:*:*:*:*:*:*,HP ProOne 440 G5 AiO Firmware 02.04.01,[''],2022-03-21T15:59Z
+9,cpe:2.3:h:hp:proone_440_g6_24_all-in-one_pc:-:*:*:*:*:*:*:*,HP ProOne 440 G6 24 All-in-One PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:59Z

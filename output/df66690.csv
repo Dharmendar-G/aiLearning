@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:axs:flash_seats:1.9.52:*:*:*:*:iphone_os:*:*,AXS Flash Seats 1.9.52 iPhone OS,[''],2022-03-19T04:58Z
+1,cpe:2.3:a:axs:flash_seats:1.10:*:*:*:*:iphone_os:*:*,AXS Flash Seats 1.10 iPhone OS,[''],2022-03-19T04:58Z
+2,cpe:2.3:a:axs:flash_seats:1.10.1:*:*:*:*:iphone_os:*:*,AXS Flash Seats 1.10.1 iPhone OS,[''],2022-03-19T04:58Z
+3,cpe:2.3:a:axs:flash_seats:1.10.2:*:*:*:*:iphone_os:*:*,AXS Flash Seats 1.10.2 for iPhone OS,[''],2022-03-19T04:58Z
+4,cpe:2.3:a:axtls_project:axtls:1.4.2:*:*:*:*:*:*:*,axTLS Project axTLS 1.4.2,"['CVE-2018-16149', 'CVE-2018-16150', 'CVE-2018-16253', 'CVE-2019-10013', 'CVE-2019-8981', 'CVE-2019-9689']",2022-03-19T04:58Z
+5,cpe:2.3:a:axtls_project:axtls:1.4.3:*:*:*:*:*:*:*,axTLS Project axTLS 1.4.3,"['CVE-2018-16149', 'CVE-2018-16150', 'CVE-2018-16253', 'CVE-2019-10013', 'CVE-2019-8981', 'CVE-2019-9689']",2022-03-19T04:58Z
+6,cpe:2.3:a:axtls_project:axtls:1.4.4:*:*:*:*:*:*:*,axTLS Project axTLS 1.4.4,"['CVE-2018-16149', 'CVE-2018-16150', 'CVE-2018-16253', 'CVE-2019-10013', 'CVE-2019-8981', 'CVE-2019-9689']",2022-03-19T04:58Z
+7,cpe:2.3:a:axtls_project:axtls:1.4.5:*:*:*:*:*:*:*,axTLS Project axTLS 1.4.5,"['CVE-2018-16149', 'CVE-2018-16150', 'CVE-2018-16253', 'CVE-2019-10013', 'CVE-2019-8981', 'CVE-2019-9689']",2022-03-19T04:58Z
+8,cpe:2.3:a:axtls_project:axtls:1.4.6:*:*:*:*:*:*:*,axTLS Project axTLS 1.4.6,"['CVE-2018-16149', 'CVE-2018-16150', 'CVE-2018-16253', 'CVE-2019-10013', 'CVE-2019-8981', 'CVE-2019-9689']",2022-03-19T04:58Z
+9,cpe:2.3:a:axtls_project:axtls:1.4.8:*:*:*:*:*:*:*,axTLS Project axTLS 1.4.8,"['CVE-2018-16149', 'CVE-2018-16150', 'CVE-2018-16253', 'CVE-2019-10013', 'CVE-2019-8981', 'CVE-2019-9689']",2022-03-19T04:58Z

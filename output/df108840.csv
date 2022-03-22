@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:checkpoint:check_point_integrity_client:-:*:*:*:*:*:*:*,Zone Labs Check Point Integrity Client,['CVE-2005-0114'],2022-03-19T16:47Z
+1,cpe:2.3:a:checkpoint:check_point_integrity_client:4.5.122.000:*:*:*:*:*:*:*,Zone Labs Check Point Integrity Client 4.5.122.000,['CVE-2005-0114'],2022-03-19T16:47Z
+2,cpe:2.3:a:checkpoint:check_point_integrity_client:5.1.556.166:*:*:*:*:*:*:*,Zone Labs Check Point Integrity Client 5.1.556.166,['CVE-2005-0114'],2022-03-19T16:47Z
+3,cpe:2.3:a:checkpoint:connectra_ngx:-:*:*:*:*:*:*:*,Checkpoint Connectra NGX,['CVE-2007-0471'],2022-03-19T16:47Z
+4,cpe:2.3:a:checkpoint:connectra_ngx:r60:*:*:*:*:*:*:*,Checkpoint NGX R60,"['CVE-2005-2889', 'CVE-2007-0471']",2022-03-19T16:47Z
+5,cpe:2.3:a:checkpoint:connectra_ngx:r62:*:*:*:*:*:*:*,Checkpoint Connectra NGX R62,"['CVE-2007-0471', 'CVE-2008-5994']",2022-03-19T16:47Z
+6,cpe:2.3:a:checkpoint:endpoint_connect:r73:*:*:*:*:*:*:*,Check Point Endpoint Connect R73,['CVE-2012-2753'],2022-03-19T16:47Z
+7,cpe:2.3:a:checkpoint:endpoint_security:e80:-:vpn_blade:*:*:*:*:*,Check Point Endpoint Security E80 VPN Blade platform,"['CVE-2012-2753', 'CVE-2013-5635', 'CVE-2013-5636', 'CVE-2019-8454']",2022-03-19T16:47Z
+8,cpe:2.3:a:checkpoint:endpoint_security:e80.10:-:vpn_blade:*:*:*:*:*,Check Point Endpoint Security E80.10 VPN Blade platform,"['CVE-2012-2753', 'CVE-2013-5635', 'CVE-2013-5636', 'CVE-2019-8454']",2022-03-19T16:47Z
+9,cpe:2.3:a:checkpoint:endpoint_security:e80.20:-:vpn_blade:*:*:*:*:*,Check Point Endpoint Security E80.20 VPN Blade platform,"['CVE-2012-2753', 'CVE-2013-5635', 'CVE-2013-5636', 'CVE-2019-8454']",2022-03-19T16:47Z

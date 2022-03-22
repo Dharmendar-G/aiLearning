@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:application_and_content_networking_system_software:5.4.7.3:*:*:*:*:*:*:*,Cisco Application and Content Networking System (ACNS) Software 5.4.7.3,['CVE-2013-3444'],2022-03-19T18:21Z
+1,cpe:2.3:a:cisco:application_and_content_networking_system_software:5.5:*:*:*:*:*:*:*,Cisco Application and Content Networking System (ACNS) Software 5.5,['CVE-2013-3444'],2022-03-19T18:21Z
+2,cpe:2.3:a:cisco:application_and_content_networking_system_software:5.5\(9\):*:*:*:*:*:*:*,Cisco Application and Content Networking System (ACNS) Software 5.5(9),['CVE-2015-0774'],2022-03-19T18:21Z
+3,cpe:2.3:a:cisco:application_and_content_networking_system_software:5.5.1.7:*:*:*:*:*:*:*,Cisco Application and Content Networking System (ACNS) Software 5.5.1.7,['CVE-2013-3444'],2022-03-19T18:21Z
+4,cpe:2.3:a:cisco:application_and_content_networking_system_software:5.5.3.1:*:*:*:*:*:*:*,Cisco Application and Content Networking System (ACNS) Software 5.5.3.1,['CVE-2013-3444'],2022-03-19T18:21Z
+5,cpe:2.3:a:cisco:application_and_content_networking_system_software:5.5.5.4:*:*:*:*:*:*:*,Cisco Application and Content Networking System (ACNS) Software 5.5.5.4,['CVE-2013-3444'],2022-03-19T18:21Z
+6,cpe:2.3:a:cisco:application_and_content_networking_system_software:5.5.7.7:*:*:*:*:*:*:*,Cisco Application and Content Networking System (ACNS) Software 5.5.7.7,['CVE-2013-3444'],2022-03-19T18:21Z
+7,cpe:2.3:a:cisco:application_and_content_networking_system_software:5.5.9.9:*:*:*:*:*:*:*,Cisco Application and Content Networking System (ACNS) Software 5.5.9.9,['CVE-2013-3444'],2022-03-19T18:21Z
+8,cpe:2.3:a:cisco:application_and_content_networking_system_software:5.5.11.2:*:*:*:*:*:*:*,Cisco Application and Content Networking System (ACNS) Software 5.5.11.2,['CVE-2013-3444'],2022-03-19T18:21Z
+9,cpe:2.3:a:cisco:application_and_content_networking_system_software:5.5.13.7:*:*:*:*:*:*:*,Cisco Application and Content Networking System (ACNS) Software 5.5.13.7,['CVE-2013-3444'],2022-03-19T18:21Z

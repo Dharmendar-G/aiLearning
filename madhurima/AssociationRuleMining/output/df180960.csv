@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:poweredge_r340_firmware:-:*:*:*:*:*:*:*,Dell Poweredge R340 Firmware -,['CVE-2021-21557'],2022-03-20T13:00Z
+1,cpe:2.3:o:dell:poweredge_r340_firmware:2.5.1:*:*:*:*:*:*:*,Dell Poweredge R340 Firmware 2.5.1,[''],2022-03-20T13:00Z
+2,cpe:2.3:h:dell:poweredge_r440:-:*:*:*:*:*:*:*,Dell PowerEdge R440,['CVE-2021-21557'],2022-03-20T13:00Z
+3,cpe:2.3:o:dell:poweredge_r440_firmware:-:*:*:*:*:*:*:*,Dell Poweredge R440 Firmware -,['CVE-2021-21557'],2022-03-20T13:00Z
+4,cpe:2.3:o:dell:poweredge_r440_firmware:2.11.2:*:*:*:*:*:*:*,Dell Poweredge R440 Firmware 2.11.2,[''],2022-03-20T13:00Z
+5,cpe:2.3:h:dell:poweredge_r540:-:*:*:*:*:*:*:*,Dell PowerEdge R540,['CVE-2021-21557'],2022-03-20T13:00Z
+6,cpe:2.3:o:dell:poweredge_r540_firmware:-:*:*:*:*:*:*:*,Dell Poweredge R540 Firmware -,['CVE-2021-21557'],2022-03-20T13:00Z
+7,cpe:2.3:o:dell:poweredge_r540_firmware:2.11.2:*:*:*:*:*:*:*,Dell Poweredge R540 Firmware 2.11.2,[''],2022-03-20T13:00Z
+8,cpe:2.3:h:dell:poweredge_r610:-:*:*:*:*:*:*:*,Dell PowerEdge R610,[''],2022-03-20T13:00Z
+9,cpe:2.3:h:dell:poweredge_r640:-:*:*:*:*:*:*:*,Dell PowerEdge R640,"['CVE-2021-21554', 'CVE-2021-21555', 'CVE-2021-21556', 'CVE-2021-21557']",2022-03-20T13:00Z

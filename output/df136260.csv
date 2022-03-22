@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:ucs_invicta_c3124sa_appliance:5.0.1:*:*:*:*:*:*:*,Cisco UCS Invicta C3124SA Appliance 5.0.1,"['CVE-2016-1313', 'CVE-2016-1404']",2022-03-20T00:40Z
+1,cpe:2.3:a:cisco:ucs_invicta_c3124sa_appliance:5.0_base:*:*:*:*:*:*:*,Cisco UCS Invicta C3124SA Appliance 5.0 Base,['CVE-2016-1404'],2022-03-20T00:40Z
+2,cpe:2.3:a:cisco:ucs_manager:3.2:*:*:*:*:*:*:*,Cisco UCS Manager 3.2,"['CVE-2020-3119', 'CVE-2020-3120', 'CVE-2020-3167', 'CVE-2020-3172', 'CVE-2020-3173', 'CVE-2021-1397']",2022-03-20T00:40Z
+3,cpe:2.3:a:cisco:ucs_manager:3.2\(3m\):*:*:*:*:*:*:*,Cisco UCS Manager 3.2(3m),"['CVE-2020-3167', 'CVE-2020-3172', 'CVE-2020-3173', 'CVE-2021-1397']",2022-03-20T00:40Z
+4,cpe:2.3:a:cisco:ucs_manager:3.2\(3n\):*:*:*:*:*:*:*,Cisco UCS Manager 3.2(3n),['CVE-2021-1397'],2022-03-20T00:40Z
+5,cpe:2.3:a:cisco:ucs_manager:3.2\(3n\)a:*:*:*:*:*:*:*,Cisco UCS Manager 3.2(3n)a,"['CVE-2020-10136', 'CVE-2021-1397']",2022-03-20T00:40Z
+6,cpe:2.3:a:cisco:ucs_manager:4.0:*:*:*:*:*:*:*,Cisco UCS Manager 4.0,"['CVE-2020-3119', 'CVE-2020-3120', 'CVE-2020-3167', 'CVE-2020-3172', 'CVE-2020-3173', 'CVE-2021-1397']",2022-03-20T00:40Z
+7,cpe:2.3:a:cisco:ucs_manager:4.0\(1a\)a:*:*:*:*:*:*:*,Cisco UCS Manager 4.0(1a)A,"['CVE-2020-3119', 'CVE-2020-3120', 'CVE-2020-3167', 'CVE-2020-3171', 'CVE-2020-3172', 'CVE-2020-3173', 'CVE-2021-1397']",2022-03-20T00:40Z
+8,cpe:2.3:a:cisco:ucs_manager:4.0\(4c\):*:*:*:*:*:*:*,Cisco UCS Manager 4.0(4c),"['CVE-2020-3119', 'CVE-2020-3120', 'CVE-2020-3167', 'CVE-2020-3172', 'CVE-2021-1397']",2022-03-20T00:40Z
+9,cpe:2.3:a:cisco:ucs_manager:4.0\(4f\):*:*:*:*:*:*:*,Cisco UCS Manager 4.0(4f),"['CVE-2020-3120', 'CVE-2020-3167', 'CVE-2020-3172', 'CVE-2021-1397']",2022-03-20T00:40Z

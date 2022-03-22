@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:crunchify:facebook_members:5.0:*:*:*:*:*:*:*,Crunchify Facebook Members plugin for WordPress 5.0,['CVE-2013-2703'],2022-03-20T09:06Z
+1,cpe:2.3:a:crunchify:facebook_members:5.0.1:*:*:*:*:*:*:*,Crunchify Facebook Members plugin for WordPress 5.0.1,['CVE-2013-2703'],2022-03-20T09:06Z
+2,cpe:2.3:a:crunchify:facebook_members:5.0.2:*:*:*:*:*:*:*,Crunchify Facebook Members plugin for WordPress 5.0.2,['CVE-2013-2703'],2022-03-20T09:06Z
+3,cpe:2.3:a:crunchify:facebook_members:5.0.3:*:*:*:*:*:*:*,Crunchify Facebook Members plugin for WordPress 5.0.3,['CVE-2013-2703'],2022-03-20T09:06Z
+4,cpe:2.3:a:crunchify:facebook_members:5.0.4:*:*:*:*:*:*:*,Crunchify Facebook Members plugin for WordPress 5.0.4,['CVE-2013-2703'],2022-03-20T09:06Z
+5,cpe:2.3:a:crunchify:foursquare-checkins:1.0:*:*:*:*:*:*:*,Crunchify FourSquare Checkins plugin for WordPress 1.0,['CVE-2013-2709'],2022-03-20T09:06Z
+6,cpe:2.3:a:crunchify:foursquare-checkins:1.1:*:*:*:*:*:*:*,Crunchify FourSquare Checkins plugin for WordPress 1.1,['CVE-2013-2709'],2022-03-20T09:06Z
+7,cpe:2.3:a:crunchify:foursquare-checkins:1.2:*:*:*:*:*:*:*,Crunchify FourSquare Checkins plugin for WordPress 1.2,['CVE-2013-2709'],2022-03-20T09:06Z
+8,cpe:2.3:a:crunchify:foursquare-checkins:1.3:*:*:*:*:*:*:*,Crunchify FourSquare Checkins plugin for WordPress 1.3,[''],2022-03-20T09:06Z
+9,cpe:2.3:a:crushftp:crushftp:7.5.0:*:*:*:*:*:*:*,CrushFTP 7.5.0,"['CVE-2017-14036', 'CVE-2017-14037', 'CVE-2017-14038', 'CVE-2018-18288']",2022-03-20T09:06Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:catalyst_4500_supervisor_engine_iv:-:*:*:*:*:*:*:*,Cisco Catalyst 4500 Supervisor Engine IV,['CVE-2017-3881'],2022-03-19T18:59Z
+1,cpe:2.3:h:cisco:catalyst_4500_supervisor_engine_v:-:*:*:*:*:*:*:*,Cisco Catalyst 4500 Supervisor Engine V,['CVE-2017-3881'],2022-03-19T18:59Z
+2,cpe:2.3:h:cisco:catalyst_4500_supervisor_engine_v-10ge:-:*:*:*:*:*:*:*,Cisco Catalyst 4500 Supervisor Engine V-10GE,['CVE-2017-3881'],2022-03-19T18:59Z
+3,cpe:2.3:h:cisco:catalyst_4500_supervisor_ii-plus-10ge:-:*:*:*:*:*:*:*,Cisco Catalyst 4500 Supervisor II-Plus-10GE,['CVE-2017-3881'],2022-03-19T18:59Z
+4,cpe:2.3:h:cisco:catalyst_4500e_supervisor_engine_8-e:-:*:*:*:*:*:*:*,Cisco Catalyst 4500E Supervisor Engine 8-E,"['CVE-2017-3881', 'CVE-2019-12624']",2022-03-19T18:59Z
+5,cpe:2.3:h:cisco:catalyst_4500e_supervisor_engine_8-e_\(k10\):-:*:*:*:*:*:*:*,Cisco Catalyst 4500e Supervisor Engine 8-E (k10) -,['CVE-2018-0155'],2022-03-19T18:59Z
+6,cpe:2.3:h:cisco:catalyst_4500e_supervisor_engine_8l-e_\(k10\):-:*:*:*:*:*:*:*,Cisco Catalyst 4500e Supervisor Engine 8l-E (k10) -,['CVE-2018-0155'],2022-03-19T18:59Z
+7,cpe:2.3:h:cisco:catalyst_4500e_supervisor_engine_9-e_\(k10\):-:*:*:*:*:*:*:*,Cisco Catalyst 4500e Supervisor Engine 9-E (k10) -,['CVE-2018-0155'],2022-03-19T18:59Z
+8,cpe:2.3:h:cisco:catalyst_4500-x_series_switches_\(k10\):-:*:*:*:*:*:*:*,Cisco Catalyst 4500-x Series Switches (k10) -,['CVE-2018-0155'],2022-03-19T18:59Z
+9,cpe:2.3:h:cisco:catalyst_4503:-:*:*:*:*:*:*:*,Cisco Catalyst 4503,"['CVE-2004-0551', 'CVE-2005-4258', 'CVE-2013-1100', 'CVE-2015-0687']",2022-03-19T18:59Z

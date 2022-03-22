@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:automationdirect:c-more_hmi_ea9_firmware:6.52:*:*:*:*:*:*:*,Automationdirect C-more HMI EA9 Firmware 6.52,"['CVE-2020-10918', 'CVE-2020-10919', 'CVE-2020-10920', 'CVE-2020-10921', 'CVE-2020-10922']",2022-03-19T03:35Z
+1,cpe:2.3:h:automationdirect:c-more_micro:-:*:*:*:*:*:*:*,AutomationDirect C-More Micro,['CVE-2017-14020'],2022-03-19T03:35Z
+2,cpe:2.3:o:automationdirect:c-more_micro_firmware:4.20.01.0:*:*:*:*:*:*:*,Automationdirect C-More Micro Firmware 4.20.01.0,['CVE-2017-14020'],2022-03-19T03:36Z
+3,cpe:2.3:h:automationdirect:c-more_plc:-:*:*:*:*:*:*:*,AutomationDirect C-More Plc,['CVE-2017-14020'],2022-03-19T03:36Z
+4,cpe:2.3:o:automationdirect:c-more_plc_firmware:6.30:*:*:*:*:*:*:*,Automationdirect C-more Plc Firmware 6.30,['CVE-2017-14020'],2022-03-19T03:36Z
+5,cpe:2.3:h:automationdirect:ea9-pgmsw:-:*:*:*:*:*:*:*,Automationdirect EA9-PGMSW,"['CVE-2020-10918', 'CVE-2020-10919', 'CVE-2020-10920', 'CVE-2020-10921', 'CVE-2020-10922']",2022-03-19T03:36Z
+6,cpe:2.3:h:automationdirect:ea9-rhmi:-:*:*:*:*:*:*:*,Automationdirect EA9-RHMI,"['CVE-2020-10918', 'CVE-2020-10919', 'CVE-2020-10920', 'CVE-2020-10921', 'CVE-2020-10922']",2022-03-19T03:36Z
+7,cpe:2.3:h:automationdirect:ea9-t10cl:-:*:*:*:*:*:*:*,Automationdirect EA9-T10CL,"['CVE-2020-10918', 'CVE-2020-10919', 'CVE-2020-10920', 'CVE-2020-10921', 'CVE-2020-10922']",2022-03-19T03:36Z
+8,cpe:2.3:h:automationdirect:ea9-t10wcl:-:*:*:*:*:*:*:*,Automationdirect EA9-T10WCL,"['CVE-2020-10918', 'CVE-2020-10919', 'CVE-2020-10920', 'CVE-2020-10921', 'CVE-2020-10922']",2022-03-19T03:36Z
+9,cpe:2.3:h:automationdirect:ea9-t12cl:-:*:*:*:*:*:*:*,Automationdirect EA9-T12CL,"['CVE-2020-10918', 'CVE-2020-10919', 'CVE-2020-10920', 'CVE-2020-10921', 'CVE-2020-10922']",2022-03-19T03:36Z

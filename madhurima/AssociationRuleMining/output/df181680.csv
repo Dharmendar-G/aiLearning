@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:wyse_5470_all-in-one:-:*:*:*:*:*:*:*,Dell Wyse 5470 All-in-one,['CVE-2020-5362'],2022-03-20T13:13Z
+1,cpe:2.3:h:dell:wyse_5470_all-in-one_thin_client:-:*:*:*:*:*:*:*,Dell Wyse 5470 All-in-one Thin Client,['CVE-2021-21552'],2022-03-20T13:13Z
+2,cpe:2.3:o:dell:wyse_5470_firmware:1.2.1:*:*:*:*:*:*:*,Dell Wyse 5470 Firmware 1.2.1,"['CVE-2020-5362', 'CVE-2021-36283', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:14Z
+3,cpe:2.3:h:dell:wyse_5470_thin_client:-:*:*:*:*:*:*:*,Dell Wyse 5470 Thin Client,"['CVE-2021-21552', 'CVE-2021-21597', 'CVE-2021-21598']",2022-03-20T13:14Z
+4,cpe:2.3:h:dell:wyse_7010:-:*:*:*:*:*:*:*,Dell Wyse 7010,"['CVE-2020-29491', 'CVE-2020-29492']",2022-03-20T13:14Z
+5,cpe:2.3:h:dell:wyse_7040:-:*:*:*:*:*:*:*,Dell Wyse 7040,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:14Z
+6,cpe:2.3:o:dell:wyse_7040_firmware:-:*:*:*:*:*:*:*,Dell Wyse 7040 Firmware,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:14Z
+7,cpe:2.3:o:dell:wyse_7040_firmware:1.5.9:*:*:*:*:*:*:*,Dell Wyse 7040 Firmware 1.5.9,"['CVE-2020-5326', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:14Z
+8,cpe:2.3:o:dell:wyse_7040_firmware:1.6.0:*:*:*:*:*:*:*,Dell Wyse 7040 Firmware 1.6.0,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:14Z
+9,cpe:2.3:h:dell:wyse_7040_thin_client:-:*:*:*:*:*:*:*,Dell Wyse 7040 Thin Client,"['CVE-2020-5362', 'CVE-2022-24415', 'CVE-2022-24416', 'CVE-2022-24419', 'CVE-2022-24420', 'CVE-2022-24421']",2022-03-20T13:14Z

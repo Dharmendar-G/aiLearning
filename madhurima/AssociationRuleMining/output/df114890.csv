@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.5\(822\):*:*:*:*:*:*:*,Cisco AnyConnect Secure Mobility Client 4.5(822),"['CVE-2017-12268', 'CVE-2018-0100', 'CVE-2021-1519', 'CVE-2021-34788']",2022-03-19T18:18Z
+1,cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.5\(1044\):*:*:*:*:*:*:*,Cisco AnyConnect Secure Mobility Client 4.5(1044),"['CVE-2018-0100', 'CVE-2018-0373', 'CVE-2021-1519', 'CVE-2021-34788']",2022-03-19T18:18Z
+2,cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.5\(2033\):*:*:*:*:*:*:*,Cisco AnyConnect Secure Mobility Client 4.5(2033),"['CVE-2018-0100', 'CVE-2018-0373', 'CVE-2021-1519', 'CVE-2021-34788']",2022-03-19T18:18Z
+3,cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.5\(2036\):*:*:*:*:*:*:*,Cisco AnyConnect Secure Mobility Client 4.5(2036),"['CVE-2018-0100', 'CVE-2018-0373', 'CVE-2021-1519', 'CVE-2021-34788']",2022-03-19T18:18Z
+4,cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.5\(3040\):*:*:*:*:*:*:*,Cisco AnyConnect Secure Mobility Client 4.5(3040),"['CVE-2018-0100', 'CVE-2018-0373', 'CVE-2021-1519', 'CVE-2021-34788']",2022-03-19T18:18Z
+5,cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.5\(4029\):*:*:*:*:*:*:*,Cisco AnyConnect Secure Mobility Client 4.5(4029),"['CVE-2018-0100', 'CVE-2018-0373', 'CVE-2021-1519', 'CVE-2021-34788']",2022-03-19T18:18Z
+6,cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.5\(5030\):*:*:*:*:*:*:*,Cisco AnyConnect Secure Mobility Client 4.5(5030),"['CVE-2018-0100', 'CVE-2018-0373', 'CVE-2021-1519', 'CVE-2021-34788']",2022-03-19T18:18Z
+7,cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.6\(100\):*:*:*:*:*:*:*,Cisco AnyConnect Secure Mobility Client 4.6(100),"['CVE-2018-0100', 'CVE-2018-0334', 'CVE-2021-1519', 'CVE-2021-34788']",2022-03-19T18:18Z
+8,cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.6\(200\):*:*:*:*:*:*:*,Cisco AnyConnect Secure Mobility Client 4.6(200),"['CVE-2018-0100', 'CVE-2018-0229', 'CVE-2021-1519', 'CVE-2021-34788']",2022-03-19T18:18Z
+9,cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.6\(362\):*:*:*:*:*:*:*,Cisco AnyConnect Secure Mobility Client 4.6(362),"['CVE-2018-0100', 'CVE-2018-0373', 'CVE-2021-1519', 'CVE-2021-34788']",2022-03-19T18:18Z

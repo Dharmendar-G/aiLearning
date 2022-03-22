@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:asterisk:open_source:13.10.0:rc1:*:*:*:*:*:*,Asterisk Open Source 13.10.0 Release Candidate 1,"['CVE-2017-9358', 'CVE-2020-28242', 'CVE-2020-28327']",2022-03-18T23:51Z
+1,cpe:2.3:a:asterisk:open_source:13.11.0:rc1:*:*:*:*:*:*,Asterisk Open Source 13.11.0 Release Candidate 1,"['CVE-2017-9358', 'CVE-2020-28242', 'CVE-2020-28327']",2022-03-18T23:51Z
+2,cpe:2.3:a:asterisk:open_source:13.12.0:*:*:*:*:*:*:*,Asterisk Open Source 13.12.0,"['CVE-2017-9358', 'CVE-2020-28242', 'CVE-2020-28327']",2022-03-18T23:51Z
+3,cpe:2.3:a:asterisk:open_source:13.12.0:rc1:*:*:*:*:*:*,Asterisk Open Source 13.12.0 Release Candidate 1,"['CVE-2017-9358', 'CVE-2020-28242', 'CVE-2020-28327']",2022-03-18T23:51Z
+4,cpe:2.3:a:asterisk:open_source:13.12.1:*:*:*:*:*:*:*,Asterisk Open Source 13.12.1,"['CVE-2017-9358', 'CVE-2020-28242', 'CVE-2020-28327']",2022-03-18T23:51Z
+5,cpe:2.3:a:asterisk:open_source:13.12.2:*:*:*:*:*:*:*,Asterisk Open Source 13.12.2,"['CVE-2017-9358', 'CVE-2020-28242', 'CVE-2020-28327']",2022-03-18T23:51Z
+6,cpe:2.3:a:asterisk:open_source:13.13.0:rc1:*:*:*:*:*:*,Asterisk Open Source 13.13.0 Release Candidate 1,"['CVE-2017-9358', 'CVE-2020-28242', 'CVE-2020-28327']",2022-03-18T23:51Z
+7,cpe:2.3:a:asterisk:open_source:13.14.0:rc1:*:*:*:*:*:*,Asterisk Open Source 13.14.0 Release Candidate 1,"['CVE-2017-9358', 'CVE-2020-28242', 'CVE-2020-28327']",2022-03-18T23:51Z
+8,cpe:2.3:a:asterisk:open_source:13.15.0:rc1:*:*:*:*:*:*,Asterisk Open Source 13.15.0 Release Candidate 1,"['CVE-2017-9358', 'CVE-2020-28242', 'CVE-2020-28327']",2022-03-18T23:51Z
+9,cpe:2.3:a:asterisk:open_source:13.37.1:*:*:*:*:*:*:*,Asterisk Open Source 13.37.1,[''],2022-03-18T23:51Z

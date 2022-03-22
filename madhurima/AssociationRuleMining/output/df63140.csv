@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:automattic:canvas:1.1.5:*:*:*:*:node.js:*:*,Automattic Canvas 1.1.5 for Node.js,['CVE-2020-8215'],2022-03-19T03:39Z
+1,cpe:2.3:a:automattic:canvas:1.1.6:*:*:*:*:node.js:*:*,Automattic Canvas 1.1.6 for Node.js,['CVE-2020-8215'],2022-03-19T03:39Z
+2,cpe:2.3:a:automattic:canvas:1.2.0:*:*:*:*:node.js:*:*,Automattic Canvas 1.2.0 for Node.js,['CVE-2020-8215'],2022-03-19T03:39Z
+3,cpe:2.3:a:automattic:canvas:1.2.1:*:*:*:*:node.js:*:*,Automattic Canvas 1.2.1 for Node.js,['CVE-2020-8215'],2022-03-19T03:39Z
+4,cpe:2.3:a:automattic:canvas:1.2.2:*:*:*:*:node.js:*:*,Automattic Canvas 1.2.2 for Node.js,['CVE-2020-8215'],2022-03-19T03:39Z
+5,cpe:2.3:a:automattic:canvas:1.2.3:*:*:*:*:node.js:*:*,Automattic Canvas 1.2.3 for Node.js,['CVE-2020-8215'],2022-03-19T03:39Z
+6,cpe:2.3:a:automattic:canvas:1.2.4:*:*:*:*:node.js:*:*,Automattic Canvas 1.2.4 for Node.js,['CVE-2020-8215'],2022-03-19T03:39Z
+7,cpe:2.3:a:automattic:canvas:1.2.5:*:*:*:*:node.js:*:*,Automattic Canvas 1.2.5 for Node.js,['CVE-2020-8215'],2022-03-19T03:39Z
+8,cpe:2.3:a:automattic:canvas:1.2.6:*:*:*:*:node.js:*:*,Automattic Canvas 1.2.6 for Node.js,['CVE-2020-8215'],2022-03-19T03:39Z
+9,cpe:2.3:a:automattic:canvas:1.2.7:*:*:*:*:node.js:*:*,Automattic Canvas 1.2.7 for Node.js,['CVE-2020-8215'],2022-03-19T03:39Z

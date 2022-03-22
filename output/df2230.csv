@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:2wire:homeportal:100s:*:*:*:*:*:*:*,2Wire HomePortal 100S,['CVE-2004-2749'],2022-03-18T09:58Z
+1,cpe:2.3:a:2wire:homeportal:100w:*:*:*:*:*:*:*,2Wire HomePortal 100W,['CVE-2004-2749'],2022-03-18T09:58Z
+2,cpe:2.3:a:2wire:homeportal:1000s:*:*:*:*:*:*:*,2Wire HomePortal 1000S,['CVE-2004-2749'],2022-03-18T09:58Z
+3,cpe:2.3:a:2wire:homeportal:1000w:*:*:*:*:*:*:*,2Wire HomePortal 1000W,['CVE-2004-2749'],2022-03-18T09:58Z
+4,cpe:2.3:a:3.7designs:project_status:-:*:*:*:*:wordpress:*:*,3.7 Designs Project Status for WordPress,['CVE-2021-24558'],2022-03-18T09:58Z
+5,cpe:2.3:a:3.7designs:project_status:1.6:*:*:*:*:wordpress:*:*,3.7 Designs Project Status 1.6 for WordPress,['CVE-2021-24558'],2022-03-18T09:58Z
+6,cpe:2.3:a:30a:30a:5.26.2:*:*:*:*:android:*:*,30A 30A (aka com.app30a) for Android 5.26.2,['CVE-2014-6726'],2022-03-18T09:58Z
+7,cpe:2.3:a:30lines:rentpress:-:*:*:*:*:wordpress:*:*,30 Lines RentPress for WordPress,['CVE-2021-38323'],2022-03-18T09:58Z
+8,cpe:2.3:a:30lines:rentpress:1.9:*:*:*:*:wordpress:*:*,30 Lines RentPress 1.9 for WordPress,['CVE-2021-38323'],2022-03-18T09:58Z
+9,cpe:2.3:a:30lines:rentpress:2.9:*:*:*:*:wordpress:*:*,30 Lines RentPress 2.9 for WordPress,['CVE-2021-38323'],2022-03-18T09:58Z

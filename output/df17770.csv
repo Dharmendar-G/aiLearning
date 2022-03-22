@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:akcp:sensorprobe2_firmware:-:*:*:*:*:*:*:*,AKCP sensorProbe2 Firmware,['CVE-2021-35956'],2022-03-18T14:18Z
+1,cpe:2.3:o:akcp:sensorprobe2_firmware:sp480-20210624:*:*:*:*:*:*:*,AKCP sensorProbe2 Firmware SP480-20210624,[''],2022-03-18T14:18Z
+2,cpe:2.3:h:akcp:sensorprobe4:-:*:*:*:*:*:*:*,AKCP Solutions sensorProbe4,['CVE-2021-35956'],2022-03-18T14:18Z
+3,cpe:2.3:o:akcp:sensorprobe4_firmware:-:*:*:*:*:*:*:*,AKCP sensorProbe4 Firmware,['CVE-2021-35956'],2022-03-18T14:18Z
+4,cpe:2.3:o:akcp:sensorprobe4_firmware:sp480-20210624:*:*:*:*:*:*:*,AKCP sensorProbe4 Firmware SP480-20210624,[''],2022-03-18T14:18Z
+5,cpe:2.3:h:akcp:sensorprobe8:-:*:*:*:*:*:*:*,AKCP Solutions sensorProbe8,['CVE-2021-35956'],2022-03-18T14:18Z
+6,cpe:2.3:o:akcp:sensorprobe8_firmware:-:*:*:*:*:*:*:*,AKCP sensorProbe8 Firmware,['CVE-2021-35956'],2022-03-18T14:18Z
+7,cpe:2.3:o:akcp:sensorprobe8_firmware:sp480-20210624:*:*:*:*:*:*:*,AKCP sensorProbe8 Firmware SP480-20210624,[''],2022-03-18T14:18Z
+8,cpe:2.3:h:akcp:sensorprobe8-x20:-:*:*:*:*:*:*:*,AKCP Solutions sensorProbe8-x20,['CVE-2021-35956'],2022-03-18T14:18Z
+9,cpe:2.3:o:akcp:sensorprobe8-x20_firmware:-:*:*:*:*:*:*:*,AKCP sensorProbe8-X20 Firmware,['CVE-2021-35956'],2022-03-18T14:18Z

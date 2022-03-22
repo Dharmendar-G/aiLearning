@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:credhub:1.9.4:*:*:*:*:*:*:*,Cloud Foundry Credhub 1.9.4,"['CVE-2019-3801', 'CVE-2020-5399']",2022-03-20T03:25Z
+1,cpe:2.3:a:cloudfoundry:credhub:1.9.5:*:*:*:*:*:*:*,Cloud Foundry Credhub 1.9.5,"['CVE-2019-3801', 'CVE-2020-5399']",2022-03-20T03:25Z
+2,cpe:2.3:a:cloudfoundry:credhub:1.9.6:*:*:*:*:*:*:*,Cloud Foundry Credhub 1.9.6,"['CVE-2019-3801', 'CVE-2020-5399']",2022-03-20T03:25Z
+3,cpe:2.3:a:cloudfoundry:credhub:1.9.7:*:*:*:*:*:*:*,Cloud Foundry Credhub 1.9.7,"['CVE-2019-3801', 'CVE-2020-5399']",2022-03-20T03:25Z
+4,cpe:2.3:a:cloudfoundry:credhub:1.9.8:*:*:*:*:*:*:*,Cloud Foundry Credhub 1.9.8,"['CVE-2019-3801', 'CVE-2020-5399']",2022-03-20T03:25Z
+5,cpe:2.3:a:cloudfoundry:credhub:1.9.9:*:*:*:*:*:*:*,Cloud Foundry Credhub 1.9.9,"['CVE-2019-3801', 'CVE-2020-5399']",2022-03-20T03:25Z
+6,cpe:2.3:a:cloudfoundry:credhub:1.9.10:*:*:*:*:*:*:*,Cloud Foundry Credhub 1.9.10,['CVE-2020-5399'],2022-03-20T03:25Z
+7,cpe:2.3:a:cloudfoundry:credhub:1.9.11:*:*:*:*:*:*:*,Cloud Foundry Credhub 1.9.11,['CVE-2020-5399'],2022-03-20T03:25Z
+8,cpe:2.3:a:cloudfoundry:credhub:1.9.12:*:*:*:*:*:*:*,Cloud Foundry Credhub 1.9.12,['CVE-2020-5399'],2022-03-20T03:25Z
+9,cpe:2.3:a:cloudfoundry:credhub:1.9.13:*:*:*:*:*:*:*,Cloud Foundry Credhub 1.9.13,['CVE-2020-5399'],2022-03-20T03:25Z

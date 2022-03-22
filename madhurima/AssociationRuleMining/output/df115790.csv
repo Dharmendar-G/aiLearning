@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:asa_5585-x_firmware:96.4\(0.42\):*:*:*:*:*:*:*,Cisco ASA 5585-X Firmware 96.4(0.42),['CVE-2020-3191'],2022-03-19T18:35Z
+1,cpe:2.3:o:cisco:asa_5585-x_firmware:099.015\(001.033\):*:*:*:*:*:*:*,Cisco ASA 5585-X Firmware 099.015(001.033),['CVE-2021-34794'],2022-03-19T18:35Z
+2,cpe:2.3:o:cisco:asa_5585-x_firmware:099.016\(001.216\):*:*:*:*:*:*:*,Cisco ASA 5585-X Firmware 099.016(001.216),['CVE-2021-34794'],2022-03-19T18:35Z
+3,cpe:2.3:o:cisco:asa_5585-x_firmware:099.017\(001.211\):*:*:*:*:*:*:*,Cisco ASA 5585-X Firmware 099.017(001.211),['CVE-2021-34792'],2022-03-19T18:35Z
+4,cpe:2.3:o:cisco:asa_5585-x_firmware:099.017\(001.220\):*:*:*:*:*:*:*,Cisco ASA 5585-X Firmware 099.017(001.220),['CVE-2021-34792'],2022-03-19T18:35Z
+5,cpe:2.3:o:cisco:asa_5585-x_firmware:099.017\(015.050\):*:*:*:*:*:*:*,Cisco ASA 5585-X Firmware 099.017(015.050),['CVE-2021-34792'],2022-03-19T18:35Z
+6,cpe:2.3:o:cisco:asa_5585-x_firmware:100.13\(0\):*:*:*:*:*:*:*,Cisco ASA 5585-X Firmware 100.13(0),['CVE-2020-3196'],2022-03-19T18:35Z
+7,cpe:2.3:o:cisco:asa_5585-x_firmware:101.5\(1.26\):*:*:*:*:*:*:*,Cisco ASA 5585-X Firmware 101.5(1.26),['CVE-2020-3179'],2022-03-19T18:36Z
+8,cpe:2.3:o:cisco:asa_5585-x_firmware:101.6\(1.96\):*:*:*:*:*:*:*,Cisco ASA 5585-X Firmware 101.6(1.96),['CVE-2020-3188'],2022-03-19T18:36Z
+9,cpe:2.3:o:cisco:asa_5585-x_firmware:201.5\(23.16\):*:*:*:*:*:*:*,Cisco ASA 5585-X Firmware 201.5(23.16),['CVE-2020-3186'],2022-03-19T18:36Z

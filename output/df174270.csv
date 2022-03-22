@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:datalust:seq:5.0.2394:*:*:*:*:*:*:*,Datalust Seq 5.0.2394,['CVE-2021-41329'],2022-03-20T10:50Z
+1,cpe:2.3:a:datalust:seq:5.0.2497:*:*:*:*:*:*:*,Datalust Seq 5.0.2497,['CVE-2021-41329'],2022-03-20T10:50Z
+2,cpe:2.3:a:datalust:seq:5.0.2787:*:*:*:*:*:*:*,Datalust Seq 5.0.2787,['CVE-2021-41329'],2022-03-20T10:50Z
+3,cpe:2.3:a:datalust:seq:5.0.2817:*:*:*:*:*:*:*,Datalust Seq 5.0.2817,['CVE-2021-41329'],2022-03-20T10:50Z
+4,cpe:2.3:a:datalust:seq:5.1.2976:*:*:*:*:*:*:*,Datalust Seq 5.1.2976,['CVE-2021-41329'],2022-03-20T10:50Z
+5,cpe:2.3:a:datalust:seq:5.1.3000:*:*:*:*:*:*:*,Datalust Seq 5.1.3000,['CVE-2021-41329'],2022-03-20T10:50Z
+6,cpe:2.3:a:datalust:seq:5.1.3004:*:*:*:*:*:*:*,Datalust Seq 5.1.3004,['CVE-2021-41329'],2022-03-20T10:50Z
+7,cpe:2.3:a:datalust:seq:5.1.3093:*:*:*:*:*:*:*,Datalust Seq 5.1.3093,['CVE-2021-41329'],2022-03-20T10:50Z
+8,cpe:2.3:a:datalust:seq.app.emailplus:3.1.0:dev-00148:*:*:*:*:*:*,Datalust Seq.App.EmailPlus 3.1.0 Dev-00148,['CVE-2021-43270'],2022-03-20T10:50Z
+9,cpe:2.3:a:datalust:seq.app.emailplus:3.1.0:dev-00170:*:*:*:*:*:*,Datalust Seq.App.EmailPlus 3.1.0 Dev-00170,['CVE-2021-43270'],2022-03-20T10:50Z

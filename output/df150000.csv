@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cncf:spire:0.11.1:*:*:*:*:*:*:*,Cloud Native Computing Foundation SPIRE 0.11.1,"['CVE-2021-27098', 'CVE-2021-27099']",2022-03-20T04:35Z
+1,cpe:2.3:a:cncf:spire:0.11.2:*:*:*:*:*:*:*,Cloud Native Computing Foundation SPIRE 0.11.2,"['CVE-2021-27098', 'CVE-2021-27099']",2022-03-20T04:35Z
+2,cpe:2.3:a:cncf:spire:0.11.3:*:*:*:*:*:*:*,Cloud Native Computing Foundation SPIRE 0.11.3,[''],2022-03-20T04:35Z
+3,cpe:2.3:a:cncf:spire:0.12.0:*:*:*:*:*:*:*,Cloud Native Computing Foundation SPIRE 0.12.0,"['CVE-2021-27098', 'CVE-2021-27099']",2022-03-20T04:35Z
+4,cpe:2.3:a:cncf:spire:0.12.1:*:*:*:*:*:*:*,Cloud Native Computing Foundation SPIRE 0.12.1,[''],2022-03-20T04:35Z
+5,cpe:2.3:a:cnectd:cnectd:2.0.0:*:*:*:*:*:*:*,Cnectd (mci.cnectd) application 2.0.0 for Android,[''],2022-03-20T04:35Z
+6,cpe:2.3:a:cnectd:cnectd:2.1.0:*:*:*:*:*:*:*,Cnectd (mci.cnectd) application 2.1.0 for Android,[''],2022-03-20T04:35Z
+7,cpe:2.3:a:cnectd:cnectd:2.1.5:*:*:*:*:*:*:*,Cnectd (mci.cnectd) application 2.1.5 for Android,[''],2022-03-20T04:35Z
+8,cpe:2.3:a:cnectd:cnectd:3.1.0:*:*:*:*:*:*:*,Cnectd (mci.cnectd) application 3.1.0 for Android,['CVE-2012-1477'],2022-03-20T04:35Z
+9,cpe:2.3:a:cnesty:helpcom:-:*:*:*:*:*:*:*,Cnesty HelpCom,"['CVE-2020-7846', 'CVE-2020-7856', 'CVE-2020-7871']",2022-03-20T04:35Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:spa_504g_4-line_ip_phone:-:*:*:*:*:*:*:*,Cisco SPA 504G 4-Line IP Phone,"['CVE-2011-2545', 'CVE-2014-3312', 'CVE-2014-3313', 'CVE-2015-0670']",2022-03-20T00:21Z
+1,cpe:2.3:o:cisco:spa_504g_firmware:-:*:*:*:*:*:*:*,Cisco SPA 504G Firmware,[''],2022-03-20T00:21Z
+2,cpe:2.3:o:cisco:spa_504g_firmware:7.6.2:sr1:*:*:*:*:*:*,Cisco SPA 504G Firmware 7.6.2 SR1,"['CVE-2017-12219', 'CVE-2017-12260']",2022-03-20T00:21Z
+3,cpe:2.3:o:cisco:spa_504g_firmware:7.6.2:sr1:*:*:*:*:*:*,Cisco SPA 504G Firmware 7.6.2 SR1,"['CVE-2017-12219', 'CVE-2017-12260']",2022-03-20T00:21Z
+4,cpe:2.3:h:cisco:spa_508g:-:*:*:*:*:*:*:*,Cisco SPA 508G,"['CVE-2015-6403', 'CVE-2017-12219', 'CVE-2017-12260']",2022-03-20T00:21Z
+5,cpe:2.3:h:cisco:spa_508g_8-line_ip_phone:-:*:*:*:*:*:*:*,Cisco SPA 508G 8-Line IP Phone,"['CVE-2011-2545', 'CVE-2014-3312', 'CVE-2014-3313', 'CVE-2015-0670']",2022-03-20T00:21Z
+6,cpe:2.3:o:cisco:spa_508g_firmware:-:*:*:*:*:*:*:*,Cisco SPA 508G Firmware,[''],2022-03-20T00:21Z
+7,cpe:2.3:o:cisco:spa_508g_firmware:7.6.2:sr1:*:*:*:*:*:*,Cisco SPA 508G Firmware 7.6.2 SR1,"['CVE-2017-12219', 'CVE-2017-12260']",2022-03-20T00:21Z
+8,cpe:2.3:o:cisco:spa_508g_firmware:7.6.2:sr1:*:*:*:*:*:*,Cisco SPA 508G Firmware 7.6.2 SR1,"['CVE-2017-12219', 'CVE-2017-12260']",2022-03-20T00:21Z
+9,cpe:2.3:h:cisco:spa_509g:-:*:*:*:*:*:*:*,Cisco SPA 509G,"['CVE-2015-6403', 'CVE-2017-12219', 'CVE-2017-12260']",2022-03-20T00:21Z

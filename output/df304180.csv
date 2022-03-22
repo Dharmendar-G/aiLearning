@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hapi-auth-jwt2_project:hapi-auth-jwt2:1.0.7:*:*:*:*:node.js:*:*,hapi-auth-jwt2 Project hapi-auth-jwt2 1.0.7 for Node.js,[''],2022-03-21T08:56Z
+1,cpe:2.3:a:hapi-auth-jwt2_project:hapi-auth-jwt2:1.0.8:*:*:*:*:node.js:*:*,hapi-auth-jwt2 Project hapi-auth-jwt2 1.0.8 for Node.js,[''],2022-03-21T08:56Z
+2,cpe:2.3:a:hapi-auth-jwt2_project:hapi-auth-jwt2:1.0.9:*:*:*:*:node.js:*:*,hapi-auth-jwt2 Project hapi-auth-jwt2 1.0.9 for Node.js,[''],2022-03-21T08:56Z
+3,cpe:2.3:a:hapi-auth-jwt2_project:hapi-auth-jwt2:2.0.0:*:*:*:*:node.js:*:*,hapi-auth-jwt2 Project hapi-auth-jwt2 2.0.0 for Node.js,[''],2022-03-21T08:56Z
+4,cpe:2.3:a:hapi-auth-jwt2_project:hapi-auth-jwt2:2.0.1:*:*:*:*:node.js:*:*,hapi-auth-jwt2 Project hapi-auth-jwt2 2.0.1 for Node.js,[''],2022-03-21T08:56Z
+5,cpe:2.3:a:hapi-auth-jwt2_project:hapi-auth-jwt2:3.0.0:*:*:*:*:node.js:*:*,hapi-auth-jwt2 Project hapi-auth-jwt2 3.0.0 for Node.js,[''],2022-03-21T08:56Z
+6,cpe:2.3:a:hapi-auth-jwt2_project:hapi-auth-jwt2:3.0.1:*:*:*:*:node.js:*:*,hapi-auth-jwt2 Project hapi-auth-jwt2 3.0.1 for Node.js,[''],2022-03-21T08:56Z
+7,cpe:2.3:a:hapi-auth-jwt2_project:hapi-auth-jwt2:3.1.1:*:*:*:*:node.js:*:*,hapi-auth-jwt2 Project hapi-auth-jwt2 3.1.1 for Node.js,[''],2022-03-21T08:57Z
+8,cpe:2.3:a:hapi-auth-jwt2_project:hapi-auth-jwt2:3.2.1:*:*:*:*:node.js:*:*,hapi-auth-jwt2 Project hapi-auth-jwt2 3.2.1 for Node.js,[''],2022-03-21T08:56Z
+9,cpe:2.3:a:hapi-auth-jwt2_project:hapi-auth-jwt2:4.0.1:*:*:*:*:node.js:*:*,hapi-auth-jwt2 Project hapi-auth-jwt2 4.0.1 for Node.js,[''],2022-03-21T08:57Z

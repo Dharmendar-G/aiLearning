@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cylan:clever_dog_smart_camera_panorama_dog-2w:-:*:*:*:*:*:*:*,Cylan Clever Dog Smart Camera Panorama DOG-2W,"['CVE-2019-12919', 'CVE-2019-12920']",2022-03-20T09:46Z
+1,cpe:2.3:o:cylan:clever_dog_smart_camera_panorama_dog-2w_firmware:-:*:*:*:*:*:*:*,Cylan Clever Dog Smart Camera Panorama DOG-2W Firmware,"['CVE-2019-12919', 'CVE-2019-12920']",2022-03-20T09:46Z
+2,cpe:2.3:h:cylan:clever_dog_smart_camera_plus_dog-2w-v4:-:*:*:*:*:*:*:*,Cylan Clever Dog Smart Camera Plus DOG-2W-V4,"['CVE-2019-12919', 'CVE-2019-12920']",2022-03-20T09:46Z
+3,cpe:2.3:o:cylan:clever_dog_smart_camera_plus_dog-2w-v4_firmware:-:*:*:*:*:*:*:*,Cylan Clever Dog Smart Camera Plus DOG-2W-V4 Firmware,"['CVE-2019-12919', 'CVE-2019-12920']",2022-03-20T09:46Z
+4,cpe:2.3:a:cylance:cylanceprotect:1470:*:*:*:*:*:*:*,CylancePROTECT 1470,[''],2022-03-20T09:46Z
+5,cpe:2.3:a:cymiinstaller322_activex_project:cymiinstaller322_activex:2016.5.26.1:*:*:*:*:*:*:*,CyMiinstaller322 ActiveX Project CyMiinstaller322 ActiveX 2016.5.26.1,['CVE-2019-19161'],2022-03-20T09:46Z
+6,cpe:2.3:a:cypherix:cryptainer_le:6.1:*:*:*:*:*:*:*,Cypherix Cryptainer Le 6.1,[''],2022-03-20T09:46Z
+7,cpe:2.3:a:cypherpunks:libotr:3.1.0:*:*:*:*:*:*:*,cypherpunks libotr 3.1.0,"['CVE-2012-3461', 'CVE-2016-2851']",2022-03-20T09:46Z
+8,cpe:2.3:a:cypherpunks:libotr:3.2.0:*:*:*:*:*:*:*,cypherpunks libotr 3.2.0,"['CVE-2012-3461', 'CVE-2016-2851']",2022-03-20T09:46Z
+9,cpe:2.3:a:cypherpunks:libotr:3.2.1:*:*:*:*:*:*:*,cypherpunks libotr 3.2.1,['CVE-2016-2851'],2022-03-20T09:46Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:commerceguys:commerce:7.x-1.0:rc2:*:*:*:drupal:*:*,commerceguys Commerce module for Drupal 7.x-1.0 release candidate 2,"['CVE-2012-1639', 'CVE-2014-9025']",2022-03-20T06:51Z
+1,cpe:2.3:a:commerceguys:commerce:7.x-1.0:rc3:*:*:*:drupal:*:*,commerceguys Commerce module for Drupal 7.x-1.0 release candidate 3,"['CVE-2012-1639', 'CVE-2014-9025']",2022-03-20T06:51Z
+2,cpe:2.3:a:commerceguys:commerce:7.x-1.1:*:*:*:*:*:*:*,commerceguys Commerce module for Drupal 7.x-1.1,['CVE-2012-1639'],2022-03-20T06:51Z
+3,cpe:2.3:a:commerceguys:commerce:7.x-1.1:*:*:*:*:drupal:*:*,commerceguys Commerce module for Drupal 7.x-1.1,"['CVE-2012-1639', 'CVE-2014-9025']",2022-03-20T06:51Z
+4,cpe:2.3:a:commerceguys:commerce:7.x-1.x:dev:*:*:*:*:*:*,commerceguys Commerce module for Drupal 7.x-1.x-dev,['CVE-2012-1639'],2022-03-20T06:51Z
+5,cpe:2.3:a:commerceguys:commerce_reorder:7.x-1.0:*:*:*:*:*:*:*,commerceguys Commerce Reorder module for Drupal 7.x-1.0,['CVE-2012-2116'],2022-03-20T06:51Z
+6,cpe:2.3:a:commerceguys:commerce_reorder:7.x-1.1:*:*:*:*:*:*:*,commerceguys Commerce Reorder module for Drupal 7.x-1.1,[''],2022-03-20T06:51Z
+7,cpe:2.3:a:commerceguys:commerce_reorder:7.x-1.x:dev:*:*:*:*:*:*,commerceguys Commerce Reorder module for Drupal 7.x-1.x-dev,['CVE-2012-2116'],2022-03-20T06:51Z
+8,cpe:2.3:a:commons_wikis_project:commons_wikis:7.x-3.0:*:*:*:*:*:*:*,Commons Wikis Project Commons Wikis (commons_wikis) module 7.x-3.0 for Drupal,['CVE-2013-1908'],2022-03-20T06:51Z
+9,cpe:2.3:a:commons_wikis_project:commons_wikis:7.x-3.1:*:*:*:*:*:*:*,Commons Wikis Project Commons Wikis (commons_wikis) module 7.x-3.1 for Drupal,[''],2022-03-20T06:52Z

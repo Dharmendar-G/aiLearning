@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:data_protector_express:3.5:sp2:*:*:*:*:*:*,HP Data Protector Express 3.5 SP2,"['CVE-2009-0714', 'CVE-2010-3007', 'CVE-2010-3008']",2022-03-21T13:11Z
+1,cpe:2.3:a:hp:data_protector_express:3.5:sp2:*:*:sse:*:*:*,HP Data Protector Express 3.5 Service Pack 2 Single Server Edition,"['CVE-2009-0714', 'CVE-2010-3007', 'CVE-2010-3008']",2022-03-21T13:11Z
+2,cpe:2.3:a:hp:data_protector_express:4.0:sp1:*:*:*:*:*:*,HP Data Protector Express 4.0 SP1,"['CVE-2009-0714', 'CVE-2010-3007', 'CVE-2010-3008']",2022-03-21T13:11Z
+3,cpe:2.3:a:hp:data_protector_express:4.0:sp1:sse:*:*:*:*:*,HP Data Protector Express 4.0 SP1 Single Server Edition,"['CVE-2009-0714', 'CVE-2010-3007', 'CVE-2010-3008']",2022-03-21T13:11Z
+4,cpe:2.3:a:hp:data_protector_express:5.0:*:*:*:*:*:*:*,HP Data Protector Express 5.0,"['CVE-2012-0121', 'CVE-2012-0122', 'CVE-2012-0123', 'CVE-2012-0124']",2022-03-21T13:11Z
+5,cpe:2.3:a:hp:data_protector_express:6.0:*:*:*:*:*:*:*,HP Data Protector Express 6.0,"['CVE-2012-0121', 'CVE-2012-0122', 'CVE-2012-0123', 'CVE-2012-0124']",2022-03-21T13:11Z
+6,cpe:2.3:a:hp:data_protector_media_operations:5.0:*:*:*:*:*:*:*,HP Data Protector Media Operations 5.0,['CVE-2011-4791'],2022-03-21T13:11Z
+7,cpe:2.3:a:hp:data_protector_media_operations:5.1:*:*:*:*:*:*:*,HP Data Protector Media Operations 5.1,['CVE-2011-4791'],2022-03-21T13:11Z
+8,cpe:2.3:a:hp:data_protector_media_operations:5.5:*:*:*:*:*:*:*,HP Data Protector Media Operations 5.5,['CVE-2011-4791'],2022-03-21T13:11Z
+9,cpe:2.3:a:hp:data_protector_media_operations:6.10:*:*:*:*:*:*:*,HP Data Protector Media Operations 6.10,['CVE-2011-4791'],2022-03-21T13:11Z

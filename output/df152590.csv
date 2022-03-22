@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codeermeneer:companion_auto_update:3.4.0:*:*:*:*:wordpress:*:*,CodeerMeneer Companion Auto Update 3.4.0 for WordPress,[''],2022-03-20T05:26Z
+1,cpe:2.3:a:codeermeneer:companion_auto_update:3.4.1:*:*:*:*:wordpress:*:*,CodeerMeneer Companion Auto Update 3.4.1 for WordPress,[''],2022-03-20T05:26Z
+2,cpe:2.3:a:codeermeneer:companion_auto_update:3.4.2:*:*:*:*:wordpress:*:*,CodeerMeneer Companion Auto Update 3.4.2 for WordPress,[''],2022-03-20T05:26Z
+3,cpe:2.3:a:codeermeneer:companion_sitemap_generator:-:*:*:*:*:wordpress:*:*,Codeermeneer Companion Sitemap Generator for WordPress,['CVE-2019-15113'],2022-03-20T05:26Z
+4,cpe:2.3:a:codeermeneer:companion_sitemap_generator:3.0:*:*:*:*:wordpress:*:*,Codeermeneer Companion Sitemap Generator 3.0 for WordPress,['CVE-2019-15113'],2022-03-20T05:26Z
+5,cpe:2.3:a:codeermeneer:companion_sitemap_generator:3.0.1:*:*:*:*:wordpress:*:*,Codeermeneer Companion Sitemap Generator 3.0.1 for WordPress,['CVE-2019-15113'],2022-03-20T05:26Z
+6,cpe:2.3:a:codeermeneer:companion_sitemap_generator:3.0.2:*:*:*:*:wordpress:*:*,Codeermeneer Companion Sitemap Generator 3.0.2 for WordPress,['CVE-2019-15113'],2022-03-20T05:26Z
+7,cpe:2.3:a:codeermeneer:companion_sitemap_generator:3.0.3:*:*:*:*:wordpress:*:*,Codeermeneer Companion Sitemap Generator 3.0.3 for WordPress,['CVE-2019-15113'],2022-03-20T05:26Z
+8,cpe:2.3:a:codeermeneer:companion_sitemap_generator:3.1.0:*:*:*:*:wordpress:*:*,Codeermeneer Companion Sitemap Generator 3.1.0 for WordPress,['CVE-2019-15113'],2022-03-20T05:26Z
+9,cpe:2.3:a:codeermeneer:companion_sitemap_generator:3.1.1:*:*:*:*:wordpress:*:*,Codeermeneer Companion Sitemap Generator 3.1.1 for WordPress,['CVE-2019-15113'],2022-03-20T05:26Z

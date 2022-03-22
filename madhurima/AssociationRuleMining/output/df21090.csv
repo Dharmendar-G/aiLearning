@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:altiris:connector_for_veritas_configuration_manager:6.0.1039:*:*:*:*:*:*:*,Altiris Connector For Veritas Configuration Manager 6.0.1039,[''],2022-03-18T15:13Z
+1,cpe:2.3:a:altiris:connector_for_wise:6.1.138:*:*:*:*:*:*:*,Altiris Connector For Wise 6.1.138,[''],2022-03-18T15:13Z
+2,cpe:2.3:a:altiris:connector_solution_data_integration_component:6.5.1149:*:*:*:*:*:*:*,Altiris Connector Solution Data Integration Component 6.5.1149,[''],2022-03-18T15:13Z
+3,cpe:2.3:a:altiris:connector_solution_data_integration_component_extensions:6.0.1318:*:*:*:*:*:*:*,Altiris Connector Solution Data Integration Component Extensions 6.0.1318,[''],2022-03-18T15:13Z
+4,cpe:2.3:a:altiris:connector_solution_documentation:6.5.1026:*:*:*:*:*:*:*,Altiris Connector Solution Documentation 6.5.1026,[''],2022-03-18T15:13Z
+5,cpe:2.3:a:altiris:connector_solution_event_integration_component:6.0.1823:*:*:*:*:*:*:*,Altiris Connector Solution Event Integration Component 6.0.1823,[''],2022-03-18T15:13Z
+6,cpe:2.3:a:altiris:connector_solution_quick_start:6.0.1102:*:*:*:*:*:*:*,Altiris Connector Solution Quick Start 6.0.1102,[''],2022-03-18T15:13Z
+7,cpe:2.3:a:altiris:console:6.5.1144:*:*:*:*:*:*:*,Altiris Console 6.5.1144,[''],2022-03-18T15:13Z
+8,cpe:2.3:a:altiris:console_data:6.5.31.0:update_kb34732:*:*:*:*:*:*,Altiris Console Data Update Kb34732 6.5.31.0,[''],2022-03-18T15:14Z
+9,cpe:2.3:a:altiris:console_data:6.5.1156:*:*:*:*:*:*:*,Altiris Console Data 6.5.1156,[''],2022-03-18T15:14Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:prime_service_catalog:10.1:*:*:*:*:*:*:*,Cisco Prime Service Catalog 10.1,"['CVE-2018-0107', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:48Z
+1,cpe:2.3:a:cisco:prime_service_catalog:10.1_base:*:*:*:*:*:*:*,Cisco Prime Service Catalog 10.1 Base,"['CVE-2015-6395', 'CVE-2018-0107', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z
+2,cpe:2.3:a:cisco:prime_service_catalog:11.0:*:*:*:*:*:*:*,Cisco Prime Service Catalog 11.0,"['CVE-2018-0107', 'CVE-2019-1874', 'CVE-2019-1875', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z
+3,cpe:2.3:a:cisco:prime_service_catalog:11.0_base:*:*:*:*:*:*:*,Cisco Prime Service Catalog 11.0 BASE,"['CVE-2015-6350', 'CVE-2015-6395', 'CVE-2016-1462', 'CVE-2018-0107', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z
+4,cpe:2.3:a:cisco:prime_service_catalog:11.1:*:*:*:*:*:*:*,Cisco Prime Service Catalog 11.1,"['CVE-2018-0107', 'CVE-2019-1874', 'CVE-2019-1875', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z
+5,cpe:2.3:a:cisco:prime_service_catalog:11.1.1:*:*:*:*:*:*:*,Cisco Prime Service Catalog 11.1.1,"['CVE-2017-12364', 'CVE-2018-0107', 'CVE-2019-1875', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z
+6,cpe:2.3:a:cisco:prime_service_catalog:11.1.2:*:*:*:*:*:*:*,Cisco Prime Service Catalog 11.1.2,"['CVE-2017-3866', 'CVE-2018-0107', 'CVE-2018-0285', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z
+7,cpe:2.3:a:cisco:prime_service_catalog:11.1_base:*:*:*:*:*:*:*,Cisco Prime Service Catalog 11.1 Base,"['CVE-2017-3866', 'CVE-2018-0107', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z
+8,cpe:2.3:a:cisco:prime_service_catalog:12.0:*:*:*:*:*:*:*,Cisco Prime Service Catalog 12.0,"['CVE-2017-12364', 'CVE-2018-0107', 'CVE-2019-1874', 'CVE-2019-1875', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z
+9,cpe:2.3:a:cisco:prime_service_catalog:12.1:-:*:*:*:*:*:*,Cisco Prime Service Catalog 12.1,"['CVE-2017-12364', 'CVE-2018-0107', 'CVE-2018-15451', 'CVE-2019-1874', 'CVE-2019-1875', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z

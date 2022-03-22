@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:civitasmedia:mt._airy_news:1.0069.b0069:*:*:*:*:android:*:*,civitasmedia Mt. Airy News (aka com.soln.SBE4A803AD6430A6E9DBA5688AA644148) for android 1.0069.b0069,['CVE-2014-6950'],2022-03-20T01:49Z
+1,cpe:2.3:a:civitasmedia:press-leader:1.0011.b0011:*:*:*:*:android:*:*,civitasmedia Press-Leader (aka com.soln.S95309F65AD59F99CFC2C710A517B0B7E) for android 1.0011.b0011,['CVE-2014-7459'],2022-03-20T01:49Z
+2,cpe:2.3:a:cjson_project:cjson:0.0.0:*:*:*:*:*:*:*,Cjson Project Cjson 0.0.0,"['CVE-2018-1000215', 'CVE-2018-1000216', 'CVE-2018-1000217', 'CVE-2019-11834', 'CVE-2019-11835']",2022-03-20T01:49Z
+3,cpe:2.3:a:cjson_project:cjson:1.0.0:*:*:*:*:*:*:*,cJSON Project cJSON 1.0.0,"['CVE-2018-1000215', 'CVE-2018-1000216', 'CVE-2018-1000217', 'CVE-2019-11834', 'CVE-2019-11835']",2022-03-20T01:49Z
+4,cpe:2.3:a:cjson_project:cjson:1.0.1:*:*:*:*:*:*:*,cJSON Project cJSON 1.0.1,"['CVE-2018-1000215', 'CVE-2018-1000216', 'CVE-2018-1000217', 'CVE-2019-11834', 'CVE-2019-11835']",2022-03-20T01:49Z
+5,cpe:2.3:a:cjson_project:cjson:1.0.2:*:*:*:*:*:*:*,cJSON Project cJSON 1.0.2,"['CVE-2018-1000215', 'CVE-2018-1000216', 'CVE-2018-1000217', 'CVE-2019-11834', 'CVE-2019-11835']",2022-03-20T01:49Z
+6,cpe:2.3:a:cjson_project:cjson:1.1.0:*:*:*:*:*:*:*,cJSON Project cJSON 1.1.0,"['CVE-2018-1000215', 'CVE-2018-1000216', 'CVE-2018-1000217', 'CVE-2019-11834', 'CVE-2019-11835']",2022-03-20T01:49Z
+7,cpe:2.3:a:cjson_project:cjson:1.2.0:*:*:*:*:*:*:*,cJSON Project cJSON 1.2.0,"['CVE-2018-1000215', 'CVE-2018-1000216', 'CVE-2018-1000217', 'CVE-2019-11834', 'CVE-2019-11835']",2022-03-20T01:49Z
+8,cpe:2.3:a:cjson_project:cjson:1.2.1:*:*:*:*:*:*:*,cJSON Project cJSON 1.2.1,"['CVE-2018-1000215', 'CVE-2018-1000216', 'CVE-2018-1000217', 'CVE-2019-11834', 'CVE-2019-11835']",2022-03-20T01:49Z
+9,cpe:2.3:a:cjson_project:cjson:1.3.0:*:*:*:*:*:*:*,cJSON Project cJSON 1.3.0,"['CVE-2018-1000215', 'CVE-2018-1000216', 'CVE-2018-1000217', 'CVE-2019-11834', 'CVE-2019-11835']",2022-03-20T01:49Z

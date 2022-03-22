@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codemenschen:gift_vouchers:3.2.7:*:*:*:*:wordpress:*:*,Codemenschen Gift Vouchers 3.2.7 for WordPress,[''],2022-03-20T05:33Z
+1,cpe:2.3:a:codemenschen:gift_vouchers:3.2.8:*:*:*:*:wordpress:*:*,Codemenschen Gift Vouchers 3.2.8 for WordPress,[''],2022-03-20T05:33Z
+2,cpe:2.3:a:codemenschen:gift_vouchers:3.2.9:*:*:*:*:wordpress:*:*,Codemenschen Gift Vouchers 3.2.9 for WordPress,[''],2022-03-20T05:33Z
+3,cpe:2.3:a:codemenschen:gift_vouchers:3.3.0:*:*:*:*:wordpress:*:*,Codemenschen Gift Vouchers 3.3.0 for WordPress,[''],2022-03-20T05:33Z
+4,cpe:2.3:a:codemiq:wordpress_email_template_designer:0.3:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 0.3 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:33Z
+5,cpe:2.3:a:codemiq:wordpress_email_template_designer:1.0:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 1.0 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:33Z
+6,cpe:2.3:a:codemiq:wordpress_email_template_designer:1.1:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 1.1 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:33Z
+7,cpe:2.3:a:codemiq:wordpress_email_template_designer:1.2:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 1.2 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:33Z
+8,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.0:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.0 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:33Z
+9,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.0.1:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.0.1 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:33Z

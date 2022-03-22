@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:horde:horde_service_weather:2.5.1:*:*:*:*:*:*:*,Horde Service Weather 2.5.1,[''],2022-03-21T12:24Z
+1,cpe:2.3:a:horde:horde_service_weather:2.5.2:*:*:*:*:*:*:*,Horde Service Weather 2.5.2,[''],2022-03-21T12:24Z
+2,cpe:2.3:a:horde:horde_service_weather:2.5.3:*:*:*:*:*:*:*,Horde Service Weather 2.5.3,[''],2022-03-21T12:24Z
+3,cpe:2.3:a:horde:horde_service_weather:2.5.4:*:*:*:*:*:*:*,Horde Service Weather 2.5.4,[''],2022-03-21T12:24Z
+4,cpe:2.3:a:horde:horde_sessionhandler:1.0.0:-:*:*:*:*:*:*,Horde SessionHandler 1.0.0,[''],2022-03-21T12:24Z
+5,cpe:2.3:a:horde:horde_sessionhandler:1.0.0:alpha1:*:*:*:*:*:*,Horde SessionHandler 1.0.0 Alpha 1,[''],2022-03-21T12:24Z
+6,cpe:2.3:a:horde:horde_sessionhandler:1.0.0:beta1:*:*:*:*:*:*,Horde SessionHandler 1.0.0 Beta 1,[''],2022-03-21T12:24Z
+7,cpe:2.3:a:horde:horde_sessionhandler:1.0.0:rc1:*:*:*:*:*:*,Horde SessionHandler 1.0.0 Release Candidate 1,[''],2022-03-21T12:24Z
+8,cpe:2.3:a:horde:horde_sessionhandler:1.0.0:rc2:*:*:*:*:*:*,Horde SessionHandler 1.0.0 Release Candidate 2,[''],2022-03-21T12:24Z
+9,cpe:2.3:a:horde:horde_sessionhandler:1.0.1:*:*:*:*:*:*:*,Horde SessionHandler 1.0.1,[''],2022-03-21T12:24Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:3com_switch:4510g:*:*:*:*:*:*:*,HP 3Com Switch 4510G,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+1,cpe:2.3:h:hp:3com_switch:4510g_pwr:*:*:*:*:*:*:*,HP 3Com Switch 4510G PWR,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+2,cpe:2.3:h:hp:3com_switch:4800g:*:*:*:*:*:*:*,HP 3Com Switch 4800G,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+3,cpe:2.3:h:hp:3com_switch:5500g-ei_sfp:*:*:*:*:*:*:*,HP 3Com Switch Model 5500G-EI SFP,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+4,cpe:2.3:h:hp:3com_switch:e4210-24g-poe:*:*:*:*:*:*:*,HP 3Com Switch E4210-24G-PoE,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+5,cpe:2.3:h:hp:3com_switch:e4510-24g:*:*:*:*:*:*:*,HP 3Com Switch E4510-24G,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+6,cpe:2.3:h:hp:3com_switch:ss4_5500-ei:*:*:*:*:*:*:*,HP 3Com Switch SS4 Switch 5500-EI,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+7,cpe:2.3:h:hp:3com_switch:ss4_5500-ei-pwr:*:*:*:*:*:*:*,HP 3Com Switch SS4 Switch 5500-EI-PWR,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+8,cpe:2.3:h:hp:3com_switch:ss4_5500-si:*:*:*:*:*:*:*,HP 3Com Switch SS4 Switch 5500-SI,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+9,cpe:2.3:h:hp:3com_switch:ss4_5500g-ei:*:*:*:*:*:*:*,HP 3Com Switch Model SS4 5500G-EI,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z

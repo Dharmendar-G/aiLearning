@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bmc:software_control-m_agent:6.1.03:*:*:*:*:*:*:*,BMC Software Software Control-M Agent 6.1.03,['CVE-2005-3311'],2022-03-19T09:11Z
+1,cpe:2.3:a:bmc:track-it\!:11.4:*:*:*:*:*:*:*,BMC Track-It! 11.4,"['CVE-2016-6598', 'CVE-2016-6599']",2022-03-19T09:11Z
+2,cpe:2.3:a:bmc:track-it\!:11.4:hf1:*:*:*:*:*:*,BMC Track-It! 11.4 Hot Fix 1,"['CVE-2016-6598', 'CVE-2016-6599']",2022-03-19T09:11Z
+3,cpe:2.3:a:bmc:track-it\!:11.4:hf2:*:*:*:*:*:*,BMC Track-It! 11.4 Hot Fix 2,"['CVE-2016-6598', 'CVE-2016-6599']",2022-03-19T09:11Z
+4,cpe:2.3:a:bmc:track-it\!:20.21.01.102:*:*:*:*:*:*:*,BMC Track-it! 20.21.01.102,['CVE-2022-24047'],2022-03-19T09:11Z
+5,cpe:2.3:a:bmcsoftware:control-m\/agent:7.0.00.000:*:*:*:*:*:*:*,Bmcsoftware Control-m/agent 7.0.00.000,"['CVE-2019-19215', 'CVE-2019-19216', 'CVE-2019-19217', 'CVE-2019-19218', 'CVE-2019-19219', 'CVE-2019-19220']",2022-03-19T09:11Z
+6,cpe:2.3:a:bmobile:imagine_next_bmobile:1.7.10.243:*:*:*:*:android:*:*,bmobile imagine Next bmobile (aka com.conduit.app_51c3c19581af465092327dd25591b224.app) for android 1.7.10.243,['CVE-2014-6735'],2022-03-19T09:11Z
+7,cpe:2.3:a:bmoor_project:bmoor:0.0.2:*:*:*:*:*:*:*,Bmoor Project Bmoor 0.0.2,['CVE-2020-7736'],2022-03-19T09:11Z
+8,cpe:2.3:a:bmoor_project:bmoor:0.0.3:*:*:*:*:*:*:*,Bmoor Project Bmoor 0.0.3,['CVE-2020-7736'],2022-03-19T09:11Z
+9,cpe:2.3:a:bmoor_project:bmoor:0.0.4:*:*:*:*:*:*:*,Bmoor Project Bmoor 0.0.4,['CVE-2020-7736'],2022-03-19T09:11Z

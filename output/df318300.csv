@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hosteng:h0-ecom100:6:*:*:*:*:*:*:*,Host Engineering H0-ECOM100 6,['CVE-2020-25195'],2022-03-21T12:40Z
+1,cpe:2.3:h:hosteng:h0-ecom100:7:*:*:*:*:*:*:*,Host Engineering H0-ECOM100 7,['CVE-2020-25195'],2022-03-21T12:40Z
+2,cpe:2.3:h:hosteng:h0-ecom100:9:*:*:*:*:*:*:*,Host Engineering H0-ECOM100 9,['CVE-2020-25195'],2022-03-21T12:40Z
+3,cpe:2.3:o:hosteng:h0-ecom100_firmware:-:*:*:*:*:*:*:*,Host Engineering H0-ECOM100 Firmware,['CVE-2020-25195'],2022-03-21T12:40Z
+4,cpe:2.3:o:hosteng:h0-ecom100_firmware:4.0.348:*:*:*:*:*:*:*,Host Engineering H0-ECOM100 Firmware 4.0.348,['CVE-2020-25195'],2022-03-21T12:40Z
+5,cpe:2.3:o:hosteng:h0-ecom100_firmware:4.1.113:*:*:*:*:*:*:*,Host Engineering H0-ECOM100 Firmware 4.1.113,['CVE-2020-25195'],2022-03-21T12:40Z
+6,cpe:2.3:o:hosteng:h0-ecom100_firmware:5.0.149:*:*:*:*:*:*:*,Host Engineering H0-ECOM100 Firmware 5.0.149,['CVE-2020-25195'],2022-03-21T12:40Z
+7,cpe:2.3:h:hosteng:h2-ecom100:5:*:*:*:*:*:*:*,Host Engineering H2-ECOM100 5,['CVE-2020-25195'],2022-03-21T12:40Z
+8,cpe:2.3:h:hosteng:h2-ecom100:8:*:*:*:*:*:*:*,Host Engineering H2-ECOM100 8,['CVE-2020-25195'],2022-03-21T12:40Z
+9,cpe:2.3:o:hosteng:h2-ecom100_firmware:-:*:*:*:*:*:*:*,Host Engineering H2-ECOM100 Firmware,['CVE-2020-25195'],2022-03-21T12:40Z

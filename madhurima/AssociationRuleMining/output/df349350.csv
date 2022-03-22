@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.2.0.9:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.2.0.9,"['CVE-2013-0578', 'CVE-2014-4807']",2022-03-21T22:21Z
+1,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.2.0.10:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.2.0.10,"['CVE-2013-0578', 'CVE-2014-4807']",2022-03-21T22:21Z
+2,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.2.0.11:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.2.0.11,"['CVE-2013-0578', 'CVE-2014-4807']",2022-03-21T22:21Z
+3,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.2.0.12:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.2.0.12,"['CVE-2013-0578', 'CVE-2014-4807']",2022-03-21T22:21Z
+4,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.2.0.13:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.2.0.13,"['CVE-2013-0578', 'CVE-2014-4807']",2022-03-21T22:21Z
+5,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.2.0.14:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.2.0.14,"['CVE-2013-0578', 'CVE-2014-4807']",2022-03-21T22:21Z
+6,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.2.0.15:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.2.0.15,"['CVE-2013-0578', 'CVE-2014-4807']",2022-03-21T22:21Z
+7,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.2.0.16:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.2.0.16,"['CVE-2013-0578', 'CVE-2014-4807']",2022-03-21T22:21Z
+8,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.2.0.17:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.2.0.17,['CVE-2014-4807'],2022-03-21T22:21Z
+9,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.2.1:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.2.1,"['CVE-2014-4807', 'CVE-2016-5953', 'CVE-2016-8917', 'CVE-2016-9991']",2022-03-21T22:21Z

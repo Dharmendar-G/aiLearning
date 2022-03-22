@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:business_availability_center:9.01:*:*:*:*:*:*:*,HP Business Availability Center (BAC) 9.01,['CVE-2012-0132'],2022-03-21T12:57Z
+1,cpe:2.3:a:hp:business_process_monitor:8.4.316:*:*:*:*:*:*:*,HP Business Process Monitor 8.4.316,[''],2022-03-21T12:57Z
+2,cpe:2.3:a:hp:business_process_monitor:9.3:patch_1:*:*:*:*:*:*,HP Business Process Monitor Patch 1 9.3,[''],2022-03-21T12:57Z
+3,cpe:2.3:a:hp:business_process_monitor:9.3.170:*:*:*:*:*:*:*,HP Business Process Monitor 9.3.170,[''],2022-03-21T12:57Z
+4,cpe:2.3:a:hp:business_process_monitor:09.20:*:*:*:*:*:*:*,HP Business Process Monitor 09.20,['CVE-2017-5801'],2022-03-21T12:57Z
+5,cpe:2.3:a:hp:business_process_monitor:09.21:*:*:*:*:*:*:*,HP Business Process Monitor 09.21,['CVE-2017-5801'],2022-03-21T12:57Z
+6,cpe:2.3:a:hp:business_process_monitor:09.22:*:*:*:*:*:*:*,HP Business Process Monitor 09.22,['CVE-2017-5801'],2022-03-21T12:57Z
+7,cpe:2.3:a:hp:business_process_monitor:09.23:*:*:*:*:*:*:*,HP Business Process Monitor 09.23,['CVE-2017-5801'],2022-03-21T12:57Z
+8,cpe:2.3:a:hp:business_process_monitor:09.24:*:*:*:*:*:*:*,HP Business Process Monitor 09.24,['CVE-2017-5801'],2022-03-21T12:57Z
+9,cpe:2.3:a:hp:business_process_monitor:09.25:*:*:*:*:*:*:*,HP Business Process Monitor 09.25,['CVE-2017-5801'],2022-03-21T12:58Z

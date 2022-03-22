@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:prodesk_600_g6_microtower_pc:-:*:*:*:*:*:*:*,HP ProDesk 600 G6 Microtower PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:55Z
+1,cpe:2.3:h:hp:prodesk_600_g6_small_form_factor_pc:-:*:*:*:*:*:*:*,HP ProDesk 600 G6 Small Form Factor PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:55Z
+2,cpe:2.3:h:hp:prodesk_680_g4_microtower_pc:-:*:*:*:*:*:*:*,HP ProDesk 680 G4 Microtower PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:55Z
+3,cpe:2.3:h:hp:prodesk_680_g4_microtower_pc\(with_pci_slot\):-:*:*:*:*:*:*:*,HP ProDesk 680 G4 Microtower PC (with PCI Slot),"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:55Z
+4,cpe:2.3:h:hp:prodesk_680_g6_pci_microtower_pc:-:*:*:*:*:*:*:*,HP ProDesk 680 G6 PCI Microtower PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:55Z
+5,cpe:2.3:a:hp:product_assistant:2.0.0.0:*:*:*:*:*:*:*,HP Product Assistant 2.0.0.0,[''],2022-03-21T15:55Z
+6,cpe:2.3:a:hp:product_assistant:53.0.13.0:*:*:*:*:*:*:*,HP Product Assistant 53.0.13.0,[''],2022-03-21T15:55Z
+7,cpe:2.3:a:hp:product_assistant:53.0.24.0:*:*:*:*:*:*:*,HP Product Assistant 53.0.24.0,[''],2022-03-21T15:55Z
+8,cpe:2.3:a:hp:product_assistant:60.0.155.0:*:*:*:*:*:*:*,HP Product Assistant 60.0.155.0,[''],2022-03-21T15:55Z
+9,cpe:2.3:a:hp:product_assistant:70.0.170.0:*:*:*:*:*:*:*,HP Product Assistant 70.0.170.0,[''],2022-03-21T15:55Z

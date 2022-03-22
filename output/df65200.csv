@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avira:avira_antivirus_for_small_business:8.3.54.138:*:*:*:*:*:*:*,Avira Antivirus For Small Business 8.3.54.138,[''],2022-03-19T04:29Z
+1,cpe:2.3:a:avira:avira_exchange_security:8.3.54.138:*:*:*:*:*:*:*,Avira Exchange Security 8.3.54.138,[''],2022-03-19T04:29Z
+2,cpe:2.3:a:avira:avira_free_security_suite:8.3.54.138:*:*:*:*:windows:*:*,Avira Free Security Suite 8.3.54.138 for Windows,[''],2022-03-19T04:29Z
+3,cpe:2.3:a:avira:avira_internet_security_suite:8.3.54.138:*:*:*:*:windows:*:*,Avira Internet Security Suite 8.3.54.138 for Windows,[''],2022-03-19T04:29Z
+4,cpe:2.3:a:avira:avira_mobile_security:1.5.7:*:*:*:*:iphone_os:*:*,Avira Mobile Security 1.5.7 for iPhone OS,['CVE-2015-7732'],2022-03-19T04:29Z
+5,cpe:2.3:a:avira:avira_mobile_security:4.1.3:*:*:*:*:iphone_os:*:*,Avira Mobile Security 4.1.3 iPhone OS,[''],2022-03-19T04:29Z
+6,cpe:2.3:a:avira:avira_mobile_security:4.1.4:*:*:*:*:iphone_os:*:*,Avira Mobile Security 4.1.4 iPhone OS,[''],2022-03-19T04:29Z
+7,cpe:2.3:a:avira:avira_mobile_security:4.1.5:*:*:*:*:iphone_os:*:*,Avira Mobile Security 4.1.5 iPhone OS,[''],2022-03-19T04:29Z
+8,cpe:2.3:a:avira:avira_mobile_security:4.1.6:*:*:*:*:iphone_os:*:*,Avira Mobile Security 4.1.6 iPhone OS,[''],2022-03-19T04:29Z
+9,cpe:2.3:a:avira:avira_mobile_security:4.2.0:*:*:*:*:iphone_os:*:*,Avira Mobile Security 4.2.0 iPhone OS,[''],2022-03-19T04:29Z

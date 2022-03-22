@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:chuango:awv_plus:-:*:*:*:*:*:*:*,Chuango AWV Plus,['CVE-2019-11561'],2022-03-19T17:30Z
+1,cpe:2.3:o:chuango:awv_plus_firmware:-:*:*:*:*:*:*:*,Chuango AWV Plus Firmware,['CVE-2019-11561'],2022-03-19T17:29Z
+2,cpe:2.3:h:chuango:awv_plus_wifi_alarm_system:-:*:*:*:*:*:*:*,Chuango AWV Plus WiFi Alarm System,['CVE-2019-9659'],2022-03-19T17:30Z
+3,cpe:2.3:o:chuango:awv_plus_wifi_alarm_system_firmware:-:*:*:*:*:*:*:*,Chuango AWV Plus WiFi Alarm System Firmware,['CVE-2019-9659'],2022-03-19T17:30Z
+4,cpe:2.3:h:chuango:b11:-:*:*:*:*:*:*:*,Chuango B11,['CVE-2019-11561'],2022-03-19T17:30Z
+5,cpe:2.3:h:chuango:b11_dual-network_alarm_system:-:*:*:*:*:*:*:*,Chuango B11 Dual-Network Alarm System,['CVE-2019-9659'],2022-03-19T17:30Z
+6,cpe:2.3:o:chuango:b11_dual-network_alarm_system_firmware:-:*:*:*:*:*:*:*,Chuango B11 Dual-Network Alarm System Firmware,['CVE-2019-9659'],2022-03-19T17:30Z
+7,cpe:2.3:o:chuango:b11_firmware:-:*:*:*:*:*:*:*,Chuango B11 Firmware,['CVE-2019-11561'],2022-03-19T17:30Z
+8,cpe:2.3:h:chuango:cg-105s:-:*:*:*:*:*:*:*,Chuango CG-105S,['CVE-2019-11561'],2022-03-19T17:30Z
+9,cpe:2.3:o:chuango:cg-105s_firmware:-:*:*:*:*:*:*:*,Chuango CG-105S Firmware,['CVE-2019-11561'],2022-03-19T17:30Z

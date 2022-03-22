@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.038_01:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.038 01,"['CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+1,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.039:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.039,"['CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+2,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.040:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.040,"['CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+3,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.041:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.041,"['CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+4,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.041_01:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.041 01,"['CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+5,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.041_2:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.041 2,"['CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+6,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.042:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.042,"['CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+7,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.043:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.043,"['CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+8,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.044:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.044,[''],2022-03-20T11:10Z
+9,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.045:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.045,[''],2022-03-20T11:10Z

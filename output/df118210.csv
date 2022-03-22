@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:duo_network_gateway:1.5.7:*:*:*:*:*:*:*,Cisco Duo Network Gateway 1.5.7,['CVE-2020-3483'],2022-03-19T19:21Z
+1,cpe:2.3:o:cisco:dx_series_ip_phones_firmware:9.3\(2\):*:*:*:*:*:*:*,Cisco Dx Series Ip Phones Firmware 9.3(2),['CVE-2015-6360'],2022-03-19T19:22Z
+2,cpe:2.3:a:cisco:eap-fast_module:2.2.14:*:*:*:*:*:*:*,Cisco EAP-Fast Module 2.2.14,[''],2022-03-19T19:22Z
+3,cpe:2.3:h:cisco:edge_340:-:*:*:*:*:*:*:*,Cisco Edge 340,['CVE-2015-0767'],2022-03-19T19:22Z
+4,cpe:2.3:o:cisco:edge_340_firmware:1.0.0:*:*:*:*:*:*:*,Cisco Edge 340 Firmware 1.0.0,['CVE-2015-0767'],2022-03-19T19:22Z
+5,cpe:2.3:o:cisco:edge_340_firmware:1.1.0:*:*:*:*:*:*:*,Cisco Edge 340 Firmware 1.1.0,['CVE-2015-0767'],2022-03-19T19:22Z
+6,cpe:2.3:o:cisco:edge_bluebird_operating_system:1.2:*:*:*:*:*:*:*,Cisco Edge Bluebird Operating System 1.2,['CVE-2015-4308'],2022-03-19T19:22Z
+7,cpe:2.3:a:cisco:edge_fog_fabric:1.7.4:*:*:*:*:*:*:*,Cisco Edge Fog Fabric 1.7.4,[''],2022-03-19T19:22Z
+8,cpe:2.3:a:cisco:elastic_services_controller:1.0:*:*:*:*:*:*:*,Cisco Elastic Services Controller 1.0,"['CVE-2018-0106', 'CVE-2021-1312']",2022-03-19T19:22Z
+9,cpe:2.3:a:cisco:elastic_services_controller:1.0.0:*:*:*:*:*:*:*,Cisco Elastic Services Controller 1.0.0,"['CVE-2017-6712', 'CVE-2017-6713', 'CVE-2018-0106', 'CVE-2021-1312']",2022-03-19T19:22Z

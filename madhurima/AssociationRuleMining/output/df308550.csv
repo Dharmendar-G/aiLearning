@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hazelcast:hazelcast:3.3.5:*:*:*:*:*:*:*,Hazelcast 3.3.5,['CVE-2016-10750'],2022-03-21T10:19Z
+1,cpe:2.3:a:hazelcast:hazelcast:3.3.5:*:*:*:enterprise:*:*:*,Hazelcast 3.3.5 Enterprise Edition,['CVE-2016-10750'],2022-03-21T10:19Z
+2,cpe:2.3:a:hazelcast:hazelcast:3.3.6:*:*:*:*:*:*:*,Hazelcast 3.3.6,['CVE-2016-10750'],2022-03-21T10:19Z
+3,cpe:2.3:a:hazelcast:hazelcast:3.4:*:*:*:*:*:*:*,Hazelcast 3.4,['CVE-2016-10750'],2022-03-21T10:19Z
+4,cpe:2.3:a:hazelcast:hazelcast:3.4:*:*:*:enterprise:*:*:*,Hazelcast 3.4 Enterprise Edition,['CVE-2016-10750'],2022-03-21T10:19Z
+5,cpe:2.3:a:hazelcast:hazelcast:3.4.1:*:*:*:*:*:*:*,Hazelcast 3.4.1,['CVE-2016-10750'],2022-03-21T10:19Z
+6,cpe:2.3:a:hazelcast:hazelcast:3.4.1:*:*:*:enterprise:*:*:*,Hazelcast 3.4.1 Enterprise Edition,['CVE-2016-10750'],2022-03-21T10:19Z
+7,cpe:2.3:a:hazelcast:hazelcast:3.4.2:*:*:*:*:*:*:*,Hazelcast 3.4.2,['CVE-2016-10750'],2022-03-21T10:19Z
+8,cpe:2.3:a:hazelcast:hazelcast:3.4.2:*:*:*:enterprise:*:*:*,Hazelcast 3.4.2 Enterprise Edition,['CVE-2016-10750'],2022-03-21T10:19Z
+9,cpe:2.3:a:hazelcast:hazelcast:3.4.3:*:*:*:*:*:*:*,Hazelcast 3.4.3,['CVE-2016-10750'],2022-03-21T10:19Z

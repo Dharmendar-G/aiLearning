@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:anaconda:dask:2021.01.0:*:*:*:*:python:*:*,Anaconda Inc Dask 2021.01.0 for Python,['CVE-2021-42343'],2022-03-18T16:20Z
+1,cpe:2.3:a:anaconda:dask:2021.01.1:*:*:*:*:python:*:*,Anaconda Inc Dask 2021.01.1 for Python,['CVE-2021-42343'],2022-03-18T16:20Z
+2,cpe:2.3:a:anaconda:dask:2021.02.0:*:*:*:*:python:*:*,Anaconda Inc Dask 2021.02.0 for Python,['CVE-2021-42343'],2022-03-18T16:20Z
+3,cpe:2.3:a:anaconda:dask:2021.03.0:*:*:*:*:python:*:*,Anaconda Inc Dask 2021.03.0 for Python,['CVE-2021-42343'],2022-03-18T16:20Z
+4,cpe:2.3:a:anaconda:dask:2021.03.1:*:*:*:*:python:*:*,Anaconda Inc Dask 2021.03.1 for Python,['CVE-2021-42343'],2022-03-18T16:20Z
+5,cpe:2.3:a:anaconda:dask:2021.04.0:*:*:*:*:python:*:*,Anaconda Inc Dask 2021.04.0 for Python,['CVE-2021-42343'],2022-03-18T16:20Z
+6,cpe:2.3:a:anaconda:dask:2021.04.1:*:*:*:*:python:*:*,Anaconda Inc Dask 2021.04.1 for Python,['CVE-2021-42343'],2022-03-18T16:20Z
+7,cpe:2.3:a:anaconda:dask:2021.05.0:*:*:*:*:python:*:*,Anaconda Inc Dask 2021.05.0 for Python,['CVE-2021-42343'],2022-03-18T16:20Z
+8,cpe:2.3:a:anaconda:dask:2021.05.1:*:*:*:*:python:*:*,Anaconda Inc Dask 2021.05.1 for Python,['CVE-2021-42343'],2022-03-18T16:20Z
+9,cpe:2.3:a:anaconda:dask:2021.06.0:*:*:*:*:python:*:*,Anaconda Inc Dask 2021.06.0 for Python,['CVE-2021-42343'],2022-03-18T16:20Z

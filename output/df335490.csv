@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:osd:-:*:*:*:*:*:*:*,Huawei OSD,['CVE-2020-9072'],2022-03-21T18:18Z
+1,cpe:2.3:o:huawei:osd_firmware:osd_uwp_9.0.32.0:*:*:*:*:*:*:*,Huawei OSD Firmware OSD_uwp_9.0.32.0,[''],2022-03-21T18:18Z
+2,cpe:2.3:h:huawei:oxfordp-an10b:-:*:*:*:*:*:*:*,Huawei OxfordP-AN10B,['CVE-2020-9066'],2022-03-21T18:18Z
+3,cpe:2.3:o:huawei:oxfordp-an10b_firmware:10.0.1.169\(c00e166r4p1\):*:*:*:*:*:*:*,Huawei OxfordP-AN10B Firmware 10.0.1.169(C00E166R4P1),[''],2022-03-21T18:18Z
+4,cpe:2.3:h:huawei:oxfordpl-an10b:-:*:*:*:*:*:*:*,Huawei OxfordPL-AN10B,['CVE-2021-22398'],2022-03-21T18:18Z
+5,cpe:2.3:o:huawei:oxfordpl-an10b_firmware:10.1.0.116\(c00e110r2p1\):*:*:*:*:*:*:*,Huawei OxfordPL-AN10B Firmware 10.1.0.116(C00E110R2P1),['CVE-2021-22398'],2022-03-21T18:18Z
+6,cpe:2.3:h:huawei:oxfords-an00a:-:*:*:*:*:*:*:*,Huawei OxfordS-AN00A,"['CVE-2020-1878', 'CVE-2020-9235', 'CVE-2021-22400', 'CVE-2021-22440']",2022-03-21T18:18Z
+7,cpe:2.3:o:huawei:oxfords-an00a_firmware:10.0.1.10\(c00e10r1p1\):*:*:*:*:*:*:*,Huawei OxfordS-AN00A Firmware 10.0.1.10(C00E10R1P1),"['CVE-2020-1878', 'CVE-2020-9235', 'CVE-2021-22400']",2022-03-21T18:18Z
+8,cpe:2.3:o:huawei:oxfords-an00a_firmware:10.0.1.105\(c00e103r3p3\):*:*:*:*:*:*:*,Huawei OxfordS-AN00A Firmware 10.0.1.105(C00E103R3P3),"['CVE-2020-1878', 'CVE-2020-9235', 'CVE-2021-22400']",2022-03-21T18:18Z
+9,cpe:2.3:o:huawei:oxfords-an00a_firmware:10.0.1.115\(c00e110r3p3\):*:*:*:*:*:*:*,Huawei OxfordS-AN00A Firmware 10.0.1.115(C00E110R3P3),"['CVE-2020-1878', 'CVE-2020-9235', 'CVE-2021-22400']",2022-03-21T18:18Z

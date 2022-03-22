@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apport_project:apport:2.20:*:*:*:*:*:*:*,Apport Project Apport 2.20,"['CVE-2016-9949', 'CVE-2016-9950', 'CVE-2016-9951', 'CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14180']",2022-03-18T22:35Z
+1,cpe:2.3:a:apport_project:apport:2.20.1:*:*:*:*:*:*:*,Apport Project Apport 2.20.1,"['CVE-2016-9949', 'CVE-2016-9950', 'CVE-2016-9951', 'CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14180', 'CVE-2018-6552', 'CVE-2019-7307']",2022-03-18T22:35Z
+2,cpe:2.3:a:apport_project:apport:2.20.2:*:*:*:*:*:*:*,Apport Project Apport 2.20.2,"['CVE-2016-9949', 'CVE-2016-9950', 'CVE-2016-9951', 'CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14180']",2022-03-18T22:35Z
+3,cpe:2.3:a:apport_project:apport:2.20.3:*:*:*:*:*:*:*,Apport project Apport 2.20.3,"['CVE-2016-9949', 'CVE-2016-9950', 'CVE-2016-9951', 'CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14180']",2022-03-18T22:35Z
+4,cpe:2.3:a:apport_project:apport:2.20.4:*:*:*:*:*:*:*,Apport Project Apport 2.20.4,"['CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14180']",2022-03-18T22:35Z
+5,cpe:2.3:a:apport_project:apport:2.20.6:*:*:*:*:*:*:*,Apport Project Apport 2.20.6,"['CVE-2017-10708', 'CVE-2017-14177', 'CVE-2017-14180']",2022-03-18T22:35Z
+6,cpe:2.3:a:apport_project:apport:2.20.7:*:*:*:*:*:*:*,Apport Project Apport 2.20.7,"['CVE-2017-14177', 'CVE-2017-14180', 'CVE-2018-6552']",2022-03-18T22:35Z
+7,cpe:2.3:a:apport_project:apport:2.20.9:*:*:*:*:*:*:*,Apport Project Apport 2.20.9,"['CVE-2018-6552', 'CVE-2019-7307']",2022-03-18T22:35Z
+8,cpe:2.3:a:apport_project:apport:2.20.10:*:*:*:*:*:*:*,Apport Project Apport 2.20.10,['CVE-2019-7307'],2022-03-18T22:35Z
+9,cpe:2.3:a:apppasta:aerospace_jobs:1.399:*:*:*:*:android:*:*,apppasta Aerospace Jobs (aka com.app_aerospacejobs.layout) for android 1.399,['CVE-2014-6770'],2022-03-18T22:35Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:7100_router:-:*:*:*:*:*:*:*,Cisco Cisco 7100 Router,['CVE-2000-0268'],2022-03-19T17:47Z
+1,cpe:2.3:h:cisco:7200_router:-:*:*:*:*:*:*:*,Cisco 7200,"['CVE-2000-0268', 'CVE-2004-1111', 'CVE-2010-0578']",2022-03-19T17:48Z
+2,cpe:2.3:h:cisco:7300_router:-:*:*:*:*:*:*:*,Cisco 7300,['CVE-2004-1111'],2022-03-19T17:47Z
+3,cpe:2.3:h:cisco:7500_router:-:*:*:*:*:*:*:*,Cisco 7500,"['CVE-2000-0268', 'CVE-2004-1111']",2022-03-19T17:48Z
+4,cpe:2.3:h:cisco:7500_wireless_lan_controller:-:*:*:*:*:*:*:*,Cisco 7500 Series Wireless LAN Controller,"['CVE-2012-5991', 'CVE-2012-5992', 'CVE-2012-6007', 'CVE-2013-1102', 'CVE-2013-1103', 'CVE-2013-1104', 'CVE-2013-1105', 'CVE-2013-1235', 'CVE-2017-3854']",2022-03-19T17:48Z
+5,cpe:2.3:h:cisco:7510_wireless_lan_controller:-:*:*:*:*:*:*:*,Cisco 7510 Wireless LAN Controller,['CVE-2017-3854'],2022-03-19T17:48Z
+6,cpe:2.3:h:cisco:7600_router:-:*:*:*:*:*:*:*,Cisco 7600,"['CVE-2004-1111', 'CVE-2007-5584', 'CVE-2008-0537', 'CVE-2012-4661', 'CVE-2012-4662', 'CVE-2012-4663', 'CVE-2013-6693', 'CVE-2021-1622']",2022-03-19T17:48Z
+7,cpe:2.3:h:cisco:7600_series_route_switch_processor_720:-:*:*:*:*:*:*:*,Cisco 7600 Series Route Switch Processor 720,['CVE-2018-0174'],2022-03-19T17:48Z
+8,cpe:2.3:h:cisco:7600_series_supervisor_engine_32:-:*:*:*:*:*:*:*,Cisco 7600 Series Supervisor Engine 32,['CVE-2018-0174'],2022-03-19T17:48Z
+9,cpe:2.3:h:cisco:7600_series_supervisor_engine_720:-:*:*:*:*:*:*:*,Cisco 7600 Series Supervisor Engine 720,['CVE-2018-0174'],2022-03-19T17:48Z

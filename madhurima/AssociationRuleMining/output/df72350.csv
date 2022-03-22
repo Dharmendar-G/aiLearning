@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:beanstalk_console_project:beanstalk_console:1.7.7:*:*:*:*:*:*:*,Beanstalk Console Project Beanstalk Console 1.7.7,"['CVE-2022-0501', 'CVE-2022-0539']",2022-03-19T06:49Z
+1,cpe:2.3:a:beanstalk_console_project:beanstalk_console:1.7.8:*:*:*:*:*:*:*,Beanstalk Console Project Beanstalk Console 1.7.8,"['CVE-2022-0501', 'CVE-2022-0539']",2022-03-19T06:49Z
+2,cpe:2.3:a:beanstalk_console_project:beanstalk_console:1.7.9:*:*:*:*:*:*:*,Beanstalk Console Project Beanstalk Console 1.7.9,"['CVE-2022-0501', 'CVE-2022-0539']",2022-03-19T06:49Z
+3,cpe:2.3:a:beanstalk_console_project:beanstalk_console:1.7.10:*:*:*:*:*:*:*,Beanstalk Console Project Beanstalk Console 1.7.10,"['CVE-2022-0501', 'CVE-2022-0539']",2022-03-19T06:49Z
+4,cpe:2.3:a:beanstalk_console_project:beanstalk_console:1.7.11:*:*:*:*:*:*:*,Beanstalk Console Project Beanstalk Console 1.7.11,"['CVE-2022-0501', 'CVE-2022-0539']",2022-03-19T06:49Z
+5,cpe:2.3:a:beanstalk_console_project:beanstalk_console:1.7.12:*:*:*:*:*:*:*,Beanstalk Console Project Beanstalk Console 1.7.12,['CVE-2022-0539'],2022-03-19T06:49Z
+6,cpe:2.3:a:beanstalk_console_project:beanstalk_console:1.7.13:*:*:*:*:*:*:*,Beanstalk Console Project Beanstalk Console 1.7.13,['CVE-2022-0539'],2022-03-19T06:49Z
+7,cpe:2.3:a:bearadmin_project:bearadmin:0.5:*:*:*:*:*:*:*,BearAdmin Project BearAdmin 0.5,"['CVE-2018-11413', 'CVE-2018-11414']",2022-03-19T06:49Z
+8,cpe:2.3:a:beardev:joomsport:-:*:*:*:*:wordpress:*:*,BearDev JoomSport for WordPress,['CVE-2021-24384'],2022-03-19T06:49Z
+9,cpe:2.3:a:beardev:joomsport:1.0:*:*:*:*:wordpress:*:*,Beardev Joomsport 1.0 WordPress,['CVE-2021-24384'],2022-03-19T06:49Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,cpe:2.3:a:dependabot_project:dependabot:0.119.0:-:*:*:*:*:*:*,Dependabot Project Dependabot 0.119.0,['CVE-2020-26222'],2022-03-20T13:32Z
+8,cpe:2.3:a:dependabot_project:dependabot:0.119.0:beta1:*:*:*:*:*:*,Dependabot Project Dependabot 0.119.0 Beta 1,['CVE-2020-26222'],2022-03-20T13:32Z
+9,cpe:2.3:a:dependabot_project:dependabot:0.119.1:*:*:*:*:*:*:*,Dependabot Project Dependabot 0.119.1,['CVE-2020-26222'],2022-03-20T13:32Z

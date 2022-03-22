@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_pro_m16_w2g50a:ce538a:*:*:*:*:*:*:*,HP LaserJet Pro M16 W2G50A CE538A,['CVE-2020-28419'],2022-03-21T15:15Z
+1,cpe:2.3:h:hp:laserjet_pro_m16_w2g51a:ce538a:*:*:*:*:*:*:*,HP LaserJet Pro M16 W2G51A CE538A,['CVE-2020-28419'],2022-03-21T15:15Z
+2,cpe:2.3:h:hp:laserjet_pro_m16_w2g52a:ce538a:*:*:*:*:*:*:*,HP LaserJet Pro M16 W2G52A CE538A,['CVE-2020-28419'],2022-03-21T15:15Z
+3,cpe:2.3:h:hp:laserjet_pro_m16_w2g53a:ce538a:*:*:*:*:*:*:*,HP LaserJet Pro M16 W2G53A CE538A,['CVE-2020-28419'],2022-03-21T15:15Z
+4,cpe:2.3:h:hp:laserjet_pro_m16_y5s43a:ce538a:*:*:*:*:*:*:*,HP LaserJet Pro M16 Y5S43A CE538A,['CVE-2020-28419'],2022-03-21T15:15Z
+5,cpe:2.3:h:hp:laserjet_pro_m17_w2g50a:-:*:*:*:*:*:*:*,HP LaserJet Pro M17 W2G50A,['CVE-2020-28419'],2022-03-21T15:15Z
+6,cpe:2.3:h:hp:laserjet_pro_m17_w2g51a:-:*:*:*:*:*:*:*,HP LaserJet Pro M17 W2G51A,['CVE-2020-28419'],2022-03-21T15:15Z
+7,cpe:2.3:h:hp:laserjet_pro_m17_w2g52a:-:*:*:*:*:*:*:*,HP LaserJet Pro M17 W2G52A,['CVE-2020-28419'],2022-03-21T15:16Z
+8,cpe:2.3:h:hp:laserjet_pro_m17_w2g53a:-:*:*:*:*:*:*:*,HP LaserJet Pro M17 W2G53A,['CVE-2020-28419'],2022-03-21T15:16Z
+9,cpe:2.3:h:hp:laserjet_pro_m17_y5s43a:-:*:*:*:*:*:*:*,HP LaserJet Pro M17 Y5S43A,['CVE-2020-28419'],2022-03-21T15:16Z

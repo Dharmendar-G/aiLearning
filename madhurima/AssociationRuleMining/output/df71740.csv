@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:bd:kiestra_wca:-:*:*:*:*:*:*:*,BD Kiestra WCA,"['CVE-2018-10593', 'CVE-2018-10595']",2022-03-19T06:38Z
+1,cpe:2.3:a:bd:kla_journal_service:1.0.51:*:*:*:*:*:*:*,BD KLA Journal Service 1.0.51,['CVE-2017-6022'],2022-03-19T06:38Z
+2,cpe:2.3:a:bd:performa:2.0.14.0:*:*:*:*:*:*:*,BD PerformA 2.0.14.0,"['CVE-2017-6022', 'CVE-2018-10593', 'CVE-2018-10595']",2022-03-19T06:38Z
+3,cpe:2.3:a:bd:performa:3.0.0.0:*:*:*:*:*:*:*,BD PerformA 3.0.0.0,"['CVE-2018-10593', 'CVE-2018-10595']",2022-03-19T06:38Z
+4,cpe:2.3:h:bd:pyxis_anesthesia_station_4000:-:*:*:*:*:*:*:*,BD Pyxis Anesthesia Station 4000,['CVE-2022-22766'],2022-03-19T06:38Z
+5,cpe:2.3:o:bd:pyxis_anesthesia_station_4000_firmware:-:*:*:*:*:*:*:*,BD Pyxis Anesthesia Station 4000 Firmware,['CVE-2022-22766'],2022-03-19T06:38Z
+6,cpe:2.3:h:bd:pyxis_anesthesia_station_es:-:*:*:*:*:*:*:*,BD Pyxis Anesthesia Station ES,"['CVE-2020-10598', 'CVE-2022-22766']",2022-03-19T06:38Z
+7,cpe:2.3:o:bd:pyxis_anesthesia_station_es_firmware:-:*:*:*:*:*:*:*,BD Pyxis Anesthesia Station ES Firmware,['CVE-2022-22766'],2022-03-19T06:38Z
+8,cpe:2.3:o:bd:pyxis_anesthesia_station_es_firmware:1.6.1:*:*:*:*:*:*:*,BD Pyxis Anesthesia Station ES Firmware 1.6.1,"['CVE-2020-10598', 'CVE-2022-22766']",2022-03-19T06:38Z
+9,cpe:2.3:h:bd:pyxis_cato:-:*:*:*:*:*:*:*,BD Pyxis CATO,['CVE-2022-22766'],2022-03-19T06:38Z

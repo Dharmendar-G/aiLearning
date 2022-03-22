@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:officejet_pro_7740_g5j38a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET PRO 7740 G5J38A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:31Z
+1,cpe:2.3:o:hp:officejet_pro_7740_g5j38a_firmware:40.12.1161:*:*:*:*:*:*:*,HP OFFICEJET PRO 7740 G5J38A FIRMWARE 40.12.1161,[''],2022-03-21T15:31Z
+2,cpe:2.3:h:hp:officejet_pro_7745_t1p99a:-:*:*:*:*:*:*:*,HP OfficeJet Pro 7745 T1P99A,['CVE-2020-28416'],2022-03-21T15:31Z
+3,cpe:2.3:o:hp:officejet_pro_7745_t1p99a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET PRO 7745 T1P99A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:31Z
+4,cpe:2.3:o:hp:officejet_pro_7745_t1p99a_firmware:40.12.1161:*:*:*:*:*:*:*,HP OFFICEJET PRO 7745 T1P99A FIRMWARE 40.12.1161,[''],2022-03-21T15:31Z
+5,cpe:2.3:h:hp:officejet_pro_8020_1kr57a:-:*:*:*:*:*:*:*,HP OfficeJet Pro 8020 1KR57A,['CVE-2020-28419'],2022-03-21T15:31Z
+6,cpe:2.3:h:hp:officejet_pro_8020_1kr61a:-:*:*:*:*:*:*:*,HP OfficeJet Pro 8020 1KR61A,['CVE-2020-28419'],2022-03-21T15:31Z
+7,cpe:2.3:h:hp:officejet_pro_8020_1kr62a:-:*:*:*:*:*:*:*,HP OfficeJet Pro 8020 1KR62A,['CVE-2020-28419'],2022-03-21T15:31Z
+8,cpe:2.3:h:hp:officejet_pro_8020_1kr64b:-:*:*:*:*:*:*:*,HP OfficeJet Pro 8020 1KR64B,['CVE-2020-28419'],2022-03-21T15:31Z
+9,cpe:2.3:h:hp:officejet_pro_8020_1kr65b:-:*:*:*:*:*:*:*,HP OfficeJet Pro 8020 1KR65B,['CVE-2020-28419'],2022-03-21T15:31Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:duolingo:tinycards:1.0:*:*:*:*:*:*:*,DuoLingo TinyCards 1.0,[''],2022-03-20T18:50Z
+1,cpe:2.3:a:dupehunter:dupehunter:9.0.0.3911:*:*:*:*:*:*:*,Dupehunter 9.0.0.3911,['CVE-2010-5218'],2022-03-20T18:50Z
+2,cpe:2.3:a:duplicate_post_project:duplicate_post:0.3:*:*:*:*:wordpress:*:*,Duplicate Post Project Duplicate Post 0.3 for WordPress,"['CVE-2014-10378', 'CVE-2014-10379', 'CVE-2021-43408']",2022-03-20T18:50Z
+3,cpe:2.3:a:duplicate_post_project:duplicate_post:0.4:*:*:*:*:wordpress:*:*,Duplicate Post Project Duplicate Post 0.4 for WordPress,"['CVE-2014-10378', 'CVE-2014-10379', 'CVE-2021-43408']",2022-03-20T18:50Z
+4,cpe:2.3:a:duplicate_post_project:duplicate_post:0.5:*:*:*:*:wordpress:*:*,Duplicate Post Project Duplicate Post 0.5 for WordPress,"['CVE-2014-10378', 'CVE-2014-10379', 'CVE-2021-43408']",2022-03-20T18:50Z
+5,cpe:2.3:a:duplicate_post_project:duplicate_post:0.6:*:*:*:*:wordpress:*:*,Duplicate Post Project Duplicate Post 0.6 for WordPress,"['CVE-2014-10378', 'CVE-2014-10379', 'CVE-2021-43408']",2022-03-20T18:50Z
+6,cpe:2.3:a:duplicate_post_project:duplicate_post:0.6.1:*:*:*:*:wordpress:*:*,Duplicate Post Project Duplicate Post 0.6.1 for WordPress,"['CVE-2014-10378', 'CVE-2014-10379', 'CVE-2021-43408']",2022-03-20T18:50Z
+7,cpe:2.3:a:duplicate_post_project:duplicate_post:1.0:*:*:*:*:wordpress:*:*,Duplicate Post Project Duplicate Post 1.0 for WordPress,"['CVE-2014-10378', 'CVE-2014-10379', 'CVE-2021-43408']",2022-03-20T18:50Z
+8,cpe:2.3:a:duplicate_post_project:duplicate_post:1.1:*:*:*:*:wordpress:*:*,Duplicate Post Project Duplicate Post 1.1 for WordPress,"['CVE-2014-10378', 'CVE-2014-10379', 'CVE-2021-43408']",2022-03-20T18:50Z
+9,cpe:2.3:a:duplicate_post_project:duplicate_post:1.1.1:*:*:*:*:wordpress:*:*,Duplicate Post Project Duplicate Post 1.1.1 for WordPress,"['CVE-2014-10378', 'CVE-2014-10379', 'CVE-2021-43408']",2022-03-20T18:50Z

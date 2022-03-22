@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:catalyst_8510csr:-:*:*:*:*:*:*:*,Cisco Catalyst 8510CSR,"['CVE-2005-4258', 'CVE-2013-1100', 'CVE-2021-1529', 'CVE-2021-1620']",2022-03-19T19:01Z
+1,cpe:2.3:h:cisco:catalyst_8510msr:-:*:*:*:*:*:*:*,Cisco Catalyst 8510MSR,"['CVE-2005-4258', 'CVE-2013-1100', 'CVE-2021-1529', 'CVE-2021-1620']",2022-03-19T19:01Z
+2,cpe:2.3:h:cisco:catalyst_8540csr:-:*:*:*:*:*:*:*,Cisco Catalyst 8540CSR,"['CVE-2005-4258', 'CVE-2013-1100', 'CVE-2021-1529', 'CVE-2021-1620']",2022-03-19T19:01Z
+3,cpe:2.3:h:cisco:catalyst_8540msr:-:*:*:*:*:*:*:*,Cisco Catalyst 8540MSR,"['CVE-2005-4258', 'CVE-2013-1100', 'CVE-2021-1529', 'CVE-2021-1620']",2022-03-19T19:01Z
+4,cpe:2.3:h:cisco:catalyst_9100:-:*:*:*:*:*:*:*,Cisco Catalyst 9100 -,"['CVE-2019-15264', 'CVE-2021-1423', 'CVE-2021-1437', 'CVE-2021-1439', 'CVE-2021-1449', 'CVE-2021-34740']",2022-03-19T19:01Z
+5,cpe:2.3:o:cisco:catalyst_9100_firmware:-:*:*:*:*:*:*:*,Cisco Catalyst 9100 Firmware,['CVE-2019-15264'],2022-03-19T19:01Z
+6,cpe:2.3:h:cisco:catalyst_9105:-:*:*:*:*:*:*:*,Cisco Catalyst 9105,"['CVE-2020-3486', 'CVE-2020-3560', 'CVE-2021-1615', 'CVE-2021-34740']",2022-03-19T19:01Z
+7,cpe:2.3:h:cisco:catalyst_9105axi:-:*:*:*:*:*:*:*,Cisco Catalyst 9105AXI,"['CVE-2021-1419', 'CVE-2021-34740']",2022-03-19T19:01Z
+8,cpe:2.3:h:cisco:catalyst_9105axw:-:*:*:*:*:*:*:*,Cisco Catalyst 9105AXW,"['CVE-2021-1419', 'CVE-2021-34740']",2022-03-19T19:01Z
+9,cpe:2.3:h:cisco:catalyst_9115:-:*:*:*:*:*:*:*,Cisco Catalyst 9115,"['CVE-2020-3486', 'CVE-2020-3560', 'CVE-2021-1615', 'CVE-2021-34740']",2022-03-19T19:01Z

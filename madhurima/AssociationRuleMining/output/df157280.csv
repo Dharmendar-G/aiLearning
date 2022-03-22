@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:comodo:comodo_internet_security:5.9.221665.2197:*:*:*:*:*:*:*,Comodo Internet Security 5.9.221665.2197,"['CVE-2012-2273', 'CVE-2019-18215']",2022-03-20T07:00Z
+1,cpe:2.3:a:comodo:comodo_internet_security:5.10.228257.2253:*:*:*:*:*:*:*,Comodo Internet Security 5.10.228257.2253,['CVE-2019-18215'],2022-03-20T07:00Z
+2,cpe:2.3:a:comodo:comodo_internet_security:12.1.0.6914:*:*:*:*:*:*:*,Comodo Internet Security 12.1.0.6914,[''],2022-03-20T07:00Z
+3,cpe:2.3:a:comodo:firewall:-:*:*:*:*:*:*:*,Comodo Firewall,['CVE-2019-14270'],2022-03-20T07:00Z
+4,cpe:2.3:a:comodo:firewall:12.0.0.6870:*:*:*:*:*:*:*,Comodo Firewall 12.0.0.6870,['CVE-2019-14270'],2022-03-20T07:00Z
+5,cpe:2.3:a:comodo:geekbuddy:4.18.120:*:*:*:*:*:*:*,Comodo GeekBuddy 4.18.120,['CVE-2014-7872'],2022-03-20T07:00Z
+6,cpe:2.3:a:comodo:internet_security:-:*:*:*:premium:*:*:*,Comodo Internet Security Premium Edition,['CVE-2019-14270'],2022-03-20T07:00Z
+7,cpe:2.3:a:comodo:internet_security:12.0.0.6870:*:*:*:premium:*:*:*,Comodo Internet Security 12.0.0.6870 Premium Edition,['CVE-2019-14270'],2022-03-20T07:00Z
+8,cpe:2.3:a:comodo:unified_threat_management_firewall:1.5.0:*:*:*:*:*:*:*,Comodo Unified Threat Management Firewall 1.5.0,['CVE-2018-17431'],2022-03-20T07:00Z
+9,cpe:2.3:a:comodo:unified_threat_management_firewall:2.7.0:*:*:*:*:*:*:*,Comodo Unified Threat Management Firewall 2.7.0,[''],2022-03-20T07:00Z

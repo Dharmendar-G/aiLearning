@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ag-grid:ag-grid:24.0.0:*:*:*:*:*:*:*,AG-Grid 24.0.0,[''],2022-03-18T13:38Z
+1,cpe:2.3:a:ag-grid:ag-grid:24.1.0:*:*:*:*:*:*:*,AG-Grid 24.1.0,[''],2022-03-18T13:38Z
+2,cpe:2.3:a:ag-grid:ag-grid:25.0.0:*:*:*:*:*:*:*,AG-Grid 25.0.0,[''],2022-03-18T13:38Z
+3,cpe:2.3:a:ag-grid:ag-grid:25.0.1:*:*:*:*:*:*:*,AG-Grid 25.0.1,[''],2022-03-18T13:38Z
+4,cpe:2.3:a:ag-grid:ag-grid:25.1.0:*:*:*:*:*:*:*,AG-Grid 25.1.0,[''],2022-03-18T13:39Z
+5,cpe:2.3:a:agi:license_manager:3.0.3:*:*:*:*:*:*:*,Agi License Manager 3.0.3,[''],2022-03-18T13:39Z
+6,cpe:2.3:a:agi:planetary_data_supplement:9.0.0:*:*:*:*:*:*:*,Agi Planetary Data Supplement 9.0.0,[''],2022-03-18T13:39Z
+7,cpe:2.3:a:agi:stk:9.1.0:*:*:*:*:*:*:*,Agi Stk 9.1.0,[''],2022-03-18T13:38Z
+8,cpe:2.3:a:agi:stk\/kml_utility_for_stk:9.1.0:*:*:*:*:*:*:*,Agi Stk/kml Utility For Stk 9.1.0,[''],2022-03-18T13:39Z
+9,cpe:2.3:a:agi:stk_engine_deployment_resources:9.1.0:*:*:*:*:*:*:*,Agi Stk Engine Deployment Resources 9.1.0,[''],2022-03-18T13:39Z

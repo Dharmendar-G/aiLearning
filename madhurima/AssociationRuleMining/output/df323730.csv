@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:jg350a:-:*:*:*:*:*:*:*,HP JG350A,['CVE-2012-3268'],2022-03-21T13:52Z
+1,cpe:2.3:h:hp:jg353a:-:*:*:*:*:*:*:*,HP JG782A HP FF 12508E AC Switch Chassis,[''],2022-03-21T13:52Z
+2,cpe:2.3:h:hp:jg353a_hp_hsr6602-g_router:-:*:*:*:*:*:*:*,HP JG353A HP HSR6602-G Router,['CVE-2015-5434'],2022-03-21T13:52Z
+3,cpe:2.3:h:hp:jg354a:-:*:*:*:*:*:*:*,HP JG363A HP HSR6808 Router Chassis,[''],2022-03-21T13:52Z
+4,cpe:2.3:h:hp:jg354a_hp_hsr6602-xg_router:-:*:*:*:*:*:*:*,HP JG354A HP HSR6602-XG Router,['CVE-2015-5434'],2022-03-21T13:52Z
+5,cpe:2.3:h:hp:jg361a:-:*:*:*:*:*:*:*,HP JG555A HP 5920AF-24XG TAA Switch,[''],2022-03-21T13:52Z
+6,cpe:2.3:h:hp:jg361a_hp_hsr6802_router_chassis:-:*:*:*:*:*:*:*,HP JG361A HP HSR6802 Router Chassis,['CVE-2015-5434'],2022-03-21T13:52Z
+7,cpe:2.3:h:hp:jg361b:-:*:*:*:*:*:*:*,HP JG361B HP HSR6802 Router Chassis,[''],2022-03-21T13:52Z
+8,cpe:2.3:h:hp:jg361b_hp_hsr6802_router_chassis:-:*:*:*:*:*:*:*,HP JG361B HP HSR6802 Router Chassis,['CVE-2015-5434'],2022-03-21T13:52Z
+9,cpe:2.3:h:hp:jg362a:-:*:*:*:*:*:*:*,HP JG777A HP HSR6602-XG TAA-compliant Router,[''],2022-03-21T13:52Z

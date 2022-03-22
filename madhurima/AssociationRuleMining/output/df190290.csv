@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:d-link:dcs-931l_firmware:1.04:*:*:*:*:*:*:*,D-Link DCS-931L Firmware 1.04,"['CVE-2015-2048', 'CVE-2015-2049', 'CVE-2017-7852']",2022-03-20T16:00Z
+1,cpe:2.3:o:d-link:dcs-931l_firmware:1.13.05:*:*:*:*:*:*:*,D-Link DCS-931L Firmware 1.13.05,['CVE-2017-7852'],2022-03-20T16:00Z
+2,cpe:2.3:h:d-link:dcs-932l:-:*:*:*:*:*:*:*,D-Link DCS-932L Camera,"['CVE-2012-4046', 'CVE-2017-7852', 'CVE-2018-18441', 'CVE-2021-41503']",2022-03-20T16:00Z
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,cpe:2.3:o:d-link:dcs-932l_firmware:1.00:*:*:*:*:*:*:*,D-Link DCS-932L Camera Firmware 1.00,"['CVE-2017-7852', 'CVE-2018-18441', 'CVE-2021-41503']",2022-03-20T16:00Z
+7,cpe:2.3:o:d-link:dcs-932l_firmware:1.02:*:*:*:*:*:*:*,D-Link DCS-932L Camera Firmware 1.02,"['CVE-2012-4046', 'CVE-2017-7852', 'CVE-2018-18441', 'CVE-2021-41503']",2022-03-20T16:00Z
+8,cpe:2.3:o:d-link:dcs-932l_firmware:1.13.04:*:*:*:*:*:*:*,D-Link DCS-932L Firmware 1.13.04,"['CVE-2017-7852', 'CVE-2018-18441', 'CVE-2021-41503']",2022-03-20T16:00Z
+9,cpe:2.3:o:d-link:dcs-932l_firmware:2.13.15:*:*:*:*:*:*:*,D-Link DCS-932L Firmware 2.13.15,"['CVE-2017-7852', 'CVE-2018-18441', 'CVE-2021-41503']",2022-03-20T16:00Z

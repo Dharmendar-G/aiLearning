@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:alliedtelesis:img624a_firmware:3.5:*:*:*:*:*:*:*,alliedtelesis iMG624A firmware 3.5,['CVE-2014-1982'],2022-03-18T14:53Z
+1,cpe:2.3:h:alliedtelesis:img646bd:-:*:*:*:*:*:*:*,alliedtelesis iMG646BD,['CVE-2014-1982'],2022-03-18T14:53Z
+2,cpe:2.3:o:alliedtelesis:img646bd_firmware:3.5:*:*:*:*:*:*:*,alliedtelesis iMG646BD firmware 3.5,['CVE-2014-1982'],2022-03-18T14:53Z
+3,cpe:2.3:h:alliedtelesyn:at-8024:-:*:*:*:*:*:*:*,Allied Telesyn AT-8024,[''],2022-03-18T14:53Z
+4,cpe:2.3:h:alliedtelesyn:at-8024:1.3.1:*:*:*:*:*:*:*,Allied Telesyn AT-8024 1.3.1,['CVE-2002-2415'],2022-03-18T14:53Z
+5,cpe:2.3:h:alliedtelesyn:at-9000_24_ethernetswitch:-:*:*:*:*:*:*:*,Allied Telesis AT-9000_24 Ethernetswitch,"['CVE-2006-6717', 'CVE-2006-6718']",2022-03-18T14:53Z
+6,cpe:2.3:h:alliedtelesyn:at-9724ts:-:*:*:*:*:*:*:*,Allied Telesis AT-9724TS,['CVE-2006-2030'],2022-03-18T14:53Z
+7,cpe:2.3:h:alliedtelesyn:at-s24:-:*:*:*:*:*:*:*,Allied Telesis AT-S24,[''],2022-03-18T14:53Z
+8,cpe:2.3:h:alliedtelesyn:at-s24:2.4.4:*:*:*:*:*:*:*,Allied Telesis AT-S24 2.4.4,[''],2022-03-18T14:53Z
+9,cpe:2.3:h:alliedtelesyn:at-s30:-:*:*:*:*:*:*:*,Allied Telesis AT-S30,[''],2022-03-18T14:53Z

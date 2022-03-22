@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:expeditor:6.2.2:*:*:*:*:*:*:*,IBM Expeditor 6.2.2,['CVE-2017-1129'],2022-03-21T20:34Z
+1,cpe:2.3:a:ibm:expeditor:6.2.3:*:*:*:*:*:*:*,IBM Expeditor 6.2.3,['CVE-2017-1129'],2022-03-21T20:34Z
+2,cpe:2.3:o:ibm:fabric_cn4093_10gb_firmware:7.8.16.0:*:*:*:*:*:*:*,IBM Fabric CN4093 10Gb Firmware 7.8.16.0,['CVE-2017-3752'],2022-03-21T20:34Z
+3,cpe:2.3:o:ibm:fabric_en4093\/en4093r_10gb_firmware:7.8.16.0:*:*:*:*:*:*:*,IBM Fabric EN4093/EN4093R 10GB Firmware 7.8.16.0,['CVE-2017-3752'],2022-03-21T20:34Z
+4,cpe:2.3:a:ibm:filenet_business_process_framework:4.1.0:*:*:*:*:*:*:*,BM FileNet Business Process Framework 4.1.0,['CVE-2013-5452'],2022-03-21T20:34Z
+5,cpe:2.3:a:ibm:filenet_capture:4.1:*:*:*:*:*:*:*,IBM Filenet Capture 4.1,[''],2022-03-21T20:34Z
+6,cpe:2.3:a:ibm:filenet_content_engine:4.5.1.6:*:*:*:*:*:*:*,IBM Filenet Content Engine 4.5.1.6,[''],2022-03-21T20:34Z
+7,cpe:2.3:a:ibm:filenet_content_engine_.net_api:4.5.5100:*:*:*:*:*:*:*,IBM Filenet Content Engine .net Api 4.5.5100,[''],2022-03-21T20:34Z
+8,cpe:2.3:a:ibm:filenet_content_engine_client_installer:4.5.1.0:*:*:*:*:*:*:*,IBM Filenet Content Engine Client Installer 4.5.1.0,[''],2022-03-21T20:34Z
+9,cpe:2.3:a:ibm:filenet_content_manager:4.0:*:*:*:*:*:*:*,IBM FileNet Content Manager 4.0,['CVE-2009-1953'],2022-03-21T20:34Z

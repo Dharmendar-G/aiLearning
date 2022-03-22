@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:emptoris_sourcing_portfolio:10.0.1.1:*:*:*:*:*:*:*,IBM Emptoris Sourcing Portfolio 10.0.1.1,"['CVE-2014-3033', 'CVE-2014-3040', 'CVE-2014-4790', 'CVE-2014-6212']",2022-03-21T20:29Z
+1,cpe:2.3:a:ibm:emptoris_sourcing_portfolio:10.0.1.2:*:*:*:*:*:*:*,IBM Emptoris Sourcing Portfolio 10.0.1.2,"['CVE-2014-3033', 'CVE-2014-3040', 'CVE-2014-4790', 'CVE-2014-6212']",2022-03-21T20:29Z
+2,cpe:2.3:a:ibm:emptoris_sourcing_portfolio:10.0.1.3:*:*:*:*:*:*:*,IBM Emptoris Sourcing Portfolio 10.0.1.3,['CVE-2014-6212'],2022-03-21T20:29Z
+3,cpe:2.3:a:ibm:emptoris_sourcing_portfolio:10.0.2.0:*:*:*:*:*:*:*,IBM Emptoris Sourcing Portfolio 10.0.2.0,"['CVE-2014-3033', 'CVE-2014-3040', 'CVE-2014-4790', 'CVE-2014-6212']",2022-03-21T20:29Z
+4,cpe:2.3:a:ibm:emptoris_sourcing_portfolio:10.0.2.2:*:*:*:*:*:*:*,IBM Emptoris Sourcing Portfolio 10.0.2.2,"['CVE-2014-3033', 'CVE-2014-3040', 'CVE-2014-4790', 'CVE-2014-6212']",2022-03-21T20:29Z
+5,cpe:2.3:a:ibm:emptoris_sourcing_portfolio:10.0.2.3:*:*:*:*:*:*:*,IBM Emptoris Sourcing Portfolio 10.0.2.3,"['CVE-2014-3033', 'CVE-2014-3040', 'CVE-2014-4790', 'CVE-2014-6212']",2022-03-21T20:30Z
+6,cpe:2.3:a:ibm:emptoris_sourcing_portfolio:10.0.2.4:*:*:*:*:*:*:*,IBM Emptoris Sourcing Portfolio 10.0.2.4,['CVE-2014-6212'],2022-03-21T20:30Z
+7,cpe:2.3:a:ibm:emptoris_spend_analysis:9.5.0.0:*:*:*:*:*:*:*,IBM Emptoris Spend Analysis 9.5.0.0,"['CVE-2014-3035', 'CVE-2014-3040', 'CVE-2014-3061', 'CVE-2014-4790', 'CVE-2017-1445', 'CVE-2017-1446']",2022-03-21T20:30Z
+8,cpe:2.3:a:ibm:emptoris_spend_analysis:9.5.0.1:*:*:*:*:*:*:*,IBM Emptoris Spend Analysis 9.5.0.1,"['CVE-2014-3035', 'CVE-2014-3040', 'CVE-2014-3061', 'CVE-2014-4790', 'CVE-2017-1445', 'CVE-2017-1446']",2022-03-21T20:30Z
+9,cpe:2.3:a:ibm:emptoris_spend_analysis:9.5.0.2:*:*:*:*:*:*:*,IBM Emptoris Spend Analysis 9.5.0.2,"['CVE-2014-3035', 'CVE-2014-3040', 'CVE-2014-3061', 'CVE-2014-4790', 'CVE-2017-1445', 'CVE-2017-1446']",2022-03-21T20:30Z

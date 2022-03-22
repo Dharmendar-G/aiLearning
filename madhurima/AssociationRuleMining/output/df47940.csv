@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:artica:pandora_fms:747:*:*:*:*:*:*:*,Artica Pandora FMS 747,"['CVE-2021-34075', 'CVE-2021-36697', 'CVE-2021-36698']",2022-03-18T23:23Z
+1,cpe:2.3:a:artica:pandora_fms:748:*:*:*:*:*:*:*,Artica Pandora FMS 748,"['CVE-2021-34075', 'CVE-2021-36697', 'CVE-2021-36698']",2022-03-18T23:23Z
+2,cpe:2.3:a:artica:pandora_fms:749:*:*:*:*:*:*:*,Artica Pandora FMS 749,"['CVE-2021-34075', 'CVE-2021-36697', 'CVE-2021-36698']",2022-03-18T23:23Z
+3,cpe:2.3:a:artica:pandora_fms:750:*:*:*:*:*:*:*,Artica Pandora FMS 750,"['CVE-2021-34075', 'CVE-2021-36697', 'CVE-2021-36698']",2022-03-18T23:23Z
+4,cpe:2.3:a:artica:pandora_fms:751:*:*:*:*:*:*:*,Artica Pandora FMS 751,"['CVE-2021-34075', 'CVE-2021-36697', 'CVE-2021-36698']",2022-03-18T23:23Z
+5,cpe:2.3:a:artica:pandora_fms:752:*:*:*:*:*:*:*,Artica Pandora FMS 752,"['CVE-2021-34075', 'CVE-2021-36697', 'CVE-2021-36698']",2022-03-18T23:23Z
+6,cpe:2.3:a:artica:pandora_fms:753:*:*:*:*:*:*:*,Artica Pandora FMS 753,"['CVE-2021-34075', 'CVE-2021-36697', 'CVE-2021-36698']",2022-03-18T23:23Z
+7,cpe:2.3:a:artica:pandora_fms:754:*:*:*:*:*:*:*,Artica Pandora FMS 754,"['CVE-2021-34075', 'CVE-2021-36697', 'CVE-2021-36698']",2022-03-18T23:23Z
+8,cpe:2.3:a:artica:pandora_fms:755:*:*:*:*:*:*:*,Artica Pandora FMS 755,"['CVE-2021-36697', 'CVE-2021-36698']",2022-03-18T23:23Z
+9,cpe:2.3:a:articatech:artica_proxy:1.7.072820:*:*:*:*:*:*:*,Articatech Artica Proxy 1.7.072820,['CVE-2017-17055'],2022-03-18T23:23Z

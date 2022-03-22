@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:amd:athlon_3150g:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Athlon 3150g -,['CVE-2020-12965'],2022-03-18T16:02Z
+1,cpe:2.3:o:amd:athlon_3150g_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Athlon 3150g Firmware ,['CVE-2020-12965'],2022-03-18T16:02Z
+2,cpe:2.3:h:amd:athlon_3150ge:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Athlon 3150ge -,['CVE-2020-12965'],2022-03-18T16:02Z
+3,cpe:2.3:o:amd:athlon_3150ge_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Athlon 3150ge Firmware ,['CVE-2020-12965'],2022-03-18T16:02Z
+4,cpe:2.3:o:amd:athlon_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Athlon Firmware ,['CVE-2021-26318'],2022-03-18T16:02Z
+5,cpe:2.3:h:amd:athlon_gold_pro_3150g:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Athlon Gold Pro 3150g -,['CVE-2020-12965'],2022-03-18T16:02Z
+6,cpe:2.3:o:amd:athlon_gold_pro_3150g_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Athlon Gold Pro 3150g Firmware ,['CVE-2020-12965'],2022-03-18T16:02Z
+7,cpe:2.3:h:amd:athlon_gold_pro_3150ge:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Athlon Gold Pro 3150ge -,['CVE-2020-12965'],2022-03-18T16:02Z
+8,cpe:2.3:o:amd:athlon_gold_pro_3150ge_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Athlon Gold Pro 3150ge Firmware ,['CVE-2020-12965'],2022-03-18T16:02Z
+9,cpe:2.3:h:amd:athlon_ii_640_x4:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Athlon Ii 640 X4,"['CVE-2017-5925', 'CVE-2017-5926', 'CVE-2017-5927']",2022-03-18T16:02Z

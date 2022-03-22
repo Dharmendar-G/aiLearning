@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:advancestack_10base-t_switching_hub_j3203a:-:*:*:*:*:*:*:*,cpe:/h:HP:AdvanceStack 10Base-T Switching Hub J3203A,[''],2022-03-21T12:53Z
+1,cpe:2.3:h:hp:advancestack_10base-t_switching_hub_j3203a:a.03.07:*:*:*:*:*:*:*,cpe:/h:HP:AdvanceStack 10Base-T Switching Hub J3203A version A.03.07,['CVE-2002-0250'],2022-03-21T12:53Z
+2,cpe:2.3:h:hp:advancestack_10base-t_switching_hub_j3204a:-:*:*:*:*:*:*:*,cpe:/h:HP:AdvanceStack 10Base-T Switching Hub J3204A,[''],2022-03-21T12:53Z
+3,cpe:2.3:h:hp:advancestack_10base-t_switching_hub_j3204a:a.03.07:*:*:*:*:*:*:*,cpe:/h:HP:AdvanceStack 10Base-T Switching Hub J3204A version A.03.07,['CVE-2002-0250'],2022-03-21T12:53Z
+4,cpe:2.3:h:hp:advancestack_10base-t_switching_hub_j3205a:-:*:*:*:*:*:*:*,cpe:/h:HP:AdvanceStack 10Base-T Switching Hub J3205A,[''],2022-03-21T12:53Z
+5,cpe:2.3:h:hp:advancestack_10base-t_switching_hub_j3205a:a.03.07:*:*:*:*:*:*:*,cpe:/h:HP:AdvanceStack 10Base-T Switching Hub J3205A version A.03.07,['CVE-2002-0250'],2022-03-21T12:53Z
+6,cpe:2.3:h:hp:advancestack_10base-t_switching_hub_j3210a:-:*:*:*:*:*:*:*,cpe:/h:HP:AdvanceStack 10Base-T Switching Hub J3210A,[''],2022-03-21T12:53Z
+7,cpe:2.3:h:hp:advancestack_10base-t_switching_hub_j3210a:a.03.07:*:*:*:*:*:*:*,cpe:/h:HP:AdvanceStack 10Base-T Switching Hub J3210A version A.03.07,['CVE-2002-0250'],2022-03-21T12:53Z
+8,cpe:2.3:h:hp:af601a:-:*:*:*:*:*:*:*,HP AF601A IP Console Switch 2x1x16,[''],2022-03-21T12:53Z
+9,cpe:2.3:a:hp:airwave:8.0.0.0:*:*:*:*:*:*:*,HP AirWave 8.0.0.0,"['CVE-2016-8526', 'CVE-2016-8527']",2022-03-21T12:53Z

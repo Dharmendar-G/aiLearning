@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ckeditor:ckeditor5-widget:19.0.0:*:*:*:*:node.js:*:*,CKEditor ckeditor5-widget 19.0.0 for Node.js,['CVE-2021-21391'],2022-03-20T01:58Z
+1,cpe:2.3:a:ckeditor:ckeditor5-widget:19.1.0:*:*:*:*:node.js:*:*,CKEditor ckeditor5-widget 19.1.0 for Node.js,['CVE-2021-21391'],2022-03-20T01:58Z
+2,cpe:2.3:a:ckeditor:ckeditor5-widget:21.0.0:*:*:*:*:node.js:*:*,CKEditor ckeditor5-widget 21.0.0 for Node.js,['CVE-2021-21391'],2022-03-20T01:58Z
+3,cpe:2.3:a:ckeditor:ckeditor5-widget:22.0.0:*:*:*:*:node.js:*:*,CKEditor ckeditor5-widget 22.0.0 for Node.js,['CVE-2021-21391'],2022-03-20T01:58Z
+4,cpe:2.3:a:ckeditor:ckeditor5-widget:23.0.0:*:*:*:*:node.js:*:*,CKEditor ckeditor5-widget 23.0.0 for Node.js,['CVE-2021-21391'],2022-03-20T01:58Z
+5,cpe:2.3:a:ckeditor:ckeditor5-widget:23.1.0:*:*:*:*:node.js:*:*,CKEditor ckeditor5-widget 23.1.0 for Node.js,['CVE-2021-21391'],2022-03-20T01:58Z
+6,cpe:2.3:a:ckeditor:ckeditor5-widget:24.0.0:*:*:*:*:node.js:*:*,CKEditor ckeditor5-widget 24.0.0 for Node.js,['CVE-2021-21391'],2022-03-20T01:58Z
+7,cpe:2.3:a:ckeditor:ckeditor5-widget:25.0.0:*:*:*:*:node.js:*:*,CKEditor ckeditor5-widget 25.0.0 for Node.js,['CVE-2021-21391'],2022-03-20T01:58Z
+8,cpe:2.3:a:ckeditor:ckeditor5-widget:26.0.0:*:*:*:*:node.js:*:*,CKEditor ckeditor5-widget 26.0.0 for Node.js,['CVE-2021-21391'],2022-03-20T01:58Z
+9,cpe:2.3:a:ckeditor:ckeditor5-widget:27.0.0:*:*:*:*:node.js:*:*,CKEditor ckeditor5-widget 27.0.0 for Node.js,[''],2022-03-20T01:58Z

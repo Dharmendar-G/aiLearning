@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:d-circle:power_egg:2.7:patch7:*:*:government:*:*:*,D-CIRCLE POWER EGG 2.7 Patch 7 Government Edition,['CVE-2019-5916'],2022-03-20T11:16Z
+1,cpe:2.3:a:d-circle:power_egg:2.8:patch6:*:*:*:*:*:*,D-CIRCLE POWER EGG 2.8 Patch 6,['CVE-2019-5916'],2022-03-20T11:16Z
+2,cpe:2.3:a:d-circle:power_egg:2.8c:patch5:*:*:*:*:*:*,D-CIRCLE POWER EGG 2.8c Patch 5,['CVE-2019-5916'],2022-03-20T11:16Z
+3,cpe:2.3:a:d-circle:power_egg:2.9:patch4:*:*:*:*:*:*,D-CIRCLE POWER EGG 2.9 Patch 4,['CVE-2019-5916'],2022-03-20T11:16Z
+4,cpe:2.3:a:d-coda:contactme:2.3:*:*:*:*:wordpress:*:*,DCoda Ltd Contact Form by ContactMe.com plugin for WordPress 2.3,['CVE-2014-4518'],2022-03-20T11:16Z
+5,cpe:2.3:a:dcraw_project:dcraw:7.00:*:*:*:*:*:*:*,dcraw project dcraw 7.00,"['CVE-2015-3885', 'CVE-2018-19565', 'CVE-2018-19566', 'CVE-2018-19567', 'CVE-2018-19568', 'CVE-2018-19655']",2022-03-20T11:16Z
+6,cpe:2.3:a:dcraw_project:dcraw:9.28:*:*:*:*:*:*:*,dcraw Project dcraw 9.28,"['CVE-2018-19565', 'CVE-2018-19566', 'CVE-2018-19567', 'CVE-2018-19568', 'CVE-2018-19655']",2022-03-20T11:16Z
+7,cpe:2.3:a:dcserver_project:dcserver:1.0.0:*:*:*:*:node.js:*:*,dcserver Project dcserver 1.0.0 for Node.js,['CVE-2017-16158'],2022-03-20T11:16Z
+8,cpe:2.3:a:ddq_project:ddq:-:*:*:*:*:*:*:*,DDQ Project DDQ,['CVE-2018-19833'],2022-03-20T11:16Z
+9,cpe:2.3:o:ddrt:dashcam_live_firmware:2019-05-08:*:*:*:*:*:*:*,DDRT Dashcam Live Firmware 2019-05-08,[''],2022-03-20T11:16Z

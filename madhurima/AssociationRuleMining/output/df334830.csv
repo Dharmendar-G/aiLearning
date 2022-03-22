@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:huawei:manageone:6.5.1:spc101.b040:*:*:*:*:*:*,Huawei ManageOne 6.5.1 SPC101.B040,"['CVE-2021-22299', 'CVE-2021-22339', 'CVE-2021-22409']",2022-03-21T18:03Z
+1,cpe:2.3:a:huawei:manageone:6.5.1:spc200:*:*:*:*:*:*,Huawei ManageOne 6.5.1 SPC200,"['CVE-2021-22299', 'CVE-2021-22339', 'CVE-2021-22340', 'CVE-2021-22409']",2022-03-21T18:03Z
+2,cpe:2.3:a:huawei:manageone:6.5.1:spc200.b010:*:*:*:*:*:*,Huawei ManageOne 6.5.1 SPC200.B010,"['CVE-2021-22299', 'CVE-2021-22339', 'CVE-2021-22409']",2022-03-21T18:03Z
+3,cpe:2.3:a:huawei:manageone:6.5.1:spc200.b030:*:*:*:*:*:*,Huawei ManageOne 6.5.1 SPC200.B030,"['CVE-2021-22299', 'CVE-2021-22339', 'CVE-2021-22409']",2022-03-21T18:03Z
+4,cpe:2.3:a:huawei:manageone:6.5.1:spc200.b040:*:*:*:*:*:*,Huawei ManageOne 6.5.1 SPC200.B040,"['CVE-2021-22299', 'CVE-2021-22339', 'CVE-2021-22409']",2022-03-21T18:03Z
+5,cpe:2.3:a:huawei:manageone:6.5.1:spc200.b050:*:*:*:*:*:*,Huawei ManageOne 6.5.1 SPC200.B050,"['CVE-2021-22299', 'CVE-2021-22339', 'CVE-2021-22409']",2022-03-21T18:03Z
+6,cpe:2.3:a:huawei:manageone:6.5.1:spc200.b060:*:*:*:*:*:*,Huawei ManageOne 6.5.1 SPC200.B060,"['CVE-2021-22299', 'CVE-2021-22339', 'CVE-2021-22409']",2022-03-21T18:03Z
+7,cpe:2.3:a:huawei:manageone:6.5.1:spc200.b070:*:*:*:*:*:*,Huawei ManageOne 6.5.1 SPC200.B070,"['CVE-2021-22299', 'CVE-2021-22339', 'CVE-2021-22409']",2022-03-21T18:03Z
+8,cpe:2.3:a:huawei:manageone:6.5.1.1:-:*:*:*:*:*:*,Huawei ManageOne 6.5.1.1,['CVE-2021-22293'],2022-03-21T18:03Z
+9,cpe:2.3:a:huawei:manageone:6.5.1.1:b010:*:*:*:*:*:*,Huawei ManageOne 6.5.1.1 B010,"['CVE-2020-9115', 'CVE-2021-22299', 'CVE-2021-22314', 'CVE-2021-22339', 'CVE-2021-22409', 'CVE-2021-37131']",2022-03-21T18:03Z

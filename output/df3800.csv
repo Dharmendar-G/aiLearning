@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:abb:cp635-web:-:*:*:*:*:*:*:*,ABB CP635-WEB,"['CVE-2019-7225', 'CVE-2019-7229']",2022-03-18T10:29Z
+1,cpe:2.3:o:abb:cp635-web_firmware:1.76:*:*:*:*:*:*:*,ABB CP635-WEB Firmware 1.76,"['CVE-2019-7225', 'CVE-2019-7229']",2022-03-18T10:29Z
+2,cpe:2.3:o:abb:cp635-web_firmware:2.8.0.424:*:*:*:*:*:*:*,ABB CP635-WEB Firmware 2.8.0.424,[''],2022-03-18T10:29Z
+3,cpe:2.3:h:abb:cp651:-:*:*:*:*:*:*:*,ABB CP651,"['CVE-2019-10995', 'CVE-2019-7225']",2022-03-18T10:29Z
+4,cpe:2.3:o:abb:cp651_firmware:1.76:*:*:*:*:*:*:*,ABB CP651 Firmware 1.76,"['CVE-2019-10995', 'CVE-2019-7225']",2022-03-18T10:29Z
+5,cpe:2.3:o:abb:cp651_firmware:bsp_un30_1.76:*:*:*:*:*:*:*,ABB CP651 Firmware BSP UN30 1.76,['CVE-2019-10995'],2022-03-18T10:29Z
+6,cpe:2.3:h:abb:cp651-web:-:*:*:*:*:*:*:*,ABB CP651-WEB,"['CVE-2019-10995', 'CVE-2019-7225']",2022-03-18T10:29Z
+7,cpe:2.3:o:abb:cp651-web_firmware:1.76:*:*:*:*:*:*:*,ABB CP651-WEB Firmware 1.76,"['CVE-2019-10995', 'CVE-2019-7225']",2022-03-18T10:29Z
+8,cpe:2.3:o:abb:cp651-web_firmware:bsp_un30_1.76:*:*:*:*:*:*:*,ABB CP651-WEB Firmware BSP UN30 1.76,['CVE-2019-10995'],2022-03-18T10:29Z
+9,cpe:2.3:h:abb:cp661:-:*:*:*:*:*:*:*,ABB CP661,"['CVE-2019-10995', 'CVE-2019-7225']",2022-03-18T10:29Z

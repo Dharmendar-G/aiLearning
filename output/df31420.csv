@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:hadoop:0.17.0:*:*:*:*:*:*:*,Apache Software Foundation Hadoop 0.17.0,"['CVE-2012-4449', 'CVE-2016-5001', 'CVE-2017-3161', 'CVE-2017-3162']",2022-03-18T18:33Z
+1,cpe:2.3:a:apache:hadoop:0.17.1:*:*:*:*:*:*:*,Apache Software Foundation Hadoop 0.17.1,"['CVE-2012-4449', 'CVE-2016-5001', 'CVE-2017-3161', 'CVE-2017-3162']",2022-03-18T18:33Z
+2,cpe:2.3:a:apache:hadoop:0.17.2:*:*:*:*:*:*:*,Apache Software Foundation Hadoop 0.17.2,"['CVE-2012-4449', 'CVE-2016-5001', 'CVE-2017-3161', 'CVE-2017-3162']",2022-03-18T18:33Z
+3,cpe:2.3:a:apache:hadoop:0.18.0:*:*:*:*:*:*:*,Apache Software Foundation Hadoop 0.18.0,"['CVE-2012-4449', 'CVE-2016-5001', 'CVE-2017-3161', 'CVE-2017-3162']",2022-03-18T18:33Z
+4,cpe:2.3:a:apache:hadoop:0.18.1:*:*:*:*:*:*:*,Apache Software Foundation Hadoop 0.18.1,"['CVE-2012-4449', 'CVE-2016-5001', 'CVE-2017-3161', 'CVE-2017-3162']",2022-03-18T18:33Z
+5,cpe:2.3:a:apache:hadoop:0.18.2:*:*:*:*:*:*:*,Apache Software Foundation Hadoop 0.18.2,"['CVE-2012-4449', 'CVE-2016-5001', 'CVE-2017-3161', 'CVE-2017-3162']",2022-03-18T18:33Z
+6,cpe:2.3:a:apache:hadoop:0.18.3:*:*:*:*:*:*:*,Apache Software Foundation Hadoop 0.18.3,"['CVE-2012-4449', 'CVE-2016-5001', 'CVE-2017-3161', 'CVE-2017-3162']",2022-03-18T18:33Z
+7,cpe:2.3:a:apache:hadoop:0.19.0:*:*:*:*:*:*:*,Apache Software Foundation Hadoop 0.19.0,"['CVE-2012-4449', 'CVE-2016-5001', 'CVE-2017-3161', 'CVE-2017-3162']",2022-03-18T18:33Z
+8,cpe:2.3:a:apache:hadoop:0.19.1:*:*:*:*:*:*:*,Apache Software Foundation Hadoop 0.19.1,"['CVE-2012-4449', 'CVE-2016-5001', 'CVE-2017-3161', 'CVE-2017-3162']",2022-03-18T18:33Z
+9,cpe:2.3:a:apache:hadoop:0.19.2:*:*:*:*:*:*:*,Apache Software Foundation Hadoop 0.19.2,"['CVE-2012-4449', 'CVE-2016-5001', 'CVE-2017-3161', 'CVE-2017-3162']",2022-03-18T18:33Z

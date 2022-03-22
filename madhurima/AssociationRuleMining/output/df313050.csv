@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitmyserver:hms_testimonials:2.2.23:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 2.2.23 for WordPress,[''],2022-03-21T11:27Z
+1,cpe:2.3:a:hitmyserver:hms_testimonials:2.2.24:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 2.2.24 for WordPress,[''],2022-03-21T11:27Z
+2,cpe:2.3:a:hitmyserver:hms_testimonials:2.2.25:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 2.2.25 for WordPress,[''],2022-03-21T11:27Z
+3,cpe:2.3:a:hitmyserver:hms_testimonials:2.2.26:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 2.2.26 for WordPress,[''],2022-03-21T11:27Z
+4,cpe:2.3:a:hitmyserver:hms_testimonials:2.2.27:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 2.2.27 for WordPress,[''],2022-03-21T11:27Z
+5,cpe:2.3:a:hitmyserver:hms_testimonials:2.2.28:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 2.2.28 for WordPress,[''],2022-03-21T11:27Z
+6,cpe:2.3:a:hitronsoft:nasim_guest_book:1.2:*:*:*:*:*:*:*,Hitron Soft Nasim Guest Book 1.2,['CVE-2009-4869'],2022-03-21T11:27Z
+7,cpe:2.3:h:hitrontech:coda-4582u:-:*:*:*:*:*:*:*,Hitron Technologies CODA-4582U,['CVE-2020-8824'],2022-03-21T11:27Z
+8,cpe:2.3:o:hitrontech:coda-4582u_firmware:7.1.1.30:*:*:*:*:*:*:*,Hitron Technologies CODA-4582U Firmware 7.1.1.30,['CVE-2020-8824'],2022-03-21T11:27Z
+9,cpe:2.3:h:hitrontech:cve-30360:-:*:*:*:*:*:*:*,Hitrontech CVE-30360,['CVE-2014-10069'],2022-03-21T11:27Z

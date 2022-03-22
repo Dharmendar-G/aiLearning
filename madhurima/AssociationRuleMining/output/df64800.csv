@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:ave:ts05n-v:-:*:*:*:*:*:*:*,Ave TS05N-V,"['CVE-2020-21991', 'CVE-2020-21994', 'CVE-2020-21996']",2022-03-19T04:21Z
+1,cpe:2.3:o:ave:ts05n-v_firmware:-:*:*:*:*:*:*:*,Ave TS05N-V Firmware,"['CVE-2020-21991', 'CVE-2020-21994', 'CVE-2020-21996']",2022-03-19T04:21Z
+2,cpe:2.3:a:avenirsoft:directdownload:1.0:*:*:*:*:wordpress:*:*,Avenirsoft DirectDownload 1.0 for WordPress,['CVE-2015-9442'],2022-03-19T04:21Z
+3,cpe:2.3:a:aventinobrand:aventino_brand:2.2:*:*:*:*:android:*:*,aventinobrand Aventino Brand (aka com.AventinoBrand) for android 2.2,['CVE-2014-7069'],2022-03-19T04:21Z
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,cpe:2.3:a:averta:master_slider:3.2.7:*:*:*:*:wordpress:*:*,Averta Master Slider 3.2.7 for WordPress,['CVE-2018-20368'],2022-03-19T04:21Z
+7,cpe:2.3:a:averta:master_slider:3.5.1:*:*:*:*:wordpress:*:*,Averta Master Slider 3.5.1 for WordPress,['CVE-2018-20368'],2022-03-19T04:21Z
+8,cpe:2.3:h:avertx:hd438:-:*:*:*:*:*:*:*,AVERTX HD438,"['CVE-2020-11623', 'CVE-2020-11624', 'CVE-2020-11625']",2022-03-19T04:21Z
+9,cpe:2.3:o:avertx:hd438_firmware:-:*:*:*:*:*:*:*,AVERTX HD438 Firmware,"['CVE-2020-11623', 'CVE-2020-11624', 'CVE-2020-11625']",2022-03-19T04:21Z

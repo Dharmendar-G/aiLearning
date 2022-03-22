@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:appscan_source:8.8:*:*:*:*:*:*:*,IBM AppScan Source 8.8,['CVE-2016-3033'],2022-03-21T19:52Z
+1,cpe:2.3:a:ibm:appscan_source:9.0:*:*:*:*:*:*:*,IBM AppScan Source 9.0,['CVE-2016-3033'],2022-03-21T19:52Z
+2,cpe:2.3:a:ibm:appscan_source:9.0.0.1:*:*:*:*:*:*:*,IBM AppScan Source 9.0.0.1,['CVE-2016-3033'],2022-03-21T19:52Z
+3,cpe:2.3:a:ibm:appscan_source:9.0.1:*:*:*:*:*:*:*,IBM AppScan Source 9.0.1,['CVE-2016-3033'],2022-03-21T19:52Z
+4,cpe:2.3:a:ibm:appscan_source:9.0.2:*:*:*:*:*:*:*,IBM AppScan Source 9.0.2,['CVE-2016-3033'],2022-03-21T19:52Z
+5,cpe:2.3:a:ibm:appscan_source:9.0.3:*:*:*:*:*:*:*,IBM AppScan Source 9.0.3,['CVE-2016-3033'],2022-03-21T19:52Z
+6,cpe:2.3:a:ibm:appscan_source:9.0.3.1:*:*:*:*:*:*:*,IBM AppScan Source 9.0.3.1,['CVE-2016-3033'],2022-03-21T19:53Z
+7,cpe:2.3:a:ibm:appscan_source:9.0.3.2:*:*:*:*:*:*:*,IBM AppScan Source 9.0.3.2,['CVE-2016-3033'],2022-03-21T19:53Z
+8,cpe:2.3:a:ibm:appscan_source:9.0.3.3:*:*:*:*:*:*:*,IBM AppScan Source 9.0.3.3,['CVE-2016-3033'],2022-03-21T19:53Z
+9,cpe:2.3:a:ibm:as400_firewall:-:*:*:*:*:*:*:*,IBM AS400 Firewall,[''],2022-03-21T19:53Z

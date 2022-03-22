@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:citrix:netscaler_access_gateway_firmware:9.2:*:*:*:*:*:*:*,Citrix NetScaler Access Gateway Appliance Firmware 9.2,"['CVE-2013-2767', 'CVE-2014-2881', 'CVE-2014-2882']",2022-03-20T01:31Z
+1,cpe:2.3:o:citrix:netscaler_access_gateway_firmware:9.3:*:*:*:*:*:*:*,Citrix NetScaler Access Gateway Appliance Firmware 9.3,"['CVE-2013-2767', 'CVE-2014-1899', 'CVE-2014-2881', 'CVE-2014-2882', 'CVE-2014-4347']",2022-03-20T01:31Z
+2,cpe:2.3:o:citrix:netscaler_access_gateway_firmware:9.3:agee_common_criteria_build:*:*:*:*:*:*,Citrix NetScaler Access Gateway Appliance Firmware 9.3 AGEE Common Criteria Build,"['CVE-2013-2767', 'CVE-2014-1899', 'CVE-2014-2881', 'CVE-2014-2882', 'CVE-2014-4347']",2022-03-20T01:31Z
+3,cpe:2.3:o:citrix:netscaler_access_gateway_firmware:9.3.53.6:agee_common_criteria_build:*:*:*:*:*:*,Citrix NetScaler Access Gateway Appliance Firmware 9.3.53.6 AGEE Common Criteria Build,"['CVE-2013-2767', 'CVE-2014-2881', 'CVE-2014-2882']",2022-03-20T01:31Z
+4,cpe:2.3:o:citrix:netscaler_access_gateway_firmware:9.3.61.5:*:*:*:*:*:*:*,Citrix NetScaler Access Gateway Appliance Firmware 9.3.62.4,"['CVE-2013-2767', 'CVE-2014-1899', 'CVE-2014-2881', 'CVE-2014-2882']",2022-03-20T01:31Z
+5,cpe:2.3:o:citrix:netscaler_access_gateway_firmware:9.3.62.4:*:*:*:*:*:*:*,Citrix NetScaler Access Gateway Appliance Firmware 9.3.62.4,"['CVE-2014-1899', 'CVE-2014-2881', 'CVE-2014-2882']",2022-03-20T01:31Z
+6,cpe:2.3:o:citrix:netscaler_access_gateway_firmware:10.0:*:*:*:*:*:*:*,Citrix NetScaler Access Gateway Appliance Firmware 10.0,"['CVE-2013-2767', 'CVE-2014-1899', 'CVE-2014-2881', 'CVE-2014-2882']",2022-03-20T01:31Z
+7,cpe:2.3:o:citrix:netscaler_access_gateway_firmware:10.0.74.4:*:*:*:*:*:*:*,Citrix NetScaler Access Gateway Appliance Firmware 10.0.74.4,"['CVE-2013-2767', 'CVE-2014-1899', 'CVE-2014-2881', 'CVE-2014-2882']",2022-03-20T01:31Z
+8,cpe:2.3:o:citrix:netscaler_access_gateway_firmware:10.1:*:*:*:*:*:*:*,Citrix NetScaler Access Gateway Firmware 10.1,"['CVE-2014-1899', 'CVE-2014-2881', 'CVE-2014-2882', 'CVE-2014-4346', 'CVE-2014-4347']",2022-03-20T01:31Z
+9,cpe:2.3:o:citrix:netscaler_access_gateway_firmware:10.1.123.9:*:*:*:*:*:*:*,Citrix NetScaler Access Gateway Firmware 10.1.123.9,"['CVE-2014-2881', 'CVE-2014-2882']",2022-03-20T01:31Z

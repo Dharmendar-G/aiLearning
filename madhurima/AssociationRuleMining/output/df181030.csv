@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:poweredge_t440_firmware:2.11.2:*:*:*:*:*:*:*,Dell Poweredge T440 Firmware 2.11.2,[''],2022-03-20T13:01Z
+1,cpe:2.3:h:dell:poweredge_t640:-:*:*:*:*:*:*:*,Dell PowerEdge T640,"['CVE-2021-21555', 'CVE-2021-21556', 'CVE-2021-21557']",2022-03-20T13:01Z
+2,cpe:2.3:o:dell:poweredge_t640_firmware:-:*:*:*:*:*:*:*,Dell Poweredge T640 Firmware -,"['CVE-2021-21555', 'CVE-2021-21556', 'CVE-2021-21557']",2022-03-20T13:01Z
+3,cpe:2.3:o:dell:poweredge_t640_firmware:2.11.2:*:*:*:*:*:*:*,Dell PowerEdge T640 Firmware 2.11.2,[''],2022-03-20T13:01Z
+4,cpe:2.3:h:dell:poweredge_xr2:-:*:*:*:*:*:*:*,Dell PowerEdge XR2,['CVE-2021-21557'],2022-03-20T13:01Z
+5,cpe:2.3:o:dell:poweredge_xr2_firmware:-:*:*:*:*:*:*:*,Dell Poweredge Xr2 Firmware -,['CVE-2021-21557'],2022-03-20T13:01Z
+6,cpe:2.3:o:dell:poweredge_xr2_firmware:2.11.2:*:*:*:*:*:*:*,Dell Poweredge Xr2 Firmware 2.11.2,[''],2022-03-20T13:01Z
+7,cpe:2.3:a:dell:powerflex_presentation_server:-:*:*:*:*:*:*:*,Dell PowerFlex Presentation Server,[''],2022-03-20T13:01Z
+8,cpe:2.3:a:dell:powerflex_presentation_server:3.5:*:*:*:*:*:*:*,Dell PowerFlex Presentation Server 3.5,['CVE-2021-21588'],2022-03-20T13:01Z
+9,cpe:2.3:a:dell:powerflex_presentation_server:3.6:*:*:*:*:*:*:*,Dell PowerFlex Presentation Server 3.6,[''],2022-03-20T13:01Z

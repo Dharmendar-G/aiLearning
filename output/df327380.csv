@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:pagewide_pro_577dw_d3q21d_firmware:38.9.1948:*:*:*:*:*:*:*,HP PAGEWIDE PRO 577DW D3Q21D FIRMWARE 38.9.1948,[''],2022-03-21T15:43Z
+1,cpe:2.3:h:hp:pagewide_pro_577z_k9z76a:-:*:*:*:*:*:*:*,HP PageWide Pro 577Z K9Z76A,['CVE-2019-16240'],2022-03-21T15:43Z
+2,cpe:2.3:h:hp:pagewide_pro_577z_k9z76b:-:*:*:*:*:*:*:*,HP PageWide Pro 577Z K9Z76B,['CVE-2019-16240'],2022-03-21T15:43Z
+3,cpe:2.3:h:hp:pagewide_pro_577z_k9z76d:-:*:*:*:*:*:*:*,HP PageWide Pro 577Z K9Z76D,['CVE-2019-16240'],2022-03-21T15:43Z
+4,cpe:2.3:o:hp:palm_webos:1.4.1:*:*:*:*:*:*:*,HP Palm webOS 1.4.1,"['CVE-2010-4025', 'CVE-2010-4026', 'CVE-2010-4027', 'CVE-2010-4109']",2022-03-21T15:43Z
+5,cpe:2.3:o:hp:palm_webos:1.4.5:*:*:*:*:*:*:*,HP Palm webOS 1.4.5,"['CVE-2010-4109', 'CVE-2011-1737', 'CVE-2011-1738']",2022-03-21T15:43Z
+6,cpe:2.3:o:hp:palm_webos:1.4.5.1:*:*:*:*:*:*:*,HP Palm webOS 1.4.5.1,"['CVE-2011-1737', 'CVE-2011-1738']",2022-03-21T15:43Z
+7,cpe:2.3:o:hp:palm_webos:2.0:*:*:*:*:*:*:*,HP Palm webOS 2.0,[''],2022-03-21T15:43Z
+8,cpe:2.3:a:hp:panostandalone:45.4.157.0:*:*:*:*:*:*:*,HP Panostandalone 45.4.157.0,[''],2022-03-21T15:43Z
+9,cpe:2.3:a:hp:panostandalone:53.0.13.0:*:*:*:*:*:*:*,HP Panostandalone 53.0.13.0,[''],2022-03-21T15:43Z

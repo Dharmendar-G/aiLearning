@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:unified_sip_phone_3900_firmware:8.1\(4\):*:*:*:*:*:*:*,Cisco Unified SIP Phone 3900 Firmware 8.1(4),['CVE-2015-6391'],2022-03-20T00:56Z
+1,cpe:2.3:o:cisco:unified_sip_phone_3900_firmware:9.2\(1\):*:*:*:*:*:*:*,Cisco Unified SIP Phone 3900 Firmware 9.2(1),['CVE-2015-6391'],2022-03-20T00:56Z
+2,cpe:2.3:o:cisco:unified_sip_phone_3900_firmware:9.2\(2\):*:*:*:*:*:*:*,Cisco Unified SIP Phone 3900 Firmware 9.2(2),['CVE-2015-6391'],2022-03-20T00:56Z
+3,cpe:2.3:h:cisco:unified_sip_phone_3911:-:*:*:*:*:*:*:*,Cisco Unified SIP Phone 3911,[''],2022-03-20T00:56Z
+4,cpe:2.3:h:cisco:unified_sip_phone_3951:-:*:*:*:*:*:*:*,Cisco Unified SIP Phone 3951,[''],2022-03-20T00:56Z
+5,cpe:2.3:a:cisco:unified_threat_defense:-:*:*:*:*:*:*:*,Cisco Unified Threat Defense (UTD),[''],2022-03-20T00:56Z
+6,cpe:2.3:a:cisco:unified_threat_defense:6.12.6:*:*:*:*:*:*:*,Cisco Unified Threat Defense (UTD) 6.12.6,[''],2022-03-20T00:56Z
+7,cpe:2.3:a:cisco:unified_threat_defense:13.12:*:*:*:*:*:*:*,Cisco Unified Threat Defense (UTD) 13.12,[''],2022-03-20T00:56Z
+8,cpe:2.3:a:cisco:unified_threat_defense:16.12:*:*:*:*:*:*:*,Cisco Unified Threat Defense (UTD) 16.12,['CVE-2021-40114'],2022-03-20T00:56Z
+9,cpe:2.3:a:cisco:unified_threat_defense:16.12.6:*:*:*:*:*:*:*,Cisco Unified Threat Defense (UTD) 16.12.6,[''],2022-03-20T00:56Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ait-pro:bulletproof_security:.50.6:*:*:*:*:wordpress:*:*,AIT PRO Bulletproof Security for WordPress .50.6,"['CVE-2014-7958', 'CVE-2014-7959', 'CVE-2014-8749', 'CVE-2021-39327']",2022-03-18T13:59Z
+1,cpe:2.3:a:ait-pro:bulletproof_security:.50.7:*:*:*:*:wordpress:*:*,AIT PRO Bulletproof Security for WordPress .50.7,"['CVE-2014-7958', 'CVE-2014-7959', 'CVE-2014-8749', 'CVE-2021-39327']",2022-03-18T13:59Z
+2,cpe:2.3:a:ait-pro:bulletproof_security:.50.8:*:*:*:*:wordpress:*:*,AIT PRO Bulletproof Security for WordPress .50.8,"['CVE-2014-7958', 'CVE-2014-7959', 'CVE-2014-8749', 'CVE-2021-39327']",2022-03-18T13:59Z
+3,cpe:2.3:a:ait-pro:bulletproof_security:.50.9:*:*:*:*:wordpress:*:*,AIT PRO Bulletproof Security for WordPress .50.9,"['CVE-2014-7958', 'CVE-2014-7959', 'CVE-2014-8749', 'CVE-2021-39327']",2022-03-18T13:59Z
+4,cpe:2.3:a:ait-pro:bulletproof_security:.51:*:*:*:*:wordpress:*:*,AIT PRO Bulletproof Security for WordPress .51,"['CVE-2014-7958', 'CVE-2014-7959', 'CVE-2014-8749', 'CVE-2021-39327']",2022-03-18T13:59Z
+5,cpe:2.3:a:ait-pro:bulletproof_security:.51.1:*:*:*:*:wordpress:*:*,AIT PRO Bulletproof Security .51.1 for WordPress,['CVE-2021-39327'],2022-03-18T13:59Z
+6,cpe:2.3:a:ait-pro:bulletproof_security:.51.2:*:*:*:*:wordpress:*:*,AIT PRO Bulletproof Security .51.2 for WordPress,['CVE-2021-39327'],2022-03-18T13:59Z
+7,cpe:2.3:a:ait-pro:bulletproof_security:.51.3:*:*:*:*:wordpress:*:*,AIT PRO Bulletproof Security .51.3 for WordPress,['CVE-2021-39327'],2022-03-18T13:59Z
+8,cpe:2.3:a:ait-pro:bulletproof_security:.51.4:*:*:*:*:wordpress:*:*,AIT PRO Bulletproof Security .51.4 for WordPress,['CVE-2021-39327'],2022-03-18T13:59Z
+9,cpe:2.3:a:ait-pro:bulletproof_security:.51.5:*:*:*:*:wordpress:*:*,AIT PRO Bulletproof Security .51.5 for WordPress,['CVE-2021-39327'],2022-03-18T13:59Z

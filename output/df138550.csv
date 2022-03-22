@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:web_security_appliance:11.8.0:*:*:*:*:*:*:*,Cisco Web Security Appliance 11.8.0,"['CVE-2018-0093', 'CVE-2020-3164', 'CVE-2021-1129', 'CVE-2021-1490']",2022-03-20T01:09Z
+1,cpe:2.3:a:cisco:web_security_appliance:11.8.0-382:*:*:*:*:*:*:*,Cisco Web Security Appliance 11.8.0-382,"['CVE-2018-0093', 'CVE-2020-3117', 'CVE-2020-3164', 'CVE-2021-1490']",2022-03-20T01:09Z
+2,cpe:2.3:a:cisco:web_security_appliance:11.8.0-453:*:*:*:*:*:*:*,Cisco Web Security Appliance (WSA) 11.8.0-453,"['CVE-2018-0093', 'CVE-2020-3164', 'CVE-2021-1359', 'CVE-2021-1490']",2022-03-20T01:09Z
+3,cpe:2.3:a:cisco:web_security_appliance:12.0.1-268:*:*:*:*:*:*:*,Cisco Web Security Appliance (WSA) 12.0.1-268,"['CVE-2018-0093', 'CVE-2020-3117', 'CVE-2020-3164', 'CVE-2021-1490']",2022-03-20T01:09Z
+4,cpe:2.3:a:cisco:web_security_appliance:12.5.0-722:*:*:*:*:*:*:*,Cisco Web Security Appliance (WSA) 12.5.0-722,"['CVE-2018-0093', 'CVE-2021-1490']",2022-03-20T01:09Z
+5,cpe:2.3:a:cisco:web_security_appliance:12.5.1-011:*:*:*:*:*:*:*,Cisco Web Security Appliance (WSA) 12.5.1-011,"['CVE-2018-0093', 'CVE-2021-1490']",2022-03-20T01:09Z
+6,cpe:2.3:a:cisco:web_security_appliance:14.0:*:*:*:*:*:*:*,Cisco Web Security Appliance (WSA) 14.0,['CVE-2018-0093'],2022-03-20T01:09Z
+7,cpe:2.3:h:cisco:web_security_appliance:wsa10.0.0-959:*:*:*:*:*:*:*,Cisco Web Security Appliance WSA10.0.0-959,['CVE-2018-0428'],2022-03-20T01:09Z
+8,cpe:2.3:h:cisco:web_security_appliance:wsa10.5.0-fcs-000:*:*:*:*:*:*:*,Cisco Web Security Appliance WSA10.5.0-FCS-000,['CVE-2018-0428'],2022-03-20T01:09Z
+9,cpe:2.3:a:cisco:web_security_appliance:wsa10.5.0-fcs-000:*:*:*:*:*:*:*,Cisco Web Security Appliance Wsa10.5.0-fcs-000,"['CVE-2018-0093', 'CVE-2019-1816']",2022-03-20T01:09Z

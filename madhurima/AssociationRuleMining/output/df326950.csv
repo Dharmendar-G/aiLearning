@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:operations_agent:11.15:*:*:*:*:*:*:*,HP Operations Agent 11.15,['CVE-2017-3733'],2022-03-21T15:37Z
+1,cpe:2.3:a:hp:operations_integration_adapter_policy_activation:9.0.111:*:*:*:*:*:*:*,HP Operations Integration Adapter Policy Activation 9.0.111,[''],2022-03-21T15:37Z
+2,cpe:2.3:a:hp:operations_manager:8.1:*:*:*:*:*:*:*,HP Operations Manager 8.1,"['CVE-2009-3099', 'CVE-2009-4189', 'CVE-2016-1985']",2022-03-21T15:37Z
+3,cpe:2.3:a:hp:operations_manager:8.10:*:*:*:*:*:*:*,HP Operations Manager 8.10,"['CVE-2009-4189', 'CVE-2016-1985']",2022-03-21T15:37Z
+4,cpe:2.3:a:hp:operations_manager:8.16:*:*:*:*:*:*:*,HP Operations Manager 8.16,"['CVE-2009-4189', 'CVE-2016-1985']",2022-03-21T15:37Z
+5,cpe:2.3:a:hp:operations_manager:9.0:*:*:*:*:*:*:*,HP Operations Manager 9.0,"['CVE-2009-4189', 'CVE-2016-1985']",2022-03-21T15:37Z
+6,cpe:2.3:a:hp:operations_manager:9.20.0:*:*:*:linux:*:*:*,HP Operations Manager (OM) 9.20.0 for Linux,"['CVE-2009-4189', 'CVE-2016-4373']",2022-03-21T15:37Z
+7,cpe:2.3:a:hp:operations_manager:9.20.0:*:*:*:solaris:*:*:*,HP Operations Manager (OM) 9.20.0 for Solaris,"['CVE-2009-4189', 'CVE-2016-4373']",2022-03-21T15:37Z
+8,cpe:2.3:a:hp:operations_manager:9.20.0:*:*:*:unix:*:*:*,HP Operations Manager (OM) 9.20.0 for Unix,"['CVE-2009-4189', 'CVE-2016-4373']",2022-03-21T15:37Z
+9,cpe:2.3:a:hp:operations_manager:9.21:*:*:*:*:linux:*:*,HP Operations Manager 9.21 for Linux,"['CVE-2009-4189', 'CVE-2016-4373', 'CVE-2016-4380']",2022-03-21T15:37Z

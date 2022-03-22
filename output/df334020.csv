@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:fusionmanager:-:*:*:*:*:*:*:*,Huawei FusionManager,[''],2022-03-21T17:45Z
+1,cpe:2.3:a:huawei:fusionmanager:v100r002c03:*:*:*:*:*:*:*,Huawei FusionManager V100R002C03,"['CVE-2014-9136', 'CVE-2014-9137']",2022-03-21T17:45Z
+2,cpe:2.3:a:huawei:fusionmanager:v100r003c00:*:*:*:*:*:*:*,Huawei FusionManager V100R003C00,"['CVE-2014-9136', 'CVE-2014-9137']",2022-03-21T17:45Z
+3,cpe:2.3:o:huawei:fusionmanager_firmware:v100r002c03:*:*:*:*:*:*:*,Huawei FusionManager Firmware V100R002C03,[''],2022-03-21T17:45Z
+4,cpe:2.3:o:huawei:fusionmanager_firmware:v100r003c00:*:*:*:*:*:*:*,Huawei FusionManager Firmware V100R003C00,[''],2022-03-21T17:45Z
+5,cpe:2.3:a:huawei:fusionserver_ch121_v3:v100r001c00:*:*:*:*:*:*:*,Huawei FusionServer CH121 V3 V100R001C00,"['CVE-2015-7841', 'CVE-2015-7843']",2022-03-21T17:45Z
+6,cpe:2.3:a:huawei:fusionserver_ch220_v3:v100r001c00:*:*:*:*:*:*:*,Huawei FusionServer CH220 V3 V100R001C00,"['CVE-2015-7841', 'CVE-2015-7843']",2022-03-21T17:45Z
+7,cpe:2.3:a:huawei:fusionserver_ch222_v3:v100r001c00:*:*:*:*:*:*:*,Huawei FusionServer CH222 V3 V100R001C00,"['CVE-2015-7841', 'CVE-2015-7843']",2022-03-21T17:45Z
+8,cpe:2.3:a:huawei:fusionserver_rh1288_v3:v100r003c00spc100:*:*:*:*:*:*:*,Huawei FusionServer RH1288 V3 V100R003C00SPC100,"['CVE-2015-7841', 'CVE-2015-7843']",2022-03-21T17:45Z
+9,cpe:2.3:a:huawei:fusionserver_rh1288a_v2:v100r002c00:*:*:*:*:*:*:*,Huawei FusionServer RH1288A V2 V100R002C00,"['CVE-2015-7841', 'CVE-2015-7843']",2022-03-21T17:45Z

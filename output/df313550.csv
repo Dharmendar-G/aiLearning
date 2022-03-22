@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hms-networks:ecatcher:6.5.4:*:*:*:*:*:*:*,HMS-Networks Ecatcher 6.5.4,"['CVE-2020-14498', 'CVE-2021-33214']",2022-03-21T11:33Z
+1,cpe:2.3:a:hms-networks:ecatcher:6.5.5:*:*:*:*:*:*:*,HMS-Networks Ecatcher 6.5.5,['CVE-2021-33214'],2022-03-21T11:33Z
+2,cpe:2.3:a:hms-networks:ecatcher:6.5.6:*:*:*:*:*:*:*,HMS-Networks Ecatcher 6.5.6,['CVE-2021-33214'],2022-03-21T11:33Z
+3,cpe:2.3:a:hms-networks:ecatcher:6.6.1:*:*:*:*:*:*:*,HMS-Networks Ecatcher 6.6.1,['CVE-2021-33214'],2022-03-21T11:33Z
+4,cpe:2.3:a:hms-networks:ecatcher:6.6.2:*:*:*:*:*:*:*,HMS-Networks Ecatcher 6.6.2,['CVE-2021-33214'],2022-03-21T11:33Z
+5,cpe:2.3:a:hms-networks:ecatcher:6.6.3:*:*:*:*:*:*:*,HMS-Networks Ecatcher 6.6.3,['CVE-2021-33214'],2022-03-21T11:33Z
+6,cpe:2.3:a:hms-networks:ecatcher:6.6.4:*:*:*:*:*:*:*,HMS-Networks Ecatcher 6.6.4,['CVE-2021-33214'],2022-03-21T11:33Z
+7,cpe:2.3:h:hms-networks:ewon_cosy:-:*:*:*:*:*:*:*,HMS-Networks eWON Cosy,"['CVE-2020-10633', 'CVE-2020-16230']",2022-03-21T11:33Z
+8,cpe:2.3:o:hms-networks:ewon_cosy_firmware:-:*:*:*:*:*:*:*,HMS-Networks eWON Cosy Firmware,"['CVE-2020-10633', 'CVE-2020-16230']",2022-03-21T11:33Z
+9,cpe:2.3:o:hms-networks:ewon_cosy_firmware:14.1:*:*:*:*:*:*:*,HMS-Networks Ewon Cosy Firmware 14.1,['CVE-2020-10633'],2022-03-21T11:33Z

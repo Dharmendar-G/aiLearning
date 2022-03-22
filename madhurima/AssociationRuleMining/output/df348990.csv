@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:spectrum_virtualize_for_public_cloud:8.3.1.1:*:*:*:*:*:*:*,IBM Spectrum Virtualize for Public Cloud (SpecVPC) 8.3.1.1,['CVE-2021-29873'],2022-03-21T22:15Z
+1,cpe:2.3:a:ibm:spectrum_virtualize_software_for_public_cloud:7.5:*:*:*:*:*:*:*,IBM Spectrum Virtualize Software For Public Cloud 7.5,['CVE-2018-1775'],2022-03-21T22:15Z
+2,cpe:2.3:a:ibm:spectrum_virtualize_software_for_public_cloud:8.2:*:*:*:*:*:*:*,IBM Spectrum Virtualize Software For Public Cloud 8.2,['CVE-2018-1775'],2022-03-21T22:15Z
+3,cpe:2.3:a:ibm:spss_analytic_server:1.0.0:*:*:*:*:*:*:*,IBM SPSS Analytic Server 1.0.0,[''],2022-03-21T22:15Z
+4,cpe:2.3:a:ibm:spss_analytic_server:1.0.0.0:*:*:*:*:*:*:*,IBM SPSS Analytic Server 1.0.0.0,['CVE-2014-0920'],2022-03-21T22:15Z
+5,cpe:2.3:a:ibm:spss_analytic_server:1.0.1:*:*:*:*:*:*:*,IBM SPSS Analytic Server 1.0.1,[''],2022-03-21T22:15Z
+6,cpe:2.3:a:ibm:spss_analytic_server:1.0.1.0:*:*:*:*:*:*:*,IBM SPSS Analytic Server 1.0.1.0,['CVE-2014-0920'],2022-03-21T22:15Z
+7,cpe:2.3:a:ibm:spss_analytic_server:2.0.0:*:*:*:*:*:*:*,IBM SPSS Analytic Server 2.0.0,[''],2022-03-21T22:15Z
+8,cpe:2.3:a:ibm:spss_analytic_server:2.1.0:*:*:*:*:*:*:*,IBM SPSS Analytic Server 2.1.0,[''],2022-03-21T22:15Z
+9,cpe:2.3:a:ibm:spss_analytic_server:3.0.0:*:*:*:*:*:*:*,IBM SPSS Analytic Server 3.0.0,[''],2022-03-21T22:15Z

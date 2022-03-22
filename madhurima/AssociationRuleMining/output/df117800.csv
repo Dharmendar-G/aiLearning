@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:cloud_services_platform_2100_firmware:2.2.4:*:*:*:*:*:*:*,Cisco Cloud Services Platform 2100 Firmware 2.2.4,[''],2022-03-19T19:14Z
+1,cpe:2.3:o:cisco:cloud_services_platform_2100_firmware:2.2.5:*:*:*:*:*:*:*,Cisco Cloud Services Platform 2100 Firmware 2.2.5,[''],2022-03-19T19:14Z
+2,cpe:2.3:o:cisco:cloud_services_platform_2100_firmware:2.3.0:*:*:*:*:*:*:*,Cisco Cloud Services Platform 2100 Firmware 2.3.0,[''],2022-03-19T19:14Z
+3,cpe:2.3:h:cisco:cloud_services_r_1000v:-:*:*:*:*:*:*:*,Cisco Cloud Services R 1000V,['CVE-2019-12658'],2022-03-19T19:14Z
+4,cpe:2.3:h:cisco:cloud_services_router_1000v:-:*:*:*:*:*:*:*,Cisco Cloud Services Router 1000v,"['CVE-2018-0173', 'CVE-2018-0177', 'CVE-2018-0315', 'CVE-2019-12643', 'CVE-2019-12647', 'CVE-2019-12650', 'CVE-2019-12651', 'CVE-2019-12654', 'CVE-2019-12657', 'CVE-2019-1904', 'CVE-2020-3423', 'CVE-2020-3425', 'CVE-2020-3428', 'CVE-2020-3479', 'CVE-2020-3480']",2022-03-19T19:14Z
+5,cpe:2.3:a:cisco:cloud_services_router_1000v:-:*:*:*:*:*:*:*,Cisco Cloud Services Router 1000V,"['CVE-2020-3299', 'CVE-2021-1371']",2022-03-19T19:14Z
+6,cpe:2.3:o:cisco:cloud_services_router_1000v_firmware:17.1.1:*:*:*:*:*:*:*,Cisco Cloud Services Router 1000v Firmware 17.1.1,['CVE-2019-12651'],2022-03-19T19:14Z
+7,cpe:2.3:a:cisco:cloud_web_security:-:*:*:*:*:*:*:*,Cisco Cloud Web Security,"['CVE-2015-0674', 'CVE-2015-0689']",2022-03-19T19:14Z
+8,cpe:2.3:a:cisco:cloud_web_security:3.0.0.0:*:*:*:*:*:*:*,Cisco Cloud Web Security 3.0.0.0,['CVE-2015-0689'],2022-03-19T19:14Z
+9,cpe:2.3:a:cisco:cloud_web_security:3.0.0.1:*:*:*:*:*:*:*,Cisco Cloud Web Security 3.0.0.1,['CVE-2015-0689'],2022-03-19T19:14Z

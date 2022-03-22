@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:coder:code-server:3.10.2:*:*:*:*:*:*:*,Coder code-server 3.10.2,['CVE-2021-3810'],2022-03-20T05:59Z
+1,cpe:2.3:a:coder:code-server:3.11.0:*:*:*:*:*:*:*,Coder code-server 3.11.0,['CVE-2021-3810'],2022-03-20T05:59Z
+2,cpe:2.3:a:coder:code-server:3.11.1:*:*:*:*:*:*:*,Coder code-server 3.11.1,['CVE-2021-3810'],2022-03-20T05:59Z
+3,cpe:2.3:a:coder:code-server:3.12.0:*:*:*:*:*:*:*,Coder code-server 3.12.0,[''],2022-03-20T05:59Z
+4,cpe:2.3:a:coderium:soundengine:5.21:*:*:*:free:*:*:*,Coderium SoundEngine 5.21 Free Edition,['CVE-2018-0562'],2022-03-20T06:00Z
+5,cpe:2.3:a:coderpixel:advanced_hrm:1.0:*:*:*:*:*:*:*,CoderPixel Advanced HRM 1.0,[''],2022-03-20T06:00Z
+6,cpe:2.3:a:coderpixel:advanced_hrm:1.5:*:*:*:*:*:*:*,CoderPixel Advanced HRM 1.5,[''],2022-03-20T06:00Z
+7,cpe:2.3:a:coderpixel:advanced_hrm:1.6:*:*:*:*:*:*:*,CoderPixel Advanced HRM 1.6,['CVE-2018-18382'],2022-03-20T06:00Z
+8,cpe:2.3:a:codersclub:discuz\!ml:3.2:*:*:*:*:*:*:*,CodersClub Discuz!ML 3.2,['CVE-2019-13956'],2022-03-20T06:00Z
+9,cpe:2.3:a:codersclub:discuz\!ml:3.3:*:*:*:*:*:*:*,CodersClub Discuz!ML 3.3,['CVE-2019-13956'],2022-03-20T06:00Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:babygekko:baby_gekko:1.2.2:*:*:*:*:*:*:*,Baby Gekko 1.2.2,['CVE-2012-5700'],2022-03-19T05:40Z
+1,cpe:2.3:a:babygekko:baby_gekko:1.2.2:a:*:*:*:*:*:*,Baby Gekko 1.2.2a,['CVE-2012-5700'],2022-03-19T05:40Z
+2,cpe:2.3:a:babygekko:babygekko:1.2.4:*:*:*:*:*:*:*,BabyGekko 1.2.4,[''],2022-03-19T05:40Z
+3,cpe:2.3:a:babylon:babylon:8.1.0:r16:*:*:*:*:*:*,Babylon 8.1.0 r16,['CVE-2010-5225'],2022-03-19T05:40Z
+4,cpe:2.3:a:babyphonemobile:wifi_baby_monitor:-:*:*:*:*:*:*:*,Babyphonemobile Wifi Baby Monitor,['CVE-2018-7661'],2022-03-19T05:40Z
+5,cpe:2.3:a:babyphonemobile:wifi_baby_monitor:2.02.2:*:*:*:*:*:*:*,Babyphonemobile Wifi Baby Monitor 2.02.2,[''],2022-03-19T05:40Z
+6,cpe:2.3:a:backblaze:backblaze:-:*:*:*:*:macos:*:*,Backblaze for macOS,"['CVE-2020-8289', 'CVE-2020-8290']",2022-03-19T05:40Z
+7,cpe:2.3:a:backblaze:backblaze:-:*:*:*:*:windows:*:*,Backblaze for Windows,"['CVE-2020-8289', 'CVE-2020-8290']",2022-03-19T05:40Z
+8,cpe:2.3:a:backblaze:backblaze:7.0.0.439:*:*:*:*:macos:*:*,Backblaze 7.0.0.439 for macOS,['CVE-2020-8289'],2022-03-19T05:40Z
+9,cpe:2.3:a:backblaze:backblaze:7.0.0.439:*:*:*:*:windows:*:*,Backblaze 7.0.0.439 for Windows,['CVE-2020-8289'],2022-03-19T05:40Z

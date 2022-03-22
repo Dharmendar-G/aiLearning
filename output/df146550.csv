@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:java_buildpack:1.4:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 1.4,[''],2022-03-20T03:28Z
+1,cpe:2.3:a:cloudfoundry:java_buildpack:1.5:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 1.5,[''],2022-03-20T03:28Z
+2,cpe:2.3:a:cloudfoundry:java_buildpack:1.5.1:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 1.5.1,[''],2022-03-20T03:28Z
+3,cpe:2.3:a:cloudfoundry:java_buildpack:2.0:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 2.0,['CVE-2016-0708'],2022-03-20T03:28Z
+4,cpe:2.3:a:cloudfoundry:java_buildpack:2.0.2:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 2.0.2,['CVE-2016-0708'],2022-03-20T03:28Z
+5,cpe:2.3:a:cloudfoundry:java_buildpack:2.1:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 2.1,['CVE-2016-0708'],2022-03-20T03:28Z
+6,cpe:2.3:a:cloudfoundry:java_buildpack:2.1.1:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 2.1.1,['CVE-2016-0708'],2022-03-20T03:28Z
+7,cpe:2.3:a:cloudfoundry:java_buildpack:2.1.2:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 2.1.2,['CVE-2016-0708'],2022-03-20T03:28Z
+8,cpe:2.3:a:cloudfoundry:java_buildpack:2.2:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 2.2,['CVE-2016-0708'],2022-03-20T03:28Z
+9,cpe:2.3:a:cloudfoundry:java_buildpack:2.3:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 2.3,['CVE-2016-0708'],2022-03-20T03:28Z

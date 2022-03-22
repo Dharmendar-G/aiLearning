@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:unicenter_remote_control_option:5.0:*:*:*:*:*:*:*,Broadcom Unicenter Remote Control Option 5.0,['CVE-2003-0998'],2022-03-19T12:34Z
+1,cpe:2.3:a:broadcom:unicenter_remote_control_option:5.1:*:*:*:*:*:*:*,Broadcom Unicenter Remote Control Option 5.1,['CVE-2003-0998'],2022-03-19T12:34Z
+2,cpe:2.3:a:broadcom:unicenter_service_delivery:-:*:*:*:*:*:*:*,Broadcom Unicenter Service Delivery,[''],2022-03-19T12:34Z
+3,cpe:2.3:a:broadcom:unicenter_service_delivery:11.0:*:*:*:*:*:*:*,Broadcom Unicenter Service Delivery 11.0,['CVE-2005-3653'],2022-03-19T12:34Z
+4,cpe:2.3:a:broadcom:unicenter_service_desk:-:*:*:*:*:*:*:*,Broadcom Unicenter Service Desk,[''],2022-03-19T12:34Z
+5,cpe:2.3:a:broadcom:unicenter_service_desk:11.0:*:*:*:*:*:*:*,Broadcom Unicenter Service Desk 11.0,['CVE-2005-3653'],2022-03-19T12:34Z
+6,cpe:2.3:a:broadcom:unicenter_service_desk_knowledge_tools:-:*:*:*:*:*:*:*,Broadcom Unicenter Service Desk Knowledge Tools,[''],2022-03-19T12:34Z
+7,cpe:2.3:a:broadcom:unicenter_service_desk_knowledge_tools:11.0:*:*:*:*:*:*:*,Broadcom Unicenter Service Desk Knowledge Tools 11.0,['CVE-2005-3653'],2022-03-19T12:34Z
+8,cpe:2.3:a:broadcom:unicenter_service_fulfillment:-:*:*:*:*:*:*:*,Broadcom Unicenter Service Fulfillment,[''],2022-03-19T12:34Z
+9,cpe:2.3:a:broadcom:unicenter_service_fulfillment:2.2:*:*:*:*:*:*:*,Broadcom Unicenter Service Fulfillment 2.2,['CVE-2005-3653'],2022-03-19T12:34Z

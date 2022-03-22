@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cpanel:whm:58.0.32:*:*:*:*:*:*:*,cPanel WHM (WebHost Manager) 58.0.32,['CVE-2017-11441'],2022-03-20T08:33Z
+1,cpe:2.3:a:cpanel:whm:58.0.34:*:*:*:*:*:*:*,cPanel WHM (WebHost Manager) 58.0.34,['CVE-2017-11441'],2022-03-20T08:33Z
+2,cpe:2.3:a:cpanel:whm:58.0.36:*:*:*:*:*:*:*,cPanel WHM (WebHost Manager) 58.0.36,['CVE-2017-11441'],2022-03-20T08:33Z
+3,cpe:2.3:a:cpanel:whm:58.0.37:*:*:*:*:*:*:*,cPanel WHM (WebHost Manager) 58.0.37,['CVE-2017-11441'],2022-03-20T08:33Z
+4,cpe:2.3:a:cpanel:whm:58.0.41:*:*:*:*:*:*:*,cPanel WHM (WebHost Manager) 58.0.41,['CVE-2017-11441'],2022-03-20T08:33Z
+5,cpe:2.3:a:cpanel:whm:58.0.43:*:*:*:*:*:*:*,cPanel WHM (WebHost Manager) 58.0.43,['CVE-2017-11441'],2022-03-20T08:33Z
+6,cpe:2.3:a:cpanel:whm:58.0.44:*:*:*:*:*:*:*,cPanel WHM (WebHost Manager) 58.0.44,['CVE-2017-11441'],2022-03-20T08:33Z
+7,cpe:2.3:a:cpanel:whm:58.0.45:*:*:*:*:*:*:*,cPanel WHM (WebHost Manager) 58.0.45,['CVE-2017-11441'],2022-03-20T08:33Z
+8,cpe:2.3:a:cpanel:whm:58.0.46:*:*:*:*:*:*:*,cPanel WHM (WebHost Manager) 58.0.46,['CVE-2017-11441'],2022-03-20T08:33Z
+9,cpe:2.3:a:cpanel:whm:58.0.47:*:*:*:*:*:*:*,cPanel WHM (WebHost Manager) 58.0.47,['CVE-2017-11441'],2022-03-20T08:33Z

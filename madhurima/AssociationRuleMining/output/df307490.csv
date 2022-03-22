@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hasura:graphql_engine:1.3.2:*:*:*:*:*:*:*,Hasura GraphQL Engine 1.3.2,[''],2022-03-21T10:04Z
+1,cpe:2.3:a:hasura:graphql_engine:1.3.3:*:*:*:*:*:*:*,Hasura GraphQL Engine 1.3.3,[''],2022-03-21T10:04Z
+2,cpe:2.3:a:hasura:graphql_engine:1.3.4:beta1:*:*:*:*:*:*,Hasura GraphQL Engine 1.3.4 Beta 1,[''],2022-03-21T10:04Z
+3,cpe:2.3:a:hasura:graphql_engine:1.3.4:beta2:*:*:*:*:*:*,Hasura GraphQL Engine 1.3.4 Beta 2,[''],2022-03-21T10:04Z
+4,cpe:2.3:a:hasura:graphql_engine:1.3.4:beta3:*:*:*:*:*:*,Hasura GraphQL Engine 1.3.4 Beta 3,[''],2022-03-21T10:04Z
+5,cpe:2.3:a:hasura:graphql_engine:1.4.0:alpha1:*:*:*:*:*:*,Hasura GraphQL Engine 1.4.0 Alpha 1,[''],2022-03-21T10:04Z
+6,cpe:2.3:a:hasura:graphql_engine:1.4.0:alpha2:*:*:*:*:*:*,Hasura GraphQL Engine 1.4.0 Alpha 2,[''],2022-03-21T10:04Z
+7,cpe:2.3:a:hasura:graphql_engine:2.0.0:alpha1:*:*:*:*:*:*,Hasura GraphQL Engine 2.0.0 Alpha 1,[''],2022-03-21T10:04Z
+8,cpe:2.3:a:hasura:graphql_engine:2.0.0:alpha2:*:*:*:*:*:*,Hasura GraphQL Engine 2.0.0 Alpha 2,[''],2022-03-21T10:04Z
+9,cpe:2.3:a:hasura:graphql_engine:2.0.0:alpha3:*:*:*:*:*:*,Hasura GraphQL Engine 2.0.0 Alpha 3,[''],2022-03-21T10:04Z

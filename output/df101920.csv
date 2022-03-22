@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:canonical:acpi-support:0.142:*:*:*:*:*:*:*,Canonical acpi-support 0.142,[''],2022-03-19T15:15Z
+1,cpe:2.3:a:canonical:add-apt-repository:0.92.37.0:*:*:*:*:*:*:*,Canonical add-apt-repository 0.92.37.0,['CVE-2020-15709'],2022-03-19T15:15Z
+2,cpe:2.3:a:canonical:add-apt-repository:0.92.37.8ubuntu0.1\~esm1:*:*:*:*:*:*:*,Canonical add-apt-repository 0.92.37.8ubuntu0.1~esm1,[''],2022-03-19T15:15Z
+3,cpe:2.3:a:canonical:add-apt-repository:0.96.20.0:*:*:*:*:*:*:*,Canonical add-apt-repository 0.96.20.0,['CVE-2020-15709'],2022-03-19T15:15Z
+4,cpe:2.3:a:canonical:add-apt-repository:0.96.20.10:*:*:*:*:*:*:*,Canonical add-apt-repository 0.96.20.10,[''],2022-03-19T15:15Z
+5,cpe:2.3:a:canonical:add-apt-repository:0.96.24.32.0:*:*:*:*:*:*:*,Canonical add-apt-repository 0.96.24.32.0,['CVE-2020-15709'],2022-03-19T15:15Z
+6,cpe:2.3:a:canonical:add-apt-repository:0.96.24.32.14:*:*:*:*:*:*:*,Canonical add-apt-repository 0.96.24.32.14,[''],2022-03-19T15:15Z
+7,cpe:2.3:a:canonical:add-apt-repository:0.98.9.0:*:*:*:*:*:*:*,Canonical add-apt-repository 0.98.9.0,['CVE-2020-15709'],2022-03-19T15:15Z
+8,cpe:2.3:a:canonical:add-apt-repository:0.98.9.2:*:*:*:*:*:*:*,Canonical add-apt-repository 0.98.9.2,[''],2022-03-19T15:15Z
+9,cpe:2.3:a:canonical:apparmor:-:*:*:*:*:*:*:*,Canonical AppArmor,['CVE-2016-1585'],2022-03-19T15:15Z

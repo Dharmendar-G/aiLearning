@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:barrier_project:barrier:2.3.2:-:*:*:*:*:*:*,Barrier Project Barrier 2.3.2,"['CVE-2021-42072', 'CVE-2021-42073', 'CVE-2021-42074', 'CVE-2021-42075', 'CVE-2021-42076']",2022-03-19T06:23Z
+1,cpe:2.3:a:barrier_project:barrier:2.3.2:alpha:*:*:*:*:*:*,Barrier Project Barrier 2.3.2 Alpha,"['CVE-2021-42072', 'CVE-2021-42073', 'CVE-2021-42074', 'CVE-2021-42075', 'CVE-2021-42076']",2022-03-19T06:23Z
+2,cpe:2.3:a:barrier_project:barrier:2.3.3:*:*:*:*:*:*:*,Barrier Project Barrier 2.3.3,"['CVE-2021-42072', 'CVE-2021-42073', 'CVE-2021-42074', 'CVE-2021-42075', 'CVE-2021-42076']",2022-03-19T06:23Z
+3,cpe:2.3:a:barrier_project:barrier:2.3.4:*:*:*:*:*:*:*,Barrier Project Barrier 2.3.4,"['CVE-2021-42072', 'CVE-2021-42073']",2022-03-19T06:23Z
+4,cpe:2.3:a:barrier_project:barrier:2.4.0:*:*:*:*:*:*:*,Barrier Project Barrier 2.4.0,[''],2022-03-19T06:23Z
+5,cpe:2.3:a:bart_feenstra:payment:-:7.x-1.0:*:*:*:*:*:*,Bart Feenstra Payment module for Drupal 7.x-1.0,['CVE-2013-0182'],2022-03-19T06:23Z
+6,cpe:2.3:a:bart_feenstra:payment:-:7.x-1.0:alpha1:*:*:*:*:*,Bart Feenstra Payment module for Drupal 7.x-1.0-alpha1,['CVE-2013-0182'],2022-03-19T06:23Z
+7,cpe:2.3:a:bart_feenstra:payment:-:7.x-1.0:alpha2:*:*:*:*:*,Bart Feenstra Payment module for Drupal 7.x-1.0-alpha2,['CVE-2013-0182'],2022-03-19T06:23Z
+8,cpe:2.3:a:bart_feenstra:payment:-:7.x-1.0:alpha3:*:*:*:*:*,Bart Feenstra Payment module for Drupal 7.x-1.0-alpha3,['CVE-2013-0182'],2022-03-19T06:23Z
+9,cpe:2.3:a:bart_feenstra:payment:-:7.x-1.0:alpha4:*:*:*:*:*,Bart Feenstra Payment module for Drupal 7.x-1.0-alpha4,['CVE-2013-0182'],2022-03-19T06:23Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:citrix:xendesktop:7.6:fp2:*:*:*:*:*:*,Citrix XenDesktop 7.6 Feature Pack 2,"['CVE-2014-4700', 'CVE-2016-4810', 'CVE-2016-6493']",2022-03-20T01:41Z
+1,cpe:2.3:a:citrix:xendesktop:7.6:fp3:*:*:*:*:*:*,Citrix XenDesktop 7.6 Feature Pack 3,"['CVE-2014-4700', 'CVE-2016-4810', 'CVE-2016-6493']",2022-03-20T01:41Z
+2,cpe:2.3:a:citrix:xendesktop:7.6:ltsr:*:*:*:*:*:*,Citrix XenDesktop 7.6 Long Term Support Release,"['CVE-2014-4700', 'CVE-2016-4810', 'CVE-2016-6493']",2022-03-20T01:41Z
+3,cpe:2.3:a:citrix:xendesktop:7.7:*:*:*:*:*:*:*,Citrix XenDesktop 7.7,"['CVE-2014-4700', 'CVE-2016-6493']",2022-03-20T01:41Z
+4,cpe:2.3:a:citrix:xendesktop:7.7:*:*:*:ltsr:*:*:*,Citrix XenDesktop 7.7 Long Term Service Release Edition,"['CVE-2014-4700', 'CVE-2016-6493', 'CVE-2020-8269', 'CVE-2020-8283']",2022-03-20T01:41Z
+5,cpe:2.3:a:citrix:xendesktop:7.8:*:*:*:*:*:*:*,Citrix XenDesktop 7.8,"['CVE-2014-4700', 'CVE-2016-6493']",2022-03-20T01:41Z
+6,cpe:2.3:a:citrix:xendesktop:7.9:*:*:*:*:*:*:*,Citrix XenDesktop 7.9,['CVE-2014-4700'],2022-03-20T01:41Z
+7,cpe:2.3:a:citrix:xendesktop:7.11:*:*:*:*:*:*:*,Citrix XenDesktop 7.11,['CVE-2014-4700'],2022-03-20T01:41Z
+8,cpe:2.3:a:citrix:xendesktop:7.15:-:*:*:ltsr:*:*:*,Citrix XenDesktop 7.15 Long Term Service Release Edition,"['CVE-2020-8269', 'CVE-2020-8283', 'CVE-2021-22928']",2022-03-20T01:41Z
+9,cpe:2.3:a:citrix:xendesktop:7.15:cu6:*:*:ltsr:*:*:*,Citrix XenDesktop 7.15 Cumulative Update 6 Long Term Service Release Edition,"['CVE-2020-8269', 'CVE-2020-8283', 'CVE-2021-22928']",2022-03-20T01:41Z

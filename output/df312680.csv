@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitachi:tiered_storage_manager:7.0.0:*:*:*:*:*:*:*,Hitachi Tiered Storage Manager 7.0.0,"['CVE-2015-1565', 'CVE-2018-21026', 'CVE-2018-21033']",2022-03-21T11:21Z
+1,cpe:2.3:a:hitachi:tiered_storage_manager:8.1.1:*:*:*:*:*:*:*,Hitachi Tiered Storage Manager 8.1.1,"['CVE-2015-1565', 'CVE-2018-14735', 'CVE-2018-21026', 'CVE-2018-21033', 'CVE-2019-17360']",2022-03-21T11:21Z
+2,cpe:2.3:a:hitachi:tiered_storage_manager:8.6.2-00:*:*:*:*:*:*:*,Hitachi Tiered Storage Manager 8.6.2-00,"['CVE-2018-21026', 'CVE-2019-17360']",2022-03-21T11:21Z
+3,cpe:2.3:a:hitachi:tiered_storage_manager:8.6.5:*:*:*:*:*:*:*,Hitachi Tiered Storage Manager 8.6.5,"['CVE-2018-21026', 'CVE-2019-17360']",2022-03-21T11:21Z
+4,cpe:2.3:a:hitachi:tiered_storage_manager:8.6.5-00:*:*:*:*:*:*:*,Hitachi Tiered Storage Manager 8.6.5-00,['CVE-2019-17360'],2022-03-21T11:21Z
+5,cpe:2.3:a:hitachi:tiered_storage_manager:8.7.0-00:*:*:*:*:*:*:*,Hitachi Tiered Storage Manager 8.7.0-00,[''],2022-03-21T11:21Z
+6,cpe:2.3:a:hitachi:tuning_manager:6.0.0:*:*:*:*:solaris:*:*,Hitachi Tuning Manger for Solaris 6.0.0,"['CVE-2014-4188', 'CVE-2014-4189', 'CVE-2018-21033']",2022-03-21T11:21Z
+7,cpe:2.3:a:hitachi:tuning_manager:6.0.0:*:*:*:*:windows:*:*,Hitachi Tuning Manger for Windows 6.0.0,"['CVE-2014-4188', 'CVE-2014-4189', 'CVE-2018-21033']",2022-03-21T11:21Z
+8,cpe:2.3:a:hitachi:tuning_manager:7.0.0:*:*:*:*:*:*:*,Hitachi Tuning Manager 7.0.0,"['CVE-2018-21026', 'CVE-2018-21033']",2022-03-21T11:21Z
+9,cpe:2.3:a:hitachi:tuning_manager:7.1.0:*:*:*:*:linux_kernel:*:*,Hitachi Tuning Manger for Linux 7.1.0,"['CVE-2014-4188', 'CVE-2014-4189', 'CVE-2018-14735', 'CVE-2018-21026', 'CVE-2018-21033', 'CVE-2019-17360']",2022-03-21T11:21Z

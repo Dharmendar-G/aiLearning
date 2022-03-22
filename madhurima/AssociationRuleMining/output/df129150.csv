@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:linksys_ea3500_firmware:1.0.30:*:*:*:*:*:*:*,Cisco Linksys EA3500 Firmware 1.0.30,['CVE-2013-5122'],2022-03-19T22:50Z
+1,cpe:2.3:h:cisco:linksys_ea4500:-:*:*:*:*:*:*:*,Cisco Linksys EA4500 -,['CVE-2013-5122'],2022-03-19T22:50Z
+2,cpe:2.3:o:cisco:linksys_ea4500_firmware:2.0.36:*:*:*:*:*:*:*,Cisco Linksys EA4500 Firmware 2.0.36,['CVE-2013-5122'],2022-03-19T22:50Z
+3,cpe:2.3:a:cisco:linksys_playerpt_activex_control:1.0.0.15:*:*:*:*:*:*:*,Cisco Linksys PlayerPT ActiveX control 1.0.0.15,['CVE-2012-0284'],2022-03-19T22:50Z
+4,cpe:2.3:h:cisco:linksys_wrt110:-:*:*:*:*:*:*:*,Cisco Linksys WRT110,['CVE-2013-3568'],2022-03-19T22:50Z
+5,cpe:2.3:o:cisco:linksys_wrt110_firmware:-:*:*:*:*:*:*:*,Cisco Linksys WRT110 Firmware,['CVE-2013-3568'],2022-03-19T22:50Z
+6,cpe:2.3:h:cisco:local_director:-:*:*:*:*:*:*:*,Cisco Local Director,['CVE-2007-4241'],2022-03-19T22:50Z
+7,cpe:2.3:h:cisco:m170:-:*:*:*:*:*:*:*,Cisco M170,['CVE-2021-34741'],2022-03-19T22:50Z
+8,cpe:2.3:h:cisco:m190:-:*:*:*:*:*:*:*,Cisco M190,['CVE-2021-34741'],2022-03-19T22:50Z
+9,cpe:2.3:h:cisco:m380:-:*:*:*:*:*:*:*,Cisco M380,['CVE-2021-34741'],2022-03-19T22:50Z

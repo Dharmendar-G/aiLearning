@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:openvms_secure_web_server:1.1:*:*:*:*:*:*:*,HP OpenVMS Secure Web Server 1.1,[''],2022-03-21T15:37Z
+1,cpe:2.3:a:hp:openvms_secure_web_server:1.1.1:*:*:*:*:*:*:*,HP OpenVMS Secure Web Server 1.1.1,[''],2022-03-21T15:37Z
+2,cpe:2.3:a:hp:openvms_secure_web_server:1.2:*:*:*:*:*:*:*,HP OpenVMS Secure Web Server 1.2,[''],2022-03-21T15:37Z
+3,cpe:2.3:o:hp:openvms_vax:-:*:*:*:*:*:*:*,HP OpenVMS VAX,[''],2022-03-21T15:37Z
+4,cpe:2.3:o:hp:openvms_vax:5.3:*:*:*:*:*:*:*,HP OpenVMS VAX 5.3,[''],2022-03-21T15:37Z
+5,cpe:2.3:o:hp:openvms_vax:5.4:*:*:*:*:*:*:*,HP OpenVMS VAX 5.4,[''],2022-03-21T15:37Z
+6,cpe:2.3:o:hp:openvms_vax:5.5:*:*:*:*:*:*:*,HP OpenVMS VAX 5.5,[''],2022-03-21T15:37Z
+7,cpe:2.3:o:hp:openvms_vax:6.0:*:*:*:*:*:*:*,HP OpenVMS VAX 6.0,[''],2022-03-21T15:37Z
+8,cpe:2.3:o:hp:openvms_vax:6.1:*:*:*:*:*:*:*,HP OpenVMS VAX 6.1,[''],2022-03-21T15:37Z
+9,cpe:2.3:o:hp:openvms_vax:6.2:*:*:*:*:*:*:*,HP OpenVMS VAX 6.2,[''],2022-03-21T15:37Z

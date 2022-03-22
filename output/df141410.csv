@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:civicrm:civicrm:5.37.2:*:*:*:*:*:*:*,CiviCRM 5.37.2,[''],2022-03-20T01:49Z
+1,cpe:2.3:a:civicrm:civicrm:5.38.0:*:*:*:*:*:*:*,CiviCRM 5.38.0,[''],2022-03-20T01:49Z
+2,cpe:2.3:a:civicrm:civicrm:5.38.1:*:*:*:*:*:*:*,CiviCRM 5.38.1,[''],2022-03-20T01:49Z
+3,cpe:2.3:a:civicrm:civicrm:5.39.0:*:*:*:*:*:*:*,CiviCRM 5.39.0,[''],2022-03-20T01:49Z
+4,cpe:2.3:a:civicrm:civicrm_private_report:6.x-1.0:*:*:*:*:drupal:*:*,CiviCRM CiviCRM Private Report for Drupal 6.x-1.0,['CVE-2015-4391'],2022-03-20T01:49Z
+5,cpe:2.3:a:civicrm:civicrm_private_report:6.x-1.1:*:*:*:*:drupal:*:*,CiviCRM CiviCRM Private Report for Drupal 6.x-1.1,['CVE-2015-4391'],2022-03-20T01:49Z
+6,cpe:2.3:a:civicrm:civicrm_private_report:7.x-1.0:*:*:*:*:drupal:*:*,CiviCRM CiviCRM Private Report for Drupal 7.x-1.0,['CVE-2015-4391'],2022-03-20T01:49Z
+7,cpe:2.3:a:civicrm:civicrm_private_report:7.x-1.1:*:*:*:*:drupal:*:*,CiviCRM CiviCRM Private Report for Drupal 7.x-1.1,['CVE-2015-4391'],2022-03-20T01:49Z
+8,cpe:2.3:a:civicrm:civicrm_private_report:7.x-1.2:*:*:*:*:drupal:*:*,CiviCRM CiviCRM Private Report for Drupal 7.x-1.2,['CVE-2015-4391'],2022-03-20T01:49Z
+9,cpe:2.3:a:civitasmedia:logan_banner:1.0010.b0010:*:*:*:*:android:*:*,civitasmedia Logan Banner (aka com.soln.S8B5C1F53B8CBE06D5DE0A0E7E23DCDA7) for android 1.0010.b0010,['CVE-2014-7728'],2022-03-20T01:49Z

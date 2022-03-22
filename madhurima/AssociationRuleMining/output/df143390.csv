@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cli_project:cli:5.7.0:*:*:*:*:node.js:*:*,CLI Project CLI 5.7.0 for Node.js,"['CVE-2019-16775', 'CVE-2019-16776', 'CVE-2019-16777', 'CVE-2020-15095']",2022-03-20T02:27Z
+1,cpe:2.3:a:cli_project:cli:5.7.1:*:*:*:*:node.js:*:*,CLI Project CLI 5.7.1 for Node.js,"['CVE-2019-16775', 'CVE-2019-16776', 'CVE-2019-16777', 'CVE-2020-15095']",2022-03-20T02:27Z
+2,cpe:2.3:a:cli_project:cli:5.8.0:*:*:*:*:node.js:*:*,CLI Project CLI 5.8.0 for Node.js,"['CVE-2019-16775', 'CVE-2019-16776', 'CVE-2019-16777', 'CVE-2020-15095']",2022-03-20T02:27Z
+3,cpe:2.3:a:cli_project:cli:5.10.0:*:*:*:*:node.js:*:*,CLI Project CLI 5.10.0 for Node.js,"['CVE-2019-16775', 'CVE-2019-16776', 'CVE-2019-16777', 'CVE-2020-15095']",2022-03-20T02:27Z
+4,cpe:2.3:a:cli_project:cli:6.0.0:*:*:*:*:node.js:*:*,CLI Project CLI 6.0.0 for Node.js,"['CVE-2019-16775', 'CVE-2019-16776', 'CVE-2019-16777', 'CVE-2020-15095']",2022-03-20T02:27Z
+5,cpe:2.3:a:cli_project:cli:6.0.1:*:*:*:*:node.js:*:*,CLI Project CLI 6.0.1 for Node.js,"['CVE-2019-16775', 'CVE-2019-16776', 'CVE-2019-16777', 'CVE-2020-15095']",2022-03-20T02:27Z
+6,cpe:2.3:a:cli_project:cli:6.1.0:*:*:*:*:node.js:*:*,CLI Project CLI 6.1.0 for Node.js,"['CVE-2019-16775', 'CVE-2019-16776', 'CVE-2019-16777', 'CVE-2020-15095']",2022-03-20T02:27Z
+7,cpe:2.3:a:cli_project:cli:6.2.0:*:*:*:*:node.js:*:*,CLI Project CLI 6.2.0 for Node.js,"['CVE-2019-16775', 'CVE-2019-16776', 'CVE-2019-16777', 'CVE-2020-15095']",2022-03-20T02:28Z
+8,cpe:2.3:a:cli_project:cli:6.3.0:*:*:*:*:node.js:*:*,CLI Project CLI 6.3.0 for Node.js,"['CVE-2019-16775', 'CVE-2019-16776', 'CVE-2019-16777', 'CVE-2020-15095']",2022-03-20T02:28Z
+9,cpe:2.3:a:cli_project:cli:6.4.0:*:*:*:*:node.js:*:*,CLI Project CLI 6.4.0 for Node.js,"['CVE-2019-16775', 'CVE-2019-16776', 'CVE-2019-16777', 'CVE-2020-15095']",2022-03-20T02:28Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:wicket:0.9.14:alpha:*:*:*:*:*:*,Apache Software Foundation Wicket 0.9.14 Alpha,[''],2022-03-18T20:50Z
+1,cpe:2.3:a:apache:wicket:0.9.15:beta:*:*:*:*:*:*,Apache Software Foundation Wicket 0.9.15 Beta,[''],2022-03-18T20:50Z
+2,cpe:2.3:a:apache:wicket:0.9.16:beta:*:*:*:*:*:*,Apache Software Foundation Wicket 0.9.16 Beta,[''],2022-03-18T20:50Z
+3,cpe:2.3:a:apache:wicket:0.9.17:beta:*:*:*:*:*:*,Apache Software Foundation Wicket 0.9.17 Beta,[''],2022-03-18T20:50Z
+4,cpe:2.3:a:apache:wicket:0.9.18:beta:*:*:*:*:*:*,Apache Software Foundation Wicket 0.9.18 Beta,[''],2022-03-18T20:50Z
+5,cpe:2.3:a:apache:wicket:0.9.19:beta:*:*:*:*:*:*,Apache Software Foundation Wicket 0.9.19 Beta,[''],2022-03-18T20:50Z
+6,cpe:2.3:a:apache:wicket:1.0:rc1:*:*:*:*:*:*,Apache Software Foundation Wicket 1.0 Release Candidate 1,[''],2022-03-18T20:50Z
+7,cpe:2.3:a:apache:wicket:1.0:-:*:*:*:*:*:*,Apache Software Foundation Wicket 1.0,[''],2022-03-18T20:50Z
+8,cpe:2.3:a:apache:wicket:1.0:rc1:*:*:*:*:*:*,Apache Software Foundation Wicket 1.0 Release Candidate 1,[''],2022-03-18T20:50Z
+9,cpe:2.3:a:apache:wicket:1.0:rc2:*:*:*:*:*:*,Apache Software Foundation Wicket 1.0 Release Candidate 2,[''],2022-03-18T20:50Z

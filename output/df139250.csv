@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:webex_video_mesh:2020.11.06.2314m:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2020.11.06.2314m,"['CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:18Z
+1,cpe:2.3:a:cisco:webex_video_mesh:2020.11.17.2319m.4:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2020.11.17.2319m.4,"['CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:18Z
+2,cpe:2.3:a:cisco:webex_video_mesh:2020.11.17.2319m.9:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2020.11.17.2319m.9,"['CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:18Z
+3,cpe:2.3:a:cisco:webex_video_mesh:2020.12.08.2333m:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2020.12.08.2333m,"['CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:18Z
+4,cpe:2.3:a:cisco:webex_video_mesh:2020.12.08.2333m.5:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2020.12.08.2333m.5,"['CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:18Z
+5,cpe:2.3:a:cisco:webex_video_mesh:2020.12.08.2333m.6:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2020.12.08.2333m.6,"['CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:18Z
+6,cpe:2.3:a:cisco:webex_video_mesh:2021.01.13.2349m.3:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2021.01.13.2349m.3,"['CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:18Z
+7,cpe:2.3:a:cisco:webex_video_mesh:2021.02.05.2352m.4:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2021.02.05.2352m.4,"['CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:18Z
+8,cpe:2.3:a:cisco:webex_video_mesh:2021.03.03.2359m:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2021.03.03.2359m,"['CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:18Z
+9,cpe:2.3:a:cisco:webex_video_mesh:2021.03.03.2359m.7:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2021.03.03.2359m.7,"['CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:18Z

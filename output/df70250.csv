@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bandisoft:ark_library:6.18.0.2:*:*:*:*:*:*:*,Bandisoft ARK Library 6.18.0.2,['CVE-2021-26603'],2022-03-19T06:09Z
+1,cpe:2.3:a:bandisoft:ark_library:6.20.0.2:*:*:*:*:*:*:*,Bandisoft ARK Library 6.20.0.2,['CVE-2021-26603'],2022-03-19T06:09Z
+2,cpe:2.3:a:bandisoft:ark_library:6.22.0.2:*:*:*:*:*:*:*,Bandisoft ARK Library 6.22.0.2,['CVE-2021-26603'],2022-03-19T06:09Z
+3,cpe:2.3:a:bandisoft:ark_library:6.22.0.3:*:*:*:*:*:*:*,Bandisoft ARK Library 6.22.0.3,['CVE-2021-26603'],2022-03-19T06:09Z
+4,cpe:2.3:a:bandisoft:ark_library:6.26.0.1:*:*:*:*:*:*:*,Bandisoft ARK Library 6.26.0.1,['CVE-2021-26603'],2022-03-19T06:09Z
+5,cpe:2.3:a:bandisoft:ark_library:7.0:*:*:*:*:*:*:*,Bandisoft ARK Library 7.0,['CVE-2021-26603'],2022-03-19T06:09Z
+6,cpe:2.3:a:bandisoft:ark_library:7.7.0.1:*:*:*:*:*:*:*,Bandisoft ARK Library 7.7.0.1,['CVE-2021-26603'],2022-03-19T06:09Z
+7,cpe:2.3:a:bandisoft:ark_library:7.9.0.1:*:*:*:*:*:*:*,Bandisoft ARK Library 7.9.0.1,['CVE-2021-26603'],2022-03-19T06:09Z
+8,cpe:2.3:a:bandisoft:ark_library:7.10.0.1:*:*:*:*:*:*:*,Bandisoft ARK Library 7.10.0.1,['CVE-2021-26603'],2022-03-19T06:09Z
+9,cpe:2.3:a:bandisoft:ark_library:7.13.0.2:*:*:*:*:*:*:*,Bandisoft ARK Library 7.13.0.2,['CVE-2021-26603'],2022-03-19T06:09Z

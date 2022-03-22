@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apple:mdnsresponder:258.18:*:*:*:*:*:*:*,Apple mDNSResponder 258.18,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:16Z
+1,cpe:2.3:a:apple:mdnsresponder:258.21:*:*:*:*:*:*:*,Apple mDNSResponder 258.21,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:16Z
+2,cpe:2.3:a:apple:mdnsresponder:320.5:*:*:*:*:*:*:*,Apple mDNSResponder 320.5,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:16Z
+3,cpe:2.3:a:apple:mdnsresponder:320.5.1:*:*:*:*:*:*:*,Apple mDNSResponder 320.5.1,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:16Z
+4,cpe:2.3:a:apple:mdnsresponder:320.10:*:*:*:*:*:*:*,Apple mDNSResponder 320.10,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:16Z
+5,cpe:2.3:a:apple:mdnsresponder:320.10.80:*:*:*:*:*:*:*,Apple mDNSResponder 320.10.80,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:16Z
+6,cpe:2.3:a:apple:mdnsresponder:320.14:*:*:*:*:*:*:*,Apple mDNSResponder 320.14,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:16Z
+7,cpe:2.3:a:apple:mdnsresponder:320.16:*:*:*:*:*:*:*,Apple mDNSResponder 320.16,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:16Z
+8,cpe:2.3:a:apple:mdnsresponder:320.18:*:*:*:*:*:*:*,Apple mDNSResponder 320.18,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:16Z
+9,cpe:2.3:a:apple:mdnsresponder:333.10:*:*:*:*:*:*:*,Apple mDNSResponder 333.10,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:16Z

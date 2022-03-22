@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:olingo:4.1.0:rc01:*:*:*:*:*:*,Apache Software Foundation Olingo 4.1.0 Release Candidate 01,"['CVE-2019-17554', 'CVE-2019-17555', 'CVE-2019-17556', 'CVE-2020-1925']",2022-03-18T19:40Z
+1,cpe:2.3:a:apache:olingo:4.2.0:-:*:*:*:*:*:*,Apache Software Foundation Olingo 4.2.0,"['CVE-2019-17554', 'CVE-2019-17555', 'CVE-2019-17556', 'CVE-2020-1925']",2022-03-18T19:40Z
+2,cpe:2.3:a:apache:olingo:4.2.0:rc01:*:*:*:*:*:*,Apache Software Foundation Olingo 4.2.0 Release Candidate 01,"['CVE-2019-17554', 'CVE-2019-17555', 'CVE-2019-17556', 'CVE-2020-1925']",2022-03-18T19:40Z
+3,cpe:2.3:a:apache:olingo:4.3.0:-:*:*:*:*:*:*,Apache Software Foundation Olingo 4.3.0,"['CVE-2019-17554', 'CVE-2019-17555', 'CVE-2019-17556', 'CVE-2020-1925']",2022-03-18T19:40Z
+4,cpe:2.3:a:apache:olingo:4.3.0:beta:*:*:*:*:*:*,Apache Software Foundation Olingo 4.3.0 Beta,"['CVE-2019-17554', 'CVE-2019-17555', 'CVE-2019-17556', 'CVE-2020-1925']",2022-03-18T19:41Z
+5,cpe:2.3:a:apache:olingo:4.3.0:rc01:*:*:*:*:*:*,Apache Software Foundation Olingo 4.3.0 Release Candidate 01,"['CVE-2019-17554', 'CVE-2019-17555', 'CVE-2019-17556', 'CVE-2020-1925']",2022-03-18T19:40Z
+6,cpe:2.3:a:apache:olingo:4.4.0:-:*:*:*:*:*:*,Apache Software Foundation Olingo 4.4.0,"['CVE-2019-17554', 'CVE-2019-17555', 'CVE-2019-17556', 'CVE-2020-1925']",2022-03-18T19:41Z
+7,cpe:2.3:a:apache:olingo:4.4.0:rc01:*:*:*:*:*:*,Apache Software Foundation Olingo 4.4.0 Release Candidate 01,"['CVE-2019-17554', 'CVE-2019-17555', 'CVE-2019-17556', 'CVE-2020-1925']",2022-03-18T19:41Z
+8,cpe:2.3:a:apache:olingo:4.6.0:-:*:*:*:*:*:*,Apache Software Foundation Olingo 4.6.0,"['CVE-2019-17554', 'CVE-2019-17555', 'CVE-2019-17556', 'CVE-2020-1925']",2022-03-18T19:41Z
+9,cpe:2.3:a:apache:olingo:4.6.0:rc01:*:*:*:*:*:*,Apache Software Foundation Olingo 4.6.0 Release Candidate 01,"['CVE-2019-17554', 'CVE-2019-17555', 'CVE-2019-17556', 'CVE-2020-1925']",2022-03-18T19:41Z

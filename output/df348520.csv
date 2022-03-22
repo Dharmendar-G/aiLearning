@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:spectrum_lsf:9.1.3:*:*:*:*:*:*:*,IBM Spectrum LSF 9.1.3,"['CVE-2017-1205', 'CVE-2018-1724']",2022-03-21T22:08Z
+1,cpe:2.3:a:ibm:spectrum_lsf:10.1:*:*:*:*:*:*:*,IBM Spectrum LSF 10.1,"['CVE-2018-1724', 'CVE-2020-4983']",2022-03-21T22:08Z
+2,cpe:2.3:a:ibm:spectrum_lsf:10.1.0.1:*:*:*:*:*:*:*,IBM Spectrum LSF 10.1.0.1,['CVE-2017-1205'],2022-03-21T22:08Z
+3,cpe:2.3:a:ibm:spectrum_lsf:10.2:*:*:*:*:*:*:*,IBM Spectrum LSF 10.2,['CVE-2020-4278'],2022-03-21T22:08Z
+4,cpe:2.3:a:ibm:spectrum_lsf_suite:10.2:*:*:*:*:*:*:*,IBM Spectrum LSF Suite 10.2,['CVE-2020-4983'],2022-03-21T22:08Z
+5,cpe:2.3:a:ibm:spectrum_protect:7.1.0.0:*:*:*:*:*:*:*,IBM Spectrum Protect 7.1.0.0,"['CVE-2018-2025', 'CVE-2019-4140', 'CVE-2019-4236', 'CVE-2019-4267', 'CVE-2020-4415', 'CVE-2020-4559', 'CVE-2021-20491']",2022-03-21T22:08Z
+6,cpe:2.3:a:ibm:spectrum_protect:7.1.0.000:*:*:*:*:*:*:*,IBM Spectrum Protect 7.1.0.000,"['CVE-2018-2025', 'CVE-2019-4140', 'CVE-2019-4236', 'CVE-2019-4267', 'CVE-2020-4415', 'CVE-2020-4559', 'CVE-2021-20491']",2022-03-21T22:08Z
+7,cpe:2.3:a:ibm:spectrum_protect:7.1.0.0:*:*:*:*:backup-archive_client:*:*,IBM Spectrum Protect 7.1.0.0 for Backup-archive Client,"['CVE-2018-2025', 'CVE-2019-4140', 'CVE-2019-4236', 'CVE-2019-4267', 'CVE-2020-4415', 'CVE-2020-4559', 'CVE-2021-20491']",2022-03-21T22:08Z
+8,cpe:2.3:a:ibm:spectrum_protect:7.1.8.2:*:*:*:*:*:*:*,IBM Spectrum Protect 7.1.8.2,"['CVE-2018-2025', 'CVE-2019-4140', 'CVE-2019-4236', 'CVE-2019-4267', 'CVE-2020-4415', 'CVE-2020-4559', 'CVE-2021-20491']",2022-03-21T22:08Z
+9,cpe:2.3:a:ibm:spectrum_protect:7.1.8.3:*:*:*:*:*:*:*,IBM Spectrum Protect 7.1.8.3,"['CVE-2018-2025', 'CVE-2019-4140', 'CVE-2019-4236', 'CVE-2019-4267', 'CVE-2020-4415', 'CVE-2020-4559', 'CVE-2021-20491']",2022-03-21T22:08Z

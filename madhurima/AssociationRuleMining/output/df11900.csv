@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:indesign_server:11.0.0:*:*:*:*:*:*:*,Adobe InDesign Server 11.0.0,['CVE-2016-7886'],2022-03-18T12:44Z
+1,cpe:2.3:a:adobe:indesign_server:12.0.0:*:*:*:*:*:*:*,Adobe Indesign Server 12.0.0,[''],2022-03-18T12:44Z
+2,cpe:2.3:a:adobe:jabber:5.2.1.30:*:*:*:*:*:*:*,Adobe Jabber 5.2.1.30,[''],2022-03-18T12:44Z
+3,cpe:2.3:a:adobe:japanese_fonts_support_for_adobe_reader:9.0.0:*:*:*:*:*:*:*,Adobe Japanese Fonts Support For Adobe Reader 9.0.0,[''],2022-03-18T12:44Z
+4,cpe:2.3:a:adobe:jrun:-:*:*:*:*:*:*:*,Adobe JRun,[''],2022-03-18T12:45Z
+5,cpe:2.3:a:adobe:jrun:4.0:*:*:*:*:*:*:*,Adobe JRun 4.0,"['CVE-2006-5858', 'CVE-2006-5860', 'CVE-2009-1873', 'CVE-2009-1874']",2022-03-18T12:45Z
+6,cpe:2.3:a:adobe:jrun:4.0:sp1:*:*:*:*:*:*,Adobe JRun 4.0 SP1,"['CVE-2006-5858', 'CVE-2006-5860', 'CVE-2009-1873', 'CVE-2009-1874']",2022-03-18T12:45Z
+7,cpe:2.3:a:adobe:jrun:4.0:sp1a:*:*:*:*:*:*,Adobe JRun 4.0 SP1a,"['CVE-2006-5858', 'CVE-2006-5860', 'CVE-2009-1873', 'CVE-2009-1874']",2022-03-18T12:45Z
+8,cpe:2.3:a:adobe:jrun:4.0_build_61650:*:*:*:*:*:*:*,Adobe JRun 4.0 build 61650,['CVE-2006-5860'],2022-03-18T12:45Z
+9,cpe:2.3:a:adobe:kuler:2.0:*:*:*:*:*:*:*,Adobe Kuler 2.0,[''],2022-03-18T12:45Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:devincentiis:gazie:5.14:*:*:*:*:*:*:*,devincentiis GAzie 5.14,['CVE-2012-1220'],2022-03-20T13:42Z
+1,cpe:2.3:a:devincentiis:gazie:5.15:*:*:*:*:*:*:*,devincentiis GAzie 5.15,['CVE-2012-1220'],2022-03-20T13:42Z
+2,cpe:2.3:a:devincentiis:gazie:5.16:*:*:*:*:*:*:*,devincentiis GAzie 5.16,['CVE-2012-1220'],2022-03-20T13:42Z
+3,cpe:2.3:a:devincentiis:gazie:5.17:*:*:*:*:*:*:*,devincentiis GAzie 5.17,['CVE-2012-1220'],2022-03-20T13:42Z
+4,cpe:2.3:a:devincentiis:gazie:5.18:*:*:*:*:*:*:*,devincentiis GAzie 5.18,['CVE-2012-1220'],2022-03-20T13:43Z
+5,cpe:2.3:a:devincentiis:gazie:5.19:*:*:*:*:*:*:*,devincentiis GAzie 5.19,['CVE-2012-1220'],2022-03-20T13:43Z
+6,cpe:2.3:a:devincentiis:gazie:5.20:*:*:*:*:*:*:*,devincentiis GAzie 5.20,['CVE-2012-1220'],2022-03-20T13:43Z
+7,cpe:2.3:a:devise_masquerade_project:devise_masquerade:-:*:*:*:*:*:*:*,Devise Masquerade Project Devise Masquerade,[''],2022-03-20T13:43Z
+8,cpe:2.3:a:devise_masquerade_project:devise_masquerade:0.0.1:*:*:*:*:*:*:*,Devise Masquerade Project Devise Masquerade 0.0.1,[''],2022-03-20T13:43Z
+9,cpe:2.3:a:devise_masquerade_project:devise_masquerade:0.0.2:*:*:*:*:*:*:*,Devise Masquerade Project Devise Masquerade 0.0.2,[''],2022-03-20T13:43Z

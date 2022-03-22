@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laser_mfp_130_4zb91a:-:*:*:*:*:*:*:*,HP LASER MFP 130 4ZB91A,['CVE-2021-3438'],2022-03-21T13:56Z
+1,cpe:2.3:h:hp:laser_mfp_130_4zb92a:-:*:*:*:*:*:*:*,HP LASER MFP 130 4ZB92A,['CVE-2021-3438'],2022-03-21T13:56Z
+2,cpe:2.3:h:hp:laser_mfp_130_4zb93a:-:*:*:*:*:*:*:*,HP LASER MFP 130 4ZB93A,['CVE-2021-3438'],2022-03-21T13:56Z
+3,cpe:2.3:h:hp:laser_mfp_130_5ue15a:-:*:*:*:*:*:*:*,HP LASER MFP 130 5UE15A,['CVE-2021-3438'],2022-03-21T13:56Z
+4,cpe:2.3:h:hp:laser_mfp_130_6hu10a:-:*:*:*:*:*:*:*,HP LASER MFP 130 6HU10A,['CVE-2021-3438'],2022-03-21T13:56Z
+5,cpe:2.3:h:hp:laser_mfp_130_6hu11a:-:*:*:*:*:*:*:*,HP LASER MFP 130 6HU11A,['CVE-2021-3438'],2022-03-21T13:56Z
+6,cpe:2.3:h:hp:laser_mfp_130_6hu12a:-:*:*:*:*:*:*:*,HP LASER MFP 130 6HU12A,['CVE-2021-3438'],2022-03-21T13:56Z
+7,cpe:2.3:h:hp:laser_mfp_130_9vv52a:-:*:*:*:*:*:*:*,HP LASER MFP 130 9VV52A,['CVE-2021-3438'],2022-03-21T13:56Z
+8,cpe:2.3:h:hp:laser_mfp_432_7uq76a:-:*:*:*:*:*:*:*,HP LASER MFP 432 7UQ76A,['CVE-2021-3438'],2022-03-21T13:56Z
+9,cpe:2.3:h:hp:laserjet_100_color_mfp_m175nw_ce865a:-:*:*:*:*:*:*:*,HP LaserJet 100 Color MFP M175NW CE865A,['CVE-2020-28419'],2022-03-21T13:56Z

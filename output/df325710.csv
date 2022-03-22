@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:marketresearch:130.0.374.0:*:*:*:*:*:*:*,HP Marketresearch 130.0.374.0,[''],2022-03-21T15:21Z
+1,cpe:2.3:a:hp:marketresearch:140.0.212.0:*:*:*:*:*:*:*,HP Marketresearch 140.0.212.0,[''],2022-03-21T15:21Z
+2,cpe:2.3:a:hp:marketresearch:140.0.214.0:*:*:*:*:*:*:*,HP Marketresearch 140.0.214.0,[''],2022-03-21T15:21Z
+3,cpe:2.3:a:hp:matrix_operating_environment:7.4:*:*:*:*:*:*:*,HP Matrix Operating Envinroment  7.4,"['CVE-2015-2139', 'CVE-2015-2140', 'CVE-2015-5402', 'CVE-2015-5403', 'CVE-2015-5404', 'CVE-2015-5405', 'CVE-2015-5427', 'CVE-2015-5428', 'CVE-2015-5429', 'CVE-2015-5430', 'CVE-2015-5431', 'CVE-2015-5432', 'CVE-2015-5433', 'CVE-2016-2017', 'CVE-2016-2018', 'CVE-2016-2019', 'CVE-2016-2020', 'CVE-2016-2021', 'CVE-2016-2022', 'CVE-2016-2026', 'CVE-2016-2027', 'CVE-2016-2028', 'CVE-2016-2029', 'CVE-2016-2030', 'CVE-2016-4357', 'CVE-2016-4358']",2022-03-21T15:21Z
+4,cpe:2.3:a:hp:matrix_operating_environment:7.5:*:*:*:*:*:*:*,HP Matrix Operating Environment 7.5,"['CVE-2016-2017', 'CVE-2016-2018', 'CVE-2016-2019', 'CVE-2016-2020', 'CVE-2016-2021', 'CVE-2016-2022', 'CVE-2016-2026', 'CVE-2016-2027', 'CVE-2016-2028', 'CVE-2016-2029', 'CVE-2016-2030', 'CVE-2016-4357', 'CVE-2016-4358']",2022-03-21T15:21Z
+5,cpe:2.3:a:hp:matrix_operating_environment:7.6:*:*:*:*:*:*:*,HP Matrix Operating Environment 7.6,"['CVE-2016-8531', 'CVE-2016-8532', 'CVE-2016-8533', 'CVE-2016-8534', 'CVE-2016-8535', 'CVE-2017-5780', 'CVE-2017-5781', 'CVE-2017-5782', 'CVE-2017-5783', 'CVE-2017-5784', 'CVE-2017-5785']",2022-03-21T15:21Z
+6,cpe:2.3:a:hp:matrix_operating_environment:7.6:lr1:*:*:*:*:*:*,HP Matrix Operating Environment 7.6 LR1,"['CVE-2016-8531', 'CVE-2016-8532', 'CVE-2016-8533', 'CVE-2016-8534', 'CVE-2016-8535', 'CVE-2017-5780', 'CVE-2017-5781', 'CVE-2017-5782', 'CVE-2017-5783', 'CVE-2017-5784', 'CVE-2017-5785', 'CVE-2017-8970', 'CVE-2017-8971', 'CVE-2017-8972', 'CVE-2017-8973']",2022-03-21T15:21Z
+7,cpe:2.3:a:hp:memories_disc:1.0.4.805:*:*:*:*:*:*:*,HP Memories Disc 1.0.4.805,[''],2022-03-21T15:21Z
+8,cpe:2.3:a:hp:mercury_loadrunner_agent:-:*:*:*:*:*:*:*,HP Mercury LoadRunner Agent,[''],2022-03-21T15:21Z
+9,cpe:2.3:a:hp:mercury_loadrunner_agent:8.0:*:*:*:*:*:*:*,HP Mercury LoadRunner Agent 8.0,['CVE-2007-0446'],2022-03-21T15:21Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chevereto:chevereto:3.15.0:*:*:*:*:*:*:*,Chevereto 3.15.0,['CVE-2021-31721'],2022-03-19T17:22Z
+1,cpe:2.3:a:chevereto:chevereto:3.15.1:*:*:*:*:*:*:*,Chevereto 3.15.1,['CVE-2021-31721'],2022-03-19T17:22Z
+2,cpe:2.3:a:chevereto:chevereto:3.15.2:*:*:*:*:*:*:*,Chevereto 3.15.2,['CVE-2021-31721'],2022-03-19T17:22Z
+3,cpe:2.3:a:chevereto:chevereto:3.16.0:*:*:*:*:*:*:*,Chevereto 3.16.0,['CVE-2021-31721'],2022-03-19T17:22Z
+4,cpe:2.3:a:chevereto:chevereto:3.16.1:*:*:*:*:*:*:*,Chevereto 3.16.1,['CVE-2021-31721'],2022-03-19T17:22Z
+5,cpe:2.3:a:chevereto:chevereto:3.16.2:*:*:*:*:*:*:*,Chevereto 3.16.2,['CVE-2021-31721'],2022-03-19T17:22Z
+6,cpe:2.3:a:chevereto:chevereto:3.17.0:*:*:*:*:*:*:*,Chevereto 3.17.0,['CVE-2021-31721'],2022-03-19T17:22Z
+7,cpe:2.3:a:chevereto:chevereto:3.17.1:*:*:*:*:*:*:*,Chevereto 3.17.1,[''],2022-03-19T17:22Z
+8,cpe:2.3:a:chevereto:chevereto:3.17.2:*:*:*:*:*:*:*,Chevereto 3.17.2,[''],2022-03-19T17:22Z
+9,cpe:2.3:a:chevereto:chevereto:3.18.0:*:*:*:*:*:*:*,Chevereto 3.18.0,[''],2022-03-19T17:22Z

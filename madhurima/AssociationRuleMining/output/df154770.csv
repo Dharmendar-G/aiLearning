@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codesys:control_rte_sl:3.5.11.60:*:*:*:*:*:*:*,CODESYS Control Rte Sl 3.5.11.60,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013']",2022-03-20T06:11Z
+1,cpe:2.3:a:codesys:control_rte_sl:3.5.12.0:*:*:*:*:*:*:*,CODESYS Control Rte Sl 3.5.12.0,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013']",2022-03-20T06:11Z
+2,cpe:2.3:a:codesys:control_rte_sl:3.5.12.10:*:*:*:*:*:*:*,CODESYS Control Rte Sl 3.5.12.10,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013']",2022-03-20T06:11Z
+3,cpe:2.3:a:codesys:control_rte_sl:3.5.12.20:*:*:*:*:*:*:*,CODESYS Control Rte Sl 3.5.12.20,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013']",2022-03-20T06:11Z
+4,cpe:2.3:a:codesys:control_rte_sl:3.5.12.30:*:*:*:*:*:*:*,CODESYS Control Rte Sl 3.5.12.30,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013']",2022-03-20T06:11Z
+5,cpe:2.3:a:codesys:control_rte_sl:3.5.12.50:*:*:*:*:*:*:*,CODESYS Control Rte Sl 3.5.12.50,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013']",2022-03-20T06:11Z
+6,cpe:2.3:a:codesys:control_rte_sl:3.5.12.60:*:*:*:*:*:*:*,CODESYS Control Rte Sl 3.5.12.60,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013']",2022-03-20T06:11Z
+7,cpe:2.3:a:codesys:control_rte_sl:3.5.12.70:*:*:*:*:*:*:*,CODESYS Control Rte Sl 3.5.12.70,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013']",2022-03-20T06:11Z
+8,cpe:2.3:a:codesys:control_rte_sl:3.5.13.0:*:*:*:*:*:*:*,CODESYS Control Rte Sl 3.5.13.0,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013']",2022-03-20T06:11Z
+9,cpe:2.3:a:codesys:control_rte_sl:3.5.13.10:*:*:*:*:*:*:*,CODESYS Control Rte Sl 3.5.13.10,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9013']",2022-03-20T06:11Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:docker:docker:19.03.2:*:*:*:community:*:*:*,Docker 19.03.2 Community Edition,"['CVE-2019-16884', 'CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:27Z
+1,cpe:2.3:a:docker:docker:19.03.3:*:*:*:community:*:*:*,Docker 19.03.3 Community Edition,"['CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:27Z
+2,cpe:2.3:a:docker:docker:19.03.4:*:*:*:community:*:*:*,Docker 19.03.4 Community Edition,"['CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:27Z
+3,cpe:2.3:a:docker:docker:19.03.5:*:*:*:community:*:*:*,Docker 19.03.5 Community Edition,"['CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:27Z
+4,cpe:2.3:a:docker:docker:19.03.6:*:*:*:community:*:*:*,Docker 19.03.6 Community Edition,"['CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:27Z
+5,cpe:2.3:a:docker:docker:19.03.7:*:*:*:community:*:*:*,Docker 19.03.7 Community Edition,"['CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:27Z
+6,cpe:2.3:a:docker:docker:19.03.8:*:*:*:community:*:*:*,Docker 19.03.8 Community Edition,"['CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:27Z
+7,cpe:2.3:a:docker:docker:19.03.9:*:*:*:*:*:*:*,Docker 19.03.9,"['CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:27Z
+8,cpe:2.3:a:docker:docker_desktop:2.1.0.1:*:*:*:*:*:*:*,Docker Desktop 2.1.0.1,"['CVE-2020-11492', 'CVE-2022-23774']",2022-03-20T16:27Z
+9,cpe:2.3:a:docker:docker_desktop:2.1.0.2:*:*:*:*:*:*:*,Docker Desktop 2.1.0.2,"['CVE-2020-11492', 'CVE-2022-23774']",2022-03-20T16:27Z

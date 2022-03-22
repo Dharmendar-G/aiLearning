@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hashbrowncms:hashbrown_cms:0.10.0:*:*:*:*:*:*:*,HashBrown CMS 0.10.0,"['CVE-2020-5840', 'CVE-2020-6948', 'CVE-2020-6949']",2022-03-21T09:27Z
+1,cpe:2.3:a:hashbrowncms:hashbrown_cms:0.10.1:*:*:*:*:*:*:*,HashBrown CMS 0.10.1,"['CVE-2020-5840', 'CVE-2020-6948', 'CVE-2020-6949']",2022-03-21T09:27Z
+2,cpe:2.3:a:hashbrowncms:hashbrown_cms:0.10.2:*:*:*:*:*:*:*,HashBrown CMS 0.10.2,"['CVE-2020-5840', 'CVE-2020-6948', 'CVE-2020-6949']",2022-03-21T09:27Z
+3,cpe:2.3:a:hashbrowncms:hashbrown_cms:0.10.3:*:*:*:*:*:*:*,HashBrown CMS 0.10.3,"['CVE-2020-5840', 'CVE-2020-6948', 'CVE-2020-6949']",2022-03-21T09:27Z
+4,cpe:2.3:a:hashbrowncms:hashbrown_cms:1.0.0:*:*:*:*:*:*:*,HashBrown CMS 1.0.0,"['CVE-2020-5840', 'CVE-2020-6948', 'CVE-2020-6949']",2022-03-21T09:27Z
+5,cpe:2.3:a:hashbrowncms:hashbrown_cms:1.0.1:*:*:*:*:*:*:*,HashBrown CMS 1.0.1,"['CVE-2020-5840', 'CVE-2020-6948', 'CVE-2020-6949']",2022-03-21T09:27Z
+6,cpe:2.3:a:hashbrowncms:hashbrown_cms:1.0.2:*:*:*:*:*:*:*,HashBrown CMS 1.0.2,"['CVE-2020-5840', 'CVE-2020-6948', 'CVE-2020-6949']",2022-03-21T09:27Z
+7,cpe:2.3:a:hashbrowncms:hashbrown_cms:1.0.3:*:*:*:*:*:*:*,HashBrown CMS 1.0.3,"['CVE-2020-5840', 'CVE-2020-6948', 'CVE-2020-6949']",2022-03-21T09:27Z
+8,cpe:2.3:a:hashbrowncms:hashbrown_cms:1.0.4:*:*:*:*:*:*:*,HashBrown CMS 1.0.4,"['CVE-2020-5840', 'CVE-2020-6948', 'CVE-2020-6949']",2022-03-21T09:28Z
+9,cpe:2.3:a:hashbrowncms:hashbrown_cms:1.0.5:*:*:*:*:*:*:*,HashBrown CMS 1.0.5,"['CVE-2020-5840', 'CVE-2020-6948', 'CVE-2020-6949']",2022-03-21T09:27Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:doctrine-project:doctrinemongodbbundle:3.6.0:-:*:*:*:*:*:*,Doctrine Project DoctrineMongoDBBundle 3.6.0,[''],2022-03-20T16:45Z
+1,cpe:2.3:a:doctrine-project:doctrinemongodbbundle:3.6.0:rc1:*:*:*:*:*:*,Doctrine Project DoctrineMongoDBBundle 3.6.0 Release Candidate 1,[''],2022-03-20T16:45Z
+2,cpe:2.3:a:doctrine-project:doctrinemongodbbundle:3.6.1:*:*:*:*:*:*:*,Doctrine Project DoctrineMongoDBBundle 3.6.1,[''],2022-03-20T16:45Z
+3,cpe:2.3:a:doctrine-project:doctrinemongodbbundle:3.6.2:*:*:*:*:*:*:*,Doctrine Project DoctrineMongoDBBundle 3.6.2,[''],2022-03-20T16:45Z
+4,cpe:2.3:a:doctrine-project:doctrinemongodbbundle:4.0.0:-:*:*:*:*:*:*,Doctrine Project DoctrineMongoDBBundle 4.0.0,[''],2022-03-20T16:45Z
+5,cpe:2.3:a:doctrine-project:doctrinemongodbbundle:4.0.0:alpha1:*:*:*:*:*:*,Doctrine Project DoctrineMongoDBBundle 4.0.0 Alpha 1,[''],2022-03-20T16:45Z
+6,cpe:2.3:a:doctrine-project:doctrinemongodbbundle:4.0.0:beta1:*:*:*:*:*:*,Doctrine Project DoctrineMongoDBBundle 4.0.0 Beta 1,[''],2022-03-20T16:45Z
+7,cpe:2.3:a:doctrine-project:doctrinemongodbbundle:4.0.0:rc1:*:*:*:*:*:*,Doctrine Project DoctrineMongoDBBundle 4.0.0 Release Candidate 1,[''],2022-03-20T16:45Z
+8,cpe:2.3:a:doctrine-project:doctrinemongodbbundle:4.0.0:rc2:*:*:*:*:*:*,Doctrine Project DoctrineMongoDBBundle 4.0.0 Release Candidate 2,[''],2022-03-20T16:45Z
+9,cpe:2.3:a:doctrine-project:doctrinemongodbbundle:4.0.0:rc3:*:*:*:*:*:*,Doctrine Project DoctrineMongoDBBundle 4.0.0 Release Candidate 3,[''],2022-03-20T16:45Z

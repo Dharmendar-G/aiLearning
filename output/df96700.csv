@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:a:bundler:bundler:1.4.0:pre1:*:*:*:ruby:*:*,Bundler 1.4.0 Pre 1 for Ruby,"['CVE-2013-0334', 'CVE-2016-7954', 'CVE-2019-3881', 'CVE-2021-43809']",2022-03-19T13:32Z
+2,cpe:2.3:a:bundler:bundler:1.4.0:pre2:*:*:*:ruby:*:*,Bundler 1.4.0 Pre 2 for Ruby,"['CVE-2013-0334', 'CVE-2019-3881', 'CVE-2021-43809']",2022-03-19T13:32Z
+3,[0],[0],[0],[0]
+4,cpe:2.3:a:bundler:bundler:1.4.0:rc1:*:*:*:ruby:*:*,Bundler 1.4.0 Release Candidate 1 for Ruby,"['CVE-2013-0334', 'CVE-2016-7954', 'CVE-2019-3881', 'CVE-2021-43809']",2022-03-19T13:32Z
+5,cpe:2.3:a:bundler:bundler:1.5.0:*:*:*:*:ruby:*:*,Bundler 1.5.0 for Ruby,"['CVE-2013-0334', 'CVE-2016-7954', 'CVE-2019-3881', 'CVE-2021-43809']",2022-03-19T13:32Z
+6,cpe:2.3:a:bundler:bundler:1.5.0:*:*:*:*:ruby:*:*,Bundler 1.5.0 for Ruby,"['CVE-2013-0334', 'CVE-2016-7954', 'CVE-2019-3881', 'CVE-2021-43809']",2022-03-19T13:32Z
+7,[0],[0],[0],[0]
+8,[0],[0],[0],[0]
+9,cpe:2.3:a:bundler:bundler:1.5.0:rc1:*:*:*:ruby:*:*,Bundler 1.5.0 Release Candidate 1 for Ruby,"['CVE-2013-0334', 'CVE-2016-7954', 'CVE-2019-3881', 'CVE-2021-43809']",2022-03-19T13:32Z

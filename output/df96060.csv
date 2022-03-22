@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:buffalotech:wer-a54g54_firmware:1.10:*:*:*:*:*:*:*,バッファロー WER-A54G54 ファームウェア 1.10,['CVE-2011-1324'],2022-03-19T13:20Z
+1,cpe:2.3:a:buffalotech:wer-a54g54_firmware:1.12:beta:*:*:*:*:*:*,BUFFALO WER-A54G54 Firmware 1.12 beta,['CVE-2011-1324'],2022-03-19T13:20Z
+2,cpe:2.3:a:buffalotech:wer-a54g54_firmware:1.12:beta:*:*:*:*:*:*,BUFFALO WER-A54G54 Firmware 1.12 beta,['CVE-2011-1324'],2022-03-19T13:20Z
+3,cpe:2.3:a:buffalotech:wer-a54g54_firmware:1.13:*:*:*:*:*:*:*,バッファロー WER-A54G54 ファームウェア 1.13,['CVE-2011-1324'],2022-03-19T13:20Z
+4,cpe:2.3:a:buffalotech:wer-a54g54_firmware:1.43:*:*:*:*:*:*:*,バッファロー WER-A54G54 ファームウェア 1.43,[''],2022-03-19T13:20Z
+5,cpe:2.3:h:buffalotech:wer-ag54:-:*:*:*:*:*:*:*,BUFFALO WER-AG54,['CVE-2011-1324'],2022-03-19T13:20Z
+6,cpe:2.3:a:buffalotech:wer-ag54_firmware:-:*:*:*:*:*:*:*,BUFFALO WER-AG54 Firmware,[''],2022-03-19T13:20Z
+7,cpe:2.3:a:buffalotech:wer-ag54_firmware:1.04:*:*:*:*:*:*:*,BUFFALO WER-AG54 Firmware 1.04,['CVE-2011-1324'],2022-03-19T13:20Z
+8,cpe:2.3:a:buffalotech:wer-ag54_firmware:1.12:beta:*:*:*:*:*:*,BUFFALO WER-AG54 Firmware 1.12 beta,['CVE-2011-1324'],2022-03-19T13:20Z
+9,cpe:2.3:a:buffalotech:wer-ag54_firmware:1.12:beta:*:*:*:*:*:*,BUFFALO WER-AG54 Firmware 1.12 beta,['CVE-2011-1324'],2022-03-19T13:20Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arangodb:arangodb:1.4.0:-:*:*:*:*:*:*,ArangoDB 1.4.0,[''],2022-03-18T22:42Z
+1,cpe:2.3:a:arangodb:arangodb:1.4.0:alpha1:*:*:*:*:*:*,ArangoDB 1.4.0 Alpha 1,[''],2022-03-18T22:42Z
+2,cpe:2.3:a:arangodb:arangodb:1.4.0:alpha2:*:*:*:*:*:*,ArangoDB 1.4.0 Alpha 2,[''],2022-03-18T22:42Z
+3,cpe:2.3:a:arangodb:arangodb:1.4.0:beta1:*:*:*:*:*:*,ArangoDB 1.4.0 Beta 1,[''],2022-03-18T22:42Z
+4,cpe:2.3:a:arangodb:arangodb:1.4.0:beta2:*:*:*:*:*:*,ArangoDB 1.4.0 Beta 2,[''],2022-03-18T22:42Z
+5,cpe:2.3:a:arangodb:arangodb:1.4.0:rc1:*:*:*:*:*:*,ArangoDB 1.4.0 Release Candidate 1,[''],2022-03-18T22:42Z
+6,cpe:2.3:a:arangodb:arangodb:1.4.1:-:*:*:*:*:*:*,ArangoDB 1.4.1,[''],2022-03-18T22:42Z
+7,cpe:2.3:a:arangodb:arangodb:1.4.1:rc1:*:*:*:*:*:*,ArangoDB 1.4.1 Release Candidate 1,[''],2022-03-18T22:42Z
+8,cpe:2.3:a:arangodb:arangodb:1.4.2:-:*:*:*:*:*:*,ArangoDB 1.4.2,[''],2022-03-18T22:43Z
+9,cpe:2.3:a:arangodb:arangodb:1.4.2:alpha1:*:*:*:*:*:*,ArangoDB 1.4.2 Alpha 1,[''],2022-03-18T22:43Z

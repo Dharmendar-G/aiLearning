@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:elastic_storage_system:6.0.0:*:*:*:*:*:*:*,IBM Elastic Storage System 6.0.0,['CVE-2020-5015'],2022-03-21T20:27Z
+1,cpe:2.3:a:ibm:elastic_storage_system:6.0.0.1:*:*:*:*:*:*:*,IBM Elastic Storage System 6.0.0.1,['CVE-2020-5015'],2022-03-21T20:27Z
+2,cpe:2.3:a:ibm:elastic_storage_system:6.0.0.2:*:*:*:*:*:*:*,IBM Elastic Storage System 6.0.0.2,['CVE-2020-5015'],2022-03-21T20:27Z
+3,cpe:2.3:a:ibm:elastic_storage_system:6.0.1.0:*:*:*:*:*:*:*,IBM Elastic Storage System 6.0.1.0,['CVE-2020-5015'],2022-03-21T20:27Z
+4,cpe:2.3:a:ibm:elastic_storage_system:6.0.1.1:*:*:*:*:*:*:*,IBM Elastic Storage System 6.0.1.1,['CVE-2020-5015'],2022-03-21T20:27Z
+5,cpe:2.3:a:ibm:elastic_storage_system:6.0.1.2:*:*:*:*:*:*:*,IBM Elastic Storage System 6.0.1.2,['CVE-2020-5015'],2022-03-21T20:27Z
+6,cpe:2.3:a:ibm:elastic_storage_system:6.0.2.0:*:*:*:*:*:*:*,IBM Elastic Storage System 6.0.2.0,[''],2022-03-21T20:27Z
+7,cpe:2.3:a:ibm:embedded_websphere_application_server:7.0:*:*:*:*:*:*:*,IBM Embedded WebSphere Application Server (eWAS) 7.0,['CVE-2014-3020'],2022-03-21T20:27Z
+8,cpe:2.3:a:ibm:emptoris_contract_management:9.5.0.0:*:*:*:*:*:*:*,IBM Emptoris Contract Management 9.5.0.0,"['CVE-2014-3034', 'CVE-2014-3040', 'CVE-2014-3041', 'CVE-2014-6212', 'CVE-2015-5042', 'CVE-2015-5050', 'CVE-2015-7398']",2022-03-21T20:27Z
+9,cpe:2.3:a:ibm:emptoris_contract_management:9.5.0.1:*:*:*:*:*:*:*,IBM Emptoris Contract Management 9.5.0.1,"['CVE-2014-3034', 'CVE-2014-3040', 'CVE-2014-3041', 'CVE-2014-6212', 'CVE-2015-5042', 'CVE-2015-5050', 'CVE-2015-7398']",2022-03-21T20:27Z

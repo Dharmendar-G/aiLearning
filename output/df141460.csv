@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cjson_project:cjson:1.7.9:*:*:*:*:*:*:*,cJSON Project cJSON 1.7.9,"['CVE-2019-11834', 'CVE-2019-11835']",2022-03-20T01:50Z
+1,cpe:2.3:a:cjson_project:cjson:1.7.10:*:*:*:*:*:*:*,cJSON Project cJSON 1.7.10,"['CVE-2019-11834', 'CVE-2019-11835']",2022-03-20T01:50Z
+2,cpe:2.3:a:cjson_project:cjson:1.7.11:*:*:*:*:*:*:*,cJSON Project cJSON 1.7.11,[''],2022-03-20T01:50Z
+3,cpe:2.3:a:cjson_project:cjson:1.7.12:*:*:*:*:*:*:*,cJSON Project cJSON 1.7.12,[''],2022-03-20T01:50Z
+4,cpe:2.3:a:cjson_project:cjson:2016-10-02:*:*:*:*:*:*:*,cJSON Project cJSON 2016-10-02,[''],2022-03-20T01:50Z
+5,cpe:2.3:a:cjxtoken_project:cjxtoken:-:*:*:*:*:*:*:*,CJXToken Project CJXToken,['CVE-2018-13689'],2022-03-20T01:50Z
+6,cpe:2.3:a:ckeditor:ckeditor:4.0:*:*:*:*:*:*:*,CKEditor 4.0,"['CVE-2014-5191', 'CVE-2018-17960', 'CVE-2020-9281', 'CVE-2020-9440', 'CVE-2021-26271', 'CVE-2021-26272', 'CVE-2021-37695', 'CVE-2021-41164', 'CVE-2021-41165']",2022-03-20T01:50Z
+7,cpe:2.3:a:ckeditor:ckeditor:4.0.1:*:*:*:*:*:*:*,CKEditor 4.0.1,"['CVE-2014-5191', 'CVE-2018-17960', 'CVE-2020-9281', 'CVE-2021-26271', 'CVE-2021-26272', 'CVE-2021-37695', 'CVE-2021-41164', 'CVE-2021-41165']",2022-03-20T01:50Z
+8,cpe:2.3:a:ckeditor:ckeditor:4.0.1.1:*:*:*:*:*:*:*,CKEditor 4.0.1.1,"['CVE-2014-5191', 'CVE-2018-17960', 'CVE-2020-9281', 'CVE-2021-26271', 'CVE-2021-26272', 'CVE-2021-37695', 'CVE-2021-41164', 'CVE-2021-41165']",2022-03-20T01:50Z
+9,cpe:2.3:a:ckeditor:ckeditor:4.0.2:*:*:*:*:*:*:*,CKEditor 4.0.2,"['CVE-2014-5191', 'CVE-2018-17960', 'CVE-2020-9281', 'CVE-2021-26271', 'CVE-2021-26272', 'CVE-2021-37695', 'CVE-2021-41164', 'CVE-2021-41165']",2022-03-20T01:50Z

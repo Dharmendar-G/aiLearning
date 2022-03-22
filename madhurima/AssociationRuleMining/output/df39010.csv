@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apcupsd:apcupsd:3.12.2:*:*:*:*:*:*:*,APC UPS Daemon (apcupsd) 3.12.2,[''],2022-03-18T21:06Z
+1,cpe:2.3:a:apcupsd:apcupsd:3.12.3:*:*:*:*:*:*:*,APC UPS Daemon (apcupsd) 3.12.3,[''],2022-03-18T21:06Z
+2,cpe:2.3:a:apcupsd:apcupsd:3.12.4:*:*:*:*:*:*:*,APC UPS Daemon (apcupsd) 3.12.4,[''],2022-03-18T21:06Z
+3,cpe:2.3:a:apcupsd:apcupsd:3.14.0:*:*:*:*:*:*:*,APC UPS Daemon (apcupsd) 3.14.0,[''],2022-03-18T21:06Z
+4,cpe:2.3:a:apcupsd:apcupsd:3.14.1:*:*:*:*:*:*:*,APC UPS Daemon (apcupsd) 3.14.1,[''],2022-03-18T21:06Z
+5,cpe:2.3:a:apcupsd:apcupsd:3.14.2:*:*:*:*:*:*:*,APC UPS Daemon (apcupsd) 3.14.2,[''],2022-03-18T21:06Z
+6,cpe:2.3:a:apcupsd:apcupsd:3.14.3:*:*:*:*:*:*:*,APC UPS Daemon (apcupsd) 3.14.3,[''],2022-03-18T21:06Z
+7,cpe:2.3:a:apcupsd:apcupsd:3.14.4:*:*:*:*:*:*:*,APC UPS Daemon (apcupsd) 3.14.4,[''],2022-03-18T21:06Z
+8,cpe:2.3:a:apcupsd:apcupsd:3.14.5:*:*:*:*:*:*:*,APC UPS Daemon (apcupsd) 3.14.5,[''],2022-03-18T21:06Z
+9,cpe:2.3:a:apcupsd:apcupsd:3.14.6:*:*:*:*:*:*:*,APC UPS Daemon (apcupsd) 3.14.6,[''],2022-03-18T21:06Z

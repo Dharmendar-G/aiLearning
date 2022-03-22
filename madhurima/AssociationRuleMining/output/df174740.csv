@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:davical:davical:1.1.6:*:*:*:*:*:*:*,DAViCal DAViCal 1.1.6,"['CVE-2019-18345', 'CVE-2019-18346', 'CVE-2019-18347']",2022-03-20T10:59Z
+1,cpe:2.3:a:davical:davical:1.1.7:*:*:*:*:*:*:*,DAViCal DAViCal 1.1.7,"['CVE-2019-18345', 'CVE-2019-18346', 'CVE-2019-18347']",2022-03-20T10:59Z
+2,cpe:2.3:a:davical:davical:1.1.8:*:*:*:*:*:*:*,DAViCal DAViCal 1.1.8,"['CVE-2019-18345', 'CVE-2019-18346', 'CVE-2019-18347']",2022-03-20T10:59Z
+3,cpe:2.3:a:davical:davical:1.1.9:*:*:*:*:*:*:*,DAViCal DAViCal 1.1.9,[''],2022-03-20T10:59Z
+4,cpe:2.3:a:david_alkire:drag_\&_drop_gallery:6.x-1.5:*:*:*:*:*:*:*,David Alkire Drag & Drop Gallery module for Drupal 6.x-1.5,"['CVE-2012-4472', 'CVE-2012-4476', 'CVE-2012-4477', 'CVE-2012-4478', 'CVE-2012-4479']",2022-03-20T10:59Z
+5,cpe:2.3:a:david_king:vino:0.12:*:*:*:*:*:*:*,David King Vino 0.12,"['CVE-2011-1164', 'CVE-2011-1165', 'CVE-2012-4429', 'CVE-2013-5745']",2022-03-20T10:59Z
+6,cpe:2.3:a:david_king:vino:0.14:*:*:*:*:*:*:*,David King Vino 0.14,"['CVE-2011-1164', 'CVE-2011-1165', 'CVE-2012-4429', 'CVE-2013-5745']",2022-03-20T10:59Z
+7,cpe:2.3:a:david_king:vino:2.7:*:*:*:*:*:*:*,David King Vino 2.7,"['CVE-2011-0904', 'CVE-2011-1164', 'CVE-2011-1165', 'CVE-2012-4429', 'CVE-2013-5745']",2022-03-20T10:59Z
+8,cpe:2.3:a:david_king:vino:2.7.3:*:*:*:*:*:*:*,David King Vino 2.7.3,"['CVE-2011-0904', 'CVE-2011-1164', 'CVE-2011-1165', 'CVE-2012-4429', 'CVE-2013-5745']",2022-03-20T10:59Z
+9,cpe:2.3:a:david_king:vino:2.7.3.1:*:*:*:*:*:*:*,David King Vino 2.7.3.1,"['CVE-2011-0904', 'CVE-2011-1164', 'CVE-2011-1165', 'CVE-2012-4429', 'CVE-2013-5745']",2022-03-20T10:59Z

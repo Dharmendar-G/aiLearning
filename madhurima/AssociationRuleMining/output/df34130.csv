@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:mod_python:2.2:*:*:*:*:*:*:*,Apache Software Foundation mod_python 2.2,"['CVE-2002-0185', 'CVE-2004-2680', 'CVE-2005-0088']",2022-03-18T19:28Z
+1,cpe:2.3:a:apache:mod_python:2.3:*:*:*:*:*:*:*,Apache Software Foundation mod_python 2.3,"['CVE-2002-0185', 'CVE-2004-2680', 'CVE-2005-0088']",2022-03-18T19:28Z
+2,cpe:2.3:a:apache:mod_python:2.4:*:*:*:*:*:*:*,Apache Software Foundation mod_python 2.4,"['CVE-2002-0185', 'CVE-2004-2680', 'CVE-2005-0088']",2022-03-18T19:28Z
+3,cpe:2.3:a:apache:mod_python:2.4.1:*:*:*:*:*:*:*,Apache Software Foundation mod_python 2.4.1,"['CVE-2002-0185', 'CVE-2004-2680', 'CVE-2005-0088']",2022-03-18T19:28Z
+4,cpe:2.3:a:apache:mod_python:2.5:*:*:*:*:*:*:*,Apache Software Foundation mod_python 2.5,"['CVE-2002-0185', 'CVE-2004-2680', 'CVE-2005-0088']",2022-03-18T19:28Z
+5,cpe:2.3:a:apache:mod_python:2.6:*:*:*:*:*:*:*,Apache Software Foundation mod_python 2.6,"['CVE-2002-0185', 'CVE-2004-2680', 'CVE-2005-0088']",2022-03-18T19:28Z
+6,cpe:2.3:a:apache:mod_python:2.6.1:*:*:*:*:*:*:*,Apache Software Foundation mod_python 2.6.1,"['CVE-2002-0185', 'CVE-2004-2680', 'CVE-2005-0088']",2022-03-18T19:28Z
+7,cpe:2.3:a:apache:mod_python:2.6.2:*:*:*:*:*:*:*,Apache Software Foundation mod_python 2.6.2,"['CVE-2002-0185', 'CVE-2004-2680', 'CVE-2005-0088']",2022-03-18T19:29Z
+8,cpe:2.3:a:apache:mod_python:2.6.3:*:*:*:*:*:*:*,Apache Software Foundation mod_python 2.6.3,"['CVE-2002-0185', 'CVE-2004-2680', 'CVE-2005-0088']",2022-03-18T19:28Z
+9,cpe:2.3:a:apache:mod_python:2.6.4:*:*:*:*:*:*:*,Apache Software Foundation mod_python 2.6.4,"['CVE-2002-0185', 'CVE-2004-2680', 'CVE-2005-0088']",2022-03-18T19:28Z

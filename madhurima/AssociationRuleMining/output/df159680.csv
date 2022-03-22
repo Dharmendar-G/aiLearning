@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:contao:contao:3.0.1:*:*:*:*:*:*:*,Contao 3.0.1,['CVE-2018-10125'],2022-03-20T07:33Z
+1,cpe:2.3:a:contao:contao:3.0.2:*:*:*:*:*:*:*,Contao 3.0.2,['CVE-2018-10125'],2022-03-20T07:33Z
+2,cpe:2.3:a:contao:contao:3.0.3:*:*:*:*:*:*:*,Contao 3.0.3,['CVE-2018-10125'],2022-03-20T07:33Z
+3,cpe:2.3:a:contao:contao:3.0.4:*:*:*:*:*:*:*,Contao 3.0.4,['CVE-2018-10125'],2022-03-20T07:33Z
+4,cpe:2.3:a:contao:contao:3.0.5:*:*:*:*:*:*:*,Contao 3.0.5,['CVE-2018-10125'],2022-03-20T07:33Z
+5,cpe:2.3:a:contao:contao:3.0.6:*:*:*:*:*:*:*,Contao 3.0.6,['CVE-2018-10125'],2022-03-20T07:33Z
+6,cpe:2.3:a:contao:contao:3.1:beta1:*:*:*:*:*:*,Contao 3.1 Beta 1,['CVE-2018-10125'],2022-03-20T07:33Z
+7,cpe:2.3:a:contao:contao:3.1:rc1:*:*:*:*:*:*,Contao 3.1 Release Candidate 1,['CVE-2018-10125'],2022-03-20T07:33Z
+8,cpe:2.3:a:contao:contao:3.1.0:*:*:*:*:*:*:*,Contao 3.1.0,['CVE-2018-10125'],2022-03-20T07:33Z
+9,cpe:2.3:a:contao:contao:3.1.1:*:*:*:*:*:*:*,Contao 3.1.1,['CVE-2018-10125'],2022-03-20T07:33Z

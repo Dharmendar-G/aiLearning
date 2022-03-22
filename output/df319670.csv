@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:carrier_grade_server_cc3300:a6901a:*:*:*:*:*:*:*,HP Carrier Grade Server cc3300 A6901A,['CVE-2004-2600'],2022-03-21T12:58Z
+1,cpe:2.3:h:hp:carrier_grade_server_cc3310:-:*:*:*:*:*:*:*,HP Carrier Grade Server cc3310,[''],2022-03-21T12:58Z
+2,cpe:2.3:h:hp:carrier_grade_server_cc3310:a9862a:*:*:*:*:*:*:*,HP Carrier Grade Server cc3310 A9862A,['CVE-2004-2600'],2022-03-21T12:58Z
+3,cpe:2.3:h:hp:carrier_grade_server_cc3310:a9863a:*:*:*:*:*:*:*,HP Carrier Grade Server cc3310 A9863A,['CVE-2004-2600'],2022-03-21T12:58Z
+4,cpe:2.3:h:hp:cc419a:-:*:*:*:*:*:*:*,HP CC419A,"['CVE-2017-2743', 'CVE-2017-2750']",2022-03-21T12:58Z
+5,cpe:2.3:o:hp:cc419a_firmware:-:*:*:*:*:*:*:*,HP CC419A Firmware,"['CVE-2017-2743', 'CVE-2017-2750']",2022-03-21T12:58Z
+6,cpe:2.3:o:hp:cc419a_firmware:2308214_000901:*:*:*:*:*:*:*,HP CC419A Firmware 2308214 000901,['CVE-2017-2750'],2022-03-21T12:58Z
+7,cpe:2.3:h:hp:cc420a:-:*:*:*:*:*:*:*,HP CC420A,"['CVE-2017-2743', 'CVE-2017-2750']",2022-03-21T12:58Z
+8,cpe:2.3:o:hp:cc420a_firmware:-:*:*:*:*:*:*:*,HP CC420A Firmware,"['CVE-2017-2743', 'CVE-2017-2750']",2022-03-21T12:58Z
+9,cpe:2.3:o:hp:cc420a_firmware:2308214_000901:*:*:*:*:*:*:*,HP CC420A Firmware 2308214 000901,['CVE-2017-2750'],2022-03-21T12:58Z

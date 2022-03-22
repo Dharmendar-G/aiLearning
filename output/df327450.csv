@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:performance_insight:5.2:*:*:*:*:*:*:*,HP Performance Insight 5.2,['CVE-2011-1536'],2022-03-21T15:44Z
+1,cpe:2.3:a:hp:performance_insight:5.3:*:*:*:*:*:*:*,HP Performance Insight 5.3,"['CVE-2009-3096', 'CVE-2009-3097', 'CVE-2011-1536', 'CVE-2012-2007', 'CVE-2012-2008', 'CVE-2012-2009']",2022-03-21T15:44Z
+2,cpe:2.3:a:hp:performance_insight:5.30:*:*:*:*:*:*:*,HP Performance Insight 5.30,[''],2022-03-21T15:44Z
+3,cpe:2.3:a:hp:performance_insight:5.31:*:*:*:*:*:*:*,HP Performance Insight 5.31,"['CVE-2012-3269', 'CVE-2012-3270']",2022-03-21T15:44Z
+4,cpe:2.3:a:hp:performance_insight:5.40:*:*:*:*:*:*:*,HP Performance Insight 5.40,"['CVE-2012-3269', 'CVE-2012-3270']",2022-03-21T15:44Z
+5,cpe:2.3:a:hp:performance_insight:5.41:*:*:*:*:*:*:*,HP Performance Insight 5.41,"['CVE-2011-1536', 'CVE-2012-2007', 'CVE-2012-2008', 'CVE-2012-2009', 'CVE-2012-3269', 'CVE-2012-3270']",2022-03-21T15:44Z
+6,cpe:2.3:a:hp:performance_insight:5.41.001:*:*:*:*:*:*:*,HP Performance Insight 5.41.001,"['CVE-2012-2007', 'CVE-2012-2008', 'CVE-2012-2009']",2022-03-21T15:44Z
+7,cpe:2.3:a:hp:performance_insight:5.41.002:*:*:*:*:*:*:*,HP Performance Insight 5.41.002,"['CVE-2011-1536', 'CVE-2012-2007', 'CVE-2012-2008', 'CVE-2012-2009']",2022-03-21T15:44Z
+8,cpe:2.3:a:hp:performance_validation_sdk:1.0.0:*:*:*:*:*:*:*,HP Performance Validation SDK 1.0.0,[''],2022-03-21T15:44Z
+9,cpe:2.3:a:hp:photo_and_imaging_gallery:-:*:*:*:*:*:*:*,HP photo & imaging gallery,[''],2022-03-21T15:44Z

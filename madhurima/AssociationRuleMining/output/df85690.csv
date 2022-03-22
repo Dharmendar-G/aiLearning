@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:bosch:extegra_ip_dynamic_9000:-:*:*:*:*:*:*:*,Bosch EXTEGRA IP dynamic 9000,['CVE-2018-19036'],2022-03-19T10:03Z
+1,cpe:2.3:h:bosch:extegra_ip_starlight_9000:-:*:*:*:*:*:*:*,Bosch EXTEGRA IP starlight 9000,['CVE-2018-19036'],2022-03-19T10:03Z
+2,cpe:2.3:h:bosch:eyes_outdoor_camera:-:*:*:*:*:*:*:*,Bosch Eyes Outdoor Camera,['CVE-2018-20299'],2022-03-19T10:03Z
+3,cpe:2.3:o:bosch:eyes_outdoor_camera_firmware:6.52.4:*:*:*:*:*:*:*,Bosch Eyes Outdoor Camera Firmware 6.52.4,[''],2022-03-19T10:03Z
+4,[0],[0],[0],[0]
+5,cpe:2.3:h:bosch:flexidome_corner_9000_mp:-:*:*:*:*:*:*:*,Bosch FLEXIDOME corner 9000 MP,['CVE-2018-19036'],2022-03-19T10:03Z
+6,cpe:2.3:h:bosch:flexidome_hd_1080p:-:*:*:*:*:*:*:*,Bosch FLEXIDOME HD 1080p,['CVE-2018-19036'],2022-03-19T10:03Z
+7,cpe:2.3:h:bosch:flexidome_hd_1080p_hdr:-:*:*:*:*:*:*:*,Bosch FLEXIDOME HD 1080p HDR,['CVE-2018-19036'],2022-03-19T10:03Z
+8,cpe:2.3:h:bosch:flexidome_hd_720p:-:*:*:*:*:*:*:*,Bosch FLEXIDOME HD 720p,['CVE-2018-19036'],2022-03-19T10:03Z
+9,cpe:2.3:h:bosch:flexidome_ip_4000i:-:*:*:*:*:*:*:*,Bosch FLEXIDOME IP 4000i,['CVE-2018-19036'],2022-03-19T10:03Z

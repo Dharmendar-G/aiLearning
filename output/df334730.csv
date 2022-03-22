@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:leland-l22c_firmware:9.1.0.118\(c636e4r1p1t8\):*:*:*:*:*:*:*,Huawei Leland-L22C Firmware 9.1.0.118(C636E4R1P1T8),[''],2022-03-21T18:01Z
+1,cpe:2.3:h:huawei:leland-l31a:-:*:*:*:*:*:*:*,Huawei Leland-L31A,"['CVE-2019-19412', 'CVE-2019-9506']",2022-03-21T18:01Z
+2,cpe:2.3:o:huawei:leland-l31a_firmware:-:*:*:*:*:*:*:*,Huawei LELAND-L31A FIRMWARE,"['CVE-2019-19412', 'CVE-2019-9506']",2022-03-21T18:01Z
+3,cpe:2.3:o:huawei:leland-l31a_firmware:8.0.0.139\(c432\):*:*:*:*:*:*:*,Huawei Leland-L31A Firmware 8.0.0.139(C432),[''],2022-03-21T18:01Z
+4,cpe:2.3:h:huawei:leland-l32a:-:*:*:*:*:*:*:*,Huawei LELAND-L32A,['CVE-2019-9506'],2022-03-21T18:01Z
+5,cpe:2.3:o:huawei:leland-l32a_firmware:-:*:*:*:*:*:*:*,Huawei LELAND-L32A FIRMWARE,['CVE-2019-9506'],2022-03-21T18:01Z
+6,cpe:2.3:h:huawei:leland-l32c:-:*:*:*:*:*:*:*,Huawei LELAND-L32C,['CVE-2019-9506'],2022-03-21T18:01Z
+7,cpe:2.3:o:huawei:leland-l32c_firmware:-:*:*:*:*:*:*:*,Huawei LELAND-L32C FIRMWARE,['CVE-2019-9506'],2022-03-21T18:01Z
+8,cpe:2.3:h:huawei:leland-l42a:-:*:*:*:*:*:*:*,Huawei LELAND-L42A,['CVE-2019-9506'],2022-03-21T18:01Z
+9,cpe:2.3:o:huawei:leland-l42a_firmware:-:*:*:*:*:*:*:*,Huawei LELAND-L42A FIRMWARE,['CVE-2019-9506'],2022-03-21T18:01Z

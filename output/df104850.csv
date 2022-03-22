@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cdnvote_project:cdnvote:0.2:*:*:*:*:wordpress:*:*,CDNVote Project CDNVote 0.2 for WordPress,['CVE-2011-5308'],2022-03-19T15:54Z
+1,cpe:2.3:a:cdnvote_project:cdnvote:0.3:*:*:*:*:wordpress:*:*,CDNVote Project CDNVote 0.3 for WordPress,['CVE-2011-5308'],2022-03-19T15:54Z
+2,cpe:2.3:a:cdnvote_project:cdnvote:0.4:*:*:*:*:wordpress:*:*,CDNVote Project CDNVote 0.4 for WordPress,['CVE-2011-5308'],2022-03-19T15:54Z
+3,cpe:2.3:a:cdnvote_project:cdnvote:0.4.1:*:*:*:*:wordpress:*:*,CDNVote Project CDNVote for WordPress 0.4.1,['CVE-2011-5308'],2022-03-19T15:54Z
+4,cpe:2.3:a:cdnvote_project:cdnvote:0.4.2:*:*:*:*:wordpress:*:*,CDNVote Project CDNVote 0.4.2 for WordPress,[''],2022-03-19T15:54Z
+5,cpe:2.3:a:cdotech:baseline_validator:1.0.0:*:*:*:*:*:*:*,Cdotech Baseline Validator 1.0.0,[''],2022-03-19T15:54Z
+6,cpe:2.3:a:cdotech:cdo_dal_components:1.6.1:*:*:*:*:*:*:*,Cdotech Cdo Dal Components 1.6.1,[''],2022-03-19T15:54Z
+7,cpe:2.3:a:cdotech:cdo_dal_components:2.0.6:*:*:*:*:*:*:*,Cdotech Cdo Dal Components 2.0.6,[''],2022-03-19T15:54Z
+8,cpe:2.3:a:cdotech:device_registration:1.5.0:*:*:*:*:*:*:*,Cdotech Device Registration 1.5.0,[''],2022-03-19T15:54Z
+9,cpe:2.3:a:cdotech:edcl_afsdb:1.6.1:*:*:*:*:*:*:*,Cdotech Edcl Afsdb 1.6.1,[''],2022-03-19T15:54Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arrayfire:arrayfire:3.6.0:*:*:*:*:*:*:*,Arrayfire 3.6.0,[''],2022-03-18T23:21Z
+1,cpe:2.3:a:arrayfire-js_project:arrayfire-js:0.16.0:*:*:*:*:node.js:*:*,arrayfire-js Project arrayfire-js 0.16.0 for Node.js,['CVE-2016-10598'],2022-03-18T23:21Z
+2,cpe:2.3:a:arrayfire-js_project:arrayfire-js:0.16.1:*:*:*:*:node.js:*:*,arrayfire-js Project arrayfire-js 0.16.1 for Node.js,['CVE-2016-10598'],2022-03-18T23:21Z
+3,cpe:2.3:a:arrayfire-js_project:arrayfire-js:0.16.2:*:*:*:*:node.js:*:*,arrayfire-js Project arrayfire-js 0.16.2 for Node.js,['CVE-2016-10598'],2022-03-18T23:21Z
+4,cpe:2.3:a:arrayfire-js_project:arrayfire-js:0.17.0:*:*:*:*:node.js:*:*,arrayfire-js Project arrayfire-js 0.17.0 for Node.js,['CVE-2016-10598'],2022-03-18T23:21Z
+5,cpe:2.3:a:arrayfire-js_project:arrayfire-js:0.17.1:*:*:*:*:node.js:*:*,arrayfire-js Project arrayfire-js 0.17.1 for Node.js,['CVE-2016-10598'],2022-03-18T23:21Z
+6,cpe:2.3:a:arrayfire-js_project:arrayfire-js:0.17.2:*:*:*:*:node.js:*:*,arrayfire-js Project arrayfire-js 0.17.2 for Node.js,['CVE-2016-10598'],2022-03-18T23:21Z
+7,cpe:2.3:a:arrayfire-js_project:arrayfire-js:0.17.3:*:*:*:*:node.js:*:*,arrayfire-js Project arrayfire-js 0.17.3 for Node.js,['CVE-2016-10598'],2022-03-18T23:21Z
+8,cpe:2.3:a:arrayfire-js_project:arrayfire-js:0.17.4:*:*:*:*:node.js:*:*,arrayfire-js Project arrayfire-js 0.17.4 for Node.js,['CVE-2016-10598'],2022-03-18T23:21Z
+9,cpe:2.3:a:arrayfire-js_project:arrayfire-js:0.18.0:*:*:*:*:node.js:*:*,arrayfire-js Project arrayfire-js 0.18.0 for Node.js,['CVE-2016-10598'],2022-03-18T23:21Z

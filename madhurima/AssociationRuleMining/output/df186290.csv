@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:digium:certified_asterisk:1.6.1.23:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.1.23,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:42Z
+1,cpe:2.3:a:digium:certified_asterisk:1.6.1.24:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.1.24,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:42Z
+2,cpe:2.3:a:digium:certified_asterisk:1.6.1.25:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.1.25,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:42Z
+3,cpe:2.3:a:digium:certified_asterisk:1.6.2.0:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.2.0,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:42Z
+4,cpe:2.3:a:digium:certified_asterisk:1.6.2.1:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.2.1,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:42Z
+5,cpe:2.3:a:digium:certified_asterisk:1.6.2.2:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.2.2,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:42Z
+6,cpe:2.3:a:digium:certified_asterisk:1.6.2.3:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.2.3,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:42Z
+7,cpe:2.3:a:digium:certified_asterisk:1.6.2.4:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.2.4,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:43Z
+8,cpe:2.3:a:digium:certified_asterisk:1.6.2.5:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.2.5,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:43Z
+9,cpe:2.3:a:digium:certified_asterisk:1.6.2.6:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.2.6,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:43Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:datasette:datasette:0.12:*:*:*:*:*:*:*,Datasette 0.12,['CVE-2021-32670'],2022-03-20T10:50Z
+1,cpe:2.3:a:datasette:datasette:0.13:*:*:*:*:*:*:*,Datasette 0.13,['CVE-2021-32670'],2022-03-20T10:50Z
+2,cpe:2.3:a:datasette:datasette:0.14:*:*:*:*:*:*:*,Datasette 0.14,['CVE-2021-32670'],2022-03-20T10:50Z
+3,cpe:2.3:a:datasette:datasette:0.15:*:*:*:*:*:*:*,Datasette 0.15,['CVE-2021-32670'],2022-03-20T10:50Z
+4,cpe:2.3:a:datasette:datasette:0.16:*:*:*:*:*:*:*,Datasette 0.16,['CVE-2021-32670'],2022-03-20T10:50Z
+5,cpe:2.3:a:datasette:datasette:0.17:*:*:*:*:*:*:*,Datasette 0.17,['CVE-2021-32670'],2022-03-20T10:50Z
+6,cpe:2.3:a:datasette:datasette:0.18:*:*:*:*:*:*:*,Datasette 0.18,['CVE-2021-32670'],2022-03-20T10:50Z
+7,cpe:2.3:a:datasette:datasette:0.19:*:*:*:*:*:*:*,Datasette 0.19,['CVE-2021-32670'],2022-03-20T10:50Z
+8,cpe:2.3:a:datasette:datasette:0.20:*:*:*:*:*:*:*,Datasette 0.20,['CVE-2021-32670'],2022-03-20T10:50Z
+9,cpe:2.3:a:datasette:datasette:0.21:*:*:*:*:*:*:*,Datasette 0.21,['CVE-2021-32670'],2022-03-20T10:50Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:digium:asterisk:10.6.0:rc1:*:*:*:*:*:*,Digium Asterisk 10.6.0 release candidate 1,"['CVE-2012-4737', 'CVE-2012-5976', 'CVE-2012-5977', 'CVE-2014-4048', 'CVE-2017-17090', 'CVE-2018-7284', 'CVE-2020-35652']",2022-03-20T14:29Z
+1,cpe:2.3:a:digium:asterisk:10.6.0:rc2:*:*:*:*:*:*,Digium Asterisk 10.6.0 release candidate 2,"['CVE-2012-4737', 'CVE-2012-5976', 'CVE-2012-5977', 'CVE-2014-4048', 'CVE-2017-17090', 'CVE-2018-7284', 'CVE-2020-35652']",2022-03-20T14:29Z
+2,cpe:2.3:a:digium:asterisk:10.6.1:*:*:*:*:*:*:*,Digium Asterisk 10.6.1,"['CVE-2012-4737', 'CVE-2012-5976', 'CVE-2012-5977', 'CVE-2014-4048', 'CVE-2017-17090', 'CVE-2018-7284', 'CVE-2020-35652']",2022-03-20T14:29Z
+3,cpe:2.3:a:digium:asterisk:10.6.1:*:digiumphones:*:*:*:*:*,Digium Asterisk 10.6.1-digiumphones,"['CVE-2012-4737', 'CVE-2012-5976', 'CVE-2012-5977', 'CVE-2014-4048', 'CVE-2017-17090', 'CVE-2018-7284', 'CVE-2020-35652']",2022-03-20T14:29Z
+4,cpe:2.3:a:digium:asterisk:10.7.0:*:*:*:*:*:*:*,Digium Asterisk 10.7.0,"['CVE-2012-4737', 'CVE-2012-5976', 'CVE-2012-5977', 'CVE-2014-4048', 'CVE-2017-17090', 'CVE-2018-7284', 'CVE-2020-35652']",2022-03-20T14:29Z
+5,cpe:2.3:a:digium:asterisk:10.7.0:*:digiumphones:*:*:*:*:*,Digium Asterisk 10.7.0-digiumphones,"['CVE-2012-4737', 'CVE-2012-5976', 'CVE-2012-5977', 'CVE-2014-4048', 'CVE-2017-17090', 'CVE-2018-7284', 'CVE-2020-35652']",2022-03-20T14:29Z
+6,cpe:2.3:a:digium:asterisk:10.7.0:rc1:*:*:*:*:*:*,Digium Asterisk 10.7.0 release candidate 1,"['CVE-2012-4737', 'CVE-2012-5976', 'CVE-2012-5977', 'CVE-2014-4048', 'CVE-2017-17090', 'CVE-2018-7284', 'CVE-2020-35652']",2022-03-20T14:29Z
+7,cpe:2.3:a:digium:asterisk:10.7.1:*:*:*:*:*:*:*,Digium Asterisk 10.7.1,"['CVE-2012-5976', 'CVE-2012-5977', 'CVE-2014-4048', 'CVE-2017-17090', 'CVE-2018-7284', 'CVE-2020-35652']",2022-03-20T14:29Z
+8,cpe:2.3:a:digium:asterisk:10.8.0:*:*:*:*:*:*:*,Digium Asterisk 10.8.0,"['CVE-2012-5976', 'CVE-2012-5977', 'CVE-2014-4048', 'CVE-2017-17090', 'CVE-2018-7284', 'CVE-2020-35652']",2022-03-20T14:29Z
+9,cpe:2.3:a:digium:asterisk:10.8.0:rc1:*:*:*:*:*:*,Digium Asterisk 10.8.0 release candidate 1,"['CVE-2012-5976', 'CVE-2012-5977', 'CVE-2014-4048', 'CVE-2017-17090', 'CVE-2018-7284', 'CVE-2020-35652']",2022-03-20T14:29Z

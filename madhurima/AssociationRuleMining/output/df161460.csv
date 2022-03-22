@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cookie_project:cookie:0.2.5:*:*:*:*:*:*:*,Cookie Project Cookie 0.2.5,['CVE-2017-18589'],2022-03-20T07:56Z
+1,cpe:2.3:a:cookie_project:cookie:0.3.0:*:*:*:*:*:*:*,Cookie Project Cookie 0.3.0,['CVE-2017-18589'],2022-03-20T07:56Z
+2,cpe:2.3:a:cookie_project:cookie:0.3.1:*:*:*:*:*:*:*,Cookie Project Cookie 0.3.1,['CVE-2017-18589'],2022-03-20T07:56Z
+3,cpe:2.3:a:cookie_project:cookie:0.4.0:*:*:*:*:*:*:*,Cookie Project Cookie 0.4.0,['CVE-2017-18589'],2022-03-20T07:56Z
+4,cpe:2.3:a:cookie_project:cookie:0.5.0:*:*:*:*:*:*:*,Cookie Project Cookie 0.5.0,['CVE-2017-18589'],2022-03-20T07:56Z
+5,cpe:2.3:a:cookie_project:cookie:0.5.1:*:*:*:*:*:*:*,Cookie Project Cookie 0.5.1,['CVE-2017-18589'],2022-03-20T07:56Z
+6,cpe:2.3:a:cookie_project:cookie:0.6.0:*:*:*:*:*:*:*,Cookie Project Cookie 0.6.0,['CVE-2017-18589'],2022-03-20T07:56Z
+7,cpe:2.3:a:cookie_project:cookie:0.6.1:*:*:*:*:*:*:*,Cookie Project Cookie 0.6.1,['CVE-2017-18589'],2022-03-20T07:56Z
+8,cpe:2.3:a:cookie_project:cookie:0.7.2:*:*:*:*:*:*:*,Cookie Project Cookie 0.7.2,['CVE-2017-18589'],2022-03-20T07:56Z
+9,cpe:2.3:a:cookie_project:cookie:0.7.6:*:*:*:*:*:*:*,Cookie Project Cookie 0.7.6,[''],2022-03-20T07:56Z

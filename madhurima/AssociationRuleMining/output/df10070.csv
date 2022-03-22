@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:adobe_consulting_services_commons:3.14.12:*:*:*:*:*:*:*,Adobe Adobe Consulting Services (AEM) Commons 3.14.12,['CVE-2021-21043'],2022-03-18T12:19Z
+1,cpe:2.3:a:adobe:adobe_consulting_services_commons:3.15.0:*:*:*:*:*:*:*,Adobe Adobe Consulting Services (AEM) Commons 3.15.0,['CVE-2021-21043'],2022-03-18T12:19Z
+2,cpe:2.3:a:adobe:adobe_consulting_services_commons:3.15.2:*:*:*:*:*:*:*,Adobe Adobe Consulting Services (AEM) Commons 3.15.2,['CVE-2021-21043'],2022-03-18T12:19Z
+3,cpe:2.3:a:adobe:adobe_consulting_services_commons:3.16.0:*:*:*:*:*:*:*,Adobe Adobe Consulting Services (AEM) Commons 3.16.0,['CVE-2021-21043'],2022-03-18T12:19Z
+4,cpe:2.3:a:adobe:adobe_consulting_services_commons:3.17.0:*:*:*:*:*:*:*,Adobe Adobe Consulting Services (AEM) Commons 3.17.0,['CVE-2021-21043'],2022-03-18T12:19Z
+5,cpe:2.3:a:adobe:adobe_consulting_services_commons:3.17.2:*:*:*:*:*:*:*,Adobe Adobe Consulting Services (AEM) Commons 3.17.2,['CVE-2021-21043'],2022-03-18T12:19Z
+6,cpe:2.3:a:adobe:adobe_consulting_services_commons:3.17.4:*:*:*:*:*:*:*,Adobe Adobe Consulting Services (AEM) Commons 3.17.4,['CVE-2021-21043'],2022-03-18T12:19Z
+7,cpe:2.3:a:adobe:adobe_consulting_services_commons:3.18.0:*:*:*:*:*:*:*,Adobe Adobe Consulting Services (AEM) Commons 3.18.0,['CVE-2021-21043'],2022-03-18T12:19Z
+8,cpe:2.3:a:adobe:adobe_consulting_services_commons:3.18.2:*:*:*:*:*:*:*,Adobe Adobe Consulting Services (AEM) Commons 3.18.2,['CVE-2021-21043'],2022-03-18T12:19Z
+9,cpe:2.3:a:adobe:adobe_consulting_services_commons:3.19.0:*:*:*:*:*:*:*,Adobe Adobe Consulting Services (AEM) Commons 3.19.0,['CVE-2021-21043'],2022-03-18T12:19Z

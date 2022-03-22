@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:centralview_roaming_fraud_control:2.1:*:*:*:*:*:*:*,HP CentralView Roaming Fraud Control 2.1,"['CVE-2015-5406', 'CVE-2015-5407', 'CVE-2015-5408']",2022-03-21T12:59Z
+1,cpe:2.3:a:hp:centralview_roaming_fraud_control:2.2:*:*:*:*:*:*:*,HP CentralView Roaming Fraud Control 2.2,"['CVE-2015-5406', 'CVE-2015-5407', 'CVE-2015-5408']",2022-03-21T12:59Z
+2,cpe:2.3:a:hp:centralview_roaming_fraud_control:2.3:*:*:*:*:*:*:*,HP CentralView Roaming Fraud Control 2.3,"['CVE-2015-5406', 'CVE-2015-5407', 'CVE-2015-5408']",2022-03-21T12:59Z
+3,cpe:2.3:a:hp:centralview_subscription_fraud_prevention:2.0:*:*:*:*:*:*:*,HP CentralView  Subscription Fraud Prevention 2.0,"['CVE-2015-5406', 'CVE-2015-5407', 'CVE-2015-5408']",2022-03-21T12:59Z
+4,cpe:2.3:a:hp:centralview_subscription_fraud_prevention:2.1:*:*:*:*:*:*:*,HP CentralView  Subscription Fraud Prevention 2.1,"['CVE-2015-5406', 'CVE-2015-5407', 'CVE-2015-5408']",2022-03-21T12:59Z
+5,cpe:2.3:h:hp:cf066a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise CF066A,"['CVE-2016-2244', 'CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:59Z
+6,cpe:2.3:o:hp:cf066a_firmware:-:*:*:*:*:*:*:*,HP CF066A Firmware,"['CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:59Z
+7,cpe:2.3:o:hp:cf066a_firmware:2308214_000921:*:*:*:*:*:*:*,HP CF066A Firmware 2308214 000921,"['CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:59Z
+8,cpe:2.3:h:hp:cf067a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise CF067A,"['CVE-2016-2244', 'CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:59Z
+9,cpe:2.3:o:hp:cf067a_firmware:-:*:*:*:*:*:*:*,HP CF067A Firmware,"['CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:59Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:jg823a_hp_10512_taa_switch_chassis:-:*:*:*:*:*:*:*,HP JG823A HP 10512 TAA Switch Chassis,['CVE-2015-5434'],2022-03-21T13:54Z
+1,cpe:2.3:h:hp:jg834a:-:*:*:*:*:*:*:*,HP JG835A HP FlexFabric 12508E DC Switch TAA-compliant Chassis,[''],2022-03-21T13:54Z
+2,cpe:2.3:h:hp:jg834a_hp_flexfabric_12508e_ac_switch_taa-compliant_chassis:-:*:*:*:*:*:*:*,HP JG834A HP FlexFabric 12508E AC Switch TAA-Compliant Chassis,['CVE-2015-5434'],2022-03-21T13:54Z
+3,cpe:2.3:o:hp:jg835a:7.0:*:*:*:*:*:*:*,HP JG496A HP 10500 Type A MPU with Comware Operating System 7.0,[''],2022-03-21T13:54Z
+4,cpe:2.3:h:hp:jg835a_hp_flexfabric_12508e_dc_switch_taa-compliant_chassis:-:*:*:*:*:*:*:*,HP JG835A HP FlexFabric 12508E DC Switch TAA-Compliant Chassis,['CVE-2015-5434'],2022-03-21T13:54Z
+5,cpe:2.3:h:hp:jg836a:-:*:*:*:*:*:*:*,HP JG811AAE HP VSR1001 Comware 7 Virtual Services Router,[''],2022-03-21T13:54Z
+6,cpe:2.3:h:hp:jg836a_hp_flexfabric_12518e_ac_switch_taa-compliant_chassis:-:*:*:*:*:*:*:*,HP JG836A HP FlexFabric 12518E AC Switch TAA-Compliant Chassis,['CVE-2015-5434'],2022-03-21T13:54Z
+7,cpe:2.3:h:hp:jg837a:-:*:*:*:*:*:*:*,HP JG869A HP MSR4000 TAA-compliant MPU-100 Main Processing Unit,[''],2022-03-21T13:54Z
+8,cpe:2.3:h:hp:jg837a_hp_flexfabric_12518e_dc_switch_taa-compliant_chassis:-:*:*:*:*:*:*:*,HP JG837A HP FlexFabric 12518E DC Switch TAA-Compliant Chassis,['CVE-2015-5434'],2022-03-21T13:54Z
+9,cpe:2.3:h:hp:jg861a:-:*:*:*:*:*:*:*,HP JG836A HP FlexFabric 12518E AC Switch TAA-compliant Chassis,[''],2022-03-21T13:54Z

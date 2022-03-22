@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:canon:ir2206if_firmware:-:*:*:*:*:*:*:*,Canon IR2206IF Firmware,['CVE-2020-16849'],2022-03-19T15:14Z
+1,cpe:2.3:h:canon:ir2206n:-:*:*:*:*:*:*:*,Canon IR2206N,['CVE-2020-16849'],2022-03-19T15:14Z
+2,cpe:2.3:o:canon:ir2206n_firmware:-:*:*:*:*:*:*:*,Canon IR2206N Firmware,['CVE-2020-16849'],2022-03-19T15:14Z
+3,cpe:2.3:h:canon:ivy_cliq_instant_camera_printer:-:*:*:*:*:*:*:*,Canon IVY Cliq Instant Camera Printer,[''],2022-03-19T15:14Z
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,cpe:2.3:h:canon:ivy_cliq2_instant_camera_printer:-:*:*:*:*:*:*:*,Canon IVY Cliq2 Instant Camera Printer,[''],2022-03-19T15:14Z
+7,cpe:2.3:h:canon:ivy_mini_photo_printer:-:*:*:*:*:*:*:*,Canon IVY Mini Photo Printer,[''],2022-03-19T15:14Z
+8,cpe:2.3:h:canon:lbp113w:-:*:*:*:*:*:*:*,Canon LBP113W,"['CVE-2020-16849', 'CVE-2021-20877']",2022-03-19T15:14Z
+9,cpe:2.3:o:canon:lbp113w_firmware:-:*:*:*:*:*:*:*,Canon LBP113W Firmware,['CVE-2020-16849'],2022-03-19T15:14Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:presenter:7.0.6:*:*:*:*:*:*:*,Adobe Presenter 7.0.6,[''],2022-03-18T12:49Z
+1,cpe:2.3:a:adobe:push_notifications:1.0.0:*:*:*:*:phonegap:*:*,Adobe Push Notifications 1.0.0 for PhoneGap,['CVE-2018-4943'],2022-03-18T12:49Z
+2,cpe:2.3:a:adobe:push_notifications:1.0.1:*:*:*:*:phonegap:*:*,Adobe Push Notifications 1.0.1 for PhoneGap,['CVE-2018-4943'],2022-03-18T12:49Z
+3,cpe:2.3:a:adobe:push_notifications:1.1.0:*:*:*:*:phonegap:*:*,Adobe Push Notifications 1.1.0 for PhoneGap,['CVE-2018-4943'],2022-03-18T12:49Z
+4,cpe:2.3:a:adobe:push_notifications:1.1.1:*:*:*:*:phonegap:*:*,Adobe Push Notifications 1.1.1 for PhoneGap,['CVE-2018-4943'],2022-03-18T12:49Z
+5,cpe:2.3:a:adobe:push_notifications:1.2.0:*:*:*:*:phonegap:*:*,Adobe Push Notifications 1.2.0 for PhoneGap,['CVE-2018-4943'],2022-03-18T12:49Z
+6,cpe:2.3:a:adobe:push_notifications:1.2.1:*:*:*:*:phonegap:*:*,Adobe Push Notifications 1.2.1 for PhoneGap,['CVE-2018-4943'],2022-03-18T12:49Z
+7,cpe:2.3:a:adobe:push_notifications:1.2.2:*:*:*:*:phonegap:*:*,Adobe Push Notifications 1.2.2 for PhoneGap,['CVE-2018-4943'],2022-03-18T12:49Z
+8,cpe:2.3:a:adobe:push_notifications:1.2.3:*:*:*:*:phonegap:*:*,Adobe Push Notifications 1.2.3 for PhoneGap,['CVE-2018-4943'],2022-03-18T12:49Z
+9,cpe:2.3:a:adobe:push_notifications:1.3.0:*:*:*:*:phonegap:*:*,Adobe Push Notifications 1.3.0 for PhoneGap,['CVE-2018-4943'],2022-03-18T12:49Z

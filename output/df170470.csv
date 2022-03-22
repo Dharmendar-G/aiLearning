@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dahuasecurity:ip_camera_firmware:2.400.0000.14.r.20170713:*:*:*:*:*:*:*,Dahua Technology IP CAMERA Firmware 2.400.0000.14.r.20170713,['CVE-2017-3223'],2022-03-20T09:55Z
+1,cpe:2.3:o:dahuasecurity:ip_camera_firmware:3.200.0001.6:*:*:*:*:*:*:*,Dahua Technology IP CAMERA Firmware 3.200.0001.6,"['CVE-2017-3223', 'CVE-2017-7253']",2022-03-20T09:55Z
+2,cpe:2.3:o:dahuasecurity:ip_camera_firmware:dh_ipc-ack-themis_eng_p_v2.400.0000.14.r.20170713.bin:*:*:*:*:*:*:*,Dahuasecurity Ip Camera Firmware Dh Ipc-ack-themis Eng P V2.400.0000.14.r.20170713.bin,[''],2022-03-20T09:55Z
+3,cpe:2.3:h:dahuasecurity:ipc-ebw8xxx:-:*:*:*:*:*:*:*,Dahua Technology USA Inc IPC-EBW8XXX,['CVE-2017-9315'],2022-03-20T09:55Z
+4,cpe:2.3:o:dahuasecurity:ipc-ebw8xxx_firmware:-:*:*:*:*:*:*:*,Dahua Technology IPC-EBW8XXX Firmware,['CVE-2017-9315'],2022-03-20T09:55Z
+5,cpe:2.3:h:dahuasecurity:ipc-hdbw1320e-w:-:*:*:*:*:*:*:*,Dahuasecurity IPC-HBDW1320E-W,"['CVE-2019-9682', 'CVE-2020-9502']",2022-03-20T09:55Z
+6,cpe:2.3:o:dahuasecurity:ipc-hdbw1320e-w_firmware:2019-12:*:*:*:*:*:*:*,Dahuasecurity IPC-HBDW1320E-W Firmware 2019-12,[''],2022-03-20T09:55Z
+7,cpe:2.3:h:dahuasecurity:ipc-hdbw1xxx:-:*:*:*:*:*:*:*,Dahua Technology USA Inc IPC-HDBW1XXX,['CVE-2017-9315'],2022-03-20T09:55Z
+8,cpe:2.3:o:dahuasecurity:ipc-hdbw1xxx_firmware:-:*:*:*:*:*:*:*,Dahuasecurity IPC-HDBW1xxx Firmware -,['CVE-2017-9315'],2022-03-20T09:55Z
+9,cpe:2.3:h:dahuasecurity:ipc-hdbw2xxx:-:*:*:*:*:*:*:*,Dahua Technology USA Inc IPC-HDBW2XXX,['CVE-2017-9315'],2022-03-20T09:55Z

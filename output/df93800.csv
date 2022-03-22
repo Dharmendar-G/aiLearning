@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:brocade:network_advisor:14.0.3:*:*:*:*:*:*:*,Brocade Network Advisor 14.0.3,"['CVE-2018-6443', 'CVE-2018-6444']",2022-03-19T12:36Z
+1,cpe:2.3:a:brocade:network_advisor:14.1.0:*:*:*:*:*:*:*,Brocade Network Advisor 14.1.0,['CVE-2018-6443'],2022-03-19T12:36Z
+2,cpe:2.3:a:brocade:network_advisor:14.3.1:*:*:*:*:*:*:*,Brocade Network Advisor 14.3.1,[''],2022-03-19T12:36Z
+3,cpe:2.3:a:brocade:san_health_diagnostics_capture:3.1.4a:*:*:*:*:*:*:*,Brocade San Health Diagnostics Capture 3.1.4a,[''],2022-03-19T12:36Z
+4,cpe:2.3:a:brocade:san_health_diagnostics_capture:3.1.5a:*:*:*:*:*:*:*,Brocade San Health Diagnostics Capture 3.1.5a,[''],2022-03-19T12:36Z
+5,cpe:2.3:a:brocade:san_health_diagnostics_capture:3.2.1a:*:*:*:*:*:*:*,Brocade San Health Diagnostics Capture 3.2.1a,[''],2022-03-19T12:36Z
+6,cpe:2.3:a:brocade:san_health_diagnostics_capture:3.2.4:*:*:*:*:*:*:*,Brocade San Health Diagnostics Capture 3.2.4,[''],2022-03-19T12:36Z
+7,cpe:2.3:a:brocade:san_health_professional:1.0.0.4:*:*:*:*:*:*:*,Brocade San Health Professional 1.0.0.4,[''],2022-03-19T12:37Z
+8,cpe:2.3:h:brocade:silkworm_12000_director:-:*:*:*:*:*:*:*,Brocade SilkWorm 12000 Director,['CVE-2007-2764'],2022-03-19T12:37Z
+9,cpe:2.3:h:brocade:silkworm_200e_switch:-:*:*:*:*:*:*:*,Brocade SilkWorm 200E Switch,['CVE-2007-2764'],2022-03-19T12:37Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apereo:xerte_online_toolkits:3.10.4:*:*:*:*:*:*:*,Apereo Xerte Online Toolkits 3.10.4,[''],2022-03-18T21:18Z
+1,cpe:2.3:a:aperturemobilemedia:aperture_mobile_media:1.404:*:*:*:*:android:*:*,aperturemobilemedia Aperture Mobile Media (aka com.app_aperturemobilemedia.layout) for android 1.404,['CVE-2014-7385'],2022-03-18T21:18Z
+2,cpe:2.3:h:apexis:apm-h803-mpc:-:*:*:*:*:*:*:*,Apexis APM-H803-MPC,['CVE-2017-17101'],2022-03-18T21:18Z
+3,cpe:2.3:o:apexis:apm-h803-mpc_firmware:1.1.2.69:*:*:*:*:*:*:*,Apexis APM-H803-MPC Firmware 1.1.2.69,['CVE-2017-17101'],2022-03-18T21:18Z
+4,cpe:2.3:h:apexis:apm-j601-ws:-:*:*:*:*:*:*:*,Apexis APM-J601-WS,['CVE-2014-3972'],2022-03-18T21:18Z
+5,cpe:2.3:o:apexis:apm-j601-ws_firmware:17.35.2.49:*:*:*:*:*:*:*,Apexis APM-J601-WS Firmware 17.35.2.49,[''],2022-03-18T21:18Z
+6,cpe:2.3:h:apexmic:apm32f103:-:*:*:*:*:*:*:*,Apex Microelectronics APM32F103,"['CVE-2020-13463', 'CVE-2020-13471']",2022-03-18T21:19Z
+7,cpe:2.3:o:apexmic:apm32f103_firmware:-:*:*:*:*:*:*:*,Apex Microelectronics APM32F103 Firmware,"['CVE-2020-13463', 'CVE-2020-13471']",2022-03-18T21:19Z
+8,cpe:2.3:a:apexoo:spider:1.1:*:*:*:*:*:*:*,Apexoo Spider 1.1,[''],2022-03-18T21:19Z
+9,cpe:2.3:a:apex-publish-static-files_project:apex-publish-static-files:1.0.1:*:*:*:*:node.js:*:*,apex-publish-static-files Project apex-publish-static-files 1.0.1 for Node.js,['CVE-2018-16462'],2022-03-18T21:19Z

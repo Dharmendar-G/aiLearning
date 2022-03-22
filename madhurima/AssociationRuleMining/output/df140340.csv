@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:citrix:mpx_15100-50g_fips:-:*:*:*:*:*:*:*,Citrix MPX 15100-50G FIPS,"['CVE-2020-8299', 'CVE-2020-8300', 'CVE-2021-22919', 'CVE-2021-22927']",2022-03-20T01:31Z
+1,cpe:2.3:h:citrix:mpx_15120-50g_fips:-:*:*:*:*:*:*:*,Citrix MPX 15120-50gG FIPS,"['CVE-2020-8299', 'CVE-2020-8300', 'CVE-2021-22919', 'CVE-2021-22927']",2022-03-20T01:31Z
+2,cpe:2.3:h:citrix:mpx_8905_fips:-:*:*:*:*:*:*:*,Citrix MPX 8905 FIPS,"['CVE-2020-8299', 'CVE-2020-8300', 'CVE-2021-22919', 'CVE-2021-22927']",2022-03-20T01:31Z
+3,cpe:2.3:h:citrix:mpx_8910_fips:-:*:*:*:*:*:*:*,Citrix MPX 8910 FIPS,"['CVE-2020-8299', 'CVE-2020-8300', 'CVE-2021-22919', 'CVE-2021-22927']",2022-03-20T01:31Z
+4,cpe:2.3:h:citrix:mpx_8920_fips:-:*:*:*:*:*:*:*,Citrix MPX 8920 FIPS,"['CVE-2020-8299', 'CVE-2020-8300', 'CVE-2021-22919', 'CVE-2021-22927']",2022-03-20T01:31Z
+5,cpe:2.3:a:citrix:netscaler:-:*:*:*:*:*:*:*,Citrix NetScaler,[''],2022-03-20T01:31Z
+6,cpe:2.3:a:citrix:netscaler:8.0:*:*:*:*:*:*:*,Citrix NetScaler 8.0,[''],2022-03-20T01:31Z
+7,cpe:2.3:a:citrix:netscaler:8.0_build_47.8:*:*:*:*:*:*:*,Citrix NetScaler 8.0 build 47.8,['CVE-2007-6037'],2022-03-20T01:31Z
+8,cpe:2.3:a:citrix:netscaler:10.1:*:*:*:*:*:*:*,Citrix NetScaler 10.1,['CVE-2016-2072'],2022-03-20T01:31Z
+9,cpe:2.3:a:citrix:netscaler:10.5:*:*:*:*:*:*:*,Citrix NetScaler 10.5,"['CVE-2015-2838', 'CVE-2015-2839', 'CVE-2015-2840', 'CVE-2015-2841', 'CVE-2016-2071', 'CVE-2016-2072']",2022-03-20T01:31Z

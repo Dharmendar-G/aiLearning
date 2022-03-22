@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:vce_vision_intelligent_operations:-:*:*:*:*:*:*:*,Dell VCE Vision Intelligent Operations,"['CVE-2015-4056', 'CVE-2015-4057']",2022-03-20T13:09Z
+1,cpe:2.3:a:dell:vce_vision_intelligent_operations:2.5:*:*:*:*:*:*:*,Dell VCE Vision Intelligent Operations 2.5,"['CVE-2015-4056', 'CVE-2015-4057']",2022-03-20T13:09Z
+2,cpe:2.3:a:dell:vce_vision_intelligent_operations:2.6:*:*:*:*:*:*:*,Dell VCE Vision Intelligent Operations 2.6,"['CVE-2015-4056', 'CVE-2015-4057']",2022-03-20T13:09Z
+3,cpe:2.3:a:dell:vce_vision_intelligent_operations:2.6.4:*:*:*:*:*:*:*,Dell VCE Vision Intelligent Operations 2.6.4,"['CVE-2015-4056', 'CVE-2015-4057']",2022-03-20T13:10Z
+4,cpe:2.3:h:dell:venue_7140:-:*:*:*:*:*:*:*,Dell Venue 7140,['CVE-2019-3717'],2022-03-20T13:10Z
+5,cpe:2.3:o:dell:venue_7140_firmware:-:*:*:*:*:*:*:*,Dell Venue 7140 Firmware,['CVE-2019-3717'],2022-03-20T13:10Z
+6,cpe:2.3:o:dell:venue_7140_firmware:a18:*:*:*:*:*:*:*,Dell Venue 7140 Firmware A18,[''],2022-03-20T13:10Z
+7,cpe:2.3:h:dell:vnx_vg10:-:*:*:*:*:*:*:*,Dell VNX VG10,"['CVE-2021-36289', 'CVE-2021-36294', 'CVE-2021-36295', 'CVE-2021-36296']",2022-03-20T13:10Z
+8,cpe:2.3:h:dell:vnx_vg50:-:*:*:*:*:*:*:*,Dell VNX VG50,"['CVE-2021-36289', 'CVE-2021-36294', 'CVE-2021-36295', 'CVE-2021-36296']",2022-03-20T13:10Z
+9,cpe:2.3:h:dell:vnx5200:-:*:*:*:*:*:*:*,Dell VNX5200,"['CVE-2021-36289', 'CVE-2021-36294', 'CVE-2021-36295', 'CVE-2021-36296']",2022-03-20T13:10Z

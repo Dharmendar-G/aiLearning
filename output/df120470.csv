@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:ie_2000-16tc:-:*:*:*:*:*:*:*,Cisco IE 2000-16TC,"['CVE-2018-0156', 'CVE-2018-0282', 'CVE-2019-12656']",2022-03-19T20:05Z
+1,cpe:2.3:h:cisco:ie_2000-16tc_industrial_ethernet_switch:-:*:*:*:*:*:*:*,Cisco IE 2000-16TC Industrial Ethernet Switch,"['CVE-2017-3881', 'CVE-2020-3512']",2022-03-19T20:05Z
+2,cpe:2.3:h:cisco:ie_2000-16tc-g:-:*:*:*:*:*:*:*,Cisco IE 2000-16TC-G,"['CVE-2018-0156', 'CVE-2018-0282', 'CVE-2019-12656']",2022-03-19T20:05Z
+3,cpe:2.3:h:cisco:ie_2000-16tc-g_industrial_ethernet_switch:-:*:*:*:*:*:*:*,Cisco IE 2000-16TC-G Industrial Ethernet Switch,"['CVE-2017-3881', 'CVE-2020-3512']",2022-03-19T20:05Z
+4,cpe:2.3:h:cisco:ie_2000-16tc-g-e:-:*:*:*:*:*:*:*,Cisco IE 2000-16TC-G-E,"['CVE-2018-0156', 'CVE-2018-0282', 'CVE-2019-12656']",2022-03-19T20:05Z
+5,cpe:2.3:h:cisco:ie_2000-16tc-g-e_industrial_ethernet_switch:-:*:*:*:*:*:*:*,Cisco IE 2000-16TC-G-E Industrial Ethernet Switch,"['CVE-2017-3881', 'CVE-2020-3512']",2022-03-19T20:05Z
+6,cpe:2.3:h:cisco:ie_2000-16tc-g-n:-:*:*:*:*:*:*:*,Cisco IE 2000-16TC-G-N,"['CVE-2018-0156', 'CVE-2018-0282', 'CVE-2019-12656']",2022-03-19T20:05Z
+7,cpe:2.3:h:cisco:ie_2000-16tc-g-n_industrial_ethernet_switch:-:*:*:*:*:*:*:*,Cisco IE 2000-16TC-G-N Industrial Ethernet Switch,"['CVE-2017-3881', 'CVE-2020-3512']",2022-03-19T20:05Z
+8,cpe:2.3:h:cisco:ie_2000-16tc-g-x:-:*:*:*:*:*:*:*,Cisco IE 2000-16TC-G-X,"['CVE-2018-0156', 'CVE-2018-0282', 'CVE-2019-12656']",2022-03-19T20:05Z
+9,cpe:2.3:h:cisco:ie_2000-16tc-g-x_industrial_ethernet_switch:-:*:*:*:*:*:*:*,Cisco IE 2000-16TC-G-X Industrial Ethernet Switch,"['CVE-2017-3881', 'CVE-2020-3512']",2022-03-19T20:05Z

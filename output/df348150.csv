@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:security_identity_manager:6.0.0.10:*:*:*:*:*:*:*,IBM Security Identity Manager 6.0.0.10,"['CVE-2018-1956', 'CVE-2018-1967', 'CVE-2018-1969', 'CVE-2018-2019', 'CVE-2019-4038', 'CVE-2019-4451']",2022-03-21T22:02Z
+1,cpe:2.3:a:ibm:security_identity_manager:6.0.0.13:*:*:*:*:*:*:*,IBM Security Identity Manager 6.0.0.13,"['CVE-2018-1956', 'CVE-2018-1967', 'CVE-2018-1969', 'CVE-2019-4038', 'CVE-2019-4451']",2022-03-21T22:02Z
+2,cpe:2.3:a:ibm:security_identity_manager:6.0.0.14:*:*:*:*:*:*:*,IBM Security Identity Manager 6.0.0.14,"['CVE-2018-1956', 'CVE-2018-1967', 'CVE-2018-1969', 'CVE-2018-2019', 'CVE-2019-4038', 'CVE-2019-4451']",2022-03-21T22:02Z
+3,cpe:2.3:a:ibm:security_identity_manager:6.0.0.18:*:*:*:*:*:*:*,IBM Security Identity Manager 6.0.0.18,"['CVE-2018-1956', 'CVE-2018-1967', 'CVE-2018-1969', 'CVE-2018-2019', 'CVE-2019-4038', 'CVE-2019-4451']",2022-03-21T22:02Z
+4,cpe:2.3:a:ibm:security_identity_manager:6.0.0.19:*:*:*:*:*:*:*,IBM Security Identity Manager 6.0.0.19,"['CVE-2018-1956', 'CVE-2018-1967', 'CVE-2018-1969', 'CVE-2018-2019', 'CVE-2019-4038', 'CVE-2019-4451']",2022-03-21T22:02Z
+5,cpe:2.3:a:ibm:security_identity_manager:6.0.0.20:*:*:*:*:*:*:*,IBM Security Identity Manager 6.0.0.20,"['CVE-2018-1956', 'CVE-2018-1967', 'CVE-2018-1969', 'CVE-2018-2019', 'CVE-2019-4038', 'CVE-2019-4451']",2022-03-21T22:02Z
+6,cpe:2.3:a:ibm:security_identity_manager:6.0.0.20.1:*:*:*:*:*:*:*,IBM Security Identity Manager 6.0.0.20.1,['CVE-2019-4451'],2022-03-21T22:02Z
+7,cpe:2.3:a:ibm:security_identity_manager:6.0.0.21:*:*:*:*:*:*:*,IBM Security Identity Manager 6.0.0.21,['CVE-2019-4451'],2022-03-21T22:02Z
+8,cpe:2.3:a:ibm:security_identity_manager:6.0.0.22:*:*:*:*:*:*:*,IBM Security Identity Manager 6.0.0.22,[''],2022-03-21T22:02Z
+9,cpe:2.3:a:ibm:security_identity_manager:6.0.2:*:*:*:*:*:*:*,IBM Security Identity Manager 6.0.2,"['CVE-2021-20483', 'CVE-2021-20488', 'CVE-2021-29687', 'CVE-2021-29688']",2022-03-21T22:02Z

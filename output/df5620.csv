@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:acquia:mautic:3.3.2:rc:*:*:*:*:*:*,Acquia Mautic 3.3.2 Release Candidate,"['CVE-2021-27909', 'CVE-2021-27910', 'CVE-2021-27911', 'CVE-2021-27912', 'CVE-2021-27913']",2022-03-18T11:05Z
+1,cpe:2.3:a:acquia:mautic:3.3.3:-:*:*:*:*:*:*,Acquia Mautic 3.3.3,"['CVE-2021-27909', 'CVE-2021-27910', 'CVE-2021-27911', 'CVE-2021-27912', 'CVE-2021-27913']",2022-03-18T11:05Z
+2,cpe:2.3:a:acquia:mautic:3.3.3:rc:*:*:*:*:*:*,Acquia Mautic 3.3.3 Release Candidate,"['CVE-2021-27909', 'CVE-2021-27910', 'CVE-2021-27911', 'CVE-2021-27912', 'CVE-2021-27913']",2022-03-18T11:05Z
+3,cpe:2.3:a:acquia:mautic:3.3.4:*:*:*:*:*:*:*,Acquia Mautic 3.3.4,[''],2022-03-18T11:05Z
+4,cpe:2.3:a:acquia:mautic:4.0.0:-:*:*:*:*:*:*,Acquia Mautic 4.0.0,[''],2022-03-18T11:05Z
+5,cpe:2.3:a:acquia:mautic:4.0.0:alpha1:*:*:*:*:*:*,Acquia Mautic 4.0.0 Alpha 1,"['CVE-2021-27909', 'CVE-2021-27910', 'CVE-2021-27911', 'CVE-2021-27912', 'CVE-2021-27913']",2022-03-18T11:05Z
+6,cpe:2.3:a:acquia:mautic:4.0.0:beta:*:*:*:*:*:*,Acquia Mautic 4.0.0 Beta,"['CVE-2021-27909', 'CVE-2021-27910', 'CVE-2021-27911', 'CVE-2021-27912', 'CVE-2021-27913']",2022-03-18T11:05Z
+7,cpe:2.3:a:acquia:mautic:4.0.0:rc:*:*:*:*:*:*,Acquia Mautic 4.0.0 Release Candidate,"['CVE-2021-27909', 'CVE-2021-27910', 'CVE-2021-27911', 'CVE-2021-27912', 'CVE-2021-27913']",2022-03-18T11:05Z
+8,cpe:2.3:a:acquia:mollom:6.x-2.7:*:*:*:*:drupal:*:*,Acquia Mollom 6.x-2.7 for Drupal,['CVE-2015-8754'],2022-03-18T11:05Z
+9,cpe:2.3:a:acquia:mollom:6.x-2.8:*:*:*:*:drupal:*:*,Acquia Mollom 6.x-2.8 for Drupal,['CVE-2015-8754'],2022-03-18T11:05Z

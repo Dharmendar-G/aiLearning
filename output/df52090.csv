@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:bamboo:6.9.1:*:*:*:*:*:*:*,Atlassian Bamboo 6.9.1,"['CVE-2019-15005', 'CVE-2021-26067']",2022-03-19T00:19Z
+1,cpe:2.3:a:atlassian:bamboo:6.9.2:*:*:*:*:*:*:*,Atlassian Bamboo 6.9.2,"['CVE-2019-15005', 'CVE-2021-26067']",2022-03-19T00:19Z
+2,cpe:2.3:a:atlassian:bamboo:6.10.0:*:*:*:*:*:*:*,Atlassian Bamboo 6.10.0,"['CVE-2019-15005', 'CVE-2021-26067']",2022-03-19T00:19Z
+3,cpe:2.3:a:atlassian:bamboo:6.10.1:*:*:*:*:*:*:*,Atlassian Bamboo 6.10.1,"['CVE-2019-15005', 'CVE-2021-26067']",2022-03-19T00:19Z
+4,cpe:2.3:a:atlassian:bamboo:6.10.2:*:*:*:*:*:*:*,Atlassian Bamboo 6.10.2,['CVE-2021-26067'],2022-03-19T00:19Z
+5,cpe:2.3:a:atlassian:bamboo:6.10.3:*:*:*:*:*:*:*,Atlassian Bamboo 6.10.3,['CVE-2021-26067'],2022-03-19T00:19Z
+6,cpe:2.3:a:atlassian:bamboo:7.0.0:*:*:*:*:*:*:*,Atlassian Bamboo 7.0.0,['CVE-2021-26067'],2022-03-19T00:19Z
+7,cpe:2.3:a:atlassian:bamboo:7.0.2:*:*:*:*:*:*:*,Atlassian Bamboo 7.0.2,['CVE-2021-26067'],2022-03-19T00:19Z
+8,cpe:2.3:a:atlassian:bamboo:7.0.3:*:*:*:*:*:*:*,Atlassian Bamboo 7.0.3,['CVE-2021-26067'],2022-03-19T00:19Z
+9,cpe:2.3:a:atlassian:bamboo:7.0.4:*:*:*:*:*:*:*,Atlassian Bamboo 7.0.4,['CVE-2021-26067'],2022-03-19T00:19Z

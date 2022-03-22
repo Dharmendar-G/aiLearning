@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:telepresence_mx300:-:*:*:*:*:*:*:*,Cisco TelePresence MX300,"['CVE-2013-3377', 'CVE-2020-3143']",2022-03-20T00:32Z
+1,cpe:2.3:o:cisco:telepresence_mx300_firmware:-:*:*:*:*:*:*:*,Cisco Telepresence MX300 Firmware,['CVE-2020-3143'],2022-03-20T00:32Z
+2,cpe:2.3:h:cisco:telepresence_mx700:-:*:*:*:*:*:*:*,Cisco Telepresence MX700,['CVE-2020-3143'],2022-03-20T00:32Z
+3,cpe:2.3:o:cisco:telepresence_mx700_firmware:-:*:*:*:*:*:*:*,Cisco Telepresence MX700 Firmware,['CVE-2020-3143'],2022-03-20T00:32Z
+4,cpe:2.3:h:cisco:telepresence_mx800:-:*:*:*:*:*:*:*,Cisco Telepresence MX800,['CVE-2020-3143'],2022-03-20T00:32Z
+5,cpe:2.3:o:cisco:telepresence_mx800_firmware:-:*:*:*:*:*:*:*,Cisco Telepresence MX800 Firmware,['CVE-2020-3143'],2022-03-20T00:32Z
+6,cpe:2.3:h:cisco:telepresence_profile_55:-:*:*:*:*:*:*:*,Cisco TelePresence Profile 55-inch,['CVE-2013-3377'],2022-03-20T00:32Z
+7,cpe:2.3:h:cisco:telepresence_profile_65:-:*:*:*:*:*:*:*,Cisco TelePresence Profile 65-inch,['CVE-2013-3377'],2022-03-20T00:32Z
+8,cpe:2.3:h:cisco:telepresence_quick_set_c20:-:*:*:*:*:*:*:*,Cisco TelePresence Quick Set C20,['CVE-2013-3377'],2022-03-20T00:32Z
+9,cpe:2.3:h:cisco:telepresence_quick_set_sx20:-:*:*:*:*:*:*:*,Cisco TelePresence Quick Set SX20,['CVE-2013-3377'],2022-03-20T00:32Z

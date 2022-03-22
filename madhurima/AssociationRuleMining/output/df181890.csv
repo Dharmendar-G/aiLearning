@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:delta_project:delta:0.3.0:*:*:*:*:*:*:*,Delta Project Delta 0.3.0,['CVE-2021-36376'],2022-03-20T13:17Z
+1,cpe:2.3:a:delta_project:delta:0.4.0:*:*:*:*:*:*:*,Delta Project Delta 0.4.0,['CVE-2021-36376'],2022-03-20T13:18Z
+2,cpe:2.3:a:delta_project:delta:0.4.1:*:*:*:*:*:*:*,Delta Project Delta 0.4.1,['CVE-2021-36376'],2022-03-20T13:18Z
+3,cpe:2.3:a:delta_project:delta:0.4.3:*:*:*:*:*:*:*,Delta Project Delta 0.4.3,['CVE-2021-36376'],2022-03-20T13:18Z
+4,cpe:2.3:a:delta_project:delta:0.4.4:*:*:*:*:*:*:*,Delta Project Delta 0.4.4,['CVE-2021-36376'],2022-03-20T13:18Z
+5,cpe:2.3:a:delta_project:delta:0.4.5:*:*:*:*:*:*:*,Delta Project Delta 0.4.5,['CVE-2021-36376'],2022-03-20T13:18Z
+6,cpe:2.3:a:delta_project:delta:0.5.0:*:*:*:*:*:*:*,Delta Project Delta 0.5.0,['CVE-2021-36376'],2022-03-20T13:18Z
+7,cpe:2.3:a:delta_project:delta:0.5.1:*:*:*:*:*:*:*,Delta Project Delta 0.5.1,['CVE-2021-36376'],2022-03-20T13:18Z
+8,cpe:2.3:a:delta_project:delta:0.6.0:*:*:*:*:*:*:*,Delta Project Delta 0.6.0,['CVE-2021-36376'],2022-03-20T13:18Z
+9,cpe:2.3:a:delta_project:delta:0.6.1:*:*:*:*:*:*:*,Delta Project Delta 0.6.1,['CVE-2021-36376'],2022-03-20T13:18Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:adaptive_security_appliance_software:101.4\(1.24\):*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Software 101.4(1.24),['CVE-2018-0240'],2022-03-19T18:11Z
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,cpe:2.3:a:cisco:adaptive_security_device_manager_idm_launcher:1.5.31:*:*:*:*:*:*:*,Cisco Adaptive Security Device Manager Idm Launcher 1.5.31,[''],2022-03-19T18:11Z
+4,cpe:2.3:a:cisco:adaptive_security_device_manager_idm_launcher:1.5.41:*:*:*:*:*:*:*,Cisco Adaptive Security Device Manager Idm Launcher 1.5.41,[''],2022-03-19T18:11Z
+5,cpe:2.3:a:cisco:adaptive_security_device_manager_idm_launcher:1.5.45:*:*:*:*:*:*:*,Cisco Adaptive Security Device Manager Idm Launcher 1.5.45,[''],2022-03-19T18:11Z
+6,cpe:2.3:a:cisco:adaptive_security_device_manager_idm_launcher:1.5.47:*:*:*:*:*:*:*,Cisco Adaptive Security Device Manager Idm Launcher 1.5.47,[''],2022-03-19T18:11Z
+7,cpe:2.3:a:cisco:adaptive_security_device_manager_idm_launcher:1.5.49:*:*:*:*:*:*:*,Cisco Adaptive Security Device Manager Idm Launcher 1.5.49,[''],2022-03-19T18:11Z
+8,cpe:2.3:a:cisco:adaptive_security_device_manager_idm_launcher:1.5.50:*:*:*:*:*:*:*,Cisco Adaptive Security Device Manager Idm Launcher 1.5.50,[''],2022-03-19T18:11Z
+9,cpe:2.3:a:cisco:adaptive_security_device_manager_launcher:1.5.20:*:*:*:*:*:*:*,Cisco Adaptive Security Device Manager Launcher 1.5.20,[''],2022-03-19T18:11Z

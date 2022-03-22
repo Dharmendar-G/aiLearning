@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dhis2:dhis_2:2.36.2:*:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.36.2,"['CVE-2021-39179', 'CVE-2021-41187']",2022-03-20T14:00Z
+1,cpe:2.3:a:dhis2:dhis_2:2.36.3:*:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.36.3,"['CVE-2021-39179', 'CVE-2021-41187']",2022-03-20T14:00Z
+2,cpe:2.3:a:dhis2:dhis_2:2.36.4:*:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.36.4,[''],2022-03-20T14:00Z
+3,cpe:2.3:a:dhtmlx:dhtmlxspreadsheet:1.0:-:*:*:*:wordpress:*:*,dhtmlx dhtmlxSpreadsheet plugin for WordPress 1.0,[''],2022-03-20T14:00Z
+4,cpe:2.3:a:dhtmlx:dhtmlxspreadsheet:2.0:-:*:*:*:wordpress:*:*,dhtmlx dhtmlxSpreadsheet plugin for WordPress 2.0,['CVE-2013-6281'],2022-03-20T14:00Z
+5,cpe:2.3:a:diabetes:diabetes_forum:3.9.30:*:*:*:*:android:*:*,diabetes Diabetes Forum (aka com.tapatalk.diabetescoukdiabetesforum) for android 3.9.30,['CVE-2014-7020'],2022-03-20T14:00Z
+6,cpe:2.3:a:diabetic_diet_guide_project:diabetic_diet_guide:2.1:*:*:*:*:android:*:*,Diabetic Diet Guide project Diabetic Diet Guide (aka com.wDiabeticDietGuide) for android 2.1,['CVE-2014-4889'],2022-03-20T14:00Z
+7,cpe:2.3:a:diafan:diafan.cms:5.0:*:*:*:*:*:*:*,Diafan Diafan.CMS 5.0,['CVE-2011-5318'],2022-03-20T14:00Z
+8,cpe:2.3:a:dialogic:brooktrout_system_software:5.1.3:*:*:*:*:*:*:*,Dialogic Brooktrout System Software 5.1.3,[''],2022-03-20T14:00Z
+9,cpe:2.3:a:dialogic:host_media_processing_software_release:3.0.225:service_update_225:*:*:*:*:*:*,Dialogic Host Media Processing Software Release Service Update 225 3.0.225,[''],2022-03-20T14:00Z

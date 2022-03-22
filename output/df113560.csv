@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:adaptive_security_appliance_5540:-:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance 5540,"['CVE-2017-12373', 'CVE-2017-17428']",2022-03-19T17:56Z
+1,cpe:2.3:h:cisco:adaptive_security_appliance_5550:-:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance 5550,"['CVE-2017-12373', 'CVE-2017-17428']",2022-03-19T17:56Z
+2,cpe:2.3:a:cisco:adaptive_security_appliance_clientless_ssl_vpn:-:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Clientless SSL VPN,['CVE-2013-1199'],2022-03-19T17:57Z
+3,cpe:2.3:a:cisco:adaptive_security_appliance_cx_context-aware_security_software:-:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) CX Context-Aware Security Software,['CVE-2013-5561'],2022-03-19T17:57Z
+4,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:-:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager,['CVE-2013-1192'],2022-03-19T17:57Z
+5,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.0.1:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager 5.0.1,['CVE-2013-1192'],2022-03-19T17:57Z
+6,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.0.2:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager 5.0.2,['CVE-2013-1192'],2022-03-19T17:57Z
+7,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.0.4:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager 5.0.4,['CVE-2013-1192'],2022-03-19T17:57Z
+8,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.0.5:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager 5.0.5,['CVE-2013-1192'],2022-03-19T17:57Z
+9,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.0.6:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager 5.0.6,['CVE-2013-1192'],2022-03-19T17:57Z

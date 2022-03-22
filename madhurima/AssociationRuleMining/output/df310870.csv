@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hiawatha-webserver:hiawatha:10.7.0:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 10.7.0,['CVE-2019-8358'],2022-03-21T10:55Z
+1,cpe:2.3:a:hiawatha-webserver:hiawatha:10.8.0:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 10.8.0,['CVE-2019-8358'],2022-03-21T10:55Z
+2,cpe:2.3:a:hiawatha-webserver:hiawatha:10.8.1:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 10.8.1,['CVE-2019-8358'],2022-03-21T10:55Z
+3,cpe:2.3:a:hiawatha-webserver:hiawatha:10.8.2:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 10.8.2,['CVE-2019-8358'],2022-03-21T10:55Z
+4,cpe:2.3:a:hiawatha-webserver:hiawatha:10.8.3:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 10.8.3,['CVE-2019-8358'],2022-03-21T10:55Z
+5,cpe:2.3:a:hiawatha-webserver:hiawatha:10.8.4:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 10.8.4,[''],2022-03-21T10:55Z
+6,cpe:2.3:a:hiawatha-webserver:hiawatha:10.9.0:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 10.9.0,[''],2022-03-21T10:55Z
+7,cpe:2.3:a:hibara:attachecase:2.8.0.0:*:*:*:*:*:*:*,Hibara Attachecase 2.8.0.0,"['CVE-2016-7842', 'CVE-2017-2271', 'CVE-2017-2272', 'CVE-2018-0659', 'CVE-2018-0660', 'CVE-2018-0674', 'CVE-2018-0675']",2022-03-21T10:55Z
+8,cpe:2.3:a:hibara:attachecase:2.8.2.8:*:*:*:*:*:*:*,HiBARA AttacheCase 2.8.2.8,"['CVE-2016-7842', 'CVE-2017-2271', 'CVE-2017-2272', 'CVE-2018-0659', 'CVE-2018-0660', 'CVE-2018-0674', 'CVE-2018-0675']",2022-03-21T10:55Z
+9,cpe:2.3:a:hibara:attachecase:2.8.3.0:*:*:*:*:*:*:*,HiBARA AttacheCase 2.8.3.0,"['CVE-2016-7842', 'CVE-2017-2271', 'CVE-2017-2272', 'CVE-2018-0659', 'CVE-2018-0660', 'CVE-2018-0674', 'CVE-2018-0675']",2022-03-21T10:55Z

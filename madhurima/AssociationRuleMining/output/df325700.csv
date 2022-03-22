@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:maintenance_entity:t1805a01\^aah:*:*:*:*:*:*:*,HP Maintenance Entity T1805A01^AAH,['CVE-2020-7131'],2022-03-21T15:21Z
+1,cpe:2.3:a:hp:maintenance_entity:t2805a01:*:*:*:*:*:*:*,HP Maintenance Entity T2805a01,['CVE-2019-5394'],2022-03-21T15:21Z
+2,cpe:2.3:a:hp:maintenance_entity:t2805a01\^aat:*:*:*:*:*:*:*,HP Maintenance Entity T2805a01^aat,['CVE-2019-5394'],2022-03-21T15:21Z
+3,cpe:2.3:a:hp:managed_printing_admin:2.5.9:*:*:*:*:*:*:*,HP Managed Printing Admin 2.5.9,[''],2022-03-21T15:21Z
+4,cpe:2.3:a:hp:marketresearch:70.0.170.0:*:*:*:*:*:*:*,HP Marketresearch 70.0.170.0,[''],2022-03-21T15:21Z
+5,cpe:2.3:a:hp:marketresearch:82.0.174.0:*:*:*:*:*:*:*,HP Marketresearch 82.0.174.0,[''],2022-03-21T15:21Z
+6,cpe:2.3:a:hp:marketresearch:90.0.142.0:*:*:*:*:*:*:*,HP Marketresearch 90.0.142.0,[''],2022-03-21T15:21Z
+7,cpe:2.3:a:hp:marketresearch:90.0.146.0:*:*:*:*:*:*:*,HP Marketresearch 90.0.146.0,[''],2022-03-21T15:21Z
+8,cpe:2.3:a:hp:marketresearch:100.0.170.0:*:*:*:*:*:*:*,HP Marketresearch 100.0.170.0,[''],2022-03-21T15:21Z
+9,cpe:2.3:a:hp:marketresearch:120.0.226.0:*:*:*:*:*:*:*,HP Marketresearch 120.0.226.0,[''],2022-03-21T15:21Z

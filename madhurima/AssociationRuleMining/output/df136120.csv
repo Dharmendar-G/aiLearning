@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:ucs_c220_m4_rack_server:-:*:*:*:*:*:*:*,Cisco UCS C220 M4 RACK SERVER,['CVE-2017-6633'],2022-03-20T00:38Z
+1,cpe:2.3:h:cisco:ucs_c220_m5:-:*:*:*:*:*:*:*,Cisco UCS C220 M5,"['CVE-2019-1857', 'CVE-2021-34736']",2022-03-20T00:38Z
+2,cpe:2.3:o:cisco:ucs_c220_m5_firmware:3.0\(1a\):*:*:*:*:*:*:*,Cisco UCS C220 M5 FIRMWARE 3.0(1a),['CVE-2019-1857'],2022-03-20T00:38Z
+3,cpe:2.3:h:cisco:ucs_c225_m6:-:*:*:*:*:*:*:*,Cisco UCS C225 M6,['CVE-2021-34736'],2022-03-20T00:38Z
+4,cpe:2.3:h:cisco:ucs_c24_m3:-:*:*:*:*:*:*:*,Cisco UCS C24 M3,"['CVE-2020-3470', 'CVE-2021-34736']",2022-03-20T00:38Z
+5,cpe:2.3:h:cisco:ucs_c240_m3:-:*:*:*:*:*:*:*,Cisco UCS C240 M3,"['CVE-2020-3470', 'CVE-2021-34736']",2022-03-20T00:38Z
+6,cpe:2.3:h:cisco:ucs_c240_m4_rack_server:-:*:*:*:*:*:*:*,Cisco UCS C240 M4 RACK SERVER,['CVE-2017-6633'],2022-03-20T00:38Z
+7,cpe:2.3:h:cisco:ucs_c240_m5:-:*:*:*:*:*:*:*,Cisco UCS C240 M5,"['CVE-2019-1857', 'CVE-2021-34736']",2022-03-20T00:39Z
+8,cpe:2.3:o:cisco:ucs_c240_m5_firmware:3.0\(1a\):*:*:*:*:*:*:*,Cisco UCS C240 M5 FIRMWARE 3.0(1a),['CVE-2019-1857'],2022-03-20T00:39Z
+9,cpe:2.3:h:cisco:ucs_c240_sd_m5:-:*:*:*:*:*:*:*,Cisco UCS C240 SD M5,['CVE-2021-34736'],2022-03-20T00:39Z

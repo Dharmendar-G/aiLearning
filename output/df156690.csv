@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:comelz:quark:-:*:*:*:*:*:*:*,Comelz Quark,['CVE-2019-15520'],2022-03-20T06:49Z
+1,cpe:2.3:a:comelz:quark:0.2:*:*:*:*:*:*:*,Comelz Quark 0.2,['CVE-2019-15520'],2022-03-20T06:49Z
+2,cpe:2.3:a:comelz:quark:2019-03-26:*:*:*:*:*:*:*,Comelz Quark 2019-03-26,[''],2022-03-20T06:49Z
+3,cpe:2.3:a:comforte:swap:20.0.0:*:*:*:*:*:*:*,Comforte Secure Web and Proxy Server (SWAP) 20.0.0,['CVE-2018-6653'],2022-03-20T06:49Z
+4,cpe:2.3:a:comforte:swap:21.5.3:*:*:*:*:*:*:*,Comforte Secure Web and Proxy Server (SWAP) 21.5.3,['CVE-2018-6653'],2022-03-20T06:49Z
+5,cpe:2.3:a:comforte:swap:1049:*:*:*:*:*:*:*,Comforte Secure Web and Proxy Server (SWAP) 1049,['CVE-2018-6653'],2022-03-20T06:49Z
+6,cpe:2.3:a:comforte:swap:1069:*:*:*:*:*:*:*,Comforte Secure Web and Proxy Server (SWAP) 1069,['CVE-2018-6653'],2022-03-20T06:49Z
+7,cpe:2.3:a:comicsmart:ganma\!:2.0.9:*:*:*:*:iphone_os:*:*,Comics Mart Ganma! 2.0.9 iPhone OS,['CVE-2015-7785'],2022-03-20T06:49Z
+8,cpe:2.3:a:comicsmart:ganma\!:2.10.1:*:*:*:*:iphone_os:*:*,Comics Mart Ganma! 2.10.1 iPhone OS,[''],2022-03-20T06:49Z
+9,cpe:2.3:a:comicsmart:ganma\!:2.10.2:*:*:*:*:iphone_os:*:*,Comics Mart Ganma! 2.10.2 iPhone OS,[''],2022-03-20T06:49Z

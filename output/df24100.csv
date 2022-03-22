@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:amd:epyc_embedded_7261:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) EPYC EMBEDDED 7261,"['CVE-2020-12966', 'CVE-2021-26340']",2022-03-18T16:07Z
+1,cpe:2.3:o:amd:epyc_embedded_7261_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) EPYC EMBEDDED 7261 FIRMWARE,"['CVE-2020-12966', 'CVE-2021-26340']",2022-03-18T16:07Z
+2,cpe:2.3:h:amd:epyc_embedded_7262:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) EPYC EMBEDDED 7262,"['CVE-2020-12966', 'CVE-2021-26340']",2022-03-18T16:07Z
+3,cpe:2.3:o:amd:epyc_embedded_7262_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) EPYC EMBEDDED 7262 FIRMWARE,"['CVE-2020-12966', 'CVE-2021-26340']",2022-03-18T16:07Z
+4,cpe:2.3:h:amd:epyc_embedded_7272:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) EPYC EMBEDDED 7272,"['CVE-2020-12966', 'CVE-2021-26340']",2022-03-18T16:07Z
+5,cpe:2.3:o:amd:epyc_embedded_7272_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) EPYC EMBEDDED 7272 FIRMWARE,"['CVE-2020-12966', 'CVE-2021-26340']",2022-03-18T16:07Z
+6,cpe:2.3:h:amd:epyc_embedded_7281:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) EPYC EMBEDDED 7281,"['CVE-2020-12966', 'CVE-2021-26340']",2022-03-18T16:07Z
+7,cpe:2.3:o:amd:epyc_embedded_7281_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) EPYC EMBEDDED 7281 FIRMWARE,"['CVE-2020-12966', 'CVE-2021-26340']",2022-03-18T16:07Z
+8,cpe:2.3:h:amd:epyc_embedded_7282:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) EPYC EMBEDDED 7282,"['CVE-2020-12966', 'CVE-2021-26340']",2022-03-18T16:07Z
+9,cpe:2.3:o:amd:epyc_embedded_7282_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) EPYC EMBEDDED 7282 FIRMWARE,"['CVE-2020-12966', 'CVE-2021-26340']",2022-03-18T16:07Z

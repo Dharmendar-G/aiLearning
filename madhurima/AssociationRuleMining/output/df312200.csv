@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hikvision:ptz-n4215-de3_firmware:-:*:*:*:*:*:*:*,Hikvision PTZ-N4215-DE3 Firmware,['CVE-2021-36260'],2022-03-21T11:15Z
+1,cpe:2.3:h:hikvision:ptz-n4215i-de:-:*:*:*:*:*:*:*,Hikvision PTZ-N4215I-DE,['CVE-2021-36260'],2022-03-21T11:15Z
+2,cpe:2.3:o:hikvision:ptz-n4215i-de_firmware:-:*:*:*:*:*:*:*,Hikvision PTZ-N4215I-DE Firmware,['CVE-2021-36260'],2022-03-21T11:15Z
+3,cpe:2.3:h:hikvision:ptz-n4225i-de:-:*:*:*:*:*:*:*,Hikvision PTZ-N4225I-DE,['CVE-2021-36260'],2022-03-21T11:15Z
+4,cpe:2.3:o:hikvision:ptz-n4225i-de_firmware:-:*:*:*:*:*:*:*,Hikvision PTZ-N4225I-DE Firmware,['CVE-2021-36260'],2022-03-21T11:15Z
+5,cpe:2.3:h:hikvision:ptz-n5225i-a:-:*:*:*:*:*:*:*,Hikvision PTZ-N5225I-A,['CVE-2021-36260'],2022-03-21T11:15Z
+6,cpe:2.3:o:hikvision:ptz-n5225i-a_firmware:-:*:*:*:*:*:*:*,Hikvision PTZ-N5225I-A Firmware,['CVE-2021-36260'],2022-03-21T11:15Z
+7,cpe:2.3:a:hillside_project:hillside:1.1:*:*:*:*:android:*:*,Hillside project Hillside (aka com.hillside.hermanus) for android 1.1,['CVE-2014-6837'],2022-03-21T11:15Z
+8,cpe:2.3:h:hilscher:ethernet\/ip_adapter:-:*:*:*:*:*:*:*,Hilscher EtherNet/IP Adapter,['CVE-2021-20987'],2022-03-21T11:15Z
+9,cpe:2.3:o:hilscher:ethernet\/ip_adapter_firmware:2.0:*:*:*:*:*:*:*,Hilscher EtherNet/IP Adapter Firmware 2.0,['CVE-2021-20987'],2022-03-21T11:15Z

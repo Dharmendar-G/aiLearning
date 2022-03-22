@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_enterprise_m553_bl27a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M553 BL27A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:03Z
+1,cpe:2.3:h:hp:laserjet_enterprise_m604:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M604,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T15:03Z
+2,cpe:2.3:h:hp:laserjet_enterprise_m604_e6b67a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M604 E6B67A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:03Z
+3,cpe:2.3:h:hp:laserjet_enterprise_m604_e6b68a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M604 E6B68A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:03Z
+4,cpe:2.3:o:hp:laserjet_enterprise_m604_firmware:-:*:*:*:*:*:*:*,Hp Laserjet Enterprise M604 Firmware -,"['CVE-2018-5923', 'CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T15:03Z
+5,cpe:2.3:o:hp:laserjet_enterprise_m604_firmware:2308974_579762:*:*:*:*:*:*:*,Hp Laserjet Enterprise M604 Firmware 2308974 579762,['CVE-2019-6318'],2022-03-21T15:03Z
+6,cpe:2.3:o:hp:laserjet_enterprise_m604_firmware:2309010_581410:*:*:*:*:*:*:*,HP Laserjet Enterprise M604 Firmware 2309010 581410,['CVE-2019-6318'],2022-03-21T15:03Z
+7,cpe:2.3:o:hp:laserjet_enterprise_m604_firmware:2407081_000593:*:*:*:*:*:*:*,HP Laserjet Enterprise M604 Firmware 2407081 000593,[''],2022-03-21T15:03Z
+8,cpe:2.3:h:hp:laserjet_enterprise_m605:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M605,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T15:03Z
+9,cpe:2.3:h:hp:laserjet_enterprise_m605_e6b69a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M605 E6B69A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:03Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:adaptive_security_device_manager_launcher:1.5.24:*:*:*:*:*:*:*,Cisco Adaptive Security Device Manager Launcher 1.5.24,[''],2022-03-19T18:11Z
+1,cpe:2.3:a:cisco:adaptive_security_device_manager_launcher:1.5.30:*:*:*:*:*:*:*,Cisco Adaptive Security Device Manager Launcher 1.5.30,[''],2022-03-19T18:11Z
+2,cpe:2.3:h:cisco:adaptive_security_virtual_appliance:-:*:*:*:*:*:*:*,Cisco Adaptive Security Virtual Appliance (ASAv),"['CVE-2019-1714', 'CVE-2021-1422']",2022-03-19T18:11Z
+3,cpe:2.3:a:cisco:adaptive_security_virtual_appliance:v5:*:*:*:*:*:*:*,Cisco Adaptive Security Virtual Appliance (ASAv) V5,['CVE-2018-0240'],2022-03-19T18:11Z
+4,cpe:2.3:a:cisco:adaptive_security_virtual_appliance:v10:*:*:*:*:*:*:*,Cisco Adaptive Security Virtual Appliance (ASAv) V10,['CVE-2018-0240'],2022-03-19T18:11Z
+5,cpe:2.3:a:cisco:adaptive_security_virtual_appliance:v30:*:*:*:*:*:*:*,Cisco Adaptive Security Virtual Appliance (ASAv) V30,['CVE-2018-0240'],2022-03-19T18:11Z
+6,cpe:2.3:a:cisco:adaptive_security_virtual_appliance:v50:*:*:*:*:*:*:*,Cisco Adaptive Security Virtual Appliance (ASAv) V50,['CVE-2018-0240'],2022-03-19T18:11Z
+7,cpe:2.3:a:cisco:advanced_malware_protection:-:*:*:*:*:*:*:*,Cisco Advanced Malware Protection (AMP),['CVE-2020-14418'],2022-03-19T18:11Z
+8,cpe:2.3:a:cisco:advanced_malware_protection:3.1\(10\):*:*:*:*:*:*:*,Cisco Advanced Malware Protection (AMP) 3.1(10),"['CVE-2017-12317', 'CVE-2020-14418']",2022-03-19T18:11Z
+9,cpe:2.3:a:cisco:advanced_malware_protection:3.1\(15\):*:*:*:*:*:*:*,Cisco Advanced Malware Protection (AMP) 3.1(15),"['CVE-2017-12317', 'CVE-2020-14418']",2022-03-19T18:11Z

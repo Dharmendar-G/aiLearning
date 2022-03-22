@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:a:cloudbees:jenkins_operations_center:2.150.2.3:*:*:*:*:*:*:*,Cloudbees Jenkins Operations Center 2.150.2.3,['CVE-2019-11350'],2022-03-20T02:51Z
+2,[0],[0],[0],[0]
+3,cpe:2.3:a:cloudberrylab:backup:6.1.2.34:*:*:*:*:*:*:*,CloudBerrylab Backup 6.1.2.34,['CVE-2019-15720'],2022-03-20T02:51Z
+4,cpe:2.3:a:cloudcti:hip_integrator_recognition_configuration_tool:-:*:*:*:*:*:*:*,CloudCTI HIP Integrator Recognition Configuration Tool,['CVE-2019-9745'],2022-03-20T02:51Z
+5,cpe:2.3:a:cloudera:cdh:4.0.0:*:*:*:*:*:*:*,Cloudera CDH 4.0.0,"['CVE-2013-6446', 'CVE-2016-5724', 'CVE-2017-9325']",2022-03-20T02:51Z
+6,cpe:2.3:a:cloudera:cdh:4.0.1:*:*:*:*:*:*:*,Cloudera CDH 4.0.1,"['CVE-2013-6446', 'CVE-2016-5724', 'CVE-2017-9325']",2022-03-20T02:51Z
+7,cpe:2.3:a:cloudera:cdh:4.1.0:*:*:*:*:*:*:*,Cloudera CDH 4.1.0,"['CVE-2013-6446', 'CVE-2016-5724', 'CVE-2017-9325']",2022-03-20T02:51Z
+8,cpe:2.3:a:cloudera:cdh:4.1.1:*:*:*:*:*:*:*,Cloudera CDH 4.1.1,"['CVE-2013-6446', 'CVE-2016-5724', 'CVE-2017-9325']",2022-03-20T02:51Z
+9,cpe:2.3:a:cloudera:cdh:4.1.2:*:*:*:*:*:*:*,Cloudera CDH 4.1.2,"['CVE-2013-6446', 'CVE-2016-5724', 'CVE-2017-9325']",2022-03-20T02:51Z

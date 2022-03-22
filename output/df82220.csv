@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blynk:blynk-server:0.35.3:*:*:*:*:*:*:*,Blynk-server 0.35.3,['CVE-2018-17785'],2022-03-19T09:08Z
+1,cpe:2.3:a:blynk:blynk-server:0.36.0:*:*:*:*:*:*:*,Blynk-server 0.36.0,['CVE-2018-17785'],2022-03-19T09:08Z
+2,cpe:2.3:a:blynk:blynk-server:0.36.1:*:*:*:*:*:*:*,Blynk-server 0.36.1,['CVE-2018-17785'],2022-03-19T09:08Z
+3,cpe:2.3:a:blynk:blynk-server:0.36.2:*:*:*:*:*:*:*,Blynk-server 0.36.2,['CVE-2018-17785'],2022-03-19T09:08Z
+4,cpe:2.3:a:blynk:blynk-server:0.36.3:*:*:*:*:*:*:*,Blynk-server 0.36.3,['CVE-2018-17785'],2022-03-19T09:08Z
+5,cpe:2.3:a:blynk:blynk-server:0.36.4:*:*:*:*:*:*:*,Blynk-server 0.36.4,['CVE-2018-17785'],2022-03-19T09:08Z
+6,cpe:2.3:a:blynk:blynk-server:0.36.5:*:*:*:*:*:*:*,Blynk-server 0.36.5,['CVE-2018-17785'],2022-03-19T09:08Z
+7,cpe:2.3:a:blynk:blynk-server:0.37.0:*:*:*:*:*:*:*,Blynk-server 0.37.0,['CVE-2018-17785'],2022-03-19T09:08Z
+8,cpe:2.3:a:blynk:blynk-server:0.37.1:*:*:*:*:*:*:*,Blynk-server 0.37.1,['CVE-2018-17785'],2022-03-19T09:08Z
+9,cpe:2.3:a:blynk:blynk-server:0.37.2:*:*:*:*:*:*:*,Blynk-server 0.37.2,['CVE-2018-17785'],2022-03-19T09:08Z

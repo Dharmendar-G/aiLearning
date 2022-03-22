@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arm:arm_compiler:5.04:update1:*:*:*:*:*:*,Arm Compiler 5.04 Update 1,['CVE-2020-24658'],2022-03-18T23:04Z
+1,cpe:2.3:a:arm:arm_compiler:5.04:update2:*:*:*:*:*:*,Arm Compiler 5.04 Update 2,['CVE-2020-24658'],2022-03-18T23:04Z
+2,cpe:2.3:a:arm:arm_compiler:5.05:-:*:*:*:*:*:*,Arm Compiler 5.05,['CVE-2020-24658'],2022-03-18T23:04Z
+3,cpe:2.3:a:arm:arm_compiler:5.05:update1:*:*:*:*:*:*,Arm Compiler 5.05 Update 1,['CVE-2020-24658'],2022-03-18T23:04Z
+4,cpe:2.3:a:arm:arm_compiler:5.05:update2:*:*:*:*:*:*,Arm Compiler 5.05 Update 2,['CVE-2020-24658'],2022-03-18T23:04Z
+5,cpe:2.3:a:arm:arm_compiler:5.06:-:*:*:*:*:*:*,Arm Compiler 5.06,['CVE-2020-24658'],2022-03-18T23:04Z
+6,cpe:2.3:a:arm:arm_compiler:5.06:update1:*:*:*:*:*:*,Arm Compiler 5.06 Update 1,['CVE-2020-24658'],2022-03-18T23:04Z
+7,cpe:2.3:a:arm:arm_compiler:5.06:update2:*:*:*:*:*:*,Arm Compiler 5.06 Update 2,['CVE-2020-24658'],2022-03-18T23:04Z
+8,cpe:2.3:a:arm:arm_compiler:5.06:update3:*:*:*:*:*:*,Arm Compiler 5.06 Update 3,['CVE-2020-24658'],2022-03-18T23:04Z
+9,cpe:2.3:a:arm:arm_compiler:5.06:update4:*:*:*:*:*:*,Arm Compiler 5.06 Update 4,['CVE-2020-24658'],2022-03-18T23:04Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:canon:eos_6d_mark_ii_firmware:-:*:*:*:*:*:*:*,Canon EOS 6d Mark Ii Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+1,cpe:2.3:o:canon:eos_6d_mark_ii_firmware:1.0.4:*:*:*:*:*:*:*,Canon EOS 6d Mark Ii Firmware 1.0.4,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+2,cpe:2.3:h:canon:eos_700d:-:*:*:*:*:*:*:*,Canon EOS 700D,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+3,cpe:2.3:o:canon:eos_700d_firmware:-:*:*:*:*:*:*:*,Canon EOS 700d Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+4,cpe:2.3:o:canon:eos_700d_firmware:1.1.5:*:*:*:*:*:*:*,Canon EOS 700d Firmware 1.1.5,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+5,cpe:2.3:h:canon:eos_70d:-:*:*:*:*:*:*:*,Canon EOS 70D,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+6,cpe:2.3:o:canon:eos_70d_firmware:-:*:*:*:*:*:*:*,Canon EOS 70d Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+7,cpe:2.3:o:canon:eos_70d_firmware:1.1.2:*:*:*:*:*:*:*,Canon EOS 70d Firmware 1.1.2,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+8,cpe:2.3:h:canon:eos_750d:-:*:*:*:*:*:*:*,Canon EOS 750D,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+9,cpe:2.3:o:canon:eos_750d_firmware:-:*:*:*:*:*:*:*,Canon EOS 750d Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z

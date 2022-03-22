@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:coturn_project:coturn:4.5.0.3:*:*:*:*:*:*:*,coTURN Project coTURN 4.5.0.3,"['CVE-2018-4056', 'CVE-2018-4058', 'CVE-2018-4059', 'CVE-2020-26262', 'CVE-2020-4067']",2022-03-20T08:08Z
+1,cpe:2.3:a:coturn_project:coturn:4.5.0.4:*:*:*:*:*:*:*,coTURN Project coTURN 4.5.0.4,"['CVE-2018-4056', 'CVE-2018-4058', 'CVE-2018-4059', 'CVE-2020-26262', 'CVE-2020-4067']",2022-03-20T08:08Z
+2,cpe:2.3:a:coturn_project:coturn:4.5.0.5:*:*:*:*:*:*:*,coTURN Project coTURN 4.5.0.5,"['CVE-2018-4056', 'CVE-2018-4058', 'CVE-2018-4059', 'CVE-2020-26262', 'CVE-2020-4067']",2022-03-20T08:08Z
+3,cpe:2.3:a:coturn_project:coturn:4.5.0.6:*:*:*:*:*:*:*,coTURN Project coTURN 4.5.0.6,"['CVE-2018-4056', 'CVE-2018-4058', 'CVE-2018-4059', 'CVE-2020-26262', 'CVE-2020-4067']",2022-03-20T08:08Z
+4,cpe:2.3:a:coturn_project:coturn:4.5.0.7:*:*:*:*:*:*:*,coTURN Project coTURN 4.5.0.7,"['CVE-2018-4056', 'CVE-2018-4058', 'CVE-2018-4059', 'CVE-2020-26262', 'CVE-2020-4067']",2022-03-20T08:08Z
+5,cpe:2.3:a:coturn_project:coturn:4.5.0.8:*:*:*:*:*:*:*,coTURN Project coTURN 4.5.0.8,"['CVE-2018-4056', 'CVE-2018-4058', 'CVE-2018-4059', 'CVE-2020-26262', 'CVE-2020-4067']",2022-03-20T08:08Z
+6,cpe:2.3:a:coturn_project:coturn:4.5.0.9:*:*:*:*:*:*:*,Coturn Project Coturn 4.5.0.9,"['CVE-2020-26262', 'CVE-2020-4067']",2022-03-20T08:08Z
+7,cpe:2.3:a:coturn_project:coturn:4.5.1.0:*:*:*:*:*:*:*,coTURN Project coTURN 4.5.1.0,"['CVE-2020-26262', 'CVE-2020-4067']",2022-03-20T08:08Z
+8,cpe:2.3:a:coturn_project:coturn:4.5.1.1:*:*:*:*:*:*:*,coTURN Project coTURN 4.5.1.1,"['CVE-2020-26262', 'CVE-2020-4067', 'CVE-2020-6061', 'CVE-2020-6062']",2022-03-20T08:08Z
+9,cpe:2.3:a:coturn_project:coturn:4.5.1.2:*:*:*:*:*:*:*,coTURN Project coTURN 4.5.1.2,"['CVE-2020-26262', 'CVE-2020-4067']",2022-03-20T08:08Z

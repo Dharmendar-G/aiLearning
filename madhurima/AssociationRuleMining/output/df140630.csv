@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:citrix:sd-wan:11.1.2:*:*:*:*:*:*:*,Citrix SD-WAN 11.1.2,"['CVE-2020-8271', 'CVE-2020-8272', 'CVE-2020-8273']",2022-03-20T01:35Z
+1,cpe:2.3:a:citrix:sd-wan:11.1.2b:*:*:*:*:*:*:*,Citrix SD-WAN 11.1.2b,[''],2022-03-20T01:35Z
+2,cpe:2.3:a:citrix:sd-wan:11.2.0:*:*:*:*:*:*:*,Citrix SD-WAN 11.2.0,"['CVE-2020-8271', 'CVE-2020-8272', 'CVE-2020-8273']",2022-03-20T01:35Z
+3,cpe:2.3:a:citrix:sd-wan:11.2.1:*:*:*:*:*:*:*,Citrix SD-WAN 11.2.1,"['CVE-2020-8271', 'CVE-2020-8272', 'CVE-2020-8273']",2022-03-20T01:35Z
+4,cpe:2.3:a:citrix:sd-wan:11.2.2:*:*:*:*:*:*:*,Citrix SD-WAN 11.2.2,[''],2022-03-20T01:35Z
+5,cpe:2.3:h:citrix:sd-wan_wanop:-:*:*:*:*:*:*:*,Citrix SD-WAN WANOP,"['CVE-2020-8246', 'CVE-2020-8247']",2022-03-20T01:35Z
+6,cpe:2.3:o:citrix:sd-wan_wanop:10.2:*:*:*:*:*:*:*,Citrix SD-WAN WANOP 10.2,"['CVE-2020-8191', 'CVE-2020-8193', 'CVE-2020-8194', 'CVE-2020-8195', 'CVE-2020-8196', 'CVE-2020-8198', 'CVE-2020-8246', 'CVE-2020-8247', 'CVE-2020-8299', 'CVE-2021-22919']",2022-03-20T01:35Z
+7,cpe:2.3:o:citrix:sd-wan_wanop:10.2.7:*:*:*:*:*:*:*,Citrix SD-WAN WANOP 10.2.7,"['CVE-2020-8246', 'CVE-2020-8247', 'CVE-2020-8299', 'CVE-2021-22919']",2022-03-20T01:35Z
+8,cpe:2.3:o:citrix:sd-wan_wanop:10.2.7b:*:*:*:*:*:*:*,Citrix SD-WAN WANOP 10.2.7b,"['CVE-2020-8299', 'CVE-2021-22919']",2022-03-20T01:35Z
+9,cpe:2.3:o:citrix:sd-wan_wanop:10.2.9.b:*:*:*:*:*:*:*,Citrix SD-WAN WANOP 10.2.9.b,['CVE-2020-8299'],2022-03-20T01:35Z

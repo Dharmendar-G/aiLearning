@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:bosh_backup_and_restore:0.1.0:rc241:*:*:*:*:*:*,Cloud Foundry BOSH Backup and Restore 0.1.0 Release Candidate 241,['CVE-2019-3786'],2022-03-20T03:00Z
+1,cpe:2.3:a:cloudfoundry:bosh_backup_and_restore:0.1.0:rc242:*:*:*:*:*:*,Cloud Foundry BOSH Backup and Restore 0.1.0 Release Candidate 242,['CVE-2019-3786'],2022-03-20T03:00Z
+2,cpe:2.3:a:cloudfoundry:bosh_backup_and_restore:0.1.0:rc243:*:*:*:*:*:*,Cloud Foundry BOSH Backup and Restore 0.1.0 Release Candidate 243,['CVE-2019-3786'],2022-03-20T03:00Z
+3,cpe:2.3:a:cloudfoundry:bosh_backup_and_restore:0.1.0:rc244:*:*:*:*:*:*,Cloud Foundry BOSH Backup and Restore 0.1.0 Release Candidate 244,['CVE-2019-3786'],2022-03-20T03:00Z
+4,cpe:2.3:a:cloudfoundry:bosh_backup_and_restore:0.1.0:rc245:*:*:*:*:*:*,Cloud Foundry BOSH Backup and Restore 0.1.0 Release Candidate 245,['CVE-2019-3786'],2022-03-20T03:00Z
+5,cpe:2.3:a:cloudfoundry:bosh_backup_and_restore:0.1.0:rc246:*:*:*:*:*:*,Cloud Foundry BOSH Backup and Restore 0.1.0 Release Candidate 246,['CVE-2019-3786'],2022-03-20T03:00Z
+6,cpe:2.3:a:cloudfoundry:bosh_backup_and_restore:0.1.0:rc247:*:*:*:*:*:*,Cloud Foundry BOSH Backup and Restore 0.1.0 Release Candidate 247,['CVE-2019-3786'],2022-03-20T03:00Z
+7,cpe:2.3:a:cloudfoundry:bosh_backup_and_restore:0.1.0:rc248:*:*:*:*:*:*,Cloud Foundry BOSH Backup and Restore 0.1.0 Release Candidate 248,['CVE-2019-3786'],2022-03-20T03:00Z
+8,cpe:2.3:a:cloudfoundry:bosh_backup_and_restore:0.1.0:rc249:*:*:*:*:*:*,Cloud Foundry BOSH Backup and Restore 0.1.0 Release Candidate 249,['CVE-2019-3786'],2022-03-20T03:00Z
+9,cpe:2.3:a:cloudfoundry:bosh_backup_and_restore:0.1.0:rc250:*:*:*:*:*:*,Cloud Foundry BOSH Backup and Restore 0.1.0 Release Candidate 250,['CVE-2019-3786'],2022-03-20T03:00Z

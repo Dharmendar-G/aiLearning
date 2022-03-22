@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:unified_computing_system_6332-16up:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) 6332-16up -,['CVE-2021-1590'],2022-03-20T00:49Z
+1,cpe:2.3:h:cisco:unified_computing_system_64108:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) 64108 -,['CVE-2021-1592'],2022-03-20T00:49Z
+2,cpe:2.3:h:cisco:unified_computing_system_6454:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) 6454 -,['CVE-2021-1592'],2022-03-20T00:49Z
+3,cpe:2.3:h:cisco:unified_computing_system_c125_m5:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) C125 M5 -,['CVE-2019-1880'],2022-03-20T00:49Z
+4,cpe:2.3:h:cisco:unified_computing_system_c220_m4:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) C220 M4 -,['CVE-2019-1880'],2022-03-20T00:49Z
+5,cpe:2.3:h:cisco:unified_computing_system_c220_m5:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) C220 M5 -,['CVE-2019-1880'],2022-03-20T00:49Z
+6,cpe:2.3:h:cisco:unified_computing_system_c240_m4:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) C240 M4 -,['CVE-2019-1880'],2022-03-20T00:49Z
+7,cpe:2.3:h:cisco:unified_computing_system_c240_m5:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) C240 M5 -,['CVE-2019-1880'],2022-03-20T00:49Z
+8,cpe:2.3:h:cisco:unified_computing_system_c460_m4:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) C460 M4 -,['CVE-2019-1880'],2022-03-20T00:49Z
+9,cpe:2.3:h:cisco:unified_computing_system_c480_m5:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) C480 M5 -,['CVE-2019-1880'],2022-03-20T00:49Z

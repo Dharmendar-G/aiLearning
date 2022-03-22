@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:axis:700_network_document_server:1.14:*:*:*:*:*:*:*,Axis Communications AXIS 700 Network Document Server 1.14,['CVE-2000-0144'],2022-03-19T04:47Z
+1,cpe:2.3:o:axis:a1001_firmware:1.65.1:*:*:*:*:*:*:*,Axis Communications A1001 Firmware 1.65.1,[''],2022-03-19T04:47Z
+2,cpe:2.3:o:axis:a8004-v_firmware:1.65.2:*:*:*:*:*:*:*,Axis Communications A8004-V Firmware 1.65.2,[''],2022-03-19T04:47Z
+3,cpe:2.3:o:axis:a8105-e_firmware:1.65.2:*:*:*:*:*:*:*,Axis Communications A8105-E Firmware 1.65.2,[''],2022-03-19T04:47Z
+4,cpe:2.3:o:axis:a9161_firmware:1.65.0:*:*:*:*:*:*:*,Axis Communications A9161 Firmware 1.65.0,[''],2022-03-19T04:47Z
+5,cpe:2.3:o:axis:a9188_firmware:1.65.0:*:*:*:*:*:*:*,Axis Communications A9188 Firmware 1.65.0,[''],2022-03-19T04:48Z
+6,cpe:2.3:o:axis:a9188-v_firmware:1.65.0:*:*:*:*:*:*:*,Axis Communications A9188-V Firmware 1.65.0,[''],2022-03-19T04:47Z
+7,cpe:2.3:o:axis:axis_communications_firmware:5.80.3:*:*:*:*:*:*:*,AXIS Communications Firmware 5.80.3,"['CVE-2015-8255', 'CVE-2015-8258']",2022-03-19T04:48Z
+8,cpe:2.3:o:axis:axis_os:10.0.0:*:*:*:active:*:*:*,AXIS OS 10.0.0 Active Edition,"['CVE-2021-31986', 'CVE-2021-31987', 'CVE-2021-31988']",2022-03-19T04:48Z
+9,cpe:2.3:o:axis:axis_os:10.0.1:*:*:*:active:*:*:*,AXIS OS 10.0.1 Active Edition,"['CVE-2021-31986', 'CVE-2021-31987', 'CVE-2021-31988']",2022-03-19T04:48Z

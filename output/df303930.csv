@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:handysoft:hshell:2.0.3.5:*:*:*:*:*:*:*,Handy Soft HShell 2.0.3.5,['CVE-2021-26608'],2022-03-21T08:52Z
+1,cpe:2.3:a:handysoft:hshell:2.0.3.6:*:*:*:*:*:*:*,Handy Soft HShell 2.0.3.6,[''],2022-03-21T08:52Z
+2,cpe:2.3:a:handysoft:hshell:4.0.1.6:*:*:*:*:*:*:*,Handy Soft HShell 4.0.1.6,['CVE-2021-26608'],2022-03-21T08:52Z
+3,cpe:2.3:a:handysoft:hshell:4.0.1.7:*:*:*:*:*:*:*,Handy Soft HShell 4.0.1.7,[''],2022-03-21T08:52Z
+4,cpe:2.3:a:handysoft:hslogin2.dll:6.7.8.4:*:*:*:*:*:*:*,Handysoft Hslogin2.dll 6.7.8.4,['CVE-2020-7810'],2022-03-21T08:52Z
+5,cpe:2.3:a:handysoft:hslogin2.dll:6.7.8.9002:*:*:*:*:*:*:*,Handysoft Hslogin2.dll 6.7.8.9002,[''],2022-03-21T08:52Z
+6,cpe:2.3:a:handysoft:hslogin2.dll:7.3.4:*:*:*:*:*:*:*,Handysoft Hslogin2.dll 7.3.4,['CVE-2020-7810'],2022-03-21T08:52Z
+7,cpe:2.3:a:handysoft:hslogin2.dll:7.3.4.1:*:*:*:*:*:*:*,Handysoft Hslogin2.dll 7.3.4.1,[''],2022-03-21T08:52Z
+8,cpe:2.3:a:hangfire:hangfire:0.5:*:*:*:*:*:*:*,Hangfire 0.5,[''],2022-03-21T08:52Z
+9,cpe:2.3:a:hangfire:hangfire:0.6:-:*:*:*:*:*:*,Hangfire 0.6,[''],2022-03-21T08:52Z

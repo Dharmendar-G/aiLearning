@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,cpe:2.3:o:crestron:airmedia_am-100_firmware:-:*:*:*:*:*:*:*,Crestron AirMedia AM-100 Firmware,"['CVE-2016-5639', 'CVE-2016-5640', 'CVE-2017-16709', 'CVE-2017-16710', 'CVE-2019-3910']",2022-03-20T08:59Z
+8,cpe:2.3:o:crestron:airmedia_am-100_firmware:1.2.1:*:*:*:*:*:*:*,Crestron AirMedia AM-100 Firmware 1.2.1,"['CVE-2016-5639', 'CVE-2016-5640', 'CVE-2017-16709', 'CVE-2017-16710', 'CVE-2019-3910']",2022-03-20T08:59Z
+9,cpe:2.3:o:crestron:airmedia_am-100_firmware:1.4.0.12:*:*:*:*:*:*:*,Crestron AirMedia AM-100 Firmware 1.4.0.12,"['CVE-2016-5639', 'CVE-2017-16709', 'CVE-2017-16710', 'CVE-2019-3910']",2022-03-20T08:59Z

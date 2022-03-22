@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:actorskey:actors_key:1.6.24.477:*:*:*:*:android:*:*,actorskey Actors Key (aka com.conduit.app_f83daeb6861b401bb103c33ea4210029.app) for android 1.6.24.477,['CVE-2014-7605'],2022-03-18T11:36Z
+1,cpe:2.3:a:actualscripts:actualanalyzer:8.23:*:server:*:*:*:*:*,ActualScripts ActualAnalyzer 8.23 Server Edition,['CVE-2006-1959'],2022-03-18T11:36Z
+2,cpe:2.3:a:actualtests:cisco_640-802_demo_in_exam_engine_format:1.0.0:*:*:*:*:*:*:*,Actualtests Cisco 640-802 Demo In Exam Engine Format 1.0.0,[''],2022-03-18T11:36Z
+3,cpe:2.3:a:actualtests:comptia_220-701_in_exam_engine_format:1.0.0:*:*:*:*:*:*:*,Actualtests Comptia 220-701 In Exam Engine Format 1.0.0,[''],2022-03-18T11:36Z
+4,cpe:2.3:a:actualtests:comptia_220-702_in_exam_engine_format:1.0.0:*:*:*:*:*:*:*,Actualtests Comptia 220-702 In Exam Engine Format 1.0.0,[''],2022-03-18T11:36Z
+5,cpe:2.3:a:actualtests:comptia_n10-004_in_exam_engine_format:1.0.0:*:*:*:*:*:*:*,Actualtests Comptia N10-004 In Exam Engine Format 1.0.0,[''],2022-03-18T11:36Z
+6,cpe:2.3:a:actualtests:comptia_sy0-201_in_exam_engine_format:1.0.0:*:*:*:*:*:*:*,Actualtests Comptia Sy0-201 In Exam Engine Format 1.0.0,[''],2022-03-18T11:36Z
+7,cpe:2.3:a:actualtests:exin_ex0-1_in_exam_engine_format:1.0.0:*:*:*:*:*:*:*,Actualtests Exin Ex0-1 In Exam Engine Format 1.0.0,[''],2022-03-18T11:36Z
+8,cpe:2.3:a:actualtests:questions_and_answers_for_eccouncil_312-50v7:4.2.13135:*:*:*:*:*:*:*,Actualtests Questions And Answers For Eccouncil 312-50v7 4.2.13135,[''],2022-03-18T11:36Z
+9,cpe:2.3:a:actuate:iserver:7.2.6:*:*:*:*:*:*:*,Actuate Iserver 7.2.6,[''],2022-03-18T11:36Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:ips_module_firmware:v500r001c80:*:*:*:*:*:*:*,Huawei IPS Module Firmware V500R001C80,['CVE-2020-9099'],2022-03-21T17:58Z
+1,cpe:2.3:o:huawei:ips_module_firmware:v500r005c00:*:*:*:*:*:*:*,Huawei IPS Module Firmware V500R005C00,"['CVE-2020-9099', 'CVE-2020-9101', 'CVE-2021-22342', 'CVE-2021-37129']",2022-03-21T17:58Z
+2,cpe:2.3:o:huawei:ips_module_firmware:v500r005c00spc100:*:*:*:*:*:*:*,Huawei IPS MODULE FIRMWARE V500R005C00SPC100,"['CVE-2021-22312', 'CVE-2021-22320', 'CVE-2021-22341', 'CVE-2021-22356']",2022-03-21T17:58Z
+3,cpe:2.3:o:huawei:ips_module_firmware:v500r005c00spc200:*:*:*:*:*:*:*,Huawei IPS MODULE FIRMWARE V500R005C00SPC200,"['CVE-2021-22312', 'CVE-2021-22320', 'CVE-2021-22341', 'CVE-2021-22356']",2022-03-21T17:58Z
+4,cpe:2.3:o:huawei:ips_module_firmware:v500r005c10:*:*:*:*:*:*:*,Huawei IPS Module Firmware V500R005C10,"['CVE-2020-9099', 'CVE-2020-9101', 'CVE-2021-22342']",2022-03-21T17:58Z
+5,cpe:2.3:o:huawei:ips_module_firmware:v500r005c20:*:*:*:*:*:*:*,Huawei IPS Module Firmware V500R005C20,"['CVE-2020-9099', 'CVE-2021-22342', 'CVE-2021-37129']",2022-03-21T17:58Z
+6,cpe:2.3:o:huawei:ips_module_firmware:v500r005c20spc300:*:*:*:*:*:*:*,Huawei IPS MODULE FIRMWARE V500R005C20SPC300,['CVE-2021-22320'],2022-03-21T17:59Z
+7,cpe:2.3:h:huawei:ips6000e:-:*:*:*:*:*:*:*,Huawei IPS6000E,['CVE-2021-22312'],2022-03-21T17:59Z
+8,cpe:2.3:o:huawei:ips6000e_firmware:v600r006c00:*:*:*:*:*:*:*,Huawei IPS6000E FIRMWARE V600R006C00,['CVE-2021-22312'],2022-03-21T17:59Z
+9,cpe:2.3:h:huawei:iptv_stb:-:*:*:*:*:*:*:*,Huawei IPTV STB,['CVE-2017-8176'],2022-03-21T17:59Z

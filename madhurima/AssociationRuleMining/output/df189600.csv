@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dlink:dgs-1510-52:-:*:*:*:*:*:*:*,D-Link DGS-1510-52,['CVE-2018-7859'],2022-03-20T15:46Z
+1,cpe:2.3:o:dlink:dgs-1510-52_firmware:-:*:*:*:*:*:*:*,D-Link DGS-1510-52 Firmware,['CVE-2018-7859'],2022-03-20T15:46Z
+2,cpe:2.3:o:dlink:dgs-1510-52_firmware:1.20.011:*:*:*:*:*:*:*,D-Link DGS-1510-52 Firmware 1.20.011,['CVE-2018-7859'],2022-03-20T15:46Z
+3,cpe:2.3:o:dlink:dgs-1510-52_firmware:1.30.007:*:*:*:*:*:*:*,D-Link DGS-1510-52 Firmware 1.30.007,['CVE-2018-7859'],2022-03-20T15:46Z
+4,cpe:2.3:o:dlink:dgs-1510-52_firmware:1.31.b003:*:*:*:*:*:*:*,D-Link DGS-1510-52 Firmware 1.31.B003,['CVE-2018-7859'],2022-03-20T15:46Z
+5,cpe:2.3:h:dlink:dgs-1510-52x:-:*:*:*:*:*:*:*,D-Link DGS-1510-52X,['CVE-2018-7859'],2022-03-20T15:46Z
+6,cpe:2.3:o:dlink:dgs-1510-52x_firmware:-:*:*:*:*:*:*:*,D-Link DGS-1510-52X Firmware,['CVE-2018-7859'],2022-03-20T15:46Z
+7,cpe:2.3:o:dlink:dgs-1510-52x_firmware:1.20.011:*:*:*:*:*:*:*,D-Link DGS-1510-52X Firmware 1.20.011,['CVE-2018-7859'],2022-03-20T15:46Z
+8,cpe:2.3:o:dlink:dgs-1510-52x_firmware:1.30.007:*:*:*:*:*:*:*,D-Link DGS-1510-52X Firmware 1.30.007,['CVE-2018-7859'],2022-03-20T15:46Z
+9,cpe:2.3:o:dlink:dgs-1510-52x_firmware:1.31.b003:*:*:*:*:*:*:*,D-Link DGS-1510-52X Firmware 1.31.B003,['CVE-2018-7859'],2022-03-20T15:46Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:proliant_xl270d_gen9_server:-:*:*:*:*:*:*:*,Hp Proliant Xl270d Gen9 Server -,['CVE-2018-7112'],2022-03-21T15:58Z
+1,cpe:2.3:o:hp:proliant_xl450_firmware:-:*:*:*:*:*:*:*,HP Proliant XL450 Firmware,['CVE-2019-11135'],2022-03-21T15:58Z
+2,cpe:2.3:o:hp:proliant_xl450_firmware:2.20:*:*:*:*:*:*:*,HP Proliant XL450 Firmware 2.20,[''],2022-03-21T15:58Z
+3,cpe:2.3:h:hp:proliant_xl450_gen10:-:*:*:*:*:*:*:*,HP Proliant XL450 Gen 10,"['CVE-2018-7117', 'CVE-2019-11982', 'CVE-2019-11983', 'CVE-2020-7207']",2022-03-21T15:58Z
+4,cpe:2.3:h:hp:proliant_xl450_gen10_server:-:*:*:*:*:*:*:*,HP Proliant Xl450 Gen10 Server,"['CVE-2020-7202', 'CVE-2021-29201', 'CVE-2021-29202', 'CVE-2021-29204', 'CVE-2021-29205', 'CVE-2021-29206', 'CVE-2021-29207', 'CVE-2021-29208', 'CVE-2021-29209', 'CVE-2021-29210', 'CVE-2021-29211']",2022-03-21T15:58Z
+5,cpe:2.3:h:hp:proliant_xl450_gen9_server:-:*:*:*:*:*:*:*,Hp Proliant Xl450 Gen9 Server -,"['CVE-2018-7112', 'CVE-2020-7202']",2022-03-21T15:58Z
+6,cpe:2.3:h:hp:proliant_xl730f_gen9:-:*:*:*:*:*:*:*,HP ProLiant Xl730f Gen9,"['CVE-2019-11982', 'CVE-2019-11983']",2022-03-21T15:58Z
+7,cpe:2.3:h:hp:proliant_xl730f_gen9_server:-:*:*:*:*:*:*:*,Hp Proliant Xl730f Gen9 Server -,"['CVE-2018-7112', 'CVE-2020-7202']",2022-03-21T15:58Z
+8,cpe:2.3:h:hp:proliant_xl740f_gen9:-:*:*:*:*:*:*:*,HP ProLiant Xl740f Gen9,"['CVE-2019-11982', 'CVE-2019-11983']",2022-03-21T15:58Z
+9,cpe:2.3:h:hp:proliant_xl740f_gen9_server:-:*:*:*:*:*:*:*,Hp Proliant Xl740f Gen9 Server -,"['CVE-2018-7112', 'CVE-2020-7202']",2022-03-21T15:58Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:digium:s800i_firmware:1.2.0:*:*:*:*:*:*:*,Digium s800i Firmware 1.2.0,['CVE-2011-0495'],2022-03-20T14:53Z
+1,cpe:2.3:a:dilicms:dilicms:2.4.0:*:*:*:*:*:*:*,DiliCMS 2.4.0,"['CVE-2018-10430', 'CVE-2018-18209', 'CVE-2018-18210', 'CVE-2018-19291', 'CVE-2019-8438', 'CVE-2019-8439', 'CVE-2019-8440']",2022-03-20T14:53Z
+2,cpe:2.3:a:dillonkane:tidal_workload_automation:3.1.0.20:*:*:*:*:*:*:*,Dillon Kane Tidal Workload Automation 3.1.0.20,[''],2022-03-20T14:53Z
+3,cpe:2.3:a:dillonkane:tidal_workload_automation:3.2.0.5:*:*:*:*:*:*:*,Dillon Kane Tidal Workload Automation 3.2.0.5,['CVE-2019-6689'],2022-03-20T14:53Z
+4,cpe:2.3:a:dimac:jmail.net:1.1.0:*:*:*:professional:*:*:*,Dimac Jmail.net Professional 1.1.0,[''],2022-03-20T14:53Z
+5,cpe:2.3:a:dimastr:outlook_redemption:1.0.0:*:*:*:*:*:*:*,Dimastr Outlook Redemption 1.0.0,[''],2022-03-20T14:53Z
+6,cpe:2.3:a:dimastr:outlook_spy:3.0.0.2457:*:*:*:*:*:x64:*,Dimastr Outlook Spy 3.0.0.2457 (x64) 64-bit,[''],2022-03-20T14:53Z
+7,cpe:2.3:a:dimo-crm:yellowbox_crm:6.3.4:*:*:*:*:*:*:*,Dimo-crm YellowBox CRM 6.3.4,[''],2022-03-20T14:53Z
+8,cpe:2.3:a:dimofinf:dimofinf_cms:3.0.0:*:*:*:*:*:*:*,Dimofinf Dimensions of Information CMS 3.0.0,['CVE-2018-12094'],2022-03-20T14:53Z
+9,cpe:2.3:a:dimofinf:dimofinf_cms:4.0.0:*:*:*:*:*:*:*,Dimofinf Dimensions of Information CMS 4.0.0,[''],2022-03-20T14:53Z

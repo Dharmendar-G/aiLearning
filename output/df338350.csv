@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huntcctv:dr6-7316a4hl:-:*:*:*:*:*:*:*,Hunt Electronic DR6-7316A4HL,['CVE-2013-1391'],2022-03-21T19:17Z
+1,cpe:2.3:o:huntcctv:dr6-7316a4hl_firmware:-:*:*:*:*:*:*:*,Hunt Electronic DR6-7316A4HL Firmware,['CVE-2013-1391'],2022-03-21T19:17Z
+2,cpe:2.3:h:huntcctv:dvr-04ch:-:*:*:*:*:*:*:*,Hunt Electronic DVR-04CH,['CVE-2013-1391'],2022-03-21T19:17Z
+3,cpe:2.3:o:huntcctv:dvr-04ch_firmware:-:*:*:*:*:*:*:*,Hunt Electronic DVR-04CH Firmware,['CVE-2013-1391'],2022-03-21T19:17Z
+4,cpe:2.3:h:huntcctv:dvr-04nc:-:*:*:*:*:*:*:*,Hunt Electronic DVR-04NC,['CVE-2013-1391'],2022-03-21T19:17Z
+5,cpe:2.3:o:huntcctv:dvr-04nc_firmware:-:*:*:*:*:*:*:*,Hunt Electronic DVR-04NC Firmware,['CVE-2013-1391'],2022-03-21T19:17Z
+6,cpe:2.3:h:huntcctv:dvr-08ch:-:*:*:*:*:*:*:*,Hunt Electronic DVR-08CH,['CVE-2013-1391'],2022-03-21T19:17Z
+7,cpe:2.3:o:huntcctv:dvr-08ch_firmware:-:*:*:*:*:*:*:*,Hunt Electronic DVR-08CH Firmware,['CVE-2013-1391'],2022-03-21T19:17Z
+8,cpe:2.3:h:huntcctv:dvr-08nc:-:*:*:*:*:*:*:*,Hunt Electronic DVR-08NC,['CVE-2013-1391'],2022-03-21T19:17Z
+9,cpe:2.3:o:huntcctv:dvr-08nc_firmware:-:*:*:*:*:*:*:*,Hunt Electronic DVR-08NC Firmware,['CVE-2013-1391'],2022-03-21T19:17Z

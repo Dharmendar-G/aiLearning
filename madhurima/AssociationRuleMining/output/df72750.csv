@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:belkin:switch2:1.0.2.14:*:*:*:*:*:*:*,Belkin Switch2 1.0.2.14,[''],2022-03-19T06:54Z
+1,cpe:2.3:h:belkin:wemo_insight_smart_plug:-:*:*:*:*:*:*:*,Belkin Wemo Insight Smart Plug,['CVE-2018-6692'],2022-03-19T06:54Z
+2,cpe:2.3:o:belkin:wemo_insight_smart_plug_firmware:-:*:*:*:*:*:*:*,Belkin WeMo Insight Smart Plug Firmware,['CVE-2018-6692'],2022-03-19T06:54Z
+3,cpe:2.3:h:belkin:wemo_insight_switch:-:*:*:*:*:*:*:*,Belkin WeMo Insight Switch,['CVE-2019-17094'],2022-03-19T06:54Z
+4,cpe:2.3:o:belkin:wemo_insight_switch_firmware:-:*:*:*:*:*:*:*,Belkin WeMo Insight Switch Firmware,['CVE-2019-17094'],2022-03-19T06:54Z
+5,cpe:2.3:o:belkin:wemo_insight_switch_firmware:2.00.11396:*:*:*:*:*:*:*,Belkin WeMo Insight Switch Firmware 2.00.11396,[''],2022-03-19T06:54Z
+6,cpe:2.3:h:belkin:wemo_switch:-:*:*:*:*:*:*:*,Belkin WeMo Switch,['CVE-2013-2748'],2022-03-19T06:54Z
+7,cpe:2.3:h:belkin:wemo_switch_28b:-:*:*:*:*:*:*:*,Belkin Wemo Switch 28B,['CVE-2019-17532'],2022-03-19T06:54Z
+8,cpe:2.3:o:belkin:wemo_switch_28b_firmware:wemo_ww_2.00.11057.pvt-owrt-sns:*:*:*:*:*:*:*,Belkin Wemo Switch 28B Firmware WeMo_WW_2.00.11057.PVT-OWRT-SNS,['CVE-2019-17532'],2022-03-19T06:54Z
+9,cpe:2.3:o:belkin:wemo_switch_firmware:-:*:*:*:*:*:*:*,Belkin WeMo Switch Firmware,['CVE-2013-2748'],2022-03-19T06:54Z

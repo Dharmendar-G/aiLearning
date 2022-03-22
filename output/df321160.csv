@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:elite_dragonfly_firmware:01.04.02:*:*:*:*:*:*:*,HP Elite Dragonfly Firmware 01.04.02,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T13:17Z
+1,cpe:2.3:h:hp:elite_dragonfly_g2:-:*:*:*:*:*:*:*,HP Elite Dragonfly G2,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T13:17Z
+2,cpe:2.3:o:hp:elite_dragonfly_g2_firmware:-:*:*:*:*:*:*:*,HP Elite Dragonfly G2 Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T13:17Z
+3,cpe:2.3:h:hp:elite_dragonfly_max:-:*:*:*:*:*:*:*,HP Elite Dragonfly Max,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T13:17Z
+4,cpe:2.3:o:hp:elite_dragonfly_max_firmware:-:*:*:*:*:*:*:*,HP Elite Dragonfly Max Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T13:17Z
+5,cpe:2.3:h:hp:elite_slice:-:*:*:*:*:*:*:*,HP Elite Slice,"['CVE-2019-16284', 'CVE-2019-18618']",2022-03-21T13:17Z
+6,cpe:2.3:o:hp:elite_slice_firmware:-:*:*:*:*:*:*:*,HP Elite Slice Firmware,"['CVE-2019-16284', 'CVE-2019-18618']",2022-03-21T13:17Z
+7,cpe:2.3:o:hp:elite_slice_firmware:2.42:*:*:*:*:*:*:*,HP Elite Slice Firmware 2.42,['CVE-2019-18618'],2022-03-21T13:17Z
+8,cpe:2.3:o:hp:elite_slice_firmware:5.2.3110.26:*:*:*:*:*:*:*,HP Elite Slice Firmware 5.2.3110.26,[''],2022-03-21T13:17Z
+9,cpe:2.3:h:hp:elite_x2_1011_g1:-:*:*:*:*:*:*:*,HP Elite X2 1011 G1,['CVE-2019-16284'],2022-03-21T13:17Z

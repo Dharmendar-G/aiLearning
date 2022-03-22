@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:3.3.0:rc2:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 3.3.0 Release Candidate 2 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:20Z
+1,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:3.3.0:rc5:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 3.3.0 Release Candidate 5 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:20Z
+2,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:3.3.0:rc6:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 3.3.0 Release Candidate 6 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:20Z
+3,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:3.3.0:rc7:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 3.3.0 Release Candidate 7 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:20Z
+4,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:3.3.0:rc8:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 3.3.0 Release Candidate 8 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:20Z
+5,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:3.3.0:rc9:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 3.3.0 Release Candidate 9 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:20Z
+6,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:3.3.1:*:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 3.3.1 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:20Z
+7,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:3.3.2:*:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 3.3.2 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:20Z
+8,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:3.3.3:*:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 3.3.3 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:20Z
+9,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:3.3.4:*:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 3.3.4 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:20Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:airdroid:airdroid:2.0.5.2:*:*:*:*:*:android:*,AirDroid 2.0.5.2 on Android,['CVE-2019-9599'],2022-03-18T13:53Z
+1,cpe:2.3:a:airdroid:airdroid:2.0.5.4:*:*:*:*:*:android:*,AirDroid 2.0.5.4 on Android,['CVE-2019-9599'],2022-03-18T13:53Z
+2,cpe:2.3:a:airdroid:airdroid:2.0.6:*:*:*:*:*:android:*,AirDroid 2.0.6 on Android,['CVE-2019-9599'],2022-03-18T13:53Z
+3,cpe:2.3:a:airdroid:airdroid:2.0.7:*:*:*:*:*:android:*,AirDroid 2.0.7 on Android,['CVE-2019-9599'],2022-03-18T13:53Z
+4,cpe:2.3:a:airdroid:airdroid:2.0.8:*:*:*:*:*:android:*,AirDroid 2.0.8 on Android,['CVE-2019-9599'],2022-03-18T13:53Z
+5,cpe:2.3:a:airdroid:airdroid:2.0.9:*:*:*:*:*:android:*,AirDroid 2.0.9 on Android,['CVE-2019-9599'],2022-03-18T13:54Z
+6,cpe:2.3:a:airdroid:airdroid:2.1.0:*:*:*:*:*:android:*,AirDroid 2.1.0 on Android,['CVE-2019-9599'],2022-03-18T13:53Z
+7,cpe:2.3:a:airdroid:airdroid:3.0.0:*:*:*:*:*:android:*,AirDroid 3.0.0 on Android,['CVE-2019-9599'],2022-03-18T13:54Z
+8,cpe:2.3:a:airdroid:airdroid:3.0.3:*:*:*:*:*:android:*,AirDroid 3.0.3 on Android,['CVE-2019-9599'],2022-03-18T13:54Z
+9,cpe:2.3:a:airdroid:airdroid:3.0.4:*:*:*:*:*:android:*,AirDroid 3.0.4 on Android,['CVE-2019-9599'],2022-03-18T13:54Z

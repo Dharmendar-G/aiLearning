@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:envy_17m-ce1xxx_firmware:-:*:*:*:*:*:*:*,HP Envy 17m-ce1xxx Firmware,['CVE-2019-18619'],2022-03-21T13:23Z
+1,cpe:2.3:o:hp:envy_17m-ce1xxx_firmware:6.0.39.1111:*:*:*:*:*:*:*,HP Envy 17m-ce1xxx Firmware 6.0.39.1111,[''],2022-03-21T13:23Z
+2,cpe:2.3:h:hp:envy_4500_a9t80a:-:*:*:*:*:*:*:*,HP ENVY 4500 A9T80A,['CVE-2020-12695'],2022-03-21T13:23Z
+3,cpe:2.3:h:hp:envy_4500_a9t80b:-:*:*:*:*:*:*:*,HP ENVY 4500 A9T80B,['CVE-2020-12695'],2022-03-21T13:23Z
+4,cpe:2.3:h:hp:envy_4500_a9t89a:-:*:*:*:*:*:*:*,HP ENVY 4500 A9T89A,['CVE-2020-12695'],2022-03-21T13:23Z
+5,cpe:2.3:h:hp:envy_4500_d3p93a:-:*:*:*:*:*:*:*,HP ENVY 4500 D3P93A,['CVE-2020-12695'],2022-03-21T13:23Z
+6,cpe:2.3:h:hp:envy_4501_c8d05a:-:*:*:*:*:*:*:*,HP ENVY 4501 C8D05A,['CVE-2020-12695'],2022-03-21T13:23Z
+7,cpe:2.3:h:hp:envy_4502_a9t85a:-:*:*:*:*:*:*:*,HP ENVY 4502 A9T85A,['CVE-2020-12695'],2022-03-21T13:23Z
+8,cpe:2.3:h:hp:envy_4502_a9t87b:-:*:*:*:*:*:*:*,HP ENVY 4502 A9T87B,['CVE-2020-12695'],2022-03-21T13:23Z
+9,cpe:2.3:h:hp:envy_4503_e6g71b:-:*:*:*:*:*:*:*,HP ENVY 4503 E6G71B,['CVE-2020-12695'],2022-03-21T13:23Z

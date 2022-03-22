@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:ne40\&80:v300r005:*:*:*:*:*:*:*,Huawei NE40&80 V300R005,['CVE-2012-3268'],2022-03-21T18:10Z
+1,cpe:2.3:h:huawei:ne40e:v300r005:*:*:*:*:*:*:*,Huawei NE40E V300R005,['CVE-2012-4960'],2022-03-21T18:10Z
+2,cpe:2.3:h:huawei:ne40e:v600r001:*:*:*:*:*:*:*,Huawei NE40E V600R001,['CVE-2012-4960'],2022-03-21T18:10Z
+3,cpe:2.3:h:huawei:ne40e\&80e:v300r003:*:*:*:*:*:*:*,Huawei NE40E&80E V300R003,['CVE-2012-3268'],2022-03-21T18:10Z
+4,cpe:2.3:h:huawei:ne40e\&80e:v600r001:*:*:*:*:*:*:*,Huawei NE40E&80E V600R001,['CVE-2012-3268'],2022-03-21T18:10Z
+5,cpe:2.3:h:huawei:ne40e\&80e:v600r002:*:*:*:*:*:*:*,Huawei NE40E&80E V600R002,['CVE-2012-3268'],2022-03-21T18:10Z
+6,cpe:2.3:h:huawei:ne40e\&80e:v600r003:*:*:*:*:*:*:*,Huawei NE40E&80E V600R003,['CVE-2012-3268'],2022-03-21T18:10Z
+7,cpe:2.3:h:huawei:ne40e\/80e:v600r002:*:*:*:*:*:*:*,Huawei NE40E/80E V600R002,['CVE-2012-4960'],2022-03-21T18:10Z
+8,cpe:2.3:h:huawei:ne40e\/80e:v600r003:*:*:*:*:*:*:*,Huawei NE40E/80E V600R003,['CVE-2012-4960'],2022-03-21T18:10Z
+9,cpe:2.3:o:huawei:ne40e_firmware:-:*:*:*:*:*:*:*,Huawei Ne40e Firmware -,[''],2022-03-21T18:10Z

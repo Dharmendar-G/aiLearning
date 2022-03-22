@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:condusiv:diskeeper:10.0.593:*:*:*:server_standard:*:*:*,Condusiv Diskeeper Server Standard 10.0.593,[''],2022-03-20T07:10Z
+1,cpe:2.3:a:condusiv:diskeeper:10.0.608:*:*:*:server_enterprise:*:*:*,Condusiv Diskeeper Server Enterprise 10.0.608,[''],2022-03-20T07:10Z
+2,cpe:2.3:a:condusiv:diskeeper:10.0.608:*:*:*:server_standard:*:*:*,Condusiv Diskeeper Server Standard 10.0.608,[''],2022-03-20T07:10Z
+3,cpe:2.3:a:condusiv:diskeeper_2007:11.0.703.32:*:*:*:server:*:*:*,Condusiv Diskeeper 2007 Server 11.0.703.32,[''],2022-03-20T07:10Z
+4,cpe:2.3:a:condusiv:diskeeper_2007:11.0.709.32:*:*:*:server:*:*:*,Condusiv Diskeeper 2007 Server 11.0.709.32,[''],2022-03-20T07:10Z
+5,cpe:2.3:a:condusiv:diskeeper_2008:12.0.758.32:*:*:*:server:*:*:*,Condusiv Diskeeper 2008 Server 12.0.758.32,[''],2022-03-20T07:10Z
+6,cpe:2.3:a:condusiv:diskeeper_2008:12.0.781.32:*:*:*:server:*:*:*,Condusiv Diskeeper 2008 Server 12.0.781.32,[''],2022-03-20T07:10Z
+7,cpe:2.3:a:condusiv:diskeeper_2008:12.0.781.64:*:*:*:server:*:*:*,Condusiv Diskeeper 2008 Server 12.0.781.64,[''],2022-03-20T07:10Z
+8,cpe:2.3:a:condusiv:diskeeper_2009:13.0.835.32:*:*:*:server:*:*:*,Condusiv Diskeeper 2009 Server 13.0.835.32,[''],2022-03-20T07:10Z
+9,cpe:2.3:a:condusiv:diskeeper_2009:13.0.835.64:*:*:*:server:*:*:*,Condusiv Diskeeper 2009 Server 13.0.835.64,[''],2022-03-20T07:10Z

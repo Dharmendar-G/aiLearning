@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:akips:network_monitor:16.2:*:*:*:*:*:*:*,AKiPS Network Monitor 16.2,['CVE-2016-11017'],2022-03-18T14:25Z
+1,cpe:2.3:a:akips:network_monitor:16.3:*:*:*:*:*:*:*,AKiPS Network Monitor 16.3,['CVE-2016-11017'],2022-03-18T14:25Z
+2,cpe:2.3:a:akips:network_monitor:16.4:*:*:*:*:*:*:*,AKiPS Network Monitor 16.4,['CVE-2016-11017'],2022-03-18T14:25Z
+3,cpe:2.3:a:akips:network_monitor:16.5:*:*:*:*:*:*:*,AKiPS Network Monitor 16.5,['CVE-2016-11017'],2022-03-18T14:25Z
+4,cpe:2.3:a:akiva:webboard:2.90:beta:*:*:*:*:*:*,Akiva WebBoard 2.90 Beta,"['CVE-2009-2600', 'CVE-2011-5203']",2022-03-18T14:25Z
+5,cpe:2.3:a:akiva:webboard:8.0:*:*:*:*:*:*:*,Akiva WebBoard 8.0,"['CVE-2008-1941', 'CVE-2011-5203', 'CVE-2011-5204']",2022-03-18T14:25Z
+6,cpe:2.3:a:akiva:webboard:8.0:sr1:*:*:*:*:*:*,Akiva WebBoard 8.0 support release 1,"['CVE-2008-1941', 'CVE-2011-5203', 'CVE-2011-5204']",2022-03-18T14:25Z
+7,cpe:2.3:a:akiva:webboard:9.0:*:*:*:*:*:*:*,Akiva WebBoard 9.0,[''],2022-03-18T14:25Z
+8,cpe:2.3:a:akka:akka:0.5:*:*:*:*:*:*:*,Akka 0.5,['CVE-2017-1000034'],2022-03-18T14:25Z
+9,cpe:2.3:a:akka:akka:0.6:*:*:*:*:*:*:*,Akka 0.6,['CVE-2017-1000034'],2022-03-18T14:25Z

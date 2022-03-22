@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:procurve_switch_2610-24:-:*:*:*:*:*:*:*,HP Procurve Switch 2610-24,"['CVE-2010-2706', 'CVE-2010-2708']",2022-03-21T15:50Z
+1,cpe:2.3:h:hp:procurve_switch_2610-24\/12pwr:-:*:*:*:*:*:*:*,HP Procurve Switch 2610-24/12pwr,"['CVE-2010-2706', 'CVE-2010-2708']",2022-03-21T15:50Z
+2,cpe:2.3:h:hp:procurve_switch_2610-24-pwr:-:*:*:*:*:*:*:*,HP Procurve Switch 2610-24-pwr,"['CVE-2010-2706', 'CVE-2010-2708']",2022-03-21T15:50Z
+3,cpe:2.3:h:hp:procurve_switch_2610-48:-:*:*:*:*:*:*:*,HP Procurve Switch 2610-48,"['CVE-2010-2706', 'CVE-2010-2708']",2022-03-21T15:50Z
+4,cpe:2.3:h:hp:procurve_switch_2610-48-pwr:-:*:*:*:*:*:*:*,HP Procurve Switch 2610-48-pwr,"['CVE-2010-2706', 'CVE-2010-2708']",2022-03-21T15:51Z
+5,cpe:2.3:h:hp:procurve_switch_2626:-:*:*:*:*:*:*:*,HP Procurve Switch 2626,['CVE-2010-2707'],2022-03-21T15:51Z
+6,cpe:2.3:h:hp:procurve_switch_2626-pwr:-:*:*:*:*:*:*:*,HP Procurve Switch 2626-pwr,['CVE-2010-2707'],2022-03-21T15:51Z
+7,cpe:2.3:h:hp:procurve_switch_2650:-:*:*:*:*:*:*:*,HP Procurve Switch 2650,['CVE-2010-2707'],2022-03-21T15:51Z
+8,cpe:2.3:h:hp:procurve_switch_2650-pwr:-:*:*:*:*:*:*:*,HP Procurve Switch 2650-pwr,['CVE-2010-2707'],2022-03-21T15:51Z
+9,cpe:2.3:h:hp:procurve_switch_3500yl:-:*:*:*:*:*:*:*,HP procurve switch 3500yl,['CVE-2006-4015'],2022-03-21T15:51Z

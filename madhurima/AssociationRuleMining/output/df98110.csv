@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:c-3.co.jp:webcalenderc3:0.32:*:*:*:*:*:*:*,C3 WebCalenderC3 0.32,"['CVE-2010-0348', 'CVE-2010-0349']",2022-03-19T14:14Z
+1,cpe:2.3:a:c-3.co.jp:webcalenderc3:0.32:s2:*:*:*:*:*:*,シースリー WebCalenderC3 0.32s2,"['CVE-2010-0348', 'CVE-2010-0349']",2022-03-19T14:14Z
+2,cpe:2.3:a:c3_token_project:c3_token:-:*:*:*:*:*:*:*,C3 Token Project C3 Token,['CVE-2018-13517'],2022-03-19T14:14Z
+3,cpe:2.3:a:c3-ilex:eoscada:11.0.19.2:*:*:*:*:*:*:*,C3-ilex EOScada 11.0.19.2,[''],2022-03-19T14:14Z
+4,cpe:2.3:a:c4plans:k-tool:2.7.5:*:*:*:*:*:*:*,C4plans K-tool 2.7.5,[''],2022-03-19T14:14Z
+5,cpe:2.3:a:c4plans:k-tool:3.31.12:*:*:*:*:*:*:*,C4plans K-tool 3.31.12,[''],2022-03-19T14:14Z
+6,cpe:2.3:a:c4plans:sg_tool:3.1.21:*:*:*:*:*:*:*,C4plans Sg Tool 3.1.21,[''],2022-03-19T14:14Z
+7,cpe:2.3:a:c97:cart_engine:3.0:*:*:*:*:*:*:*,C97 Cart Engine 3.0,"['CVE-2014-8305', 'CVE-2014-8306', 'CVE-2014-8307']",2022-03-19T14:15Z
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

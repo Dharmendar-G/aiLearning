@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avast:avast:-:*:*:*:*:*:*:*,Avast,['CVE-2016-3986'],2022-03-19T03:57Z
+1,cpe:2.3:a:avast:avast\!_mobile_security:2.0.4304:-:*:*:*:android:*:*,Avast! Mobile Security for Android 2.0.4304,['CVE-2013-0122'],2022-03-19T03:57Z
+2,cpe:2.3:a:avast:avast_antivirus_free:5.0.594:*:*:*:*:*:*:*,Avast! Free Antivirus 5.0.594,['CVE-2010-3126'],2022-03-19T03:57Z
+3,cpe:2.3:a:avast:avast_free_antivirus:-:*:*:*:*:*:*:*,Avast Free Antivirus,['CVE-2015-8620'],2022-03-19T03:57Z
+4,cpe:2.3:a:avast:avast_free_antivirus:11.1.2245:*:*:*:*:*:*:*,Avast Free Antivirus 11.1.2245,['CVE-2015-8620'],2022-03-19T03:57Z
+5,cpe:2.3:a:avast:avast_internet_security:-:*:*:*:*:*:*:*,Avast Internet Security,['CVE-2015-8620'],2022-03-19T03:57Z
+6,cpe:2.3:a:avast:avast_internet_security:11.1.2245:*:*:*:*:*:*:*,Avast Internet Security 11.1.2245,['CVE-2015-8620'],2022-03-19T03:57Z
+7,cpe:2.3:a:avast:avast_premier:-:*:*:*:*:*:*:*,Avast Premier,['CVE-2015-8620'],2022-03-19T03:57Z
+8,cpe:2.3:a:avast:avast_premier:11.1.2245:*:*:*:*:*:*:*,Avast Premier 11.1.2245,['CVE-2015-8620'],2022-03-19T03:57Z
+9,cpe:2.3:a:avast:avast_pro_antivirus:-:*:*:*:*:*:*:*,Avast Pro Antivirus,['CVE-2015-8620'],2022-03-19T03:57Z

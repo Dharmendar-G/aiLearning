@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arvtard:jquery_tagline_rotator:0.1.5:*:*:*:*:wordpress:*:*,Arvtard jQuery Tagline Rotator 0.1.5 for WordPress,['CVE-2021-34663'],2022-03-18T23:42Z
+1,cpe:2.3:a:arxes-tolina:arxes-tolina:3.0.0:*:*:*:*:*:*:*,arxes-tolina 3.0.0,"['CVE-2019-19676', 'CVE-2019-19677']",2022-03-18T23:42Z
+2,cpe:2.3:a:aryanic:highportal:12.5:*:*:*:*:*:*:*,ARYANIC HighPortal 12.5,['CVE-2018-17964'],2022-03-18T23:42Z
+3,cpe:2.3:a:asanhamayesh:asanhamayesh_cms:3.4.6:*:*:*:*:*:*:*,AsanHamayesh CMS 3.4.6,['CVE-2018-7463'],2022-03-18T23:42Z
+4,cpe:2.3:a:ascensia:contour_diabetes:1.0.0:*:*:*:*:android:*:*,Ascensia CONTOUR DIABETES 1.0.0 for Android,"['CVE-2018-18976', 'CVE-2018-18977', 'CVE-2018-18978', 'CVE-2018-18979']",2022-03-18T23:42Z
+5,cpe:2.3:a:ascensia:contour_diabetes:1.0.5:*:*:*:*:android:*:*,Ascensia CONTOUR DIABETES 1.0.5 for Android,"['CVE-2018-18976', 'CVE-2018-18977', 'CVE-2018-18978', 'CVE-2018-18979']",2022-03-18T23:42Z
+6,cpe:2.3:a:ascensia:contour_diabetes:1.2.0:*:*:*:*:android:*:*,Ascensia CONTOUR DIABETES 1.2.0 for Android,"['CVE-2018-18976', 'CVE-2018-18977', 'CVE-2018-18978', 'CVE-2018-18979']",2022-03-18T23:42Z
+7,cpe:2.3:a:ascensia:contour_diabetes:1.2.24:*:*:*:*:android:*:*,Ascensia CONTOUR DIABETES 1.2.24 for Android,"['CVE-2018-18976', 'CVE-2018-18977', 'CVE-2018-18978', 'CVE-2018-18979']",2022-03-18T23:42Z
+8,cpe:2.3:a:ascensia:contour_diabetes:1.2.24:*:*:*:*:iphone_os:*:*,Ascensia CONTOUR DIABETES 1.2.24 for iPhone OS,"['CVE-2018-18975', 'CVE-2018-18976']",2022-03-18T23:42Z
+9,cpe:2.3:a:ascensia:contour_diabetes:1.2.44:*:*:*:*:android:*:*,Ascensia CONTOUR DIABETES 1.2.44 for Android,"['CVE-2018-18976', 'CVE-2018-18977', 'CVE-2018-18978', 'CVE-2018-18979']",2022-03-18T23:42Z

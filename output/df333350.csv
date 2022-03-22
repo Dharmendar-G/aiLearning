@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:ch242_v5_firmware:100r001c00:*:*:*:*:*:*:*,Huawei CH242 V5 Firmware 100R001C00,"['CVE-2018-7941', 'CVE-2018-7949', 'CVE-2018-7950', 'CVE-2018-7951']",2022-03-21T17:30Z
+1,cpe:2.3:o:huawei:ch242_v5_firmware:v100r001c00:*:*:*:*:*:*:*,Huawei Ch242 V5 Firmware V100R001C00,['CVE-2018-7943'],2022-03-21T17:30Z
+2,cpe:2.3:h:huawei:changxiang_7s:-:*:*:*:*:*:*:*,Huawei Changxiang 7S,['CVE-2019-5264'],2022-03-21T17:30Z
+3,cpe:2.3:o:huawei:changxiang_7s_firmware:-:*:*:*:*:*:*:*,Huawei Changxiang 7S Firmware,['CVE-2019-5264'],2022-03-21T17:30Z
+4,cpe:2.3:o:huawei:changxiang_7s_firmware:9.1.0.107\(c00e107r2p8t8\):*:*:*:*:*:*:*,Huawei Changxiang 7S Firmware 9.1.0.107(C00E107R2P8T8),[''],2022-03-21T17:30Z
+5,cpe:2.3:h:huawei:changxiang_8_plus:-:*:*:*:*:*:*:*,Huawei Changxiang 8 Plus,"['CVE-2019-5264', 'CVE-2020-1837']",2022-03-21T17:30Z
+6,cpe:2.3:o:huawei:changxiang_8_plus_firmware:-:*:*:*:*:*:*:*,Huawei Changxiang 8 Plus Firmware,"['CVE-2019-5264', 'CVE-2020-1837']",2022-03-21T17:30Z
+7,cpe:2.3:o:huawei:changxiang_8_plus_firmware:9.1.0.111\(c00e111r1p6t8\):*:*:*:*:*:*:*,Huawei Changxiang 8 Plus Firmware 9.1.0.111(C00E111R1P6T8),['CVE-2020-1837'],2022-03-21T17:30Z
+8,cpe:2.3:o:huawei:changxiang_8_plus_firmware:9.1.0.136\(c00e121r1p6t8\):*:*:*:*:*:*:*,Huawei ChangXiang 8 Plus Firmware 9.1.0.136(C00E121R1P6T8),[''],2022-03-21T17:30Z
+9,cpe:2.3:h:huawei:charlotte-al00a:-:*:*:*:*:*:*:*,Huawei Charlotte-AL00A,"['CVE-2018-7911', 'CVE-2019-5235']",2022-03-21T17:30Z

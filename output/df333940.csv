@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:eva-l29_firmware:eva-l29c20b160:*:*:*:*:*:*:*,Huawei EVA-L29 Firmware EVA-L29C20B160,['CVE-2017-8164'],2022-03-21T17:43Z
+1,cpe:2.3:o:huawei:eva-l29_firmware:eva-l29c636b191:*:*:*:*:*:*:*,Huawei EVA-L29 Firmware EVA-L29C636B191,['CVE-2017-8164'],2022-03-21T17:44Z
+2,cpe:2.3:h:huawei:eva-tl00:-:*:*:*:*:*:*:*,Huawei EVA-TL00,['CVE-2017-8164'],2022-03-21T17:44Z
+3,cpe:2.3:o:huawei:eva-tl00_firmware:eva-tl00c01b198:*:*:*:*:*:*:*,Huawei EVA-TL00 Firmware EVA-TL00C01B198,['CVE-2017-8164'],2022-03-21T17:44Z
+4,cpe:2.3:h:huawei:ever-al00b:-:*:*:*:*:*:*:*,Huawei Ever-AL00B,['CVE-2019-5235'],2022-03-21T17:44Z
+5,cpe:2.3:o:huawei:ever-al00b_firmware:9.0.0.195\(c00e195r2p1\):*:*:*:*:*:*:*,Huawei Ever-AL00B Firmware 9.0.0.195(C00E195R2P1),['CVE-2019-5235'],2022-03-21T17:44Z
+6,cpe:2.3:h:huawei:ever-l29b:-:*:*:*:*:*:*:*,Huawei Ever-L29B,"['CVE-2019-5235', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506', 'CVE-2020-1882']",2022-03-21T17:44Z
+7,cpe:2.3:o:huawei:ever-l29b_firmware:9.0.0.206\(c185e3r3p1\):*:*:*:*:*:*:*,Huawei Ever-L29B Firmware 9.0.0.206(C185E3R3P1),"['CVE-2019-5235', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506', 'CVE-2020-1882']",2022-03-21T17:44Z
+8,cpe:2.3:o:huawei:ever-l29b_firmware:9.0.0.207\(c636e3r2p1\):*:*:*:*:*:*:*,Huawei Ever-L29B Firmware 9.0.0.207(C636E3R2P1),"['CVE-2019-5235', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506', 'CVE-2020-1882']",2022-03-21T17:44Z
+9,cpe:2.3:o:huawei:ever-l29b_firmware:9.0.0.208\(c432e3r1p12\):*:*:*:*:*:*:*,Huawei Ever-L29B Firmware 9.0.0.208(C432E3R1P12),"['CVE-2019-5235', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506', 'CVE-2020-1882']",2022-03-21T17:44Z

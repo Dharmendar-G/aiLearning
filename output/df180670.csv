@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:networking_os10:10.5.2.8:*:*:*:*:*:*:*,Dell Networking OS10 10.5.2.8,[''],2022-03-20T12:54Z
+1,cpe:2.3:a:dell:online_diagnostics:2.10:*:*:*:*:*:*:*,Dell Online Diagnostics 2.10,[''],2022-03-20T12:54Z
+2,cpe:2.3:a:dell:online_diagnostics:2.12:*:*:*:*:*:*:*,Dell Online Diagnostics 2.12,[''],2022-03-20T12:54Z
+3,cpe:2.3:a:dell:online_diagnostics:2.15.0:*:*:*:*:*:*:*,Dell Online Diagnostics 2.15.0,[''],2022-03-20T12:54Z
+4,cpe:2.3:a:dell:online_diagnostics:2.17.0:*:*:*:*:*:*:*,Dell Online Diagnostics 2.17.0,[''],2022-03-20T12:54Z
+5,cpe:2.3:a:dell:online_diagnostics:2.18.0:*:*:*:*:*:*:*,Dell Online Diagnostics 2.18.0,[''],2022-03-20T12:54Z
+6,cpe:2.3:a:dell:openmanage:-:*:*:*:*:*:*:*,Dell OpenManage,[''],2022-03-20T12:54Z
+7,cpe:2.3:a:dell:openmanage:3.2:*:*:*:*:*:*:*,Dell OpenManage 3.2,['CVE-2004-0331'],2022-03-20T12:54Z
+8,cpe:2.3:a:dell:openmanage:3.4:*:*:*:*:*:*:*,Dell OpenManage 3.4,['CVE-2004-0331'],2022-03-20T12:54Z
+9,cpe:2.3:a:dell:openmanage:3.5:*:*:*:*:*:*:*,Dell OpenManage 3.5,[''],2022-03-20T12:54Z

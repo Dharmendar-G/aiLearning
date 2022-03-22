@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:autodesk:material_library_base_resolution_image_library_2012:2.5.0.8:*:*:*:*:*:*:*,Autodesk Material Library Base Resolution Image Library 2012 2.5.0.8,[''],2022-03-19T03:29Z
+1,cpe:2.3:a:autodesk:material_library_medium_image_library_2011:2.0.0.49:*:*:*:*:*:*:*,Autodesk Material Library Medium Image Library 2011 2.0.0.49,[''],2022-03-19T03:29Z
+2,cpe:2.3:a:autodesk:navisworks:2019:*:*:*:*:*:*:*,Autodesk Navisworks 2019,"['CVE-2021-27045', 'CVE-2021-27046', 'CVE-2021-40155', 'CVE-2021-40156', 'CVE-2021-40160', 'CVE-2021-40161']",2022-03-19T03:29Z
+3,cpe:2.3:a:autodesk:navisworks:2020:*:*:*:*:*:*:*,Autodesk Navisworks 2020,"['CVE-2021-27045', 'CVE-2021-27046', 'CVE-2021-40155', 'CVE-2021-40156', 'CVE-2021-40160', 'CVE-2021-40161']",2022-03-19T03:29Z
+4,cpe:2.3:a:autodesk:navisworks:2021:*:*:*:*:*:*:*,Autodesk Navisworks 2021,"['CVE-2021-27045', 'CVE-2021-27046', 'CVE-2021-40155', 'CVE-2021-40156', 'CVE-2021-40160', 'CVE-2021-40161']",2022-03-19T03:29Z
+5,cpe:2.3:a:autodesk:navisworks:2022:*:*:*:*:*:*:*,Autodesk Navisworks 2022,"['CVE-2021-27045', 'CVE-2021-27046', 'CVE-2021-40155', 'CVE-2021-40156', 'CVE-2021-40160', 'CVE-2021-40161']",2022-03-19T03:29Z
+6,cpe:2.3:a:autodesk:raster_design:-:*:*:*:*:*:*:*,Autodesk Raster Design,[''],2022-03-19T03:29Z
+7,cpe:2.3:a:autodesk:raster_design:2005:*:*:*:*:*:*:*,Autodesk Raster Design 2005,['CVE-2005-4710'],2022-03-19T03:29Z
+8,cpe:2.3:a:autodesk:raster_design:2006:*:*:*:*:*:*:*,Autodesk Raster Design 2006,['CVE-2005-4710'],2022-03-19T03:29Z
+9,cpe:2.3:a:autodesk:revit:-:*:*:*:*:*:*:*,Autodesk Revit,[''],2022-03-19T03:29Z

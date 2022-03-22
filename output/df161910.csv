@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:corel:coreldraw:x4:*:*:*:*:*:*:*,Corel CorelDRAW Graphics Suite X4,[''],2022-03-20T08:03Z
+1,cpe:2.3:a:corel:coreldraw:x5:*:*:*:*:*:*:*,Corel CorelDRAW Graphics Suite X5,[''],2022-03-20T08:03Z
+2,cpe:2.3:a:corel:coreldraw:x6:*:*:*:*:*:*:*,Corel CorelDRAW X6,[''],2022-03-20T08:03Z
+3,cpe:2.3:a:corel:coreldraw:x7:*:*:*:*:*:*:*,Corel CorelDRAW X7,['CVE-2014-8393'],2022-03-20T08:03Z
+4,cpe:2.3:a:corel:coreldraw:x8:*:*:*:*:*:*:*,Corel CorelDRAW X8,['CVE-2016-9043'],2022-03-20T08:03Z
+5,cpe:2.3:a:corel:coreldraw_2020:22.0.0.474:*:*:*:standard:*:*:*,Corel CorelDRAW 2020 22.0.0.474 Standard Edition,"['CVE-2021-38107', 'CVE-2021-38109']",2022-03-20T08:03Z
+6,cpe:2.3:a:corel:coreldraw_capture:x4:*:*:*:*:*:*:*,Corel Coreldraw Capture X4,[''],2022-03-20T08:03Z
+7,cpe:2.3:a:corel:coreldraw_content:x4:*:*:*:*:*:*:*,Corel Coreldraw Content X4,[''],2022-03-20T08:03Z
+8,cpe:2.3:a:corel:coreldraw_draw:x4:*:*:*:*:*:*:*,Corel Coreldraw Draw X4,[''],2022-03-20T08:03Z
+9,cpe:2.3:a:corel:coreldraw_filters:x4:*:*:*:*:*:*:*,Corel Coreldraw Filters X4,[''],2022-03-20T08:03Z

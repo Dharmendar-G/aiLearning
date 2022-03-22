@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chyrp:chyrp:2.5:b1:*:*:*:*:*:*,Chyrp Chyrp 2.5 B1,['CVE-2014-7264'],2022-03-19T17:39Z
+1,cpe:2.3:a:chyrp:chyrp:2.5:b2:*:*:*:*:*:*,Chyrp Chyrp 2.5 B2,['CVE-2014-7264'],2022-03-19T17:39Z
+2,cpe:2.3:a:chyrp:chyrp:2.5:b3:*:*:*:*:*:*,Chyrp Chyrp 2.5 B3,['CVE-2014-7264'],2022-03-19T17:39Z
+3,cpe:2.3:a:chyrp:chyrp:2.5:rc1:*:*:*:*:*:*,Chyrp Chyrp 2.5 Release Candidate 1,['CVE-2014-7264'],2022-03-19T17:39Z
+4,cpe:2.3:a:chyrp:chyrp:2.5:rc2:*:*:*:*:*:*,Chyrp Chyrp 2.5 Release Candidate 2,['CVE-2014-7264'],2022-03-19T17:39Z
+5,cpe:2.3:a:chyrp:chyrp:2.5.2:*:*:*:*:*:*:*,Chyrp Chyrp 2.5.2,[''],2022-03-19T17:39Z
+6,cpe:2.3:a:chyrp:chyrp:2.5.2:b1:*:*:*:*:*:*,Chyrp Chyrp 2.5.2 B1,['CVE-2012-1001'],2022-03-19T17:39Z
+7,cpe:2.3:a:chyrplite:chyrp_lite:-:*:*:*:*:*:*:*,Chyrp Lite,[''],2022-03-19T17:39Z
+8,cpe:2.3:a:chyrplite:chyrp_lite:2015.06:*:*:*:*:*:*:*,Chyrp Lite 2015.06,[''],2022-03-19T17:39Z
+9,cpe:2.3:a:chyrplite:chyrp_lite:2015.07:*:*:*:*:*:*:*,Chyrp Lite 2015.07,[''],2022-03-19T17:39Z

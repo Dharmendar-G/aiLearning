@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:n4l18c:-:*:*:*:*:*:*:*,HP N4L18C,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T15:22Z
+1,cpe:2.3:o:hp:n4l18c_firmware:1826a:*:*:*:*:*:*:*,HP N4L18C Firmware 1826A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T15:22Z
+2,cpe:2.3:h:hp:n9m07a:-:*:*:*:*:*:*:*,HP N9M07A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T15:22Z
+3,cpe:2.3:o:hp:n9m07a_firmware:1829a:*:*:*:*:*:*:*,HP N9M07A Firmware 1829A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T15:22Z
+4,cpe:2.3:a:hp:nagios-plugins-hpilo:1.50:*:*:*:*:*:*:*,HP nagios-plugins-hpilo 1.50,['CVE-2020-7206'],2022-03-21T15:22Z
+5,cpe:2.3:h:hp:nano110-14ikb:-:*:*:*:*:*:*:*,HP Nano110-14IKB,['CVE-2018-9069'],2022-03-21T15:22Z
+6,cpe:2.3:o:hp:nano110-14ikb_firmware:-:*:*:*:*:*:*:*,HP Nano110-14IKB Firmware,['CVE-2018-9069'],2022-03-21T15:22Z
+7,cpe:2.3:h:hp:nano110-15ikb:-:*:*:*:*:*:*:*,HP Nano110-15IKB,['CVE-2018-9069'],2022-03-21T15:22Z
+8,cpe:2.3:o:hp:nano110-15ikb_firmware:-:*:*:*:*:*:*:*,HP Nano110-15IKB Firmware,['CVE-2018-9069'],2022-03-21T15:22Z
+9,cpe:2.3:o:hp:nano110-15ikb_firmware:5xcn24ww:*:*:*:*:*:*:*,HP Nano110-15IKB Firmware 5XCN24WW,[''],2022-03-21T15:22Z

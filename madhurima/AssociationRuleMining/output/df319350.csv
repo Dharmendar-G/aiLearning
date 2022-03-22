@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:alm_synchronizer:1.30:*:*:*:*:*:*:*,HP ALM Synchronizer 1.30,['CVE-2013-4836'],2022-03-21T12:54Z
+1,cpe:2.3:a:hp:alm_synchronizer:1.40:*:*:*:*:*:*:*,HP ALM Synchronizer 1.40,['CVE-2013-4836'],2022-03-21T12:54Z
+2,cpe:2.3:a:hp:alm_synchronizer:1.41:*:*:*:*:*:*:*,HP ALM Synchronizer 1.41,['CVE-2013-4836'],2022-03-21T12:54Z
+3,cpe:2.3:a:hp:alm-platform_loader:11.0.4504.0:*:*:*:*:*:*:*,HP Alm-platform Loader 11.0.4504.0,[''],2022-03-21T12:54Z
+4,cpe:2.3:a:hp:alm-platform_loader:11.0.4804.0:*:*:*:*:*:*:*,HP Alm-platform Loader 11.0.4804.0,[''],2022-03-21T12:54Z
+5,cpe:2.3:a:hp:alm-platform_loader:11.0.5154.0:*:*:*:*:*:*:*,HP Alm-platform Loader 11.0.5154.0,[''],2022-03-21T12:54Z
+6,cpe:2.3:a:hp:alm-platform_loader:11.0.5373.0:*:*:*:*:*:*:*,HP Alm-platform Loader 11.0.5373.0,[''],2022-03-21T12:54Z
+7,cpe:2.3:a:hp:alm-platform_loader:11.0.5844.0:*:*:*:*:*:*:*,HP Alm-platform Loader 11.0.5844.0,[''],2022-03-21T12:54Z
+8,cpe:2.3:h:hp:alphaserver_sc:-:*:*:*:*:*:*:*,HP AlphaServer SC,['CVE-2002-1337'],2022-03-21T12:54Z
+9,cpe:2.3:h:hp:apache-based_web_server:-:*:*:*:*:*:*:*,HP Apache-Based Web Server,[''],2022-03-21T12:54Z

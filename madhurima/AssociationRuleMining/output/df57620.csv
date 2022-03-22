@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:jira_service_desk:4.5.2:*:*:*:server:*:*:*,Atlassian Jira Service Desk 4.5.2 Server Edition,"['CVE-2020-14166', 'CVE-2021-39115']",2022-03-19T01:49Z
+1,cpe:2.3:a:atlassian:jira_service_desk:4.5.3:*:*:*:data_center:*:*:*,Atlassian Jira Service Desk 4.5.3 Data Center Edition,"['CVE-2020-14166', 'CVE-2020-14180', 'CVE-2021-39115']",2022-03-19T01:49Z
+2,cpe:2.3:a:atlassian:jira_service_desk:4.5.3:*:*:*:server:*:*:*,Atlassian Jira Service Desk 4.5.3 Server Edition,"['CVE-2020-14166', 'CVE-2021-39115']",2022-03-19T01:49Z
+3,cpe:2.3:a:atlassian:jira_service_desk:4.5.4:*:*:*:data_center:*:*:*,Atlassian Jira Service Desk 4.5.4 Data Center Edition,"['CVE-2020-14166', 'CVE-2020-14180', 'CVE-2021-39115']",2022-03-19T01:49Z
+4,cpe:2.3:a:atlassian:jira_service_desk:4.5.4:*:*:*:server:*:*:*,Atlassian Jira Service Desk 4.5.4 Server Edition,"['CVE-2020-14166', 'CVE-2021-39115']",2022-03-19T01:49Z
+5,cpe:2.3:a:atlassian:jira_service_desk:4.5.5:*:*:*:data_center:*:*:*,Atlassian Jira Service Desk 4.5.5 Data Center Edition,"['CVE-2020-14166', 'CVE-2020-14180', 'CVE-2021-39115']",2022-03-19T01:49Z
+6,cpe:2.3:a:atlassian:jira_service_desk:4.5.5:*:*:*:server:*:*:*,Atlassian Jira Service Desk 4.5.5 Server Edition,"['CVE-2020-14166', 'CVE-2021-39115']",2022-03-19T01:49Z
+7,cpe:2.3:a:atlassian:jira_service_desk:4.5.6:*:*:*:data_center:*:*:*,Atlassian Jira Service Desk 4.5.6 Data Center Edition,"['CVE-2020-14166', 'CVE-2020-14180', 'CVE-2021-39115']",2022-03-19T01:49Z
+8,cpe:2.3:a:atlassian:jira_service_desk:4.5.6:*:*:*:server:*:*:*,Atlassian Jira Service Desk 4.5.6 Server Edition,"['CVE-2020-14166', 'CVE-2021-39115']",2022-03-19T01:49Z
+9,cpe:2.3:a:atlassian:jira_service_desk:4.5.7:*:*:*:data_center:*:*:*,Atlassian Jira Service Desk 4.5.7 Data Center Edition,"['CVE-2020-14166', 'CVE-2020-14180', 'CVE-2021-39115']",2022-03-19T01:49Z

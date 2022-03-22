@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bytecodealliance:cranelift-codegen:0.61.0:*:*:*:*:rust:*:*,Bytecode Alliance cranelift-codegen 0.61.0 for Rust,['CVE-2021-32629'],2022-03-19T13:53Z
+1,cpe:2.3:a:bytecodealliance:cranelift-codegen:0.62.0:*:*:*:*:rust:*:*,Bytecode Alliance cranelift-codegen 0.62.0 for Rust,['CVE-2021-32629'],2022-03-19T13:53Z
+2,cpe:2.3:a:bytecodealliance:cranelift-codegen:0.63.0:*:*:*:*:rust:*:*,Bytecode Alliance cranelift-codegen 0.63.0 for Rust,['CVE-2021-32629'],2022-03-19T13:53Z
+3,cpe:2.3:a:bytecodealliance:cranelift-codegen:0.64.0:*:*:*:*:rust:*:*,Bytecode Alliance cranelift-codegen 0.64.0 for Rust,['CVE-2021-32629'],2022-03-19T13:53Z
+4,cpe:2.3:a:bytecodealliance:cranelift-codegen:0.65.0:*:*:*:*:rust:*:*,Bytecode Alliance cranelift-codegen 0.65.0 for Rust,['CVE-2021-32629'],2022-03-19T13:53Z
+5,cpe:2.3:a:bytecodealliance:cranelift-codegen:0.66.0:*:*:*:*:rust:*:*,Bytecode Alliance cranelift-codegen 0.66.0 for Rust,['CVE-2021-32629'],2022-03-19T13:53Z
+6,cpe:2.3:a:bytecodealliance:cranelift-codegen:0.67.0:*:*:*:*:rust:*:*,Bytecode Alliance cranelift-codegen 0.67.0 for Rust,['CVE-2021-32629'],2022-03-19T13:53Z
+7,cpe:2.3:a:bytecodealliance:cranelift-codegen:0.68.0:*:*:*:*:rust:*:*,Bytecode Alliance cranelift-codegen 0.68.0 for Rust,['CVE-2021-32629'],2022-03-19T13:53Z
+8,cpe:2.3:a:bytecodealliance:cranelift-codegen:0.69.0:*:*:*:*:rust:*:*,Bytecode Alliance cranelift-codegen 0.69.0 for Rust,['CVE-2021-32629'],2022-03-19T13:53Z
+9,cpe:2.3:a:bytecodealliance:cranelift-codegen:0.70.0:*:*:*:*:rust:*:*,Bytecode Alliance cranelift-codegen 0.70.0 for Rust,['CVE-2021-32629'],2022-03-19T13:53Z

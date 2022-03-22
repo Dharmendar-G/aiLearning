@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dnt:im-metadata:0.4.1:*:*:*:*:node.js:*:*,Den Norske Turistforening im-metadata 0.4.1 for Node.js,['CVE-2019-10788'],2022-03-20T16:14Z
+1,cpe:2.3:a:dnt:im-metadata:0.4.2:*:*:*:*:node.js:*:*,Den Norske Turistforening im-metadata 0.4.2 for Node.js,['CVE-2019-10788'],2022-03-20T16:14Z
+2,cpe:2.3:a:dnt:im-metadata:0.5.0:*:*:*:*:node.js:*:*,Den Norske Turistforening im-metadata 0.5.0 for Node.js,['CVE-2019-10788'],2022-03-20T16:14Z
+3,cpe:2.3:a:dnt:im-metadata:0.5.1:*:*:*:*:node.js:*:*,Den Norske Turistforening im-metadata 0.5.1 for Node.js,['CVE-2019-10788'],2022-03-20T16:14Z
+4,cpe:2.3:a:dnt:im-metadata:0.6.0:*:*:*:*:node.js:*:*,Den Norske Turistforening im-metadata 0.6.0 for Node.js,['CVE-2019-10788'],2022-03-20T16:14Z
+5,cpe:2.3:a:dnt:im-metadata:0.7.0:*:*:*:*:node.js:*:*,Den Norske Turistforening im-metadata 0.7.0 for Node.js,['CVE-2019-10788'],2022-03-20T16:14Z
+6,cpe:2.3:a:dnt:im-metadata:0.8.0:*:*:*:*:node.js:*:*,Den Norske Turistforening im-metadata 0.8.0 for Node.js,['CVE-2019-10788'],2022-03-20T16:14Z
+7,cpe:2.3:a:dnt:im-metadata:0.8.1:*:*:*:*:node.js:*:*,Den Norske Turistforening im-metadata 0.8.1 for Node.js,['CVE-2019-10788'],2022-03-20T16:14Z
+8,cpe:2.3:a:dnt:im-metadata:0.8.2:*:*:*:*:node.js:*:*,Den Norske Turistforening im-metadata 0.8.2 for Node.js,['CVE-2019-10788'],2022-03-20T16:14Z
+9,cpe:2.3:a:dnt:im-metadata:0.9.0:*:*:*:*:node.js:*:*,Den Norske Turistforening im-metadata 0.9.0 for Node.js,['CVE-2019-10788'],2022-03-20T16:14Z

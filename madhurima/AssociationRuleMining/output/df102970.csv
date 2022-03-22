@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cantemo:portal:1.6.1:*:*:*:*:*:*:*,Cantemo Portal 1.6.1,['CVE-2019-7551'],2022-03-19T15:29Z
+1,cpe:2.3:a:cantemo:portal:1.6.2:*:*:*:*:*:*:*,Cantemo Portal 1.6.2,['CVE-2019-7551'],2022-03-19T15:29Z
+2,cpe:2.3:a:cantemo:portal:1.6.3:*:*:*:*:*:*:*,Cantemo Portal 1.6.3,['CVE-2019-7551'],2022-03-19T15:29Z
+3,cpe:2.3:a:cantemo:portal:1.6.4:*:*:*:*:*:*:*,Cantemo Portal 1.6.4,['CVE-2019-7551'],2022-03-19T15:29Z
+4,cpe:2.3:a:cantemo:portal:1.6.5:*:*:*:*:*:*:*,Cantemo Portal 1.6.5,['CVE-2019-7551'],2022-03-19T15:29Z
+5,cpe:2.3:a:cantemo:portal:1.6.6:*:*:*:*:*:*:*,Cantemo Portal 1.6.6,['CVE-2019-7551'],2022-03-19T15:29Z
+6,cpe:2.3:a:cantemo:portal:2.0.0:*:*:*:*:*:*:*,Cantemo Portal 2.0.0,['CVE-2019-7551'],2022-03-19T15:29Z
+7,cpe:2.3:a:cantemo:portal:2.0.1:*:*:*:*:*:*:*,Cantemo Portal 2.0.1,['CVE-2019-7551'],2022-03-19T15:29Z
+8,cpe:2.3:a:cantemo:portal:2.0.2:*:*:*:*:*:*:*,Cantemo Portal 2.0.2,['CVE-2019-7551'],2022-03-19T15:29Z
+9,cpe:2.3:a:cantemo:portal:2.0.3:*:*:*:*:*:*:*,Cantemo Portal 2.0.3,['CVE-2019-7551'],2022-03-19T15:29Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:firewall_services_module_software:4.1\(14\):*:*:*:*:*:*:*,Cisco Firewall Services Module Software (FWSM) 4.1(14),['CVE-2014-0710'],2022-03-19T19:54Z
+1,cpe:2.3:a:cisco:firewall_services_module_software:4.1\(15\):*:*:*:*:*:*:*,Cisco Firewall Services Module Software (FWSM) 4.1(15),[''],2022-03-19T19:54Z
+2,cpe:2.3:o:cisco:fmc1000-k9_bios:4.0.1f.0:*:*:*:*:*:*:*,Cisco FMC1000-K9 Bios 4.0.1f.0,[''],2022-03-19T19:54Z
+3,cpe:2.3:o:cisco:fmc1000-k9_firmware:4.0.2h:*:*:*:*:*:*:*,Cisco FMC1000-K9 Firmware 4.0.2h,[''],2022-03-19T19:54Z
+4,cpe:2.3:o:cisco:fmc2500-k9_bios:4.0.1f.0:*:*:*:*:*:*:*,Cisco FMC2500-K9 Bios 4.0.1f.0,[''],2022-03-19T19:54Z
+5,cpe:2.3:o:cisco:fmc2500-k9_firmware:4.0.2h:*:*:*:*:*:*:*,Cisco FMC2500-K9 Firmware 4.0.2h,[''],2022-03-19T19:54Z
+6,cpe:2.3:o:cisco:fmc4500-k9_bios:4.0.1f.0:*:*:*:*:*:*:*,Cisco FMC4500-K9 Bios 4.0.1f.0,[''],2022-03-19T19:54Z
+7,cpe:2.3:o:cisco:fmc4500-k9_firmware:4.0.2h:*:*:*:*:*:*:*,Cisco FMC4500-K9 Firmware 4.0.2h,[''],2022-03-19T19:54Z
+8,cpe:2.3:a:cisco:fog_director:-:*:*:*:*:*:*:*,Cisco Fog Director,['CVE-2021-44228'],2022-03-19T19:54Z
+9,cpe:2.3:a:cisco:fog_director:1.0\(0\):*:*:*:*:*:*:*,Cisco Fog Director 1.0(0),['CVE-2016-6405'],2022-03-19T19:54Z

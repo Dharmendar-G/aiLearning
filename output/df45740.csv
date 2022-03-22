@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arco_van_geest:goof_fotoboek:1.7.15:*:*:*:*:*:*:*,Photo Book extension 1.7.15,[''],2022-03-18T22:52Z
+1,cpe:2.3:a:arcserve:d2d:16.5:*:*:*:*:*:*:*,Arcserve D2D 16.5,['CVE-2020-27858'],2022-03-18T22:52Z
+2,cpe:2.3:a:arcserve:udp:5.0:-:*:*:*:*:*:*,Arcserve UDP 5.0,['CVE-2018-18660'],2022-03-18T22:52Z
+3,cpe:2.3:a:arcserve:udp:5.0:update_4:*:*:*:*:*:*,Arcserve UDP 5.0 Update 4,['CVE-2018-18660'],2022-03-18T22:52Z
+4,cpe:2.3:a:arcserve:udp:6.0:-:*:*:*:*:*:*,Arcserve UDP 6.0,"['CVE-2018-18657', 'CVE-2018-18658', 'CVE-2018-18659', 'CVE-2018-18660']",2022-03-18T22:52Z
+5,cpe:2.3:a:arcserve:udp:6.0:update_3:*:*:*:*:*:*,Arcserve UDP 6.0 Update 3,"['CVE-2018-18657', 'CVE-2018-18658', 'CVE-2018-18659', 'CVE-2018-18660']",2022-03-18T22:52Z
+6,cpe:2.3:a:arcserve:udp:6.5:-:*:*:*:*:*:*,Arcserve UDP 6.5,"['CVE-2018-18657', 'CVE-2018-18658', 'CVE-2018-18659', 'CVE-2018-18660']",2022-03-18T22:52Z
+7,cpe:2.3:a:arcserve:udp:6.5:update_1:*:*:*:*:*:*,Arcserve UDP 6.5 Update 1,"['CVE-2018-18657', 'CVE-2018-18658', 'CVE-2018-18659', 'CVE-2018-18660']",2022-03-18T22:53Z
+8,cpe:2.3:a:arcserve:udp:6.5:update_2:*:*:*:*:*:*,Arcserve UDP 6.5 Update 2,"['CVE-2018-18657', 'CVE-2018-18658', 'CVE-2018-18659', 'CVE-2018-18660']",2022-03-18T22:53Z
+9,cpe:2.3:a:arcserve:udp:6.5:update_3:*:*:*:*:*:*,Arcserve UDP 6.5 Update 3,"['CVE-2018-18657', 'CVE-2018-18658', 'CVE-2018-18659', 'CVE-2018-18660']",2022-03-18T22:52Z

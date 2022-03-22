@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:roller:5.2.0:rc2:*:*:*:*:*:*,Apache Roller 5.2.0 Release Candidate 2,"['CVE-2018-17198', 'CVE-2019-0234', 'CVE-2021-33580']",2022-03-18T19:58Z
+1,cpe:2.3:a:apache:roller:5.2.0:rc3:*:*:*:*:*:*,Apache Roller 5.2.0 Release Candidate 3,"['CVE-2018-17198', 'CVE-2019-0234', 'CVE-2021-33580']",2022-03-18T19:58Z
+2,cpe:2.3:a:apache:roller:5.2.0:rc4:*:*:*:*:*:*,Apache Roller 5.2.0 Release Candidate 4,"['CVE-2018-17198', 'CVE-2019-0234', 'CVE-2021-33580']",2022-03-18T19:58Z
+3,cpe:2.3:a:apache:roller:5.2.0:rc5:*:*:*:*:*:*,Apache Roller 5.2.0 Release Candidate 5,"['CVE-2018-17198', 'CVE-2019-0234', 'CVE-2021-33580']",2022-03-18T19:58Z
+4,cpe:2.3:a:apache:roller:5.2.0:rc6:*:*:*:*:*:*,Apache Roller 5.2.0 Release Candidate 6,"['CVE-2018-17198', 'CVE-2019-0234', 'CVE-2021-33580']",2022-03-18T19:58Z
+5,cpe:2.3:a:apache:roller:5.2.1:-:*:*:*:*:*:*,Apache Roller 5.2.1,"['CVE-2018-17198', 'CVE-2019-0234', 'CVE-2021-33580']",2022-03-18T19:58Z
+6,cpe:2.3:a:apache:roller:5.2.1:rc2:*:*:*:*:*:*,Apache Roller 5.2.1 Release Candidate 2,"['CVE-2018-17198', 'CVE-2019-0234', 'CVE-2021-33580']",2022-03-18T19:58Z
+7,cpe:2.3:a:apache:roller:5.2.2:-:*:*:*:*:*:*,Apache Roller 5.2.2,"['CVE-2019-0234', 'CVE-2021-33580']",2022-03-18T19:58Z
+8,cpe:2.3:a:apache:roller:5.2.3:rc3:*:*:*:*:*:*,Apache Software Foundation Roller 5.2.3 Release Candidate 3,['CVE-2021-33580'],2022-03-18T19:58Z
+9,cpe:2.3:a:apache:roller:5.2.4:rc1:*:*:*:*:*:*,Apache Software Foundation Roller 5.2.4 Release Candidate 1,['CVE-2021-33580'],2022-03-18T19:58Z

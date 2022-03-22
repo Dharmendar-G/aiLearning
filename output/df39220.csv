@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apereo:central_authentication_service:5.3.5:*:*:*:*:*:*:*,Apereo Central Authentication Service (CAS) 5.3.5,"['CVE-2019-10754', 'CVE-2020-27178']",2022-03-18T21:10Z
+1,cpe:2.3:a:apereo:central_authentication_service:5.3.6:*:*:*:*:*:*:*,Apereo Central Authentication Service (CAS) 5.3.6,"['CVE-2019-10754', 'CVE-2020-27178']",2022-03-18T21:10Z
+2,cpe:2.3:a:apereo:central_authentication_service:5.3.7:*:*:*:*:*:*:*,Apereo Central Authentication Service (CAS) 5.3.7,"['CVE-2019-10754', 'CVE-2020-27178']",2022-03-18T21:10Z
+3,cpe:2.3:a:apereo:central_authentication_service:5.3.8:*:*:*:*:*:*:*,Apereo Central Authentication Service (CAS) 5.3.8,"['CVE-2019-10754', 'CVE-2020-27178']",2022-03-18T21:10Z
+4,cpe:2.3:a:apereo:central_authentication_service:5.3.9:*:*:*:*:*:*:*,Apereo Central Authentication Service (CAS) 5.3.9,"['CVE-2019-10754', 'CVE-2020-27178']",2022-03-18T21:10Z
+5,cpe:2.3:a:apereo:central_authentication_service:5.3.10:*:*:*:*:*:*:*,Apereo Central Authentication Service (CAS) 5.3.10,"['CVE-2019-10754', 'CVE-2020-27178']",2022-03-18T21:10Z
+6,cpe:2.3:a:apereo:central_authentication_service:5.3.11:*:*:*:*:*:*:*,Apereo Central Authentication Service (CAS) 5.3.11,"['CVE-2019-10754', 'CVE-2020-27178']",2022-03-18T21:10Z
+7,cpe:2.3:a:apereo:central_authentication_service:5.3.12:*:*:*:*:*:*:*,Apereo Central Authentication Service (CAS) 5.3.12,"['CVE-2019-10754', 'CVE-2020-27178']",2022-03-18T21:10Z
+8,cpe:2.3:a:apereo:central_authentication_service:5.3.12.1:*:*:*:*:*:*:*,Apereo Central Authentication Service (CAS) 5.3.12.1,"['CVE-2019-10754', 'CVE-2020-27178']",2022-03-18T21:10Z
+9,cpe:2.3:a:apereo:central_authentication_service:5.3.14:*:*:*:*:*:*:*,Apereo Central Authentication Service (CAS) 5.3.14,"['CVE-2019-10754', 'CVE-2020-27178']",2022-03-18T21:10Z

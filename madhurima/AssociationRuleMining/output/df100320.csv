@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:calamares:calamares:3.2.4:*:*:*:*:*:*:*,Calamares 3.2.4,"['CVE-2019-13178', 'CVE-2019-13179']",2022-03-19T14:49Z
+1,cpe:2.3:a:calamares:calamares:3.2.5:*:*:*:*:*:*:*,Calamares 3.2.5,"['CVE-2019-13178', 'CVE-2019-13179']",2022-03-19T14:49Z
+2,cpe:2.3:a:calamares:calamares:3.2.6:*:*:*:*:*:*:*,Calamares 3.2.6,"['CVE-2019-13178', 'CVE-2019-13179']",2022-03-19T14:49Z
+3,cpe:2.3:a:calamares:calamares:3.2.7:*:*:*:*:*:*:*,Calamares 3.2.7,"['CVE-2019-13178', 'CVE-2019-13179']",2022-03-19T14:49Z
+4,cpe:2.3:a:calamares:calamares:3.2.8:*:*:*:*:*:*:*,Calamares 3.2.8,"['CVE-2019-13178', 'CVE-2019-13179']",2022-03-19T14:49Z
+5,cpe:2.3:a:calamares:calamares:3.2.9:*:*:*:*:*:*:*,Calamares 3.2.9,"['CVE-2019-13178', 'CVE-2019-13179']",2022-03-19T14:49Z
+6,cpe:2.3:a:calamares:calamares:3.2.10:*:*:*:*:*:*:*,Calamares 3.2.10,"['CVE-2019-13178', 'CVE-2019-13179']",2022-03-19T14:49Z
+7,cpe:2.3:a:calamine_project:calamine:-:*:*:*:*:rust:*:*,Calamine Project Calamine for Rust,['CVE-2021-26951'],2022-03-19T14:49Z
+8,cpe:2.3:a:calamine_project:calamine:0.13.1:*:*:*:*:rust:*:*,Calamine Project Calamine 0.13.1 for Rust,['CVE-2021-26951'],2022-03-19T14:49Z
+9,cpe:2.3:a:calamine_project:calamine:0.14:*:*:*:*:rust:*:*,Calamine Project Calamine 0.14 for Rust,['CVE-2021-26951'],2022-03-19T14:49Z

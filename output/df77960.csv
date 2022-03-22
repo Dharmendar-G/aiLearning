@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitmap_project:bitmap:2019-07-17:*:*:*:*:*:*:*,Bitmap Project Bitmap 2019-07-17,[''],2022-03-19T08:08Z
+1,cpe:2.3:a:bitmap_project:bitmap:2019-07-20:*:*:*:*:*:*:*,Bitmap Project Bitmap 2019-07-20,[''],2022-03-19T08:08Z
+2,cpe:2.3:a:bitmap_project:bitmap:2019-07-21:*:*:*:*:*:*:*,Bitmap Project Bitmap 2019-07-21,[''],2022-03-19T08:08Z
+3,cpe:2.3:a:bitmaxertoken_project:bitmaxertoken:-:*:*:*:*:*:*:*,BitmaxerToken Project BitmaxerToken,['CVE-2018-13650'],2022-03-19T08:08Z
+4,cpe:2.3:a:bitmessage:pybitmessage:0.3.5:*:*:*:*:*:*:*,Bitmessage PyBitmessage 0.3.5,['CVE-2021-26917'],2022-03-19T08:08Z
+5,cpe:2.3:a:bitmessage:pybitmessage:0.4.0:*:*:*:*:*:*:*,Bitmessage PyBitmessage 0.4.0,['CVE-2021-26917'],2022-03-19T08:08Z
+6,cpe:2.3:a:bitmessage:pybitmessage:0.4.1:*:*:*:*:*:*:*,Bitmessage PyBitmessage 0.4.1,['CVE-2021-26917'],2022-03-19T08:08Z
+7,cpe:2.3:a:bitmessage:pybitmessage:0.4.2:*:*:*:*:*:*:*,Bitmessage PyBitmessage 0.4.2,['CVE-2021-26917'],2022-03-19T08:08Z
+8,cpe:2.3:a:bitmessage:pybitmessage:0.4.3:*:*:*:*:*:*:*,Bitmessage PyBitmessage 0.4.3,['CVE-2021-26917'],2022-03-19T08:08Z
+9,cpe:2.3:a:bitmessage:pybitmessage:0.4.4:*:*:*:*:*:*:*,Bitmessage PyBitmessage 0.4.4,['CVE-2021-26917'],2022-03-19T08:08Z

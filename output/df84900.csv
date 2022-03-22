@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:booster:booster_for_woocommerce:3.4.4:*:*:*:*:wordpress:*:*,Booster for WooCommerce 3.4.4 for WordPress,"['CVE-2018-20966', 'CVE-2021-24999', 'CVE-2021-25000', 'CVE-2021-25001', 'CVE-2021-34646']",2022-03-19T09:48Z
+1,cpe:2.3:a:booster:booster_for_woocommerce:3.4.5:*:*:*:*:wordpress:*:*,Booster for WooCommerce 3.4.5 for WordPress,"['CVE-2018-20966', 'CVE-2021-24999', 'CVE-2021-25000', 'CVE-2021-25001', 'CVE-2021-34646']",2022-03-19T09:48Z
+2,cpe:2.3:a:booster:booster_for_woocommerce:3.5.0:*:*:*:*:wordpress:*:*,Booster for WooCommerce 3.5.0 for WordPress,"['CVE-2018-20966', 'CVE-2021-24999', 'CVE-2021-25000', 'CVE-2021-25001', 'CVE-2021-34646']",2022-03-19T09:48Z
+3,cpe:2.3:a:booster:booster_for_woocommerce:3.5.1:*:*:*:*:wordpress:*:*,Booster for WooCommerce 3.5.1 for WordPress,"['CVE-2018-20966', 'CVE-2021-24999', 'CVE-2021-25000', 'CVE-2021-25001', 'CVE-2021-34646']",2022-03-19T09:48Z
+4,cpe:2.3:a:booster:booster_for_woocommerce:3.5.2:*:*:*:*:wordpress:*:*,Booster for WooCommerce 3.5.2 for WordPress,"['CVE-2018-20966', 'CVE-2021-24999', 'CVE-2021-25000', 'CVE-2021-25001', 'CVE-2021-34646']",2022-03-19T09:48Z
+5,cpe:2.3:a:booster:booster_for_woocommerce:3.5.3:*:*:*:*:wordpress:*:*,Booster for WooCommerce 3.5.3 for WordPress,"['CVE-2018-20966', 'CVE-2021-24999', 'CVE-2021-25000', 'CVE-2021-25001', 'CVE-2021-34646']",2022-03-19T09:48Z
+6,cpe:2.3:a:booster:booster_for_woocommerce:3.6.0:*:*:*:*:wordpress:*:*,Booster for WooCommerce 3.6.0 for WordPress,"['CVE-2018-20966', 'CVE-2021-24999', 'CVE-2021-25000', 'CVE-2021-25001', 'CVE-2021-34646']",2022-03-19T09:48Z
+7,cpe:2.3:a:booster:booster_for_woocommerce:3.6.1:*:*:*:*:wordpress:*:*,Booster for WooCommerce 3.6.1 for WordPress,"['CVE-2018-20966', 'CVE-2021-24999', 'CVE-2021-25000', 'CVE-2021-25001', 'CVE-2021-34646']",2022-03-19T09:48Z
+8,cpe:2.3:a:booster:booster_for_woocommerce:3.7.0:*:*:*:*:wordpress:*:*,Booster for WooCommerce 3.7.0 for WordPress,"['CVE-2018-20966', 'CVE-2021-24999', 'CVE-2021-25000', 'CVE-2021-25001', 'CVE-2021-34646']",2022-03-19T09:48Z
+9,cpe:2.3:a:booster:booster_for_woocommerce:3.8.0:*:*:*:*:wordpress:*:*,Booster for WooCommerce 3.8.0 for WordPress,"['CVE-2021-24999', 'CVE-2021-25000', 'CVE-2021-25001', 'CVE-2021-34646']",2022-03-19T09:48Z

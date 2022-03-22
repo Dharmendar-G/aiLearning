@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:j9v87a_firmware:1828a:*:*:*:*:*:*:*,HP J9V87A Firmware 1828A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:46Z
+1,cpe:2.3:a:hp:java_jre-jdk:-:*:*:*:*:*:*:*,HP Java JRE_JDK,[''],2022-03-21T13:46Z
+2,cpe:2.3:h:hp:jc054a:-:*:*:*:*:*:*:*,HP JC054A,['CVE-2012-3268'],2022-03-21T13:46Z
+3,cpe:2.3:h:hp:jc055a:-:*:*:*:*:*:*:*,HP JC055A,['CVE-2012-3268'],2022-03-21T13:46Z
+4,cpe:2.3:h:hp:jc056a:-:*:*:*:*:*:*:*,HP JC056A,['CVE-2012-3268'],2022-03-21T13:46Z
+5,cpe:2.3:h:hp:jc072b:-:*:*:*:*:*:*:*,HP JF431A HP A12508 Switch Chassis,[''],2022-03-21T13:46Z
+6,cpe:2.3:h:hp:jc072b_hp_12500_main_processing_unit:-:*:*:*:*:*:*:*,HP JC072B HP 12500 Main Processing Unit,['CVE-2015-5434'],2022-03-21T13:46Z
+7,cpe:2.3:h:hp:jc085a:-:*:*:*:*:*:*:*,HP JC085A,['CVE-2012-3268'],2022-03-21T13:46Z
+8,cpe:2.3:a:hp:jc085a:-:*:*:*:*:*:*:*,HP JG787A HP FlexFabric 12500 4-port 100Gbe Cfp FD TAA-compliant Module,[''],2022-03-21T13:46Z
+9,cpe:2.3:h:hp:jc085a_hp_a12518_switch_chassis:-:*:*:*:*:*:*:*,HP JC085A HP A12518 Switch Chassis,['CVE-2015-5434'],2022-03-21T13:46Z

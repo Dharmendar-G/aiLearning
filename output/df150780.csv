@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:code42:code42:7.0.3:*:*:*:enterprise:*:*:*,Code42 Code42 7.0.3 Enterprise Edition,"['CVE-2020-12736', 'CVE-2021-43269']",2022-03-20T04:50Z
+1,cpe:2.3:a:code42:code42:7.0.4:*:*:*:enterprise:*:*:*,Code42 Code42 7.0.4 Enterprise Edition,"['CVE-2020-12736', 'CVE-2021-43269']",2022-03-20T04:50Z
+2,cpe:2.3:a:code42:code42:7.0.5:*:*:*:enterprise:*:*:*,Code42 Code42 7.0.5 Enterprise Edition,['CVE-2021-43269'],2022-03-20T04:50Z
+3,cpe:2.3:a:code42:code42_for_enterprise:3.1:*:*:*:*:*:*:*,Code42 For Enterprise 3.1,['CVE-2019-11551'],2022-03-20T04:50Z
+4,cpe:2.3:a:code42:code42_for_enterprise:3.2:*:*:*:*:*:*:*,Code42 For Enterprise 3.2,['CVE-2019-11551'],2022-03-20T04:50Z
+5,cpe:2.3:a:code42:code42_for_enterprise:3.3:*:*:*:*:*:*:*,Code42 For Enterprise 3.3,['CVE-2019-11551'],2022-03-20T04:50Z
+6,cpe:2.3:a:code42:code42_for_enterprise:3.4.1:*:*:*:*:*:*:*,Code42 For Enterprise 3.4.1,['CVE-2019-11551'],2022-03-20T04:50Z
+7,cpe:2.3:a:code42:code42_for_enterprise:3.5:*:*:*:*:*:*:*,Code42 For Enterprise 3.5,['CVE-2019-11551'],2022-03-20T04:50Z
+8,cpe:2.3:a:code42:code42_for_enterprise:3.5.2:*:*:*:*:*:*:*,Code42 For Enterprise 3.5.2,['CVE-2019-11551'],2022-03-20T04:50Z
+9,cpe:2.3:a:code42:code42_for_enterprise:3.5.3:*:*:*:*:*:*:*,Code42 For Enterprise 3.5.3,['CVE-2019-11551'],2022-03-20T04:50Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:vostro_7580_firmware:-:*:*:*:*:*:*:*,Dell Vostro 7580 Firmware,"['CVE-2019-3717', 'CVE-2020-5326']",2022-03-20T13:13Z
+1,cpe:2.3:o:dell:vostro_7580_firmware:1.10.0:*:*:*:*:*:*:*,Dell Vostro 7580 Firmware 1.10.0,['CVE-2020-5326'],2022-03-20T13:13Z
+2,cpe:2.3:o:dell:vostro_7580_firmware:1.11.1:*:*:*:*:*:*:*,Dell Vostro 7580 Firmware 1.11.1,[''],2022-03-20T13:13Z
+3,cpe:2.3:h:dell:vostro_7590:-:*:*:*:*:*:*:*,Dell Vostro 7590,"['CVE-2020-5324', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36283', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T13:13Z
+4,cpe:2.3:o:dell:vostro_7590_firmware:-:*:*:*:*:*:*:*,Dell Vostro 7590 Firmware,"['CVE-2020-5324', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36283', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T13:13Z
+5,cpe:2.3:o:dell:vostro_7590_firmware:1.1.1:*:*:*:*:*:*:*,Dell Vostro 7590 Firmware 1.1.1,"['CVE-2020-5324', 'CVE-2020-5362', 'CVE-2021-36283', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T13:13Z
+6,cpe:2.3:o:dell:vostro_7590_firmware:1.5.1:*:*:*:*:*:*:*,Dell Vostro 7590 Firmware 1.5.1,"['CVE-2020-5362', 'CVE-2021-36283', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T13:13Z
+7,cpe:2.3:h:dell:vxrail_d560:-:*:*:*:*:*:*:*,Dell VxRail D560,['CVE-2020-5368'],2022-03-20T13:13Z
+8,cpe:2.3:o:dell:vxrail_d560_firmware:4.7.410:*:*:*:*:*:*:*,Dell VxRail D560 Firmware 4.7.410,['CVE-2020-5368'],2022-03-20T13:13Z
+9,cpe:2.3:o:dell:vxrail_d560_firmware:4.7.411:*:*:*:*:*:*:*,Dell VxRail D560 Firmware 4.7.411,['CVE-2020-5368'],2022-03-20T13:13Z

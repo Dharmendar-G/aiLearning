@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:spectrum_control:5.2.9:*:*:*:*:*:*:*,IBM Spectrum Control 5.2.9,"['CVE-2016-5943', 'CVE-2016-5944', 'CVE-2016-5945', 'CVE-2016-5946', 'CVE-2016-5947', 'CVE-2016-8941', 'CVE-2016-8942', 'CVE-2016-8943', 'CVE-2019-4071', 'CVE-2019-4072']",2022-03-21T22:07Z
+1,cpe:2.3:a:ibm:spectrum_control:5.2.10:*:*:*:*:*:*:*,IBM Spectrum Control 5.2.10,"['CVE-2016-5943', 'CVE-2016-5944', 'CVE-2016-5945', 'CVE-2016-5946', 'CVE-2016-5947', 'CVE-2016-8941', 'CVE-2016-8942', 'CVE-2016-8943', 'CVE-2019-4071', 'CVE-2019-4072']",2022-03-21T22:07Z
+2,cpe:2.3:a:ibm:spectrum_control:5.2.10.1:*:*:*:*:*:*:*,IBM Spectrum Control 5.2.10.1,"['CVE-2016-5943', 'CVE-2016-5944', 'CVE-2016-5945', 'CVE-2016-5946', 'CVE-2016-5947', 'CVE-2019-4071', 'CVE-2019-4072']",2022-03-21T22:07Z
+3,cpe:2.3:a:ibm:spectrum_control:5.2.11:*:*:*:*:*:*:*,IBM Spectrum Control 5.2.11,"['CVE-2016-8941', 'CVE-2016-8942', 'CVE-2016-8943', 'CVE-2019-4071', 'CVE-2019-4072']",2022-03-21T22:07Z
+4,cpe:2.3:a:ibm:spectrum_control:5.2.12:*:*:*:*:*:*:*,IBM Spectrum Control 5.2.12,"['CVE-2019-4071', 'CVE-2019-4072']",2022-03-21T22:07Z
+5,cpe:2.3:a:ibm:spectrum_control:5.2.13:*:*:*:*:*:*:*,IBM Spectrum Control 5.2.13,"['CVE-2019-4071', 'CVE-2019-4072']",2022-03-21T22:07Z
+6,cpe:2.3:a:ibm:spectrum_control:5.2.13.0:*:*:*:*:*:*:*,IBM Spectrum Control 5.2.13.0,"['CVE-2019-4071', 'CVE-2019-4072', 'CVE-2019-4137', 'CVE-2019-4138']",2022-03-21T22:07Z
+7,cpe:2.3:a:ibm:spectrum_control:5.2.14:*:*:*:*:*:*:*,IBM Spectrum Control 5.2.14,"['CVE-2019-4071', 'CVE-2019-4072', 'CVE-2019-4137', 'CVE-2019-4138']",2022-03-21T22:07Z
+8,cpe:2.3:a:ibm:spectrum_control:5.2.14.0:*:*:*:*:*:*:*,IBM Spectrum Control 5.2.14.0,"['CVE-2019-4071', 'CVE-2019-4072', 'CVE-2019-4137', 'CVE-2019-4138']",2022-03-21T22:07Z
+9,cpe:2.3:a:ibm:spectrum_control:5.2.15:*:*:*:*:*:*:*,IBM Spectrum Control 5.2.15,"['CVE-2019-4071', 'CVE-2019-4072', 'CVE-2019-4137', 'CVE-2019-4138']",2022-03-21T22:07Z

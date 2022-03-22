@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:ca_performance_management:3.6.0:*:*:*:*:*:*:*,Broadcom CA Performance Management 3.6.0,['CVE-2019-13657'],2022-03-19T12:17Z
+1,cpe:2.3:a:broadcom:ca_performance_management:3.6.9:*:*:*:*:*:*:*,Broadcom CA Performance Management 3.6.9,[''],2022-03-19T12:17Z
+2,cpe:2.3:a:broadcom:ca_performance_management:3.7.0:*:*:*:*:*:*:*,Broadcom CA Performance Management 3.7.0,['CVE-2019-13657'],2022-03-19T12:17Z
+3,cpe:2.3:a:broadcom:ca_performance_management:3.7.4:*:*:*:*:*:*:*,Broadcom CA Performance Management 3.7.4,[''],2022-03-19T12:17Z
+4,cpe:2.3:a:broadcom:ca_privileged_access_manager:2.0:*:*:*:*:*:*:*,Broadcom Ca Privileged Access Manager 2.0,[''],2022-03-19T12:17Z
+5,cpe:2.3:a:broadcom:ca_service_catalog:17.2:*:*:*:*:*:*:*,Broadcom CA Service Catalog 17.2,['CVE-2020-29478'],2022-03-19T12:17Z
+6,cpe:2.3:a:broadcom:ca_service_catalog:17.3:*:*:*:*:*:*:*,Broadcom CA Service Catalog 17.3,['CVE-2020-29478'],2022-03-19T12:17Z
+7,cpe:2.3:a:broadcom:ca_spectrum:9.4.4:*:*:*:*:*:*:*,Broadcom CA Spectrum 9.4.4,[''],2022-03-19T12:17Z
+8,cpe:2.3:a:broadcom:ca_spectrum:10.0:*:*:*:*:*:*:*,Broadcom CA Spectrum 10.0,[''],2022-03-19T12:17Z
+9,cpe:2.3:a:broadcom:ca_spectrum:10.1:*:*:*:*:*:*:*,Broadcom CA Spectrum 10.1,[''],2022-03-19T12:17Z

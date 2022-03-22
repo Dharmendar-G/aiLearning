@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitachi:ucosminexus_application_server:06-70-\/e:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 06-70-/E Standard,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+1,cpe:2.3:a:hitachi:ucosminexus_application_server:06-70-\/f:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 06-70-/F Enterprise,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+2,cpe:2.3:a:hitachi:ucosminexus_application_server:06-70-\/f:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 06-70-/F Standard,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+3,cpe:2.3:a:hitachi:ucosminexus_application_server:06-70-\/g:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 06-70-/G Enterprise,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+4,cpe:2.3:a:hitachi:ucosminexus_application_server:06-70-\/g:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 06-70-/G Standard,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+5,cpe:2.3:a:hitachi:ucosminexus_application_server:06-70-\/h:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 06-70-/H Enterprise,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:22Z
+6,cpe:2.3:a:hitachi:ucosminexus_application_server:06-70-\/l:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 06-70-/L Enterprise,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+7,cpe:2.3:a:hitachi:ucosminexus_application_server:06-70-\/l:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 06-70-/L Standard,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+8,cpe:2.3:a:hitachi:ucosminexus_application_server:06-70-\/n:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 06-70-/N Enterprise,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+9,cpe:2.3:a:hitachi:ucosminexus_application_server:06-70-\/n:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 06-70-/N Standard,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z

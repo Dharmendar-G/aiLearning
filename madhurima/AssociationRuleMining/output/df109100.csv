@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:checkpoint:zonealarm_extreme_security:10.2.074.000:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Extreme Security 10.2.074.000,['CVE-2020-6013'],2022-03-19T16:50Z
+1,cpe:2.3:a:checkpoint:zonealarm_extreme_security:15.8.109.18436:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Extreme Security 15.8.109.18436,[''],2022-03-19T16:50Z
+2,cpe:2.3:a:checkpoint:zonealarm_security_suite:-:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Security Suite,[''],2022-03-19T16:50Z
+3,cpe:2.3:a:checkpoint:zonealarm_security_suite:5.5.062.004:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Security Suite 5.5.062.004,['CVE-2005-2932'],2022-03-19T16:50Z
+4,cpe:2.3:a:checkpoint:zonealarm_security_suite:6.5.737:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Security Suite 6.5.737,['CVE-2005-2932'],2022-03-19T16:50Z
+5,cpe:2.3:a:checkpw_project:checkpw:1.02:*:*:*:*:*:*:*,checkpw Project checkpw 1.02,['CVE-2015-0885'],2022-03-19T16:50Z
+6,cpe:2.3:a:checkpw_project:checkpw:1.03:*:*:*:*:*:*:*,checkpw Project checkpw 1.03,[''],2022-03-19T16:50Z
+7,cpe:2.3:a:checksec:canopy:3.0.0:*:*:*:*:*:*:*,CheckSec Canopy 3.0.0,"['CVE-2018-9036', 'CVE-2021-34815']",2022-03-19T16:50Z
+8,cpe:2.3:a:checksec:canopy:3.0.6:*:*:*:*:*:*:*,CheckSec Canopy 3.0.6,"['CVE-2018-9036', 'CVE-2021-34815']",2022-03-19T16:50Z
+9,cpe:2.3:a:checksec:canopy:3.0.7:*:*:*:*:*:*:*,CheckSec Canopy 3.0.7,['CVE-2021-34815'],2022-03-19T16:50Z

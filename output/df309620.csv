@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:heinekingmedia:stashcat:1.8.1:*:*:*:*:android:*:*,heinekingmedia stashcat 1.8.1 for Android,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:36Z
+1,cpe:2.3:a:heinekingmedia:stashcat:1.8.2:*:*:*:*:android:*:*,heinekingmedia stashcat 1.8.2 for Android,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:36Z
+2,cpe:2.3:a:heinekingmedia:stashcat:1.8.3:*:*:*:*:android:*:*,heinekingmedia stashcat 1.8.3 for Android,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:36Z
+3,cpe:2.3:a:heinekingmedia:stashcat:1.8.4:*:*:*:*:iphone_os:*:*,heinekingmedia stashcat 1.8.4 for iPhone OS,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:36Z
+4,cpe:2.3:a:heinekingmedia:stashcat:1.8.5:*:*:*:*:iphone_os:*:*,heinekingmedia stashcat 1.8.5 for iPhone OS,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:36Z
+5,cpe:2.3:a:heinekingmedia:stashcat:1.8.6:*:*:*:*:iphone_os:*:*,heinekingmedia stashcat 1.8.6 for iPhone OS,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:36Z
+6,cpe:2.3:a:heinekingmedia:stashcat:1.9.0:*:*:*:*:iphone_os:*:*,heinekingmedia stashcat 1.9.0 for iPhone OS,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:36Z
+7,cpe:2.3:a:heinekingmedia:stashcat:1.9.1:*:*:*:*:iphone_os:*:*,heinekingmedia stashcat 1.9.1 for iPhone OS,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:36Z
+8,cpe:2.3:a:heinekingmedia:stashcat:1.9.2:*:*:*:*:iphone_os:*:*,heinekingmedia stashcat 1.9.2 for iPhone OS,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:36Z
+9,cpe:2.3:a:heinekingmedia:stashcat:2.0.0:*:*:*:*:android:*:*,heinekingmedia stashcat 2.0.0 for Android,"['CVE-2020-13129', 'CVE-2020-13637']",2022-03-21T10:36Z

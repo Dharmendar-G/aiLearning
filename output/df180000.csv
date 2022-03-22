@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:inspiron_5598:-:*:*:*:*:*:*:*,Dell Inspiron 5598,"['CVE-2020-5324', 'CVE-2020-5362', 'CVE-2021-36283', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:41Z
+1,cpe:2.3:o:dell:inspiron_5598_firmware:1.4.0:*:*:*:*:*:*:*,Dell Inspiron 5598 Firmware 1.4.0,"['CVE-2020-5362', 'CVE-2021-36283', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:41Z
+2,cpe:2.3:h:dell:inspiron_5675:-:*:*:*:*:*:*:*,Dell Inspiron 5675,['CVE-2020-26186'],2022-03-20T12:41Z
+3,cpe:2.3:h:dell:inspiron_5680:-:*:*:*:*:*:*:*,Dell Inspiron 5680 ,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:41Z
+4,cpe:2.3:h:dell:inspiron_5758:-:*:*:*:*:*:*:*,Dell Inspiron 5758,['CVE-2019-3717'],2022-03-20T12:41Z
+5,cpe:2.3:o:dell:inspiron_5758_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 5758 Firmware,['CVE-2019-3717'],2022-03-20T12:41Z
+6,cpe:2.3:o:dell:inspiron_5758_firmware:a17:*:*:*:*:*:*:*,Dell Inspiron 5758 Firmware A17,[''],2022-03-20T12:41Z
+7,cpe:2.3:h:dell:inspiron_5759:-:*:*:*:*:*:*:*,Dell Inspiron 5759,"['CVE-2019-3717', 'CVE-2020-5362']",2022-03-20T12:42Z
+8,cpe:2.3:o:dell:inspiron_5759_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 5759 Firmware,"['CVE-2019-3717', 'CVE-2020-5362']",2022-03-20T12:42Z
+9,cpe:2.3:o:dell:inspiron_5759_firmware:1.7.0:*:*:*:*:*:*:*,Dell Inspiron 5759 Firmware 1.7.0,['CVE-2020-5362'],2022-03-20T12:42Z

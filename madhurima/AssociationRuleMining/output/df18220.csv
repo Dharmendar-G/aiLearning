@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:akka:http_server:10.1.10:*:*:*:*:*:*:*,Akka HTTP Server 10.1.10,['CVE-2021-42697'],2022-03-18T14:27Z
+1,cpe:2.3:a:akka:http_server:10.1.11:*:*:*:*:*:*:*,Akka HTTP Server 10.1.11,['CVE-2021-42697'],2022-03-18T14:27Z
+2,cpe:2.3:a:akka:http_server:10.1.12:*:*:*:*:*:*:*,Akka HTTP Server 10.1.12,['CVE-2021-42697'],2022-03-18T14:27Z
+3,cpe:2.3:a:akka:http_server:10.1.13:*:*:*:*:*:*:*,Akka HTTP Server 10.1.13,['CVE-2021-42697'],2022-03-18T14:27Z
+4,cpe:2.3:a:akka:http_server:10.2.0:*:*:*:*:*:*:*,Akka HTTP Server 10.2.0,['CVE-2021-42697'],2022-03-18T14:27Z
+5,cpe:2.3:a:akka:http_server:10.2.1:*:*:*:*:*:*:*,Akka HTTP Server 10.2.1,['CVE-2021-42697'],2022-03-18T14:27Z
+6,cpe:2.3:a:akka:http_server:10.2.2:*:*:*:*:*:*:*,Akka HTTP Server 10.2.2,['CVE-2021-42697'],2022-03-18T14:27Z
+7,cpe:2.3:a:akka:http_server:10.2.3:*:*:*:*:*:*:*,Akka HTTP Server 10.2.3,['CVE-2021-42697'],2022-03-18T14:27Z
+8,cpe:2.3:a:akka:http_server:10.2.4:*:*:*:*:*:*:*,Akka HTTP Server 10.2.4,['CVE-2021-42697'],2022-03-18T14:27Z
+9,cpe:2.3:a:akka:http_server:10.2.5:*:*:*:*:*:*:*,Akka HTTP Server 10.2.5,['CVE-2021-42697'],2022-03-18T14:27Z

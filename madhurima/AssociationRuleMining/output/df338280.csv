@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hummingbird:collaboration:5.2:*:*:*:*:*:*:*,Hummingbird Hummingbird Collaboration 5.2,['CVE-2006-0174'],2022-03-21T19:16Z
+1,cpe:2.3:a:hummingbird:collaboration:5.21:*:*:*:*:*:*:*,Hummingbird Hummingbird Collaboration 5.21,['CVE-2006-0174'],2022-03-21T19:16Z
+2,cpe:2.3:a:hummingbird:component_deployment:-:*:*:*:*:*:*:*,Hummingbird Component Deployment,[''],2022-03-21T19:16Z
+3,cpe:2.3:a:hummingbird:connectivity:-:*:*:*:*:*:*:*,Hummingbird Connectivity,[''],2022-03-21T19:16Z
+4,cpe:2.3:a:hummingbird:connectivity:7.1:*:*:*:*:*:*:*,Hummingbird Connectivity 7.1,"['CVE-2004-2728', 'CVE-2004-2729', 'CVE-2005-1815']",2022-03-21T19:16Z
+5,cpe:2.3:a:hummingbird:connectivity:9.0:*:*:*:*:*:*:*,Hummingbird Connectivity 9.0,"['CVE-2004-2728', 'CVE-2004-2729', 'CVE-2005-1815']",2022-03-21T19:16Z
+6,cpe:2.3:a:hummingbird:connectivity:10.0:*:*:*:*:*:*:*,Hummingbird Connectivity 10.0,"['CVE-2005-1815', 'CVE-2005-2599']",2022-03-21T19:16Z
+7,cpe:2.3:a:hummingbird:cyberdocs:-:*:*:*:*:*:*:*,Hummingbird CyberDOCS,[''],2022-03-21T19:16Z
+8,cpe:2.3:a:hummingbird:cyberdocs:3.1:*:*:*:*:*:*:*,Hummingbird CyberDOCS 3.1,['CVE-2003-1103'],2022-03-21T19:16Z
+9,cpe:2.3:a:hummingbird:cyberdocs:3.5:*:*:*:*:*:*:*,Hummingbird CyberDOCS 3.5,['CVE-2003-1102'],2022-03-21T19:16Z

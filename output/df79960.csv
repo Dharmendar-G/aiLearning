@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blackberry:workspaces_server:8.0.0:*:*:*:*:*:*:*,Blackberry Workspaces Server 8.0.0,['CVE-2021-22155'],2022-03-19T08:37Z
+1,cpe:2.3:a:blackberry:workspaces_server:8.0.1:*:*:*:*:*:*:*,Blackberry Workspaces Server 8.0.1,['CVE-2021-22155'],2022-03-19T08:37Z
+2,cpe:2.3:a:blackberry:workspaces_server:8.0.2:*:*:*:*:*:*:*,Blackberry Workspaces Server 8.0.2,['CVE-2021-22155'],2022-03-19T08:37Z
+3,cpe:2.3:a:blackberry:workspaces_server:8.0.3:*:*:*:*:*:*:*,Blackberry Workspaces Server 8.0.3,['CVE-2021-22155'],2022-03-19T08:37Z
+4,cpe:2.3:a:blackberry:workspaces_server:8.0.4:*:*:*:*:*:*:*,Blackberry Workspaces Server 8.0.4,['CVE-2021-22155'],2022-03-19T08:37Z
+5,cpe:2.3:a:blackberry:workspaces_server:8.1.0:*:*:*:*:*:*:*,Blackberry Workspaces Server 8.1.0,['CVE-2021-22155'],2022-03-19T08:37Z
+6,cpe:2.3:a:blackberry:workspaces_server:9.0:*:*:*:*:*:*:*,Blackberry Workspaces Server 9.0,['CVE-2021-22155'],2022-03-19T08:37Z
+7,cpe:2.3:a:blackberry:workspaces_server:9.1:*:*:*:*:*:*:*,Blackberry Workspaces Server 9.1,['CVE-2021-22155'],2022-03-19T08:37Z
+8,cpe:2.3:a:blackberry:workspaces_server:10.1:*:*:*:*:*:*:*,Blackberry Workspaces Server 10.1,['CVE-2021-22155'],2022-03-19T08:37Z
+9,cpe:2.3:a:blackberry:workspaces_vapp:4.6.0:*:*:*:*:*:*:*,BlackBerry Workspaces vApp 4.6.0,['CVE-2017-3890'],2022-03-19T08:37Z

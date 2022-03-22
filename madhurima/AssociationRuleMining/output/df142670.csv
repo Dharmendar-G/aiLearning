@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:11.8:*:*:*:*:*:*:*,Claymore Dual Miner Project Claymore Dual Miner 11.8,[''],2022-03-20T02:13Z
+1,cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:12.0:*:*:*:*:*:*:*,Claymore Dual Miner Project Claymore Dual Miner 12.0,[''],2022-03-20T02:13Z
+2,cpe:2.3:a:cleaninternet:clean_internet_browser:1.36:*:*:*:*:android:*:*,CleanInternet Clean Internet Browser (aka com.cleantab.browsesecure) for android 1.36,['CVE-2014-4905'],2022-03-20T02:13Z
+3,cpe:2.3:a:cleantalk:anti-spam:5.133:*:*:*:*:wordpress:*:*,CleanTalk Anti-Spam 5.133 for WordPress,['CVE-2021-24131'],2022-03-20T02:13Z
+4,cpe:2.3:a:cleantalk:anti-spam:5.133.1:*:*:*:*:wordpress:*:*,CleanTalk Anti-Spam 5.133.1 for WordPress,['CVE-2021-24131'],2022-03-20T02:13Z
+5,cpe:2.3:a:cleantalk:anti-spam:5.133.2:*:*:*:*:wordpress:*:*,CleanTalk Anti-Spam 5.133.2 for WordPress,['CVE-2021-24131'],2022-03-20T02:13Z
+6,cpe:2.3:a:cleantalk:anti-spam:5.134:*:*:*:*:wordpress:*:*,CleanTalk Anti-Spam 5.134 for WordPress,['CVE-2021-24131'],2022-03-20T02:13Z
+7,cpe:2.3:a:cleantalk:anti-spam:5.135:*:*:*:*:wordpress:*:*,CleanTalk Anti-Spam 5.135 for WordPress,['CVE-2021-24131'],2022-03-20T02:13Z
+8,cpe:2.3:a:cleantalk:anti-spam:5.136:*:*:*:*:wordpress:*:*,CleanTalk Anti-Spam 5.136 for WordPress,['CVE-2021-24131'],2022-03-20T02:13Z
+9,cpe:2.3:a:cleantalk:anti-spam:5.136.1:*:*:*:*:wordpress:*:*,CleanTalk Anti-Spam 5.136.1 for WordPress,['CVE-2021-24131'],2022-03-20T02:13Z

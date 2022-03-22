@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bit.diamonds:diamond:0.4.0:-:*:*:*:*:*:*,DMD DIAMOND Diamond 0.4.0,['CVE-2018-19160'],2022-03-19T07:45Z
+1,cpe:2.3:a:bit.diamonds:diamond:0.4.0:rc1:*:*:*:*:*:*,DMD DIAMOND Diamond 0.4.0 Release Candidate 1,['CVE-2018-19160'],2022-03-19T07:45Z
+2,cpe:2.3:a:bit.diamonds:diamond:0.4.0:rc2:*:*:*:*:*:*,DMD DIAMOND Diamond 0.4.0 Release Candidate 2,['CVE-2018-19160'],2022-03-19T07:45Z
+3,cpe:2.3:a:bit.diamonds:diamond:0.5.0:-:*:*:*:*:*:*,DMD DIAMOND Diamond 0.5.0,['CVE-2018-19160'],2022-03-19T07:45Z
+4,cpe:2.3:a:bit.diamonds:diamond:0.5.0:rc1:*:*:*:*:*:*,DMD DIAMOND Diamond 0.5.0 Release Candidate 1,['CVE-2018-19160'],2022-03-19T07:45Z
+5,cpe:2.3:a:bit.diamonds:diamond:0.5.0:rc2:*:*:*:*:*:*,DMD DIAMOND Diamond 0.5.0 Release Candidate 2,['CVE-2018-19160'],2022-03-19T07:45Z
+6,cpe:2.3:a:bit.diamonds:diamond:0.5.0:rc3:*:*:*:*:*:*,DMD DIAMOND Diamond 0.5.0 Release Candidate 3,['CVE-2018-19160'],2022-03-19T07:45Z
+7,cpe:2.3:a:bit.diamonds:diamond:0.5.0:rc4:*:*:*:*:*:*,DMD DIAMOND Diamond 0.5.0 Release Candidate 4,['CVE-2018-19160'],2022-03-19T07:45Z
+8,cpe:2.3:a:bit.diamonds:diamond:0.5.0:rc5:*:*:*:*:*:*,DMD DIAMOND Diamond 0.5.0 Release Candidate 5,['CVE-2018-19160'],2022-03-19T07:45Z
+9,cpe:2.3:a:bit.diamonds:diamond:0.5.0:rc6:*:*:*:*:*:*,DMD DIAMOND Diamond 0.5.0 Release Candidate 6,['CVE-2018-19160'],2022-03-19T07:45Z

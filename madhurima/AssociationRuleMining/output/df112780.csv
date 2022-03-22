@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cimg:cimg:2.8.4:*:*:*:*:*:*:*,CImg 2.8.4,['CVE-2020-25693'],2022-03-19T17:41Z
+1,cpe:2.3:a:cimg:cimg:2.9.0:*:*:*:*:*:*:*,CImg 2.9.0,['CVE-2020-25693'],2022-03-19T17:41Z
+2,cpe:2.3:a:cimg:cimg:2.9.1:*:*:*:*:*:*:*,CImg 2.9.1,['CVE-2020-25693'],2022-03-19T17:41Z
+3,cpe:2.3:a:cimg:cimg:2.9.2:*:*:*:*:*:*:*,CImg 2.9.2,['CVE-2020-25693'],2022-03-19T17:42Z
+4,cpe:2.3:a:cimg:cimg:2.9.3:*:*:*:*:*:*:*,CImg 2.9.3,[''],2022-03-19T17:41Z
+5,cpe:2.3:a:cimg:cimg:2.9.4:*:*:*:*:*:*:*,CImg 2.9.4,[''],2022-03-19T17:42Z
+6,cpe:2.3:a:cimg:cimg_library:-:*:*:*:*:*:*:*,CImg Library,[''],2022-03-19T17:42Z
+7,cpe:2.3:a:cimg:cimg_library:2.3.0:*:*:*:*:*:*:*,CImg Library 2.3.0,[''],2022-03-19T17:42Z
+8,cpe:2.3:a:cimg:cimg_library:2.3.1:*:*:*:*:*:*:*,CImg Library 2.3.1,[''],2022-03-19T17:42Z
+9,cpe:2.3:a:cimg:cimg_library:2.3.2:*:*:*:*:*:*:*,CImg Library 2.3.2,[''],2022-03-19T17:42Z

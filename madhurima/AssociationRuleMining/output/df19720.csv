@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:allegro:allegro:3.3.4156.2:*:*:*:*:windows:*:*,Allegro 3.3.4156.2 for Windows,[''],2022-03-18T14:53Z
+1,cpe:2.3:a:allegrosoft:rompager:4.07:*:*:*:*:*:*:*,allegrosoft RomPager 4.07,"['CVE-2013-6786', 'CVE-2014-9222', 'CVE-2014-9223']",2022-03-18T14:53Z
+2,cpe:2.3:a:allegrosoft:rompager:4.34:*:*:*:*:*:*:*,allegrosoft RomPager 4.34,[''],2022-03-18T14:53Z
+3,cpe:2.3:a:allegrosoft:rompager:4.51:*:*:*:*:*:*:*,allegrosoft RomPager 4.51,[''],2022-03-18T14:53Z
+4,cpe:2.3:a:allen_disk_project:allen_disk:1.5:*:*:*:*:*:*:*,Allen Disk Project Allen Disk 1.5,[''],2022-03-18T14:53Z
+5,cpe:2.3:a:allen_disk_project:allen_disk:1.6:*:*:*:*:*:*:*,Allen Disk Project Allen Disk 1.6,"['CVE-2017-8832', 'CVE-2017-8848', 'CVE-2017-9090', 'CVE-2017-9091', 'CVE-2017-9249', 'CVE-2017-9307']",2022-03-18T14:53Z
+6,[0],[0],[0],[0]
+7,[0],[0],[0],[0]
+8,cpe:2.3:a:all-for-one:all_for_one:-:*:*:*:*:*:*:*,All For One,['CVE-2018-12056'],2022-03-18T14:53Z
+9,cpe:2.3:h:allied_telesis_k.k.:centrecom_ar260s_v2:-:*:*:*:*:*:*:*,Allied Telesis K.K. CentreCOM AR260S V2,['CVE-2017-2125'],2022-03-18T14:53Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:integrated_remote_access_controller_firmware:2.80:*:*:*:*:*:*:*,Dell Integrated Remote Access Controller (iDRAC) Firmware 2.80,['CVE-2015-7275'],2022-03-20T12:45Z
+1,cpe:2.3:h:dell:kace_k1000_systems_management_appliance:-:*:*:*:*:*:*:*,Dell KACE K1000 Systems Management Appliance,"['CVE-2014-0330', 'CVE-2014-1671']",2022-03-20T12:45Z
+2,cpe:2.3:a:dell:kace_k1000_systems_management_appliance_software:5.4.76847:*:*:*:*:*:*:*,Dell KACE K1000S Systems Management Appliance Software 5.4.76847,['CVE-2014-1671'],2022-03-20T12:45Z
+3,cpe:2.3:a:dell:kace_k1000_systems_management_appliance_software:5.5.90545:*:*:*:*:*:*:*,Dell KACE K1000S Systems Management Appliance Software 5.5.90545,['CVE-2014-0330'],2022-03-20T12:45Z
+4,cpe:2.3:a:dell:kace_k1000_systems_management_virtual_appliance:-:*:*:*:*:*:*:*,Dell KACE K1000 Systems Management Virtual Appliance,['CVE-2014-1671'],2022-03-20T12:45Z
+5,cpe:2.3:h:dell:kace_k1100s_systems_management_appliance:-:*:*:*:*:*:*:*,Dell KACE K1100S Systems Management Appliance,['CVE-2014-1671'],2022-03-20T12:45Z
+6,cpe:2.3:h:dell:kace_k1200s_systems_management_appliance:-:*:*:*:*:*:*:*,Dell KACE K1200S Systems Management Appliance,['CVE-2014-1671'],2022-03-20T12:45Z
+7,cpe:2.3:h:dell:km632_dongle:-:*:*:*:*:*:*:*,Dell KM632 Dongle,['CVE-2016-6257'],2022-03-20T12:45Z
+8,cpe:2.3:o:dell:km632_firmware:-:*:*:*:*:*:*:*,Dell KM632 Firmware,['CVE-2016-6257'],2022-03-20T12:45Z
+9,cpe:2.3:h:dell:km632_wireless_keyboard:-:*:*:*:*:*:*:*,Dell KM632 Wireless Keyboard,['CVE-2016-6257'],2022-03-20T12:45Z

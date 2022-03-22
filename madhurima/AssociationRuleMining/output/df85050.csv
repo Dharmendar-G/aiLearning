@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:boostio:boostnote:4.1:beta3:*:*:*:*:*:*,BoostIO Boostnote 4.1 Beta 3,[''],2022-03-19T09:51Z
+1,cpe:2.3:a:boostio:boostnote:4.2:rc0:*:*:*:*:*:*,BoostIO Boostnote 4.2 Release Candidate 0,[''],2022-03-19T09:51Z
+2,cpe:2.3:a:boostnote:boostnote:0.11.7:*:*:*:*:*:*:*,Boostnote 0.11.7,"['CVE-2018-13433', 'CVE-2021-41392']",2022-03-19T09:51Z
+3,cpe:2.3:o:boot2docker:boot2docker:0.1:*:*:*:-:*:*:*,Boot2docker 0.1,"['CVE-2014-5279', 'CVE-2014-5280']",2022-03-19T09:51Z
+4,cpe:2.3:o:boot2docker:boot2docker:0.2:*:*:*:-:*:*:*,Boot2docker 0.2,"['CVE-2014-5279', 'CVE-2014-5280']",2022-03-19T09:51Z
+5,cpe:2.3:o:boot2docker:boot2docker:0.3.0:*:*:*:-:*:*:*,Boot2docker 0.3.0,"['CVE-2014-5279', 'CVE-2014-5280']",2022-03-19T09:51Z
+6,cpe:2.3:o:boot2docker:boot2docker:0.4.0:*:*:*:-:*:*:*,Boot2docker 0.4.0,"['CVE-2014-5279', 'CVE-2014-5280']",2022-03-19T09:51Z
+7,cpe:2.3:o:boot2docker:boot2docker:0.5.0:*:*:*:-:*:*:*,Boot2docker 0.5.0,"['CVE-2014-5279', 'CVE-2014-5280']",2022-03-19T09:51Z
+8,cpe:2.3:o:boot2docker:boot2docker:0.5.1:*:*:*:-:*:*:*,Boot2docker 0.5.1,"['CVE-2014-5279', 'CVE-2014-5280']",2022-03-19T09:51Z
+9,cpe:2.3:o:boot2docker:boot2docker:0.5.2:*:*:*:-:*:*:*,Boot2docker 0.5.2,"['CVE-2014-5279', 'CVE-2014-5280']",2022-03-19T09:51Z

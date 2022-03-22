@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:oceanstor_hvs85t_firmware:-:*:*:*:*:*:*:*,Huawei OceanStor HVS85T Firmware,['CVE-2015-2808'],2022-03-21T18:17Z
+1,cpe:2.3:a:huawei:oceanstor_ism:v200r001c01:*:*:*:*:*:*:*,Huawei OceanStor ISM V200R001C01,['CVE-2016-6840'],2022-03-21T18:17Z
+2,cpe:2.3:a:huawei:oceanstor_ism:v200r001c02:*:*:*:*:*:*:*,Huawei OceanStor ISM V200R001C02,['CVE-2016-6840'],2022-03-21T18:17Z
+3,cpe:2.3:a:huawei:oceanstor_ism:v200r001c03:*:*:*:*:*:*:*,Huawei OceanStor ISM V200R001C03,['CVE-2016-6840'],2022-03-21T18:17Z
+4,cpe:2.3:a:huawei:oceanstor_replicationdirector:v100r003c00:*:*:*:*:*:*:*,Huawei OceanStor ReplicationDirector V100R003C00,['CVE-2015-2808'],2022-03-21T18:17Z
+5,cpe:2.3:h:huawei:oceanstor_s2600t:-:*:*:*:*:*:*:*,Huawei OceanStor S2600T,['CVE-2015-2808'],2022-03-21T18:17Z
+6,cpe:2.3:o:huawei:oceanstor_s2600t_firmware:-:*:*:*:*:*:*:*,Huawei OceanStor S2600T Firmware,['CVE-2015-2808'],2022-03-21T18:17Z
+7,cpe:2.3:h:huawei:oceanstor_s5500t:-:*:*:*:*:*:*:*,Huawei OceanStor S5500T,['CVE-2015-2808'],2022-03-21T18:17Z
+8,cpe:2.3:o:huawei:oceanstor_s5500t_firmware:-:*:*:*:*:*:*:*,Huawei OceanStor S5500T Firmware,['CVE-2015-2808'],2022-03-21T18:17Z
+9,cpe:2.3:h:huawei:oceanstor_s5600t:-:*:*:*:*:*:*:*,Huawei OceanStor S5600T,['CVE-2015-2808'],2022-03-21T18:17Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:craftcms:craft_cms:3.5.0:rc4:*:*:*:*:*:*,CraftCMS Craft CMS 3.5.0 Release Candidate 4,"['CVE-2021-27902', 'CVE-2021-27903', 'CVE-2021-32470', 'CVE-2021-41824']",2022-03-20T08:49Z
+1,cpe:2.3:a:craftcms:craft_cms:3.5.0:rc5:*:*:*:*:*:*,CraftCMS Craft CMS 3.5.0 Release Candidate 5,"['CVE-2021-27902', 'CVE-2021-27903', 'CVE-2021-32470', 'CVE-2021-41824']",2022-03-20T08:49Z
+2,cpe:2.3:a:craftcms:craft_cms:3.5.0:rc6:*:*:*:*:*:*,CraftCMS Craft CMS 3.5.0 Release Candidate 6,"['CVE-2021-27902', 'CVE-2021-27903', 'CVE-2021-32470', 'CVE-2021-41824']",2022-03-20T08:49Z
+3,cpe:2.3:a:craftcms:craft_cms:3.5.1:*:*:*:*:*:*:*,CraftCMS Craft CMS 3.5.1,"['CVE-2021-27902', 'CVE-2021-27903', 'CVE-2021-32470', 'CVE-2021-41824']",2022-03-20T08:49Z
+4,cpe:2.3:a:craftcms:craft_cms:3.5.2:*:*:*:*:*:*:*,CraftCMS Craft CMS 3.5.2,"['CVE-2021-27902', 'CVE-2021-27903', 'CVE-2021-32470', 'CVE-2021-41824']",2022-03-20T08:49Z
+5,cpe:2.3:a:craftcms:craft_cms:3.5.3:*:*:*:*:*:*:*,CraftCMS Craft CMS 3.5.3,"['CVE-2021-27902', 'CVE-2021-27903', 'CVE-2021-32470', 'CVE-2021-41824']",2022-03-20T08:49Z
+6,cpe:2.3:a:craftcms:craft_cms:3.5.4:*:*:*:*:*:*:*,CraftCMS Craft CMS 3.5.4,"['CVE-2021-27902', 'CVE-2021-27903', 'CVE-2021-32470', 'CVE-2021-41824']",2022-03-20T08:49Z
+7,cpe:2.3:a:craftcms:craft_cms:3.5.5:*:*:*:*:*:*:*,CraftCMS Craft CMS 3.5.5,"['CVE-2021-27902', 'CVE-2021-27903', 'CVE-2021-32470', 'CVE-2021-41824']",2022-03-20T08:50Z
+8,cpe:2.3:a:craftcms:craft_cms:3.5.6:*:*:*:*:*:*:*,CraftCMS Craft CMS 3.5.6,"['CVE-2021-27902', 'CVE-2021-27903', 'CVE-2021-32470', 'CVE-2021-41824']",2022-03-20T08:49Z
+9,cpe:2.3:a:craftcms:craft_cms:3.5.7:*:*:*:*:*:*:*,CraftCMS Craft CMS 3.5.7,"['CVE-2021-27902', 'CVE-2021-27903', 'CVE-2021-32470', 'CVE-2021-41824']",2022-03-20T08:49Z

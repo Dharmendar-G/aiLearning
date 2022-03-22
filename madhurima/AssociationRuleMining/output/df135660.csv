@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:telepresence_system_1300-65:-:*:*:*:*:*:*:*,Cisco TelePresence System 1300-65,"['CVE-2013-3454', 'CVE-2014-0661']",2022-03-20T00:33Z
+1,cpe:2.3:h:cisco:telepresence_system_1700_mxp:-:*:*:*:*:*:*:*,Cisco TelePresence System 1700 MXP,"['CVE-2011-2544', 'CVE-2014-2156', 'CVE-2014-2157', 'CVE-2014-2158', 'CVE-2014-2159', 'CVE-2014-2160', 'CVE-2014-2161']",2022-03-20T00:33Z
+2,cpe:2.3:h:cisco:telepresence_system_3000:-:*:*:*:*:*:*:*,Cisco TelePresence System 3000,"['CVE-2011-0372', 'CVE-2011-0373', 'CVE-2011-0374', 'CVE-2011-0375', 'CVE-2011-0376', 'CVE-2011-0377', 'CVE-2011-0378', 'CVE-2011-0379', 'CVE-2012-2486', 'CVE-2012-3073', 'CVE-2012-3074', 'CVE-2012-3075', 'CVE-2013-3454', 'CVE-2014-0661']",2022-03-20T00:33Z
+3,cpe:2.3:h:cisco:telepresence_system_3010:-:*:*:*:*:*:*:*,Cisco TelePresence System 3010,"['CVE-2012-2486', 'CVE-2012-3073', 'CVE-2012-3074', 'CVE-2012-3075', 'CVE-2013-3454', 'CVE-2014-0661']",2022-03-20T00:33Z
+4,cpe:2.3:h:cisco:telepresence_system_3200:-:*:*:*:*:*:*:*,Cisco TelePresence System 3200,"['CVE-2012-2486', 'CVE-2012-3073', 'CVE-2012-3074', 'CVE-2012-3075', 'CVE-2013-3454', 'CVE-2014-0661']",2022-03-20T00:33Z
+5,cpe:2.3:h:cisco:telepresence_system_3210:-:*:*:*:*:*:*:*,Cisco TelePresence System 3210,"['CVE-2012-2486', 'CVE-2012-3073', 'CVE-2012-3074', 'CVE-2012-3075', 'CVE-2013-3454', 'CVE-2014-0661']",2022-03-20T00:33Z
+6,cpe:2.3:h:cisco:telepresence_system_500-32:-:*:*:*:*:*:*:*,Cisco TelePresence System 500-32,"['CVE-2013-3454', 'CVE-2014-0661']",2022-03-20T00:33Z
+7,cpe:2.3:h:cisco:telepresence_system_500-37:-:*:*:*:*:*:*:*,Cisco TelePresence System 500-37,"['CVE-2013-3454', 'CVE-2014-0661']",2022-03-20T00:33Z
+8,cpe:2.3:h:cisco:telepresence_system_codec_3000_mxp:-:*:*:*:*:*:*:*,Cisco TelePresence System Codec 3000 MXP,"['CVE-2014-2156', 'CVE-2014-2157', 'CVE-2014-2158', 'CVE-2014-2159', 'CVE-2014-2160', 'CVE-2014-2161']",2022-03-20T00:33Z
+9,cpe:2.3:h:cisco:telepresence_system_codec_6000_mxp:-:*:*:*:*:*:*:*,Cisco TelePresence System Codec 6000 MXP,"['CVE-2014-2156', 'CVE-2014-2157', 'CVE-2014-2158', 'CVE-2014-2159', 'CVE-2014-2160', 'CVE-2014-2161']",2022-03-20T00:33Z

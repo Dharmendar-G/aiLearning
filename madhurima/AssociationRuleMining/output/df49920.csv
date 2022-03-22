@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:asset_pipeline_project:asset-pipeline:2.8.1:*:*:*:*:grails:*:*,Asset Pipeline Project asset-pipeline 2.8.1 for Grails,"['CVE-2018-1000817', 'CVE-2018-17605']",2022-03-18T23:50Z
+1,cpe:2.3:a:asset_pipeline_project:asset-pipeline:2.8.2:*:*:*:*:grails:*:*,Asset Pipeline Project asset-pipeline 2.8.2 for Grails,"['CVE-2018-1000817', 'CVE-2018-17605']",2022-03-18T23:50Z
+2,cpe:2.3:a:asset_pipeline_project:asset-pipeline:2.9.0:*:*:*:*:grails:*:*,Asset Pipeline Project asset-pipeline 2.9.0 for Grails,"['CVE-2018-1000817', 'CVE-2018-17605']",2022-03-18T23:50Z
+3,cpe:2.3:a:asset_pipeline_project:asset-pipeline:2.9.1:*:*:*:*:grails:*:*,Asset Pipeline Project asset-pipeline 2.9.1 for Grails,"['CVE-2018-1000817', 'CVE-2018-17605']",2022-03-18T23:50Z
+4,cpe:2.3:a:asset_pipeline_project:asset-pipeline:2.9.2:*:*:*:*:grails:*:*,Asset Pipeline Project asset-pipeline 2.9.2 for Grails,"['CVE-2018-1000817', 'CVE-2018-17605']",2022-03-18T23:50Z
+5,cpe:2.3:a:asset_pipeline_project:asset-pipeline:2.9.3:*:*:*:*:grails:*:*,Asset Pipeline Project asset-pipeline 2.9.3 for Grails,"['CVE-2018-1000817', 'CVE-2018-17605']",2022-03-18T23:50Z
+6,cpe:2.3:a:asset_pipeline_project:asset-pipeline:2.10.0:*:*:*:*:grails:*:*,Asset Pipeline Project asset-pipeline 2.10.0 for Grails,"['CVE-2018-1000817', 'CVE-2018-17605']",2022-03-18T23:50Z
+7,cpe:2.3:a:asset_pipeline_project:asset-pipeline:2.10.1:*:*:*:*:grails:*:*,Asset Pipeline Project asset-pipeline 2.10.1 for Grails,"['CVE-2018-1000817', 'CVE-2018-17605']",2022-03-18T23:50Z
+8,cpe:2.3:a:asset_pipeline_project:asset-pipeline:2.10.2:*:*:*:*:grails:*:*,Asset Pipeline Project asset-pipeline 2.10.2 for Grails,"['CVE-2018-1000817', 'CVE-2018-17605']",2022-03-18T23:50Z
+9,cpe:2.3:a:asset_pipeline_project:asset-pipeline:2.10.3:*:*:*:*:grails:*:*,Asset Pipeline Project asset-pipeline 2.10.3 for Grails,"['CVE-2018-1000817', 'CVE-2018-17605']",2022-03-18T23:50Z

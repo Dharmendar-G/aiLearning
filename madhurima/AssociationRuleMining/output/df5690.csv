@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:acronis:license_server:3.0.3470:*:*:*:*:*:*:*,Acronis License Server 3.0.3470,[''],2022-03-18T11:07Z
+1,cpe:2.3:a:acronis:license_server:10.0.13762:*:*:*:*:*:*:*,Acronis License Server 10.0.13762,[''],2022-03-18T11:07Z
+2,cpe:2.3:a:acronis:license_server:11.0.17318:*:*:*:*:*:*:*,Acronis License Server 11.0.17318,[''],2022-03-18T11:07Z
+3,cpe:2.3:a:acronis:snapapi:3.1.329:*:*:*:*:*:*:*,Acronis Snapapi 3.1.329,[''],2022-03-18T11:07Z
+4,cpe:2.3:a:acronis:snapdeploy_management_agent:3.0.3470:*:*:*:*:*:*:*,Acronis Snapdeploy Management Agent 3.0.3470,[''],2022-03-18T11:07Z
+5,cpe:2.3:a:acronis:true_image:-:*:*:*:*:-:*:*,Acronis True Image,"['CVE-2008-1280', 'CVE-2017-3219']",2022-03-18T11:07Z
+6,cpe:2.3:a:acronis:true_image:-:*:*:*:*:android:*:*,Acronis True Image for Android,"['CVE-2008-1280', 'CVE-2017-3219']",2022-03-18T11:07Z
+7,cpe:2.3:a:acronis:true_image:-:*:*:*:*:iphone_os:*:*,Acronis True Image for iPhone OS,"['CVE-2008-1280', 'CVE-2017-3219']",2022-03-18T11:07Z
+8,cpe:2.3:a:acronis:true_image:-:*:*:*:*:macos:*:*,Acronis True Image for macOS,"['CVE-2008-1280', 'CVE-2017-3219', 'CVE-2020-15496', 'CVE-2020-25593']",2022-03-18T11:07Z
+9,cpe:2.3:a:acronis:true_image:-:*:*:*:*:windows:*:*,Acronis True Image for Windows,"['CVE-2008-1280', 'CVE-2017-3219', 'CVE-2020-35145']",2022-03-18T11:07Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:pagewide_managed_color_flow_mfp_e77660z_firmware:-:*:*:*:*:*:*:*,Hp Pagewide Managed Color Flow Mfp E77660z Firmware -,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T15:40Z
+1,cpe:2.3:o:hp:pagewide_managed_color_flow_mfp_e77660z_firmware:2406048_029621:*:*:*:*:*:*:*,Hp Pagewide Managed Color Flow Mfp E77660z Firmware 2406048 029621,['CVE-2019-6318'],2022-03-21T15:40Z
+2,cpe:2.3:o:hp:pagewide_managed_color_flow_mfp_e77660z_firmware:2407163_000211:*:*:*:*:*:*:*,HP Pagewide Managed Color Flow Mfp E77660z Firmware 2407163 000211,[''],2022-03-21T15:40Z
+3,cpe:2.3:h:hp:pagewide_managed_color_flow_mfp_e77660zs:-:*:*:*:*:*:*:*,Hp Pagewide Managed Color Flow Mfp E77660zs -,['CVE-2018-5923'],2022-03-21T15:40Z
+4,cpe:2.3:o:hp:pagewide_managed_color_flow_mfp_e77660zs_firmware:-:*:*:*:*:*:*:*,Hp Pagewide Managed Color Flow Mfp E77660zs Firmware -,['CVE-2018-5923'],2022-03-21T15:40Z
+5,cpe:2.3:o:hp:pagewide_managed_color_flow_mfp_e77660zs_firmware:2406048_029621:*:*:*:*:*:*:*,Hp Pagewide Managed Color Flow Mfp E77660zs Firmware 2406048 029621,[''],2022-03-21T15:40Z
+6,cpe:2.3:h:hp:pagewide_managed_color_flow_mfp_e77660zts:-:*:*:*:*:*:*:*,Hp Pagewide Managed Color Flow Mfp E77660zts -,['CVE-2018-5923'],2022-03-21T15:40Z
+7,cpe:2.3:o:hp:pagewide_managed_color_flow_mfp_e77660zts_firmware:-:*:*:*:*:*:*:*,Hp Pagewide Managed Color Flow Mfp E77660zts Firmware -,['CVE-2018-5923'],2022-03-21T15:40Z
+8,cpe:2.3:o:hp:pagewide_managed_color_flow_mfp_e77660zts_firmware:2406048_029621:*:*:*:*:*:*:*,Hp Pagewide Managed Color Flow Mfp E77660zts Firmware 2406048 029621,[''],2022-03-21T15:40Z
+9,cpe:2.3:h:hp:pagewide_managed_color_mfp_e58650dn:-:*:*:*:*:*:*:*,HP PageWide Managed Color MFP E58650DN,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T15:40Z

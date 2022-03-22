@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:nexus_1000v:4.2\(1\)sv1\(5.1\):-:*:*:*:vmware_vsphere:*:*,Cisco Nexus 1000v 4.2(1)SV1(5.1),['CVE-2013-5556'],2022-03-19T23:07Z
+1,cpe:2.3:h:cisco:nexus_1000v:4.2\(1\)sv1\(5.1a\):-:*:*:*:vmware_vsphere:*:*,Cisco Nexus 1000v 4.2(1)SV1(5.1a),['CVE-2013-5556'],2022-03-19T23:07Z
+2,cpe:2.3:h:cisco:nexus_1000v:4.2\(1\)sv1\(5.2\):-:*:*:*:vmware_vsphere:*:*,Cisco Nexus 1000v 4.2(1)SV1(5.2),['CVE-2013-5556'],2022-03-19T23:07Z
+3,cpe:2.3:h:cisco:nexus_1000v:4.2\(1\)sv1\(5.2b\):-:*:*:*:vmware_vsphere:*:*,Cisco Nexus 1000v 4.2(1)SV1(5.2b),['CVE-2013-5556'],2022-03-19T23:07Z
+4,cpe:2.3:h:cisco:nexus_1000v:4.2\(1\)vsg1\(1\):-:*:*:*:nexus_1000v:*:*,Cisco Nexus 1000v 4.2(1)VSG1(1),['CVE-2013-5556'],2022-03-19T23:07Z
+5,cpe:2.3:h:cisco:nexus_1000v:5.2\(1\)sm1\(5.1\):-:*:*:*:microsoft_hyper-v:*:*,Cisco Nexus 1000v 5.2(1)SM1(5.1),['CVE-2013-5556'],2022-03-19T23:07Z
+6,cpe:2.3:o:cisco:nexus_1000v_firmware:5.2\(1\)sv3\(4.1a\):*:*:*:*:vmware_vsphere:*:*,Cisco Nexus 1000v Firmware 5.2(1)sv3(4.1a) for Vmware Vsphere,[''],2022-03-19T23:08Z
+7,cpe:2.3:h:cisco:nexus_1000v_for_microsoft_hyper-v:-:*:*:*:*:*:*:*,Cisco Nexus 1000V for Microsoft Hyper-V,['CVE-2015-0721'],2022-03-19T23:07Z
+8,cpe:2.3:h:cisco:nexus_1000v_for_vmware_vsphere:-:*:*:*:*:*:*:*,Cisco Nexus 1000V for VMware vSphere,"['CVE-2015-0721', 'CVE-2016-1454']",2022-03-19T23:08Z
+9,cpe:2.3:o:cisco:nexus_1000v_intercloud_firmware:2.2\(1\):*:*:*:*:vmware:*:*,Cisco Nexus 1000v Intercloud Firmware 2.2(1) for Vmware,[''],2022-03-19T23:08Z

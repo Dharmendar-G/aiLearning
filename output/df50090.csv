@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:asus:asuswrt:3.0.0.4.380.7743:*:*:*:*:*:*:*,ASUS ASUSWRT 3.0.0.4.380.7743,"['CVE-2017-15654', 'CVE-2017-15656', 'CVE-2018-5999', 'CVE-2018-6000']",2022-03-18T23:52Z
+1,cpe:2.3:o:asus:asuswrt:3.0.0.4.384.20308:*:*:*:*:*:*:*,Asus ASUSWRT 3.0.0.4.384.20308,"['CVE-2018-20333', 'CVE-2018-20334', 'CVE-2018-20335', 'CVE-2018-5999', 'CVE-2018-6000']",2022-03-18T23:52Z
+2,cpe:2.3:o:asus:asuswrt:3.0.0.4.384_10007:*:*:*:*:*:*:*,Asus ASUSWRT 3.0.0.4.384 10007,[''],2022-03-18T23:52Z
+3,cpe:2.3:o:asus:asuswrt-merlin:3.0.0.4.384.20308:*:*:*:*:*:*:*,Asus Asuswrt-Merlin 3.0.0.4.384.20308,['CVE-2018-20336'],2022-03-18T23:52Z
+4,cpe:2.3:a:asus:atk_package:-:*:*:*:*:*:*:*,Asus ATK Package,['CVE-2019-19235'],2022-03-18T23:52Z
+5,cpe:2.3:a:asus:atk_package:1.0.0061:*:*:*:*:*:*:*,Asus ATK Package 1.0.0061,[''],2022-03-18T23:52Z
+6,cpe:2.3:a:asus:aura_sync:-:*:*:*:*:*:*:*,ASUS Aura Sync,['CVE-2019-17603'],2022-03-18T23:52Z
+7,cpe:2.3:h:asus:aura_sync:-:*:*:*:*:*:*:*,Asus Aura Sync,"['CVE-2018-18535', 'CVE-2018-18536', 'CVE-2018-18537']",2022-03-18T23:52Z
+8,cpe:2.3:a:asus:aura_sync:1.07.71:*:*:*:*:*:*:*,ASUS Aura Sync 1.07.71,['CVE-2019-17603'],2022-03-18T23:52Z
+9,cpe:2.3:a:asus:aura_sync:1.07.79:*:*:*:*:*:*:*,ASUS Aura Sync 1.07.79,[''],2022-03-18T23:52Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dest-unreach:socat:2.0.0:b7:*:*:*:*:*:*,dest-unreach socat 2.0.0b7,[''],2022-03-20T13:38Z
+1,cpe:2.3:a:dest-unreach:socat:2.0.0-b3:*:*:*:*:*:*:*,Dest-unreach socat 2.0.0-b3,[''],2022-03-20T13:38Z
+2,cpe:2.3:a:dest-unreach:socat:2.0.0-b8:*:*:*:*:*:*:*,dest-unreach socat 2.0.0-b8,['CVE-2015-1379'],2022-03-20T13:38Z
+3,cpe:2.3:a:detcon_sitewatch_gateway_project:detcon_sitewatch_gateway:-:*:*:*:*:*:*:*,Detcon Sitewatch Gateway Project Detcon Sitewatch Gateway,[''],2022-03-20T13:38Z
+4,cpe:2.3:a:detect-character-encoding_project:detect-character-encoding:-:*:*:*:*:node.js:*:*,Detect-character-encoding Project Detect-character-encoding - for Node.js,"['CVE-2021-39157', 'CVE-2021-39176']",2022-03-20T13:38Z
+5,cpe:2.3:a:detect-character-encoding_project:detect-character-encoding:0.1.0:*:*:*:*:node.js:*:*,Detect-character-encoding Project Detect-character-encoding 0.1.0 for Node.js,"['CVE-2021-39157', 'CVE-2021-39176']",2022-03-20T13:38Z
+6,cpe:2.3:a:detect-character-encoding_project:detect-character-encoding:0.2.0:*:*:*:*:node.js:*:*,Detect-character-encoding Project Detect-character-encoding 0.2.0 for Node.js,"['CVE-2021-39157', 'CVE-2021-39176']",2022-03-20T13:38Z
+7,cpe:2.3:a:detect-character-encoding_project:detect-character-encoding:0.2.1:*:*:*:*:node.js:*:*,Detect-character-encoding Project Detect-character-encoding 0.2.1 for Node.js,"['CVE-2021-39157', 'CVE-2021-39176']",2022-03-20T13:38Z
+8,cpe:2.3:a:detect-character-encoding_project:detect-character-encoding:0.3.0:*:*:*:*:node.js:*:*,Detect-character-encoding Project Detect-character-encoding 0.3.0 for Node.js,"['CVE-2021-39157', 'CVE-2021-39176']",2022-03-20T13:38Z
+9,cpe:2.3:a:detect-character-encoding_project:detect-character-encoding:0.3.1:*:*:*:*:node.js:*:*,Detect-character-encoding Project Detect-character-encoding 0.3.1 for Node.js,['CVE-2021-39157'],2022-03-20T13:38Z

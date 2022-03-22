@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:heikki_hokkanen:viewgit:0.0.4:*:*:*:*:*:*:*,Heikki Hokkanen ViewGit 0.0.4,['CVE-2012-5314'],2022-03-21T10:33Z
+1,cpe:2.3:a:heikki_hokkanen:viewgit:0.0.5:*:*:*:*:*:*:*,Heikki Hokkanen ViewGit 0.0.5,['CVE-2012-5314'],2022-03-21T10:33Z
+2,cpe:2.3:a:heikki_hokkanen:viewgit:0.0.6:*:*:*:*:*:*:*,Heikki Hokkanen ViewGit 0.0.6,['CVE-2012-5314'],2022-03-21T10:33Z
+3,cpe:2.3:a:heikkitoivonen:m2crypto:-:*:*:*:*:*:*:*,Heikkitoivonen M2Crypto,['CVE-2009-0127'],2022-03-21T10:33Z
+4,cpe:2.3:a:heiko_sudar:slideshare:0.1.0:*:*:*:*:*:*:*,Heiko Sudar Sldieshare 0.1.0 for TYPO3,['CVE-2013-5569'],2022-03-21T10:33Z
+5,cpe:2.3:a:heimdal_project:heimdal:0.0j:*:*:*:*:*:*:*,Heimdal Project Heimdal 0.0j,"['CVE-2004-0434', 'CVE-2011-4862', 'CVE-2017-11103', 'CVE-2017-17439', 'CVE-2017-6594', 'CVE-2019-12098']",2022-03-21T10:33Z
+6,cpe:2.3:a:heimdal_project:heimdal:0.0k:*:*:*:*:*:*:*,Heimdal Project Heimdal 0.0k,"['CVE-2004-0434', 'CVE-2011-4862', 'CVE-2017-11103', 'CVE-2017-17439', 'CVE-2017-6594', 'CVE-2019-12098']",2022-03-21T10:33Z
+7,cpe:2.3:a:heimdal_project:heimdal:0.0l:*:*:*:*:*:*:*,Heimdal Project Heimdal 0.0l,"['CVE-2004-0434', 'CVE-2011-4862', 'CVE-2017-11103', 'CVE-2017-17439', 'CVE-2017-6594', 'CVE-2019-12098']",2022-03-21T10:33Z
+8,cpe:2.3:a:heimdal_project:heimdal:0.0m:*:*:*:*:*:*:*,Heimdal Project Heimdal 0.0m,"['CVE-2004-0434', 'CVE-2011-4862', 'CVE-2017-11103', 'CVE-2017-17439', 'CVE-2017-6594', 'CVE-2019-12098']",2022-03-21T10:33Z
+9,cpe:2.3:a:heimdal_project:heimdal:0.0n:*:*:*:*:*:*:*,Heimdal Project Heimdal 0.0n,"['CVE-2004-0434', 'CVE-2011-4862', 'CVE-2017-11103', 'CVE-2017-17439', 'CVE-2017-6594', 'CVE-2019-12098']",2022-03-21T10:33Z

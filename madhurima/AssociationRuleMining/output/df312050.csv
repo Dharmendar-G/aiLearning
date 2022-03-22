@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hikvision:ds-2df8a442nxs-ael\(t5\):-:*:*:*:*:*:*:*,Hikvision DS-2DF8A442NXS-AEL(T5),['CVE-2021-36260'],2022-03-21T11:13Z
+1,cpe:2.3:o:hikvision:ds-2df8a442nxs-ael\(t5\)_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2DF8A442NXS-AEL(T5) Firmware,['CVE-2021-36260'],2022-03-21T11:13Z
+2,cpe:2.3:h:hikvision:ds-2df8a842ixs-ael\(t5\):-:*:*:*:*:*:*:*,Hikvision DS-2DF8A842IXS-AEL(T5),['CVE-2021-36260'],2022-03-21T11:13Z
+3,cpe:2.3:o:hikvision:ds-2df8a842ixs-ael\(t5\)_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2DF8A842IXS-AEL(T5) Firmware,['CVE-2021-36260'],2022-03-21T11:13Z
+4,cpe:2.3:h:hikvision:ds-2dy9236i8x-a:-:*:*:*:*:*:*:*,Hikvision DS-2DY9236I8X-A,['CVE-2021-36260'],2022-03-21T11:13Z
+5,cpe:2.3:h:hikvision:ds-2dy9236i8x-a\(t3\):-:*:*:*:*:*:*:*,Hikvision DS-2DY9236I8X-A(T3),['CVE-2021-36260'],2022-03-21T11:13Z
+6,cpe:2.3:o:hikvision:ds-2dy9236i8x-a\(t3\)_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2DY9236I8X-A(T3) Firmware,['CVE-2021-36260'],2022-03-21T11:13Z
+7,cpe:2.3:o:hikvision:ds-2dy9236i8x-a_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2DY9236I8X-A Firmware,['CVE-2021-36260'],2022-03-21T11:13Z
+8,cpe:2.3:h:hikvision:ds-2dy9236ix-a\(t3\):-:*:*:*:*:*:*:*,Hikvision DS-2DY9236IX-A(T3),['CVE-2021-36260'],2022-03-21T11:13Z
+9,cpe:2.3:o:hikvision:ds-2dy9236ix-a\(t3\)_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2DY9236IX-A(T3) Firmware,['CVE-2021-36260'],2022-03-21T11:13Z

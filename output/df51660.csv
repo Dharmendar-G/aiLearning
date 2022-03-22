@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ati:control_panel:-:*:*:*:*:*:*:*,ATI Technologies Control Panel,[''],2022-03-19T00:13Z
+1,cpe:2.3:a:ati:control_panel:6.14:*:*:*:*:*:*:*,ATI Control Panel 6.14,[''],2022-03-19T00:13Z
+2,cpe:2.3:a:ati:control_panel:6.14.10.5125:*:*:*:*:*:*:*,ATI Control Panel 6.14.10.5125,[''],2022-03-19T00:13Z
+3,cpe:2.3:a:ati:hydravision:-:*:*:*:*:*:*:*,ATI Hydravision,[''],2022-03-19T00:13Z
+4,cpe:2.3:a:ati:hydravision:4.0.2.0:*:*:*:*:*:*:*,Ati Hydravision 4.0.2.0,[''],2022-03-19T00:13Z
+5,cpe:2.3:a:ati:hydravision:4.2.148.0:*:*:*:*:*:*:*,ATI HydraVision 4.2.148.0,[''],2022-03-19T00:13Z
+6,cpe:2.3:a:ati:hydravision_aps:4.0.0.1:*:*:*:*:*:*:*,Ati Hydravision Aps 4.0.0.1,[''],2022-03-19T00:13Z
+7,cpe:2.3:a:ati:parental_control_\&_encoder:3:*:*:*:*:*:*:*,ATI Parental Control %26 Encoder 3,[''],2022-03-19T00:13Z
+8,cpe:2.3:a:ati:skins:0108.2146.2565.38893:*:*:*:*:*:*:*,Ati Skins 0108.2146.2565.38893,[''],2022-03-19T00:13Z
+9,cpe:2.3:a:ati:skins:2008.0225.2153.39091:*:*:*:*:*:*:*,Ati Skins 2008.0225.2153.39091,[''],2022-03-19T00:13Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:emc_powerstore:-:*:*:*:*:*:*:*,Dell EMC PowerStore,"['CVE-2020-29499', 'CVE-2020-29500', 'CVE-2020-29501', 'CVE-2020-29502', 'CVE-2020-29503']",2022-03-20T12:25Z
+1,cpe:2.3:h:dell:emc_powerstore_1000:-:*:*:*:*:*:*:*,Dell EMC PowerStore 1000,['CVE-2020-5372'],2022-03-20T12:25Z
+2,cpe:2.3:o:dell:emc_powerstore_1000_firmware:1.0.1.0.5.002:*:*:*:*:*:*:*,Dell EMC PowerStore 1000 Firmware 1.0.1.0.5.002,[''],2022-03-20T12:25Z
+3,cpe:2.3:h:dell:emc_powerstore_3000:-:*:*:*:*:*:*:*,Dell EMC PowerStore 3000,['CVE-2020-5372'],2022-03-20T12:25Z
+4,cpe:2.3:o:dell:emc_powerstore_3000_firmware:1.0.1.0.5.002:*:*:*:*:*:*:*,Dell EMC PowerStore 3000 Firmware 1.0.1.0.5.002,[''],2022-03-20T12:25Z
+5,cpe:2.3:h:dell:emc_powerstore_5000:-:*:*:*:*:*:*:*,Dell EMC PowerStore 5000,['CVE-2020-5372'],2022-03-20T12:25Z
+6,cpe:2.3:o:dell:emc_powerstore_5000_firmware:1.0.1.0.5.002:*:*:*:*:*:*:*,Dell EMC PowerStore 5000 Firmware 1.0.1.0.5.002,[''],2022-03-20T12:25Z
+7,cpe:2.3:h:dell:emc_powerstore_7000:-:*:*:*:*:*:*:*,Dell EMC PowerStore 7000,['CVE-2020-5372'],2022-03-20T12:25Z
+8,cpe:2.3:o:dell:emc_powerstore_7000_firmware:1.0.1.0.5.002:*:*:*:*:*:*:*,Dell EMC PowerStore 7000 Firmware 1.0.1.0.5.002,[''],2022-03-20T12:25Z
+9,cpe:2.3:h:dell:emc_powerstore_9000:-:*:*:*:*:*:*:*,Dell EMC PowerStore 9000,['CVE-2020-5372'],2022-03-20T12:25Z

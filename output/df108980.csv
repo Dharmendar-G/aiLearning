@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:checkpoint:smartconsole:r80.20:*:*:*:*:*:*:*,Check Point SmartConsole R80.20,['CVE-2020-6024'],2022-03-19T16:48Z
+1,cpe:2.3:a:checkpoint:smartconsole:r80.30:*:*:*:*:*:*:*,Check Point SmartConsole R80.30,['CVE-2020-6024'],2022-03-19T16:48Z
+2,cpe:2.3:a:checkpoint:smartconsole:r80.40:*:*:*:*:*:*:*,Check Point SmartConsole R80.40,['CVE-2020-6024'],2022-03-19T16:48Z
+3,cpe:2.3:a:checkpoint:smartconsole:r81:*:*:*:*:*:*:*,Check Point SmartConsole R81,['CVE-2020-6024'],2022-03-19T16:48Z
+4,cpe:2.3:a:checkpoint:ssl_network_extender:r80.10:*:*:*:*:linux:*:*,Checkpoint SSL Network Extender R80.10 for Linux,['CVE-2021-30357'],2022-03-19T16:48Z
+5,cpe:2.3:a:checkpoint:ssl_network_extender:r80.20:*:*:*:*:linux:*:*,Checkpoint SSL Network Extender R80.20 for Linux,['CVE-2021-30357'],2022-03-19T16:48Z
+6,cpe:2.3:a:checkpoint:ssl_network_extender:r80.30:*:*:*:*:linux:*:*,Checkpoint SSL Network Extender R80.30 for Linux,['CVE-2021-30357'],2022-03-19T16:48Z
+7,cpe:2.3:a:checkpoint:ssl_network_extender:r80.40:*:*:*:*:linux:*:*,Checkpoint SSL Network Extender R80.40 for Linux,['CVE-2021-30357'],2022-03-19T16:49Z
+8,cpe:2.3:a:checkpoint:ssl_network_extender:r81:*:*:*:*:linux:*:*,Checkpoint SSL Network Extender R81 for Linux,['CVE-2021-30357'],2022-03-19T16:48Z
+9,cpe:2.3:a:checkpoint:vpn-1:-:*:*:*:*:*:*:*,Checkpoint VPN-1,['CVE-2004-0699'],2022-03-19T16:49Z

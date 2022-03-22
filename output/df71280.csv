@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:basespace_ruby_sdk_project:basespace_ruby_sdk:0.1.7:*:*:*:*:ruby:*:*,BaseSpace Ruby SDK Project BaseSpace Ruby SDK for Ruby 0.1.7,['CVE-2013-7111'],2022-03-19T06:29Z
+1,cpe:2.3:h:basetech:ge-131_bt-1837836:-:*:*:*:*:*:*:*,BASETech GE-131 BT-1837836,"['CVE-2020-27553', 'CVE-2020-27554', 'CVE-2020-27555', 'CVE-2020-27556', 'CVE-2020-27557', 'CVE-2020-27558']",2022-03-19T06:29Z
+2,cpe:2.3:o:basetech:ge-131_bt-1837836_firmware:20180921:*:*:*:*:*:*:*,BASETech GE-131 BT-1837836 Firmware 20180921,"['CVE-2020-27553', 'CVE-2020-27554', 'CVE-2020-27555', 'CVE-2020-27556', 'CVE-2020-27557', 'CVE-2020-27558']",2022-03-19T06:29Z
+3,cpe:2.3:a:baseurl:yum:3.2.20:*:*:*:*:*:*:*,baseurl yum 3.2.20,['CVE-2014-0022'],2022-03-19T06:29Z
+4,cpe:2.3:a:baseurl:yum:3.2.21:*:*:*:*:*:*:*,baseurl yum 3.2.21,['CVE-2014-0022'],2022-03-19T06:29Z
+5,cpe:2.3:a:baseurl:yum:3.2.22:*:*:*:*:*:*:*,baseurl yum 3.2.22,['CVE-2014-0022'],2022-03-19T06:29Z
+6,cpe:2.3:a:baseurl:yum:3.2.23:*:*:*:*:*:*:*,baseurl yum 3.2.23,['CVE-2014-0022'],2022-03-19T06:29Z
+7,cpe:2.3:a:baseurl:yum:3.2.24:*:*:*:*:*:*:*,baseurl yum 3.2.24,['CVE-2014-0022'],2022-03-19T06:29Z
+8,cpe:2.3:a:baseurl:yum:3.2.25:*:*:*:*:*:*:*,baseurl yum 3.2.25,['CVE-2014-0022'],2022-03-19T06:29Z
+9,cpe:2.3:a:baseurl:yum:3.2.26:*:*:*:*:*:*:*,baseurl yum 3.2.26,['CVE-2014-0022'],2022-03-19T06:29Z

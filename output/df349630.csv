@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:ibm:storwize_v3700_firmware:6.3.0.0:*:*:*:*:*:*:*,IBM Storwize V3700 Firmware 6.3.0.0,"['CVE-2018-1433', 'CVE-2018-1434', 'CVE-2018-1438', 'CVE-2018-1461', 'CVE-2018-1462', 'CVE-2018-1463', 'CVE-2018-1464', 'CVE-2018-1465', 'CVE-2018-1466']",2022-03-21T22:25Z
+1,cpe:2.3:o:ibm:storwize_v3700_firmware:6.4.0.0:*:*:*:*:*:*:*,IBM Storwize V3700 Firmware 6.4.0.0,"['CVE-2018-1433', 'CVE-2018-1434', 'CVE-2018-1438', 'CVE-2018-1461', 'CVE-2018-1462', 'CVE-2018-1463', 'CVE-2018-1464', 'CVE-2018-1465', 'CVE-2018-1466']",2022-03-21T22:25Z
+2,cpe:2.3:o:ibm:storwize_v3700_firmware:7.1.0.0:*:*:*:*:*:*:*,IBM Storwize V3700 Firmware 7.1.0.0,"['CVE-2018-1433', 'CVE-2018-1434', 'CVE-2018-1438', 'CVE-2018-1461', 'CVE-2018-1462', 'CVE-2018-1463', 'CVE-2018-1464', 'CVE-2018-1465', 'CVE-2018-1466']",2022-03-21T22:25Z
+3,cpe:2.3:o:ibm:storwize_v3700_firmware:7.2.0.0:*:*:*:*:*:*:*,IBM Storwize V3700 Firmware 7.2.0.0,"['CVE-2018-1433', 'CVE-2018-1434', 'CVE-2018-1438', 'CVE-2018-1461', 'CVE-2018-1462', 'CVE-2018-1463', 'CVE-2018-1464', 'CVE-2018-1465', 'CVE-2018-1466']",2022-03-21T22:25Z
+4,cpe:2.3:o:ibm:storwize_v3700_firmware:7.3.0.0:*:*:*:*:*:*:*,IBM Storwize V3700 Firmware 7.3.0.0,"['CVE-2018-1433', 'CVE-2018-1434', 'CVE-2018-1438', 'CVE-2018-1461', 'CVE-2018-1462', 'CVE-2018-1463', 'CVE-2018-1464', 'CVE-2018-1465', 'CVE-2018-1466']",2022-03-21T22:25Z
+5,cpe:2.3:o:ibm:storwize_v3700_firmware:7.4.0.0:*:*:*:*:*:*:*,IBM Storwize V3700 Firmware 7.4.0.0,"['CVE-2018-1433', 'CVE-2018-1434', 'CVE-2018-1438', 'CVE-2018-1461', 'CVE-2018-1462', 'CVE-2018-1463', 'CVE-2018-1464', 'CVE-2018-1465', 'CVE-2018-1466']",2022-03-21T22:25Z
+6,cpe:2.3:o:ibm:storwize_v3700_firmware:7.5.0.0:*:*:*:*:*:*:*,IBM Storwize V3700 Firmware 7.5.0.0,"['CVE-2018-1433', 'CVE-2018-1434', 'CVE-2018-1438', 'CVE-2018-1461', 'CVE-2018-1462', 'CVE-2018-1463', 'CVE-2018-1464', 'CVE-2018-1465', 'CVE-2018-1466']",2022-03-21T22:25Z
+7,cpe:2.3:o:ibm:storwize_v3700_firmware:7.5.0.14:*:*:*:*:*:*:*,IBM Storwize V3700 Firmware 7.5.0.14,[''],2022-03-21T22:25Z
+8,cpe:2.3:o:ibm:storwize_v3700_firmware:7.6.0.0:*:*:*:*:*:*:*,IBM Storwize V3700 Firmware 7.6.0.0,[''],2022-03-21T22:25Z
+9,cpe:2.3:o:ibm:storwize_v3700_firmware:7.6.1.0:*:*:*:*:*:*:*,IBM Storwize V3700 Firmware 7.6.1.0,[''],2022-03-21T22:25Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:draw:draw.io_diagrams:8.3.10:*:*:*:*:confluence:*:*,draw.io 8.3.10 for Confluence,['CVE-2019-13127'],2022-03-20T17:51Z
+1,cpe:2.3:a:draw:draw.io_diagrams:8.3.11:*:*:*:*:confluence:*:*,draw.io 8.3.11 for Confluence,['CVE-2019-13127'],2022-03-20T17:51Z
+2,cpe:2.3:a:draw:draw.io_diagrams:8.3.12:*:*:*:*:confluence:*:*,draw.io 8.3.12 for Confluence,['CVE-2019-13127'],2022-03-20T17:51Z
+3,cpe:2.3:a:draw:draw.io_diagrams:8.3.13:*:*:*:*:confluence:*:*,draw.io 8.3.13 for Confluence,['CVE-2019-13127'],2022-03-20T17:51Z
+4,cpe:2.3:a:draw:draw.io_diagrams:8.3.14:*:*:*:*:confluence:*:*,draw.io 8.3.14 for Confluence,[''],2022-03-20T17:51Z
+5,cpe:2.3:a:draw:draw.io_diagrams:8.3.15:*:*:*:*:confluence:*:*,draw.io 8.3.15 for Confluence,[''],2022-03-20T17:51Z
+6,cpe:2.3:a:draw:draw.io_diagrams:8.3.16:*:*:*:*:confluence:*:*,draw.io 8.3.16 for Confluence,[''],2022-03-20T17:51Z
+7,cpe:2.3:a:drawblog_project:drawblog:-:*:*:*:*:wordpress:*:*,DrawBlog Project DrawBlog for WordPress,['CVE-2021-24479'],2022-03-20T17:51Z
+8,cpe:2.3:a:drawblog_project:drawblog:0.90:*:*:*:*:wordpress:*:*,DrawBlog Project DrawBlog 0.90 for WordPress,['CVE-2021-24479'],2022-03-20T17:51Z
+9,[0],[0],[0],[0]

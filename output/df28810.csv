@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:batik:1.5.1:rc2:*:*:*:*:*:*,Apache Software Foundation Batik 1.5.1 Release Candidate 2,"['CVE-2015-0250', 'CVE-2017-5662', 'CVE-2018-8013', 'CVE-2019-17566', 'CVE-2020-11987']",2022-03-18T17:43Z
+1,cpe:2.3:a:apache:batik:1.6:*:*:*:*:*:*:*,Apache Software Foundation Batik 1.6,"['CVE-2015-0250', 'CVE-2017-5662', 'CVE-2018-8013', 'CVE-2019-17566', 'CVE-2020-11987']",2022-03-18T17:43Z
+2,cpe:2.3:a:apache:batik:1.6.1:*:*:*:*:*:*:*,Apache Software Foundation Batik 1.6.1,"['CVE-2015-0250', 'CVE-2017-5662', 'CVE-2018-8013', 'CVE-2019-17566', 'CVE-2020-11987']",2022-03-18T17:43Z
+3,cpe:2.3:a:apache:batik:1.7:*:*:*:*:*:*:*,Apache Software Foundation Batik 1.7,"['CVE-2015-0250', 'CVE-2017-5662', 'CVE-2018-8013', 'CVE-2019-17566', 'CVE-2020-11987']",2022-03-18T17:43Z
+4,cpe:2.3:a:apache:batik:1.7:beta1:*:*:*:*:*:*,Apache Software Foundation Batik 1.7 Beta 1,"['CVE-2015-0250', 'CVE-2017-5662', 'CVE-2018-8013', 'CVE-2019-17566', 'CVE-2020-11987']",2022-03-18T17:43Z
+5,cpe:2.3:a:apache:batik:1.7.1:*:*:*:*:*:*:*,Apache Software Foundation Batik 1.7.1,"['CVE-2017-5662', 'CVE-2018-8013', 'CVE-2019-17566', 'CVE-2020-11987']",2022-03-18T17:43Z
+6,cpe:2.3:a:apache:batik:1.8:*:*:*:*:*:*:*,Apache Software Foundation Batik 1.8,"['CVE-2017-5662', 'CVE-2018-8013', 'CVE-2019-17566', 'CVE-2020-11987']",2022-03-18T17:43Z
+7,cpe:2.3:a:apache:batik:1.9:*:*:*:*:*:*:*,Apache Software Foundation Batik 1.9,"['CVE-2018-8013', 'CVE-2019-17566', 'CVE-2020-11987']",2022-03-18T17:43Z
+8,cpe:2.3:a:apache:batik:1.9.1:*:*:*:*:*:*:*,Apache Software Foundation Batik 1.9.1,"['CVE-2018-8013', 'CVE-2019-17566', 'CVE-2020-11987']",2022-03-18T17:43Z
+9,cpe:2.3:a:apache:batik:1.10:*:*:*:*:*:*:*,Apache Software Foundation Batik 1.10,"['CVE-2019-17566', 'CVE-2020-11987']",2022-03-18T17:43Z

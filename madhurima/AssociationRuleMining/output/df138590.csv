@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:webex:4.1:-:*:*:*:iphone_os:*:*,Cisco WebEx 4.1 for Apple iPhone OS (iOS),['CVE-2012-6399'],2022-03-20T01:09Z
+1,cpe:2.3:a:cisco:webex:11.0:*:*:*:*:*:*:*,Cisco WebEx 11.0,['CVE-2013-3425'],2022-03-20T01:09Z
+2,cpe:2.3:a:cisco:webex_advanced_recording_format_player:27.11.0:*:*:*:*:*:*:*,Cisco WebEx Advanced Recording Format (ARF) Player 27.11.0,['CVE-2012-3053'],2022-03-20T01:09Z
+3,cpe:2.3:a:cisco:webex_advanced_recording_format_player:27.11.26:*:*:*:*:*:*:*,Cisco WebEx Advanced Recording Format (ARF) Player 27.11.26,"['CVE-2012-3053', 'CVE-2013-1115', 'CVE-2013-1116']",2022-03-20T01:09Z
+4,cpe:2.3:a:cisco:webex_advanced_recording_format_player:27.21.0:*:*:*:*:*:*:*,Cisco WebEx Advanced Recording Format (ARF) Player 27.21.0,['CVE-2012-3053'],2022-03-20T01:09Z
+5,cpe:2.3:a:cisco:webex_advanced_recording_format_player:27.21.10:*:*:*:*:*:*:*,Cisco WebEx Advanced Recording Format (ARF) Player 27.21.10,"['CVE-2012-3053', 'CVE-2013-1115', 'CVE-2013-1116']",2022-03-20T01:09Z
+6,cpe:2.3:a:cisco:webex_advanced_recording_format_player:27.25.0:*:*:*:*:*:*:*,Cisco WebEx Advanced Recording Format (ARF) Player 27.25.0,['CVE-2012-3053'],2022-03-20T01:09Z
+7,cpe:2.3:a:cisco:webex_advanced_recording_format_player:27.25.10:*:*:*:*:*:*:*,Cisco WebEx Advanced Recording Format (ARF) Player 27.25.10,"['CVE-2012-3053', 'CVE-2013-1115', 'CVE-2013-1116']",2022-03-20T01:09Z
+8,cpe:2.3:a:cisco:webex_advanced_recording_format_player:27.32.0:*:*:*:*:*:*:*,Cisco WebEx Advanced Recording Format (ARF) Player 27.32.0,['CVE-2012-3053'],2022-03-20T01:09Z
+9,cpe:2.3:a:cisco:webex_advanced_recording_format_player:27.32.1:*:*:*:*:*:*:*,Cisco WebEx Advanced Recording Format (ARF) Player 27.32.1,"['CVE-2012-3053', 'CVE-2013-1115', 'CVE-2013-1116']",2022-03-20T01:09Z

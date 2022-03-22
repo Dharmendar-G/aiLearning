@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:unified_ip_8831_conference_phone1_firmware:9.3\(4\)sr3:*:*:*:*:*:*:*,Cisco Unified IP 8831 Conference Phone1 Firmware 9.3(4)SR3,['CVE-2019-1635'],2022-03-20T00:52Z
+1,cpe:2.3:o:cisco:unified_ip_8831_conference_phone1_firmware:10.3\(1\)sr4b:*:*:*:*:*:*:*,Cisco Unified IP 8831 Conference Phone1 Firmware 10.3(1)SR4B,['CVE-2019-1635'],2022-03-20T00:52Z
+2,cpe:2.3:o:cisco:unified_ip_8831_conference_phone1_firmware:11.0\(4\)sr2:*:*:*:*:*:*:*,Cisco Unified IP 8831 Conference Phone1 Firmware 11.0(4)SR2,['CVE-2019-1635'],2022-03-20T00:52Z
+3,cpe:2.3:o:cisco:unified_ip_8831_conference_phone1_firmware:12.1\(1\)sr1:*:*:*:*:*:*:*,Cisco Unified IP 8831 Conference Phone1 Firmware 12.1(1)SR1,['CVE-2019-1635'],2022-03-20T00:52Z
+4,cpe:2.3:h:cisco:unified_ip_conference_phone_8831:-:*:*:*:*:*:*:*,Cisco Unified IP Conference Phone 8831,"['CVE-2020-3111', 'CVE-2020-3574', 'CVE-2022-20660']",2022-03-20T00:52Z
+5,cpe:2.3:o:cisco:unified_ip_conference_phone_8831_firmware:9.3\(3\):*:*:*:*:*:*:*,Cisco Unified IP Conference Phone 8831 Firmware 9.3(3),['CVE-2020-3111'],2022-03-20T00:52Z
+6,cpe:2.3:o:cisco:unified_ip_conference_phone_8831_firmware:9.3\(4\):*:*:*:*:*:*:*,Cisco Unified IP Conference Phone 8831 Firmware 9.3(4),['CVE-2020-3111'],2022-03-20T00:53Z
+7,cpe:2.3:o:cisco:unified_ip_conference_phone_8831_firmware:9.3\(4\):servicerelease3:*:*:*:*:*:*,Cisco Unified IP Conference Phone 8831 Firmware 9.3(4) Service Release3,"['CVE-2020-3111', 'CVE-2020-3574']",2022-03-20T00:52Z
+8,cpe:2.3:o:cisco:unified_ip_conference_phone_8831_firmware:9.3\(4\)sr1:*:*:*:*:*:*:*,Cisco Unified IP Conference Phone 8831 Firmware 9.3(4)SR1,['CVE-2020-3111'],2022-03-20T00:53Z
+9,cpe:2.3:o:cisco:unified_ip_conference_phone_8831_firmware:9.3\(4\)sr2:*:*:*:*:*:*:*,Cisco Unified IP Conference Phone 8831 Firmware 9.3(4)SR2,['CVE-2020-3111'],2022-03-20T00:53Z

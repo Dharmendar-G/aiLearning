@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:rational_focal_point:6.5.2.2:*:*:*:*:*:*:*,IBM Rational Focal Point 6.5.2.2,"['CVE-2013-3025', 'CVE-2014-0839', 'CVE-2014-0840', 'CVE-2014-0842', 'CVE-2014-0843', 'CVE-2014-0853']",2022-03-21T21:43Z
+1,cpe:2.3:a:ibm:rational_focal_point:6.5.2.3:*:*:*:*:*:*:*,IBM Rational Focal Point 6.5.2.3,"['CVE-2013-3025', 'CVE-2013-5397', 'CVE-2013-5398', 'CVE-2014-0839', 'CVE-2014-0840', 'CVE-2014-0842', 'CVE-2014-0843', 'CVE-2014-0853']",2022-03-21T21:43Z
+2,cpe:2.3:a:ibm:rational_focal_point:6.6:*:*:*:*:*:*:*,IBM Rational Focal Point 6.6,"['CVE-2013-3025', 'CVE-2013-5397', 'CVE-2013-5398', 'CVE-2014-0839', 'CVE-2014-0840', 'CVE-2014-0841', 'CVE-2014-0842', 'CVE-2014-0843', 'CVE-2014-0853']",2022-03-21T21:43Z
+3,cpe:2.3:a:ibm:rational_focal_point:6.6.0.1:*:*:*:*:*:*:*,IBM Rational Focal Point 6.6.0.1,"['CVE-2013-5397', 'CVE-2013-5398', 'CVE-2014-0839', 'CVE-2014-0840', 'CVE-2014-0842', 'CVE-2014-0843', 'CVE-2014-0853']",2022-03-21T21:43Z
+4,cpe:2.3:a:ibm:rational_focal_point:6.6.1:*:*:*:*:*:*:*,IBM Rational Focal Point 6.6.1,"['CVE-2013-5397', 'CVE-2013-5398']",2022-03-21T21:43Z
+5,cpe:2.3:a:ibm:rational_host_on-demand:1.6.0.12:*:*:*:*:*:*:*,IBM Rational Host On-Demand 1.6.0.12,"['CVE-2012-4820', 'CVE-2012-4821', 'CVE-2012-4822', 'CVE-2012-4823']",2022-03-21T21:43Z
+6,cpe:2.3:a:ibm:rational_host_on-demand:8.0.8.0:*:*:*:*:*:*:*,IBM Rational Host On-Demand 8.0.8.0,"['CVE-2012-4820', 'CVE-2012-4821', 'CVE-2012-4822', 'CVE-2012-4823']",2022-03-21T21:43Z
+7,cpe:2.3:a:ibm:rational_host_on-demand:9.0.8.0:*:*:*:*:*:*:*,IBM Rational Host On-Demand 9.0.8.0,"['CVE-2012-4820', 'CVE-2012-4821', 'CVE-2012-4822', 'CVE-2012-4823']",2022-03-21T21:43Z
+8,cpe:2.3:a:ibm:rational_host_on-demand:10.0.9.0:*:*:*:*:*:*:*,IBM Rational Host On-Demand 10.0.9.0,"['CVE-2012-4820', 'CVE-2012-4821', 'CVE-2012-4822', 'CVE-2012-4823']",2022-03-21T21:43Z
+9,cpe:2.3:a:ibm:rational_host_on-demand:10.0.10.0:*:*:*:*:*:*:*,IBM Rational Host On-Demand 10.0.10.0,"['CVE-2012-4820', 'CVE-2012-4821', 'CVE-2012-4822', 'CVE-2012-4823']",2022-03-21T21:43Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:wireless_lan_controller_software:8.0.132.0:*:*:*:*:*:*:*,Cisco Wireless LAN Controller (WLC) Software 8.0.132.0,"['CVE-2018-0248', 'CVE-2019-15266', 'CVE-2019-1830', 'CVE-2021-1423', 'CVE-2021-1449']",2022-03-20T01:24Z
+1,cpe:2.3:o:cisco:wireless_lan_controller_software:8.0.140.0:*:*:*:*:*:*:*,Cisco Wireless LAN Controller (WLC) Software 8.0.140.0,"['CVE-2018-0417', 'CVE-2018-0442', 'CVE-2019-1797', 'CVE-2020-3560']",2022-03-20T01:24Z
+2,cpe:2.3:o:cisco:wireless_lan_controller_software:8.0.150.0:*:*:*:*:*:*:*,Cisco Wireless LAN Controller (WLC) Software 8.0.150.0,"['CVE-2018-0417', 'CVE-2018-0442', 'CVE-2019-1797', 'CVE-2020-3560']",2022-03-20T01:24Z
+3,cpe:2.3:o:cisco:wireless_lan_controller_software:8.0.152.0:*:*:*:*:*:*:*,Cisco Wireless LAN Controller (WLC) Software 8.0.152.0,"['CVE-2018-0417', 'CVE-2018-0442', 'CVE-2019-1797', 'CVE-2020-3560']",2022-03-20T01:24Z
+4,cpe:2.3:o:cisco:wireless_lan_controller_software:8.0_base:*:*:*:*:*:*:*,Cisco Wireless LAN Controller (WLC) Software 8.0 Base,"['CVE-2018-0417', 'CVE-2018-0442', 'CVE-2019-1797', 'CVE-2020-3560']",2022-03-20T01:24Z
+5,cpe:2.3:a:cisco:wireless_lan_controller_software:8.0_base:*:*:*:*:*:*:*,Cisco Wireless LAN Controller (WLC) Software 8.0 BASE,"['CVE-2015-6314', 'CVE-2018-0248', 'CVE-2019-15266', 'CVE-2019-1830', 'CVE-2021-1423', 'CVE-2021-1449']",2022-03-20T01:24Z
+6,cpe:2.3:o:cisco:wireless_lan_controller_software:8.1:*:*:*:*:*:*:*,Cisco Wireless LAN Controller (WLC) Software 8.1,"['CVE-2018-0417', 'CVE-2018-0442', 'CVE-2019-1797', 'CVE-2020-3560']",2022-03-20T01:24Z
+7,cpe:2.3:a:cisco:wireless_lan_controller_software:8.1\(111.0\):*:*:*:*:*:*:*,Cisco Wireless Lan Controller Software 8.1(111.0),"['CVE-2018-0248', 'CVE-2018-0382', 'CVE-2019-15266', 'CVE-2019-1830', 'CVE-2021-1423', 'CVE-2021-1449']",2022-03-20T01:24Z
+8,cpe:2.3:o:cisco:wireless_lan_controller_software:8.1.0:*:*:*:*:*:*:*,Cisco Wireless LAN Controller (WLC) Software 8.1.0,"['CVE-2016-6375', 'CVE-2018-0417', 'CVE-2018-0442', 'CVE-2019-1797', 'CVE-2020-3560']",2022-03-20T01:24Z
+9,cpe:2.3:a:cisco:wireless_lan_controller_software:8.1.0:*:*:*:*:*:*:*,Cisco Wireless LAN Controller (WLC) Software 8.1.0,"['CVE-2015-6314', 'CVE-2018-0248', 'CVE-2019-15266', 'CVE-2019-1830', 'CVE-2021-1423', 'CVE-2021-1449']",2022-03-20T01:24Z

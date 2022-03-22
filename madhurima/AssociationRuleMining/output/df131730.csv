@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:pix_firewall:501_base:*:*:*:*:*:*:*,Cisco Pix Firewall 501 Base,"['CVE-2005-4499', 'CVE-2016-6366']",2022-03-19T23:40Z
+1,cpe:2.3:o:cisco:pix_firewall:506_base:*:*:*:*:*:*:*,Cisco Pix Firewall 506 Base,"['CVE-2005-4499', 'CVE-2016-6366']",2022-03-19T23:40Z
+2,cpe:2.3:o:cisco:pix_firewall:515_base:*:*:*:*:*:*:*,Cisco Pix Firewall 515 Base,"['CVE-2005-4499', 'CVE-2016-6366']",2022-03-19T23:40Z
+3,cpe:2.3:o:cisco:pix_firewall:515e_base:*:*:*:*:*:*:*,Cisco Pix Firewall 515e Base,"['CVE-2005-4499', 'CVE-2016-6366']",2022-03-19T23:40Z
+4,cpe:2.3:o:cisco:pix_firewall:520_base:*:*:*:*:*:*:*,Cisco Pix Firewall 520 Base,"['CVE-2005-4499', 'CVE-2016-6366']",2022-03-19T23:40Z
+5,cpe:2.3:o:cisco:pix_firewall:525_6.3:*:*:*:*:*:*:*,Cisco Pix Firewall 525 6.3,"['CVE-2005-4499', 'CVE-2016-6366']",2022-03-19T23:40Z
+6,cpe:2.3:o:cisco:pix_firewall:525_base:*:*:*:*:*:*:*,Cisco Pix Firewall 525 Base,"['CVE-2005-4499', 'CVE-2016-6366']",2022-03-19T23:40Z
+7,cpe:2.3:o:cisco:pix_firewall:535_base:*:*:*:*:*:*:*,Cisco Pix Firewall 535 Base,"['CVE-2005-4499', 'CVE-2016-6366']",2022-03-19T23:40Z
+8,cpe:2.3:o:cisco:pix_firewall:base:*:*:*:*:*:*:*,Cisco Pix Firewall Base,"['CVE-2005-4499', 'CVE-2016-6366']",2022-03-19T23:40Z
+9,cpe:2.3:h:cisco:pix_firewall_501:-:*:*:*:*:*:*:*,Cisco PIX Firewall 501,"['CVE-2005-4499', 'CVE-2006-3906', 'CVE-2006-4194', 'CVE-2006-4312', 'CVE-2010-1579']",2022-03-19T23:40Z

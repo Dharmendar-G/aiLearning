@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:asyncssh_project:asyncssh:1.10.1:*:*:*:*:*:*:*,AsyncSSH Project AsyncSSH 1.10.1,['CVE-2018-7749'],2022-03-19T00:07Z
+1,cpe:2.3:a:asyncssh_project:asyncssh:1.11.0:*:*:*:*:*:*:*,AsyncSSH Project AsyncSSH 1.11.0,['CVE-2018-7749'],2022-03-19T00:07Z
+2,cpe:2.3:a:asyncssh_project:asyncssh:1.11.1:*:*:*:*:*:*:*,AsyncSSH Project AsyncSSH 1.11.1,['CVE-2018-7749'],2022-03-19T00:07Z
+3,cpe:2.3:a:asyncssh_project:asyncssh:1.12.0:*:*:*:*:*:*:*,AsyncSSH Project AsyncSSH 1.12.0,['CVE-2018-7749'],2022-03-19T00:07Z
+4,cpe:2.3:a:asyncssh_project:asyncssh:1.12.1:*:*:*:*:*:*:*,AsyncSSH Project AsyncSSH 1.12.1,[''],2022-03-19T00:07Z
+5,cpe:2.3:a:asynkron:wire:0.0.1:*:*:*:*:*:*:*,Asynkron Wire 0.0.1,['CVE-2021-29508'],2022-03-19T00:07Z
+6,cpe:2.3:a:asynkron:wire:0.0.2:*:*:*:*:*:*:*,Asynkron Wire 0.0.2,['CVE-2021-29508'],2022-03-19T00:07Z
+7,cpe:2.3:a:asynkron:wire:0.0.3:*:*:*:*:*:*:*,Asynkron Wire 0.0.3,['CVE-2021-29508'],2022-03-19T00:07Z
+8,cpe:2.3:a:asynkron:wire:0.0.4:*:*:*:*:*:*:*,Asynkron Wire 0.0.4,['CVE-2021-29508'],2022-03-19T00:07Z
+9,cpe:2.3:a:asynkron:wire:0.0.5:*:*:*:*:*:*:*,Asynkron Wire 0.0.5,['CVE-2021-29508'],2022-03-19T00:07Z

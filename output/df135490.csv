@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:telepresence_manager:1.7.1\(732\):*:*:*:*:*:*:*,Cisco TelePresence Manager 1.7.1(732),"['CVE-2012-2486', 'CVE-2012-3073']",2022-03-20T00:30Z
+1,cpe:2.3:a:cisco:telepresence_manager:1.7.2\(256\):*:*:*:*:*:*:*,Cisco TelePresence Manager 1.7.2(256),"['CVE-2012-2486', 'CVE-2012-3073']",2022-03-20T00:30Z
+2,cpe:2.3:a:cisco:telepresence_manager:1.7.3.1:*:*:*:*:*:*:*,Cisco TelePresence Manager 1.7.3.1,"['CVE-2012-2486', 'CVE-2012-3073']",2022-03-20T00:30Z
+3,cpe:2.3:a:cisco:telepresence_manager:1.7.4:*:*:*:*:*:*:*,Cisco TelePresence Manager 1.7.4,"['CVE-2012-2486', 'CVE-2012-3073']",2022-03-20T00:30Z
+4,cpe:2.3:a:cisco:telepresence_manager:1.7.5\(62\):*:*:*:*:*:*:*,Cisco TelePresence Manager 1.7.5(62),"['CVE-2012-2486', 'CVE-2012-3073']",2022-03-20T00:30Z
+5,cpe:2.3:a:cisco:telepresence_manager:1.8.0\(582\):*:*:*:*:*:*:*,Cisco TelePresence Manager 1.8.0(582),"['CVE-2012-2486', 'CVE-2012-3073']",2022-03-20T00:30Z
+6,cpe:2.3:a:cisco:telepresence_manager:1.8.1\(682\):*:*:*:*:*:*:*,Cisco TelePresence Manager 1.8.1(682),"['CVE-2012-2486', 'CVE-2012-3073']",2022-03-20T00:30Z
+7,cpe:2.3:a:cisco:telepresence_manager:1.9.0\(198\):*:*:*:*:*:*:*,Cisco TelePresence Manager 1.9.0(198),[''],2022-03-20T00:30Z
+8,cpe:2.3:a:cisco:telepresence_mcu_4500_series_software:4.1\(1.51\):*:*:*:*:*:*:*,Cisco TelePresence MCU 4500 Series 4.1(1.51),['CVE-2013-1176'],2022-03-20T00:30Z
+9,cpe:2.3:a:cisco:telepresence_mcu_4500_series_software:4.1\(1.59\):*:*:*:*:*:*:*,Cisco TelePresence MCU 4500 Series 4.1(1.59),['CVE-2013-1176'],2022-03-20T00:30Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:jabber_software_development_kit:9.2\(7\):*:*:*:*:*:*:*,Cisco Jabber Software Development Kit (SDK) 9.2(7),['CVE-2015-6360'],2022-03-19T22:49Z
+1,cpe:2.3:a:cisco:jabber_software_development_kit:9.3\(0\):*:*:*:*:*:*:*,Cisco Jabber Software Development Kit (SDK) 9.3(0),['CVE-2015-6360'],2022-03-19T22:49Z
+2,cpe:2.3:a:cisco:jabber_software_development_kit:9.3\(1\):*:*:*:*:*:*:*,Cisco Jabber Software Development Kit (SDK) 9.3(1),['CVE-2015-6360'],2022-03-19T22:49Z
+3,cpe:2.3:a:cisco:jabber_software_development_kit:9.3\(2\):*:*:*:*:*:*:*,Cisco Jabber Software Development Kit (SDK) 9.3(2),['CVE-2015-6360'],2022-03-19T22:49Z
+4,cpe:2.3:a:cisco:leap:-:*:*:*:*:*:*:*,Cisco LEAP,['CVE-2003-1096'],2022-03-19T22:49Z
+5,cpe:2.3:a:cisco:leap:1.0.19:*:*:*:*:*:*:*,Cisco Leap 1.0.19,['CVE-2003-1096'],2022-03-19T22:49Z
+6,cpe:2.3:a:cisco:libsrtp:1.0.1:*:*:*:*:*:*:*,Cisco libSRTP 1.0.1,"['CVE-2013-2139', 'CVE-2015-6360']",2022-03-19T22:50Z
+7,cpe:2.3:a:cisco:libsrtp:1.0.2:*:*:*:*:*:*:*,Cisco libSRTP 1.0.2,"['CVE-2013-2139', 'CVE-2015-6360']",2022-03-19T22:49Z
+8,cpe:2.3:a:cisco:libsrtp:1.0.4:*:*:*:*:*:*:*,Cisco libSRTP 1.0.4,"['CVE-2013-2139', 'CVE-2015-6360']",2022-03-19T22:50Z
+9,cpe:2.3:a:cisco:libsrtp:1.0.5:*:*:*:*:*:*:*,Cisco libSRTP 1.0.5,"['CVE-2013-2139', 'CVE-2015-6360']",2022-03-19T22:50Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:arm:arm-trusted-firmware:1.6:-:*:*:*:*:*:*,ARM Trusted Firmware 1.6,[''],2022-03-18T23:05Z
+1,cpe:2.3:o:arm:arm-trusted-firmware:1.6:rc0:*:*:*:*:*:*,ARM Trusted Firmware 1.6 Release Candidate 0,[''],2022-03-18T23:05Z
+2,cpe:2.3:o:arm:arm-trusted-firmware:1.6:rc1:*:*:*:*:*:*,ARM Trusted Firmware 1.6 Release Candidate 1,[''],2022-03-18T23:05Z
+3,cpe:2.3:o:arm:arm-trusted-firmware:2.0:-:*:*:*:*:*:*,ARM Trusted Firmware 2.0,[''],2022-03-18T23:05Z
+4,cpe:2.3:o:arm:arm-trusted-firmware:2.0:rc0:*:*:*:*:*:*,ARM Trusted Firmware 2.0 Release Candidate 0,[''],2022-03-18T23:05Z
+5,cpe:2.3:o:arm:arm-trusted-firmware:2.1:-:*:*:*:*:*:*,ARM Trusted Firmware 2.1,[''],2022-03-18T23:05Z
+6,cpe:2.3:o:arm:arm-trusted-firmware:2.1:rc0:*:*:*:*:*:*,ARM Trusted Firmware 2.1 Release Candidate 0,[''],2022-03-18T23:05Z
+7,cpe:2.3:o:arm:arm-trusted-firmware:2.1:rc1:*:*:*:*:*:*,ARM Trusted Firmware 2.1 Release Candidate 1,[''],2022-03-18T23:05Z
+8,cpe:2.3:o:arm:arm-trusted-firmware:2.2:-:*:*:*:*:*:*,ARM Trusted Firmware 2.2,[''],2022-03-18T23:05Z
+9,cpe:2.3:o:arm:arm-trusted-firmware:2.2:rc0:*:*:*:*:*:*,ARM Trusted Firmware 2.2 Release Candidate 0,[''],2022-03-18T23:05Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.844.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.844.0 for Node.js,[''],2022-03-18T15:44Z
+1,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.845.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.845.0 for Node.js,[''],2022-03-18T15:44Z
+2,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.846.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.846.0 for Node.js,[''],2022-03-18T15:44Z
+3,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.847.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.847.0 for Node.js,[''],2022-03-18T15:44Z
+4,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.848.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.848.0 for Node.js,[''],2022-03-18T15:44Z
+5,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.849.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.849.0 for Node.js,[''],2022-03-18T15:44Z
+6,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.850.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.850.0 for Node.js,[''],2022-03-18T15:44Z
+7,cpe:2.3:a:amazon:aws_sdk_for_javascipt:2.851.0:*:*:*:*:node.js:*:*,Amazon AWS SDK for JavaScript 2.851.0 for Node.js,[''],2022-03-18T15:44Z
+8,cpe:2.3:a:amazon:aws_shared_configuration_file_loader:0.1.0:*:*:*:*:node.js:*:*,Amazon AWS Shared Configuration File Loader 0.1.0 for Node.js,[''],2022-03-18T15:44Z
+9,cpe:2.3:a:amazon:aws_shared_configuration_file_loader:0.2.0:*:*:*:*:node.js:*:*,Amazon AWS Shared Configuration File Loader 0.2.0 for Node.js,[''],2022-03-18T15:44Z

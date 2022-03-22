@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hashicorp:vagrant_vmware_fusion:5.0.4:*:*:*:*:vagrant:*:*,HashiCorp Vagrant VMware Fusion 5.0.4 for Vagrant,"['CVE-2017-16512', 'CVE-2017-16839', 'CVE-2017-16873']",2022-03-21T09:55Z
+1,cpe:2.3:a:hashicorp:vault:0.1.0:*:*:*:*:*:*:*,HashiCorp Vault 0.1.0,['CVE-2018-19786'],2022-03-21T09:55Z
+2,cpe:2.3:a:hashicorp:vault:0.1.1:*:*:*:*:*:*:*,HashiCorp Vault 0.1.1,['CVE-2018-19786'],2022-03-21T09:55Z
+3,cpe:2.3:a:hashicorp:vault:0.1.2:*:*:*:*:*:*:*,HashiCorp Vault 0.1.2,['CVE-2018-19786'],2022-03-21T09:55Z
+4,cpe:2.3:a:hashicorp:vault:0.2.0:-:*:*:*:*:*:*,HashiCorp Vault 0.2.0,['CVE-2018-19786'],2022-03-21T09:55Z
+5,cpe:2.3:a:hashicorp:vault:0.2.0:rc1:*:*:*:*:*:*,HashiCorp Vault 0.2.0 Release Candidate 1,['CVE-2018-19786'],2022-03-21T09:55Z
+6,cpe:2.3:a:hashicorp:vault:0.3.0:-:*:*:*:*:*:*,HashiCorp Vault 0.3.0,['CVE-2018-19786'],2022-03-21T09:55Z
+7,cpe:2.3:a:hashicorp:vault:0.3.0:rc1:*:*:*:*:*:*,HashiCorp Vault 0.3.0 Release Candidate 1,['CVE-2018-19786'],2022-03-21T09:55Z
+8,cpe:2.3:a:hashicorp:vault:0.3.1:*:*:*:*:*:*:*,HashiCorp Vault 0.3.1,['CVE-2018-19786'],2022-03-21T09:55Z
+9,cpe:2.3:a:hashicorp:vault:0.4.0:-:*:*:*:*:*:*,HashiCorp Vault 0.4.0,['CVE-2018-19786'],2022-03-21T09:55Z

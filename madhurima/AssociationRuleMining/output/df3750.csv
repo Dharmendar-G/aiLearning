@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:abb:ac500_cpu_firmware:2.5.3:*:*:*:*:*:*:*,ABB AC500 CPU Firmware 2.5.3,['CVE-2020-24685'],2022-03-18T10:28Z
+1,cpe:2.3:o:abb:ac500_cpu_firmware:2.6.0:*:*:*:*:*:*:*,ABB AC500 CPU Firmware 2.6.0,['CVE-2020-24685'],2022-03-18T10:28Z
+2,cpe:2.3:o:abb:ac500_cpu_firmware:2.7.0:*:*:*:*:*:*:*,ABB AC500 CPU Firmware 2.7.0,['CVE-2020-24685'],2022-03-18T10:28Z
+3,cpe:2.3:o:abb:ac500_cpu_firmware:2.7.2:*:*:*:*:*:*:*,ABB AC500 CPU Firmware 2.7.2,['CVE-2020-24685'],2022-03-18T10:28Z
+4,cpe:2.3:o:abb:ac500_cpu_firmware:2.8.4:*:*:*:*:*:*:*,ABB AC500 CPU Firmware 2.8.4,['CVE-2020-24685'],2022-03-18T10:28Z
+5,cpe:2.3:o:abb:ac500_cpu_firmware:2.8.5:*:*:*:*:*:*:*,ABB AC500 CPU Firmware 2.8.5,[''],2022-03-18T10:28Z
+6,cpe:2.3:h:abb:ac800m:-:*:*:*:*:*:*:*,ABB AC800M,"['CVE-2020-8472', 'CVE-2020-8478']",2022-03-18T10:28Z
+7,cpe:2.3:a:abb:asset_suite:9.0.0:*:*:*:*:*:*:*,ABB Asset Suite 9.0.0,['CVE-2019-18998'],2022-03-18T10:28Z
+8,cpe:2.3:a:abb:asset_suite:9.4.2.6:*:*:*:*:*:*:*,ABB Asset Suite 9.4.2.6,[''],2022-03-18T10:28Z
+9,cpe:2.3:a:abb:asset_suite:9.5.0:*:*:*:*:*:*:*,ABB Asset Suite 9.5.0,['CVE-2019-18998'],2022-03-18T10:28Z

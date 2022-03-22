@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:openview_performance_agent:4.70.0:*:*:*:*:*:*:*,HP Openview Performance Agent 4.70.0,[''],2022-03-21T15:36Z
+1,cpe:2.3:a:hp:openview_performance_agent:5.0.0:*:*:*:*:*:*:*,HP Openview Performance Agent 5.0.0,[''],2022-03-21T15:36Z
+2,cpe:2.3:a:hp:openview_performance_agent:c.04.60:*:*:*:*:*:*:*,HP Performance Agent C.04.60,"['CVE-2007-4349', 'CVE-2008-4420']",2022-03-21T15:36Z
+3,cpe:2.3:a:hp:openview_performance_agent:c.04.61:*:*:*:*:*:*:*,HP Performance Agent C.04.61,['CVE-2007-4349'],2022-03-21T15:36Z
+4,cpe:2.3:a:hp:openview_performance_core:10.0.123:*:*:*:*:*:*:*,HP Openview Performance Core 10.0.123,[''],2022-03-21T15:36Z
+5,cpe:2.3:a:hp:openview_performance_core:10.0.131:*:*:*:*:*:*:*,HP Openview Performance Core 10.0.131,[''],2022-03-21T15:36Z
+6,cpe:2.3:a:hp:openview_performance_core:10.0.241:*:*:*:*:*:*:*,HP Openview Performance Core 10.0.241,[''],2022-03-21T15:36Z
+7,cpe:2.3:a:hp:openview_performance_core:10.50.40:*:*:*:*:*:*:*,HP Openview Performance Core 10.50.40,[''],2022-03-21T15:36Z
+8,cpe:2.3:a:hp:openview_performance_extended_capability_technology:4.50.0:*:*:*:*:*:*:*,HP Openview Performance Extended Capability Technology 4.50.0,[''],2022-03-21T15:36Z
+9,cpe:2.3:a:hp:openview_performance_extended_capability_technology:4.59.1:*:*:*:*:*:*:*,HP Openview Performance Extended Capability Technology 4.59.1,[''],2022-03-21T15:36Z

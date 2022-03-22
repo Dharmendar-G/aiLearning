@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apollosapp:data-connector-rock:2.18.0:*:*:*:*:node.js:*:*,Apollos App data-connector-rock 2.18.0 for Node.js,['CVE-2021-32691'],2022-03-18T21:28Z
+1,cpe:2.3:a:apollosapp:data-connector-rock:2.18.1:-:*:*:*:node.js:*:*,Apollos App data-connector-rock 2.18.1 for Node.js,['CVE-2021-32691'],2022-03-18T21:28Z
+2,cpe:2.3:a:apollosapp:data-connector-rock:2.18.1:canary2:*:*:*:node.js:*:*,Apollos App data-connector-rock 2.18.1 Canary 2 for Node.js,['CVE-2021-32691'],2022-03-18T21:28Z
+3,cpe:2.3:a:apollosapp:data-connector-rock:2.18.2:canary3:*:*:*:node.js:*:*,Apollos App data-connector-rock 2.18.2 Canary 3 for Node.js,['CVE-2021-32691'],2022-03-18T21:28Z
+4,cpe:2.3:a:apollosapp:data-connector-rock:2.19.0:*:*:*:*:node.js:*:*,Apollos App data-connector-rock 2.19.0 for Node.js,['CVE-2021-32691'],2022-03-18T21:28Z
+5,cpe:2.3:a:apollosapp:data-connector-rock:2.19.1:canary10:*:*:*:node.js:*:*,Apollos App data-connector-rock 2.19.1 Canary 10 for Node.js,['CVE-2021-32691'],2022-03-18T21:28Z
+6,cpe:2.3:a:apollosapp:data-connector-rock:2.20.0:*:*:*:*:node.js:*:*,Apollos App data-connector-rock 2.20.0 for Node.js,[''],2022-03-18T21:28Z
+7,cpe:2.3:a:apollosapp:data-connector-rock:2.21.0:*:*:*:*:node.js:*:*,Apollos App data-connector-rock 2.21.0 for Node.js,[''],2022-03-18T21:28Z
+8,cpe:2.3:a:apollosapp:data-connector-rock:2.21.1:*:*:*:*:node.js:*:*,Apollos App data-connector-rock 2.21.1 for Node.js,[''],2022-03-18T21:28Z
+9,cpe:2.3:a:apollosapp:data-connector-rock:2.21.2:-:*:*:*:node.js:*:*,Apollos App data-connector-rock 2.21.2 for Node.js,[''],2022-03-18T21:28Z

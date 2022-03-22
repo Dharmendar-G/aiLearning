@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:br-automation:automation_studio:4.2.9.65:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.2.9.65,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:39Z
+1,cpe:2.3:a:br-automation:automation_studio:4.2.10.53:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.2.10.53,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:39Z
+2,cpe:2.3:a:br-automation:automation_studio:4.2.11.97:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.2.11.97,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:39Z
+3,cpe:2.3:a:br-automation:automation_studio:4.2.12.129:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.2.12.129,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:39Z
+4,cpe:2.3:a:br-automation:automation_studio:4.2.13.102:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.2.13.102,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:39Z
+5,cpe:2.3:a:br-automation:automation_studio:4.2.14.119:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.2.14.119,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19102', 'CVE-2019-19108']",2022-03-19T10:39Z
+6,cpe:2.3:a:br-automation:automation_studio:4.3:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.3,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19108']",2022-03-19T10:39Z
+7,cpe:2.3:a:br-automation:automation_studio:4.3.3.196:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.3.3.196,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19108']",2022-03-19T10:39Z
+8,cpe:2.3:a:br-automation:automation_studio:4.3.4.121:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.3.4.121,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19108']",2022-03-19T10:39Z
+9,cpe:2.3:a:br-automation:automation_studio:4.3.5.113:*:*:*:*:*:*:*,B&R Automation Automation Studio 4.3.5.113,"['CVE-2019-19100', 'CVE-2019-19101', 'CVE-2019-19108']",2022-03-19T10:39Z

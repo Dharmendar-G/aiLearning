@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:altiris:diagnostics:6.1.7325.0:*:*:*:*:*:*:*,Altiris Diagnostics 6.1.7325.0,[''],2022-03-18T15:14Z
+1,cpe:2.3:a:altiris:diagnostics:6.1.7631.0:*:*:*:*:*:*:*,Altiris Diagnostics 6.1.7631.0,[''],2022-03-18T15:14Z
+2,cpe:2.3:a:altiris:discovery_for_rim:6.1.1091:*:*:*:*:*:*:*,Altiris Discovery For Rim 6.1.1091,[''],2022-03-18T15:14Z
+3,cpe:2.3:a:altiris:endpoint_security_solution:6.0.479:*:*:*:*:*:*:*,Altiris Endpoint Security Solution 6.0.479,[''],2022-03-18T15:14Z
+4,cpe:2.3:a:altiris:endpoint_security_solution_documentation:6.0.1007:*:*:*:*:*:*:*,Altiris Endpoint Security Solution Documentation 6.0.1007,[''],2022-03-18T15:14Z
+5,cpe:2.3:a:altiris:energy_saver_toolkit:6.0.1214:*:*:*:*:*:*:*,Altiris Energy Saver Toolkit 6.0.1214,[''],2022-03-18T15:14Z
+6,cpe:2.3:a:altiris:energy_saver_toolkit_documentation:6.0.1006:*:*:*:*:*:*:*,Altiris Energy Saver Toolkit Documentation 6.0.1006,[''],2022-03-18T15:14Z
+7,cpe:2.3:a:altiris:express_deployment_console:6.8:*:*:*:*:*:*:*,Altiris Express Deployment Console 6.8,[''],2022-03-18T15:14Z
+8,cpe:2.3:a:altiris:express_deployment_console:6.9:*:*:*:*:*:*:*,Altiris Express Deployment Console 6.9,[''],2022-03-18T15:14Z
+9,cpe:2.3:a:altiris:express_deployment_datastore:6.8:*:*:*:*:*:*:*,Altiris Express Deployment Datastore 6.8,[''],2022-03-18T15:14Z

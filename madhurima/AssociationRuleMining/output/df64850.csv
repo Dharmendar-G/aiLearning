@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aveva:clearscada:2009:r1.0:*:*:*:*:*:*,AVEVA ClearSCADA 2009 R1.0,"['CVE-2011-3143', 'CVE-2011-3144', 'CVE-2017-6021', 'CVE-2017-9962']",2022-03-19T04:22Z
+1,cpe:2.3:a:aveva:clearscada:2009:r1.1:*:*:*:*:*:*,AVEVA ClearSCADA 2009 R1.1,"['CVE-2011-3143', 'CVE-2011-3144', 'CVE-2017-6021', 'CVE-2017-9962']",2022-03-19T04:22Z
+2,cpe:2.3:a:aveva:clearscada:2009:r1.2:*:*:*:*:*:*,AVEVA ClearSCADA 2009 R1.2,"['CVE-2011-3143', 'CVE-2011-3144', 'CVE-2017-6021', 'CVE-2017-9962']",2022-03-19T04:22Z
+3,cpe:2.3:a:aveva:clearscada:2009:r1.3:*:*:*:*:*:*,AVEVA ClearSCADA 2009 R1.3,"['CVE-2011-3143', 'CVE-2011-3144', 'CVE-2017-6021', 'CVE-2017-9962']",2022-03-19T04:22Z
+4,cpe:2.3:a:aveva:clearscada:2009:r2.0:*:*:*:*:*:*,AVEVA ClearSCADA 2009 R2.0,"['CVE-2011-3143', 'CVE-2011-3144', 'CVE-2017-6021', 'CVE-2017-9962']",2022-03-19T04:22Z
+5,cpe:2.3:a:aveva:clearscada:2009:r2.1:*:*:*:*:*:*,AVEVA ClearSCADA 2009 R2.1,"['CVE-2011-3143', 'CVE-2011-3144', 'CVE-2017-6021', 'CVE-2017-9962']",2022-03-19T04:22Z
+6,cpe:2.3:a:aveva:clearscada:2009:r2.2:*:*:*:*:*:*,AVEVA ClearSCADA 2009 R2.2,"['CVE-2011-3143', 'CVE-2011-3144', 'CVE-2017-6021', 'CVE-2017-9962']",2022-03-19T04:22Z
+7,cpe:2.3:a:aveva:clearscada:2010:r2:*:*:*:*:*:*,AVEVA ClearSCADA 2010 R2,"['CVE-2013-6142', 'CVE-2014-0779', 'CVE-2017-6021', 'CVE-2017-9962']",2022-03-19T04:22Z
+8,cpe:2.3:a:aveva:clearscada:2010:r2.1:*:*:*:*:*:*,AVEVA ClearSCADA 2010 R2.1,"['CVE-2013-6142', 'CVE-2014-0779', 'CVE-2017-6021', 'CVE-2017-9962']",2022-03-19T04:22Z
+9,cpe:2.3:a:aveva:clearscada:2010:r3:*:*:*:*:*:*,AVEVA ClearSCADA 2010 R3,"['CVE-2013-6142', 'CVE-2014-0779', 'CVE-2014-5411', 'CVE-2014-5412', 'CVE-2014-5413', 'CVE-2017-6021', 'CVE-2017-9962']",2022-03-19T04:22Z

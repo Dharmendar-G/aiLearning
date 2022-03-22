@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:coship:rt3052:-:*:*:*:*:*:*:*,Coship RT3052,"['CVE-2018-8772', 'CVE-2019-6441', 'CVE-2019-7564']",2022-03-20T08:07Z
+1,cpe:2.3:o:coship:rt3052_firmware:4.0.0.48:*:*:*:*:*:*:*,Coship RT3052 Firmware 4.0.0.48,"['CVE-2018-8772', 'CVE-2019-6441', 'CVE-2019-7564']",2022-03-20T08:07Z
+2,cpe:2.3:h:coship:rt7620:-:*:*:*:*:*:*:*,Coship RT7620,"['CVE-2019-6441', 'CVE-2019-7564']",2022-03-20T08:07Z
+3,cpe:2.3:o:coship:rt7620_firmware:10.0.0.49:*:*:*:*:*:*:*,Coship RT7620 Firmware 10.0.0.49,"['CVE-2019-6441', 'CVE-2019-7564']",2022-03-20T08:07Z
+4,cpe:2.3:h:coship:wm3300:-:*:*:*:*:*:*:*,Coship WM3300,"['CVE-2019-6441', 'CVE-2019-7564']",2022-03-20T08:07Z
+5,cpe:2.3:o:coship:wm3300_firmware:5.0.0.54:*:*:*:*:*:*:*,Coship WM3300 Firmware 5.0.0.54,"['CVE-2019-6441', 'CVE-2019-7564']",2022-03-20T08:07Z
+6,cpe:2.3:o:coship:wm3300_firmware:5.0.0.55:*:*:*:*:*:*:*,Coship WM3300 Firmware 5.0.0.55,"['CVE-2019-6441', 'CVE-2019-7564']",2022-03-20T08:07Z
+7,cpe:2.3:a:cosmicperl:directory_pro:2.0:*:*:*:*:*:*:*,Cosmicperl Directory Pro 2.0,['CVE-2001-0780'],2022-03-20T08:07Z
+8,cpe:2.3:a:cosmocms:cosmo:1.0.0:beta2:*:*:*:*:*:*,Cosmo CMS Cosmo 1.0.0 Beta 2,[''],2022-03-20T08:07Z
+9,cpe:2.3:a:cosmocms:cosmo:1.0.0:beta3:*:*:*:*:*:*,Cosmo CMS Cosmo 1.0.0 Beta 3,[''],2022-03-20T08:07Z

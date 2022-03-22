@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:officejet_8022_4kj70b:-:*:*:*:*:*:*:*,HP OfficeJet 8022 4KJ70B,['CVE-2020-28419'],2022-03-21T15:29Z
+1,cpe:2.3:h:hp:officejet_9100:-:*:*:*:*:*:*:*,HP Officejet 9100,[''],2022-03-21T15:29Z
+2,cpe:2.3:h:hp:officejet_d:-:*:*:*:*:*:*:*,HP Officejet D,['CVE-2007-0161'],2022-03-21T15:29Z
+3,cpe:2.3:h:hp:officejet_enterprise_color_flow_mfp_x585:-:*:*:*:*:*:*:*,HP Officejet Enterprise Color Flow Mfp X585 -,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T15:29Z
+4,cpe:2.3:o:hp:officejet_enterprise_color_flow_mfp_x585_firmware:-:*:*:*:*:*:*:*,Hp Officejet Enterprise Color Flow Mfp X585 Firmware -,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T15:29Z
+5,cpe:2.3:o:hp:officejet_enterprise_color_flow_mfp_x585_firmware:2308974_579759:*:*:*:*:*:*:*,Hp Officejet Enterprise Color Flow Mfp X585 Firmware 2308974 579759,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T15:29Z
+6,cpe:2.3:o:hp:officejet_enterprise_color_flow_mfp_x585_firmware:2309010_581406:*:*:*:*:*:*:*,HP Officejet Enterprise Color Flow Mfp X585 Firmware 2309010 581406,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T15:29Z
+7,cpe:2.3:o:hp:officejet_enterprise_color_flow_mfp_x585_firmware:2406048_029636:*:*:*:*:*:*:*,Hp Officejet Enterprise Color Flow Mfp X585 Firmware 2406048 029636,['CVE-2019-6318'],2022-03-21T15:29Z
+8,cpe:2.3:o:hp:officejet_enterprise_color_flow_mfp_x585_firmware:2407081_000567:*:*:*:*:*:*:*,HP Officejet Enterprise Color Flow Mfp X585 Firmware 2407081 000567,[''],2022-03-21T15:29Z
+9,cpe:2.3:h:hp:officejet_enterprise_color_mfp_x585:-:*:*:*:*:*:*:*,HP Officejet Enterprise Color Mfp X585 -,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T15:29Z

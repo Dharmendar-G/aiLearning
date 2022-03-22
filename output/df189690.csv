@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dir-620_firmware:1.3.7:*:*:*:*:*:*:*,D-Link DIR-620 Firmware 1.3.7,[''],2022-03-20T15:48Z
+1,cpe:2.3:o:dlink:dir-620_firmware:1.4.0:*:*:*:*:*:*:*,D-Link DIR-620 Firmware 1.4.0,[''],2022-03-20T15:48Z
+2,cpe:2.3:o:dlink:dir-620_firmware:2.0.22:*:*:*:*:*:*:*,D-Link DIR-620 Firmware 2.0.22,[''],2022-03-20T15:48Z
+3,cpe:2.3:o:dlink:dir-626l_firmware:1.04:b04:*:*:*:*:*:*,D-Link DIR-626L Firmware 1.04 B04,[''],2022-03-20T15:48Z
+4,cpe:2.3:o:dlink:dir-636l_firmware:1.04:*:*:*:*:*:*:*,D-Link DIR-636L Firmware 1.04,[''],2022-03-20T15:48Z
+5,cpe:2.3:h:dlink:dir-640l:-:*:*:*:*:*:*:*,D-Link DIR-640L,"['CVE-2018-18008', 'CVE-2018-18009']",2022-03-20T15:48Z
+6,cpe:2.3:o:dlink:dir-640l_firmware:1.00:*:*:*:*:*:*:*,D-Link DIR-640L Firmware 1.00,['CVE-2018-18008'],2022-03-20T15:48Z
+7,cpe:2.3:o:dlink:dir-640l_firmware:1.01ru:*:*:*:*:*:*:*,D-Link DIR-640L Firmware 1.01RU,"['CVE-2018-18008', 'CVE-2018-18009']",2022-03-20T15:48Z
+8,cpe:2.3:o:dlink:dir-640l_firmware:1.02:*:*:*:*:*:*:*,D-Link DIR-640L Firmware 1.02,['CVE-2018-18008'],2022-03-20T15:48Z
+9,cpe:2.3:h:dlink:dir-645:-:*:*:*:*:*:*:*,D-Link DIR-645,['CVE-2013-7471'],2022-03-20T15:48Z

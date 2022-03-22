@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:8.5\(2\)_sr1:*:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 8.5(2) SR1,['CVE-2015-4262'],2022-03-20T00:55Z
+1,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:8.5\(2\)_sr2:*:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 8.5(2) SR2,['CVE-2015-4262'],2022-03-20T00:55Z
+2,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:8.5\(3\):*:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 8.5(3),['CVE-2015-4262'],2022-03-20T00:55Z
+3,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:8.5\(4\):*:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 8.5(4),['CVE-2015-4262'],2022-03-20T00:55Z
+4,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:8.5\(5\):*:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 8.5(5),[''],2022-03-20T00:56Z
+5,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:8.5\(5\):sr1:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 8.5(5) SR1,[''],2022-03-20T00:56Z
+6,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:8.5\(5\):sr2:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 8.5(5) SR2,[''],2022-03-20T00:56Z
+7,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:8.5\(5\):sr3:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 8.5(5) SR3,[''],2022-03-20T00:56Z
+8,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:8.6\(1\):*:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 8.6(1),[''],2022-03-20T00:56Z
+9,cpe:2.3:a:cisco:unified_meetingplace_web_conferencing:8.6\(1\):sr1:*:*:*:*:*:*,Cisco Unified MeetingPlace Web Conferencing 8.6(1) SR1,[''],2022-03-20T00:56Z

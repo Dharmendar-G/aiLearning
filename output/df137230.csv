@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:unified_intelligence_center:11.6:*:*:*:*:*:*:*,Cisco Unified Intelligence Center 11.6,"['CVE-2017-6779', 'CVE-2021-1395', 'CVE-2021-1463', 'CVE-2021-44228']",2022-03-20T00:52Z
+1,cpe:2.3:o:cisco:unified_intelligence_center:11.6\(1\):*:*:*:*:*:*:*,Cisco Unified Intelligence Center 11.6(1),"['CVE-2019-1658', 'CVE-2021-1395', 'CVE-2021-1463', 'CVE-2021-44228']",2022-03-20T00:52Z
+2,cpe:2.3:a:cisco:unified_intelligence_center:12.0\(1\):*:*:*:*:*:*:*,Cisco Unified Intelligence Center 12.0(1),['CVE-2019-1860'],2022-03-20T00:52Z
+3,cpe:2.3:a:cisco:unified_intelligent_contact_management_enterprise:-:*:*:*:*:*:*:*,Cisco Unified Intelligent Contact Management Enterprise,['CVE-2007-5539'],2022-03-20T00:52Z
+4,cpe:2.3:h:cisco:unified_ip_8831_conference_phone_for_third-party_call_control2:-:*:*:*:*:*:*:*,Cisco Unified IP 8831 Conference Phone For Third-party Call Control 2,['CVE-2019-1635'],2022-03-20T00:52Z
+5,cpe:2.3:o:cisco:unified_ip_8831_conference_phone_for_third-party_call_control2_firmware:9.3\(4\)sr3:*:*:*:*:*:*:*,Cisco Unified IP 8831 Conference Phone For Third-party Call Control2 Firmware 9.3(4)SR3,['CVE-2019-1635'],2022-03-20T00:52Z
+6,cpe:2.3:o:cisco:unified_ip_8831_conference_phone_for_third-party_call_control2_firmware:10.3\(1\)sr4b:*:*:*:*:*:*:*,Cisco Unified IP 8831 Conference Phone For Third-party Call Control2 Firmware 10.3(1)SR4B,['CVE-2019-1635'],2022-03-20T00:52Z
+7,cpe:2.3:o:cisco:unified_ip_8831_conference_phone_for_third-party_call_control2_firmware:11.0\(4\)sr2:*:*:*:*:*:*:*,Cisco Unified IP 8831 Conference Phone For Third-party Call Control2 Firmware 11.0(4)SR2,['CVE-2019-1635'],2022-03-20T00:52Z
+8,cpe:2.3:o:cisco:unified_ip_8831_conference_phone_for_third-party_call_control2_firmware:12.1\(1\)sr1:*:*:*:*:*:*:*,Cisco Unified IP 8831 Conference Phone For Third-party Call Control2 Firmware 12.1(1)SR1,['CVE-2019-1635'],2022-03-20T00:52Z
+9,cpe:2.3:h:cisco:unified_ip_8831_conference_phone1:-:*:*:*:*:*:*:*,Cisco Unified IP 8831 Conference Phone 1,['CVE-2019-1635'],2022-03-20T00:52Z

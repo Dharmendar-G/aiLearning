@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:akcp:sensorprobe8-x20_firmware:sp480-20210624:*:*:*:*:*:*:*,AKCP sensorProbe8-X20 Firmware SP480-20210624,[''],2022-03-18T14:18Z
+1,cpe:2.3:h:akcp:sensorprobe8-x60:-:*:*:*:*:*:*:*,AKCP Solutions sensorProbe8-x60,['CVE-2021-35956'],2022-03-18T14:18Z
+2,cpe:2.3:o:akcp:sensorprobe8-x60_firmware:-:*:*:*:*:*:*:*,AKCP sensorProbe8-X60 Firmware,['CVE-2021-35956'],2022-03-18T14:18Z
+3,cpe:2.3:o:akcp:sensorprobe8-x60_firmware:sp480-20210624:*:*:*:*:*:*:*,AKCP sensorProbe8-X60 Firmware SP480-20210624,[''],2022-03-18T14:18Z
+4,cpe:2.3:a:akeneo:product_information_management:1.4.0:-:*:*:community:*:*:*,Akeneo Product Information Management (PIM) 1.4.0 Community Edition,['CVE-2017-1000009'],2022-03-18T14:18Z
+5,cpe:2.3:a:akeneo:product_information_management:1.4.0:-:*:*:enterprise:*:*:*,Akeneo Product Information Management (PIM) 1.4.0 Enterprise Edition,['CVE-2017-1000009'],2022-03-18T14:18Z
+6,cpe:2.3:a:akeneo:product_information_management:1.4.0:beta1:*:*:community:*:*:*,Akeneo Product Information Management (PIM) 1.4.0 Beta 1 Community Edition,['CVE-2017-1000009'],2022-03-18T14:18Z
+7,cpe:2.3:a:akeneo:product_information_management:1.4.0:beta1:*:*:enterprise:*:*:*,Akeneo Product Information Management (PIM) 1.4.0 Beta 1 Enterprise Edition,['CVE-2017-1000009'],2022-03-18T14:18Z
+8,cpe:2.3:a:akeneo:product_information_management:1.4.0:beta2:*:*:community:*:*:*,Akeneo Product Information Management (PIM) 1.4.0 Beta 2 Community Edition,['CVE-2017-1000009'],2022-03-18T14:18Z
+9,cpe:2.3:a:akeneo:product_information_management:1.4.0:beta2:*:*:enterprise:*:*:*,Akeneo Product Information Management (PIM) 1.4.0 Beta 2 Enterprise Edition,['CVE-2017-1000009'],2022-03-18T14:19Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:identity_services_engine_software:2.0\(0.169\):*:*:*:*:*:*:*,Cisco Identity Services Engine (ISE) 2.0(0.169),"['CVE-2015-4267', 'CVE-2019-15281', 'CVE-2019-15282']",2022-03-19T20:04Z
+1,cpe:2.3:a:cisco:identity_services_engine_software:2.0\(0.901\):*:*:*:*:*:*:*,Cisco Identity Services Engine (ISE) Software 2.0(0.901),"['CVE-2018-0413', 'CVE-2019-15281', 'CVE-2019-15282']",2022-03-19T20:04Z
+2,cpe:2.3:a:cisco:identity_services_engine_software:2.0\(1.130\):*:*:*:*:*:*:*,Cisco Identity Services Engine (ISE) Software 2.0(1.130),"['CVE-2016-9214', 'CVE-2019-15281', 'CVE-2019-15282']",2022-03-19T20:04Z
+3,cpe:2.3:a:cisco:identity_services_engine_software:2.1\(0.188\):*:*:*:*:*:*:*,Cisco Identity Services Engine (ISE) Software 2.1(0.188),"['CVE-2018-0413', 'CVE-2019-15281', 'CVE-2019-15282']",2022-03-19T20:04Z
+4,cpe:2.3:a:cisco:identity_services_engine_software:2.1\(0.229\):*:*:*:*:*:*:*,Cisco Identity Services Engine (ISE) Software 2.1(0.229),"['CVE-2017-12316', 'CVE-2019-15281', 'CVE-2019-15282']",2022-03-19T20:04Z
+5,cpe:2.3:a:cisco:identity_services_engine_software:2.1\(0.905\):*:*:*:*:*:*:*,Cisco Identity Services Engine (ISE) Software 2.1(0.905),"['CVE-2018-0327', 'CVE-2019-15281', 'CVE-2019-15282']",2022-03-19T20:04Z
+6,cpe:2.3:a:cisco:identity_services_engine_software:2.2\(0.231\):*:*:*:*:*:*:*,Cisco Identity Services Engine (ISE) Software 2.2(0.231),"['CVE-2018-0413', 'CVE-2019-15281', 'CVE-2019-15282']",2022-03-19T20:04Z
+7,cpe:2.3:a:cisco:identity_services_engine_software:2.3\(0.298\):*:*:*:*:*:*:*,Cisco Identity Services Engine (ISE) Software 2.3(0.298),"['CVE-2018-0289', 'CVE-2018-0339', 'CVE-2019-15281', 'CVE-2019-15282']",2022-03-19T20:04Z
+8,cpe:2.3:a:cisco:identity_services_engine_software:2.4\(0.126\):*:*:*:*:*:*:*,Cisco Identity Services Engine Software 2.4(0.126),"['CVE-2018-0339', 'CVE-2019-15281', 'CVE-2019-15282']",2022-03-19T20:04Z
+9,cpe:2.3:a:cisco:identity_services_engine_software:2.4\(0.183\):*:*:*:*:*:*:*,Cisco Identity Services Engine (ISE) Software 2.4(0.183),"['CVE-2018-0413', 'CVE-2019-15281', 'CVE-2019-15282']",2022-03-19T20:04Z

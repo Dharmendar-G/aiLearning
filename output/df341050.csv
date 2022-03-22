@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:cognos_controller:10.4.0:*:*:*:*:*:*:*,IBM Cognos Controller 10.4.0,"['CVE-2019-4136', 'CVE-2019-4171', 'CVE-2019-4173', 'CVE-2019-4174', 'CVE-2019-4175', 'CVE-2019-4176', 'CVE-2019-4177', 'CVE-2019-4411', 'CVE-2019-4412', 'CVE-2020-4685', 'CVE-2020-4875', 'CVE-2020-4876', 'CVE-2020-4877', 'CVE-2020-4879']",2022-03-21T20:04Z
+1,cpe:2.3:a:ibm:cognos_controller:10.4.1:*:*:*:*:*:*:*,IBM Cognos Controller 10.4.1,"['CVE-2019-4171', 'CVE-2019-4175', 'CVE-2019-4411', 'CVE-2019-4412', 'CVE-2020-4685', 'CVE-2020-4875', 'CVE-2020-4876', 'CVE-2020-4877', 'CVE-2020-4879']",2022-03-21T20:04Z
+2,cpe:2.3:a:ibm:cognos_controller:10.4.2:*:*:*:*:*:*:*,IBM Cognos Controller 10.4.2,"['CVE-2020-4685', 'CVE-2020-4875', 'CVE-2020-4876', 'CVE-2020-4877', 'CVE-2020-4879']",2022-03-21T20:04Z
+3,cpe:2.3:a:ibm:cognos_disclosure_management:10.2.0:*:*:*:*:*:*:*,IBM Cognos Disclosure Management (CDM) 10.2.0,"['CVE-2013-0501', 'CVE-2015-5014', 'CVE-2016-6077']",2022-03-21T20:04Z
+4,cpe:2.3:a:ibm:cognos_disclosure_management:10.2.5:*:*:*:*:*:*:*,IBM Cognos Disclosure Management (CDM) 10.2.5,['CVE-2016-6077'],2022-03-21T20:04Z
+5,cpe:2.3:a:ibm:cognos_disclosure_management:10.2.6:*:*:*:*:*:*:*,IBM Cognos Disclosure Management (CDM) 10.2.6,['CVE-2016-6077'],2022-03-21T20:04Z
+6,cpe:2.3:a:ibm:cognos_express:9.0:*:*:*:*:*:*:*,IBM Cognos Expres 9.0,"['CVE-2010-0557', 'CVE-2013-5443', 'CVE-2013-5444', 'CVE-2013-5445']",2022-03-21T20:04Z
+7,cpe:2.3:a:ibm:cognos_express:9.5:*:*:*:*:*:*:*,IBM Cognos Expres 9.5,"['CVE-2013-5443', 'CVE-2013-5444', 'CVE-2013-5445']",2022-03-21T20:04Z
+8,cpe:2.3:a:ibm:cognos_express:10.1:*:*:*:*:*:*:*,IBM Cognos Expres 10.1,"['CVE-2013-5443', 'CVE-2013-5444', 'CVE-2013-5445']",2022-03-21T20:05Z
+9,cpe:2.3:a:ibm:cognos_express:10.2.1:*:*:*:*:*:*:*,IBM Cognos Expres 10.2.1,"['CVE-2013-5443', 'CVE-2013-5444', 'CVE-2013-5445']",2022-03-21T20:05Z

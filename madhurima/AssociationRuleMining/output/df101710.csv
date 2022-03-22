@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:canon:eos_kiss_x70:-:*:*:*:*:*:*:*,Canon Eos Kiss X70,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+1,cpe:2.3:o:canon:eos_kiss_x70_firmware:-:*:*:*:*:*:*:*,Canon EOS Kiss X70 Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+2,cpe:2.3:o:canon:eos_kiss_x70_firmware:1.0.2:*:*:*:*:*:*:*,Canon EOS Kiss X70 Firmware 1.0.2,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+3,cpe:2.3:h:canon:eos_kiss_x7i:-:*:*:*:*:*:*:*,Canon Eos Kiss X7i,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+4,cpe:2.3:o:canon:eos_kiss_x7i_firmware:-:*:*:*:*:*:*:*,Canon EOS Kiss X7i Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+5,cpe:2.3:o:canon:eos_kiss_x7i_firmware:1.1.5:*:*:*:*:*:*:*,Canon EOS Kiss X7i Firmware 1.1.5,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+6,cpe:2.3:h:canon:eos_kiss_x80:-:*:*:*:*:*:*:*,Canon Eos Kiss X80,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+7,cpe:2.3:o:canon:eos_kiss_x80_firmware:-:*:*:*:*:*:*:*,Canon EOS Kiss X80 Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+8,cpe:2.3:o:canon:eos_kiss_x80_firmware:1.1.0:*:*:*:*:*:*:*,Canon EOS Kiss X80 Firmware 1.1.0,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+9,cpe:2.3:h:canon:eos_kiss_x8i:-:*:*:*:*:*:*:*,Canon Eos Kiss X8i,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z

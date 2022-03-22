@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cuore:help:1.3.5:*:*:*:*:ec-cube:*:*,Cuore EC-CUBE Help Plugin 1.3.5,[''],2022-03-20T09:20Z
+1,cpe:2.3:a:cupidsystems:cis_webserver:-:*:*:*:*:*:*:*,CIS CIS WebServer,[''],2022-03-20T09:20Z
+2,cpe:2.3:a:cupidsystems:cis_webserver:3.5.13:*:*:*:*:*:*:*,CIS CIS WebServer 3.5.13,['CVE-2005-0574'],2022-03-20T09:20Z
+3,cpe:2.3:a:cuppacms:cuppacms:-:*:*:*:*:*:*:*,CuppaCMS,"['CVE-2018-17300', 'CVE-2018-19559', 'CVE-2018-19918', 'CVE-2020-26048', 'CVE-2021-3376']",2022-03-20T09:20Z
+4,cpe:2.3:a:cuppacms:cuppacms:2016-05-25:*:*:*:*:*:*:*,CuppaCMS 2016-05-25,"['CVE-2018-17300', 'CVE-2018-19559', 'CVE-2020-26048']",2022-03-20T09:20Z
+5,cpe:2.3:a:cuppacms:cuppacms:2016-05-26:*:*:*:*:*:*:*,CuppaCMS 2016-05-26,"['CVE-2018-17300', 'CVE-2018-19559', 'CVE-2020-26048']",2022-03-20T09:20Z
+6,cpe:2.3:a:cuppacms:cuppacms:2016-06-09:*:*:*:*:*:*:*,CuppaCMS 2016-06-09,"['CVE-2018-17300', 'CVE-2018-19559', 'CVE-2020-26048']",2022-03-20T09:20Z
+7,cpe:2.3:a:cuppacms:cuppacms:2016-06-21:*:*:*:*:*:*:*,CuppaCMS 2016-06-21,"['CVE-2018-17300', 'CVE-2018-19559', 'CVE-2020-26048']",2022-03-20T09:20Z
+8,cpe:2.3:a:cuppacms:cuppacms:2016-06-30:*:*:*:*:*:*:*,CuppaCMS 2016-06-30,"['CVE-2018-17300', 'CVE-2018-19559', 'CVE-2020-26048']",2022-03-20T09:20Z
+9,cpe:2.3:a:cuppacms:cuppacms:2016-07-21:*:*:*:*:*:*:*,CuppaCMS 2016-07-21,"['CVE-2018-17300', 'CVE-2018-19559', 'CVE-2020-26048']",2022-03-20T09:20Z

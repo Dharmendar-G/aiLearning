@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:unicenter_tng:2.4:*:*:*:*:*:*:*,Broadcom Unicenter TNG 2.4,"['CVE-2004-1812', 'CVE-2005-2667', 'CVE-2005-2668', 'CVE-2005-2669', 'CVE-2007-0060']",2022-03-19T12:34Z
+1,cpe:2.3:a:broadcom:unicenter_tng:2.4.2:*:*:*:*:*:*:*,Broadcom Unicenter TNG 2.4.2,"['CVE-2004-1812', 'CVE-2005-2667', 'CVE-2005-2668', 'CVE-2005-2669', 'CVE-2007-0060']",2022-03-19T12:34Z
+2,cpe:2.3:a:broadcom:unicenter_tng_jpn:-:*:*:*:*:*:*:*,Broadcom Unicenter TNG JPN,[''],2022-03-19T12:34Z
+3,cpe:2.3:a:broadcom:unified_infrastructure_management:8.0:*:*:*:*:*:*:*,Broadcom Unified Infrastructure Management 8.0,"['CVE-2020-28421', 'CVE-2020-8010', 'CVE-2020-8011', 'CVE-2020-8012']",2022-03-19T12:34Z
+4,cpe:2.3:a:broadcom:unified_infrastructure_management:8.1:*:*:*:*:*:*:*,Broadcom Unified Infrastructure Management 8.1,"['CVE-2020-28421', 'CVE-2020-8010', 'CVE-2020-8011', 'CVE-2020-8012']",2022-03-19T12:34Z
+5,cpe:2.3:a:broadcom:unified_infrastructure_management:8.2:*:*:*:*:*:*:*,Broadcom Unified Infrastructure Management 8.2,"['CVE-2020-28421', 'CVE-2020-8010', 'CVE-2020-8011', 'CVE-2020-8012']",2022-03-19T12:34Z
+6,cpe:2.3:a:broadcom:unified_infrastructure_management:8.4:*:*:*:*:*:*:*,Broadcom Unified Infrastructure Management 8.4,"['CVE-2020-28421', 'CVE-2020-8010', 'CVE-2020-8011', 'CVE-2020-8012']",2022-03-19T12:34Z
+7,cpe:2.3:a:broadcom:unified_infrastructure_management:8.4:sp1:*:*:*:*:*:*,Broadcom Unified Infrastructure Management 8.4 Service Pack 1,"['CVE-2020-28421', 'CVE-2020-8010', 'CVE-2020-8011', 'CVE-2020-8012']",2022-03-19T12:34Z
+8,cpe:2.3:a:broadcom:unified_infrastructure_management:8.4.7:*:*:*:*:*:*:*,Broadcom Unified Infrastructure Management 8.4.7,"['CVE-2020-28421', 'CVE-2020-8010', 'CVE-2020-8011', 'CVE-2020-8012']",2022-03-19T12:34Z
+9,cpe:2.3:a:broadcom:unified_infrastructure_management:8.5:*:*:*:*:*:*:*,Broadcom Unified Infrastructure Management 8.5,"['CVE-2020-28421', 'CVE-2020-8010', 'CVE-2020-8011', 'CVE-2020-8012']",2022-03-19T12:34Z

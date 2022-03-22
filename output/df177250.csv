@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:debian:lintian:2.5.20:*:*:*:*:*:*:*,Debian Lintian 2.5.20,['CVE-2017-8829'],2022-03-20T11:48Z
+1,cpe:2.3:a:debian:lintian:2.5.21:*:*:*:*:*:*:*,Debian Lintian 2.5.21,['CVE-2017-8829'],2022-03-20T11:48Z
+2,cpe:2.3:a:debian:lintian:2.5.22:*:*:*:*:*:*:*,Debian Lintian 2.5.22,['CVE-2017-8829'],2022-03-20T11:48Z
+3,cpe:2.3:a:debian:lintian:2.5.22.1:*:*:*:*:*:*:*,Debian Lintian 2.5.22.1,['CVE-2017-8829'],2022-03-20T11:48Z
+4,cpe:2.3:a:debian:lintian:2.5.23:*:*:*:*:*:*:*,Debian Lintian 2.5.23,['CVE-2017-8829'],2022-03-20T11:48Z
+5,cpe:2.3:a:debian:lintian:2.5.23.1:*:*:*:*:*:*:*,Debian Lintian 2.5.23.1,['CVE-2017-8829'],2022-03-20T11:48Z
+6,cpe:2.3:a:debian:lintian:2.5.24:*:*:*:*:*:*:*,Debian Lintian 2.5.24,['CVE-2017-8829'],2022-03-20T11:48Z
+7,cpe:2.3:a:debian:lintian:2.5.25:*:*:*:*:*:*:*,Debian Lintian 2.5.25,['CVE-2017-8829'],2022-03-20T11:48Z
+8,cpe:2.3:a:debian:lintian:2.5.26:*:*:*:*:*:*:*,Debian Lintian 2.5.26,['CVE-2017-8829'],2022-03-20T11:48Z
+9,cpe:2.3:a:debian:lintian:2.5.27:*:*:*:*:*:*:*,Debian Lintian 2.5.27,['CVE-2017-8829'],2022-03-20T11:48Z

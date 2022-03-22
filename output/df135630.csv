@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:telepresence_server_software:2.2\(1.48\):*:*:*:*:*:*:*,Cisco TelePresence Server Software 2.2(1.48),"['CVE-2013-1176', 'CVE-2015-0660', 'CVE-2015-0713']",2022-03-20T00:32Z
+1,cpe:2.3:a:cisco:telepresence_server_software:2.2\(1.54\):*:*:*:*:*:*:*,Cisco TelePresence Server Software 2.2(1.54),"['CVE-2013-1176', 'CVE-2015-0660', 'CVE-2015-0713']",2022-03-20T00:32Z
+2,cpe:2.3:a:cisco:telepresence_server_software:2.3\(1.55\):*:*:*:*:*:*:*,Cisco TelePresence Server Software 2.3(1.55),"['CVE-2015-0660', 'CVE-2015-0713', 'CVE-2015-6284']",2022-03-20T00:32Z
+3,cpe:2.3:a:cisco:telepresence_server_software:2.3\(1.57\):*:*:*:*:*:*:*,Cisco TelePresence Server Software 2.3(1.57),"['CVE-2015-0660', 'CVE-2015-0713', 'CVE-2015-6284']",2022-03-20T00:32Z
+4,cpe:2.3:a:cisco:telepresence_server_software:3.0\(2.24\):*:*:*:*:*:*:*,Cisco TelePresence Server Software 3.0(2.24),"['CVE-2014-3324', 'CVE-2015-0660', 'CVE-2015-0713', 'CVE-2015-6284', 'CVE-2015-6304']",2022-03-20T00:32Z
+5,cpe:2.3:a:cisco:telepresence_server_software:3.0\(2.46\):*:*:*:*:*:*:*,Cisco Telepresence Server Software 3.0(2.46),"['CVE-2015-0660', 'CVE-2015-6284']",2022-03-20T00:32Z
+6,cpe:2.3:a:cisco:telepresence_server_software:3.0\(2.48\):*:*:*:*:*:*:*,Cisco Telepresence Server Software 3.0(2.48),"['CVE-2015-0660', 'CVE-2015-6284']",2022-03-20T00:32Z
+7,cpe:2.3:a:cisco:telepresence_server_software:3.0\(2.49\):*:*:*:*:*:*:*,Cisco Telepresence Server Software 3.0(2.49),"['CVE-2015-0660', 'CVE-2015-6284']",2022-03-20T00:32Z
+8,cpe:2.3:a:cisco:telepresence_server_software:3.1\(1.80\):*:*:*:*:*:*:*,Cisco Telepresence Server Software 3.1(1.80),"['CVE-2015-0660', 'CVE-2015-6284']",2022-03-20T00:32Z
+9,cpe:2.3:a:cisco:telepresence_server_software:3.1\(1.82\):*:*:*:*:*:*:*,Cisco Telepresence Server Software 3.1(1.82),"['CVE-2015-0660', 'CVE-2015-6284']",2022-03-20T00:32Z

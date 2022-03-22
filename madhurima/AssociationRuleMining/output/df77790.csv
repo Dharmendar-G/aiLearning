@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitdefender:gravityzone:6.1.29-545:*:*:*:*:*:*:*,Bitdefender GravityZone 6.1.29-545,"['CVE-2017-8931', 'CVE-2021-3554', 'CVE-2021-3641']",2022-03-19T08:06Z
+1,cpe:2.3:a:bitdefender:gravityzone:6.1.29-546:*:*:*:*:*:*:*,Bitdefender GravityZone 6.1.29-546,"['CVE-2017-8931', 'CVE-2021-3554', 'CVE-2021-3641']",2022-03-19T08:06Z
+2,cpe:2.3:a:bitdefender:gravityzone:6.1.29-547:*:*:*:*:*:*:*,Bitdefender GravityZone 6.1.29-547,"['CVE-2017-8931', 'CVE-2021-3554', 'CVE-2021-3641']",2022-03-19T08:06Z
+3,cpe:2.3:a:bitdefender:gravityzone:6.1.41-549:*:*:*:*:*:*:*,Bitdefender GravityZone 6.1.41-549,"['CVE-2017-8931', 'CVE-2021-3554', 'CVE-2021-3641']",2022-03-19T08:06Z
+4,cpe:2.3:a:bitdefender:gravityzone:6.2.1-30:*:*:*:*:*:*:*,Bitdefender GravityZone 6.2.1-30,"['CVE-2017-8931', 'CVE-2021-3554', 'CVE-2021-3641']",2022-03-19T08:06Z
+5,cpe:2.3:a:bitdefender:gravityzone:6.2.1-34:*:*:*:*:*:*:*,Bitdefender GravityZone 6.2.1-34,"['CVE-2017-8931', 'CVE-2021-3554', 'CVE-2021-3641']",2022-03-19T08:06Z
+6,cpe:2.3:a:bitdefender:gravityzone:6.2.1-35:*:*:*:*:*:*:*,Bitdefender GravityZone 6.2.1-35,"['CVE-2021-3554', 'CVE-2021-3641']",2022-03-19T08:06Z
+7,cpe:2.3:a:bitdefender:gravityzone:6.3.1-4:*:*:*:*:*:*:*,Bitdefender GravityZone 6.3.1-4,"['CVE-2021-3554', 'CVE-2021-3641']",2022-03-19T08:06Z
+8,cpe:2.3:a:bitdefender:gravityzone:6.3.3-2:*:*:*:*:*:*:*,Bitdefender GravityZone 6.3.3-2,"['CVE-2021-3554', 'CVE-2021-3641']",2022-03-19T08:06Z
+9,cpe:2.3:a:bitdefender:gravityzone:6.3.3-3:*:*:*:*:*:*:*,Bitdefender GravityZone 6.3.3-3,"['CVE-2021-3554', 'CVE-2021-3641']",2022-03-19T08:06Z

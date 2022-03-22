@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:laserjet_enterprise_500_color_mfp_m575dn_firmware:-:*:*:*:*:*:*:*,Hp Laserjet Enterprise 500 Color Mfp M575dn Firmware -,['CVE-2018-5923'],2022-03-21T14:59Z
+1,cpe:2.3:o:hp:laserjet_enterprise_500_color_mfp_m575dn_firmware:2308974_579774:*:*:*:*:*:*:*,Hp Laserjet Enterprise 500 Color Mfp M575dn Firmware 2308974 579774,['CVE-2018-5923'],2022-03-21T14:59Z
+2,cpe:2.3:o:hp:laserjet_enterprise_500_color_mfp_m575dn_firmware:2406048_029634:*:*:*:*:*:*:*,Hp Laserjet Enterprise 500 Color Mfp M575dn Firmware 2406048 029634,[''],2022-03-21T14:59Z
+3,cpe:2.3:h:hp:laserjet_enterprise_500_m551_cf081a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 500 M551 CF081A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T14:59Z
+4,cpe:2.3:h:hp:laserjet_enterprise_500_m551_cf082a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 500 M551 CF082A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T14:59Z
+5,cpe:2.3:h:hp:laserjet_enterprise_500_m551_cf083a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 500 M551 CF083A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T14:59Z
+6,cpe:2.3:h:hp:laserjet_enterprise_500_mfp_m525f:-:*:*:*:*:*:*:*,HP Laserjet Enterprise 500 MFP M525F,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T14:59Z
+7,cpe:2.3:h:hp:laserjet_enterprise_500_mfp_m525f_cf116a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 500 MFP M525f CF116A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T14:59Z
+8,cpe:2.3:h:hp:laserjet_enterprise_500_mfp_m525f_cf117a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 500 MFP M525f CF117A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T14:59Z
+9,cpe:2.3:h:hp:laserjet_enterprise_500_mfp_m525f_cf118a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 500 MFP M525f CF118A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T14:59Z

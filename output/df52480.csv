@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:bitbucket:6.9.1:*:*:*:*:*:*:*,Atlassian Bitbucket 6.9.1,"['CVE-2020-14170', 'CVE-2020-14171', 'CVE-2020-36233']",2022-03-19T00:24Z
+1,cpe:2.3:a:atlassian:bitbucket:6.9.2:*:*:*:*:*:*:*,Atlassian Bitbucket 6.9.2,"['CVE-2020-14170', 'CVE-2020-14171', 'CVE-2020-36233']",2022-03-19T00:24Z
+2,cpe:2.3:a:atlassian:bitbucket:6.9.3:*:*:*:*:*:*:*,Atlassian Bitbucket 6.9.3,"['CVE-2020-14170', 'CVE-2020-14171', 'CVE-2020-36233']",2022-03-19T00:24Z
+3,cpe:2.3:a:atlassian:bitbucket:6.10.1:*:*:*:*:*:*:*,Atlassian Bitbucket 6.10.1,"['CVE-2020-14170', 'CVE-2020-14171', 'CVE-2020-36233']",2022-03-19T00:24Z
+4,cpe:2.3:a:atlassian:bitbucket:6.10.2:*:*:*:*:*:*:*,Atlassian Bitbucket 6.10.2,"['CVE-2020-14170', 'CVE-2020-14171', 'CVE-2020-36233']",2022-03-19T00:24Z
+5,cpe:2.3:a:atlassian:bitbucket:6.10.3:*:*:*:*:*:*:*,Atlassian Bitbucket 6.10.3,"['CVE-2020-14170', 'CVE-2020-14171', 'CVE-2020-36233']",2022-03-19T00:24Z
+6,cpe:2.3:a:atlassian:bitbucket:6.10.9:*:*:*:*:*:*:*,Atlassian Bitbucket 6.10.9,"['CVE-2020-14170', 'CVE-2020-14171']",2022-03-19T00:24Z
+7,cpe:2.3:a:atlassian:bitbucket:7.0.0:*:*:*:*:*:*:*,Atlassian Bitbucket 7.0.0,"['CVE-2020-14170', 'CVE-2020-14171', 'CVE-2020-36233']",2022-03-19T00:24Z
+8,cpe:2.3:a:atlassian:bitbucket:7.0.2:*:*:*:*:*:*:*,Atlassian Bitbucket 7.0.2,"['CVE-2020-14170', 'CVE-2020-14171', 'CVE-2020-36233']",2022-03-19T00:24Z
+9,cpe:2.3:a:atlassian:bitbucket:7.0.3:*:*:*:*:*:*:*,Atlassian Bitbucket 7.0.3,"['CVE-2020-14170', 'CVE-2020-14171', 'CVE-2020-36233']",2022-03-19T00:24Z

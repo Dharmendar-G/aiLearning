@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:digi:transport_wr44_firmware:8.3.1.2:*:*:*:*:*:*:*,Digi International TransPort WR44 Firmware 8.3.1.2,"['CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188']",2022-03-20T14:06Z
+1,cpe:2.3:h:digi:wr21:-:*:*:*:*:*:*:*,Digi WR21,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:06Z
+2,cpe:2.3:o:digi:wr21_firmware:-:*:*:*:*:*:*:*,Digi WR21 Firmware,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:06Z
+3,cpe:2.3:h:digi:wr31:-:*:*:*:*:*:*:*,Digi WR31,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:06Z
+4,cpe:2.3:o:digi:wr31_firmware:-:*:*:*:*:*:*:*,Digi WR31 Firmware,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:06Z
+5,cpe:2.3:o:digi:wr31_firmware:6.0.0.0:*:*:*:*:*:*:*,Digi International WR31 Firmware 6.0.0.0,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:06Z
+6,cpe:2.3:o:digi:wr31_firmware:8.2.1.3:*:*:*:*:*:*:*,Digi International WR31 Firmware 8.2.1.3,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:06Z
+7,cpe:2.3:h:digi:wr44_r:-:*:*:*:*:*:*:*,Digi WR44 R,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:06Z
+8,cpe:2.3:o:digi:wr44_r_firmware:-:*:*:*:*:*:*:*,Digi WR44 R Firmware,"['CVE-2021-35977', 'CVE-2021-35979', 'CVE-2021-36767']",2022-03-20T14:06Z
+9,cpe:2.3:a:digi:www_server:-:*:*:*:*:*:*:*,DiGi DiGi WWW Server,[''],2022-03-20T14:06Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:enterprise_storage_analytics:6.3.0:*:*:*:*:vrealize_operations:*:*,Dell Enterprise Storage Analytics 6.3.0 for vRealize Operations,[''],2022-03-20T12:29Z
+1,cpe:2.3:a:dell:enterprise_storage_analytics:6.3.1:*:*:*:*:vrealize_operations:*:*,Dell Enterprise Storage Analytics 6.3.1 for vRealize Operations,[''],2022-03-20T12:29Z
+2,cpe:2.3:a:dell:equallogic_host_integration_tools:3.4.2:*:*:*:*:*:*:*,Dell Equallogic Host Integration Tools 3.4.2,[''],2022-03-20T12:29Z
+3,cpe:2.3:a:dell:equallogic_host_integration_tools:3.5.1:*:*:*:*:*:*:*,Dell Equallogic Host Integration Tools 3.5.1,[''],2022-03-20T12:29Z
+4,cpe:2.3:o:dell:equallogic_ps4000_firmware:6.0:*:*:*:*:*:*:*,Dell EqualLogic PS4000 Firmware 6.0,['CVE-2013-3304'],2022-03-20T12:29Z
+5,cpe:2.3:a:dell:equallogic_san_headquarters:2.1.0.5342:*:*:*:*:*:*:*,Dell Equallogic San Headquarters 2.1.0.5342,[''],2022-03-20T12:29Z
+6,cpe:2.3:h:dell:g15_5510:-:*:*:*:*:*:*:*,Dell G15 5510,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:29Z
+7,cpe:2.3:o:dell:g15_5510_firmware:-:*:*:*:*:*:*:*,Dell G15 5510 Firmware,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:30Z
+8,cpe:2.3:o:dell:g15_5510_firmware:1.8.0:*:*:*:*:*:*:*,Dell G15 5510 Firmware 1.8.0,[''],2022-03-20T12:30Z
+9,cpe:2.3:h:dell:g15_5511:-:*:*:*:*:*:*:*,Dell G15 5511,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:30Z

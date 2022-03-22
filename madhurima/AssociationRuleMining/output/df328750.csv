@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:secure_web_console:-:*:*:*:*:*:*:*,HP Secure Web Console,['CVE-1999-0829'],2022-03-21T16:01Z
+1,cpe:2.3:a:hp:secure_web_server_for_tru64:-:*:*:*:*:*:*:*,HP Tru64 UNIX Compaq Secure Web Server,[''],2022-03-21T16:01Z
+2,cpe:2.3:a:hp:secure_web_server_for_tru64:5.8.1:*:*:*:*:*:*:*,HP Tru64 UNIX Compaq Secure Web Server 5.8.1,['CVE-2004-0809'],2022-03-21T16:01Z
+3,cpe:2.3:a:hp:secure_web_server_for_tru64:5.8.2:*:*:*:*:*:*:*,HP Tru64 UNIX Compaq Secure Web Server 5.8.2,['CVE-2004-0809'],2022-03-21T16:01Z
+4,cpe:2.3:a:hp:secure_web_server_for_tru64:5.9.1:*:*:*:*:*:*:*,HP Tru64 UNIX Compaq Secure Web Server 5.9.1,['CVE-2004-0809'],2022-03-21T16:01Z
+5,cpe:2.3:a:hp:secure_web_server_for_tru64:5.9.2:*:*:*:*:*:*:*,HP Tru64 UNIX Compaq Secure Web Server 5.9.2,['CVE-2004-0809'],2022-03-21T16:01Z
+6,cpe:2.3:a:hp:secure_web_server_for_tru64:6.3.0:*:*:*:*:*:*:*,HP Tru64 UNIX Compaq Secure Web Server 6.3,['CVE-2004-0809'],2022-03-21T16:01Z
+7,cpe:2.3:a:hp:select_access:6.1:*:*:*:*:*:*:*,HP Select Access 6.1,['CVE-2009-0204'],2022-03-21T16:01Z
+8,cpe:2.3:a:hp:select_access:6.2:*:*:*:*:*:*:*,HP Select Access 6.2,['CVE-2009-0204'],2022-03-21T16:01Z
+9,cpe:2.3:a:hp:select_identity:-:*:*:*:*:*:*:*,HP Select Identity,[''],2022-03-21T16:01Z

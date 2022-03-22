@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cyberark:identity:19.1:*:*:*:*:*:*:*,CyberArk Identity 19.1,"['CVE-2021-37151', 'CVE-2022-22700']",2022-03-20T09:35Z
+1,cpe:2.3:a:cyberark:identity:19.2:*:*:*:*:*:*:*,CyberArk Identity 19.2,"['CVE-2021-37151', 'CVE-2022-22700']",2022-03-20T09:35Z
+2,cpe:2.3:a:cyberark:identity:19.3:*:*:*:*:*:*:*,CyberArk Identity 19.3,"['CVE-2021-37151', 'CVE-2022-22700']",2022-03-20T09:35Z
+3,cpe:2.3:a:cyberark:identity:19.4:*:*:*:*:*:*:*,CyberArk Identity 19.4,"['CVE-2021-37151', 'CVE-2022-22700']",2022-03-20T09:35Z
+4,cpe:2.3:a:cyberark:identity:19.5.186:*:*:*:*:*:*:*,CyberArk Identity 19.5.186,"['CVE-2021-37151', 'CVE-2022-22700']",2022-03-20T09:35Z
+5,cpe:2.3:a:cyberark:identity:19.5.197:*:*:*:*:*:*:*,CyberArk Identity 19.5.197,"['CVE-2021-37151', 'CVE-2022-22700']",2022-03-20T09:35Z
+6,cpe:2.3:a:cyberark:identity:19.5.200:*:*:*:*:*:*:*,CyberArk Identity 19.5.200,"['CVE-2021-37151', 'CVE-2022-22700']",2022-03-20T09:35Z
+7,cpe:2.3:a:cyberark:identity:19.5.205:*:*:*:*:*:*:*,CyberArk Identity 19.5.205,"['CVE-2021-37151', 'CVE-2022-22700']",2022-03-20T09:35Z
+8,cpe:2.3:a:cyberark:identity:19.6.269:*:*:*:*:*:*:*,CyberArk Identity 19.6.269,"['CVE-2021-37151', 'CVE-2022-22700']",2022-03-20T09:35Z
+9,cpe:2.3:a:cyberark:identity:19.6.273:*:*:*:*:*:*:*,CyberArk Identity 19.6.273,"['CVE-2021-37151', 'CVE-2022-22700']",2022-03-20T09:35Z

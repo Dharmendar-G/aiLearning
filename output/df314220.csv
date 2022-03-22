@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:honeywell:hen16103l:-:*:*:*:*:*:*:*,Honeywell HEN16103L,['CVE-2019-13523'],2022-03-21T11:42Z
+1,cpe:2.3:o:honeywell:hen16103l_firmware:-:*:*:*:*:*:*:*,Honeywell HEN16103l Firmware,['CVE-2019-13523'],2022-03-21T11:42Z
+2,cpe:2.3:h:honeywell:hen16104:-:*:*:*:*:*:*:*,Honeywell HEN16104,['CVE-2019-13523'],2022-03-21T11:42Z
+3,cpe:2.3:o:honeywell:hen16104_firmware:-:*:*:*:*:*:*:*,Honeywell HEN16104 Firmware,['CVE-2019-13523'],2022-03-21T11:42Z
+4,cpe:2.3:h:honeywell:hen16123:-:*:*:*:*:*:*:*,Honeywell HEN16123,['CVE-2019-13523'],2022-03-21T11:42Z
+5,cpe:2.3:o:honeywell:hen16123_firmware:-:*:*:*:*:*:*:*,Honeywell HEN16123 Firmware,['CVE-2019-13523'],2022-03-21T11:42Z
+6,cpe:2.3:h:honeywell:hen16143:-:*:*:*:*:*:*:*,Honeywell HEN16143,['CVE-2019-13523'],2022-03-21T11:42Z
+7,cpe:2.3:o:honeywell:hen16143_firmware:-:*:*:*:*:*:*:*,Honeywell HEN16143 Firmware,['CVE-2019-13523'],2022-03-21T11:42Z
+8,cpe:2.3:h:honeywell:hen16144:-:*:*:*:*:*:*:*,Honeywell HEN16144,['CVE-2019-13523'],2022-03-21T11:42Z
+9,cpe:2.3:o:honeywell:hen16144_firmware:-:*:*:*:*:*:*:*,Honeywell HEN16144 Firmware,['CVE-2019-13523'],2022-03-21T11:42Z

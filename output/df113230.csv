@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:a99-rp2-se:-:*:*:*:*:*:*:*,Cisco A99-RP2-SE -,['CVE-2020-3284'],2022-03-19T17:50Z
+1,cpe:2.3:o:cisco:a99-rp2-se_firmware:14.35:*:*:*:*:*:*:*,Cisco A99-RP2-SE FIRMWARE 14.35,[''],2022-03-19T17:50Z
+2,cpe:2.3:h:cisco:a99-rp2-tr:-:*:*:*:*:*:*:*,Cisco A99-RP2-TR -,['CVE-2020-3284'],2022-03-19T17:50Z
+3,cpe:2.3:o:cisco:a99-rp2-tr_firmware:14.35:*:*:*:*:*:*:*,Cisco A99-RP2-TR FIRMWARE 14.35,[''],2022-03-19T17:50Z
+4,cpe:2.3:h:cisco:a99-rp3-se:-:*:*:*:*:*:*:*,Cisco A99-rp3-se,"['CVE-2019-1649', 'CVE-2020-3284']",2022-03-19T17:50Z
+5,cpe:2.3:o:cisco:a99-rp3-se_firmware:30.23:*:*:*:*:*:*:*,Cisco A99-RP3-SE FIRMWARE 30.23,[''],2022-03-19T17:50Z
+6,cpe:2.3:h:cisco:a99-rp3-tr:-:*:*:*:*:*:*:*,Cisco A99-rp3-tr,"['CVE-2019-1649', 'CVE-2020-3284']",2022-03-19T17:50Z
+7,cpe:2.3:o:cisco:a99-rp3-tr_firmware:30.23:*:*:*:*:*:*:*,Cisco A99-RP3-TR FIRMWARE 30.23,[''],2022-03-19T17:50Z
+8,cpe:2.3:h:cisco:a99-rsp-se:-:*:*:*:*:*:*:*,Cisco A99-RSP-SE -,['CVE-2020-3284'],2022-03-19T17:50Z
+9,cpe:2.3:o:cisco:a99-rsp-se_firmware:16.14:*:*:*:*:*:*:*,Cisco A99-RSP-SE FIRMWARE 16.14,[''],2022-03-19T17:50Z

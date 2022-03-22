@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dotnetfoundation:piranha_cms:4.0.0:alpha1:*:*:*:*:*:*,.NET Foundation Piranha CMS 4.0.0 Alpha 1,['CVE-2021-25976'],2022-03-20T17:16Z
+1,cpe:2.3:a:dotnetfoundation:piranha_cms:4.0.0:alpha3:*:*:*:*:*:*,.NET Foundation Piranha CMS 4.0.0 Alpha 3,['CVE-2021-25976'],2022-03-20T17:16Z
+2,cpe:2.3:a:dotnetfoundation:piranha_cms:4.0.0:alpha4:*:*:*:*:*:*,.NET Foundation Piranha CMS 4.0.0 Alpha 4,['CVE-2021-25976'],2022-03-20T17:16Z
+3,cpe:2.3:a:dotnetfoundation:piranha_cms:4.0.0:alpha5:*:*:*:*:*:*,.NET Foundation Piranha CMS 4.0.0 Alpha 5,['CVE-2021-25976'],2022-03-20T17:16Z
+4,cpe:2.3:a:dotnetfoundation:piranha_cms:4.0.0:alpha6:*:*:*:*:*:*,.NET Foundation Piranha CMS 4.0.0 Alpha 6,['CVE-2021-25976'],2022-03-20T17:16Z
+5,cpe:2.3:a:dotnetfoundation:piranha_cms:4.0.0:alpha7:*:*:*:*:*:*,.NET Foundation Piranha CMS 4.0.0 Alpha 7,['CVE-2021-25976'],2022-03-20T17:16Z
+6,cpe:2.3:a:dotnetfoundation:piranha_cms:4.0.0:alpha8:*:*:*:*:*:*,.NET Foundation Piranha CMS 4.0.0 Alpha 8,['CVE-2021-25976'],2022-03-20T17:16Z
+7,cpe:2.3:a:dotnetfoundation:piranha_cms:4.0.0:alpha9:*:*:*:*:*:*,.NET Foundation Piranha CMS 4.0.0 Alpha 9,['CVE-2021-25976'],2022-03-20T17:16Z
+8,cpe:2.3:a:dotnetfoundation:piranha_cms:4.0.0:beta1:*:*:*:*:*:*,.NET Foundation Piranha CMS 4.0.0 Beta 1,['CVE-2021-25976'],2022-03-20T17:16Z
+9,cpe:2.3:a:dotnetfoundation:piranha_cms:4.0.0:rc1:*:*:*:*:*:*,.NET Foundation Piranha CMS 4.0.0 Release Candidate 1,['CVE-2021-25976'],2022-03-20T17:16Z

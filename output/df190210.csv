@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:d-link:dap-2695:-:*:*:*:*:*:*:*,D-Link DAP-2695,['CVE-2016-1558'],2022-03-20T15:58Z
+1,cpe:2.3:o:d-link:dap-2695_firmware:1.16:*:*:*:*:*:*:*,D-Link DAP-2695 Firmware 1.16,['CVE-2016-1558'],2022-03-20T15:58Z
+2,cpe:2.3:h:d-link:dap-3320:-:*:*:*:*:*:*:*,D-Link DAP-3320,['CVE-2016-1558'],2022-03-20T15:58Z
+3,cpe:2.3:o:d-link:dap-3320_firmware:1.00:*:*:*:*:*:*:*,D-Link DAP-3320 Firmware 1.00,['CVE-2016-1558'],2022-03-20T15:58Z
+4,cpe:2.3:h:d-link:dap-3520_h\/w_a1:-:*:*:*:*:*:*:*,D-Link DAP-3520 H/W A1,['CVE-2016-1559'],2022-03-20T15:58Z
+5,cpe:2.3:h:d-link:dap-3662:-:*:*:*:*:*:*:*,D-Link DAP-3662,['CVE-2016-1558'],2022-03-20T15:58Z
+6,cpe:2.3:o:d-link:dap-3662_firmware:1.01:*:*:*:*:*:*:*,D-Link DAP-3662 Firmware 1.01,['CVE-2016-1558'],2022-03-20T15:58Z
+7,cpe:2.3:h:d-link:dch-m225:-:*:*:*:*:*:*:*,D-Link DCH-M225,"['CVE-2020-6841', 'CVE-2020-6842']",2022-03-20T15:58Z
+8,cpe:2.3:o:d-link:dch-m225_firmware:1.05b01:*:*:*:*:*:*:*,D-Link DCH-M225 Firmware 1.05b01,"['CVE-2020-6841', 'CVE-2020-6842']",2022-03-20T15:58Z
+9,cpe:2.3:h:d-link:dcm-604:-:*:*:*:*:*:*:*,D-Link DCM-604,[''],2022-03-20T15:58Z

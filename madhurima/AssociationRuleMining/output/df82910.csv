@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:boehm-demers-weiser:garbage_collector:3.4:*:*:*:*:*:*:*,Boehm-Demers-Weiser Garbace Collector (libgc) 3.4,['CVE-2012-2673'],2022-03-19T09:17Z
+1,cpe:2.3:a:boehm-demers-weiser:garbage_collector:3.5:*:*:*:*:*:*:*,Boehm-Demers-Weiser Garbace Collector (libgc) 3.5,['CVE-2012-2673'],2022-03-19T09:17Z
+2,cpe:2.3:a:boehm-demers-weiser:garbage_collector:3.6:*:*:*:*:*:*:*,Boehm-Demers-Weiser Garbace Collector (libgc) 3.6,['CVE-2012-2673'],2022-03-19T09:17Z
+3,cpe:2.3:a:boehm-demers-weiser:garbage_collector:3.7:*:*:*:*:*:*:*,Boehm-Demers-Weiser Garbace Collector (libgc) 3.7,['CVE-2012-2673'],2022-03-19T09:17Z
+4,cpe:2.3:a:boehm-demers-weiser:garbage_collector:4.0:*:*:*:*:*:*:*,Boehm-Demers-Weiser Garbace Collector (libgc) 4.0,['CVE-2012-2673'],2022-03-19T09:17Z
+5,cpe:2.3:a:boehm-demers-weiser:garbage_collector:4.1:*:*:*:*:*:*:*,Boehm-Demers-Weiser Garbace Collector (libgc) 4.1,['CVE-2012-2673'],2022-03-19T09:17Z
+6,cpe:2.3:a:boehm-demers-weiser:garbage_collector:4.2:*:*:*:*:*:*:*,Boehm-Demers-Weiser Garbace Collector (libgc) 4.2,['CVE-2012-2673'],2022-03-19T09:17Z
+7,cpe:2.3:a:boehm-demers-weiser:garbage_collector:4.3:*:*:*:*:*:*:*,Boehm-Demers-Weiser Garbace Collector (libgc) 4.3,['CVE-2012-2673'],2022-03-19T09:17Z
+8,cpe:2.3:a:boehm-demers-weiser:garbage_collector:4.4:*:*:*:*:*:*:*,Boehm-Demers-Weiser Garbace Collector (libgc) 4.4,['CVE-2012-2673'],2022-03-19T09:17Z
+9,cpe:2.3:a:boehm-demers-weiser:garbage_collector:4.5:*:*:*:*:*:*:*,Boehm-Demers-Weiser Garbace Collector (libgc) 4.5,['CVE-2012-2673'],2022-03-19T09:17Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,cpe:2.3:a:dolby:audio_x2:-:*:*:*:*:*:*:*,Dolby Audio X2 (DAX2),['CVE-2021-3146'],2022-03-20T16:54Z
+5,cpe:2.3:a:dolby:audio_x2:0.8.8.90:*:*:*:*:*:*:*,Dolby Audio X2 (DAX2) 0.8.8.90,[''],2022-03-20T16:54Z
+6,cpe:2.3:a:dolby:dolby_audio_x2:1.0:*:*:*:*:*:*:*,Dolby Audio X2 (DAX2) 1.0,['CVE-2017-7293'],2022-03-20T16:54Z
+7,cpe:2.3:a:dolby:dolby_audio_x2:1.0.1:*:*:*:*:*:*:*,Dolby Audio X2 (DAX2) 1.0.1,['CVE-2017-7293'],2022-03-20T16:54Z
+8,cpe:2.3:a:dolby:dolby_audio_x2:1.1:*:*:*:*:*:*:*,Dolby Audio X2 (DAX2) 1.1,['CVE-2017-7293'],2022-03-20T16:54Z
+9,cpe:2.3:a:dolby:dolby_audio_x2:1.1.1:*:*:*:*:*:*:*,Dolby Audio X2 (DAX2) 1.1.1,['CVE-2017-7293'],2022-03-20T16:54Z

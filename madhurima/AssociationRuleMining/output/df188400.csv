@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:django-epiceditor_project:django-epiceditor:0.2.3:*:*:*:*:*:*:*,django-epiceditor Project django-epiceditor 0.2.3,['CVE-2017-6591'],2022-03-20T15:24Z
+1,cpe:2.3:a:django-filter_project:django-filter:0.1.0:*:*:*:*:*:*:*,Django-filter Project Django Filter 0.1.0,['CVE-2020-15225'],2022-03-20T15:24Z
+2,cpe:2.3:a:django-filter_project:django-filter:0.2.0:*:*:*:*:*:*:*,Django-filter Project Django Filter 0.2.0,['CVE-2020-15225'],2022-03-20T15:24Z
+3,cpe:2.3:a:django-filter_project:django-filter:0.5.0:*:*:*:*:*:*:*,Django-filter Project Django Filter 0.5.0,['CVE-2020-15225'],2022-03-20T15:24Z
+4,cpe:2.3:a:django-filter_project:django-filter:0.5.1:*:*:*:*:*:*:*,Django-filter Project Django Filter 0.5.1,['CVE-2020-15225'],2022-03-20T15:24Z
+5,cpe:2.3:a:django-filter_project:django-filter:0.5.2:*:*:*:*:*:*:*,Django-filter Project Django Filter 0.5.2,['CVE-2020-15225'],2022-03-20T15:24Z
+6,cpe:2.3:a:django-filter_project:django-filter:0.5.3:*:*:*:*:*:*:*,Django-filter Project Django Filter 0.5.3,['CVE-2020-15225'],2022-03-20T15:24Z
+7,cpe:2.3:a:django-filter_project:django-filter:0.5.4:*:*:*:*:*:*:*,Django-filter Project Django Filter 0.5.4,['CVE-2020-15225'],2022-03-20T15:24Z
+8,cpe:2.3:a:django-filter_project:django-filter:0.6:-:*:*:*:*:*:*,Django-filter Project Django Filter 0.6 -,['CVE-2020-15225'],2022-03-20T15:24Z
+9,cpe:2.3:a:django-filter_project:django-filter:0.6:alpha1:*:*:*:*:*:*,Django-filter Project Django Filter 0.6 Alpha 1,['CVE-2020-15225'],2022-03-20T15:24Z

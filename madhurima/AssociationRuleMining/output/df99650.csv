@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cakefoundation:cakephp:2.6.8:*:*:*:*:*:*:*,Cake Software Foundation CakePHP 2.6.8,['CVE-2020-15400'],2022-03-19T14:37Z
+1,cpe:2.3:a:cakefoundation:cakephp:2.6.9:*:*:*:*:*:*:*,Cake Software Foundation CakePHP 2.6.9,['CVE-2020-15400'],2022-03-19T14:37Z
+2,cpe:2.3:a:cakefoundation:cakephp:2.6.10:*:*:*:*:*:*:*,Cake Software Foundation CakePHP 2.6.10,['CVE-2020-15400'],2022-03-19T14:37Z
+3,cpe:2.3:a:cakefoundation:cakephp:2.6.11:*:*:*:*:*:*:*,Cake Software Foundation CakePHP 2.6.11,['CVE-2020-15400'],2022-03-19T14:37Z
+4,cpe:2.3:a:cakefoundation:cakephp:2.6.12:*:*:*:*:*:*:*,Cake Software Foundation CakePHP 2.6.12,['CVE-2020-15400'],2022-03-19T14:37Z
+5,cpe:2.3:a:cakefoundation:cakephp:2.6.13:*:*:*:*:*:*:*,Cake Software Foundation CakePHP 2.6.13,['CVE-2020-15400'],2022-03-19T14:37Z
+6,cpe:2.3:a:cakefoundation:cakephp:2.7.0:-:*:*:*:*:*:*,Cake Software Foundation CakePHP 2.7.0,['CVE-2020-15400'],2022-03-19T14:37Z
+7,cpe:2.3:a:cakefoundation:cakephp:2.7.0:rc:*:*:*:*:*:*,Cake Software Foundation CakePHP 2.7.0 Release Candidate,['CVE-2020-15400'],2022-03-19T14:37Z
+8,cpe:2.3:a:cakefoundation:cakephp:2.7.1:*:*:*:*:*:*:*,Cake Software Foundation CakePHP 2.7.1,['CVE-2020-15400'],2022-03-19T14:37Z
+9,cpe:2.3:a:cakefoundation:cakephp:2.7.2:*:*:*:*:*:*:*,Cake Software Foundation CakePHP 2.7.2,['CVE-2020-15400'],2022-03-19T14:37Z

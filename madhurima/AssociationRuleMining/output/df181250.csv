@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:quest_one_password_manager:5.0:*:*:*:*:*:*:*,Dell Quest One Password Manager 5.0,['CVE-2013-6246'],2022-03-20T13:05Z
+1,cpe:2.3:a:dell:quickset:7.1.10:*:*:*:*:*:*:*,Dell Quickset 7.1.10,[''],2022-03-20T13:05Z
+2,cpe:2.3:h:dell:r1-2210:-:*:*:*:*:*:*:*,Dell R1-2210,"['CVE-2020-5330', 'CVE-2021-21507']",2022-03-20T13:05Z
+3,cpe:2.3:o:dell:r1-2210_firmware:-:*:*:*:*:*:*:*,Dell R1-2210 Firmware,"['CVE-2020-5330', 'CVE-2021-21507']",2022-03-20T13:05Z
+4,cpe:2.3:o:dell:r1-2210_firmware:2.0.0.82:*:*:*:*:*:*:*,Dell R1-2210 FIRMWARE 2.0.0.82,['CVE-2020-5330'],2022-03-20T13:05Z
+5,cpe:2.3:o:dell:r1-2210_firmware:3.0.1.2:*:*:*:*:*:*:*,Dell R1-2210 Firmware 3.0.1.2,['CVE-2020-5330'],2022-03-20T13:05Z
+6,cpe:2.3:h:dell:r1-2401:-:*:*:*:*:*:*:*,Dell R1-2401,"['CVE-2020-5330', 'CVE-2021-21507']",2022-03-20T13:05Z
+7,cpe:2.3:o:dell:r1-2401_firmware:-:*:*:*:*:*:*:*,Dell R1-2401 Firmware,"['CVE-2020-5330', 'CVE-2021-21507']",2022-03-20T13:05Z
+8,cpe:2.3:o:dell:r1-2401_firmware:2.0.0.82:*:*:*:*:*:*:*,Dell R1-2401 FIRMWARE 2.0.0.82,['CVE-2020-5330'],2022-03-20T13:05Z
+9,cpe:2.3:o:dell:r1-2401_firmware:3.0.1.2:*:*:*:*:*:*:*,Dell R1-2401 Firmware 3.0.1.2,['CVE-2020-5330'],2022-03-20T13:05Z

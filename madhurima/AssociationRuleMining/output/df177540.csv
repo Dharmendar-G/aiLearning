@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:debian:postgresql-common:178:*:*:*:*:*:*:*,Debian postgresql-common 178,['CVE-2016-1255'],2022-03-20T11:54Z
+1,cpe:2.3:a:debian:postgresql-common:179:*:*:*:*:*:*:*,Debian postgresql-common 179,['CVE-2016-1255'],2022-03-20T11:54Z
+2,cpe:2.3:a:debian:postgresql-common:181:*:*:*:*:*:*:*,Debian postgresql-common 181,['CVE-2016-1255'],2022-03-20T11:54Z
+3,cpe:2.3:a:debian:postgresql-common:181ubuntu1:*:*:*:*:*:*:*,Debian postgresql-common 181ubuntu1,['CVE-2016-1255'],2022-03-20T11:54Z
+4,cpe:2.3:a:debian:postgresql-common:183:*:*:*:*:*:*:*,Debian postgresql-common 183,['CVE-2016-1255'],2022-03-20T11:54Z
+5,cpe:2.3:a:debian:postgresql-common:184:*:*:*:*:*:*:*,Debian postgresql-common 184,['CVE-2016-1255'],2022-03-20T11:54Z
+6,cpe:2.3:a:debian:postgresql-common:184ubuntu1:*:*:*:*:*:*:*,Debian PostgreSQL-common 184ubuntu1,['CVE-2016-1255'],2022-03-20T11:54Z
+7,cpe:2.3:a:debian:ppthtml:0.5.1:*:*:*:*:*:*:*,Debian ppthtml 0.5.1,['CVE-2013-4565'],2022-03-20T11:54Z
+8,cpe:2.3:a:debian:ppxp:-:*:*:*:*:*:*:*,Debian Debian ppxp,['CVE-2005-0392'],2022-03-20T11:54Z
+9,cpe:2.3:a:debian:python-apt:1.8.4:*:*:*:*:*:*:*,Debian Python-apt 1.8.4,"['CVE-2019-15795', 'CVE-2019-15796']",2022-03-20T11:54Z

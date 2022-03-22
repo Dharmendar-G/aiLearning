@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:o:hp:openvms:8.2-1:*:*:*:*:*:*:*,HP openvms 8.2.1,['CVE-2011-1378'],2022-03-21T15:36Z
+2,cpe:2.3:o:hp:openvms:8.3:*:*:*:*:*:*:*,HP openvms 8.3,"['CVE-2007-2998', 'CVE-2007-3729', 'CVE-2007-3730', 'CVE-2011-1378', 'CVE-2012-2010', 'CVE-2012-3276']",2022-03-21T15:36Z
+3,cpe:2.3:o:hp:openvms:8.3-1h1:*:integrity_servers:*:*:*:*:*,HP openvms 8.3-1H1 Integrity Servers,"['CVE-2008-4052', 'CVE-2010-4110', 'CVE-2011-1378', 'CVE-2012-2010', 'CVE-2012-3276']",2022-03-21T15:36Z
+4,cpe:2.3:o:hp:openvms:8.4-2l1:*:*:*:alpha:*:*:*,HP Openvms 8.4-2l1 Alpha Edition,"['CVE-2011-1378', 'CVE-2017-17482']",2022-03-21T15:36Z
+5,cpe:2.3:o:hp:openvms:8.4-2l1:*:*:*:ia64:*:*:*,HP Openvms 8.4-2l1 Ia64 Edition,"['CVE-2011-1378', 'CVE-2017-17482']",2022-03-21T15:36Z
+6,cpe:2.3:o:hp:openvms_alpha:1.0:*:*:*:*:*:*:*,HP OpenVMS Alpha 1.0,[''],2022-03-21T15:36Z
+7,cpe:2.3:o:hp:openvms_alpha:1.5:*:*:*:*:*:*:*,HP OpenVMS Alpha 1.5,[''],2022-03-21T15:36Z
+8,cpe:2.3:o:hp:openvms_alpha:6.1:*:*:*:*:*:*:*,HP OpenVMS Alpha 6.1,[''],2022-03-21T15:36Z
+9,cpe:2.3:o:hp:openvms_alpha:6.2:*:*:*:*:*:*:*,HP OpenVMS Alpha 6.2,[''],2022-03-21T15:36Z

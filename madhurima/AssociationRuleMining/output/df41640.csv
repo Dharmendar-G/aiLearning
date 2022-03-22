@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apple:apple_remote_desktop:3.6.1:*:*:*:*:*:*:*,Apple Remote Desktop 3.6.1,"['CVE-2013-5136', 'CVE-2013-5229']",2022-03-18T21:52Z
+1,cpe:2.3:a:apple:apple_remote_desktop:3.6.2:*:*:*:*:*:*:*,Apple Remote Desktop 3.6.2,"['CVE-2013-5136', 'CVE-2013-5229']",2022-03-18T21:52Z
+2,cpe:2.3:a:apple:apple_remote_desktop:3.7:*:*:*:*:*:*:*,Apple Remote Desktop 3.7,[''],2022-03-18T21:52Z
+3,cpe:2.3:a:apple:apple_support:1.0:*:*:*:*:*:*:*,Apple Support 1.0,"['CVE-2017-7147', 'CVE-2018-4397']",2022-03-18T21:52Z
+4,cpe:2.3:a:apple:apple_support:1.0.1:*:*:*:*:*:*:*,Apple Support 1.0.1,"['CVE-2017-7147', 'CVE-2018-4397']",2022-03-18T21:52Z
+5,cpe:2.3:a:apple:apple_support:1.0.2:*:*:*:*:*:*:*,Apple Support 1.0.2,"['CVE-2017-7147', 'CVE-2018-4397']",2022-03-18T21:52Z
+6,cpe:2.3:a:apple:apple_support:1.0.3:*:*:*:*:*:*:*,Apple Support 1.0.3,"['CVE-2017-7147', 'CVE-2018-4397']",2022-03-18T21:52Z
+7,cpe:2.3:a:apple:apple_support:1.1:*:*:*:*:*:*:*,Apple Support 1.1,"['CVE-2017-7147', 'CVE-2018-4397']",2022-03-18T21:52Z
+8,cpe:2.3:a:apple:apple_support:1.1.1:*:*:*:*:*:*:*,Apple Support 1.1.1,"['CVE-2017-7147', 'CVE-2018-4397']",2022-03-18T21:52Z
+9,cpe:2.3:a:apple:apple_support:1.2:*:*:*:*:*:*:*,Apple Support 1.2,['CVE-2018-4397'],2022-03-18T21:52Z

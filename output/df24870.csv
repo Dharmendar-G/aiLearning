@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:anchorcms:anchor:0.12.7:*:*:*:*:*:*:*,Anchor 0.12.7,['CVE-2020-12071'],2022-03-18T16:22Z
+1,cpe:2.3:a:anchorcms:anchor_cms:0.4:*:*:*:*:*:*:*,Anchor CMS 0.4,"['CVE-2014-9182', 'CVE-2015-5060', 'CVE-2021-44116']",2022-03-18T16:22Z
+2,cpe:2.3:a:anchorcms:anchor_cms:0.5:*:*:*:*:*:*:*,Anchor CMS 0.5,"['CVE-2014-9182', 'CVE-2015-5060', 'CVE-2021-44116']",2022-03-18T16:22Z
+3,cpe:2.3:a:anchorcms:anchor_cms:0.6:*:*:*:*:*:*:*,Anchor CMS 0.6,"['CVE-2014-9182', 'CVE-2015-5060', 'CVE-2021-44116']",2022-03-18T16:22Z
+4,cpe:2.3:a:anchorcms:anchor_cms:0.7:*:*:*:*:*:*:*,Anchor CMS 0.7,"['CVE-2014-9182', 'CVE-2015-5060', 'CVE-2021-44116']",2022-03-18T16:22Z
+5,cpe:2.3:a:anchorcms:anchor_cms:0.7.2:*:*:*:*:*:*:*,Anchor CMS 0.7.2,"['CVE-2014-9182', 'CVE-2015-5060', 'CVE-2021-44116']",2022-03-18T16:22Z
+6,cpe:2.3:a:anchorcms:anchor_cms:0.8:*:*:*:*:*:*:*,Anchor CMS 0.8,"['CVE-2014-9182', 'CVE-2015-5060', 'CVE-2021-44116']",2022-03-18T16:23Z
+7,cpe:2.3:a:anchorcms:anchor_cms:0.8.1:*:*:*:*:*:*:*,Anchor CMS 0.8.1,"['CVE-2014-9182', 'CVE-2015-5060', 'CVE-2021-44116']",2022-03-18T16:23Z
+8,cpe:2.3:a:anchorcms:anchor_cms:0.8.2:*:*:*:*:*:*:*,Anchor CMS 0.8.2,"['CVE-2014-9182', 'CVE-2015-5060', 'CVE-2021-44116']",2022-03-18T16:23Z
+9,cpe:2.3:a:anchorcms:anchor_cms:0.8.3:*:*:*:*:*:*:*,Anchor CMS 0.8.3,"['CVE-2014-9182', 'CVE-2015-5060', 'CVE-2021-44116']",2022-03-18T16:23Z

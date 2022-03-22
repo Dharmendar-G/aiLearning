@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:booking_calendar_project:booking_calendar:5.1.6:*:*:*:*:wordpress:*:*,Booking Calendar Project Booking Calendar 5.1.6 for WordPress,"['CVE-2017-2150', 'CVE-2017-2151', 'CVE-2021-25040']",2022-03-19T09:36Z
+1,cpe:2.3:a:booking_calendar_project:booking_calendar:5.2:*:*:*:*:wordpress:*:*,Booking Calendar Project Booking Calendar 5.2 for WordPress,"['CVE-2017-2150', 'CVE-2017-2151', 'CVE-2021-25040']",2022-03-19T09:36Z
+2,cpe:2.3:a:booking_calendar_project:booking_calendar:5.2.1:*:*:*:*:wordpress:*:*,Booking Calendar Project Booking Calendar 5.2.1 for WordPress,"['CVE-2017-2150', 'CVE-2017-2151', 'CVE-2021-25040']",2022-03-19T09:36Z
+3,cpe:2.3:a:booking_calendar_project:booking_calendar:5.3:*:*:*:*:wordpress:*:*,Booking Calendar Project Booking Calendar 5.3 for WordPress,"['CVE-2017-2150', 'CVE-2017-2151', 'CVE-2021-25040']",2022-03-19T09:36Z
+4,cpe:2.3:a:booking_calendar_project:booking_calendar:5.3.1:*:*:*:*:wordpress:*:*,Booking Calendar Project Booking Calendar 5.3.1 for WordPress,"['CVE-2017-2150', 'CVE-2017-2151', 'CVE-2021-25040']",2022-03-19T09:36Z
+5,cpe:2.3:a:booking_calendar_project:booking_calendar:5.3.2:*:*:*:*:wordpress:*:*,Booking Calendar Project Booking Calendar 5.3.2 for WordPress,"['CVE-2017-2150', 'CVE-2017-2151', 'CVE-2021-25040']",2022-03-19T09:36Z
+6,cpe:2.3:a:booking_calendar_project:booking_calendar:5.4:*:*:*:*:wordpress:*:*,Booking Calendar Project Booking Calendar 5.4 for WordPress,"['CVE-2017-2150', 'CVE-2017-2151', 'CVE-2021-25040']",2022-03-19T09:36Z
+7,cpe:2.3:a:booking_calendar_project:booking_calendar:5.4.1:*:*:*:*:wordpress:*:*,Booking Calendar Project Booking Calendar 5.4.1 for WordPress,"['CVE-2017-2150', 'CVE-2017-2151', 'CVE-2021-25040']",2022-03-19T09:36Z
+8,cpe:2.3:a:booking_calendar_project:booking_calendar:5.4.2:*:*:*:*:wordpress:*:*,Booking Calendar Project Booking Calendar 5.4.2 for WordPress,"['CVE-2017-2150', 'CVE-2017-2151', 'CVE-2021-25040']",2022-03-19T09:36Z
+9,cpe:2.3:a:booking_calendar_project:booking_calendar:5.4.3:*:*:*:*:wordpress:*:*,Booking Calendar Project Booking Calendar 5.4.3 for WordPress,"['CVE-2017-2150', 'CVE-2017-2151', 'CVE-2021-25040']",2022-03-19T09:36Z

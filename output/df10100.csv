@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:adobe_consulting_services_commons:4.9.2:*:*:*:*:*:*:*,Adobe Adobe Consulting Services (AEM) Commons 4.9.2,['CVE-2021-21043'],2022-03-18T12:20Z
+1,cpe:2.3:a:adobe:adobe_consulting_services_commons:4.10.0:*:*:*:*:*:*:*,Adobe Adobe Consulting Services (AEM) Commons 4.10.0,[''],2022-03-18T12:20Z
+2,cpe:2.3:a:adobe:adobe_consulting_services_commons:4.11.0:*:*:*:*:*:*:*,Adobe Adobe Consulting Services (AEM) Commons 4.11.0,[''],2022-03-18T12:20Z
+3,cpe:2.3:a:adobe:adobe_consulting_services_commons:4.11.2:*:*:*:*:*:*:*,Adobe Adobe Consulting Services (AEM) Commons 4.11.2,[''],2022-03-18T12:20Z
+4,cpe:2.3:a:adobe:adobe_content_server:-:*:*:*:*:*:*:*,Adobe Adobe Content Server,[''],2022-03-18T12:20Z
+5,cpe:2.3:a:adobe:adobe_content_server:3.0:*:*:*:*:*:*:*,Adobe Adobe Content Server 3.0,"['CVE-2002-1018', 'CVE-2002-1019', 'CVE-2002-1020']",2022-03-18T12:20Z
+6,cpe:2.3:a:adobe:adobe_php_ria_sdk:-:*:*:*:*:*:*:*,アドビシステムズ Adobe PHP SDK,['CVE-2006-5549'],2022-03-18T12:20Z
+7,cpe:2.3:a:adobe:adobe_presenter:-:*:*:*:*:*:*:*,Adobe Presenter,[''],2022-03-18T12:20Z
+8,cpe:2.3:a:adobe:adobe_presenter:7.0:*:*:*:*:*:*:*,Adobe Presenter 7.0,[''],2022-03-18T12:20Z
+9,cpe:2.3:a:adobe:adobe_reader:-:*:*:*:*:android:*:*,Adobe Reader for Android,"['CVE-2014-0514', 'CVE-2020-9663']",2022-03-18T12:20Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cobham:sea_tel_6012_vsat_c-band_firmware:-:*:*:*:*:*:*:*,Cobham Sea Tel 6012 VSAT C-Band Firmware,[''],2022-03-20T04:44Z
+1,cpe:2.3:o:cobham:sea_tel_6012_vsat_c-band_firmware:170_224521:*:*:*:*:*:*:*,Cobham Sea Tel 6012 VSAT C-Band Firmware 170 224521,['CVE-2019-16320'],2022-03-20T04:44Z
+2,cpe:2.3:o:cobham:sea_tel_6012_vsat_c-band_firmware:194_225444:*:*:*:*:*:*:*,Cobham Sea Tel 6012 VSAT C-Band Firmware 194 225444,['CVE-2019-16320'],2022-03-20T04:44Z
+3,cpe:2.3:h:cobham:sea_tel_6012_vsat_ku-band:-:*:*:*:*:*:*:*,Cobham Sea Tel 6012 VSAT KU-Band,['CVE-2019-16320'],2022-03-20T04:44Z
+4,cpe:2.3:o:cobham:sea_tel_6012_vsat_ku-band_firmware:-:*:*:*:*:*:*:*,Cobham Sea Tel 6012 VSAT KU-Band Firmware,[''],2022-03-20T04:44Z
+5,cpe:2.3:o:cobham:sea_tel_6012_vsat_ku-band_firmware:170_224521:*:*:*:*:*:*:*,Cobham Sea Tel 6012 VSAT KU-Band Firmware 170 224521,['CVE-2019-16320'],2022-03-20T04:44Z
+6,cpe:2.3:o:cobham:sea_tel_6012_vsat_ku-band_firmware:194_225444:*:*:*:*:*:*:*,Cobham Sea Tel 6012 VSAT KU-Band Firmware 194 225444,['CVE-2019-16320'],2022-03-20T04:44Z
+7,cpe:2.3:h:cobham:sea_tel_coastal_18:-:*:*:*:*:*:*:*,Cobham Sea Tel Coastal 18,['CVE-2019-16320'],2022-03-20T04:44Z
+8,cpe:2.3:o:cobham:sea_tel_coastal_18_firmware:-:*:*:*:*:*:*:*,Cobham Sea Tel Coastal 18 Firmware,[''],2022-03-20T04:44Z
+9,cpe:2.3:o:cobham:sea_tel_coastal_18_firmware:170_224521:*:*:*:*:*:*:*,Cobham Sea Tel Coastal 18 Firmware 170 224521,['CVE-2019-16320'],2022-03-20T04:44Z

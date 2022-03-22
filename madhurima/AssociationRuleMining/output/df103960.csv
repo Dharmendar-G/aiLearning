@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:catalyst-plugin-static-simple_project:catalyst-plugin-static-simple:0.35:*:*:*:*:perl:*:*,Catalyst-Plugin-Static-Simple Project Catalyst-Plugin-Static-Simple 0.35 for Perl,[''],2022-03-19T15:42Z
+1,cpe:2.3:a:catalyst-plugin-static-simple_project:catalyst-plugin-static-simple:0.36:*:*:*:*:perl:*:*,Catalyst-Plugin-Static-Simple Project Catalyst-Plugin-Static-Simple 0.36 for Perl,[''],2022-03-19T15:42Z
+2,cpe:2.3:a:catapultsoftware:catapult_dnp3_i\/o_driver:7.2.0.60:*:*:*:*:*:*:*,CatapultSoftware Catapult DNP3 I/O driver 7.2.0.60,"['CVE-2013-2811', 'CVE-2013-2823']",2022-03-19T15:42Z
+3,cpe:2.3:a:catapultsoftware:catapult_dnp3_i\/o_driver:7.20.56:*:*:*:*:*:*:*,CatapultSoftware Catapult DNP3 I/O driver 7.2.0.56,"['CVE-2013-2811', 'CVE-2013-2823']",2022-03-19T15:42Z
+4,cpe:2.3:a:catbot_project:catbot:0.4.2:*:*:*:*:*:*:*,CatBot project CatBot 0.4.2,['CVE-2015-1367'],2022-03-19T15:42Z
+5,cpe:2.3:a:catchplugins:catch_breadcrumb:1.0.0:*:*:*:*:wordpress:*:*,Catch Plugins Catch Breadcrumb 1.0.0 for WordPress,['CVE-2020-12054'],2022-03-19T15:42Z
+6,cpe:2.3:a:catchplugins:catch_breadcrumb:1.0.1:*:*:*:*:wordpress:*:*,Catch Plugins Catch Breadcrumb 1.0.1 for WordPress,['CVE-2020-12054'],2022-03-19T15:42Z
+7,cpe:2.3:a:catchplugins:catch_breadcrumb:1.0.2:*:*:*:*:wordpress:*:*,Catch Plugins Catch Breadcrumb 1.0.2 for WordPress,['CVE-2020-12054'],2022-03-19T15:43Z
+8,cpe:2.3:a:catchplugins:catch_breadcrumb:1.1:*:*:*:*:wordpress:*:*,Catch Plugins Catch Breadcrumb 1.1 for WordPress,['CVE-2020-12054'],2022-03-19T15:43Z
+9,cpe:2.3:a:catchplugins:catch_breadcrumb:1.2:*:*:*:*:wordpress:*:*,Catch Plugins Catch Breadcrumb 1.2 for WordPress,['CVE-2020-12054'],2022-03-19T15:43Z

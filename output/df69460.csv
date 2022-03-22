@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:backup-guard:backup_guard:1.1.38:*:*:*:*:wordpress:*:*,Backup Guard 1.1.38 for WordPress,"['CVE-2017-10837', 'CVE-2017-18488', 'CVE-2021-24155']",2022-03-19T05:54Z
+1,cpe:2.3:a:backup-guard:backup_guard:1.1.39:*:*:*:*:wordpress:*:*,Backup Guard 1.1.39 for WordPress,"['CVE-2017-10837', 'CVE-2017-18488', 'CVE-2021-24155']",2022-03-19T05:54Z
+2,cpe:2.3:a:backup-guard:backup_guard:1.1.40:*:*:*:*:wordpress:*:*,Backup Guard 1.1.40 for WordPress,"['CVE-2017-10837', 'CVE-2017-18488', 'CVE-2021-24155']",2022-03-19T05:54Z
+3,cpe:2.3:a:backup-guard:backup_guard:1.1.41:*:*:*:*:wordpress:*:*,Backup Guard 1.1.41 for WordPress,"['CVE-2017-10837', 'CVE-2017-18488', 'CVE-2021-24155']",2022-03-19T05:54Z
+4,cpe:2.3:a:backup-guard:backup_guard:1.1.42:*:*:*:*:wordpress:*:*,Backup Guard 1.1.42 for WordPress,"['CVE-2017-10837', 'CVE-2017-18488', 'CVE-2021-24155']",2022-03-19T05:54Z
+5,cpe:2.3:a:backup-guard:backup_guard:1.1.43:*:*:*:*:wordpress:*:*,Backup Guard 1.1.43 for WordPress,"['CVE-2017-10837', 'CVE-2017-18488', 'CVE-2021-24155']",2022-03-19T05:54Z
+6,cpe:2.3:a:backup-guard:backup_guard:1.1.44:*:*:*:*:wordpress:*:*,Backup Guard 1.1.44 for WordPress,"['CVE-2017-10837', 'CVE-2017-18488', 'CVE-2021-24155']",2022-03-19T05:54Z
+7,cpe:2.3:a:backup-guard:backup_guard:1.1.45:*:*:*:*:wordpress:*:*,Backup Guard 1.1.45 for WordPress,"['CVE-2017-10837', 'CVE-2017-18488', 'CVE-2021-24155']",2022-03-19T05:54Z
+8,cpe:2.3:a:backup-guard:backup_guard:1.1.46:*:*:*:*:wordpress:*:*,Backup Guard 1.1.46 for WordPress,"['CVE-2017-10837', 'CVE-2017-18488', 'CVE-2021-24155']",2022-03-19T05:54Z
+9,cpe:2.3:a:backup-guard:backup_guard:1.1.47:*:*:*:*:wordpress:*:*,Backup Guard 1.1.47 for WordPress,['CVE-2021-24155'],2022-03-19T05:54Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:smart_web_printing:140.0.213.0:*:*:*:*:*:*:*,HP Smart Web Printing 140.0.213.0,[''],2022-03-21T16:05Z
+1,cpe:2.3:a:hp:smart_web_printing_oc:100.0.189.0:*:*:*:*:*:*:*,HP Smart Web Printing Oc 100.0.189.0,[''],2022-03-21T16:05Z
+2,cpe:2.3:a:hp:smart_zero_core:4.4:*:*:*:*:*:*:*,HP Smart Zero Core 4.4,['CVE-2015-2124'],2022-03-21T16:05Z
+3,cpe:2.3:a:hp:smartssd_wear_gauge_utility:9.40:*:*:*:*:*:*:*,HP SmartSSD Wear Gauge Utility 9.40,['CVE-2013-6216'],2022-03-21T16:05Z
+4,cpe:2.3:h:hp:sn6000_stackable_8gb_12-port_single_power_fibre_channel_switch:bk780a:*:*:*:*:*:*:*,HP SN6000 Stackable 8GB 12-Port Single Power Fibre Channel Switch BK780A,['CVE-2014-2603'],2022-03-21T16:05Z
+5,cpe:2.3:h:hp:sn6000_stackable_8gb_12-port_single_power_fibre_channel_switch:bk780b:*:*:*:*:*:*:*,HP SN6000 Stackable 8GB 12-Port Single Power Fibre Channel Switch BK780B,['CVE-2014-2603'],2022-03-21T16:05Z
+6,cpe:2.3:h:hp:sn6000_stackable_8gb_24-port_dual_power_fibre_channel_switch:aw576a:*:*:*:*:*:*:*,HP SN6000 Stackable 8GB 24-Port Dual Power Fibre Channel Switch AW576A,['CVE-2014-2603'],2022-03-21T16:05Z
+7,cpe:2.3:h:hp:sn6000_stackable_8gb_24-port_dual_power_fibre_channel_switch:aw576b:*:*:*:*:*:*:*,HP SN6000 Stackable 8GB 24-Port Dual Power Fibre Channel Switch AW576B,['CVE-2014-2603'],2022-03-21T16:05Z
+8,cpe:2.3:h:hp:sn6000_stackable_8gb_24-port_single_power_fibre_channel_switch:aw575a:*:*:*:*:*:*:*,HP SN6000 Stackable 8GB 24-Port Single Power Fibre Channel Switch AW575A,['CVE-2014-2603'],2022-03-21T16:05Z
+9,cpe:2.3:h:hp:sn6000_stackable_8gb_24-port_single_power_fibre_channel_switch:aw575b:*:*:*:*:*:*:*,HP SN6000 Stackable 8GB 24-Port Single Power Fibre Channel Switch AW575B,['CVE-2014-2603'],2022-03-21T16:05Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dahuasecurity:ipc-hx7842h_firmware:2019-12:*:*:*:*:*:*:*,Dahuasecurity IPC-HX7842H Firmware 2019-12,[''],2022-03-20T09:56Z
+1,cpe:2.3:h:dahuasecurity:ipc-hxxx5x4x:-:*:*:*:*:*:*:*,Dahuasecurity IPC-HXXX5X4X,"['CVE-2019-9682', 'CVE-2020-9499', 'CVE-2020-9500', 'CVE-2020-9502']",2022-03-20T09:56Z
+2,cpe:2.3:o:dahuasecurity:ipc-hxxx5x4x_firmware:-:*:*:*:*:*:*:*,Dahua Technology IPC-HXXX5X4X Firmware,"['CVE-2019-9682', 'CVE-2020-9499', 'CVE-2020-9500', 'CVE-2020-9502']",2022-03-20T09:56Z
+3,cpe:2.3:o:dahuasecurity:ipc-hxxx5x4x_firmware:2019-12:*:*:*:*:*:*:*,Dahuasecurity IPC-HXXX5X4X Firmware 2019-12,[''],2022-03-20T09:56Z
+4,cpe:2.3:h:dahuasecurity:ipc-pdbw8xxx:-:*:*:*:*:*:*:*,Dahua Technology USA Inc IPC-PDBW8XXX,['CVE-2017-9315'],2022-03-20T09:56Z
+5,cpe:2.3:o:dahuasecurity:ipc-pdbw8xxx_firmware:-:*:*:*:*:*:*:*,Dahua Technology IPC-PDBW8XXX Firmware,['CVE-2017-9315'],2022-03-20T09:56Z
+6,cpe:2.3:h:dahuasecurity:ipc-pfw8xxx:-:*:*:*:*:*:*:*,Dahua Technology USA Inc IPC-PFW8XXX,['CVE-2017-9315'],2022-03-20T09:57Z
+7,cpe:2.3:o:dahuasecurity:ipc-pfw8xxx_firmware:-:*:*:*:*:*:*:*,Dahua Technology IPC-PFW8XXX Firmware,['CVE-2017-9315'],2022-03-20T09:56Z
+8,cpe:2.3:o:dahuasecurity:ipc-xxbxx_firmware:-:*:*:*:*:*:*:*,Dahua Technology IPC-XXBXX Firmware,[''],2022-03-20T09:57Z
+9,cpe:2.3:h:dahuasecurity:n42b1p:-:*:*:*:*:*:*:*,Dahuasecurity N42B1P,"['CVE-2019-9682', 'CVE-2020-9499', 'CVE-2020-9500', 'CVE-2020-9502']",2022-03-20T09:57Z

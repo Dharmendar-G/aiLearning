@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:h:hp:integrated_lights-out:-:*:*:*:*:*:*:*,HP Integrated Lights-Out,"['CVE-2016-4406', 'CVE-2017-12543', 'CVE-2017-8979', 'CVE-2017-8987', 'CVE-2018-7078', 'CVE-2018-7093', 'CVE-2018-7101', 'CVE-2018-7105', 'CVE-2018-7112', 'CVE-2018-7113']",2022-03-21T13:41Z
+2,cpe:2.3:h:hp:integrated_lights-out:4.0:*:*:*:*:*:*:*,HP Integrated Lights-Out 4.0 (iLO4),"['CVE-2013-4842', 'CVE-2013-4843', 'CVE-2015-5436']",2022-03-21T13:41Z
+3,cpe:2.3:h:hp:integrated_lights-out_2:-:*:*:*:*:*:*:*,Hp Integrated Lights-out 2 -,['CVE-2018-7112'],2022-03-21T13:41Z
+4,cpe:2.3:o:hp:integrated_lights-out_2_firmware:1.00:*:*:*:*:*:*:*,HP Integrated Lights-Out 2 (iLO 2) firmware 1.00,"['CVE-2014-2601', 'CVE-2014-7876', 'CVE-2015-2106', 'CVE-2017-12543', 'CVE-2018-7112']",2022-03-21T13:41Z
+5,cpe:2.3:o:hp:integrated_lights-out_2_firmware:1.10:*:*:*:*:*:*:*,HP Integrated Lights-Out 2 (iLO 2) firmware 1.10,"['CVE-2014-2601', 'CVE-2014-7876', 'CVE-2015-2106', 'CVE-2017-12543', 'CVE-2018-7112']",2022-03-21T13:41Z
+6,cpe:2.3:o:hp:integrated_lights-out_2_firmware:1.20:*:*:*:*:*:*:*,HP Integrated Lights-Out 2 (iLO 2) firmware 1.20,"['CVE-2014-2601', 'CVE-2014-7876', 'CVE-2015-2106', 'CVE-2017-12543', 'CVE-2018-7112']",2022-03-21T13:41Z
+7,cpe:2.3:o:hp:integrated_lights-out_2_firmware:1.30:*:*:*:*:*:*:*,HP Integrated Lights-Out 2 (iLO 2) firmware 1.30,"['CVE-2014-2601', 'CVE-2014-7876', 'CVE-2015-2106', 'CVE-2017-12543', 'CVE-2018-7112']",2022-03-21T13:41Z
+8,cpe:2.3:o:hp:integrated_lights-out_2_firmware:1.70:*:*:*:*:*:*:*,HP Integrated Lights-Out 2 (iLO 2) firmware 1.70,"['CVE-2014-2601', 'CVE-2014-7876', 'CVE-2015-2106', 'CVE-2017-12543', 'CVE-2018-7112']",2022-03-21T13:41Z
+9,cpe:2.3:o:hp:integrated_lights-out_2_firmware:1.75:*:*:*:*:*:*:*,HP Integrated Lights-Out 2 (iLO 2) firmware 1.75,"['CVE-2014-2601', 'CVE-2014-7876', 'CVE-2015-2106', 'CVE-2017-12543', 'CVE-2018-7112']",2022-03-21T13:41Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:uaa_release:52.2:*:*:*:*:*:*:*,Cloud Foundry UAA Release 52.2,"['CVE-2019-11279', 'CVE-2019-3775', 'CVE-2019-3788', 'CVE-2019-3801']",2022-03-20T03:48Z
+1,cpe:2.3:a:cloudfoundry:uaa_release:52.4:*:*:*:*:*:*:*,Cloud Foundry UAA Release 52.4,"['CVE-2019-11279', 'CVE-2019-3775', 'CVE-2019-3788', 'CVE-2019-3801']",2022-03-20T03:48Z
+2,cpe:2.3:a:cloudfoundry:uaa_release:52.5:*:*:*:*:*:*:*,Cloud Foundry UAA Release 52.5,"['CVE-2019-11279', 'CVE-2019-3775', 'CVE-2019-3788', 'CVE-2019-3801']",2022-03-20T03:48Z
+3,cpe:2.3:a:cloudfoundry:uaa_release:52.6:*:*:*:*:*:*:*,Cloud Foundry UAA Release 52.6,"['CVE-2019-11279', 'CVE-2019-3775', 'CVE-2019-3788', 'CVE-2019-3801']",2022-03-20T03:48Z
+4,cpe:2.3:a:cloudfoundry:uaa_release:52.7:*:*:*:*:*:*:*,Cloud Foundry UAA Release 52.7,"['CVE-2019-11279', 'CVE-2019-3775', 'CVE-2019-3788', 'CVE-2019-3801']",2022-03-20T03:48Z
+5,cpe:2.3:a:cloudfoundry:uaa_release:52.8:*:*:*:*:*:*:*,Cloud Foundry UAA Release 52.8,"['CVE-2019-11279', 'CVE-2019-3775', 'CVE-2019-3788', 'CVE-2019-3801']",2022-03-20T03:48Z
+6,cpe:2.3:a:cloudfoundry:uaa_release:52.9:*:*:*:*:*:*:*,Cloud Foundry UAA Release 52.9,"['CVE-2019-11279', 'CVE-2019-3775', 'CVE-2019-3788', 'CVE-2019-3801']",2022-03-20T03:48Z
+7,cpe:2.3:a:cloudfoundry:uaa_release:52.10:*:*:*:*:*:*:*,Cloud Foundry UAA Release 52.10,"['CVE-2019-11279', 'CVE-2019-3775', 'CVE-2019-3788', 'CVE-2019-3801']",2022-03-20T03:48Z
+8,cpe:2.3:a:cloudfoundry:uaa_release:53.0:*:*:*:*:*:*:*,Cloud Foundry UAA Release 53.0,"['CVE-2019-11279', 'CVE-2019-3775', 'CVE-2019-3788', 'CVE-2019-3801']",2022-03-20T03:48Z
+9,cpe:2.3:a:cloudfoundry:uaa_release:53.1:*:*:*:*:*:*:*,Cloud Foundry UAA Release 53.1,"['CVE-2019-11279', 'CVE-2019-3775', 'CVE-2019-3788', 'CVE-2019-3801']",2022-03-20T03:48Z

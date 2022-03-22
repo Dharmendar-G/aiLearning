@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:accellion:file_transfer_appliance:9_11_200:*:*:*:*:*:*:*,Accellion File Transfer Appliance (FTA) 9 11 200,"['CVE-2015-2856', 'CVE-2015-2857', 'CVE-2016-2350', 'CVE-2016-2351', 'CVE-2016-2352', 'CVE-2016-2353', 'CVE-2017-8303', 'CVE-2017-8304', 'CVE-2017-8760', 'CVE-2017-8788', 'CVE-2017-8789', 'CVE-2017-8790', 'CVE-2017-8791', 'CVE-2017-8792', 'CVE-2017-8793', 'CVE-2017-8794', 'CVE-2017-8795', 'CVE-2017-8796']",2022-03-18T10:43Z
+1,cpe:2.3:a:accellion:file_transfer_appliance:9_11_210:*:*:*:*:*:*:*,Accellion File Transfer Appliance (FTA) 9_11_210,"['CVE-2015-2856', 'CVE-2016-2350', 'CVE-2016-2351', 'CVE-2016-2352', 'CVE-2016-2353', 'CVE-2017-8303', 'CVE-2017-8304', 'CVE-2017-8760', 'CVE-2017-8788', 'CVE-2017-8789', 'CVE-2017-8790', 'CVE-2017-8791', 'CVE-2017-8792', 'CVE-2017-8793', 'CVE-2017-8794', 'CVE-2017-8795', 'CVE-2017-8796']",2022-03-18T10:43Z
+2,cpe:2.3:a:accellion:file_transfer_appliance:9_12_180:*:*:*:*:*:*:*,Accellion File Transfer Appliance (FTA) 9_12_180,['CVE-2015-2856'],2022-03-18T10:43Z
+3,cpe:2.3:a:accellion:fta:-:*:*:*:*:*:*:*,Accellion FTA,"['CVE-2021-27101', 'CVE-2021-27102', 'CVE-2021-27103', 'CVE-2021-27104', 'CVE-2021-27730', 'CVE-2021-27731']",2022-03-18T10:43Z
+4,cpe:2.3:a:accellion:fta:9_12_220:*:*:*:*:*:*:*,Accellion File Transfer Appliance (FTA) 9_12_220,"['CVE-2021-27101', 'CVE-2021-27102', 'CVE-2021-27103', 'CVE-2021-27104', 'CVE-2021-27730', 'CVE-2021-27731']",2022-03-18T10:43Z
+5,cpe:2.3:a:accellion:fta:9_12_370:*:*:*:*:*:*:*,Accellion FTA 9_12_370,"['CVE-2021-27101', 'CVE-2021-27102', 'CVE-2021-27103', 'CVE-2021-27104', 'CVE-2021-27730', 'CVE-2021-27731']",2022-03-18T10:43Z
+6,cpe:2.3:a:accellion:fta:9_12_380:*:*:*:*:*:*:*,Accellion FTA 9_12_380,"['CVE-2021-27102', 'CVE-2021-27103', 'CVE-2021-27730', 'CVE-2021-27731']",2022-03-18T10:43Z
+7,cpe:2.3:a:accellion:fta:9_12_411:*:*:*:*:*:*:*,Accellion FTA 9_12_411,"['CVE-2021-27102', 'CVE-2021-27103', 'CVE-2021-27730', 'CVE-2021-27731']",2022-03-18T10:43Z
+8,cpe:2.3:a:accellion:fta:9_12_416:*:*:*:*:*:*:*,Accellion FTA 9_12_416,"['CVE-2021-27730', 'CVE-2021-27731']",2022-03-18T10:43Z
+9,cpe:2.3:a:accellion:fta:9_12_432:*:*:*:*:*:*:*,Accellion FTA 9_12_432,"['CVE-2021-27730', 'CVE-2021-27731']",2022-03-18T10:43Z

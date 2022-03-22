@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:zbook_firefly_15_g7_firmware:-:*:*:*:*:*:*:*,HP ZBook Firefly 15 G7 Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+1,cpe:2.3:h:hp:zbook_firefly_15_g8:-:*:*:*:*:*:*:*,HP ZBook Firefly 15 G8,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+2,cpe:2.3:o:hp:zbook_firefly_15_g8_firmware:-:*:*:*:*:*:*:*,HP ZBook Firefly 15 G8 Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+3,cpe:2.3:o:hp:zbook_firmware:1.03:*:*:*:*:*:*:*,HP Zbook Firmware 1.03,['CVE-2016-2243'],2022-03-21T16:23Z
+4,cpe:2.3:o:hp:zbook_firmware:1.04:*:*:*:*:*:*:*,HP Zbook Firmware 1.04,['CVE-2016-2243'],2022-03-21T16:23Z
+5,cpe:2.3:h:hp:zbook_fury_15_g7:-:*:*:*:*:*:*:*,HP ZBook Fury 15 G7,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+6,cpe:2.3:o:hp:zbook_fury_15_g7_firmware:-:*:*:*:*:*:*:*,HP ZBook Fury 15 G7 Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+7,cpe:2.3:h:hp:zbook_fury_15_g8:-:*:*:*:*:*:*:*,HP ZBook Fury 15 G8,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+8,cpe:2.3:o:hp:zbook_fury_15_g8_firmware:-:*:*:*:*:*:*:*,HP ZBook Fury 15 G8 Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+9,cpe:2.3:h:hp:zbook_fury_17_g7:-:*:*:*:*:*:*:*,HP ZBook Fury 17 G7,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z

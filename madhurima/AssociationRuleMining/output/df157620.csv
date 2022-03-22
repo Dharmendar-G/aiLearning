@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:computer-insel:photoline:20.53:*:*:*:*:macos:*:*,Computer Insel Photoline 20.53 for macOS,['CVE-2018-3868'],2022-03-20T07:05Z
+1,cpe:2.3:a:computerlab:maple_computer_wbt_snmp_administrator:2.0.195.15:*:*:*:*:*:*:*,Computerlab Maple Computer WBT SNMP Administrator 2.0.195.15,['CVE-2019-13577'],2022-03-20T07:05Z
+2,cpe:2.3:a:computrols:computrols_building_automation_system:15.0.0:*:*:*:*:*:*:*,Computrols Building Automation System (CBAS) 15.0.0,['CVE-2019-10846'],2022-03-20T07:05Z
+3,cpe:2.3:a:computrols:computrols_building_automation_system:15.0.1:*:*:*:*:*:*:*,Computrols Building Automation System (CBAS) 15.0.1,['CVE-2019-10846'],2022-03-20T07:06Z
+4,cpe:2.3:a:computrols:computrols_building_automation_system:18.0.0:*:*:*:*:*:*:*,Computrols Building Automation System (CBAS) 18.0.0,['CVE-2019-10846'],2022-03-20T07:05Z
+5,cpe:2.3:a:computrols:computrols_building_automation_system:18.0.1:*:*:*:*:*:*:*,Computrols Building Automation System (CBAS) 18.0.1,['CVE-2019-10846'],2022-03-20T07:05Z
+6,cpe:2.3:a:computrols:computrols_building_automation_system:19.0.0:*:*:*:*:*:*:*,Computrols Building Automation System (CBAS) 19.0.0,['CVE-2019-10846'],2022-03-20T07:06Z
+7,cpe:2.3:a:compuware:applicationvantage_agent:10.2.277:*:*:*:*:*:*:*,Compuware Applicationvantage Agent 10.2.277,[''],2022-03-20T07:06Z
+8,cpe:2.3:a:compuware:servervantage_agent:10.2.734:*:*:*:*:*:*:*,Compuware Servervantage Agent 10.2.734,[''],2022-03-20T07:06Z
+9,cpe:2.3:a:comrak_project:comrak:0.1.0:*:*:*:*:rust:*:*,Comrak Project Comrak 0.1.0 for Rust,"['CVE-2021-27671', 'CVE-2021-38186']",2022-03-20T07:06Z

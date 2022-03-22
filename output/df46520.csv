@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:arista:extensible_operating_system:4.18:*:*:*:*:*:*:*,Arista Extensible Operating System 4.18,['CVE-2019-14810'],2022-03-18T23:03Z
+1,cpe:2.3:o:arista:extensible_operating_system:4.19:*:*:*:*:*:*:*,Arista Extensible Operating System 4.19,['CVE-2019-14810'],2022-03-18T23:03Z
+2,cpe:2.3:o:arista:extensible_operating_system:4.19.12m:*:*:*:*:*:*:*,Arista Extensible Operating System 4.19.12M,['CVE-2019-14810'],2022-03-18T23:03Z
+3,cpe:2.3:o:arista:extensible_operating_system:4.20:*:*:*:*:*:*:*,Arista Extensible Operating System 4.20,['CVE-2019-14810'],2022-03-18T23:03Z
+4,cpe:2.3:o:arista:extensible_operating_system:4.20.14m:*:*:*:*:*:*:*,Arista Extensible Operating System 4.20.14M,['CVE-2019-14810'],2022-03-18T23:03Z
+5,cpe:2.3:o:arista:extensible_operating_system:4.21.0f:*:*:*:*:*:*:*,Arista Extensible Operating System 4.21.0F,['CVE-2019-14810'],2022-03-18T23:03Z
+6,cpe:2.3:o:arista:extensible_operating_system:4.21.2.3f:*:*:*:*:*:*:*,Arista Extensible Operating System 4.21.2.3F,['CVE-2019-14810'],2022-03-18T23:03Z
+7,cpe:2.3:o:arista:extensible_operating_system:4.21.3f:*:*:*:*:*:*:*,Arista Extensible Operating System 4.21.3F,['CVE-2019-14810'],2022-03-18T23:03Z
+8,cpe:2.3:o:arista:extensible_operating_system:4.21.7:*:*:*:*:*:*:*,Arista Extensible Operating System 4.21.7,['CVE-2019-14810'],2022-03-18T23:03Z
+9,cpe:2.3:o:arista:extensible_operating_system:4.22.1f:*:*:*:*:*:*:*,Arista Extensible Operating System 4.22.1F,['CVE-2019-14810'],2022-03-18T23:03Z

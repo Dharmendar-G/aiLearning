@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:emc_powerconnect_8024_firmware:-:*:*:*:*:*:*:*,Dell EMC PowerConnect 8024 Firmware,['CVE-2019-3753'],2022-03-20T12:24Z
+1,cpe:2.3:o:dell:emc_powerconnect_8024_firmware:5.1.15.2:*:*:*:*:*:*:*,Dell EMC PowerConnect 8024 Firmware 5.1.15.2,[''],2022-03-20T12:24Z
+2,cpe:2.3:h:dell:emc_powerconnect_m6220:-:*:*:*:*:*:*:*,Dell EMC PowerConnect M6220,['CVE-2019-3753'],2022-03-20T12:24Z
+3,cpe:2.3:o:dell:emc_powerconnect_m6220_firmware:-:*:*:*:*:*:*:*,Dell EMC PowerConnect M6220 Firmware,['CVE-2019-3753'],2022-03-20T12:24Z
+4,cpe:2.3:o:dell:emc_powerconnect_m6220_firmware:5.1.15.2:*:*:*:*:*:*:*,Dell EMC PowerConnect M6220 Firmware 5.1.15.2,[''],2022-03-20T12:24Z
+5,cpe:2.3:h:dell:emc_powerconnect_m6348:-:*:*:*:*:*:*:*,Dell EMC PowerConnect M6348,['CVE-2019-3753'],2022-03-20T12:24Z
+6,cpe:2.3:o:dell:emc_powerconnect_m6348_firmware:-:*:*:*:*:*:*:*,Dell EMC PowerConnect M6348 Firmware,['CVE-2019-3753'],2022-03-20T12:24Z
+7,cpe:2.3:o:dell:emc_powerconnect_m6348_firmware:5.1.15.2:*:*:*:*:*:*:*,Dell EMC PowerConnect M6348 Firmware 5.1.15.2,[''],2022-03-20T12:24Z
+8,cpe:2.3:h:dell:emc_powerconnect_m8024:-:*:*:*:*:*:*:*,Dell EMC PowerConnect M8024,['CVE-2019-3753'],2022-03-20T12:24Z
+9,cpe:2.3:o:dell:emc_powerconnect_m8024_firmware:-:*:*:*:*:*:*:*,Dell EMC PowerConnect M8024 Firmware,['CVE-2019-3753'],2022-03-20T12:24Z

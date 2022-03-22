@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:email_security_appliance_firmware:7.1.2:*:*:*:*:*:*:*,Cisco Email Security Appliance 7.1.2,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:25Z
+1,cpe:2.3:o:cisco:email_security_appliance_firmware:7.1.3:*:*:*:*:*:*:*,Cisco Email Security Appliance 7.1.3,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:25Z
+2,cpe:2.3:o:cisco:email_security_appliance_firmware:7.1.4:*:*:*:*:*:*:*,Cisco Email Security Appliance 7.1.4,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:25Z
+3,cpe:2.3:o:cisco:email_security_appliance_firmware:7.1.5:*:*:*:*:*:*:*,Cisco Email Security Appliance 7.1.5,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:25Z
+4,cpe:2.3:o:cisco:email_security_appliance_firmware:7.3:*:*:*:*:*:*:*,Cisco Email Security Appliance Firmware 7.3,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:25Z
+5,cpe:2.3:o:cisco:email_security_appliance_firmware:7.3.0:*:*:*:*:*:*:*,Cisco Email Security Appliance 7.3.0,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:25Z
+6,cpe:2.3:o:cisco:email_security_appliance_firmware:7.3.1:*:*:*:*:*:*:*,Cisco Email Security Appliance 7.3.1,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:25Z
+7,cpe:2.3:o:cisco:email_security_appliance_firmware:7.3.2:*:*:*:*:*:*:*,Cisco Email Security Appliance 7.3.2,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:25Z
+8,cpe:2.3:o:cisco:email_security_appliance_firmware:7.5:*:*:*:*:*:*:*,Cisco Email Security Appliance Firmware 7.5,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:25Z
+9,cpe:2.3:o:cisco:email_security_appliance_firmware:7.5.0:*:*:*:*:*:*:*,Cisco Email Security Appliance 7.5.0,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:25Z

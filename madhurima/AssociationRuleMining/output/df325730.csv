@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:mercury_quality_center:9.0_build_9.1.0.4352:*:*:*:*:*:*:*,HP Mercury Quality Center 9.0 build 9.1.0.4352,['CVE-2007-5289'],2022-03-21T15:21Z
+1,cpe:2.3:a:hp:mercury_sitescope:-:*:*:*:*:*:*:*,Mercury Mercury SiteScope,[''],2022-03-21T15:21Z
+2,cpe:2.3:a:hp:mercury_sitescope:8.1.2.0:*:*:*:*:*:*:*,Mercury Mercury SiteScope 8.2_8.1.2.0,[''],2022-03-21T15:21Z
+3,cpe:2.3:a:hp:mercury_sitescope:8.2:*:*:*:*:*:*:*,Mercury Mercury SiteScope 8.2_8.1.2.0,[''],2022-03-21T15:21Z
+4,cpe:2.3:a:hp:mercury_testdirector_for_quality_center:-:*:*:*:*:*:*:*,Mercury Testdirector,['CVE-2010-1959'],2022-03-21T15:21Z
+5,cpe:2.3:a:hp:mfa_proxy:4.0:*:*:*:*:apache:*:*,HP MFA Proxy 4.0 for Apache,['CVE-2019-11989'],2022-03-21T15:21Z
+6,cpe:2.3:h:hp:miix_720-12ikb:-:*:*:*:*:*:*:*,HP Miix 720-12IKB,['CVE-2018-9069'],2022-03-21T15:21Z
+7,cpe:2.3:h:hp:miix_720-12ikb:3scn66ww:*:*:*:*:*:*:*,HP Miix 720-12IKB 3SCN66WW,[''],2022-03-21T15:21Z
+8,cpe:2.3:a:hp:misc:1.0.0:*:*:*:*:*:*:*,HP Misc 1.0.0,[''],2022-03-21T15:21Z
+9,cpe:2.3:h:hp:moonshot_component_pack:-:*:*:*:*:*:*:*,HP Moonshot Component Pack,['CVE-2018-7093'],2022-03-21T15:21Z

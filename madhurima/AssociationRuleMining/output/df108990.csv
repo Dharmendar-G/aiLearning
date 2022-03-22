@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:checkpoint:vpn-1:4.1:*:*:*:*:*:*:*,Checkpoint VPN-1 4.1,"['CVE-2001-1176', 'CVE-2004-0699', 'CVE-2006-0255']",2022-03-19T16:49Z
+1,cpe:2.3:a:checkpoint:vpn-1:4.1:sp1:*:*:*:*:*:*,Checkpoint VPN-1 4.1 SP1,"['CVE-2001-1176', 'CVE-2004-0699', 'CVE-2006-0255']",2022-03-19T16:49Z
+2,cpe:2.3:a:checkpoint:vpn-1:4.1:sp2:*:*:*:*:*:*,Checkpoint VPN-1 4.1 SP2,"['CVE-2001-1176', 'CVE-2004-0699', 'CVE-2006-0255']",2022-03-19T16:49Z
+3,cpe:2.3:a:checkpoint:vpn-1:4.1:sp3:*:*:*:*:*:*,Checkpoint VPN-1 4.1_SP3,"['CVE-2001-1176', 'CVE-2001-1431', 'CVE-2004-0699', 'CVE-2006-0255']",2022-03-19T16:49Z
+4,cpe:2.3:a:checkpoint:vpn-1:4.1:sp4:*:*:*:*:*:*,Checkpoint VPN-1 4.1_SP4,"['CVE-2001-1176', 'CVE-2001-1431', 'CVE-2001-1499', 'CVE-2004-0699', 'CVE-2006-0255']",2022-03-19T16:49Z
+5,cpe:2.3:a:checkpoint:vpn-1:4.1:sp5:*:*:*:*:*:*,Checkpoint VPN-1 4.1 SP5,"['CVE-2001-1176', 'CVE-2004-0699', 'CVE-2006-0255']",2022-03-19T16:49Z
+6,cpe:2.3:a:checkpoint:vpn-1:4.1:sp5a:*:*:*:*:*:*,Checkpoint VPN-1 4.1 SP5a,"['CVE-2001-1176', 'CVE-2004-0040', 'CVE-2004-0699', 'CVE-2006-0255']",2022-03-19T16:49Z
+7,cpe:2.3:a:checkpoint:vpn-1:4.1:sp6:*:*:*:*:*:*,Checkpoint VPN-1 4.1 SP6,"['CVE-2001-1176', 'CVE-2004-0699', 'CVE-2006-0255']",2022-03-19T16:49Z
+8,cpe:2.3:a:checkpoint:vpn-1_firewall_1:-:*:*:*:*:*:*:*,Checkpoint VPN-1 Software Firewall,[''],2022-03-19T16:49Z
+9,cpe:2.3:a:checkpoint:vpn-1_firewall_1:4.1.0:*:*:*:*:*:*:*,Checkpoint VPN-1 Software Firewall 14.1.0,[''],2022-03-19T16:49Z

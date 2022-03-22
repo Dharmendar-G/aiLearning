@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:centreon:centreon:21.04.2:*:*:*:*:*:*:*,Centreon 21.04.2,[''],2022-03-19T16:00Z
+1,cpe:2.3:a:centreon:centreon:21.04.3:*:*:*:*:*:*:*,Centreon 21.04.3,[''],2022-03-19T16:01Z
+2,cpe:2.3:a:centreon:centreon:21.04.4:*:*:*:*:*:*:*,Centreon 21.04.4,[''],2022-03-19T16:00Z
+3,cpe:2.3:a:centreon:centreon_host-monitoring_widget:1.6.4:*:*:*:*:*:*:*,Centreon Host-Monitoring Widget 1.6.4,[''],2022-03-19T16:00Z
+4,cpe:2.3:a:centreon:centreon_host-monitoring_widget:18.10.0:*:*:*:*:*:*:*,Centreon Host-Monitoring Widget 18.10.0,"['CVE-2020-10946', 'CVE-2020-13627', 'CVE-2020-13628']",2022-03-19T16:01Z
+5,cpe:2.3:a:centreon:centreon_host-monitoring_widget:18.10.3:*:*:*:*:*:*:*,Centreon Host-Monitoring Widget 18.10.3,[''],2022-03-19T16:01Z
+6,cpe:2.3:a:centreon:centreon_host-monitoring_widget:19.0.0:*:*:*:*:*:*:*,Centreon Host-Monitoring Widget 19.0.0,"['CVE-2020-10946', 'CVE-2020-13627', 'CVE-2020-13628']",2022-03-19T16:01Z
+7,cpe:2.3:a:centreon:centreon_host-monitoring_widget:19.0.1:*:*:*:*:*:*:*,Centreon Host-Monitoring Widget 19.0.1,[''],2022-03-19T16:01Z
+8,cpe:2.3:a:centreon:centreon_host-monitoring_widget:19.04.0:*:*:*:*:*:*:*,Centreon Host-Monitoring Widget 19.04.0,"['CVE-2020-10946', 'CVE-2020-13627', 'CVE-2020-13628']",2022-03-19T16:01Z
+9,cpe:2.3:a:centreon:centreon_host-monitoring_widget:19.04.3:*:*:*:*:*:*:*,Centreon Host-Monitoring Widget 19.04.3,[''],2022-03-19T16:01Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:telepresence_system_software:tc4.1.2:*:*:*:*:*:*:*,Cisco TelePresence System Software TC4.1.2,"['CVE-2012-0330', 'CVE-2012-0331']",2022-03-20T00:34Z
+1,cpe:2.3:a:cisco:telepresence_system_software:tc5.1.0:*:*:*:*:*:*:*,Cisco TelePresence System Software TC5.1.0,"['CVE-2012-0330', 'CVE-2012-0331']",2022-03-20T00:34Z
+2,cpe:2.3:a:cisco:telepresence_system_software:tcu4.0.3:*:*:*:*:*:*:*,Cisco TelePresence System Software TCU4.0.3,"['CVE-2012-0330', 'CVE-2012-0331']",2022-03-20T00:34Z
+3,cpe:2.3:a:cisco:telepresence_system_software:tcu4.1.0:*:*:*:*:*:*:*,Cisco TelePresence System Software TCU4.1.0,"['CVE-2012-0330', 'CVE-2012-0331']",2022-03-20T00:34Z
+4,cpe:2.3:a:cisco:telepresence_system_software:tcu4.2.0:*:*:*:*:*:*:*,Cisco TelePresence System Software TCU4.2.0,"['CVE-2012-0330', 'CVE-2012-0331']",2022-03-20T00:34Z
+5,cpe:2.3:a:cisco:telepresence_system_software:tt4.0.3:*:*:*:*:*:*:*,Cisco TelePresence System Software TT4.0.3,"['CVE-2012-0330', 'CVE-2012-0331']",2022-03-20T00:34Z
+6,cpe:2.3:a:cisco:telepresence_system_software:tt4.1.0:*:*:*:*:*:*:*,Cisco TelePresence System Software TT4.1.0,"['CVE-2012-0330', 'CVE-2012-0331']",2022-03-20T00:34Z
+7,cpe:2.3:a:cisco:telepresence_system_software:x5.2:*:*:*:*:*:*:*,Cisco TelePresence System Software x5.2,"['CVE-2012-0330', 'CVE-2012-0331']",2022-03-20T00:34Z
+8,cpe:2.3:a:cisco:telepresence_system_software:x6.0:*:*:*:*:*:*:*,Cisco TelePresence System Software x6.0,"['CVE-2012-0330', 'CVE-2012-0331']",2022-03-20T00:34Z
+9,cpe:2.3:a:cisco:telepresence_system_software:x6.1:*:*:*:*:*:*:*,Cisco TelePresence System Software x6.1,"['CVE-2012-0330', 'CVE-2012-0331']",2022-03-20T00:34Z

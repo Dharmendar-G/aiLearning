@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.4:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.4 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:33Z
+1,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.5:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.5 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:33Z
+2,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.6:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.6 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:33Z
+3,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.7:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.7 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:33Z
+4,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.7.1:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.7.1 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:33Z
+5,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.7.3:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.7.3 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:33Z
+6,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.7.8:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.7.8 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:33Z
+7,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.7.9:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.7.9 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:33Z
+8,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.7.9.1:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.7.9.1 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:34Z
+9,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.8:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.8 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:34Z

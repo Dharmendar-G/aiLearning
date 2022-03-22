@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:sourcefire_defense_center:6.7.0.3:*:*:*:*:*:*:*,Cisco Sourcefire Defense Center 6.7.0.3,['CVE-2021-34781'],2022-03-20T00:21Z
+1,cpe:2.3:a:cisco:sourcefire_defense_center:6.7.1:*:*:*:*:*:*:*,Cisco Sourcefire Defense Center 6.7.1,['CVE-2021-34781'],2022-03-20T00:21Z
+2,cpe:2.3:a:cisco:sourcefire_defense_center:7.0.0:*:*:*:*:*:*:*,Cisco Sourcefire Defense Center 7.0.0,"['CVE-2021-34755', 'CVE-2021-34756', 'CVE-2021-34761', 'CVE-2021-34762', 'CVE-2021-34763', 'CVE-2021-34764', 'CVE-2021-34781']",2022-03-20T00:21Z
+3,cpe:2.3:a:cisco:sourcefire_defense_center:7.1.0:*:*:*:*:*:*:*,Cisco Sourcefire Defense Center 7.1.0,"['CVE-2021-34755', 'CVE-2021-34756', 'CVE-2021-34761', 'CVE-2021-34763', 'CVE-2021-34764']",2022-03-20T00:21Z
+4,cpe:2.3:a:cisco:sourcefire_snort:3.0:*:*:*:*:*:*:*,Cisco Sourcefire Snort 3.0,['CVE-2017-6658'],2022-03-20T00:21Z
+5,cpe:2.3:h:cisco:spa_301:-:*:*:*:*:*:*:*,Cisco SPA 301,"['CVE-2015-6403', 'CVE-2017-12219']",2022-03-20T00:21Z
+6,cpe:2.3:h:cisco:spa_301_1_line_ip_phone:-:*:*:*:*:*:*:*,Cisco SPA 301 1 Line IP Phone,"['CVE-2014-3312', 'CVE-2014-3313', 'CVE-2015-0670']",2022-03-20T00:21Z
+7,cpe:2.3:o:cisco:spa_301_firmware:-:*:*:*:*:*:*:*,Cisco SPA 301 Firmware,[''],2022-03-20T00:21Z
+8,cpe:2.3:o:cisco:spa_301_firmware:7.6.2:*:*:*:*:*:*:*,Cisco SPA 301 Firmware 7.6.2,['CVE-2017-12219'],2022-03-20T00:21Z
+9,cpe:2.3:h:cisco:spa_302d:-:*:*:*:*:*:*:*,Cisco SPA 302D,['CVE-2015-0670'],2022-03-20T00:21Z

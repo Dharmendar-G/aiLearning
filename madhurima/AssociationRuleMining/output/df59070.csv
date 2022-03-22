@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:universal_plugin_manager:3.0.3:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 3.0.3,[''],2022-03-19T02:18Z
+1,cpe:2.3:a:atlassian:universal_plugin_manager:3.0.5:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 3.0.5,[''],2022-03-19T02:18Z
+2,cpe:2.3:a:atlassian:universal_plugin_manager:3.0.6:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 3.0.6,[''],2022-03-19T02:18Z
+3,cpe:2.3:a:atlassian:universal_plugin_manager:4.0.0:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 4.0.0,['CVE-2019-14999'],2022-03-19T02:18Z
+4,cpe:2.3:a:atlassian:universal_plugin_manager:4.0.3:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 4.0.3,[''],2022-03-19T02:18Z
+5,cpe:2.3:a:atlassian:universal_plugin_manager:4.0.4:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 4.0.4,[''],2022-03-19T02:18Z
+6,cpe:2.3:a:atlassian:universal_plugin_manager:4.0.5:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 4.0.5,[''],2022-03-19T02:18Z
+7,cpe:2.3:a:atlassian:universal_plugin_manager:4.0.7:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 4.0.7,[''],2022-03-19T02:18Z
+8,cpe:2.3:a:atlassolutions:accipiter_direct_server:4.0.2.17:*:*:*:*:*:*:*,Atlassolutions Accipiter Direct Server 4.0.2.17,[''],2022-03-19T02:18Z
+9,cpe:2.3:a:atlassolutions:accipiter_direct_server:6.0.0.52:*:*:*:*:*:*:*,Atlassolutions Accipiter Direct Server 6.0.0.52,[''],2022-03-19T02:18Z

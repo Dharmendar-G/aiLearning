@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:health:covidsafe:1.0.11:*:*:*:*:android:*:*,Health COVIDSafe 1.0.11 for Android,"['CVE-2020-12856', 'CVE-2020-12857', 'CVE-2020-12858', 'CVE-2020-12859', 'CVE-2020-12860', 'CVE-2020-14292']",2022-03-21T10:31Z
+1,cpe:2.3:a:health:covidsafe:1.0.16:*:*:*:*:android:*:*,Health COVIDSafe 1.0.16 for Android,"['CVE-2020-12856', 'CVE-2020-12857', 'CVE-2020-12858', 'CVE-2020-12859', 'CVE-2020-12860', 'CVE-2020-14292']",2022-03-21T10:31Z
+2,cpe:2.3:a:health:covidsafe:1.0.17:*:*:*:*:android:*:*,Health COVIDSafe 1.0.17 for Android,"['CVE-2020-12856', 'CVE-2020-12859', 'CVE-2020-12860', 'CVE-2020-14292']",2022-03-21T10:31Z
+3,cpe:2.3:a:health:covidsafe:1.0.21:*:*:*:*:android:*:*,Health COVIDSafe 1.0.21 for Android,['CVE-2020-14292'],2022-03-21T10:31Z
+4,cpe:2.3:a:health:covidsafe:1.1:*:*:*:*:iphone_os:*:*,Health COVIDSafe 1.1 for iPhone OS,['CVE-2020-12717'],2022-03-21T10:31Z
+5,cpe:2.3:a:health:covidsafe:1.2:*:*:*:*:iphone_os:*:*,Health COVIDSafe 1.2 for iPhone OS,[''],2022-03-21T10:31Z
+6,cpe:2.3:a:health:how_to_boil_eggs:251333:*:*:*:*:android:*:*,health How To Boil Eggs (aka com.appmakr.app842173) for android 251333,['CVE-2014-7360'],2022-03-21T10:31Z
+7,cpe:2.3:a:healthadvocate:health_advocate_smarthelp:3.6:*:*:*:*:android:*:*,healthadvocate Health Advocate SmartHelp (aka com.healthadvocate.ui) for android 3.6,['CVE-2014-7562'],2022-03-21T10:31Z
+8,cpe:2.3:a:healthcenter_project:healthcenter:3.0.3:*:*:*:*:node.js:*:*,healthcenter Project healthcenter 3.0.3 for Node.js,['CVE-2016-10684'],2022-03-21T10:31Z
+9,cpe:2.3:a:healthnode_hospital_management_system_project:healthnode_hospital_management_system:1.0:*:*:*:*:*:*:*,HealthNode Hospital Management System Project HealthNode Hospital Management System 1.0,['CVE-2018-17393'],2022-03-21T10:31Z

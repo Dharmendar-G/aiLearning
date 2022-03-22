@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codesupply:squaretype:3.0.0:*:*:*:*:wordpress:*:*,Code Supply Co Squaretype 3.0.0 for WordPress,['CVE-2021-24840'],2022-03-20T06:02Z
+1,cpe:2.3:a:codesupply:squaretype:3.0.1:*:*:*:*:wordpress:*:*,Code Supply Co Squaretype 3.0.1 for WordPress,['CVE-2021-24840'],2022-03-20T06:02Z
+2,cpe:2.3:a:codesupply:squaretype:3.0.2:*:*:*:*:wordpress:*:*,Code Supply Co Squaretype 3.0.2 for WordPress,['CVE-2021-24840'],2022-03-20T06:02Z
+3,cpe:2.3:a:codesupply:squaretype:3.0.3:*:*:*:*:wordpress:*:*,Code Supply Co Squaretype 3.0.3 for WordPress,['CVE-2021-24840'],2022-03-20T06:02Z
+4,cpe:2.3:a:codesupply:squaretype:3.0.4:*:*:*:*:wordpress:*:*,Code Supply Co Squaretype 3.0.4 for WordPress,[''],2022-03-20T06:02Z
+5,cpe:2.3:a:codesys:automation_server:-:*:*:*:*:*:*:*,CODESYS Automation Server,['CVE-2021-29238'],2022-03-20T06:02Z
+6,cpe:2.3:a:codesys:automation_server:1.16.0:*:*:*:*:*:*:*,CODESYS Automation Server 1.16.0,[''],2022-03-20T06:02Z
+7,cpe:2.3:a:codesys:codesys:-:*:*:*:*:*:*:*,CODESYS,"['CVE-2019-13538', 'CVE-2021-34583', 'CVE-2021-34584', 'CVE-2021-34585', 'CVE-2021-34586']",2022-03-20T06:02Z
+8,cpe:2.3:a:codesys:codesys:2.3:*:*:*:*:*:*:*,CODESYS 2.3,"['CVE-2019-13538', 'CVE-2019-16265']",2022-03-20T06:02Z
+9,cpe:2.3:a:codesys:codesys:2.3.9.61:*:*:*:*:*:*:*,CODESYS 2.3.9.61,['CVE-2019-13538'],2022-03-20T06:02Z

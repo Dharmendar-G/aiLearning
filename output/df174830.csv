@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:david_king:vino:2.99.1:*:*:*:*:*:*:*,David King Vino 2.99.1,"['CVE-2011-1164', 'CVE-2011-1165', 'CVE-2012-4429', 'CVE-2013-5745']",2022-03-20T11:00Z
+1,cpe:2.3:a:david_king:vino:2.99.2:*:*:*:*:*:*:*,David King Vino 2.99.2,"['CVE-2011-1164', 'CVE-2011-1165', 'CVE-2012-4429', 'CVE-2013-5745']",2022-03-20T11:00Z
+2,cpe:2.3:a:david_king:vino:2.99.3:*:*:*:*:*:*:*,David King Vino 2.99.3,"['CVE-2011-1164', 'CVE-2011-1165', 'CVE-2012-4429', 'CVE-2013-5745']",2022-03-20T11:00Z
+3,cpe:2.3:a:david_king:vino:2.99.4:*:*:*:*:*:*:*,David King Vino 2.99.4,"['CVE-2011-1164', 'CVE-2011-1165', 'CVE-2012-4429', 'CVE-2013-5745']",2022-03-20T11:00Z
+4,cpe:2.3:a:david_king:vino:2.99.5:*:*:*:*:*:*:*,David King Vino 2.99.5,"['CVE-2011-1165', 'CVE-2012-4429', 'CVE-2013-5745']",2022-03-20T11:00Z
+5,cpe:2.3:a:david_king:vino:3.0.0:*:*:*:*:*:*:*,David King Vino 3.0.0,"['CVE-2011-0904', 'CVE-2011-0905', 'CVE-2011-1165', 'CVE-2012-4429', 'CVE-2013-5745']",2022-03-20T11:01Z
+6,cpe:2.3:a:david_king:vino:3.0.1:*:*:*:*:*:*:*,David King Vino 3.0.1,"['CVE-2011-0904', 'CVE-2011-0905', 'CVE-2011-1165', 'CVE-2012-4429', 'CVE-2013-5745']",2022-03-20T11:01Z
+7,cpe:2.3:a:david_king:vino:3.0.2:*:*:*:*:*:*:*,David King Vino 3.0.2,"['CVE-2011-1165', 'CVE-2012-4429', 'CVE-2013-5745']",2022-03-20T11:01Z
+8,cpe:2.3:a:david_king:vino:3.0.3:*:*:*:*:*:*:*,David King Vino 3.0.3,"['CVE-2011-1165', 'CVE-2012-4429', 'CVE-2013-5745']",2022-03-20T11:01Z
+9,cpe:2.3:a:david_king:vino:3.1:*:*:*:*:*:*:*,David King Vino 3.1,"['CVE-2011-0904', 'CVE-2011-0905', 'CVE-2011-1165', 'CVE-2012-4429', 'CVE-2013-5745']",2022-03-20T11:01Z

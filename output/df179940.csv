@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:inspiron_5491_aio:-:*:*:*:*:*:*:*,Dell Inspiron 5491 AIO,"['CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:40Z
+1,cpe:2.3:o:dell:inspiron_5491_aio_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 5491 Aio Firmware,"['CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:40Z
+2,cpe:2.3:o:dell:inspiron_5491_firmware:1.4.0:*:*:*:*:*:*:*,Dell Inspiron 5491 Firmware 1.4.0,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:40Z
+3,cpe:2.3:h:dell:inspiron_5493:-:*:*:*:*:*:*:*,Dell Inspiron 5493,"['CVE-2020-5324', 'CVE-2020-5362', 'CVE-2021-36283', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:40Z
+4,cpe:2.3:o:dell:inspiron_5493_firmware:1.4.0:*:*:*:*:*:*:*,Dell Inspiron 5493 Firmware 1.4.0,"['CVE-2020-5362', 'CVE-2021-36283', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:40Z
+5,cpe:2.3:h:dell:inspiron_5494:-:*:*:*:*:*:*:*,Dell Inspiron 5494,"['CVE-2020-5324', 'CVE-2020-5362', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:40Z
+6,cpe:2.3:o:dell:inspiron_5494_firmware:1.5.0:*:*:*:*:*:*:*,Dell Inspiron 5494 Firmware 1.5.0,"['CVE-2020-5362', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:40Z
+7,cpe:2.3:h:dell:inspiron_5498:-:*:*:*:*:*:*:*,Dell Inspiron 5498,"['CVE-2020-5324', 'CVE-2020-5362', 'CVE-2021-36283', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:40Z
+8,cpe:2.3:o:dell:inspiron_5498_firmware:1.4.0:*:*:*:*:*:*:*,Dell Inspiron 5498 Firmware 1.4.0,"['CVE-2020-5362', 'CVE-2021-36283', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:40Z
+9,cpe:2.3:h:dell:inspiron_5501:-:*:*:*:*:*:*:*,Dell Inspiron 5501,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:40Z

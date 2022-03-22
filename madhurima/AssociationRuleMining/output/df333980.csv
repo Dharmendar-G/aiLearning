@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:florida-tl10b:-:*:*:*:*:*:*:*,Huawei FLORIDA-TL10B,['CVE-2019-9506'],2022-03-21T17:44Z
+1,cpe:2.3:h:huawei:frd-l02:-:*:*:*:*:*:*:*,Huawei Frd-l02 -,['CVE-2017-2721'],2022-03-21T17:44Z
+2,cpe:2.3:o:huawei:frd-l02_firmware:frd-l02c432b120:*:*:*:*:*:*:*,Huawei Frd-l02 Firmware FRD-L02C432B120,['CVE-2017-2721'],2022-03-21T17:44Z
+3,cpe:2.3:o:huawei:frd-l02_firmware:frd-l02c635b130:*:*:*:*:*:*:*,Huawei Frd-l02 Firmware FRD-L02C635B130,['CVE-2017-2721'],2022-03-21T17:44Z
+4,cpe:2.3:o:huawei:frd-l02_firmware:frd-l02c675b170custc675d001:*:*:*:*:*:*:*,Huawei Frd-l02 Firmware FRD-L02C675B170CUSTC675D001,['CVE-2017-2721'],2022-03-21T17:44Z
+5,cpe:2.3:h:huawei:frd-l04:-:*:*:*:*:*:*:*,Huawei Frd-l04 -,['CVE-2017-2721'],2022-03-21T17:44Z
+6,cpe:2.3:o:huawei:frd-l04_firmware:frd-l04c567b162:*:*:*:*:*:*:*,Huawei Frd-l04 Firmware FRD-L04C567B162,['CVE-2017-2721'],2022-03-21T17:44Z
+7,cpe:2.3:o:huawei:frd-l04_firmware:frd-l04c605b131:*:*:*:*:*:*:*,Huawei Frd-l04 Firmware FRD-L04C605B131,['CVE-2017-2721'],2022-03-21T17:44Z
+8,cpe:2.3:h:huawei:frd-l09:-:*:*:*:*:*:*:*,Huawei Frd-l09 -,['CVE-2017-2721'],2022-03-21T17:44Z
+9,cpe:2.3:o:huawei:frd-l09_firmware:frd-l09c10b130:*:*:*:*:*:*:*,Huawei Frd-l09 Firmware FRD-L09C10B130,['CVE-2017-2721'],2022-03-21T17:44Z

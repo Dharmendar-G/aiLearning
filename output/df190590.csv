@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:d-link:dsr-500n_firmware:1.04b58:*:*:*:*:*:*:*,D-Link DSR 500N Firmware 1.04b58,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:05Z
+1,cpe:2.3:o:d-link:dsr-500n_firmware:1.06b43:*:*:*:*:*:*:*,D-Link DSR 500N Firmware 1.06b43,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:05Z
+2,cpe:2.3:o:d-link:dsr-500n_firmware:1.06b53:*:*:*:*:*:*:*,D-Link DSR 500N Firmware 1.06b53,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:05Z
+3,cpe:2.3:o:d-link:dsr-500n_firmware:1.08b51:*:*:*:*:*:*:*,D-Link DSR 500N Firmware 1.08b51,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:05Z
+4,cpe:2.3:o:d-link:dsr-500n_firmware:1.08b77:*:*:*:*:*:*:*,D-Link DSR 500N Firmware 1.08b77,[''],2022-03-20T16:05Z
+5,cpe:2.3:h:d-link:dva-2800:-:*:*:*:*:*:*:*,D-Link DVA-2800,[''],2022-03-20T16:05Z
+6,cpe:2.3:h:d-link:dva-2800:revision_t:*:*:*:*:*:*:*,D-Link DVA-2800 RT,[''],2022-03-20T16:05Z
+7,cpe:2.3:h:d-link:dvg-n5402sp:-:*:*:*:*:*:*:*,D-Link DVG-N5402SP,"['CVE-2015-7245', 'CVE-2015-7246', 'CVE-2015-7247']",2022-03-20T16:05Z
+8,cpe:2.3:h:d-link:dvg-n5412sp:-:*:*:*:*:*:*:*,D-link DVG-N5412SP,['CVE-2020-12695'],2022-03-20T16:06Z
+9,cpe:2.3:h:d-link:dwl-2600ap:-:*:*:*:*:*:*:*,D-Link DWL-2600AP,"['CVE-2019-20499', 'CVE-2019-20500', 'CVE-2019-20501']",2022-03-20T16:06Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:symantec_critical_system_protection:5.2.7:-:*:*:*:*:*:*,Broadcom Symantec Critical System Protection 5.2.7,"['CVE-2013-5016', 'CVE-2015-8157', 'CVE-2015-8798', 'CVE-2015-8799']",2022-03-19T12:31Z
+1,cpe:2.3:a:broadcom:symantec_critical_system_protection:5.2.7:mp2:*:*:*:*:*:*,Broadcom Symantec Critical System Protection 5.2.7 Maintenance Pack 2,"['CVE-2013-5016', 'CVE-2015-8157', 'CVE-2015-8798', 'CVE-2015-8799']",2022-03-19T12:31Z
+2,cpe:2.3:a:broadcom:symantec_critical_system_protection:5.2.8:*:*:*:*:*:*:*,Broadcom Symantec Critical System Protection 5.2.8,"['CVE-2013-5016', 'CVE-2015-8157', 'CVE-2015-8798', 'CVE-2015-8799']",2022-03-19T12:31Z
+3,cpe:2.3:a:broadcom:symantec_critical_system_protection:5.2.8.1:*:*:*:*:*:*:*,Broadcom Symantec Critical System Protection 5.2.8.1,"['CVE-2015-8157', 'CVE-2015-8798', 'CVE-2015-8799']",2022-03-19T12:31Z
+4,cpe:2.3:a:broadcom:symantec_critical_system_protection:5.2.8.2:*:*:*:*:*:*:*,Broadcom Symantec Critical System Protection 5.2.8.2,"['CVE-2015-8157', 'CVE-2015-8798', 'CVE-2015-8799']",2022-03-19T12:31Z
+5,cpe:2.3:a:broadcom:symantec_critical_system_protection:5.2.8.3:*:*:*:*:*:*:*,Broadcom Symantec Critical System Protection 5.2.8.3,"['CVE-2015-8157', 'CVE-2015-8798', 'CVE-2015-8799']",2022-03-19T12:31Z
+6,cpe:2.3:a:broadcom:symantec_critical_system_protection:5.2.8.4:*:*:*:*:*:*:*,Broadcom Symantec Critical System Protection 5.2.8.4,"['CVE-2015-8157', 'CVE-2015-8798', 'CVE-2015-8799']",2022-03-19T12:31Z
+7,cpe:2.3:a:broadcom:symantec_critical_system_protection:5.2.9:*:*:*:*:*:*:*,Broadcom Symantec Critical System Protection 5.2.9,"['CVE-2014-3440', 'CVE-2014-7289', 'CVE-2014-9224', 'CVE-2014-9225', 'CVE-2014-9226', 'CVE-2015-8157', 'CVE-2015-8798', 'CVE-2015-8799', 'CVE-2015-8800']",2022-03-19T12:31Z
+8,cpe:2.3:a:broadcom:symantec_critical_system_protection:6.5.0:*:*:*:*:*:*:*,Broadcom Symantec Critical System Protection 6.5.0,[''],2022-03-19T12:31Z
+9,cpe:2.3:a:broadcom:symantec_critical_system_protection:6.5.1:*:*:*:*:*:*:*,Broadcom Symantec Critical System Protection 6.5.1,[''],2022-03-19T12:31Z

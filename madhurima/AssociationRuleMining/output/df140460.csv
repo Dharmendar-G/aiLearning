@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:citrix:netscaler_gateway_firmware:11.0:*:*:*:*:*:*:*,Citrix NetScaler Gateway Firmware 11.0,"['CVE-2017-14602', 'CVE-2017-17382', 'CVE-2017-17549', 'CVE-2017-7219', 'CVE-2018-6808', 'CVE-2018-6809', 'CVE-2018-6810', 'CVE-2018-6811', 'CVE-2018-7218', 'CVE-2019-6485']",2022-03-20T01:33Z
+1,cpe:2.3:o:citrix:netscaler_gateway_firmware:11.1:*:*:*:*:*:*:*,Citrix NetScaler Gateway Firmware 11.1,"['CVE-2017-14602', 'CVE-2017-17382', 'CVE-2017-17549', 'CVE-2017-7219', 'CVE-2018-6808', 'CVE-2018-6809', 'CVE-2018-6810', 'CVE-2018-6811', 'CVE-2018-7218', 'CVE-2019-18225', 'CVE-2019-19781', 'CVE-2019-6485', 'CVE-2020-8187', 'CVE-2020-8190', 'CVE-2020-8191', 'CVE-2020-8193', 'CVE-2020-8194', 'CVE-2020-8195', 'CVE-2020-8196', 'CVE-2020-8197', 'CVE-2020-8198']",2022-03-20T01:33Z
+2,cpe:2.3:o:citrix:netscaler_gateway_firmware:11.1-64.14:*:*:*:*:*:*:*,Citrix NetScaler Gateway Firmware 11.1-64.14,[''],2022-03-20T01:33Z
+3,cpe:2.3:o:citrix:netscaler_gateway_firmware:11.1.0:*:*:*:*:*:*:*,Citrix Netscaler Gateway Firmware 11.1.0,"['CVE-2018-18517', 'CVE-2019-12044']",2022-03-20T01:33Z
+4,cpe:2.3:o:citrix:netscaler_gateway_firmware:11.1.59.004:*:*:*:*:*:*:*,Citrix Netscaler Gateway Firmware 11.1.59.004,['CVE-2019-12044'],2022-03-20T01:33Z
+5,cpe:2.3:o:citrix:netscaler_gateway_firmware:11.1.59.10:*:*:*:*:*:*:*,Citrix Netscaler Gateway Firmware 11.1.59.10,[''],2022-03-20T01:33Z
+6,cpe:2.3:o:citrix:netscaler_gateway_firmware:12.0:*:*:*:*:*:*:*,Citrix NetScaler Gateway Firmware 12.0,"['CVE-2017-14602', 'CVE-2017-17382', 'CVE-2017-17549', 'CVE-2018-6808', 'CVE-2018-6809', 'CVE-2018-6810', 'CVE-2018-6811', 'CVE-2018-7218', 'CVE-2019-18225', 'CVE-2019-19781', 'CVE-2019-6485', 'CVE-2020-8187', 'CVE-2020-8190', 'CVE-2020-8191', 'CVE-2020-8193', 'CVE-2020-8194', 'CVE-2020-8195', 'CVE-2020-8196', 'CVE-2020-8197', 'CVE-2020-8198']",2022-03-20T01:33Z
+7,cpe:2.3:o:citrix:netscaler_gateway_firmware:12.0-63.21:*:*:*:*:*:*:*,Citrix NetScaler Gateway Firmware 12.0-63.21,[''],2022-03-20T01:33Z
+8,cpe:2.3:o:citrix:netscaler_gateway_firmware:12.0.0:*:*:*:*:*:*:*,Citrix Netscaler Gateway Firmware 12.0.0,"['CVE-2018-18517', 'CVE-2019-12044']",2022-03-20T01:33Z
+9,cpe:2.3:o:citrix:netscaler_gateway_firmware:12.0.58.7:*:*:*:*:*:*:*,Citrix Netscaler Gateway Firmware 12.0.58.7,['CVE-2019-12044'],2022-03-20T01:33Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:officejet_5740_b9s79a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET 5740 B9S79A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:27Z
+1,cpe:2.3:o:hp:officejet_5740_b9s79a_firmware:40.13.1176:*:*:*:*:*:*:*,HP OFFICEJET 5740 B9S79A FIRMWARE 40.13.1176,[''],2022-03-21T15:27Z
+2,cpe:2.3:h:hp:officejet_5741_b9s83a:-:*:*:*:*:*:*:*,HP OfficeJet 5741 B9S83A,['CVE-2020-28416'],2022-03-21T15:27Z
+3,cpe:2.3:o:hp:officejet_5741_b9s83a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET 5741 B9S83A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:27Z
+4,cpe:2.3:o:hp:officejet_5741_b9s83a_firmware:40.13.1176:*:*:*:*:*:*:*,HP OFFICEJET 5741 B9S83A FIRMWARE 40.13.1176,[''],2022-03-21T15:27Z
+5,cpe:2.3:h:hp:officejet_5742_b9s81a:-:*:*:*:*:*:*:*,HP OfficeJet 5742 B9S81A,['CVE-2020-28416'],2022-03-21T15:27Z
+6,cpe:2.3:o:hp:officejet_5742_b9s81a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET 5742 B9S81A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:27Z
+7,cpe:2.3:o:hp:officejet_5742_b9s81a_firmware:40.13.1176:*:*:*:*:*:*:*,HP OFFICEJET 5742 B9S81A FIRMWARE 40.13.1176,[''],2022-03-21T15:27Z
+8,cpe:2.3:h:hp:officejet_5742_b9s84a:-:*:*:*:*:*:*:*,HP OfficeJet 5742 B9S84A,['CVE-2020-28416'],2022-03-21T15:27Z
+9,cpe:2.3:o:hp:officejet_5742_b9s84a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET 5742 B9S84A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:27Z

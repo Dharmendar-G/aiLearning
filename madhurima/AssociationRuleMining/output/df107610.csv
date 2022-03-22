@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chameleon_css_project:chameleon_css:0.4:*:*:*:*:wordpress:*:*,Chameleon CSS Project Chameleon CSS 0.4 for WordPress,['CVE-2021-24626'],2022-03-19T16:30Z
+1,cpe:2.3:a:chameleon_css_project:chameleon_css:0.5:*:*:*:*:wordpress:*:*,Chameleon CSS Project Chameleon CSS 0.5 for WordPress,['CVE-2021-24626'],2022-03-19T16:30Z
+2,cpe:2.3:a:chameleon_css_project:chameleon_css:0.6:*:*:*:*:wordpress:*:*,Chameleon CSS Project Chameleon CSS 0.6 for WordPress,['CVE-2021-24626'],2022-03-19T16:30Z
+3,cpe:2.3:a:chameleon_css_project:chameleon_css:0.7:-:*:*:*:wordpress:*:*,Chameleon CSS Project Chameleon CSS 0.7 for WordPress,['CVE-2021-24626'],2022-03-19T16:30Z
+4,cpe:2.3:a:chameleon_css_project:chameleon_css:0.7:beta:*:*:*:wordpress:*:*,Chameleon CSS Project Chameleon CSS 0.7 Beta for WordPress,['CVE-2021-24626'],2022-03-19T16:30Z
+5,cpe:2.3:a:chameleon_css_project:chameleon_css:1.0:*:*:*:*:wordpress:*:*,Chameleon CSS Project Chameleon CSS 1.0 for WordPress,['CVE-2021-24626'],2022-03-19T16:30Z
+6,cpe:2.3:a:chameleon_css_project:chameleon_css:1.1:-:*:*:*:wordpress:*:*,Chameleon CSS Project Chameleon CSS 1.1 for WordPress,['CVE-2021-24626'],2022-03-19T16:30Z
+7,cpe:2.3:a:chameleon_css_project:chameleon_css:1.1:alpha:*:*:*:wordpress:*:*,Chameleon CSS Project Chameleon CSS 1.1 Alpha for WordPress,['CVE-2021-24626'],2022-03-19T16:30Z
+8,cpe:2.3:a:chameleon_css_project:chameleon_css:1.1:beta:*:*:*:wordpress:*:*,Chameleon CSS Project Chameleon CSS 1.1 Beta for WordPress,['CVE-2021-24626'],2022-03-19T16:30Z
+9,cpe:2.3:a:chameleon_css_project:chameleon_css:1.1.2:*:*:*:*:wordpress:*:*,Chameleon CSS Project Chameleon CSS 1.1.2 for WordPress,['CVE-2021-24626'],2022-03-19T16:30Z

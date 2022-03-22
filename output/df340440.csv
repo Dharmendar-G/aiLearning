@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:bigfix_inventory:9.2.14:*:*:*:*:*:*:*,IBM BigFix Inventory 9.2.14,[''],2022-03-21T19:54Z
+1,cpe:2.3:a:ibm:bigfix_inventory:9.2.15:*:*:*:*:*:*:*,IBM BigFix Inventory 9.2.15,[''],2022-03-21T19:54Z
+2,cpe:2.3:a:ibm:bigfix_platform:9.0:*:*:*:*:*:*:*,IBM BigFix Platform 9.0,"['CVE-2016-0214', 'CVE-2016-0291', 'CVE-2016-0295', 'CVE-2016-0296', 'CVE-2016-0297', 'CVE-2016-0396', 'CVE-2016-6082', 'CVE-2016-6084', 'CVE-2016-6085']",2022-03-21T19:54Z
+3,cpe:2.3:a:ibm:bigfix_platform:9.0.5:*:*:*:*:*:*:*,IBM BigFix Platform 9.0.5,"['CVE-2016-0269', 'CVE-2016-0293']",2022-03-21T19:54Z
+4,cpe:2.3:a:ibm:bigfix_platform:9.0.6:*:*:*:*:*:*:*,IBM BigFix Platform 9.0.6,"['CVE-2016-0269', 'CVE-2016-0293']",2022-03-21T19:54Z
+5,cpe:2.3:a:ibm:bigfix_platform:9.0.7:*:*:*:*:*:*:*,IBM BigFix Platform 9.0.7,"['CVE-2016-0269', 'CVE-2016-0293']",2022-03-21T19:54Z
+6,cpe:2.3:a:ibm:bigfix_platform:9.0.8:*:*:*:*:*:*:*,IBM BigFix Platform 9.0.8,"['CVE-2016-0269', 'CVE-2016-0293']",2022-03-21T19:54Z
+7,cpe:2.3:a:ibm:bigfix_platform:9.1:*:*:*:*:*:*:*,IBM BigFix Platform 9.1,"['CVE-2016-0214', 'CVE-2016-0291', 'CVE-2016-0295', 'CVE-2016-0296', 'CVE-2016-0297', 'CVE-2016-0396', 'CVE-2016-6082', 'CVE-2016-6084', 'CVE-2016-6085', 'CVE-2017-1203', 'CVE-2017-1219', 'CVE-2017-1227']",2022-03-21T19:54Z
+8,cpe:2.3:a:ibm:bigfix_platform:9.1.2:*:*:*:*:*:*:*,IBM BigFix Platform 9.1.2,['CVE-2016-0291'],2022-03-21T19:54Z
+9,cpe:2.3:a:ibm:bigfix_platform:9.1.3:*:*:*:*:*:*:*,IBM BigFix Platform 9.1.3,"['CVE-2016-0269', 'CVE-2016-0291', 'CVE-2016-0293', 'CVE-2017-1203', 'CVE-2017-1219']",2022-03-21T19:54Z

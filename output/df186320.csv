@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:digium:certified_asterisk:1.6.2.19:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.2.19,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:43Z
+1,cpe:2.3:a:digium:certified_asterisk:1.6.2.20:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.2.20,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:43Z
+2,cpe:2.3:a:digium:certified_asterisk:1.6.2.21:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.2.21,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:43Z
+3,cpe:2.3:a:digium:certified_asterisk:1.6.2.22:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.2.22,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:43Z
+4,cpe:2.3:a:digium:certified_asterisk:1.6.2.23:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.2.23,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:43Z
+5,cpe:2.3:a:digium:certified_asterisk:1.6.2.24:*:*:*:*:*:*:*,Digium Certified Asterisk 1.6.2.24,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:43Z
+6,cpe:2.3:a:digium:certified_asterisk:1.8.0:*:*:*:*:*:*:*,Digium Certified Asterisk 1.8.0,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:43Z
+7,cpe:2.3:a:digium:certified_asterisk:1.8.0.0:-:*:*:*:*:*:*,Digium Certified Asterisk 1.8.0.0,"['CVE-2014-2286', 'CVE-2014-2287', 'CVE-2015-3008', 'CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286', 'CVE-2019-13161']",2022-03-20T14:43Z
+8,cpe:2.3:a:digium:certified_asterisk:1.8.0.0:beta1:*:*:*:*:*:*,Digium Certified Asterisk 1.8.0.0 beta1,"['CVE-2014-2286', 'CVE-2014-2287', 'CVE-2015-3008', 'CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286', 'CVE-2019-13161']",2022-03-20T14:43Z
+9,cpe:2.3:a:digium:certified_asterisk:1.8.0.0:beta2:*:*:*:*:*:*,Digium Certified Asterisk 1.8.0.0 beta2,"['CVE-2014-2286', 'CVE-2014-2287', 'CVE-2015-3008', 'CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286', 'CVE-2019-13161']",2022-03-20T14:43Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:biscom:secure_file_transfer:5.1.1082:*:*:*:*:*:*:*,Biscom Secure File Transfer (SFT) 5.1.1082,[''],2022-03-19T07:44Z
+1,cpe:2.3:a:biscom:secure_file_transfer:6.0.1000:*:*:*:*:*:*:*,Biscom Secure File Transfer (SFT) 6.0.1000,"['CVE-2020-27646', 'CVE-2020-8503', 'CVE-2020-8796']",2022-03-19T07:44Z
+2,cpe:2.3:a:biscom:secure_file_transfer:6.0.1003:*:*:*:*:*:*:*,Biscom Secure File Transfer (SFT) 6.0.1003,"['CVE-2020-27646', 'CVE-2020-8503', 'CVE-2020-8796']",2022-03-19T07:44Z
+3,cpe:2.3:a:biscom:secure_file_transfer:6.0.1004:*:*:*:*:*:*:*,Biscom Secure File Transfer (SFT) 6.0.1004,"['CVE-2020-27646', 'CVE-2020-8796']",2022-03-19T07:44Z
+4,cpe:2.3:a:biscom:secure_file_transfer:6.0.1005:*:*:*:*:*:*:*,Biscom Secure File Transfer (SFT) 6.0.1005,['CVE-2020-27646'],2022-03-19T07:44Z
+5,cpe:2.3:a:biscom:secure_file_transfer:6.0.1011:*:*:*:*:*:*:*,Biscom Secure File Transfer (SFT) 6.0.1011,[''],2022-03-19T07:44Z
+6,cpe:2.3:a:biscom:secure_file_transfer:6.0.1014:*:*:*:*:*:*:*,Biscom Secure File Transfer (SFT) 6.0.1014,[''],2022-03-19T07:44Z
+7,cpe:2.3:a:bishopfox:immuta:2.8.2:*:*:*:*:*:*:*,Bishopfox Immuta 2.8.2,[''],2022-03-19T07:44Z
+8,cpe:2.3:a:bit.diamonds:diamond:0.1.5:*:*:*:*:*:*:*,DMD DIAMOND Diamond 0.1.5,['CVE-2018-19160'],2022-03-19T07:44Z
+9,cpe:2.3:a:bit.diamonds:diamond:0.2.0:-:*:*:*:*:*:*,DMD DIAMOND Diamond 0.2.0,['CVE-2018-19160'],2022-03-19T07:44Z

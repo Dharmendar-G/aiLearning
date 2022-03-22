@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:ink_tank_wireless_410_4yf79a_firmware:-:*:*:*:*:*:*:*,HP Ink Tank Wireless 410 4YF79A Firmware,['CVE-2019-6332'],2022-03-21T13:38Z
+1,cpe:2.3:o:hp:ink_tank_wireless_410_4yf79a_firmware:1924:*:*:*:*:*:*:*,HP Ink Tank Wireless 410 4YF79A Firmware 1924,[''],2022-03-21T13:38Z
+2,cpe:2.3:h:hp:ink_tank_wireless_410_z4b53a:-:*:*:*:*:*:*:*,HP Ink Tank Wireless 410 Z4B53A,"['CVE-2019-6332', 'CVE-2020-28419']",2022-03-21T13:38Z
+3,cpe:2.3:o:hp:ink_tank_wireless_410_z4b53a_firmware:-:*:*:*:*:*:*:*,HP Ink Tank Wireless 410 Z4B53A Firmware,['CVE-2019-6332'],2022-03-21T13:38Z
+4,cpe:2.3:o:hp:ink_tank_wireless_410_z4b53a_firmware:1924:*:*:*:*:*:*:*,HP Ink Tank Wireless 410 Z4B53A Firmware 1924,[''],2022-03-21T13:38Z
+5,cpe:2.3:h:hp:ink_tank_wireless_410_z4b54a:-:*:*:*:*:*:*:*,HP Ink Tank Wireless 410 Z4B54A,['CVE-2020-28419'],2022-03-21T13:38Z
+6,cpe:2.3:h:hp:ink_tank_wireless_410_z4b55a:-:*:*:*:*:*:*:*,HP Ink Tank Wireless 410 Z4B55A,"['CVE-2019-6332', 'CVE-2020-28419']",2022-03-21T13:38Z
+7,cpe:2.3:o:hp:ink_tank_wireless_410_z4b55a_firmware:-:*:*:*:*:*:*:*,HP Ink Tank Wireless 410 Z4B55A Firmware,['CVE-2019-6332'],2022-03-21T13:38Z
+8,cpe:2.3:o:hp:ink_tank_wireless_410_z4b55a_firmware:1924:*:*:*:*:*:*:*,HP Ink Tank Wireless 410 Z4B55A Firmware 1924,[''],2022-03-21T13:38Z
+9,cpe:2.3:h:hp:ink_tank_wireless_410_z6z95a:-:*:*:*:*:*:*:*,HP Ink Tank Wireless 410 Z6Z95A,"['CVE-2019-6332', 'CVE-2020-28419']",2022-03-21T13:38Z

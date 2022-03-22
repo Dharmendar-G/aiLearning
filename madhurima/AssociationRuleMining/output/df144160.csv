@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloud_foundry:bosh:263.3.0:*:*:*:*:*:*:*,Cloud Foundry Bosh 263.3.0,[''],2022-03-20T02:42Z
+1,cpe:2.3:a:cloud_foundry:bosh:263.4.0:*:*:*:*:*:*:*,Cloud Foundry Bosh 263.4.0,[''],2022-03-20T02:42Z
+2,cpe:2.3:a:cloud_foundry:bosh:263.5.0:*:*:*:*:*:*:*,Cloud Foundry Bosh 263.5.0,[''],2022-03-20T02:42Z
+3,cpe:2.3:a:cloud_foundry:bosh:263.9.0:*:*:*:*:*:*:*,Cloud Foundry Bosh 263.9.0,[''],2022-03-20T02:42Z
+4,cpe:2.3:a:cloud_foundry:bosh:263.10.0:*:*:*:*:*:*:*,Cloud Foundry Bosh 263.10.0,[''],2022-03-20T02:42Z
+5,cpe:2.3:a:cloud_foundry:bosh:263.12.0:*:*:*:*:*:*:*,Cloud Foundry Bosh 263.12.0,[''],2022-03-20T02:42Z
+6,cpe:2.3:a:cloud_foundry:bosh:264.1:*:*:*:*:*:*:*,Cloud Foundry Bosh 264.1,['CVE-2018-11083'],2022-03-20T02:42Z
+7,cpe:2.3:a:cloud_foundry:bosh:264.2.0:*:*:*:*:*:*:*,Cloud Foundry Bosh 264.2.0,['CVE-2018-11083'],2022-03-20T02:43Z
+8,cpe:2.3:a:cloud_foundry:bosh:264.3.0:*:*:*:*:*:*:*,Cloud Foundry Bosh 264.3.0,['CVE-2018-11083'],2022-03-20T02:43Z
+9,cpe:2.3:a:cloud_foundry:bosh:264.4.0:*:*:*:*:*:*:*,Cloud Foundry Bosh 264.4.0,['CVE-2018-11083'],2022-03-20T02:43Z

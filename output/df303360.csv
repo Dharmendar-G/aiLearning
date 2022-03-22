@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:haml:haml:3.1.0:alpha9:*:*:*:ruby:*:*,Haml 3.1.0 Alpha 9 for Ruby,['CVE-2017-1002201'],2022-03-21T08:43Z
+1,cpe:2.3:a:haml:haml:3.1.1:*:*:*:*:ruby:*:*,Haml 3.1.1 for Ruby,['CVE-2017-1002201'],2022-03-21T08:43Z
+2,cpe:2.3:a:haml:haml:3.1.2:*:*:*:*:ruby:*:*,Haml 3.1.2 for Ruby,['CVE-2017-1002201'],2022-03-21T08:43Z
+3,cpe:2.3:a:haml:haml:3.1.3:*:*:*:*:ruby:*:*,Haml 3.1.3 for Ruby,['CVE-2017-1002201'],2022-03-21T08:43Z
+4,cpe:2.3:a:haml:haml:3.1.4:*:*:*:*:ruby:*:*,Haml 3.1.4 for Ruby,['CVE-2017-1002201'],2022-03-21T08:43Z
+5,cpe:2.3:a:haml:haml:3.1.5:-:*:*:*:ruby:*:*,Haml 3.1.5 for Ruby,['CVE-2017-1002201'],2022-03-21T08:43Z
+6,cpe:2.3:a:haml:haml:3.1.5:beta1:*:*:*:ruby:*:*,Haml 3.1.5 Beta 1 for Ruby,['CVE-2017-1002201'],2022-03-21T08:43Z
+7,cpe:2.3:a:haml:haml:3.1.5:rc1:*:*:*:ruby:*:*,Haml 3.1.5 Release Candidate 1 for Ruby,['CVE-2017-1002201'],2022-03-21T08:43Z
+8,cpe:2.3:a:haml:haml:3.1.6:-:*:*:*:ruby:*:*,Haml 3.1.6 for Ruby,['CVE-2017-1002201'],2022-03-21T08:43Z
+9,cpe:2.3:a:haml:haml:3.1.6:rc1:*:*:*:ruby:*:*,Haml 3.1.6 Release Candidate 1 for Ruby,['CVE-2017-1002201'],2022-03-21T08:43Z

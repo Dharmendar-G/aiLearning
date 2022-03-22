@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cordaware:bestinformed:6.2.1.0:*:*:*:*:windows:*:*,Cordaware Bestinformed 6.2.1.0 for Windows,[''],2022-03-20T08:01Z
+1,cpe:2.3:a:core-apps:aihce_2014:6.1.0.0:*:*:*:*:android:*:*,core-apps AIHce 2014 (aka com.coreapps.android.followme.aihce2014) for android 6.1.0.0,['CVE-2014-6929'],2022-03-20T08:01Z
+2,cpe:2.3:a:core-apps:bowl_expo_2014:6.1.1.5:*:*:*:*:android:*:*,core-apps Bowl Expo 2014 (aka com.coreapps.android.followme.bowlexpo14) for android 6.1.1.5,['CVE-2014-7518'],2022-03-20T08:01Z
+3,cpe:2.3:a:core-apps:digital_content_newfronts_2014:6.0.7.6:*:*:*:*:android:*:*,core-apps Digital Content NewFronts 2014 (aka com.coreapps.android.followme.newfronts2014) for android 6.0.7.6,['CVE-2014-7131'],2022-03-20T08:01Z
+4,cpe:2.3:a:core-apps:eage_amsterdam_2014:6.1.1.2:*:*:*:*:android:*:*,core-apps EAGE Amsterdam 2014 (aka com.coreapps.android.followme.eage_2014) for android 6.1.1.2,['CVE-2014-6900'],2022-03-20T08:01Z
+5,cpe:2.3:a:core-apps:ira\'s_59th_annual_conference:6.0.7.6:*:*:*:*:android:*:*,core-apps IRA's 59th Annual Conference (aka com.coreapps.android.followme.ira_14) for android 6.0.7.6,['CVE-2014-6912'],2022-03-20T08:01Z
+6,cpe:2.3:a:core-apps:ismrm-esmrmb_2014:6.0.8.5:*:*:*:*:android:*:*,core-apps ISMRM-ESMRMB 2014 (aka com.coreapps.android.followme.ismrm_esmrmb14) for android 6.0.8.5,['CVE-2014-6958'],2022-03-20T08:01Z
+7,cpe:2.3:a:core-apps:ohbm_20th_annual_meeting:6.0.9.2:*:*:*:*:android:*:*,core-apps OHBM 20th Annual Meeting (aka com.coreapps.android.followme.ohbm2014) for android 6.0.9.2,['CVE-2014-6818'],2022-03-20T08:01Z
+8,cpe:2.3:a:core-apps:rims_2014_annual_conference:6.0.7.4:*:*:*:*:android:*:*,core-apps RIMS 2014 Annual Conference (aka com.coreapps.android.followme.rims2014) for android 6.0.7.4,['CVE-2014-6810'],2022-03-20T08:01Z
+9,cpe:2.3:a:core-apps:vmware_vforums_2014:6.0.9.4:*:*:*:*:android:*:*,core-apps VMware vForums 2014 (aka com.coreapps.android.followme.vmwarevforums) for android 6.0.9.4,['CVE-2014-7681'],2022-03-20T08:01Z

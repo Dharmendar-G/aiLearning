@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:deskjet_ink_advantage_2600_v1n02a_firmware:1923:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 2600 V1N02A Firmware 1923,[''],2022-03-21T13:14Z
+1,cpe:2.3:h:hp:deskjet_ink_advantage_2600_v1n02b:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 2600 V1N02B,"['CVE-2019-6332', 'CVE-2020-28419']",2022-03-21T13:14Z
+2,cpe:2.3:o:hp:deskjet_ink_advantage_2600_v1n02b_firmware:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 2600 V1N02B Firmware,['CVE-2019-6332'],2022-03-21T13:14Z
+3,cpe:2.3:o:hp:deskjet_ink_advantage_2600_v1n02b_firmware:1923:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 2600 V1N02B Firmware 1923,[''],2022-03-21T13:14Z
+4,cpe:2.3:h:hp:deskjet_ink_advantage_2600_y5z00a:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 2600 Y5Z00A,"['CVE-2019-6332', 'CVE-2020-28419']",2022-03-21T13:14Z
+5,cpe:2.3:o:hp:deskjet_ink_advantage_2600_y5z00a_firmware:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 2600 Y5Z00A Firmware,['CVE-2019-6332'],2022-03-21T13:14Z
+6,cpe:2.3:o:hp:deskjet_ink_advantage_2600_y5z00a_firmware:1923:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 2600 Y5Z00A Firmware 1923,[''],2022-03-21T13:14Z
+7,cpe:2.3:h:hp:deskjet_ink_advantage_2600_y5z02b:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 2600 Y5Z02B,['CVE-2020-28419'],2022-03-21T13:14Z
+8,cpe:2.3:h:hp:deskjet_ink_advantage_2600_y5z03b:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 2600 Y5Z03B,['CVE-2020-28419'],2022-03-21T13:14Z
+9,cpe:2.3:h:hp:deskjet_ink_advantage_2600_y5z04b:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 2600 Y5Z04B,"['CVE-2019-6332', 'CVE-2020-28419']",2022-03-21T13:14Z

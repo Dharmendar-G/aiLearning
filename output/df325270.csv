@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:laserjet_pro_m1216nfh_multifunction_printer_firmware:20130703:*:*:*:*:*:*:*,HP LaserJet Pro M1216nfh Multifunction Printer Firmware 20130703,[''],2022-03-21T15:15Z
+1,cpe:2.3:h:hp:laserjet_pro_m1217nfw_mfp:ce844a:*:*:*:*:*:*:*,HP LaserJet Pro M1217nfw MFP CE844A,['CVE-2013-6193'],2022-03-21T15:15Z
+2,cpe:2.3:o:hp:laserjet_pro_m1217nfw_multifunction_printer_firmware:20130703:*:*:*:*:*:*:*,HP LaserJet Pro M1217nfw Multifunction Printer Firmware 20130703,[''],2022-03-21T15:15Z
+3,cpe:2.3:h:hp:laserjet_pro_m15_w2g50a:-:*:*:*:*:*:*:*,HP LaserJet Pro M15 W2G50A,['CVE-2020-28419'],2022-03-21T15:15Z
+4,cpe:2.3:h:hp:laserjet_pro_m15_w2g51a:-:*:*:*:*:*:*:*,HP LaserJet Pro M15 W2G51A,['CVE-2020-28419'],2022-03-21T15:15Z
+5,cpe:2.3:h:hp:laserjet_pro_m15_w2g52a:-:*:*:*:*:*:*:*,HP LaserJet Pro M15 W2G52A,['CVE-2020-28419'],2022-03-21T15:15Z
+6,cpe:2.3:h:hp:laserjet_pro_m15_w2g53a:-:*:*:*:*:*:*:*,HP LaserJet Pro M15 W2G53A,['CVE-2020-28419'],2022-03-21T15:15Z
+7,cpe:2.3:h:hp:laserjet_pro_m15_y5s43a:-:*:*:*:*:*:*:*,HP LaserJet Pro M15 Y5S43A,['CVE-2020-28419'],2022-03-21T15:15Z
+8,cpe:2.3:h:hp:laserjet_pro_m1536_mfp_ce538a:-:*:*:*:*:*:*:*,HP LaserJet Pro M1536 MFP CE538A,['CVE-2020-28419'],2022-03-21T15:15Z
+9,cpe:2.3:h:hp:laserjet_pro_m1536dnf_multifunction_printer:ce538a:*:*:*:*:*:*:*,HP LaserJet Pro M1536dnf multifunction Printer CE538A,['CVE-2013-6193'],2022-03-21T15:15Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:derhansen:event_management_and_registration:1.5.0:*:*:*:*:typo3:*:*,Derhansen Event Management and Registration 1.5.0 for TYPO3,['CVE-2020-25026'],2022-03-20T13:34Z
+1,cpe:2.3:a:derhansen:event_management_and_registration:1.5.1:*:*:*:*:typo3:*:*,Derhansen Event Management and Registration 1.5.1 for TYPO3,['CVE-2020-25026'],2022-03-20T13:34Z
+2,cpe:2.3:a:derhansen:event_management_and_registration:1.6.0:*:*:*:*:typo3:*:*,Derhansen Event Management and Registration 1.6.0 for TYPO3,['CVE-2020-25026'],2022-03-20T13:34Z
+3,cpe:2.3:a:derhansen:event_management_and_registration:1.6.1:*:*:*:*:typo3:*:*,Derhansen Event Management and Registration 1.6.1 for TYPO3,['CVE-2020-25026'],2022-03-20T13:34Z
+4,cpe:2.3:a:derhansen:event_management_and_registration:1.7.0:*:*:*:*:typo3:*:*,Derhansen Event Management and Registration 1.7.0 for TYPO3,['CVE-2020-25026'],2022-03-20T13:34Z
+5,cpe:2.3:a:derhansen:event_management_and_registration:1.7.1:*:*:*:*:typo3:*:*,Derhansen Event Management and Registration 1.7.1 for TYPO3,['CVE-2020-25026'],2022-03-20T13:34Z
+6,cpe:2.3:a:derhansen:event_management_and_registration:1.8.0:*:*:*:*:typo3:*:*,Derhansen Event Management and Registration 1.8.0 for TYPO3,['CVE-2020-25026'],2022-03-20T13:34Z
+7,cpe:2.3:a:derhansen:event_management_and_registration:1.8.1:*:*:*:*:typo3:*:*,Derhansen Event Management and Registration 1.8.1 for TYPO3,['CVE-2020-25026'],2022-03-20T13:34Z
+8,cpe:2.3:a:derhansen:event_management_and_registration:2.0.0:*:*:*:*:typo3:*:*,Derhansen Event Management and Registration 2.0.0 for TYPO3,['CVE-2020-25026'],2022-03-20T13:34Z
+9,cpe:2.3:a:derhansen:event_management_and_registration:2.1.0:*:*:*:*:typo3:*:*,Derhansen Event Management and Registration 2.1.0 for TYPO3,['CVE-2020-25026'],2022-03-20T13:34Z

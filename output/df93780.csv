@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,cpe:2.3:h:brocade:netiron_cer_2024c-4x-rt:-:*:*:*:*:*:*:*,Brocade NetIron CER 2024C-4X-RT,['CVE-2016-8209'],2022-03-19T12:36Z
+4,cpe:2.3:h:brocade:netiron_cer_2024f-4x-rt:-:*:*:*:*:*:*:*,Brocade NetIron CER 2024F-4X-RT,['CVE-2016-8209'],2022-03-19T12:36Z
+5,cpe:2.3:h:brocade:netiron_cer_2024f-rt:-:*:*:*:*:*:*:*,Brocade NetIron CER 2024F-RT,['CVE-2016-8209'],2022-03-19T12:36Z
+6,cpe:2.3:h:brocade:netiron_cer_2048fx-rt:-:*:*:*:*:*:*:*,Brocade NetIron CER 2048fX-RT,['CVE-2016-8209'],2022-03-19T12:36Z
+7,cpe:2.3:h:brocade:netiron_ces_2024c-4x:-:*:*:*:*:*:*:*,Brocade NetIron CES 2024C-4X,['CVE-2016-8209'],2022-03-19T12:36Z
+8,cpe:2.3:h:brocade:netiron_ces_2024f-4x:-:*:*:*:*:*:*:*,Brocade NetIron CES 2024F-4X,['CVE-2016-8209'],2022-03-19T12:36Z
+9,cpe:2.3:h:brocade:netiron_ces_2048fx:-:*:*:*:*:*:*:*,Brocade NetIron CES 2048FX,['CVE-2016-8209'],2022-03-19T12:36Z

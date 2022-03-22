@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:mq_appliance:9.0.0.3:*:*:*:*:*:*:*,IBM MQ Appliance 9.0.0.3,[''],2022-03-21T21:20Z
+1,cpe:2.3:a:ibm:mq_appliance:9.0.0.4:*:*:*:*:*:*:*,IBM MQ Appliance 9.0.0.4,[''],2022-03-21T21:20Z
+2,cpe:2.3:a:ibm:mq_appliance:9.0.0.5:*:*:*:*:*:*:*,IBM MQ Appliance 9.0.0.5,[''],2022-03-21T21:20Z
+3,cpe:2.3:a:ibm:mq_appliance:9.0.0.6:*:*:*:lts:*:*:*,IBM MQ Appliance 9.0.0.6 LTS Edition,['CVE-2019-4560'],2022-03-21T21:20Z
+4,cpe:2.3:a:ibm:mq_appliance:9.0.0.7:*:*:*:lts:*:*:*,IIBM MQ Appliance 9.0.0.7 LTS Edition,['CVE-2019-4560'],2022-03-21T21:20Z
+5,cpe:2.3:a:ibm:mq_appliance:9.0.0.8:*:*:*:lts:*:*:*,IBM MQ Appliance 9.0.0.8 LTS Edition,[''],2022-03-21T21:20Z
+6,cpe:2.3:a:ibm:mq_appliance:9.0.1:*:*:*:continuous_delivery:*:*:*,IBM MQ Appliance 9.0.1 Continuous Delivery,"['CVE-2017-1318', 'CVE-2018-1429', 'CVE-2018-1652']",2022-03-21T21:20Z
+7,cpe:2.3:a:ibm:mq_appliance:9.0.2:*:*:*:continuous_delivery:*:*:*,IBM MQ Appliance 9.0.2 Continuous Delivery,"['CVE-2017-1318', 'CVE-2018-1429', 'CVE-2018-1652']",2022-03-21T21:20Z
+8,cpe:2.3:a:ibm:mq_appliance:9.0.2.0:*:*:*:continuous_delivery:*:*:*,IBM MQ Appliance 9.0.2.0 Continuous Delivery,['CVE-2018-1652'],2022-03-21T21:20Z
+9,cpe:2.3:a:ibm:mq_appliance:9.0.3:*:*:*:*:*:*:*,IBM MQ Appliance 9.0.3,['CVE-2018-1429'],2022-03-21T21:20Z

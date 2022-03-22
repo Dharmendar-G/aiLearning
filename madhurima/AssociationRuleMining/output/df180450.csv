@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:latitude_7200_2_in_1_firmware:1.8.0:*:*:*:*:*:*:*,Dell Latitude 7200 2 In 1 Firmware 1.8.0,['CVE-2021-36283'],2022-03-20T12:50Z
+1,cpe:2.3:h:dell:latitude_7200_2-in-1:-:*:*:*:*:*:*:*,Dell Latitude 7200 2-in-1,"['CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:50Z
+2,cpe:2.3:o:dell:latitude_7200_2-in-1_firmware:-:*:*:*:*:*:*:*,Dell Latitude 7200 2-in-1 Firmware,"['CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:50Z
+3,cpe:2.3:o:dell:latitude_7200_firmware:1.6.2:*:*:*:*:*:*:*,Dell Latitude 7200 Firmware 1.6.2,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:50Z
+4,cpe:2.3:h:dell:latitude_7202:-:*:*:*:*:*:*:*,Dell Latitude 7202,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5348']",2022-03-20T12:50Z
+5,cpe:2.3:o:dell:latitude_7202_firmware:-:*:*:*:*:*:*:*,Dell Latitude 7202 Firmware,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5348']",2022-03-20T12:50Z
+6,cpe:2.3:o:dell:latitude_7202_firmware:a03:*:*:*:*:*:*:*,Dell Latitude 7202 Firmware A03,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5348']",2022-03-20T12:50Z
+7,cpe:2.3:o:dell:latitude_7202_firmware:a05:*:*:*:*:*:*:*,Dell Latitude 7202 Firmware A05,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5348']",2022-03-20T12:50Z
+8,cpe:2.3:o:dell:latitude_7202_firmware:a06:*:*:*:*:*:*:*,Dell Latitude 7202 Firmware A06,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5348']",2022-03-20T12:50Z
+9,cpe:2.3:o:dell:latitude_7202_firmware:a12:*:*:*:*:*:*:*,Dell Latitude 7202 Firmware A12,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5348']",2022-03-20T12:50Z

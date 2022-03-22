@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:sm-x-1t3\/e3:-:*:*:*:*:*:*:*,Cisco SM-X-1t3/e3 -,['CVE-2019-1649'],2022-03-20T00:20Z
+1,cpe:2.3:o:cisco:sm-x-1t3\/e3_firmware:-:*:*:*:*:*:*:*,Cisco SM-X-1t3/e3 Firmware -,['CVE-2019-1649'],2022-03-20T00:20Z
+2,cpe:2.3:h:cisco:sm-x-pvdm-1000:-:*:*:*:*:*:*:*,Cisco SM-X-pvdm-1000 -,['CVE-2019-1649'],2022-03-20T00:20Z
+3,cpe:2.3:h:cisco:sm-x-pvdm-2000:-:*:*:*:*:*:*:*,Cisco SM-X-pvdm-2000 -,['CVE-2019-1649'],2022-03-20T00:20Z
+4,cpe:2.3:h:cisco:sm-x-pvdm-3000:-:*:*:*:*:*:*:*,Cisco SM-X-pvdm-3000 -,['CVE-2019-1649'],2022-03-20T00:20Z
+5,cpe:2.3:h:cisco:sm-x-pvdm-500:-:*:*:*:*:*:*:*,Cisco SM-X-pvdm-500 -,['CVE-2019-1649'],2022-03-20T00:20Z
+6,cpe:2.3:h:cisco:sn_5420_storage_router:-:*:*:*:*:*:*:*,Cisco SN 5420 Storage Router,['CVE-2005-0356'],2022-03-20T00:20Z
+7,[0],[0],[0],[0]
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

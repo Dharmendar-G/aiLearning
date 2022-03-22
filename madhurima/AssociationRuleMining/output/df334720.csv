@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:leland-al00a_firmware:8.0.0.171\(c00\):*:*:*:*:*:*:*,Huawei Leland-AL00A Firmware 8.0.0.171(C00),"['CVE-2019-19412', 'CVE-2019-5284']",2022-03-21T18:00Z
+1,cpe:2.3:o:huawei:leland-al00a_firmware:8.0.0.182\(c00\):*:*:*:*:*:*:*,Huawei Leland-AL00A Firmware 8.0.0.182(C00),['CVE-2019-5284'],2022-03-21T18:00Z
+2,cpe:2.3:o:huawei:leland-al00a_firmware:leland-al00a_9.1.0.111\(c00e111r2p10t8\):*:*:*:*:*:*:*,Huawei Leland-AL00A Firmware Leland-AL00A 9.1.0.111(C00E111R2P10T8),[''],2022-03-21T18:00Z
+3,cpe:2.3:h:huawei:leland-l21a:-:*:*:*:*:*:*:*,Huawei Leland-L21A,"['CVE-2019-19412', 'CVE-2019-9506']",2022-03-21T18:00Z
+4,cpe:2.3:o:huawei:leland-l21a_firmware:-:*:*:*:*:*:*:*,Huawei LELAND-L21A FIRMWARE,"['CVE-2019-19412', 'CVE-2019-9506']",2022-03-21T18:00Z
+5,cpe:2.3:o:huawei:leland-l21a_firmware:8.0.0.135\(c185\):*:*:*:*:*:*:*,Huawei Leland-L21A Firmware 8.0.0.135(C185),['CVE-2019-19412'],2022-03-21T18:01Z
+6,cpe:2.3:o:huawei:leland-l21a_firmware:9.1.0.118\(c636e4r1p1t8\):*:*:*:*:*:*:*,Huawei Leland-L21A Firmware 9.1.0.118(C636E4R1P1T8),[''],2022-03-21T18:01Z
+7,cpe:2.3:h:huawei:leland-l22a:-:*:*:*:*:*:*:*,Huawei Leland-L22A,['CVE-2019-19412'],2022-03-21T18:01Z
+8,cpe:2.3:o:huawei:leland-l22a_firmware:9.1.0.118\(c636e4r1p1t8\):*:*:*:*:*:*:*,Huawei Leland-L22A Firmware 9.1.0.118(C636E4R1P1T8),[''],2022-03-21T18:01Z
+9,cpe:2.3:h:huawei:leland-l22c:-:*:*:*:*:*:*:*,Huawei Leland-L22C,['CVE-2019-19412'],2022-03-21T18:01Z

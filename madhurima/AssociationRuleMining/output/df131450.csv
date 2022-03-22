@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:nx-os:14.2\(2f\):*:*:*:*:*:*:*,Cisco NX-OS 14.2(2f),"['CVE-2021-1228', 'CVE-2021-1230', 'CVE-2021-1231']",2022-03-19T23:34Z
+1,cpe:2.3:o:cisco:nx-os:14.2\(2g\):*:*:*:*:*:*:*,Cisco NX-OS 14.2(2g),"['CVE-2021-1230', 'CVE-2021-1231']",2022-03-19T23:34Z
+2,cpe:2.3:o:cisco:nx-os:14.2\(3j\):*:*:*:*:*:*:*,Cisco NX-OS 14.2(3j),"['CVE-2021-1228', 'CVE-2021-1231']",2022-03-19T23:34Z
+3,cpe:2.3:o:cisco:nx-os:14.2\(3l\):*:*:*:*:*:*:*,Cisco NX-OS 14.2(3l),"['CVE-2021-1228', 'CVE-2021-1231']",2022-03-19T23:35Z
+4,cpe:2.3:o:cisco:nx-os:14.2\(4i\):*:*:*:*:*:*:*,Cisco NX-OS 14.2(4i),"['CVE-2021-1228', 'CVE-2021-1231', 'CVE-2021-1523']",2022-03-19T23:35Z
+5,cpe:2.3:o:cisco:nx-os:15.1\(2.31\):*:*:*:*:*:*:*,Cisco NX-OS 15.1(2.31),['CVE-2021-1229'],2022-03-19T23:35Z
+6,cpe:2.3:o:cisco:nx-os:3000:*:*:*:*:*:*:*,Cisco NX-OS 3000,['CVE-2016-1409'],2022-03-19T23:35Z
+7,cpe:2.3:o:cisco:nx-os:base:*:*:*:*:*:*:*,Cisco NX-OS Software for Nexus 9000 Series Base,"['CVE-2015-0718', 'CVE-2015-0721', 'CVE-2015-6392', 'CVE-2016-1302', 'CVE-2016-1351', 'CVE-2016-1409']",2022-03-19T23:35Z
+8,cpe:2.3:a:cisco:nx-os:base:*:*:*:*:nexus_3000_series:*:*,Cisco NX-OS Base for Nexus 3000 Series,['CVE-2017-6770'],2022-03-19T23:35Z
+9,cpe:2.3:a:cisco:nx-os:base:*:*:*:*:nexus_5000_series:*:*,Cisco NX-OS Base for Nexus 5000 Series,['CVE-2017-6770'],2022-03-19T23:35Z

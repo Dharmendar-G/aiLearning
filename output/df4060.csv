@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:abb:tb5600-2eth:2.0:*:*:*:*:*:*:*,ABB TB5600-2ETH 2.0,[''],2022-03-18T10:34Z
+1,cpe:2.3:h:abb:tb5610-2eth:2.0:*:*:*:*:*:*:*,ABB TB5610-2ETH 2.0,[''],2022-03-18T10:34Z
+2,cpe:2.3:h:abb:tb5620-2eth:2.0:*:*:*:*:*:*:*,ABB TB5620-2ETH 2.0,[''],2022-03-18T10:34Z
+3,cpe:2.3:h:abb:tb5660-2eth:2.0:*:*:*:*:*:*:*,ABB TB5660-2ETH 2.0,[''],2022-03-18T10:34Z
+4,cpe:2.3:a:abb:test_signal_viewer:1.5:*:*:*:*:*:*:*,ABB Test Signal Viewer 1.5,['CVE-2014-5430'],2022-03-18T10:34Z
+5,cpe:2.3:h:abb:tg\/s3.2:-:*:*:*:*:*:*:*,ABB TG/S3.2,"['CVE-2019-19104', 'CVE-2019-19105', 'CVE-2019-19106', 'CVE-2019-19107']",2022-03-18T10:34Z
+6,cpe:2.3:o:abb:tg\/s3.2_firmware:-:*:*:*:*:*:*:*,ABB TG/S3.2 Firmware,"['CVE-2019-19104', 'CVE-2019-19105', 'CVE-2019-19106', 'CVE-2019-19107']",2022-03-18T10:34Z
+7,cpe:2.3:a:abb:update_manager:2.1:*:*:*:*:*:*:*,ABB Update Manager 2.1,['CVE-2021-22278'],2022-03-18T10:34Z
+8,cpe:2.3:a:abb:update_manager:2.1.0.4:*:*:*:*:*:*:*,ABB Update Manager 2.1.0.4,['CVE-2021-22278'],2022-03-18T10:34Z
+9,cpe:2.3:a:abb:update_manager:2.2:*:*:*:*:*:*:*,ABB Update Manager 2.2,['CVE-2021-22278'],2022-03-18T10:34Z

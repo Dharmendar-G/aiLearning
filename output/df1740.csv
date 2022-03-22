@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:21st:21st_century_insurance:12.2.4:*:*:*:*:iphone_os:*:*,21st Century Insurance 12.2.4 for iPhone OS,[''],2022-03-18T09:51Z
+1,cpe:2.3:a:22lixian_project:22lixian:1.0.0:*:*:*:*:node.js:*:*,22lixian Project 22lixian 1.0.0 for Node.js,['CVE-2017-16162'],2022-03-18T09:51Z
+2,cpe:2.3:a:2345.cc:security_guard:3.7:*:*:*:*:*:x64:*,2345.cc Security Guard 3.7 64 bit,"['CVE-2018-10974', 'CVE-2018-10975', 'CVE-2018-10976', 'CVE-2018-10977', 'CVE-2018-11034', 'CVE-2018-11035']",2022-03-18T09:51Z
+3,cpe:2.3:a:2345_security_guard_project:2345_security_guard:3.6:*:*:*:*:*:*:*,2345 Security Guard Project 2345 Security Guard 3.6,"['CVE-2018-8765', 'CVE-2018-8873', 'CVE-2018-8874', 'CVE-2018-8875', 'CVE-2018-8876', 'CVE-2018-8894', 'CVE-2018-8895', 'CVE-2018-8896']",2022-03-18T09:51Z
+4,cpe:2.3:a:2345_security_guard_project:2345_security_guard:3.7:*:*:*:*:*:*:*,2345 Security Guard Project 2345 Security Guard 3.7,"['CVE-2018-10716', 'CVE-2018-10796', 'CVE-2018-10809', 'CVE-2018-10830']",2022-03-18T09:51Z
+5,cpe:2.3:a:2345_security_guard_project:2345_security_guard:3.7.0:*:*:*:*:*:*:*,2345 Security Guard Project 2345 Security Guard 3.7.0,"['CVE-2018-10739', 'CVE-2018-10952', 'CVE-2018-10953', 'CVE-2018-10954', 'CVE-2018-10955', 'CVE-2018-10962']",2022-03-18T09:51Z
+6,cpe:2.3:a:2345_security_guard_project:2345_security_guard:3.8:*:*:*:*:*:*:*,2345 Security Guard Project 2345 Security Guard 3.8,[''],2022-03-18T09:51Z
+7,cpe:2.3:a:2345_security_guard_project:2345_security_guard:3.9:*:*:*:*:*:*:*,2345 Security Guard Project 2345 Security Guard 3.9,[''],2022-03-18T09:51Z
+8,cpe:2.3:a:2345_security_guard_project:2345_security_guard:5.0:*:*:*:*:*:*:*,2345 Security Guard Project 2345 Security Guard 5.0,[''],2022-03-18T09:51Z
+9,cpe:2.3:a:2345_security_guard_project:2345_security_guard:5.1:*:*:*:*:*:*:*,2345 Security Guard Project 2345 Security Guard 5.1,[''],2022-03-18T09:51Z

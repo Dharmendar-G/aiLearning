@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:a:deutschepost:mailoptimizer:4.3:*:*:*:*:*:*:*,Deutschepost Mail Optimizer 4.3,['CVE-2021-28042'],2022-03-20T13:39Z
+2,cpe:2.3:a:dev4press:gd_star_rating:19.22:*:*:*:*:wordpress:*:*,Dev4Press GD Star Rating for Wordpress 19.22,"['CVE-2014-2838', 'CVE-2014-2839']",2022-03-20T13:39Z
+3,cpe:2.3:a:devada:dzone_answerhub:-:*:*:*:*:*:*:*,Devada DZone AnswerHub,['CVE-2017-15725'],2022-03-20T13:39Z
+4,cpe:2.3:a:devada_project:devada:1.2:*:*:*:*:android:*:*,devada project devada (aka com.wdevadacouk) for android 1.2,['CVE-2014-7595'],2022-03-20T13:39Z
+5,cpe:2.3:a:devarai:word_search_free:4.9:*:*:*:*:android:*:*,Devari Word Search Free (aka air.wordSearchFree) application for Android 4.9,['CVE-2014-5561'],2022-03-20T13:39Z
+6,cpe:2.3:a:devcert_project:devcert:0.1.0:*:*:*:*:node.js:*:*,devcert Project devcert 0.1.0 for Node.js,[''],2022-03-20T13:39Z
+7,cpe:2.3:a:devcert_project:devcert:0.2.0:*:*:*:*:node.js:*:*,devcert Project devcert 0.2.0 for Node.js,[''],2022-03-20T13:39Z
+8,cpe:2.3:a:devcert_project:devcert:0.2.1:*:*:*:*:node.js:*:*,devcert Project devcert 0.2.1 for Node.js,[''],2022-03-20T13:39Z
+9,cpe:2.3:a:devcert_project:devcert:0.2.2:*:*:*:*:node.js:*:*,devcert Project devcert 0.2.2 for Node.js,[''],2022-03-20T13:39Z

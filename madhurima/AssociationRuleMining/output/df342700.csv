@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:endpoint_manager:9.1.0:*:*:*:*:*:*:*,IBM Endpoint Manager 9.1.0,[''],2022-03-21T20:33Z
+1,cpe:2.3:a:ibm:endpoint_manager:9.2.0:*:*:*:*:*:*:*,IBM Endpoint Manager 9.2.0,[''],2022-03-21T20:33Z
+2,cpe:2.3:a:ibm:endpoint_manager:9.5.0:*:*:*:*:*:*:*,IBM Endpoint Manager 9.5.0,[''],2022-03-21T20:33Z
+3,cpe:2.3:a:ibm:endpoint_manager_for_remote_control:9.0.0:*:*:*:*:*:*:*,IBM Endpoint Manager For Remote Control 9.0.0,['CVE-2013-5461'],2022-03-21T20:33Z
+4,cpe:2.3:a:ibm:endpoint_manager_for_remote_control:9.0.1:*:*:*:*:*:*:*,IBM Endpoint Manager For Remote Control 9.0.1,"['CVE-2013-5461', 'CVE-2015-4952']",2022-03-21T20:33Z
+5,cpe:2.3:a:ibm:endpoint_manager_for_remote_control:9.1.0:*:*:*:*:*:*:*,IBM Endpoint Manager For Remote Control 9.1.0,['CVE-2015-4952'],2022-03-21T20:33Z
+6,cpe:2.3:a:ibm:engineering_insights:7.0:*:*:*:*:*:*:*,IBM Engineering Insights (ENI) 7.0,"['CVE-2020-4487', 'CVE-2020-4524', 'CVE-2020-4544', 'CVE-2020-4547', 'CVE-2020-4691', 'CVE-2020-4697', 'CVE-2020-4733', 'CVE-2020-4855', 'CVE-2020-4865', 'CVE-2021-20352', 'CVE-2021-20357', 'CVE-2021-20447', 'CVE-2021-20502', 'CVE-2021-20503', 'CVE-2021-20504', 'CVE-2021-20506', 'CVE-2021-20518', 'CVE-2021-20520']",2022-03-21T20:33Z
+7,cpe:2.3:a:ibm:engineering_insights:7.0.0:*:*:*:*:*:*:*,IBM Engineering Insights 7.0.0,"['CVE-2020-4920', 'CVE-2020-4964', 'CVE-2020-4965', 'CVE-2021-20519']",2022-03-21T20:33Z
+8,cpe:2.3:a:ibm:engineering_insights:7.0.1:*:*:*:*:*:*:*,IBM Engineering Insights (ENI) 7.0.1,"['CVE-2020-4487', 'CVE-2020-4544', 'CVE-2020-4691', 'CVE-2020-4697', 'CVE-2020-4733', 'CVE-2020-4920', 'CVE-2020-4964', 'CVE-2020-4965', 'CVE-2021-20352', 'CVE-2021-20447', 'CVE-2021-20502', 'CVE-2021-20503', 'CVE-2021-20504', 'CVE-2021-20506', 'CVE-2021-20518', 'CVE-2021-20519', 'CVE-2021-20520']",2022-03-21T20:33Z
+9,cpe:2.3:a:ibm:engineering_insights:7.0.2:*:*:*:*:*:*:*,IBM Engineering Insights 7.0.2,"['CVE-2020-4920', 'CVE-2020-4964', 'CVE-2020-4965', 'CVE-2021-20352', 'CVE-2021-20447', 'CVE-2021-20502', 'CVE-2021-20503', 'CVE-2021-20504', 'CVE-2021-20506', 'CVE-2021-20518', 'CVE-2021-20519', 'CVE-2021-20520']",2022-03-21T20:33Z

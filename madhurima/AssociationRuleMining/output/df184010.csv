@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dhcpcd_project:dhcpcd:7.0.8:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 7.0.8,"['CVE-2019-11577', 'CVE-2019-11578', 'CVE-2019-11579', 'CVE-2019-11766']",2022-03-20T13:59Z
+1,cpe:2.3:a:dhcpcd_project:dhcpcd:7.1.0:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 7.1.0,"['CVE-2019-11577', 'CVE-2019-11578', 'CVE-2019-11579', 'CVE-2019-11766']",2022-03-20T13:59Z
+2,cpe:2.3:a:dhcpcd_project:dhcpcd:7.1.1:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 7.1.1,"['CVE-2019-11577', 'CVE-2019-11578', 'CVE-2019-11579', 'CVE-2019-11766']",2022-03-20T13:59Z
+3,cpe:2.3:a:dhcpcd_project:dhcpcd:7.2.0:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 7.2.0,"['CVE-2019-11577', 'CVE-2019-11578', 'CVE-2019-11579', 'CVE-2019-11766']",2022-03-20T13:59Z
+4,cpe:2.3:a:dhcpcd_project:dhcpcd:7.2.1:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 7.2.1,['CVE-2019-11766'],2022-03-20T13:59Z
+5,cpe:2.3:a:dhcpcd_project:dhcpcd:7.2.2:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 7.2.2,[''],2022-03-20T13:59Z
+6,cpe:2.3:a:dhims:ahlta:3.6.0.34:*:*:*:*:*:*:*,Dhims Ahlta 3.6.0.34,[''],2022-03-20T13:59Z
+7,cpe:2.3:a:dhis2:dhis_2:2.31.0:-:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.31.0,[''],2022-03-20T13:59Z
+8,cpe:2.3:a:dhis2:dhis_2:2.31.0:rc1:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.31.0 Release Candidate 1,[''],2022-03-20T13:59Z
+9,cpe:2.3:a:dhis2:dhis_2:2.31.1:*:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.31.1,[''],2022-03-20T13:59Z

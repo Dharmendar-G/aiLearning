@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:hbase:0.90.6:*:*:*:*:*:*:*,Apache Software Foundation HBase 0.90.6,[''],2022-03-18T18:37Z
+1,cpe:2.3:a:apache:hbase:0.92.0:*:*:*:*:*:*:*,Apache Software Foundation HBase 0.92.0,"['CVE-2013-2193', 'CVE-2018-8025']",2022-03-18T18:37Z
+2,cpe:2.3:a:apache:hbase:0.92.1:*:*:*:*:*:*:*,Apache Software Foundation HBase 0.92.1,['CVE-2013-2193'],2022-03-18T18:37Z
+3,cpe:2.3:a:apache:hbase:0.92.2:*:*:*:*:*:*:*,Apache Software Foundation HBase 0.92.2,['CVE-2013-2193'],2022-03-18T18:37Z
+4,cpe:2.3:a:apache:hbase:0.92.3:*:*:*:*:*:*:*,Apache Software Foundation HBase 0.92.3,[''],2022-03-18T18:37Z
+5,cpe:2.3:a:apache:hbase:0.94.0:*:*:*:*:*:*:*,Apache Software Foundation HBase 0.94.0,['CVE-2013-2193'],2022-03-18T18:37Z
+6,cpe:2.3:a:apache:hbase:0.94.1:*:*:*:*:*:*:*,Apache Software Foundation HBase 0.94.1,['CVE-2013-2193'],2022-03-18T18:37Z
+7,cpe:2.3:a:apache:hbase:0.94.2:*:*:*:*:*:*:*,Apache Software Foundation HBase 0.94.2,['CVE-2013-2193'],2022-03-18T18:37Z
+8,cpe:2.3:a:apache:hbase:0.94.3:*:*:*:*:*:*:*,Apache Software Foundation HBase 0.94.3,['CVE-2013-2193'],2022-03-18T18:37Z
+9,cpe:2.3:a:apache:hbase:0.94.4:*:*:*:*:*:*:*,Apache Software Foundation HBase 0.94.4,['CVE-2013-2193'],2022-03-18T18:37Z

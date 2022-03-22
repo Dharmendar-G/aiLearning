@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:backup-guard:backup_guard:1.1.58:*:*:*:*:wordpress:*:*,Backup Guard 1.1.58 for WordPress,['CVE-2021-24155'],2022-03-19T05:55Z
+1,cpe:2.3:a:backup-guard:backup_guard:1.1.59:*:*:*:*:wordpress:*:*,Backup Guard 1.1.59 for WordPress,['CVE-2021-24155'],2022-03-19T05:54Z
+2,cpe:2.3:a:backup-guard:backup_guard:1.1.60:*:*:*:*:wordpress:*:*,Backup Guard 1.1.60 for WordPress,['CVE-2021-24155'],2022-03-19T05:55Z
+3,cpe:2.3:a:backup-guard:backup_guard:1.1.61:*:*:*:*:wordpress:*:*,Backup Guard 1.1.61 for WordPress,['CVE-2021-24155'],2022-03-19T05:55Z
+4,cpe:2.3:a:backup-guard:backup_guard:1.1.62:*:*:*:*:wordpress:*:*,Backup Guard 1.1.62 for WordPress,['CVE-2021-24155'],2022-03-19T05:55Z
+5,cpe:2.3:a:backup-guard:backup_guard:1.1.63:*:*:*:*:wordpress:*:*,Backup Guard 1.1.63 for WordPress,['CVE-2021-24155'],2022-03-19T05:55Z
+6,cpe:2.3:a:backup-guard:backup_guard:1.1.64:*:*:*:*:wordpress:*:*,Backup Guard 1.1.64 for WordPress,['CVE-2021-24155'],2022-03-19T05:55Z
+7,cpe:2.3:a:backup-guard:backup_guard:1.1.65:*:*:*:*:wordpress:*:*,Backup Guard 1.1.65 for WordPress,['CVE-2021-24155'],2022-03-19T05:55Z
+8,cpe:2.3:a:backup-guard:backup_guard:1.1.66:*:*:*:*:wordpress:*:*,Backup Guard 1.1.66 for WordPress,['CVE-2021-24155'],2022-03-19T05:55Z
+9,cpe:2.3:a:backup-guard:backup_guard:1.1.67:*:*:*:*:wordpress:*:*,Backup Guard 1.1.67 for WordPress,['CVE-2021-24155'],2022-03-19T05:55Z

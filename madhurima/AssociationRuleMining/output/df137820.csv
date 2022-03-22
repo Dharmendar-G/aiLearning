@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:vedge_cloud_router:-:*:*:*:*:*:*:*,Cisco vEdge Cloud Router,"['CVE-2020-3264', 'CVE-2020-3265', 'CVE-2020-3351', 'CVE-2020-3369', 'CVE-2020-3385']",2022-03-20T01:00Z
+1,cpe:2.3:a:cisco:vedge_cloud_router:19.2.0:*:*:*:*:*:*:*,Cisco vEdge Cloud Router 19.2.0,[''],2022-03-20T01:00Z
+2,cpe:2.3:a:cisco:vedge_cloud_router:19.2.1:*:*:*:*:*:*:*,Cisco vEdge Cloud Router 19.2.1,[''],2022-03-20T01:00Z
+3,cpe:2.3:a:cisco:vedge_cloud_router:19.2.097:*:*:*:*:*:*:*,Cisco vEdge Cloud Router 19.2.097,[''],2022-03-20T01:00Z
+4,cpe:2.3:a:cisco:vedge_cloud_router:19.2.098:*:*:*:*:*:*:*,Cisco vEdge Cloud Router 19.2.098,[''],2022-03-20T01:00Z
+5,cpe:2.3:a:cisco:vedge_cloud_router_platform:-:*:*:*:*:*:*:*,Cisco vEdge Cloud Router Platform,['CVE-2018-0433'],2022-03-20T01:00Z
+6,cpe:2.3:h:cisco:vedge-100:-:*:*:*:*:*:*:*,Cisco vEdge-100,"['CVE-2018-0342', 'CVE-2018-0343', 'CVE-2018-0344', 'CVE-2018-0345', 'CVE-2018-0346', 'CVE-2018-0347', 'CVE-2018-0348', 'CVE-2018-0349', 'CVE-2018-0350', 'CVE-2018-0351', 'CVE-2019-12619', 'CVE-2019-12629', 'CVE-2019-1625', 'CVE-2019-1626', 'CVE-2020-3115']",2022-03-20T01:00Z
+7,cpe:2.3:h:cisco:vedge-1000:-:*:*:*:*:*:*:*,Cisco vEdge-1000,"['CVE-2018-0342', 'CVE-2018-0343', 'CVE-2018-0344', 'CVE-2018-0345', 'CVE-2018-0346', 'CVE-2018-0347', 'CVE-2018-0348', 'CVE-2018-0349', 'CVE-2018-0350', 'CVE-2018-0351', 'CVE-2019-12619', 'CVE-2019-12629', 'CVE-2019-1625', 'CVE-2019-1626', 'CVE-2020-3115']",2022-03-20T01:00Z
+8,cpe:2.3:h:cisco:vedge-100b:-:*:*:*:*:*:*:*,Cisco Vedge-100b,"['CVE-2019-12619', 'CVE-2019-12629', 'CVE-2019-1626', 'CVE-2020-3115', 'CVE-2021-1509', 'CVE-2021-1510', 'CVE-2021-1511', 'CVE-2021-1512', 'CVE-2021-1513', 'CVE-2021-1514']",2022-03-20T01:00Z
+9,cpe:2.3:h:cisco:vedge-2000:-:*:*:*:*:*:*:*,Cisco vEdge-2000,"['CVE-2018-0342', 'CVE-2018-0343', 'CVE-2018-0344', 'CVE-2018-0345', 'CVE-2018-0346', 'CVE-2018-0347', 'CVE-2018-0348', 'CVE-2018-0349', 'CVE-2018-0350', 'CVE-2018-0351', 'CVE-2019-12619', 'CVE-2019-12629', 'CVE-2019-1625', 'CVE-2019-1626', 'CVE-2020-3115']",2022-03-20T01:00Z

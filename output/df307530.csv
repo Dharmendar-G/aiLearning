@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:haudenschilt:family_connections_cms:1.7.2:*:*:*:*:*:*:*,Haudenschilt Family Connections CMS (FCMS) 1.7.2,"['CVE-2009-2010', 'CVE-2012-0699']",2022-03-21T10:04Z
+1,cpe:2.3:a:haudenschilt:family_connections_cms:1.7.3:*:*:*:*:*:*:*,Haudenschilt Family Connections CMS (FCMS) 1.7.3,"['CVE-2009-2010', 'CVE-2012-0699']",2022-03-21T10:05Z
+2,cpe:2.3:a:haudenschilt:family_connections_cms:1.7.4:*:*:*:*:*:*:*,Haudenschilt Family Connections CMS (FCMS) 1.7.4,"['CVE-2009-2010', 'CVE-2012-0699']",2022-03-21T10:05Z
+3,cpe:2.3:a:haudenschilt:family_connections_cms:1.8:*:*:*:*:*:*:*,Haudenschilt Family Connections CMS (FCMS) 1.8,"['CVE-2009-2010', 'CVE-2012-0699']",2022-03-21T10:05Z
+4,cpe:2.3:a:haudenschilt:family_connections_cms:1.8.1:*:*:*:*:*:*:*,Haudenschilt Family Connections CMS (FCMS) 1.8.1,"['CVE-2009-2010', 'CVE-2012-0699']",2022-03-21T10:05Z
+5,cpe:2.3:a:haudenschilt:family_connections_cms:1.8.2:*:*:*:*:*:*:*,Haudenschilt Family Connections CMS (FCMS) 1.8.2,"['CVE-2009-2010', 'CVE-2012-0699']",2022-03-21T10:05Z
+6,cpe:2.3:a:haudenschilt:family_connections_cms:1.9:*:*:*:*:*:*:*,Haudenschilt Family Connections CMS (FCMS) 1.9,"['CVE-2009-2010', 'CVE-2012-0699']",2022-03-21T10:05Z
+7,cpe:2.3:a:haudenschilt:family_connections_cms:2.0:*:*:*:*:*:*:*,Haudenschilt Family Connections CMS (FCMS) 2.0,['CVE-2012-0699'],2022-03-21T10:05Z
+8,cpe:2.3:a:haudenschilt:family_connections_cms:2.0.1:*:*:*:*:*:*:*,Haudenschilt Family Connections CMS (FCMS) 2.0.1,['CVE-2012-0699'],2022-03-21T10:05Z
+9,cpe:2.3:a:haudenschilt:family_connections_cms:2.0.2:*:*:*:*:*:*:*,Haudenschilt Family Connections CMS (FCMS) 2.0.2,['CVE-2012-0699'],2022-03-21T10:05Z

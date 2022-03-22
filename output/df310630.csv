@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hexagon:erdas_er_viewer:13.0.1.1298:*:*:*:*:*:*:*,hexagon Intergraph ERDAS ER Viewer 13.0.1.1298,"['CVE-2013-3482', 'CVE-2013-3483']",2022-03-21T10:52Z
+1,cpe:2.3:a:hexagon:erdas_er_viewer:13.0.1.1301:*:*:*:*:*:*:*,hexagon Intergraph ERDAS ER Viewer 13.0.1.1301,[''],2022-03-21T10:52Z
+2,cpe:2.3:a:hexagon:intergraph_g\!nius:-:*:*:*:*:*:*:*,Hexagon Intergraph G!NIUS,['CVE-2021-32051'],2022-03-21T10:52Z
+3,cpe:2.3:a:hexagon:intergraph_g\!nius:5.0.0.0:*:*:*:*:*:*:*,Hexagon Intergraph G!NIUS 5.0.0.0,[''],2022-03-21T10:52Z
+4,cpe:2.3:a:hexagongeospatial:erdas_er_viewer:13.0:*:*:*:*:*:*:*,Hexagongeospatial ERDAS ER Viewer 13.0,['CVE-2013-0725'],2022-03-21T10:52Z
+5,cpe:2.3:a:hexagongeospatial:geomedia_webmap:-:*:*:*:*:*:*:*,HEXAGON GeoMedia WebMap,['CVE-2021-37749'],2022-03-21T10:52Z
+6,cpe:2.3:a:hexagongeospatial:geomedia_webmap:16.6.2.66:*:*:*:*:*:*:*,HEXAGON GeoMedia WebMap 16.6.2.66,[''],2022-03-21T10:52Z
+7,cpe:2.3:a:hexagontoken:hexagon:-:*:*:*:*:*:*:*,Hexagon Token Hexagon,['CVE-2018-11239'],2022-03-21T10:52Z
+8,[0],[0],[0],[0]
+9,cpe:2.3:a:hexchat_project:hexchat:2.9.0:*:*:*:*:*:*:*,HexChat Project HexChat 2.9.0,['CVE-2013-7449'],2022-03-21T10:52Z

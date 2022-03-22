@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:gskill:trident_z_lighting_control:1.00.07:*:*:*:*:*:*:*,G.SKILL Trident Z Lighting Control 1.00.07,['CVE-2020-12446'],2022-03-21T08:11Z
+1,cpe:2.3:a:gskill:trident_z_lighting_control:1.00.08:*:*:*:*:*:*:*,G.SKILL Trident Z Lighting Control 1.00.08,['CVE-2020-12446'],2022-03-21T08:11Z
+2,cpe:2.3:a:gskill:trident_z_lighting_control:1.00.17:*:*:*:*:*:*:*,G.SKILL Trident Z Lighting Control 1.00.17,[''],2022-03-21T08:11Z
+3,cpe:2.3:a:gslideshow_project:gslideshow:0.1:*:*:*:*:wordpress:*:*,gSlideShow project gSlideShow for WordPress 0.1,['CVE-2014-9391'],2022-03-21T08:11Z
+4,cpe:2.3:a:gssproxy_project:gssproxy:0.0.2:*:*:*:*:*:*:*,gssproxy Project gssproxy 0.0.2,['CVE-2020-12658'],2022-03-21T08:11Z
+5,cpe:2.3:a:gssproxy_project:gssproxy:0.0.3:*:*:*:*:*:*:*,gssproxy Project gssproxy 0.0.3,['CVE-2020-12658'],2022-03-21T08:11Z
+6,cpe:2.3:a:gssproxy_project:gssproxy:0.1.0:*:*:*:*:*:*:*,gssproxy Project gssproxy 0.1.0,['CVE-2020-12658'],2022-03-21T08:11Z
+7,cpe:2.3:a:gssproxy_project:gssproxy:0.1.1:*:*:*:*:*:*:*,gssproxy Project gssproxy 0.1.1,['CVE-2020-12658'],2022-03-21T08:11Z
+8,cpe:2.3:a:gssproxy_project:gssproxy:0.2.0:*:*:*:*:*:*:*,gssproxy Project gssproxy 0.2.0,['CVE-2020-12658'],2022-03-21T08:11Z
+9,cpe:2.3:a:gssproxy_project:gssproxy:0.2.1:*:*:*:*:*:*:*,gssproxy Project gssproxy 0.2.1,['CVE-2020-12658'],2022-03-21T08:11Z

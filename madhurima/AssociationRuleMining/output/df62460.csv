@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:autodesk:autocad_architecture:2021:*:*:*:*:*:*:*,Autodesk AutoCAD Architecture 2021,"['CVE-2021-27040', 'CVE-2021-27041', 'CVE-2021-27042', 'CVE-2021-27043', 'CVE-2021-40160', 'CVE-2021-40161']",2022-03-19T03:25Z
+1,cpe:2.3:a:autodesk:autocad_architecture:2022:*:*:*:*:*:*:*,Autodesk AutoCAD Architecture 2022,"['CVE-2021-27040', 'CVE-2021-27041', 'CVE-2021-27042', 'CVE-2021-27043', 'CVE-2021-40160', 'CVE-2021-40161']",2022-03-19T03:25Z
+2,cpe:2.3:a:autodesk:autocad_architecture_2009:5.7.68.0:*:*:*:*:*:*:*,Autodesk Autocad Architecture 2009 5.7.68.0,[''],2022-03-19T03:25Z
+3,cpe:2.3:a:autodesk:autocad_architecture_2010:6.0.56.0:*:*:*:*:*:*:*,Autodesk Autocad Architecture 2010 6.0.56.0,[''],2022-03-19T03:25Z
+4,cpe:2.3:a:autodesk:autocad_architecture_2010:6.0.70.0:*:*:*:*:*:*:*,Autodesk Autocad Architecture 2010 6.0.70.0,[''],2022-03-19T03:25Z
+5,cpe:2.3:a:autodesk:autocad_architecture_2010_language_pack:18.0.55.0:*:*:en:*:*:*:*,Autodesk Autocad Architecture 2010 Language Pack 18.0.55.0,[''],2022-03-19T03:25Z
+6,cpe:2.3:a:autodesk:autocad_architecture_2011:6.5.49.0:*:*:en:*:*:*:*,Autodesk Autocad Architecture 2011 6.5.49.0,[''],2022-03-19T03:25Z
+7,cpe:2.3:a:autodesk:autocad_architecture_2011_language_pack:18.1.49.0:*:*:en:*:*:*:*,Autodesk Autocad Architecture 2011 Language Pack 18.1.49.0,[''],2022-03-19T03:25Z
+8,cpe:2.3:a:autodesk:autocad_architecture_2012:6.7.49.0:*:*:en:*:*:*:*,Autodesk Autocad Architecture 2012 6.7.49.0,[''],2022-03-19T03:25Z
+9,cpe:2.3:a:autodesk:autocad_architecture_2012_language_pack:18.2.51.0:*:*:en:*:*:*:*,Autodesk Autocad Architecture 2012 Language Pack 18.2.51.0,[''],2022-03-19T03:25Z

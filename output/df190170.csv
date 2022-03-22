@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:d-link:camera_stream_client_activex_control:1.0.0.4519:*:*:*:*:*:*:*,D-Link Camera Stream Client ActiveX Control 1.0.0.4519,['CVE-2012-5306'],2022-03-20T15:57Z
+1,cpe:2.3:a:d-link:central_wifimanager:1.00:*:*:*:*:*:*:*,D-Link Central WiFiManager 1.00,"['CVE-2018-17440', 'CVE-2018-17441', 'CVE-2018-17442', 'CVE-2018-17443']",2022-03-20T15:57Z
+2,cpe:2.3:a:d-link:central_wifimanager:1.01:*:*:*:*:*:*:*,D-Link Central WiFiManager 1.01,"['CVE-2018-17440', 'CVE-2018-17441', 'CVE-2018-17442', 'CVE-2018-17443']",2022-03-20T15:57Z
+3,cpe:2.3:a:d-link:central_wifimanager:1.02:*:*:*:*:*:*:*,D-Link Central WiFiManager 1.02,"['CVE-2018-17440', 'CVE-2018-17441', 'CVE-2018-17442', 'CVE-2018-17443']",2022-03-20T15:57Z
+4,cpe:2.3:a:d-link:central_wifimanager:1.03:*:*:*:*:*:*:*,D-Link Central WiFiManager 1.03,"['CVE-2018-17441', 'CVE-2018-17443']",2022-03-20T15:57Z
+5,cpe:2.3:a:d-link:central_wifimanager:1.03:r0098:*:*:*:*:*:*,D-link Central WiFiManager 1.03 R0098,"['CVE-2018-15516', 'CVE-2018-15517', 'CVE-2018-17441', 'CVE-2018-17443']",2022-03-20T15:57Z
+6,cpe:2.3:h:d-link:covr-2600r:-:*:*:*:*:*:*:*,D-Link COVR-2600R,[''],2022-03-20T15:57Z
+7,cpe:2.3:h:d-link:covr-3902:-:*:*:*:*:*:*:*,D-Link COVR-3902,[''],2022-03-20T15:57Z
+8,cpe:2.3:h:d-link:dap_1150:-:*:*:*:*:*:*:*,D-Link DAP 1150,"['CVE-2014-3760', 'CVE-2014-3761']",2022-03-20T15:57Z
+9,cpe:2.3:o:d-link:dap_1150_firmware:1.2.94:*:*:*:*:*:*:*,D-Link DAP 1150 firmware 1.2.94,"['CVE-2014-3760', 'CVE-2014-3761']",2022-03-20T15:57Z

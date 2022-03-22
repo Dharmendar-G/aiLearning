@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:vie-l29_firmware:vie-l29c605b131:*:*:*:*:*:*:*,Huawei VIE-L29 Firmware VIE-L29C605B131,['CVE-2017-8164'],2022-03-21T19:05Z
+1,cpe:2.3:o:huawei:vie-l29_firmware:vie-l29c636b202:*:*:*:*:*:*:*,Huawei VIE-L29 Firmware VIE-L29C636B202,['CVE-2017-8164'],2022-03-21T19:05Z
+2,cpe:2.3:h:huawei:view_20:-:*:*:*:*:*:*:*,Huawei View 20,['CVE-2019-5260'],2022-03-21T19:05Z
+3,cpe:2.3:o:huawei:view_20_firmware:-:*:*:*:*:*:*:*,Huawei View 20 Firmware -,[''],2022-03-21T19:05Z
+4,cpe:2.3:o:huawei:view_20_firmware:9.0.1.169\(c636e1r4p1\):*:*:*:*:*:*:*,Huawei View 20 Firmware 9.0.1.169(C636E1R4P1),['CVE-2019-5260'],2022-03-21T19:05Z
+5,cpe:2.3:o:huawei:view_20_firmware:9.0.1.170\(c185e2r3p1\):*:*:*:*:*:*:*,Huawei View 20 Firmware 9.0.1.170(C185E2R3P1),['CVE-2019-5260'],2022-03-21T19:05Z
+6,cpe:2.3:o:huawei:view_20_firmware:9.0.1.170\(c432e1r3p1\):*:*:*:*:*:*:*,Huawei View 20 Firmware 9.0.1.170(C432E1R3P1),['CVE-2019-5260'],2022-03-21T19:05Z
+7,cpe:2.3:h:huawei:viewpoint_8660:-:*:*:*:*:*:*:*,Huawei ViewPoint 8660,"['CVE-2017-15323', 'CVE-2017-15334', 'CVE-2017-15335', 'CVE-2017-15336', 'CVE-2017-15337', 'CVE-2017-15338', 'CVE-2017-15339', 'CVE-2017-15353', 'CVE-2017-17151', 'CVE-2017-17251', 'CVE-2017-17252', 'CVE-2017-17253', 'CVE-2017-17254', 'CVE-2017-17255', 'CVE-2017-17256', 'CVE-2017-17257', 'CVE-2017-17258', 'CVE-2017-17301', 'CVE-2017-17329', 'CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T19:05Z
+8,cpe:2.3:o:huawei:viewpoint_8660_firmware:-:*:*:*:*:*:*:*,Huawei Viewpoint 8660 Firmware -,[''],2022-03-21T19:05Z
+9,cpe:2.3:o:huawei:viewpoint_8660_firmware:v100r008c02:*:*:*:*:*:*:*,Huawei Viewpoint 8660 Firmware V100r008c02,['CVE-2017-17301'],2022-03-21T19:05Z

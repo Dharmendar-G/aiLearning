@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:automattic:woocommerce_blocks:4.4.4:*:*:*:*:wordpress:*:*,Automattic WooCommerce Blocks 4.4.4 for WordPress,[''],2022-03-19T03:48Z
+1,cpe:2.3:a:automattic:woocommerce_blocks:4.5.0:*:*:*:*:wordpress:*:*,Automattic WooCommerce Blocks 4.5.0 for WordPress,['CVE-2021-32789'],2022-03-19T03:48Z
+2,cpe:2.3:a:automattic:woocommerce_blocks:4.5.1:*:*:*:*:wordpress:*:*,Automattic WooCommerce Blocks 4.5.1 for WordPress,['CVE-2021-32789'],2022-03-19T03:48Z
+3,cpe:2.3:a:automattic:woocommerce_blocks:4.5.2:*:*:*:*:wordpress:*:*,Automattic WooCommerce Blocks 4.5.2 for WordPress,['CVE-2021-32789'],2022-03-19T03:48Z
+4,cpe:2.3:a:automattic:woocommerce_blocks:4.5.3:*:*:*:*:wordpress:*:*,Automattic WooCommerce Blocks 4.5.3 for WordPress,[''],2022-03-19T03:48Z
+5,cpe:2.3:a:automattic:woocommerce_blocks:4.6.0:*:*:*:*:wordpress:*:*,Automattic WooCommerce Blocks 4.6.0 for WordPress,['CVE-2021-32789'],2022-03-19T03:48Z
+6,cpe:2.3:a:automattic:woocommerce_blocks:4.6.1:*:*:*:*:wordpress:*:*,Automattic WooCommerce Blocks 4.6.1 for WordPress,[''],2022-03-19T03:48Z
+7,cpe:2.3:a:automattic:woocommerce_blocks:4.7.0:*:*:*:*:wordpress:*:*,Automattic WooCommerce Blocks 4.7.0 for WordPress,['CVE-2021-32789'],2022-03-19T03:48Z
+8,cpe:2.3:a:automattic:woocommerce_blocks:4.7.1:*:*:*:*:wordpress:*:*,Automattic WooCommerce Blocks 4.7.1 for WordPress,[''],2022-03-19T03:48Z
+9,cpe:2.3:a:automattic:woocommerce_blocks:4.7.2:*:*:*:*:wordpress:*:*,Automattic WooCommerce Blocks 4.7.2 for WordPress,[''],2022-03-19T03:48Z

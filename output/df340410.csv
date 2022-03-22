@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:atlas_ediscovery_process_management:6.0.3.4:*:*:*:*:*:*:*,IBM Atlas eDiscovery Process Management 6.0.3.4,"['CVE-2017-1353', 'CVE-2017-1354', 'CVE-2017-1355', 'CVE-2017-1356']",2022-03-21T19:53Z
+1,cpe:2.3:a:ibm:atlas_ediscovery_process_management:6.0.3.5:*:*:*:*:*:*:*,IBM Atlas eDiscovery Process Management 6.0.3.5,"['CVE-2017-1353', 'CVE-2017-1354', 'CVE-2017-1355', 'CVE-2017-1356']",2022-03-21T19:53Z
+2,cpe:2.3:a:ibm:atlas_suite:-:*:*:*:*:*:*:*,IBM Atlas Suite,"['CVE-2013-6321', 'CVE-2013-6334', 'CVE-2014-0889']",2022-03-21T19:53Z
+3,cpe:2.3:a:ibm:autofs:-:*:*:*:*:*:*:*,IBM autofs,[''],2022-03-21T19:53Z
+4,cpe:2.3:a:ibm:automation_workstream_services:19.0.3:*:*:*:*:*:*:*,IBM Automation Workstream Services 19.0.3,['CVE-2020-4794'],2022-03-21T19:53Z
+5,cpe:2.3:a:ibm:automation_workstream_services:20.0.1:*:*:*:*:*:*:*,IBM Automation Workstream Services 20.0.1,['CVE-2020-4794'],2022-03-21T19:53Z
+6,cpe:2.3:a:ibm:automation_workstream_services:20.0.2:*:*:*:*:*:*:*,IBM Automation Workstream Services 20.0.2,['CVE-2020-4794'],2022-03-21T19:53Z
+7,cpe:2.3:h:ibm:avocent_1754_kvm:-:*:*:*:*:*:*:*,IBM Avocent 1754 KVM,['CVE-2013-0526'],2022-03-21T19:53Z
+8,cpe:2.3:a:ibm:b2b_advanced_communications:1.0:*:*:*:*:*:*:*,IBM B2B Advanced Communications 1.0,"['CVE-2015-7445', 'CVE-2016-0341', 'CVE-2016-5892']",2022-03-21T19:53Z
+9,cpe:2.3:a:ibm:b2b_advanced_communications:1.0.0.1:*:*:*:*:*:*:*,IBM B2B Advanced Communications 1.0.0.1,"['CVE-2015-4973', 'CVE-2015-5022', 'CVE-2015-7445', 'CVE-2016-0341', 'CVE-2016-5892']",2022-03-21T19:53Z

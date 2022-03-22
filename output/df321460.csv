@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:eliteone_1000_g2_firmware:-:*:*:*:*:*:*:*,HP EliteOne 1000 G2 Firmware,['CVE-2019-18618'],2022-03-21T13:21Z
+1,cpe:2.3:o:hp:eliteone_1000_g2_firmware:5.5.21.1099:*:*:*:*:*:*:*,HP EliteOne 1000 G2 Firmware 5.5.21.1099,[''],2022-03-21T13:21Z
+2,cpe:2.3:h:hp:eliteone_705_g2_23in_aio_t\/nt:-:*:*:*:*:*:*:*,HP EliteOne 800 G2 23in T/NT,[''],2022-03-21T13:21Z
+3,cpe:2.3:h:hp:eliteone_800_g2_23in_t\/nt:-:*:*:*:*:*:*:*,HP EliteOne 705 G2 23in Aio T/NT,[''],2022-03-21T13:21Z
+4,cpe:2.3:h:hp:eliteone_800_g2_aio:-:*:*:*:*:*:*:*,HP EliteOne 800 G2 AiO,['CVE-2019-16284'],2022-03-21T13:21Z
+5,cpe:2.3:o:hp:eliteone_800_g2_aio_firmware:-:*:*:*:*:*:*:*,HP EliteOne 800 G2 AiO Firmware,['CVE-2019-16284'],2022-03-21T13:21Z
+6,cpe:2.3:o:hp:eliteone_800_g2_aio_firmware:2.42:*:*:*:*:*:*:*,HP EliteOne 800 G2 AiO Firmware 2.42,[''],2022-03-21T13:21Z
+7,cpe:2.3:h:hp:eliteone_800_g4_23.8-in_healthcare_edition_all-in-one_business_pc:-:*:*:*:*:*:*:*,HP EliteOne 800 G4 23.8-in Healthcare Edition All-in-One Business PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T13:21Z
+8,cpe:2.3:h:hp:eliteone_800_g4_23.8-inch_non-touch_all-in-one_pc:-:*:*:*:*:*:*:*,HP EliteOne 800 G4 23.8-inch Non-Touch All-in-One PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T13:21Z
+9,cpe:2.3:h:hp:eliteone_800_g4_23.8-inch_non-touch_gpu_all-in-one_pc:-:*:*:*:*:*:*:*,HP EliteOne 800 G4 23.8-inch Non-Touch GPU All-in-One PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T13:21Z

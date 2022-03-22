@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:commons_wikis_project:commons_wikis:7.x-3.2:*:*:*:*:*:*:*,Commons Wikis Project Commons Wikis (commons_wikis) module 7.x-3.2 for Drupal,[''],2022-03-20T06:52Z
+1,cpe:2.3:a:commons_wikis_project:commons_wikis:7.x-3.x:dev:*:*:*:*:*:*,Commons Wikis Project Commons Wikis (commons_wikis) module 7.x-3.x-dev for Drupal,['CVE-2013-1908'],2022-03-20T06:52Z
+2,cpe:2.3:a:commonsensesoftwarellc:bates:1.0:*:*:*:professional:*:*:*,Commonsensesoftwarellc Bates Professional 1.0,[''],2022-03-20T06:52Z
+3,cpe:2.3:a:commonwl:cwlviewer:-:*:*:*:*:*:*:*,Commonwl CWLViewer,['CVE-2021-41110'],2022-03-20T06:52Z
+4,cpe:2.3:a:commonwl:cwlviewer:1.0:*:*:*:*:*:*:*,Commonwl CWLViewer 1.0,['CVE-2021-41110'],2022-03-20T06:52Z
+5,cpe:2.3:a:commonwl:cwlviewer:1.0.1:*:*:*:*:*:*:*,Commonwl CWLViewer 1.0.1,['CVE-2021-41110'],2022-03-20T06:52Z
+6,cpe:2.3:a:commonwl:cwlviewer:1.1.0:*:*:*:*:*:*:*,Commonwl CWLViewer 1.1.0,['CVE-2021-41110'],2022-03-20T06:52Z
+7,cpe:2.3:a:commonwl:cwlviewer:1.1.1:*:*:*:*:*:*:*,Commonwl CWLViewer 1.1.1,['CVE-2021-41110'],2022-03-20T06:52Z
+8,cpe:2.3:a:commonwl:cwlviewer:1.2.0:*:*:*:*:*:*:*,Commonwl CWLViewer 1.2.0,['CVE-2021-41110'],2022-03-20T06:52Z
+9,cpe:2.3:a:commonwl:cwlviewer:1.2.1:*:*:*:*:*:*:*,Commonwl CWLViewer 1.2.1,['CVE-2021-41110'],2022-03-20T06:52Z

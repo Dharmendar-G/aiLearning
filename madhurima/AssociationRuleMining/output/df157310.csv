@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:compaq:armada_insight_manager:4.20j:*:*:*:*:*:*:*,Compaq Armada Insight Manager 4.20j,['CVE-2001-0134'],2022-03-20T07:00Z
+1,cpe:2.3:a:compaq:compaqhttpserver:-:*:*:*:*:*:*:*,Compaq CompaqHTTPServer,[''],2022-03-20T07:00Z
+2,[0],[0],[0],[0]
+3,cpe:2.3:a:compaq:easy_access_keyboard_software:1.3:*:*:*:*:*:*:*,Compaq Easy Access Keyboard software 1.3,['CVE-2000-0946'],2022-03-20T07:00Z
+4,cpe:2.3:a:compaq:enterprise_volume_manager_command_scripter:-:*:*:*:*:*:*:*,Compaq Enterprise Volume Manager_Command Scripter,[''],2022-03-20T07:00Z
+5,cpe:2.3:a:compaq:enterprise_volume_manager-command_scripter:1.0:*:*:*:*:*:*:*,Compaq Enterprise Volume Manager_Command Scripter 1.0,['CVE-2001-0134'],2022-03-20T07:00Z
+6,cpe:2.3:a:compaq:enterprise_volume_manager-command_scripter:1.1:*:*:*:*:*:*:*,Compaq Enterprise Volume Manager_Command Scripter 1.1,['CVE-2001-0134'],2022-03-20T07:00Z
+7,cpe:2.3:a:compaq:foundation_agents:-:*:*:*:*:*:*:*,Compaq Compaq Foundation Agents,[''],2022-03-20T07:00Z
+8,cpe:2.3:a:compaq:foundation_agents:1.0:*:*:*:*:*:*:*,Compaq Compaq Foundation Agents 1.0,['CVE-2001-0134'],2022-03-20T07:00Z
+9,cpe:2.3:a:compaq:foundation_agents:2.1:*:*:*:*:*:*:*,Compaq Compaq Foundation Agents 2.1,['CVE-2001-0134'],2022-03-20T07:00Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:unified_computing_system_director:6.0.0.0:*:*:*:*:*:*:*,Cisco Unified Computing System Director 6.0.0.0,"['CVE-2017-3801', 'CVE-2017-3817']",2022-03-20T00:49Z
+1,cpe:2.3:a:cisco:unified_computing_system_director:6.0.0.1:*:*:*:*:*:*:*,Cisco Unified Computing System Director 6.0.0.1,['CVE-2017-3801'],2022-03-20T00:49Z
+2,cpe:2.3:a:cisco:unified_computing_system_director:6.5\(0.0\):*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) Director 6.5(0.0),['CVE-2018-0238'],2022-03-20T00:49Z
+3,cpe:2.3:a:cisco:unified_computing_system_director:6.5\(0.1\):*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) Director 6.5(0.1),['CVE-2018-0238'],2022-03-20T00:49Z
+4,cpe:2.3:a:cisco:unified_computing_system_director:6.6\(0.0\):*:*:*:*:*:*:*,Cisco Unified Computing System Director 6.6(0.0),"['CVE-2018-0219', 'CVE-2018-15404']",2022-03-20T00:49Z
+5,cpe:2.3:o:cisco:unified_computing_system_firmware:3.1\(3a\)a:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) Firmware 3.1(3a)a,"['CVE-2018-0304', 'CVE-2018-0305', 'CVE-2018-0308', 'CVE-2018-0312', 'CVE-2018-0314']",2022-03-20T00:49Z
+6,cpe:2.3:o:cisco:unified_computing_system_firmware:7.0\(0\)hsk\(0.357\):*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) Firmware 7.0(0)hsk(0.357),"['CVE-2018-0304', 'CVE-2018-0305', 'CVE-2018-0308', 'CVE-2018-0314']",2022-03-20T00:49Z
+7,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:1.0:*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 1.0,"['CVE-2013-1178', 'CVE-2013-1181', 'CVE-2013-1182', 'CVE-2013-1183', 'CVE-2013-1184', 'CVE-2013-1185', 'CVE-2013-1186']",2022-03-20T00:49Z
+8,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:1.0\(2k\):*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 1.0(2k),"['CVE-2013-1178', 'CVE-2013-1181', 'CVE-2013-1183', 'CVE-2013-1184', 'CVE-2013-1185', 'CVE-2013-1186']",2022-03-20T00:49Z
+9,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:1.1:*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 1.1,"['CVE-2013-1178', 'CVE-2013-1181', 'CVE-2013-1182', 'CVE-2013-1183', 'CVE-2013-1184', 'CVE-2013-1185', 'CVE-2013-1186']",2022-03-20T00:49Z

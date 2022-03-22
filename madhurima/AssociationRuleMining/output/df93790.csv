@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:brocade:netiron_mlxe-16:-:*:*:*:*:*:*:*,Brocade NetIron MLXe-16,['CVE-2016-8209'],2022-03-19T12:36Z
+1,cpe:2.3:h:brocade:netiron_mlxe-32:-:*:*:*:*:*:*:*,Brocade NetIron MLXe-32,['CVE-2016-8209'],2022-03-19T12:36Z
+2,cpe:2.3:h:brocade:netiron_mlxe-4:-:*:*:*:*:*:*:*,Brocade NetIron MLXe-4,['CVE-2016-8209'],2022-03-19T12:36Z
+3,cpe:2.3:h:brocade:netiron_mlxe-8:-:*:*:*:*:*:*:*,Brocade NetIron MLXe-8,['CVE-2016-8209'],2022-03-19T12:36Z
+4,cpe:2.3:h:brocade:netiron_xmr_16000:-:*:*:*:*:*:*:*,Brocade NetIron XMR 16000,['CVE-2016-8209'],2022-03-19T12:36Z
+5,cpe:2.3:h:brocade:netiron_xmr_32000:-:*:*:*:*:*:*:*,Brocade NetIron XMR 32000,['CVE-2016-8209'],2022-03-19T12:36Z
+6,cpe:2.3:h:brocade:netiron_xmr_4000:-:*:*:*:*:*:*:*,Brocade NetIron XMR 4000,['CVE-2016-8209'],2022-03-19T12:36Z
+7,cpe:2.3:h:brocade:netiron_xmr_8000:-:*:*:*:*:*:*:*,Brocade NetIron XMR 8000,['CVE-2016-8209'],2022-03-19T12:36Z
+8,cpe:2.3:a:brocade:network_advisor:11.0.0.0:*:*:*:*:*:*:*,Brocade Network Advisor 11.0.0.0,"['CVE-2016-8205', 'CVE-2016-8206', 'CVE-2016-8207', 'CVE-2018-6443', 'CVE-2018-6444', 'CVE-2018-6445']",2022-03-19T12:36Z
+9,cpe:2.3:a:brocade:network_advisor:11.0.2.0:*:*:*:*:*:*:*,Brocade Network Advisor 11.0.2.0,"['CVE-2016-8205', 'CVE-2016-8206', 'CVE-2016-8207', 'CVE-2018-6443', 'CVE-2018-6444', 'CVE-2018-6445']",2022-03-19T12:36Z

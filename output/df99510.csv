@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cairographics:cairo:1.15.14:*:*:*:*:*:*:*,Cairographics Cairo 1.15.14,"['CVE-2018-18064', 'CVE-2020-35492']",2022-03-19T14:35Z
+1,cpe:2.3:a:cairographics:cairo:1.16.0:*:*:*:*:*:*:*,Cairographics Cairo 1.16.0,"['CVE-2018-19876', 'CVE-2019-6461', 'CVE-2019-6462', 'CVE-2020-35492']",2022-03-19T14:35Z
+2,cpe:2.3:a:cairographics:cairo:1.17.2:*:*:*:*:*:*:*,Cairographics Cairo 1.17.2,['CVE-2020-35492'],2022-03-19T14:35Z
+3,cpe:2.3:a:cairographics:cairo:1.17.4:*:*:*:*:*:*:*,Cairographics Cairo 1.17.4,[''],2022-03-19T14:35Z
+4,cpe:2.3:a:cakefoundation:cakephp:1.0.1.2708:*:*:*:*:*:*:*,Cake Software Foundation CakePHP 1.0.1.2708,"['CVE-2006-4067', 'CVE-2006-5031', 'CVE-2020-15400']",2022-03-19T14:35Z
+5,cpe:2.3:a:cakefoundation:cakephp:1.1.3.2967:*:*:*:*:*:*:*,Cake Software Foundation CakePHP 1.1.3.2967,"['CVE-2006-4067', 'CVE-2006-5031', 'CVE-2020-15400']",2022-03-19T14:35Z
+6,cpe:2.3:a:cakefoundation:cakephp:1.1.4.3104:*:*:*:*:*:*:*,Cake Software Foundation CakePHP 1.1.4.3104,"['CVE-2006-4067', 'CVE-2006-5031', 'CVE-2020-15400']",2022-03-19T14:35Z
+7,cpe:2.3:a:cakefoundation:cakephp:1.1.5.3148:*:*:*:*:*:*:*,Cake Software Foundation CakePHP 1.1.5.3148,"['CVE-2006-4067', 'CVE-2006-5031', 'CVE-2020-15400']",2022-03-19T14:35Z
+8,cpe:2.3:a:cakefoundation:cakephp:1.1.6.3264:*:*:*:*:*:*:*,Cake Software Foundation CakePHP 1.1.6.3264,"['CVE-2006-4067', 'CVE-2006-5031', 'CVE-2020-15400']",2022-03-19T14:35Z
+9,cpe:2.3:a:cakefoundation:cakephp:1.1.7.3363:*:*:*:*:*:*:*,Cake Software Foundation CakePHP 1.1.7.3363,"['CVE-2006-5031', 'CVE-2020-15400']",2022-03-19T14:35Z

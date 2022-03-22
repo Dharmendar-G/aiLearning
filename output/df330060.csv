@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:yoga_720-15ikb:-:*:*:*:*:*:*:*,HP Yoga 720-15IKB,['CVE-2018-9069'],2022-03-21T16:19Z
+1,cpe:2.3:o:hp:yoga_720-15ikb_firmware:-:*:*:*:*:*:*:*,HP Yoga 720-15IKB Firmware,['CVE-2018-9069'],2022-03-21T16:19Z
+2,cpe:2.3:o:hp:yoga_720-15ikb_firmware:2.05:*:*:*:*:*:*:*,HP Yoga 720-15IKB Firmware 2.05,[''],2022-03-21T16:19Z
+3,cpe:2.3:h:hp:z1_entry_tower_g5_workstation:-:*:*:*:*:*:*:*,HP Z1 Entry Tower G5 Workstation ,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:19Z
+4,cpe:2.3:h:hp:z1_entry_tower_g6_workstation:-:*:*:*:*:*:*:*,HP Z1 Entry Tower G6 Workstation ,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:19Z
+5,cpe:2.3:h:hp:z1_g3:-:*:*:*:*:*:*:*,HP Z1 G3,['CVE-2019-16284'],2022-03-21T16:19Z
+6,cpe:2.3:o:hp:z1_g3_firmware:-:*:*:*:*:*:*:*,HP Z1 G3 Firmware,['CVE-2019-16284'],2022-03-21T16:19Z
+7,cpe:2.3:o:hp:z1_g3_firmware:1.26:*:*:*:*:*:*:*,HP Z1 G3 Firmware 1.26,[''],2022-03-21T16:19Z
+8,cpe:2.3:h:hp:z1_g8_tower_desktop_pc:-:*:*:*:*:*:*:*,HP Z1 G8 Tower Desktop PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:19Z
+9,cpe:2.3:h:hp:z2_mini_g3:-:*:*:*:*:*:*:*,HP Z2 Mini G3,['CVE-2019-16284'],2022-03-21T16:20Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:artonx.org:activescriptruby:1.6.0.3:*:*:*:*:*:*:*,arton ActiveScriptRuby 1.6.0.3,['CVE-2012-1241'],2022-03-18T23:30Z
+1,cpe:2.3:a:artonx.org:activescriptruby:1.6.0.4:*:*:*:*:*:*:*,arton ActiveScriptRuby 1.6.0.4,[''],2022-03-18T23:30Z
+2,cpe:2.3:a:artonx.org:activescriptruby:1.6.0.5:*:*:*:*:*:*:*,arton ActiveScriptRuby 1.6.0.5,['CVE-2012-1241'],2022-03-18T23:30Z
+3,cpe:2.3:a:artonx.org:activescriptruby:1.6.2.0:*:*:*:*:*:*:*,arton ActiveScriptRuby 1.6.2.0,['CVE-2012-1241'],2022-03-18T23:30Z
+4,cpe:2.3:a:artonx.org:activescriptruby:1.6.2.1:*:*:*:*:*:*:*,arton ActiveScriptRuby 1.6.2.1,['CVE-2012-1241'],2022-03-18T23:30Z
+5,cpe:2.3:a:artonx.org:activescriptruby:1.6.2.2:*:*:*:*:*:*:*,arton ActiveScriptRuby 1.6.2.2,['CVE-2012-1241'],2022-03-18T23:30Z
+6,cpe:2.3:a:artonx.org:activescriptruby:1.6.2.3:*:*:*:*:*:*:*,arton ActiveScriptRuby 1.6.2.3,['CVE-2012-1241'],2022-03-18T23:30Z
+7,cpe:2.3:a:artonx.org:activescriptruby:1.6.2.4:*:*:*:*:*:*:*,arton ActiveScriptRuby 1.6.2.4,['CVE-2012-1241'],2022-03-18T23:30Z
+8,cpe:2.3:a:artonx.org:activescriptruby:1.6.2.5:*:*:*:*:*:*:*,arton ActiveScriptRuby 1.6.2.5,['CVE-2012-1241'],2022-03-18T23:30Z
+9,cpe:2.3:a:artonx.org:activescriptruby:1.6.2.6:*:*:*:*:*:*:*,arton ActiveScriptRuby 1.6.2.6,['CVE-2012-1241'],2022-03-18T23:30Z

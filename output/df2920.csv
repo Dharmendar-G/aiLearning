@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:7mediaws:edutrac:1.0.4:*:*:*:*:*:*:*,7 Media Web Solutions eduTrac 1.0.4,['CVE-2013-7097'],2022-03-18T10:12Z
+1,cpe:2.3:a:7mediaws:edutrac:1.0.5:*:*:*:*:*:*:*,7 Media Web Solutions eduTrac 1.0.5,['CVE-2013-7097'],2022-03-18T10:12Z
+2,cpe:2.3:a:7mediaws:edutrac:1.0.6:*:*:*:*:*:*:*,7 Media Web Solutions eduTrac 1.0.6,['CVE-2013-7097'],2022-03-18T10:12Z
+3,cpe:2.3:a:7mediaws:edutrac:1.0.7:*:*:*:*:*:*:*,7 Media Web Solutions eduTrac 1.0.7,['CVE-2013-7097'],2022-03-18T10:12Z
+4,cpe:2.3:a:7mediaws:edutrac:1.0.8:*:*:*:*:*:*:*,7 Media Web Solutions eduTrac 1.0.8,['CVE-2013-7097'],2022-03-18T10:12Z
+5,cpe:2.3:a:7mediaws:edutrac:1.0.9:*:*:*:*:*:*:*,7 Media Web Solutions eduTrac 1.0.9,['CVE-2013-7097'],2022-03-18T10:12Z
+6,cpe:2.3:a:7mediaws:edutrac:1.1.1:*:*:*:*:*:*:*,7 Media Web Solutions eduTrac 1.1.1,['CVE-2013-7097'],2022-03-18T10:12Z
+7,cpe:2.3:a:7sage:7sage_lsat_prep_-_proctor:2.1.1:*:*:*:*:android:*:*,7sage 7Sage LSAT Prep - Proctor (aka com.sevensage.lsat) for android 2.1.1,['CVE-2014-6707'],2022-03-18T10:12Z
+8,cpe:2.3:a:7t:aquis:1.5:*:*:*:*:*:*:*,7-Technologies (7T) AQUIS 1.5,['CVE-2012-0224'],2022-03-18T10:12Z
+9,cpe:2.3:a:7t:termis:2.0:*:*:*:*:*:*:*,7-Technologies (7T) TERMIS 2.0,['CVE-2012-0223'],2022-03-18T10:12Z

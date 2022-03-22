@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:hp_pavilion_15-n200:-:*:*:*:*:*:*:*,HP HP PAVILION 15-N200 -,['CVE-2017-2751'],2022-03-21T13:33Z
+1,cpe:2.3:h:hp:hp_pavilion_15-n300:-:*:*:*:*:*:*:*,HP HP PAVILION 15-N300 -,['CVE-2017-2751'],2022-03-21T13:33Z
+2,cpe:2.3:a:hp:hp_smart:-:*:*:*:*:windows:*:*,HP Smart for Windows,['CVE-2021-3440'],2022-03-21T13:33Z
+3,cpe:2.3:a:hp:hp_smart:128.1.217:*:*:*:*:windows:*:*,HP Smart 128.1.217 for Windows,[''],2022-03-21T13:33Z
+4,cpe:2.3:h:hp:hp_spectre_13-h200:-:*:*:*:*:*:*:*,HP HP SPECTRE 13-H200 -,['CVE-2017-2751'],2022-03-21T13:33Z
+5,cpe:2.3:h:hp:hp_spectre_x2_13-smb_pro:-:*:*:*:*:*:*:*,HP HP SPECTRE X2 13-SMB PRO -,['CVE-2017-2751'],2022-03-21T13:33Z
+6,cpe:2.3:h:hp:hp_split_13-g200:-:*:*:*:*:*:*:*,HP HP SPLIT 13-G200 -,['CVE-2017-2751'],2022-03-21T13:33Z
+7,cpe:2.3:h:hp:hp2910al-48g:-:*:*:*:*:*:*:*,Hp Hp2910al-48g,['CVE-2019-5401'],2022-03-21T13:33Z
+8,cpe:2.3:o:hp:hp2910al-48g_firmware:w.15.14.00.16:*:*:*:*:*:*:*,HP Hp2910al-48g Firmware W.15.14.00.16,['CVE-2019-5401'],2022-03-21T13:33Z
+9,[0],[0],[0],[0]

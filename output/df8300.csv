@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adguard:adguard:2.11.76:beta:*:*:*:android:*:*,AdGuard 2.11.76 Beta for Android,[''],2022-03-18T11:54Z
+1,cpe:2.3:a:adguard:adguard:2.11.80:rc:*:*:*:android:*:*,AdGuard 2.11.80 Release Candidate for Android,[''],2022-03-18T11:54Z
+2,cpe:2.3:a:adguard:adguard:2.11.81:-:*:*:*:android:*:*,AdGuard 2.11.81 for Android,[''],2022-03-18T11:54Z
+3,cpe:2.3:a:adguard:adguard:2.11.81:rc:*:*:*:android:*:*,AdGuard 2.11.81 Release Candidate for Android,[''],2022-03-18T11:54Z
+4,cpe:2.3:a:adguard:adguard:2.12.140:beta:*:*:*:android:*:*,AdGuard 2.12.140 Beta for Android,[''],2022-03-18T11:54Z
+5,cpe:2.3:a:adguard:adguard:2.12.187:beta:*:*:*:android:*:*,AdGuard 2.12.187 Beta for Android,[''],2022-03-18T11:54Z
+6,cpe:2.3:a:adguard:adguard:2.12.212:rc:*:*:*:android:*:*,AdGuard 2.12.212 Release Candidate for Android,[''],2022-03-18T11:54Z
+7,cpe:2.3:a:adguard:adguard:2.12.223:rc:*:*:*:android:*:*,AdGuard 2.12.223 Release Candidate for Android,[''],2022-03-18T11:54Z
+8,cpe:2.3:a:adguard:adguard:2.12.233:rc:*:*:*:android:*:*,AdGuard 2.12.233 Release Candidate for Android,[''],2022-03-18T11:54Z
+9,cpe:2.3:a:adguard:adguard:3.0.0:*:*:*:*:iphone_os:*:*,AdGuard 3.0.0 iPhone OS,[''],2022-03-18T11:54Z

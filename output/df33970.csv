@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:mesos:0.25.1:*:*:*:*:*:*:*,Apache Software Foundation Mesos 0.25.1,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-8023']",2022-03-18T19:25Z
+1,cpe:2.3:a:apache:mesos:0.26.0:*:*:*:*:*:*:*,Apache Software Foundation Mesos 0.26.0,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-8023']",2022-03-18T19:25Z
+2,cpe:2.3:a:apache:mesos:0.26.1:*:*:*:*:*:*:*,Apache Software Foundation Mesos 0.26.1,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-8023']",2022-03-18T19:25Z
+3,cpe:2.3:a:apache:mesos:0.27.0:*:*:*:*:*:*:*,Apache Software Foundation Mesos 0.27.0,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-8023']",2022-03-18T19:25Z
+4,cpe:2.3:a:apache:mesos:0.27.1:*:*:*:*:*:*:*,Apache Software Foundation Mesos 0.27.1,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-8023']",2022-03-18T19:25Z
+5,cpe:2.3:a:apache:mesos:0.27.2:*:*:*:*:*:*:*,Apache Software Foundation Mesos 0.27.2,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-8023']",2022-03-18T19:25Z
+6,cpe:2.3:a:apache:mesos:0.27.3:*:*:*:*:*:*:*,Apache Software Foundation Mesos 0.27.3,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-8023']",2022-03-18T19:25Z
+7,cpe:2.3:a:apache:mesos:0.28.0:*:*:*:*:*:*:*,Apache Software Foundation Mesos 0.28.0,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-8023']",2022-03-18T19:25Z
+8,cpe:2.3:a:apache:mesos:0.28.1:*:*:*:*:*:*:*,Apache Software Foundation Mesos 0.28.1,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-8023']",2022-03-18T19:25Z
+9,cpe:2.3:a:apache:mesos:0.28.2:*:*:*:*:*:*:*,Apache Software Foundation Mesos 0.28.2,"['CVE-2017-7687', 'CVE-2017-9790', 'CVE-2018-8023']",2022-03-18T19:25Z

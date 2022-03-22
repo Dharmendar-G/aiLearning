@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:claws-mail:claws-mail:3.7.8:*:*:*:*:*:*:*,Claws Mail (aka claws-mail) 3.7.8,"['CVE-2014-2576', 'CVE-2015-8614', 'CVE-2020-15917', 'CVE-2020-16094', 'CVE-2021-37746']",2022-03-20T02:12Z
+1,cpe:2.3:a:claws-mail:claws-mail:3.7.9:*:*:*:*:*:*:*,Claws Mail (aka claws-mail) 3.7.9,"['CVE-2014-2576', 'CVE-2015-8614', 'CVE-2020-15917', 'CVE-2020-16094', 'CVE-2021-37746']",2022-03-20T02:12Z
+2,cpe:2.3:a:claws-mail:claws-mail:3.7.10:*:*:*:*:*:*:*,Claws Mail (aka claws-mail) 3.7.10,"['CVE-2014-2576', 'CVE-2015-8614', 'CVE-2020-15917', 'CVE-2020-16094', 'CVE-2021-37746']",2022-03-20T02:12Z
+3,cpe:2.3:a:claws-mail:claws-mail:3.8.0:*:*:*:*:*:*:*,Claws Mail (aka claws-mail) 3.8.0,"['CVE-2014-2576', 'CVE-2015-8614', 'CVE-2020-15917', 'CVE-2020-16094', 'CVE-2021-37746']",2022-03-20T02:12Z
+4,cpe:2.3:a:claws-mail:claws-mail:3.8.1:*:*:*:*:*:*:*,Claws Mail (aka claws-mail) 3.8.1,"['CVE-2012-4507', 'CVE-2014-2576', 'CVE-2015-8614', 'CVE-2020-15917', 'CVE-2020-16094', 'CVE-2021-37746']",2022-03-20T02:12Z
+5,cpe:2.3:a:claws-mail:claws-mail:3.9.3:*:*:*:*:*:*:*,Claws Mail (aka claws-mail) 3.9.3,"['CVE-2014-2576', 'CVE-2015-8614', 'CVE-2020-15917', 'CVE-2020-16094', 'CVE-2021-37746']",2022-03-20T02:12Z
+6,cpe:2.3:a:claws-mail:claws-mail:3.13.0:*:*:*:*:*:*:*,Claws Mail (aka claws-mail) 3.13.0,"['CVE-2015-8614', 'CVE-2020-15917', 'CVE-2020-16094', 'CVE-2021-37746']",2022-03-20T02:12Z
+7,cpe:2.3:a:claws-mail:claws-mail:3.13.1:*:*:*:*:*:*:*,Claws Mail (aka claws-mail) 3.13.1,"['CVE-2015-8708', 'CVE-2020-15917', 'CVE-2020-16094', 'CVE-2021-37746']",2022-03-20T02:12Z
+8,cpe:2.3:a:claws-mail:claws-mail:3.13.2:*:*:*:*:*:*:*,Claws Mail (aka claws-mail) 3.13.2,"['CVE-2020-15917', 'CVE-2020-16094', 'CVE-2021-37746']",2022-03-20T02:12Z
+9,cpe:2.3:a:claws-mail:claws-mail:3.14.0:*:*:*:*:*:*:*,Claws Mail (aka claws-mail) 3.14.0,"['CVE-2020-15917', 'CVE-2020-16094', 'CVE-2021-37746']",2022-03-20T02:12Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:mha-al00a_firmware:mha-al00ac00b125:*:*:*:*:*:*:*,Huawei MHA-AL00A Firmware MHA-AL00AC00B125,"['CVE-2017-17201', 'CVE-2017-17327', 'CVE-2017-17328']",2022-03-21T18:09Z
+1,cpe:2.3:o:huawei:mha-al00a_firmware:mha-al00c00b213:*:*:*:*:*:*:*,Huawei Mha-al00a Firmware Mha-al00c00b213,[''],2022-03-21T18:09Z
+2,cpe:2.3:h:huawei:moana-al00b:-:*:*:*:*:*:*:*,Huawei Moana-AL00B,['CVE-2020-9227'],2022-03-21T18:09Z
+3,cpe:2.3:o:huawei:moana-al00b_firmware:-:*:*:*:*:*:*:*,Huawei Moana-AL00B Firmware,['CVE-2020-9227'],2022-03-21T18:09Z
+4,cpe:2.3:o:huawei:moana-al00b_firmware:10.1.0.166:*:*:*:*:*:*:*,Huawei Moana-AL00B Firmware 10.1.0.166,[''],2022-03-21T18:09Z
+5,cpe:2.3:a:huawei:mobile_broadband_hl_service:22.001.25.00.03:*:*:*:*:*:*:*,Huawei Mobile Broadband HL Service 22.001.25.00.03,['CVE-2016-2855'],2022-03-21T18:09Z
+6,cpe:2.3:o:huawei:mobile_partner_firmware:23.009.05.03.1014:*:*:*:*:*:*:*,Huawei Mobile Partner Firmware 23.009.05.03.1014,['CVE-2014-8359'],2022-03-21T18:09Z
+7,cpe:2.3:h:huawei:mt882:-:*:*:*:*:*:*:*,Huawei MT882,"['CVE-2013-6786', 'CVE-2016-2231', 'CVE-2016-2314']",2022-03-21T18:09Z
+8,cpe:2.3:o:huawei:mt882_firmware:v200r002b022:*:*:*:*:*:*:*,Huawei MT882 Firmware V200R002B022,['CVE-2016-2231'],2022-03-21T18:09Z
+9,cpe:2.3:o:huawei:mt882_firmware:v200r002b022_arg:*:*:*:*:*:*:*,Huawei MT882 Firmware V200R002B022 Arg,['CVE-2016-2314'],2022-03-21T18:09Z

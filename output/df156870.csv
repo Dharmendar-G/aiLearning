@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:commscope:arris_surfboard_sb8200:-:*:*:*:*:*:*:*,CommScope Arris SURFboard SB8200,"['CVE-2021-20119', 'CVE-2021-20120']",2022-03-20T06:52Z
+1,cpe:2.3:o:commscope:arris_surfboard_sb8200_firmware:ab01.02.053.01_112320_193.0a.nsh:*:*:*:*:*:*:*,CommScope Arris SURFboard SB8200 Firmware AB01.02.053.01_112320_193.0A.NSH,"['CVE-2021-20119', 'CVE-2021-20120']",2022-03-20T06:52Z
+2,cpe:2.3:h:commscope:arris_surfboard_sbg10:-:*:*:*:*:*:*:*,CommScope ARRIS SURFboard SBG10,['CVE-2021-41552'],2022-03-20T06:52Z
+3,cpe:2.3:o:commscope:arris_surfboard_sbg10_firmware:-:*:*:*:*:*:*:*,CommScope ARRIS SURFboard SBG10 Firmware,['CVE-2021-41552'],2022-03-20T06:52Z
+4,cpe:2.3:h:commscope:arris_surfboard_sbg6950ac2:-:*:*:*:*:*:*:*,CommScope ARRIS SURFboard SBG6950AC2,['CVE-2021-41552'],2022-03-20T06:52Z
+5,cpe:2.3:o:commscope:arris_surfboard_sbg6950ac2_firmware:9.1.103aa23:*:*:*:*:*:*:*,CommScope ARRIS SURFboard SBG6950AC2 Firmware 9.1.103AA23,['CVE-2021-41552'],2022-03-20T06:52Z
+6,cpe:2.3:h:commscope:arris_surfboard_sbg7400ac2:-:*:*:*:*:*:*:*,CommScope ARRIS SURFboard SBG7400AC2,['CVE-2021-41552'],2022-03-20T06:52Z
+7,cpe:2.3:o:commscope:arris_surfboard_sbg7400ac2_firmware:-:*:*:*:*:*:*:*,CommScope ARRIS SURFboard SBG7400AC2 Firmware,['CVE-2021-41552'],2022-03-20T06:52Z
+8,cpe:2.3:h:commscope:arris_surfboard_sbg7580ac:-:*:*:*:*:*:*:*,CommScope ARRIS SURFboard SBG7580AC,['CVE-2021-41552'],2022-03-20T06:52Z
+9,cpe:2.3:o:commscope:arris_surfboard_sbg7580ac_firmware:-:*:*:*:*:*:*:*,CommScope ARRIS SURFboard SBG7580AC Firmware,['CVE-2021-41552'],2022-03-20T06:52Z

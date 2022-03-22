@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:gvectors:wpdiscuz:7.3.10:*:*:*:*:wordpress:*:*,Gvectors Wpdiscuz 7.3.10 for Wordpress,['CVE-2022-23984'],2022-03-21T08:30Z
+1,cpe:2.3:a:gvectors:wpdiscuz:7.3.11:*:*:*:*:wordpress:*:*,Gvectors Wpdiscuz 7.3.11 for Wordpress,['CVE-2022-23984'],2022-03-21T08:30Z
+2,cpe:2.3:a:gvectors:wpforo:1.4.0:*:*:*:*:wordpress:*:*,gVectors wpForo 1.4.0 for WordPress,['CVE-2018-11515'],2022-03-21T08:30Z
+3,cpe:2.3:a:gvectors:wpforo:1.4.1:*:*:*:*:wordpress:*:*,gVectors wpForo 1.4.1 for WordPress,['CVE-2018-11515'],2022-03-21T08:30Z
+4,cpe:2.3:a:gvectors:wpforo:1.4.2:*:*:*:*:wordpress:*:*,gVectors wpForo 1.4.2 for WordPress,['CVE-2018-11515'],2022-03-21T08:30Z
+5,cpe:2.3:a:gvectors:wpforo:1.4.3:*:*:*:*:wordpress:*:*,gVectors wpForo 1.4.3 for WordPress,['CVE-2018-11515'],2022-03-21T08:30Z
+6,cpe:2.3:a:gvectors:wpforo:1.4.4:*:*:*:*:wordpress:*:*,gVectors wpForo 1.4.4 for WordPress,['CVE-2018-11515'],2022-03-21T08:30Z
+7,cpe:2.3:a:gvectors:wpforo:1.4.4.1:*:*:*:*:wordpress:*:*,gVectors wpForo 1.4.4.1 for WordPress,['CVE-2018-11515'],2022-03-21T08:30Z
+8,cpe:2.3:a:gvectors:wpforo:1.4.5:*:*:*:*:wordpress:*:*,gVectors wpForo 1.4.5 for WordPress,[''],2022-03-21T08:30Z
+9,cpe:2.3:a:gvectors:wpforo:1.4.6:*:*:*:*:wordpress:*:*,gVectors wpForo 1.4.6 for WordPress,[''],2022-03-21T08:30Z

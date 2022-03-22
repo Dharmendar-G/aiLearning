@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:haserl_project:haserl:0.9.3:*:*:*:*:*:*:*,haserl Project haserl 0.9.3,['CVE-2021-29133'],2022-03-21T09:26Z
+1,cpe:2.3:a:haserl_project:haserl:0.9.4:*:*:*:*:*:*:*,haserl Project haserl 0.9.4,['CVE-2021-29133'],2022-03-21T09:26Z
+2,cpe:2.3:a:haserl_project:haserl:0.9.5:*:*:*:*:*:*:*,haserl Project haserl 0.9.5,['CVE-2021-29133'],2022-03-21T09:26Z
+3,cpe:2.3:a:haserl_project:haserl:0.9.6:*:*:*:*:*:*:*,haserl Project haserl 0.9.6,['CVE-2021-29133'],2022-03-21T09:26Z
+4,cpe:2.3:a:haserl_project:haserl:0.9.7:*:*:*:*:*:*:*,haserl Project haserl 0.9.7,['CVE-2021-29133'],2022-03-21T09:26Z
+5,cpe:2.3:a:haserl_project:haserl:0.9.9:*:*:*:*:*:*:*,haserl Project haserl 0.9.9,['CVE-2021-29133'],2022-03-21T09:26Z
+6,cpe:2.3:a:haserl_project:haserl:0.9.10:*:*:*:*:*:*:*,haserl Project haserl 0.9.10,['CVE-2021-29133'],2022-03-21T09:27Z
+7,cpe:2.3:a:haserl_project:haserl:0.9.11:*:*:*:*:*:*:*,haserl Project haserl 0.9.11,['CVE-2021-29133'],2022-03-21T09:27Z
+8,cpe:2.3:a:haserl_project:haserl:0.9.12:*:*:*:*:*:*:*,haserl Project haserl 0.9.12,['CVE-2021-29133'],2022-03-21T09:27Z
+9,cpe:2.3:a:haserl_project:haserl:0.9.13:*:*:*:*:*:*:*,haserl Project haserl 0.9.13,['CVE-2021-29133'],2022-03-21T09:27Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:barco:clickshare_button_r9861500d01_firmware:1.4.2.12:*:*:*:*:*:*:*,Barco ClickShare Button R9861500D01 Firmware 1.4.2.12,"['CVE-2019-18824', 'CVE-2019-18829', 'CVE-2019-18832', 'CVE-2019-18833']",2022-03-19T06:13Z
+1,cpe:2.3:o:barco:clickshare_button_r9861500d01_firmware:1.5.0.12:*:*:*:*:*:*:*,Barco ClickShare Button R9861500D01 Firmware 1.5.0.12,"['CVE-2019-18824', 'CVE-2019-18829', 'CVE-2019-18832', 'CVE-2019-18833']",2022-03-19T06:13Z
+2,cpe:2.3:o:barco:clickshare_button_r9861500d01_firmware:1.5.1.2:*:*:*:*:*:*:*,Barco ClickShare Button R9861500D01 Firmware 1.5.1.2,"['CVE-2019-18824', 'CVE-2019-18829', 'CVE-2019-18832', 'CVE-2019-18833']",2022-03-19T06:13Z
+3,cpe:2.3:o:barco:clickshare_button_r9861500d01_firmware:1.5.2.3:*:*:*:*:*:*:*,Barco ClickShare Button R9861500D01 Firmware 1.5.2.3,"['CVE-2019-18824', 'CVE-2019-18829', 'CVE-2019-18832', 'CVE-2019-18833']",2022-03-19T06:13Z
+4,cpe:2.3:o:barco:clickshare_button_r9861500d01_firmware:1.6.0.3:*:*:*:*:*:*:*,Barco ClickShare Button R9861500D01 Firmware 1.6.0.3,"['CVE-2019-18824', 'CVE-2019-18829', 'CVE-2019-18832', 'CVE-2019-18833']",2022-03-19T06:13Z
+5,cpe:2.3:o:barco:clickshare_button_r9861500d01_firmware:1.6.1.2:*:*:*:*:*:*:*,Barco ClickShare Button R9861500D01 Firmware 1.6.1.2,"['CVE-2019-18824', 'CVE-2019-18829', 'CVE-2019-18832', 'CVE-2019-18833']",2022-03-19T06:13Z
+6,cpe:2.3:o:barco:clickshare_button_r9861500d01_firmware:1.7.0.22:*:*:*:*:*:*:*,Barco ClickShare Button R9861500D01 Firmware 1.7.0.22,"['CVE-2019-18824', 'CVE-2019-18829', 'CVE-2019-18832', 'CVE-2019-18833']",2022-03-19T06:13Z
+7,cpe:2.3:o:barco:clickshare_button_r9861500d01_firmware:1.7.1.1:*:*:*:*:*:*:*,Barco ClickShare Button R9861500D01 Firmware 1.7.1.1,"['CVE-2019-18824', 'CVE-2019-18829', 'CVE-2019-18832', 'CVE-2019-18833']",2022-03-19T06:13Z
+8,cpe:2.3:o:barco:clickshare_button_r9861500d01_firmware:1.8.0.6:*:*:*:*:*:*:*,Barco ClickShare Button R9861500D01 Firmware 1.8.0.6,"['CVE-2019-18824', 'CVE-2019-18829', 'CVE-2019-18832', 'CVE-2019-18833']",2022-03-19T06:13Z
+9,cpe:2.3:o:barco:clickshare_button_r9861500d01_firmware:1.8.1.2:*:*:*:*:*:*:*,Barco ClickShare Button R9861500D01 Firmware 1.8.1.2,"['CVE-2019-18824', 'CVE-2019-18829', 'CVE-2019-18832', 'CVE-2019-18833']",2022-03-19T06:13Z

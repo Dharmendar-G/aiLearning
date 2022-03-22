@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:automatedqa:testcomplete_demo:7.52.678.3:*:*:*:*:*:*:*,Automatedqa Testcomplete Demo 7.52.678.3,[''],2022-03-19T03:35Z
+1,cpe:2.3:a:automatedqa:testexecute:7.52.678.9:*:*:*:*:*:*:*,Automatedqa Testexecute 7.52.678.9,[''],2022-03-19T03:35Z
+2,cpe:2.3:a:automatedqa:testexecute_demo:7.52.678.9:*:*:*:*:*:*:*,Automatedqa Testexecute Demo 7.52.678.9,[''],2022-03-19T03:35Z
+3,cpe:2.3:a:automatedqa:testrecorder:7.52.678.13:*:*:*:*:*:*:*,Automatedqa Testrecorder 7.52.678.13,[''],2022-03-19T03:35Z
+4,cpe:2.3:h:automationdirect:click_plc:-:*:*:*:*:*:*:*,AutomationDirect Click Plc,['CVE-2017-14020'],2022-03-19T03:35Z
+5,cpe:2.3:o:automationdirect:click_plc_firmware:2.10:*:*:*:*:*:*:*,Automationdirect Click Plc Firmware 2.10,['CVE-2017-14020'],2022-03-19T03:35Z
+6,cpe:2.3:h:automationdirect:c-more_ea9-rhi:-:*:*:*:*:*:*:*,AutomationDirect C-more EA9-RHI,['CVE-2020-6969'],2022-03-19T03:35Z
+7,cpe:2.3:o:automationdirect:c-more_ea9-rhi_firmware:-:*:*:*:*:*:*:*,AutomationDirect C-more EA9-RHI Firmware,['CVE-2020-6969'],2022-03-19T03:35Z
+8,cpe:2.3:o:automationdirect:c-more_ea9-rhi_firmware:6.53:*:*:*:*:*:*:*,AutomationDirect C-more EA9-RHI Firmware 6.53,[''],2022-03-19T03:35Z
+9,cpe:2.3:h:automationdirect:c-more_ea9-t10cl:-:*:*:*:*:*:*:*,AutomationDirect C-more EA9-T10CL,['CVE-2020-6969'],2022-03-19T03:35Z

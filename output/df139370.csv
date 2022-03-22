@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:wide_area_application_services:5.1\(.1c\):*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 5.1(.1c),"['CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+1,cpe:2.3:a:cisco:wide_area_application_services:5.1\(.1d\):*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 5.1(.1d),"['CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+2,cpe:2.3:a:cisco:wide_area_application_services:5.1\(.1e\):*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 5.1(.1e),"['CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+3,cpe:2.3:a:cisco:wide_area_application_services:5.1\(.1f\):*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 5.1(.1f),"['CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+4,cpe:2.3:a:cisco:wide_area_application_services:5.1.1:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 5.1.1,"['CVE-2013-3443', 'CVE-2013-3444', 'CVE-2014-2196', 'CVE-2014-3285', 'CVE-2015-6421', 'CVE-2021-1438']",2022-03-20T01:19Z
+5,cpe:2.3:a:cisco:wide_area_application_services:5.1.1a:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 5.1.1A,"['CVE-2014-3285', 'CVE-2015-6421', 'CVE-2021-1438']",2022-03-20T01:19Z
+6,cpe:2.3:a:cisco:wide_area_application_services:5.1.1b:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 5.1.1B,"['CVE-2014-3285', 'CVE-2015-6421', 'CVE-2021-1438']",2022-03-20T01:19Z
+7,cpe:2.3:a:cisco:wide_area_application_services:5.1.1c:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 5.1.1C,"['CVE-2014-3285', 'CVE-2015-6421', 'CVE-2021-1438']",2022-03-20T01:19Z
+8,cpe:2.3:a:cisco:wide_area_application_services:5.1.1d:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 5.1.1D,"['CVE-2014-3285', 'CVE-2015-6421', 'CVE-2021-1438']",2022-03-20T01:19Z
+9,cpe:2.3:a:cisco:wide_area_application_services:5.2:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 5.2,"['CVE-2013-3443', 'CVE-2013-3444', 'CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z

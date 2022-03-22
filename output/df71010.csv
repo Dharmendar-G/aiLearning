@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:barton:ngircd:22.0:-:*:*:*:*:*:*,barton.de ngIRCd 22.0,['CVE-2020-14148'],2022-03-19T06:24Z
+1,cpe:2.3:a:barton:ngircd:22.0:rc1:*:*:*:*:*:*,barton.de ngIRCd 22.0 Release Candidate 1,['CVE-2020-14148'],2022-03-19T06:24Z
+2,cpe:2.3:a:barton:ngircd:22.1:*:*:*:*:*:*:*,barton.de ngIRCd 22.1,['CVE-2020-14148'],2022-03-19T06:24Z
+3,cpe:2.3:a:barton:ngircd:23.0:-:*:*:*:*:*:*,barton.de ngIRCd 23.0,['CVE-2020-14148'],2022-03-19T06:24Z
+4,cpe:2.3:a:barton:ngircd:23.0:rc1:*:*:*:*:*:*,barton.de ngIRCd 23.0 Release Candidate 1,['CVE-2020-14148'],2022-03-19T06:24Z
+5,cpe:2.3:a:barton:ngircd:24.0:-:*:*:*:*:*:*,barton.de ngIRCd 24.0,['CVE-2020-14148'],2022-03-19T06:24Z
+6,cpe:2.3:a:barton:ngircd:24.0:rc1:*:*:*:*:*:*,barton.de ngIRCd 24.0 Release Candidate 1,['CVE-2020-14148'],2022-03-19T06:24Z
+7,cpe:2.3:a:barton:ngircd:25.0:-:*:*:*:*:*:*,barton.de ngIRCd 25.0,['CVE-2020-14148'],2022-03-19T06:24Z
+8,cpe:2.3:a:barton:ngircd:25.0:rc1:*:*:*:*:*:*,barton.de ngIRCd 25.0 Release Candidate 1,['CVE-2020-14148'],2022-03-19T06:24Z
+9,cpe:2.3:a:barton:ngircd:26.0:rc1:*:*:*:*:*:*,barton.de ngIRCd 26.0 Release Candidate 1,['CVE-2020-14148'],2022-03-19T06:24Z

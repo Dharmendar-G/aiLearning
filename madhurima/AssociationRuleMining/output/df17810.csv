@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:akeneo:product_information_management:1.4.9:*:*:*:community:*:*:*,Akeneo Product Information Management (PIM) 1.4.9 Community Edition,['CVE-2017-1000009'],2022-03-18T14:19Z
+1,cpe:2.3:a:akeneo:product_information_management:1.4.9:*:*:*:enterprise:*:*:*,Akeneo Product Information Management (PIM) 1.4.9 Enterprise Edition,['CVE-2017-1000009'],2022-03-18T14:19Z
+2,cpe:2.3:a:akeneo:product_information_management:1.4.10:*:*:*:community:*:*:*,Akeneo Product Information Management (PIM) 1.4.10 Community Edition,['CVE-2017-1000009'],2022-03-18T14:19Z
+3,cpe:2.3:a:akeneo:product_information_management:1.4.10:*:*:*:enterprise:*:*:*,Akeneo Product Information Management (PIM) 1.4.10 Enterprise Edition,['CVE-2017-1000009'],2022-03-18T14:19Z
+4,cpe:2.3:a:akeneo:product_information_management:1.4.11:*:*:*:community:*:*:*,Akeneo Product Information Management (PIM) 1.4.11 Community Edition,['CVE-2017-1000009'],2022-03-18T14:19Z
+5,cpe:2.3:a:akeneo:product_information_management:1.4.11:*:*:*:enterprise:*:*:*,Akeneo Product Information Management (PIM) 1.4.11 Enterprise Edition,['CVE-2017-1000009'],2022-03-18T14:19Z
+6,cpe:2.3:a:akeneo:product_information_management:1.4.12:*:*:*:community:*:*:*,Akeneo Product Information Management (PIM) 1.4.12 Community Edition,['CVE-2017-1000009'],2022-03-18T14:19Z
+7,cpe:2.3:a:akeneo:product_information_management:1.4.12:*:*:*:enterprise:*:*:*,Akeneo Product Information Management (PIM) 1.4.12 Enterprise Edition,['CVE-2017-1000009'],2022-03-18T14:19Z
+8,cpe:2.3:a:akeneo:product_information_management:1.4.13:*:*:*:community:*:*:*,Akeneo Product Information Management (PIM) 1.4.13 Community Edition,['CVE-2017-1000009'],2022-03-18T14:19Z
+9,cpe:2.3:a:akeneo:product_information_management:1.4.13:*:*:*:enterprise:*:*:*,Akeneo Product Information Management (PIM) 1.4.13 Enterprise Edition,['CVE-2017-1000009'],2022-03-18T14:19Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitdefender:total_security_2020:24.9:*:*:*:*:*:*:*,Bitdefender Total Security 2020 24.9,[''],2022-03-19T08:07Z
+1,cpe:2.3:a:bitdefender:update_server:-:*:*:*:*:*:*:*,Bitdefender Update Server,"['CVE-2008-0396', 'CVE-2020-15297']",2022-03-19T08:07Z
+2,cpe:2.3:a:bitdefender:update_server:6.6.20.294:*:*:*:*:*:*:*,Bitdefender Update Server 6.6.20.294,['CVE-2008-0396'],2022-03-19T08:07Z
+3,cpe:2.3:a:bite_it\!_project:bite_it\!:1.1.8:*:*:*:*:android:*:*,Bite it! project Bite it! (aka com.ASA1Touch.Bite_it) for android 1.1.8,['CVE-2014-7762'],2022-03-19T08:07Z
+4,cpe:2.3:a:bite_project:bite:-:*:*:*:*:rust:*:*,Bite Project Bite for Rust,['CVE-2020-36511'],2022-03-19T08:07Z
+5,cpe:2.3:a:bite_project:bite:0.0.1:*:*:*:*:rust:*:*,Bite Project Bite 0.0.1 for Rust,['CVE-2020-36511'],2022-03-19T08:07Z
+6,cpe:2.3:a:bite_project:bite:0.0.2:*:*:*:*:rust:*:*,Bite Project Bite 0.0.2 for Rust,['CVE-2020-36511'],2022-03-19T08:07Z
+7,cpe:2.3:a:bite_project:bite:0.0.3:*:*:*:*:rust:*:*,Bite Project Bite 0.0.3 for Rust,['CVE-2020-36511'],2022-03-19T08:07Z
+8,cpe:2.3:a:bite_project:bite:0.0.4:*:*:*:*:rust:*:*,Bite Project Bite 0.0.4 for Rust,['CVE-2020-36511'],2022-03-19T08:07Z
+9,cpe:2.3:a:bite_project:bite:0.0.5:*:*:*:*:rust:*:*,Bite Project Bite 0.0.5 for Rust,['CVE-2020-36511'],2022-03-19T08:07Z

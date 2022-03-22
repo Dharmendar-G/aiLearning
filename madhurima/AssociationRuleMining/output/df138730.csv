@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:webex_business_suite_32:-:*:*:*:*:*:*:*,Cisco WebEx Business Suite 32,"['CVE-2018-0112', 'CVE-2018-0264', 'CVE-2018-0422', 'CVE-2018-15408', 'CVE-2018-15410', 'CVE-2018-15411', 'CVE-2018-15412', 'CVE-2018-15413', 'CVE-2018-15414', 'CVE-2018-15415', 'CVE-2018-15416', 'CVE-2018-15417', 'CVE-2018-15418', 'CVE-2018-15419', 'CVE-2018-15420', 'CVE-2018-15421', 'CVE-2018-15422', 'CVE-2018-15431']",2022-03-20T01:11Z
+1,cpe:2.3:a:cisco:webex_business_suite_32:32.15.10:*:*:*:*:*:*:*,Cisco WebEx Business Suite 32 32.15.10,"['CVE-2018-0112', 'CVE-2018-0264', 'CVE-2018-0422', 'CVE-2018-15408', 'CVE-2018-15411', 'CVE-2018-15412', 'CVE-2018-15413', 'CVE-2018-15417', 'CVE-2018-15419', 'CVE-2018-15420', 'CVE-2018-15431']",2022-03-20T01:11Z
+2,cpe:2.3:a:cisco:webex_business_suite_32:32.15.20:*:*:*:*:*:*:*,Cisco Webex Business Suite 32 32.15.20,"['CVE-2018-0112', 'CVE-2018-0264', 'CVE-2018-15408', 'CVE-2018-15411', 'CVE-2018-15417', 'CVE-2018-15419', 'CVE-2018-15420', 'CVE-2018-15431']",2022-03-20T01:11Z
+3,cpe:2.3:a:cisco:webex_business_suite_32:32.15.30:*:*:*:*:*:*:*,Cisco Webex Business Suite 32 32.15.30,"['CVE-2018-0112', 'CVE-2018-0264', 'CVE-2018-15411']",2022-03-20T01:11Z
+4,cpe:2.3:a:cisco:webex_business_suite_32:32.17.2:*:*:*:*:*:*:*,Cisco Webex Business Suite 32 32.17.2,"['CVE-2018-0112', 'CVE-2018-0264', 'CVE-2018-15436']",2022-03-20T01:11Z
+5,cpe:2.3:a:cisco:webex_business_suite_32:t31.23.4:*:*:*:*:*:*:*,Cisco Webex Business Suite 32 T31.23.4,"['CVE-2018-0112', 'CVE-2018-15436']",2022-03-20T01:11Z
+6,cpe:2.3:a:cisco:webex_business_suite_32:t32.0:*:*:*:*:*:*:*,Cisco Webex Business Suite 32 T32.0,"['CVE-2018-0112', 'CVE-2018-15436']",2022-03-20T01:11Z
+7,cpe:2.3:a:cisco:webex_business_suite_32:t32.1:*:*:*:*:*:*:*,Cisco Webex Business Suite 32 T32.1,"['CVE-2018-0112', 'CVE-2018-15436']",2022-03-20T01:11Z
+8,cpe:2.3:a:cisco:webex_business_suite_32:t32.2:*:*:*:*:*:*:*,Cisco Webex Business Suite 32 T32.2,"['CVE-2018-0112', 'CVE-2018-15436']",2022-03-20T01:11Z
+9,cpe:2.3:a:cisco:webex_business_suite_32:t32.3:*:*:*:*:*:*:*,Cisco Webex Business Suite 32 T32.3,"['CVE-2018-0112', 'CVE-2018-15436']",2022-03-20T01:11Z

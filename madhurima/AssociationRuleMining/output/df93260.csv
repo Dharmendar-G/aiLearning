@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:message_queuing:1.11_build_29_13:*:*:*:*:*:*:*,Broadcom Message Queuing 1.11 Build 29 13,['CVE-2005-2667'],2022-03-19T12:26Z
+1,cpe:2.3:a:broadcom:messaging:-:*:*:*:*:*:*:*,Broadcom Messaging,[''],2022-03-19T12:26Z
+2,cpe:2.3:a:broadcom:messaging:1.5:*:*:*:*:*:*:*,Broadcom Messaging 1.5,"['CVE-2005-2668', 'CVE-2005-2669']",2022-03-19T12:26Z
+3,cpe:2.3:a:broadcom:messaging:1.05:*:*:*:*:*:*:*,Broadcom Messaging 1.05,[''],2022-03-19T12:26Z
+4,cpe:2.3:a:broadcom:messaging:1.7:*:*:*:*:*:*:*,Broadcom Messaging 1.7,"['CVE-2005-2668', 'CVE-2005-2669']",2022-03-19T12:26Z
+5,cpe:2.3:a:broadcom:messaging:1.07.210.0:*:*:*:*:*:*:*,Broadcom Messaging 1.07.210.0,[''],2022-03-19T12:26Z
+6,cpe:2.3:a:broadcom:messaging:1.07.220.0:*:*:*:*:*:*:*,Broadcom Messaging 1.07.220.0,[''],2022-03-19T12:26Z
+7,cpe:2.3:a:broadcom:messaging:1.07.220.3:*:*:*:*:*:*:*,Broadcom Messaging 1.07.220.3,[''],2022-03-19T12:26Z
+8,cpe:2.3:a:broadcom:messaging:1.07.220.4:*:*:*:*:*:*:*,Broadcom Messaging 1.07.220.4,[''],2022-03-19T12:26Z
+9,cpe:2.3:a:broadcom:messaging:1.07.220.5:*:*:*:*:*:*:*,Broadcom Messaging 1.07.220.5,[''],2022-03-19T12:26Z

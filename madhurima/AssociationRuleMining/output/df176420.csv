@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:debian:apt-listchanges:2.81:*:*:*:*:*:*:*,Debian apt-listchanges 2.81,['CVE-2008-0302'],2022-03-20T11:31Z
+1,cpe:2.3:a:debian:apt-setup:-:*:*:*:*:*:*:*,Debian apt-setup,['CVE-2005-2214'],2022-03-20T11:31Z
+2,cpe:2.3:a:debian:axiom:20100701-1.1:*:*:*:*:*:*:*,Debian axiom 20100701-1.1,['CVE-2014-1640'],2022-03-20T11:32Z
+3,cpe:2.3:a:debian:backupninja:-:*:*:*:*:*:*:*,Debian backupninja,['CVE-2005-3111'],2022-03-20T11:32Z
+4,cpe:2.3:a:debian:backupninja:0.8:*:*:*:*:*:*:*,Debian backupninja 0.8,['CVE-2005-3111'],2022-03-20T11:32Z
+5,cpe:2.3:a:debian:base-config:-:*:*:*:*:*:*:*,Debian base-config,[''],2022-03-20T11:32Z
+6,cpe:2.3:a:debian:base-config:2.53.10:*:*:*:*:*:*:*,Debian base-config 2.53.10,['CVE-2006-1844'],2022-03-20T11:32Z
+7,cpe:2.3:a:debian:bsdmainutils:6.0:*:*:*:*:*:*:*,Debian bsdmainutils 6.0,['CVE-2004-0793'],2022-03-20T11:32Z
+8,cpe:2.3:a:debian:bsdmainutils:6.0.1:*:*:*:*:*:*:*,Debian bsdmainutils 6.0.1,['CVE-2004-0793'],2022-03-20T11:32Z
+9,cpe:2.3:a:debian:bsdmainutils:6.0.2:*:*:*:*:*:*:*,Debian bsdmainutils 6.0.2,['CVE-2004-0793'],2022-03-20T11:32Z

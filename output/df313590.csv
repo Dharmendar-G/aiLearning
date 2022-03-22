@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hmtalk:daview_indy:8.995:*:*:*:*:*:*:*,HUMAN TALK DaView Indy 8.995,[''],2022-03-21T11:34Z
+1,cpe:2.3:a:hmtalk:daviewindy:-:*:*:*:*:*:*:*,Hmtalk Daviewindy -,"['CVE-2019-9137', 'CVE-2020-7818', 'CVE-2020-7822', 'CVE-2020-7823', 'CVE-2020-7827', 'CVE-2020-7828', 'CVE-2020-7829', 'CVE-2020-7852', 'CVE-2020-7872']",2022-03-21T11:34Z
+2,cpe:2.3:a:hmtalk:daviewindy:8.98.4:*:*:*:*:*:*:*,Hmtalk DaviewIndy 8.98.4,"['CVE-2019-9137', 'CVE-2020-7818', 'CVE-2020-7822', 'CVE-2020-7823', 'CVE-2020-7827', 'CVE-2020-7828', 'CVE-2020-7829', 'CVE-2020-7852', 'CVE-2020-7872']",2022-03-21T11:34Z
+3,cpe:2.3:a:hmtalk:daviewindy:8.98.7:*:*:*:*:*:*:*,Hmtalk DaviewIndy 8.98.7,"['CVE-2019-9137', 'CVE-2020-7818', 'CVE-2020-7822', 'CVE-2020-7823', 'CVE-2020-7827', 'CVE-2020-7852', 'CVE-2020-7872']",2022-03-21T11:34Z
+4,cpe:2.3:a:hmtalk:daviewindy:8.98.9:*:*:*:*:*:*:*,Hmtalk DaviewIndy 8.98.9,"['CVE-2020-7818', 'CVE-2020-7852']",2022-03-21T11:34Z
+5,cpe:2.3:a:hmtalk:daviewindy:9.0:*:*:*:*:*:*:*,Hmtalk Daviewindy 9.0,['CVE-2020-7852'],2022-03-21T11:34Z
+6,cpe:2.3:a:hobbylobby:hobby_lobby_stores:2.1.9:*:*:*:*:android:*:*,hobbylobby Hobby Lobby Stores (aka com.hobbylobbystores.android) for Android 2.1.9,['CVE-2014-5829'],2022-03-21T11:34Z
+7,cpe:2.3:h:hoermann:hs5-868-bs:-:*:*:*:*:*:*:*,Hoermann HS5-868-BS,['CVE-2017-17910'],2022-03-21T11:34Z
+8,cpe:2.3:o:hoermann:hs5-868-bs_firmware:-:*:*:*:*:*:*:*,Hoermann HS5-868-BS Firmware,['CVE-2017-17910'],2022-03-21T11:34Z
+9,cpe:2.3:h:hoermann:hse1-868-bs:-:*:*:*:*:*:*:*,Hoermann HSE1-868-BS,['CVE-2017-17910'],2022-03-21T11:34Z

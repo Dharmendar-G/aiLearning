@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:axis:ip_utility:4.17.0:*:*:*:*:*:*:*,Axis IP Utility 4.17.0,[''],2022-03-19T04:50Z
+1,cpe:2.3:o:axis:m10_series_network_cameras_firmware:5.21:*:*:*:*:*:*:*,Axis Communications AXIS M10 Series Network Cameras Firmware 5.21,['CVE-2011-5261'],2022-03-19T04:50Z
+2,cpe:2.3:o:axis:m1004-w_firmware:5.51.5:*:*:*:*:*:*:*,Axis Communications M1004-W Firmware 5.51.5,[''],2022-03-19T04:50Z
+3,cpe:2.3:h:axis:m1011-w_network_camera:-:*:*:*:*:*:*:*,Axis Communications AXIS M10 Series M1011-W Network Camera,[''],2022-03-19T04:50Z
+4,cpe:2.3:o:axis:m1013_firmware:5.51.5:*:*:*:*:*:*:*,Axis Communications M1013 Firmware 5.51.5,[''],2022-03-19T04:50Z
+5,cpe:2.3:h:axis:m1013_network_camera:-:*:*:*:*:*:*:*,Axis Communications AXIS M10 Series M1013 Network Camera,[''],2022-03-19T04:50Z
+6,cpe:2.3:o:axis:m1014_firmware:5.51.5:*:*:*:*:*:*:*,Axis Communications M1014 Firmware 5.51.5,[''],2022-03-19T04:50Z
+7,cpe:2.3:h:axis:m1014_network_camera:-:*:*:*:*:*:*:*,Axis Communications AXIS M10 Series M1014 Network Camera,[''],2022-03-19T04:50Z
+8,cpe:2.3:o:axis:m1025_firmware:5.51.5:*:*:*:*:*:*:*,Axis Communications M1025 Firmware 5.51.5,[''],2022-03-19T04:50Z
+9,cpe:2.3:h:axis:m1033-w:-:*:*:*:*:*:*:*,Axis Communications M1033-W,"['CVE-2018-10658', 'CVE-2018-10659', 'CVE-2018-10660', 'CVE-2018-10661', 'CVE-2018-10662', 'CVE-2018-10663', 'CVE-2018-10664', 'CVE-2018-9157', 'CVE-2018-9158']",2022-03-19T04:50Z

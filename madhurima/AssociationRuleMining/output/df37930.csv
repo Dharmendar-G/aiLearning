@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:traffic_control:5.0.0:rc3:*:*:*:*:*:*,Apache Software Foundation Traffic Control 5.0.0 Release Candidate 3,"['CVE-2021-42009', 'CVE-2022-23206']",2022-03-18T20:44Z
+1,cpe:2.3:a:apache:traffic_control:5.0.0:rc4:*:*:*:*:*:*,Apache Software Foundation Traffic Control 5.0.0 Release Candidate 4,"['CVE-2021-42009', 'CVE-2022-23206']",2022-03-18T20:44Z
+2,cpe:2.3:a:apache:traffic_control:5.0.0:rc5:*:*:*:*:*:*,Apache Software Foundation Traffic Control 5.0.0 Release Candidate 5,"['CVE-2021-42009', 'CVE-2022-23206']",2022-03-18T20:44Z
+3,cpe:2.3:a:apache:traffic_control:5.0.0:rc6:*:*:*:*:*:*,Apache Software Foundation Traffic Control 5.0.0 Release Candidate 6,"['CVE-2021-42009', 'CVE-2022-23206']",2022-03-18T20:44Z
+4,cpe:2.3:a:apache:traffic_control:5.0.0:rc7:*:*:*:*:*:*,Apache Software Foundation Traffic Control 5.0.0 Release Candidate 7,"['CVE-2021-42009', 'CVE-2022-23206']",2022-03-18T20:44Z
+5,cpe:2.3:a:apache:traffic_control:5.0.0:rc8:*:*:*:*:*:*,Apache Software Foundation Traffic Control 5.0.0 Release Candidate 8,"['CVE-2021-42009', 'CVE-2022-23206']",2022-03-18T20:44Z
+6,cpe:2.3:a:apache:traffic_control:5.0.0:rc9:*:*:*:*:*:*,Apache Software Foundation Traffic Control 5.0.0 Release Candidate 9,"['CVE-2021-42009', 'CVE-2022-23206']",2022-03-18T20:44Z
+7,cpe:2.3:a:apache:traffic_control:5.1.0:-:*:*:*:*:*:*,Apache Software Foundation Traffic Control 5.1.0,"['CVE-2021-42009', 'CVE-2021-43350', 'CVE-2022-23206']",2022-03-18T20:45Z
+8,cpe:2.3:a:apache:traffic_control:5.1.0:rc0:*:*:*:*:*:*,Apache Software Foundation Traffic Control 5.1.0 Release Candidate 0,"['CVE-2021-42009', 'CVE-2021-43350', 'CVE-2022-23206']",2022-03-18T20:44Z
+9,cpe:2.3:a:apache:traffic_control:5.1.1:-:*:*:*:*:*:*,Apache Software Foundation Traffic Control 5.1.1,"['CVE-2021-42009', 'CVE-2021-43350', 'CVE-2022-23206']",2022-03-18T20:44Z

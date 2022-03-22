@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:cf236a_firmware:2308214_000922:*:*:*:*:*:*:*,HP CF236A Firmware 2308214 000922,['CVE-2017-2750'],2022-03-21T13:00Z
+1,cpe:2.3:h:hp:cf238a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise CF238A,"['CVE-2016-2244', 'CVE-2017-2743', 'CVE-2017-2750']",2022-03-21T13:00Z
+2,cpe:2.3:o:hp:cf238a_firmware:-:*:*:*:*:*:*:*,HP CF238A Firmware,"['CVE-2017-2743', 'CVE-2017-2750']",2022-03-21T13:00Z
+3,cpe:2.3:o:hp:cf238a_firmware:2308214_000922:*:*:*:*:*:*:*,HP CF238A Firmware 2308214 000922,['CVE-2017-2750'],2022-03-21T13:00Z
+4,cpe:2.3:h:hp:cf367a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise CF367A,"['CVE-2016-2244', 'CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T13:00Z
+5,cpe:2.3:o:hp:cf367a_firmware:-:*:*:*:*:*:*:*,HP CF367A Firmware,"['CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T13:00Z
+6,cpe:2.3:o:hp:cf367a_firmware:2308214_000916:*:*:*:*:*:*:*,HP CF367A Firmware 2308214 000916,"['CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T13:00Z
+7,cpe:2.3:a:hp:chaivm:-:*:*:*:*:*:*:*,HP ChaiVM,"['CVE-2002-1796', 'CVE-2002-1797']",2022-03-21T13:00Z
+8,cpe:2.3:a:hp:cifs_server:b.04.05.11.00:*:*:*:*:*:*:*,HP CIFS Server B.04.05.11.00,['CVE-2017-12151'],2022-03-21T13:00Z
+9,cpe:2.3:a:hp:cifs-9000_server:-:*:*:*:*:*:*:*,HP CIFS_9000 Server,['CVE-2001-0981'],2022-03-21T13:00Z

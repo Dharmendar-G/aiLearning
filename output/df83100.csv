@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:boldgrid:w3_total_cache:0.14.4:*:*:*:*:wordpress:*:*,BoldGrid W3 Total Cache 0.14.4 for WordPress,"['CVE-2021-24427', 'CVE-2021-24436', 'CVE-2021-24452']",2022-03-19T09:19Z
+1,cpe:2.3:a:boldgrid:w3_total_cache:0.15.0:*:*:*:*:wordpress:*:*,BoldGrid W3 Total Cache 0.15.0 for WordPress,"['CVE-2021-24427', 'CVE-2021-24436', 'CVE-2021-24452']",2022-03-19T09:19Z
+2,cpe:2.3:a:boldgrid:w3_total_cache:0.15.1:*:*:*:*:wordpress:*:*,BoldGrid W3 Total Cache 0.15.1 for WordPress,"['CVE-2021-24427', 'CVE-2021-24436', 'CVE-2021-24452']",2022-03-19T09:19Z
+3,cpe:2.3:a:boldgrid:w3_total_cache:0.15.2:*:*:*:*:wordpress:*:*,BoldGrid W3 Total Cache 0.15.2 for WordPress,"['CVE-2021-24427', 'CVE-2021-24436', 'CVE-2021-24452']",2022-03-19T09:19Z
+4,cpe:2.3:a:boldgrid:w3_total_cache:2.0.0:*:*:*:*:wordpress:*:*,BoldGrid W3 Total Cache 2.0.0 for WordPress,"['CVE-2021-24427', 'CVE-2021-24436', 'CVE-2021-24452']",2022-03-19T09:19Z
+5,cpe:2.3:a:boldgrid:w3_total_cache:2.0.1:*:*:*:*:wordpress:*:*,BoldGrid W3 Total Cache 2.0.1 for WordPress,"['CVE-2021-24427', 'CVE-2021-24436', 'CVE-2021-24452']",2022-03-19T09:19Z
+6,cpe:2.3:a:boldgrid:w3_total_cache:2.1.0:*:*:*:*:wordpress:*:*,BoldGrid W3 Total Cache 2.1.0 for WordPress,"['CVE-2021-24427', 'CVE-2021-24436', 'CVE-2021-24452']",2022-03-19T09:19Z
+7,cpe:2.3:a:boldgrid:w3_total_cache:2.1.1:*:*:*:*:wordpress:*:*,BoldGrid W3 Total Cache 2.1.1 for WordPress,"['CVE-2021-24427', 'CVE-2021-24436', 'CVE-2021-24452']",2022-03-19T09:19Z
+8,cpe:2.3:a:boldgrid:w3_total_cache:2.1.2:*:*:*:*:wordpress:*:*,BoldGrid W3 Total Cache 2.1.2 for WordPress,"['CVE-2021-24427', 'CVE-2021-24436', 'CVE-2021-24452']",2022-03-19T09:19Z
+9,cpe:2.3:a:boldgrid:w3_total_cache:2.1.3:*:*:*:*:wordpress:*:*,Boldgrid W3 Total Cache 2.1.3 for WordPress,"['CVE-2021-24436', 'CVE-2021-24452']",2022-03-19T09:19Z

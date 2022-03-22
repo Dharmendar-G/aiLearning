@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:financial_transaction_manager:3.0.0.12:*:*:*:*:cps_services:*:*,IBM Financial Transaction Manager 3.0.0.12 CPS Services,"['CVE-2016-0253', 'CVE-2016-0268', 'CVE-2016-0272', 'CVE-2016-0274', 'CVE-2016-0275', 'CVE-2016-0276', 'CVE-2016-3060', 'CVE-2016-5920', 'CVE-2017-1160']",2022-03-21T20:36Z
+1,cpe:2.3:a:ibm:financial_transaction_manager:3.0.0.13:*:*:*:*:ach_services:*:*,IBM Financial Transaction Manager 3.0.0.13 ACH Services,"['CVE-2016-3060', 'CVE-2016-5920', 'CVE-2017-1160']",2022-03-21T20:36Z
+2,cpe:2.3:a:ibm:financial_transaction_manager:3.0.0.13:*:*:*:*:check_services:*:*,IBM Financial Transaction Manager 3.0.0.13 Check Services,"['CVE-2016-3060', 'CVE-2016-5920', 'CVE-2017-1160']",2022-03-21T20:36Z
+3,cpe:2.3:a:ibm:financial_transaction_manager:3.0.0.13:*:*:*:*:cps_services:*:*,IBM Financial Transaction Manager 3.0.0.13 CPS Services,"['CVE-2016-3060', 'CVE-2016-5920', 'CVE-2017-1160']",2022-03-21T20:36Z
+4,cpe:2.3:a:ibm:financial_transaction_manager:3.0.0.14:*:*:*:*:ach_services:*:*,IBM Financial Transaction Manager 3.0.0.14 ACH Services,"['CVE-2016-3060', 'CVE-2016-5920', 'CVE-2017-1160']",2022-03-21T20:36Z
+5,cpe:2.3:a:ibm:financial_transaction_manager:3.0.0.14:*:*:*:*:check_services:*:*,IBM Financial Transaction Manager 3.0.0.14 Check Services,"['CVE-2016-3060', 'CVE-2016-5920', 'CVE-2017-1160']",2022-03-21T20:36Z
+6,cpe:2.3:a:ibm:financial_transaction_manager:3.0.0.14:*:*:*:*:cps_services:*:*,IBM Financial Transaction Manager 3.0.0.14 CPS Services,"['CVE-2016-3060', 'CVE-2016-5920', 'CVE-2017-1160']",2022-03-21T20:36Z
+7,cpe:2.3:a:ibm:financial_transaction_manager:3.0.0.15:*:*:*:*:ach_services:*:*,IBM Financial Transaction Manager (FTM) 3.0.0.15 ACH Services,['CVE-2017-1160'],2022-03-21T20:36Z
+8,cpe:2.3:a:ibm:financial_transaction_manager:3.0.0.15:*:*:*:*:check_services:*:*,IBM Financial Transaction Manager (FTM) 3.0.0.15 Check Services,['CVE-2017-1160'],2022-03-21T20:36Z
+9,cpe:2.3:a:ibm:financial_transaction_manager:3.0.0.15:*:*:*:*:cps_services:*:*,IBM Financial Transaction Manager (FTM) 3.0.0.15 CPS Services,['CVE-2017-1160'],2022-03-21T20:36Z

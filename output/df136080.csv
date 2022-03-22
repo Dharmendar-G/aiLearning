@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:ucs_64108_firmware:4.1:*:*:*:*:*:*:*,Cisco UCS 64108 Firmware 4.1,[''],2022-03-20T00:38Z
+1,cpe:2.3:o:cisco:ucs_64108_firmware:4.1\(1c\):*:*:*:*:*:*:*,Cisco UCS 64108 Firmware 4.1(1c),[''],2022-03-20T00:38Z
+2,cpe:2.3:h:cisco:ucs_6454:-:*:*:*:*:*:*:*,Cisco UCS 6454,"['CVE-2020-3119', 'CVE-2020-3120', 'CVE-2020-3167', 'CVE-2020-3171', 'CVE-2020-3173', 'CVE-2020-3415', 'CVE-2020-3504', 'CVE-2020-3517', 'CVE-2021-1368', 'CVE-2021-1387', 'CVE-2021-34714', 'CVE-2022-20624', 'CVE-2022-20625']",2022-03-20T00:38Z
+3,cpe:2.3:h:cisco:ucs_6454_fabric_interconnect:-:*:*:*:*:*:*:*,Cisco UCS 6454 Fabric Interconnect,['CVE-2019-1966'],2022-03-20T00:38Z
+4,cpe:2.3:o:cisco:ucs_6454_firmware:4.0:*:*:*:*:*:*:*,Cisco UCS 6454 Firmware 4.0,[''],2022-03-20T00:38Z
+5,cpe:2.3:o:cisco:ucs_6454_firmware:4.0\(4h\):*:*:*:*:*:*:*,Cisco UCS 6454 Firmware 4.0(4h),[''],2022-03-20T00:38Z
+6,cpe:2.3:o:cisco:ucs_6454_firmware:4.1:*:*:*:*:*:*:*,Cisco UCS 6454 Firmware 4.1,[''],2022-03-20T00:38Z
+7,cpe:2.3:o:cisco:ucs_6454_firmware:4.1\(1c\):*:*:*:*:*:*:*,Cisco UCS 6454 Firmware 4.1(1c),[''],2022-03-20T00:38Z
+8,cpe:2.3:h:cisco:ucs_b200:-:*:*:*:*:*:*:*,Cisco UCS B200,[''],2022-03-20T00:38Z
+9,cpe:2.3:h:cisco:ucs_b200_m5:-:*:*:*:*:*:*:*,Cisco UCS B200 M5,['CVE-2019-1857'],2022-03-20T00:38Z

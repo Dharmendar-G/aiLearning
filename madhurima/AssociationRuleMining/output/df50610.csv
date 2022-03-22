@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:asustor:adm:2.5.4.rf42:*:*:*:*:*:*:*,ASUSTOR Data Master (ADM) 2.5.4.RF42,['CVE-2018-11510'],2022-03-18T23:59Z
+1,cpe:2.3:a:asustor:adm:2.6.0.r4r1:*:*:*:*:*:*:*,ASUSTOR Data Master (ADM) 2.6.0.R4R1,['CVE-2018-11510'],2022-03-18T23:59Z
+2,cpe:2.3:a:asustor:adm:2.6.2.r6l2:*:*:*:*:*:*:*,ASUSTOR Data Master (ADM) 2.6.2.R6L2,['CVE-2018-11510'],2022-03-18T23:59Z
+3,cpe:2.3:a:asustor:adm:2.6.3.r713:*:*:*:*:*:*:*,ASUSTOR Data Master (ADM) 2.6.3.R713,['CVE-2018-11510'],2022-03-18T23:59Z
+4,cpe:2.3:a:asustor:adm:2.7.1.rft5:*:*:*:*:*:*:*,ASUSTOR Data Master (ADM) 2.7.1.RFT5,['CVE-2018-11510'],2022-03-18T23:59Z
+5,cpe:2.3:a:asustor:adm:2.7.2.rhi1:*:*:*:*:*:*:*,ASUSTOR Data Master (ADM) 2.7.2.RHI1,['CVE-2018-11510'],2022-03-18T23:59Z
+6,cpe:2.3:a:asustor:adm:2.7.3.rhq3:*:*:*:*:*:*:*,ASUSTOR Data Master (ADM) 2.7.3.RHQ3,['CVE-2018-11510'],2022-03-18T23:59Z
+7,cpe:2.3:a:asustor:adm:2.7.3.ri21:*:*:*:*:*:*:*,ASUSTOR Data Master (ADM) 2.7.3.RI21,['CVE-2018-11510'],2022-03-18T23:59Z
+8,cpe:2.3:a:asustor:adm:3.0.0.r8n2:*:*:*:*:*:*:*,ASUSTOR Data Master (ADM) 3.0.0.R8N2,['CVE-2018-11510'],2022-03-18T23:59Z
+9,cpe:2.3:a:asustor:adm:3.0.1.r9j2:*:*:*:*:*:*:*,ASUSTOR Data Master (ADM) 3.0.1.R9J2,['CVE-2018-11510'],2022-03-18T23:59Z

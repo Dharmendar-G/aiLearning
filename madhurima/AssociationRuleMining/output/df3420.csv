@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:a10networks:advanced_core_operating_system:4.0.1:p3:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) 4.0.1 Patch 3,['CVE-2020-24384'],2022-03-18T10:21Z
+1,cpe:2.3:o:a10networks:advanced_core_operating_system:4.1.0:-:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) 4.1.0,"['CVE-2018-5390', 'CVE-2020-24384']",2022-03-18T10:22Z
+2,cpe:2.3:o:a10networks:advanced_core_operating_system:4.1.0:p11:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) 4.1.0 Patch 11,['CVE-2018-5390'],2022-03-18T10:22Z
+3,cpe:2.3:o:a10networks:advanced_core_operating_system:4.1.0:p13:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) 4.1.0 Patch 13,"['CVE-2018-5390', 'CVE-2020-24384']",2022-03-18T10:22Z
+4,cpe:2.3:o:a10networks:advanced_core_operating_system:4.1.1:-:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) 4.1.1,['CVE-2020-24384'],2022-03-18T10:22Z
+5,cpe:2.3:o:a10networks:advanced_core_operating_system:4.1.1:p13:sp1:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) 4.1.1 Patch 13 SP1,['CVE-2020-24384'],2022-03-18T10:22Z
+6,cpe:2.3:o:a10networks:advanced_core_operating_system:4.1.1:p8:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) 4.1.1 Patch 8,['CVE-2018-5390'],2022-03-18T10:22Z
+7,cpe:2.3:o:a10networks:advanced_core_operating_system:4.1.2:-:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) 4.1.2,"['CVE-2018-5390', 'CVE-2020-24384']",2022-03-18T10:22Z
+8,cpe:2.3:o:a10networks:advanced_core_operating_system:4.1.2:p4:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) 4.1.2 Patch 4,['CVE-2018-5390'],2022-03-18T10:22Z
+9,cpe:2.3:o:a10networks:advanced_core_operating_system:4.1.2:p5:sp1:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) 4.1.2 Patch 5 SP1,"['CVE-2018-5390', 'CVE-2020-24384']",2022-03-18T10:22Z

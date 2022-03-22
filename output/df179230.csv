@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:emc_sourceone:7.2:sp7:*:*:*:*:*:*,Dell EMC SourceOne 7.2 Service Pack 7,['CVE-2021-21515'],2022-03-20T12:26Z
+1,cpe:2.3:a:dell:emc_sourceone:7.2:sp8:*:*:*:*:*:*,Dell EMC SourceOne 7.2 Service Pack 8,['CVE-2021-21515'],2022-03-20T12:26Z
+2,cpe:2.3:a:dell:emc_sourceone:7.2:sp9:*:*:*:*:*:*,Dell EMC SourceOne 7.2 Service Pack 9,['CVE-2021-21515'],2022-03-20T12:27Z
+3,cpe:2.3:a:dell:emc_srs_policy_manager:6.6:*:*:*:*:*:*:*,Dell EMC SRS Policy Manager 6.6,['CVE-2021-21517'],2022-03-20T12:27Z
+4,cpe:2.3:a:dell:emc_srs_policy_manager:6.8.3:*:*:*:*:*:*:*,Dell EMC SRS Policy Manager 6.8.3,['CVE-2021-21517'],2022-03-20T12:27Z
+5,cpe:2.3:a:dell:emc_srs_policy_manager:6.9.0:*:*:*:*:*:*:*,Dell EMC SRS Policy Manager 6.9.0,['CVE-2021-21517'],2022-03-20T12:27Z
+6,cpe:2.3:a:dell:emc_storage_monitoring_and_reporting:4.0.2:*:*:*:*:*:*:*,Dell EMC Storage Monitoring and Reporting 4.0.2,"['CVE-2017-8007', 'CVE-2017-8011', 'CVE-2017-8012']",2022-03-20T12:27Z
+7,cpe:2.3:a:dell:emc_storage_monitoring_and_reporting:4.3.1:*:*:*:*:*:*:*,Dell EMC Storage Monitoring And Reporting 4.3.1,"['CVE-2017-8007', 'CVE-2017-8012', 'CVE-2019-18580']",2022-03-20T12:27Z
+8,cpe:2.3:a:dell:emc_supportassist_enterprise:1.1:*:*:*:*:*:*:*,Dell EMC SupportAssist Enterprise 1.1,['CVE-2018-1214'],2022-03-20T12:27Z
+9,cpe:2.3:a:dell:emc_unisphere:1.0:*:*:*:*:vmax:*:*,Dell EMC Unisphere 1.0 for VMAX,"['CVE-2013-3287', 'CVE-2016-0889', 'CVE-2017-14375']",2022-03-20T12:27Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:wyse_management_suite:3.3.1:*:*:*:*:*:*:*,Dell Wyse Management Suite 3.3.1,"['CVE-2021-36336', 'CVE-2021-36337']",2022-03-20T13:14Z
+1,cpe:2.3:h:dell:wyse_p25:-:*:*:*:*:*:*:*,Dell Wyse P25,[''],2022-03-20T13:14Z
+2,cpe:2.3:a:dell:wyse_thinlinux:2.0:*:*:*:*:*:*:*,Dell Wyse ThinLinux 2.0,['CVE-2018-15781'],2022-03-20T13:14Z
+3,cpe:2.3:a:dell:wyse_thinlinux:2.1.0.01:*:*:*:*:*:*:*,Dell Wyse ThinLinux 2.1.0.01,[''],2022-03-20T13:14Z
+4,cpe:2.3:a:dell:wyse_thinlinux_hagent:5.4.55_00.10:*:*:*:*:*:*:*,Dell Wyse ThinLinux HAgent 5.4.55 00.10,[''],2022-03-20T13:14Z
+5,cpe:2.3:o:dell:wyse_thinos:8.6:*:*:*:*:*:*:*,Dell Wyse ThinOS 8.6,"['CVE-2020-29491', 'CVE-2020-29492']",2022-03-20T13:14Z
+6,cpe:2.3:o:dell:wyse_thinos:8.6:-:*:*:*:*:*:*,Dell Wyse ThinOS 8.6,"['CVE-2020-29491', 'CVE-2020-29492', 'CVE-2021-21532']",2022-03-20T13:14Z
+7,cpe:2.3:o:dell:wyse_thinos:8.6:maintenance_release9:*:*:*:*:*:*,Dell Wyse ThinOS 8.6 Maintenance Release 9,"['CVE-2020-29491', 'CVE-2020-29492']",2022-03-20T13:14Z
+8,cpe:2.3:o:dell:wyse_thinos:8.6_013:*:*:*:*:*:*:*,Dell Wyse ThinOS 8.6 013,[''],2022-03-20T13:14Z
+9,cpe:2.3:o:dell:wyse_thinos:8.6_015:*:*:*:*:*:*:*,Dell Wyse ThinOS 8.6 015,[''],2022-03-20T13:14Z

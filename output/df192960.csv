@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dojotoolkit:dojo:1.14:*:*:*:*:*:*:*,Dojotoolkit Dojo 1.14,[''],2022-03-20T16:51Z
+1,cpe:2.3:a:dokan_project:dokan:0.6.0:*:*:*:*:*:*:*,Dokan Project Dokan 0.6.0,[''],2022-03-20T16:51Z
+2,cpe:2.3:a:dokan_project:dokan:0.7.0:*:*:*:*:*:*:*,Dokan Project Dokan 0.7.0,[''],2022-03-20T16:51Z
+3,cpe:2.3:a:dokan_project:dokan:0.7.1:*:*:*:*:*:*:*,Dokan Project Dokan 0.7.1,[''],2022-03-20T16:51Z
+4,cpe:2.3:a:dokan_project:dokan:0.7.2:*:*:*:*:*:*:*,Dokan Project Dokan 0.7.2,[''],2022-03-20T16:51Z
+5,cpe:2.3:a:dokan_project:dokan:0.7.4:*:*:*:*:*:*:*,Dokan Project Dokan 0.7.4,[''],2022-03-20T16:51Z
+6,cpe:2.3:a:dokan_project:dokan:0.8.0:*:*:*:*:*:*:*,Dokan Project Dokan 0.8.0,[''],2022-03-20T16:51Z
+7,cpe:2.3:a:dokan_project:dokan:1.0.0.5000:*:*:*:*:*:*:*,Dokan Project Dokan 1.0.0.5000,['CVE-2018-5410'],2022-03-20T16:51Z
+8,cpe:2.3:a:dokan_project:dokan:1.0.1.1000:*:*:*:*:*:*:*,Dokan Project Dokan 1.0.1.1000,['CVE-2018-5410'],2022-03-20T16:51Z
+9,cpe:2.3:a:dokan_project:dokan:1.0.2.1000:*:*:*:*:*:*:*,Dokan Project Dokan 1.0.2.1000,['CVE-2018-5410'],2022-03-20T16:51Z

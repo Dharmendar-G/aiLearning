@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:color_laserjet_enterprise_mfp_m682dh_firmware:-:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise Mfp M682dh Firmware -,['CVE-2018-5923'],2022-03-21T13:03Z
+1,cpe:2.3:o:hp:color_laserjet_enterprise_mfp_m682dh_firmware:2406087_000017:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise Mfp M682dh Firmware 2406087 000017,[''],2022-03-21T13:03Z
+2,cpe:2.3:h:hp:color_laserjet_m575dn:-:*:*:*:*:*:*:*,HP Color LaserJet M575dn,"['CVE-2013-4828', 'CVE-2013-4829']",2022-03-21T13:03Z
+3,cpe:2.3:h:hp:color_laserjet_m575f:-:*:*:*:*:*:*:*,HP Color LaserJet M575f,"['CVE-2013-4828', 'CVE-2013-4829']",2022-03-21T13:03Z
+4,cpe:2.3:h:hp:color_laserjet_m680:-:*:*:*:*:*:*:*,HP Color LaserJet M680,['CVE-2018-5923'],2022-03-21T13:03Z
+5,cpe:2.3:o:hp:color_laserjet_m680_firmware:-:*:*:*:*:*:*:*,Hp Color Laserjet M680 Firmware -,['CVE-2018-5923'],2022-03-21T13:03Z
+6,cpe:2.3:o:hp:color_laserjet_m680_firmware:2308974_579771:*:*:*:*:*:*:*,Hp Color Laserjet M680 Firmware 2308974 579771,['CVE-2018-5923'],2022-03-21T13:03Z
+7,cpe:2.3:o:hp:color_laserjet_m680_firmware:2406048_029633:*:*:*:*:*:*:*,Hp Color Laserjet M680 Firmware 2406048 029633,[''],2022-03-21T13:03Z
+8,cpe:2.3:h:hp:color_laserjet_m775dn:-:*:*:*:*:*:*:*,HP Color LaserJet M775dn,"['CVE-2013-4828', 'CVE-2013-4829']",2022-03-21T13:03Z
+9,cpe:2.3:h:hp:color_laserjet_m775f:-:*:*:*:*:*:*:*,HP Color LaserJet M775f,"['CVE-2013-4828', 'CVE-2013-4829']",2022-03-21T13:03Z

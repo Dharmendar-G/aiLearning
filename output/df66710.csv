@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:axtls_project:axtls:2.1.2:*:*:*:*:*:*:*,axTLS Project axTLS 2.1.2,"['CVE-2018-16149', 'CVE-2018-16150', 'CVE-2018-16253', 'CVE-2019-10013', 'CVE-2019-8981', 'CVE-2019-9689']",2022-03-19T04:58Z
+1,cpe:2.3:a:axtls_project:axtls:2.1.3:*:*:*:*:*:*:*,axTLS Project axTLS 2.1.3,"['CVE-2018-16149', 'CVE-2018-16150', 'CVE-2018-16253', 'CVE-2019-10013', 'CVE-2019-8981', 'CVE-2019-9689']",2022-03-19T04:58Z
+2,cpe:2.3:a:axtls_project:axtls:2.1.4:*:*:*:*:*:*:*,axTLS Project axTLS 2.1.4,"['CVE-2019-10013', 'CVE-2019-8981', 'CVE-2019-9689']",2022-03-19T04:58Z
+3,cpe:2.3:a:axtls_project:axtls:2.1.5:*:*:*:*:*:*:*,axTLS Project axTLS 2.1.5,"['CVE-2019-10013', 'CVE-2019-9689']",2022-03-19T04:58Z
+4,cpe:2.3:a:axublog:axublog:1.1.0:*:*:*:*:*:*:*,Axublog 1.1.0,['CVE-2018-10740'],2022-03-19T04:58Z
+5,cpe:2.3:a:axway:email_firewall:-:*:*:*:*:*:*:*,Axway Email Firewall,['CVE-2012-6452'],2022-03-19T04:58Z
+6,cpe:2.3:a:axway:file_tranfer_direct:2.7.1:*:*:*:*:*:*:*,Axway File Tranfer Direct 2.7.1,['CVE-2019-6500'],2022-03-19T04:58Z
+7,cpe:2.3:a:axway:secure_messenger:6.3.2:*:*:*:*:*:*:*,Axway Secure Messenger 6.3.2,['CVE-2012-6452'],2022-03-19T04:58Z
+8,cpe:2.3:a:axway:secure_messenger:6.5.0:*:*:*:*:*:*:*,Axway Secure Messenger 6.5.0,['CVE-2012-6452'],2022-03-19T04:58Z
+9,cpe:2.3:a:axway:securetransport:5.0.0:*:*:*:*:*:*:*,Axway SecureTransport 5.0.0,['CVE-2019-14277'],2022-03-19T04:58Z

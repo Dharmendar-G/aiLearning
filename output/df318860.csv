@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:310_firmware:nexus_01_12_00.10:*:*:*:*:*:*:*,HP 310 Firmware NEXUS 01 12 00.10,['CVE-2017-2747'],2022-03-21T12:47Z
+1,cpe:2.3:h:hp:310s-14isk:-:*:*:*:*:*:*:*,HP 310S-14ISK,['CVE-2018-9069'],2022-03-21T12:47Z
+2,cpe:2.3:o:hp:310s-14isk_firmware:-:*:*:*:*:*:*:*,HP 310S-14ISK Firmware,['CVE-2018-9069'],2022-03-21T12:47Z
+3,cpe:2.3:o:hp:310s-14isk_firmware:1.15:*:*:*:*:*:*:*,HP 310S-14ISK Firmware 1.15,[''],2022-03-21T12:47Z
+4,cpe:2.3:h:hp:315:-:*:*:*:*:*:*:*,HP 315,['CVE-2017-2747'],2022-03-21T12:47Z
+5,cpe:2.3:o:hp:315_firmware:-:*:*:*:*:*:*:*,HP 315 Firmware,['CVE-2017-2747'],2022-03-21T12:47Z
+6,cpe:2.3:o:hp:315_firmware:nexus_03_12_00.14:*:*:*:*:*:*:*,HP 315 Firmware NEXUS 03 12 00.14,['CVE-2017-2747'],2022-03-21T12:47Z
+7,cpe:2.3:h:hp:320-15ikbra:-:*:*:*:*:*:*:*,HP 320-1IKBRA,['CVE-2018-9069'],2022-03-21T12:48Z
+8,cpe:2.3:o:hp:320-15ikbra_firmware:-:*:*:*:*:*:*:*,HP 320-15IKBRA Firmware,['CVE-2018-9069'],2022-03-21T12:48Z
+9,cpe:2.3:o:hp:320-15ikbra_firmware:6jcn24ww:*:*:*:*:*:*:*,HP 320-15IKBRA Firmware 6JCN24WW,[''],2022-03-21T12:48Z

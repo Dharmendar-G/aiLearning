@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:packaged_contact_center_enterprise:10.0\(2\):*:*:*:*:*:*:*,Cisco Packaged Contact Center Enterprise 10.0(2),['CVE-2021-44228'],2022-03-19T23:38Z
+1,cpe:2.3:a:cisco:packaged_contact_center_enterprise:10.5\(1\):*:*:*:*:*:*:*,Cisco Packaged Contact Center Enterprise 10.5(1),['CVE-2021-44228'],2022-03-19T23:38Z
+2,cpe:2.3:a:cisco:packaged_contact_center_enterprise:10.5\(2\):*:*:*:*:*:*:*,Cisco Packaged Contact Center Enterprise 10.5(2),['CVE-2021-44228'],2022-03-19T23:38Z
+3,cpe:2.3:a:cisco:packaged_contact_center_enterprise:10.5\(3\):*:*:*:*:*:*:*,Cisco Packaged Contact Center Enterprise 10.5(3),['CVE-2021-44228'],2022-03-19T23:38Z
+4,cpe:2.3:a:cisco:packaged_contact_center_enterprise:11.0\(1\):*:*:*:*:*:*:*,Cisco Packaged Contact Center Enterprise 11.0(1),['CVE-2021-44228'],2022-03-19T23:38Z
+5,cpe:2.3:a:cisco:packaged_contact_center_enterprise:11.0\(2\):*:*:*:*:*:*:*,Cisco Packaged Contact Center Enterprise 11.0(2),['CVE-2021-44228'],2022-03-19T23:38Z
+6,cpe:2.3:a:cisco:packaged_contact_center_enterprise:11.0\(3\):*:*:*:*:*:*:*,Cisco Packaged Contact Center Enterprise 11.0(3),['CVE-2021-44228'],2022-03-19T23:38Z
+7,cpe:2.3:a:cisco:packaged_contact_center_enterprise:11.5\(1\):*:*:*:*:*:*:*,Cisco Packaged Contact Center Enterprise 11.5(1),['CVE-2021-44228'],2022-03-19T23:38Z
+8,cpe:2.3:a:cisco:packaged_contact_center_enterprise:11.6\(1\):*:*:*:*:*:*:*,Cisco Packaged Contact Center Enterprise 11.6(1),"['CVE-2018-0444', 'CVE-2018-0445', 'CVE-2021-44228']",2022-03-19T23:38Z
+9,cpe:2.3:a:cisco:packaged_contact_center_enterprise:12.0\(1\):*:*:*:*:*:*:*,Cisco Packaged Contact Center Enterprise 12.0(1),[''],2022-03-19T23:38Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:color_laserjet_managed_mfp_e87650_firmware:2407163_000224:*:*:*:*:*:*:*,HP Color Laserjet Managed Mfp E87650 Firmware 2407163 000224,[''],2022-03-21T13:06Z
+1,cpe:2.3:h:hp:color_laserjet_managed_mfp_e87660:-:*:*:*:*:*:*:*,HP Color Laserjet Managed MFP E87660,['CVE-2019-6318'],2022-03-21T13:06Z
+2,cpe:2.3:o:hp:color_laserjet_managed_mfp_e87660_firmware:-:*:*:*:*:*:*:*,HP Color Laserjet Managed Mfp E87660 Firmware -,['CVE-2019-6318'],2022-03-21T13:06Z
+3,cpe:2.3:o:hp:color_laserjet_managed_mfp_e87660_firmware:2407163_000224:*:*:*:*:*:*:*,HP Color Laserjet Managed Mfp E87660 Firmware 2407163 000224,[''],2022-03-21T13:06Z
+4,cpe:2.3:h:hp:color_laserjet_managed_mfp_e87660dn:-:*:*:*:*:*:*:*,HP Color Laserjet Managed MFP E87660DN,['CVE-2018-5923'],2022-03-21T13:06Z
+5,cpe:2.3:o:hp:color_laserjet_managed_mfp_e87660dn_firmware:-:*:*:*:*:*:*:*,Hp Color Laserjet Managed Mfp E87660dn Firmware -,['CVE-2018-5923'],2022-03-21T13:06Z
+6,cpe:2.3:o:hp:color_laserjet_managed_mfp_e87660dn_firmware:2406048_029615:*:*:*:*:*:*:*,Hp Color Laserjet Managed Mfp E87660dn Firmware 2406048 029615,[''],2022-03-21T13:06Z
+7,cpe:2.3:h:hp:color_laserjet_managed_mfp_m577:-:*:*:*:*:*:*:*,HP Color Laserjet Managed MFP M577,['CVE-2019-6318'],2022-03-21T13:06Z
+8,cpe:2.3:o:hp:color_laserjet_managed_mfp_m577_firmware:-:*:*:*:*:*:*:*,HP Color Laserjet Managed Mfp M577 Firmware -,['CVE-2019-6318'],2022-03-21T13:06Z
+9,cpe:2.3:o:hp:color_laserjet_managed_mfp_m577_firmware:2309010_581408:*:*:*:*:*:*:*,HP Color Laserjet Managed Mfp M577 Firmware 2309010 581408,['CVE-2019-6318'],2022-03-21T13:06Z

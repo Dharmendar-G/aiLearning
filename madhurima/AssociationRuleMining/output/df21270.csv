@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:altiris:software_management:6.2.4270:*:*:*:*:*:*:*,Altiris Software Management 6.2.4270,[''],2022-03-18T15:16Z
+1,cpe:2.3:a:altiris:software_management_language_pack:6.2.4274:*:*:*:*:*:*:*,Altiris Software Management Language Pack 6.2.4274,[''],2022-03-18T15:16Z
+2,cpe:2.3:a:altiris:software_virtualization_agent:2.1.2095:*:*:*:*:*:*:*,Altiris Software Virtualization Agent 2.1.2095,[''],2022-03-18T15:16Z
+3,cpe:2.3:a:altiris:software_virtualization_solution:2.1.2095:*:*:*:*:*:*:*,Altiris Software Virtualization Solution 2.1.2095,[''],2022-03-18T15:16Z
+4,cpe:2.3:a:altiris:software_virtualization_solution:2.1.3062:*:*:*:*:*:*:*,Altiris Software Virtualization Solution 2.1.3062,[''],2022-03-18T15:16Z
+5,cpe:2.3:a:altiris:software_virtualization_solution_documentation:2.1.1009:*:*:*:*:*:*:*,Altiris Software Virtualization Solution Documentation 2.1.1009,[''],2022-03-18T15:16Z
+6,cpe:2.3:a:altiris:svs_task:6.3.0:*:*:*:*:*:*:*,Altiris Svs Task 6.3.0,[''],2022-03-18T15:16Z
+7,cpe:2.3:a:altiris:svs_task:6.4.0:*:*:*:*:*:*:*,Altiris Svs Task 6.4.0,[''],2022-03-18T15:16Z
+8,cpe:2.3:a:altiris:svs_task_server_plugin_language_pack:6.3.0:*:*:*:*:*:*:*,Altiris Svs Task Server Plugin Language Pack 6.3.0,[''],2022-03-18T15:16Z
+9,cpe:2.3:a:altiris:svs_task_server_plugin_language_pack:6.4.0:*:*:*:*:*:*:*,Altiris Svs Task Server Plugin Language Pack 6.4.0,[''],2022-03-18T15:16Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hex:hex_core:0.8.2:*:*:*:*:*:*:*,Hex Hex Core 0.8.2,[''],2022-03-21T10:51Z
+1,cpe:2.3:h:hexa:chromebook_pi:-:*:*:*:*:*:*:*,HEXA Chromebook Pi,['CVE-2017-15361'],2022-03-21T10:51Z
+2,cpe:2.3:a:hexagon:erdas_apollo_ecwp:13.00.0000:-:*:*:*:chrome:*:*,hexagon Intergraph ERDAS APOLLO ECWP plugin for chrome 13.00.0000,['CVE-2013-0728'],2022-03-21T10:51Z
+3,cpe:2.3:a:hexagon:erdas_apollo_ecwp:13.00.0000:-:*:*:*:firefox:*:*,hexagon Intergraph ERDAS APOLLO ECWP plugin for firefox 13.00.0000,['CVE-2013-0728'],2022-03-21T10:51Z
+4,cpe:2.3:a:hexagon:erdas_apollo_ecwp:13.00.0000:-:*:*:*:internet_explorer:*:*,hexagon Intergraph ERDAS APOLLO ECWP plugin for internet explorer 13.00.0000,['CVE-2013-0728'],2022-03-21T10:51Z
+5,cpe:2.3:a:hexagon:erdas_apollo_ecwp:13.00.0001:-:*:*:*:chrome:*:*,hexagon Intergraph ERDAS APOLLO ECWP plugin for chrome 13.00.0001,[''],2022-03-21T10:51Z
+6,cpe:2.3:a:hexagon:erdas_apollo_ecwp:13.00.0001:-:*:*:*:firefox:*:*,hexagon Intergraph ERDAS APOLLO ECWP plugin for firefox 13.00.0001,[''],2022-03-21T10:52Z
+7,cpe:2.3:a:hexagon:erdas_apollo_ecwp:13.00.0001:-:*:*:*:internet_explorer:*:*,hexagon Intergraph ERDAS APOLLO ECWP plugin for internet explorer 13.00.0001,[''],2022-03-21T10:51Z
+8,cpe:2.3:a:hexagon:erdas_er_viewer:11.04:*:*:*:*:*:*:*,hexagon Intergraph ERDAS ER Viewer 11.04,"['CVE-2013-0726', 'CVE-2013-3482', 'CVE-2013-3483']",2022-03-21T10:51Z
+9,cpe:2.3:a:hexagon:erdas_er_viewer:13.00.0001:*:*:*:*:*:*:*,hexagon Intergraph ERDAS ER Viewer 13.00.0001,"['CVE-2013-3482', 'CVE-2013-3483']",2022-03-21T10:52Z

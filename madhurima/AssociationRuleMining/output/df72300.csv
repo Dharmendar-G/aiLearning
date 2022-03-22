@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:beakerbrowser:beaker:1.5.2:*:*:*:*:python:*:*,Beaker Browser 1.5.2 for Python,['CVE-2013-7489'],2022-03-19T06:48Z
+1,cpe:2.3:a:beakerbrowser:beaker:1.5.3:*:*:*:*:python:*:*,Beaker Browser 1.5.3 for Python,['CVE-2013-7489'],2022-03-19T06:48Z
+2,cpe:2.3:a:beakerbrowser:beaker:1.5.4:*:*:*:*:python:*:*,Beaker Browser 1.5.4 for Python,['CVE-2013-7489'],2022-03-19T06:48Z
+3,cpe:2.3:a:beakerbrowser:beaker:1.6:*:*:*:*:python:*:*,Beaker Browser 1.6 for Python,['CVE-2013-7489'],2022-03-19T06:48Z
+4,cpe:2.3:a:beakerbrowser:beaker:1.6.1:*:*:*:*:python:*:*,Beaker Browser 1.6.1 for Python,['CVE-2013-7489'],2022-03-19T06:48Z
+5,cpe:2.3:a:beakerbrowser:beaker:1.6.2:*:*:*:*:python:*:*,Beaker Browser 1.6.2 for Python,['CVE-2013-7489'],2022-03-19T06:48Z
+6,cpe:2.3:a:beakerbrowser:beaker:1.6.3:*:*:*:*:python:*:*,Beaker Browser 1.6.3 for Python,['CVE-2013-7489'],2022-03-19T06:48Z
+7,cpe:2.3:a:beakerbrowser:beaker:1.6.4:*:*:*:*:python:*:*,Beaker Browser 1.6.4 for Python,['CVE-2013-7489'],2022-03-19T06:48Z
+8,cpe:2.3:a:beakerbrowser:beaker:1.6.5:*:*:*:*:python:*:*,Beaker Browser 1.6.5 for Python,['CVE-2013-7489'],2022-03-19T06:48Z
+9,cpe:2.3:a:beakerbrowser:beaker:1.8.0:*:*:*:*:python:*:*,Beaker Browser 1.8.0 for Python,['CVE-2013-7489'],2022-03-19T06:48Z

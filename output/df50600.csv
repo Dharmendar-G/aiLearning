@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:asus:zenfone_ar_firmware:-:*:*:*:*:*:*:*,Asus ZenFone AR Firmware,"['CVE-2019-15401', 'CVE-2019-15402', 'CVE-2019-15414']",2022-03-18T23:59Z
+1,cpe:2.3:h:asus:zenfone_live_\(l1\):-:*:*:*:*:*:*:*,Asus ZenFone Live (L1),['CVE-2019-15393'],2022-03-18T23:59Z
+2,cpe:2.3:o:asus:zenfone_live_\(l1\)_firmware:-:*:*:*:*:*:*:*,Asus ZenFone Live (L1) Firmware,['CVE-2019-15393'],2022-03-18T23:59Z
+3,cpe:2.3:h:asus:zenfone_max_4:-:*:*:*:*:*:*:*,Asus ZenFone Max 4,['CVE-2019-15397'],2022-03-18T23:59Z
+4,cpe:2.3:o:asus:zenfone_max_4_firmware:-:*:*:*:*:*:*:*,Asus ZenFone Max 4 Firmware,['CVE-2019-15397'],2022-03-18T23:59Z
+5,cpe:2.3:h:asus:zenfone_v_live:-:*:*:*:*:*:*:*,Asus ZenFone V Live,['CVE-2018-14993'],2022-03-18T23:59Z
+6,cpe:2.3:o:asus:zenfone_v_live_firmware:-:*:*:*:*:*:*:*,Asus Zenfone V Live Firmware -,['CVE-2018-14993'],2022-03-18T23:59Z
+7,cpe:2.3:h:asus:zenwifi_ax_\(xt8\):-:*:*:*:*:*:*:*,ASUS ZenWiFi AX (XT8),"['CVE-2021-3128', 'CVE-2021-41435', 'CVE-2021-41436']",2022-03-18T23:59Z
+8,cpe:2.3:h:asus:zenwifi_xd6:-:*:*:*:*:*:*:*,ASUS ZENWIFI XD6,"['CVE-2021-41435', 'CVE-2021-41436']",2022-03-18T23:59Z
+9,cpe:2.3:o:asus:zenwifi_xd6_firmware:-:*:*:*:*:*:*:*,ASUS ZENWIFI XD6 Firmware,"['CVE-2021-41435', 'CVE-2021-41436']",2022-03-18T23:59Z

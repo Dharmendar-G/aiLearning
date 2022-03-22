@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:broadcom:netiron_mlx_series_firmware:-:*:*:*:*:*:*:*,Broadcom NetIron MLX Series Firmware,[''],2022-03-19T12:27Z
+1,cpe:2.3:o:broadcom:netiron_os:5.8.00e:*:*:*:*:*:*:*,Broadcom NetIron OS 5.8.00e,[''],2022-03-19T12:27Z
+2,cpe:2.3:o:broadcom:netiron_os:5.9.00bd:*:*:*:*:*:*:*,Broadcom NetIron OS 5.9.00bd,[''],2022-03-19T12:27Z
+3,cpe:2.3:o:broadcom:netiron_os:6.0.00:*:*:*:*:*:*:*,Broadcom NetIron OS 6.0.00,[''],2022-03-19T12:27Z
+4,cpe:2.3:o:broadcom:netiron_os:6.0.00a:*:*:*:*:*:*:*,Broadcom NetIron OS 6.0.00a,[''],2022-03-19T12:27Z
+5,cpe:2.3:o:broadcom:netiron_xmr_series_firmware:-:*:*:*:*:*:*:*,Broadcom NetIron XMR Series Firmware,[''],2022-03-19T12:27Z
+6,cpe:2.3:a:broadcom:netmaster_file_transfer_management:12.2:*:*:*:*:*:*:*,Broadcom NetMaster File Transfer Management 12.2,['CVE-2022-23083'],2022-03-19T12:27Z
+7,cpe:2.3:a:broadcom:netmaster_network_management_for_tcp\/ip:12.2:*:*:*:*:*:*:*,Broadcom NetMaster Network Management For TCP/IP 12.2,['CVE-2022-23083'],2022-03-19T12:27Z
+8,cpe:2.3:a:broadcom:netviz_professional:4.0:*:*:*:*:*:*:*,Broadcom netViz Professional 4.0,[''],2022-03-19T12:27Z
+9,cpe:2.3:a:broadcom:netviz_viewer:6.5:*:*:*:*:*:*:*,Broadcom netViz Viewer 6.5,[''],2022-03-19T12:27Z

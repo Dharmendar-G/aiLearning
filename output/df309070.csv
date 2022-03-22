@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hcltech:hcl_nomad:1.0.2:*:*:*:*:android:*:*,HCL Technology HCL Nomad 1.0.2 for Android,['CVE-2020-4092'],2022-03-21T10:27Z
+1,cpe:2.3:a:hcltech:hcl_nomad:1.0.2:*:*:*:*:iphone_os:*:*,HCL Technology HCL Nomad 1.0.2 for iPhone OS,['CVE-2020-4092'],2022-03-21T10:27Z
+2,cpe:2.3:a:hcltech:hcl_nomad:1.0.3:*:*:*:*:android:*:*,HCL Technology HCL Nomad 1.0.3 for Android,['CVE-2020-4092'],2022-03-21T10:27Z
+3,cpe:2.3:a:hcltech:hcl_nomad:1.0.3:*:*:*:*:iphone_os:*:*,HCL Technology HCL Nomad 1.0.3 for iPhone OS,['CVE-2020-4092'],2022-03-21T10:27Z
+4,cpe:2.3:a:hcltech:hcl_nomad:1.0.4:*:*:*:*:android:*:*,HCL Technology HCL Nomad 1.0.4 for Android,['CVE-2020-4092'],2022-03-21T10:27Z
+5,cpe:2.3:a:hcltech:hcl_nomad:1.0.4:*:*:*:*:iphone_os:*:*,HCL Technology HCL Nomad 1.0.4 for iPhone OS,['CVE-2020-4092'],2022-03-21T10:27Z
+6,cpe:2.3:a:hcltech:hcl_nomad:1.0.5:*:*:*:*:android:*:*,HCL Technology HCL Nomad 1.0.5 for Android,['CVE-2020-4092'],2022-03-21T10:27Z
+7,cpe:2.3:a:hcltech:hcl_nomad:1.0.5:*:*:*:*:iphone_os:*:*,HCL Technology HCL Nomad 1.0.5 for iPhone OS,['CVE-2020-4092'],2022-03-21T10:27Z
+8,cpe:2.3:a:hcltech:hcl_nomad:1.0.6:*:*:*:*:iphone_os:*:*,HCL Technology HCL Nomad 1.0.6 for iPhone OS,['CVE-2020-4092'],2022-03-21T10:27Z
+9,cpe:2.3:a:hcltech:hcl_nomad:1.0.7:*:*:*:*:iphone_os:*:*,HCL Technology HCL Nomad 1.0.7 for iPhone OS,['CVE-2020-4092'],2022-03-21T10:27Z

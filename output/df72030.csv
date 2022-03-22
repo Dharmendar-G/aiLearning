@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bea:jrockit:-:*:*:*:*:*:*:*,BEA Systems JRockit,[''],2022-03-19T06:44Z
+1,cpe:2.3:a:bea:jrockit:1.4.2:r24.5:*:*:*:*:*:*,BEA Systems JRockit 1.4.2 R4.5,['CVE-2007-0425'],2022-03-19T06:44Z
+2,cpe:2.3:a:bea:jrockit_jdk:r28.1.3:*:*:*:*:*:*:*,Bea Jrockit Jdk R28.1.3,[''],2022-03-19T06:44Z
+3,cpe:2.3:a:bea:jrockit_jre:r27.6.3:*:*:*:*:*:*:*,Bea Jrockit Jre R27.6.3,[''],2022-03-19T06:44Z
+4,cpe:2.3:a:bea:jrockit_mission_control:3.1.0:*:*:*:*:*:*:*,Bea Jrockit Mission Control 3.1.0,[''],2022-03-19T06:44Z
+5,cpe:2.3:a:bea:liquid_data:-:*:*:*:*:*:*:*,BEA Systems Liquid Data,[''],2022-03-19T06:44Z
+6,cpe:2.3:a:bea:liquid_data:1.1:*:*:*:*:*:*:*,BEA Systems Liquid Data 1.1,['CVE-2003-0733'],2022-03-19T06:44Z
+7,cpe:2.3:a:bea:logging_utilities:6.1.0.0:*:*:*:*:*:*:*,Bea Logging Utilities 6.1.0.0,[''],2022-03-19T06:44Z
+8,cpe:2.3:a:bea:tuxedo:-:*:*:*:*:*:*:*,BEA Systems Tuxedo,[''],2022-03-19T06:44Z
+9,cpe:2.3:a:bea:tuxedo:6.3:*:*:*:*:*:*:*,BEA Systems Tuxedo 6.3,"['CVE-2003-0621', 'CVE-2003-0622', 'CVE-2003-0623']",2022-03-19T06:44Z

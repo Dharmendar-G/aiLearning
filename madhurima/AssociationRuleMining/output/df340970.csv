@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:cloud_private:2.1.0.1:*:*:*:*:*:*:*,IBM Cloud Private 2.1.0.1,"['CVE-2019-4117', 'CVE-2019-4119', 'CVE-2019-4120', 'CVE-2019-4142', 'CVE-2019-4239', 'CVE-2019-4284']",2022-03-21T20:03Z
+1,cpe:2.3:a:ibm:cloud_private:2.1.0.2:*:*:*:*:*:*:*,IBM Cloud Private 2.1.0.2,"['CVE-2019-4117', 'CVE-2019-4119', 'CVE-2019-4120', 'CVE-2019-4142', 'CVE-2019-4239', 'CVE-2019-4284']",2022-03-21T20:03Z
+2,cpe:2.3:a:ibm:cloud_private:2.1.0.3:*:*:*:*:*:*:*,IBM Cloud Private 2.1.0.3,"['CVE-2019-4117', 'CVE-2019-4119', 'CVE-2019-4120', 'CVE-2019-4142', 'CVE-2019-4239', 'CVE-2019-4284']",2022-03-21T20:03Z
+3,cpe:2.3:a:ibm:cloud_private:2.2.1:*:*:*:*:*:*:*,IBM Cloud Private 2.2.1,['CVE-2019-4239'],2022-03-21T20:03Z
+4,cpe:2.3:a:ibm:cloud_private:2.2.2:*:*:*:*:*:*:*,IBM Cloud Private 2.2.2,['CVE-2019-4239'],2022-03-21T20:03Z
+5,cpe:2.3:a:ibm:cloud_private:2.2.3:*:*:*:*:*:*:*,IBM Cloud Private 2.2.3,['CVE-2019-4239'],2022-03-21T20:03Z
+6,cpe:2.3:a:ibm:cloud_private:2.3.1:*:*:*:*:*:*:*,IBM Cloud Private 2.3.1,['CVE-2019-4239'],2022-03-21T20:03Z
+7,cpe:2.3:a:ibm:cloud_private:2.3.2:*:*:*:*:*:*:*,IBM Cloud Private 2.3.2,['CVE-2019-4239'],2022-03-21T20:03Z
+8,cpe:2.3:a:ibm:cloud_private:3.0.0:*:*:*:*:*:*:*,IBM Cloud Private 3.0.0,['CVE-2019-4239'],2022-03-21T20:03Z
+9,cpe:2.3:a:ibm:cloud_private:3.0.1:*:*:*:*:*:*:*,IBM Cloud Private 3.0.1,['CVE-2019-4239'],2022-03-21T20:03Z

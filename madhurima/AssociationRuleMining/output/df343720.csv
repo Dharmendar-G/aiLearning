@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:infosphere_master_data_management_server_for_product_information_management:10.1.0.2:*:*:*:*:*:*:*,IBM InfoSphere Master Data Management Server for Product Information Management 10.1.0.2,"['CVE-2014-0966', 'CVE-2014-0969', 'CVE-2014-3063']",2022-03-21T20:50Z
+1,cpe:2.3:a:ibm:infosphere_master_data_management_server_for_product_information_management:11.0:*:*:*:*:*:*:*,IBM InfoSphere Master Data Management Server for Product Information Management 11.0,"['CVE-2014-0966', 'CVE-2014-0969', 'CVE-2014-3063']",2022-03-21T20:50Z
+2,cpe:2.3:a:ibm:infosphere_master_data_management_server_for_product_information_management:11.3:*:*:*:*:*:*:*,IBM InfoSphere Master Data Management Server for Product Information Management 11.3,"['CVE-2014-0966', 'CVE-2014-0969', 'CVE-2014-3063']",2022-03-21T20:50Z
+3,cpe:2.3:a:ibm:infosphere_metadata_asset_manager:11.5:*:*:*:*:*:*:*,IBM InfoSphere Metadata Asset Manager 11.5,['CVE-2018-1994'],2022-03-21T20:50Z
+4,cpe:2.3:a:ibm:infosphere_metadata_asset_manager:11.7:*:*:*:*:*:*:*,IBM InfoSphere Metadata Asset Manager 11.7,"['CVE-2018-1994', 'CVE-2020-4632']",2022-03-21T20:50Z
+5,cpe:2.3:a:ibm:infosphere_metadata_workbench:8.1:*:*:*:*:*:*:*,IBM InfoSphere Metadata Workbench (MWB) 8.1,"['CVE-2012-0203', 'CVE-2012-0205']",2022-03-21T20:50Z
+6,cpe:2.3:a:ibm:infosphere_metadata_workbench:8.1.1:*:*:*:*:*:*:*,IBM InfoSphere Metadata Workbench (MWB) 8.1.1,"['CVE-2012-0203', 'CVE-2012-0205']",2022-03-21T20:50Z
+7,cpe:2.3:a:ibm:infosphere_metadata_workbench:8.1.2:*:*:*:*:*:*:*,IBM InfoSphere Metadata Workbench (MWB) 8.1.2,"['CVE-2012-0203', 'CVE-2012-0205']",2022-03-21T20:50Z
+8,cpe:2.3:a:ibm:infosphere_metadata_workbench:8.5:*:*:*:*:*:*:*,IBM InfoSphere Metadata Workbench (MWB) 8.5,"['CVE-2012-0203', 'CVE-2012-0205']",2022-03-21T20:50Z
+9,cpe:2.3:a:ibm:infosphere_metadata_workbench:8.7:*:*:*:*:*:*:*,IBM InfoSphere Metadata Workbench (MWB) 8.7,"['CVE-2012-0203', 'CVE-2012-0205']",2022-03-21T20:50Z

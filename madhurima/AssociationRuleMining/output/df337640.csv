@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:victoria-al00a_firmware:victoria-al00ac00b172:*:*:*:*:*:*:*,Huawei Victoria-al00a Firmware Victoria-al00ac00b172,['CVE-2017-8160'],2022-03-21T19:05Z
+1,cpe:2.3:h:huawei:victoria-tl00a:-:*:*:*:*:*:*:*,Huawei Victoria-tl00a -,['CVE-2017-8160'],2022-03-21T19:05Z
+2,cpe:2.3:o:huawei:victoria-tl00a_firmware:-:*:*:*:*:*:*:*,Huawei Victoria-tl00a Firmware -,[''],2022-03-21T19:05Z
+3,cpe:2.3:o:huawei:victoria-tl00a_firmware:victoria-tl00ac00b123:*:*:*:*:*:*:*,Huawei Victoria-tl00a Firmware Victoria-tl00ac00b123,['CVE-2017-8160'],2022-03-21T19:05Z
+4,cpe:2.3:o:huawei:victoria-tl00a_firmware:victoria-tl00ac01b167:*:*:*:*:*:*:*,Huawei Victoria-tl00a Firmware Victoria-tl00ac01b167,['CVE-2017-8160'],2022-03-21T19:05Z
+5,cpe:2.3:h:huawei:vie-l09:-:*:*:*:*:*:*:*,Huawei VIE-L09,"['CVE-2017-8164', 'CVE-2017-8169', 'CVE-2017-8170']",2022-03-21T19:05Z
+6,cpe:2.3:o:huawei:vie-l09_firmware:vie-l09c02b131:*:*:*:*:*:*:*,Huawei VIE-L09 Firmware VIE-L09C02B131,"['CVE-2017-8164', 'CVE-2017-8169', 'CVE-2017-8170']",2022-03-21T19:05Z
+7,cpe:2.3:o:huawei:vie-l09_firmware:vie-l09c25b120:*:*:*:*:*:*:*,Huawei VIE-L09 Firmware VIE-L09C25B120,"['CVE-2017-8164', 'CVE-2017-8169', 'CVE-2017-8170']",2022-03-21T19:05Z
+8,cpe:2.3:o:huawei:vie-l09_firmware:vie-l09c40b181:*:*:*:*:*:*:*,Huawei VIE-L09 Firmware VIE-L09C40B181,"['CVE-2017-8164', 'CVE-2017-8169', 'CVE-2017-8170']",2022-03-21T19:05Z
+9,cpe:2.3:o:huawei:vie-l09_firmware:vie-l09c40b360:*:*:*:*:*:*:*,Huawei VIE-L09 Firmware VIE-L09C40B360,[''],2022-03-21T19:05Z

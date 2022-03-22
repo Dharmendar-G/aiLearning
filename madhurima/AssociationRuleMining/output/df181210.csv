@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:precision_7810_firmware:a31:*:*:*:*:*:*:*,Dell Precision 7810 Firmware A31,[''],2022-03-20T13:04Z
+1,cpe:2.3:h:dell:precision_7820:-:*:*:*:*:*:*:*,Dell Precision 7820 ,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:04Z
+2,cpe:2.3:o:dell:precision_7820_firmware:-:*:*:*:*:*:*:*,Dell Precision 7820 Firmware,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:04Z
+3,cpe:2.3:o:dell:precision_7820_firmware:1.10.3:*:*:*:*:*:*:*,Dell Precision 7820 Firmware 1.10.3,"['CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:04Z
+4,cpe:2.3:o:dell:precision_7820_firmware:2.0.5:*:*:*:*:*:*:*,Dell Precision 7820 Firmware 2.0.5,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:05Z
+5,cpe:2.3:h:dell:precision_7820_tower:-:*:*:*:*:*:*:*,Dell Precision 7820 Tower,"['CVE-2020-5362', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T13:05Z
+6,cpe:2.3:h:dell:precision_7910:-:*:*:*:*:*:*:*,Dell Precision 7910,['CVE-2020-5326'],2022-03-20T13:05Z
+7,cpe:2.3:o:dell:precision_7910_firmware:-:*:*:*:*:*:*:*,Dell Precision 7910 Firmware,['CVE-2020-5326'],2022-03-20T13:05Z
+8,cpe:2.3:o:dell:precision_7910_firmware:a31:*:*:*:*:*:*:*,Dell Precision 7910 Firmware A31,['CVE-2020-5326'],2022-03-20T13:05Z
+9,cpe:2.3:h:dell:precision_7920:-:*:*:*:*:*:*:*,Dell Precision 7920,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-21554', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:05Z

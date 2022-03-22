@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dahuasecurity:ipc-hdbw4xxx_firmware:2.622.0000000.18.r.20171110:*:*:*:*:*:*:*,Dahua Security IPC-HDBW4XXX Firmware 2.622.0000000.18.R.20171110,[''],2022-03-20T09:55Z
+1,cpe:2.3:h:dahuasecurity:ipc-hdbw5x00:-:*:*:*:*:*:*:*,Dahua Technology USA Inc IPC-HDBW5X00,['CVE-2017-9316'],2022-03-20T09:55Z
+2,cpe:2.3:o:dahuasecurity:ipc-hdbw5x00_firmware:2.400.0000.3.r.20150312:*:*:*:*:*:*:*,Dahua Security IPC-HDBW5X00 Firmware 2.400.0000.3.r.20150312,['CVE-2017-9316'],2022-03-20T09:55Z
+3,cpe:2.3:o:dahuasecurity:ipc-hdbw5x00_firmware:2.420.0006.0.r.20150311:*:*:*:*:*:*:*,Dahua Security IPC-HDBW5X00 Firmware 2.420.0006.0.r.20150311,['CVE-2017-9316'],2022-03-20T09:55Z
+4,cpe:2.3:h:dahuasecurity:ipc-hdbw5xxx:-:*:*:*:*:*:*:*,Dahua Technology USA Inc Ipc-HDBW5XXX,"['CVE-2017-9315', 'CVE-2017-9317']",2022-03-20T09:55Z
+5,cpe:2.3:o:dahuasecurity:ipc-hdbw5xxx_firmware:-:*:*:*:*:*:*:*,Dahuasecurity IPC-HDBW5xxx Firmware -,"['CVE-2017-9315', 'CVE-2017-9317']",2022-03-20T09:55Z
+6,cpe:2.3:o:dahuasecurity:ipc-hdbw5xxx_firmware:2.621.0000.28.r.20170912:*:*:*:*:*:*:*,Dahua Security IPC-HDBW5XXX Firmware 2.621.0000.28.R.20170912,['CVE-2017-9317'],2022-03-20T09:55Z
+7,cpe:2.3:o:dahuasecurity:ipc-hdbw5xxx_firmware:2.622.0000000.18.r.20171110:*:*:*:*:*:*:*,Dahua Security IPC-HDBW5XXX Firmware 2.622.0000000.18.R.20171110,[''],2022-03-20T09:55Z
+8,cpe:2.3:h:dahuasecurity:ipc-hdbw8xxx:-:*:*:*:*:*:*:*,Dahua Technology USA Inc IPC-HDBW8XXX,['CVE-2017-9315'],2022-03-20T09:55Z
+9,cpe:2.3:o:dahuasecurity:ipc-hdbw8xxx_firmware:-:*:*:*:*:*:*:*,Dahuasecurity IPC-HDBW8xxx Firmware -,['CVE-2017-9315'],2022-03-20T09:55Z

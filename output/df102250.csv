@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:canonical:cloud-init:19.4:*:*:*:*:*:*:*,Canonical Cloud-init 19.4,"['CVE-2020-8631', 'CVE-2020-8632']",2022-03-19T15:19Z
+1,cpe:2.3:a:canonical:juju:1.25.5:*:*:*:*:*:*:*,Canonical Juju 1.25.5,['CVE-2017-9232'],2022-03-19T15:20Z
+2,cpe:2.3:a:canonical:juju:1.25.12:*:*:*:*:*:*:*,Canonical Juju 1.25.12,['CVE-2017-9232'],2022-03-19T15:20Z
+3,cpe:2.3:a:canonical:juju:2.0.0:*:*:*:*:*:*:*,Canonical Juju 2.0.0,['CVE-2017-9232'],2022-03-19T15:20Z
+4,cpe:2.3:a:canonical:juju:2.0.0:alpha1:*:*:*:*:*:*,Canonical Juju 2.0.0 Alpha 1,['CVE-2017-9232'],2022-03-19T15:20Z
+5,cpe:2.3:a:canonical:juju:2.0.0:alpha2:*:*:*:*:*:*,Canonical Juju 2.0.0 Alpha 2,['CVE-2017-9232'],2022-03-19T15:20Z
+6,cpe:2.3:a:canonical:juju:2.0.0:beta1:*:*:*:*:*:*,Canonical Juju 2.0.0 Beta 1,['CVE-2017-9232'],2022-03-19T15:20Z
+7,cpe:2.3:a:canonical:juju:2.0.0:beta10:*:*:*:*:*:*,Canonical Juju 2.0.0 Beta 10,['CVE-2017-9232'],2022-03-19T15:20Z
+8,cpe:2.3:a:canonical:juju:2.0.0:beta11:*:*:*:*:*:*,Canonical Juju 2.0.0 Beta 11,['CVE-2017-9232'],2022-03-19T15:20Z
+9,cpe:2.3:a:canonical:juju:2.0.0:beta12:*:*:*:*:*:*,Canonical Juju 2.0.0 Beta 12,['CVE-2017-9232'],2022-03-19T15:20Z

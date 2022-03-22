@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dotpdn:paint.net:5.10:*:*:*:*:*:*:*,Dotpdn Paint.net 5.10,[''],2022-03-20T17:21Z
+1,cpe:2.3:a:dotplant:dotplant2:-:*:*:*:*:*:*:*,DotPlant2,['CVE-2020-25750'],2022-03-20T17:21Z
+2,cpe:2.3:a:dotplant:dotplant2:2020-09-14:*:*:*:*:*:*:*,DotPlant2 2020-09-14,[''],2022-03-20T17:21Z
+3,cpe:2.3:a:dotproject:dotproject:2.1.6:*:*:*:*:*:*:*,dotProject dotProject 2.1.6,"['CVE-2012-5701', 'CVE-2012-5702']",2022-03-20T17:21Z
+4,cpe:2.3:a:dot-prop_project:dot-prop:1.0.0:*:*:*:*:node.js:*:*,dot-prop Project dot-prop 1.0.0 for Node.js,['CVE-2020-8116'],2022-03-20T17:21Z
+5,cpe:2.3:a:dot-prop_project:dot-prop:1.0.1:*:*:*:*:node.js:*:*,dot-prop Project dot-prop 1.0.1 for Node.js,['CVE-2020-8116'],2022-03-20T17:21Z
+6,cpe:2.3:a:dot-prop_project:dot-prop:2.0.0:*:*:*:*:node.js:*:*,dot-prop Project dot-prop 2.0.0 for Node.js,['CVE-2020-8116'],2022-03-20T17:21Z
+7,cpe:2.3:a:dot-prop_project:dot-prop:2.1.0:*:*:*:*:node.js:*:*,dot-prop Project dot-prop 2.1.0 for Node.js,['CVE-2020-8116'],2022-03-20T17:21Z
+8,cpe:2.3:a:dot-prop_project:dot-prop:2.2.0:*:*:*:*:node.js:*:*,dot-prop Project dot-prop 2.2.0 for Node.js,['CVE-2020-8116'],2022-03-20T17:21Z
+9,cpe:2.3:a:dot-prop_project:dot-prop:2.3.0:*:*:*:*:node.js:*:*,dot-prop Project dot-prop 2.3.0 for Node.js,['CVE-2020-8116'],2022-03-20T17:21Z

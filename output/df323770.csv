@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:jg412a_hp_msr4000_mpu-100_main_processing_unit:-:*:*:*:*:*:*:*,HP JG412A HP MSR4000 MPU-100 Main Processing Unit,['CVE-2015-5434'],2022-03-21T13:53Z
+1,cpe:2.3:h:hp:jg478a:-:*:*:*:*:*:*:*,HP JG478A,['CVE-2012-3268'],2022-03-21T13:53Z
+2,cpe:2.3:h:hp:jg496a:-:*:*:*:*:*:*:*,HP JH179A HP FlexFabric 5930 4-slot Switch,[''],2022-03-21T13:53Z
+3,cpe:2.3:o:hp:jg496a_hp_10500_type_a_mpu_with_comware:7.0:*:*:*:*:*:*:*,HP Jg496a Hp 10500 Type A Mpu With Comware 7.0,['CVE-2015-5434'],2022-03-21T13:53Z
+4,cpe:2.3:h:hp:jg497a:-:*:*:*:*:*:*:*,HP JG820A HP 10504 TAA Switch Chassis,[''],2022-03-21T13:53Z
+5,cpe:2.3:o:hp:jg497a_hp_12500_mpu_w\/comware:7.0:*:*:*:*:*:*:*,HP Jg497a Hp 12500 Mpu W/comware 7.0,['CVE-2015-5434'],2022-03-21T13:53Z
+6,cpe:2.3:h:hp:jg512a:-:*:*:*:*:*:*:*,HP JG512A MSR930 Wireless Router,[''],2022-03-21T13:53Z
+7,cpe:2.3:h:hp:jg513a:-:*:*:*:*:*:*:*,HP JG513A MSR930 3G Router,[''],2022-03-21T13:53Z
+8,cpe:2.3:h:hp:jg514a:-:*:*:*:*:*:*:*,HP JG514A MSR931 Router,[''],2022-03-21T13:53Z
+9,cpe:2.3:h:hp:jg515a:-:*:*:*:*:*:*:*,HP JG515A MSR931 3G Router,[''],2022-03-21T13:53Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:codeaurora:android-msm:3.15.6:*:*:*:*:*:*:*,codeaurora android-msm 3.15.6,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-6124']",2022-03-20T04:58Z
+1,cpe:2.3:o:codeaurora:android-msm:3.15.7:*:*:*:*:*:*:*,codeaurora android-msm 3.15.7,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-6124']",2022-03-20T04:58Z
+2,cpe:2.3:o:codeaurora:android-msm:3.15.8:*:*:*:*:*:*:*,codeaurora android-msm 3.15.8,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-6124']",2022-03-20T04:58Z
+3,cpe:2.3:o:codeaurora:android-msm:3.15.9:*:*:*:*:*:*:*,codeaurora android-msm 3.15.9,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-6124']",2022-03-20T04:58Z
+4,cpe:2.3:o:codeaurora:android-msm:3.15.10:*:*:*:*:*:*:*,codeaurora android-msm 3.15.10,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-6124']",2022-03-20T04:58Z
+5,cpe:2.3:o:codeaurora:android-msm:3.16:*:*:*:*:*:*:*,codeaurora android-msm 3.16,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-6124']",2022-03-20T04:58Z
+6,cpe:2.3:o:codeaurora:android-msm:3.16:rc1:*:*:*:*:*:*,codeaurora android-msm 3.16 release candidate 1,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-6124']",2022-03-20T04:58Z
+7,cpe:2.3:o:codeaurora:android-msm:3.16:rc2:*:*:*:*:*:*,codeaurora android-msm 3.16 release candidate 2,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-6124']",2022-03-20T04:58Z
+8,cpe:2.3:o:codeaurora:android-msm:3.16:rc3:*:*:*:*:*:*,codeaurora android-msm 3.16 release candidate 3,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-6124']",2022-03-20T04:58Z
+9,cpe:2.3:o:codeaurora:android-msm:3.16:rc4:*:*:*:*:*:*,codeaurora android-msm 3.16 release candidate 4,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-6124']",2022-03-20T04:58Z

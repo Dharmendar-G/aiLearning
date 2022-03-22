@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:borland:starteam_server:10.0.57.0:*:*:*:*:*:*:*,Borland Starteam Server 10.0.57.0,[''],2022-03-19T09:59Z
+1,cpe:2.3:a:borland:starteammpx_services:10.0.57.0:*:*:*:*:*:*:*,Borland Starteammpx Services 10.0.57.0,[''],2022-03-19T09:59Z
+2,cpe:2.3:h:bosch:360-indoor_camera:-:*:*:*:*:*:*:*,Bosch 360-Indoor Camera,['CVE-2018-20299'],2022-03-19T09:59Z
+3,cpe:2.3:o:bosch:360-indoor_camera_firmware:6.52.4:*:*:*:*:*:*:*,Bosch 360-indoor Camera Firmware 6.52.4,[''],2022-03-19T09:59Z
+4,cpe:2.3:a:bosch:access:-:*:*:*:professional:*:*:*,Bosch Access Professional Edition,"['CVE-2019-11898', 'CVE-2019-11899']",2022-03-19T09:59Z
+5,cpe:2.3:a:bosch:access:2.1:*:*:*:professional:*:*:*,Bosch Access 2.1 Professional Edition,"['CVE-2019-11898', 'CVE-2019-11899']",2022-03-19T09:59Z
+6,cpe:2.3:a:bosch:access:3.3:*:*:*:professional:*:*:*,Bosch Access 3.3 Professional Edition,"['CVE-2019-11898', 'CVE-2019-11899']",2022-03-19T09:59Z
+7,cpe:2.3:a:bosch:access:3.7:*:*:*:professional:*:*:*,Bosch Access 3.7 Professional Edition,"['CVE-2019-11898', 'CVE-2019-11899']",2022-03-19T10:00Z
+8,cpe:2.3:a:bosch:access:3.8:*:*:*:professional:*:*:*,Bosch Access 3.8 Professional Edition,[''],2022-03-19T10:00Z
+9,cpe:2.3:h:bosch:access_easy_controller:-:*:*:*:*:*:*:*,Bosch Access Easy Controller,"['CVE-2019-6957', 'CVE-2019-6958', 'CVE-2021-23859']",2022-03-19T10:00Z

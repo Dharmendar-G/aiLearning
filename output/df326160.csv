@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:officejet_4657_v6d29b:-:*:*:*:*:*:*:*,HP OfficeJet 4657 V6D29B,"['CVE-2020-12695', 'CVE-2020-28416']",2022-03-21T15:27Z
+1,cpe:2.3:o:hp:officejet_4657_v6d29b_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET 4657 V6D29B FIRMWARE,['CVE-2020-28416'],2022-03-21T15:27Z
+2,cpe:2.3:o:hp:officejet_4657_v6d29b_firmware:40.11.1122:*:*:*:*:*:*:*,HP OFFICEJET 4657 V6D29B FIRMWARE 40.11.1122,[''],2022-03-21T15:27Z
+3,cpe:2.3:h:hp:officejet_4658_v6d28b:-:*:*:*:*:*:*:*,HP OfficeJet 4658 V6D28B,['CVE-2020-28416'],2022-03-21T15:27Z
+4,cpe:2.3:o:hp:officejet_4658_v6d28b_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET 4658 V6D28B FIRMWARE,['CVE-2020-28416'],2022-03-21T15:27Z
+5,cpe:2.3:o:hp:officejet_4658_v6d28b_firmware:40.11.1122:*:*:*:*:*:*:*,HP OFFICEJET 4658 V6D28B FIRMWARE 40.11.1122,[''],2022-03-21T15:27Z
+6,cpe:2.3:h:hp:officejet_4658_v6d30b:-:*:*:*:*:*:*:*,HP OfficeJet 4658 V6D30B,"['CVE-2020-12695', 'CVE-2020-28416']",2022-03-21T15:27Z
+7,cpe:2.3:o:hp:officejet_4658_v6d30b_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET 4658 V6D30B FIRMWARE,['CVE-2020-28416'],2022-03-21T15:27Z
+8,cpe:2.3:o:hp:officejet_4658_v6d30b_firmware:40.11.1122:*:*:*:*:*:*:*,HP OFFICEJET 4658 V6D30B FIRMWARE 40.11.1122,[''],2022-03-21T15:27Z
+9,cpe:2.3:h:hp:officejet_5100:-:*:*:*:*:*:*:*,HP Officejet 5100,['CVE-2007-0161'],2022-03-21T15:27Z

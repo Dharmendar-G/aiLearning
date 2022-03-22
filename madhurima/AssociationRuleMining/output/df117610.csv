@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:cbs350-8xt:-:*:*:*:*:*:*:*,Cisco CBS350-8XT,['CVE-2021-34739'],2022-03-19T19:10Z
+1,cpe:2.3:o:cisco:cg-os:cg4:*:*:*:*:*:*:*,Cisco CG-OS CG4,"['CVE-2013-1178', 'CVE-2014-3261']",2022-03-19T19:10Z
+2,cpe:2.3:o:cisco:cg-os:cg4\(1\):*:*:*:*:*:*:*,Cisco CG-OS CG4(1),['CVE-2014-3261'],2022-03-19T19:10Z
+3,cpe:2.3:o:cisco:cg-os:cg4\(2\):*:*:*:*:*:*:*,Cisco CG-OS CG4(2),[''],2022-03-19T19:10Z
+4,cpe:2.3:o:cisco:cg-os:cg4\(3\):*:*:*:*:*:*:*,Cisco CG-OS CG4(3),[''],2022-03-19T19:10Z
+5,cpe:2.3:h:cisco:cgr_1000:-:*:*:*:*:*:*:*,Cisco CGR 1000,['CVE-2019-12656'],2022-03-19T19:10Z
+6,cpe:2.3:o:cisco:cgr_1000_firmware:-:*:*:*:*:*:*:*,Cisco CGR 1000 Firmware,['CVE-2019-12656'],2022-03-19T19:10Z
+7,cpe:2.3:h:cisco:cgr_1120:-:*:*:*:*:*:*:*,Cisco CGR 1120 (1000 Series Connected Grid Routers),"['CVE-2014-3261', 'CVE-2019-12648']",2022-03-19T19:10Z
+8,cpe:2.3:h:cisco:cgr_1240:-:*:*:*:*:*:*:*,Cisco CGR 1240 (1000 Series Connected Grid Routers),['CVE-2014-3261'],2022-03-19T19:10Z
+9,cpe:2.3:h:cisco:cgr1000:-:*:*:*:*:*:*:*,Cisco CGR1000,['CVE-2021-1460'],2022-03-19T19:10Z

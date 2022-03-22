@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:security_appscan:9.0.1.0:*:standard:*:*:*:*:*,IBM Security AppScan Standard 9.0.1.0,[''],2022-03-21T21:59Z
+1,cpe:2.3:a:ibm:security_appscan:9.0.1.1:*:*:*:enterprise:*:*:*,IBM Security Appscan 9.0.1.1 Enterprise Edition,['CVE-2016-9981'],2022-03-21T21:59Z
+2,cpe:2.3:a:ibm:security_appscan:9.0.2.0:*:*:*:enterprise:*:*:*,IBM Security Appscan 9.0.2.0 Enterprise Edition,"['CVE-2015-1952', 'CVE-2016-9981']",2022-03-21T21:59Z
+3,cpe:2.3:a:ibm:security_appscan:9.0.2.0:*:*:*:standard:*:*:*,IBM Security AppScan Standard 9.0.2.0,['CVE-2016-0288'],2022-03-21T21:59Z
+4,cpe:2.3:a:ibm:security_appscan:9.0.2.1:*:*:*:enterprise:*:*:*,IBM Security Appscan 9.0.2.1 Enterprise Edition,['CVE-2016-9981'],2022-03-21T21:59Z
+5,cpe:2.3:a:ibm:security_appscan:9.0.2.1:*:*:*:standard:*:*:*,IBM Security AppScan Standard 9.0.2.1,['CVE-2016-0288'],2022-03-21T21:59Z
+6,cpe:2.3:a:ibm:security_appscan:9.0.3.0:*:*:*:enterprise:*:*:*,IBM Security Appscan 9.0.3.0 Enterprise Edition,['CVE-2016-9981'],2022-03-21T21:59Z
+7,cpe:2.3:a:ibm:security_appscan:9.0.3.0:*:*:*:standard:*:*:*,IBM Security AppScan Standard 9.0.3.0,['CVE-2016-0288'],2022-03-21T21:59Z
+8,cpe:2.3:a:ibm:security_appscan:9.0.3.1:*:*:*:enterprise:*:*:*,IBM Security Appscan 9.0.3.1 Enterprise Edition,['CVE-2016-9981'],2022-03-21T21:59Z
+9,cpe:2.3:a:ibm:security_appscan:9.0.3.1:*:*:*:standard:*:*:*,IBM Security AppScan Standard 9.0.3.1,['CVE-2016-0288'],2022-03-21T21:59Z

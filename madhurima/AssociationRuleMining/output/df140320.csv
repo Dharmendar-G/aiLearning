@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:citrix:metaframe_presentation_server:-:*:*:*:*:*:*:*,Citrix MetaFrame Presentation Server,"['CVE-2008-0356', 'CVE-2008-3485']",2022-03-20T01:31Z
+1,cpe:2.3:a:citrix:metaframe_presentation_server:3.0:*:*:*:*:*:*:*,Citrix MetaFrame Presentation Server 3.0,"['CVE-2002-2426', 'CVE-2006-5861', 'CVE-2007-0444', 'CVE-2008-0356', 'CVE-2008-3485']",2022-03-20T01:31Z
+2,cpe:2.3:a:citrix:metaframe_presentation_server:4.0:*:*:*:*:*:*:*,Citrix Citrix Presentation Server 4.0,"['CVE-2006-5861', 'CVE-2007-0444', 'CVE-2008-0356', 'CVE-2008-2300']",2022-03-20T01:31Z
+3,cpe:2.3:a:citrix:metaframe_presentation_server:4.5:*:*:*:*:*:*:*,Citrix MetaFrame Presentation Server 4.5,['CVE-2008-0356'],2022-03-20T01:31Z
+4,cpe:2.3:a:citrix:metaframe_presentation_server:10.100:*:*:*:*:*:*:*,Citrix Citrix Presentation Server 10.00,[''],2022-03-20T01:31Z
+5,cpe:2.3:a:citrix:metaframe_presentation_server_administration_snap-in:2.0.0:*:*:*:*:*:*:*,Citrix Metaframe Presentation Server Administration Snap-in 2.0.0,[''],2022-03-20T01:31Z
+6,cpe:2.3:a:citrix:metaframe_presentation_server_client:9.150.39151:*:*:*:*:*:*:*,Citrix Metaframe Presentation Server Client 9.150.39151,[''],2022-03-20T01:31Z
+7,cpe:2.3:a:citrix:metaframe_presentation_server_for_windows:4.0.1:*:*:*:*:*:*:*,Citrix Metaframe Presentation Server For Windows 4.0.1,[''],2022-03-20T01:31Z
+8,cpe:2.3:a:citrix:metaframe_presentation_server_for_windows:4.0.7:*:*:*:*:*:*:*,Citrix Metaframe Presentation Server For Windows 4.0.7,[''],2022-03-20T01:31Z
+9,cpe:2.3:a:citrix:metaframe_secure_access_manager:-:*:*:*:*:*:*:*,Citrix Citrix Metaframe Secure Access Manager,[''],2022-03-20T01:31Z

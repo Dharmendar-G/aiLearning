@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cksource:ckeditor:4.5.3.2:*:*:*:*:wordpress:*:*,CKSource CKEditor 4.5.3.2 for WordPress,[''],2022-03-20T02:02Z
+1,cpe:2.3:a:cksource:ckeditor:4.5.3.3:*:*:*:*:wordpress:*:*,CKSource CKEditor 4.5.3.3 for WordPress,[''],2022-03-20T02:02Z
+2,cpe:2.3:a:cksource:ckfinder:-:*:*:*:*:*:*:*,CKSource CKFinder,['CVE-2019-15891'],2022-03-20T02:02Z
+3,cpe:2.3:a:cksource:ckfinder:-:*:*:*:*:asp:*:*,CKSource CKFinder - for ASP,"['CVE-2019-15862', 'CVE-2019-15891']",2022-03-20T02:02Z
+4,cpe:2.3:a:cksource:ckfinder:-:*:*:*:*:asp.net:*:*,CKSource CKFinder - for ASP.NET,"['CVE-2019-15862', 'CVE-2019-15891']",2022-03-20T02:02Z
+5,cpe:2.3:a:cksource:ckfinder:-:*:*:*:*:coldfusion:*:*,CKSource CKFinder - for ColdFusion,"['CVE-2019-15862', 'CVE-2019-15891']",2022-03-20T02:02Z
+6,cpe:2.3:a:cksource:ckfinder:-:*:*:*:*:php:*:*,CKSource CKFinder - for PHP,"['CVE-2019-15862', 'CVE-2019-15891']",2022-03-20T02:02Z
+7,cpe:2.3:a:cksource:ckfinder:1.0:*:*:*:*:*:*:*,CKSource CKFinder 1.0,['CVE-2019-15891'],2022-03-20T02:02Z
+8,cpe:2.3:a:cksource:ckfinder:1.0.1:*:*:*:*:*:*:*,CKSource CKFinder 1.0.1,['CVE-2019-15891'],2022-03-20T02:02Z
+9,cpe:2.3:a:cksource:ckfinder:1.1:*:*:*:*:*:*:*,CKSource CKFinder 1.1,['CVE-2019-15891'],2022-03-20T02:02Z

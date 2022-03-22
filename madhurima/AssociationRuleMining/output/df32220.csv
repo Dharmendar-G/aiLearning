@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:impala:2.11.0:-:*:*:*:*:*:*,Apache Software Foundation Impala 2.11.0,"['CVE-2018-11785', 'CVE-2018-11792', 'CVE-2019-10084', 'CVE-2021-28131']",2022-03-18T18:49Z
+1,cpe:2.3:a:apache:impala:2.11.0:-:*:*:*:*:*:*,Apache Software Foundation Impala 2.11.0,"['CVE-2018-11785', 'CVE-2018-11792', 'CVE-2019-10084', 'CVE-2021-28131']",2022-03-18T18:49Z
+2,cpe:2.3:a:apache:impala:2.11.0:rc1:*:*:*:*:*:*,Apache Software Foundation Impala 2.11.0 Release Candidate 1,"['CVE-2018-11785', 'CVE-2018-11792', 'CVE-2019-10084', 'CVE-2021-28131']",2022-03-18T18:49Z
+3,cpe:2.3:a:apache:impala:2.12.0:-:*:*:*:*:*:*,Apache Software Foundation Impala 2.12.0,"['CVE-2018-11785', 'CVE-2018-11792', 'CVE-2019-10084', 'CVE-2021-28131']",2022-03-18T18:49Z
+4,cpe:2.3:a:apache:impala:2.12.0:-:*:*:*:*:*:*,Apache Software Foundation Impala 2.12.0,"['CVE-2018-11785', 'CVE-2018-11792', 'CVE-2019-10084', 'CVE-2021-28131']",2022-03-18T18:49Z
+5,cpe:2.3:a:apache:impala:2.12.0:rc1:*:*:*:*:*:*,Apache Software Foundation Impala 2.12.0 Release Candidate 1,"['CVE-2018-11785', 'CVE-2018-11792', 'CVE-2019-10084', 'CVE-2021-28131']",2022-03-18T18:49Z
+6,cpe:2.3:a:apache:impala:3.0.0:-:*:*:*:*:*:*,Apache Software Foundation Impala 3.0.0,"['CVE-2018-11785', 'CVE-2018-11792', 'CVE-2019-10084', 'CVE-2021-28131']",2022-03-18T18:49Z
+7,cpe:2.3:a:apache:impala:3.0.0:-:*:*:*:*:*:*,Apache Software Foundation Impala 3.0.0,"['CVE-2018-11785', 'CVE-2018-11792', 'CVE-2019-10084', 'CVE-2021-28131']",2022-03-18T18:49Z
+8,cpe:2.3:a:apache:impala:3.0.0:rc1:*:*:*:*:*:*,Apache Software Foundation Impala 3.0.0 Release Candidate 1,"['CVE-2018-11785', 'CVE-2018-11792', 'CVE-2019-10084', 'CVE-2021-28131']",2022-03-18T18:49Z
+9,cpe:2.3:a:apache:impala:3.0.1:-:*:*:*:*:*:*,Apache Software Foundation Impala 3.0.1,"['CVE-2019-10084', 'CVE-2021-28131']",2022-03-18T18:49Z

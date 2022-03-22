@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:activecollab:activecollab:6.0.85:*:*:*:*:*:*:*,ActiveCollab 6.0.85,[''],2022-03-18T11:18Z
+1,cpe:2.3:a:activecollab:activecollab:6.0.91:*:*:*:*:*:*:*,ActiveCollab 6.0.91,[''],2022-03-18T11:18Z
+2,cpe:2.3:a:activecollab:activecollab:6.0.215:*:*:*:*:*:*:*,ActiveCollab 6.0.215,[''],2022-03-18T11:18Z
+3,cpe:2.3:a:activecollab:activecollab:6.0.238:*:*:*:*:*:*:*,ActiveCollab 6.0.238,[''],2022-03-18T11:18Z
+4,cpe:2.3:a:activecollab:activecollab:6.0.263:*:*:*:*:*:*:*,ActiveCollab 6.0.263,[''],2022-03-18T11:18Z
+5,cpe:2.3:a:activecollab:activecollab:6.0.319:*:*:*:*:*:*:*,ActiveCollab 6.0.319,[''],2022-03-18T11:18Z
+6,cpe:2.3:a:activecollab:activecollab:6.1.0:*:*:*:*:*:*:*,ActiveCollab 6.1.0,[''],2022-03-18T11:19Z
+7,cpe:2.3:a:activedev:active_cms:1.2:*:*:*:*:*:*:*,Activedev Active CMS 1.2,['CVE-2011-4564'],2022-03-18T11:19Z
+8,cpe:2.3:a:activehelper:activehelper_livehelp_live_chat:2.6.0:*:*:*:*:wordpress:*:*,ActiveHelper LiveHelp Live Chat plugin for WordPress 2.6.0,['CVE-2014-4513'],2022-03-18T11:19Z
+9,cpe:2.3:a:activehelper:activehelper_livehelp_live_chat:2.6.1:*:*:*:*:wordpress:*:*,ActiveHelper LiveHelp Live Chat plugin for WordPress 2.6.1,['CVE-2014-4513'],2022-03-18T11:19Z

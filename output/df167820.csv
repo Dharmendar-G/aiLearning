@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cumulative-distribution-function_project:cumulative-distribution-function:-:*:*:*:*:node.js:*:*,Cumulative-distribution-function Project Cumulative-distribution-function for Node.js,['CVE-2021-29486'],2022-03-20T09:20Z
+1,cpe:2.3:a:cumulative-distribution-function_project:cumulative-distribution-function:0.1.0:*:*:*:*:node.js:*:*,Cumulative-distribution-function Project Cumulative-distribution-function 0.1.0 for Node.js,['CVE-2021-29486'],2022-03-20T09:20Z
+2,cpe:2.3:a:cumulative-distribution-function_project:cumulative-distribution-function:1.0.0:*:*:*:*:node.js:*:*,Cumulative-distribution-function Project Cumulative-distribution-function 1.0.0 for Node.js,['CVE-2021-29486'],2022-03-20T09:20Z
+3,cpe:2.3:a:cumulative-distribution-function_project:cumulative-distribution-function:1.0.1:*:*:*:*:node.js:*:*,Cumulative-distribution-function Project Cumulative-distribution-function 1.0.1 for Node.js,['CVE-2021-29486'],2022-03-20T09:20Z
+4,cpe:2.3:a:cumulative-distribution-function_project:cumulative-distribution-function:1.0.2:*:*:*:*:node.js:*:*,Cumulative-distribution-function Project Cumulative-distribution-function 1.0.2 for Node.js,['CVE-2021-29486'],2022-03-20T09:20Z
+5,cpe:2.3:a:cumulative-distribution-function_project:cumulative-distribution-function:1.0.3:*:*:*:*:node.js:*:*,Cumulative-distribution-function Project Cumulative-distribution-function 1.0.3 for Node.js,['CVE-2021-29486'],2022-03-20T09:20Z
+6,cpe:2.3:a:cumulative-distribution-function_project:cumulative-distribution-function:2.0.0:*:*:*:*:node.js:*:*,Cumulative-distribution-function Project Cumulative-distribution-function 2.0.0 for Node.js,[''],2022-03-20T09:20Z
+7,cpe:2.3:o:cumulusnetworks:cumulus_linux:2.5.3:*:*:*:*:*:*:*,Cumulus Linux 2.5.3,"['CVE-2015-5699', 'CVE-2017-15865']",2022-03-20T09:20Z
+8,cpe:2.3:o:cumulusnetworks:cumulus_linux:3.4.3:*:*:*:*:*:*:*,Cumulus Linux 3.4.3,[''],2022-03-20T09:20Z
+9,cpe:2.3:a:cuoftexas:credit_union_of_texas_mobile:1.1:*:*:*:*:android:*:*,cuoftexas Credit Union of Texas Mobile (aka Fi_Mobile.CUOT) for Android 1.1,['CVE-2014-5771'],2022-03-20T09:20Z

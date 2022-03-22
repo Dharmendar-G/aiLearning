@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dash:dash_core:0.14.0.5:*:*:*:*:*:*:*,Dash Core 0.14.0.5,[''],2022-03-20T10:30Z
+1,cpe:2.3:a:dash:dash_core:0.15.0.0:rc1:*:*:*:*:*:*,Dash Core 0.15.0.0 Release Candidate 1,[''],2022-03-20T10:30Z
+2,cpe:2.3:a:dash:dash_core:0.15.0.0:rc2:*:*:*:*:*:*,Dash Core 0.15.0.0 Release Candidate 2,[''],2022-03-20T10:30Z
+3,cpe:2.3:a:dash_project:dash:-:*:*:*:*:*:*:*,dash Project dash,[''],2022-03-20T10:30Z
+4,cpe:2.3:a:dash10:oauth_server:-:*:*:*:*:wordpress:*:*,Dash10 Oauth Server - for Wordpress,['CVE-2015-9435'],2022-03-20T10:30Z
+5,cpe:2.3:a:dash10:oauth_server:1.0.0:*:*:*:*:wordpress:*:*,Dash10 Oauth Server 1.0.0 for Wordpress,['CVE-2015-9435'],2022-03-20T10:30Z
+6,cpe:2.3:a:dash10:oauth_server:1.0.1:*:*:*:*:wordpress:*:*,Dash10 Oauth Server 1.0.1 for Wordpress,['CVE-2015-9435'],2022-03-20T10:30Z
+7,cpe:2.3:a:dash10:oauth_server:1.0.2:*:*:*:*:wordpress:*:*,Dash10 Oauth Server 1.0.2 for Wordpress,['CVE-2015-9435'],2022-03-20T10:30Z
+8,cpe:2.3:a:dash10:oauth_server:1.0.3:*:*:*:*:wordpress:*:*,Dash10 Oauth Server 1.0.3 for Wordpress,['CVE-2015-9435'],2022-03-20T10:30Z
+9,cpe:2.3:a:dash10:oauth_server:2.0.0:*:*:*:*:wordpress:*:*,Dash10 Oauth Server 2.0.0 for Wordpress,['CVE-2015-9435'],2022-03-20T10:30Z

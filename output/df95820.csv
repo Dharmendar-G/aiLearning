@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:buffalo:wla-g54_firmware:2.20:*:*:*:*:*:*:*,Buffalo WLA-G54 FIRMWARE 2.20,['CVE-2021-20716'],2022-03-19T13:15Z
+1,cpe:2.3:h:buffalo:wla-g54c:-:*:*:*:*:*:*:*,Buffalo WLA-G54C,['CVE-2021-20716'],2022-03-19T13:15Z
+2,cpe:2.3:o:buffalo:wla-g54c_firmware:-:*:*:*:*:*:*:*,Buffalo WLA-G54C FIRMWARE,['CVE-2021-20716'],2022-03-19T13:15Z
+3,cpe:2.3:o:buffalo:wla-g54c_firmware:2.20:*:*:*:*:*:*:*,Buffalo WLA-G54C FIRMWARE 2.20,['CVE-2021-20716'],2022-03-19T13:15Z
+4,cpe:2.3:h:buffalo:wlah-a54g54:-:*:*:*:*:*:*:*,Buffalo WLAH-A54G54,['CVE-2021-20716'],2022-03-19T13:15Z
+5,cpe:2.3:o:buffalo:wlah-a54g54_firmware:-:*:*:*:*:*:*:*,Buffalo WLAH-A54G54 FIRMWARE,['CVE-2021-20716'],2022-03-19T13:15Z
+6,cpe:2.3:o:buffalo:wlah-a54g54_firmware:2.54:*:*:*:*:*:*:*,Buffalo WLAH-A54G54 FIRMWARE 2.54,['CVE-2021-20716'],2022-03-19T13:16Z
+7,cpe:2.3:h:buffalo:wlah-am54g54:-:*:*:*:*:*:*:*,Buffalo WLAH-AM54G54,['CVE-2021-20716'],2022-03-19T13:16Z
+8,cpe:2.3:o:buffalo:wlah-am54g54_firmware:-:*:*:*:*:*:*:*,Buffalo WLAH-AM54G54 FIRMWARE,['CVE-2021-20716'],2022-03-19T13:16Z
+9,cpe:2.3:o:buffalo:wlah-am54g54_firmware:2.54:*:*:*:*:*:*:*,Buffalo WLAH-AM54G54 FIRMWARE 2.54,['CVE-2021-20716'],2022-03-19T13:16Z

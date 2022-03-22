@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:buffalotech:bhr-4rv:-:*:*:*:*:*:*:*,BUFFALO BHR-4RV,['CVE-2011-1324'],2022-03-19T13:20Z
+1,cpe:2.3:a:buffalotech:bhr-4rv_firmware:-:*:*:*:*:*:*:*,BUFFALO BHR-4RV Firmware,[''],2022-03-19T13:20Z
+2,cpe:2.3:a:buffalotech:bhr-4rv_firmware:2.31:*:*:*:*:*:*:*,BUFFALO BHR-4RV Firmware 2.31,['CVE-2011-1324'],2022-03-19T13:20Z
+3,cpe:2.3:a:buffalotech:bhr-4rv_firmware:2.32:prebeta:*:*:*:*:*:*,BUFFALO BHR-4RV Firmware 2.32 prebeta,['CVE-2011-1324'],2022-03-19T13:20Z
+4,cpe:2.3:a:buffalotech:bhr-4rv_firmware:2.33:prebeta:*:*:*:*:*:*,バッファロー BHR-4RV ファームウェア 2.33 prebeta,['CVE-2011-1324'],2022-03-19T13:20Z
+5,cpe:2.3:a:buffalotech:bhr-4rv_firmware:2.42:*:*:*:*:*:*:*,BUFFALO BHR-4RV Firmware 2.42,['CVE-2011-1324'],2022-03-19T13:20Z
+6,cpe:2.3:a:buffalotech:bhr-4rv_firmware:2.46:*:*:*:*:*:*:*,BUFFALO BHR-4RV Firmware 2.46,['CVE-2011-1324'],2022-03-19T13:20Z
+7,cpe:2.3:a:buffalotech:bhr-4rv_firmware:2.48:*:*:*:*:*:*:*,BUFFALO BHR-4RV Firmware 2.48,['CVE-2011-1324'],2022-03-19T13:20Z
+8,cpe:2.3:a:buffalotech:bhr-4rv_firmware:2.49:*:*:*:*:*:*:*,BUFFALO BHR-4RV Firmware 2.49,[''],2022-03-19T13:20Z
+9,cpe:2.3:a:buffalotech:bhr-4rv_firmware:2.50:*:*:*:*:*:*:*,バッファロー BHR-4RV ファームウェア 2.50,[''],2022-03-19T13:20Z

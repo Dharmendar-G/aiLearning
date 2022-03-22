@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arm:trusted_firmware-a:2.4:rc1:*:*:*:*:*:*,Arm Trusted Firmware-A (TF-A) 2.4 Release Candidate 1,[''],2022-03-18T23:11Z
+1,cpe:2.3:a:arm:trusted_firmware-a:2.4:rc2:*:*:*:*:*:*,Arm Trusted Firmware-A (TF-A) 2.4 Release Candidate 2,[''],2022-03-18T23:11Z
+2,cpe:2.3:a:arm:valhall:r19p0:*:*:*:*:*:*:*,ARM Valhall r19p0,['CVE-2022-22706'],2022-03-18T23:11Z
+3,cpe:2.3:a:arm:valhall:r19p0-01eac0:*:*:*:*:*:*:*,ARM Valhall R19p0-01eac0,"['CVE-2021-29256', 'CVE-2022-22706']",2022-03-18T23:11Z
+4,cpe:2.3:a:arm:valhall:r30p0:*:*:*:*:*:*:*,ARM Valhall r30p0,"['CVE-2021-29256', 'CVE-2022-22706']",2022-03-18T23:11Z
+5,cpe:2.3:a:arm:valhall:r30p0-01eac0:*:*:*:*:*:*:*,ARM Valhall R30p0-01eac0,['CVE-2022-22706'],2022-03-18T23:11Z
+6,cpe:2.3:a:arm:valhall_gpu_kernel_driver:-:*:*:*:*:*:*:*,ARM Valhall GPU Kernel Driver,[''],2022-03-18T23:11Z
+7,cpe:2.3:a:arm:valhall_gpu_kernel_driver:r19p0:*:*:*:*:*:*:*,ARM Valhall GPU Kernel Driver r19p0,"['CVE-2021-28663', 'CVE-2021-28664', 'CVE-2021-44828']",2022-03-18T23:11Z
+8,cpe:2.3:a:arm:valhall_gpu_kernel_driver:r34p0:*:*:*:*:*:*:*,ARM Valhall GPU Kernel Driver r34p0,['CVE-2021-44828'],2022-03-18T23:11Z
+9,cpe:2.3:a:armcode:adult_filter:1.0:*:*:*:*:*:*:*,ArmCode Adult Filter 1.0,['CVE-2018-19459'],2022-03-18T23:11Z

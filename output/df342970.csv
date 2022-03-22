@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:financial_transaction_manager_for_multiplatform:3.2.0:*:*:*:*:*:*:*,IBM Financial Transaction Manager (FTM) for Multi-Platform (MP) 3.2.0,[''],2022-03-21T20:37Z
+1,cpe:2.3:a:ibm:financial_transaction_manager_for_multiplatform:3.2.1:*:*:*:*:*:*:*,IBM Financial Transaction Manager (FTM) for Multi-Platform (MP) 3.2.1,[''],2022-03-21T20:37Z
+2,cpe:2.3:a:ibm:financial_transaction_manager_for_multiplatform:3.2.2:*:*:*:*:*:*:*,IBM Financial Transaction Manager (FTM) for Multi-Platform (MP) 3.2.2,[''],2022-03-21T20:37Z
+3,cpe:2.3:a:ibm:financial_transaction_manager_for_multiplatform:3.2.4:*:*:*:*:*:*:*,IBM Financial Transaction Manager for Multi-Platform 3.2.4,"['CVE-2020-4328', 'CVE-2020-4904', 'CVE-2020-4905', 'CVE-2020-4906', 'CVE-2020-4907', 'CVE-2020-4908']",2022-03-21T20:37Z
+4,cpe:2.3:a:ibm:flashcopy_manager:2.1:*:*:*:*:exchange_server:*:*,IBM FlashCopy Manager for Microsoft Exchange Server 2.1,['CVE-2013-3976'],2022-03-21T20:37Z
+5,cpe:2.3:a:ibm:flashcopy_manager:2.2:*:*:*:*:exchange_server:*:*,IBM FlashCopy Manager for Microsoft Exchange Server 2.2,['CVE-2013-3976'],2022-03-21T20:37Z
+6,cpe:2.3:a:ibm:flashcopy_manager:3.1:*:*:*:*:exchange_server:*:*,IBM FlashCopy Manager for Microsoft Exchange Server 3.1,['CVE-2013-3976'],2022-03-21T20:37Z
+7,cpe:2.3:a:ibm:flashcopy_manager:3.1.1:*:*:*:*:exchange_server:*:*,IBM FlashCopy Manager for Microsoft Exchange Server 3.1.1,[''],2022-03-21T20:37Z
+8,cpe:2.3:h:ibm:flashsystem_840:-:*:*:*:*:*:*:*,IBM FlashSystem 840,"['CVE-2018-1495', 'CVE-2018-1822']",2022-03-21T20:37Z
+9,cpe:2.3:o:ibm:flashsystem_840_firmware:-:*:*:*:*:*:*:*,IBM FlashSystem 840 Firmware,['CVE-2018-1495'],2022-03-21T20:37Z

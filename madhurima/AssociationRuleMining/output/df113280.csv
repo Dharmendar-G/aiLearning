@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:access_points:15.3:jda13:*:*:*:*:*:*,Cisco Access Points 15.3 Jda13,"['CVE-2020-3552', 'CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T17:51Z
+1,cpe:2.3:o:cisco:access_points:15.3:jda14:*:*:*:*:*:*,Cisco Access Points 15.3 Jda14,"['CVE-2020-3552', 'CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T17:51Z
+2,cpe:2.3:o:cisco:access_points:15.3\(3\)jd:*:*:*:*:*:*:*,Cisco Access Points 15.3(3)JD,"['CVE-2018-0441', 'CVE-2020-3552', 'CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T17:51Z
+3,cpe:2.3:o:cisco:access_points:16.12.4.a:*:*:*:*:*:*:*,Cisco Access Points 16.12.4.a,"['CVE-2020-3552', 'CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T17:51Z
+4,cpe:2.3:a:cisco:access_registrar:-:*:*:*:*:*:*:*,Cisco Access Registrar,"['CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112']",2022-03-19T17:51Z
+5,cpe:2.3:a:cisco:access_server:-:*:*:*:*:*:*:*,Cisco Access Server,[''],2022-03-19T17:51Z
+6,cpe:2.3:a:cisco:accesspath:-:*:*:*:*:*:*:*,Cisco AccessPath,[''],2022-03-19T17:51Z
+7,cpe:2.3:a:cisco:accesspath:ls-3:*:*:*:*:*:*:*,Cisco AccessPath LS-3,['CVE-2000-0268'],2022-03-19T17:51Z
+8,cpe:2.3:a:cisco:accesspath:ts-3:*:*:*:*:*:*:*,Cisco AccessPath TS-3,['CVE-2000-0268'],2022-03-19T17:51Z
+9,cpe:2.3:a:cisco:accesspath:vs-3:*:*:*:*:*:*:*,Cisco AccessPath VS-3,['CVE-2000-0268'],2022-03-19T17:51Z

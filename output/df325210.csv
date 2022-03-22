@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:laserjet_p3010_series_user_guide:1.0.0.0:*:*:*:*:*:*:*,HP Laserjet P3010 Series User Guide 1.0.0.0,[''],2022-03-21T15:14Z
+1,cpe:2.3:h:hp:laserjet_p4014:cb507a:*:*:*:*:*:*:*,HP LaserJet P4014 printer CB507A,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2009-2684', 'CVE-2011-4161', 'CVE-2012-5221']",2022-03-21T15:15Z
+2,cpe:2.3:h:hp:laserjet_p4015:cb509a:*:*:*:*:*:*:*,HP LaserJet P4015 CB509A,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2011-4161', 'CVE-2012-5221']",2022-03-21T15:15Z
+3,cpe:2.3:h:hp:laserjet_p4515:cb514a:*:*:*:*:*:*:*,HP LaserJet P4515 printer CB514A,"['CVE-2009-2684', 'CVE-2011-4161', 'CVE-2012-5221']",2022-03-21T15:15Z
+4,cpe:2.3:h:hp:laserjet_pro_100_color_mfp_m175:ce866a:*:*:*:*:*:*:*,HP LaserJet Pro 100 color MFP M175 CE866A,['CVE-2013-6193'],2022-03-21T15:15Z
+5,cpe:2.3:h:hp:laserjet_pro_200_color_m251_cf146a:-:*:*:*:*:*:*:*,HP LaserJet Pro 200 Color M251 CF146A,['CVE-2020-28419'],2022-03-21T15:15Z
+6,cpe:2.3:h:hp:laserjet_pro_200_color_m251_cf147a:-:*:*:*:*:*:*:*,HP LaserJet Pro 200 Color M251 CF147A,['CVE-2020-28419'],2022-03-21T15:15Z
+7,cpe:2.3:h:hp:laserjet_pro_200_color_m276_cf144a:-:*:*:*:*:*:*:*,HP LaserJet Pro 200 Color M276 CF144A,['CVE-2020-28419'],2022-03-21T15:15Z
+8,cpe:2.3:h:hp:laserjet_pro_200_color_m276_cf145a:-:*:*:*:*:*:*:*,HP LaserJet Pro 200 Color M276 CF145A,['CVE-2020-28419'],2022-03-21T15:15Z
+9,cpe:2.3:h:hp:laserjet_pro_300_color_mfp_m351_ce955a:-:*:*:*:*:*:*:*,HP LaserJet Pro 300 Color MFP M351 CE955A,['CVE-2020-28419'],2022-03-21T15:15Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:insight_management_agents:6.40.0.0:*:*:*:*:*:*:*,HP Insight Management Agents 6.40.0.0,"['CVE-2010-4112', 'CVE-2012-2003', 'CVE-2012-2004', 'CVE-2012-2005', 'CVE-2012-2006']",2022-03-21T13:40Z
+1,cpe:2.3:a:hp:insight_management_agents:7.0.0.0:*:*:*:*:*:*:*,HP Insight Management Agents 7.0.0.0,"['CVE-2010-4112', 'CVE-2012-2003', 'CVE-2012-2004', 'CVE-2012-2005', 'CVE-2012-2006']",2022-03-21T13:40Z
+2,cpe:2.3:a:hp:insight_management_agents:7.10.0.0:*:*:*:*:*:*:*,HP Insight Management Agents 7.10.0.0,"['CVE-2010-4112', 'CVE-2012-2003', 'CVE-2012-2004', 'CVE-2012-2005', 'CVE-2012-2006']",2022-03-21T13:40Z
+3,cpe:2.3:a:hp:insight_management_agents:7.20.0.0:*:*:*:*:*:*:*,HP Insight Management Agents 7.20.0.0,"['CVE-2010-4112', 'CVE-2012-2003', 'CVE-2012-2004', 'CVE-2012-2005', 'CVE-2012-2006']",2022-03-21T13:40Z
+4,cpe:2.3:a:hp:insight_management_agents:7.30.0.0:*:*:*:*:*:*:*,HP Insight Management Agents 7.30.0.0,"['CVE-2010-4112', 'CVE-2012-2003', 'CVE-2012-2004', 'CVE-2012-2005', 'CVE-2012-2006']",2022-03-21T13:40Z
+5,cpe:2.3:a:hp:insight_management_agents:7.40.0.0:*:*:*:*:*:*:*,HP Insight Management Agents 7.40.0.0,"['CVE-2010-4112', 'CVE-2012-2003', 'CVE-2012-2004', 'CVE-2012-2005', 'CVE-2012-2006']",2022-03-21T13:40Z
+6,cpe:2.3:a:hp:insight_management_agents:7.40.1.0:*:*:*:*:*:*:*,HP Insight Management Agents 7.40.1.0,"['CVE-2010-4112', 'CVE-2012-2003', 'CVE-2012-2004', 'CVE-2012-2005', 'CVE-2012-2006']",2022-03-21T13:40Z
+7,cpe:2.3:a:hp:insight_management_agents:7.41.0.0:*:*:*:*:*:*:*,HP Insight Management Agents 7.41.0.0,"['CVE-2010-4112', 'CVE-2012-2003', 'CVE-2012-2004', 'CVE-2012-2005', 'CVE-2012-2006']",2022-03-21T13:40Z
+8,cpe:2.3:a:hp:insight_management_agents:7.50.0.0:*:*:*:*:*:*:*,HP Insight Management Agents 7.50.0.0,"['CVE-2010-4112', 'CVE-2012-2003', 'CVE-2012-2004', 'CVE-2012-2005', 'CVE-2012-2006']",2022-03-21T13:40Z
+9,cpe:2.3:a:hp:insight_management_agents:7.51.0.0:*:*:*:*:*:*:*,HP Insight Management Agents 7.51.0.0,"['CVE-2010-4112', 'CVE-2012-2003', 'CVE-2012-2004', 'CVE-2012-2005', 'CVE-2012-2006']",2022-03-21T13:40Z

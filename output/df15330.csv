@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:afterlogic:webmail_pro:8.8.0:*:*:*:*:*:*:*,Afterlogic WebMail Pro 8.8.0,[''],2022-03-18T13:35Z
+1,cpe:2.3:a:afterlogic:webmail_pro:8.8.1:*:*:*:*:*:*:*,Afterlogic WebMail Pro 8.8.1,[''],2022-03-18T13:35Z
+2,cpe:2.3:a:afterlogic:webmail_pro:8.8.2:*:*:*:*:*:*:*,Afterlogic WebMail Pro 8.8.2,[''],2022-03-18T13:35Z
+3,cpe:2.3:a:afterlogic:webmail_pro:8.8.3:*:*:*:*:*:*:*,Afterlogic WebMail Pro 8.8.3,[''],2022-03-18T13:35Z
+4,cpe:2.3:a:age_verification_project:age_verification:0.4:*:*:*:*:*:*:*,Age Verification plugin for WordPress 0.4,['CVE-2012-6499'],2022-03-18T13:35Z
+5,cpe:2.3:a:agence_web_360:page_flip_book:-:*:*:*:*:wordpress:*:*,Agence Web 360 Page Flip Book for WordPress,[''],2022-03-18T13:35Z
+6,cpe:2.3:a:agence_web_360:page_flip_book:3.0:*:*:*:*:wordpress:*:*,Agence Web 360 Page Flip Book 3.0 for WordPress,[''],2022-03-18T13:35Z
+7,cpe:2.3:a:agendaless:waitress:0.1:*:*:*:*:*:*:*,Agendaless Waitress 0.1,"['CVE-2019-16785', 'CVE-2019-16786', 'CVE-2019-16789', 'CVE-2019-16792']",2022-03-18T13:35Z
+8,cpe:2.3:a:agendaless:waitress:0.2:*:*:*:*:*:*:*,Agendaless Waitress 0.2,"['CVE-2019-16785', 'CVE-2019-16786', 'CVE-2019-16789', 'CVE-2019-16792']",2022-03-18T13:35Z
+9,cpe:2.3:a:agendaless:waitress:0.3:*:*:*:*:*:*:*,Agendaless Waitress 0.3,"['CVE-2019-16785', 'CVE-2019-16786', 'CVE-2019-16789', 'CVE-2019-16792']",2022-03-18T13:35Z

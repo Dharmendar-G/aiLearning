@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,cpe:2.3:a:bdwgc_project:bdwgc:5.3:*:*:*:*:*:*:*,bdwgc Project bdwgc 5.3,['CVE-2016-9427'],2022-03-19T06:41Z
+5,cpe:2.3:a:bdwgc_project:bdwgc:6.0:-:*:*:*:*:*:*,bdwgc Project bdwgc 6.0,['CVE-2016-9427'],2022-03-19T06:41Z
+6,cpe:2.3:a:bdwgc_project:bdwgc:6.0:alpha3:*:*:*:*:*:*,bdwgc Project bdwgc 6.0 Alpha 3,['CVE-2016-9427'],2022-03-19T06:41Z
+7,cpe:2.3:a:bdwgc_project:bdwgc:6.0:alpha8:*:*:*:*:*:*,bdwgc Project bdwgc 6.0 Alpha 8,['CVE-2016-9427'],2022-03-19T06:41Z
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

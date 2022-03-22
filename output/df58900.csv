@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:troubleshooting_and_support:1.6.1:*:*:*:*:*:*:*,Atlassian Troubleshooting and Support 1.6.1,['CVE-2019-15005'],2022-03-19T02:15Z
+1,cpe:2.3:a:atlassian:troubleshooting_and_support:1.8.2:*:*:*:*:*:*:*,Atlassian Troubleshooting and Support 1.8.2,['CVE-2019-15005'],2022-03-19T02:15Z
+2,cpe:2.3:a:atlassian:troubleshooting_and_support:1.8.3:*:*:*:*:*:*:*,Atlassian Troubleshooting and Support 1.8.3,['CVE-2019-15005'],2022-03-19T02:15Z
+3,cpe:2.3:a:atlassian:troubleshooting_and_support:1.8.4:*:*:*:*:*:*:*,Atlassian Troubleshooting and Support 1.8.4,['CVE-2019-15005'],2022-03-19T02:15Z
+4,cpe:2.3:a:atlassian:troubleshooting_and_support:1.8.9:*:*:*:*:*:*:*,Atlassian Troubleshooting and Support 1.8.9,['CVE-2019-15005'],2022-03-19T02:15Z
+5,cpe:2.3:a:atlassian:troubleshooting_and_support:1.8.11:*:*:*:*:*:*:*,Atlassian Troubleshooting and Support 1.8.11,['CVE-2019-15005'],2022-03-19T02:15Z
+6,cpe:2.3:a:atlassian:troubleshooting_and_support:1.9.1:*:*:*:*:*:*:*,Atlassian Troubleshooting and Support 1.9.1,['CVE-2019-15005'],2022-03-19T02:15Z
+7,cpe:2.3:a:atlassian:troubleshooting_and_support:1.10.0:*:*:*:*:*:*:*,Atlassian Troubleshooting and Support 1.10.0,['CVE-2019-15005'],2022-03-19T02:15Z
+8,cpe:2.3:a:atlassian:troubleshooting_and_support:1.10.1:*:*:*:*:*:*:*,Atlassian Troubleshooting and Support 1.10.1,['CVE-2019-15005'],2022-03-19T02:15Z
+9,cpe:2.3:a:atlassian:troubleshooting_and_support:1.10.3:*:*:*:*:*:*:*,Atlassian Troubleshooting and Support 1.10.3,['CVE-2019-15005'],2022-03-19T02:15Z

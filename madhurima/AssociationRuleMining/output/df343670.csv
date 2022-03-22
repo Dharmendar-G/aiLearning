@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:infosphere_information_server_metadata_workbench:8.5.0.1:*:*:*:*:*:*:*,IBM InfoSphere Information Server Metadata Workbench 8.5.0.1,['CVE-2014-0933'],2022-03-21T20:49Z
+1,cpe:2.3:a:ibm:infosphere_information_server_metadata_workbench:8.5.0.2:*:*:*:*:*:*:*,IBM InfoSphere Information Server Metadata Workbench 8.5.0.2,['CVE-2014-0933'],2022-03-21T20:49Z
+2,cpe:2.3:a:ibm:infosphere_information_server_metadata_workbench:8.5.0.3:*:*:*:*:*:*:*,IBM InfoSphere Information Server Metadata Workbench 8.5.0.3,['CVE-2014-0933'],2022-03-21T20:49Z
+3,cpe:2.3:a:ibm:infosphere_information_server_metadata_workbench:8.7.0:*:*:*:*:*:*:*,IBM InfoSphere Information Server Metadata Workbench 8.7.0,['CVE-2014-0933'],2022-03-21T20:49Z
+4,cpe:2.3:a:ibm:infosphere_information_server_metadata_workbench:8.7.0.1:*:*:*:*:*:*:*,IBM InfoSphere Information Server Metadata Workbench 8.7.0.1,['CVE-2014-0933'],2022-03-21T20:49Z
+5,cpe:2.3:a:ibm:infosphere_information_server_metadata_workbench:8.7.0.2:*:*:*:*:*:*:*,IBM InfoSphere Information Server Metadata Workbench 8.7.0.2,['CVE-2014-0933'],2022-03-21T20:49Z
+6,cpe:2.3:a:ibm:infosphere_information_server_metadata_workbench:9.1:*:*:*:*:*:*:*,IBM INFORMATION SERVER METADATA WORKBENCH 9.1,['CVE-2018-1845'],2022-03-21T20:49Z
+7,cpe:2.3:a:ibm:infosphere_information_server_metadata_workbench:9.1.0:*:*:*:*:*:*:*,IBM InfoSphere Information Server Metadata Workbench 9.1.0,['CVE-2014-0933'],2022-03-21T20:49Z
+8,cpe:2.3:a:ibm:infosphere_information_server_metadata_workbench:9.1.0.1:*:*:*:*:*:*:*,IBM InfoSphere Information Server Metadata Workbench 9.1.0.1,['CVE-2014-0933'],2022-03-21T20:49Z
+9,cpe:2.3:a:ibm:infosphere_information_server_metadata_workbench:9.1.2.0:*:*:*:*:*:*:*,IBM InfoSphere Information Server Metadata Workbench 9.1.2.0,[''],2022-03-21T20:49Z

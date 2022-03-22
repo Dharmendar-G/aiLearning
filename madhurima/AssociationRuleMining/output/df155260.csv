@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cogentdatahub:datahub_quicktrend:7.3.0:*:*:*:*:*:*:*,cogentdatahub DataHub QuickTrend 7.3.0,[''],2022-03-20T06:20Z
+1,cpe:2.3:a:cogentdatahub:opc_datahub:6.4.20:*:*:*:*:*:*:*,Cogent OPC DataHub 6.4.20,"['CVE-2012-0309', 'CVE-2012-0310', 'CVE-2013-0680', 'CVE-2013-0681', 'CVE-2013-0682', 'CVE-2013-0683']",2022-03-20T06:20Z
+2,cpe:2.3:a:cogentdatahub:opc_datahub:6.4.21:*:*:*:*:*:*:*,Cogent OPC DataHub 6.4.21,"['CVE-2013-0680', 'CVE-2013-0681', 'CVE-2013-0682', 'CVE-2013-0683']",2022-03-20T06:20Z
+3,cpe:2.3:a:cogentdatahub:opc_datahub:6.4.22:*:*:*:*:*:*:*,Cogent OPC DataHub 6.4.22,[''],2022-03-20T06:20Z
+4,cpe:2.3:a:cognitect:datomic:0.8.3335:*:*:*:*:*:*:*,Cognitect Datomic 0.8.3335,['CVE-2018-10054'],2022-03-20T06:20Z
+5,cpe:2.3:a:cognitect:datomic:0.8.3343:*:*:*:*:*:*:*,Cognitect Datomic 0.8.3343,['CVE-2018-10054'],2022-03-20T06:20Z
+6,cpe:2.3:a:cognitect:datomic:0.8.3372:*:*:*:*:*:*:*,Cognitect Datomic 0.8.3372,['CVE-2018-10054'],2022-03-20T06:20Z
+7,cpe:2.3:a:cognitect:datomic:0.8.3397:*:*:*:*:*:*:*,Cognitect Datomic 0.8.3397,['CVE-2018-10054'],2022-03-20T06:20Z
+8,cpe:2.3:a:cognitect:datomic:0.8.3423:*:*:*:*:*:*:*,Cognitect Datomic 0.8.3423,['CVE-2018-10054'],2022-03-20T06:20Z
+9,cpe:2.3:a:cognitect:datomic:0.8.3435:*:*:*:*:*:*:*,Cognitect Datomic 0.8.3435,['CVE-2018-10054'],2022-03-20T06:20Z

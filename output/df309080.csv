@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hcltech:hcl_nomad:1.0.8:*:*:*:*:iphone_os:*:*,HCL Technology HCL Nomad 1.0.8 for iPhone OS,['CVE-2020-4092'],2022-03-21T10:27Z
+1,cpe:2.3:a:hcltech:hcl_sametime:-:*:*:*:*:android:*:*,HCL Technologies HCL Sametime for Android,"['CVE-2021-27753', 'CVE-2021-27755']",2022-03-21T10:27Z
+2,cpe:2.3:a:hcltech:hcl_sametime:11.6.5:*:*:*:*:android:*:*,HCL Technologies HCL Sametime 11.6.5 for Android,[''],2022-03-21T10:27Z
+3,cpe:2.3:h:hcltech:legacy_ivr:-:*:*:*:*:*:*:*,HCL Technologies Limited Legacy Interactive Voice Response (IVR),['CVE-2018-11518'],2022-03-21T10:27Z
+4,cpe:2.3:o:hcltech:legacy_ivr_firmware:-:*:*:*:*:*:*:*,HCL Technologies Limited Legacy Interactive Voice Response (IVR) firmware,['CVE-2018-11518'],2022-03-21T10:27Z
+5,cpe:2.3:a:hcltech:marketing_campaign:9.1.2.4:*:*:*:*:*:*:*,HCL Marketing Campaign 9.1.2.4,['CVE-2019-4091'],2022-03-21T10:27Z
+6,cpe:2.3:a:hcltech:marketing_campaign:10.1.0:*:*:*:*:*:*:*,HCL Marketing Campaign 10.1.0,"['CVE-2019-4090', 'CVE-2019-4091']",2022-03-21T10:27Z
+7,cpe:2.3:a:hcltech:marketing_campaign:10.1.0.3:*:*:*:*:*:*:*,HCL Marketing Campaign 10.1.0.3,['CVE-2019-4091'],2022-03-21T10:27Z
+8,cpe:2.3:a:hcltech:marketing_campaign:10.1.0.4:*:*:*:*:*:*:*,HCL Marketing Campaign 10.1.0.4,[''],2022-03-21T10:27Z
+9,cpe:2.3:a:hcltech:marketing_campaign:11.0.1:*:*:*:*:*:*:*,HCL Marketing Campaign 11.0.1,['CVE-2019-4090'],2022-03-21T10:28Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:o:ibm:security_access_manager_firmware:9.0.3.1:*:*:*:*:*:*:*,IBM Security Access Manager Firmware 9.0.3.1,['CVE-2017-1473'],2022-03-21T21:54Z
+2,cpe:2.3:a:ibm:security_access_manager_for_enterprise_single_sign-on:8.2:*:*:*:*:*:*:*,IBM Security Access Manager for Enterprise Single Sign-On (ISAM ESSO) 8.2,"['CVE-2013-5420', 'CVE-2013-5421', 'CVE-2013-6745', 'CVE-2015-0235']",2022-03-21T21:54Z
+3,cpe:2.3:a:ibm:security_access_manager_for_enterprise_single_sign-on:8.2.2:*:*:*:*:*:*:*,IBM Security Access Manager For Enterprise Single Sign-On 8.2.2,"['CVE-2017-1732', 'CVE-2019-4513']",2022-03-21T21:54Z
+4,cpe:2.3:a:ibm:security_access_manager_for_mobile:8.0.0:*:*:*:*:*:*:*,IBM Security Access Manager For Mobile 8.0.0,"['CVE-2015-5013', 'CVE-2016-3020', 'CVE-2016-3043', 'CVE-2016-3046', 'CVE-2016-5919', 'CVE-2017-1459', 'CVE-2017-1474', 'CVE-2017-1476', 'CVE-2017-1480', 'CVE-2017-1534']",2022-03-21T21:54Z
+5,cpe:2.3:o:ibm:security_access_manager_for_mobile:8.0.0:*:*:*:*:*:*:*,IBM Security Access Manager For Mobile 8.0.0,['CVE-2017-1473'],2022-03-21T21:54Z
+6,cpe:2.3:o:ibm:security_access_manager_for_mobile:8.0.0.1:*:*:*:*:*:*:*,IBM Security Access Manager For Mobile 8.0.0.1,['CVE-2017-1473'],2022-03-21T21:54Z
+7,cpe:2.3:a:ibm:security_access_manager_for_mobile:8.0.0.1:-:*:*:*:*:*:*,IBM Security Access Manager For Mobile 8.0.0.1 -,"['CVE-2014-4751', 'CVE-2015-5013', 'CVE-2016-3018', 'CVE-2016-3020', 'CVE-2016-3025', 'CVE-2016-3043', 'CVE-2016-3046', 'CVE-2016-5919', 'CVE-2017-1459', 'CVE-2017-1474', 'CVE-2017-1476', 'CVE-2017-1480', 'CVE-2017-1489', 'CVE-2017-1534']",2022-03-21T21:54Z
+8,cpe:2.3:a:ibm:security_access_manager_for_mobile:8.0.0.2:*:*:*:*:*:*:*,IBM Security Access Manager for Mobile 8.0.0.2,"['CVE-2015-5013', 'CVE-2016-3018', 'CVE-2016-3020', 'CVE-2016-3025', 'CVE-2016-3043', 'CVE-2016-3046', 'CVE-2016-5919', 'CVE-2017-1459', 'CVE-2017-1474', 'CVE-2017-1476', 'CVE-2017-1480', 'CVE-2017-1489', 'CVE-2017-1534']",2022-03-21T21:54Z
+9,cpe:2.3:o:ibm:security_access_manager_for_mobile:8.0.0.3:*:*:*:*:*:*:*,IBM Security Access Manager For Mobile 8.0.0.3,['CVE-2017-1473'],2022-03-21T21:54Z

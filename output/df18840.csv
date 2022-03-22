@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alfresco:alfresco_content_services:6.2.2.18:*:*:*:*:*:*:*,Alfresco Content Services 6.2.2.18,['CVE-2021-41792'],2022-03-18T14:40Z
+1,cpe:2.3:a:alfresco:alfresco_content_services:6.2.2.19:*:*:*:*:*:*:*,Alfresco Content Services 6.2.2.19,[''],2022-03-18T14:40Z
+2,cpe:2.3:a:alfresco:alfresco_content_services:6.2.2.20:*:*:*:*:*:*:*,Alfresco Content Services 6.2.2.20,[''],2022-03-18T14:40Z
+3,cpe:2.3:a:alfresco:alfresco_content_services:6.2.2.21:*:*:*:*:*:*:*,Alfresco Content Services 6.2.2.21,[''],2022-03-18T14:40Z
+4,cpe:2.3:a:alfresco:alfresco_content_services:7.0:*:*:*:enterprise:*:*:*,Alfresco Content Services 7.0 Enterprise Edition,['CVE-2021-41790'],2022-03-18T14:40Z
+5,cpe:2.3:a:alfresco:alfresco_content_services:7.0.0.1:*:*:*:*:*:*:*,Alfresco Content Services 7.0.0.1,[''],2022-03-18T14:40Z
+6,cpe:2.3:a:alfresco:alfresco_content_services:7.0.0.1:*:*:*:enterprise:*:*:*,Alfresco Content Services 7.0.0.1 Enterprise Edition,['CVE-2021-41790'],2022-03-18T14:40Z
+7,cpe:2.3:a:alfresco:alfresco_content_services:7.0.0.2:*:*:*:*:*:*:*,Alfresco Content Services 7.0.0.2,[''],2022-03-18T14:40Z
+8,cpe:2.3:a:alfresco:alfresco_content_services:7.0.0.2:*:*:*:enterprise:*:*:*,Alfresco Content Services 7.0.0.2 Enterprise Edition,['CVE-2021-41790'],2022-03-18T14:40Z
+9,cpe:2.3:a:alfresco:alfresco_content_services:7.0.0.3:*:*:*:*:*:*:*,Alfresco Content Services 7.0.0.3,[''],2022-03-18T14:40Z

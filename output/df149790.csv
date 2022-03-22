@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cmu:cyrus-sasl:2.1.19:*:*:*:*:*:*:*,Carnegie Mellon University Cyrus SASL 2.1.19,['CVE-2013-4122'],2022-03-20T04:30Z
+1,cpe:2.3:a:cmu:cyrus-sasl:2.1.20:*:*:*:*:*:*:*,Carnegie Mellon University Cyrus SASL 2.1.20,['CVE-2013-4122'],2022-03-20T04:30Z
+2,cpe:2.3:a:cmu:cyrus-sasl:2.1.21:*:*:*:*:*:*:*,Carnegie Mellon University Cyrus SASL 2.1.21,['CVE-2013-4122'],2022-03-20T04:30Z
+3,cpe:2.3:a:cmu:cyrus-sasl:2.1.22:*:*:*:*:*:*:*,Carnegie Mellon University Cyrus SASL 2.1.22,['CVE-2013-4122'],2022-03-20T04:31Z
+4,cpe:2.3:a:cmu:cyrus-sasl:2.1.23:*:*:*:*:*:*:*,Carnegie Mellon University Cyrus SASL 2.1.23,['CVE-2013-4122'],2022-03-20T04:31Z
+5,cpe:2.3:a:cmu:cyrus-sasl:2.1.24:rc1:*:*:*:*:*:*,Carnegie Mellon University Cyrus SASL 2.1.24,['CVE-2013-4122'],2022-03-20T04:31Z
+6,cpe:2.3:a:cmu:cyrus-sasl:2.1.25:*:*:*:*:*:*:*,Carnegie Mellon University Cyrus SASL 2.1.25,['CVE-2013-4122'],2022-03-20T04:31Z
+7,cpe:2.3:a:cmu:cyrus-sasl:2.1.26:*:*:*:*:*:*:*,Carnegie Mellon University Cyrus SASL 2.1.26,['CVE-2013-4122'],2022-03-20T04:31Z
+8,cpe:2.3:a:cmu:flite:1.4:*:*:*:*:*:*:*,Carnegie Mellon University Flite 1.4,['CVE-2014-0027'],2022-03-20T04:31Z
+9,cpe:2.3:a:cmu:isilk:0.1.6:*:*:*:*:*:*:*,Cmu Isilk 0.1.6,[''],2022-03-20T04:31Z

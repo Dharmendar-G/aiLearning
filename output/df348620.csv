@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:spectrum_protect_client:8.1.4.2:*:*:*:*:macos:*:*,IBM Spectrum Protect Client 8.1.4.2 for macOS,"['CVE-2018-1545', 'CVE-2018-1785', 'CVE-2021-20546', 'CVE-2021-29672']",2022-03-21T22:09Z
+1,cpe:2.3:a:ibm:spectrum_protect_client:8.1.5:*:*:*:*:*:*:*,IBM Spectrum Protect Client 8.1.5,"['CVE-2021-20546', 'CVE-2021-29672']",2022-03-21T22:09Z
+2,[0],[0],[0],[0]
+3,cpe:2.3:a:ibm:spectrum_protect_client:8.1.5:*:*:*:*:macos:*:*,IBM Spectrum Protect Client 8.1.5 for macOS,"['CVE-2021-20546', 'CVE-2021-29672']",2022-03-21T22:09Z
+4,cpe:2.3:a:ibm:spectrum_protect_client:8.1.6:*:*:*:*:*:*:*,IBM Spectrum Protect Client 8.1.6,"['CVE-2021-20546', 'CVE-2021-29672']",2022-03-21T22:09Z
+5,[0],[0],[0],[0]
+6,cpe:2.3:a:ibm:spectrum_protect_client:8.1.6:*:*:*:*:macos:*:*,IBM Spectrum Protect Client 8.1.6 for macOS,"['CVE-2021-20546', 'CVE-2021-29672']",2022-03-21T22:09Z
+7,cpe:2.3:a:ibm:spectrum_protect_client:8.1.7.0:*:*:*:*:*:*:*,IBM Spectrum Protect Client 8.1.7.0,"['CVE-2020-4406', 'CVE-2020-4494', 'CVE-2021-20546', 'CVE-2021-29672']",2022-03-21T22:09Z
+8,cpe:2.3:a:ibm:spectrum_protect_client:8.1.9.0:*:*:*:*:*:*:*,IBM Spectrum Protect Client 8.1.9.0,"['CVE-2020-4406', 'CVE-2020-4494', 'CVE-2021-20546', 'CVE-2021-29672']",2022-03-21T22:09Z
+9,cpe:2.3:a:ibm:spectrum_protect_client:8.1.9.1:*:*:*:*:*:*:*,IBM Spectrum Protect Client 8.1.9.1,"['CVE-2020-4406', 'CVE-2020-4494', 'CVE-2021-20546', 'CVE-2021-29672']",2022-03-21T22:09Z

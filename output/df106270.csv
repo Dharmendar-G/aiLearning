@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cern:indico:1.9.11:dev14:*:*:*:*:*:*,CERN Indico 1.9.11 Dev14,['CVE-2021-30185'],2022-03-19T16:12Z
+1,cpe:2.3:a:cern:indico:1.9.11:dev15:*:*:*:*:*:*,CERN Indico 1.9.11 Dev15,['CVE-2021-30185'],2022-03-19T16:12Z
+2,cpe:2.3:a:cern:indico:1.9.11:dev16:*:*:*:*:*:*,CERN Indico 1.9.11 Dev16,['CVE-2021-30185'],2022-03-19T16:12Z
+3,cpe:2.3:a:cern:indico:1.9.11:dev17:*:*:*:*:*:*,CERN Indico 1.9.11 Dev17,['CVE-2021-30185'],2022-03-19T16:12Z
+4,cpe:2.3:a:cern:indico:1.9.11:dev18:*:*:*:*:*:*,CERN Indico 1.9.11 Dev18,['CVE-2021-30185'],2022-03-19T16:12Z
+5,cpe:2.3:a:cern:indico:1.9.11:dev3:*:*:*:*:*:*,CERN Indico 1.9.11 Dev3,['CVE-2021-30185'],2022-03-19T16:12Z
+6,cpe:2.3:a:cern:indico:1.9.11:dev6:*:*:*:*:*:*,CERN Indico 1.9.11 Dev6,['CVE-2021-30185'],2022-03-19T16:12Z
+7,cpe:2.3:a:cern:indico:1.9.11:dev7:*:*:*:*:*:*,CERN Indico 1.9.11 Dev7,['CVE-2021-30185'],2022-03-19T16:12Z
+8,cpe:2.3:a:cern:indico:1.9.11:dev8:*:*:*:*:*:*,CERN Indico 1.9.11 Dev8,['CVE-2021-30185'],2022-03-19T16:12Z
+9,cpe:2.3:a:cern:indico:1.9.11:dev9:*:*:*:*:*:*,CERN Indico 1.9.11 Dev9,['CVE-2021-30185'],2022-03-19T16:12Z

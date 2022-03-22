@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:proximity:3.0.2:*:*:*:*:windows:*:*,Cisco Proximity 3.0.2 for Windows,['CVE-2021-1240'],2022-03-19T23:50Z
+1,cpe:2.3:a:cisco:proximity:3.0.3:*:*:*:*:windows:*:*,Cisco Proximity 3.0.3 for Windows,['CVE-2021-1240'],2022-03-19T23:50Z
+2,cpe:2.3:a:cisco:proximity:3.0.4:*:*:*:*:windows:*:*,Cisco Proximity 3.0.4 for Windows,['CVE-2021-1240'],2022-03-19T23:50Z
+3,cpe:2.3:a:cisco:proximity:3.0.5:*:*:*:*:windows:*:*,Cisco Proximity 3.0.5 for Windows,['CVE-2021-1240'],2022-03-19T23:50Z
+4,cpe:2.3:a:cisco:proximity:3.0.6:*:*:*:*:windows:*:*,Cisco Proximity 3.0.6 for Windows,['CVE-2021-1240'],2022-03-19T23:50Z
+5,cpe:2.3:a:cisco:proximity:3.0.7:*:*:*:*:windows:*:*,Cisco Proximity 3.0.7 for Windows,['CVE-2021-1240'],2022-03-19T23:50Z
+6,cpe:2.3:a:cisco:proximity:3.0.8:*:*:*:*:windows:*:*,Cisco Proximity 3.0.8 for Windows,['CVE-2021-1240'],2022-03-19T23:50Z
+7,cpe:2.3:a:cisco:proximity:3.1.0:*:*:*:*:windows:*:*,Cisco Proximity 3.1.0 for Windows,[''],2022-03-19T23:50Z
+8,cpe:2.3:h:cisco:pvc2300:-:*:*:*:*:*:*:*,Cisco PVC2300 Business Internet Video Camera,"['CVE-2010-0593', 'CVE-2015-6358']",2022-03-19T23:50Z
+9,cpe:2.3:o:cisco:pvc2300_firmware:1.1.2.6:*:*:*:*:*:*:*,Cisco PVC2300 Business Internet Video Camera Firmware 1.1.2.6,['CVE-2015-6358'],2022-03-19T23:50Z

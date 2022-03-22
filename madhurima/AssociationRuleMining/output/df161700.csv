@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:coppermine-gallery:coppermine_photo_gallery:1.5.40:*:*:*:*:*:*:*,Coppermine-gallery Coppermine Photo Gallery 1.5.40,['CVE-2011-2476'],2022-03-20T08:00Z
+1,cpe:2.3:a:coppermine-gallery:coppermine_photo_gallery:1.5.42:*:*:*:*:*:*:*,Coppermine-gallery Coppermine Photo Gallery 1.5.42,['CVE-2011-2476'],2022-03-20T08:00Z
+2,cpe:2.3:a:coppermine-gallery:coppermine_photo_gallery:1.5.44:*:*:*:*:*:*:*,Coppermine-gallery Coppermine Photo Gallery 1.5.44,['CVE-2011-2476'],2022-03-20T08:00Z
+3,cpe:2.3:a:coppermine-gallery:coppermine_photo_gallery:1.5.46:*:*:*:*:*:*:*,Coppermine-gallery Coppermine Photo Gallery 1.5.46,"['CVE-2011-2476', 'CVE-2018-14478']",2022-03-20T08:00Z
+4,cpe:2.3:a:coppermine-gallery:coppermine_photo_gallery:1.5.48:*:*:*:*:*:*:*,Coppermine-gallery Coppermine Photo Gallery 1.5.48,['CVE-2011-2476'],2022-03-20T08:00Z
+5,cpe:2.3:a:coppermine-gallery:coppermine_photo_gallery:1.6.00:*:*:*:*:*:*:*,Coppermine-gallery Coppermine Photo Gallery 1.6.00,"['CVE-2011-2476', 'CVE-2014-4612']",2022-03-20T08:00Z
+6,cpe:2.3:a:coppermine-gallery:coppermine_photo_gallery:1.6.01:*:*:*:*:*:*:*,Coppermine-gallery Coppermine Photo Gallery 1.6.01,['CVE-2011-2476'],2022-03-20T08:00Z
+7,cpe:2.3:a:coppermine-gallery:coppermine_photo_gallery:1.6.03:*:*:*:*:*:*:*,Coppermine-gallery Coppermine Photo Gallery 1.6.03,['CVE-2011-2476'],2022-03-20T08:00Z
+8,cpe:2.3:a:coppermine-gallery:coppermine_photo_gallery:1.6.04:*:*:*:*:*:*:*,Coppermine-gallery Coppermine Photo Gallery 1.6.04,['CVE-2011-2476'],2022-03-20T08:00Z
+9,cpe:2.3:a:coppermine-gallery:coppermine_photo_gallery:1.6.05:*:*:*:*:*:*:*,Coppermine-gallery Coppermine Photo Gallery 1.6.05,['CVE-2011-2476'],2022-03-20T08:00Z

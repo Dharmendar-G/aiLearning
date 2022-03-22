@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:openview_performance_extended_capability_technology:4.70.0:*:*:*:*:*:*:*,HP Openview Performance Extended Capability Technology 4.70.0,[''],2022-03-21T15:36Z
+1,cpe:2.3:a:hp:openview_performance_extended_capability_technology:5.0.0:*:*:*:*:*:*:*,HP Openview Performance Extended Capability Technology 5.0.0,[''],2022-03-21T15:36Z
+2,cpe:2.3:a:hp:openview_perl:5.6.13:*:*:*:*:*:*:*,HP Openview Perl 5.6.13,[''],2022-03-21T15:36Z
+3,cpe:2.3:a:hp:openview_process_control:1.50.241:*:*:*:*:*:*:*,HP Openview Process Control 1.50.241,[''],2022-03-21T15:36Z
+4,cpe:2.3:a:hp:openview_process_control:1.50.250:*:*:*:*:*:*:*,HP Openview Process Control 1.50.250,[''],2022-03-21T15:36Z
+5,cpe:2.3:a:hp:openview_radia_management_portal:-:*:*:*:*:*:*:*,HP OpenView Radia Management Portal,[''],2022-03-21T15:36Z
+6,cpe:2.3:a:hp:openview_radia_management_portal:1.0:*:*:*:*:*:*:*,HP OpenView Radia Management Portal 1.0,['CVE-2005-1370'],2022-03-21T15:36Z
+7,cpe:2.3:a:hp:openview_radia_management_portal:2.0:*:*:*:*:*:*:*,HP OpenView Radia Management Portal 2.0,['CVE-2005-1370'],2022-03-21T15:36Z
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

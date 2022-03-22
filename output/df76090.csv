@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bingrep_project:bingrep:0.9.0:*:*:*:*:*:*:*,bingrep Project bingrep 0.9.0,[''],2022-03-19T07:42Z
+1,cpe:2.3:h:binom3:universal_multifunctional_electric_power_quality_meter:-:*:*:*:*:*:*:*,BINOM3 Universal Multifunctional Electric Power Quality Meter,"['CVE-2017-5162', 'CVE-2017-5164', 'CVE-2017-5165', 'CVE-2017-5166', 'CVE-2017-5167']",2022-03-19T07:42Z
+2,cpe:2.3:o:binom3:universal_multifunctional_electric_power_quality_meter_firmware:-:*:*:*:*:*:*:*,BINOM3 Universal Multifunctional Electric Power Quality Meter Firmware,"['CVE-2017-5162', 'CVE-2017-5164', 'CVE-2017-5165', 'CVE-2017-5166', 'CVE-2017-5167']",2022-03-19T07:42Z
+3,cpe:2.3:a:bioinformatics:htmlawed:1.0:*:*:*:*:*:*:*,bioinformatics htmlawed 1.0,['CVE-2009-0404'],2022-03-19T07:42Z
+4,cpe:2.3:a:bioinformatics:htmlawed:1.0.1:*:*:*:*:*:*:*,bioinformatics htmlawed 1.0.1,['CVE-2009-0404'],2022-03-19T07:42Z
+5,cpe:2.3:a:bioinformatics:htmlawed:1.0.2:*:*:*:*:*:*:*,bioinformatics htmlawed 1.0.2,['CVE-2009-0404'],2022-03-19T07:42Z
+6,cpe:2.3:a:bioinformatics:htmlawed:1.0.3:*:*:*:*:*:*:*,bioinformatics htmlawed 1.0.3,['CVE-2009-0404'],2022-03-19T07:42Z
+7,cpe:2.3:a:bioinformatics:htmlawed:1.0.4:*:*:*:*:*:*:*,bioinformatics htmlawed 1.0.4,['CVE-2009-0404'],2022-03-19T07:42Z
+8,cpe:2.3:a:bioinformatics:htmlawed:1.0.5:*:*:*:*:*:*:*,bioinformatics htmlawed 1.0.5,['CVE-2009-0404'],2022-03-19T07:42Z
+9,cpe:2.3:a:bioinformatics:htmlawed:1.0.6:*:*:*:*:*:*:*,bioinformatics htmlawed 1.0.6,['CVE-2009-0404'],2022-03-19T07:42Z

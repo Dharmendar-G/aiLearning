@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:chromebook_11_3189:-:*:*:*:*:*:*:*,Dell Chromebook 11 3189,['CVE-2017-15361'],2022-03-20T12:15Z
+1,cpe:2.3:h:dell:chromebook_13_3380:-:*:*:*:*:*:*:*,Dell Chromebook 13 3380,['CVE-2017-15361'],2022-03-20T12:15Z
+2,cpe:2.3:h:dell:chromebox:-:*:*:*:*:*:*:*,Dell Chromebox,['CVE-2017-15361'],2022-03-20T12:15Z
+3,cpe:2.3:a:dell:client_configuration_toolkit:1.0:*:*:*:*:*:*:*,Dell Client Configuration Toolkit (CCTK) 1.0,[''],2022-03-20T12:15Z
+4,cpe:2.3:a:dell:client_configuration_toolkit:1.0.1:*:*:*:*:*:*:*,Dell Client Configuration Toolkit (CCTK) 1.0.1,[''],2022-03-20T12:15Z
+5,cpe:2.3:a:dell:client_configuration_toolkit:1.1:*:*:*:*:*:*:*,Dell Client Configuration Toolkit (CCTK) 1.1,[''],2022-03-20T12:15Z
+6,cpe:2.3:a:dell:client_configuration_toolkit:1.2:*:*:*:*:*:*:*,Dell Client Configuration Toolkit (CCTK) 1.2,[''],2022-03-20T12:15Z
+7,cpe:2.3:a:dell:client_configuration_toolkit:1.2.1:*:*:*:*:*:*:*,Dell Client Configuration Toolkit (CCTK) 1.2.1,[''],2022-03-20T12:15Z
+8,cpe:2.3:a:dell:client_configuration_toolkit:2.0:*:*:*:*:*:*:*,Dell Client Configuration Toolkit (CCTK) 2.0,[''],2022-03-20T12:15Z
+9,cpe:2.3:a:dell:client_configuration_toolkit:2.0.1:*:*:*:*:*:*:*,Dell Client Configuration Toolkit (CCTK) 2.0.1,[''],2022-03-20T12:15Z

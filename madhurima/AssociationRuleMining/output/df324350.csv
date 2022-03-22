@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_enterprise_m608_k0q18a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M608 K0Q18A,"['CVE-2019-18912', 'CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:03Z
+1,cpe:2.3:h:hp:laserjet_enterprise_m608_k0q19a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M608 K0Q19A,"['CVE-2019-18912', 'CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:03Z
+2,cpe:2.3:h:hp:laserjet_enterprise_m608_m0p32a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M608 M0P32A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:03Z
+3,cpe:2.3:h:hp:laserjet_enterprise_m608dh:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M608DH,['CVE-2018-5923'],2022-03-21T15:03Z
+4,cpe:2.3:o:hp:laserjet_enterprise_m608dh_firmware:-:*:*:*:*:*:*:*,Hp Laserjet Enterprise M608dh Firmware -,['CVE-2018-5923'],2022-03-21T15:03Z
+5,cpe:2.3:o:hp:laserjet_enterprise_m608dh_firmware:2406048_029638:*:*:*:*:*:*:*,Hp Laserjet Enterprise M608dh Firmware 2406048 029638,[''],2022-03-21T15:03Z
+6,cpe:2.3:h:hp:laserjet_enterprise_m608dn:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M608DN,['CVE-2018-5923'],2022-03-21T15:03Z
+7,cpe:2.3:o:hp:laserjet_enterprise_m608dn_firmware:-:*:*:*:*:*:*:*,Hp Laserjet Enterprise M608dn Firmware -,['CVE-2018-5923'],2022-03-21T15:03Z
+8,cpe:2.3:o:hp:laserjet_enterprise_m608dn_firmware:2406048_029638:*:*:*:*:*:*:*,Hp Laserjet Enterprise M608dn Firmware 2406048 029638,[''],2022-03-21T15:04Z
+9,cpe:2.3:h:hp:laserjet_enterprise_m608n:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M608N,['CVE-2018-5923'],2022-03-21T15:04Z

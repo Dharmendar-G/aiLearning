@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:kenexa_lcms_premier:10.2:*:*:*:*:*:*:*,IBM Kenexa Learning Content Management System (LCMS) Premier 10.2,"['CVE-2016-5937', 'CVE-2016-5948', 'CVE-2016-5950', 'CVE-2016-5951', 'CVE-2016-9992', 'CVE-2016-9993', 'CVE-2017-1142', 'CVE-2017-1143']",2022-03-21T20:59Z
+1,cpe:2.3:a:ibm:kenexa_lcms_premier:10.3:*:*:*:*:*:*:*,IBM Kenexa LCMS Premier 10.3,"['CVE-2017-1142', 'CVE-2017-1143']",2022-03-21T20:59Z
+2,cpe:2.3:a:ibm:kenexa_lms_on_cloud:4.1:*:*:*:*:*:*:*,IBM Kenexa Learning Management System (LMS) on Cloud 4.1,['CVE-2016-5939'],2022-03-21T20:59Z
+3,cpe:2.3:a:ibm:kenexa_lms_on_cloud:4.2:*:*:*:*:*:*:*,IBM Kenexa Learning Management System (LMS) on Cloud 4.2,['CVE-2016-5939'],2022-03-21T20:59Z
+4,cpe:2.3:a:ibm:kenexa_lms_on_cloud:4.2.2:*:*:*:*:*:*:*,IBM Kenexa Learning Management System (LMS) on Cloud 4.2.2,['CVE-2016-5939'],2022-03-21T20:59Z
+5,cpe:2.3:a:ibm:kenexa_lms_on_cloud:4.2.3:*:*:*:*:*:*:*,IBM Kenexa Learning Management System (LMS) on Cloud 4.2.3,['CVE-2016-5939'],2022-03-21T20:59Z
+6,cpe:2.3:a:ibm:kenexa_lms_on_cloud:4.2.4:*:*:*:*:*:*:*,IBM Kenexa LMS on Cloud 4.2.4,['CVE-2016-5939'],2022-03-21T20:59Z
+7,cpe:2.3:a:ibm:kenexa_lms_on_cloud:5.0:*:*:*:*:*:*:*,IBM Kenexa Learning Management System (LMS) on Cloud 5.0,['CVE-2016-5939'],2022-03-21T20:59Z
+8,cpe:2.3:a:ibm:kenexa_lms_on_cloud:5.1:*:*:*:*:*:*:*,IBM Kenexa Learning Management System (LMS) on Cloud 5.1,['CVE-2016-5939'],2022-03-21T21:00Z
+9,cpe:2.3:a:ibm:kenexa_lms_on_cloud:5.2:*:*:*:*:*:*:*,IBM Kenexa Learning Management System (LMS) on Cloud 5.2,['CVE-2016-5939'],2022-03-21T21:00Z

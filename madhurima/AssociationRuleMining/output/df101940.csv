@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.8:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.8,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+1,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.9:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.9,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+2,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.10:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.10,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+3,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.11:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.11,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+4,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.12:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.12,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+5,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.13:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.13,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+6,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.14:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.14,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+7,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.15:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.15,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+8,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.16:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.16,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z
+9,cpe:2.3:a:canonical:apport:2.14.1-0ubuntu3.17:*:*:*:*:*:*:*,Canonical Apport 2.14.1-0ubuntu3.17,"['CVE-2015-1341', 'CVE-2021-32556', 'CVE-2021-32557', 'CVE-2021-3709', 'CVE-2021-3710']",2022-03-19T15:16Z

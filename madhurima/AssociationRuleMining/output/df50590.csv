@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:asus:zenfone_4_max_firmware:-:*:*:*:*:*:*:*,Asus ZenFone 4 Max Firmware,"['CVE-2019-15404', 'CVE-2019-15407']",2022-03-18T23:58Z
+1,cpe:2.3:h:asus:zenfone_4_selfie:-:*:*:*:*:*:*:*,Asus ZenFone 4 Selfie,"['CVE-2019-15391', 'CVE-2019-15392', 'CVE-2019-15398', 'CVE-2019-15406', 'CVE-2019-15412']",2022-03-18T23:58Z
+2,cpe:2.3:o:asus:zenfone_4_selfie_firmware:-:*:*:*:*:*:*:*,Asus Zenfone 4 Selfie Firmware -,"['CVE-2019-15391', 'CVE-2019-15392', 'CVE-2019-15398', 'CVE-2019-15406', 'CVE-2019-15412']",2022-03-18T23:58Z
+3,cpe:2.3:h:asus:zenfone_5_lite:-:*:*:*:*:*:*:*,Asus ZenFone 5 Lite,['CVE-2019-15408'],2022-03-18T23:58Z
+4,cpe:2.3:o:asus:zenfone_5_lite_firmware:-:*:*:*:*:*:*:*,Asus ZenFone 5 Lite Firmware,['CVE-2019-15408'],2022-03-18T23:58Z
+5,cpe:2.3:h:asus:zenfone_5_selfie:-:*:*:*:*:*:*:*,Asus ZenFone 5 Selfie,['CVE-2019-15394'],2022-03-18T23:58Z
+6,cpe:2.3:o:asus:zenfone_5_selfie_firmware:-:*:*:*:*:*:*:*,Asus ZenFone 5 Selfie Firmware,['CVE-2019-15394'],2022-03-18T23:58Z
+7,cpe:2.3:h:asus:zenfone_5q:-:*:*:*:*:*:*:*,Asus ZenFone 5Q,"['CVE-2019-15399', 'CVE-2019-15409', 'CVE-2019-15410']",2022-03-18T23:59Z
+8,cpe:2.3:o:asus:zenfone_5q_firmware:-:*:*:*:*:*:*:*,Asus ZenFone 5Q Firmware,"['CVE-2019-15399', 'CVE-2019-15409', 'CVE-2019-15410']",2022-03-18T23:59Z
+9,cpe:2.3:h:asus:zenfone_ar:-:*:*:*:*:*:*:*,Asus ZenFone AR,"['CVE-2019-15401', 'CVE-2019-15402', 'CVE-2019-15414']",2022-03-18T23:58Z

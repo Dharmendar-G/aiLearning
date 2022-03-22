@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:color_laserjet_enterprise_m653dh:-:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise M653DH,['CVE-2018-5923'],2022-03-21T13:02Z
+1,cpe:2.3:o:hp:color_laserjet_enterprise_m653dh_firmware:-:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise M653dh Firmware -,['CVE-2018-5923'],2022-03-21T13:03Z
+2,cpe:2.3:o:hp:color_laserjet_enterprise_m653dh_firmware:2406087_000016:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise M653dh Firmware 2406087 000016,[''],2022-03-21T13:03Z
+3,cpe:2.3:h:hp:color_laserjet_enterprise_m653dn:-:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise M653DN,['CVE-2018-5923'],2022-03-21T13:03Z
+4,cpe:2.3:o:hp:color_laserjet_enterprise_m653dn_firmware:-:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise M653dn Firmware -,['CVE-2018-5923'],2022-03-21T13:03Z
+5,cpe:2.3:o:hp:color_laserjet_enterprise_m653dn_firmware:2406087_000016:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise M653dn Firmware 2406087 000016,[''],2022-03-21T13:03Z
+6,cpe:2.3:h:hp:color_laserjet_enterprise_m653x:-:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise M653X,['CVE-2018-5923'],2022-03-21T13:03Z
+7,cpe:2.3:o:hp:color_laserjet_enterprise_m653x_firmware:-:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise M653x Firmware -,['CVE-2018-5923'],2022-03-21T13:03Z
+8,cpe:2.3:o:hp:color_laserjet_enterprise_m653x_firmware:2406087_000016:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise M653x Firmware 2406087 000016,[''],2022-03-21T13:03Z
+9,cpe:2.3:h:hp:color_laserjet_enterprise_m750:-:*:*:*:*:*:*:*,HP Color Laserjet Enterprise M750,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T13:03Z

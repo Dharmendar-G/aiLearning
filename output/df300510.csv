@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:growl_project:growl:1.8.1:*:*:*:*:node.js:*:*,Growl Project Growl 1.8.1 for Node.js,['CVE-2017-16042'],2022-03-21T08:00Z
+1,cpe:2.3:a:growl_project:growl:1.9.0:*:*:*:*:node.js:*:*,Growl Project Growl 1.9.0 for Node.js,['CVE-2017-16042'],2022-03-21T08:00Z
+2,cpe:2.3:a:growl_project:growl:1.9.1:*:*:*:*:node.js:*:*,Growl Project Growl 1.9.1 for Node.js,['CVE-2017-16042'],2022-03-21T08:00Z
+3,cpe:2.3:a:growl_project:growl:1.9.2:*:*:*:*:node.js:*:*,Growl Project Growl 1.9.2 for Node.js,['CVE-2017-16042'],2022-03-21T08:00Z
+4,cpe:2.3:a:growl_project:growl:1.10.0:*:*:*:*:node.js:*:*,Growl Project Growl 1.10.0 for Node.js,['CVE-2017-16042'],2022-03-21T08:00Z
+5,cpe:2.3:a:growl_project:growl:1.10.1:*:*:*:*:node.js:*:*,Growl Project Growl 1.10.1 for Node.js,['CVE-2017-16042'],2022-03-21T08:00Z
+6,cpe:2.3:a:growl_project:growl:1.10.2:*:*:*:*:node.js:*:*,Growl Project Growl 1.10.2 for Node.js,[''],2022-03-21T08:00Z
+7,cpe:2.3:a:growl_project:growl:1.10.3:*:*:*:*:node.js:*:*,Growl Project Growl 1.10.3 for Node.js,[''],2022-03-21T08:00Z
+8,cpe:2.3:a:growl_project:growl:1.10.5:*:*:*:*:node.js:*:*,Growl Project Growl 1.10.5 for Node.js,[''],2022-03-21T08:00Z
+9,cpe:2.3:a:grpc:grpc:0.1.2:*:*:*:*:kotlin:*:*,gRPC 0.1.2 for Kotlin,"['CVE-2017-7860', 'CVE-2017-7861', 'CVE-2017-8359', 'CVE-2017-9431']",2022-03-21T08:00Z

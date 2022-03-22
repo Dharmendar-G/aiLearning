@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:1password:1password:1.0.0.39:*:*:*:*:windows:*:*,1Password 1.0.0.39 for Windows,['CVE-2014-3753'],2022-03-18T09:44Z
+1,cpe:2.3:a:1password:1password:1.0.0.40:*:*:*:*:windows:*:*,1Password 1.0.0.40 for Windows,['CVE-2014-3753'],2022-03-18T09:44Z
+2,cpe:2.3:a:1password:1password:1.0.0.41:*:*:*:*:windows:*:*,1Password 1.0.0.41 for Windows,['CVE-2014-3753'],2022-03-18T09:44Z
+3,cpe:2.3:a:1password:1password:1.0.0.42:*:*:*:*:windows:*:*,1Password 1.0.0.42 for Windows,['CVE-2014-3753'],2022-03-18T09:44Z
+4,cpe:2.3:a:1password:1password:1.0.0.43:*:*:*:*:windows:*:*,1Password 1.0.0.43 for Windows,['CVE-2014-3753'],2022-03-18T09:44Z
+5,cpe:2.3:a:1password:1password:1.0.0.44:*:*:*:*:windows:*:*,1Password 1.0.0.44 for Windows,['CVE-2014-3753'],2022-03-18T09:44Z
+6,cpe:2.3:a:1password:1password:1.0.0.45:*:*:*:*:windows:*:*,1Password 1.0.0.45 for Windows,['CVE-2014-3753'],2022-03-18T09:44Z
+7,cpe:2.3:a:1password:1password:1.0.0.46:*:*:*:*:windows:*:*,1Password 1.0.0.46 for Windows,['CVE-2014-3753'],2022-03-18T09:44Z
+8,cpe:2.3:a:1password:1password:1.0.0.47:*:*:*:*:windows:*:*,1Password 1.0.0.47 for Windows,['CVE-2014-3753'],2022-03-18T09:44Z
+9,cpe:2.3:a:1password:1password:1.0.0.48:*:*:*:*:windows:*:*,1Password 1.0.0.48 for Windows,['CVE-2014-3753'],2022-03-18T09:44Z

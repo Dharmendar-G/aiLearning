@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:auth0:login_by_auth0:3.4.0:*:*:*:*:wordpress:*:*,Auth0 Login by Auth0 3.4.0 for WordPress,"['CVE-2020-6753', 'CVE-2020-7947', 'CVE-2020-7948']",2022-03-19T03:14Z
+1,cpe:2.3:a:auth0:login_by_auth0:3.5.0:*:*:*:*:wordpress:*:*,Auth0 Login by Auth0 3.5.0 for WordPress,"['CVE-2020-6753', 'CVE-2020-7947', 'CVE-2020-7948']",2022-03-19T03:14Z
+2,cpe:2.3:a:auth0:login_by_auth0:3.5.1:*:*:*:*:wordpress:*:*,Auth0 Login by Auth0 3.5.1 for WordPress,"['CVE-2020-6753', 'CVE-2020-7947', 'CVE-2020-7948']",2022-03-19T03:14Z
+3,cpe:2.3:a:auth0:login_by_auth0:3.5.2:*:*:*:*:wordpress:*:*,Auth0 Login by Auth0 3.5.2 for WordPress,"['CVE-2020-6753', 'CVE-2020-7947', 'CVE-2020-7948']",2022-03-19T03:14Z
+4,cpe:2.3:a:auth0:login_by_auth0:3.6.0:*:*:*:*:wordpress:*:*,Auth0 Login by Auth0 3.6.0 for WordPress,"['CVE-2020-6753', 'CVE-2020-7947', 'CVE-2020-7948']",2022-03-19T03:14Z
+5,cpe:2.3:a:auth0:login_by_auth0:3.6.1:*:*:*:*:wordpress:*:*,Auth0 Login by Auth0 3.6.1 for WordPress,"['CVE-2020-6753', 'CVE-2020-7947', 'CVE-2020-7948']",2022-03-19T03:15Z
+6,cpe:2.3:a:auth0:login_by_auth0:3.6.2:*:*:*:*:wordpress:*:*,Auth0 Login by Auth0 3.6.2 for WordPress,"['CVE-2020-6753', 'CVE-2020-7947', 'CVE-2020-7948']",2022-03-19T03:15Z
+7,cpe:2.3:a:auth0:login_by_auth0:3.7.0:*:*:*:*:wordpress:*:*,Auth0 Login by Auth0 3.7.0 for WordPress,"['CVE-2020-6753', 'CVE-2020-7947', 'CVE-2020-7948']",2022-03-19T03:15Z
+8,cpe:2.3:a:auth0:login_by_auth0:3.7.1:*:*:*:*:wordpress:*:*,Auth0 Login by Auth0 3.7.1 for WordPress,"['CVE-2020-6753', 'CVE-2020-7947', 'CVE-2020-7948']",2022-03-19T03:15Z
+9,cpe:2.3:a:auth0:login_by_auth0:3.7.3:*:*:*:*:wordpress:*:*,Auth0 Login by Auth0 3.7.3 for WordPress,"['CVE-2020-6753', 'CVE-2020-7947', 'CVE-2020-7948']",2022-03-19T03:15Z

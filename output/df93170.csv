@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:introscope_agent_for_.net_3.0:7.2.0.0:*:*:*:*:*:*:*,Broadcom Introscope Agent for .NET 3.0 7.2.0.0,[''],2022-03-19T12:24Z
+1,cpe:2.3:a:broadcom:introscope_workstation:7.2.0.0:*:*:*:*:*:*:*,Broadcom Introscope Workstation 7.2.0.0,[''],2022-03-19T12:24Z
+2,cpe:2.3:a:broadcom:introscope_workstation:8.2.3.0:*:*:*:*:*:*:*,Broadcom Introscope Workstation 8.2.3.0,[''],2022-03-19T12:24Z
+3,cpe:2.3:a:broadcom:introscope_workstation:10.7:*:*:*:*:*:*:*,Broadcom Introscope Workstation 10.7,[''],2022-03-19T12:24Z
+4,cpe:2.3:a:broadcom:investigation_tool:1.0.0:*:*:*:*:android:*:*,Broadcom Investigation Tool 1.0.0 for Android,['CVE-2014-6799'],2022-03-19T12:24Z
+5,cpe:2.3:a:broadcom:itechnology_igateway:-:*:*:*:*:*:*:*,Broadcom iTechnology iGateway,['CVE-2005-3653'],2022-03-19T12:24Z
+6,cpe:2.3:a:broadcom:itechnology_igateway:4.0.041221:*:*:*:*:*:*:*,Broadcom iTechnology iGateway 4.0.041221,['CVE-2005-3653'],2022-03-19T12:24Z
+7,cpe:2.3:a:broadcom:itechnology_igateway:4.0.050126:*:*:*:*:*:*:*,Broadcom iTechnology iGateway 4.0.050126,['CVE-2005-3653'],2022-03-19T12:24Z
+8,cpe:2.3:a:broadcom:itechnology_igateway:4.0.050224:*:*:*:*:*:*:*,Broadcom iTechnology iGateway 4.0.050224,['CVE-2005-3653'],2022-03-19T12:24Z
+9,cpe:2.3:a:broadcom:itechnology_igateway:4.0.050306:*:*:*:*:*:*:*,Broadcom iTechnology iGateway 4.0.050306,['CVE-2005-3653'],2022-03-19T12:24Z

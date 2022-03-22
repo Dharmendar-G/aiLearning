@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:display-widgets_project:display-widgets:2.0:*:*:*:*:wordpress:*:*,Display-widgets Project Display-widgets 2.0 for WordPress,['CVE-2015-9438'],2022-03-20T15:15Z
+1,cpe:2.3:a:display-widgets_project:display-widgets:2.01:*:*:*:*:wordpress:*:*,Display-widgets Project Display-widgets 2.01 for WordPress,['CVE-2015-9438'],2022-03-20T15:15Z
+2,cpe:2.3:a:display-widgets_project:display-widgets:2.02:*:*:*:*:wordpress:*:*,Display-widgets Project Display-widgets 2.02 for WordPress,['CVE-2015-9438'],2022-03-20T15:15Z
+3,cpe:2.3:a:display-widgets_project:display-widgets:2.03:*:*:*:*:wordpress:*:*,Display-widgets Project Display-widgets 2.03 for WordPress,['CVE-2015-9438'],2022-03-20T15:15Z
+4,cpe:2.3:a:display-widgets_project:display-widgets:2.04:*:*:*:*:wordpress:*:*,Display-widgets Project Display-widgets 2.04 for WordPress,[''],2022-03-20T15:15Z
+5,cpe:2.3:a:disqus:disqus_comment_system:2.40:*:*:*:*:wordpress:*:*,Disqus Comment System for WordPress 2.40,"['CVE-2014-5345', 'CVE-2014-5347']",2022-03-20T15:15Z
+6,cpe:2.3:a:disqus:disqus_comment_system:2.41:*:*:*:*:wordpress:*:*,Disqus Comment System for WordPress 2.41,"['CVE-2014-5345', 'CVE-2014-5347']",2022-03-20T15:15Z
+7,cpe:2.3:a:disqus:disqus_comment_system:2.42:*:*:*:*:wordpress:*:*,Disqus Comment System for WordPress 2.42,"['CVE-2014-5345', 'CVE-2014-5347']",2022-03-20T15:15Z
+8,cpe:2.3:a:disqus:disqus_comment_system:2.43:*:*:*:*:wordpress:*:*,Disqus Comment System for WordPress 2.43,"['CVE-2014-5345', 'CVE-2014-5347']",2022-03-20T15:15Z
+9,cpe:2.3:a:disqus:disqus_comment_system:2.44:*:*:*:*:wordpress:*:*,Disqus Comment System for WordPress 2.44,"['CVE-2014-5345', 'CVE-2014-5347']",2022-03-20T15:15Z

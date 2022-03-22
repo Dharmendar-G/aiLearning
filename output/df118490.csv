@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:email_security_virtual_appliance:8.0.0:*:*:*:*:*:*:*,Cisco Email Security Management Virtual Appliance 8.0.0,"['CVE-2015-4216', 'CVE-2015-4217']",2022-03-19T19:27Z
+1,cpe:2.3:a:cisco:email_security_virtual_appliance:8.5.6:*:*:*:*:*:*:*,Cisco Email Security Management Virtual Appliance 8.5.6,"['CVE-2015-4216', 'CVE-2015-4217']",2022-03-19T19:27Z
+2,cpe:2.3:a:cisco:email_security_virtual_appliance:8.5.7:*:*:*:*:*:*:*,Cisco Email Security Management Virtual Appliance 8.5.7,"['CVE-2015-4216', 'CVE-2015-4217']",2022-03-19T19:27Z
+3,cpe:2.3:a:cisco:email_security_virtual_appliance:9.0.0:*:*:*:*:*:*:*,Cisco Email Security Management Virtual Appliance 9.0.0,"['CVE-2015-4216', 'CVE-2015-4217']",2022-03-19T19:27Z
+4,cpe:2.3:h:cisco:embedded_service_2020_24tc_con:-:*:*:*:*:*:*:*,Cisco Embedded Service 2020 24TC CON,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T19:27Z
+5,cpe:2.3:h:cisco:embedded_service_2020_24tc_con_b:-:*:*:*:*:*:*:*,Cisco Embedded Service 2020 24TC CON B,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T19:27Z
+6,cpe:2.3:h:cisco:embedded_service_2020_24tc_ncp:-:*:*:*:*:*:*:*,Cisco Embedded Service 2020 24TC NCP,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T19:27Z
+7,cpe:2.3:h:cisco:embedded_service_2020_24tc_ncp_b:-:*:*:*:*:*:*:*,Cisco Embedded Service 2020 24TC NCP B,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T19:27Z
+8,cpe:2.3:h:cisco:embedded_service_2020_con:-:*:*:*:*:*:*:*,Cisco Embedded Service 2020 Con,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T19:27Z
+9,cpe:2.3:h:cisco:embedded_service_2020_con_b:-:*:*:*:*:*:*:*,Cisco Embedded Service 2020 CON B,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T19:27Z

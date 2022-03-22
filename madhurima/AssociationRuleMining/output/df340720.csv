@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:campaign:11.0:*:*:*:*:*:*:*,IBM Campaign 11.0,['CVE-2018-1921'],2022-03-21T19:59Z
+1,cpe:2.3:a:ibm:campaign:11.0.1:*:*:*:*:*:*:*,IBM Campaign 11.0.1,[''],2022-03-21T19:59Z
+2,cpe:2.3:a:ibm:campaign:11.1.0:*:*:*:*:*:*:*,IBM Campaign 11.1.0,[''],2022-03-21T19:59Z
+3,cpe:2.3:a:ibm:capacity_management_analytics:2.1.0.0:*:*:*:*:*:*:*,IBM Capacity Management Analytics 2.1.0.0,"['CVE-2015-7432', 'CVE-2015-7433', 'CVE-2015-7434']",2022-03-21T19:59Z
+4,cpe:2.3:a:ibm:care_management:6.0:*:*:*:*:*:*:*,IBM Care Management 6.0,['CVE-2016-0261'],2022-03-21T19:59Z
+5,cpe:2.3:a:ibm:case_manager:5.1.1:*:*:*:*:*:*:*,IBM Case Manager 5.1.1,['CVE-2019-4426'],2022-03-21T19:59Z
+6,cpe:2.3:a:ibm:case_manager:5.2.0:*:*:*:*:*:*:*,IBM Case Manager 5.2.0,"['CVE-2019-4426', 'CVE-2020-4768']",2022-03-21T19:59Z
+7,cpe:2.3:a:ibm:case_manager:5.2.0.0:*:*:*:*:*:*:*,IBM Case Manager 5.2.0.0,"['CVE-2018-1884', 'CVE-2020-4768']",2022-03-21T19:59Z
+8,cpe:2.3:a:ibm:case_manager:5.2.0.4:*:*:*:*:*:*:*,IBM Case Manager 5.2.0.4,"['CVE-2018-1884', 'CVE-2020-4768']",2022-03-21T19:59Z
+9,cpe:2.3:a:ibm:case_manager:5.2.1:*:*:*:*:*:*:*,IBM Case Manager 5.2.1,"['CVE-2015-1979', 'CVE-2019-4426', 'CVE-2020-4768']",2022-03-21T19:59Z

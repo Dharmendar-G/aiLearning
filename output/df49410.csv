@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ascensia:contour_diabetes:2.2.51:*:*:*:*:android:*:*,Ascensia CONTOUR DIABETES 2.2.51 for Android,"['CVE-2018-18976', 'CVE-2018-18977', 'CVE-2018-18978', 'CVE-2018-18979']",2022-03-18T23:43Z
+1,cpe:2.3:a:ascensia:contour_diabetes:2.2.55:*:*:*:*:iphone_os:*:*,Ascensia CONTOUR DIABETES 2.2.55 for iPhone OS,"['CVE-2018-18975', 'CVE-2018-18976']",2022-03-18T23:43Z
+2,cpe:2.3:a:ascensia:contour_diabetes:2.3.0:*:*:*:*:android:*:*,Ascensia CONTOUR DIABETES 2.3.0 for Android,"['CVE-2018-18976', 'CVE-2018-18977', 'CVE-2018-18978', 'CVE-2018-18979']",2022-03-18T23:43Z
+3,cpe:2.3:a:ascensia:contour_diabetes:2.3.0:*:*:*:*:iphone_os:*:*,Ascensia CONTOUR DIABETES 2.3.0 for iPhone OS,"['CVE-2018-18975', 'CVE-2018-18976']",2022-03-18T23:43Z
+4,cpe:2.3:a:ascensia:contour_diabetes:2.3.10:*:*:*:*:android:*:*,Ascensia CONTOUR DIABETES 2.3.10 for Android,"['CVE-2018-18976', 'CVE-2018-18977', 'CVE-2018-18978', 'CVE-2018-18979']",2022-03-18T23:43Z
+5,cpe:2.3:a:ascensia:contour_diabetes:2.3.10:*:*:*:*:iphone_os:*:*,Ascensia CONTOUR DIABETES 2.3.10 for iPhone OS,"['CVE-2018-18975', 'CVE-2018-18976']",2022-03-18T23:43Z
+6,cpe:2.3:a:ascensia:contour_diabetes:2.3.20:*:*:*:*:android:*:*,Ascensia CONTOUR DIABETES 2.3.20 for Android,"['CVE-2018-18976', 'CVE-2018-18977', 'CVE-2018-18978', 'CVE-2018-18979']",2022-03-18T23:43Z
+7,cpe:2.3:a:ascensia:contour_diabetes:2.3.20:*:*:*:*:iphone_os:*:*,Ascensia CONTOUR DIABETES 2.3.20 for iPhone OS,"['CVE-2018-18975', 'CVE-2018-18976']",2022-03-18T23:43Z
+8,cpe:2.3:a:ascensia:contour_diabetes:2.4.0:*:*:*:*:android:*:*,Ascensia CONTOUR DIABETES 2.4.0 for Android,"['CVE-2018-18976', 'CVE-2018-18977', 'CVE-2018-18978', 'CVE-2018-18979']",2022-03-18T23:43Z
+9,cpe:2.3:a:ascensia:contour_diabetes:2.4.0:*:*:*:*:iphone_os:*:*,Ascensia CONTOUR DIABETES 2.4.0 for iPhone OS,"['CVE-2018-18975', 'CVE-2018-18976']",2022-03-18T23:43Z

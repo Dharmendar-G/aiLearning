@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:hp_455:-:*:*:*:*:*:*:*,HP HP 455,['CVE-2017-2751'],2022-03-21T13:33Z
+1,cpe:2.3:o:hp:hp_455_firmware:f.08:*:*:*:*:*:*:*,HP Hp 455 Firmware F.08,[''],2022-03-21T13:33Z
+2,cpe:2.3:h:hp:hp_deskjet_ink_advantage_4535_f0v64a:-:*:*:*:*:*:*:*,HP DESKJET INK ADVANTAGE 4535 F0V64A,['CVE-2020-12695'],2022-03-21T13:33Z
+3,cpe:2.3:h:hp:hp_deskjet_ink_advantage_4535_f0v64b:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 4535 F0V64B,['CVE-2020-12695'],2022-03-21T13:33Z
+4,cpe:2.3:h:hp:hp_deskjet_ink_advantage_4535_f0v64c:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 4535 F0V64C,['CVE-2020-12695'],2022-03-21T13:33Z
+5,cpe:2.3:h:hp:hp_deskjet_ink_advantage_4536_f0v65a:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 4536 F0V65A,['CVE-2020-12695'],2022-03-21T13:33Z
+6,cpe:2.3:h:hp:hp_deskjet_ink_advantage_4538_f0v66b:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 4538 F0V66B,['CVE-2020-12695'],2022-03-21T13:33Z
+7,cpe:2.3:h:hp:hp_deskjet_ink_advantage_4675_f1h97a:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 4675 F1H97A,['CVE-2020-12695'],2022-03-21T13:33Z
+8,cpe:2.3:h:hp:hp_deskjet_ink_advantage_4675_f1h97b:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 4675 F1H97B,['CVE-2020-12695'],2022-03-21T13:33Z
+9,cpe:2.3:h:hp:hp_deskjet_ink_advantage_4675_f1h97c:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 4675 F1H97C,['CVE-2020-12695'],2022-03-21T13:33Z

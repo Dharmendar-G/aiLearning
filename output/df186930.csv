@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,cpe:2.3:a:directadmin:directadmin:0.95:*:*:*:*:*:*:*,JBMC Software DirectAdmin 0.95,"['CVE-2007-3501', 'CVE-2007-4830', 'CVE-2017-18045']",2022-03-20T14:55Z
+4,cpe:2.3:a:directadmin:directadmin:1:*:*:*:*:*:*:*,JBMC Software DirectAdmin 1,"['CVE-2007-3501', 'CVE-2007-4830', 'CVE-2017-18045']",2022-03-20T14:55Z
+5,cpe:2.3:a:directadmin:directadmin:1.1:*:*:*:*:*:*:*,JBMC Software DirectAdmin 1.1,"['CVE-2007-3501', 'CVE-2007-4830', 'CVE-2017-18045']",2022-03-20T14:55Z
+6,cpe:2.3:a:directadmin:directadmin:1.2:*:*:*:*:*:*:*,JBMC Software DirectAdmin 1.2,"['CVE-2007-3501', 'CVE-2007-4830', 'CVE-2017-18045']",2022-03-20T14:55Z
+7,cpe:2.3:a:directadmin:directadmin:1.3:*:*:*:*:*:*:*,JBMC Software DirectAdmin 1.3,"['CVE-2007-3501', 'CVE-2007-4830', 'CVE-2017-18045']",2022-03-20T14:55Z
+8,cpe:2.3:a:directadmin:directadmin:1.4:*:*:*:*:*:*:*,JBMC Software DirectAdmin 1.4,"['CVE-2007-3501', 'CVE-2007-4830', 'CVE-2017-18045']",2022-03-20T14:55Z
+9,cpe:2.3:a:directadmin:directadmin:1.5:*:*:*:*:*:*:*,JBMC Software DirectAdmin 1.5,"['CVE-2007-3501', 'CVE-2007-4830', 'CVE-2017-18045']",2022-03-20T14:55Z

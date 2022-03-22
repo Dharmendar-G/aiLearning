@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:d4j85b_firmware:1831a:*:*:*:*:*:*:*,HP D4J85B Firmware  1831A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:10Z
+1,cpe:2.3:h:hp:d7p68a:-:*:*:*:*:*:*:*,HP D7P68A,"['CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T13:10Z
+2,cpe:2.3:h:hp:d7p70a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise D7P70A,"['CVE-2016-2244', 'CVE-2017-2743', 'CVE-2018-5921']",2022-03-21T13:10Z
+3,cpe:2.3:o:hp:d7p70a_firmware:-:*:*:*:*:*:*:*,HP D7P70A Firmware,"['CVE-2017-2743', 'CVE-2018-5921']",2022-03-21T13:10Z
+4,cpe:2.3:o:hp:d7p70a_firmware:2308214_000928:*:*:*:*:*:*:*,HP D7P70A Firmware 2308214 000928,['CVE-2018-5921'],2022-03-21T13:10Z
+5,cpe:2.3:h:hp:d7p71a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise D7P71A,"['CVE-2016-2244', 'CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T13:10Z
+6,cpe:2.3:o:hp:d7p71a_firmware:-:*:*:*:*:*:*:*,HP D7P71A Firmware,"['CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T13:10Z
+7,cpe:2.3:o:hp:d7p71a_firmware:2308214_000928:*:*:*:*:*:*:*,HP D7P71A Firmware 2308214 000928,"['CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T13:10Z
+8,cpe:2.3:h:hp:d7p71v:-:*:*:*:*:*:*:*,HP D7P71V,['CVE-2017-2750'],2022-03-21T13:10Z
+9,cpe:2.3:h:hp:d7p73a:-:*:*:*:*:*:*:*,HP D7P73A,"['CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T13:10Z

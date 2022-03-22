@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:a:chartered_accountant_booking_script_project:chartered_accountant_booking_script:-:*:*:*:*:*:*:*,Chartered Accountant Booking Script Project Chartered Accountant Booking Script,[''],2022-03-19T16:34Z
+2,cpe:2.3:a:chartered_accountant_booking_script_project:chartered_accountant_booking_script:1.0:*:*:*:*:*:*:*,Chartered Accountant Booking Script Project Chartered Accountant Booking Script 1.0,['CVE-2017-17609'],2022-03-19T16:34Z
+3,cpe:2.3:a:chartered_accountant_booking_script_project:chartered_accountant_booking_script:1.0.3:*:*:*:*:*:*:*,Chartered Accountant Booking Script Project Chartered Accountant Booking Script 1.0.3,[''],2022-03-19T16:34Z
+4,cpe:2.3:a:chartjs:chart.js:-:*:*:*:*:node.js:*:*,Chartjs Chart.js for Node.js,['CVE-2020-7746'],2022-03-19T16:34Z
+5,cpe:2.3:a:chartjs:chart.js:0.2.0:*:*:*:*:node.js:*:*,Chartjs Chart.js 0.2.0 for Node.js,['CVE-2020-7746'],2022-03-19T16:34Z
+6,cpe:2.3:a:chartjs:chart.js:1.0.0:beta:*:*:*:node.js:*:*,Chartjs Chart.js 1.0.0 Beta for Node.js,['CVE-2020-7746'],2022-03-19T16:34Z
+7,cpe:2.3:a:chartjs:chart.js:1.0.1:-:*:*:*:node.js:*:*,Chartjs Chart.js 1.0.1 for Node.js,['CVE-2020-7746'],2022-03-19T16:34Z
+8,cpe:2.3:a:chartjs:chart.js:1.0.1:beta:*:*:*:node.js:*:*,Chartjs Chart.js 1.0.1 Beta for Node.js,['CVE-2020-7746'],2022-03-19T16:34Z
+9,cpe:2.3:a:chartjs:chart.js:1.0.1:beta2:*:*:*:node.js:*:*,Chartjs Chart.js 1.0.1 Beta 2 for Node.js,['CVE-2020-7746'],2022-03-19T16:34Z

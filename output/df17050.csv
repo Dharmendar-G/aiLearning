@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ajax_upload_for_gravity_forms_project:ajax_upload_for_gravity_forms:2.8.0:*:*:*:*:wordpress:*:*,Ajax Upload For Gravity Forms Project Ajax Upload For Gravity Forms 2.8.0 for WordPress,[''],2022-03-18T14:04Z
+1,cpe:2.3:a:ajax-pagination_project:ajax-pagination:1.0:*:*:*:*:wordpress:*:*,Ajax Pagination Project Ajax Pagination 1.0 for WordPress,[''],2022-03-18T14:04Z
+2,cpe:2.3:a:ajax-pagination_project:ajax-pagination:1.1:*:*:*:*:wordpress:*:*,Ajax Pagination Project Ajax Pagination 1.1 for WordPress,['CVE-2014-2674'],2022-03-18T14:04Z
+3,cpe:2.3:a:ajaxplorer:ajaxplorer:2.0:*:*:*:*:*:*:*,AjaXplorer 2.0,"['CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227', 'CVE-2015-5650']",2022-03-18T14:04Z
+4,cpe:2.3:a:ajaxplorer:ajaxplorer:2.3.3:*:*:*:*:*:*:*,AjaXplorer 2.3.3,"['CVE-2008-6639', 'CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z
+5,cpe:2.3:a:ajaxplorer:ajaxplorer:2.3.4:*:*:*:*:*:*:*,AjaXplorer 2.3.4,"['CVE-2008-6639', 'CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z
+6,cpe:2.3:a:ajaxplorer:ajaxplorer:2.5:*:*:*:*:*:*:*,AjaXplorer 2.5,"['CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z
+7,cpe:2.3:a:ajaxplorer:ajaxplorer:2.5.4:*:*:*:*:*:*:*,AjaXplorer 2.5.4,"['CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z
+8,cpe:2.3:a:ajaxplorer:ajaxplorer:2.5.5:*:*:*:*:*:*:*,AjaXplorer 2.5.5,"['CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z
+9,cpe:2.3:a:ajaxplorer:ajaxplorer:2.6.0:*:*:*:*:*:*:*,AjaXplorer 2.6.0,"['CVE-2013-5688', 'CVE-2013-6226', 'CVE-2013-6227']",2022-03-18T14:04Z

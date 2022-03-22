@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:symantec_proxysg:6.6.5.13:*:*:*:*:*:*:*,Broadcom Symantec ProxySG 6.6.5.13,"['CVE-2016-10258', 'CVE-2017-13677', 'CVE-2017-13678', 'CVE-2021-30648']",2022-03-19T12:32Z
+1,cpe:2.3:a:broadcom:symantec_proxysg:6.6.5.14:*:*:*:*:*:*:*,Broadcom Symantec ProxySG 6.6.5.14,['CVE-2021-30648'],2022-03-19T12:32Z
+2,cpe:2.3:a:broadcom:symantec_proxysg:6.6.5.19:*:*:*:*:*:*:*,Broadcom Symantec ProxySG 6.6.5.19,[''],2022-03-19T12:32Z
+3,cpe:2.3:a:broadcom:symantec_proxysg:6.7:*:*:*:*:*:*:*,Broadcom Symantec ProxySG 6.7,"['CVE-2016-10256', 'CVE-2016-10257', 'CVE-2016-10258', 'CVE-2016-9097', 'CVE-2016-9099', 'CVE-2016-9100', 'CVE-2017-13677', 'CVE-2018-18370', 'CVE-2018-18371', 'CVE-2018-5241', 'CVE-2021-30648']",2022-03-19T12:32Z
+4,cpe:2.3:a:broadcom:symantec_proxysg:6.7.1.1:*:*:*:*:*:*:*,Broadcom Symantec ProxySG 6.7.1.1,"['CVE-2016-10256', 'CVE-2016-10257', 'CVE-2016-10258', 'CVE-2016-9097', 'CVE-2016-9099', 'CVE-2016-9100', 'CVE-2017-13677', 'CVE-2018-18370', 'CVE-2018-18371', 'CVE-2021-30648']",2022-03-19T12:32Z
+5,cpe:2.3:a:broadcom:symantec_proxysg:6.7.2.1:*:*:*:*:*:*:*,Broadcom Symantec ProxySG 6.7.2.1,"['CVE-2016-10258', 'CVE-2016-9100', 'CVE-2017-13677', 'CVE-2018-18370', 'CVE-2018-18371', 'CVE-2021-30648']",2022-03-19T12:32Z
+6,cpe:2.3:a:broadcom:symantec_proxysg:6.7.3:*:*:*:*:*:*:*,Broadcom Symantec ProxySG 6.7.3,"['CVE-2016-10258', 'CVE-2016-9100', 'CVE-2017-13677', 'CVE-2017-13678', 'CVE-2018-18370', 'CVE-2018-18371', 'CVE-2021-30648']",2022-03-19T12:32Z
+7,cpe:2.3:a:broadcom:symantec_proxysg:6.7.3.1:*:*:*:*:*:*:*,Broadcom Symantec ProxySG 6.7.3.1,"['CVE-2017-13678', 'CVE-2018-18370', 'CVE-2018-18371', 'CVE-2021-30648']",2022-03-19T12:32Z
+8,cpe:2.3:a:broadcom:symantec_proxysg:6.7.3.5:*:*:*:*:*:*:*,Broadcom Symantec ProxySG 6.7.3.5,"['CVE-2017-13678', 'CVE-2018-18370', 'CVE-2018-18371', 'CVE-2021-30648']",2022-03-19T12:32Z
+9,cpe:2.3:a:broadcom:symantec_proxysg:6.7.3.7:*:*:*:*:*:*:*,Broadcom Symantec ProxySG 6.7.3.7,"['CVE-2018-18370', 'CVE-2018-18371', 'CVE-2021-30648']",2022-03-19T12:32Z

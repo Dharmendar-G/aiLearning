@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:centreon:centreon_web:20.04.6:*:*:*:*:*:*:*,Centreon Web 20.04.6,[''],2022-03-19T16:03Z
+1,cpe:2.3:a:centreon:centreon_web:20.04.7:*:*:*:*:*:*:*,Centreon Web 20.04.7,[''],2022-03-19T16:03Z
+2,cpe:2.3:a:centreon:centreon_web:20.04.8:*:*:*:*:*:*:*,Centreon Web 20.04.8,['CVE-2021-26804'],2022-03-19T16:03Z
+3,cpe:2.3:a:centreon:centreon_web:20.04.9:*:*:*:*:*:*:*,Centreon Web 20.04.9,[''],2022-03-19T16:03Z
+4,cpe:2.3:a:centreon:centreon_web:20.04.10:*:*:*:*:*:*:*,Centreon Web 20.04.10,[''],2022-03-19T16:03Z
+5,cpe:2.3:a:centreon:centreon_web:20.04.11:*:*:*:*:*:*:*,Centreon Web 20.04.11,[''],2022-03-19T16:03Z
+6,cpe:2.3:a:centreon:centreon_web:20.04.12:*:*:*:*:*:*:*,Centreon Web 20.04.12,[''],2022-03-19T16:03Z
+7,cpe:2.3:a:centreon:centreon_web:20.10.0:-:*:*:*:*:*:*,Centreon Web 20.10.0,[''],2022-03-19T16:03Z
+8,cpe:2.3:a:centreon:centreon_web:20.10.0:beta1:*:*:*:*:*:*,Centreon Web 20.10.0 Beta 1,[''],2022-03-19T16:03Z
+9,cpe:2.3:a:centreon:centreon_web:20.10.1:*:*:*:*:*:*:*,Centreon Web 20.10.1,[''],2022-03-19T16:03Z

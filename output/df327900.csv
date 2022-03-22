@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:procurve_switch:jf427a:*:*:*:*:*:*:*,HP ProCurve Switch Model JF427A,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:50Z
+1,cpe:2.3:h:hp:procurve_switch:jf428a:*:*:*:*:*:*:*,HP ProCurve Switch Model JF428A,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:50Z
+2,cpe:2.3:h:hp:procurve_switch:jf430a:*:*:*:*:*:*:*,HP ProCurve Switch Model JF430A,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:50Z
+3,cpe:2.3:h:hp:procurve_switch:jf430b:*:*:*:*:*:*:*,HP ProCurve Switch Model JF430B,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:50Z
+4,cpe:2.3:h:hp:procurve_switch:jf430c:*:*:*:*:*:*:*,HP ProCurve Switch Model JF430C,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:50Z
+5,cpe:2.3:h:hp:procurve_switch:jf431a:*:*:*:*:*:*:*,HP ProCurve Switch Model JF431A,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:50Z
+6,cpe:2.3:h:hp:procurve_switch:jf431b:*:*:*:*:*:*:*,HP ProCurve Switch Model JF431B,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:50Z
+7,cpe:2.3:h:hp:procurve_switch:jf431c:*:*:*:*:*:*:*,HP ProCurve Switch Model JF431C,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:50Z
+8,cpe:2.3:h:hp:procurve_switch:jf551a:*:*:*:*:*:*:*,HP ProCurve Switch Model JF551A,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:50Z
+9,cpe:2.3:h:hp:procurve_switch:jf552a:*:*:*:*:*:*:*,HP ProCurve Switch Model JF552A,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:50Z

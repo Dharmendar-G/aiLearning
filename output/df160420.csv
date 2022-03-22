@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:content_construction_kit_project:content_construction_kit:6.x-2.1:*:*:*:*:drupal:*:*,Content Construction Kit project Content Construction Kit (CCK) 6.x-2.1 for Drupal,['CVE-2015-5510'],2022-03-20T07:43Z
+1,cpe:2.3:a:content_construction_kit_project:content_construction_kit:6.x-2.2:*:*:*:*:drupal:*:*,Content Construction Kit project Content Construction Kit (CCK) 6.x-2.2 for Drupal,['CVE-2015-5510'],2022-03-20T07:43Z
+2,cpe:2.3:a:content_construction_kit_project:content_construction_kit:6.x-2.3:*:*:*:*:drupal:*:*,Content Construction Kit project Content Construction Kit (CCK) 6.x-2.3 for Drupal,['CVE-2015-5510'],2022-03-20T07:43Z
+3,cpe:2.3:a:content_construction_kit_project:content_construction_kit:6.x-2.4:*:*:*:*:drupal:*:*,Content Construction Kit project Content Construction Kit (CCK) 6.x-2.4 for Drupal,['CVE-2015-5510'],2022-03-20T07:43Z
+4,cpe:2.3:a:content_construction_kit_project:content_construction_kit:6.x-2.5:*:*:*:*:drupal:*:*,Content Construction Kit project Content Construction Kit (CCK) 6.x-2.5 for Drupal,['CVE-2015-5510'],2022-03-20T07:43Z
+5,cpe:2.3:a:content_construction_kit_project:content_construction_kit:6.x-2.6:*:*:*:*:drupal:*:*,Content Construction Kit project Content Construction Kit (CCK) 6.x-2.6 for Drupal,['CVE-2015-5510'],2022-03-20T07:43Z
+6,cpe:2.3:a:content_construction_kit_project:content_construction_kit:6.x-2.7:*:*:*:*:drupal:*:*,Content Construction Kit project Content Construction Kit (CCK) 6.x-2.7 for Drupal,['CVE-2015-5510'],2022-03-20T07:43Z
+7,cpe:2.3:a:content_construction_kit_project:content_construction_kit:6.x-2.8:*:*:*:*:drupal:*:*,Content Construction Kit project Content Construction Kit (CCK) 6.x-2.8 for Drupal,['CVE-2015-5510'],2022-03-20T07:43Z
+8,cpe:2.3:a:content_construction_kit_project:content_construction_kit:6.x-2.9:*:*:*:*:drupal:*:*,Content Construction Kit project Content Construction Kit (CCK) 6.x-2.9 for Drupal,['CVE-2015-5510'],2022-03-20T07:43Z
+9,cpe:2.3:a:content_copy_protection_\&_prevent_image_save_project:content_copy_protection_\&_prevent_image_save:-:*:*:*:*:wordpress:*:*,Content Copy Protection & Prevent Image Save Project Content Copy Protection & Prevent Image Save for Wordpress,['CVE-2021-24333'],2022-03-20T07:43Z

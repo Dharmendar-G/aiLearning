@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:bender:com465dp_firmware:4.2.0:*:*:*:*:*:*:*,Bender COM465DP Firmware 4.2.0,[''],2022-03-19T06:54Z
+1,cpe:2.3:h:bender:com465id:-:*:*:*:*:*:*:*,Bender COM465ID,['CVE-2019-19885'],2022-03-19T06:54Z
+2,cpe:2.3:o:bender:com465id_firmware:-:*:*:*:*:*:*:*,Bender COM465ID Firmware,['CVE-2019-19885'],2022-03-19T06:54Z
+3,cpe:2.3:o:bender:com465id_firmware:4.2.0:*:*:*:*:*:*:*,Bender COM465ID Firmware 4.2.0,[''],2022-03-19T06:54Z
+4,cpe:2.3:h:bender:com465ip:-:*:*:*:*:*:*:*,Bender COM465IP,['CVE-2019-19885'],2022-03-19T06:54Z
+5,cpe:2.3:o:bender:com465ip_firmware:-:*:*:*:*:*:*:*,Bender COM465IP Firmware,['CVE-2019-19885'],2022-03-19T06:54Z
+6,cpe:2.3:o:bender:com465ip_firmware:4.2.0:*:*:*:*:*:*:*,Bender COM465IP Firmware 4.2.0,[''],2022-03-19T06:54Z
+7,cpe:2.3:h:bender:cp700:-:*:*:*:*:*:*:*,Bender CP700,['CVE-2019-19885'],2022-03-19T06:54Z
+8,cpe:2.3:o:bender:cp700_firmware:-:*:*:*:*:*:*:*,Bender CP700 Firmware,['CVE-2019-19885'],2022-03-19T06:54Z
+9,cpe:2.3:o:bender:cp700_firmware:4.2.0:*:*:*:*:*:*:*,Bender CP700 Firmware 4.2.0,[''],2022-03-19T06:54Z

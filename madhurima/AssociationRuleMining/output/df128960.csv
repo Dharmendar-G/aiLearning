@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:isr4351\/k9-rf:-:*:*:*:*:*:*:*,Cisco ISR4351/K9-RF,"['CVE-2019-12671', 'CVE-2020-3396', 'CVE-2020-3508', 'CVE-2020-3511']",2022-03-19T22:46Z
+1,cpe:2.3:h:cisco:isr4351\/k9-ws:-:*:*:*:*:*:*:*,Cisco ISR4351/K9-WS,"['CVE-2019-12671', 'CVE-2020-3396', 'CVE-2020-3508', 'CVE-2020-3511']",2022-03-19T22:46Z
+2,cpe:2.3:a:cisco:isrv:-:*:*:*:*:*:*:*,Cisco Integrated Services Virtual Router (ISRv),['CVE-2020-3299'],2022-03-19T22:46Z
+3,cpe:2.3:h:cisco:isrv:-:*:*:*:*:*:*:*,Cisco Isrv -,"['CVE-2019-12646', 'CVE-2020-3465', 'CVE-2021-1620', 'CVE-2021-1621']",2022-03-19T22:47Z
+4,cpe:2.3:a:cisco:jabber:-:*:*:*:*:android:*:*,Cisco Jabber for Android,"['CVE-2017-12356', 'CVE-2017-12358', 'CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:47Z
+5,cpe:2.3:a:cisco:jabber:-:*:*:*:*:iphone_os:*:*,Cisco Jabber for iPhone OS,"['CVE-2017-12356', 'CVE-2017-12358', 'CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:47Z
+6,cpe:2.3:a:cisco:jabber:-:*:*:*:*:mac:*:*,Cisco Jabber for Mac,"['CVE-2017-12356', 'CVE-2020-3155']",2022-03-19T22:47Z
+7,[0],[0],[0],[0]
+8,cpe:2.3:a:cisco:jabber:-:*:*:*:*:mac_os_x:*:*,Cisco Jabber for Mac OS X,"['CVE-2018-0199', 'CVE-2018-0201', 'CVE-2020-3155']",2022-03-19T22:47Z
+9,cpe:2.3:a:cisco:jabber:-:*:*:*:*:macos:*:*,Cisco Jabber for macOS,"['CVE-2017-12358', 'CVE-2019-12645', 'CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:47Z

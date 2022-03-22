@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:mate_9_firmware:mha-al00bc00b173:*:*:*:*:*:*:*,Huawei Mate 9 Firmware MHA-AL00BC00B173,"['CVE-2017-17176', 'CVE-2017-2702', 'CVE-2017-2703', 'CVE-2017-8142', 'CVE-2017-8144', 'CVE-2017-8165', 'CVE-2018-7930']",2022-03-21T18:07Z
+1,cpe:2.3:o:huawei:mate_9_firmware:mha-al00bc00b233:*:*:*:*:*:*:*,Huawei Mate 9 Firmware MHA-AL00BC00B233,"['CVE-2017-17176', 'CVE-2017-2702', 'CVE-2017-2703', 'CVE-2017-8144', 'CVE-2018-7930']",2022-03-21T18:07Z
+2,cpe:2.3:o:huawei:mate_9_firmware:mha-al00c00b170:*:*:*:*:*:*:*,Huawei Mate 9 Firmware MHA-AL00C00B170,"['CVE-2017-17176', 'CVE-2017-2703', 'CVE-2017-8144', 'CVE-2018-7930']",2022-03-21T18:07Z
+3,cpe:2.3:o:huawei:mate_9_firmware:mha-al00c00b175:*:*:*:*:*:*:*,Huawei Mate 9 Firmware MHA-AL00C00B175,"['CVE-2017-17176', 'CVE-2017-2703', 'CVE-2017-8144', 'CVE-2018-7930']",2022-03-21T18:07Z
+4,cpe:2.3:o:huawei:mate_9_firmware:mha-al00c00b225:*:*:*:*:*:*:*,Huawei Mate 9 Firmware MHA-AL00C00B225,"['CVE-2017-17176', 'CVE-2017-2703', 'CVE-2018-7930']",2022-03-21T18:07Z
+5,cpe:2.3:o:huawei:mate_9_firmware:mha-cl00bc00b156:*:*:*:*:*:*:*,Huawei Mate 9 Firmware MHA-CL00BC00B156,"['CVE-2017-17176', 'CVE-2017-2703', 'CVE-2018-7930']",2022-03-21T18:07Z
+6,cpe:2.3:o:huawei:mate_9_firmware:mha-dl00bc00b156:*:*:*:*:*:*:*,Huawei Mate 9 Firmware MHA-DL00BC00B156,"['CVE-2017-17176', 'CVE-2017-2703', 'CVE-2018-7930']",2022-03-21T18:07Z
+7,cpe:2.3:o:huawei:mate_9_firmware:mha-l29b_8.0.0.366\(c567\):*:*:*:*:*:*:*,Huawei Mate 9 Firmware MHA-L29B 8.0.0.366(C567),"['CVE-2017-17176', 'CVE-2017-2703']",2022-03-21T18:07Z
+8,cpe:2.3:o:huawei:mate_9_firmware:mha-tl00bc00b156:*:*:*:*:*:*:*,Huawei Mate 9 Firmware MHA-TL00BC00B156,[''],2022-03-21T18:07Z
+9,cpe:2.3:h:huawei:mate_9_pro:-:*:*:*:*:*:*:*,Huawei Mate 9 Pro,"['CVE-2017-15311', 'CVE-2017-15316', 'CVE-2017-15347', 'CVE-2017-17139', 'CVE-2017-17173', 'CVE-2017-17176', 'CVE-2017-17225', 'CVE-2017-17279', 'CVE-2017-17320', 'CVE-2017-17324', 'CVE-2017-17326', 'CVE-2017-8142', 'CVE-2017-8144', 'CVE-2018-7940', 'CVE-2018-7988', 'CVE-2018-7992', 'CVE-2019-5217', 'CVE-2019-5244']",2022-03-21T18:07Z

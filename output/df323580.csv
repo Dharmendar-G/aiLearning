@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:jetadmin:5.1:*:*:*:*:*:*:*,HP JetAdmin 5.1,"['CVE-2001-1039', 'CVE-2001-1040']",2022-03-21T13:50Z
+1,cpe:2.3:a:hp:jetadmin:5.5:*:*:*:*:*:*:*,HP JetAdmin 5.5,"['CVE-2001-1039', 'CVE-2001-1040']",2022-03-21T13:50Z
+2,cpe:2.3:a:hp:jetadmin:5.5.177:*:*:*:*:*:*:*,HP JetAdmin 5.5.177,"['CVE-2001-1039', 'CVE-2001-1040']",2022-03-21T13:50Z
+3,cpe:2.3:a:hp:jetadmin:5.6:*:*:*:*:*:*:*,HP JetAdmin 5.6,"['CVE-2001-1039', 'CVE-2001-1040']",2022-03-21T13:50Z
+4,cpe:2.3:a:hp:jetadmin:6.0:*:*:*:*:*:*:*,HP JetAdmin 6.0,"['CVE-2000-0443', 'CVE-2000-0444', 'CVE-2001-1039', 'CVE-2001-1040']",2022-03-21T13:50Z
+5,cpe:2.3:a:hp:jetadmin:6.1:*:*:*:*:*:*:*,HP JetAdmin 6.1,"['CVE-2001-1039', 'CVE-2001-1040']",2022-03-21T13:50Z
+6,cpe:2.3:a:hp:jetadmin:6.2:*:*:*:*:*:*:*,HP JetAdmin 6.2,"['CVE-2001-1039', 'CVE-2001-1040']",2022-03-21T13:50Z
+7,cpe:2.3:a:hp:jetadmin:rev._d.01.09:*:*:*:*:*:*:*,HP JetAdmin Rev. D.01.09,['CVE-1999-1433'],2022-03-21T13:50Z
+8,cpe:2.3:a:hp:jetadvantage_security_manager:2.0.0:*:*:*:*:*:*:*,HP JetAdvantage Security Manager 2.0.0,"['CVE-2017-2745', 'CVE-2017-2746']",2022-03-21T13:50Z
+9,cpe:2.3:a:hp:jetadvantage_security_manager:2.0.5:*:*:*:*:*:*:*,HP JetAdvantage Security Manager 2.0.5,"['CVE-2017-2745', 'CVE-2017-2746']",2022-03-21T13:50Z

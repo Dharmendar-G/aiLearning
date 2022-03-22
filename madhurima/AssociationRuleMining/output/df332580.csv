@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:ar1200_firmware:v200r007c00spc100:*:*:*:*:*:*:*,Huawei AR1200 Firmware V200R007C00SPC100,['CVE-2017-17151'],2022-03-21T17:13Z
+1,cpe:2.3:o:huawei:ar1200_firmware:v200r007c00spc200:*:*:*:*:*:*:*,Huawei AR1200 Firmware V200R007C00SPC200,['CVE-2017-17151'],2022-03-21T17:13Z
+2,cpe:2.3:o:huawei:ar1200_firmware:v200r007c00spc600:*:*:*:*:*:*:*,Huawei AR1200 Firmware V200R007C00SPC600,['CVE-2017-17151'],2022-03-21T17:13Z
+3,cpe:2.3:o:huawei:ar1200_firmware:v200r007c00spc600pwe:*:*:*:*:*:*:*,Huawei AR1200 Firmware V200R007C00SPC600PWE,['CVE-2017-17151'],2022-03-21T17:13Z
+4,cpe:2.3:o:huawei:ar1200_firmware:v200r007c00spc900:*:*:*:*:*:*:*,Huawei AR1200 Firmware V200R007C00SPC900,"['CVE-2017-17151', 'CVE-2020-9071']",2022-03-21T17:13Z
+5,cpe:2.3:o:huawei:ar1200_firmware:v200r007c00spc900pwe:*:*:*:*:*:*:*,Huawei AR1200 Firmware V200R007C00SPC900PWE,"['CVE-2017-17151', 'CVE-2020-9071']",2022-03-21T17:13Z
+6,cpe:2.3:o:huawei:ar1200_firmware:v200r007c00spca00:*:*:*:*:*:*:*,Huawei AR1200 Firmware V200R007C00SPCA00,"['CVE-2017-17151', 'CVE-2020-9071']",2022-03-21T17:13Z
+7,cpe:2.3:o:huawei:ar1200_firmware:v200r007c00spcb00:*:*:*:*:*:*:*,Huawei AR1200 Firmware V200R007C00SPCB00,"['CVE-2017-17151', 'CVE-2020-9071']",2022-03-21T17:13Z
+8,cpe:2.3:o:huawei:ar1200_firmware:v200r007c00spcb00pwe:*:*:*:*:*:*:*,Huawei AR1200 Firmware V200R007C00SPCB00PWE,"['CVE-2017-17151', 'CVE-2020-9071']",2022-03-21T17:13Z
+9,cpe:2.3:o:huawei:ar1200_firmware:v200r007c00spcc00:*:*:*:*:*:*:*,Huawei AR1200 Firmware V200R007C00SPCc00,['CVE-2020-9071'],2022-03-21T17:13Z

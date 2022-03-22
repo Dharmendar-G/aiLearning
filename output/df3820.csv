@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:abb:cp665-web_firmware:bsp_un30_1.76:*:*:*:*:*:*:*,ABB CP665-WEB Firmware BSP UN30 1.76,['CVE-2019-10995'],2022-03-18T10:29Z
+1,cpe:2.3:h:abb:cp676:-:*:*:*:*:*:*:*,ABB CP676,"['CVE-2019-10995', 'CVE-2019-7225']",2022-03-18T10:29Z
+2,cpe:2.3:o:abb:cp676_firmware:1.76:*:*:*:*:*:*:*,ABB CP676 Firmware 1.76,"['CVE-2019-10995', 'CVE-2019-7225']",2022-03-18T10:29Z
+3,cpe:2.3:o:abb:cp676_firmware:bsp_un30_1.76:*:*:*:*:*:*:*,ABB CP676 Firmware BSP UN3030 1.76,['CVE-2019-10995'],2022-03-18T10:29Z
+4,cpe:2.3:h:abb:cp676-web:-:*:*:*:*:*:*:*,ABB CP676-WEB,"['CVE-2019-10995', 'CVE-2019-7225']",2022-03-18T10:29Z
+5,cpe:2.3:o:abb:cp676-web_firmware:1.76:*:*:*:*:*:*:*,ABB CP676-WEB Firmware 1.76,"['CVE-2019-10995', 'CVE-2019-7225']",2022-03-18T10:30Z
+6,cpe:2.3:o:abb:cp676-web_firmware:bsp_un30_1.76:*:*:*:*:*:*:*,ABB CP676-WEB Firmware BSP UN3030 1.76,['CVE-2019-10995'],2022-03-18T10:30Z
+7,cpe:2.3:h:abb:cs141:-:*:*:*:*:*:*:*,ABB CS141,['CVE-2020-11420'],2022-03-18T10:30Z
+8,cpe:2.3:o:abb:cs141_firmware:-:*:*:*:*:*:*:*,ABB CS141 Firmware,[''],2022-03-18T10:30Z
+9,cpe:2.3:o:abb:cs141_firmware:1.66:*:*:*:*:*:*:*,ABB CS141 Firmware 1.66,['CVE-2020-11420'],2022-03-18T10:30Z

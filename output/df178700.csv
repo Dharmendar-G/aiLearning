@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:data_protection_\|_encryption:8.13.0:*:*:*:enterprise:*:*:*,Dell Data Protection | Encryption 8.13.0 Enterprise Edition,['CVE-2018-15773'],2022-03-20T12:16Z
+1,cpe:2.3:a:dell:data_protection_\|_encryption:8.15.0:*:*:*:enterprise:*:*:*,Dell Data Protection | Encryption 8.15.0 Enterprise Edition,['CVE-2018-15773'],2022-03-20T12:16Z
+2,cpe:2.3:a:dell:data_protection_\|_encryption:8.16.0:*:*:*:enterprise:*:*:*,Dell Data Protection | Encryption 8.16.0 Enterprise Edition,['CVE-2018-15773'],2022-03-20T12:16Z
+3,cpe:2.3:a:dell:data_protection_\|_encryption:8.17.0:*:*:*:enterprise:*:*:*,Dell Data Protection | Encryption 8.17.0 Enterprise Edition,['CVE-2018-15773'],2022-03-20T12:16Z
+4,cpe:2.3:a:dell:data_protection_\|_encryption:8.17.1:*:*:*:enterprise:*:*:*,Dell Data Protection | Encryption 8.17.1 Enterprise Edition,['CVE-2018-15773'],2022-03-20T12:16Z
+5,cpe:2.3:a:dell:data_protection_\|_encryption:8.17.2:*:*:*:enterprise:*:*:*,Dell Data Protection | Encryption 8.17.2 Enterprise Edition,['CVE-2018-15773'],2022-03-20T12:16Z
+6,cpe:2.3:a:dell:data_protection_\|_encryption:8.18.0:*:*:*:enterprise:*:*:*,Dell Data Protection | Encryption 8.18.0 Enterprise Edition,['CVE-2018-15773'],2022-03-20T12:16Z
+7,cpe:2.3:a:dell:data_protection_\|_encryption:8.18.1:*:*:*:enterprise:*:*:*,Dell Data Protection | Encryption 8.18.1 Enterprise Edition,['CVE-2018-15773'],2022-03-20T12:16Z
+8,cpe:2.3:a:dell:data_protection_\|_encryption:10.0.0:*:*:*:enterprise:*:*:*,Dell Data Protection | Encryption 10.0.0 Enterprise Edition,['CVE-2018-15773'],2022-03-20T12:16Z
+9,cpe:2.3:a:dell:data_protection_\|_encryption:10.0.1:*:*:*:enterprise:*:*:*,Dell Data Protection | Encryption 10.0.1 Enterprise Edition,['CVE-2018-15773'],2022-03-20T12:16Z

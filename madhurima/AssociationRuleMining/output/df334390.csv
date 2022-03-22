@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:honor_magic2_firmware:10.0.0.176\(c00e60r2p11\):*:*:*:*:*:*:*,Huawei Honor Magic2 Firmware 10.0.0.176(C00E60R2P11),"['CVE-2019-5302', 'CVE-2019-5303']",2022-03-21T17:53Z
+1,cpe:2.3:o:huawei:honor_magic2_firmware:10.0.0.187:*:*:*:*:*:*:*,Huawei Honor Magic2 Firmware 10.0.0.187,[''],2022-03-21T17:53Z
+2,cpe:2.3:h:huawei:honor_play:-:*:*:*:*:*:*:*,Huawei Honor Play,"['CVE-2019-5213', 'CVE-2019-5216', 'CVE-2019-5309']",2022-03-21T17:53Z
+3,cpe:2.3:o:huawei:honor_play_firmware:-:*:*:*:*:*:*:*,Huawei Honor Play Firmware,"['CVE-2019-5213', 'CVE-2019-5216', 'CVE-2019-5309']",2022-03-21T17:53Z
+4,cpe:2.3:o:huawei:honor_play_firmware:9.1.0.333\(c00e333r1p1t8\):*:*:*:*:*:*:*,Huawei Honor Play Firmware 9.1.0.333(C00E333R1P1T8),"['CVE-2019-5213', 'CVE-2019-5216']",2022-03-21T17:53Z
+5,cpe:2.3:o:huawei:honor_play_firmware:cornell-al00a_9.0.0.156\(c00e156r1p13t8\):*:*:*:*:*:*:*,Huawei Honor Play Firmware Cornell-AL00A 9.0.0.156(C00E156R1P13T8),['CVE-2019-5213'],2022-03-21T17:53Z
+6,cpe:2.3:o:huawei:honor_play_firmware:cornell-al00a_9.1.0.321\(c00e320r1p1t8\):*:*:*:*:*:*:*,Huawei Honor Play Firmware Cornell-AL00A 9.1.0.321(C00E320R1P1T8),[''],2022-03-21T17:53Z
+7,cpe:2.3:h:huawei:honor_smart_scale_application:-:*:*:*:*:*:*:*,Huawei Honor Smart Scale Application,['CVE-2017-17322'],2022-03-21T17:53Z
+8,cpe:2.3:o:huawei:honor_smart_scale_application_firmware:1.1.1:*:*:*:*:*:*:*,Huawei Honor Smart Scale Application Firmware 1.1.1,['CVE-2017-17322'],2022-03-21T17:53Z
+9,cpe:2.3:h:huawei:honor_v10:-:*:*:*:*:*:*:*,Huawei Honor V10,"['CVE-2019-5251', 'CVE-2019-5264', 'CVE-2020-1785', 'CVE-2020-1792', 'CVE-2020-1804', 'CVE-2020-1805', 'CVE-2020-1806']",2022-03-21T17:53Z

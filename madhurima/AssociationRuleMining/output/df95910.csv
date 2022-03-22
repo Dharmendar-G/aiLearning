@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:buffalo:wzr-450hp-cwt_firmware:2.00:*:*:*:*:*:*:*,Buffalo WZR-450HP-CWT FIRMWARE 2.00,[''],2022-03-19T13:17Z
+1,cpe:2.3:h:buffalo:wzr-450hp-ub:-:*:*:*:*:*:*:*,Buffalo WZR-450HP-UB,"['CVE-2016-4816', 'CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:17Z
+2,cpe:2.3:o:buffalo:wzr-450hp-ub_firmware:-:*:*:*:*:*:*:*,Buffalo WZR-450HP-UB FIRMWARE,"['CVE-2016-4816', 'CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:17Z
+3,cpe:2.3:o:buffalo:wzr-450hp-ub_firmware:1.96:*:*:*:*:*:*:*,Buffalo WZR-450HP-UB Firmware 1.96,"['CVE-2016-4816', 'CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:17Z
+4,cpe:2.3:o:buffalo:wzr-450hp-ub_firmware:1.99:*:*:*:*:*:*:*,Buffalo WZR-450HP-UB FIRMWARE 1.99,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:17Z
+5,cpe:2.3:o:buffalo:wzr-450hp-ub_firmware:2.00:*:*:*:*:*:*:*,Buffalo WZR-450HP-UB FIRMWARE 2.00,[''],2022-03-19T13:17Z
+6,cpe:2.3:h:buffalo:wzr-600dhp:-:*:*:*:*:*:*:*,Buffalo WZR-600DHP,"['CVE-2016-4816', 'CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:17Z
+7,cpe:2.3:o:buffalo:wzr-600dhp_firmware:-:*:*:*:*:*:*:*,Buffalo WZR-600DHP FIRMWARE,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:17Z
+8,cpe:2.3:o:buffalo:wzr-600dhp_firmware:1.97:*:*:*:*:*:*:*,Buffalo WZR-600DHP Firmware 1.97,"['CVE-2016-4816', 'CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:17Z
+9,cpe:2.3:o:buffalo:wzr-600dhp_firmware:1.99:*:*:*:*:*:*:*,Buffalo WZR-600DHP FIRMWARE 1.99,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:17Z

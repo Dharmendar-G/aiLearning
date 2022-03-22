@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bosch:video_streaming_gateway:6.45.08:*:*:*:*:*:*:*,Bosch Video Streaming Gateway 6.45.08,"['CVE-2020-6769', 'CVE-2020-6790']",2022-03-19T10:06Z
+1,cpe:2.3:a:bosch:video_streaming_gateway:6.45.0008:*:*:*:*:*:*:*,Bosch Video Streaming Gateway (VSG) 6.45.0008,"['CVE-2020-6769', 'CVE-2020-6790']",2022-03-19T10:06Z
+2,cpe:2.3:a:bosch:video_streaming_gateway:6.45.10:*:*:*:*:*:*:*,Bosch Video Streaming Gateway 6.45.10,['CVE-2020-6790'],2022-03-19T10:06Z
+3,cpe:2.3:h:boschsecurity:nbn-498_dinion2x_day\/night_ip_cameras:-:*:*:*:*:*:*:*,Bosch Security NBN-498 Dinion2X Day/Night IP Cameras,['CVE-2015-6970'],2022-03-19T10:06Z
+4,cpe:2.3:o:boschsecurity:nbn-498_dinion2x_day\/night_ip_cameras_firmware:4.54.0026:*:*:*:*:*:*:*,Bosch Security NBN-498 Dinion2X Day/Night IP Cameras Firmware 4.54.0026,['CVE-2015-6970'],2022-03-19T10:06Z
+5,cpe:2.3:a:bose:soundtouch:-:*:*:*:*:android:*:*,Bose SoundTouch for Android,"['CVE-2017-17749', 'CVE-2017-17750', 'CVE-2017-17751']",2022-03-19T10:06Z
+6,cpe:2.3:a:bose:soundtouch:-:*:*:*:*:iphone_os:*:*,Bose SoundTouch for iPhone OS,"['CVE-2017-17749', 'CVE-2017-17750', 'CVE-2017-17751']",2022-03-19T10:06Z
+7,cpe:2.3:a:bose:soundtouch:2.1.50:*:*:*:*:iphone_os:*:*,Bose SoundTouch 2.1.50 for iPhone OS,[''],2022-03-19T10:07Z
+8,cpe:2.3:a:bose:soundtouch:3.1.7:*:*:*:*:iphone_os:*:*,Bose SoundTouch 3.1.7 for iPhone OS,[''],2022-03-19T10:07Z
+9,cpe:2.3:a:bose:soundtouch:3.1.14:*:*:*:*:iphone_os:*:*,Bose SoundTouch 3.1.14 for iPhone OS,[''],2022-03-19T10:07Z

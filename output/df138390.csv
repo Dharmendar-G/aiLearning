@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:vpn_client:3.5.4:*:*:*:*:*:*:*,Cisco VPN Client 3.5.4,"['CVE-2008-5121', 'CVE-2012-5429']",2022-03-20T01:07Z
+1,cpe:2.3:a:cisco:vpn_client:3.6:*:*:*:*:*:*:*,Cisco VPN Client 3.6,"['CVE-2008-5121', 'CVE-2012-5429']",2022-03-20T01:07Z
+2,cpe:2.3:a:cisco:vpn_client:3.6.1:*:*:*:*:*:*:*,Cisco VPN Client 3.6.1,"['CVE-2008-5121', 'CVE-2012-5429']",2022-03-20T01:07Z
+3,cpe:2.3:a:cisco:vpn_client:4.0:*:*:*:*:*:*:*,Cisco Vpn Client 4.0,"['CVE-2008-5121', 'CVE-2012-5429']",2022-03-20T01:07Z
+4,cpe:2.3:a:cisco:vpn_client:4.0.2a:*:*:*:*:*:*:*,Cisco VPN Client 4.0.2a,"['CVE-2008-5121', 'CVE-2012-5429']",2022-03-20T01:07Z
+5,cpe:2.3:a:cisco:vpn_client:4.0.2c:*:*:*:*:*:*:*,Cisco VPN Client 4.0.2c,"['CVE-2008-5121', 'CVE-2012-5429']",2022-03-20T01:07Z
+6,cpe:2.3:a:cisco:vpn_client:4.7.00.0000:*:*:*:*:*:*:*,Cisco VPN Client 4.7.00.0000,"['CVE-2008-5121', 'CVE-2012-5429']",2022-03-20T01:07Z
+7,cpe:2.3:a:cisco:vpn_client:4.8.00.0000:*:*:*:*:*:*:*,Cisco VPN Client 4.8.00.0000,"['CVE-2008-5121', 'CVE-2012-5429']",2022-03-20T01:07Z
+8,cpe:2.3:a:cisco:vpn_client:4.8.1:*:*:*:*:*:*:*,Cisco VPN Client 4.8.1,"['CVE-2008-5121', 'CVE-2012-5429']",2022-03-20T01:07Z
+9,cpe:2.3:a:cisco:vpn_client:5.0:*:*:*:*:*:*:*,Cisco VPN Client 5.0,"['CVE-2008-5121', 'CVE-2012-3052', 'CVE-2012-5429', 'CVE-2015-7600']",2022-03-20T01:07Z

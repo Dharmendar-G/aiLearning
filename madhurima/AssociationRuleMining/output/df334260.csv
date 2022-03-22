@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:honor_5a_firmware:cam-l21c636b245:*:*:*:*:*:*:*,Huawei Honor 5A Firmware CAM-L21C636B245,['CVE-2017-2729'],2022-03-21T17:50Z
+1,cpe:2.3:o:huawei:honor_5a_firmware:cam-tl00c01b193:*:*:*:*:*:*:*,Huawei Honor 5A Firmware CAM-TL00C01B193,['CVE-2017-2729'],2022-03-21T17:50Z
+2,cpe:2.3:o:huawei:honor_5a_firmware:cam-tl00hc00b193:*:*:*:*:*:*:*,Huawei Honor 5A Firmware CAM-TL00HC00B193,['CVE-2017-2729'],2022-03-21T17:50Z
+3,cpe:2.3:o:huawei:honor_5a_firmware:cam-ul00c00b193:*:*:*:*:*:*:*,Huawei Honor 5A Firmware CAM-UL00C00B193,[''],2022-03-21T17:50Z
+4,cpe:2.3:h:huawei:honor_5c:-:*:*:*:*:*:*:*,Huawei honor 5C,"['CVE-2017-2697', 'CVE-2017-8143', 'CVE-2017-8207', 'CVE-2017-8208', 'CVE-2017-8209', 'CVE-2017-8210', 'CVE-2017-8211', 'CVE-2017-8212']",2022-03-21T17:50Z
+5,cpe:2.3:o:huawei:honor_5c_firmware:-:*:*:*:*:*:*:*,Huawei Honor 5C Firmware -,"['CVE-2017-2697', 'CVE-2017-8143', 'CVE-2017-8207', 'CVE-2017-8208', 'CVE-2017-8209', 'CVE-2017-8210', 'CVE-2017-8211', 'CVE-2017-8212']",2022-03-21T17:51Z
+6,cpe:2.3:o:huawei:honor_5c_firmware:nem-al10c00b356:*:*:*:*:*:*:*,Huawei honor 5C Firmware NEM-AL10C00B356,"['CVE-2017-2697', 'CVE-2017-8143']",2022-03-21T17:51Z
+7,cpe:2.3:o:huawei:honor_5c_firmware:nem-l21c432b351:*:*:*:*:*:*:*,Huawei Honor 5C Firmware NEM-L21C432B351,['CVE-2017-2697'],2022-03-21T17:51Z
+8,cpe:2.3:h:huawei:honor_5s:-:*:*:*:*:*:*:*,Huawei Honor 5S,"['CVE-2017-8151', 'CVE-2017-8152']",2022-03-21T17:51Z
+9,cpe:2.3:o:huawei:honor_5s_firmware:tag-tl00c01b173:*:*:*:*:*:*:*,Huawei Honor 5S Firmware TAG-TL00C01B173,[''],2022-03-21T17:51Z

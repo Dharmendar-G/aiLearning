@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dhis2:dhis_2:2.35.1:*:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.35.1,"['CVE-2021-39179', 'CVE-2021-41187']",2022-03-20T14:00Z
+1,cpe:2.3:a:dhis2:dhis_2:2.35.2:*:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.35.2,"['CVE-2021-32704', 'CVE-2021-39179', 'CVE-2021-41187']",2022-03-20T14:00Z
+2,cpe:2.3:a:dhis2:dhis_2:2.35.3:*:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.35.3,"['CVE-2021-32704', 'CVE-2021-39179', 'CVE-2021-41187']",2022-03-20T14:00Z
+3,cpe:2.3:a:dhis2:dhis_2:2.35.4:*:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.35.4,"['CVE-2021-32704', 'CVE-2021-39179', 'CVE-2021-41187']",2022-03-20T14:00Z
+4,cpe:2.3:a:dhis2:dhis_2:2.35.5:*:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.35.5,"['CVE-2021-39179', 'CVE-2021-41187']",2022-03-20T14:00Z
+5,cpe:2.3:a:dhis2:dhis_2:2.35.6:*:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.35.6,"['CVE-2021-39179', 'CVE-2021-41187']",2022-03-20T14:00Z
+6,cpe:2.3:a:dhis2:dhis_2:2.35.7:*:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.35.7,['CVE-2021-41187'],2022-03-20T14:00Z
+7,cpe:2.3:a:dhis2:dhis_2:2.35.8:*:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.35.8,[''],2022-03-20T14:00Z
+8,cpe:2.3:a:dhis2:dhis_2:2.36.0:*:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.36.0,"['CVE-2021-32704', 'CVE-2021-39179', 'CVE-2021-41187']",2022-03-20T14:00Z
+9,cpe:2.3:a:dhis2:dhis_2:2.36.1:*:*:*:*:*:*:*,DHIS 2 (District Health Information Software 2) 2.36.1,"['CVE-2021-39179', 'CVE-2021-41187']",2022-03-20T14:00Z

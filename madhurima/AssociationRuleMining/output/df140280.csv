@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:citrix:hdx_mediastream_for_flash_server:2.0.0.0:*:*:*:*:*:*:*,Citrix Hdx Mediastream For Flash Server 2.0.0.0,[''],2022-03-20T01:30Z
+1,cpe:2.3:a:citrix:hdx_wmi_provider:2.0.0.0:*:*:*:*:*:*:*,Citrix Hdx Wmi Provider 2.0.0.0,[''],2022-03-20T01:30Z
+2,cpe:2.3:a:citrix:hmr_test_pack:2.0.0.0:*:*:*:*:*:*:*,Citrix Hmr Test Pack 2.0.0.0,[''],2022-03-20T01:30Z
+3,cpe:2.3:o:citrix:hypervisor:-:*:*:*:*:*:*:*,Citrix Hypervisor,"['CVE-2021-1057', 'CVE-2021-1058', 'CVE-2021-1059', 'CVE-2021-1060', 'CVE-2021-1061', 'CVE-2021-1062', 'CVE-2021-1063', 'CVE-2021-1064', 'CVE-2021-1065', 'CVE-2021-1066', 'CVE-2021-1080', 'CVE-2021-1081', 'CVE-2021-1082', 'CVE-2021-1083', 'CVE-2021-1084', 'CVE-2021-1085', 'CVE-2021-1086', 'CVE-2021-1087']",2022-03-20T01:30Z
+4,cpe:2.3:a:citrix:ica_client:-:*:*:*:*:*:*:*,Citrix ICA Client,[''],2022-03-20T01:30Z
+5,cpe:2.3:a:citrix:ica_client:6.1:*:*:*:*:*:*:*,Citrix ICA Client 6.1,['CVE-2001-1192'],2022-03-20T01:30Z
+6,cpe:2.3:a:citrix:ica_program_neighborhood_client:-:*:*:*:*:*:*:*,Citrix ICA Program Neighborhood Client,[''],2022-03-20T01:30Z
+7,cpe:2.3:a:citrix:ica_program_neighborhood_client:9.1:*:*:*:*:*:*:*,Citrix ICA Program Neighborhood Client 9.1,['CVE-2005-3652'],2022-03-20T01:30Z
+8,cpe:2.3:a:citrix:ica_web_client:-:*:*:*:*:*:*:*,Citrix ICA Web Client,[''],2022-03-20T01:30Z
+9,cpe:2.3:a:citrix:ica_web_client:6.3:*:*:*:*:*:*:*,Citrix ICA Web Client 6.3,[''],2022-03-20T01:30Z

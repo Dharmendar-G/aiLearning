@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:axel_project:axel:2.11:*:*:*:*:*:*:*,AXEL Project AXEL 2.11,['CVE-2020-13614'],2022-03-19T04:39Z
+1,cpe:2.3:a:axel_project:axel:2.12:*:*:*:*:*:*:*,AXEL Project AXEL 2.12,['CVE-2020-13614'],2022-03-19T04:39Z
+2,cpe:2.3:a:axel_project:axel:2.13:*:*:*:*:*:*:*,AXEL Project AXEL 2.13,['CVE-2020-13614'],2022-03-19T04:39Z
+3,cpe:2.3:a:axel_project:axel:2.13.1:*:*:*:*:*:*:*,AXEL Project AXEL 2.13.1,['CVE-2020-13614'],2022-03-19T04:39Z
+4,cpe:2.3:a:axel_project:axel:2.14:*:*:*:*:*:*:*,AXEL Project AXEL 2.14,['CVE-2020-13614'],2022-03-19T04:39Z
+5,cpe:2.3:a:axel_project:axel:2.14.1:*:*:*:*:*:*:*,AXEL Project AXEL 2.14.1,['CVE-2020-13614'],2022-03-19T04:39Z
+6,cpe:2.3:a:axel_project:axel:2.15:*:*:*:*:*:*:*,AXEL Project AXEL 2.15,['CVE-2020-13614'],2022-03-19T04:39Z
+7,cpe:2.3:a:axel_project:axel:2.16:*:*:*:*:*:*:*,AXEL Project AXEL 2.16,['CVE-2020-13614'],2022-03-19T04:39Z
+8,cpe:2.3:a:axel_project:axel:2.16.1:*:*:*:*:*:*:*,AXEL Project AXEL 2.16.1,['CVE-2020-13614'],2022-03-19T04:39Z
+9,cpe:2.3:a:axel_project:axel:2.17:*:*:*:*:*:*:*,AXEL Project AXEL 2.17,['CVE-2020-13614'],2022-03-19T04:39Z

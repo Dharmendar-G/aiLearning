@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:absolunet:kafe:3.2.10:*:*:*:*:*:*:*,Absolunet Kafe 3.2.10,[''],2022-03-18T10:42Z
+1,cpe:2.3:a:absolute:computrace:8.0.885:*:*:*:*:*:*:*,Absolute Software Corporation Computrace 8.0.885,[''],2022-03-18T10:42Z
+2,cpe:2.3:a:absolute:computrace_agent:-:*:*:*:*:*:*:*,Absolute Computrace Agent,['CVE-2009-5152'],2022-03-18T10:42Z
+3,cpe:2.3:a:absolute:computrace_agent:70.785:*:*:*:*:*:*:*,Absolute Computrace Agent 70.785,['CVE-2009-5151'],2022-03-18T10:42Z
+4,cpe:2.3:a:absolute:computrace_agent:80.845:*:*:*:*:*:*:*,Absolute Computrace Agent 80.845,['CVE-2009-5150'],2022-03-18T10:43Z
+5,cpe:2.3:a:absolute:computrace_agent:80.866:*:*:*:*:*:*:*,Absolute Computrace Agent 80.866,['CVE-2009-5150'],2022-03-18T10:43Z
+6,cpe:2.3:a:absolute:ctes_windows_agent:1.0.0.1479:*:*:*:*:*:*:*,Absolute CTES Windows Agent 1.0.0.1479,['CVE-2018-16715'],2022-03-18T10:43Z
+7,cpe:2.3:a:absolutefuturity:af_imagegrabber:1.0.3:*:*:*:*:*:*:*,Absolute Futurity AF ImageGrabber 1.0.3,[''],2022-03-18T10:43Z
+8,cpe:2.3:a:absolutengine:absolut_engine:1.73:*:*:*:*:*:*:*,absoluteengine Absolut Engine 1.73,"['CVE-2014-9434', 'CVE-2014-9435']",2022-03-18T10:43Z
+9,cpe:2.3:a:abtei-neuburg:stift_neuburg:1.1:*:*:*:*:android:*:*,abtei-neuburg Stift Neuburg (aka de.appack.project.neuburg) for android 1.1,['CVE-2014-7566'],2022-03-18T10:43Z

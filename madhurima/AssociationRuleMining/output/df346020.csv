@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:ibm:power_system_s914_\(9009-41a\)_firmware:fw910:*:*:*:*:*:*:*,IBM Power System S914 (9009-41A) Firmware FW910,['CVE-2018-1992'],2022-03-21T21:27Z
+1,cpe:2.3:o:ibm:power_system_s914_\(9009-41a\)_firmware:fw910.10:*:*:*:*:*:*:*,IBM Power System S914 (9009-41A) Firmware FW910.10,[''],2022-03-21T21:27Z
+2,cpe:2.3:h:ibm:power_system_s922:-:*:*:*:*:*:*:*,IBM Power System S922,[''],2022-03-21T21:27Z
+3,cpe:2.3:h:ibm:power_system_s922_\(9009-22a\):-:*:*:*:*:*:*:*,IBM Power System S922 (9009-22A),['CVE-2018-1992'],2022-03-21T21:27Z
+4,cpe:2.3:o:ibm:power_system_s922_\(9009-22a\)_firmware:fw910:*:*:*:*:*:*:*,IBM Power System S922 (9009-22A) Firmware FW910,['CVE-2018-1992'],2022-03-21T21:27Z
+5,cpe:2.3:o:ibm:power_system_s922_\(9009-22a\)_firmware:fw910.10:*:*:*:*:*:*:*,IBM Power System S922 (9009-22A) Firmware FW910.10,[''],2022-03-21T21:27Z
+6,cpe:2.3:h:ibm:power_system_s924:-:*:*:*:*:*:*:*,IBM Power System S924,[''],2022-03-21T21:27Z
+7,cpe:2.3:h:ibm:power_system_s924_\(9009-42a\):-:*:*:*:*:*:*:*,IBM Power System S924 (9009-42A),['CVE-2018-1992'],2022-03-21T21:27Z
+8,cpe:2.3:o:ibm:power_system_s924_\(9009-42a\)_firmware:fw910:*:*:*:*:*:*:*,IBM Power System S924 (9009-42A) Firmware FW910,['CVE-2018-1992'],2022-03-21T21:27Z
+9,cpe:2.3:o:ibm:power_system_s924_\(9009-42a\)_firmware:fw910.10:*:*:*:*:*:*:*,IBM Power System S924 (9009-42A) Firmware FW910.10,[''],2022-03-21T21:27Z

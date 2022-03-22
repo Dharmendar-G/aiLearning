@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:client:jointjs:3.4.1:*:*:*:*:node.js:*:*,Client.IO JointJS 3.4.1 for Node.js,['CVE-2021-23444'],2022-03-20T02:31Z
+1,cpe:2.3:a:client:jointjs:3.4.2:*:*:*:*:node.js:*:*,Client.IO JointJS 3.4.2 for Node.js,[''],2022-03-20T02:31Z
+2,cpe:2.3:a:client:jointjs:3.4.3:*:*:*:*:node.js:*:*,Client.IO JointJS 3.4.3 for Node.js,[''],2022-03-20T02:31Z
+3,cpe:2.3:a:client:jointjs:3.4.4:*:*:*:*:node.js:*:*,Client.IO JointJS 3.4.4 for Node.js,[''],2022-03-20T02:31Z
+4,cpe:2.3:a:clientresponse_project:clientresponse:4.1:*:*:*:*:*:*:*,clientResponse project clientResponse 4.1,['CVE-2014-100013'],2022-03-20T02:31Z
+5,cpe:2.3:a:cliniccases:cliniccases:7.0.0:*:*:*:*:*:*:*,ClinicCases 7.0.0,[''],2022-03-20T02:31Z
+6,cpe:2.3:a:cliniccases:cliniccases:7.0.1:*:*:*:*:*:*:*,ClinicCases 7.0.1,[''],2022-03-20T02:31Z
+7,cpe:2.3:a:cliniccases:cliniccases:7.0.2:*:*:*:*:*:*:*,ClinicCases 7.0.2,[''],2022-03-20T02:31Z
+8,cpe:2.3:a:cliniccases:cliniccases:7.1.0:*:*:*:*:*:*:*,ClinicCases 7.1.0,[''],2022-03-20T02:31Z
+9,cpe:2.3:a:cliniccases:cliniccases:7.1.1:*:*:*:*:*:*:*,ClinicCases 7.1.1,[''],2022-03-20T02:31Z

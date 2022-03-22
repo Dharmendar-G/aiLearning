@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dadamailproject:dada_mail:11.16.1:*:*:*:*:*:*:*,Dadamailproject Dada Mail 11.16.1,[''],2022-03-20T09:54Z
+1,cpe:2.3:a:dadamailproject:dada_mail:11.16.2:*:*:*:*:*:*:*,Dadamailproject Dada Mail 11.16.2,[''],2022-03-20T09:54Z
+2,cpe:2.3:a:dadamailproject:dada_mail:11.16.3:*:*:*:*:*:*:*,Dadamailproject Dada Mail 11.16.3,[''],2022-03-20T09:54Z
+3,cpe:2.3:a:daddytoken_project:daddytoken:-:*:*:*:*:*:*:*,DaddyToken Project DaddyToken,['CVE-2018-13493'],2022-03-20T09:54Z
+4,cpe:2.3:a:daemonology:bsdiff:4.3:*:*:*:*:*:*:*,Daemonology bsdiff 4.3,['CVE-2020-14315'],2022-03-20T09:54Z
+5,cpe:2.3:a:daemontools:daemon_tools:3.47.0:*:*:*:*:*:*:*,Daemontools Daemon Tools 3.47.0,[''],2022-03-20T09:54Z
+6,cpe:2.3:a:daemontools:daemon_tools_lite:4.40.2.131:*:*:*:*:*:*:*,Daemontools Daemon Tools Lite 4.40.2.131,[''],2022-03-20T09:54Z
+7,cpe:2.3:a:daemontools:daemon_tools_lite:4.41.3.173:*:*:*:*:*:*:*,Daemontools Daemon Tools Lite 4.41.3.173,[''],2022-03-20T09:54Z
+8,cpe:2.3:a:daemontools:daemon_tools_toolbar:1.1.2.185:*:*:*:*:*:*:*,Daemontools Daemon Tools Toolbar 1.1.2.185,[''],2022-03-20T09:54Z
+9,cpe:2.3:a:daemontools:daemon_tools_toolbar:1.1.8.285:*:*:*:*:*:*:*,Daemontools Daemon Tools Toolbar 1.1.8.285,[''],2022-03-20T09:54Z

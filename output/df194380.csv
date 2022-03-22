@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dot-notes_project:dot-notes:3.2.0:*:*:*:*:node.js:*:*,dot-notes Project dot-notes 3.2.0 for Node.js,['CVE-2020-7717'],2022-03-20T17:19Z
+1,cpe:2.3:a:dot-object_project:dot-object:0.1.1:*:*:*:*:node.js:*:*,dot-object Project dot-object 0.1.1 for Node.js,['CVE-2019-10793'],2022-03-20T17:19Z
+2,cpe:2.3:a:dot-object_project:dot-object:0.2.0:*:*:*:*:node.js:*:*,dot-object Project dot-object 0.2.0 for Node.js,['CVE-2019-10793'],2022-03-20T17:19Z
+3,cpe:2.3:a:dot-object_project:dot-object:0.2.1:*:*:*:*:node.js:*:*,dot-object Project dot-object 0.2.1 for Node.js,['CVE-2019-10793'],2022-03-20T17:19Z
+4,cpe:2.3:a:dot-object_project:dot-object:0.3.0:*:*:*:*:node.js:*:*,dot-object Project dot-object 0.3.0 for Node.js,['CVE-2019-10793'],2022-03-20T17:19Z
+5,cpe:2.3:a:dot-object_project:dot-object:0.4.0:*:*:*:*:node.js:*:*,dot-object Project dot-object 0.4.0 for Node.js,['CVE-2019-10793'],2022-03-20T17:19Z
+6,cpe:2.3:a:dot-object_project:dot-object:0.4.1:*:*:*:*:node.js:*:*,dot-object Project dot-object 0.4.1 for Node.js,['CVE-2019-10793'],2022-03-20T17:19Z
+7,cpe:2.3:a:dot-object_project:dot-object:0.5.0:*:*:*:*:node.js:*:*,dot-object Project dot-object 0.5.0 for Node.js,['CVE-2019-10793'],2022-03-20T17:19Z
+8,cpe:2.3:a:dot-object_project:dot-object:0.6.0:*:*:*:*:node.js:*:*,dot-object Project dot-object 0.6.0 for Node.js,['CVE-2019-10793'],2022-03-20T17:19Z
+9,cpe:2.3:a:dot-object_project:dot-object:0.7.0:*:*:*:*:node.js:*:*,dot-object Project dot-object 0.7.0 for Node.js,['CVE-2019-10793'],2022-03-20T17:19Z

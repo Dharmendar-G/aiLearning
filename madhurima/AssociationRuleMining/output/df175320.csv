@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.033_03:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.033 03,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+1,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.034:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.034,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+2,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.035:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.035,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+3,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.035_01:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.035 01,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+4,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.035_02:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.035 02,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+5,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.035_03:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.035 03,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+6,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.036:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.036,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+7,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.037:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.037,"['CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+8,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.037_01:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.037 01,"['CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+9,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.038:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.038,"['CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z

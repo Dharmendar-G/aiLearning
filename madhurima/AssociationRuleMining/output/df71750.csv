@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:bd:pyxis_cato_firmware:-:*:*:*:*:*:*:*,BD Pyxis CATO Firmware,['CVE-2022-22766'],2022-03-19T06:38Z
+1,cpe:2.3:h:bd:pyxis_ciisafe:-:*:*:*:*:*:*:*,BD Pyxis CIIsafe,['CVE-2022-22766'],2022-03-19T06:38Z
+2,cpe:2.3:o:bd:pyxis_ciisafe_firmware:-:*:*:*:*:*:*:*,BD Pyxis CIIsafe Firmware,['CVE-2022-22766'],2022-03-19T06:38Z
+3,cpe:2.3:a:bd:pyxis_enterprise_server:4.4:*:*:*:*:*:*:*,BD Pyxis Enterprise Server 4.4,['CVE-2019-13517'],2022-03-19T06:38Z
+4,cpe:2.3:a:bd:pyxis_enterprise_server:4.12:*:*:*:*:*:*:*,BD Pyxis Enterprise Server 4.12,['CVE-2019-13517'],2022-03-19T06:38Z
+5,cpe:2.3:a:bd:pyxis_es:1.3.4:*:*:*:*:*:*:*,BD Pyxis Enterprise Server 1.3.4,['CVE-2019-13517'],2022-03-19T06:39Z
+6,cpe:2.3:a:bd:pyxis_es:1.6.1:*:*:*:*:*:*:*,BD Pyxis Enterprise Server 1.6.1,['CVE-2019-13517'],2022-03-19T06:38Z
+7,cpe:2.3:h:bd:pyxis_inventory_connect:-:*:*:*:*:*:*:*,BD Pyxis Inventory Connect,['CVE-2022-22766'],2022-03-19T06:39Z
+8,cpe:2.3:o:bd:pyxis_inventory_connect_firmware:-:*:*:*:*:*:*:*,BD Pyxis Inventory Connect Firmware,['CVE-2022-22766'],2022-03-19T06:39Z
+9,cpe:2.3:h:bd:pyxis_iv_prep:-:*:*:*:*:*:*:*,BD Pyxis IV Prep,['CVE-2022-22766'],2022-03-19T06:39Z

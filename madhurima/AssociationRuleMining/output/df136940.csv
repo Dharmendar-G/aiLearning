@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:unified_computing_system:9.1\(1.13\):*:*:*:*:*:*:*,Cisco Unified Computing System 9.1(1.13),['CVE-2018-0338'],2022-03-20T00:49Z
+1,cpe:2.3:a:cisco:unified_computing_system:9.9\(0.902\):*:*:*:*:*:*:*,Cisco Unified Computing System 9.9(0.902),['CVE-2018-0338'],2022-03-20T00:49Z
+2,cpe:2.3:h:cisco:unified_computing_system_6120xp_fabric_interconnect:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) 6120XP Fabric Interconnect,"['CVE-2013-1178', 'CVE-2013-1182', 'CVE-2013-1183', 'CVE-2013-1184', 'CVE-2013-1185', 'CVE-2013-1186', 'CVE-2013-3467', 'CVE-2014-3261']",2022-03-20T00:49Z
+3,cpe:2.3:h:cisco:unified_computing_system_6140xp_fabric_interconnect:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) 6140XP Fabric Interconnect,"['CVE-2013-1178', 'CVE-2013-1182', 'CVE-2013-1183', 'CVE-2013-1184', 'CVE-2013-1185', 'CVE-2013-1186', 'CVE-2013-3467', 'CVE-2014-3261']",2022-03-20T00:49Z
+4,cpe:2.3:h:cisco:unified_computing_system_6248up:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) 6248up -,['CVE-2021-1590'],2022-03-20T00:49Z
+5,cpe:2.3:h:cisco:unified_computing_system_6248up_fabric_interconnect:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) 6248UP Fabric Interconnect,"['CVE-2013-1178', 'CVE-2013-1181', 'CVE-2013-1182', 'CVE-2013-1183', 'CVE-2013-1184', 'CVE-2013-1185', 'CVE-2013-1186', 'CVE-2014-3261']",2022-03-20T00:49Z
+6,cpe:2.3:h:cisco:unified_computing_system_6296up:-:*:*:*:*:*:*:*,Cisco Unified Computing System(UCS) 6296up -,['CVE-2021-1590'],2022-03-20T00:49Z
+7,cpe:2.3:h:cisco:unified_computing_system_6296up_fabric_interconnect:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) 6296UP Fabric Interconnect,"['CVE-2013-1178', 'CVE-2013-1181', 'CVE-2013-1182', 'CVE-2013-1183', 'CVE-2013-1184', 'CVE-2013-1185', 'CVE-2013-1186', 'CVE-2014-3261']",2022-03-20T00:49Z
+8,cpe:2.3:h:cisco:unified_computing_system_6324:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) 6324 -,['CVE-2021-1590'],2022-03-20T00:49Z
+9,cpe:2.3:h:cisco:unified_computing_system_6332:-:*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) 6332 -,['CVE-2021-1590'],2022-03-20T00:49Z

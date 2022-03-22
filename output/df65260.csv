@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:avm:fritz\!box_6810_lte:-:*:*:*:*:*:*:*,AVM FRITZ!Box 6810 LTE,['CVE-2014-8872'],2022-03-19T04:31Z
+1,cpe:2.3:o:avm:fritz\!box_6810_lte_firmware:-:*:*:*:*:*:*:*,AVM FRITZ!Box 6810 LTE Firmware,['CVE-2014-8872'],2022-03-19T04:31Z
+2,cpe:2.3:h:avm:fritz\!box_6840_lte:-:*:*:*:*:*:*:*,AVM FRITZ!Box 6840 LTE,['CVE-2014-8872'],2022-03-19T04:31Z
+3,cpe:2.3:o:avm:fritz\!box_6840_lte_firmware:-:*:*:*:*:*:*:*,AVM FRITZ!Box 6840 LTE Firmware,['CVE-2014-8872'],2022-03-19T04:31Z
+4,cpe:2.3:h:avm:fritz\!box_7490:-:*:*:*:*:*:*:*,AVM FRITZ!Box 7490,"['CVE-2017-8087', 'CVE-2020-26887']",2022-03-19T04:31Z
+5,cpe:2.3:o:avm:fritz\!box_7490_firmware:-:*:*:*:*:*:*:*,Avm FRITZ!Box 7490 Firmware,['CVE-2020-26887'],2022-03-19T04:31Z
+6,cpe:2.3:o:avm:fritz\!box_7490_firmware:7.20:*:*:*:*:*:*:*,Avm FRITZ!Box 7490 Firmware 7.20,['CVE-2020-26887'],2022-03-19T04:31Z
+7,cpe:2.3:o:avm:fritz\!box_7490_firmware:7.21:*:*:*:*:*:*:*,Avm FRITZ!Box 7490 Firmware 7.21,[''],2022-03-19T04:31Z
+8,cpe:2.3:o:avm:fritz\!os:6.80:*:*:*:*:*:*:*,AVM FRITZ!OS 6.80,['CVE-2017-8087'],2022-03-19T04:31Z
+9,cpe:2.3:o:avm:fritz\!os:6.83:*:*:*:*:*:*:*,AVM FRITZ!OS 6.83,['CVE-2017-8087'],2022-03-19T04:31Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:bosch:aviotec_firmware:7.61:*:*:*:*:*:*:*,Bosch AVIOTEC FIRMWARE 7.61,['CVE-2021-23849'],2022-03-19T10:00Z
+1,cpe:2.3:o:bosch:aviotec_firmware:7.72:*:*:*:*:*:*:*,Bosch AVIOTEC FIRMWARE 7.72,['CVE-2021-23849'],2022-03-19T10:00Z
+2,cpe:2.3:h:bosch:aviotec_ip_starlight_8000:-:*:*:*:*:*:*:*,Bosch Aviotec IP Starlight 8000,['CVE-2018-19036'],2022-03-19T10:00Z
+3,cpe:2.3:h:bosch:b426:-:*:*:*:*:*:*:*,Bosch B426,"['CVE-2021-23845', 'CVE-2021-23846']",2022-03-19T10:00Z
+4,cpe:2.3:o:bosch:b426_firmware:-:*:*:*:*:*:*:*,Bosch B426 FIRMWARE,['CVE-2021-23845'],2022-03-19T10:00Z
+5,cpe:2.3:o:bosch:b426_firmware:03.01.0004:*:*:*:*:*:*:*,Bosch B426 Firmware 03.01.0004,"['CVE-2021-23845', 'CVE-2021-23846']",2022-03-19T10:00Z
+6,cpe:2.3:o:bosch:b426_firmware:03.02.002:*:*:*:*:*:*:*,Bosch B426 Firmware 03.02.002,"['CVE-2021-23845', 'CVE-2021-23846']",2022-03-19T10:00Z
+7,cpe:2.3:o:bosch:b426_firmware:03.03.0009:*:*:*:*:*:*:*,Bosch B426 Firmware 03.03.0009,"['CVE-2021-23845', 'CVE-2021-23846']",2022-03-19T10:00Z
+8,cpe:2.3:o:bosch:b426_firmware:03.05.0003:*:*:*:*:*:*:*,Bosch B426 Firmware 03.05.0003,"['CVE-2021-23845', 'CVE-2021-23846']",2022-03-19T10:00Z
+9,cpe:2.3:o:bosch:b426_firmware:03.08:*:*:*:*:*:*:*,Bosch B426 FIRMWARE 03.08,[''],2022-03-19T10:00Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hosteng:h2-ecom100_firmware:4.0.2148:*:*:*:*:*:*:*,Host Engineering H2-ECOM100 Firmware 4.0.2148,['CVE-2020-25195'],2022-03-21T12:40Z
+1,cpe:2.3:o:hosteng:h2-ecom100_firmware:5.0.1043:*:*:*:*:*:*:*,Host Engineering H2-ECOM100 Firmware 5.0.1043,['CVE-2020-25195'],2022-03-21T12:40Z
+2,cpe:2.3:h:hosteng:h4-ecom100:-:*:*:*:*:*:*:*,Host Engineering H4-ECOM100,['CVE-2020-25195'],2022-03-21T12:40Z
+3,cpe:2.3:o:hosteng:h4-ecom100_firmware:-:*:*:*:*:*:*:*,Host Engineering H4-ECOM100 Firmware,['CVE-2020-25195'],2022-03-21T12:40Z
+4,cpe:2.3:o:hosteng:h4-ecom100_firmware:4.0.2148:*:*:*:*:*:*:*,Host Engineering H4-ECOM100 Firmware 4.0.2148,['CVE-2020-25195'],2022-03-21T12:40Z
+5,cpe:2.3:a:hosting_project:hosting:2018-02-11:*:*:*:*:*:*:*,Hosting Project Hosting 2018-02-11,['CVE-2018-7308'],2022-03-21T12:40Z
+6,cpe:2.3:a:hostingcontroller:hc10:10.0.10:*:*:*:*:*:*:*,Hosting Controller HC10 10.0.10,[''],2022-03-21T12:40Z
+7,cpe:2.3:a:hostingcontroller:hc10:10.0.15:*:*:*:*:*:*:*,Hosting Controller HC10 10.0.15,[''],2022-03-21T12:40Z
+8,cpe:2.3:a:hostingcontroller:hc10:10.1.7:*:*:*:*:*:*:*,Hosting Controller HC10 10.1.7,[''],2022-03-21T12:40Z
+9,cpe:2.3:a:hostingcontroller:hc10:10.1.9:*:*:*:*:*:*:*,Hosting Controller HC10 10.1.9,[''],2022-03-21T12:40Z

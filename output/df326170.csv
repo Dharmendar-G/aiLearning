@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:officejet_5200_m2u75a:-:*:*:*:*:*:*:*,HP OfficeJet 5200 M2U75A,['CVE-2019-6332'],2022-03-21T15:27Z
+1,cpe:2.3:o:hp:officejet_5200_m2u75a_firmware:-:*:*:*:*:*:*:*,HP OfficeJet 5200 M2U75A Firmware,['CVE-2019-6332'],2022-03-21T15:27Z
+2,cpe:2.3:o:hp:officejet_5200_m2u75a_firmware:003.1925a:*:*:*:*:*:*:*,HP OfficeJet 5200 M2U75A Firmware 003.1925A,[''],2022-03-21T15:27Z
+3,cpe:2.3:h:hp:officejet_5200_m2u81a:-:*:*:*:*:*:*:*,HP OfficeJet 5200 M2U81A,['CVE-2019-6332'],2022-03-21T15:27Z
+4,cpe:2.3:o:hp:officejet_5200_m2u81a_firmware:-:*:*:*:*:*:*:*,HP OfficeJet 5200 M2U81A Firmware,['CVE-2019-6332'],2022-03-21T15:27Z
+5,cpe:2.3:o:hp:officejet_5200_m2u81a_firmware:003.1925a:*:*:*:*:*:*:*,HP OfficeJet 5200 M2U81A Firmware 003.1925A,[''],2022-03-21T15:27Z
+6,cpe:2.3:h:hp:officejet_5200_m2u84b:-:*:*:*:*:*:*:*,HP OfficeJet 5200 M2U84B,['CVE-2019-6332'],2022-03-21T15:27Z
+7,cpe:2.3:o:hp:officejet_5200_m2u84b_firmware:-:*:*:*:*:*:*:*,HP OfficeJet 5200 M2U84B Firmware,['CVE-2019-6332'],2022-03-21T15:27Z
+8,cpe:2.3:o:hp:officejet_5200_m2u84b_firmware:003.1925a:*:*:*:*:*:*:*,HP OfficeJet 5200 M2U84B Firmware 003.1925A,[''],2022-03-21T15:27Z
+9,cpe:2.3:h:hp:officejet_5200_z4b12a:-:*:*:*:*:*:*:*,HP OfficeJet 5200 Z4B12A,['CVE-2019-6332'],2022-03-21T15:27Z

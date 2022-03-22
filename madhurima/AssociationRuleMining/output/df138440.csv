@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:wap150_firmware:1.1.3.2:*:*:*:*:*:*:*,Cisco WAP150 Firmware 1.1.3.2,[''],2022-03-20T01:07Z
+1,cpe:2.3:h:cisco:wap200:-:*:*:*:*:*:*:*,Cisco WAP200 Wireless Access Point,['CVE-2015-6358'],2022-03-20T01:07Z
+2,cpe:2.3:o:cisco:wap200_firmware:2.0.6.0:*:*:*:*:*:*:*,Cisco WAP200 Firmware 2.0.6.0,['CVE-2015-6358'],2022-03-20T01:07Z
+3,cpe:2.3:h:cisco:wap2000:-:*:*:*:*:*:*:*,Cisco WAP2000 Wireless Access Point,['CVE-2015-6358'],2022-03-20T01:07Z
+4,cpe:2.3:o:cisco:wap2000_firmware:2.0.8.0:*:*:*:*:*:*:*,Cisco WAP2000 Firmware 2.0.8.0,['CVE-2015-6358'],2022-03-20T01:07Z
+5,cpe:2.3:h:cisco:wap321:-:*:*:*:*:*:*:*,Cisco WAP321 Wireless Access Point,"['CVE-2018-0412', 'CVE-2018-0415']",2022-03-20T01:07Z
+6,cpe:2.3:o:cisco:wap321_firmware:1.0.6.6:*:*:*:*:*:*:*,Cisco WAP321 Firmware 1.0.6.6,"['CVE-2018-0412', 'CVE-2018-0415']",2022-03-20T01:07Z
+7,cpe:2.3:h:cisco:wap351:-:*:*:*:*:*:*:*,Cisco WAP351 Wireless Access Point,"['CVE-2018-0412', 'CVE-2018-0415', 'CVE-2020-12695', 'CVE-2021-1400', 'CVE-2021-1401', 'CVE-2021-1547', 'CVE-2021-1548', 'CVE-2021-1549', 'CVE-2021-1550', 'CVE-2021-1551', 'CVE-2021-1552', 'CVE-2021-1553', 'CVE-2021-1554', 'CVE-2021-1555']",2022-03-20T01:08Z
+8,cpe:2.3:o:cisco:wap351_firmware:-:*:*:*:*:*:*:*,Cisco WAP351 Firmware,"['CVE-2018-0412', 'CVE-2018-0415', 'CVE-2021-1400', 'CVE-2021-1401', 'CVE-2021-1547', 'CVE-2021-1548', 'CVE-2021-1549', 'CVE-2021-1550', 'CVE-2021-1551', 'CVE-2021-1552', 'CVE-2021-1553', 'CVE-2021-1554', 'CVE-2021-1555']",2022-03-20T01:08Z
+9,cpe:2.3:o:cisco:wap351_firmware:1.0.2.17:*:*:*:*:*:*:*,Cisco WAP351 Firmware 1.0.2.17,"['CVE-2018-0412', 'CVE-2018-0415', 'CVE-2021-1400', 'CVE-2021-1401', 'CVE-2021-1547', 'CVE-2021-1548', 'CVE-2021-1549', 'CVE-2021-1550', 'CVE-2021-1551', 'CVE-2021-1552', 'CVE-2021-1553', 'CVE-2021-1554', 'CVE-2021-1555']",2022-03-20T01:08Z

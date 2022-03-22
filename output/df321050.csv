@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:device_discovery:140.0.212.0:*:*:*:*:*:*:*,HP Device Discovery 140.0.212.0,[''],2022-03-21T13:16Z
+1,cpe:2.3:a:hp:device_discovery:140.0.213.0:*:*:*:*:*:*:*,HP Device Discovery 140.0.213.0,[''],2022-03-21T13:16Z
+2,cpe:2.3:a:hp:diagnostics:9.24:ip1:*:*:*:*:*:*,HP Diagnostics 9.24 IP1,"['CVE-2011-4789', 'CVE-2016-8521', 'CVE-2016-8522']",2022-03-21T13:16Z
+3,cpe:2.3:a:hp:diagnostics:9.26:*:*:*:*:*:*:*,HP Diagnostics 9.26,"['CVE-2011-4789', 'CVE-2016-8521', 'CVE-2016-8522']",2022-03-21T13:16Z
+4,cpe:2.3:a:hp:diagnostics:9.26:ip1:*:*:*:*:*:*,HP Diagnostics 9.26 IP1,"['CVE-2011-4789', 'CVE-2016-8521', 'CVE-2016-8522']",2022-03-21T13:16Z
+5,cpe:2.3:a:hp:diagnostics_server:8.00:*:*:*:*:*:*:*,HP Diagnostics Server 8.00,['CVE-2012-3278'],2022-03-21T13:16Z
+6,cpe:2.3:a:hp:diagnostics_server:8.01:*:*:*:*:*:*:*,HP Diagnostics Server 8.01,['CVE-2012-3278'],2022-03-21T13:16Z
+7,cpe:2.3:a:hp:diagnostics_server:8.02:*:*:*:*:*:*:*,HP Diagnostics Server 8.02,['CVE-2012-3278'],2022-03-21T13:16Z
+8,cpe:2.3:a:hp:diagnostics_server:8.03:*:*:*:*:*:*:*,HP Diagnostics Server 8.03,['CVE-2012-3278'],2022-03-21T13:16Z
+9,cpe:2.3:a:hp:diagnostics_server:8.04:*:*:*:*:*:*:*,HP Diagnostics Server 8.04,['CVE-2012-3278'],2022-03-21T13:16Z

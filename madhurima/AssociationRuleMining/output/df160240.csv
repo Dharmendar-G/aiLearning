@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:contao:contao_cms:3.5.34:*:*:*:*:*:*:*,Contao CMS 3.5.34,"['CVE-2018-20028', 'CVE-2019-10641']",2022-03-20T07:40Z
+1,cpe:2.3:a:contao:contao_cms:3.5.35:*:*:*:*:*:*:*,Contao CMS 3.5.35,"['CVE-2018-20028', 'CVE-2019-10641']",2022-03-20T07:40Z
+2,cpe:2.3:a:contao:contao_cms:3.5.36:*:*:*:*:*:*:*,Contao CMS 3.5.36,"['CVE-2018-20028', 'CVE-2019-10641']",2022-03-20T07:40Z
+3,cpe:2.3:a:contao:contao_cms:3.5.37:*:*:*:*:*:*:*,Contao CMS 3.5.37,['CVE-2019-10641'],2022-03-20T07:40Z
+4,cpe:2.3:a:contao:contao_cms:3.5.38:*:*:*:*:*:*:*,Contao CMS 3.5.38,['CVE-2019-10641'],2022-03-20T07:40Z
+5,cpe:2.3:a:contao:contao_cms:3.5.39:*:*:*:*:*:*:*,Contao CMS 3.5.39,[''],2022-03-20T07:40Z
+6,cpe:2.3:a:contao:contao_cms:3.5.40:*:*:*:*:*:*:*,Contao CMS 3.5.40,[''],2022-03-20T07:40Z
+7,cpe:2.3:a:contao:contao_cms:4.0.0:-:*:*:*:*:*:*,Contao CMS 4.0.0,"['CVE-2017-10993', 'CVE-2017-16558', 'CVE-2019-10641']",2022-03-20T07:40Z
+8,cpe:2.3:a:contao:contao_cms:4.0.0:beta1:*:*:*:*:*:*,Contao CMS 4.0.0 Beta 1,"['CVE-2017-10993', 'CVE-2017-16558', 'CVE-2019-10641']",2022-03-20T07:41Z
+9,cpe:2.3:a:contao:contao_cms:4.0.0:rc1:*:*:*:*:*:*,Contao CMS 4.0.0 Release Candidate 1,"['CVE-2017-10993', 'CVE-2017-16558', 'CVE-2019-10641']",2022-03-20T07:40Z

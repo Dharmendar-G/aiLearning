@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:emptoris_spend_analysis:9.5.0.3:*:*:*:*:*:*:*,IBM Emptoris Spend Analysis 9.5.0.3,"['CVE-2014-3035', 'CVE-2014-3040', 'CVE-2014-3061', 'CVE-2014-4790', 'CVE-2017-1445', 'CVE-2017-1446']",2022-03-21T20:30Z
+1,cpe:2.3:a:ibm:emptoris_spend_analysis:9.5.0.4:*:*:*:*:*:*:*,IBM Emptoris Spend Analysis 9.5.0.4,"['CVE-2017-1445', 'CVE-2017-1446']",2022-03-21T20:30Z
+2,cpe:2.3:a:ibm:emptoris_spend_analysis:10.0.0.0:*:*:*:*:*:*:*,IBM Emptoris Spend Analysis 10.0.0.0,"['CVE-2014-3040', 'CVE-2017-1445', 'CVE-2017-1446']",2022-03-21T20:30Z
+3,cpe:2.3:a:ibm:emptoris_spend_analysis:10.0.0.1:*:*:*:*:*:*:*,IBM Emptoris Spend Analysis 10.0.0.1,"['CVE-2014-3040', 'CVE-2017-1445', 'CVE-2017-1446']",2022-03-21T20:30Z
+4,cpe:2.3:a:ibm:emptoris_spend_analysis:10.0.1.0:*:*:*:*:*:*:*,IBM Emptoris Spend Analysis 10.0.1.0,"['CVE-2014-3035', 'CVE-2014-3040', 'CVE-2014-3061', 'CVE-2014-4790', 'CVE-2017-1445', 'CVE-2017-1446']",2022-03-21T20:30Z
+5,cpe:2.3:a:ibm:emptoris_spend_analysis:10.0.1.1:*:*:*:*:*:*:*,IBM Emptoris Spend Analysis 10.0.1.1,"['CVE-2014-3035', 'CVE-2014-3040', 'CVE-2014-3061', 'CVE-2014-4790']",2022-03-21T20:30Z
+6,cpe:2.3:a:ibm:emptoris_spend_analysis:10.0.1.2:*:*:*:*:*:*:*,IBM Emptoris Spend Analysis 10.0.1.2,"['CVE-2014-3035', 'CVE-2014-3040', 'CVE-2014-3061', 'CVE-2014-4790']",2022-03-21T20:30Z
+7,cpe:2.3:a:ibm:emptoris_spend_analysis:10.0.1.3:*:*:*:*:*:*:*,IBM Emptoris Spend Analysis 10.0.1.3,[''],2022-03-21T20:30Z
+8,cpe:2.3:a:ibm:emptoris_spend_analysis:10.0.2.0:*:*:*:*:*:*:*,IBM Emptoris Spend Analysis 10.0.2.0,"['CVE-2014-3035', 'CVE-2014-3040', 'CVE-2014-3061', 'CVE-2014-4790', 'CVE-2017-1446']",2022-03-21T20:30Z
+9,cpe:2.3:a:ibm:emptoris_spend_analysis:10.0.2.2:*:*:*:*:*:*:*,IBM Emptoris Spend Analysis 10.0.2.2,"['CVE-2014-3035', 'CVE-2014-3040', 'CVE-2014-3061', 'CVE-2014-4790']",2022-03-21T20:30Z

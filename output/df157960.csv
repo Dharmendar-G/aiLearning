@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:condor_project:condor:7.8.0:*:*:*:*:*:*:*,Condor 7.8.0,"['CVE-2012-3416', 'CVE-2012-3491', 'CVE-2012-3492', 'CVE-2012-3493', 'CVE-2012-4462', 'CVE-2012-5196', 'CVE-2012-5197', 'CVE-2012-5390', 'CVE-2013-4255']",2022-03-20T07:10Z
+1,cpe:2.3:a:condor_project:condor:7.8.1:*:*:*:*:*:*:*,Condor 7.8.1,"['CVE-2012-3416', 'CVE-2012-3491', 'CVE-2012-3492', 'CVE-2012-3493', 'CVE-2012-5196', 'CVE-2012-5197', 'CVE-2012-5390', 'CVE-2013-4255']",2022-03-20T07:10Z
+2,cpe:2.3:a:condor_project:condor:7.8.2:*:*:*:*:*:*:*,Condor 7.8.2,"['CVE-2012-3491', 'CVE-2012-3492', 'CVE-2012-3493', 'CVE-2012-5196', 'CVE-2012-5197', 'CVE-2012-5390', 'CVE-2013-4255']",2022-03-20T07:10Z
+3,cpe:2.3:a:condor_project:condor:7.8.3:*:*:*:*:*:*:*,Condor 7.8.3,"['CVE-2012-3491', 'CVE-2012-3492', 'CVE-2012-3493', 'CVE-2012-5196', 'CVE-2012-5197', 'CVE-2012-5390', 'CVE-2013-4255']",2022-03-20T07:10Z
+4,cpe:2.3:a:condor_project:condor:7.8.4:*:*:*:*:*:*:*,Condor 7.8.4,"['CVE-2012-5390', 'CVE-2013-4255']",2022-03-20T07:10Z
+5,cpe:2.3:a:condor_project:condor:7.8.5:*:*:*:*:*:*:*,Condor 7.8.5,['CVE-2013-4255'],2022-03-20T07:10Z
+6,cpe:2.3:a:condor_project:condor:7.9.0:*:*:*:*:*:*:*,Condor 7.9.0,"['CVE-2012-5390', 'CVE-2013-4255']",2022-03-20T07:10Z
+7,cpe:2.3:a:condor_project:condor:8.0.0:*:*:*:*:*:*:*,Condor 8.0.0,['CVE-2013-4255'],2022-03-20T07:10Z
+8,cpe:2.3:a:condusiv:diskeeper:9.0.532:*:*:*:server_standard:*:*:*,Condusiv Diskeeper Server Standard 9.0.532,[''],2022-03-20T07:10Z
+9,cpe:2.3:a:condusiv:diskeeper:10.0.593:*:*:*:server_enterprise:*:*:*,Condusiv Diskeeper Server Enterprise 10.0.593,[''],2022-03-20T07:10Z

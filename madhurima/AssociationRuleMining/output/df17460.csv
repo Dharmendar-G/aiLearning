@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ajenti:ajenticp:1.1.8:*:*:*:*:*:*:*,Ajenti AjentiCP 1.1.8,['CVE-2018-18548'],2022-03-18T14:12Z
+1,cpe:2.3:a:ajenti:ajenticp:1.1.8.1:*:*:*:*:*:*:*,Ajenti AjentiCP 1.1.8.1,['CVE-2018-18548'],2022-03-18T14:12Z
+2,cpe:2.3:a:ajenti:ajenticp:1.1.9:*:*:*:*:*:*:*,Ajenti AjentiCP 1.1.9,['CVE-2018-18548'],2022-03-18T14:12Z
+3,cpe:2.3:a:ajenti:ajenticp:1.2.0:*:*:*:*:*:*:*,Ajenti AjentiCP 1.2.0,['CVE-2018-18548'],2022-03-18T14:12Z
+4,cpe:2.3:a:ajenti:ajenticp:1.2.1:*:*:*:*:*:*:*,Ajenti AjentiCP 1.2.1,['CVE-2018-18548'],2022-03-18T14:12Z
+5,cpe:2.3:a:ajenti:ajenticp:1.2.2:*:*:*:*:*:*:*,Ajenti AjentiCP 1.2.2,['CVE-2018-18548'],2022-03-18T14:12Z
+6,cpe:2.3:a:ajenti:ajenticp:1.2.3:*:*:*:*:*:*:*,Ajenti AjentiCP 1.2.3,['CVE-2018-18548'],2022-03-18T14:12Z
+7,cpe:2.3:a:ajenti:ajenticp:1.2.4:*:*:*:*:*:*:*,Ajenti AjentiCP 1.2.4,['CVE-2018-18548'],2022-03-18T14:12Z
+8,cpe:2.3:a:ajenti:ajenticp:1.2.5:*:*:*:*:*:*:*,Ajenti AjentiCP 1.2.5,['CVE-2018-18548'],2022-03-18T14:12Z
+9,cpe:2.3:a:ajenti:ajenticp:1.2.6:*:*:*:*:*:*:*,Ajenti AjentiCP 1.2.6,['CVE-2018-18548'],2022-03-18T14:12Z

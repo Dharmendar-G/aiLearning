@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blogifier:blogifier:2.2:*:*:*:*:*:*:*,Blogifier 2.2,[''],2022-03-19T08:43Z
+1,cpe:2.3:a:blogifier:blogifier:2.3:*:*:*:*:*:*:*,Blogifier 2.3,['CVE-2019-12277'],2022-03-19T08:43Z
+2,cpe:2.3:a:blogifier:blogifier:2.4:*:*:*:*:*:*:*,Blogifier 2.4,[''],2022-03-19T08:43Z
+3,cpe:2.3:a:blogkamek:koleksi_hadis_nabi_saw:0.1:*:*:*:*:android:*:*,blogkamek Koleksi Hadis Nabi SAW (aka com.wKoleksiHadisNabiSAW) for Android 0.1,['CVE-2014-6660'],2022-03-19T08:43Z
+4,cpe:2.3:a:blogotext_project:blogotext:2.1.0.1:*:*:*:*:*:*:*,BlogoText Project BlogoText 2.1.0.1,"['CVE-2017-14957', 'CVE-2017-17792', 'CVE-2017-17793', 'CVE-2017-17794']",2022-03-19T08:43Z
+5,cpe:2.3:a:blogotext_project:blogotext:3.0.0:*:*:*:*:*:*:*,BlogoText Project BlogoText 3.0.0,"['CVE-2017-14957', 'CVE-2017-17792', 'CVE-2017-17793', 'CVE-2017-17794']",2022-03-19T08:43Z
+6,cpe:2.3:a:blogotext_project:blogotext:3.0.4:*:*:*:*:*:*:*,BlogoText Project BlogoText 3.0.4,"['CVE-2017-14957', 'CVE-2017-17792', 'CVE-2017-17793', 'CVE-2017-17794']",2022-03-19T08:43Z
+7,cpe:2.3:a:blogotext_project:blogotext:3.1.0:*:*:*:*:*:*:*,BlogoText Project BlogoText 3.1.0,"['CVE-2017-14957', 'CVE-2017-17792', 'CVE-2017-17793', 'CVE-2017-17794']",2022-03-19T08:43Z
+8,cpe:2.3:a:blogotext_project:blogotext:3.3.7:*:*:*:*:*:*:*,BlogoText Project BlogoText 3.3.7,"['CVE-2017-14957', 'CVE-2017-17792', 'CVE-2017-17793', 'CVE-2017-17794']",2022-03-19T08:43Z
+9,cpe:2.3:a:blogotext_project:blogotext:3.4.7:*:*:*:*:*:*:*,BlogoText Project BlogoText 3.4.7,"['CVE-2017-14957', 'CVE-2017-17792', 'CVE-2017-17793', 'CVE-2017-17794']",2022-03-19T08:43Z

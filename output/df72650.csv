@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:belden:hirschmann_octopus_os20-0010001s1strephh:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus OS20-0010001S1STREPHH,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+1,cpe:2.3:h:belden:hirschmann_octopus_os20-0010004m4mtrephh:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus OS20-0010004M4MTREPHH,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+2,cpe:2.3:h:belden:hirschmann_octopus_os20-0010004s4strephh:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus OS20-0010004S4STREPHH,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+3,cpe:2.3:h:belden:hirschmann_octopus_os20-001000t5t5tafuhb:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus OS20-001000T5T5TAFUHB,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+4,cpe:2.3:h:belden:hirschmann_octopus_os20-001000t5t5tneuhb:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus OS20-001000T5T5TNEUHB,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+5,cpe:2.3:h:belden:hirschmann_octopus_os24-080900t5t5tffbhh:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus OS24-080900T5T5TFFBHH,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+6,cpe:2.3:h:belden:hirschmann_octopus_os24-080900t5t5tnebhh:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus OS24-080900T5T5TNEBHH,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+7,cpe:2.3:h:belden:hirschmann_octopus_os24-081000t5t5tffuhb:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus OS24-081000T5T5TFFUHB,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+8,cpe:2.3:h:belden:hirschmann_octopus_os24-081000t5t5tneuhb:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus OS24-081000T5T5TNEUHB,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+9,cpe:2.3:h:belden:hirschmann_octopus_os30:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus OS30,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z

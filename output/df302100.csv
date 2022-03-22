@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:gunet:open_eclass_platform:3.1.13:*:*:*:*:*:*:*,GUnet Open eClass Platform 3.1.13,['CVE-2020-24381'],2022-03-21T08:24Z
+1,cpe:2.3:a:gunet:open_eclass_platform:3.2:*:*:*:*:*:*:*,GUnet Open eClass Platform 3.2,['CVE-2020-24381'],2022-03-21T08:24Z
+2,cpe:2.3:a:gunet:open_eclass_platform:3.2.1:*:*:*:*:*:*:*,GUnet Open eClass Platform 3.2.1,['CVE-2020-24381'],2022-03-21T08:24Z
+3,cpe:2.3:a:gunet:open_eclass_platform:3.2.2:*:*:*:*:*:*:*,GUnet Open eClass Platform 3.2.2,['CVE-2020-24381'],2022-03-21T08:24Z
+4,cpe:2.3:a:gunet:open_eclass_platform:3.2.3:*:*:*:*:*:*:*,GUnet Open eClass Platform 3.2.3,['CVE-2020-24381'],2022-03-21T08:24Z
+5,cpe:2.3:a:gunet:open_eclass_platform:3.3:*:*:*:*:*:*:*,GUnet Open eClass Platform 3.3,['CVE-2020-24381'],2022-03-21T08:24Z
+6,cpe:2.3:a:gunet:open_eclass_platform:3.3.1:*:*:*:*:*:*:*,GUnet Open eClass Platform 3.3.1,['CVE-2020-24381'],2022-03-21T08:24Z
+7,cpe:2.3:a:gunet:open_eclass_platform:3.3.2:*:*:*:*:*:*:*,GUnet Open eClass Platform 3.3.2,['CVE-2020-24381'],2022-03-21T08:24Z
+8,cpe:2.3:a:gunet:open_eclass_platform:3.3.3:*:*:*:*:*:*:*,GUnet Open eClass Platform 3.3.3,['CVE-2020-24381'],2022-03-21T08:24Z
+9,cpe:2.3:a:gunet:open_eclass_platform:3.3.4:*:*:*:*:*:*:*,GUnet Open eClass Platform 3.3.4,['CVE-2020-24381'],2022-03-21T08:24Z

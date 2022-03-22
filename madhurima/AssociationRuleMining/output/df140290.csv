@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:citrix:ica_web_client:9.15:*:*:*:*:*:*:*,Citrix ICA Web Client 9.15,[''],2022-03-20T01:30Z
+1,cpe:2.3:a:citrix:ios_receiver:6.1.5:*:*:*:*:*:*:*,Citrix iOS Receiver 6.1.5,['CVE-2016-5433'],2022-03-20T01:30Z
+2,cpe:2.3:a:citrix:license_configuration_tool:1.1.0.0:*:*:*:*:*:*:*,Citrix License Configuration Tool 1.1.0.0,[''],2022-03-20T01:30Z
+3,cpe:2.3:a:citrix:license_server:11.14.0.0:*:*:*:*:windows:*:*,Citrix License Server 11.14.0.0 for Windows,['CVE-2016-6273'],2022-03-20T01:30Z
+4,cpe:2.3:a:citrix:license_server_administration:4.5.1.0:*:*:*:*:*:*:*,Citrix License Server Administration 4.5.1.0,[''],2022-03-20T01:31Z
+5,cpe:2.3:a:citrix:license_server_administration:4.7.0.0:*:*:*:*:*:*:*,Citrix License Server Administration 4.7.0.0,[''],2022-03-20T01:31Z
+6,cpe:2.3:a:citrix:license_server_administration:4.8.0.0:*:*:*:*:*:*:*,Citrix License Server Administration 4.8.0.0,[''],2022-03-20T01:31Z
+7,cpe:2.3:a:citrix:license_server_administration:5.0.1.0:*:*:*:*:*:*:*,Citrix License Server Administration 5.0.1.0,[''],2022-03-20T01:31Z
+8,cpe:2.3:a:citrix:license_server_vpx:11.14.0.0:*:*:*:*:*:*:*,Citrix License Server VPX 11.14.0.0,['CVE-2016-6273'],2022-03-20T01:31Z
+9,cpe:2.3:a:citrix:licensing:6.7.9019:*:*:*:*:*:*:*,Citrix Licensing 6.7.9019,[''],2022-03-20T01:31Z

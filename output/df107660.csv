@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chamilo:chamilo_lms:1.9.0:alpha4:*:*:*:*:*:*,Chamilo LMS 1.9.0 Alpha 4,"['CVE-2013-6787', 'CVE-2015-9540', 'CVE-2019-1000015', 'CVE-2019-1000017', 'CVE-2021-37390']",2022-03-19T16:31Z
+1,cpe:2.3:a:chamilo:chamilo_lms:1.9.0:alpha5:*:*:*:*:*:*,Chamilo LMS 1.9.0 Alpha 5,"['CVE-2013-6787', 'CVE-2015-9540', 'CVE-2019-1000015', 'CVE-2019-1000017', 'CVE-2021-37390']",2022-03-19T16:31Z
+2,cpe:2.3:a:chamilo:chamilo_lms:1.9.0:alpha6:*:*:*:*:*:*,Chamilo LMS 1.9.0 Alpha 6,"['CVE-2013-6787', 'CVE-2015-9540', 'CVE-2019-1000015', 'CVE-2019-1000017', 'CVE-2021-37390']",2022-03-19T16:31Z
+3,cpe:2.3:a:chamilo:chamilo_lms:1.9.0:alpha7:*:*:*:*:*:*,Chamilo LMS 1.9.0 Alpha 7,"['CVE-2013-6787', 'CVE-2015-9540', 'CVE-2019-1000015', 'CVE-2019-1000017', 'CVE-2021-37390']",2022-03-19T16:31Z
+4,cpe:2.3:a:chamilo:chamilo_lms:1.9.0:pre_alpha:*:*:*:*:*:*,Chamilo LMS 1.9.0 Pre Alpha,"['CVE-2013-6787', 'CVE-2015-9540', 'CVE-2019-1000015', 'CVE-2019-1000017', 'CVE-2021-37390']",2022-03-19T16:31Z
+5,cpe:2.3:a:chamilo:chamilo_lms:1.9.0:rc1:*:*:*:*:*:*,Chamilo LMS 1.9.0 Release Candidate 1,"['CVE-2013-6787', 'CVE-2015-9540', 'CVE-2019-1000015', 'CVE-2019-1000017', 'CVE-2021-37390']",2022-03-19T16:31Z
+6,cpe:2.3:a:chamilo:chamilo_lms:1.9.2:*:*:*:*:*:*:*,Chamilo LMS 1.9.2,"['CVE-2013-6787', 'CVE-2015-9540', 'CVE-2019-1000015', 'CVE-2019-1000017', 'CVE-2021-37390']",2022-03-19T16:31Z
+7,cpe:2.3:a:chamilo:chamilo_lms:1.9.4:*:*:*:*:*:*:*,Chamilo LMS 1.9.4,"['CVE-2013-6787', 'CVE-2015-9540', 'CVE-2019-1000015', 'CVE-2019-1000017', 'CVE-2021-37390']",2022-03-19T16:31Z
+8,cpe:2.3:a:chamilo:chamilo_lms:1.9.4:alpha1:*:*:*:*:*:*,Chamilo LMS 1.9.4 Alpha 1,"['CVE-2013-6787', 'CVE-2015-9540', 'CVE-2019-1000015', 'CVE-2019-1000017', 'CVE-2021-37390']",2022-03-19T16:31Z
+9,cpe:2.3:a:chamilo:chamilo_lms:1.9.4:rc1:*:*:*:*:*:*,Chamilo LMS 1.9.4 Release Candidate 1,"['CVE-2013-6787', 'CVE-2015-9540', 'CVE-2019-1000015', 'CVE-2019-1000017', 'CVE-2021-37390']",2022-03-19T16:31Z

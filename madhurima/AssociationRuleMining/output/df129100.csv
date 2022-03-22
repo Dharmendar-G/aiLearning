@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:jabber_guest:11.1\(2\):*:*:*:*:*:*:*,Cisco Jabber Guest 11.1(2),"['CVE-2014-8024', 'CVE-2014-8025', 'CVE-2014-8026', 'CVE-2020-3136']",2022-03-19T22:49Z
+1,cpe:2.3:a:cisco:jabber_software_development_kit:8.6\(1\):*:*:*:*:*:*:*,Cisco Jabber Software Development Kit (SDK) 8.6(1),['CVE-2015-6360'],2022-03-19T22:49Z
+2,cpe:2.3:a:cisco:jabber_software_development_kit:9.0\(1\):*:*:*:*:*:*:*,Cisco Jabber Software Development Kit (SDK) 9.0(1),['CVE-2015-6360'],2022-03-19T22:49Z
+3,cpe:2.3:a:cisco:jabber_software_development_kit:9.2\(0\):*:*:*:*:*:*:*,Cisco Jabber Software Development Kit (SDK) 9.2(0),['CVE-2015-6360'],2022-03-19T22:49Z
+4,cpe:2.3:a:cisco:jabber_software_development_kit:9.2\(1\):*:*:*:*:*:*:*,Cisco Jabber Software Development Kit (SDK) 9.2(1),['CVE-2015-6360'],2022-03-19T22:49Z
+5,cpe:2.3:a:cisco:jabber_software_development_kit:9.2\(2\):*:*:*:*:*:*:*,Cisco Jabber Software Development Kit (SDK) 9.2(2),['CVE-2015-6360'],2022-03-19T22:49Z
+6,cpe:2.3:a:cisco:jabber_software_development_kit:9.2\(3\):*:*:*:*:*:*:*,Cisco Jabber Software Development Kit (SDK) 9.2(3),['CVE-2015-6360'],2022-03-19T22:49Z
+7,cpe:2.3:a:cisco:jabber_software_development_kit:9.2\(4\):*:*:*:*:*:*:*,Cisco Jabber Software Development Kit (SDK) 9.2(4),['CVE-2015-6360'],2022-03-19T22:49Z
+8,cpe:2.3:a:cisco:jabber_software_development_kit:9.2\(5\):*:*:*:*:*:*:*,Cisco Jabber Software Development Kit (SDK) 9.2(5),['CVE-2015-6360'],2022-03-19T22:49Z
+9,cpe:2.3:a:cisco:jabber_software_development_kit:9.2\(6\):*:*:*:*:*:*:*,Cisco Jabber Software Development Kit (SDK) 9.2(6),['CVE-2015-6360'],2022-03-19T22:49Z

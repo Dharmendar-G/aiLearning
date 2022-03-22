@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:deep_extend_project:deep_extend:0.2.8:*:*:*:*:node.js:*:*,deep-extend Project deep-extend 0.2.8 for Node.js,['CVE-2018-3750'],2022-03-20T12:01Z
+1,cpe:2.3:a:deep_extend_project:deep_extend:0.2.9:*:*:*:*:node.js:*:*,deep-extend Project deep-extend 0.2.9 for Node.js,['CVE-2018-3750'],2022-03-20T12:01Z
+2,cpe:2.3:a:deep_extend_project:deep_extend:0.2.10:*:*:*:*:node.js:*:*,deep-extend Project deep-extend 0.2.10 for Node.js,['CVE-2018-3750'],2022-03-20T12:01Z
+3,cpe:2.3:a:deep_extend_project:deep_extend:0.2.11:*:*:*:*:node.js:*:*,deep-extend Project deep-extend 0.2.11 for Node.js,['CVE-2018-3750'],2022-03-20T12:01Z
+4,cpe:2.3:a:deep_extend_project:deep_extend:0.3.0:*:*:*:*:node.js:*:*,deep-extend Project deep-extend 0.3.0 for Node.js,['CVE-2018-3750'],2022-03-20T12:01Z
+5,cpe:2.3:a:deep_extend_project:deep_extend:0.3.1:*:*:*:*:node.js:*:*,deep-extend Project deep-extend 0.3.1 for Node.js,['CVE-2018-3750'],2022-03-20T12:01Z
+6,cpe:2.3:a:deep_extend_project:deep_extend:0.3.2:*:*:*:*:node.js:*:*,deep-extend Project deep-extend 0.3.2 for Node.js,['CVE-2018-3750'],2022-03-20T12:01Z
+7,cpe:2.3:a:deep_extend_project:deep_extend:0.3.3:*:*:*:*:node.js:*:*,deep-extend Project deep-extend 0.3.3 for Node.js,['CVE-2018-3750'],2022-03-20T12:01Z
+8,cpe:2.3:a:deep_extend_project:deep_extend:0.4.0:*:*:*:*:node.js:*:*,deep-extend Project deep-extend 0.4.0 for Node.js,['CVE-2018-3750'],2022-03-20T12:01Z
+9,cpe:2.3:a:deep_extend_project:deep_extend:0.4.1:*:*:*:*:node.js:*:*,deep-extend Project deep-extend 0.4.1 for Node.js,['CVE-2018-3750'],2022-03-20T12:01Z

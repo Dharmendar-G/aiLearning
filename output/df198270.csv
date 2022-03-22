@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:duckdev:404_to_301:3.0.0.1:*:*:*:*:wordpress:*:*,Duck Dev 404 to 301 3.0.0.1 for WordPress,[''],2022-03-20T18:37Z
+1,cpe:2.3:a:duckdev:404_to_301:3.0.1:*:*:*:*:wordpress:*:*,Duck Dev 404 to 301 3.0.1 for WordPress,[''],2022-03-20T18:37Z
+2,cpe:2.3:a:duckdev:404_to_301:3.0.2:*:*:*:*:wordpress:*:*,Duck Dev 404 to 301 3.0.2 for WordPress,[''],2022-03-20T18:37Z
+3,cpe:2.3:a:duckdev:404_to_301:3.0.3:*:*:*:*:wordpress:*:*,Duck Dev 404 to 301 3.0.3 for WordPress,[''],2022-03-20T18:37Z
+4,cpe:2.3:a:duckdev:404_to_301:3.0.4:*:*:*:*:wordpress:*:*,Duck Dev 404 to 301 3.0.4 for WordPress,[''],2022-03-20T18:37Z
+5,cpe:2.3:a:duckdev:404_to_301:3.0.5:*:*:*:*:wordpress:*:*,Duck Dev 404 to 301 3.0.5 for WordPress,[''],2022-03-20T18:37Z
+6,cpe:2.3:a:duckduckgo:duckduckgo:4.1.1:*:*:*:*:android:*:*,DuckDuckGo 4.1.1 for Android,['CVE-2020-15502'],2022-03-20T18:37Z
+7,cpe:2.3:a:duckduckgo:duckduckgo:4.1.2:*:*:*:*:android:*:*,DuckDuckGo 4.1.2 for Android,['CVE-2020-15502'],2022-03-20T18:37Z
+8,cpe:2.3:a:duckduckgo:duckduckgo:4.2.0:*:*:*:*:*:*:*,DuckDuckGo 4.2.0,['CVE-2018-6849'],2022-03-20T18:37Z
+9,cpe:2.3:a:duckduckgo:duckduckgo:4.2.0:*:*:*:*:android:*:*,DuckDuckGo 4.2.0 for Android,"['CVE-2018-6849', 'CVE-2020-15502']",2022-03-20T18:37Z

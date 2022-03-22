@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:lotus_domino_server:6.0.5:*:*:*:*:*:*:*,IBM Lotus Domino Server 6.0.5,['CVE-2005-1101'],2022-03-21T21:05Z
+1,cpe:2.3:a:ibm:lotus_domino_server:6.5.1:*:*:*:*:*:*:*,IBM Lotus Domino Server 6.5.1,['CVE-2005-0986'],2022-03-21T21:05Z
+2,cpe:2.3:a:ibm:lotus_domino_server:6.5.4:*:*:*:*:*:*:*,IBM Lotus Domino Server 6.5.4,['CVE-2005-1101'],2022-03-21T21:05Z
+3,cpe:2.3:a:ibm:lotus_domino_server:7.0:*:*:*:*:*:*:*,IBM Lotus Domino Server 7.0,"['CVE-2006-0580', 'CVE-2008-7253']",2022-03-21T21:05Z
+4,cpe:2.3:a:ibm:lotus_domino_web_access:-:*:*:*:*:*:*:*,IBM Lotus Domino Web Access,[''],2022-03-21T21:05Z
+5,cpe:2.3:a:ibm:lotus_domino_web_access:7.0.1:*:*:*:*:*:*:*,IBM Lotus Domino Web Access 7.0.1,"['CVE-2006-4763', 'CVE-2007-4474']",2022-03-21T21:05Z
+6,cpe:2.3:a:ibm:lotus_domino_web_server:-:*:*:*:*:*:*:*,IBM Lotus Domino Web Server,['CVE-2008-2410'],2022-03-21T21:05Z
+7,cpe:2.3:a:ibm:lotus_domino_web_server:6.0:*:*:*:*:*:*:*,IBM Lotus Domino Web Server 6.0,"['CVE-2003-0178', 'CVE-2003-0179', 'CVE-2003-0180', 'CVE-2003-0181', 'CVE-2007-0067', 'CVE-2008-2410']",2022-03-21T21:05Z
+8,cpe:2.3:a:ibm:lotus_domino_web_server:6.0.1:*:*:*:*:*:*:*,IBM Lotus Domino Web Server 6.0.1,"['CVE-2007-0067', 'CVE-2008-2410']",2022-03-21T21:05Z
+9,cpe:2.3:a:ibm:lotus_domino_web_server:6.0.2:*:*:*:*:*:*:*,IBM Lotus Domino Web Server 6.0.2,"['CVE-2007-0067', 'CVE-2008-2410']",2022-03-21T21:05Z

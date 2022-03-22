@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:nac_appliance:4.8:*:*:*:*:*:*:*,Cisco NAC Appliance 4.8,"['CVE-2011-3305', 'CVE-2012-6029']",2022-03-19T22:59Z
+1,cpe:2.3:h:cisco:nac_appliance:4.9.2:*:*:*:*:*:*:*,Cisco NAC Appliance 4.9.2,"['CVE-2011-3305', 'CVE-2012-6029']",2022-03-19T22:59Z
+2,cpe:2.3:h:cisco:nac_guest_server:-:*:*:*:*:*:*:*,Cisco Network Access Control (NAC) Guest Server,['CVE-2011-0963'],2022-03-19T22:59Z
+3,cpe:2.3:a:cisco:nac_guest_server_software:1.0.0:*:*:*:*:*:*:*,Cisco Network Access Control (NAC) Guest Server software 1.0.0,['CVE-2011-0963'],2022-03-19T22:59Z
+4,cpe:2.3:a:cisco:nac_guest_server_software:1.1.0:*:*:*:*:*:*:*,Cisco Network Access Control (NAC) Guest Server software 1.1.0,['CVE-2011-0963'],2022-03-19T22:59Z
+5,cpe:2.3:a:cisco:nac_guest_server_software:1.1.1:*:*:*:*:*:*:*,Cisco Network Access Control (NAC) Guest Server software 1.1.1,['CVE-2011-0963'],2022-03-19T22:59Z
+6,cpe:2.3:a:cisco:nac_guest_server_software:1.1.2:*:*:*:*:*:*:*,Cisco Network Access Control (NAC) Guest Server software 1.1.2,['CVE-2011-0963'],2022-03-19T22:59Z
+7,cpe:2.3:a:cisco:nac_guest_server_software:1.1.3:*:*:*:*:*:*:*,Cisco Network Access Control (NAC) Guest Server software 1.1.3,['CVE-2011-0963'],2022-03-19T22:59Z
+8,cpe:2.3:a:cisco:nac_guest_server_software:2.0.0:*:*:*:*:*:*:*,Cisco Network Access Control (NAC) Guest Server software 2.0.0,['CVE-2011-0963'],2022-03-19T22:59Z
+9,cpe:2.3:a:cisco:nac_guest_server_software:2.0.1:*:*:*:*:*:*:*,Cisco Network Access Control (NAC) Guest Server software 2.0.1,['CVE-2011-0963'],2022-03-19T22:59Z

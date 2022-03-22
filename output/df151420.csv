@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codecabin:wp_google_maps:6.4.06:*:*:*:*:wordpress:*:*,CodeCabin WP Google Maps 6.4.06 for WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383']",2022-03-20T05:03Z
+1,cpe:2.3:a:codecabin:wp_google_maps:6.4.07:*:*:*:*:wordpress:*:*,CodeCabin WP Google Maps 6.4.07 for WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383']",2022-03-20T05:03Z
+2,cpe:2.3:a:codecabin:wp_google_maps:6.4.08:*:*:*:*:wordpress:*:*,CodeCabin WP Google Maps 6.4.08 for WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383']",2022-03-20T05:03Z
+3,cpe:2.3:a:codecabin:wp_google_maps:6.05:*:*:*:pro:wordpress:*:*,CodeCabin WP Google Maps 6.05 Pro Edition WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36871']",2022-03-20T05:03Z
+4,cpe:2.3:a:codecabin:wp_google_maps:6.06:*:*:*:pro:wordpress:*:*,CodeCabin WP Google Maps 6.06 Pro Edition WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36871']",2022-03-20T05:03Z
+5,cpe:2.3:a:codecabin:wp_google_maps:6.07:*:*:*:pro:wordpress:*:*,CodeCabin WP Google Maps 6.07 Pro Edition WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36871']",2022-03-20T05:03Z
+6,cpe:2.3:a:codecabin:wp_google_maps:6.08:*:*:*:pro:wordpress:*:*,CodeCabin WP Google Maps 6.08 Pro Edition WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36871']",2022-03-20T05:03Z
+7,cpe:2.3:a:codecabin:wp_google_maps:6.09:*:*:*:pro:wordpress:*:*,CodeCabin WP Google Maps 6.09 Pro Edition WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36871']",2022-03-20T05:03Z
+8,cpe:2.3:a:codecabin:wp_google_maps:6.10:*:*:*:pro:wordpress:*:*,CodeCabin WP Google Maps 6.10 Pro Edition WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36871']",2022-03-20T05:03Z
+9,cpe:2.3:a:codecabin:wp_google_maps:6.11:*:*:*:pro:wordpress:*:*,CodeCabin WP Google Maps 6.11 Pro Edition WordPress,"['CVE-2019-10692', 'CVE-2019-14792', 'CVE-2021-24383', 'CVE-2021-36871']",2022-03-20T05:03Z

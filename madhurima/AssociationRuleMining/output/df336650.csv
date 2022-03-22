@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:s9300x:-:*:*:*:*:*:*:*,Huawei S9300x -,['CVE-2019-5285'],2022-03-21T18:44Z
+1,cpe:2.3:o:huawei:s9300x_firmware:v200r010c00:*:*:*:*:*:*:*,Huawei S9300x Firmware V200r010c00,['CVE-2019-5285'],2022-03-21T18:44Z
+2,cpe:2.3:o:huawei:s9300x_firmware:v200r011c10:*:*:*:*:*:*:*,Huawei S9300x Firmware V200r011c10,['CVE-2019-5285'],2022-03-21T18:44Z
+3,cpe:2.3:o:huawei:s9300x_firmware:v200r012c00:*:*:*:*:*:*:*,Huawei S9300x Firmware V200r012c00,['CVE-2019-5285'],2022-03-21T18:44Z
+4,cpe:2.3:o:huawei:s9300x_firmware:v200r013c00:*:*:*:*:*:*:*,Huawei S9300x Firmware V200r013c00,['CVE-2019-5285'],2022-03-21T18:44Z
+5,cpe:2.3:h:huawei:s9303:-:*:*:*:*:*:*:*,Huawei S9303,['CVE-2014-8570'],2022-03-21T18:44Z
+6,cpe:2.3:o:huawei:s9303_firmware:v100r002:*:*:*:*:*:*:*,Huawei S9303 Firmware V100R002,['CVE-2014-8570'],2022-03-21T18:44Z
+7,cpe:2.3:o:huawei:s9303_firmware:v100r003:*:*:*:*:*:*:*,Huawei S9303 Firmware V100R003,['CVE-2014-8570'],2022-03-21T18:44Z
+8,cpe:2.3:o:huawei:s9303_firmware:v100r006:*:*:*:*:*:*:*,Huawei S9303 Firmware V100R006,['CVE-2014-8570'],2022-03-21T18:44Z
+9,cpe:2.3:o:huawei:s9303_firmware:v200r001:*:*:*:*:*:*:*,Huawei S9303 Firmware V200R001,['CVE-2014-8570'],2022-03-21T18:44Z

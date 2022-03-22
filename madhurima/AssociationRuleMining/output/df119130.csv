@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:firepower_device_manager:6.6.0:*:*:*:*:*:*:*,Cisco Firepower Device Manager (FDM) 6.6.0,"['CVE-2021-1369', 'CVE-2021-1489']",2022-03-19T19:39Z
+1,cpe:2.3:a:cisco:firepower_device_manager:6.6.3:*:*:*:*:*:*:*,Cisco Firepower Device Manager (FDM) 6.6.3,['CVE-2021-1489'],2022-03-19T19:39Z
+2,cpe:2.3:a:cisco:firepower_device_manager:6.6.4:*:*:*:*:*:*:*,Cisco Firepower Device Manager (FDM) 6.6.4,[''],2022-03-19T19:39Z
+3,cpe:2.3:a:cisco:firepower_device_manager:6.7.0:*:*:*:*:*:*:*,Cisco Firepower Device Manager (FDM) 6.7.0,['CVE-2021-1489'],2022-03-19T19:39Z
+4,cpe:2.3:a:cisco:firepower_device_manager:6.7.0.2:*:*:*:*:*:*:*,Cisco Firepower Device Manager (FDM) 6.7.0.2,[''],2022-03-19T19:39Z
+5,cpe:2.3:a:cisco:firepower_device_manager_on-box:6.2.3:*:*:*:*:*:*:*,Cisco Firepower Device Manager On-box 6.2.3,[''],2022-03-19T19:39Z
+6,cpe:2.3:o:cisco:firepower_extensible_operating_system:-:*:*:*:*:*:*:*,Cisco Firepower eXtensible Operating System,"['CVE-2017-12329', 'CVE-2020-3455', 'CVE-2020-3459']",2022-03-19T19:39Z
+7,cpe:2.3:o:cisco:firepower_extensible_operating_system:1.1\(1.86\):*:*:*:*:*:*:*,Cisco Firepower Extensible Operating System 1.1(1.86),"['CVE-2015-4287', 'CVE-2015-6435', 'CVE-2020-3455', 'CVE-2020-3459']",2022-03-19T19:39Z
+8,cpe:2.3:o:cisco:firepower_extensible_operating_system:1.1\(1.160\):*:*:*:*:*:*:*,Cisco Firepower Extensible Operating System 1.1(1.160),"['CVE-2015-6368', 'CVE-2015-6369', 'CVE-2015-6370', 'CVE-2015-6371', 'CVE-2015-6372', 'CVE-2015-6373', 'CVE-2015-6374', 'CVE-2015-6380', 'CVE-2015-6435', 'CVE-2020-3455', 'CVE-2020-3459']",2022-03-19T19:39Z
+9,cpe:2.3:o:cisco:firepower_extensible_operating_system:1.1.1:*:*:*:*:*:*:*,Cisco Firepower Extensible Operating System 1.1.1,"['CVE-2015-6435', 'CVE-2020-3455', 'CVE-2020-3459']",2022-03-19T19:39Z

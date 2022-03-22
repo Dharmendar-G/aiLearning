@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:deadwood_project:deadwood:2.3.09:*:*:*:*:*:*:*,Deadwood Project Deadwood 2.3.09,[''],2022-03-20T11:16Z
+1,cpe:2.3:a:deadwood_project:deadwood:3.0.01:*:*:*:*:*:*:*,Deadwood Project Deadwood 3.0.01,"['CVE-2014-2031', 'CVE-2014-2032']",2022-03-20T11:16Z
+2,cpe:2.3:a:deadwood_project:deadwood:3.0.02:*:*:*:*:*:*:*,Deadwood Project Deadwood 3.0.02,"['CVE-2014-2031', 'CVE-2014-2032']",2022-03-20T11:16Z
+3,cpe:2.3:a:deadwood_project:deadwood:3.0.03:*:*:*:*:*:*:*,Deadwood Project Deadwood 3.0.03,"['CVE-2014-2031', 'CVE-2014-2032']",2022-03-20T11:16Z
+4,cpe:2.3:a:deadwood_project:deadwood:3.2.02:*:*:*:*:*:*:*,Deadwood Project Deadwood 3.2.02,"['CVE-2014-2031', 'CVE-2014-2032']",2022-03-20T11:16Z
+5,cpe:2.3:a:deadwood_project:deadwood:3.2.03:*:*:*:*:*:*:*,Deadwood Project Deadwood 3.2.03,"['CVE-2014-2031', 'CVE-2014-2032']",2022-03-20T11:16Z
+6,cpe:2.3:a:deadwood_project:deadwood:3.2.04:*:*:*:*:*:*:*,Deadwood Project Deadwood 3.2.04,"['CVE-2014-2031', 'CVE-2014-2032']",2022-03-20T11:16Z
+7,cpe:2.3:a:deadwood_project:deadwood:3.2.05:*:*:*:*:*:*:*,Deadwood Project Deadwood 3.2.05,[''],2022-03-20T11:16Z
+8,cpe:2.3:a:deakin:deakin_university:1.1.729.1694:*:*:*:*:android:*:*,deakin Deakin University (aka com.desire2learn.campuslife.deakin.edu.au.directory) for android 1.1.729.1694,['CVE-2014-7406'],2022-03-20T11:16Z
+9,cpe:2.3:a:deap_project:deap:0.1.0:*:*:*:*:node.js:*:*,deap Project deap 0.1.0 for Node.js,['CVE-2018-3749'],2022-03-20T11:16Z

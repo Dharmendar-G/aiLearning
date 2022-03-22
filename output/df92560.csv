@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:broadcom:bcm4339:-:*:*:*:*:*:*:*,Broadcom BCM4339,"['CVE-2019-9501', 'CVE-2019-9502']",2022-03-19T12:13Z
+1,cpe:2.3:o:broadcom:bcm4339_firmware:-:*:*:*:*:*:*:*,Broadcom BCM4339 Firmware,"['CVE-2019-9501', 'CVE-2019-9502']",2022-03-19T12:13Z
+2,cpe:2.3:h:broadcom:bcm4339_soc:-:*:*:*:*:*:*:*,Broadcom BCM4339 System on Chip (SoC),['CVE-2017-6957'],2022-03-19T12:13Z
+3,cpe:2.3:o:broadcom:bcm4339_soc_firmware:6.37.34.40:*:*:*:*:*:*:*,Broadcom BCM4339 System on Chip (SoC) Firmware 6.37.34.40,['CVE-2017-6957'],2022-03-19T12:13Z
+4,cpe:2.3:h:broadcom:bcm43438a1:-:*:*:*:*:*:*:*,Broadcom BCM43438A1,['CVE-2018-19860'],2022-03-19T12:13Z
+5,cpe:2.3:o:broadcom:bcm43438a1_firmware:2014-06-02:*:*:*:*:*:*:*,Broadcom BCM43438A1 Firmware 2014-06-02,['CVE-2018-19860'],2022-03-19T12:13Z
+6,cpe:2.3:h:broadcom:bcm4352:-:*:*:*:*:*:*:*,Broadcom BCM4352,['CVE-2021-34174'],2022-03-19T12:13Z
+7,cpe:2.3:o:broadcom:bcm4352_firmware:-:*:*:*:*:*:*:*,Broadcom BCM4352 FIRMWARE,['CVE-2021-34174'],2022-03-19T12:13Z
+8,cpe:2.3:h:broadcom:bcm4354_wi-fi_chipset:-:*:*:*:*:*:*:*,Broadcom BCM4354 Wi-Fi Chipset,['CVE-2017-9417'],2022-03-19T12:13Z
+9,cpe:2.3:h:broadcom:bcm4355c0:-:*:*:*:*:*:*:*,Broadcom BCM4355C0,"['CVE-2017-11120', 'CVE-2017-11121', 'CVE-2017-11122']",2022-03-19T12:13Z

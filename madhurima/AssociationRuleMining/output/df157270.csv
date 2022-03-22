@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:comodo:comodo_internet_security:5.0.163652.1142:*:*:*:*:*:*:*,Comodo Internet Security 5.0.163652.1142,"['CVE-2010-5185', 'CVE-2011-5118', 'CVE-2011-5119', 'CVE-2011-5120', 'CVE-2011-5121', 'CVE-2011-5122', 'CVE-2011-5123', 'CVE-2012-2273', 'CVE-2019-18215']",2022-03-20T07:00Z
+1,cpe:2.3:a:comodo:comodo_internet_security:5.3.174622.1216:*:*:*:*:*:*:*,Comodo Internet Security 5.3.174622.1216,"['CVE-2011-5118', 'CVE-2011-5119', 'CVE-2011-5120', 'CVE-2011-5121', 'CVE-2011-5122', 'CVE-2011-5123', 'CVE-2012-2273', 'CVE-2019-18215']",2022-03-20T07:00Z
+2,cpe:2.3:a:comodo:comodo_internet_security:5.3.175888.1227:*:*:*:*:*:*:*,Comodo Internet Security 5.3.175888.1227,"['CVE-2011-5118', 'CVE-2011-5119', 'CVE-2011-5120', 'CVE-2012-2273', 'CVE-2019-18215']",2022-03-20T07:00Z
+3,cpe:2.3:a:comodo:comodo_internet_security:5.3.176757.1236:*:*:*:*:*:*:*,Comodo Internet Security 5.3.176757.1236,"['CVE-2011-5118', 'CVE-2011-5119', 'CVE-2011-5120', 'CVE-2012-2273', 'CVE-2019-18215']",2022-03-20T07:00Z
+4,cpe:2.3:a:comodo:comodo_internet_security:5.3.181415.1237:*:*:*:*:*:*:*,Comodo Internet Security 5.3.181415.1237,"['CVE-2011-5118', 'CVE-2011-5119', 'CVE-2011-5120', 'CVE-2012-2273', 'CVE-2019-18215']",2022-03-20T07:00Z
+5,cpe:2.3:a:comodo:comodo_internet_security:5.4.189822.1355:*:*:*:*:*:*:*,Comodo Internet Security 5.4.189822.1355,"['CVE-2011-5118', 'CVE-2011-5119', 'CVE-2012-2273', 'CVE-2019-18215']",2022-03-20T07:00Z
+6,cpe:2.3:a:comodo:comodo_internet_security:5.5.195786.1383:*:*:*:*:*:*:*,Comodo Internet Security 5.5.195786.1383,"['CVE-2011-5118', 'CVE-2011-5119', 'CVE-2012-2273', 'CVE-2019-18215']",2022-03-20T07:00Z
+7,cpe:2.3:a:comodo:comodo_internet_security:5.8.211697.2124:*:*:*:*:*:*:*,Comodo Internet Security 5.8.211697.2124,"['CVE-2011-5118', 'CVE-2012-2273', 'CVE-2019-18215']",2022-03-20T07:00Z
+8,cpe:2.3:a:comodo:comodo_internet_security:5.8.213334.2131:*:*:*:*:*:*:*,Comodo Internet Security 5.8.213334.2131,"['CVE-2012-2273', 'CVE-2019-18215']",2022-03-20T07:00Z
+9,cpe:2.3:a:comodo:comodo_internet_security:5.9.219863.2196:*:*:*:*:*:*:*,Comodo Internet Security 5.9.219863.2196,"['CVE-2012-2273', 'CVE-2019-18215']",2022-03-20T07:00Z

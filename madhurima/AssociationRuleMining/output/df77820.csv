@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitdefender:internet_security_2018:7.72918:*:*:*:*:*:*:*,Bitdefender Internet Security 2018 7.72918,"['CVE-2017-17408', 'CVE-2017-17409', 'CVE-2017-17410']",2022-03-19T08:06Z
+1,cpe:2.3:a:bitdefender:internet_security_2018:73447:*:*:*:*:*:*:*,Bitdefender Internet Security 2018 73447,"['CVE-2017-17408', 'CVE-2017-17409', 'CVE-2017-17410']",2022-03-19T08:06Z
+2,cpe:2.3:a:bitdefender:internet_security_2018:73456:*:*:*:*:*:*:*,Bitdefender Internet Security 2018 73456,[''],2022-03-19T08:06Z
+3,cpe:2.3:a:bitdefender:safepay:-:*:*:*:*:*:*:*,Bitdefender Safepay,['CVE-2020-15734'],2022-03-19T08:06Z
+4,cpe:2.3:a:bitdefender:safepay:23.0.10.34:*:*:*:*:*:*:*,Bitdefender Safepay 23.0.10.34,"['CVE-2019-6736', 'CVE-2019-6737', 'CVE-2019-6738', 'CVE-2020-15734']",2022-03-19T08:06Z
+5,cpe:2.3:a:bitdefender:safepay:25.0.7.29:*:*:*:*:*:*:*,Bitdefender Safepay 25.0.7.29,[''],2022-03-19T08:06Z
+6,cpe:2.3:a:bitdefender:scan_engines:7.76662:*:*:*:*:*:*:*,Bitdefender Scan Engines 7.76662,"['CVE-2018-18059', 'CVE-2018-18060']",2022-03-19T08:06Z
+7,cpe:2.3:a:bitdefender:scan_engines:7.76675:*:*:*:*:*:*:*,Bitdefender Scan Engines 7.76675,['CVE-2018-18060'],2022-03-19T08:06Z
+8,cpe:2.3:a:bitdefender:scan_engines:7.76808:*:*:*:*:*:*:*,Bitdefender Scan Engines 7.76808,[''],2022-03-19T08:06Z
+9,cpe:2.3:a:bitdefender:total_security:-:*:*:*:*:*:*:*,Bitdefender Total Security,"['CVE-2007-5775', 'CVE-2017-6186', 'CVE-2019-14242', 'CVE-2020-15732', 'CVE-2020-8107', 'CVE-2021-3576', 'CVE-2021-3579', 'CVE-2021-4198', 'CVE-2021-4199']",2022-03-19T08:06Z

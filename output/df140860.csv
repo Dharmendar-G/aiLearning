@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:citrix:workspace:-:*:*:*:ltsr:windows:*:*,Citrix Workspace Long Term Service Release Edition for Windows,"['CVE-2019-11634', 'CVE-2021-22907']",2022-03-20T01:38Z
+1,cpe:2.3:a:citrix:workspace:19.12.4000:*:*:*:ltsr:windows:*:*,Citrix Workspace 19.12.4000 Long Term Service Release Edition for Windows,['CVE-2019-11634'],2022-03-20T01:38Z
+2,cpe:2.3:a:citrix:workspace:21.1.0:*:*:*:*:android:*:*,Citrix Workspace 21.1.0 for Android,[''],2022-03-20T01:38Z
+3,cpe:2.3:a:citrix:workspace:21.1.5:*:*:*:*:android:*:*,Citrix Workspace 21.1.5 for Android,[''],2022-03-20T01:38Z
+4,cpe:2.3:a:citrix:workspace:21.2.0:*:*:*:*:iphone_os:*:*,Citrix Workspace 21.2.0 for iPhone OS,[''],2022-03-20T01:38Z
+5,cpe:2.3:a:citrix:workspace:1808:*:*:*:*:linux:*:*,Citrix Workspace 1808 for Linux,[''],2022-03-20T01:38Z
+6,cpe:2.3:a:citrix:workspace:1808:*:*:*:*:mac:*:*,Citrix Workspace 1808 for Mac,[''],2022-03-20T01:38Z
+7,cpe:2.3:a:citrix:workspace:1808:*:*:*:*:windows:*:*,Citrix Workspace 1808 for Windows,['CVE-2019-11634'],2022-03-20T01:38Z
+8,cpe:2.3:a:citrix:workspace:1809:*:*:*:*:linux:*:*,Citrix Workspace 1809 for Linux,[''],2022-03-20T01:38Z
+9,cpe:2.3:a:citrix:workspace:1809:*:*:*:*:mac:*:*,Citrix Workspace 1809 for Mac,[''],2022-03-20T01:38Z

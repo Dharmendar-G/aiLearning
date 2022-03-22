@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitedutoken_project:bitedutoken:-:*:*:*:*:*:*:*,BiteduToken Project BiteduToken,['CVE-2018-13719'],2022-03-19T08:07Z
+1,cpe:2.3:a:bitlbee:bitlbee:0.71:*:*:*:*:*:*:*,BitlBee BitlBee 0.71,"['CVE-2008-3920', 'CVE-2008-3969', 'CVE-2016-10188', 'CVE-2016-10189', 'CVE-2017-5668']",2022-03-19T08:07Z
+2,cpe:2.3:a:bitlbee:bitlbee:0.72:*:*:*:*:*:*:*,BitlBee BitlBee 0.72,"['CVE-2008-3920', 'CVE-2008-3969', 'CVE-2016-10188', 'CVE-2016-10189', 'CVE-2017-5668']",2022-03-19T08:07Z
+3,cpe:2.3:a:bitlbee:bitlbee:0.73:*:*:*:*:*:*:*,BitlBee BitlBee 0.73,"['CVE-2008-3920', 'CVE-2008-3969', 'CVE-2016-10188', 'CVE-2016-10189', 'CVE-2017-5668']",2022-03-19T08:07Z
+4,cpe:2.3:a:bitlbee:bitlbee:0.74:*:*:*:*:*:*:*,BitlBee BitlBee 0.74,"['CVE-2008-3920', 'CVE-2008-3969', 'CVE-2016-10188', 'CVE-2016-10189', 'CVE-2017-5668']",2022-03-19T08:07Z
+5,cpe:2.3:a:bitlbee:bitlbee:0.74a:*:*:*:*:*:*:*,BitlBee BitlBee 0.74a,"['CVE-2008-3920', 'CVE-2008-3969', 'CVE-2016-10188', 'CVE-2016-10189', 'CVE-2017-5668']",2022-03-19T08:07Z
+6,cpe:2.3:a:bitlbee:bitlbee:0.80:*:*:*:*:*:*:*,BitlBee BitlBee 0.80,"['CVE-2008-3920', 'CVE-2008-3969', 'CVE-2016-10188', 'CVE-2016-10189', 'CVE-2017-5668']",2022-03-19T08:07Z
+7,cpe:2.3:a:bitlbee:bitlbee:0.81:*:*:*:*:*:*:*,BitlBee BitlBee 0.81,"['CVE-2008-3920', 'CVE-2008-3969', 'CVE-2016-10188', 'CVE-2016-10189', 'CVE-2017-5668']",2022-03-19T08:07Z
+8,cpe:2.3:a:bitlbee:bitlbee:0.81a:*:*:*:*:*:*:*,BitlBee BitlBee 0.81a,"['CVE-2008-3920', 'CVE-2008-3969', 'CVE-2016-10188', 'CVE-2016-10189', 'CVE-2017-5668']",2022-03-19T08:07Z
+9,cpe:2.3:a:bitlbee:bitlbee:0.82:*:*:*:*:*:*:*,BitlBee BitlBee 0.82,"['CVE-2008-3920', 'CVE-2008-3969', 'CVE-2016-10188', 'CVE-2016-10189', 'CVE-2017-5668']",2022-03-19T08:07Z

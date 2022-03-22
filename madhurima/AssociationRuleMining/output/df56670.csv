@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:hipchat_server:2.2.5:*:*:*:*:*:*:*,Atlassian Hipchat Server 2.2.5,['CVE-2017-14585'],2022-03-19T01:30Z
+1,cpe:2.3:a:atlassian:hipchat_server:2.2.7:*:*:*:*:*:*:*,Atlassian Hipchat Server 2.2.7,[''],2022-03-19T01:30Z
+2,cpe:2.3:a:atlassian:hipchat_server:2.2.9:*:*:*:*:*:*:*,Atlassian Hipchat Server 2.2.9,[''],2022-03-19T01:30Z
+3,cpe:2.3:a:atlassian:hipchat_server:2.4.0:*:*:*:*:*:*:*,Atlassian Hipchat Server 2.4.0,[''],2022-03-19T01:30Z
+4,cpe:2.3:a:atlassian:hipchat_server:2.4.1:*:*:*:*:*:*:*,Atlassian Hipchat Server 2.4.1,[''],2022-03-19T01:30Z
+5,cpe:2.3:a:atlassian:hipchat_server:2.4.2:*:*:*:*:*:*:*,Atlassian Hipchat Server 2.4.2,[''],2022-03-19T01:30Z
+6,cpe:2.3:a:atlassian:hipchat_server:2.4.3:*:*:*:*:*:*:*,Atlassian Hipchat Server 2.4.3,[''],2022-03-19T01:30Z
+7,cpe:2.3:a:atlassian:html_include_and_replace_macro:1.4.0:*:*:*:*:confluence:*:*,Atlassian HTML Include and replace macro 1.4.0 for Confluence,['CVE-2019-15053'],2022-03-19T01:30Z
+8,cpe:2.3:a:atlassian:html_include_and_replace_macro:1.4.1:*:*:*:*:confluence:*:*,Atlassian HTML Include and replace macro 1.4.1 for Confluence,['CVE-2019-15053'],2022-03-19T01:30Z
+9,cpe:2.3:a:atlassian:html_include_and_replace_macro:1.4.2:*:*:*:*:confluence:*:*,Atlassian HTML Include and replace macro 1.4.2 for Confluence,['CVE-2019-15053'],2022-03-19T01:30Z

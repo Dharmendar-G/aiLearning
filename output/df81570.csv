@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bluespire:aurelia_framework:0.15.0:*:*:*:*:*:*:*,Blue Spire Aurelia Framework 0.15.0,[''],2022-03-19T08:59Z
+1,cpe:2.3:a:bluespire:aurelia_framework:0.16.0:*:*:*:*:*:*:*,Blue Spire Aurelia Framework 0.16.0,[''],2022-03-19T08:59Z
+2,cpe:2.3:a:bluespire:aurelia_framework:0.17.0:*:*:*:*:*:*:*,Blue Spire Aurelia Framework 0.17.0,[''],2022-03-19T08:59Z
+3,cpe:2.3:a:bluespire:aurelia_framework:0.18.0:*:*:*:*:*:*:*,Blue Spire Aurelia Framework 0.18.0,[''],2022-03-19T08:59Z
+4,cpe:2.3:a:bluespire:aurelia_framework:1.0.0:-:*:*:*:*:*:*,Blue Spire Aurelia Framework 1.0.0,['CVE-2019-10062'],2022-03-19T08:59Z
+5,cpe:2.3:a:bluespire:aurelia_framework:1.0.0:beta1:*:*:*:*:*:*,Blue Spire Aurelia Framework 1.0.0 Beta 1,['CVE-2019-10062'],2022-03-19T08:59Z
+6,cpe:2.3:a:bluespire:aurelia_framework:1.0.0:beta1.0.1:*:*:*:*:*:*,Blue Spire Aurelia Framework 1.0.0 Beta 1.0.1,['CVE-2019-10062'],2022-03-19T08:59Z
+7,cpe:2.3:a:bluespire:aurelia_framework:1.0.0:beta1.0.2:*:*:*:*:*:*,Blue Spire Aurelia Framework 1.0.0 Beta 1.0.2,['CVE-2019-10062'],2022-03-19T08:59Z
+8,cpe:2.3:a:bluespire:aurelia_framework:1.0.0:beta1.0.3:*:*:*:*:*:*,Blue Spire Aurelia Framework 1.0.0 Beta 1.0.3,['CVE-2019-10062'],2022-03-19T08:59Z
+9,cpe:2.3:a:bluespire:aurelia_framework:1.0.0:beta1.0.4:*:*:*:*:*:*,Blue Spire Aurelia Framework 1.0.0 Beta 1.0.4,['CVE-2019-10062'],2022-03-19T08:59Z

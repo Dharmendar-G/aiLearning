@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:call-cc:chicken:4.8.2:*:*:*:*:*:x64:*,call-cc CHICKEN 4.8.2 on X64,"['CVE-2013-2024', 'CVE-2016-6830', 'CVE-2016-6831', 'CVE-2017-11343', 'CVE-2017-9334']",2022-03-19T15:05Z
+1,cpe:2.3:a:call-cc:chicken:4.9.0:*:*:*:*:*:*:development_snapshot,call-cc CHICKEN 4.9.0 development snapshot,"['CVE-2014-3776', 'CVE-2014-6310', 'CVE-2014-9651', 'CVE-2016-6830', 'CVE-2016-6831', 'CVE-2017-11343', 'CVE-2017-9334']",2022-03-19T15:05Z
+2,cpe:2.3:a:call-cc:chicken:4.9.0:-:*:*:*:*:*:*,call-cc CHICKEN 4.9.0,"['CVE-2014-6310', 'CVE-2014-9651', 'CVE-2016-6830', 'CVE-2016-6831', 'CVE-2017-11343', 'CVE-2017-9334']",2022-03-19T15:05Z
+3,cpe:2.3:a:call-cc:chicken:4.9.0:rc1:*:*:*:*:*:*,call-cc CHICKEN 4.9.0 Release Candidate 1,"['CVE-2014-6310', 'CVE-2014-9651', 'CVE-2015-4556', 'CVE-2016-6830', 'CVE-2016-6831', 'CVE-2017-11343', 'CVE-2017-9334']",2022-03-19T15:05Z
+4,cpe:2.3:a:call-cc:chicken:4.9.0.1:*:*:*:*:*:*:*,call-cc CHICKEN 4.9.0.1,"['CVE-2014-6310', 'CVE-2014-9651', 'CVE-2016-6830', 'CVE-2016-6831', 'CVE-2017-11343', 'CVE-2017-9334']",2022-03-19T15:05Z
+5,cpe:2.3:a:call-cc:chicken:4.9.1:*:*:*:*:*:*:development_snapshot,call-cc CHICKEN 4.9.1 development snapshot,"['CVE-2016-6830', 'CVE-2016-6831', 'CVE-2017-11343', 'CVE-2017-9334']",2022-03-19T15:05Z
+6,cpe:2.3:a:call-cc:chicken:4.10.0:-:*:*:*:*:*:*,call-cc CHICKEN 4.10.0,"['CVE-2014-9651', 'CVE-2016-6830', 'CVE-2016-6831', 'CVE-2017-11343', 'CVE-2017-9334']",2022-03-19T15:05Z
+7,cpe:2.3:a:call-cc:chicken:4.10.0:rc1:*:*:*:*:*:*,call-cc CHICKEN 4.10.0 Release Candidate 1,"['CVE-2014-9651', 'CVE-2016-6830', 'CVE-2016-6831', 'CVE-2017-11343', 'CVE-2017-9334']",2022-03-19T15:05Z
+8,cpe:2.3:a:call-cc:chicken:4.10.0:rc2:*:*:*:*:*:*,call-cc CHICKEN 4.10.0 Release Candidate 2,"['CVE-2014-9651', 'CVE-2016-6830', 'CVE-2016-6831', 'CVE-2017-11343', 'CVE-2017-9334']",2022-03-19T15:05Z
+9,cpe:2.3:a:call-cc:chicken:4.10.0:rc3:*:*:*:*:*:*,call-cc CHICKEN 4.10.0 Release Candidate 3,"['CVE-2014-9651', 'CVE-2016-6830', 'CVE-2016-6831', 'CVE-2017-11343', 'CVE-2017-9334']",2022-03-19T15:05Z

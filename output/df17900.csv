@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:akeneo:product_information_management:1.6.5:*:*:*:community:*:*:*,Akeneo Product Information Management (PIM) 1.6.5 Community Edition,['CVE-2017-1000009'],2022-03-18T14:21Z
+1,cpe:2.3:a:akeneo:product_information_management:1.6.5:*:*:*:enterprise:*:*:*,Akeneo Product Information Management (PIM) 1.6.5 Enterprise Edition,['CVE-2017-1000009'],2022-03-18T14:21Z
+2,cpe:2.3:a:akeo:rufus:1.0.3:*:*:*:*:*:*:*,Akeo Rufus 1.0.3,"['CVE-2019-1010100', 'CVE-2019-1010101']",2022-03-18T14:21Z
+3,cpe:2.3:a:akeo:rufus:1.0.4:*:*:*:*:*:*:*,Akeo Rufus 1.0.4,"['CVE-2019-1010100', 'CVE-2019-1010101']",2022-03-18T14:21Z
+4,cpe:2.3:a:akeo:rufus:1.0.5:*:*:*:*:*:*:*,Akeo Rufus 1.0.5,"['CVE-2019-1010100', 'CVE-2019-1010101']",2022-03-18T14:21Z
+5,cpe:2.3:a:akeo:rufus:1.0.6:*:*:*:*:*:*:*,Akeo Rufus 1.0.6,"['CVE-2019-1010100', 'CVE-2019-1010101']",2022-03-18T14:21Z
+6,cpe:2.3:a:akeo:rufus:1.0.7:*:*:*:*:*:*:*,Akeo Rufus 1.0.7,"['CVE-2019-1010100', 'CVE-2019-1010101']",2022-03-18T14:21Z
+7,cpe:2.3:a:akeo:rufus:1.1.0:*:*:*:*:*:*:*,Akeo Rufus 1.1.0,"['CVE-2019-1010100', 'CVE-2019-1010101']",2022-03-18T14:21Z
+8,cpe:2.3:a:akeo:rufus:1.1.1:*:*:*:*:*:*:*,Akeo Rufus 1.1.1,"['CVE-2019-1010100', 'CVE-2019-1010101']",2022-03-18T14:21Z
+9,cpe:2.3:a:akeo:rufus:1.1.2:*:*:*:*:*:*:*,Akeo Rufus 1.1.2,"['CVE-2019-1010100', 'CVE-2019-1010101']",2022-03-18T14:21Z

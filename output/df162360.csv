@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:couchbase:couchbase_server:6.0.3:*:*:*:*:*:*:*,Couchbase Server 6.0.3,"['CVE-2020-9041', 'CVE-2021-25643', 'CVE-2021-25644', 'CVE-2021-25645', 'CVE-2021-27924', 'CVE-2021-35945', 'CVE-2021-42763']",2022-03-20T08:08Z
+1,cpe:2.3:a:couchbase:couchbase_server:6.0.4:*:*:*:*:*:*:*,Couchbase Server 6.0.4,"['CVE-2021-25643', 'CVE-2021-25644', 'CVE-2021-25645', 'CVE-2021-27924', 'CVE-2021-35945', 'CVE-2021-42763']",2022-03-20T08:08Z
+2,cpe:2.3:a:couchbase:couchbase_server:6.0.5:*:*:*:*:*:*:*,Couchbase Server 6.0.5,"['CVE-2021-25643', 'CVE-2021-25644', 'CVE-2021-27924', 'CVE-2021-35945', 'CVE-2021-42763']",2022-03-20T08:08Z
+3,cpe:2.3:a:couchbase:couchbase_server:6.5.0:*:*:*:*:*:*:*,Couchbase Server 6.5.0,"['CVE-2021-25643', 'CVE-2021-25644', 'CVE-2021-25645', 'CVE-2021-27924', 'CVE-2021-27925', 'CVE-2021-31158', 'CVE-2021-35943', 'CVE-2021-35944', 'CVE-2021-35945', 'CVE-2021-42763']",2022-03-20T08:08Z
+4,cpe:2.3:a:couchbase:couchbase_server:6.5.1:*:*:*:*:*:*:*,Couchbase Server 6.5.1,"['CVE-2020-24719', 'CVE-2021-25643', 'CVE-2021-25644', 'CVE-2021-25645', 'CVE-2021-27924', 'CVE-2021-27925', 'CVE-2021-31158', 'CVE-2021-35943', 'CVE-2021-35944', 'CVE-2021-35945', 'CVE-2021-42763']",2022-03-20T08:08Z
+5,cpe:2.3:a:couchbase:couchbase_server:6.5.2:*:*:*:*:*:*:*,Couchbase Server 6.5.2,"['CVE-2020-24719', 'CVE-2021-25644', 'CVE-2021-27924', 'CVE-2021-27925', 'CVE-2021-31158', 'CVE-2021-35943', 'CVE-2021-35944', 'CVE-2021-35945', 'CVE-2021-42763']",2022-03-20T08:08Z
+6,cpe:2.3:a:couchbase:couchbase_server:6.6.0:*:*:*:*:*:*:*,Couchbase Server 6.6.0,"['CVE-2021-25643', 'CVE-2021-25644', 'CVE-2021-25645', 'CVE-2021-27924', 'CVE-2021-27925', 'CVE-2021-31158', 'CVE-2021-35943', 'CVE-2021-35944', 'CVE-2021-35945', 'CVE-2021-42763']",2022-03-20T08:08Z
+7,cpe:2.3:a:couchbase:couchbase_server:6.6.1:*:*:*:*:*:*:*,Couchbase Server 6.6.1,"['CVE-2021-25643', 'CVE-2021-25644', 'CVE-2021-27924', 'CVE-2021-27925', 'CVE-2021-31158', 'CVE-2021-35943', 'CVE-2021-35944', 'CVE-2021-35945', 'CVE-2021-42763']",2022-03-20T08:08Z
+8,cpe:2.3:a:couchbase:couchbase_server:6.6.2:*:*:*:*:*:*:*,Couchbase Server 6.6.2,"['CVE-2021-35943', 'CVE-2021-35944', 'CVE-2021-35945', 'CVE-2021-42763']",2022-03-20T08:08Z
+9,cpe:2.3:a:couchbase:couchbase_server:6.6.3:*:*:*:*:*:*:*,Couchbase Server 6.6.3,[''],2022-03-20T08:08Z

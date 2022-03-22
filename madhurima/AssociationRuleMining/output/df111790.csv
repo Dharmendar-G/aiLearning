@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:chiyu-tech:bf-631w_firmware:-:*:*:*:*:*:*:*,Chiyu Technology BF-631W Firmware,"['CVE-2021-31252', 'CVE-2021-31641']",2022-03-19T17:23Z
+1,cpe:2.3:h:chiyu-tech:bf-830w:-:*:*:*:*:*:*:*,Chiyu Technology BF-830W,"['CVE-2021-31252', 'CVE-2021-31641']",2022-03-19T17:23Z
+2,cpe:2.3:o:chiyu-tech:bf-830w_firmware:-:*:*:*:*:*:*:*,Chiyu Technology BF-830W Firmware,"['CVE-2021-31252', 'CVE-2021-31641']",2022-03-19T17:23Z
+3,cpe:2.3:h:chiyu-tech:bfminiw:-:*:*:*:*:*:*:*,Chiyu Technology BFMINIW,['CVE-2021-31641'],2022-03-19T17:23Z
+4,cpe:2.3:o:chiyu-tech:bfminiw_firmware:-:*:*:*:*:*:*:*,Chiyu Technology BFMINIW Firmware,['CVE-2021-31641'],2022-03-19T17:23Z
+5,cpe:2.3:h:chiyu-tech:biosense:-:*:*:*:*:*:*:*,Chiyu Technology BioSense,"['CVE-2021-31642', 'CVE-2021-31643']",2022-03-19T17:23Z
+6,cpe:2.3:o:chiyu-tech:biosense_firmware:-:*:*:*:*:*:*:*,Chiyu Technology BioSense Firmware,"['CVE-2021-31642', 'CVE-2021-31643']",2022-03-19T17:24Z
+7,cpe:2.3:h:chiyu-tech:semac_d1:-:*:*:*:*:*:*:*,Chiyu Technology SEMAC D1,"['CVE-2021-31251', 'CVE-2021-31252', 'CVE-2021-31641', 'CVE-2021-31642', 'CVE-2021-31643']",2022-03-19T17:24Z
+8,cpe:2.3:o:chiyu-tech:semac_d1_firmware:-:*:*:*:*:*:*:*,Chiyu Technology SEMAC D1 Firmware,"['CVE-2021-31251', 'CVE-2021-31252', 'CVE-2021-31641', 'CVE-2021-31642', 'CVE-2021-31643']",2022-03-19T17:24Z
+9,cpe:2.3:h:chiyu-tech:semac_d2:-:*:*:*:*:*:*:*,Chiyu Technology SEMAC D2,"['CVE-2021-31251', 'CVE-2021-31252', 'CVE-2021-31641', 'CVE-2021-31642', 'CVE-2021-31643']",2022-03-19T17:24Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:drupal:restful:7.x-2.0:alpha5:*:*:*:drupal:*:*,Drupal RESTful 7.x-2.0 Alpha 5 for Drupal,[''],2022-03-20T18:26Z
+1,cpe:2.3:a:drupal:restful:7.x-2.1:*:*:*:*:drupal:*:*,Drupal RESTful 7.x-2.1 for Drupal,[''],2022-03-20T18:26Z
+2,cpe:2.3:a:drupal:restful:7.x-2.2:*:*:*:*:drupal:*:*,Drupal RESTful 7.x-2.2 for Drupal,[''],2022-03-20T18:26Z
+3,cpe:2.3:a:drupal:restful:7.x-2.3:*:*:*:*:drupal:*:*,Drupal RESTful 7.x-2.3 for Drupal,[''],2022-03-20T18:26Z
+4,cpe:2.3:a:drupal:restful:7.x-2.4:*:*:*:*:drupal:*:*,Drupal RESTful 7.x-2.4 for Drupal,[''],2022-03-20T18:26Z
+5,cpe:2.3:a:drupal:restful:7.x-2.5:*:*:*:*:drupal:*:*,Drupal RESTful 7.x-2.5 for Drupal,[''],2022-03-20T18:26Z
+6,cpe:2.3:a:drupal:restful:7.x-2.6:*:*:*:*:drupal:*:*,Drupal RESTful 7.x-2.6 for Drupal,[''],2022-03-20T18:26Z
+7,cpe:2.3:a:drupal:restful:7.x-2.7:*:*:*:*:drupal:*:*,Drupal RESTful 7.x-2.7 for Drupal,[''],2022-03-20T18:26Z
+8,cpe:2.3:a:drupal:restful:7.x-2.8:*:*:*:*:drupal:*:*,Drupal RESTful 7.x-2.8 for Drupal,[''],2022-03-20T18:26Z
+9,cpe:2.3:a:drupal:svg_sanitizer:7.x-1.0:*:*:*:*:drupal:*:*,Drupal SVG Sanitizer 7.x-1.0 for Drupal,['CVE-2019-18856'],2022-03-20T18:26Z

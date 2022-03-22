@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:check_mk_project:check_mk:1.1.13:i2:*:*:*:*:*:*,Check_MK Project Check_MK 1.1.13 i2,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z
+1,cpe:2.3:a:check_mk_project:check_mk:1.1.13:i3:*:*:*:*:*:*,Check_MK Project Check_MK 1.1.13 i3,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z
+2,cpe:2.3:a:check_mk_project:check_mk:1.2.2:-:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.2,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z
+3,cpe:2.3:a:check_mk_project:check_mk:1.2.2:b1:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.2 Beta 1,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z
+4,cpe:2.3:a:check_mk_project:check_mk:1.2.2:b2:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.2 Beta 2,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z
+5,cpe:2.3:a:check_mk_project:check_mk:1.2.2:b3:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.2 Beta 3,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:41Z
+6,cpe:2.3:a:check_mk_project:check_mk:1.2.2:b4:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.2 Beta 4,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z
+7,cpe:2.3:a:check_mk_project:check_mk:1.2.2:b5:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.2 Beta 5,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:41Z
+8,cpe:2.3:a:check_mk_project:check_mk:1.2.2:b6:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.2 Beta 6,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:41Z
+9,cpe:2.3:a:check_mk_project:check_mk:1.2.2:b7:*:*:*:*:*:*,Check_MK Project Check_MK 1.2.2 Beta 7,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:41Z

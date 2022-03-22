@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:lotus_symphony:1.3:*:*:*:*:*:*:*,IBM Lotus Symphony 1.3,['CVE-2012-0192'],2022-03-21T21:10Z
+1,cpe:2.3:a:ibm:lotus_symphony:1.3.0.20090908.0900:*:*:*:*:*:*:*,IBM Lotus Symphony 1.3.0.20090908.0900,"['CVE-2010-5204', 'CVE-2012-0192']",2022-03-21T21:10Z
+2,cpe:2.3:a:ibm:lotus_symphony:3.0.0:*:*:*:*:*:*:*,IBM Lotus Symphony 3.0.0,"['CVE-2011-2884', 'CVE-2011-2885', 'CVE-2011-2886', 'CVE-2011-2887', 'CVE-2011-2888', 'CVE-2011-2893', 'CVE-2012-0192']",2022-03-21T21:10Z
+3,cpe:2.3:a:ibm:lotus_symphony:3.0.0.1:*:*:*:*:*:*:*,IBM Lotus Symphony 3.0.0.1 (Fix Pack 1),"['CVE-2011-2884', 'CVE-2011-2885', 'CVE-2011-2886', 'CVE-2011-2887', 'CVE-2011-2888', 'CVE-2011-2893', 'CVE-2012-0192']",2022-03-21T21:10Z
+4,cpe:2.3:a:ibm:lotus_symphony:3.0.0.2:*:*:*:*:*:*:*,IBM Lotus Symphony 3.0.0.2 (Fix Pack 2),"['CVE-2011-2884', 'CVE-2011-2885', 'CVE-2011-2886', 'CVE-2011-2887', 'CVE-2011-2888', 'CVE-2011-2893', 'CVE-2012-0192']",2022-03-21T21:10Z
+5,cpe:2.3:a:ibm:lotus_symphony:3.0.0.3:*:*:*:*:*:*:*,IBM Lotus Symphony 3.0.0.3 (Fix Pack 3),['CVE-2012-0192'],2022-03-21T21:10Z
+6,cpe:2.3:a:ibm:lotus_symphony:3.0.1:*:*:*:*:*:*:*,IBM Lotus Symphony 3.0.1,[''],2022-03-21T21:10Z
+7,cpe:2.3:a:ibm:lotus_widget_factory:-:*:*:*:*:*:*:*,IBM Lotus Widget Factory,['CVE-2014-6196'],2022-03-21T21:10Z
+8,cpe:2.3:a:ibm:lotuslive_meetings_for_ibm:8.2.1:*:*:*:*:*:*:*,IBM Lotuslive Meetings For Ibm 8.2.1,[''],2022-03-21T21:10Z
+9,cpe:2.3:h:ibm:m15:-:*:*:*:*:*:*:*,IBM zEnterprise System Model M15,[''],2022-03-21T21:10Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:ibm:e26:-:*:*:*:*:*:*:*,IBM z10 Enterprise Class Model E26 (Machine Type 2097),[''],2022-03-21T20:26Z
+1,cpe:2.3:h:ibm:e40:-:*:*:*:*:*:*:*,IBM z10 Enterprise Class Model E40 (Machine Type 2097),[''],2022-03-21T20:26Z
+2,cpe:2.3:h:ibm:e56:-:*:*:*:*:*:*:*,IBM z10 Enterprise Class Model E56 (Machine Type 2097),[''],2022-03-21T20:26Z
+3,cpe:2.3:h:ibm:e64:-:*:*:*:*:*:*:*,IBM z10 Enterprise Class Model E64 (Machine Type 2097),[''],2022-03-21T20:26Z
+4,cpe:2.3:a:ibm:eclipse_help_system:3.4.3:*:*:*:*:*:*:*,IBM Eclipse Health System (IEHS) 3.4.3,['CVE-2013-0464'],2022-03-21T20:26Z
+5,cpe:2.3:a:ibm:eclipse_help_system:3.6.2:*:*:*:*:*:*:*,IBM Eclipse Health System (IEHS) 3.6.2,['CVE-2013-0464'],2022-03-21T20:26Z
+6,cpe:2.3:a:ibm:ecolab:7.0:*:*:*:*:*:*:*,IBM Ecolab 7.0,[''],2022-03-21T20:26Z
+7,cpe:2.3:a:ibm:edge_application_manager:4.2:*:*:*:*:*:*:*,IBM Edge Application Manager 4.2,"['CVE-2020-4792', 'CVE-2020-4803', 'CVE-2020-4805', 'CVE-2020-4809', 'CVE-2020-4941']",2022-03-21T20:26Z
+8,cpe:2.3:a:ibm:egatherer:-:*:*:*:*:*:*:*,IBM eGatherer,[''],2022-03-21T20:26Z
+9,cpe:2.3:a:ibm:egatherer:2.0.0.16:*:*:*:*:*:*:*,IBM eGatherer ActiveX Control 2.0.0.16,['CVE-2004-2663'],2022-03-21T20:26Z

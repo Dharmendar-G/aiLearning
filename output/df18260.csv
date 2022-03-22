@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:akky:7-zip32.dll:-:*:*:*:*:*:*:*,AkkyWare HOUSE 7-ZIP32.DLL,['CVE-2017-2107'],2022-03-18T14:28Z
+1,cpe:2.3:a:akky:7-zip32.dll:2.30.20.01:*:*:*:*:*:*:*,AkkyWare HOUSE 7-ZIP32.DLL 2.30.20.01,['CVE-2017-2107'],2022-03-18T14:28Z
+2,cpe:2.3:a:akky:7-zip32.dll:2.30.21.1:*:*:*:*:*:*:*,AkkyWare HOUSE 7-ZIP32.DLL 2.30.21.1,['CVE-2017-2107'],2022-03-18T14:28Z
+3,cpe:2.3:a:akky:7-zip32.dll:2.30.22.01:*:*:*:*:*:*:*,AkkyWare HOUSE 7-ZIP32.DLL 2.30.22.01,['CVE-2017-2107'],2022-03-18T14:28Z
+4,cpe:2.3:a:akky:7-zip32.dll:2.30.23.01:*:*:*:*:*:*:*,AkkyWare HOUSE 7-ZIP32.DLL 2.30.23.01,['CVE-2017-2107'],2022-03-18T14:28Z
+5,cpe:2.3:a:akky:7-zip32.dll:2.30.24.01:*:*:*:*:*:*:*,AkkyWare HOUSE 7-ZIP32.DLL 2.30.24.01,['CVE-2017-2107'],2022-03-18T14:28Z
+6,cpe:2.3:a:akky:7-zip32.dll:2.30.24.02:*:*:*:*:*:*:*,AkkyWare HOUSE 7-ZIP32.DLL 2.30.24.02,['CVE-2017-2107'],2022-03-18T14:28Z
+7,cpe:2.3:a:akky:7-zip32.dll:2.30.25.01:*:*:*:*:*:*:*,AkkyWare HOUSE 7-ZIP32.DLL 2.30.25.01,['CVE-2017-2107'],2022-03-18T14:28Z
+8,cpe:2.3:a:akky:7-zip32.dll:2.30.26.01:*:*:*:*:*:*:*,AkkyWare HOUSE 7-ZIP32.DLL 2.30.26.01,['CVE-2017-2107'],2022-03-18T14:28Z
+9,cpe:2.3:a:akky:7-zip32.dll:2.30.27.01:*:*:*:*:*:*:*,AkkyWare HOUSE 7-ZIP32.DLL 2.30.27.01,['CVE-2017-2107'],2022-03-18T14:28Z

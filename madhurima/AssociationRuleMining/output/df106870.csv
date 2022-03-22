@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cesanta:mongoose_embedded_web_server_library:6.3:*:*:*:*:*:*:*,Cesanta Mongoose Embedded Web Server Library 6.3,"['CVE-2017-11567', 'CVE-2017-7185', 'CVE-2018-20352']",2022-03-19T16:20Z
+1,cpe:2.3:a:cesanta:mongoose_embedded_web_server_library:6.4:*:*:*:*:*:*:*,Cesanta Mongoose Embedded Web Server Library 6.4,"['CVE-2017-11567', 'CVE-2017-7185', 'CVE-2018-20352']",2022-03-19T16:20Z
+2,cpe:2.3:a:cesanta:mongoose_embedded_web_server_library:6.5:*:*:*:*:*:*:*,Cesanta Mongoose Embedded Web Server Library 6.5,"['CVE-2017-11567', 'CVE-2017-7185', 'CVE-2018-20352']",2022-03-19T16:20Z
+3,cpe:2.3:a:cesanta:mongoose_embedded_web_server_library:6.6:*:*:*:*:*:*:*,Cesanta Mongoose Embedded Web Server Library 6.6,"['CVE-2017-11567', 'CVE-2017-7185', 'CVE-2018-20352']",2022-03-19T16:20Z
+4,cpe:2.3:a:cesanta:mongoose_embedded_web_server_library:6.7:*:*:*:*:*:*:*,Cesanta Mongoose Embedded Web Server Library 6.7,"['CVE-2017-11567', 'CVE-2017-7185', 'CVE-2018-20352']",2022-03-19T16:20Z
+5,cpe:2.3:a:cesanta:mongoose_embedded_web_server_library:6.8:*:*:*:*:*:*:*,Cesanta Mongoose Embedded Web Server Library 6.8,"['CVE-2017-11567', 'CVE-2018-20352']",2022-03-19T16:20Z
+6,cpe:2.3:a:cesanta:mongoose_embedded_web_server_library:6.9:*:*:*:*:*:*:*,Cesanta Mongoose Embedded Web Server Library 6.9,['CVE-2018-20352'],2022-03-19T16:20Z
+7,cpe:2.3:a:cesanta:mongoose_embedded_web_server_library:6.10:*:*:*:*:*:*:*,Cesanta Mongoose Embedded Web Server Library 6.10,['CVE-2018-20352'],2022-03-19T16:20Z
+8,cpe:2.3:a:cesanta:mongoose_embedded_web_server_library:6.11:*:*:*:*:*:*:*,Cesanta Mongoose Embedded Web Server Library 6.11,['CVE-2018-20352'],2022-03-19T16:20Z
+9,cpe:2.3:a:cesanta:mongoose_embedded_web_server_library:6.12:*:*:*:*:*:*:*,Cesanta Mongoose Embedded Web Server Library 6.12,['CVE-2018-20352'],2022-03-19T16:20Z

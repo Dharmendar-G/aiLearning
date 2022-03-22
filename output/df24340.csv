@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:amd:xilinx_z-7030:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) XILINX Z-7030,['CVE-2021-44850'],2022-03-18T16:11Z
+1,cpe:2.3:o:amd:xilinx_z-7030_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) XILINX Z-7030 Firmware,['CVE-2021-44850'],2022-03-18T16:11Z
+2,cpe:2.3:h:amd:xilinx_z-7035:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) XILINX Z-7035,['CVE-2021-44850'],2022-03-18T16:11Z
+3,cpe:2.3:o:amd:xilinx_z-7035_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) XILINX Z-7035 Firmware,['CVE-2021-44850'],2022-03-18T16:11Z
+4,cpe:2.3:h:amd:xilinx_z-7045:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) XILINX Z-7045,['CVE-2021-44850'],2022-03-18T16:11Z
+5,cpe:2.3:o:amd:xilinx_z-7045_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) XILINX Z-7045 Firmware,['CVE-2021-44850'],2022-03-18T16:11Z
+6,cpe:2.3:h:amd:xilinx_z-7100:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) XILINX Z-7100,['CVE-2021-44850'],2022-03-18T16:12Z
+7,cpe:2.3:o:amd:xilinx_z-7100_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) XILINX Z-7100 Firmware,['CVE-2021-44850'],2022-03-18T16:11Z
+8,cpe:2.3:a:amebra_ameba_project:amebra_ameba:1.0.0:*:*:*:*:android:*:*,Amebra Ameba project Amebra Ameba (aka jp.honeytrap15.amebra) for android 1.0.0,['CVE-2014-6820'],2022-03-18T16:12Z
+9,cpe:2.3:a:amecuae:amgc:6:*:*:*:*:android:*:*,amecuae AMGC (aka com.amec.uae) for android 6.0,['CVE-2014-6873'],2022-03-18T16:12Z

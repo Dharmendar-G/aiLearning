@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:mod_perl:1.99:17:*:*:*:*:*:*,Apache Software Foundation mod_perl 1.99_17,[''],2022-03-18T19:28Z
+1,cpe:2.3:a:apache:mod_perl:1.99:18:*:*:*:*:*:*,Apache Software Foundation mod_perl 1.99_18,[''],2022-03-18T19:28Z
+2,cpe:2.3:a:apache:mod_perl:1.99.0:*:*:*:*:apache_http_server:*:*,Apache Software Foundation mod_perl 1.99.0 for Apache Http Server,[''],2022-03-18T19:28Z
+3,cpe:2.3:a:apache:mod_perl:1.999:*:*:*:*:*:*:*,Apache Software Foundation mod_perl 1.999,[''],2022-03-18T19:28Z
+4,cpe:2.3:a:apache:mod_perl:1.999:20:*:*:*:*:*:*,Apache Software Foundation mod_perl 1.999_20,[''],2022-03-18T19:28Z
+5,cpe:2.3:a:apache:mod_perl:1.999:21:*:*:*:*:*:*,Apache Software Foundation mod_perl 1.999_21,[''],2022-03-18T19:28Z
+6,cpe:2.3:a:apache:mod_perl:1.999:22:*:*:*:*:*:*,Apache Software Foundation mod_perl 1.999_22,[''],2022-03-18T19:28Z
+7,cpe:2.3:a:apache:mod_perl:2.0.0:*:*:*:*:*:*:*,Apache Software Foundation mod_perl 2.0.0,"['CVE-2007-1349', 'CVE-2011-2767']",2022-03-18T19:28Z
+8,cpe:2.3:a:apache:mod_perl:2.0.0:*:*:*:*:apache_http_server:*:*,Apache Software Foundation mod_perl 2.0.0 for Apache Http Server,"['CVE-2007-1349', 'CVE-2011-2767']",2022-03-18T19:28Z
+9,cpe:2.3:a:apache:mod_perl:2.0.0:rc1:*:*:*:apache_http_server:*:*,Apache Software Foundation mod_perl 2.0.0 Release Candidate 1 for Apache Http Server,"['CVE-2007-1349', 'CVE-2011-2767']",2022-03-18T19:28Z

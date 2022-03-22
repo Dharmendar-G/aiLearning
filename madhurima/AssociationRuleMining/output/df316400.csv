@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:horde:horde_listheaders:1.1.5:*:*:*:*:*:*:*,Horde ListHeaders 1.1.5,[''],2022-03-21T12:13Z
+1,cpe:2.3:a:horde:horde_listheaders:1.2.0:*:*:*:*:*:*:*,Horde ListHeaders 1.2.0,[''],2022-03-21T12:13Z
+2,cpe:2.3:a:horde:horde_listheaders:1.2.1:*:*:*:*:*:*:*,Horde ListHeaders 1.2.1,[''],2022-03-21T12:13Z
+3,cpe:2.3:a:horde:horde_listheaders:1.2.2:*:*:*:*:*:*:*,Horde ListHeaders 1.2.2,[''],2022-03-21T12:13Z
+4,cpe:2.3:a:horde:horde_listheaders:1.2.3:*:*:*:*:*:*:*,Horde ListHeaders 1.2.3,[''],2022-03-21T12:13Z
+5,cpe:2.3:a:horde:horde_listheaders:1.2.4:*:*:*:*:*:*:*,Horde ListHeaders 1.2.4,[''],2022-03-21T12:14Z
+6,cpe:2.3:a:horde:horde_listheaders:1.2.5:*:*:*:*:*:*:*,Horde ListHeaders 1.2.5,[''],2022-03-21T12:14Z
+7,cpe:2.3:a:horde:horde_lock:1.0.0:-:*:*:*:*:*:*,Horde Lock 1.0.0,[''],2022-03-21T12:14Z
+8,cpe:2.3:a:horde:horde_lock:1.0.0:alpha1:*:*:*:*:*:*,Horde Lock 1.0.0 Alpha 1,[''],2022-03-21T12:14Z
+9,cpe:2.3:a:horde:horde_lock:1.0.0:beta1:*:*:*:*:*:*,Horde Lock 1.0.0 Beta 1,[''],2022-03-21T12:14Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bluecoat:content_analysis_system_software:1.1.2.1:*:*:*:*:*:*:*,BlueCoat Content Analysis System (CAS) software 1.1.2.1,"['CVE-2014-2565', 'CVE-2016-9091']",2022-03-19T08:50Z
+1,cpe:2.3:a:bluecoat:content_analysis_system_software:1.1.4.2:*:*:*:*:*:*:*,BlueCoat Content Analysis System (CAS) software 1.1.4.2,['CVE-2016-9091'],2022-03-19T08:50Z
+2,cpe:2.3:a:bluecoat:content_analysis_system_software:1.3.7.3:*:*:*:*:*:*:*,Blue Coat Content Analysis System (CAS) Software 1.3.7.3,['CVE-2016-9091'],2022-03-19T08:50Z
+3,cpe:2.3:a:bluecoat:director:5.4:*:*:*:*:*:*:*,Bluecoat Director 5.4,['CVE-2011-5125'],2022-03-19T08:50Z
+4,cpe:2.3:a:bluecoat:director:5.5:*:*:*:*:*:*:*,Bluecoat Director 5.5,['CVE-2011-5125'],2022-03-19T08:50Z
+5,cpe:2.3:a:bluecoat:director:5.5.2:*:*:*:*:*:*:*,Bluecoat Director 5.5.2,['CVE-2011-5125'],2022-03-19T08:50Z
+6,cpe:2.3:a:bluecoat:director:5.5.2.3:*:*:*:*:*:*:*,Bluecoat Director 5.5.2.3,[''],2022-03-19T08:50Z
+7,cpe:2.3:a:bluecoat:director_mc:1.0.0.0:*:*:*:*:*:*:*,Bluecoat Director Mc 1.0.0.0,[''],2022-03-19T08:50Z
+8,cpe:2.3:a:bluecoat:k9_web_protection:-:*:*:*:*:*:*:*,Blue Coat Systems K9 Web Protection,[''],2022-03-19T08:50Z
+9,cpe:2.3:a:bluecoat:k9_web_protection:3.2.36:*:*:*:*:*:*:*,Blue Coat Systems K9 Web Protection 3.2.36,['CVE-2007-1685'],2022-03-19T08:51Z

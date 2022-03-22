@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:darwin:factor:3.2.15:*:*:*:*:node.js:*:*,Darwin Factor 3.2.15 for Node.js,[''],2022-03-20T10:24Z
+1,cpe:2.3:a:darwin:factor:3.2.16:*:*:*:*:node.js:*:*,Darwin Factor 3.2.16 for Node.js,[''],2022-03-20T10:24Z
+2,cpe:2.3:a:darwin:factor:3.2.17:*:*:*:*:node.js:*:*,Darwin Factor 3.2.17 for Node.js,[''],2022-03-20T10:24Z
+3,cpe:2.3:a:darwin:factor:3.2.18:*:*:*:*:node.js:*:*,Darwin Factor 3.2.18 for Node.js,[''],2022-03-20T10:24Z
+4,cpe:2.3:a:darwin:factor:3.2.19:*:*:*:*:node.js:*:*,Darwin Factor 3.2.19 for Node.js,[''],2022-03-20T10:24Z
+5,cpe:2.3:a:darwin:factor:3.2.20:*:*:*:*:node.js:*:*,Darwin Factor 3.2.20 for Node.js,[''],2022-03-20T10:24Z
+6,cpe:2.3:a:darwin:factor:3.2.21:*:*:*:*:node.js:*:*,Darwin Factor 3.2.21 for Node.js,[''],2022-03-20T10:24Z
+7,cpe:2.3:a:darwin:factor:3.2.22:*:*:*:*:node.js:*:*,Darwin Factor 3.2.22 for Node.js,[''],2022-03-20T10:24Z
+8,cpe:2.3:a:darwin:factor:3.2.23:*:*:*:*:node.js:*:*,Darwin Factor 3.2.23 for Node.js,[''],2022-03-20T10:24Z
+9,cpe:2.3:a:dasafio_project:dasafio:1.2.0:*:*:*:*:node.js:*:*,dasafio Project dasafio 1.2.0 for Node.js,['CVE-2017-16179'],2022-03-20T10:24Z

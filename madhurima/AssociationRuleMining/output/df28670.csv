@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:archiva:2.2.4:*:*:*:*:*:*:*,Apache Software Foundation Archiva 2.2.4,['CVE-2020-9495'],2022-03-18T17:40Z
+1,cpe:2.3:a:apache:archiva:2.2.5:*:*:*:*:*:*:*,Apache Software Foundation Archiva 2.2.5,[''],2022-03-18T17:40Z
+2,cpe:2.3:a:apache:archiva:3.1.3:*:*:*:*:*:*:*,Apache Software Foundation Archiva 3.1.3,[''],2022-03-18T17:40Z
+3,cpe:2.3:a:apache:arrow:0.1.0:*:*:*:*:*:*:*,Apache Software Foundation Arrow 0.1.0,[''],2022-03-18T17:40Z
+4,cpe:2.3:a:apache:arrow:0.2.0:*:*:*:*:*:*:*,Apache Software Foundation Arrow 0.2.0,[''],2022-03-18T17:40Z
+5,cpe:2.3:a:apache:arrow:0.3.0:-:*:*:*:*:*:*,Apache Software Foundation Arrow 0.3.0,[''],2022-03-18T17:40Z
+6,cpe:2.3:a:apache:arrow:0.3.0:rc1:*:*:*:*:*:*,Apache Software Foundation Arrow 0.3.0 Release Candidate 1,[''],2022-03-18T17:40Z
+7,cpe:2.3:a:apache:arrow:0.3.1:*:*:*:*:*:*:*,Apache Software Foundation Arrow 0.3.1,[''],2022-03-18T17:40Z
+8,cpe:2.3:a:apache:arrow:0.4.0:*:*:*:*:*:*:*,Apache Software Foundation Arrow 0.4.0,[''],2022-03-18T17:40Z
+9,cpe:2.3:a:apache:arrow:0.4.1:*:*:*:*:*:*:*,Apache Software Foundation Arrow 0.4.1,[''],2022-03-18T17:40Z

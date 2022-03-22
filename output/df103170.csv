@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:carbonblack:carbon_black:4.1.0:-:*:*:*:*:*:*,Carbon Black 4.1.0,[''],2022-03-19T15:31Z
+1,cpe:2.3:a:carbonblack:carbon_black:4.1.0:beta1:*:*:*:*:*:*,Carbon Black 4.1.0 beta1,['CVE-2014-1615'],2022-03-19T15:31Z
+2,cpe:2.3:a:carbonblack:carbon_black:4.1.0:beta2:*:*:*:*:*:*,Carbon Black 4.1.0 beta2,['CVE-2014-1615'],2022-03-19T15:31Z
+3,cpe:2.3:a:carbonblack:carbon_black:5.1.1.60603:*:*:*:*:*:*:*,Carbon Black 5.1.1.60603,"['CVE-2016-9568', 'CVE-2016-9569', 'CVE-2016-9570']",2022-03-19T15:31Z
+4,cpe:2.3:a:carbonblack:carbon_black_cb:-:*:*:*:*:*:*:*,Carbonblack Carbon Black Cb,['CVE-2018-10407'],2022-03-19T15:31Z
+5,cpe:2.3:a:carbonexchangecointoken_project:carbonexchangecointoken:-:*:*:*:*:*:*:*,CarbonExchangeCoinToken Project CarbonExchangeCoinToken,['CVE-2018-13075'],2022-03-19T15:31Z
+6,cpe:2.3:a:carbonite:online_backup_setup:3.7.3:*:*:*:*:*:*:*,Carbonite Online Backup Setup 3.7.3,[''],2022-03-19T15:31Z
+7,cpe:2.3:a:carbonite:server_backup_portal:8.81:*:*:*:*:*:*:*,Carbonite Server Backup Portal 8.81,['CVE-2020-13116'],2022-03-19T15:31Z
+8,cpe:2.3:a:carbonite:server_backup_portal:8.85:*:*:*:*:*:*:*,Carbonite Server Backup Portal 8.85,['CVE-2020-13116'],2022-03-19T15:31Z
+9,cpe:2.3:a:carbonite:server_backup_portal:8.87:*:*:*:*:*:*:*,Carbonite Server Backup Portal 8.87,[''],2022-03-19T15:31Z

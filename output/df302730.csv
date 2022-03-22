@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:gwolle_guestbook_project:gwolle_guestbook:4.1.1:*:*:*:*:wordpress:*:*,Gwolle Guestbook Project Gwolle Guestbook 4.1.1 for WordPress,['CVE-2021-24980'],2022-03-21T08:34Z
+1,cpe:2.3:a:gwolle_guestbook_project:gwolle_guestbook:4.1.2:*:*:*:*:wordpress:*:*,Gwolle Guestbook Project Gwolle Guestbook 4.1.2 for WordPress,['CVE-2021-24980'],2022-03-21T08:34Z
+2,cpe:2.3:a:gwolle_guestbook_project:gwolle_guestbook:4.2.0:*:*:*:*:wordpress:*:*,Gwolle Guestbook Project Gwolle Guestbook 4.2.0 for WordPress,[''],2022-03-21T08:34Z
+3,cpe:2.3:a:gwolle_guestbook_project:gwolle_guestbook:4.2.1:*:*:*:*:wordpress:*:*,Gwolle Guestbook Project Gwolle Guestbook 4.2.1 for WordPress,[''],2022-03-21T08:34Z
+4,cpe:2.3:a:gwos:groundwork_monitor:6.7.0:-:enterprise:*:*:*:*:*,GroundWork Monitor Enterprise 6.7.0,"['CVE-2013-3499', 'CVE-2013-3500', 'CVE-2013-3501', 'CVE-2013-3502', 'CVE-2013-3503', 'CVE-2013-3504', 'CVE-2013-3505', 'CVE-2013-3506', 'CVE-2013-3507', 'CVE-2013-3508', 'CVE-2013-3509', 'CVE-2013-3510', 'CVE-2013-3511', 'CVE-2013-3512', 'CVE-2013-3513']",2022-03-21T08:34Z
+5,cpe:2.3:a:gwt_mobile_phonegap_showcase_project:gwt_mobile_phonegap_showcase:1.6:*:*:*:*:android:*:*,GWT Mobile PhoneGap Showcase project GWT Mobile PhoneGap Showcase for Android 1.6,['CVE-2014-8671'],2022-03-21T08:34Z
+6,cpe:2.3:a:gwtupload_project:gwtupload:0.6.5:*:*:*:*:*:*:*,GwtUpload Project GwtUpload 0.6.5,[''],2022-03-21T08:34Z
+7,cpe:2.3:a:gwtupload_project:gwtupload:0.6.6:*:*:*:*:*:*:*,GwtUpload Project GwtUpload 0.6.6,[''],2022-03-21T08:34Z
+8,cpe:2.3:a:gwtupload_project:gwtupload:1.0.1:*:*:*:*:*:*:*,GwtUpload Project GwtUpload 1.0.1,[''],2022-03-21T08:34Z
+9,cpe:2.3:a:gwtupload_project:gwtupload:1.0.2:*:*:*:*:*:*:*,GwtUpload Project GwtUpload 1.0.2,[''],2022-03-21T08:34Z

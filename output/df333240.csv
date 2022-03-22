@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:bond-tl10c_firmware:bond-tl10cc01b131:*:*:*:*:*:*:*,Huawei Bond-TL10C Firmware Bond-TL10CC01B131,['CVE-2018-7907'],2022-03-21T17:28Z
+1,cpe:2.3:h:huawei:btv-emui5.0:-:*:*:*:*:*:*:*,Huawei BTV-EMUI5.0,['CVE-2017-17201'],2022-03-21T17:28Z
+2,cpe:2.3:o:huawei:btv-emui5.0_firmware:btv-dl09c233b350:*:*:*:*:*:*:*,Huawei BTV-EMUI5.0 Firmware BTV-DL09C233B350,['CVE-2017-17201'],2022-03-21T17:28Z
+3,cpe:2.3:o:huawei:btv-emui5.0_firmware:btv-dl09c233b356:*:*:*:*:*:*:*,Huawei Btv-emui5.0 Firmware Btv-dl09c233b356,[''],2022-03-21T17:28Z
+4,cpe:2.3:h:huawei:cairogo-l22:-:*:*:*:*:*:*:*,Huawei CAIROGO-L22,['CVE-2019-9506'],2022-03-21T17:28Z
+5,cpe:2.3:h:huawei:campus_lsw_s9700:-:*:*:*:*:*:*:*,Huawei Campus Series LSW S9700 switch,['CVE-2014-4190'],2022-03-21T17:28Z
+6,cpe:2.3:h:huawei:campus_s2350:-:*:*:*:*:*:*:*,Huawei Campus Series S2350 switch,['CVE-2014-4190'],2022-03-21T17:28Z
+7,cpe:2.3:h:huawei:campus_s2750:-:*:*:*:*:*:*:*,Huawei Campus Series S2759 switch,['CVE-2014-4190'],2022-03-21T17:28Z
+8,cpe:2.3:h:huawei:campus_s3300hi:-:*:*:*:*:*:*:*,Huawei Campus Series S3300HI switch,['CVE-2014-4190'],2022-03-21T17:28Z
+9,cpe:2.3:h:huawei:campus_s3700hi:-:*:*:*:*:*:*:*,Huawei Campus Series S3700HI switch,"['CVE-2014-4190', 'CVE-2014-4706']",2022-03-21T17:28Z

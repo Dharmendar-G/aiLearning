@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:y5z00a:-:*:*:*:*:*:*:*,HP Y5Z00A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:19Z
+1,cpe:2.3:o:hp:y5z00a_firmware:1829a:*:*:*:*:*:*:*,HP Y5Z00A Firmware 1829A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T16:19Z
+2,cpe:2.3:h:hp:y720-15ikb:-:*:*:*:*:*:*:*,HP Y720-15IKB,['CVE-2018-9069'],2022-03-21T16:19Z
+3,cpe:2.3:o:hp:y720-15ikb_firmware:-:*:*:*:*:*:*:*,HP Y720-15IKB Firmware,['CVE-2018-9069'],2022-03-21T16:19Z
+4,cpe:2.3:o:hp:y720-15ikb_firmware:4gcn38ww:*:*:*:*:*:*:*,HP Y720-15IKB Firmware 4GCN38WW,[''],2022-03-21T16:19Z
+5,cpe:2.3:h:hp:yoga_310-11iap:-:*:*:*:*:*:*:*,HP Yoga 310-11IAP,['CVE-2018-9069'],2022-03-21T16:19Z
+6,cpe:2.3:o:hp:yoga_310-11iap_firmware:-:*:*:*:*:*:*:*,HP Yoga 310-11IAP Firmware,['CVE-2018-9069'],2022-03-21T16:19Z
+7,cpe:2.3:o:hp:yoga_310-11iap_firmware:6.7:*:*:*:*:*:*:*,HP Yoga 310-11IAP Firmware 6.7,[''],2022-03-21T16:19Z
+8,cpe:2.3:h:hp:yoga_510-14isk:-:*:*:*:*:*:*:*,HP YOGA 510-14ISK,['CVE-2018-9069'],2022-03-21T16:19Z
+9,cpe:2.3:o:hp:yoga_510-14isk_firmware:-:*:*:*:*:*:*:*,HP Yoga 510-14ISK Firmware,['CVE-2018-9069'],2022-03-21T16:19Z

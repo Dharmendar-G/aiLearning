@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:4404_wireless_lan_controller:-:*:*:*:*:*:*:*,Cisco 4404 Wireless LAN Controller,"['CVE-2010-2984', 'CVE-2012-0368', 'CVE-2012-0369', 'CVE-2012-0370', 'CVE-2012-0371', 'CVE-2013-1235']",2022-03-19T17:47Z
+1,cpe:2.3:h:cisco:4431_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 4431 Integrated Services Router,"['CVE-2018-0173', 'CVE-2018-0177', 'CVE-2018-0315', 'CVE-2019-12643', 'CVE-2019-12654', 'CVE-2019-12657', 'CVE-2019-1649', 'CVE-2019-1904', 'CVE-2020-3423', 'CVE-2020-3425', 'CVE-2020-3428', 'CVE-2020-3479']",2022-03-19T17:47Z
+2,cpe:2.3:h:cisco:4451-x_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 4451-x Integrated Services Router,"['CVE-2018-0173', 'CVE-2018-0177', 'CVE-2018-0315', 'CVE-2019-12643', 'CVE-2019-12654', 'CVE-2019-12657', 'CVE-2019-1649', 'CVE-2019-1904', 'CVE-2020-3423', 'CVE-2020-3425', 'CVE-2020-3428', 'CVE-2020-3479']",2022-03-19T17:47Z
+3,cpe:2.3:h:cisco:4461_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 4461 Integrated Services Router,"['CVE-2020-3423', 'CVE-2020-3425', 'CVE-2020-3428', 'CVE-2020-3479']",2022-03-19T17:47Z
+4,cpe:2.3:o:cisco:500_series_managed_switches_firmware:1.4.10.6:*:*:*:*:*:*:*,Cisco 500 Series Managed Switches Firmware 1.4.10.6,[''],2022-03-19T17:47Z
+5,cpe:2.3:o:cisco:500_series_switch_firmware:1.2.0.92:*:*:*:*:*:*:*,Cisco 500 Series Switch Firmware 1.2.0.92,['CVE-2016-1303'],2022-03-19T17:47Z
+6,cpe:2.3:h:cisco:5100_enterprise_network_compute_system:-:*:*:*:*:*:*:*,Cisco 5100 Enterprise Network Compute System,['CVE-2018-0362'],2022-03-19T17:47Z
+7,cpe:2.3:o:cisco:5100_enterprise_network_compute_system_firmware:3.2\(3\):*:*:*:*:*:*:*,Cisco 5100 Enterprise Network Compute System Firmware 3.2(3),['CVE-2018-0362'],2022-03-19T17:47Z
+8,cpe:2.3:h:cisco:5400_enterprise_network_compute_system:-:*:*:*:*:*:*:*,Cisco 5400 Enterprise Network Compute System,['CVE-2018-0362'],2022-03-19T17:47Z
+9,cpe:2.3:o:cisco:5400_enterprise_network_compute_system_firmware:3.2\(3\):*:*:*:*:*:*:*,Cisco 5400 Enterprise Network Compute System Firmware 3.2(3),['CVE-2018-0362'],2022-03-19T17:47Z

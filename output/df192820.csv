@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:documize:documize:3.4.1:*:*:*:*:*:*:*,Documize 3.4.1,['CVE-2019-19619'],2022-03-20T16:49Z
+1,cpe:2.3:a:documize:documize:3.4.2:*:*:*:*:*:*:*,Documize 3.4.2,['CVE-2019-19619'],2022-03-20T16:49Z
+2,cpe:2.3:a:documize:documize:3.5.0:*:*:*:*:*:*:*,Documize 3.5.0,['CVE-2019-19619'],2022-03-20T16:49Z
+3,cpe:2.3:a:documize:documize:3.5.1:*:*:*:*:*:*:*,Documize 3.5.1,[''],2022-03-20T16:49Z
+4,cpe:2.3:a:docutracinc:dtisqlinstaller:1.6.4.0:*:*:*:*:*:*:*,DocuTrac DTISQLInstaller 1.6.4.0,"['CVE-2018-5551', 'CVE-2018-5552']",2022-03-20T16:49Z
+5,cpe:2.3:a:docuware:fulltext_server:6.11:*:*:*:*:*:*:*,DocuWare Fulltext Server 6.11,['CVE-2017-15044'],2022-03-20T16:49Z
+6,cpe:2.3:a:doditsolutions:busbooking-script:-:*:*:*:*:*:*:*,DOD IT SOLUTIONS BUSBOOKING-SCRIPT,['CVE-2017-17828'],2022-03-20T16:49Z
+7,cpe:2.3:h:dodocool:dc38:-:*:*:*:*:*:*:*,Dodocool DC38,['CVE-2018-5720'],2022-03-20T16:49Z
+8,cpe:2.3:o:dodocool:dc38_firmware:rtn2-aw.gd.r3465.1.20161103:*:*:*:*:*:*:*,Dodocool DC38 Firmware RTN2-AW.GD.R3465.1.20161103,['CVE-2018-5720'],2022-03-20T16:49Z
+9,cpe:2.3:a:doft:doftcoin:-:*:*:*:*:*:*:*,Doft Doftcoin,['CVE-2021-34270'],2022-03-20T16:49Z

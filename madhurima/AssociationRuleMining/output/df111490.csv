@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chemcms_project:chemcms:1.0.6:*:*:*:*:*:*:*,ChemCMS Project ChemCMS 1.0.6,"['CVE-2018-10295', 'CVE-2018-16346']",2022-03-19T17:20Z
+1,cpe:2.3:a:chemssou_blink_project:chemssou_blink:1:*:*:*:*:android:*:*,Chemssou Blink project Chemssou Blink (aka com.chemssou.blink) for android 1.0,['CVE-2014-7724'],2022-03-19T17:20Z
+2,cpe:2.3:a:cherokee-project:cherokee:-:*:*:*:*:*:*:*,Cherokee-Project Cherokee,"['CVE-2009-4489', 'CVE-2011-2190', 'CVE-2011-2191', 'CVE-2014-4668', 'CVE-2019-20798', 'CVE-2019-20799', 'CVE-2019-20800']",2022-03-19T17:20Z
+3,cpe:2.3:a:cherokee-project:cherokee:0.4.27:*:*:*:*:*:*:*,Cherokee-Project Cherokee 0.4.27,"['CVE-2009-4489', 'CVE-2011-2190', 'CVE-2011-2191', 'CVE-2014-4668', 'CVE-2019-20798', 'CVE-2019-20799', 'CVE-2019-20800', 'CVE-2020-12845']",2022-03-19T17:20Z
+4,cpe:2.3:a:cherokee-project:cherokee:0.99.31:*:*:*:*:*:*:*,Cherokee-Project Cherokee 0.99.31,"['CVE-2009-4489', 'CVE-2011-2190', 'CVE-2011-2191', 'CVE-2014-4668', 'CVE-2019-20798', 'CVE-2019-20799', 'CVE-2019-20800', 'CVE-2020-12845']",2022-03-19T17:20Z
+5,cpe:2.3:a:cherokee-project:cherokee:0.99.32:*:*:*:*:*:*:*,Cherokee-Project Cherokee 0.99.32,"['CVE-2011-2190', 'CVE-2011-2191', 'CVE-2014-4668', 'CVE-2019-20798', 'CVE-2019-20799', 'CVE-2019-20800', 'CVE-2020-12845']",2022-03-19T17:20Z
+6,cpe:2.3:a:cherokee-project:cherokee:1.0.12:*:*:*:*:*:*:*,Cherokee-Project Cherokee 1.0.12,"['CVE-2011-2190', 'CVE-2011-2191', 'CVE-2014-4668', 'CVE-2019-20798', 'CVE-2019-20799', 'CVE-2019-20800', 'CVE-2020-12845']",2022-03-19T17:20Z
+7,cpe:2.3:a:cherokee-project:cherokee:1.0.13:*:*:*:*:*:*:*,Cherokee-Project Cherokee 1.0.13,"['CVE-2011-2190', 'CVE-2011-2191', 'CVE-2014-4668', 'CVE-2019-20798', 'CVE-2019-20799', 'CVE-2019-20800', 'CVE-2020-12845']",2022-03-19T17:20Z
+8,cpe:2.3:a:cherokee-project:cherokee:1.0.14:*:*:*:*:*:*:*,Cherokee-Project Cherokee 1.0.14,"['CVE-2011-2190', 'CVE-2011-2191', 'CVE-2014-4668', 'CVE-2019-20798', 'CVE-2019-20799', 'CVE-2019-20800', 'CVE-2020-12845']",2022-03-19T17:20Z
+9,cpe:2.3:a:cherokee-project:cherokee:1.0.15:*:*:*:*:*:*:*,Cherokee-Project Cherokee 1.0.15,"['CVE-2011-2190', 'CVE-2011-2191', 'CVE-2014-4668', 'CVE-2019-20798', 'CVE-2019-20799', 'CVE-2019-20800', 'CVE-2020-12845']",2022-03-19T17:20Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:buffalotech:whr-amg54_firmware:1.42:*:*:*:*:*:*:*,BUFFALO WHR-AMG54 Firmware 1.42,['CVE-2011-1324'],2022-03-19T13:21Z
+1,cpe:2.3:a:buffalotech:whr-amg54_firmware:1.43:*:*:*:*:*:*:*,バッファロー WHR-AMG54 ファームウェア 1.43,[''],2022-03-19T13:21Z
+2,cpe:2.3:h:buffalotech:whr-ampg:-:*:*:*:*:*:*:*,BUFFALO WHR-AMPG,['CVE-2011-1324'],2022-03-19T13:21Z
+3,cpe:2.3:a:buffalotech:whr-ampg_firmware:-:*:*:*:*:*:*:*,バッファロー WHR-AMPG ファームウェア,[''],2022-03-19T13:21Z
+4,cpe:2.3:a:buffalotech:whr-ampg_firmware:1.46:*:*:*:*:*:*:*,BUFFALO WHR-AMPG Firmware 1.46,['CVE-2011-1324'],2022-03-19T13:21Z
+5,cpe:2.3:a:buffalotech:whr-ampg_firmware:1.51:*:*:*:*:*:*:*,BUFFALO WHR-AMPG Firmware 1.51,[''],2022-03-19T13:21Z
+6,cpe:2.3:a:buffalotech:whr-ampg_firmware:1.52:*:*:*:*:*:*:*,バッファロー WHR-AMPG ファームウェア 1.52,[''],2022-03-19T13:21Z
+7,cpe:2.3:h:buffalotech:whr-g:-:*:*:*:*:*:*:*,バッファロー WHR-G,['CVE-2011-1324'],2022-03-19T13:21Z
+8,cpe:2.3:a:buffalotech:whr-g_firmware:-:*:*:*:*:*:*:*,バッファロー WHR-G ファームウェア,[''],2022-03-19T13:21Z
+9,cpe:2.3:a:buffalotech:whr-g_firmware:1.46:*:*:*:*:*:*:*,BUFFALO WHR-G Firmware 1.46,['CVE-2011-1324'],2022-03-19T13:21Z

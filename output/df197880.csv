@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:druva:insync_client:6.5.2:*:*:*:*:*:*:*,Druva inSync Client 6.5.2,[''],2022-03-20T18:29Z
+1,cpe:2.3:a:druva:insync_client:6.5.2:*:*:*:*:windows:*:*,Druva Insync Client 6.5.2 for Windows,[''],2022-03-20T18:29Z
+2,cpe:2.3:a:druva:insync_client:6.6.0:*:*:*:*:windows:*:*,Druva Insync Client 6.6.0 for Windows,[''],2022-03-20T18:29Z
+3,cpe:2.3:a:druva:insync_client:6.6.1:*:*:*:*:windows:*:*,Druva Insync Client 6.6.1 for Windows,[''],2022-03-20T18:29Z
+4,cpe:2.3:a:druva:insync_client:6.6.2:*:*:*:*:windows:*:*,Druva Insync Client 6.6.2 for Windows,[''],2022-03-20T18:29Z
+5,cpe:2.3:a:druva:insync_client:6.6.3:*:*:*:*:windows:*:*,Druva inSync Client 6.6.3 for Windows,['CVE-2020-5752'],2022-03-20T18:29Z
+6,cpe:2.3:a:druva:insync_client:6.6.4:*:*:*:*:windows:*:*,Druva Insync Client 6.6.4 for Windows,[''],2022-03-20T18:29Z
+7,[0],[0],[0],[0]
+8,cpe:2.3:a:drweb:security_space:10.0:*:*:*:*:*:*:*,Dr.web Security Space 10.0,[''],2022-03-20T18:29Z
+9,cpe:2.3:a:drweb:security_space:11.0:*:*:*:*:*:*:*,Dr.Web Security Space 11.0,['CVE-2020-23967'],2022-03-20T18:29Z

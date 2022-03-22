@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:autodesk:survey:2006:sp1:*:*:*:*:*:*,Autodesk Survey 2006_1,['CVE-2005-4710'],2022-03-19T03:30Z
+1,cpe:2.3:a:autodesk:utility_design:-:*:*:*:*:*:*:*,Autodesk Utility Design,[''],2022-03-19T03:30Z
+2,cpe:2.3:a:autodesk:utility_design:2005:*:*:*:*:*:*:*,Autodesk Utility Design 2005,['CVE-2005-4710'],2022-03-19T03:30Z
+3,cpe:2.3:a:autodesk:viz:-:*:*:*:*:*:*:*,Autodesk VIZ,[''],2022-03-19T03:30Z
+4,cpe:2.3:a:autodesk:viz:2006:*:*:*:*:*:*:*,Autodesk VIZ 2006,['CVE-2005-4710'],2022-03-19T03:30Z
+5,cpe:2.3:a:autodesk:volo_view_express:2002.20.0.811:*:*:*:*:*:*:*,Autodesk Volo View Express 2002.20.0.811,[''],2022-03-19T03:30Z
+6,cpe:2.3:a:autodesk:vred:2014:sr1_sp8:*:*:professional:*:*:*,Autodesk VRED Professional 2014 Service Release 1 Service Pack 8,['CVE-2014-2967'],2022-03-19T03:30Z
+7,cpe:2.3:a:autodesk:vred:2014:sr1_sp8:*:*:professional:*:*:*,Autodesk VRED Professional 2014 Service Release 1 Service Pack 8,['CVE-2014-2967'],2022-03-19T03:30Z
+8,cpe:2.3:a:autohotkey:autohotkey:1.0.90.00:*:*:*:*:*:*:*,AutoHotkey 1.0.90.00,[''],2022-03-19T03:30Z
+9,cpe:2.3:a:autohotkey:autohotkey:1.0.91.00:*:*:*:*:*:*:*,AutoHotkey 1.0.91.00,[''],2022-03-19T03:30Z

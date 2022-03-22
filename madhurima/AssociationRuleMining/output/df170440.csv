@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dahuasecurity:dvr2404lf-al:-:*:*:*:*:*:*:*,dahuasecurity DVR2404LF-AL,"['CVE-2013-3612', 'CVE-2013-3613', 'CVE-2013-3614', 'CVE-2013-3615', 'CVE-2013-5754']",2022-03-20T09:55Z
+1,cpe:2.3:h:dahuasecurity:dvr2404lf-s:-:*:*:*:*:*:*:*,dahuasecurity DVR2404LF-S,"['CVE-2013-3612', 'CVE-2013-3613', 'CVE-2013-3614', 'CVE-2013-3615', 'CVE-2013-5754']",2022-03-20T09:55Z
+2,cpe:2.3:h:dahuasecurity:dvr3204hf-s:-:*:*:*:*:*:*:*,dahuasecurity DVR3204HF-S,"['CVE-2013-3612', 'CVE-2013-3613', 'CVE-2013-3614', 'CVE-2013-3615', 'CVE-2013-5754']",2022-03-20T09:55Z
+3,cpe:2.3:h:dahuasecurity:dvr3204lf-al:-:*:*:*:*:*:*:*,dahuasecurity DVR3204LF-AL,"['CVE-2013-3612', 'CVE-2013-3613', 'CVE-2013-3614', 'CVE-2013-3615', 'CVE-2013-5754']",2022-03-20T09:55Z
+4,cpe:2.3:h:dahuasecurity:dvr3204lf-s:-:*:*:*:*:*:*:*,dahuasecurity DVR3204LF-S,"['CVE-2013-3612', 'CVE-2013-3613', 'CVE-2013-3614', 'CVE-2013-3615', 'CVE-2013-5754']",2022-03-20T09:55Z
+5,cpe:2.3:h:dahuasecurity:dvr3224l:-:*:*:*:*:*:*:*,dahuasecurity DVR3224L,"['CVE-2013-3612', 'CVE-2013-3613', 'CVE-2013-3614', 'CVE-2013-3615', 'CVE-2013-5754']",2022-03-20T09:55Z
+6,cpe:2.3:h:dahuasecurity:dvr3232l:-:*:*:*:*:*:*:*,dahuasecurity DVR3232L,"['CVE-2013-3612', 'CVE-2013-3613', 'CVE-2013-3614', 'CVE-2013-3615', 'CVE-2013-5754']",2022-03-20T09:55Z
+7,cpe:2.3:h:dahuasecurity:dvr5104c:-:*:*:*:*:*:*:*,dahuasecurity DVR5104C,"['CVE-2013-3612', 'CVE-2013-3613', 'CVE-2013-3614', 'CVE-2013-3615', 'CVE-2013-5754']",2022-03-20T09:55Z
+8,cpe:2.3:h:dahuasecurity:dvr5104h:-:*:*:*:*:*:*:*,dahuasecurity DVR5104H,"['CVE-2013-3612', 'CVE-2013-3613', 'CVE-2013-3614', 'CVE-2013-3615', 'CVE-2013-5754']",2022-03-20T09:55Z
+9,cpe:2.3:h:dahuasecurity:dvr5104he:-:*:*:*:*:*:*:*,dahuasecurity DVR5104HE,"['CVE-2013-3612', 'CVE-2013-3613', 'CVE-2013-3614', 'CVE-2013-3615', 'CVE-2013-5754']",2022-03-20T09:55Z

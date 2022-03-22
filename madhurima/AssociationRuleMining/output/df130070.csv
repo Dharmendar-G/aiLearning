@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:nexus_2148t:-:*:*:*:*:*:*:*,Cisco Nexus 2148T,"['CVE-2018-0292', 'CVE-2018-0303', 'CVE-2018-0306', 'CVE-2018-0310', 'CVE-2018-0311', 'CVE-2018-0313']",2022-03-19T23:08Z
+1,cpe:2.3:h:cisco:nexus_2148t_fex_switch:-:*:*:*:*:*:*:*,Cisco Nexus 2148T FEX  switch (Nexus 2000series),['CVE-2011-4023'],2022-03-19T23:08Z
+2,cpe:2.3:h:cisco:nexus_2224tp_fex_switch:-:*:*:*:*:*:*:*,Cisco Nexus 2224TP FEX  switch (Nexus 2000series),['CVE-2011-4023'],2022-03-19T23:08Z
+3,cpe:2.3:h:cisco:nexus_2224tp_ge:-:*:*:*:*:*:*:*,Cisco Nexus 2224TP GE,"['CVE-2018-0292', 'CVE-2018-0303', 'CVE-2018-0306', 'CVE-2018-0310', 'CVE-2018-0311', 'CVE-2018-0313']",2022-03-19T23:08Z
+4,cpe:2.3:h:cisco:nexus_2232pp_10ge:-:*:*:*:*:*:*:*,Cisco Nexus 2232PP 10GE,"['CVE-2018-0292', 'CVE-2018-0303', 'CVE-2018-0306', 'CVE-2018-0310', 'CVE-2018-0311', 'CVE-2018-0313']",2022-03-19T23:08Z
+5,cpe:2.3:h:cisco:nexus_2232pp_fex_switch:-:*:*:*:*:*:*:*,Cisco Nexus 2232PP FEX switch (Nexus 2000series),['CVE-2011-4023'],2022-03-19T23:08Z
+6,cpe:2.3:h:cisco:nexus_2232tm_10ge:-:*:*:*:*:*:*:*,Cisco Nexus 2232TM 10GE,"['CVE-2018-0292', 'CVE-2018-0303', 'CVE-2018-0306', 'CVE-2018-0310', 'CVE-2018-0311', 'CVE-2018-0313']",2022-03-19T23:08Z
+7,cpe:2.3:h:cisco:nexus_2232tm_fex_switch:-:*:*:*:*:*:*:*,Cisco Nexus 2232TM FEX switch (Nexus 2000series),['CVE-2011-4023'],2022-03-19T23:08Z
+8,cpe:2.3:h:cisco:nexus_2232tm-e_10ge:-:*:*:*:*:*:*:*,Cisco Nexus 2232TM-E 10GE,"['CVE-2018-0292', 'CVE-2018-0303', 'CVE-2018-0306', 'CVE-2018-0310', 'CVE-2018-0311', 'CVE-2018-0313']",2022-03-19T23:08Z
+9,cpe:2.3:h:cisco:nexus_2248pq_10ge:-:*:*:*:*:*:*:*,Cisco Nexus 2248PQ 10GE,"['CVE-2018-0292', 'CVE-2018-0303', 'CVE-2018-0306', 'CVE-2018-0310', 'CVE-2018-0311', 'CVE-2018-0313']",2022-03-19T23:08Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:commvault:edge:11.0.0:service_pack3:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 3,['CVE-2017-3195'],2022-03-20T06:58Z
+1,cpe:2.3:a:commvault:edge:11.0.0:service_pack4:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 4,['CVE-2017-3195'],2022-03-20T06:59Z
+2,cpe:2.3:a:commvault:edge:11.0.0:service_pack5:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 5,['CVE-2017-3195'],2022-03-20T06:59Z
+3,cpe:2.3:a:commvault:edge:11.0.0:service_pack6:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 6,['CVE-2017-3195'],2022-03-20T06:59Z
+4,cpe:2.3:a:commvault:edge:11.0.0:service_pack7:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 7,['CVE-2017-3195'],2022-03-20T06:59Z
+5,cpe:2.3:a:commvault:edge:11.0.0:service_pack8:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 8,['CVE-2017-3195'],2022-03-20T06:59Z
+6,cpe:2.3:a:commvault:edge:11.0.0:service_pack9:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 9,['CVE-2017-3195'],2022-03-20T06:59Z
+7,cpe:2.3:a:commvault:exchange_database_idataagent:9.0.0:*:*:*:*:*:*:*,Commvault Exchange Database Idataagent 9.0.0,[''],2022-03-20T06:59Z
+8,cpe:2.3:a:commvault:exchange_mailbox_archiver_agent:9.0.0:*:*:*:*:*:*:*,Commvault Exchange Mailbox Archiver Agent 9.0.0,[''],2022-03-20T06:59Z
+9,cpe:2.3:a:commvault:exchange_web_proxy_archiver_agent:9.0.0:*:*:*:*:*:*:*,Commvault Exchange Web Proxy Archiver Agent 9.0.0,[''],2022-03-20T06:59Z

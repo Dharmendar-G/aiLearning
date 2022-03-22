@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:alliedtelesyn:at-s39:-:*:*:*:*:*:*:*,Allied Telesis AT-S39,[''],2022-03-18T14:53Z
+1,cpe:2.3:h:alliedtelesyn:at-s39:3.1.1.1:*:*:*:*:*:*:*,Allied Telesis AT-S39 3.1.1.1,[''],2022-03-18T14:53Z
+2,cpe:2.3:h:alliedtelesyn:at-s39:3.2.0:*:*:*:*:*:*:*,Allied Telesis AT-S39 3.2.0,[''],2022-03-18T14:53Z
+3,cpe:2.3:h:alliedtelesyn:at-s39:3.3.1:*:*:*:*:*:*:*,Allied Telesis AT-S39 3.3.1,[''],2022-03-18T14:53Z
+4,cpe:2.3:a:alliedtelesyn:at-tftp:-:*:*:*:*:*:*:*,Allied Telesis Allied Telesyn TFTP Server,['CVE-2006-6184'],2022-03-18T14:53Z
+5,cpe:2.3:a:alliedtelesyn:at-tftp:1.9:*:*:*:*:*:*:*,Allied Telesis Allied Telesyn TFTP Server 1.9,['CVE-2006-6184'],2022-03-18T14:53Z
+6,cpe:2.3:h:alliedtelesyn:cable_dsl_router_at-ar220e:-:*:*:*:*:*:*:*,Allied Telesis Cable_DSL router AT-AR220E,[''],2022-03-18T14:53Z
+7,cpe:2.3:a:allmediaserver:allmediaserver:-:*:*:*:*:*:*:*,ALLMediaServer,['CVE-2017-17932'],2022-03-18T14:53Z
+8,cpe:2.3:a:allmediaserver:allmediaserver:0.91:*:*:*:*:*:*:*,ALLMediaServer 0.91,['CVE-2017-17932'],2022-03-18T14:53Z
+9,cpe:2.3:a:allmediaserver:allmediaserver:0.92:*:*:*:*:*:*:*,ALLMediaServer 0.92,['CVE-2017-17932'],2022-03-18T14:53Z

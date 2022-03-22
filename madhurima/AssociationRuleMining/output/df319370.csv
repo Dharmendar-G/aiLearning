@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:apollo_domain_os:-:*:*:*:*:*:*:*,HP Apollo Domain OS,['CVE-1999-1493'],2022-03-21T12:54Z
+1,cpe:2.3:o:hp:apollo_domain_os:sr10.2:*:*:*:*:*:*:*,HP Apollo Domain OS sr10.2,"['CVE-1999-1115', 'CVE-1999-1493']",2022-03-21T12:54Z
+2,cpe:2.3:o:hp:apollo_domain_os:sr10.3:*:*:*:*:*:*:*,HP Apollo Domain OS SR10.3,['CVE-1999-1493'],2022-03-21T12:54Z
+3,cpe:2.3:a:hp:app_studio:140.0.95.0:*:*:*:*:*:*:*,HP App Studio 140.0.95.0,[''],2022-03-21T12:54Z
+4,cpe:2.3:a:hp:application_information_optimizer:6.2:*:*:*:*:*:*:*,HP Application Information Optimizer 6.2,"['CVE-2013-6189', 'CVE-2013-6203', 'CVE-2013-6204']",2022-03-21T12:54Z
+5,cpe:2.3:a:hp:application_information_optimizer:6.3:*:*:*:*:*:*:*,HP Application Information Optimizer 6.3,"['CVE-2013-6189', 'CVE-2013-6203', 'CVE-2013-6204']",2022-03-21T12:54Z
+6,cpe:2.3:a:hp:application_information_optimizer:6.4:*:*:*:*:*:*:*,HP Application Information Optimizer 6.4,"['CVE-2013-6189', 'CVE-2013-6203', 'CVE-2013-6204']",2022-03-21T12:54Z
+7,cpe:2.3:a:hp:application_information_optimizer:7.0:*:*:*:*:*:*:*,HP Application Information Optimizer 7.0,"['CVE-2013-6189', 'CVE-2013-6203', 'CVE-2013-6204']",2022-03-21T12:54Z
+8,cpe:2.3:a:hp:application_lifecycle_management:-:*:*:*:*:*:*:*,HP Application Lifecycle Management (ALM),"['CVE-2013-4802', 'CVE-2013-4810', 'CVE-2013-4834', 'CVE-2013-4836']",2022-03-21T12:54Z
+9,cpe:2.3:a:hp:application_lifecycle_management:11.00:*:*:*:*:*:*:*,HP Application Lifecycle Management (ALM) 11.00,"['CVE-2013-4802', 'CVE-2013-4834']",2022-03-21T12:54Z

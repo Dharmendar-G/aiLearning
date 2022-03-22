@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:soliddb:6.5.0.7:*:*:*:*:*:*:*,IBM solidDB 6.5.0.7 (Fix Pack 7),"['CVE-2011-4890', 'CVE-2012-0200', 'CVE-2013-3031']",2022-03-21T22:07Z
+1,cpe:2.3:a:ibm:soliddb:6.5.0.8:*:*:*:*:*:*:*,IBM solidDB 6.5.0.8 (Fix Pack 8),"['CVE-2011-4890', 'CVE-2012-0200', 'CVE-2013-3031']",2022-03-21T22:07Z
+2,cpe:2.3:a:ibm:soliddb:6.5.09:*:*:*:*:*:*:*,IBM solidDB 6.5.09,['CVE-2013-3031'],2022-03-21T22:07Z
+3,cpe:2.3:a:ibm:soliddb:6.5.10:*:*:*:*:*:*:*,IBM solidDB 6.5.10,['CVE-2013-3031'],2022-03-21T22:07Z
+4,cpe:2.3:a:ibm:soliddb:6.5.11:*:*:*:*:*:*:*,IBM solidDB 6.5.11,['CVE-2013-3031'],2022-03-21T22:07Z
+5,cpe:2.3:a:ibm:soliddb:6.5.12:*:*:*:*:*:*:*,IBM solidDB 6.5.12,[''],2022-03-21T22:07Z
+6,cpe:2.3:a:ibm:soliddb:6.5.13:*:*:*:*:*:*:*,IBM solidDB 6.5.13,[''],2022-03-21T22:07Z
+7,cpe:2.3:a:ibm:soliddb:6.5.14:*:*:*:*:*:*:*,IBM solidDB 6.5.14,[''],2022-03-21T22:07Z
+8,cpe:2.3:a:ibm:soliddb:6.30.0039:*:*:*:*:*:*:*,IBM solidDB 6.30.0039 (6.3 Fix Pack 4),"['CVE-2010-2771', 'CVE-2010-4055', 'CVE-2010-4056', 'CVE-2010-4057', 'CVE-2011-1560']",2022-03-21T22:07Z
+9,cpe:2.3:a:ibm:soliddb:6.30.0040:*:*:*:*:*:*:*,IBM solidDB 6.30.0040 (6.3 Fix Pack 5),"['CVE-2010-2771', 'CVE-2010-4055', 'CVE-2010-4056', 'CVE-2010-4057', 'CVE-2011-1560']",2022-03-21T22:07Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:h3c_router:msr5040-dc-ovs-h3c:*:*:*:*:*:*:*,HP H3C Router MSR5040-DC-OVS-H3C,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+1,cpe:2.3:h:hp:h3c_router:rt-msr2011-ac-ovs-h3:*:*:*:*:*:*:*,HP H3C Router Model RT-MSR2011-AC-OVS-H3,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+2,cpe:2.3:h:hp:h3c_router:rt-msr2012-ac-ovs-h3:*:*:*:*:*:*:*,HP H3C Router Model RT-MSR2012-AC-OVS-H3,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+3,cpe:2.3:h:hp:h3c_router:rt-msr2012-ac-ovs-s-h3:*:*:*:*:*:*:*,HP H3C Router Model RT-MSR2012-AC-OVS-W-H3,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+4,cpe:2.3:h:hp:h3c_router:rt-msr2012-ac-ovs-w-h3:*:*:*:*:*:*:*,HP H3C Router RT-MSR2012-AC-OVS-W-H3,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+5,cpe:2.3:h:hp:h3c_router:rt-msr2012-t-ac-ovs-h3:*:*:*:*:*:*:*,HP H3C Router Model RT-MSR2012-T-AC-OVS-H3,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+6,cpe:2.3:h:hp:h3c_router:rt-msr2013-ac-ovs-h3:*:*:*:*:*:*:*,HP H3C Router Model RT-MSR2013-AC-OVS-H3,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+7,cpe:2.3:h:hp:h3c_router:rt-msr2013-ac-ovs-w-h3:*:*:*:*:*:*:*,HP H3C Router Model RT-MSR2013-AC-OVS-W-H3,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+8,cpe:2.3:h:hp:h3c_router:rt-msr2015-ac-ovs-a-h3:*:*:*:*:*:*:*,HP H3C Router Model RT-MSR2015-AC-OVS-A-H3,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z
+9,cpe:2.3:h:hp:h3c_router:rt-msr2015-ac-ovs-aw-h3:*:*:*:*:*:*:*,HP H3C Router Model RT-MSR2015-AC-OVS-AW-H3,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:31Z

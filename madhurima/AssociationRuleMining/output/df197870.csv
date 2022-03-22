@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:druva:insync:6.5.0:*:*:*:*:*:*:*,Druva inSync 6.5.0,"['CVE-2019-4000', 'CVE-2019-4001']",2022-03-20T18:29Z
+1,cpe:2.3:a:druva:insync:6.8.0:*:*:*:*:macos:*:*,Druva inSync 6.8.0 for macOS,['CVE-2020-5798'],2022-03-20T18:29Z
+2,cpe:2.3:a:druva:insync_client:6.0.1:*:*:*:*:windows:*:*,Druva Insync Client 6.0.1 for Windows,[''],2022-03-20T18:29Z
+3,cpe:2.3:a:druva:insync_client:6.1.0:*:*:*:*:windows:*:*,Druva Insync Client 6.1.0 for Windows,[''],2022-03-20T18:29Z
+4,cpe:2.3:a:druva:insync_client:6.1.1:*:*:*:*:windows:*:*,Druva Insync Client 6.1.1 for Windows,[''],2022-03-20T18:29Z
+5,cpe:2.3:a:druva:insync_client:6.2.0:*:*:*:*:windows:*:*,Druva Insync Client 6.2.0 for Windows,[''],2022-03-20T18:29Z
+6,cpe:2.3:a:druva:insync_client:6.5.0:*:*:*:*:*:*:*,Druva inSync Client 6.5.0,['CVE-2019-3999'],2022-03-20T18:29Z
+7,cpe:2.3:a:druva:insync_client:6.5.0:*:*:*:*:windows:*:*,Druva Insync Client 6.5.0 for Windows,['CVE-2019-3999'],2022-03-20T18:29Z
+8,cpe:2.3:a:druva:insync_client:6.5.1:*:*:*:*:*:*:*,Druva inSync Client 6.5.1,[''],2022-03-20T18:29Z
+9,cpe:2.3:a:druva:insync_client:6.5.1:*:*:*:*:windows:*:*,Druva Insync Client 6.5.1 for Windows,[''],2022-03-20T18:29Z

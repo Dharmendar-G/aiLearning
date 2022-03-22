@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:optiplex_3060_firmware:1.4.2:*:*:*:*:*:*:*,Dell OptiPlex 3060 Firmware 1.4.2,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:56Z
+1,cpe:2.3:h:dell:optiplex_3070:-:*:*:*:*:*:*:*,Dell OptiPlex 3070,"['CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:56Z
+2,cpe:2.3:o:dell:optiplex_3070_firmware:-:*:*:*:*:*:*:*,Dell OptiPlex 3070 Firmware,"['CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:56Z
+3,cpe:2.3:o:dell:optiplex_3070_firmware:1.0.3:*:*:*:*:*:*:*,Dell OptiPlex 3070 Firmware 1.0.3,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:56Z
+4,cpe:2.3:h:dell:optiplex_3080:-:*:*:*:*:*:*:*,Dell OptiPlex 3080,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36283', 'CVE-2021-36284', 'CVE-2021-36285', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:56Z
+5,cpe:2.3:h:dell:optiplex_3090:-:*:*:*:*:*:*:*,Dell Optiplex 3090,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:56Z
+6,cpe:2.3:o:dell:optiplex_3090_firmware:-:*:*:*:*:*:*:*,Dell Optiplex 3090 Firmware,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:56Z
+7,cpe:2.3:h:dell:optiplex_3090_uff:-:*:*:*:*:*:*:*,Dell OptiPlex 3090 UFF,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574']",2022-03-20T12:56Z
+8,cpe:2.3:h:dell:optiplex_3090_ultra:-:*:*:*:*:*:*:*,Dell Optiplex 3090 Ultra,"['CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:56Z
+9,cpe:2.3:o:dell:optiplex_3090_ultra_firmware:-:*:*:*:*:*:*:*,Dell Optiplex 3090 Ultra Firmware,"['CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:56Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_managed_e50145_1pv88a:-:*:*:*:*:*:*:*,HP LaserJet Managed E50145 1PV88A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:06Z
+1,cpe:2.3:h:hp:laserjet_managed_e50145_1pv89a:-:*:*:*:*:*:*:*,HP LaserJet Managed E50145 1PV89A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:06Z
+2,cpe:2.3:h:hp:laserjet_managed_e55040dw_3gx98a:-:*:*:*:*:*:*:*,HP LaserJet Managed E55040dw 3GX98A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:06Z
+3,cpe:2.3:h:hp:laserjet_managed_e60055:-:*:*:*:*:*:*:*,HP LaserJet Managed E60055,['CVE-2019-6318'],2022-03-21T15:06Z
+4,cpe:2.3:o:hp:laserjet_managed_e60055_firmware:-:*:*:*:*:*:*:*,HP Laserjet Managed E60055 Firmware -,['CVE-2019-6318'],2022-03-21T15:06Z
+5,cpe:2.3:o:hp:laserjet_managed_e60055_firmware:2407150_040194:*:*:*:*:*:*:*,HP Laserjet Managed E60055 Firmware 2407150 040194,[''],2022-03-21T15:06Z
+6,cpe:2.3:h:hp:laserjet_managed_e60055_m0p33a:-:*:*:*:*:*:*:*,HP LaserJet Managed E60055 M0P33A,['CVE-2019-18914'],2022-03-21T15:06Z
+7,cpe:2.3:h:hp:laserjet_managed_e60055_m0p35a:-:*:*:*:*:*:*:*,HP LaserJet Managed E60055 M0P35A,['CVE-2019-18914'],2022-03-21T15:06Z
+8,cpe:2.3:h:hp:laserjet_managed_e60055_m0p36a:-:*:*:*:*:*:*:*,HP LaserJet Managed E60055 M0P36A,['CVE-2019-18914'],2022-03-21T15:06Z
+9,cpe:2.3:h:hp:laserjet_managed_e60055_m0p39a:-:*:*:*:*:*:*:*,HP LaserJet Managed E60055 M0P39A,['CVE-2019-18914'],2022-03-21T15:06Z

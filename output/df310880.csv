@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hibara:attachecase:2.8.4.0:*:*:*:*:*:*:*,Hibara Attachecase 2.8.4.0,"['CVE-2016-7842', 'CVE-2017-2272', 'CVE-2018-0659', 'CVE-2018-0660', 'CVE-2018-0674', 'CVE-2018-0675']",2022-03-21T10:55Z
+1,cpe:2.3:a:hibara:attachecase:2.8.5.0:*:*:*:*:*:*:*,HiBARA AttacheCase 2.8.5.0,"['CVE-2016-7842', 'CVE-2017-2272', 'CVE-2018-0675']",2022-03-21T10:55Z
+2,cpe:2.3:a:hibara:attachecase:3.0.0.0:*:*:*:*:*:*:*,Hibara Attachecase 3.0.0.0,"['CVE-2016-7842', 'CVE-2017-2272', 'CVE-2018-0659', 'CVE-2018-0660', 'CVE-2018-0675']",2022-03-21T10:55Z
+3,cpe:2.3:a:hibara:attachecase:3.0.0.3:*:*:*:*:*:*:*,Hibara Attachecase 3.0.0.3,"['CVE-2016-7842', 'CVE-2017-2272', 'CVE-2018-0659', 'CVE-2018-0660', 'CVE-2018-0675']",2022-03-21T10:55Z
+4,cpe:2.3:a:hibara:attachecase:3.0.0.4:*:*:*:*:*:*:*,Hibara Attachecase 3.0.0.4,"['CVE-2016-7842', 'CVE-2017-2272', 'CVE-2018-0659', 'CVE-2018-0660', 'CVE-2018-0675']",2022-03-21T10:55Z
+5,cpe:2.3:a:hibara:attachecase:3.0.0.5:*:*:*:*:*:*:*,Hibara Attachecase 3.0.0.5,"['CVE-2016-7842', 'CVE-2017-2272', 'CVE-2018-0659', 'CVE-2018-0660', 'CVE-2018-0675']",2022-03-21T10:55Z
+6,cpe:2.3:a:hibara:attachecase:3.0.0.6:*:*:*:*:*:*:*,Hibara Attachecase 3.0.0.6,"['CVE-2016-7842', 'CVE-2017-2272', 'CVE-2018-0659', 'CVE-2018-0660', 'CVE-2018-0675']",2022-03-21T10:55Z
+7,cpe:2.3:a:hibara:attachecase:3.0.0.8:beta1:*:*:*:*:*:*,Hibara Attachecase 3.0.0.8 Beta 1,"['CVE-2016-7842', 'CVE-2017-2272', 'CVE-2018-0659', 'CVE-2018-0660', 'CVE-2018-0675']",2022-03-21T10:55Z
+8,cpe:2.3:a:hibara:attachecase:3.0.1.0:*:*:*:*:*:*:*,Hibara Attachecase 3.0.1.0,"['CVE-2016-7842', 'CVE-2017-2272', 'CVE-2018-0659', 'CVE-2018-0660', 'CVE-2018-0675']",2022-03-21T10:55Z
+9,cpe:2.3:a:hibara:attachecase:3.0.1.1:*:*:*:*:*:*:*,Hibara Attachecase 3.0.1.1,"['CVE-2016-7842', 'CVE-2017-2272', 'CVE-2018-0659', 'CVE-2018-0660', 'CVE-2018-0675']",2022-03-21T10:55Z

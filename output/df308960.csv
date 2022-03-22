@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hccgmbh:mycare2x:-:*:*:*:*:*:*:*,hccgmbh myCare2x,"['CVE-2012-4260', 'CVE-2012-4261', 'CVE-2012-4262']",2022-03-21T10:26Z
+1,cpe:2.3:a:hcltech:appscan:-:*:*:*:standard:*:*:*,HCL Technologies AppScan Standard Edition,"['CVE-2019-4391', 'CVE-2019-4392', 'CVE-2019-4393']",2022-03-21T10:26Z
+2,cpe:2.3:a:hcltech:appscan:9.0.3.13:*:*:*:standard:*:*:*,HCL Technologies AppScan 9.0.3.13 Standard Edition,"['CVE-2019-4391', 'CVE-2019-4392', 'CVE-2019-4393']",2022-03-21T10:26Z
+3,cpe:2.3:a:hcltech:appscan:9.0.3.14:*:*:*:enterprise:*:*:*,Hcltech Appscan 9.0.3.14 Enterprise Edition,"['CVE-2019-4323', 'CVE-2019-4324', 'CVE-2019-4325', 'CVE-2019-4326', 'CVE-2019-4327']",2022-03-21T10:26Z
+4,cpe:2.3:a:hcltech:appscan:9.0.3.14:*:*:*:standard:*:*:*,HCL Technologies AppScan 9.0.3.14 Standard Edition,"['CVE-2019-4391', 'CVE-2019-4393']",2022-03-21T10:26Z
+5,cpe:2.3:a:hcltech:appscan:10.0.0:*:*:*:enterprise:*:*:*,Hcltech Appscan 10.0.0 Enterprise Edition,"['CVE-2019-4323', 'CVE-2019-4324', 'CVE-2019-4325', 'CVE-2019-4326']",2022-03-21T10:26Z
+6,cpe:2.3:a:hcltech:appscan:10.0.0:*:*:*:standard:*:*:*,HCL Technologies AppScan 10.0.0 Standard Edition,['CVE-2019-4393'],2022-03-21T10:26Z
+7,cpe:2.3:a:hcltech:appscan:10.0.1:*:*:*:enterprise:*:*:*,HCL Technologies AppScan 10.0.1 Enterprise Edition,['CVE-2019-4325'],2022-03-21T10:26Z
+8,cpe:2.3:a:hcltech:appscan_source:-:*:*:*:*:*:*:*,HCL Technologies AppScan Source,"['CVE-2019-16188', 'CVE-2019-4388']",2022-03-21T10:26Z
+9,cpe:2.3:a:hcltech:appscan_source:9.0:*:*:*:*:*:*:*,HCL Technologies AppScan Source 9.0,"['CVE-2019-16188', 'CVE-2019-4388']",2022-03-21T10:26Z

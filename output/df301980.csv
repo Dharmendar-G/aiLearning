@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:guillaume_gauvrit:pyshop:0.5:*:*:*:*:*:*:*,Guillaume Gauvrit pyshop 0.5,['CVE-2013-1630'],2022-03-21T08:22Z
+1,cpe:2.3:a:guillaume_gauvrit:pyshop:0.6:*:*:*:*:*:*:*,Guillaume Gauvrit pyshop 0.6,['CVE-2013-1630'],2022-03-21T08:22Z
+2,cpe:2.3:a:guillaume_gauvrit:pyshop:0.7:*:*:*:*:*:*:*,Guillaume Gauvrit pyshop 0.7,['CVE-2013-1630'],2022-03-21T08:22Z
+3,cpe:2.3:a:guillaume_gauvrit:pyshop:0.7.1:*:*:*:*:*:*:*,Guillaume Gauvrit pyshop 0.7.1,[''],2022-03-21T08:22Z
+4,cpe:2.3:a:guillaume_gauvrit:pyshop:0.7.2:*:*:*:*:*:*:*,Guillaume Gauvrit pyshop 0.7.2,[''],2022-03-21T08:23Z
+5,cpe:2.3:a:guillaume_gauvrit:pyshop:0.7.3:*:*:*:*:*:*:*,Guillaume Gauvrit pyshop 0.7.3,[''],2022-03-21T08:23Z
+6,cpe:2.3:a:guillaume_gauvrit:pyshop:0.7.4:*:*:*:*:*:*:*,Guillaume Gauvrit pyshop 0.7.4,[''],2022-03-21T08:22Z
+7,cpe:2.3:a:guillaume_gauvrit:pyshop:0.7.5:*:*:*:*:*:*:*,Guillaume Gauvrit pyshop 0.7.5,[''],2022-03-21T08:23Z
+8,cpe:2.3:a:guillaume_gauvrit:pyshop:0.7.6:*:*:*:*:*:*:*,Guillaume Gauvrit pyshop 0.7.6,[''],2022-03-21T08:23Z
+9,cpe:2.3:a:guillaume_gauvrit:pyshop:0.8:*:*:*:*:*:*:*,Guillaume Gauvrit pyshop 0.8,[''],2022-03-21T08:23Z

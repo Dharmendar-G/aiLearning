@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:axis:axis_os_2018:8.40.3.3:*:*:*:lts:*:*:*,AXIS OS 2018 8.40.3.3 LTS Edition,"['CVE-2021-31986', 'CVE-2021-31987', 'CVE-2021-31988']",2022-03-19T04:49Z
+1,cpe:2.3:o:axis:axis_os_2018:8.40.4:*:*:*:lts:*:*:*,AXIS OS 2018 8.40.4 LTS Edition,"['CVE-2021-31986', 'CVE-2021-31987', 'CVE-2021-31988']",2022-03-19T04:49Z
+2,cpe:2.3:o:axis:axis_os_2018:8.40.4.1:*:*:*:lts:*:*:*,AXIS OS 2018 8.40.4.1 LTS Edition,"['CVE-2021-31986', 'CVE-2021-31987', 'CVE-2021-31988']",2022-03-19T04:49Z
+3,cpe:2.3:o:axis:axis_os_2018:8.40.4.2:*:*:*:lts:*:*:*,AXIS OS 2018 8.40.4.2 LTS Edition,"['CVE-2021-31986', 'CVE-2021-31987', 'CVE-2021-31988']",2022-03-19T04:49Z
+4,cpe:2.3:o:axis:axis_os_2018:8.40.4.3:*:*:*:lts:*:*:*,AXIS OS 2018 8.40.4.3 LTS Edition,[''],2022-03-19T04:49Z
+5,cpe:2.3:o:axis:axis_os_2018:8.40.4.4:*:*:*:lts:*:*:*,AXIS OS 2018 8.40.4.4 LTS Edition,[''],2022-03-19T04:49Z
+6,cpe:2.3:o:axis:axis_os_2020:9.80.2:*:*:*:lts:*:*:*,AXIS OS 2020 9.80.2 LTS Edition,"['CVE-2021-31986', 'CVE-2021-31987', 'CVE-2021-31988']",2022-03-19T04:49Z
+7,cpe:2.3:o:axis:axis_os_2020:9.80.2.2:*:*:*:lts:*:*:*,AXIS OS 2020 9.80.2.2 LTS Edition,"['CVE-2021-31986', 'CVE-2021-31987', 'CVE-2021-31988']",2022-03-19T04:49Z
+8,cpe:2.3:o:axis:axis_os_2020:9.80.2.3:*:*:*:lts:*:*:*,AXIS OS 2020 9.80.2.3 LTS Edition,"['CVE-2021-31986', 'CVE-2021-31987', 'CVE-2021-31988']",2022-03-19T04:49Z
+9,cpe:2.3:o:axis:axis_os_2020:9.80.2.4:*:*:*:lts:*:*:*,AXIS OS 2020 9.80.2.4 LTS Edition,"['CVE-2021-31986', 'CVE-2021-31987', 'CVE-2021-31988']",2022-03-19T04:49Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:asuswrt-merlin:rt_ac1200gu:-:*:*:*:*:*:*:*,Asuswrt-merlin Rt Ac1200gu -,['CVE-2017-12754'],2022-03-19T00:00Z
+1,cpe:2.3:h:asuswrt-merlin:rt_ac1900p:-:*:*:*:*:*:*:*,Asuswrt-merlin Rt Ac1900p -,['CVE-2017-12754'],2022-03-19T00:00Z
+2,[0],[0],[0],[0]
+3,cpe:2.3:h:asuswrt-merlin:rt-ac1200:-:*:*:*:*:*:*:*,Asuswrt-merlin Rt-ac1200 -,['CVE-2017-12754'],2022-03-19T00:00Z
+4,cpe:2.3:h:asuswrt-merlin:rt-ac3100:-:*:*:*:*:*:*:*,Asuswrt-merlin Rt-ac3100 -,['CVE-2017-12754'],2022-03-19T00:00Z
+5,cpe:2.3:h:asuswrt-merlin:rt-ac3200:-:*:*:*:*:*:*:*,Asuswrt-merlin Rt-ac3200 -,['CVE-2017-12754'],2022-03-19T00:00Z
+6,cpe:2.3:h:asuswrt-merlin:rt-ac51u:-:*:*:*:*:*:*:*,Asuswrt-merlin Rt-ac51u -,['CVE-2017-12754'],2022-03-19T00:00Z
+7,cpe:2.3:h:asuswrt-merlin:rt-ac52u:-:*:*:*:*:*:*:*,Asuswrt-merlin Rt-ac52u -,['CVE-2017-12754'],2022-03-19T00:00Z
+8,cpe:2.3:h:asuswrt-merlin:rt-ac53:-:*:*:*:*:*:*:*,Asuswrt-merlin Rt-ac53 -,['CVE-2017-12754'],2022-03-19T00:00Z
+9,cpe:2.3:h:asuswrt-merlin:rt-ac5300:-:*:*:*:*:*:*:*,Asuswrt-merlin Rt-ac5300 -,['CVE-2017-12754'],2022-03-19T00:00Z

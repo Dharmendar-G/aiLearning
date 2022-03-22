@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codesys:control_for_empc-a\/imx6_sl:3.5.12.70:*:*:*:*:*:*:*,CODESYS Control For Empc-a/imx6 Sl 3.5.12.70,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9010', 'CVE-2019-9012', 'CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:05Z
+1,cpe:2.3:a:codesys:control_for_empc-a\/imx6_sl:3.5.13.0:*:*:*:*:*:*:*,CODESYS Control For Empc-a/imx6 Sl 3.5.13.0,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9010', 'CVE-2019-9012', 'CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:05Z
+2,cpe:2.3:a:codesys:control_for_empc-a\/imx6_sl:3.5.13.20:*:*:*:*:*:*:*,CODESYS Control For Empc-a/imx6 Sl 3.5.13.20,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9010', 'CVE-2019-9012', 'CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:05Z
+3,cpe:2.3:a:codesys:control_for_empc-a\/imx6_sl:3.5.13.30:*:*:*:*:*:*:*,CODESYS Control For Empc-a/imx6 Sl 3.5.13.30,"['CVE-2018-10612', 'CVE-2018-20025', 'CVE-2018-20026', 'CVE-2019-9010', 'CVE-2019-9012', 'CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:05Z
+4,cpe:2.3:a:codesys:control_for_empc-a\/imx6_sl:3.5.14.0:*:*:*:*:*:*:*,CODESYS Control For Empc-a/imx6 Sl 3.5.14.0,"['CVE-2019-9010', 'CVE-2019-9012', 'CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:05Z
+5,cpe:2.3:a:codesys:control_for_empc-a\/imx6_sl:3.5.14.20:*:*:*:*:*:*:*,CODESYS Control for emPC-A/iMX6 SL 3.5.14.20,"['CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:05Z
+6,cpe:2.3:a:codesys:control_for_empc-a\/imx6_sl:3.5.15.0:*:*:*:*:*:*:*,CODESYS Control for emPC-A/iMX6 SL 3.5.15.0,"['CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:05Z
+7,cpe:2.3:a:codesys:control_for_empc-a\/imx6_sl:3.5.15.10:*:*:*:*:*:*:*,Codesys Control For EMPC-A/IMX6 SL 3.5.15.10,"['CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:05Z
+8,cpe:2.3:a:codesys:control_for_empc-a\/imx6_sl:3.5.15.20:*:*:*:*:*:*:*,Codesys Control For EMPC-A/IMX6 SL 3.5.15.20,"['CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:05Z
+9,cpe:2.3:a:codesys:control_for_empc-a\/imx6_sl:3.5.15.30:*:*:*:*:*:*:*,Codesys Control For EMPC-A/IMX6 SL 3.5.15.30,"['CVE-2019-9013', 'CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:05Z

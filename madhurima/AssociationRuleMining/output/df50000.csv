@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:assimp:assimp:v5.2.1:*:*:*:*:*:*:*,Assimp Open Asset Import Library (assimp) V5.2.1,[''],2022-03-18T23:51Z
+1,cpe:2.3:a:assist_project:assist_plugin:1.1.0:*:*:*:*:geeklog:*:*,Assist Plugin 1.1.0 for Geeklog,['CVE-2016-4875'],2022-03-18T23:51Z
+2,cpe:2.3:a:association_min_ajlik_project:association_min_ajlik:1:*:*:*:*:android:*:*,Association Min Ajlik project Association Min Ajlik (aka com.association.min.ajlik) for android 1.0,['CVE-2014-7062'],2022-03-18T23:51Z
+3,cpe:2.3:a:assyrianapp:assyrian:2.2:*:*:*:*:android:*:*,assyrianapp Assyrian (aka com.b2.assyrian.activity) for android 2.2,['CVE-2014-6764'],2022-03-18T23:51Z
+4,cpe:2.3:h:astaro:security_gateway:-:*:*:*:*:*:*:*,Astaro Security Gateway,['CVE-2012-3238'],2022-03-18T23:51Z
+5,cpe:2.3:a:astaro:security_gateway_software:8.3:*:*:*:*:*:*:*,Astaro Security Gateway software 8.3,['CVE-2012-3238'],2022-03-18T23:51Z
+6,cpe:2.3:a:astaro:security_gateway_software:8.305:*:*:*:*:*:*:*,Astaro Security Gateway software 8.305,[''],2022-03-18T23:51Z
+7,cpe:2.3:a:asterisk:certified_asterisk:13.13.0:rc1:*:*:*:*:*:*,Asterisk Certified Asterisk 13.13.0 Release Candidate 1,"['CVE-2017-9358', 'CVE-2020-28242']",2022-03-18T23:51Z
+8,cpe:2.3:a:asterisk:certified_asterisk:13.13.0:cert1:*:*:*:*:*:*,Asterisk Certified Asterisk 13.13.0 Cert1,"['CVE-2017-9358', 'CVE-2020-28242']",2022-03-18T23:51Z
+9,cpe:2.3:a:asterisk:certified_asterisk:13.13.0:cert1-rc1:*:*:*:*:*:*,Asterisk Certified Asterisk 13.13.0 Cert1- Release Candidate 1,"['CVE-2017-9358', 'CVE-2020-28242']",2022-03-18T23:51Z

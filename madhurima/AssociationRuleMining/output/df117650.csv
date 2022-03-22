@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:ciscoworks_1105_wireless_lan_solution_engine:-:*:*:*:*:*:*:*,Cisco CiscoWorks 1105 Wireless LAN Solution Engine,['CVE-2005-0356'],2022-03-19T19:11Z
+1,cpe:2.3:a:cisco:ciscoworks_2000_service_management_solution:-:*:*:*:*:*:*:*,Cisco CiscoWorks 2000 Service Management Solution,['CVE-2006-1961'],2022-03-19T19:11Z
+2,cpe:2.3:a:cisco:ciscoworks_access_control_list_manager:-:*:*:*:*:*:*:*,Cisco CiscoWorks Access Control List Manager,[''],2022-03-19T19:11Z
+3,cpe:2.3:a:cisco:ciscoworks_access_control_list_manager:1.5:*:*:*:*:*:*:*,Cisco CiscoWorks Access Control List Manager 1.5,['CVE-2005-0356'],2022-03-19T19:11Z
+4,cpe:2.3:a:cisco:ciscoworks_access_control_list_manager:1.6:*:*:*:*:*:*:*,Cisco CiscoWorks Access Control List Manager 1.6,['CVE-2005-0356'],2022-03-19T19:11Z
+5,cpe:2.3:a:cisco:ciscoworks_common_management_foundation:-:*:*:*:*:*:*:*,Cisco CiscoWorks Common Management Foundation,[''],2022-03-19T19:11Z
+6,cpe:2.3:a:cisco:ciscoworks_common_management_foundation:2.0:*:*:*:*:*:*:*,Cisco CiscoWorks Common Management Foundation 2.0,"['CVE-2003-0731', 'CVE-2003-0732', 'CVE-2005-0356']",2022-03-19T19:11Z
+7,cpe:2.3:a:cisco:ciscoworks_common_management_foundation:2.1:*:*:*:*:*:*:*,Cisco CiscoWorks Common Management Foundation 2.1,"['CVE-2003-0731', 'CVE-2003-0732', 'CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112', 'CVE-2005-0356']",2022-03-19T19:11Z
+8,cpe:2.3:a:cisco:ciscoworks_common_management_foundation:2.2:*:*:*:*:*:*:*,Cisco CiscoWorks Common Management Foundation 2.2,['CVE-2005-0356'],2022-03-19T19:11Z
+9,cpe:2.3:a:cisco:ciscoworks_common_services:-:*:*:*:*:*:*:*,Cisco CiscoWorks Common Services,"['CVE-2011-0961', 'CVE-2011-0966', 'CVE-2011-3310']",2022-03-19T19:11Z

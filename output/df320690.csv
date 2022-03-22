@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:designjet_t920_cr354a:-:*:*:*:*:*:*:*,HP DesignJet T920 CR354A,['CVE-2021-3965'],2022-03-21T13:11Z
+1,cpe:2.3:o:hp:designjet_t920_cr354a_firmware:mry_07_07_04.1:*:*:*:*:*:*:*,HP DesignJet T920 CR354A Firmware MRY_07_07_04.1,['CVE-2021-3965'],2022-03-21T13:11Z
+2,cpe:2.3:h:hp:designjet_t920_cr355a:-:*:*:*:*:*:*:*,HP DesignJet T920 CR355A,['CVE-2021-3965'],2022-03-21T13:11Z
+3,cpe:2.3:o:hp:designjet_t920_cr355a_firmware:mry_07_07_04.1:*:*:*:*:*:*:*,HP DesignJet T920 CR355A Firmware MRY_07_07_04.1,['CVE-2021-3965'],2022-03-21T13:11Z
+4,cpe:2.3:h:hp:designjet_t920_cr355b:-:*:*:*:*:*:*:*,HP DesignJet T920 CR355B,['CVE-2021-3965'],2022-03-21T13:11Z
+5,cpe:2.3:o:hp:designjet_t920_cr355b_firmware:mry_07_07_04.1:*:*:*:*:*:*:*,HP DesignJet T920 CR355B Firmware MRY_07_07_04.1,['CVE-2021-3965'],2022-03-21T13:11Z
+6,cpe:2.3:h:hp:designjet_t930_l2y21a:-:*:*:*:*:*:*:*,HP DesignJet T930 L2Y21A,['CVE-2021-3965'],2022-03-21T13:11Z
+7,cpe:2.3:o:hp:designjet_t930_l2y21a_firmware:mry_07_07_04.1:*:*:*:*:*:*:*,HP DesignJet T930 L2Y21A Firmware MRY_07_07_04.1,['CVE-2021-3965'],2022-03-21T13:11Z
+8,cpe:2.3:h:hp:designjet_t930_l2y21b:-:*:*:*:*:*:*:*,HP DesignJet T930 L2Y21B,['CVE-2021-3965'],2022-03-21T13:11Z
+9,cpe:2.3:o:hp:designjet_t930_l2y21b_firmware:mry_07_07_04.1:*:*:*:*:*:*:*,HP DesignJet T930 L2Y21B Firmware MRY_07_07_04.1,['CVE-2021-3965'],2022-03-21T13:11Z

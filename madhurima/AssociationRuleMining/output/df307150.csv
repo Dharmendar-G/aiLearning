@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hashicorp:vault-action:1.0.0:*:*:*:*:*:*:*,Hashicorp Vault-action 1.0.0,['CVE-2021-32074'],2022-03-21T09:59Z
+1,cpe:2.3:a:hashicorp:vault-action:1.0.1:*:*:*:*:*:*:*,Hashicorp Vault-action 1.0.1,['CVE-2021-32074'],2022-03-21T09:59Z
+2,cpe:2.3:a:hashicorp:vault-action:2.0.0:*:*:*:*:*:*:*,Hashicorp Vault-action 2.0.0,['CVE-2021-32074'],2022-03-21T09:59Z
+3,cpe:2.3:a:hashicorp:vault-action:2.0.1:*:*:*:*:*:*:*,Hashicorp Vault-action 2.0.1,['CVE-2021-32074'],2022-03-21T09:59Z
+4,cpe:2.3:a:hashicorp:vault-action:2.1.0:*:*:*:*:*:*:*,Hashicorp Vault-action 2.1.0,['CVE-2021-32074'],2022-03-21T09:59Z
+5,cpe:2.3:a:hashicorp:vault-action:2.1.1:*:*:*:*:*:*:*,Hashicorp Vault-action 2.1.1,['CVE-2021-32074'],2022-03-21T09:59Z
+6,cpe:2.3:a:hashicorp:vault-action:2.1.2:*:*:*:*:*:*:*,Hashicorp Vault-action 2.1.2,['CVE-2021-32074'],2022-03-21T09:59Z
+7,cpe:2.3:a:hashicorp:vault-action:2.2.0:*:*:*:*:*:*:*,Hashicorp Vault-action 2.2.0,[''],2022-03-21T09:59Z
+8,cpe:2.3:a:hashicorp:vault-ssh-helper:-:*:*:*:*:*:*:*,HashiCorp vault-ssh-helper,['CVE-2020-24359'],2022-03-21T09:59Z
+9,cpe:2.3:a:hashicorp:vault-ssh-helper:0.1.0:*:*:*:*:*:*:*,HashiCorp vault-ssh-helper 0.1.0,['CVE-2020-24359'],2022-03-21T09:59Z

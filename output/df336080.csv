@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:s2300_firmware:v200r009c00:*:*:*:*:*:*:*,Huawei S2300 Firmware V200R009C00,['CVE-2017-17165'],2022-03-21T18:31Z
+1,cpe:2.3:o:huawei:s2300_firmware:v200r010c00:*:*:*:*:*:*:*,Huawei S2300 Firmware V200r010c00,['CVE-2019-5285'],2022-03-21T18:31Z
+2,cpe:2.3:o:huawei:s2300_firmware:v200r011c10:*:*:*:*:*:*:*,Huawei S2300 Firmware V200r011c10,['CVE-2019-5285'],2022-03-21T18:31Z
+3,cpe:2.3:o:huawei:s2300_firmware:v200r012c00:*:*:*:*:*:*:*,Huawei S2300 Firmware V200r012c00,['CVE-2019-5285'],2022-03-21T18:31Z
+4,cpe:2.3:o:huawei:s2300_firmware:v200r013c00:*:*:*:*:*:*:*,Huawei S2300 Firmware V200r013c00,['CVE-2019-5285'],2022-03-21T18:31Z
+5,cpe:2.3:h:huawei:s2350:-:*:*:*:*:*:*:*,Huawei S2350,['CVE-2014-4706'],2022-03-21T18:31Z
+6,cpe:2.3:o:huawei:s2350_firmware:-:*:*:*:*:*:*:*,Huawei S2350 Firmware -,[''],2022-03-21T18:31Z
+7,cpe:2.3:o:huawei:s2350_firmware:v200r003c00spc300:*:*:*:*:*:*:*,Huawei S2350 Firmware V200R003C00SPC300,['CVE-2014-4706'],2022-03-21T18:31Z
+8,cpe:2.3:h:huawei:s2350ei:-:*:*:*:*:*:*:*,Huawei S2350EI,"['CVE-2015-3913', 'CVE-2015-8676', 'CVE-2015-8677']",2022-03-21T18:32Z
+9,cpe:2.3:o:huawei:s2350ei_firmware:-:*:*:*:*:*:*:*,Huawei S2350ei Firmware -,[''],2022-03-21T18:32Z

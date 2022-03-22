@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:databaseschemareader_project:dbschemareader:2.2.0.9:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 2.2.0.9,['CVE-2020-26207'],2022-03-20T10:42Z
+1,cpe:2.3:a:databaseschemareader_project:dbschemareader:2.3.0.16:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 2.3.0.16,['CVE-2020-26207'],2022-03-20T10:42Z
+2,cpe:2.3:a:databaseschemareader_project:dbschemareader:2.3.1.0:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 2.3.1.0,['CVE-2020-26207'],2022-03-20T10:42Z
+3,cpe:2.3:a:databaseschemareader_project:dbschemareader:2.3.2.1:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 2.3.2.1,['CVE-2020-26207'],2022-03-20T10:42Z
+4,cpe:2.3:a:databaseschemareader_project:dbschemareader:2.3.2.2:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 2.3.2.2,['CVE-2020-26207'],2022-03-20T10:42Z
+5,cpe:2.3:a:databaseschemareader_project:dbschemareader:2.3.2.4:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 2.3.2.4,['CVE-2020-26207'],2022-03-20T10:42Z
+6,cpe:2.3:a:databaseschemareader_project:dbschemareader:2.3.3.9:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 2.3.3.9,['CVE-2020-26207'],2022-03-20T10:42Z
+7,cpe:2.3:a:databaseschemareader_project:dbschemareader:2.4.0.20:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 2.4.0.20,['CVE-2020-26207'],2022-03-20T10:42Z
+8,cpe:2.3:a:databaseschemareader_project:dbschemareader:2.5.0.2:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 2.5.0.2,['CVE-2020-26207'],2022-03-20T10:42Z
+9,cpe:2.3:a:databaseschemareader_project:dbschemareader:2.5.1.0:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 2.5.1.0,['CVE-2020-26207'],2022-03-20T10:42Z

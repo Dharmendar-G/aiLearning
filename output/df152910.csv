@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.8.1:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.8.1 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:34Z
+1,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.8.2:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.8.2 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:34Z
+2,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.8.3:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.8.3 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:34Z
+3,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.8.3.1:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.8.3.1 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:34Z
+4,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.8.4:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.8.4 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:34Z
+5,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.8.4.1:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.8.4.1 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:34Z
+6,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.8.4.2:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.8.4.2 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:34Z
+7,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.9:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.9 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:34Z
+8,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.9.0.1:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.9.0.1 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:34Z
+9,cpe:2.3:a:codemiq:wordpress_email_template_designer:2.9.0.2:*:*:*:*:wordpress:*:*,Codemiq WordPress Email Template Designer 2.9.0.2 for WordPress,"['CVE-2021-20779', 'CVE-2022-0218']",2022-03-20T05:34Z

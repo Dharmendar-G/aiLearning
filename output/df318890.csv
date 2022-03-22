@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:335_firmware:-:*:*:*:*:*:*:*,HP 335 Firmware,['CVE-2017-2747'],2022-03-21T12:48Z
+1,cpe:2.3:o:hp:335_firmware:nexus_03_12_00.14:*:*:*:*:*:*:*,HP 335 Firmware NEXUS 03 12 00.14,['CVE-2017-2747'],2022-03-21T12:48Z
+2,cpe:2.3:h:hp:340_g3:-:*:*:*:*:*:*:*,HP 340 G3,['CVE-2019-16284'],2022-03-21T12:48Z
+3,cpe:2.3:o:hp:340_g3_firmware:-:*:*:*:*:*:*:*,HP 340 G3 Firmware,['CVE-2019-16284'],2022-03-21T12:48Z
+4,cpe:2.3:o:hp:340_g3_firmware:f.48:*:*:*:*:*:*:*,HP 340 G3 Firmware F.48,[''],2022-03-21T12:48Z
+5,cpe:2.3:h:hp:340_g4:-:*:*:*:*:*:*:*,HP 340 G4,['CVE-2019-16284'],2022-03-21T12:48Z
+6,cpe:2.3:o:hp:340_g4_firmware:-:*:*:*:*:*:*:*,HP 340 G4 Firmware,['CVE-2019-16284'],2022-03-21T12:48Z
+7,cpe:2.3:o:hp:340_g4_firmware:f.55:*:*:*:*:*:*:*,HP 340 G4 Firmware F.55,[''],2022-03-21T12:48Z
+8,cpe:2.3:h:hp:346_g3:-:*:*:*:*:*:*:*,HP 346 G3,['CVE-2019-16284'],2022-03-21T12:48Z
+9,cpe:2.3:o:hp:346_g3_firmware:-:*:*:*:*:*:*:*,HP 346 G3 Firmware,['CVE-2019-16284'],2022-03-21T12:48Z

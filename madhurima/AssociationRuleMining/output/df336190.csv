@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:s5300_firmware:v100r005c00:*:*:*:*:*:*:*,Huawei S5300 Firmware V100r005c00,"['CVE-2014-8572', 'CVE-2015-2800', 'CVE-2017-8147']",2022-03-21T18:34Z
+1,cpe:2.3:o:huawei:s5300_firmware:v100r006:*:*:*:*:*:*:*,Huawei S5300 Firmware V100R006,"['CVE-2014-8572', 'CVE-2015-2800']",2022-03-21T18:34Z
+2,cpe:2.3:o:huawei:s5300_firmware:v100r006c00:*:*:*:*:*:*:*,Huawei S5300 Firmware V100r006c00,"['CVE-2014-8572', 'CVE-2015-2800', 'CVE-2017-8147']",2022-03-21T18:34Z
+3,cpe:2.3:o:huawei:s5300_firmware:v100r006c00spc800:*:*:*:*:*:*:*,Huawei S5300 Firmware V100R006C00SPC800,"['CVE-2014-3223', 'CVE-2014-8572', 'CVE-2015-2800']",2022-03-21T18:34Z
+4,cpe:2.3:o:huawei:s5300_firmware:v100r006c01:*:*:*:*:*:*:*,Huawei S5300 Firmware V100r006c01,"['CVE-2014-8572', 'CVE-2015-2800', 'CVE-2017-8147']",2022-03-21T18:34Z
+5,cpe:2.3:o:huawei:s5300_firmware:v100r006c01spc100:*:*:*:*:*:*:*,Huawei S5300 Firmware V100R006C01SPC100,"['CVE-2014-3223', 'CVE-2014-8572', 'CVE-2015-2800']",2022-03-21T18:34Z
+6,cpe:2.3:o:huawei:s5300_firmware:v100r006c03:*:*:*:*:*:*:*,Huawei S5300 Firmware V100R006C03,"['CVE-2014-3223', 'CVE-2014-8572', 'CVE-2015-2800']",2022-03-21T18:34Z
+7,cpe:2.3:o:huawei:s5300_firmware:v200r001:*:*:*:*:*:*:*,Huawei S5300 Firmware V200R001,"['CVE-2014-8572', 'CVE-2015-2800']",2022-03-21T18:34Z
+8,cpe:2.3:o:huawei:s5300_firmware:v200r001c00:*:*:*:*:*:*:*,Huawei S5300 Firmware V200r001c00,"['CVE-2014-8572', 'CVE-2015-2800', 'CVE-2016-6518', 'CVE-2017-8147']",2022-03-21T18:34Z
+9,cpe:2.3:o:huawei:s5300_firmware:v200r001c00spc300:*:*:*:*:*:*:*,Huawei S5300 Firmware V200R001C00SPC300,"['CVE-2014-4705', 'CVE-2014-4706', 'CVE-2014-5394', 'CVE-2014-8572', 'CVE-2015-2800']",2022-03-21T18:34Z

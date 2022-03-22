@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dinknetwork:dfarc:3.6:*:*:*:*:*:*:*,The Dink Network DFArc 3.6,['CVE-2018-0496'],2022-03-20T14:54Z
+1,cpe:2.3:a:dinknetwork:dfarc:3.8:*:*:*:*:*:*:*,The Dink Network DFArc 3.8,['CVE-2018-0496'],2022-03-20T14:54Z
+2,cpe:2.3:a:dinknetwork:dfarc:3.8.1:*:*:*:*:*:*:*,The Dink Network DFArc 3.8.1,['CVE-2018-0496'],2022-03-20T14:54Z
+3,cpe:2.3:a:dinknetwork:dfarc:3.10:*:*:*:*:*:*:*,The Dink Network DFArc 3.10,['CVE-2018-0496'],2022-03-20T14:54Z
+4,cpe:2.3:a:dinknetwork:dfarc:3.12:*:*:*:*:*:*:*,The Dink Network DFArc 3.12,['CVE-2018-0496'],2022-03-20T14:54Z
+5,cpe:2.3:a:dinknetwork:dfarc:3.14:*:*:*:*:*:*:*,The Dink Network DFArc 3.14,[''],2022-03-20T14:54Z
+6,cpe:2.3:a:dino:dino:-:*:*:*:*:*:*:*,Dino,"['CVE-2019-16235', 'CVE-2019-16236', 'CVE-2019-16237', 'CVE-2021-33896']",2022-03-20T14:54Z
+7,cpe:2.3:a:dino:dino:0.0:*:*:*:*:*:*:*,Dino 0.0,"['CVE-2019-16235', 'CVE-2019-16236', 'CVE-2019-16237', 'CVE-2021-33896']",2022-03-20T14:54Z
+8,cpe:2.3:a:dino:dino:0.1.0:*:*:*:*:*:*:*,Dino 0.1.0,['CVE-2021-33896'],2022-03-20T14:54Z
+9,cpe:2.3:a:dino:dino:0.1.1:*:*:*:*:*:*:*,Dino 0.1.1,['CVE-2021-33896'],2022-03-20T14:54Z

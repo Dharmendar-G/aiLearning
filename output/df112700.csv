@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:c-icap_project:c-icap:0.2.4:*:*:*:*:*:*:*,c-icap project c-icap 0.2.4,"['CVE-2013-7401', 'CVE-2013-7402']",2022-03-19T17:40Z
+1,cpe:2.3:a:c-icap_project:c-icap:0.2.5:*:*:*:*:*:*:*,c-icap project c-icap 0.2.5,"['CVE-2013-7401', 'CVE-2013-7402']",2022-03-19T17:40Z
+2,cpe:2.3:a:c-icap_project:c-icap:0.2.6:*:*:*:*:*:*:*,c-icap project c-icap 0.2.6,"['CVE-2013-7401', 'CVE-2013-7402']",2022-03-19T17:40Z
+3,cpe:2.3:a:cikkaa:cikkacoin:-:*:*:*:*:*:*:*,CikkaA Cikkaa Coin,['CVE-2018-13637'],2022-03-19T17:40Z
+4,cpe:2.3:h:ciktel:mesh_router:-:*:*:*:*:*:*:*,Ciktel Mesh Router,"['CVE-2019-19822', 'CVE-2019-19823']",2022-03-19T17:40Z
+5,cpe:2.3:o:ciktel:mesh_router_firmware:2019-12-12:*:*:*:*:*:*:*,Ciktel Mesh Router Firmware 2019-12-12,"['CVE-2019-19822', 'CVE-2019-19823']",2022-03-19T17:40Z
+6,cpe:2.3:a:cim_project:cim:0.9.3:*:*:*:*:*:*:*,Cim Project Cim 0.9.3,"['CVE-2018-20614', 'CVE-2019-7692']",2022-03-19T17:40Z
+7,cpe:2.3:a:cimatti:contact_forms:-:*:*:*:*:wordpress:*:*,Cimatti Contact Forms for WordPress,['CVE-2021-24744'],2022-03-19T17:40Z
+8,cpe:2.3:a:cimatti:contact_forms:1.1:*:*:*:*:wordpress:*:*,Cimatti Contact Forms 1.1 for WordPress,['CVE-2021-24744'],2022-03-19T17:40Z
+9,cpe:2.3:a:cimatti:contact_forms:1.2:*:*:*:*:wordpress:*:*,Cimatti Contact Forms 1.2 for WordPress,['CVE-2021-24744'],2022-03-19T17:40Z

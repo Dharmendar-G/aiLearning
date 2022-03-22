@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:ibm:power_system_h924_\(9223-42h\):-:*:*:*:*:*:*:*,IBM Power System H924 (9223-42H),['CVE-2018-1992'],2022-03-21T21:26Z
+1,cpe:2.3:o:ibm:power_system_h924_\(9223-42h\)_firmware:fw910:*:*:*:*:*:*:*,IBM Power System H924 (9223-42H) Firmware FW910,['CVE-2018-1992'],2022-03-21T21:26Z
+2,cpe:2.3:o:ibm:power_system_h924_\(9223-42h\)_firmware:fw910.10:*:*:*:*:*:*:*,IBM Power System H924 (9223-42H) Firmware FW910.10,[''],2022-03-21T21:26Z
+3,cpe:2.3:h:ibm:power_system_l922_\(9008-22l\):-:*:*:*:*:*:*:*,IBM Power System L922 (9008-22L),['CVE-2018-1992'],2022-03-21T21:27Z
+4,cpe:2.3:o:ibm:power_system_l922_\(9008-22l\)_firmware:fw910:*:*:*:*:*:*:*,IBM Power System L922 (9008-22L) Firmware FW910,['CVE-2018-1992'],2022-03-21T21:27Z
+5,cpe:2.3:o:ibm:power_system_l922_\(9008-22l\)_firmware:fw910.10:*:*:*:*:*:*:*,IBM Power System L922 (9008-22L) Firmware FW910.10,[''],2022-03-21T21:27Z
+6,cpe:2.3:h:ibm:power_system_lc921_\(9006-12p\):-:*:*:*:*:*:*:*,IBM Power System LC921 (9006-12P),['CVE-2018-1992'],2022-03-21T21:27Z
+7,cpe:2.3:o:ibm:power_system_lc921_\(9006-12p\)_firmware:op920:*:*:*:*:*:*:*,IBM Power System LC921 (9006-12P) Firmware OP920,['CVE-2018-1992'],2022-03-21T21:27Z
+8,cpe:2.3:o:ibm:power_system_lc921_\(9006-12p\)_firmware:op920.10:*:*:*:*:*:*:*,IBM Power System LC921 (9006-12P) Firmware OP920.10,[''],2022-03-21T21:27Z
+9,cpe:2.3:h:ibm:power_system_lc922_\(9006-22p\):-:*:*:*:*:*:*:*,IBM Power System LC922 (9006-22P),['CVE-2018-1992'],2022-03-21T21:27Z

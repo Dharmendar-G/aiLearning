@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hapijs:hoek:5.0.1:*:*:*:*:*:*:*,hapijs hoek 5.0.1,[''],2022-03-21T09:08Z
+1,cpe:2.3:a:hapijs:hoek:5.0.1:*:*:*:*:node.js:*:*,Hapijs Hoek 5.0.1 for Node.js,['CVE-2018-3728'],2022-03-21T09:08Z
+2,cpe:2.3:a:hapijs:hoek:5.0.2:*:*:*:*:*:*:*,hapijs hoek 5.0.2,[''],2022-03-21T09:08Z
+3,cpe:2.3:a:hapijs:hoek:5.0.2:*:*:*:*:node.js:*:*,Hapijs Hoek 5.0.2 for Node.js,['CVE-2018-3728'],2022-03-21T09:08Z
+4,cpe:2.3:a:hapijs:hoek:5.0.3:*:*:*:*:*:*:*,hapijs hoek 5.0.3,[''],2022-03-21T09:08Z
+5,cpe:2.3:a:hapijs:hoek:5.0.3:*:*:*:*:node.js:*:*,Hapijs Hoek 5.0.3 for Node.js,[''],2022-03-21T09:08Z
+6,cpe:2.3:a:hapijs:hoek:5.0.4:*:*:*:*:node.js:*:*,Hapijs Hoek 5.0.4 for Node.js,[''],2022-03-21T09:08Z
+7,cpe:2.3:a:hapijs:hoek:6.0.0:*:*:*:*:node.js:*:*,Hapijs Hoek 6.0.0 for Node.js,[''],2022-03-21T09:08Z
+8,cpe:2.3:a:hapijs:hoek:6.0.1:*:*:*:*:node.js:*:*,Hapijs Hoek 6.0.1 for Node.js,[''],2022-03-21T09:08Z
+9,cpe:2.3:a:hapijs:hoek:6.0.2:*:*:*:*:node.js:*:*,Hapijs Hoek 6.0.2 for Node.js,[''],2022-03-21T09:08Z

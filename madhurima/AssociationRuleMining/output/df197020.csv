@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dropwizard:dropwizard_validation:0.4.4:*:*:*:*:*:*:*,Dropwizard Validation 0.4.4,"['CVE-2020-11002', 'CVE-2020-5245']",2022-03-20T18:12Z
+1,cpe:2.3:a:dropwizard:dropwizard_validation:0.5.0:*:*:*:*:*:*:*,Dropwizard Validation 0.5.0,"['CVE-2020-11002', 'CVE-2020-5245']",2022-03-20T18:12Z
+2,cpe:2.3:a:dropwizard:dropwizard_validation:0.5.1:*:*:*:*:*:*:*,Dropwizard Validation 0.5.1,"['CVE-2020-11002', 'CVE-2020-5245']",2022-03-20T18:12Z
+3,cpe:2.3:a:dropwizard:dropwizard_validation:0.6.0:*:*:*:*:*:*:*,Dropwizard Validation 0.6.0,"['CVE-2020-11002', 'CVE-2020-5245']",2022-03-20T18:12Z
+4,cpe:2.3:a:dropwizard:dropwizard_validation:0.6.1:*:*:*:*:*:*:*,Dropwizard Validation 0.6.1,"['CVE-2020-11002', 'CVE-2020-5245']",2022-03-20T18:12Z
+5,cpe:2.3:a:dropwizard:dropwizard_validation:0.6.2:*:*:*:*:*:*:*,Dropwizard Validation 0.6.2,"['CVE-2020-11002', 'CVE-2020-5245']",2022-03-20T18:12Z
+6,cpe:2.3:a:dropwizard:dropwizard_validation:0.7.0:-:*:*:*:*:*:*,Dropwizard Validation 0.7.0,"['CVE-2020-11002', 'CVE-2020-5245']",2022-03-20T18:12Z
+7,cpe:2.3:a:dropwizard:dropwizard_validation:0.7.0:rc1:*:*:*:*:*:*,Dropwizard Validation 0.7.0 Release Candidate 1,"['CVE-2020-11002', 'CVE-2020-5245']",2022-03-20T18:12Z
+8,cpe:2.3:a:dropwizard:dropwizard_validation:0.7.0:rc2:*:*:*:*:*:*,Dropwizard Validation 0.7.0 Release Candidate 2,"['CVE-2020-11002', 'CVE-2020-5245']",2022-03-20T18:12Z
+9,cpe:2.3:a:dropwizard:dropwizard_validation:0.7.0:rc3:*:*:*:*:*:*,Dropwizard Validation 0.7.0 Release Candidate 3,"['CVE-2020-11002', 'CVE-2020-5245']",2022-03-20T18:12Z

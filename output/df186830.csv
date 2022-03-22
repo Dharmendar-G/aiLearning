@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:digium:open_source:13.11.0:rc1:*:*:*:*:*:*,Digium Open Source 13.11.0 Release Candidate 1,"['CVE-2017-9359', 'CVE-2017-9372']",2022-03-20T14:53Z
+1,cpe:2.3:a:digium:open_source:13.12.0:*:*:*:*:*:*:*,Digium Open Source 13.12.0,"['CVE-2017-9359', 'CVE-2017-9372']",2022-03-20T14:53Z
+2,cpe:2.3:a:digium:open_source:13.12.0:rc1:*:*:*:*:*:*,Digium Open Source 13.12.0 Release Candidate 1,"['CVE-2017-9359', 'CVE-2017-9372']",2022-03-20T14:53Z
+3,cpe:2.3:a:digium:open_source:13.12.1:*:*:*:*:*:*:*,Digium Open Source 13.12.1,"['CVE-2017-9359', 'CVE-2017-9372']",2022-03-20T14:53Z
+4,cpe:2.3:a:digium:open_source:13.12.2:*:*:*:*:*:*:*,Digium Open Source 13.12.2,"['CVE-2017-9359', 'CVE-2017-9372']",2022-03-20T14:53Z
+5,cpe:2.3:a:digium:open_source:13.13.0:rc1:*:*:*:*:*:*,Digium Open Source 13.13.0 Release Candidate 1,"['CVE-2017-9359', 'CVE-2017-9372']",2022-03-20T14:53Z
+6,cpe:2.3:a:digium:open_source:13.14.0:rc1:*:*:*:*:*:*,Digium Open Source 13.14.0 Release Candidate 1,"['CVE-2017-9359', 'CVE-2017-9372']",2022-03-20T14:53Z
+7,cpe:2.3:a:digium:open_source:13.15.0:rc1:*:*:*:*:*:*,Digium Open Source 13.15.0 Release Candidate 1,"['CVE-2017-9359', 'CVE-2017-9372']",2022-03-20T14:53Z
+8,cpe:2.3:a:digium:open_source:14.0.0:*:*:*:*:*:*:*,Digium Open Source 14.0.0,['CVE-2017-9372'],2022-03-20T14:53Z
+9,cpe:2.3:a:digium:open_source:14.0.0:beta1:*:*:*:*:*:*,Digium Open Source 14.0.0 Beta1,['CVE-2017-9372'],2022-03-20T14:53Z

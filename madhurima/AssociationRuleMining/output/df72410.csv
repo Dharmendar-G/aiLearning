@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:beckhoff:twincat:3.1:build4024.0:*:*:*:*:*:*,Beckhoff TwinCAT 3.1 Build4024.0,"['CVE-2018-7502', 'CVE-2019-5636', 'CVE-2020-12494']",2022-03-19T06:50Z
+1,cpe:2.3:a:beckhoff:twincat:3.1:build_402:*:*:*:*:*:*,Beckhoff Twincat 3.1 Build 402,"['CVE-2018-7502', 'CVE-2020-12494']",2022-03-19T06:50Z
+2,cpe:2.3:a:beckhoff:twincat:3.1:build_4022:*:*:*:*:*:*,Beckhoff Twincat 3.1 Build 4022,"['CVE-2018-7502', 'CVE-2019-16871', 'CVE-2020-12494']",2022-03-19T06:50Z
+3,cpe:2.3:a:beckhoff:twincat:3.1:build_4024:*:*:*:*:*:*,Beckhoff Twincat 3.1 Build 4024,"['CVE-2018-7502', 'CVE-2020-12494']",2022-03-19T06:50Z
+4,cpe:2.3:a:beckhoff:twincat:3.1:build_4024.0:*:*:*:*:*:*,Beckhoff Twincat 3.1 Build 4024.0,"['CVE-2018-7502', 'CVE-2019-16871', 'CVE-2020-12494']",2022-03-19T06:50Z
+5,cpe:2.3:a:beckhoff:twincat:3.1:build4024.0:*:*:*:*:*:*,Beckhoff TwinCAT 3.1 Build4024.0,"['CVE-2018-7502', 'CVE-2019-5636', 'CVE-2020-12494']",2022-03-19T06:50Z
+6,cpe:2.3:a:beckhoff:twincat:3.1.0.3500:*:*:*:*:*:*:*,Beckhoff Twincat 3.1.0.3500,['CVE-2020-12494'],2022-03-19T06:50Z
+7,cpe:2.3:a:beckhoff:twincat:3.1.0.3512:*:*:*:*:*:*:*,Beckhoff Twincat 3.1.0.3512,['CVE-2020-12494'],2022-03-19T06:50Z
+8,cpe:2.3:a:beckhoff:twincat:3.1.0.3600:*:*:*:*:*:*:*,Beckhoff Twincat 3.1.0.3600,['CVE-2020-12494'],2022-03-19T06:50Z
+9,cpe:2.3:o:beckhoff:twincat:3.1.4022.29:*:*:*:*:*:*:*,BECKHOFF TwinCAT 3.1.4022.29,['CVE-2019-5637'],2022-03-19T06:50Z

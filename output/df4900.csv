@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:accesspressthemes:accesspress_social_login_lite:3.4.2:*:*:*:*:wordpress:*:*,AccessPress Themes AccessPress Social Login Lite 3.4.2 for WordPress,[''],2022-03-18T10:51Z
+1,cpe:2.3:a:accesspressthemes:accesspress_social_login_lite:3.4.3:*:*:*:*:wordpress:*:*,AccessPress Themes AccessPress Social Login Lite 3.4.3 for WordPress,[''],2022-03-18T10:51Z
+2,cpe:2.3:a:accesspressthemes:accesspress_social_login_lite:3.4.4:*:*:*:*:wordpress:*:*,AccessPress Themes AccessPress Social Login Lite 3.4.4 for WordPress,[''],2022-03-18T10:51Z
+3,cpe:2.3:a:accesspressthemes:accesspress_social_login_lite:3.4.5:*:*:*:*:wordpress:*:*,AccessPress Themes AccessPress Social Login Lite 3.4.5 for WordPress,[''],2022-03-18T10:51Z
+4,cpe:2.3:a:accesspressthemes:accesspress_social_login_lite:3.4.6:*:*:*:*:wordpress:*:*,AccessPress Themes AccessPress Social Login Lite 3.4.6 for WordPress,[''],2022-03-18T10:51Z
+5,cpe:2.3:a:accesspressthemes:accesspress_social_login_lite:3.4.7:*:*:*:*:wordpress:*:*,AccessPress Themes AccessPress Social Login Lite 3.4.7 for WordPress,['CVE-2021-24867'],2022-03-18T10:51Z
+6,cpe:2.3:a:accesspressthemes:accesspress_social_login_lite:3.4.8:*:*:*:*:wordpress:*:*,AccessPress Themes AccessPress Social Login Lite 3.4.8 for WordPress,[''],2022-03-18T10:51Z
+7,cpe:2.3:a:accesspressthemes:anonymous_post_pro:-:*:*:*:*:wordpress:*:*,AccessPress Themes Anonymous Post Pro for WordPress,['CVE-2017-16949'],2022-03-18T10:51Z
+8,cpe:2.3:a:accesspressthemes:anonymous_post_pro:1.0.0:*:*:*:*:wordpress:*:*,AccessPress Themes Anonymous Post Pro 1.0.0 for WordPress,['CVE-2017-16949'],2022-03-18T10:51Z
+9,cpe:2.3:a:accesspressthemes:anonymous_post_pro:1.0.1:*:*:*:*:wordpress:*:*,AccessPress Themes Anonymous Post Pro 1.0.1 for WordPress,['CVE-2017-16949'],2022-03-18T10:51Z

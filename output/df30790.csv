@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:dubbo:2.4.5:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.4.5,[''],2022-03-18T18:21Z
+1,cpe:2.3:a:apache:dubbo:2.4.6:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.4.6,[''],2022-03-18T18:21Z
+2,cpe:2.3:a:apache:dubbo:2.4.7:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.4.7,[''],2022-03-18T18:21Z
+3,cpe:2.3:a:apache:dubbo:2.4.8:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.4.8,[''],2022-03-18T18:21Z
+4,cpe:2.3:a:apache:dubbo:2.4.9:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.4.9,[''],2022-03-18T18:21Z
+5,cpe:2.3:a:apache:dubbo:2.4.10:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.4.10,[''],2022-03-18T18:21Z
+6,cpe:2.3:a:apache:dubbo:2.4.11:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.4.11,[''],2022-03-18T18:21Z
+7,cpe:2.3:a:apache:dubbo:2.5.0:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.5.0,"['CVE-2019-17564', 'CVE-2020-11995', 'CVE-2020-1948', 'CVE-2021-25640', 'CVE-2021-25641', 'CVE-2021-30179', 'CVE-2021-30181']",2022-03-18T18:21Z
+8,cpe:2.3:a:apache:dubbo:2.5.1:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.5.1,"['CVE-2019-17564', 'CVE-2020-11995', 'CVE-2020-1948', 'CVE-2021-25640', 'CVE-2021-25641', 'CVE-2021-30179', 'CVE-2021-30181']",2022-03-18T18:21Z
+9,cpe:2.3:a:apache:dubbo:2.5.2:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.5.2,"['CVE-2019-17564', 'CVE-2020-11995', 'CVE-2020-1948', 'CVE-2021-25640', 'CVE-2021-25641', 'CVE-2021-30179', 'CVE-2021-30181']",2022-03-18T18:21Z

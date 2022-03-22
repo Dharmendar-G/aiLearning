@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blocksera:image_hover_effects:1.3.4:*:*:*:*:wordpress:*:*,Blocksera Image Hover Effects 1.3.4 for WordPress,['CVE-2021-36888'],2022-03-19T08:42Z
+1,cpe:2.3:a:blog_mini_project:blog_mini:1.0:*:*:*:*:*:*:*,Blog_mini Project Blog_mini 1.0,"['CVE-2019-9765', 'CVE-2020-18998', 'CVE-2020-18999']",2022-03-19T08:42Z
+2,cpe:2.3:a:blog_project:blog:-:*:*:*:*:*:*:*,Blog Project Blog,"['CVE-2017-14345', 'CVE-2017-14346', 'CVE-2022-23626']",2022-03-19T08:42Z
+3,cpe:2.3:a:blog_project:blog:1.0:*:*:*:*:*:*:*,Blog Project Blog 1.0,"['CVE-2017-14345', 'CVE-2017-14346', 'CVE-2022-23626']",2022-03-19T08:42Z
+4,cpe:2.3:a:blog_project:blog:1.01:*:*:*:*:*:*:*,Blog Project Blog 1.01,"['CVE-2017-14345', 'CVE-2017-14346', 'CVE-2022-23626']",2022-03-19T08:42Z
+5,cpe:2.3:a:blog_project:blog:1.1:*:*:*:*:*:*:*,Blog Project Blog 1.1,"['CVE-2017-14345', 'CVE-2017-14346', 'CVE-2022-23626']",2022-03-19T08:42Z
+6,cpe:2.3:a:blog_project:blog:1.2:*:*:*:*:*:*:*,Blog Project Blog 1.2,"['CVE-2017-14345', 'CVE-2017-14346', 'CVE-2022-23626']",2022-03-19T08:42Z
+7,cpe:2.3:a:blog_project:blog:1.02:*:*:*:*:*:*:*,Blog Project Blog 1.02,"['CVE-2017-14345', 'CVE-2017-14346', 'CVE-2022-23626']",2022-03-19T08:42Z
+8,cpe:2.3:a:blog_project:blog:1.03:*:*:*:*:*:*:*,Blog Project Blog 1.03,"['CVE-2017-14345', 'CVE-2017-14346', 'CVE-2022-23626']",2022-03-19T08:42Z
+9,cpe:2.3:a:blog_project:blog:1.3:*:*:*:*:*:*:*,Blog Project Blog 1.3,"['CVE-2017-14345', 'CVE-2017-14346', 'CVE-2022-23626']",2022-03-19T08:42Z

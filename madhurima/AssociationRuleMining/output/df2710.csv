@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:3proxy:3proxy:0.8.13:*:*:*:*:*:*:*,3proxy 0.8.13,[''],2022-03-18T10:07Z
+1,cpe:2.3:a:3sgroup:t2css:2.0:*:*:*:*:*:*:*,3sgroup T2css 2.0,[''],2022-03-18T10:07Z
+2,cpe:2.3:a:3s-software:codesys_gateway-server:2.3.5.1:*:*:*:*:*:*:*,3s-Software CODESYS Gateway-Server 2.3.5.1,"['CVE-2012-4704', 'CVE-2012-4705', 'CVE-2012-4706', 'CVE-2012-4707', 'CVE-2012-4708']",2022-03-18T10:08Z
+3,cpe:2.3:a:3s-software:codesys_gateway-server:2.3.5.2:*:*:*:*:*:*:*,3s-Software CODESYS Gateway-Server 2.3.5.2,"['CVE-2012-4704', 'CVE-2012-4705', 'CVE-2012-4706', 'CVE-2012-4707', 'CVE-2012-4708']",2022-03-18T10:08Z
+4,cpe:2.3:a:3s-software:codesys_gateway-server:2.3.5.3:*:*:*:*:*:*:*,3s-Software CODESYS Gateway-Server 2.3.5.3,"['CVE-2012-4704', 'CVE-2012-4705', 'CVE-2012-4706', 'CVE-2012-4707', 'CVE-2012-4708']",2022-03-18T10:08Z
+5,cpe:2.3:a:3s-software:codesys_gateway-server:2.3.6.0:*:*:*:*:*:*:*,3s-Software CODESYS Gateway-Server 2.3.6.0,"['CVE-2012-4704', 'CVE-2012-4705', 'CVE-2012-4706', 'CVE-2012-4707', 'CVE-2012-4708']",2022-03-18T10:08Z
+6,cpe:2.3:a:3s-software:codesys_gateway-server:2.3.7.0:*:*:*:*:*:*:*,3s-Software CODESYS Gateway-Server 2.3.7.0,"['CVE-2012-4704', 'CVE-2012-4705', 'CVE-2012-4706', 'CVE-2012-4707', 'CVE-2012-4708']",2022-03-18T10:08Z
+7,cpe:2.3:a:3s-software:codesys_gateway-server:2.3.8.0:*:*:*:*:*:*:*,3s-Software CODESYS Gateway-Server 2.3.8.0,"['CVE-2012-4704', 'CVE-2012-4705', 'CVE-2012-4706', 'CVE-2012-4707', 'CVE-2012-4708']",2022-03-18T10:08Z
+8,cpe:2.3:a:3s-software:codesys_gateway-server:2.3.8.1:*:*:*:*:*:*:*,3s-Software CODESYS Gateway-Server 2.3.8.1,"['CVE-2012-4704', 'CVE-2012-4705', 'CVE-2012-4706', 'CVE-2012-4707', 'CVE-2012-4708']",2022-03-18T10:08Z
+9,cpe:2.3:a:3s-software:codesys_gateway-server:2.3.8.2:*:*:*:*:*:*:*,3s-Software CODESYS Gateway-Server 2.3.8.2,"['CVE-2012-4704', 'CVE-2012-4705', 'CVE-2012-4706', 'CVE-2012-4707', 'CVE-2012-4708']",2022-03-18T10:08Z

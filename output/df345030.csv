@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:marketing_operations:9.1.1.0:*:*:*:*:*:*:*,IBM Marketing Operations 9.1.1.0,"['CVE-2014-6175', 'CVE-2014-6222', 'CVE-2014-8887']",2022-03-21T21:11Z
+1,cpe:2.3:a:ibm:marketing_operations:9.1.1.1:*:*:*:*:*:*:*,IBM Marketing Operations 9.1.1.1,"['CVE-2014-6175', 'CVE-2014-6222', 'CVE-2014-8887']",2022-03-21T21:11Z
+2,cpe:2.3:a:ibm:marketing_operations:9.1.1.2:*:*:*:*:*:*:*,IBM Marketing Operations 9.1.1.2,[''],2022-03-21T21:11Z
+3,cpe:2.3:a:ibm:marketing_operations:9.1.1.3:*:*:*:*:*:*:*,IBM Marketing Operations 9.1.1.3,[''],2022-03-21T21:11Z
+4,cpe:2.3:a:ibm:marketing_operations:9.1.1.4:*:*:*:*:*:*:*,IBM Marketing Operations 9.1.1.4,[''],2022-03-21T21:11Z
+5,cpe:2.3:a:ibm:marketing_operations:9.1.2.0:*:*:*:*:*:*:*,IBM Marketing Operations 9.1.2.0,['CVE-2017-1119'],2022-03-21T21:11Z
+6,cpe:2.3:a:ibm:marketing_operations:9.1.2.1:*:*:*:*:*:*:*,IBM Marketing Operations 9.1.2.1,['CVE-2017-1119'],2022-03-21T21:11Z
+7,cpe:2.3:a:ibm:marketing_operations:9.1.2.2:*:*:*:*:*:*:*,IBM Marketing Operations 9.1.2.2,['CVE-2017-1119'],2022-03-21T21:11Z
+8,cpe:2.3:a:ibm:marketing_operations:9.1.2.3:*:*:*:*:*:*:*,IBM Marketing Operations 9.1.2.3,['CVE-2017-1119'],2022-03-21T21:11Z
+9,cpe:2.3:a:ibm:marketing_operations:9.1.2.4:*:*:*:*:*:*:*,IBM Marketing Operations 9.1.2.4,"['CVE-2017-1119', 'CVE-2020-4125']",2022-03-21T21:11Z

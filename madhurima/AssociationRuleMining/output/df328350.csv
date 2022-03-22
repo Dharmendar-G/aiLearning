@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:proliant_dl160_firmware:-:*:*:*:*:*:*:*,HP Proliant DL160 Firmware,['CVE-2019-11135'],2022-03-21T15:55Z
+1,cpe:2.3:o:hp:proliant_dl160_firmware:2.20:*:*:*:*:*:*:*,HP Proliant DL160 Firmware 2.20,[''],2022-03-21T15:55Z
+2,cpe:2.3:h:hp:proliant_dl160_g6_server:-:*:*:*:*:*:*:*,Hp Proliant Dl160 G6 Server -,['CVE-2018-7112'],2022-03-21T15:55Z
+3,cpe:2.3:o:hp:proliant_dl160_g6_server_firmware:-:*:*:*:*:*:*:*,Hp Proliant Dl160 G6 Server Firmware -,['CVE-2018-7112'],2022-03-21T15:55Z
+4,cpe:2.3:h:hp:proliant_dl160_gen10:-:*:*:*:*:*:*:*,HP Proliant DL160 Gen 10,"['CVE-2018-7117', 'CVE-2019-11982', 'CVE-2019-11983', 'CVE-2020-7207']",2022-03-21T15:55Z
+5,cpe:2.3:h:hp:proliant_dl160_gen10_server:-:*:*:*:*:*:*:*,HP ProLiant DL160 Gen10 Server,"['CVE-2018-7101', 'CVE-2020-7202', 'CVE-2021-29201', 'CVE-2021-29202', 'CVE-2021-29204', 'CVE-2021-29205', 'CVE-2021-29206', 'CVE-2021-29207', 'CVE-2021-29208', 'CVE-2021-29209', 'CVE-2021-29210', 'CVE-2021-29211']",2022-03-21T15:55Z
+6,cpe:2.3:h:hp:proliant_dl160_gen8_server:-:*:*:*:*:*:*:*,Hp Proliant Dl160 Gen8 Server -,"['CVE-2018-7112', 'CVE-2020-7202']",2022-03-21T15:56Z
+7,cpe:2.3:h:hp:proliant_dl160_gen9_server:-:*:*:*:*:*:*:*,Hp Proliant Dl160 Gen9 Server -,"['CVE-2018-7112', 'CVE-2020-7202']",2022-03-21T15:56Z
+8,cpe:2.3:h:hp:proliant_dl170e_g6_server:-:*:*:*:*:*:*:*,Hp Proliant Dl170e G6 Server -,['CVE-2018-7112'],2022-03-21T15:56Z
+9,cpe:2.3:o:hp:proliant_dl170e_g6_server_firmware:-:*:*:*:*:*:*:*,Hp Proliant Dl170e G6 Server Firmware -,['CVE-2018-7112'],2022-03-21T15:56Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:webns:7.10.0:*:*:*:*:*:*:*,Cisco Web NS (Networking Services) Software 7.10.0,['CVE-2002-0870'],2022-03-20T01:18Z
+1,cpe:2.3:a:cisco:webns:7.10.0.03:*:*:*:*:*:*:*,Cisco Web NS (Networking Services) Software 7.10.0.03,['CVE-2002-0870'],2022-03-20T01:18Z
+2,cpe:2.3:a:cisco:webns:7.10.0.06a:*:*:*:*:*:*:*,Cisco Web NS (Networking Services) Software 7.10.0.06a,['CVE-2002-0870'],2022-03-20T01:18Z
+3,cpe:2.3:a:cisco:webns:7.10.2.06a:*:*:*:*:*:*:*,Cisco Web NS (Networking Services) Software 7.10.2.06a,['CVE-2002-0870'],2022-03-20T01:18Z
+4,cpe:2.3:a:cisco:webns:7.10.3.05:*:*:*:*:*:*:*,Cisco Web NS (Networking Services) Software 7.10.3.05,['CVE-2002-0870'],2022-03-20T01:18Z
+5,cpe:2.3:a:cisco:webns:7.10.4.05:*:*:*:*:*:*:*,Cisco Web NS (Networking Services) Software 7.10.4.05,['CVE-2002-0870'],2022-03-20T01:18Z
+6,cpe:2.3:a:cisco:webns:7.10.4.07s:*:*:*:*:*:*:*,Cisco Web NS (Networking Services) Software 7.10.4.07s,['CVE-2002-0870'],2022-03-20T01:18Z
+7,cpe:2.3:a:cisco:webns:7.10.5.04:*:*:*:*:*:*:*,Cisco Web NS (Networking Services) Software 7.10.5.04,['CVE-2002-0870'],2022-03-20T01:18Z
+8,cpe:2.3:a:cisco:webns:7.10.05.07s:*:*:*:*:*:*:*,Cisco Web NS (Networking Services) Software 7.10.05.07s,['CVE-2002-0870'],2022-03-20T01:18Z
+9,cpe:2.3:a:cisco:webns:7.10_\(05.07\)s:*:*:*:*:*:*:*,Cisco Web NS (Networking Services) Software 7.10 (05.07)S,"['CVE-2002-0870', 'CVE-2005-0356']",2022-03-20T01:18Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dragonbyte-tech:vbshout:6.2.1:*:*:*:*:vbulletin:*:*,DragonByte Technologies VBShout 6.2.1 for vBulletin,['CVE-2012-6667'],2022-03-20T17:46Z
+1,cpe:2.3:a:dragonbyte-tech:vbshout:6.2.2:*:*:*:*:vbulletin:*:*,DragonByte Technologies VBShout 6.2.2 for vBulletin,['CVE-2012-6667'],2022-03-20T17:46Z
+2,cpe:2.3:a:dragonbyte-tech:vbshout:6.2.3:*:*:*:*:vbulletin:*:*,DragonByte Technologies VBShout 6.2.3 for vBulletin,['CVE-2012-6667'],2022-03-20T17:46Z
+3,cpe:2.3:a:dragonbyte-tech:vbshout:6.2.4:*:*:*:*:vbulletin:*:*,DragonByte Technologies VBShout 6.2.4 for vBulletin,['CVE-2012-6667'],2022-03-20T17:46Z
+4,cpe:2.3:a:dragonbyte-tech:vbshout:6.2.5:*:*:*:*:vbulletin:*:*,DragonByte Technologies VBShout 6.2.5 for vBulletin,['CVE-2012-6667'],2022-03-20T17:46Z
+5,cpe:2.3:a:dragonbyte-tech:vbshout:6.2.6:*:*:*:*:vbulletin:*:*,DragonByte Technologies VBShout 6.2.6 for vBulletin,['CVE-2012-6667'],2022-03-20T17:46Z
+6,cpe:2.3:a:dragonbyte-tech:vbshout:6.2.7:*:*:*:*:vbulletin:*:*,DragonByte Technologies VBShout 6.2.7 for vBulletin,['CVE-2012-6667'],2022-03-20T17:46Z
+7,cpe:2.3:a:dragonbyte-tech:vbshout:6.2.7:patch1:*:*:*:vbulletin:*:*,DragonByte Technologies VBShout 6.2.7 Patch 1 for vBulletin,['CVE-2012-6667'],2022-03-20T17:46Z
+8,cpe:2.3:a:dragonbyte-tech:vbshout:6.2.8:*:*:*:*:vbulletin:*:*,DragonByte Technologies VBShout 6.2.8 for vBulletin,['CVE-2012-6667'],2022-03-20T17:46Z
+9,cpe:2.3:a:dragonbyte-tech:vbshout:6.2.8:patch1:*:*:*:vbulletin:*:*,DragonByte Technologies VBShout 6.2.8 Patch 1 for vBulletin,['CVE-2012-6667'],2022-03-20T17:46Z

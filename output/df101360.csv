@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cambridge_enterprise:jbig-kit:1.1:*:*:*:*:*:*:*,Cambridge Enterprise JBIG-KIT 1.1,['CVE-2013-6369'],2022-03-19T15:08Z
+1,cpe:2.3:a:cambridge_enterprise:jbig-kit:1.2:*:*:*:*:*:*:*,Cambridge Enterprise JBIG-KIT 1.2,['CVE-2013-6369'],2022-03-19T15:08Z
+2,cpe:2.3:a:cambridge_enterprise:jbig-kit:1.3:*:*:*:*:*:*:*,Cambridge Enterprise JBIG-KIT 1.3,['CVE-2013-6369'],2022-03-19T15:08Z
+3,cpe:2.3:a:cambridge_enterprise:jbig-kit:1.4:*:*:*:*:*:*:*,Cambridge Enterprise JBIG-KIT 1.4,['CVE-2013-6369'],2022-03-19T15:08Z
+4,cpe:2.3:a:cambridge_enterprise:jbig-kit:1.5:*:*:*:*:*:*:*,Cambridge Enterprise JBIG-KIT 1.5,['CVE-2013-6369'],2022-03-19T15:08Z
+5,cpe:2.3:a:cambridge_enterprise:jbig-kit:1.6:*:*:*:*:*:*:*,Cambridge Enterprise JBIG-KIT 1.6,['CVE-2013-6369'],2022-03-19T15:08Z
+6,cpe:2.3:a:cambridge_enterprise:jbig-kit:2.0:*:*:*:*:*:*:*,Cambridge Enterprise JBIG-KIT 2.0,['CVE-2013-6369'],2022-03-19T15:08Z
+7,cpe:2.3:a:cambridge_enterprise:jbig-kit:2.1:*:*:*:*:*:*:*,Cambridge Enterprise JBIG-KIT 2.1,[''],2022-03-19T15:08Z
+8,cpe:2.3:a:campaign_monitor_project:campaign_monitor:7.x-1.0:*:*:*:*:drupal:*:*,Campaign Monitor project Campaign Monitor for Drupal 7.x-1.0,['CVE-2015-4364'],2022-03-19T15:08Z
+9,cpe:2.3:a:campustv:campus_link_-_campus_tv_hkusu:2.2:*:*:*:*:android:*:*,campustv Campus Link - Campus TV HKUSU (aka com.campus.tv.hkusu) for android 2.2,['CVE-2014-6783'],2022-03-19T15:08Z

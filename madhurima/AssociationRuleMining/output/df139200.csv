@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:webex_training_center:t31_base:*:*:*:*:*:*:*,Cisco WebEx Training Center T31 Base,['CVE-2017-6753'],2022-03-20T01:17Z
+1,cpe:2.3:a:cisco:webex_training_center:t32_base:*:*:*:*:*:*:*,Cisco WebEx Training Center T32 Base,['CVE-2017-6753'],2022-03-20T01:17Z
+2,cpe:2.3:a:cisco:webex_training_manager_for_firefox_or_chrome:5.26.2802:*:*:*:*:*:*:*,Cisco Webex Training Manager For Firefox Or Chrome 5.26.2802,[''],2022-03-20T01:17Z
+3,cpe:2.3:a:cisco:webex_video_mesh:-:*:*:*:*:*:*:*,Cisco Webex Video Mesh,"['CVE-2018-5390', 'CVE-2019-16005', 'CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:17Z
+4,cpe:2.3:a:cisco:webex_video_mesh:2018.10.04.1692m:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2018.10.04.1692m,"['CVE-2019-16005', 'CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:17Z
+5,cpe:2.3:a:cisco:webex_video_mesh:2019.01.14.1764m.1:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2019.01.14.1764m.1,"['CVE-2019-16005', 'CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:17Z
+6,cpe:2.3:a:cisco:webex_video_mesh:2019.01.29.1773m:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2019.01.29.1773m,"['CVE-2019-16005', 'CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:17Z
+7,cpe:2.3:a:cisco:webex_video_mesh:2019.02.12.1786m:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2019.02.12.1786m,"['CVE-2019-16005', 'CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:17Z
+8,cpe:2.3:a:cisco:webex_video_mesh:2019.02.14.1788m.1:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2019.02.14.1788m.1,"['CVE-2019-16005', 'CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:17Z
+9,cpe:2.3:a:cisco:webex_video_mesh:2019.03.19.1826m:*:*:*:*:*:*:*,Cisco Webex Video Mesh 2019.03.19.1826m,"['CVE-2019-16005', 'CVE-2021-1500', 'CVE-2021-40115']",2022-03-20T01:17Z

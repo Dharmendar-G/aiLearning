@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dns_library_project:dns_library:1.0.0:*:*:*:*:*:*:*,DNS library project DNS library 1.0.0,['CVE-2018-17419'],2022-03-20T16:12Z
+1,cpe:2.3:a:dns_library_project:dns_library:1.0.1:*:*:*:*:*:*:*,DNS library project DNS library 1.0.1,['CVE-2018-17419'],2022-03-20T16:12Z
+2,cpe:2.3:a:dns_library_project:dns_library:1.0.2:*:*:*:*:*:*:*,DNS library project DNS library 1.0.2,['CVE-2018-17419'],2022-03-20T16:12Z
+3,cpe:2.3:a:dns_library_project:dns_library:1.0.3:*:*:*:*:*:*:*,DNS library project DNS library 1.0.3,['CVE-2018-17419'],2022-03-20T16:12Z
+4,cpe:2.3:a:dns_library_project:dns_library:1.0.4:*:*:*:*:*:*:*,DNS library project DNS library 1.0.4,['CVE-2018-17419'],2022-03-20T16:12Z
+5,cpe:2.3:a:dns_library_project:dns_library:1.0.5:*:*:*:*:*:*:*,DNS library project DNS library 1.0.5,['CVE-2018-17419'],2022-03-20T16:12Z
+6,cpe:2.3:a:dns_library_project:dns_library:1.0.6:*:*:*:*:*:*:*,DNS library project DNS library 1.0.6,['CVE-2018-17419'],2022-03-20T16:12Z
+7,cpe:2.3:a:dns_library_project:dns_library:1.0.7:*:*:*:*:*:*:*,DNS library project DNS library 1.0.7,['CVE-2018-17419'],2022-03-20T16:12Z
+8,cpe:2.3:a:dns_library_project:dns_library:1.0.8:*:*:*:*:*:*:*,DNS library project DNS library 1.0.8,['CVE-2018-17419'],2022-03-20T16:12Z
+9,cpe:2.3:a:dns_library_project:dns_library:1.0.9:*:*:*:*:*:*:*,DNS library project DNS library 1.0.9,['CVE-2018-17419'],2022-03-20T16:12Z

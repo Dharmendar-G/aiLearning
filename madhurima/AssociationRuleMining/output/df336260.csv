@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:s5300li_firmware:v200r003c00spc300:*:*:*:*:*:*:*,Huawei S5300LI Firmware V200r003c00 Service Pack c300,"['CVE-2015-3913', 'CVE-2015-8676', 'CVE-2015-8677']",2022-03-21T18:36Z
+1,cpe:2.3:o:huawei:s5300li_firmware:v200r003sph011:*:*:*:*:*:*:*,Huawei S5300LI Firmware V200R003SPH011,[''],2022-03-21T18:36Z
+2,cpe:2.3:o:huawei:s5300li_firmware:v200r005c00:*:*:*:*:*:*:*,Huawei S5300LI Firmware V200R005C00,['CVE-2015-8677'],2022-03-21T18:36Z
+3,cpe:2.3:o:huawei:s5300li_firmware:v200r005c00spc300:*:*:*:*:*:*:*,Huawei S5300LI Firmware V200r005c00 Service Pack c300,"['CVE-2015-3913', 'CVE-2015-8677']",2022-03-21T18:36Z
+4,cpe:2.3:o:huawei:s5300li_firmware:v200r005sph008:*:*:*:*:*:*:*,Huawei S5300LI Firmware V200R005SPH008,[''],2022-03-21T18:36Z
+5,cpe:2.3:o:huawei:s5300li_firmware:v200r006c00:*:*:*:*:*:*:*,Huawei S5300LI Firmware V200R006C00,['CVE-2015-8677'],2022-03-21T18:36Z
+6,cpe:2.3:o:huawei:s5300li_firmware:v200r006c00spc500:*:*:*:*:*:*:*,Huawei S5300LI Firmware V200r006c00 Service Pack c500,"['CVE-2015-3913', 'CVE-2015-8677']",2022-03-21T18:36Z
+7,cpe:2.3:o:huawei:s5300li_firmware:v200r006sph002:*:*:*:*:*:*:*,Huawei S5300LI Firmware V200R006SPH002,[''],2022-03-21T18:36Z
+8,cpe:2.3:o:huawei:s5300li_firmware:v200r007c00spc500:*:*:*:*:*:*:*,Huawei S5300LI Firmware V200r007c00 Service Pack c500,['CVE-2015-3913'],2022-03-21T18:36Z
+9,cpe:2.3:h:huawei:s5300si:-:*:*:*:*:*:*:*,Huawei S5300SI,"['CVE-2015-3913', 'CVE-2015-8676', 'CVE-2015-8677']",2022-03-21T18:36Z

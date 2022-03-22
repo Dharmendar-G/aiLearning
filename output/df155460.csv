@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cognos:office_connection:8.1.0:*:*:*:*:*:*:*,Cognos Office Connection 8.1.0,[''],2022-03-20T06:24Z
+1,cpe:2.3:a:cognos:planning_client:8.3:*:*:*:*:*:*:*,Cognos Planning Client 8.3,[''],2022-03-20T06:24Z
+2,cpe:2.3:a:cognos:planning_client_framework:8.4.2058.0:*:*:*:*:*:*:*,Cognos Planning Client Framework 8.4.2058.0,[''],2022-03-20T06:24Z
+3,cpe:2.3:a:cognos:planning_client_framework:8.4.2513.0:*:*:*:*:*:*:*,Cognos Planning Client Framework 8.4.2513.0,[''],2022-03-20T06:24Z
+4,cpe:2.3:a:cognos:planning_client_framework:8.4.6025.0:*:*:*:*:*:*:*,Cognos Planning Client Framework 8.4.6025.0,[''],2022-03-20T06:24Z
+5,cpe:2.3:a:cognos:planning_client_framework:8.4.6035.0:*:*:*:*:*:*:*,Cognos Planning Client Framework 8.4.6035.0,[''],2022-03-20T06:24Z
+6,cpe:2.3:a:cognos:rich_client_framework:8.4.4486.104:*:*:*:*:*:*:*,Cognos Rich Client Framework 8.4.4486.104,[''],2022-03-20T06:24Z
+7,cpe:2.3:a:cognos:series_7:-:*:*:*:*:*:*:*,Cognos Series 7,[''],2022-03-20T06:24Z
+8,cpe:2.3:a:cognos:series_7:2:*:*:*:*:*:*:*,Cognos Series 7 2,[''],2022-03-20T06:24Z
+9,cpe:2.3:a:cognos:series_7:3:*:*:*:*:*:*:*,Cognos Series 7 3,[''],2022-03-20T06:24Z

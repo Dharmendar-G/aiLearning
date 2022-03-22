@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cmscout:cmscout:2.06:*:*:*:*:*:*:*,CMScout  2.06,"['CVE-2008-6725', 'CVE-2008-6726']",2022-03-20T04:21Z
+1,cpe:2.3:a:cmscout:cmscout:2.08:*:*:*:*:*:*:*,CMScout 2.08,['CVE-2010-5059'],2022-03-20T04:21Z
+2,cpe:2.3:a:cmscout:cmscout:2.09:*:*:*:*:*:*:*,CMScout 2.09,['CVE-2010-2154'],2022-03-20T04:21Z
+3,cpe:2.3:a:cmsdevelopment:business_card_web_builder:-:*:*:*:*:*:*:*,CMSDevelopment Business Card Web Builder,[''],2022-03-20T04:21Z
+4,cpe:2.3:a:cmsdevelopment:business_card_web_builder:0.99:*:*:*:*:*:*:*,CMSDevelopment Business Card Web Builder 0.99,['CVE-2006-4946'],2022-03-20T04:21Z
+5,cpe:2.3:a:cmsdevelopment:business_card_web_builder:2.3:beta:*:*:*:*:*:*,CMSDevelopment Business Card Web Builder 2.3 Beta,['CVE-2006-4946'],2022-03-20T04:21Z
+6,cpe:2.3:a:cmsdevelopment:business_card_web_builder:2.5:beta:*:*:*:*:*:*,CMSDevelopment Business Card Web Builder 2.5 Beta,['CVE-2006-4946'],2022-03-20T04:21Z
+7,cpe:2.3:a:cmseasy:cmseasy:5.6:20161107:*:*:*:*:*:*,CmsEasy 5.6 20161107,[''],2022-03-20T04:21Z
+8,cpe:2.3:a:cmseasy:cmseasy:5.6:20161229:*:*:*:*:*:*,CmsEasy 5.6 20161229,[''],2022-03-20T04:21Z
+9,cpe:2.3:a:cmseasy:cmseasy:5.6:20170105:*:*:*:*:*:*,CmsEasy 5.6 20170105,[''],2022-03-20T04:21Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:version_cue_cs4_server:4.0.1:*:*:*:*:*:*:*,Adobe Version Cue CS4 Server 4.0.1,[''],2022-03-18T12:53Z
+1,cpe:2.3:a:adobe:was_cs3:1.0:*:*:*:*:*:*:*,Adobe Was CS3 1.0,[''],2022-03-18T12:53Z
+2,cpe:2.3:a:adobe:widget_browser:2.0.230:*:*:*:*:*:*:*,Adobe Widget Browser 2.0.230,[''],2022-03-18T12:53Z
+3,cpe:2.3:a:adobe:widget_browser:2.0_build_230:*:*:*:*:*:*:*,Adobe Widget Browser 2.0 Build 230,[''],2022-03-18T12:53Z
+4,cpe:2.3:a:adobe:winsoft_linguistics_plugin:1.0:*:*:*:*:*:*:*,Adobe Winsoft Linguistics Plugin 1.0,[''],2022-03-18T12:53Z
+5,cpe:2.3:a:adobe:winsoft_linguistics_plugin:1.1:*:*:*:*:*:*:*,Adobe Winsoft Linguistics Plugin 1.1,[''],2022-03-18T12:53Z
+6,cpe:2.3:a:adobe:winsoft_linguistics_plugin:1.1:*:*:*:*:*:x64:*,Adobe Winsoft Linguistics Plugin 1.1 (x64) 64-bit,[''],2022-03-18T12:53Z
+7,cpe:2.3:a:adobe:xd:16.0:*:*:*:*:*:*:*,Adobe XD 16.0,"['CVE-2019-7105', 'CVE-2019-7106']",2022-03-18T12:53Z
+8,cpe:2.3:a:adobe:xmp_panels_cs3:1.0:*:*:*:*:*:*:*,Adobe Xmp Panels CS3 1.0,[''],2022-03-18T12:53Z
+9,cpe:2.3:a:adobe:xmp_panels_cs4:2.0:*:*:*:*:*:*:*,Adobe Xmp Panels CS4 2.0,[''],2022-03-18T12:53Z

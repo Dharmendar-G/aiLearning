@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:h3c_ethernet_switch:s5500-28c-pwr-ei:*:*:*:*:*:*:*,HP H3C Ethernet Switch Model S5500-28C-PWR-EI,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:30Z
+1,cpe:2.3:h:hp:h3c_ethernet_switch:s5500-28c-pwr-si:*:*:*:*:*:*:*,HP H3C Ethernet Switch Model S5500-28C-PWR-SI,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:30Z
+2,cpe:2.3:h:hp:h3c_ethernet_switch:s5500-28c-si:*:*:*:*:*:*:*,HP H3C Ethernet Switch Model S5500-28C-SI,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:30Z
+3,cpe:2.3:h:hp:h3c_ethernet_switch:s5500-28f-ei:*:*:*:*:*:*:*,HP H3C Ethernet Switch Model S5500-28F-EI,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:30Z
+4,cpe:2.3:h:hp:h3c_ethernet_switch:s5500-52c-ei:*:*:*:*:*:*:*,HP H3C Ethernet Switch Model S5500-52C-EI,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:30Z
+5,cpe:2.3:h:hp:h3c_ethernet_switch:s5500-52c-pwr-ei:*:*:*:*:*:*:*,HP H3C Ethernet Switch Model S5500-52C-PWR-EI,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:30Z
+6,cpe:2.3:h:hp:h3c_ethernet_switch:s5500-52c-pwr-si:*:*:*:*:*:*:*,HP H3C Ethernet Switch Model S5500-52C-PWR-SI,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:30Z
+7,cpe:2.3:h:hp:h3c_ethernet_switch:s5500-52c-si:*:*:*:*:*:*:*,HP H3C Ethernet Switch Model S5500-52C-SI,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:30Z
+8,cpe:2.3:h:hp:h3c_ethernet_switch:s5600-26c:*:*:*:*:*:*:*,HP H3C Ethernet Switch Model S5600-26C,"['CVE-2013-2340', 'CVE-2013-2341', 'CVE-2013-4806']",2022-03-21T13:30Z
+9,cpe:2.3:h:hp:h3c_ethernet_switch:s5600-26c-pwr:*:*:*:*:*:*:*,HP H3C Ethernet Switch Model S5600-26C-PWR,"['CVE-2013-2340', 'CVE-2013-2341', 'CVE-2013-4806']",2022-03-21T13:30Z

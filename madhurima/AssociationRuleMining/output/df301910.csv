@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:gtranslate:translate_wordpress_with_gtranslate:2.9.5:*:*:*:*:wordpress:*:*,GTranslate Translate WordPress with GTranslate 2.9.5 for WordPress,['CVE-2021-25103'],2022-03-21T08:21Z
+1,cpe:2.3:a:gtranslate:translate_wordpress_with_gtranslate:2.9.6:*:*:*:*:wordpress:*:*,GTranslate Translate WordPress with GTranslate 2.9.6 for WordPress,['CVE-2021-25103'],2022-03-21T08:21Z
+2,cpe:2.3:a:gtranslate:translate_wordpress_with_gtranslate:2.9.7:*:*:*:*:wordpress:*:*,GTranslate Translate WordPress with GTranslate 2.9.7 for WordPress,[''],2022-03-21T08:21Z
+3,cpe:2.3:h:g-u:bks_ebk_ethernet-buskoppler_pro:-:*:*:*:*:*:*:*,Gretsch-Unitas BKS EBK Ethernet-Buskoppler Pro,['CVE-2019-12971'],2022-03-21T08:21Z
+4,cpe:2.3:o:g-u:bks_ebk_ethernet-buskoppler_pro_firmware:3.01:*:*:*:*:*:*:*,Gretsch-Unitas BKS EBK Ethernet-Buskoppler Pro Firmware 3.01,[''],2022-03-21T08:22Z
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,cpe:2.3:a:guardianproject:stegdetect:-:*:*:*:*:*:*:*,Guardian Project stegdetect,['CVE-2018-18599'],2022-03-21T08:21Z
+8,cpe:2.3:a:guardianproject:stegdetect:0.6:*:*:*:*:*:*:*,Guardian Project stegdetect 0.6,['CVE-2018-18599'],2022-03-21T08:22Z
+9,cpe:2.3:h:guardzilla:180_indoor:-:*:*:*:*:*:*:*,Guardzilla 180 Indoor,"['CVE-2018-18600', 'CVE-2018-18602']",2022-03-21T08:22Z

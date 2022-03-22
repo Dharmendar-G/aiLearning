@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bmc:remedy_mid-tier:7.1.00:*:*:*:*:*:*:*,BMC Remedy Mid-Tier 7.1.00,['CVE-2018-18862'],2022-03-19T09:11Z
+1,cpe:2.3:a:bmc:remedy_mid-tier:9.1:sp3:*:*:*:*:*:*,BMC Remedy Mid-Tier 9.1 Service Pack 3,"['CVE-2017-17674', 'CVE-2017-17675', 'CVE-2017-17677', 'CVE-2017-17678']",2022-03-19T09:11Z
+2,cpe:2.3:a:bmc:remedy_smart_reporting:-:*:*:*:*:*:*:*,BMC Remedy Smart Reporting,['CVE-2019-1010147'],2022-03-19T09:11Z
+3,cpe:2.3:a:bmc:remedy_smart_reporting:9.1.03:*:*:*:*:*:*:*,BMC Remedy Smart Reporting 9.1.03,['CVE-2019-11216'],2022-03-19T09:11Z
+4,cpe:2.3:a:bmc:remedy_smart_reporting:9.1.03.001:*:*:*:*:*:*:*,BMC Remedy Smart Reporting 9.1.03.001,['CVE-2019-11216'],2022-03-19T09:11Z
+5,cpe:2.3:a:bmc:remedy_smart_reporting:9.1.04:*:*:*:*:*:*:*,BMC Remedy Smart Reporting 9.1.04,['CVE-2019-11216'],2022-03-19T09:11Z
+6,cpe:2.3:a:bmc:remedy_smart_reporting:9.1.04.002:*:*:*:*:*:*:*,BMC Remedy Smart Reporting 9.1.04.002,['CVE-2019-11216'],2022-03-19T09:11Z
+7,cpe:2.3:a:bmc:remedy_smart_reporting:18.05:*:*:*:*:*:*:*,BMC Remedy Smart Reporting 18.05,['CVE-2019-11216'],2022-03-19T09:11Z
+8,cpe:2.3:a:bmc:remedy_smart_reporting:18.05.05:*:*:*:*:*:*:*,BMC Remedy Smart Reporting 18.05.05,['CVE-2019-11216'],2022-03-19T09:11Z
+9,cpe:2.3:a:bmc:remedy_smart_reporting:19.02:*:*:*:*:*:*:*,BMC Remedy Smart Reporting 19.02,['CVE-2019-11216'],2022-03-19T09:11Z

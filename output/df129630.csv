@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:nac_guest_server_software:2.0.2:*:*:*:*:*:*:*,Cisco Network Access Control (NAC) Guest Server software 2.0.2,['CVE-2011-0963'],2022-03-19T22:59Z
+1,cpe:2.3:a:cisco:nac_guest_server_software:2.0.3:*:*:*:*:*:*:*,Cisco Network Access Control (NAC) Guest Server software 2.0.3,[''],2022-03-19T22:59Z
+2,cpe:2.3:h:cisco:nc55-24h12f-se:-:*:*:*:*:*:*:*,Cisco NC55-24H12F-SE,['CVE-2019-1649'],2022-03-19T22:59Z
+3,cpe:2.3:h:cisco:nc55-36x100g-a-se:-:*:*:*:*:*:*:*,Cisco NC55-36X100G-A-SE,['CVE-2019-1649'],2022-03-19T22:59Z
+4,cpe:2.3:h:cisco:nc55-36x100g-s:-:*:*:*:*:*:*:*,Cisco NC55-36X100G-S,['CVE-2019-1649'],2022-03-19T22:59Z
+5,cpe:2.3:h:cisco:nc55-5504-fc:-:*:*:*:*:*:*:*,Cisco NC55-5504-FC,['CVE-2019-1649'],2022-03-19T22:59Z
+6,cpe:2.3:h:cisco:nc55-5516-fc:-:*:*:*:*:*:*:*,Cisco NC55-5516-FC,['CVE-2019-1649'],2022-03-19T22:59Z
+7,cpe:2.3:h:cisco:nc55-6x200-dwdm-s:-:*:*:*:*:*:*:*,Cisco NC55-6X200-DWDM-S,['CVE-2019-1649'],2022-03-19T22:59Z
+8,cpe:2.3:h:cisco:nc55-mod-a-s:-:*:*:*:*:*:*:*,Cisco NC55-MOD-A-S,['CVE-2019-1649'],2022-03-19T22:59Z
+9,cpe:2.3:h:cisco:nc55-rp:-:*:*:*:*:*:*:*,Cisco NC55-RP -,['CVE-2020-3284'],2022-03-19T22:59Z

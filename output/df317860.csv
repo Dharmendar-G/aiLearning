@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:horde:kronolith:4.1.0:rc1:*:*:*:*:*:*,Horde Kronolith 4.1.0 Release Candidate 1,['CVE-2008-2783'],2022-03-21T12:34Z
+1,cpe:2.3:a:horde:kronolith:4.1.1:*:*:*:*:*:*:*,Horde Kronolith 4.1.1,['CVE-2008-2783'],2022-03-21T12:34Z
+2,cpe:2.3:a:horde:kronolith:4.1.2:*:*:*:*:*:*:*,Horde Kronolith 4.1.2,['CVE-2008-2783'],2022-03-21T12:34Z
+3,cpe:2.3:a:horde:kronolith:4.1.4:*:*:*:*:*:*:*,Horde Kronolith 4.1.4,['CVE-2008-2783'],2022-03-21T12:34Z
+4,cpe:2.3:a:horde:kronolith:4.1.5:*:*:*:*:*:*:*,Horde Kronolith 4.1.5,['CVE-2008-2783'],2022-03-21T12:34Z
+5,cpe:2.3:a:horde:kronolith:4.1.6:*:*:*:*:*:*:*,Horde Kronolith 4.1.6,['CVE-2008-2783'],2022-03-21T12:34Z
+6,cpe:2.3:a:horde:kronolith:4.2.0:-:*:*:*:*:*:*,Horde Kronolith 4.2.0,['CVE-2008-2783'],2022-03-21T12:34Z
+7,cpe:2.3:a:horde:kronolith:4.2.0:alpha1:*:*:*:*:*:*,Horde Kronolith 4.2.0 Alpha 1,['CVE-2008-2783'],2022-03-21T12:34Z
+8,cpe:2.3:a:horde:kronolith:4.2.0:alpha2:*:*:*:*:*:*,Horde Kronolith 4.2.0 Alpha 2,['CVE-2008-2783'],2022-03-21T12:34Z
+9,cpe:2.3:a:horde:kronolith:4.2.0:beta1:*:*:*:*:*:*,Horde Kronolith 4.2.0 Beta 1,['CVE-2008-2783'],2022-03-21T12:34Z

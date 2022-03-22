@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:canon:mf269dw_firmware:-:*:*:*:*:*:*:*,Canon MF269DW Firmware,['CVE-2020-16849'],2022-03-19T15:15Z
+1,cpe:2.3:h:canon:mf269dw_vp:-:*:*:*:*:*:*:*,Canon MF269DW VP,['CVE-2021-20877'],2022-03-19T15:15Z
+2,cpe:2.3:h:canon:mf4570dn:-:*:*:*:*:*:*:*,Canon MF4570DN,"['CVE-2020-16849', 'CVE-2021-20877']",2022-03-19T15:15Z
+3,cpe:2.3:o:canon:mf4570dn_firmware:-:*:*:*:*:*:*:*,Canon MF4570DN Firmware,['CVE-2020-16849'],2022-03-19T15:15Z
+4,cpe:2.3:h:canon:mf4570dw:-:*:*:*:*:*:*:*,Canon MF4570DW,['CVE-2021-20877'],2022-03-19T15:15Z
+5,cpe:2.3:h:canon:mf4580dn:-:*:*:*:*:*:*:*,Canon MF4580DN,['CVE-2020-16849'],2022-03-19T15:15Z
+6,cpe:2.3:o:canon:mf4580dn_firmware:-:*:*:*:*:*:*:*,Canon MF4580DN Firmware,['CVE-2020-16849'],2022-03-19T15:15Z
+7,cpe:2.3:h:canon:mf4770n:-:*:*:*:*:*:*:*,Canon MF4770N,['CVE-2021-20877'],2022-03-19T15:15Z
+8,cpe:2.3:h:canon:mf4780w:-:*:*:*:*:*:*:*,Canon MF4780W,"['CVE-2020-16849', 'CVE-2021-20877']",2022-03-19T15:15Z
+9,cpe:2.3:o:canon:mf4780w_firmware:-:*:*:*:*:*:*:*,Canon MF4780W Firmware,['CVE-2020-16849'],2022-03-19T15:15Z

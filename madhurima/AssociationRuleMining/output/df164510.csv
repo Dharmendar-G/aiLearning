@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cpuid:cpu-z:1.78:*:*:*:*:windows:*:*,CPUID CPU-Z 1.78 for Windows,['CVE-2017-15302'],2022-03-20T08:37Z
+1,cpe:2.3:a:cpuid:cpu-z:1.79:*:*:*:*:windows:*:*,CPUID CPU-Z 1.79 for Windows,['CVE-2017-15302'],2022-03-20T08:37Z
+2,cpe:2.3:a:cpuid:cpu-z:1.80:*:*:*:*:windows:*:*,CPUID CPU-Z 1.80 for Windows,['CVE-2017-15302'],2022-03-20T08:37Z
+3,cpe:2.3:a:cpuid:cpu-z:1.81:*:*:*:*:windows:*:*,CPUID CPU-Z 1.81 for Windows,['CVE-2017-15302'],2022-03-20T08:37Z
+4,cpe:2.3:a:cpuid:cpu-z:1.82:*:*:*:*:windows:*:*,CPUID CPU-Z 1.82 for Windows,[''],2022-03-20T08:37Z
+5,cpe:2.3:a:cpuid:cpu-z:1.83:*:*:*:*:windows:*:*,CPUID CPU-Z 1.83 for Windows,[''],2022-03-20T08:37Z
+6,cpe:2.3:a:cpuid:cpu-z:1.84:*:*:*:*:windows:*:*,CPUID CPU-Z 1.84 for Windows,[''],2022-03-20T08:37Z
+7,cpe:2.3:a:cpuid:cpu-z:1.85:*:*:*:*:windows:*:*,CPUID CPU-Z 1.85 for Windows,[''],2022-03-20T08:37Z
+8,cpe:2.3:a:cpuid:cpu-z:1.86:*:*:*:*:windows:*:*,CPUID CPU-Z 1.86 for Windows,[''],2022-03-20T08:37Z
+9,cpe:2.3:a:cpuid:cpu-z:1.87:*:*:*:*:windows:*:*,CPUID CPU-Z 1.87 for Windows,[''],2022-03-20T08:37Z

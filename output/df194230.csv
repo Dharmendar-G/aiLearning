@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dotit-corp:banque_zitouna:2.1:*:*:*:*:iphone_os:*:*,Dotit-corp Banque Zitouna 2.1 for Iphone Os,['CVE-2017-5914'],2022-03-20T17:16Z
+1,cpe:2.3:a:dotnetblogengine:blogengine.net:1.4.5:*:*:*:*:*:*:*,dotnetblogengine BlogEngine.NET 1.4.5,"['CVE-2008-6476', 'CVE-2013-6953', 'CVE-2019-10718', 'CVE-2019-10719', 'CVE-2019-11392']",2022-03-20T17:16Z
+2,cpe:2.3:a:dotnetblogengine:blogengine.net:1.5:*:*:*:*:*:*:*,dotnetblogengine BlogEngine.NET 1.5,"['CVE-2008-6476', 'CVE-2013-6953', 'CVE-2019-10718', 'CVE-2019-10719', 'CVE-2019-11392']",2022-03-20T17:16Z
+3,cpe:2.3:a:dotnetblogengine:blogengine.net:1.6:*:*:*:*:*:*:*,dotnetblogengine BlogEngine.NET 1.6,"['CVE-2008-6476', 'CVE-2013-6953', 'CVE-2019-10718', 'CVE-2019-10719', 'CVE-2019-11392']",2022-03-20T17:16Z
+4,cpe:2.3:a:dotnetblogengine:blogengine.net:2.0:*:*:*:*:*:*:*,dotnetblogengine BlogEngine.NET 2.0,"['CVE-2008-6476', 'CVE-2013-6953', 'CVE-2019-10718', 'CVE-2019-10719', 'CVE-2019-11392']",2022-03-20T17:16Z
+5,cpe:2.3:a:dotnetblogengine:blogengine.net:2.5:*:*:*:*:*:*:*,dotnetblogengine BlogEngine.NET 2.5,"['CVE-2008-6476', 'CVE-2013-6953', 'CVE-2019-10718', 'CVE-2019-10719', 'CVE-2019-11392']",2022-03-20T17:16Z
+6,cpe:2.3:a:dotnetblogengine:blogengine.net:2.6:*:*:*:*:*:*:*,dotnetblogengine BlogEngine.NET 2.6,"['CVE-2008-6476', 'CVE-2013-6953', 'CVE-2019-10718', 'CVE-2019-10719', 'CVE-2019-11392']",2022-03-20T17:16Z
+7,cpe:2.3:a:dotnetblogengine:blogengine.net:2.7:*:*:*:*:*:*:*,dotnetblogengine BlogEngine.NET 2.7,"['CVE-2008-6476', 'CVE-2013-6953', 'CVE-2019-10718', 'CVE-2019-10719', 'CVE-2019-11392']",2022-03-20T17:16Z
+8,cpe:2.3:a:dotnetblogengine:blogengine.net:2.8:*:*:*:*:*:*:*,dotnetblogengine BlogEngine.NET 2.8,"['CVE-2008-6476', 'CVE-2013-6953', 'CVE-2019-10718', 'CVE-2019-10719', 'CVE-2019-11392']",2022-03-20T17:16Z
+9,cpe:2.3:a:dotnetfoundation:piranha_cms:4.0.0:-:*:*:*:*:*:*,.NET Foundation Piranha CMS 4.0.0,['CVE-2021-25976'],2022-03-20T17:16Z

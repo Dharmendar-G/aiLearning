@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:net.commerce_start:-:*:*:*:*:*:*:*,IBM Net.Commerce Start,[''],2022-03-21T21:21Z
+1,cpe:2.3:a:ibm:net.data:-:*:*:*:*:*:*:*,IBM Net.Data,"['CVE-2000-0677', 'CVE-2003-1282']",2022-03-21T21:21Z
+2,cpe:2.3:a:ibm:net.data:7.0:*:*:*:*:*:*:*,IBM Net.Data 7.0,"['CVE-2000-0677', 'CVE-2000-1110', 'CVE-2003-1282', 'CVE-2004-1442']",2022-03-21T21:21Z
+3,cpe:2.3:a:ibm:net.data:7.2:*:*:*:*:*:*:*,IBM Net.Data 7.2,"['CVE-2000-0677', 'CVE-2003-1282', 'CVE-2004-1442']",2022-03-21T21:21Z
+4,cpe:2.3:h:ibm:netezza:6.0.5:*:*:*:*:*:*:*,IBM Netezza 6.0.5,"['CVE-2012-5760', 'CVE-2012-5761', 'CVE-2012-5762', 'CVE-2012-5763', 'CVE-2012-5940', 'CVE-2012-5941']",2022-03-21T21:21Z
+5,cpe:2.3:h:ibm:netezza:6.0.8:*:*:*:*:*:*:*,IBM Netezza 6.0.8,"['CVE-2012-5760', 'CVE-2012-5761', 'CVE-2012-5762', 'CVE-2012-5763', 'CVE-2012-5940', 'CVE-2012-5941']",2022-03-21T21:21Z
+6,cpe:2.3:h:ibm:netezza:7.0:*:*:*:*:*:*:*,IBM Netezza 7.0,"['CVE-2012-5760', 'CVE-2012-5761', 'CVE-2012-5762', 'CVE-2012-5763', 'CVE-2012-5940', 'CVE-2012-5941']",2022-03-21T21:21Z
+7,cpe:2.3:a:ibm:netezza_performance_portal:2.0.0.0:*:*:*:*:*:*:*,IBM Netezza Performance Portal 2.0.0.0,['CVE-2014-0848'],2022-03-21T21:22Z
+8,cpe:2.3:a:ibm:netezza_performance_portal:2.0.0.1:*:*:*:*:*:*:*,IBM Netezza Performance Portal 2.0.0.1,"['CVE-2013-6731', 'CVE-2014-0848']",2022-03-21T21:22Z
+9,cpe:2.3:a:ibm:netezza_performance_portal:2.0.0.2:*:*:*:*:*:*:*,IBM Netezza Performance Portal 2.0.0.2,"['CVE-2013-6731', 'CVE-2014-0848']",2022-03-21T21:22Z

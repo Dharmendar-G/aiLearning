@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:calamine_project:calamine:0.14.1:*:*:*:*:rust:*:*,Calamine Project Calamine 0.14.1 for Rust,['CVE-2021-26951'],2022-03-19T14:49Z
+1,cpe:2.3:a:calamine_project:calamine:0.14.2:*:*:*:*:rust:*:*,Calamine Project Calamine 0.14.2 for Rust,['CVE-2021-26951'],2022-03-19T14:49Z
+2,cpe:2.3:a:calamine_project:calamine:0.14.3:*:*:*:*:rust:*:*,Calamine Project Calamine 0.14.3 for Rust,['CVE-2021-26951'],2022-03-19T14:49Z
+3,cpe:2.3:a:calamine_project:calamine:0.14.4:*:*:*:*:rust:*:*,Calamine Project Calamine 0.14.4 for Rust,['CVE-2021-26951'],2022-03-19T14:49Z
+4,cpe:2.3:a:calamine_project:calamine:0.14.6:*:*:*:*:rust:*:*,Calamine Project Calamine 0.14.6 for Rust,['CVE-2021-26951'],2022-03-19T14:49Z
+5,cpe:2.3:a:calamine_project:calamine:0.14.7:*:*:*:*:rust:*:*,Calamine Project Calamine 0.14.7 for Rust,['CVE-2021-26951'],2022-03-19T14:49Z
+6,cpe:2.3:a:calamine_project:calamine:0.14.8:*:*:*:*:rust:*:*,Calamine Project Calamine 0.14.8 for Rust,['CVE-2021-26951'],2022-03-19T14:49Z
+7,cpe:2.3:a:calamine_project:calamine:0.14.9:*:*:*:*:rust:*:*,Calamine Project Calamine 0.14.9 for Rust,['CVE-2021-26951'],2022-03-19T14:49Z
+8,cpe:2.3:a:calamine_project:calamine:0.14.10:*:*:*:*:rust:*:*,Calamine Project Calamine 0.14.10 for Rust,['CVE-2021-26951'],2022-03-19T14:49Z
+9,cpe:2.3:a:calamine_project:calamine:0.15.0:*:*:*:*:rust:*:*,Calamine Project Calamine 0.15.0 for Rust,['CVE-2021-26951'],2022-03-19T14:49Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:data_protection:7.1.3.1:*:*:*:*:sap_for_db2:*:*,IBM Data Protection 7.1.3.1 for SAP For DB2,['CVE-2018-1987'],2022-03-21T20:08Z
+1,cpe:2.3:a:ibm:data_protection:7.1.3.1:*:*:*:*:sap_for_oracle:*:*,IBM Data Protection 7.1.3.1 for SAP For Oracle,['CVE-2018-1987'],2022-03-21T20:08Z
+2,cpe:2.3:a:ibm:data_protection:7.1.3.1:*:*:*:*:sap_hana:*:*,IBM Data Protection 7.1.3.1 for SAP HANA,['CVE-2018-1987'],2022-03-21T20:08Z
+3,cpe:2.3:a:ibm:data_protection:8.1.0.0:*:*:*:*:sap_for_db2:*:*,IBM Data Protection 8.1.0.0 for SAP For DB2,['CVE-2018-1987'],2022-03-21T20:08Z
+4,cpe:2.3:a:ibm:data_protection:8.1.0.0:*:*:*:*:sap_for_oracle:*:*,IBM Data Protection 8.1.0.0 for SSAPap For Oracle,['CVE-2018-1987'],2022-03-21T20:08Z
+5,cpe:2.3:a:ibm:data_protection:8.1.0.0:*:*:*:*:sap_hana:*:*,IBM Data Protection 8.1.0.0 for SAP HANA,['CVE-2018-1987'],2022-03-21T20:08Z
+6,cpe:2.3:a:ibm:data_protection:8.1.4.0:*:*:*:*:sap_for_db2:*:*,IBM Data Protection 8.1.4.0 for SAP For Db2,['CVE-2018-1987'],2022-03-21T20:08Z
+7,cpe:2.3:a:ibm:data_protection:8.1.4.0:*:*:*:*:sap_for_oracle:*:*,IBM Data Protection 8.1.4.0 for SAP For Oracle,['CVE-2018-1987'],2022-03-21T20:08Z
+8,cpe:2.3:a:ibm:data_protection:8.1.6.0:*:*:*:*:sap_hana:*:*,IBM Data Protection 8.1.6.0 for SAP HANA,['CVE-2018-1987'],2022-03-21T20:08Z
+9,cpe:2.3:a:ibm:data_risk_manager:2.0.1:*:*:*:*:*:*:*,IBM Data Risk Manager 2.0.1,"['CVE-2020-4427', 'CVE-2020-4428', 'CVE-2020-4429', 'CVE-2020-4430', 'CVE-2020-4611', 'CVE-2020-4612', 'CVE-2020-4613', 'CVE-2020-4614', 'CVE-2020-4615', 'CVE-2020-4616', 'CVE-2020-4617', 'CVE-2020-4618', 'CVE-2020-4619', 'CVE-2020-4620', 'CVE-2020-4621', 'CVE-2020-4622']",2022-03-21T20:08Z

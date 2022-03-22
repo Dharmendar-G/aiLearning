@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bad_behavior_project:bad_behavior:6.x-2.2214:*:*:*:*:drupal:*:*,Bad Behavior Project Bad Behavior 6.x-2.2214 for Drupal,['CVE-2014-8735'],2022-03-19T06:01Z
+1,cpe:2.3:a:bad_behavior_project:bad_behavior:6.x-2.2215:*:*:*:*:drupal:*:*,Bad Behavior project Bad Behavior for Drupal 6.x-2.2215,['CVE-2014-8735'],2022-03-19T06:01Z
+2,cpe:2.3:a:bad_behavior_project:bad_behavior:6.x-2.2216:*:*:*:*:drupal:*:*,Bad Behavior Project Bad Behavior 6.x-2.2216 for Drupal,[''],2022-03-19T06:01Z
+3,cpe:2.3:a:bad_behavior_project:bad_behavior:6.x-2.x:dev:*:*:*:drupal:*:*,Bad Behavior Project Bad Behavior 6.x-2.x Dev for Drupal,[''],2022-03-19T06:01Z
+4,cpe:2.3:a:bad_behavior_project:bad_behavior:7.x-2.220:*:*:*:*:drupal:*:*,Bad Behavior Project Bad Behavior 7.x-2.220 for Drupal,['CVE-2014-8735'],2022-03-19T06:01Z
+5,cpe:2.3:a:bad_behavior_project:bad_behavior:7.x-2.221:*:*:*:*:drupal:*:*,Bad Behavior Project Bad Behavior 7.x-2.221 for Drupal,['CVE-2014-8735'],2022-03-19T06:01Z
+6,cpe:2.3:a:bad_behavior_project:bad_behavior:7.x-2.222:*:*:*:*:drupal:*:*,Bad Behavior Project Bad Behavior 7.x-2.222 for Drupal,['CVE-2014-8735'],2022-03-19T06:01Z
+7,cpe:2.3:a:bad_behavior_project:bad_behavior:7.x-2.223:*:*:*:*:drupal:*:*,Bad Behavior Project Bad Behavior 7.x-2.223 for Drupal,['CVE-2014-8735'],2022-03-19T06:01Z
+8,cpe:2.3:a:bad_behavior_project:bad_behavior:7.x-2.225:*:*:*:*:drupal:*:*,Bad Behavior Project Bad Behavior 7.x-2.225 for Drupal,['CVE-2014-8735'],2022-03-19T06:01Z
+9,cpe:2.3:a:bad_behavior_project:bad_behavior:7.x-2.226:*:*:*:*:drupal:*:*,Bad Behavior Project Bad Behavior 7.x-2.226 for Drupal,['CVE-2014-8735'],2022-03-19T06:01Z

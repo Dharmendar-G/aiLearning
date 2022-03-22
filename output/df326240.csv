@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:officejet_6950_p4c81a:-:*:*:*:*:*:*:*,HP OfficeJet 6950 P4C81A,"['CVE-2020-28416', 'CVE-2020-28419']",2022-03-21T15:28Z
+1,cpe:2.3:o:hp:officejet_6950_p4c81a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET 6950 P4C81A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:28Z
+2,cpe:2.3:o:hp:officejet_6950_p4c81a_firmware:40.7.1094:*:*:*:*:*:*:*,HP OFFICEJET 6950 P4C81A FIRMWARE 40.7.1094,[''],2022-03-21T15:28Z
+3,cpe:2.3:h:hp:officejet_6950_p4c82a:-:*:*:*:*:*:*:*,HP OfficeJet 6950 P4C82A,"['CVE-2020-28416', 'CVE-2020-28419']",2022-03-21T15:28Z
+4,cpe:2.3:o:hp:officejet_6950_p4c82a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET 6950 P4C82A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:28Z
+5,cpe:2.3:o:hp:officejet_6950_p4c82a_firmware:40.7.1094:*:*:*:*:*:*:*,HP OFFICEJET 6950 P4C82A FIRMWARE 40.7.1094,[''],2022-03-21T15:28Z
+6,cpe:2.3:h:hp:officejet_6950_p4c84a:-:*:*:*:*:*:*:*,HP OfficeJet 6950 P4C84A,"['CVE-2020-28416', 'CVE-2020-28419']",2022-03-21T15:28Z
+7,cpe:2.3:o:hp:officejet_6950_p4c84a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET 6950 P4C84A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:28Z
+8,cpe:2.3:o:hp:officejet_6950_p4c84a_firmware:40.7.1094:*:*:*:*:*:*:*,HP OFFICEJET 6950 P4C84A FIRMWARE 40.7.1094,[''],2022-03-21T15:28Z
+9,cpe:2.3:h:hp:officejet_6950_p4c85a:-:*:*:*:*:*:*:*,HP OfficeJet 6950 P4C85A,"['CVE-2020-28416', 'CVE-2020-28419']",2022-03-21T15:28Z

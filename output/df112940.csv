@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:circontrol:scada:4.3:*:*:*:*:*:*:*,CIRCONTROL Scada 4.3,[''],2022-03-19T17:45Z
+1,cpe:2.3:h:circutor:compact_dc-s_basic:-:*:*:*:*:*:*:*,CIRCUTOR COMPACT DC-S BASIC,['CVE-2021-26777'],2022-03-19T17:45Z
+2,cpe:2.3:o:circutor:compact_dc-s_basic_firmware:1.2.17:*:*:*:*:*:*:*,CIRCUTOR COMPACT DC-S BASIC Firmware 1.2.17,['CVE-2021-26777'],2022-03-19T17:45Z
+3,cpe:2.3:h:circutor:sge-plc1000:-:*:*:*:*:*:*:*,Circutor SGE-PLC1000,"['CVE-2021-33841', 'CVE-2021-33842']",2022-03-19T17:45Z
+4,cpe:2.3:o:circutor:sge-plc1000_firmware:0.9.2b:*:*:*:*:*:*:*,Circutor SGE-PLC1000 Firmware 0.9.2b,"['CVE-2021-33841', 'CVE-2021-33842']",2022-03-19T17:45Z
+5,cpe:2.3:a:cirt.net:nikto:2.1.6:*:*:*:*:*:*:*,CIRT.net Nikto 2.1.6,['CVE-2018-11652'],2022-03-19T17:45Z
+6,cpe:2.3:h:cisco:1000v:-:*:*:*:*:*:*:*,Cisco 1000V -,['CVE-2020-3508'],2022-03-19T17:45Z
+7,cpe:2.3:a:cisco:1000v_virtual_ethernet_module_\(vem\):4.0\(4\):sv1\(1\):*:*:*:*:*:*,Cisco Nexus 1000V Virtual Ethernet Module (VEM) 4.0(4) SV1(1),['CVE-2011-0355'],2022-03-19T17:45Z
+8,cpe:2.3:a:cisco:1000v_virtual_ethernet_module_\(vem\):4.0\(4\):sv1\(2\):*:*:*:*:*:*,Cisco Nexus 1000V Virtual Ethernet Module (VEM) 4.0(4) SV1(2),['CVE-2011-0355'],2022-03-19T17:45Z
+9,cpe:2.3:a:cisco:1000v_virtual_ethernet_module_\(vem\):4.0\(4\):sv1\(3\):*:*:*:*:*:*,Cisco Nexus 1000V Virtual Ethernet Module (VEM) 4.0(4) SV1(3),['CVE-2011-0355'],2022-03-19T17:45Z

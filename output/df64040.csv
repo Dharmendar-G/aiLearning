@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avast:avast_pro_antivirus:11.1.2245:*:*:*:*:*:*:*,Avast Pro Antivirus 11.1.2245,['CVE-2015-8620'],2022-03-19T03:57Z
+1,cpe:2.3:a:avast:avg_antitrack:-:*:*:*:*:*:*:*,Avast AVG AntiTrack,['CVE-2020-8987'],2022-03-19T03:57Z
+2,cpe:2.3:a:avast:avg_antitrack:2.0.0.178:*:*:*:*:*:*:*,Avast AVG AntiTrack 2.0.0.178,[''],2022-03-19T03:58Z
+3,cpe:2.3:a:avast:avg_antivirus:20.4:*:*:*:free:*:*:*,Avast AVG AntiVirus 20.4 Free Edition,[''],2022-03-19T03:58Z
+4,cpe:2.3:a:avast:business_security:11.1.2241:*:*:*:*:*:*:*,Avast Business Security 11.1.2241,['CVE-2016-4025'],2022-03-19T03:58Z
+5,cpe:2.3:a:avast:business_security:11.1.2245:*:*:*:*:*:*:*,Avast Business Security 11.1.2245,['CVE-2016-4025'],2022-03-19T03:58Z
+6,cpe:2.3:a:avast:business_security:11.1.2253:*:*:*:*:*:*:*,Avast Business Security 11.1.2253,['CVE-2016-4025'],2022-03-19T03:58Z
+7,cpe:2.3:a:avast:business_security:11.1.2260:*:*:*:*:*:*:*,Avast Business Security 11.1.2260,['CVE-2016-4025'],2022-03-19T03:58Z
+8,cpe:2.3:a:avast:business_security:11.1.2261:*:*:*:*:*:*:*,Avast Business Security 11.1.2261,['CVE-2016-4025'],2022-03-19T03:58Z
+9,cpe:2.3:a:avast:business_security:11.1.2262:*:*:*:*:*:*:*,Avast Business Security 11.1.2262,['CVE-2016-4025'],2022-03-19T03:58Z

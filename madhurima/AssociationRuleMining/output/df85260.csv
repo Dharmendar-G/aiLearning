@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:boot2docker:boot2docker:18.09.3:-:*:*:-:*:*:*,Boot2docker 18.09.3,[''],2022-03-19T09:55Z
+1,cpe:2.3:o:boot2docker:boot2docker:18.09.3:rc1:*:*:-:*:*:*,Boot2docker 18.09.3 Release Candidate 1,[''],2022-03-19T09:55Z
+2,cpe:2.3:o:boot2docker:boot2docker:18.09.4:-:*:*:-:*:*:*,Boot2docker 18.09.4,[''],2022-03-19T09:55Z
+3,cpe:2.3:o:boot2docker:boot2docker:18.09.4:rc1:*:*:-:*:*:*,Boot2docker 18.09.4 Release Candidate 1,[''],2022-03-19T09:55Z
+4,cpe:2.3:o:boot2docker:boot2docker:18.09.5:-:*:*:-:*:*:*,Boot2docker 18.09.5,[''],2022-03-19T09:55Z
+5,cpe:2.3:o:boot2docker:boot2docker:18.09.5:rc1:*:*:-:*:*:*,Boot2docker 18.09.5 Release Candidate 1,[''],2022-03-19T09:55Z
+6,cpe:2.3:o:boot2docker:boot2docker:18.09.6:-:*:*:-:*:*:*,Boot2docker 18.09.6,[''],2022-03-19T09:55Z
+7,cpe:2.3:o:boot2docker:boot2docker:18.09.6:rc1:*:*:-:*:*:*,Boot2docker 18.09.6 Release Candidate 1,[''],2022-03-19T09:55Z
+8,cpe:2.3:o:boot2docker:boot2docker:18.09.7:-:*:*:-:*:*:*,Boot2docker 18.09.7,[''],2022-03-19T09:55Z
+9,cpe:2.3:o:boot2docker:boot2docker:18.09.7:rc1:*:*:-:*:*:*,Boot2docker 18.09.7 Release Candidate 1,[''],2022-03-19T09:55Z

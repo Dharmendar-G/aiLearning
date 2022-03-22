@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:secure_access_control_server:4.2:-:windows:*:*:*:*:*,Cisco Secure Access Control Server (ACS) 4.2 for Windows,"['CVE-2005-4499', 'CVE-2013-3466']",2022-03-19T23:58Z
+1,cpe:2.3:a:cisco:secure_access_control_server:4.2:-:windows:*:*:*:*:*,Cisco Secure Access Control Server (ACS) 4.2 for Windows,"['CVE-2005-4499', 'CVE-2013-3466']",2022-03-19T23:58Z
+2,cpe:2.3:a:cisco:secure_access_control_server:4.2.1:-:windows:*:*:*:*:*,Cisco Secure Access Control Server (ACS) 4.2.1 for Windows,"['CVE-2005-4499', 'CVE-2013-3466']",2022-03-19T23:58Z
+3,cpe:2.3:a:cisco:secure_access_control_server:4.2.1.15.0:*:*:*:*:*:*:*,Cisco Secure Access Control Server (ACS) 4.2.1.15.0,"['CVE-2005-4499', 'CVE-2013-3466']",2022-03-19T23:58Z
+4,cpe:2.3:a:cisco:secure_access_control_server:4.2.1.15.1:*:*:*:*:*:*:*,Cisco Secure Access Control Server (ACS) 4.2.1.15.1,"['CVE-2005-4499', 'CVE-2013-3466']",2022-03-19T23:58Z
+5,cpe:2.3:a:cisco:secure_access_control_server:4.2.1.15.2:*:*:*:*:*:*:*,Cisco Secure Access Control Server (ACS) 4.2.1.15.2,"['CVE-2005-4499', 'CVE-2013-3466']",2022-03-19T23:58Z
+6,cpe:2.3:a:cisco:secure_access_control_server:4.2.1.15.3:*:*:*:*:*:*:*,Cisco Secure Access Control Server (ACS) 4.2.1.15.3,"['CVE-2005-4499', 'CVE-2013-3466']",2022-03-19T23:58Z
+7,cpe:2.3:a:cisco:secure_access_control_server:4.2.1.15.4:*:*:*:*:*:*:*,Cisco Secure Access Control Server (ACS) 4.2.1.15.4,"['CVE-2005-4499', 'CVE-2013-3466']",2022-03-19T23:58Z
+8,cpe:2.3:a:cisco:secure_access_control_server:4.2.1.15.6:*:*:*:*:*:*:*,Cisco Secure Access Control Server (ACS) 4.2.1.15.6,"['CVE-2005-4499', 'CVE-2013-3466']",2022-03-19T23:58Z
+9,cpe:2.3:a:cisco:secure_access_control_server:4.2.1.15.7:*:*:*:*:*:*:*,Cisco Secure Access Control Server (ACS) 4.2.1.15.7,"['CVE-2005-4499', 'CVE-2013-3466']",2022-03-19T23:58Z

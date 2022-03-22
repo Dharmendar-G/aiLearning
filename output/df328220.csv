@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:prodesk_400_g5_small_form_factor_pc:-:*:*:*:*:*:*:*,HP ProDesk 400 G5 Small Form Factor PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:54Z
+1,cpe:2.3:h:hp:prodesk_400_g6_desktop_mini_pc:-:*:*:*:*:*:*:*,HP ProDesk 400 G6 Desktop Mini PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:54Z
+2,cpe:2.3:h:hp:prodesk_400_g6_microtower_pc:-:*:*:*:*:*:*:*,HP ProDesk 400 G6 Microtower PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:54Z
+3,cpe:2.3:h:hp:prodesk_400_g6_mt:-:*:*:*:*:*:*:*,HP ProDesk 400 G6 MT,['CVE-2019-18913'],2022-03-21T15:54Z
+4,cpe:2.3:o:hp:prodesk_400_g6_mt_firmware:-:*:*:*:*:*:*:*,HP ProDesk 400 G6 MT Firmware,['CVE-2019-18913'],2022-03-21T15:54Z
+5,cpe:2.3:o:hp:prodesk_400_g6_mt_firmware:02.04.01:*:*:*:*:*:*:*,HP ProDesk 400 G6 MT Firmware 02.04.01,[''],2022-03-21T15:54Z
+6,cpe:2.3:h:hp:prodesk_400_g6_sff:-:*:*:*:*:*:*:*,HP ProDesk 400 G6 SFF,['CVE-2019-18913'],2022-03-21T15:54Z
+7,cpe:2.3:o:hp:prodesk_400_g6_sff_firmware:-:*:*:*:*:*:*:*,HP ProDesk 400 G6 SFF Firmware,['CVE-2019-18913'],2022-03-21T15:54Z
+8,cpe:2.3:o:hp:prodesk_400_g6_sff_firmware:02.04.02:*:*:*:*:*:*:*,HP ProDesk 400 G6 SFF Firmware 02.04.02,[''],2022-03-21T15:54Z
+9,cpe:2.3:h:hp:prodesk_400_g6_small_form_factor_pc:-:*:*:*:*:*:*:*,HP ProDesk 400 G6 Small Form Factor PC,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:54Z

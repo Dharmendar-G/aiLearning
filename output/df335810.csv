@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:p9_lite_firmware:vns-l21c185b130:*:*:*:*:*:*:*,Huawei P9 Lite Firmware VNS-L21C185B130,"['CVE-2016-8762', 'CVE-2016-8763', 'CVE-2016-8764', 'CVE-2017-17313', 'CVE-2017-2697']",2022-03-21T18:25Z
+1,cpe:2.3:o:huawei:p9_lite_firmware:vns-l21c185b150:*:*:*:*:*:*:*,Huawei P9 Lite Firmware VNS-L21C185B150,['CVE-2017-17313'],2022-03-21T18:25Z
+2,cpe:2.3:o:huawei:p9_lite_firmware:vns-l31c02b341:*:*:*:*:*:*:*,Huawei P9 Lite Firmware VNS-L31C02B341,['CVE-2017-17313'],2022-03-21T18:25Z
+3,cpe:2.3:o:huawei:p9_lite_firmware:vns-l31c440b390:*:*:*:*:*:*:*,Huawei P9 Lite Firmware VNS-L31C440B390,['CVE-2017-17313'],2022-03-21T18:25Z
+4,cpe:2.3:o:huawei:p9_lite_firmware:vns-l31c636b396:*:*:*:*:*:*:*,Huawei P9 Lite Firmware VNS-L31C636B396,[''],2022-03-21T18:25Z
+5,cpe:2.3:o:huawei:p9_plus_firmware:eva-l09c636b388:*:*:*:*:*:*:*,Huawei P9 Plus Firmware Eva-l09c636b388,"['CVE-2016-8783', 'CVE-2017-17171', 'CVE-2017-2711', 'CVE-2017-2731', 'CVE-2017-2734', 'CVE-2017-8140']",2022-03-21T18:25Z
+6,cpe:2.3:o:huawei:p9_plus_firmware:vie-al10:*:*:*:*:*:*:*,Huawei P9 Plus Firmware VIE-AL10,"['CVE-2016-8783', 'CVE-2017-17171', 'CVE-2017-2711', 'CVE-2017-2731', 'CVE-2017-2734', 'CVE-2017-8140']",2022-03-21T18:25Z
+7,cpe:2.3:o:huawei:p9_plus_firmware:vie-al10bc00b353:*:*:*:*:*:*:*,Huawei P9 Plus Firmware VIE-AL10BC00B353,"['CVE-2016-8783', 'CVE-2017-17171', 'CVE-2017-2711', 'CVE-2017-2731', 'CVE-2017-2734']",2022-03-21T18:25Z
+8,cpe:2.3:o:huawei:p9_plus_firmware:vie-al10bc00b356:*:*:*:*:*:*:*,Huawei P9 Plus Firmware VIE-AL10BC00B356,"['CVE-2017-17171', 'CVE-2017-2711', 'CVE-2017-2731', 'CVE-2017-2734']",2022-03-21T18:25Z
+9,cpe:2.3:o:huawei:p9_plus_firmware:vie-al10bc00b386:*:*:*:*:*:*:*,Huawei P9 Plus Firmware VIE-AL10BC00B386,"['CVE-2017-17171', 'CVE-2017-2711', 'CVE-2017-2731']",2022-03-21T18:25Z

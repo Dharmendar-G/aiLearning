@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aegir_project:aegir:11.0.0:*:*:*:*:node.js:*:*,aegir Project aegir 11.0.0 for Node.js,[''],2022-03-18T13:19Z
+1,cpe:2.3:a:aegir_project:aegir:11.0.1:*:*:*:*:node.js:*:*,aegir Project aegir 11.0.1 for Node.js,[''],2022-03-18T13:19Z
+2,cpe:2.3:a:aegir_project:aegir:11.0.2:*:*:*:*:node.js:*:*,aegir Project aegir 11.0.2 for Node.js,[''],2022-03-18T13:19Z
+3,cpe:2.3:a:aegir_project:aegir:12.0.0:*:*:*:*:node.js:*:*,aegir Project aegir 12.0.0 for Node.js,['CVE-2017-16225'],2022-03-18T13:19Z
+4,cpe:2.3:a:aegir_project:aegir:12.0.1:*:*:*:*:node.js:*:*,aegir Project aegir 12.0.1 for Node.js,['CVE-2017-16225'],2022-03-18T13:19Z
+5,cpe:2.3:a:aegir_project:aegir:12.0.2:*:*:*:*:node.js:*:*,aegir Project aegir 12.0.2 for Node.js,['CVE-2017-16225'],2022-03-18T13:19Z
+6,cpe:2.3:a:aegir_project:aegir:12.0.3:*:*:*:*:node.js:*:*,aegir Project aegir 12.0.3 for Node.js,['CVE-2017-16225'],2022-03-18T13:19Z
+7,cpe:2.3:a:aegir_project:aegir:12.0.4:*:*:*:*:node.js:*:*,aegir Project aegir 12.0.4 for Node.js,['CVE-2017-16225'],2022-03-18T13:19Z
+8,cpe:2.3:a:aegir_project:aegir:12.0.5:*:*:*:*:node.js:*:*,aegir Project aegir 12.0.5 for Node.js,['CVE-2017-16225'],2022-03-18T13:19Z
+9,cpe:2.3:a:aegir_project:aegir:12.0.6:*:*:*:*:node.js:*:*,aegir Project aegir 12.0.6 for Node.js,['CVE-2017-16225'],2022-03-18T13:19Z

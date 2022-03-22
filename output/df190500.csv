@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:d-link:dsl-2770l:-:*:*:*:*:*:*:*,D-Link DSL-2770L,[''],2022-03-20T16:04Z
+1,cpe:2.3:h:d-link:dsl-2875al:-:*:*:*:*:*:*:*,D-link DSL-2875AL,"['CVE-2019-15655', 'CVE-2019-15656']",2022-03-20T16:04Z
+2,cpe:2.3:h:d-link:dsl-2877al:-:*:*:*:*:*:*:*,D-link DSL-2877AL,['CVE-2019-15656'],2022-03-20T16:04Z
+3,cpe:2.3:h:d-link:dsl2888a:-:*:*:*:*:*:*:*,D-link Dsl2888a,"['CVE-2020-24578', 'CVE-2020-24579', 'CVE-2020-24580', 'CVE-2020-24581']",2022-03-20T16:04Z
+4,cpe:2.3:h:d-link:dsl-2888a:revision_t:*:*:*:*:*:*:*,D-Link DSL-2888A RT,[''],2022-03-20T16:04Z
+5,cpe:2.3:o:d-link:dsl2888a_firmware:au_2.31_v1.1.47ae55:*:*:*:*:*:*:*,D-link Dsl2888a Firmware Au 2.31 V1.1.47ae55,[''],2022-03-20T16:04Z
+6,cpe:2.3:h:d-link:dsl-3782:-:*:*:*:*:*:*:*,D-Link DSL-3782,"['CVE-2018-10713', 'CVE-2018-10746', 'CVE-2018-10747', 'CVE-2018-10748', 'CVE-2018-10749', 'CVE-2018-10750', 'CVE-2018-8898', 'CVE-2018-8941']",2022-03-20T16:04Z
+7,cpe:2.3:o:d-link:dsl-3782_firmware:3.10.0.24:*:*:*:*:*:*:*,D-Link DSL-3782 Firmware 3.10.0.24,['CVE-2018-8898'],2022-03-20T16:04Z
+8,cpe:2.3:h:d-link:dsl-7740c:-:*:*:*:*:*:*:*,D-Link DSL-7740C,[''],2022-03-20T16:04Z
+9,cpe:2.3:h:d-link:dsp-w215:a1:*:*:*:*:*:*:*,D-LINK DSP-W215 A1,"['CVE-2014-3936', 'CVE-2020-13135', 'CVE-2020-13136']",2022-03-20T16:04Z

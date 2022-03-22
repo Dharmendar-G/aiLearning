@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:wap4410n_firmware:2.0.2.1:*:*:*:*:*:*:*,Cisco WAP4410N wireless access point firmware 2.0.2.1,"['CVE-2014-0659', 'CVE-2015-6358']",2022-03-20T01:08Z
+1,cpe:2.3:o:cisco:wap4410n_firmware:2.0.3.3:*:*:*:*:*:*:*,Cisco WAP4410N wireless access point firmware 2.0.3.3,"['CVE-2014-0659', 'CVE-2015-6358']",2022-03-20T01:08Z
+2,cpe:2.3:o:cisco:wap4410n_firmware:2.0.4.2:*:*:*:*:*:*:*,Cisco WAP4410N wireless access point firmware 2.0.4.2,"['CVE-2014-0659', 'CVE-2015-6358']",2022-03-20T01:08Z
+3,cpe:2.3:o:cisco:wap4410n_firmware:2.0.6.1:*:*:*:*:*:*:*,Cisco WAP4410N wireless access point firmware 2.0.6.1,"['CVE-2014-0659', 'CVE-2015-6358']",2022-03-20T01:08Z
+4,cpe:2.3:o:cisco:wap4410n_firmware:2.0.7.8:*:*:*:*:*:*:*,Cisco WAP4410N wireless access point (WAP) Firmware 2.0.7.8,['CVE-2015-6358'],2022-03-20T01:08Z
+5,cpe:2.3:h:cisco:wap581:-:*:*:*:*:*:*:*,Cisco WAP581,"['CVE-2021-1400', 'CVE-2021-1401', 'CVE-2021-1547', 'CVE-2021-1548', 'CVE-2021-1549', 'CVE-2021-1550', 'CVE-2021-1551', 'CVE-2021-1552', 'CVE-2021-1553', 'CVE-2021-1554', 'CVE-2021-1555']",2022-03-20T01:08Z
+6,cpe:2.3:o:cisco:wap581_firmware:-:*:*:*:*:*:*:*,Cisco WAP581 Firmware,"['CVE-2021-1400', 'CVE-2021-1401', 'CVE-2021-1547', 'CVE-2021-1548', 'CVE-2021-1549', 'CVE-2021-1550', 'CVE-2021-1551', 'CVE-2021-1552', 'CVE-2021-1553', 'CVE-2021-1554', 'CVE-2021-1555']",2022-03-20T01:08Z
+7,cpe:2.3:o:cisco:wap581_firmware:1.0.4.4:*:*:*:*:*:*:*,Cisco WAP581 Firmware 1.0.4.4,[''],2022-03-20T01:08Z
+8,cpe:2.3:a:cisco:web_collaboration_option:-:*:*:*:*:*:*:*,Cisco Web Collaboration Option,['CVE-2005-0356'],2022-03-20T01:08Z
+9,cpe:2.3:a:cisco:web_security_appliance:-:*:*:*:*:*:*:*,Cisco Web Security Appliance (WSA),"['CVE-2015-0698', 'CVE-2018-0093', 'CVE-2019-15969', 'CVE-2020-3164', 'CVE-2021-1490', 'CVE-2021-1516', 'CVE-2021-1566']",2022-03-20T01:08Z

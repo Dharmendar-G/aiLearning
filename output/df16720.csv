@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:airtame:hdmi_dongle_firmware:4.2.2:*:*:*:*:*:*:*,Airtame HDMI Dongle Firmware 4.2.2,[''],2022-03-18T13:57Z
+1,cpe:2.3:o:airtame:hdmi_dongle_firmware:4.3.0:*:*:*:*:*:*:*,Airtame HDMI Dongle Firmware 4.3.0,[''],2022-03-18T13:57Z
+2,cpe:2.3:o:airtame:hdmi_dongle_firmware:4.3.1:*:*:*:*:*:*:*,Airtame HDMI Dongle Firmware 4.3.1,[''],2022-03-18T13:57Z
+3,cpe:2.3:o:airtame:hdmi_dongle_firmware:4.3.2:*:*:*:*:*:*:*,Airtame HDMI Dongle Firmware 4.3.2,[''],2022-03-18T13:57Z
+4,cpe:2.3:o:airtame:hdmi_dongle_firmware:4.4.0:*:*:*:*:*:*:*,Airtame HDMI Dongle Firmware 4.4.0,[''],2022-03-18T13:57Z
+5,cpe:2.3:o:airtame:hdmi_dongle_firmware:4.4.1:*:*:*:*:*:*:*,Airtame HDMI Dongle Firmware 4.4.1,[''],2022-03-18T13:57Z
+6,cpe:2.3:h:airties:5444:-:*:*:*:*:*:*:*,AirTies 5444,['CVE-2018-8738'],2022-03-18T13:57Z
+7,cpe:2.3:o:airties:5444_firmware:1.0.0.18:*:*:*:*:*:*:*,AirTies 5444 Firmware 1.0.0.18,['CVE-2018-8738'],2022-03-18T13:57Z
+8,cpe:2.3:h:airties:5444tt:-:*:*:*:*:*:*:*,AirTies 5444TT,['CVE-2018-8738'],2022-03-18T13:57Z
+9,cpe:2.3:o:airties:5444tt_firmware:1.0.0.18:*:*:*:*:*:*:*,AirTies 5444TT Firmware 1.0.0.18,['CVE-2018-8738'],2022-03-18T13:57Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hiphop_virtual_machine_for_php_project:hiphop_virtual_machine_for_php:3.12:*:*:*:*:*:*:*,HipHop Virtual Machine for PHP 3.12,['CVE-2014-9767'],2022-03-21T11:15Z
+1,cpe:2.3:a:hippostudio:hippo_studio:1:*:*:*:*:android:*:*,hippostudio Hippo Studio (aka com.appgreen.hippostudio) for android 1.0,['CVE-2014-6831'],2022-03-21T11:15Z
+2,cpe:2.3:a:hiscout:grc_suite:3.1.3.12:*:*:*:*:*:*:*,HiScout GRC Suite 3.1.3.12,['CVE-2018-16796'],2022-03-21T11:15Z
+3,cpe:2.3:a:hiscout:grc_suite:3.1.5:*:*:*:*:*:*:*,HiScout GRC Suite 3.1.5,[''],2022-03-21T11:15Z
+4,cpe:2.3:a:hisecuritylab:virus_cleaner:3.7.1.1329:*:*:*:*:android:*:*,Hi Security Lab Virus Cleaner 3.7.1.1329 for Android,['CVE-2017-13105'],2022-03-21T11:15Z
+5,cpe:2.3:h:hisense:chromebook_11:-:*:*:*:*:*:*:*,Hisense Chromebook 11,['CVE-2017-15361'],2022-03-21T11:15Z
+6,cpe:2.3:h:hisense:infinity_f17:-:*:*:*:*:*:*:*,Hisense Infinity F17,['CVE-2019-15372'],2022-03-21T11:15Z
+7,cpe:2.3:o:hisense:infinity_f17_firmware:-:*:*:*:*:*:*:*,Hisense Infinity F17 Firmware,['CVE-2019-15372'],2022-03-21T11:15Z
+8,cpe:2.3:h:hisense:infinity_u965:-:*:*:*:*:*:*:*,Hisense INFINITY U965,['CVE-2019-15360'],2022-03-21T11:15Z
+9,cpe:2.3:o:hisense:infinity_u965_firmware:-:*:*:*:*:*:*:*,Hisense INFINITY U965 Firmware,['CVE-2019-15360'],2022-03-21T11:15Z

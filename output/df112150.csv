@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chshcms:cscms:4.1:*:*:*:*:*:*:*,CScms 4.1,"['CVE-2018-16730', 'CVE-2018-16731', 'CVE-2018-16732', 'CVE-2018-17125', 'CVE-2018-17126', 'CVE-2019-9598', 'CVE-2020-22848', 'CVE-2020-28102', 'CVE-2020-28103']",2022-03-19T17:29Z
+1,cpe:2.3:a:chshcms:cscms:4.1.8:*:*:*:*:*:*:*,chshcms Cscms 4.1.8,"['CVE-2018-16337', 'CVE-2019-6779']",2022-03-19T17:29Z
+2,cpe:2.3:h:chuango:a11:-:*:*:*:*:*:*:*,Chuango A11,['CVE-2019-11561'],2022-03-19T17:29Z
+3,cpe:2.3:o:chuango:a11_firmware:-:*:*:*:*:*:*:*,Chuango A11 Firmware,['CVE-2019-11561'],2022-03-19T17:29Z
+4,cpe:2.3:h:chuango:a11_pstn\/lcd\/rfid_touch_alarm_system:-:*:*:*:*:*:*:*,Chuango A11 PSTN/LCD/RFID Touch Alarm System,['CVE-2019-9659'],2022-03-19T17:29Z
+5,cpe:2.3:o:chuango:a11_pstn\/lcd\/rfid_touch_alarm_system_firmware:-:*:*:*:*:*:*:*,Chuango A11 PSTN/LCD/RFID Touch Alarm System Firmware,['CVE-2019-9659'],2022-03-19T17:29Z
+6,cpe:2.3:h:chuango:a8:-:*:*:*:*:*:*:*,Chuango A8,['CVE-2019-11561'],2022-03-19T17:29Z
+7,cpe:2.3:o:chuango:a8_firmware:-:*:*:*:*:*:*:*,Chuango A8 Firmware,['CVE-2019-11561'],2022-03-19T17:29Z
+8,cpe:2.3:h:chuango:a8_pstn_alarm_system:-:*:*:*:*:*:*:*,Chuango A8 PSTN Alarm System,['CVE-2019-9659'],2022-03-19T17:29Z
+9,cpe:2.3:o:chuango:a8_pstn_alarm_system_firmware:-:*:*:*:*:*:*:*,Chuango A8 PSTN Alarm System Firmware,['CVE-2019-9659'],2022-03-19T17:29Z

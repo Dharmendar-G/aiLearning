@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dap-3520_h\/w_a1_firmware:1.16:*:*:*:*:*:*:*,D-Link DAP-3520 H/W A1 Firmware 1.16,[''],2022-03-20T15:40Z
+1,cpe:2.3:h:dlink:dap-3662:-:*:*:*:*:*:*:*,D-Link DAP-3662,"['CVE-2021-28838', 'CVE-2021-28839', 'CVE-2021-28840']",2022-03-20T15:40Z
+2,cpe:2.3:o:dlink:dap-3662_firmware:-:*:*:*:*:*:*:*,D-Link DAP-3662 FIRMWARE,['CVE-2021-28838'],2022-03-20T15:40Z
+3,cpe:2.3:o:dlink:dap-3662_firmware:1.01.rc022:*:*:*:*:*:*:*,D-Link DAP-3662 FIRMWARE 1.01.RC022,"['CVE-2021-28838', 'CVE-2021-28839', 'CVE-2021-28840']",2022-03-20T15:40Z
+4,cpe:2.3:o:dlink:dap-3662_firmware:1.05rc069:beta:*:*:*:*:*:*,D-Link DAP-3662 FIRMWARE 1.05RC069 Beta,['CVE-2021-28838'],2022-03-20T15:40Z
+5,cpe:2.3:o:dlink:dap-3662_firmware:1.05rc069:beta:*:*:*:*:*:*,D-Link DAP-3662 FIRMWARE 1.05RC069 Beta,['CVE-2021-28838'],2022-03-20T15:40Z
+6,cpe:2.3:h:dlink:dba-1510p:-:*:*:*:*:*:*:*,D-Link DBA-1510P,"['CVE-2019-6013', 'CVE-2019-6014']",2022-03-20T15:40Z
+7,cpe:2.3:o:dlink:dba-1510p_firmware:1.70b005:*:*:*:*:*:*:*,D-Link DBA-1510P Firmware 1.70b005,"['CVE-2019-6013', 'CVE-2019-6014']",2022-03-20T15:40Z
+8,cpe:2.3:o:dlink:dba-1510p_firmware:1.70b009:*:*:*:*:*:*:*,D-Link DBA-1510P Firmware 1.70b009,"['CVE-2019-6013', 'CVE-2019-6014']",2022-03-20T15:40Z
+9,cpe:2.3:o:dlink:dba-1510p_firmware:1.70b010:*:*:*:*:*:*:*,D-Link DBA-1510P Firmware 1.70b010,[''],2022-03-20T15:40Z

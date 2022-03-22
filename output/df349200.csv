@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:sterling_control_center:5.4.1:*:*:*:*:*:*:*,IBM Sterling Control Center 5.4.1,['CVE-2016-0252'],2022-03-21T22:19Z
+1,cpe:2.3:a:ibm:sterling_control_center:5.4.2:*:*:*:*:*:*:*,IBM Sterling Control Center 5.4.2,['CVE-2016-0252'],2022-03-21T22:19Z
+2,cpe:2.3:a:ibm:sterling_control_center:5.4.2.0:*:*:*:*:*:*:*,IBM Sterling Control Center 5.4.2.0,['CVE-2016-0252'],2022-03-21T22:19Z
+3,cpe:2.3:a:ibm:sterling_external_authentication_server:2.2.0:*:*:*:*:*:*:*,IBM Sterling External Authentication Server 2.2.0,['CVE-2013-0517'],2022-03-21T22:19Z
+4,cpe:2.3:a:ibm:sterling_external_authentication_server:2.3.01:*:*:*:*:*:*:*,IBM Sterling External Authentication Server 2.3.01,['CVE-2013-0517'],2022-03-21T22:19Z
+5,cpe:2.3:a:ibm:sterling_external_authentication_server:2.4.0:*:*:*:*:*:*:*,IBM Sterling External Authentication Server 2.4.0,['CVE-2013-0517'],2022-03-21T22:19Z
+6,cpe:2.3:a:ibm:sterling_external_authentication_server:2.4.1:*:*:*:*:*:*:*,IBM Sterling External Authentication Server 2.4.1,['CVE-2013-0517'],2022-03-21T22:19Z
+7,cpe:2.3:a:ibm:sterling_external_authentication_server:2.4.2.0:*:*:*:*:*:*:*,IBM Sterling External Authentication Server 2.4.2.0,['CVE-2020-4462'],2022-03-21T22:19Z
+8,cpe:2.3:a:ibm:sterling_external_authentication_server:2.4.3.2:*:*:*:*:*:*:*,IBM Sterling External Authentication Server 2.4.3.2,"['CVE-2020-4462', 'CVE-2021-29722', 'CVE-2021-29723', 'CVE-2021-29728']",2022-03-21T22:19Z
+9,cpe:2.3:a:ibm:sterling_external_authentication_server:3.4.3.2:*:*:*:*:*:*:*,IBM Sterling External Authentication Server 3.4.3.2,"['CVE-2022-22333', 'CVE-2022-22336', 'CVE-2022-22349']",2022-03-21T22:19Z

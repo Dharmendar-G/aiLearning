@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:acmailer:acmailer_db:1.1.6:*:*:*:*:*:*:*,Acmailer Acmailer DB 1.1.6,[''],2022-03-18T11:00Z
+1,cpe:2.3:a:acme:micro_httpd:-:*:*:*:*:*:*:*,Acme Labs micro_httpd,"['CVE-2010-1544', 'CVE-2014-4927']",2022-03-18T11:00Z
+2,cpe:2.3:a:acme:mini_httpd:-:*:*:*:*:*:*:*,Acme mini_httpd,"['CVE-2001-0893', 'CVE-2015-1548', 'CVE-2017-17663']",2022-03-18T11:00Z
+3,cpe:2.3:a:acme:mini_httpd:1.00:*:*:*:*:*:*:*,Acme mini_httpd 1.00,"['CVE-2001-0893', 'CVE-2015-1548', 'CVE-2017-17663']",2022-03-18T11:00Z
+4,cpe:2.3:a:acme:mini_httpd:1.01:*:*:*:*:*:*:*,Acme mini_httpd 1.01,"['CVE-2001-0893', 'CVE-2015-1548', 'CVE-2017-17663']",2022-03-18T11:00Z
+5,cpe:2.3:a:acme:mini_httpd:1.02:*:*:*:*:*:*:*,Acme mini_httpd 1.02,"['CVE-2001-0893', 'CVE-2015-1548', 'CVE-2017-17663']",2022-03-18T11:00Z
+6,cpe:2.3:a:acme:mini_httpd:1.03:*:*:*:*:*:*:*,Acme mini_httpd 1.03,"['CVE-2001-0893', 'CVE-2015-1548', 'CVE-2017-17663']",2022-03-18T11:00Z
+7,cpe:2.3:a:acme:mini_httpd:1.04:*:*:*:*:*:*:*,Acme mini_httpd 1.04,"['CVE-2001-0893', 'CVE-2015-1548', 'CVE-2017-17663']",2022-03-18T11:00Z
+8,cpe:2.3:a:acme:mini_httpd:1.05:*:*:*:*:*:*:*,Acme mini_httpd 1.05,"['CVE-2001-0893', 'CVE-2015-1548', 'CVE-2017-17663']",2022-03-18T11:00Z
+9,cpe:2.3:a:acme:mini_httpd:1.06:*:*:*:*:*:*:*,Acme mini_httpd 1.06,"['CVE-2001-0893', 'CVE-2015-1548', 'CVE-2017-17663']",2022-03-18T11:00Z

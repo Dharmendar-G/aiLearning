@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:s1700_firmware:v200r009c00spc200:*:*:*:*:*:*:*,Huawei S1700 Firmware V200R009C00SPC200,['CVE-2021-22321'],2022-03-21T18:30Z
+1,cpe:2.3:o:huawei:s1700_firmware:v200r009c00spc500:*:*:*:*:*:*:*,Huawei S1700 Firmware V200R009C00SPC500,['CVE-2021-22321'],2022-03-21T18:30Z
+2,cpe:2.3:o:huawei:s1700_firmware:v200r010c00:*:*:*:*:*:*:*,Huawei S1700 Firmware V200R010C00,"['CVE-2017-15333', 'CVE-2017-15346', 'CVE-2017-17135', 'CVE-2017-17136', 'CVE-2017-17137', 'CVE-2017-17138', 'CVE-2019-19397', 'CVE-2019-5285', 'CVE-2021-22321']",2022-03-21T18:30Z
+3,cpe:2.3:o:huawei:s1700_firmware:v200r010c00spc300:*:*:*:*:*:*:*,Huawei S1700 Firmware V200R010C00SPC300,"['CVE-2021-22321', 'CVE-2021-22329']",2022-03-21T18:30Z
+4,cpe:2.3:o:huawei:s1700_firmware:v200r010c00spc600:*:*:*:*:*:*:*,Huawei S1700 Firmware V200R010C00SPC600,['CVE-2021-37129'],2022-03-21T18:30Z
+5,cpe:2.3:o:huawei:s1700_firmware:v200r011c00:*:*:*:*:*:*:*,Huawei S1700 Firmware V200R011C00,"['CVE-2021-22321', 'CVE-2021-22329']",2022-03-21T18:30Z
+6,cpe:2.3:o:huawei:s1700_firmware:v200r011c00spc100:*:*:*:*:*:*:*,Huawei S1700 Firmware V200R011C00SPC100,"['CVE-2021-22321', 'CVE-2021-22329']",2022-03-21T18:30Z
+7,cpe:2.3:o:huawei:s1700_firmware:v200r011c10:*:*:*:*:*:*:*,Huawei S1700 Firmware V200R011C10,"['CVE-2019-19397', 'CVE-2019-5285', 'CVE-2021-22321', 'CVE-2021-22329']",2022-03-21T18:30Z
+8,cpe:2.3:o:huawei:s1700_firmware:v200r011c10spc500:*:*:*:*:*:*:*,Huawei S1700 Firmware V200R011C10SPC500,['CVE-2021-37129'],2022-03-21T18:31Z
+9,cpe:2.3:o:huawei:s1700_firmware:v200r011c10spc600:*:*:*:*:*:*:*,Huawei S1700 Firmware V200R011C10SPC600,['CVE-2021-37129'],2022-03-21T18:31Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cminds:tooltip_glossary:3.1.9:*:*:*:*:wordpress:*:*,creativeminds (CM) Tooltip Glossary 3.1.9 for WordPress,"['CVE-2016-1000132', 'CVE-2021-24678']",2022-03-20T04:14Z
+1,cpe:2.3:a:cminds:tooltip_glossary:3.2.2:*:*:*:*:wordpress:*:*,creativeminds (CM) Tooltip Glossary 3.2.2 for WordPress,"['CVE-2016-1000132', 'CVE-2021-24678']",2022-03-20T04:14Z
+2,cpe:2.3:a:cminds:tooltip_glossary:3.2.5:*:*:*:*:wordpress:*:*,creativeminds (CM) Tooltip Glossary 3.2.5 for WordPress,"['CVE-2016-1000132', 'CVE-2021-24678']",2022-03-20T04:14Z
+3,cpe:2.3:a:cminds:tooltip_glossary:3.2.6:*:*:*:*:wordpress:*:*,creativeminds (CM) Tooltip Glossary 3.2.6 for WordPress,"['CVE-2016-1000132', 'CVE-2021-24678']",2022-03-20T04:14Z
+4,cpe:2.3:a:cminds:tooltip_glossary:3.2.8:*:*:*:*:wordpress:*:*,creativeminds (CM) Tooltip Glossary 3.2.8 for WordPress,"['CVE-2016-1000132', 'CVE-2021-24678']",2022-03-20T04:14Z
+5,cpe:2.3:a:cminds:tooltip_glossary:3.2.9:*:*:*:*:wordpress:*:*,creativeminds (CM) Tooltip Glossary 3.2.9 for WordPress,['CVE-2021-24678'],2022-03-20T04:14Z
+6,cpe:2.3:a:cminds:tooltip_glossary:3.2.10:*:*:*:*:wordpress:*:*,creativeminds (CM) Tooltip Glossary 3.2.10 for WordPress,['CVE-2021-24678'],2022-03-20T04:14Z
+7,cpe:2.3:a:cminds:tooltip_glossary:3.3.1-2:*:*:*:*:wordpress:*:*,creativeminds (CM) Tooltip Glossary 3.3.1-2 for WordPress,['CVE-2021-24678'],2022-03-20T04:14Z
+8,cpe:2.3:a:cminds:tooltip_glossary:3.3.4:*:*:*:*:wordpress:*:*,creativeminds (CM) Tooltip Glossary 3.3.4 for WordPress,['CVE-2021-24678'],2022-03-20T04:14Z
+9,cpe:2.3:a:cminds:tooltip_glossary:3.3.5:*:*:*:*:wordpress:*:*,creativeminds (CM) Tooltip Glossary 3.3.5 for WordPress,['CVE-2021-24678'],2022-03-20T04:14Z

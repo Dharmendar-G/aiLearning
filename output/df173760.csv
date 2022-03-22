@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dasinfomedia:wpgym_gym_management_system:-:*:*:*:*:wordpress:*:*,Das Infomedia WPGYM Gym Management System for WordPress,['CVE-2017-14844'],2022-03-20T10:40Z
+1,cpe:2.3:a:dasinfomedia:wphrm_human_resource_management_system:1.0:*:*:*:*:wordpress:*:*,Das Infomedia WPHRM Human Resource Management System 1.0 for WordPress,['CVE-2017-14848'],2022-03-20T10:40Z
+2,cpe:2.3:h:daskeyboard:das_keyboard_4q:-:*:*:*:*:*:*:*,Das Keyboard Das Keyboard 4Q,['CVE-2019-14551'],2022-03-20T10:40Z
+3,cpe:2.3:h:daskeyboard:das_keyboard_5q:-:*:*:*:*:*:*:*,Das Keyboard Das Keyboard 5Q,['CVE-2019-14551'],2022-03-20T10:40Z
+4,cpe:2.3:h:daskeyboard:das_keyboard_x50q:-:*:*:*:*:*:*:*,Das Keyboard Das Keyboard X50Q,['CVE-2019-14551'],2022-03-20T10:40Z
+5,cpe:2.3:o:daskeyboard:das_q_software:-:*:*:*:*:*:*:*,Das Keyboard Das Q Software,['CVE-2019-14551'],2022-03-20T10:40Z
+6,cpe:2.3:o:daskeyboard:das_q_software:2.0.0:-:*:*:*:*:*:*,Das Keyboard Das Q Software 2.0.0,['CVE-2019-14551'],2022-03-20T10:40Z
+7,cpe:2.3:o:daskeyboard:das_q_software:2.0.0:beta1:*:*:*:*:*:*,Das Keyboard Das Q Software 2.0.0 Beta 1,['CVE-2019-14551'],2022-03-20T10:40Z
+8,cpe:2.3:o:daskeyboard:das_q_software:2.0.0:beta2:*:*:*:*:*:*,Das Keyboard Das Q Software 2.0.0 Beta 2,['CVE-2019-14551'],2022-03-20T10:40Z
+9,cpe:2.3:o:daskeyboard:das_q_software:2.0.0:beta3:*:*:*:*:*:*,Das Keyboard Das Q Software 2.0.0 Beta 3,['CVE-2019-14551'],2022-03-20T10:40Z

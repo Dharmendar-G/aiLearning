@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:connections-pro:connections_business_directory:0.8.13:*:*:*:*:wordpress:*:*,Connections-Pro Connections Business Directory 0.8.13 for WordPress,"['CVE-2020-36503', 'CVE-2021-24794']",2022-03-20T07:18Z
+1,cpe:2.3:a:connections-pro:connections_business_directory:0.8.14:*:*:*:*:wordpress:*:*,Connections-Pro Connections Business Directory 0.8.14 for WordPress,"['CVE-2020-36503', 'CVE-2021-24794']",2022-03-20T07:18Z
+2,cpe:2.3:a:connections-pro:connections_business_directory:8.1:*:*:*:*:wordpress:*:*,Connections-Pro Connections Business Directory 8.1 for WordPress,"['CVE-2020-36503', 'CVE-2021-24794']",2022-03-20T07:18Z
+3,cpe:2.3:a:connections-pro:connections_business_directory:8.1.1:*:*:*:*:wordpress:*:*,Connections-Pro Connections Business Directory 8.1.1 for WordPress,"['CVE-2020-36503', 'CVE-2021-24794']",2022-03-20T07:18Z
+4,cpe:2.3:a:connections-pro:connections_business_directory:8.1.2:*:*:*:*:wordpress:*:*,Connections-Pro Connections Business Directory 8.1.2 for WordPress,"['CVE-2020-36503', 'CVE-2021-24794']",2022-03-20T07:18Z
+5,cpe:2.3:a:connections-pro:connections_business_directory:8.1.3:*:*:*:*:wordpress:*:*,Connections-Pro Connections Business Directory 8.1.3 for WordPress,"['CVE-2020-36503', 'CVE-2021-24794']",2022-03-20T07:18Z
+6,cpe:2.3:a:connections-pro:connections_business_directory:8.1.4:*:*:*:*:wordpress:*:*,Connections-Pro Connections Business Directory 8.1.4 for WordPress,"['CVE-2020-36503', 'CVE-2021-24794']",2022-03-20T07:18Z
+7,cpe:2.3:a:connections-pro:connections_business_directory:8.1.5:*:*:*:*:wordpress:*:*,Connections-Pro Connections Business Directory 8.1.5 for WordPress,"['CVE-2020-36503', 'CVE-2021-24794']",2022-03-20T07:18Z
+8,cpe:2.3:a:connections-pro:connections_business_directory:8.1.6:*:*:*:*:wordpress:*:*,Connections-Pro Connections Business Directory 8.1.6 for WordPress,"['CVE-2020-36503', 'CVE-2021-24794']",2022-03-20T07:18Z
+9,cpe:2.3:a:connections-pro:connections_business_directory:8.1.7:*:*:*:*:wordpress:*:*,Connections-Pro Connections Business Directory 8.1.7 for WordPress,"['CVE-2020-36503', 'CVE-2021-24794']",2022-03-20T07:18Z

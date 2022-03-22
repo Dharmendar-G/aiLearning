@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codelibs:fess:7.0.2:*:*:*:*:*:*:*,Codelibs Fess 7.0.2,['CVE-2018-1000822'],2022-03-20T05:30Z
+1,cpe:2.3:a:codelibs:fess:8.0.0:*:*:*:*:*:*:*,Codelibs Fess 8.0.0,['CVE-2018-1000822'],2022-03-20T05:30Z
+2,cpe:2.3:a:codelibs:fess:8.1.0:*:*:*:*:*:*:*,Codelibs Fess 8.1.0,['CVE-2018-1000822'],2022-03-20T05:30Z
+3,cpe:2.3:a:codelibs:fess:8.2.0:*:*:*:*:*:*:*,Codelibs Fess 8.2.0,['CVE-2018-1000822'],2022-03-20T05:30Z
+4,cpe:2.3:a:codelibs:fess:9.0.0:*:*:*:*:*:*:*,Codelibs Fess 9.0.0,['CVE-2018-1000822'],2022-03-20T05:30Z
+5,cpe:2.3:a:codelibs:fess:9.1:*:*:*:*:*:*:*,Codelibs Fess 9.1,['CVE-2018-1000822'],2022-03-20T05:30Z
+6,cpe:2.3:a:codelibs:fess:9.2:*:*:*:*:*:*:*,Codelibs Fess 9.2,['CVE-2018-1000822'],2022-03-20T05:30Z
+7,cpe:2.3:a:codelibs:fess:9.3:*:*:*:*:*:*:*,Codelibs Fess 9.3,['CVE-2018-1000822'],2022-03-20T05:30Z
+8,cpe:2.3:a:codelibs:fess:9.3.3:*:*:*:*:*:*:*,Codelibs Fess 9.3.3,['CVE-2018-1000822'],2022-03-20T05:30Z
+9,cpe:2.3:a:codelibs:fess:9.4.0:*:*:*:*:*:*:*,Codelibs Fess 9.4.0,['CVE-2018-1000822'],2022-03-20T05:30Z

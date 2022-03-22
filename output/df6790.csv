@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:actividentity:activclient_cac:6.2.0.128:*:*:*:*:*:*:*,ActivIdentity Activclient CAC 6.2.0.128,[''],2022-03-18T11:29Z
+1,cpe:2.3:a:actividentity:activclient_cac:6.2.0.128:*:*:*:*:*:x64:*,ActivIdentity Activclient CAC 6.2.0.128 (x64) 64-bit,[''],2022-03-18T11:29Z
+2,cpe:2.3:a:actividentity:activclient_cac:6.2.0.133:*:*:*:*:*:*:*,ActivIdentity Activclient CAC 6.2.0.133,[''],2022-03-18T11:29Z
+3,cpe:2.3:a:actividentity:activclient_cac:6.2.0.133:*:*:*:*:*:x64:*,ActivIdentity Activclient CAC 6.2.0.133 (x64) 64-bit,[''],2022-03-18T11:29Z
+4,cpe:2.3:a:actividentity:activclient_cac:6.11.00039:*:*:*:*:*:x64:*,ActivIdentity ActivClient CAC 6.11.00039 x64 (64-bit),[''],2022-03-18T11:29Z
+5,cpe:2.3:a:actividentity:activclient_cac:6.11.00050:*:*:*:*:*:x64:*,ActivIdentity Activclient CAC 6.11.00050 (x64) 64-bit,[''],2022-03-18T11:29Z
+6,cpe:2.3:a:actividentity:activclient_cac:6.11.155:*:*:*:*:*:x64:*,ActivIdentity Activclient CAC 6.11.155 (x64) 64-bit,[''],2022-03-18T11:29Z
+7,cpe:2.3:a:actividentity:activclient_cac:7.0:*:*:*:*:*:x64:*,ActivIdentity Activclient CAC 7.0 (x64) 64-bit,[''],2022-03-18T11:29Z
+8,cpe:2.3:a:actividentity:activclient_cac_afr:6.1.100:*:*:*:*:*:*:*,ActivIdentity Activclient CAC Afr 6.1.100,[''],2022-03-18T11:29Z
+9,cpe:2.3:a:actividentity:activclient_cac_afr:6.1.125:*:*:*:*:*:*:*,ActivIdentity Activclient CAC Afr 6.1.125,[''],2022-03-18T11:29Z

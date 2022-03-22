@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dlink:dir-895l_mfc:-:*:*:*:*:*:*:*,D-Link DIR-895L MFC,['CVE-2020-29324'],2022-03-20T15:54Z
+1,cpe:2.3:o:dlink:dir-895l_mfc_firmware:1.21b05:*:*:*:*:*:*:*,D-Link DIR-895L MFC Firmware 1.21b05,['CVE-2020-29324'],2022-03-20T15:54Z
+2,cpe:2.3:h:dlink:dir-895r:-:*:*:*:*:*:*:*,Dlink DIR-895R -,"['CVE-2017-14948', 'CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:54Z
+3,cpe:2.3:o:dlink:dir-895r_firmware:-:*:*:*:*:*:*:*,D-Link DIR-895R Firmware,"['CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:54Z
+4,cpe:2.3:o:dlink:dir-895r_firmware:1.12b10:*:*:*:*:*:*:*,D-Link DIR-895R Firmware 1.12b10,"['CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:54Z
+5,cpe:2.3:o:dlink:dir-895r_firmware:1.13b03:*:*:*:*:*:*:*,Dlink DIR-895R Firmware 1.13b03,['CVE-2017-14948'],2022-03-20T15:54Z
+6,cpe:2.3:o:dlink:dir-905l_firmware:1.00:*:*:*:*:*:*:*,D-Link DIR-905L Firmware 1.00,[''],2022-03-20T15:54Z
+7,cpe:2.3:h:dlink:dir-x1560:revision_a:*:*:*:*:*:*:*,D-Link DIR-X1560 Revision A,['CVE-2021-41753'],2022-03-20T15:54Z
+8,cpe:2.3:o:dlink:dir-x1560_firmware:-:*:*:*:*:*:*:*,D-Link DIR-X1560 Firmware,['CVE-2021-41753'],2022-03-20T15:54Z
+9,cpe:2.3:o:dlink:dir-x1560_firmware:1.04b04:*:*:*:*:*:*:*,D-Link DIR-X1560 Firmware 1.04B04,['CVE-2021-41753'],2022-03-20T15:54Z
