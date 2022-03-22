@@ -1,889 +1,914 @@
-,level,page_num,block_num,par_num,line_num,word_num,left,top,width,height,conf,text,required_col,new_col
-0,5,1,1,1,1,1,1685,264,277,61,95.508388,Excess,"block_1,line_1,word_ 1",Excess Flood Insurance Policy Application — Florida
-1,5,1,1,1,1,2,1996,264,215,61,95.420770,Flood,"block_1,line_1,word_ 2",Excess Flood Insurance Policy Application — Florida
-2,5,1,1,1,1,3,2245,264,384,61,95.420770,Insurance,"block_1,line_1,word_ 3",Excess Flood Insurance Policy Application — Florida
-3,5,1,1,1,1,4,2662,264,237,77,95.533247,Policy,"block_1,line_1,word_ 4",Excess Flood Insurance Policy Application — Florida
-4,5,1,1,1,1,5,2925,264,445,76,91.969190,Application,"block_1,line_1,word_ 5",Excess Flood Insurance Policy Application — Florida
-5,5,1,1,1,1,6,3399,298,46,9,87.689874,—,"block_1,line_1,word_ 6",Excess Flood Insurance Policy Application — Florida
-6,5,1,1,1,1,7,3476,264,268,61,96.616616,Florida,"block_1,line_1,word_ 7",Excess Flood Insurance Policy Application — Florida
-7,5,1,2,1,1,1,505,463,198,64,95.856907,Policy,"block_2,line_1,word_ 1",Policy Form Check only one of the following Policy Type
-8,5,1,2,1,1,2,728,463,164,50,88.993965,Form,"block_2,line_1,word_ 2",Policy Form Check only one of the following Policy Type
-9,5,1,2,1,1,3,976,462,204,51,88.993965,Check,"block_2,line_1,word_ 3",Policy Form Check only one of the following Policy Type
-10,5,1,2,1,1,4,1203,463,139,63,96.184822,only,"block_2,line_1,word_ 4",Policy Form Check only one of the following Policy Type
-11,5,1,2,1,1,5,1366,475,118,38,95.500134,one,"block_2,line_1,word_ 5",Policy Form Check only one of the following Policy Type
-12,5,1,2,1,1,6,1508,462,65,51,95.500134,of,"block_2,line_1,word_ 6",Policy Form Check only one of the following Policy Type
-13,5,1,2,1,1,7,1591,463,101,50,96.137279,the,"block_2,line_1,word_ 7",Policy Form Check only one of the following Policy Type
-14,5,1,2,1,1,8,1714,462,300,65,96.137279,following,"block_2,line_1,word_ 8",Policy Form Check only one of the following Policy Type
-15,5,1,2,1,1,9,2255,464,198,64,95.548691,Policy,"block_2,line_1,word_ 9",Policy Form Check only one of the following Policy Type
-16,5,1,2,1,1,10,2474,464,158,64,96.049845,Type,"block_2,line_1,word_ 10",Policy Form Check only one of the following Policy Type
-17,5,1,2,1,2,1,505,543,192,50,96.629231,House,"block_2,line_2,word_ 1",House (includes a detached garage) X New X_ Endorsement o
-18,5,1,2,1,2,2,723,542,271,65,95.951869,(includes,"block_2,line_2,word_ 2",House (includes a detached garage) X New X_ Endorsement o
-19,5,1,2,1,2,3,1018,555,32,38,96.783729,a,"block_2,line_2,word_ 3",House (includes a detached garage) X New X_ Endorsement o
-20,5,1,2,1,2,4,1076,543,278,50,96.394276,detached,"block_2,line_2,word_ 4",House (includes a detached garage) X New X_ Endorsement o
-21,5,1,2,1,2,5,1380,542,234,65,93.241274,garage),"block_2,line_2,word_ 5",House (includes a detached garage) X New X_ Endorsement o
-22,5,1,2,1,2,6,1677,542,44,50,91.730379,X,"block_2,line_2,word_ 6",House (includes a detached garage) X New X_ Endorsement o
-23,5,1,2,1,2,7,2255,540,132,50,93.033473,New,"block_2,line_2,word_ 7",House (includes a detached garage) X New X_ Endorsement o
-24,5,1,2,1,2,8,2408,539,44,50,70.462723,X_,"block_2,line_2,word_ 8",House (includes a detached garage) X New X_ Endorsement o
-25,5,1,2,1,2,9,2535,539,408,51,93.254572,Endorsement,"block_2,line_2,word_ 9",House (includes a detached garage) X New X_ Endorsement o
-26,5,1,2,1,2,10,2967,557,32,32,87.818371,o,"block_2,line_2,word_ 10",House (includes a detached garage) X New X_ Endorsement o
-27,5,1,3,1,1,1,503,622,419,51,92.979735,Condominium,"block_3,line_1,word_ 1",Condominium o Underlying Flood Policy #:
-28,5,1,3,1,1,2,971,640,32,32,79.281886,o,"block_3,line_1,word_ 2",Condominium o Underlying Flood Policy #:
-29,5,1,3,1,1,3,2255,620,320,64,96.267525,Underlying,"block_3,line_1,word_ 3",Condominium o Underlying Flood Policy #:
-30,5,1,3,1,1,4,2606,620,162,50,96.586877,Flood,"block_3,line_1,word_ 4",Condominium o Underlying Flood Policy #:
-31,5,1,3,1,1,5,2798,620,179,64,93.297496,Policy,"block_3,line_1,word_ 5",Condominium o Underlying Flood Policy #:
-32,5,1,3,1,1,6,2998,619,51,51,93.095222,#:,"block_3,line_1,word_ 6",Condominium o Underlying Flood Policy #:
-33,5,1,3,1,2,1,503,702,367,64,93.204393,Cooperative,"block_3,line_2,word_ 1",Cooperative o
-34,5,1,3,1,2,2,917,720,32,32,91.868446,o,"block_3,line_2,word_ 2",Cooperative o
-35,5,1,3,1,3,1,503,782,170,51,96.843090,Other,"block_3,line_3,word_ 1",Other permanent structure o
-36,5,1,3,1,3,2,696,784,327,62,96.329450,permanent,"block_3,line_3,word_ 2",Other permanent structure o
-37,5,1,3,1,3,3,1044,784,266,49,92.923692,structure,"block_3,line_3,word_ 3",Other permanent structure o
-38,5,1,3,1,3,4,1357,800,32,32,91.700746,o,"block_3,line_3,word_ 4",Other permanent structure o
-39,5,1,4,1,1,1,455,434,3340,427,95.000000, ,"block_4,line_1,word_ 1", 
-40,5,1,5,1,1,1,2253,886,244,51,90.782794,SIG/VIP,"block_5,line_1,word_ 1",SIG/VIP 5
-41,5,1,5,1,1,2,2524,904,32,32,44.435596,5,"block_5,line_1,word_ 2",SIG/VIP 5
-42,5,1,6,1,1,1,505,1067,324,63,96.538559,Requested,"block_6,line_1,word_ 1",Requested Policy Effective Date: 2/1/22
-43,5,1,6,1,1,2,859,1067,179,64,96.751851,Policy,"block_6,line_1,word_ 2",Requested Policy Effective Date: 2/1/22
-44,5,1,6,1,1,3,1063,1066,258,51,96.477221,Effective,"block_6,line_1,word_ 3",Requested Policy Effective Date: 2/1/22
-45,5,1,6,1,1,4,1349,1067,153,50,94.283884,Date:,"block_6,line_1,word_ 4",Requested Policy Effective Date: 2/1/22
-46,5,1,6,1,1,5,1530,1066,187,51,94.283884,2/1/22,"block_6,line_1,word_ 5",Requested Policy Effective Date: 2/1/22
-47,5,1,6,2,1,1,501,1146,209,65,96.566517,Writing,"block_6,line_1,word_ 1",Writing Company: FEDERAL INSURANCE COMPANY
-48,5,1,6,2,1,2,737,1146,307,65,96.066763,Company:,"block_6,line_1,word_ 2",Writing Company: FEDERAL INSURANCE COMPANY
-49,5,1,6,2,1,3,1095,1147,312,49,93.422650,FEDERAL,"block_6,line_1,word_ 3",Writing Company: FEDERAL INSURANCE COMPANY
-50,5,1,6,2,1,4,1434,1146,399,51,93.422650,INSURANCE,"block_6,line_1,word_ 4",Writing Company: FEDERAL INSURANCE COMPANY
-51,5,1,6,2,1,5,1859,1146,348,51,96.381121,COMPANY,"block_6,line_1,word_ 5",Writing Company: FEDERAL INSURANCE COMPANY
-52,5,1,6,2,2,1,505,1327,276,50,96.329859,Producer,"block_6,line_2,word_ 1","Producer Name _AssuredPartners Northeast, LLC"
-53,5,1,6,2,2,2,805,1327,178,50,53.639412,Name,"block_6,line_2,word_ 2","Producer Name _AssuredPartners Northeast, LLC"
-54,5,1,6,2,2,3,1003,1327,554,63,53.639412,_AssuredPartners,"block_6,line_2,word_ 3","Producer Name _AssuredPartners Northeast, LLC"
-55,5,1,6,2,2,4,1584,1327,308,58,96.610395,"Northeast,","block_6,line_2,word_ 4","Producer Name _AssuredPartners Northeast, LLC"
-56,5,1,6,2,2,5,1923,1326,119,51,96.220015,LLC,"block_6,line_2,word_ 5","Producer Name _AssuredPartners Northeast, LLC"
-57,5,1,6,2,3,1,505,1408,276,50,96.405415,Producer,"block_6,line_3,word_ 1","Producer Street Address _ 445 Hamilton Ave 10"" FI"
-58,5,1,6,2,3,2,803,1407,181,51,95.631856,Street,"block_6,line_3,word_ 2","Producer Street Address _ 445 Hamilton Ave 10"" FI"
-59,5,1,6,2,3,3,1004,1408,252,50,86.651564,Address,"block_6,line_3,word_ 3","Producer Street Address _ 445 Hamilton Ave 10"" FI"
-60,5,1,6,2,3,4,1305,1400,32,76,50.362668,_,"block_6,line_3,word_ 4","Producer Street Address _ 445 Hamilton Ave 10"" FI"
-61,5,1,6,2,3,5,1356,1407,112,51,96.919004,445,"block_6,line_3,word_ 5","Producer Street Address _ 445 Hamilton Ave 10"" FI"
-62,5,1,6,2,3,6,1495,1408,264,50,95.962198,Hamilton,"block_6,line_3,word_ 6","Producer Street Address _ 445 Hamilton Ave 10"" FI"
-63,5,1,6,2,3,7,1783,1408,117,50,95.380189,Ave,"block_6,line_3,word_ 7","Producer Street Address _ 445 Hamilton Ave 10"" FI"
-64,5,1,6,2,3,8,1929,1404,106,54,91.875414,"10""","block_6,line_3,word_ 8","Producer Street Address _ 445 Hamilton Ave 10"" FI"
-65,5,1,6,2,3,9,2063,1408,49,49,67.769992,FI,"block_6,line_3,word_ 9","Producer Street Address _ 445 Hamilton Ave 10"" FI"
-66,5,1,7,1,1,1,505,1487,276,50,93.189586,Producer,"block_7,line_1,word_ 1","Producer City/State/Zipcode __ White Plains, NY 10601 Producer Phone Number_914-761-9000"
-67,5,1,7,1,1,2,803,1486,562,65,90.014079,City/State/Zipcode,"block_7,line_1,word_ 2","Producer City/State/Zipcode __ White Plains, NY 10601 Producer Phone Number_914-761-9000"
-68,5,1,7,1,1,3,1407,1482,44,73,14.457560,__,"block_7,line_1,word_ 3","Producer City/State/Zipcode __ White Plains, NY 10601 Producer Phone Number_914-761-9000"
-69,5,1,7,1,1,4,1465,1487,173,63,14.457560,White,"block_7,line_1,word_ 4","Producer City/State/Zipcode __ White Plains, NY 10601 Producer Phone Number_914-761-9000"
-70,5,1,7,1,1,5,1665,1487,181,50,96.316852,"Plains,","block_7,line_1,word_ 5","Producer City/State/Zipcode __ White Plains, NY 10601 Producer Phone Number_914-761-9000"
-71,5,1,7,1,1,6,1893,1487,89,49,96.041295,NY,"block_7,line_1,word_ 6","Producer City/State/Zipcode __ White Plains, NY 10601 Producer Phone Number_914-761-9000"
-72,5,1,7,1,1,7,2010,1486,174,51,96.159017,10601,"block_7,line_1,word_ 7","Producer City/State/Zipcode __ White Plains, NY 10601 Producer Phone Number_914-761-9000"
-73,5,1,7,1,1,8,2356,1487,277,50,96.395064,Producer,"block_7,line_1,word_ 8","Producer City/State/Zipcode __ White Plains, NY 10601 Producer Phone Number_914-761-9000"
-74,5,1,7,1,1,9,2657,1487,193,50,93.303936,Phone,"block_7,line_1,word_ 9","Producer City/State/Zipcode __ White Plains, NY 10601 Producer Phone Number_914-761-9000"
-75,5,1,7,1,1,10,2876,1486,709,64,91.342356,Number_914-761-9000,"block_7,line_1,word_ 10","Producer City/State/Zipcode __ White Plains, NY 10601 Producer Phone Number_914-761-9000"
-76,5,1,7,1,2,1,505,1567,276,50,95.686338,Producer,"block_7,line_2,word_ 1",Producer Number _ 64709 Subproducer Number
-77,5,1,7,1,2,2,805,1567,242,50,81.118685,Number,"block_7,line_2,word_ 2",Producer Number _ 64709 Subproducer Number
-78,5,1,7,1,2,3,1095,1625,36,5,75.676885,_,"block_7,line_2,word_ 3",Producer Number _ 64709 Subproducer Number
-79,5,1,7,1,2,4,1146,1566,186,51,95.626666,64709,"block_7,line_2,word_ 4",Producer Number _ 64709 Subproducer Number
-80,5,1,7,1,2,5,1867,1566,394,64,91.491346,Subproducer,"block_7,line_2,word_ 5",Producer Number _ 64709 Subproducer Number
-81,5,1,7,1,2,6,2285,1567,243,50,96.066675,Number,"block_7,line_2,word_ 6",Producer Number _ 64709 Subproducer Number
-82,5,1,8,1,1,1,506,1802,271,51,89.552649,Insured’s,"block_8,line_1,word_ 1",Insured’s Name: Harvey R Uris & Mitchell Uris
-83,5,1,8,1,1,2,805,1803,193,50,95.870532,Name:,"block_8,line_1,word_ 2",Insured’s Name: Harvey R Uris & Mitchell Uris
-84,5,1,8,1,1,3,1144,1803,215,64,93.156801,Harvey,"block_8,line_1,word_ 3",Insured’s Name: Harvey R Uris & Mitchell Uris
-85,5,1,8,1,1,4,1384,1803,44,49,91.795187,R,"block_8,line_1,word_ 4",Insured’s Name: Harvey R Uris & Mitchell Uris
-86,5,1,8,1,1,5,1453,1803,115,50,93.264163,Uris,"block_8,line_1,word_ 5",Insured’s Name: Harvey R Uris & Mitchell Uris
-87,5,1,8,1,1,6,1593,1802,41,51,93.100032,&,"block_8,line_1,word_ 6",Insured’s Name: Harvey R Uris & Mitchell Uris
-88,5,1,8,1,1,7,1661,1803,226,50,96.132255,Mitchell,"block_8,line_1,word_ 7",Insured’s Name: Harvey R Uris & Mitchell Uris
-89,5,1,8,1,1,8,1916,1802,114,51,94.991153,Uris,"block_8,line_1,word_ 8",Insured’s Name: Harvey R Uris & Mitchell Uris
-90,5,1,8,1,2,1,505,1883,209,64,96.624525,Mailing,"block_8,line_2,word_ 1",Mailing Address: __ 56 Nantwick St
-91,5,1,8,1,2,2,738,1882,268,51,87.221007,Address:,"block_8,line_2,word_ 2",Mailing Address: __ 56 Nantwick St
-92,5,1,8,1,2,3,1030,1882,191,64,45.640244,__,"block_8,line_2,word_ 3",Mailing Address: __ 56 Nantwick St
-93,5,1,8,1,2,4,1158,1878,61,73,92.670701,56,"block_8,line_2,word_ 4",Mailing Address: __ 56 Nantwick St
-94,5,1,8,1,2,5,1248,1883,276,50,90.629547,Nantwick,"block_8,line_2,word_ 5",Mailing Address: __ 56 Nantwick St
-95,5,1,8,1,2,6,1547,1882,62,51,96.446827,St,"block_8,line_2,word_ 6",Mailing Address: __ 56 Nantwick St
-96,5,1,9,1,1,1,503,1958,575,73,91.517217,City/State/Zipcode:,"block_9,line_1,word_ 1","City/State/Zipcode: Lido Beach, NY 11561"
-97,5,1,9,1,1,2,1302,1962,123,51,96.626098,Lido,"block_9,line_1,word_ 2","City/State/Zipcode: Lido Beach, NY 11561"
-98,5,1,9,1,1,3,1453,1963,187,50,96.151337,"Beach,","block_9,line_1,word_ 3","City/State/Zipcode: Lido Beach, NY 11561"
-99,5,1,9,1,1,4,1687,1962,92,50,95.784048,NY,"block_9,line_1,word_ 4","City/State/Zipcode: Lido Beach, NY 11561"
-100,5,1,9,1,1,5,1805,1962,174,51,95.708045,11561,"block_9,line_1,word_ 5","City/State/Zipcode: Lido Beach, NY 11561"
-101,5,1,10,1,1,1,505,2199,255,64,96.674947,Property,"block_10,line_1,word_ 1",Property Address (If different from Insured’s Mailing address above — do not use P.O. Box)
-102,5,1,10,1,1,2,781,2199,252,50,96.206267,Address,"block_10,line_1,word_ 2",Property Address (If different from Insured’s Mailing address above — do not use P.O. Box)
-103,5,1,10,1,1,3,1059,2198,59,65,81.993716,(If,"block_10,line_1,word_ 3",Property Address (If different from Insured’s Mailing address above — do not use P.O. Box)
-104,5,1,10,1,1,4,1138,2198,248,51,96.744673,different,"block_10,line_1,word_ 4",Property Address (If different from Insured’s Mailing address above — do not use P.O. Box)
-105,5,1,10,1,1,5,1406,2198,133,51,92.556698,from,"block_10,line_1,word_ 5",Property Address (If different from Insured’s Mailing address above — do not use P.O. Box)
-106,5,1,10,1,1,6,1570,2198,272,51,90.141163,Insured’s,"block_10,line_1,word_ 6",Property Address (If different from Insured’s Mailing address above — do not use P.O. Box)
-107,5,1,10,1,1,7,1869,2199,211,64,95.762155,Mailing,"block_10,line_1,word_ 7",Property Address (If different from Insured’s Mailing address above — do not use P.O. Box)
-108,5,1,10,1,1,8,2106,2199,242,50,96.243323,address,"block_10,line_1,word_ 8",Property Address (If different from Insured’s Mailing address above — do not use P.O. Box)
-109,5,1,10,1,1,9,2372,2199,183,50,93.300036,above,"block_10,line_1,word_ 9",Property Address (If different from Insured’s Mailing address above — do not use P.O. Box)
-110,5,1,10,1,1,10,2578,2228,38,5,90.274194,—,"block_10,line_1,word_ 10",Property Address (If different from Insured’s Mailing address above — do not use P.O. Box)
-111,5,1,10,1,1,11,2637,2199,73,50,96.929972,do,"block_10,line_1,word_ 11",Property Address (If different from Insured’s Mailing address above — do not use P.O. Box)
-112,5,1,10,1,1,12,2736,2200,92,49,95.444037,not,"block_10,line_1,word_ 12",Property Address (If different from Insured’s Mailing address above — do not use P.O. Box)
-113,5,1,10,1,1,13,2852,2211,105,38,95.292713,use,"block_10,line_1,word_ 13",Property Address (If different from Insured’s Mailing address above — do not use P.O. Box)
-114,5,1,10,1,1,14,2984,2198,127,51,95.292713,P.O.,"block_10,line_1,word_ 14",Property Address (If different from Insured’s Mailing address above — do not use P.O. Box)
-115,5,1,10,1,1,15,3141,2198,136,65,96.410305,Box),"block_10,line_1,word_ 15",Property Address (If different from Insured’s Mailing address above — do not use P.O. Box)
-116,5,1,11,1,1,1,505,2279,255,64,96.597991,Property,"block_11,line_1,word_ 1",Property Location: 6836 Queenferry Cir
-117,5,1,11,1,1,2,785,2279,270,50,96.597991,Location:,"block_11,line_1,word_ 2",Property Location: 6836 Queenferry Cir
-118,5,1,11,1,1,3,1200,2278,149,51,93.226550,6836,"block_11,line_1,word_ 3",Property Location: 6836 Queenferry Cir
-119,5,1,11,1,1,4,1374,2278,344,64,89.723028,Queenferry,"block_11,line_1,word_ 4",Property Location: 6836 Queenferry Cir
-120,5,1,11,1,1,5,1741,2278,86,51,96.397400,Cir,"block_11,line_1,word_ 5",Property Location: 6836 Queenferry Cir
-121,5,1,11,1,2,1,503,2354,575,74,91.649796,City/State/Zipcode:,"block_11,line_2,word_ 1","City/State/Zipcode: Boca Raton, FL 33496"
-122,5,1,11,1,2,2,1264,2359,150,50,95.774256,Boca,"block_11,line_2,word_ 2","City/State/Zipcode: Boca Raton, FL 33496"
-123,5,1,11,1,2,3,1442,2359,176,50,96.215195,"Raton,","block_11,line_2,word_ 3","City/State/Zipcode: Boca Raton, FL 33496"
-124,5,1,11,1,2,4,1666,2359,73,49,94.511120,FL,"block_11,line_2,word_ 4","City/State/Zipcode: Boca Raton, FL 33496"
-125,5,1,11,1,2,5,1764,2358,186,51,94.511120,33496,"block_11,line_2,word_ 5","City/State/Zipcode: Boca Raton, FL 33496"
-126,5,1,12,1,1,1,503,2454,446,65,96.150532,Corresponding,"block_12,line_1,word_ 1",Corresponding Chubb Homeowners policy number _ 1523893801 __
-127,5,1,12,1,1,2,976,2454,199,51,96.150532,Chubb,"block_12,line_1,word_ 2",Corresponding Chubb Homeowners policy number _ 1523893801 __
-128,5,1,12,1,1,3,1202,2455,402,50,96.349244,Homeowners,"block_12,line_1,word_ 3",Corresponding Chubb Homeowners policy number _ 1523893801 __
-129,5,1,12,1,1,4,1630,2455,173,64,96.566268,policy,"block_12,line_1,word_ 4",Corresponding Chubb Homeowners policy number _ 1523893801 __
-130,5,1,12,1,1,5,1827,2455,231,50,83.251832,number,"block_12,line_1,word_ 5",Corresponding Chubb Homeowners policy number _ 1523893801 __
-131,5,1,12,1,1,6,2076,2513,79,5,52.252002,_,"block_12,line_1,word_ 6",Corresponding Chubb Homeowners policy number _ 1523893801 __
-132,5,1,12,1,1,7,2183,2452,456,66,27.164412,1523893801,"block_12,line_1,word_ 7",Corresponding Chubb Homeowners policy number _ 1523893801 __
-133,5,1,12,1,1,8,2574,2448,69,75,27.164412,__,"block_12,line_1,word_ 8",Corresponding Chubb Homeowners policy number _ 1523893801 __
-134,5,1,12,1,2,1,505,2554,258,51,96.355437,Effective,"block_12,line_2,word_ 1",Effective 2/1/22 to 2/1/23
-135,5,1,12,1,2,2,786,2554,187,51,96.016990,2/1/22,"block_12,line_2,word_ 2",Effective 2/1/22 to 2/1/23
-136,5,1,12,1,2,3,997,2556,54,49,95.825373,to,"block_12,line_2,word_ 3",Effective 2/1/22 to 2/1/23
-137,5,1,12,1,2,4,1076,2554,187,51,96.840381,2/1/23,"block_12,line_2,word_ 4",Effective 2/1/22 to 2/1/23
-138,5,1,13,1,1,1,506,2714,34,50,91.549710,If,"block_13,line_1,word_ 1","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-139,5,1,13,1,1,2,562,2715,192,50,96.775238,House,"block_13,line_1,word_ 2","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-140,5,1,13,1,1,3,779,2727,280,52,96.215078,coverage,"block_13,line_1,word_ 3","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-141,5,1,13,1,1,4,1087,2715,42,50,96.079835,is,"block_13,line_1,word_ 4","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-142,5,1,13,1,1,5,1155,2715,161,64,96.079835,being,"block_13,line_1,word_ 5","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-143,5,1,13,1,1,6,1344,2714,317,64,96.617213,"requested,","block_13,line_1,word_ 6","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-144,5,1,13,1,1,7,1687,2715,146,50,95.408428,what,"block_13,line_1,word_ 7","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-145,5,1,13,1,1,8,1858,2715,43,50,96.095036,is,"block_13,line_1,word_ 8","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-146,5,1,13,1,1,9,1923,2715,93,50,96.675200,the,"block_13,line_1,word_ 9","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-147,5,1,13,1,1,10,2042,2715,183,50,96.442939,house,"block_13,line_1,word_ 10","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-148,5,1,13,1,1,11,2248,2716,229,49,96.456376,amount,"block_13,line_1,word_ 11","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-149,5,1,13,1,1,12,2499,2714,57,51,96.494251,of,"block_13,line_1,word_ 12","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-150,5,1,13,1,1,13,2576,2727,280,52,96.297975,coverage,"block_13,line_1,word_ 13","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-151,5,1,13,1,1,14,2881,2727,70,38,94.850096,on,"block_13,line_1,word_ 14","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-152,5,1,13,1,1,15,2976,2715,93,50,94.850096,the,"block_13,line_1,word_ 15","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-153,5,1,13,1,1,16,3094,2714,199,51,95.566835,Chubb,"block_13,line_1,word_ 16","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-154,5,1,13,1,1,17,3319,2715,402,50,96.134401,Homeowners,"block_13,line_1,word_ 17","If House coverage is being requested, what is the house amount of coverage on the Chubb Homeowners"
-155,5,1,13,1,2,1,505,2794,214,65,94.833481,Policy?,"block_13,line_2,word_ 1","Policy? $6,900,000."
-156,5,1,13,1,2,2,745,2790,357,64,94.833481,"$6,900,000.","block_13,line_2,word_ 2","Policy? $6,900,000."
-157,5,1,14,1,1,1,506,2953,34,50,92.524923,If,"block_14,line_1,word_ 1","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-158,5,1,14,1,1,2,560,2953,271,51,96.652445,Contents,"block_14,line_1,word_ 2","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-159,5,1,14,1,1,3,856,2966,280,52,96.335393,coverage,"block_14,line_1,word_ 3","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-160,5,1,14,1,1,4,1164,2954,42,50,94.309289,is,"block_14,line_1,word_ 4","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-161,5,1,14,1,1,5,1232,2953,162,65,96.876185,being,"block_14,line_1,word_ 5","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-162,5,1,14,1,1,6,1421,2953,318,64,96.393148,"requested,","block_14,line_1,word_ 6","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-163,5,1,14,1,1,7,1764,2954,146,50,96.350276,what,"block_14,line_1,word_ 7","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-164,5,1,14,1,1,8,1936,2954,42,50,96.426488,is,"block_14,line_1,word_ 8","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-165,5,1,14,1,1,9,2001,2954,92,50,96.381506,the,"block_14,line_1,word_ 9","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-166,5,1,14,1,1,10,2117,2955,258,49,96.519785,contents,"block_14,line_1,word_ 10","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-167,5,1,14,1,1,11,2400,2955,229,49,95.689441,amount,"block_14,line_1,word_ 11","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-168,5,1,14,1,1,12,2649,2953,58,51,95.850250,of,"block_14,line_1,word_ 12","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-169,5,1,14,1,1,13,2727,2966,281,52,96.360880,coverage,"block_14,line_1,word_ 13","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-170,5,1,14,1,1,14,3032,2966,70,38,96.068013,on,"block_14,line_1,word_ 14","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-171,5,1,14,1,1,15,3127,2954,93,50,96.068013,the,"block_14,line_1,word_ 15","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-172,5,1,14,1,1,16,3245,2953,199,51,96.297262,Chubb,"block_14,line_1,word_ 16","If Contents coverage is being requested, what is the contents amount of coverage on the Chubb"
-173,5,1,14,1,2,1,505,3034,400,50,96.576328,Homeowners,"block_14,line_2,word_ 1","Homeowners Policy? $2,070,000."
-174,5,1,14,1,2,2,932,3033,215,65,96.559146,Policy?,"block_14,line_2,word_ 2","Homeowners Policy? $2,070,000."
-175,5,1,14,1,2,3,1173,3029,357,64,96.423424,"$2,070,000.","block_14,line_2,word_ 3","Homeowners Policy? $2,070,000."
-176,5,1,15,1,1,1,506,3193,34,50,72.570567,If,"block_15,line_1,word_ 1","If Other permanent structures coverage is requested, what is the other permanent structures total value?"
-177,5,1,15,1,1,2,560,3193,171,51,96.050722,Other,"block_15,line_1,word_ 2","If Other permanent structures coverage is requested, what is the other permanent structures total value?"
-178,5,1,15,1,1,3,753,3195,327,62,95.827543,permanent,"block_15,line_1,word_ 3","If Other permanent structures coverage is requested, what is the other permanent structures total value?"
-179,5,1,15,1,1,4,1102,3195,300,49,95.838514,structures,"block_15,line_1,word_ 4","If Other permanent structures coverage is requested, what is the other permanent structures total value?"
-180,5,1,15,1,1,5,1427,3206,280,52,96.807244,coverage,"block_15,line_1,word_ 5","If Other permanent structures coverage is requested, what is the other permanent structures total value?"
-181,5,1,15,1,1,6,1734,3194,42,50,96.785578,is,"block_15,line_1,word_ 6","If Other permanent structures coverage is requested, what is the other permanent structures total value?"
-182,5,1,15,1,1,7,1802,3194,317,63,96.736689,"requested,","block_15,line_1,word_ 7","If Other permanent structures coverage is requested, what is the other permanent structures total value?"
-183,5,1,15,1,1,8,2145,3194,146,50,96.134341,what,"block_15,line_1,word_ 8","If Other permanent structures coverage is requested, what is the other permanent structures total value?"
-184,5,1,15,1,1,9,2316,3194,42,50,96.786301,is,"block_15,line_1,word_ 9","If Other permanent structures coverage is requested, what is the other permanent structures total value?"
-185,5,1,15,1,1,10,2381,3194,92,50,96.786301,the,"block_15,line_1,word_ 10","If Other permanent structures coverage is requested, what is the other permanent structures total value?"
-186,5,1,15,1,1,11,2498,3194,156,50,96.872303,other,"block_15,line_1,word_ 11","If Other permanent structures coverage is requested, what is the other permanent structures total value?"
-187,5,1,15,1,1,12,2678,3195,327,62,95.945016,permanent,"block_15,line_1,word_ 12","If Other permanent structures coverage is requested, what is the other permanent structures total value?"
-188,5,1,15,1,1,13,3026,3195,300,49,96.051827,structures,"block_15,line_1,word_ 13","If Other permanent structures coverage is requested, what is the other permanent structures total value?"
-189,5,1,15,1,1,14,3349,3194,126,50,96.051827,total,"block_15,line_1,word_ 14","If Other permanent structures coverage is requested, what is the other permanent structures total value?"
-190,5,1,15,1,1,15,3499,3193,201,51,95.521071,value?,"block_15,line_1,word_ 15","If Other permanent structures coverage is requested, what is the other permanent structures total value?"
-191,5,1,15,1,2,1,503,3269,356,64,96.487978,"$1,380,000.","block_15,line_2,word_ 1","$1,380,000."
-192,5,1,16,1,1,1,506,3510,161,50,96.188790,Flood,"block_16,line_1,word_ 1",Flood Zone: __X Month & Year Built/Substantial Improvement Date: 1/2011
-193,5,1,16,1,1,2,693,3510,170,50,86.883746,Zone:,"block_16,line_1,word_ 2",Flood Zone: __X Month & Year Built/Substantial Improvement Date: 1/2011
-194,5,1,16,1,1,3,887,3509,124,64,46.739678,__X,"block_16,line_1,word_ 3",Flood Zone: __X Month & Year Built/Substantial Improvement Date: 1/2011
-195,5,1,16,1,1,4,1254,3510,183,50,93.248522,Month,"block_16,line_1,word_ 4",Flood Zone: __X Month & Year Built/Substantial Improvement Date: 1/2011
-196,5,1,16,1,1,5,1464,3509,41,51,93.248522,&,"block_16,line_1,word_ 5",Flood Zone: __X Month & Year Built/Substantial Improvement Date: 1/2011
-197,5,1,16,1,1,6,1527,3509,146,51,93.303401,Year,"block_16,line_1,word_ 6",Flood Zone: __X Month & Year Built/Substantial Improvement Date: 1/2011
-198,5,1,16,1,1,7,1697,3509,488,51,91.651450,Built/Substantial,"block_16,line_1,word_ 7",Flood Zone: __X Month & Year Built/Substantial Improvement Date: 1/2011
-199,5,1,16,1,1,8,2214,3510,399,63,93.752492,Improvement,"block_16,line_1,word_ 8",Flood Zone: __X Month & Year Built/Substantial Improvement Date: 1/2011
-200,5,1,16,1,1,9,2638,3510,154,50,93.441342,Date:,"block_16,line_1,word_ 9",Flood Zone: __X Month & Year Built/Substantial Improvement Date: 1/2011
-201,5,1,16,1,1,10,2844,3509,193,51,96.477450,1/2011,"block_16,line_1,word_ 10",Flood Zone: __X Month & Year Built/Substantial Improvement Date: 1/2011
-202,5,1,17,1,1,1,503,3589,445,65,91.310192,County/Parish:,"block_17,line_1,word_ 1",County/Parish: Palm Beach County Comm#: 120192
-203,5,1,17,1,1,2,978,3590,149,50,96.767699,Palm,"block_17,line_1,word_ 2",County/Parish: Palm Beach County Comm#: 120192
-204,5,1,17,1,1,3,1155,3590,188,50,96.319287,Beach,"block_17,line_1,word_ 3",County/Parish: Palm Beach County Comm#: 120192
-205,5,1,17,1,1,4,1370,3589,216,65,96.791658,County,"block_17,line_1,word_ 4",County/Parish: Palm Beach County Comm#: 120192
-206,5,1,17,1,1,5,1752,3589,252,51,87.874721,Comm#:,"block_17,line_1,word_ 5",County/Parish: Palm Beach County Comm#: 120192
-207,5,1,17,1,1,6,2036,3589,221,51,96.596138,120192,"block_17,line_1,word_ 6",County/Parish: Palm Beach County Comm#: 120192
-208,5,1,17,1,2,1,505,3670,237,64,96.187049,Building,"block_17,line_2,word_ 1",Building Occupancy: Single family X 2-4 family o
-209,5,1,17,1,2,2,768,3669,357,65,95.230026,Occupancy:,"block_17,line_2,word_ 2",Building Occupancy: Single family X 2-4 family o
-210,5,1,17,1,2,3,1153,3669,188,65,95.878485,Single,"block_17,line_2,word_ 3",Building Occupancy: Single family X 2-4 family o
-211,5,1,17,1,2,4,1364,3669,180,65,92.292910,family,"block_17,line_2,word_ 4",Building Occupancy: Single family X 2-4 family o
-212,5,1,17,1,2,5,1566,3670,44,49,92.292910,X,"block_17,line_2,word_ 5",Building Occupancy: Single family X 2-4 family o
-213,5,1,17,1,2,6,2001,3669,94,50,96.599126,2-4,"block_17,line_2,word_ 6",Building Occupancy: Single family X 2-4 family o
-214,5,1,17,1,2,7,2118,3669,181,65,93.215785,family,"block_17,line_2,word_ 7",Building Occupancy: Single family X 2-4 family o
-215,5,1,17,1,2,8,2323,3687,32,32,92.368672,o,"block_17,line_2,word_ 8",Building Occupancy: Single family X 2-4 family o
-216,5,1,18,1,1,1,505,3904,373,65,91.348236,Mortgagee’s,"block_18,line_1,word_ 1",Mortgagee’s name: Loan number:
-217,5,1,18,1,1,2,904,3917,182,38,96.565864,name:,"block_18,line_1,word_ 2",Mortgagee’s name: Loan number:
-218,5,1,18,1,1,3,2545,3904,146,51,96.763178,Loan,"block_18,line_1,word_ 3",Mortgagee’s name: Loan number:
-219,5,1,18,1,1,4,2718,3905,244,50,95.848932,number:,"block_18,line_1,word_ 4",Mortgagee’s name: Loan number:
-220,5,1,18,1,2,1,500,3984,267,51,95.342272,Address:,"block_18,line_2,word_ 1",Address:
-221,5,1,18,1,3,1,503,4065,575,64,91.599001,City/State/Zipcode:,"block_18,line_3,word_ 1",City/State/Zipcode:
-222,5,1,19,1,1,1,503,4224,170,51,96.313380,Other,"block_19,line_1,word_ 1",Other additional interest: Reference number:
-223,5,1,19,1,1,2,694,4224,290,51,96.344545,additional,"block_19,line_1,word_ 2",Other additional interest: Reference number:
-224,5,1,19,1,1,3,1013,4225,235,50,96.753151,interest:,"block_19,line_1,word_ 3",Other additional interest: Reference number:
-225,5,1,19,1,1,4,2629,4224,314,51,96.260440,Reference,"block_19,line_1,word_ 4",Other additional interest: Reference number:
-226,5,1,19,1,1,5,2968,4225,244,50,96.345179,number:,"block_19,line_1,word_ 5",Other additional interest: Reference number:
-227,5,1,19,1,2,1,500,4304,267,51,96.582941,Address:,"block_19,line_2,word_ 1",Address:
-228,5,1,19,1,3,1,503,4384,575,65,92.034456,City/State/Zipcode:,"block_19,line_3,word_ 1",City/State/Zipcode:
-229,5,1,20,1,1,1,455,1291,3340,3259,95.000000, ,"block_20,line_1,word_ 1", 
-230,5,1,21,1,1,1,500,5205,51,51,96.474174,©,"block_21,line_1,word_ 1",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-231,5,1,21,1,1,2,573,5205,293,65,96.474174,Copyright,"block_21,line_1,word_ 2",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-232,5,1,21,1,1,3,888,5205,150,51,96.330812,2005,"block_21,line_1,word_ 3",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-233,5,1,21,1,1,4,1063,5206,68,64,96.698866,by,"block_21,line_1,word_ 4",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-234,5,1,21,1,1,5,1155,5205,199,51,91.571367,Chubb,"block_21,line_1,word_ 5",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-235,5,1,21,1,1,6,1378,5205,41,51,91.571367,&,"block_21,line_1,word_ 6",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-236,5,1,21,1,1,7,1444,5205,116,51,96.929430,Son,"block_21,line_1,word_ 7",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-237,5,1,21,1,1,8,1589,5206,100,50,96.050670,Inc.,"block_21,line_1,word_ 8",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-238,5,1,21,1,1,9,1720,5205,152,51,96.028977,Form,"block_21,line_1,word_ 9",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-239,5,1,21,1,1,10,1900,5205,97,51,96.337155,No.,"block_21,line_1,word_ 10",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-240,5,1,21,1,1,11,2026,5205,349,51,96.357021,02-03-0023,"block_21,line_1,word_ 11",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-241,5,1,21,1,1,12,2403,5206,73,49,95.875268,FL,"block_21,line_1,word_ 12",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-242,5,1,21,1,1,13,2501,5205,155,65,95.794225,(Rev.,"block_21,line_1,word_ 13",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-243,5,1,21,1,1,14,2689,5205,264,65,96.236984,11/2013),"block_21,line_1,word_ 14",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-244,5,1,21,1,1,15,3002,5206,154,64,96.236984,Page,"block_21,line_1,word_ 15",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-245,5,1,21,1,1,16,3185,5205,19,50,95.008892,1,"block_21,line_1,word_ 16",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-246,5,1,21,1,1,17,3238,5205,57,51,95.968752,of,"block_21,line_1,word_ 17",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-247,5,1,21,1,1,18,3314,5206,34,49,96.887716,4,"block_21,line_1,word_ 18",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 1 of 4
-248,5,1,1,1,1,1,192,520,179,51,96.458253,Flood,"block_1,line_1,word_ 1",Flood Coverage and Premium: Below filled in by compan
-249,5,1,1,1,1,2,398,520,311,51,96.528165,Coverage,"block_1,line_1,word_ 2",Flood Coverage and Premium: Below filled in by compan
-250,5,1,1,1,1,3,732,520,117,51,96.910778,and,"block_1,line_1,word_ 3",Flood Coverage and Premium: Below filled in by compan
-251,5,1,1,1,1,4,878,520,308,51,96.070745,Premium:,"block_1,line_1,word_ 4",Flood Coverage and Premium: Below filled in by compan
-252,5,1,1,1,1,5,2754,520,198,51,96.485341,Below,"block_1,line_1,word_ 5",Flood Coverage and Premium: Below filled in by compan
-253,5,1,1,1,1,6,2972,520,157,51,94.665859,filled,"block_1,line_1,word_ 6",Flood Coverage and Premium: Below filled in by compan
-254,5,1,1,1,1,7,3157,520,52,50,94.665859,in,"block_1,line_1,word_ 7",Flood Coverage and Premium: Below filled in by compan
-255,5,1,1,1,1,8,3261,516,74,73,96.364173,by,"block_1,line_1,word_ 8",Flood Coverage and Premium: Below filled in by compan
-256,5,1,1,1,1,9,3337,533,258,51,96.364173,compan,"block_1,line_1,word_ 9",Flood Coverage and Premium: Below filled in by compan
-257,5,1,2,1,1,1,1312,599,126,73,96.957596,Self,"block_2,line_1,word_ 1",Self Coverage | Increased Total Total premium
-258,5,1,2,1,1,2,1657,603,310,65,96.669624,Coverage,"block_2,line_1,word_ 2",Self Coverage | Increased Total Total premium
-259,5,1,2,1,1,3,2005,599,38,73,94.761169,|,"block_2,line_1,word_ 3",Self Coverage | Increased Total Total premium
-260,5,1,2,1,1,4,2092,603,313,51,95.866465,Increased,"block_2,line_1,word_ 4",Self Coverage | Increased Total Total premium
-261,5,1,2,1,1,5,2667,599,161,73,96.657051,Total,"block_2,line_1,word_ 5",Self Coverage | Increased Total Total premium
-262,5,1,2,1,1,6,3163,603,160,51,96.912875,Total,"block_2,line_1,word_ 6",Self Coverage | Increased Total Total premium
-263,5,1,2,1,1,7,3352,603,283,64,95.784297,premium,"block_2,line_1,word_ 7",Self Coverage | Increased Total Total premium
-264,5,1,2,1,2,1,1254,683,240,51,96.102560,insured,"block_2,line_2,word_ 1",insured amount coverage coverage
-265,5,1,2,1,2,2,1688,679,248,73,96.404192,amount,"block_2,line_2,word_ 2",insured amount coverage coverage
-266,5,1,2,1,2,3,2100,696,299,52,96.106753,coverage,"block_2,line_2,word_ 3",insured amount coverage coverage
-267,5,1,2,1,2,4,2600,696,299,52,95.968907,coverage,"block_2,line_2,word_ 4",insured amount coverage coverage
-268,5,1,2,1,3,1,1244,763,260,51,96.763838,retained,"block_2,line_3,word_ 1",retained amount amount
-269,5,1,2,1,3,2,2126,759,247,73,96.473602,amount,"block_2,line_3,word_ 2",retained amount amount
-270,5,1,2,1,3,3,2626,765,247,49,96.302508,amount,"block_2,line_3,word_ 3",retained amount amount
-271,5,1,2,1,4,1,1288,843,172,51,95.946864,limits,"block_2,line_4,word_ 1",limits
-272,5,1,2,1,5,1,132,1008,296,49,96.369443,structure,"block_2,line_5,word_ 1",structure
-273,5,1,3,1,1,1,91,1071,374,115,15.613022,Contents,"block_3,line_1,word_ 1","Contents | $100,000 __| SIRErAeNCTeIG)"
-274,5,1,3,1,1,2,819,1075,336,80,63.873494,|,"block_3,line_1,word_ 2","Contents | $100,000 __| SIRErAeNCTeIG)"
-275,5,1,3,1,1,3,1202,1071,279,115,64.541655,"$100,000","block_3,line_1,word_ 3","Contents | $100,000 __| SIRErAeNCTeIG)"
-276,5,1,3,1,1,4,1499,1071,107,115,50.696077,__|,"block_3,line_1,word_ 4","Contents | $100,000 __| SIRErAeNCTeIG)"
-277,5,1,3,1,1,5,1713,1075,317,80,0.000000,SIRErAeNCTeIG),"block_3,line_1,word_ 5","Contents | $100,000 __| SIRErAeNCTeIG)"
-278,5,1,3,1,2,1,91,1154,29,115,78.900476,|,"block_3,line_2,word_ 1","| Additions and alterations | $250,000. |"
-279,5,1,3,1,2,2,138,1154,308,115,78.900476,Additions,"block_3,line_2,word_ 2","| Additions and alterations | $250,000. |"
-280,5,1,3,1,2,3,474,1154,97,115,82.032666,and,"block_3,line_2,word_ 3","| Additions and alterations | $250,000. |"
-281,5,1,3,1,2,4,598,1154,385,115,81.634564,alterations,"block_3,line_2,word_ 4","| Additions and alterations | $250,000. |"
-282,5,1,3,1,2,5,1087,1154,97,115,45.857868,|,"block_3,line_2,word_ 5","| Additions and alterations | $250,000. |"
-283,5,1,3,1,2,6,1202,1154,337,115,27.608032,"$250,000.","block_3,line_2,word_ 6","| Additions and alterations | $250,000. |"
-284,5,1,3,1,2,7,1585,1154,40,115,62.171936,|,"block_3,line_2,word_ 7","| Additions and alterations | $250,000. |"
-285,5,1,3,1,3,1,95,1242,1935,80,85.174038,|Contentsinabasement,"block_3,line_3,word_ 1","|Contentsinabasement | $100,000, |"
-286,5,1,3,1,3,2,1058,1238,116,115,25.593333,|,"block_3,line_3,word_ 2","|Contentsinabasement | $100,000, |"
-287,5,1,3,1,3,3,1202,1238,327,115,41.278701,"$100,000,","block_3,line_3,word_ 3","|Contentsinabasement | $100,000, |"
-288,5,1,3,1,3,4,1576,1238,58,115,67.640417,|,"block_3,line_3,word_ 4","|Contentsinabasement | $100,000, |"
-289,5,1,3,1,4,1,91,1321,29,115,70.487463,|,"block_3,line_4,word_ 1","| Real property inabasement | $250,000, |"
-290,5,1,3,1,4,2,138,1321,136,115,70.487463,Real,"block_3,line_4,word_ 2","| Real property inabasement | $250,000, |"
-291,5,1,3,1,4,3,301,1321,270,115,90.920228,property,"block_3,line_4,word_ 3","| Real property inabasement | $250,000, |"
-292,5,1,3,1,4,4,608,1321,461,115,84.808581,inabasement,"block_3,line_4,word_ 4","| Real property inabasement | $250,000, |"
-293,5,1,3,1,4,5,1125,1321,49,115,6.672373,|,"block_3,line_4,word_ 5","| Real property inabasement | $250,000, |"
-294,5,1,3,1,4,6,1193,1321,346,115,6.672373,"$250,000,","block_3,line_4,word_ 6","| Real property inabasement | $250,000, |"
-295,5,1,3,1,4,7,1576,1321,58,115,71.102195,|,"block_3,line_4,word_ 7","| Real property inabasement | $250,000, |"
-296,5,1,3,1,5,1,95,1492,1935,80,75.744314,|Rebuildingtocode,"block_3,line_5,word_ 1","|Rebuildingtocode | $250,000 |"
-297,5,1,3,1,5,2,982,1488,192,115,53.817964,|,"block_3,line_5,word_ 2","|Rebuildingtocode | $250,000 |"
-298,5,1,3,1,5,3,1202,1488,317,115,68.653653,"$250,000","block_3,line_5,word_ 3","|Rebuildingtocode | $250,000 |"
-299,5,1,3,1,5,4,1576,1488,58,115,69.129539,|,"block_3,line_5,word_ 4","|Rebuildingtocode | $250,000 |"
-300,5,1,4,1,1,1,2564,1756,164,51,96.077677,State,"block_4,line_1,word_ 1",State surcharge
-301,5,1,4,1,1,2,2751,1756,332,65,96.077677,surcharge,"block_4,line_1,word_ 2",State surcharge
-302,5,1,4,1,2,1,2800,1840,164,51,95.660828,State,"block_4,line_2,word_ 1",State tax
-303,5,1,4,1,2,2,2986,1842,98,49,96.444475,tax,"block_4,line_2,word_ 2",State tax
-304,5,1,4,2,1,1,2648,1923,161,51,96.597131,Total,"block_4,line_1,word_ 1",Total Prepaid
-305,5,1,4,2,1,2,2837,1923,244,64,96.247457,Prepaid,"block_4,line_1,word_ 2",Total Prepaid
-306,5,1,4,2,2,1,2824,2002,261,51,96.820693,Amount,"block_4,line_2,word_ 1",Amount
-307,5,1,5,1,1,1,505,2207,267,65,96.444638,Payment,"block_5,line_1,word_ 1",Payment Option: Full Premium Attached o Bill Me o Bill Mortgagee o
-308,5,1,5,1,1,2,794,2207,216,64,96.845454,Option:,"block_5,line_1,word_ 2",Payment Option: Full Premium Attached o Bill Me o Bill Mortgagee o
-309,5,1,5,1,1,3,1254,2207,102,51,96.272292,Full,"block_5,line_1,word_ 3",Payment Option: Full Premium Attached o Bill Me o Bill Mortgagee o
-310,5,1,5,1,1,4,1385,2207,267,51,96.202263,Premium,"block_5,line_1,word_ 4",Payment Option: Full Premium Attached o Bill Me o Bill Mortgagee o
-311,5,1,5,1,1,5,1677,2207,269,51,92.932408,Attached,"block_5,line_1,word_ 5",Payment Option: Full Premium Attached o Bill Me o Bill Mortgagee o
-312,5,1,5,1,1,6,1994,2225,32,32,90.954669,o,"block_5,line_1,word_ 6",Payment Option: Full Premium Attached o Bill Me o Bill Mortgagee o
-313,5,1,5,1,1,7,2253,2207,83,50,95.610041,Bill,"block_5,line_1,word_ 7",Payment Option: Full Premium Attached o Bill Me o Bill Mortgagee o
-314,5,1,5,1,1,8,2365,2207,89,51,93.098324,Me,"block_5,line_1,word_ 8",Payment Option: Full Premium Attached o Bill Me o Bill Mortgagee o
-315,5,1,5,1,1,9,2500,2225,32,32,92.264838,o,"block_5,line_1,word_ 9",Payment Option: Full Premium Attached o Bill Me o Bill Mortgagee o
-316,5,1,5,1,1,10,2753,2207,83,50,91.950760,Bill,"block_5,line_1,word_ 10",Payment Option: Full Premium Attached o Bill Me o Bill Mortgagee o
-317,5,1,5,1,1,11,2865,2207,324,65,91.632053,Mortgagee,"block_5,line_1,word_ 11",Payment Option: Full Premium Attached o Bill Me o Bill Mortgagee o
-318,5,1,5,1,1,12,3234,2225,32,32,86.478666,o,"block_5,line_1,word_ 12",Payment Option: Full Premium Attached o Bill Me o Bill Mortgagee o
-319,5,1,5,1,2,1,1253,2287,84,50,96.786032,Bill,"block_5,line_2,word_ 1",Bill Other o
-320,5,1,5,1,2,2,1362,2287,172,51,93.007774,Other,"block_5,line_2,word_ 2",Bill Other o
-321,5,1,5,1,2,3,1577,2305,32,32,89.779643,o,"block_5,line_2,word_ 3",Bill Other o
-322,5,1,6,1,1,1,90,585,3789,1857,95.000000, ,"block_6,line_1,word_ 1", 
-323,5,1,7,1,1,1,501,2537,115,51,96.085377,The,"block_7,line_1,word_ 1",The above statements are correct to the best of my knowledge. | understand that any false statements
-324,5,1,7,1,1,2,640,2537,185,51,96.085377,above,"block_7,line_1,word_ 2",The above statements are correct to the best of my knowledge. | understand that any false statements
-325,5,1,7,1,1,3,848,2539,335,49,96.077608,statements,"block_7,line_1,word_ 3",The above statements are correct to the best of my knowledge. | understand that any false statements
-326,5,1,7,1,1,4,1207,2550,95,38,95.920352,are,"block_7,line_1,word_ 4",The above statements are correct to the best of my knowledge. | understand that any false statements
-327,5,1,7,1,1,5,1328,2539,209,49,95.920352,correct,"block_7,line_1,word_ 5",The above statements are correct to the best of my knowledge. | understand that any false statements
-328,5,1,7,1,1,6,1557,2539,55,49,96.041274,to,"block_7,line_1,word_ 6",The above statements are correct to the best of my knowledge. | understand that any false statements
-329,5,1,7,1,1,7,1634,2537,92,51,96.289269,the,"block_7,line_1,word_ 7",The above statements are correct to the best of my knowledge. | understand that any false statements
-330,5,1,7,1,1,8,1752,2537,127,51,95.927560,best,"block_7,line_1,word_ 8",The above statements are correct to the best of my knowledge. | understand that any false statements
-331,5,1,7,1,1,9,1901,2537,57,51,95.927560,of,"block_7,line_1,word_ 9",The above statements are correct to the best of my knowledge. | understand that any false statements
-332,5,1,7,1,1,10,1980,2550,87,52,96.284094,my,"block_7,line_1,word_ 10",The above statements are correct to the best of my knowledge. | understand that any false statements
-333,5,1,7,1,1,11,2091,2537,342,65,96.284094,knowledge.,"block_7,line_1,word_ 11",The above statements are correct to the best of my knowledge. | understand that any false statements
-334,5,1,7,1,1,12,2464,2537,7,50,92.188442,|,"block_7,line_1,word_ 12",The above statements are correct to the best of my knowledge. | understand that any false statements
-335,5,1,7,1,1,13,2500,2537,339,51,96.003737,understand,"block_7,line_1,word_ 13",The above statements are correct to the best of my knowledge. | understand that any false statements
-336,5,1,7,1,1,14,2863,2537,115,51,96.902060,that,"block_7,line_1,word_ 14",The above statements are correct to the best of my knowledge. | understand that any false statements
-337,5,1,7,1,1,15,3000,2550,109,52,96.010346,any,"block_7,line_1,word_ 15",The above statements are correct to the best of my knowledge. | understand that any false statements
-338,5,1,7,1,1,16,3130,2537,143,51,96.010346,false,"block_7,line_1,word_ 16",The above statements are correct to the best of my knowledge. | understand that any false statements
-339,5,1,7,1,1,17,3297,2539,334,49,96.698920,statements,"block_7,line_1,word_ 17",The above statements are correct to the best of my knowledge. | understand that any false statements
-340,5,1,7,1,2,1,504,2630,125,52,96.804064,may,"block_7,line_2,word_ 1",may be punishable by fine and/or imprisonment under applicable law.
-341,5,1,7,1,2,2,653,2617,71,51,96.633244,be,"block_7,line_2,word_ 2",may be punishable by fine and/or imprisonment under applicable law.
-342,5,1,7,1,2,3,750,2617,329,64,96.409692,punishable,"block_7,line_2,word_ 3",may be punishable by fine and/or imprisonment under applicable law.
-343,5,1,7,1,2,4,1105,2617,68,65,96.580161,by,"block_7,line_2,word_ 4",may be punishable by fine and/or imprisonment under applicable law.
-344,5,1,7,1,2,5,1194,2617,108,51,95.362019,fine,"block_7,line_2,word_ 5",may be punishable by fine and/or imprisonment under applicable law.
-345,5,1,7,1,2,6,1326,2617,196,51,96.103335,and/or,"block_7,line_2,word_ 6",may be punishable by fine and/or imprisonment under applicable law.
-346,5,1,7,1,2,7,1544,2617,412,64,95.956329,imprisonment,"block_7,line_2,word_ 7",may be punishable by fine and/or imprisonment under applicable law.
-347,5,1,7,1,2,8,1980,2617,174,51,96.672316,under,"block_7,line_2,word_ 8",may be punishable by fine and/or imprisonment under applicable law.
-348,5,1,7,1,2,9,2175,2617,308,64,96.468962,applicable,"block_7,line_2,word_ 9",may be punishable by fine and/or imprisonment under applicable law.
-349,5,1,7,1,2,10,2509,2617,113,51,96.699556,law.,"block_7,line_2,word_ 10",may be punishable by fine and/or imprisonment under applicable law.
-350,5,1,8,1,1,1,503,3016,291,65,96.433306,Signature,"block_8,line_1,word_ 1",Signature of Insured Date Daytime phone number
-351,5,1,8,1,1,2,817,3016,57,51,96.830586,of,"block_8,line_1,word_ 2",Signature of Insured Date Daytime phone number
-352,5,1,8,1,1,3,898,3016,222,51,96.112293,Insured,"block_8,line_1,word_ 3",Signature of Insured Date Daytime phone number
-353,5,1,8,1,1,4,2004,3016,139,51,96.625017,Date,"block_8,line_1,word_ 4",Signature of Insured Date Daytime phone number
-354,5,1,8,1,1,5,2755,3016,246,65,95.971613,Daytime,"block_8,line_1,word_ 5",Signature of Insured Date Daytime phone number
-355,5,1,8,1,1,6,3026,3016,187,64,96.845678,phone,"block_8,line_1,word_ 6",Signature of Insured Date Daytime phone number
-356,5,1,8,1,1,7,3239,3016,232,51,96.625656,number,"block_8,line_1,word_ 7",Signature of Insured Date Daytime phone number
-357,5,1,9,1,1,1,505,3415,276,51,92.850323,Producer,"block_9,line_1,word_ 1",Producer / Agent Name City/State License Number
-358,5,1,9,1,1,2,799,3415,19,51,92.850323,/,"block_9,line_1,word_ 2",Producer / Agent Name City/State License Number
-359,5,1,9,1,1,3,838,3415,181,65,95.416485,Agent,"block_9,line_1,word_ 3",Producer / Agent Name City/State License Number
-360,5,1,9,1,1,4,1044,3415,178,51,96.528662,Name,"block_9,line_1,word_ 4",Producer / Agent Name City/State License Number
-361,5,1,9,1,1,5,2002,3415,294,65,96.602845,City/State,"block_9,line_1,word_ 5",Producer / Agent Name City/State License Number
-362,5,1,9,1,1,6,2753,3415,231,51,96.750142,License,"block_9,line_1,word_ 6",Producer / Agent Name City/State License Number
-363,5,1,9,1,1,7,3011,3415,243,51,96.304126,Number,"block_9,line_1,word_ 7",Producer / Agent Name City/State License Number
-364,5,1,9,1,2,1,504,3495,89,65,96.396725,(as,"block_9,line_2,word_ 1",(as displayed on license)
-365,5,1,9,1,2,2,617,3495,286,65,96.396725,displayed,"block_9,line_2,word_ 2",(as displayed on license)
-366,5,1,9,1,2,3,930,3508,70,38,96.834829,on,"block_9,line_2,word_ 3",(as displayed on license)
-367,5,1,9,1,2,4,1028,3495,232,65,96.383512,license),"block_9,line_2,word_ 4",(as displayed on license)
-368,5,1,10,1,1,1,500,5120,51,51,96.069010,©,"block_10,line_1,word_ 1",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-369,5,1,10,1,1,2,573,5120,293,65,96.069010,Copyright,"block_10,line_1,word_ 2",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-370,5,1,10,1,1,3,888,5120,150,51,96.189974,2005,"block_10,line_1,word_ 3",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-371,5,1,10,1,1,4,1063,5120,68,65,96.167242,by,"block_10,line_1,word_ 4",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-372,5,1,10,1,1,5,1155,5120,199,51,92.619423,Chubb,"block_10,line_1,word_ 5",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-373,5,1,10,1,1,6,1378,5120,41,51,92.619423,&,"block_10,line_1,word_ 6",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-374,5,1,10,1,1,7,1444,5120,116,51,96.933657,Son,"block_10,line_1,word_ 7",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-375,5,1,10,1,1,8,1589,5120,100,51,96.450528,Inc.,"block_10,line_1,word_ 8",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-376,5,1,10,1,1,9,1720,5120,152,51,96.266429,Form,"block_10,line_1,word_ 9",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-377,5,1,10,1,1,10,1900,5120,97,51,96.353072,No.,"block_10,line_1,word_ 10",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-378,5,1,10,1,1,11,2026,5120,349,51,96.439548,02-03-0023,"block_10,line_1,word_ 11",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-379,5,1,10,1,1,12,2403,5120,73,50,95.793620,FL,"block_10,line_1,word_ 12",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-380,5,1,10,1,1,13,2501,5120,155,65,95.793620,(Rev.,"block_10,line_1,word_ 13",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-381,5,1,10,1,1,14,2689,5120,265,65,96.351267,11/2013),"block_10,line_1,word_ 14",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-382,5,1,10,1,1,15,3002,5120,154,65,96.351267,Page,"block_10,line_1,word_ 15",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-383,5,1,10,1,1,16,3180,5120,33,50,96.500163,2,"block_10,line_1,word_ 16",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-384,5,1,10,1,1,17,3238,5120,58,51,96.842451,of,"block_10,line_1,word_ 17",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-385,5,1,10,1,1,18,3314,5120,34,50,96.994944,4,"block_10,line_1,word_ 18",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 2 of 4
-386,5,1,1,1,1,1,505,440,267,65,96.670615,Building,"block_1,line_1,word_ 1",Building Information (or attach printout from rating disk):
-387,5,1,1,1,1,2,801,440,372,51,96.030437,Information,"block_1,line_1,word_ 2",Building Information (or attach printout from rating disk):
-388,5,1,1,1,1,3,1200,440,90,65,95.467426,(or,"block_1,line_1,word_ 3",Building Information (or attach printout from rating disk):
-389,5,1,1,1,1,4,1311,440,198,51,95.467426,attach,"block_1,line_1,word_ 4",Building Information (or attach printout from rating disk):
-390,5,1,1,1,1,5,1538,441,256,63,95.904728,printout,"block_1,line_1,word_ 5",Building Information (or attach printout from rating disk):
-391,5,1,1,1,1,6,1815,440,149,51,94.973262,from,"block_1,line_1,word_ 6",Building Information (or attach printout from rating disk):
-392,5,1,1,1,1,7,1991,440,185,65,96.312696,rating,"block_1,line_1,word_ 7",Building Information (or attach printout from rating disk):
-393,5,1,1,1,1,8,2203,440,175,65,96.246237,disk):,"block_1,line_1,word_ 8",Building Information (or attach printout from rating disk):
-394,5,1,1,1,2,1,665,600,203,51,96.589299,NOTE:,"block_1,line_2,word_ 1",NOTE: THERE IS LIMITED COVERAGE BELOW THE LOWEST ELEVATED FLOOR AND/OR IN
-395,5,1,1,1,2,2,895,600,232,50,96.074874,THERE,"block_1,line_2,word_ 2",NOTE: THERE IS LIMITED COVERAGE BELOW THE LOWEST ELEVATED FLOOR AND/OR IN
-396,5,1,1,1,2,3,1153,600,58,51,88.860793,IS,"block_1,line_2,word_ 3",NOTE: THERE IS LIMITED COVERAGE BELOW THE LOWEST ELEVATED FLOOR AND/OR IN
-397,5,1,1,1,2,4,1238,600,269,50,95.439835,LIMITED,"block_1,line_2,word_ 4",NOTE: THERE IS LIMITED COVERAGE BELOW THE LOWEST ELEVATED FLOOR AND/OR IN
-398,5,1,1,1,2,5,1534,600,390,51,96.537233,COVERAGE,"block_1,line_2,word_ 5",NOTE: THERE IS LIMITED COVERAGE BELOW THE LOWEST ELEVATED FLOOR AND/OR IN
-399,5,1,1,1,2,6,1951,600,253,51,96.171214,BELOW,"block_1,line_2,word_ 6",NOTE: THERE IS LIMITED COVERAGE BELOW THE LOWEST ELEVATED FLOOR AND/OR IN
-400,5,1,1,1,2,7,2225,600,135,50,95.398187,THE,"block_1,line_2,word_ 7",NOTE: THERE IS LIMITED COVERAGE BELOW THE LOWEST ELEVATED FLOOR AND/OR IN
-401,5,1,1,1,2,8,2387,600,290,51,96.422326,LOWEST,"block_1,line_2,word_ 8",NOTE: THERE IS LIMITED COVERAGE BELOW THE LOWEST ELEVATED FLOOR AND/OR IN
-402,5,1,1,1,2,9,2703,600,361,50,95.694775,ELEVATED,"block_1,line_2,word_ 9",NOTE: THERE IS LIMITED COVERAGE BELOW THE LOWEST ELEVATED FLOOR AND/OR IN
-403,5,1,1,1,2,10,3092,600,238,51,92.988063,FLOOR,"block_1,line_2,word_ 10",NOTE: THERE IS LIMITED COVERAGE BELOW THE LOWEST ELEVATED FLOOR AND/OR IN
-404,5,1,1,1,2,11,3350,600,272,51,88.865842,AND/OR,"block_1,line_2,word_ 11",NOTE: THERE IS LIMITED COVERAGE BELOW THE LOWEST ELEVATED FLOOR AND/OR IN
-405,5,1,1,1,2,12,3647,600,58,50,96.513382,IN,"block_1,line_2,word_ 12",NOTE: THERE IS LIMITED COVERAGE BELOW THE LOWEST ELEVATED FLOOR AND/OR IN
-406,5,1,2,1,1,1,1948,681,49,49,95.766900,A,"block_2,line_1,word_ 1",A BASEMENT.
-407,5,1,2,1,1,2,2022,680,398,51,95.766900,BASEMENT.,"block_2,line_1,word_ 2",A BASEMENT.
-408,5,1,2,1,2,1,1640,760,269,51,96.426658,PLEASE,"block_2,line_2,word_ 1",PLEASE REFER TO THE POLICY.
-409,5,1,2,1,2,2,1937,760,229,50,95.621394,REFER,"block_2,line_2,word_ 2",PLEASE REFER TO THE POLICY.
-410,5,1,2,1,2,3,2187,760,92,51,96.440409,TO,"block_2,line_2,word_ 3",PLEASE REFER TO THE POLICY.
-411,5,1,2,1,2,4,2302,760,136,50,96.440409,THE,"block_2,line_2,word_ 4",PLEASE REFER TO THE POLICY.
-412,5,1,2,1,2,5,2466,760,266,51,96.746359,POLICY.,"block_2,line_2,word_ 5",PLEASE REFER TO THE POLICY.
-413,5,1,3,1,1,1,507,1079,44,50,96.383246,1.,"block_3,line_1,word_ 1","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-414,5,1,3,1,1,2,600,1080,263,50,96.196596,Distance,"block_3,line_1,word_ 2","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-415,5,1,3,1,1,3,885,1079,133,51,95.934069,from,"block_3,line_1,word_ 3","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-416,5,1,3,1,1,4,1047,1081,227,49,93.212885,nearest,"block_3,line_1,word_ 4","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-417,5,1,3,1,1,5,1296,1079,632,65,91.008990,ocean/gulf/river/lake:,"block_3,line_1,word_ 5","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-418,5,1,3,1,1,6,1952,1080,172,63,34.480190,5.5,"block_3,line_1,word_ 6","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-419,5,1,3,1,1,7,2151,1080,154,50,61.370854,miles_,"block_3,line_1,word_ 7","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-420,5,1,3,1,1,8,2367,1080,187,50,95.570097,Within,"block_3,line_1,word_ 8","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-421,5,1,3,1,1,9,2585,1079,162,60,95.916978,"1,000","block_3,line_1,word_ 9","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-422,5,1,3,1,1,10,2772,1079,113,51,96.661929,feet,"block_3,line_1,word_ 10","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-423,5,1,3,1,1,11,2908,1079,57,51,96.588826,of,"block_3,line_1,word_ 11","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-424,5,1,3,1,1,12,3003,1092,15,38,96.431729,a,"block_3,line_1,word_ 12","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-425,5,1,3,1,1,13,3044,1080,170,64,96.024128,major,"block_3,line_1,word_ 13","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-426,5,1,3,1,1,14,3237,1080,146,64,96.024128,body,"block_3,line_1,word_ 14","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-427,5,1,3,1,1,15,3404,1079,58,51,96.628300,of,"block_3,line_1,word_ 15","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-428,5,1,3,1,1,16,3480,1079,205,51,96.470747,water?,"block_3,line_1,word_ 16","1. Distance from nearest ocean/gulf/river/lake: 5.5 miles_ Within 1,000 feet of a major body of water?"
-429,5,1,3,1,2,1,595,1159,115,51,95.127411,Yes,"block_3,line_2,word_ 1",Yes a No X
-430,5,1,3,1,2,2,756,1177,32,32,72.288342,a,"block_3,line_2,word_ 2",Yes a No X
-431,5,1,3,1,2,3,1004,1160,81,50,92.037513,No,"block_3,line_2,word_ 3",Yes a No X
-432,5,1,3,1,2,4,1108,1159,44,50,91.031086,X,"block_3,line_2,word_ 4",Yes a No X
-433,5,1,4,1,1,1,502,1319,49,50,96.370555,2.,"block_4,line_1,word_ 1",2. Is dwelling substantially improved? Yes X Noo
-434,5,1,4,1,1,2,601,1320,46,50,71.388073,Is,"block_4,line_1,word_ 2",2. Is dwelling substantially improved? Yes X Noo
-435,5,1,4,1,1,3,670,1320,245,64,96.078324,dwelling,"block_4,line_1,word_ 3",2. Is dwelling substantially improved? Yes X Noo
-436,5,1,4,1,1,4,940,1320,380,64,96.257067,substantially,"block_4,line_1,word_ 4",2. Is dwelling substantially improved? Yes X Noo
-437,5,1,4,1,1,5,1345,1319,315,64,88.690022,improved?,"block_4,line_1,word_ 5",2. Is dwelling substantially improved? Yes X Noo
-438,5,1,4,1,1,6,1769,1319,183,51,22.163153,Yes,"block_4,line_1,word_ 6",2. Is dwelling substantially improved? Yes X Noo
-439,5,1,4,1,1,7,1916,1315,38,74,22.163153,X,"block_4,line_1,word_ 7",2. Is dwelling substantially improved? Yes X Noo
-440,5,1,4,1,1,8,2042,1319,158,51,93.108347,Noo,"block_4,line_1,word_ 8",2. Is dwelling substantially improved? Yes X Noo
-441,5,1,5,1,1,1,503,1478,48,51,95.865404,3.,"block_5,line_1,word_ 1",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-442,5,1,5,1,1,2,601,1479,45,50,90.319096,Is,"block_5,line_1,word_ 2",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-443,5,1,5,1,1,3,670,1479,245,64,95.875702,dwelling,"block_5,line_1,word_ 3",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-444,5,1,5,1,1,4,944,1479,44,49,95.875702,in,"block_5,line_1,word_ 4",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-445,5,1,5,1,1,5,1015,1491,203,38,96.589891,course,"block_5,line_1,word_ 5",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-446,5,1,5,1,1,6,1242,1478,57,51,96.689042,of,"block_5,line_1,word_ 6",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-447,5,1,5,1,1,7,1320,1478,406,51,96.131574,construction?,"block_5,line_1,word_ 7",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-448,5,1,5,1,1,8,1749,1478,116,51,96.488910,Yes,"block_5,line_1,word_ 8",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-449,5,1,5,1,1,9,1911,1496,32,32,56.213036,co,"block_5,line_1,word_ 9",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-450,5,1,5,1,1,10,2041,1479,81,50,84.169070,No,"block_5,line_1,word_ 10",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-451,5,1,5,1,1,11,2147,1474,38,73,91.693952,X,"block_5,line_1,word_ 11",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-452,5,1,5,1,1,12,2254,1479,45,50,90.053337,Is,"block_5,line_1,word_ 12",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-453,5,1,5,1,1,13,2323,1479,245,64,95.688219,dwelling,"block_5,line_1,word_ 13",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-454,5,1,5,1,1,14,2592,1479,93,50,93.288670,the,"block_5,line_1,word_ 14",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-455,5,1,5,1,1,15,2713,1478,269,51,87.450776,insured’s,"block_5,line_1,word_ 15",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-456,5,1,5,1,1,16,3008,1479,250,63,95.947784,principal,"block_5,line_1,word_ 16",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-457,5,1,5,1,1,17,3285,1478,333,51,96.428875,residence?,"block_5,line_1,word_ 17",3. Is dwelling in course of construction? Yes co No X Is dwelling the insured’s principal residence?
-458,5,1,5,1,2,1,595,1559,115,50,95.010609,Yes,"block_5,line_2,word_ 1",Yes ao No X
-459,5,1,5,1,2,2,756,1576,32,32,49.134879,ao,"block_5,line_2,word_ 2",Yes ao No X
-460,5,1,5,1,2,3,1043,1559,81,50,92.918546,No,"block_5,line_2,word_ 3",Yes ao No X
-461,5,1,5,1,2,4,1166,1559,44,49,91.750164,X,"block_5,line_2,word_ 4",Yes ao No X
-462,5,1,6,1,1,1,501,1719,50,49,95.207047,4.,"block_6,line_1,word_ 1",4. Is building elevated (includes dwelling crawl spaces)? Yes a No X
-463,5,1,6,1,1,2,601,1719,45,50,73.606095,Is,"block_6,line_1,word_ 2",4. Is building elevated (includes dwelling crawl spaces)? Yes a No X
-464,5,1,6,1,1,3,672,1719,231,64,95.719883,building,"block_6,line_1,word_ 3",4. Is building elevated (includes dwelling crawl spaces)? Yes a No X
-465,5,1,6,1,1,4,929,1719,254,50,96.258052,elevated,"block_6,line_1,word_ 4",4. Is building elevated (includes dwelling crawl spaces)? Yes a No X
-466,5,1,6,1,1,5,1212,1718,271,65,96.147970,(includes,"block_6,line_1,word_ 5",4. Is building elevated (includes dwelling crawl spaces)? Yes a No X
-467,5,1,6,1,1,6,1507,1719,245,64,96.880835,dwelling,"block_6,line_1,word_ 6",4. Is building elevated (includes dwelling crawl spaces)? Yes a No X
-468,5,1,6,1,1,7,1778,1719,156,50,96.035094,crawl,"block_6,line_1,word_ 7",4. Is building elevated (includes dwelling crawl spaces)? Yes a No X
-469,5,1,6,1,1,8,1959,1718,277,65,96.035094,spaces)?,"block_6,line_1,word_ 8",4. Is building elevated (includes dwelling crawl spaces)? Yes a No X
-470,5,1,6,1,1,9,2259,1719,115,50,96.603223,Yes,"block_6,line_1,word_ 9",4. Is building elevated (includes dwelling crawl spaces)? Yes a No X
-471,5,1,6,1,1,10,2422,1736,32,32,59.158936,a,"block_6,line_1,word_ 10",4. Is building elevated (includes dwelling crawl spaces)? Yes a No X
-472,5,1,6,1,1,11,2541,1719,82,50,92.868865,No,"block_6,line_1,word_ 11",4. Is building elevated (includes dwelling crawl spaces)? Yes a No X
-473,5,1,6,1,1,12,2665,1719,44,49,89.634379,X,"block_6,line_1,word_ 12",4. Is building elevated (includes dwelling crawl spaces)? Yes a No X
-474,5,1,7,1,1,1,503,1878,48,50,96.822475,5.,"block_7,line_1,word_ 1",5. Is the area below the elevated floor enclosed? Yes o Nog
-475,5,1,7,1,1,2,601,1878,45,50,93.738359,Is,"block_7,line_1,word_ 2",5. Is the area below the elevated floor enclosed? Yes o Nog
-476,5,1,7,1,1,3,669,1878,94,50,96.634022,the,"block_7,line_1,word_ 3",5. Is the area below the elevated floor enclosed? Yes o Nog
-477,5,1,7,1,1,4,786,1890,133,38,96.720697,area,"block_7,line_1,word_ 4",5. Is the area below the elevated floor enclosed? Yes o Nog
-478,5,1,7,1,1,5,946,1878,176,50,96.916801,below,"block_7,line_1,word_ 5",5. Is the area below the elevated floor enclosed? Yes o Nog
-479,5,1,7,1,1,6,1144,1877,93,51,96.253474,the,"block_7,line_1,word_ 6",5. Is the area below the elevated floor enclosed? Yes o Nog
-480,5,1,7,1,1,7,1261,1878,255,50,96.182140,elevated,"block_7,line_1,word_ 7",5. Is the area below the elevated floor enclosed? Yes o Nog
-481,5,1,7,1,1,8,1542,1877,134,51,95.813873,floor,"block_7,line_1,word_ 8",5. Is the area below the elevated floor enclosed? Yes o Nog
-482,5,1,7,1,1,9,1697,1877,311,51,95.898738,enclosed?,"block_7,line_1,word_ 9",5. Is the area below the elevated floor enclosed? Yes o Nog
-483,5,1,7,1,1,10,2249,1877,115,51,50.015860,Yes,"block_7,line_1,word_ 10",5. Is the area below the elevated floor enclosed? Yes o Nog
-484,5,1,7,1,1,11,2410,1895,32,32,50.015860,o,"block_7,line_1,word_ 11",5. Is the area below the elevated floor enclosed? Yes o Nog
-485,5,1,7,1,1,12,2541,1877,159,51,37.493954,Nog,"block_7,line_1,word_ 12",5. Is the area below the elevated floor enclosed? Yes o Nog
-486,5,1,7,1,2,1,721,2038,149,64,96.686301,Type,"block_7,line_2,word_ 1",Type of enclosure walls: Breakaway ac si Lattice o Solid perimeter o
-487,5,1,7,1,2,2,894,2037,57,51,96.665968,of,"block_7,line_2,word_ 2",Type of enclosure walls: Breakaway ac si Lattice o Solid perimeter o
-488,5,1,7,1,2,3,970,2038,297,50,96.014546,enclosure,"block_7,line_2,word_ 3",Type of enclosure walls: Breakaway ac si Lattice o Solid perimeter o
-489,5,1,7,1,2,4,1290,2038,166,50,96.579717,walls:,"block_7,line_2,word_ 4",Type of enclosure walls: Breakaway ac si Lattice o Solid perimeter o
-490,5,1,7,1,2,5,1504,2038,337,64,0.000000,Breakaway,"block_7,line_2,word_ 5",Type of enclosure walls: Breakaway ac si Lattice o Solid perimeter o
-491,5,1,7,1,2,6,1866,2055,32,32,0.000000,ac,"block_7,line_2,word_ 6",Type of enclosure walls: Breakaway ac si Lattice o Solid perimeter o
-492,5,1,7,1,2,7,1939,2033,44,73,2.725391,si,"block_7,line_2,word_ 7",Type of enclosure walls: Breakaway ac si Lattice o Solid perimeter o
-493,5,1,7,1,2,8,2004,2037,196,51,2.725391,Lattice,"block_7,line_2,word_ 8",Type of enclosure walls: Breakaway ac si Lattice o Solid perimeter o
-494,5,1,7,1,2,9,2246,2055,32,32,90.695063,o,"block_7,line_2,word_ 9",Type of enclosure walls: Breakaway ac si Lattice o Solid perimeter o
-495,5,1,7,1,2,10,2751,2037,146,51,96.723925,Solid,"block_7,line_2,word_ 10",Type of enclosure walls: Breakaway ac si Lattice o Solid perimeter o
-496,5,1,7,1,2,11,2926,2038,289,63,92.927206,perimeter,"block_7,line_2,word_ 11",Type of enclosure walls: Breakaway ac si Lattice o Solid perimeter o
-497,5,1,7,1,2,12,3257,2055,32,32,89.368628,o,"block_7,line_2,word_ 12",Type of enclosure walls: Breakaway ac si Lattice o Solid perimeter o
-498,5,1,7,1,3,1,722,2117,170,51,95.997351,Other,"block_7,line_3,word_ 1",Other (describe)
-499,5,1,7,1,3,2,915,2117,302,65,95.997351,(describe),"block_7,line_3,word_ 2",Other (describe)
-500,5,1,7,1,4,1,503,2277,48,51,96.529523,6.,"block_7,line_4,word_ 1",6. Basement enclosed area: None X Finished o Unfinished o
-501,5,1,7,1,4,2,600,2278,307,50,96.113374,Basement,"block_7,line_4,word_ 2",6. Basement enclosed area: None X Finished o Unfinished o
-502,5,1,7,1,4,3,930,2278,270,50,96.486536,enclosed,"block_7,line_4,word_ 3",6. Basement enclosed area: None X Finished o Unfinished o
-503,5,1,7,1,4,4,1226,2290,150,38,96.296141,area:,"block_7,line_4,word_ 4",6. Basement enclosed area: None X Finished o Unfinished o
-504,5,1,7,1,4,5,1406,2277,158,51,93.201709,None,"block_7,line_4,word_ 5",6. Basement enclosed area: None X Finished o Unfinished o
-505,5,1,7,1,4,6,1607,2277,44,50,91.924103,X,"block_7,line_4,word_ 6",6. Basement enclosed area: None X Finished o Unfinished o
-506,5,1,7,1,4,7,2005,2278,250,50,92.861738,Finished,"block_7,line_4,word_ 7",6. Basement enclosed area: None X Finished o Unfinished o
-507,5,1,7,1,4,8,2304,2295,32,32,91.881592,o,"block_7,line_4,word_ 8",6. Basement enclosed area: None X Finished o Unfinished o
-508,5,1,7,1,4,9,2503,2277,317,51,92.876818,Unfinished,"block_7,line_4,word_ 9",6. Basement enclosed area: None X Finished o Unfinished o
-509,5,1,7,1,4,10,2869,2295,32,32,91.736097,o,"block_7,line_4,word_ 10",6. Basement enclosed area: None X Finished o Unfinished o
-510,5,1,7,1,5,1,503,2437,48,49,96.250219,7.,"block_7,line_5,word_ 1",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-511,5,1,7,1,5,2,601,2437,45,50,76.293232,Is,"block_7,line_5,word_ 2",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-512,5,1,7,1,5,3,669,2437,94,50,96.008100,the,"block_7,line_5,word_ 3",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-513,5,1,7,1,5,4,788,2437,192,50,96.008100,lowest,"block_7,line_5,word_ 4",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-514,5,1,7,1,5,5,1001,2436,135,51,95.047163,floor,"block_7,line_5,word_ 5",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-515,5,1,7,1,5,6,1159,2436,149,65,96.315981,living,"block_7,line_5,word_ 6",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-516,5,1,7,1,5,7,1335,2449,133,38,96.178747,area,"block_7,line_5,word_ 7",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-517,5,1,7,1,5,8,1492,2436,77,51,95.893144,off,"block_7,line_5,word_ 8",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-518,5,1,7,1,5,9,1589,2437,208,64,96.678019,ground,"block_7,line_5,word_ 9",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-519,5,1,7,1,5,10,1826,2437,69,64,96.169763,by,"block_7,line_5,word_ 10",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-520,5,1,7,1,5,11,1918,2449,202,38,94.613734,means,"block_7,line_5,word_ 11",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-521,5,1,7,1,5,12,2144,2436,69,51,94.613734,of:,"block_7,line_5,word_ 12",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-522,5,1,7,1,5,13,2263,2437,150,50,65.215752,Piers,"block_7,line_5,word_ 13",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-523,5,1,7,1,5,14,2497,2454,32,32,67.207751,oa,"block_7,line_5,word_ 14",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-524,5,1,7,1,5,15,2753,2437,165,50,93.232958,Posts,"block_7,line_5,word_ 15",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-525,5,1,7,1,5,16,2964,2454,32,32,89.327859,o,"block_7,line_5,word_ 16",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-526,5,1,7,1,5,17,3252,2436,142,51,91.473159,Piles,"block_7,line_5,word_ 17",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-527,5,1,7,1,5,18,3441,2454,32,32,91.473159,o,"block_7,line_5,word_ 18",7. Is the lowest floor living area off ground by means of: Piers oa Posts o Piles o
-528,5,1,7,1,6,1,597,2516,267,51,92.913470,Columns,"block_7,line_6,word_ 1",Columns o Solid perimeter walls X Parallel shear walls o
-529,5,1,7,1,6,2,910,2534,32,32,89.582211,o,"block_7,line_6,word_ 2",Columns o Solid perimeter walls X Parallel shear walls o
-530,5,1,7,1,6,3,1252,2516,145,51,96.526576,Solid,"block_7,line_6,word_ 3",Columns o Solid perimeter walls X Parallel shear walls o
-531,5,1,7,1,6,4,1426,2516,290,64,96.401869,perimeter,"block_7,line_6,word_ 4",Columns o Solid perimeter walls X Parallel shear walls o
-532,5,1,7,1,6,5,1736,2517,150,50,92.159629,walls,"block_7,line_6,word_ 5",Columns o Solid perimeter walls X Parallel shear walls o
-533,5,1,7,1,6,6,1928,2516,44,50,92.159629,X,"block_7,line_6,word_ 6",Columns o Solid perimeter walls X Parallel shear walls o
-534,5,1,7,1,6,7,2003,2517,222,50,95.711641,Parallel,"block_7,line_6,word_ 7",Columns o Solid perimeter walls X Parallel shear walls o
-535,5,1,7,1,6,8,2250,2517,173,50,96.743989,shear,"block_7,line_6,word_ 8",Columns o Solid perimeter walls X Parallel shear walls o
-536,5,1,7,1,6,9,2442,2517,151,50,87.044903,walls,"block_7,line_6,word_ 9",Columns o Solid perimeter walls X Parallel shear walls o
-537,5,1,7,1,6,10,2639,2534,32,32,87.044903,o,"block_7,line_6,word_ 10",Columns o Solid perimeter walls X Parallel shear walls o
-538,5,1,7,1,7,1,597,2596,170,51,96.318053,Other,"block_7,line_7,word_ 1",Other (describe)
-539,5,1,7,1,7,2,790,2596,302,65,96.317178,(describe),"block_7,line_7,word_ 2",Other (describe)
-540,5,1,8,1,1,1,503,2756,48,51,96.410186,8.,"block_8,line_1,word_ 1",8. Does basement or enclosed area contain machinery and equipment? Yes o No X
-541,5,1,8,1,1,2,600,2757,155,50,96.607862,Does,"block_8,line_1,word_ 2",8. Does basement or enclosed area contain machinery and equipment? Yes o No X
-542,5,1,8,1,1,3,781,2757,301,50,96.771784,basement,"block_8,line_1,word_ 3",8. Does basement or enclosed area contain machinery and equipment? Yes o No X
-543,5,1,8,1,1,4,1103,2769,60,38,96.525922,or,"block_8,line_1,word_ 4",8. Does basement or enclosed area contain machinery and equipment? Yes o No X
-544,5,1,8,1,1,5,1184,2757,270,50,95.822881,enclosed,"block_8,line_1,word_ 5",8. Does basement or enclosed area contain machinery and equipment? Yes o No X
-545,5,1,8,1,1,6,1481,2769,132,38,96.259459,area,"block_8,line_1,word_ 6",8. Does basement or enclosed area contain machinery and equipment? Yes o No X
-546,5,1,8,1,1,7,1639,2757,217,50,96.259459,contain,"block_8,line_1,word_ 7",8. Does basement or enclosed area contain machinery and equipment? Yes o No X
-547,5,1,8,1,1,8,1884,2756,315,65,96.522098,machinery,"block_8,line_1,word_ 8",8. Does basement or enclosed area contain machinery and equipment? Yes o No X
-548,5,1,8,1,1,9,2223,2757,106,50,96.362591,and,"block_8,line_1,word_ 9",8. Does basement or enclosed area contain machinery and equipment? Yes o No X
-549,5,1,8,1,1,10,2356,2756,358,64,96.246196,equipment?,"block_8,line_1,word_ 10",8. Does basement or enclosed area contain machinery and equipment? Yes o No X
-550,5,1,8,1,1,11,2737,2756,116,51,89.915147,Yes,"block_8,line_1,word_ 11",8. Does basement or enclosed area contain machinery and equipment? Yes o No X
-551,5,1,8,1,1,12,2899,2774,32,32,85.749459,o,"block_8,line_1,word_ 12",8. Does basement or enclosed area contain machinery and equipment? Yes o No X
-552,5,1,8,1,1,13,3041,2756,81,51,93.223943,No,"block_8,line_1,word_ 13",8. Does basement or enclosed area contain machinery and equipment? Yes o No X
-553,5,1,8,1,1,14,3164,2756,44,50,93.157459,X,"block_8,line_1,word_ 14",8. Does basement or enclosed area contain machinery and equipment? Yes o No X
-554,5,1,9,1,1,1,503,2915,48,51,96.033768,9.,"block_9,line_1,word_ 1",9. Garage or enclosed area is used for: Parking/Storage/Access: X
-555,5,1,9,1,1,2,599,2915,226,64,95.951463,Garage,"block_9,line_1,word_ 2",9. Garage or enclosed area is used for: Parking/Storage/Access: X
-556,5,1,9,1,1,3,848,2928,60,38,96.779980,or,"block_9,line_1,word_ 3",9. Garage or enclosed area is used for: Parking/Storage/Access: X
-557,5,1,9,1,1,4,930,2916,270,50,96.779333,enclosed,"block_9,line_1,word_ 4",9. Garage or enclosed area is used for: Parking/Storage/Access: X
-558,5,1,9,1,1,5,1227,2928,133,38,96.935144,area,"block_9,line_1,word_ 5",9. Garage or enclosed area is used for: Parking/Storage/Access: X
-559,5,1,9,1,1,6,1387,2916,42,50,96.421881,is,"block_9,line_1,word_ 6",9. Garage or enclosed area is used for: Parking/Storage/Access: X
-560,5,1,9,1,1,7,1455,2916,141,50,96.913350,used,"block_9,line_1,word_ 7",9. Garage or enclosed area is used for: Parking/Storage/Access: X
-561,5,1,9,1,1,8,1622,2915,93,51,88.596919,for:,"block_9,line_1,word_ 8",9. Garage or enclosed area is used for: Parking/Storage/Access: X
-562,5,1,9,1,1,9,1765,2915,749,65,88.596919,Parking/Storage/Access:,"block_9,line_1,word_ 9",9. Garage or enclosed area is used for: Parking/Storage/Access: X
-563,5,1,9,1,1,10,2559,2916,44,49,92.907885,X,"block_9,line_1,word_ 10",9. Garage or enclosed area is used for: Parking/Storage/Access: X
-564,5,1,9,1,2,1,597,2995,170,51,95.677762,Other,"block_9,line_2,word_ 1",Other (describe)
-565,5,1,9,1,2,2,790,2995,302,65,95.971431,(describe),"block_9,line_2,word_ 2",Other (describe)
-566,5,1,10,1,1,1,507,3155,82,51,96.507270,10.,"block_10,line_1,word_ 1",10. Type of building:
-567,5,1,10,1,1,2,616,3156,150,64,96.198318,Type,"block_10,line_1,word_ 2",10. Type of building:
-568,5,1,10,1,1,3,790,3155,57,51,96.806428,of,"block_10,line_1,word_ 3",10. Type of building:
-569,5,1,10,1,1,4,869,3156,249,64,96.834928,building:,"block_10,line_1,word_ 4",10. Type of building:
-570,5,1,10,1,2,1,628,3235,292,64,87.277776,Split-level,"block_10,line_2,word_ 1",Split-level o Townhouse/Rowhouse o High Rise o
-571,5,1,10,1,2,2,968,3253,32,32,87.277776,o,"block_10,line_2,word_ 2",Split-level o Townhouse/Rowhouse o High Rise o
-572,5,1,10,1,2,3,1161,3235,702,51,88.301173,Townhouse/Rowhouse,"block_10,line_2,word_ 3",Split-level o Townhouse/Rowhouse o High Rise o
-573,5,1,10,1,2,4,1909,3253,32,32,89.950216,o,"block_10,line_2,word_ 4",Split-level o Townhouse/Rowhouse o High Rise o
-574,5,1,10,1,2,5,2086,3236,133,64,96.496769,High,"block_10,line_2,word_ 5",Split-level o Townhouse/Rowhouse o High Rise o
-575,5,1,10,1,2,6,2247,3236,132,50,92.993059,Rise,"block_10,line_2,word_ 6",Split-level o Townhouse/Rowhouse o High Rise o
-576,5,1,10,1,2,7,2424,3253,32,32,85.385038,o,"block_10,line_2,word_ 7",Split-level o Townhouse/Rowhouse o High Rise o
-577,5,1,11,1,1,1,507,3395,82,50,96.569504,11.,"block_11,line_1,word_ 1","11. Number of floors in entire building (including basement/enclosed area, if any):"
-578,5,1,11,1,1,2,619,3395,243,51,96.277404,Number,"block_11,line_1,word_ 2","11. Number of floors in entire building (including basement/enclosed area, if any):"
-579,5,1,11,1,1,3,883,3395,57,51,96.939758,of,"block_11,line_1,word_ 3","11. Number of floors in entire building (including basement/enclosed area, if any):"
-580,5,1,11,1,1,4,958,3395,167,51,96.278097,floors,"block_11,line_1,word_ 4","11. Number of floors in entire building (including basement/enclosed area, if any):"
-581,5,1,11,1,1,5,1151,3396,45,49,96.504000,in,"block_11,line_1,word_ 5","11. Number of floors in entire building (including basement/enclosed area, if any):"
-582,5,1,11,1,1,6,1222,3396,170,50,96.076627,entire,"block_11,line_1,word_ 6","11. Number of floors in entire building (including basement/enclosed area, if any):"
-583,5,1,11,1,1,7,1418,3396,230,64,96.318847,building,"block_11,line_1,word_ 7","11. Number of floors in entire building (including basement/enclosed area, if any):"
-584,5,1,11,1,1,8,1676,3395,288,65,93.284059,(including,"block_11,line_1,word_ 8","11. Number of floors in entire building (including basement/enclosed area, if any):"
-585,5,1,11,1,1,9,1992,3395,592,51,91.117353,basement/enclosed,"block_11,line_1,word_ 9","11. Number of floors in entire building (including basement/enclosed area, if any):"
-586,5,1,11,1,1,10,2611,3408,149,47,96.753462,"area,","block_11,line_1,word_ 10","11. Number of floors in entire building (including basement/enclosed area, if any):"
-587,5,1,11,1,1,11,2791,3395,32,50,96.225401,if,"block_11,line_1,word_ 11","11. Number of floors in entire building (including basement/enclosed area, if any):"
-588,5,1,11,1,1,12,2843,3395,146,65,96.743514,any):,"block_11,line_1,word_ 12","11. Number of floors in entire building (including basement/enclosed area, if any):"
-589,5,1,11,1,2,1,632,3474,19,50,95.840398,1,"block_11,line_2,word_ 1",1 floor o 2 floors X 3 or more floors o
-590,5,1,11,1,2,2,683,3474,134,51,92.537594,floor,"block_11,line_2,word_ 2",1 floor o 2 floors X 3 or more floors o
-591,5,1,11,1,2,3,841,3492,32,32,90.365391,o,"block_11,line_2,word_ 3",1 floor o 2 floors X 3 or more floors o
-592,5,1,11,1,2,4,1001,3474,33,50,83.031795,2,"block_11,line_2,word_ 4",1 floor o 2 floors X 3 or more floors o
-593,5,1,11,1,2,5,1057,3474,166,51,83.031795,floors,"block_11,line_2,word_ 5",1 floor o 2 floors X 3 or more floors o
-594,5,1,11,1,2,6,1266,3474,44,50,89.735265,X,"block_11,line_2,word_ 6",1 floor o 2 floors X 3 or more floors o
-595,5,1,11,1,2,7,1636,3474,32,51,86.467527,3,"block_11,line_2,word_ 7",1 floor o 2 floors X 3 or more floors o
-596,5,1,11,1,2,8,1693,3487,60,38,48.383808,or,"block_11,line_2,word_ 8",1 floor o 2 floors X 3 or more floors o
-597,5,1,11,1,2,9,1776,3487,152,38,48.383808,more,"block_11,line_2,word_ 9",1 floor o 2 floors X 3 or more floors o
-598,5,1,11,1,2,10,1950,3474,166,51,90.538621,floors,"block_11,line_2,word_ 10",1 floor o 2 floors X 3 or more floors o
-599,5,1,11,1,2,11,2162,3492,32,32,90.538621,o,"block_11,line_2,word_ 11",1 floor o 2 floors X 3 or more floors o
-600,5,1,12,1,1,1,631,3635,34,50,86.437215,If,"block_12,line_1,word_ 1","If condominium/cooperative, what is the lowest floor in your unit?"
-601,5,1,12,1,1,2,685,3635,800,64,92.096011,"condominium/cooperative,","block_12,line_1,word_ 2","If condominium/cooperative, what is the lowest floor in your unit?"
-602,5,1,12,1,1,3,1511,3636,146,50,95.908205,what,"block_12,line_1,word_ 3","If condominium/cooperative, what is the lowest floor in your unit?"
-603,5,1,12,1,1,4,1681,3636,43,50,96.778369,is,"block_12,line_1,word_ 4","If condominium/cooperative, what is the lowest floor in your unit?"
-604,5,1,12,1,1,5,1747,3636,93,50,96.557943,the,"block_12,line_1,word_ 5","If condominium/cooperative, what is the lowest floor in your unit?"
-605,5,1,12,1,1,6,1865,3636,193,50,96.501811,lowest,"block_12,line_1,word_ 6","If condominium/cooperative, what is the lowest floor in your unit?"
-606,5,1,12,1,1,7,2078,3635,135,51,95.908827,floor,"block_12,line_1,word_ 7","If condominium/cooperative, what is the lowest floor in your unit?"
-607,5,1,12,1,1,8,2236,3636,45,49,95.908827,in,"block_12,line_1,word_ 8","If condominium/cooperative, what is the lowest floor in your unit?"
-608,5,1,12,1,1,9,2307,3648,135,52,96.438026,your,"block_12,line_1,word_ 9","If condominium/cooperative, what is the lowest floor in your unit?"
-609,5,1,12,1,1,10,2464,3635,143,51,96.004517,unit?,"block_12,line_1,word_ 10","If condominium/cooperative, what is the lowest floor in your unit?"
-610,5,1,12,1,2,1,632,3712,65,52,31.465874,1°,"block_12,line_2,word_ 1",1° floor o 2° floor o 3 floor or higher o
-611,5,1,12,1,2,2,718,3714,134,51,92.388597,floor,"block_12,line_2,word_ 2",1° floor o 2° floor o 3 floor or higher o
-612,5,1,12,1,2,3,876,3732,32,32,76.775947,o,"block_12,line_2,word_ 3",1° floor o 2° floor o 3 floor or higher o
-613,5,1,12,1,2,4,1070,3711,83,53,9.174023,2°,"block_12,line_2,word_ 4",1° floor o 2° floor o 3 floor or higher o
-614,5,1,12,1,2,5,1176,3714,135,51,92.469988,floor,"block_12,line_2,word_ 5",1° floor o 2° floor o 3 floor or higher o
-615,5,1,12,1,2,6,1354,3732,32,32,86.333286,o,"block_12,line_2,word_ 6",1° floor o 2° floor o 3 floor or higher o
-616,5,1,12,1,2,7,1530,3711,72,54,78.960636,3,"block_12,line_2,word_ 7",1° floor o 2° floor o 3 floor or higher o
-617,5,1,12,1,2,8,1626,3714,135,51,95.107769,floor,"block_12,line_2,word_ 8",1° floor o 2° floor o 3 floor or higher o
-618,5,1,12,1,2,9,1781,3727,60,38,96.412292,or,"block_12,line_2,word_ 9",1° floor o 2° floor o 3 floor or higher o
-619,5,1,12,1,2,10,1864,3715,190,64,92.080318,higher,"block_12,line_2,word_ 10",1° floor o 2° floor o 3 floor or higher o
-620,5,1,12,1,2,11,2097,3732,32,32,84.441603,o,"block_12,line_2,word_ 11",1° floor o 2° floor o 3 floor or higher o
-621,5,1,13,1,1,1,630,3875,80,50,96.701193,Do,"block_13,line_1,word_ 1",Do you have access to basement storage? Yeso No oa
-622,5,1,13,1,1,2,733,3887,105,52,96.260033,you,"block_13,line_1,word_ 2",Do you have access to basement storage? Yeso No oa
-623,5,1,13,1,1,3,868,3875,143,50,96.833680,have,"block_13,line_1,word_ 3",Do you have access to basement storage? Yeso No oa
-624,5,1,13,1,1,4,1034,3887,212,38,95.202999,access,"block_13,line_1,word_ 4",Do you have access to basement storage? Yeso No oa
-625,5,1,13,1,1,5,1269,3876,54,49,95.546576,to,"block_13,line_1,word_ 5",Do you have access to basement storage? Yeso No oa
-626,5,1,13,1,1,6,1349,3875,301,50,96.226009,basement,"block_13,line_1,word_ 6",Do you have access to basement storage? Yeso No oa
-627,5,1,13,1,1,7,1671,3874,265,65,92.858145,storage?,"block_13,line_1,word_ 7",Do you have access to basement storage? Yeso No oa
-628,5,1,13,1,1,8,1999,3874,174,51,89.949976,Yeso,"block_13,line_1,word_ 8",Do you have access to basement storage? Yeso No oa
-629,5,1,13,1,1,9,2253,3875,81,50,96.260916,No,"block_13,line_1,word_ 9",Do you have access to basement storage? Yeso No oa
-630,5,1,13,1,1,10,2399,3892,32,32,70.796773,oa,"block_13,line_1,word_ 10",Do you have access to basement storage? Yeso No oa
-631,5,1,14,1,1,1,507,4034,82,50,96.689858,12.,"block_14,line_1,word_ 1","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-632,5,1,14,1,1,2,615,4034,118,65,95.851973,Any,"block_14,line_1,word_ 2","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-633,5,1,14,1,1,3,754,4034,144,51,96.254363,flood,"block_14,line_1,word_ 3","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-634,5,1,14,1,1,4,925,4047,60,38,96.106080,or,"block_14,line_1,word_ 4","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-635,5,1,14,1,1,5,1004,4036,170,49,96.164783,water,"block_14,line_1,word_ 5","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-636,5,1,14,1,1,6,1195,4035,246,64,95.726766,damage,"block_14,line_1,word_ 6","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-637,5,1,14,1,1,7,1468,4035,205,59,95.726766,"losses,","block_14,line_1,word_ 7","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-638,5,1,14,1,1,8,1698,4034,135,64,95.131333,paid,"block_14,line_1,word_ 8","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-639,5,1,14,1,1,9,1853,4047,65,38,96.555133,or,"block_14,line_1,word_ 9","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-640,5,1,14,1,1,10,1935,4035,216,63,96.236635,"unpaid,","block_14,line_1,word_ 10","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-641,5,1,14,1,1,11,2184,4035,44,49,95.954459,in,"block_14,line_1,word_ 11","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-642,5,1,14,1,1,12,2252,4035,93,50,96.386302,the,"block_14,line_1,word_ 12","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-643,5,1,14,1,1,13,2372,4035,103,50,96.195618,last,"block_14,line_1,word_ 13","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-644,5,1,14,1,1,14,2501,4034,67,51,96.598360,10,"block_14,line_1,word_ 14","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-645,5,1,14,1,1,15,2591,4034,205,65,96.350265,years?,"block_14,line_1,word_ 15","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-646,5,1,14,1,1,16,2839,4034,115,51,90.060902,Yes,"block_14,line_1,word_ 16","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-647,5,1,14,1,1,17,3001,4052,32,32,90.060902,o,"block_14,line_1,word_ 17","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-648,5,1,14,1,1,18,3178,4035,81,50,92.100782,No,"block_14,line_1,word_ 18","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-649,5,1,14,1,1,19,3282,4034,44,50,91.320721,X,"block_14,line_1,word_ 19","12. Any flood or water damage losses, paid or unpaid, in the last 10 years? Yes o No X"
-650,5,1,14,1,2,1,630,4115,138,50,96.432493,Date,"block_14,line_2,word_ 1",Date of loss Amount of loss
-651,5,1,14,1,2,2,792,4114,57,51,96.410180,of,"block_14,line_2,word_ 2",Date of loss Amount of loss
-652,5,1,14,1,2,3,871,4115,117,50,95.428780,loss,"block_14,line_2,word_ 3",Date of loss Amount of loss
-653,5,1,14,1,2,4,1454,4115,237,50,96.476963,Amount,"block_14,line_2,word_ 4",Date of loss Amount of loss
-654,5,1,14,1,2,5,1714,4114,57,51,96.588330,of,"block_14,line_2,word_ 5",Date of loss Amount of loss
-655,5,1,14,1,2,6,1793,4115,117,50,96.093890,loss,"block_14,line_2,word_ 6",Date of loss Amount of loss
-656,5,1,14,1,3,1,629,4193,140,65,96.768873,(Use,"block_14,line_3,word_ 1",(Use Notes section below for loss details)
-657,5,1,14,1,3,2,795,4193,173,51,96.602647,Notes,"block_14,line_3,word_ 2",(Use Notes section below for loss details)
-658,5,1,14,1,3,3,992,4194,213,50,96.748186,section,"block_14,line_3,word_ 3",(Use Notes section below for loss details)
-659,5,1,14,1,3,4,1234,4193,175,51,96.712317,below,"block_14,line_3,word_ 4",(Use Notes section below for loss details)
-660,5,1,14,1,3,5,1430,4193,82,51,96.723866,for,"block_14,line_3,word_ 5",(Use Notes section below for loss details)
-661,5,1,14,1,3,6,1535,4194,116,50,95.939785,loss,"block_14,line_3,word_ 6",(Use Notes section below for loss details)
-662,5,1,14,1,3,7,1675,4193,219,65,96.595739,details),"block_14,line_3,word_ 7",(Use Notes section below for loss details)
-663,5,1,15,1,1,1,507,4353,82,51,95.102121,13.,"block_15,line_1,word_ 1",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-664,5,1,15,1,1,2,619,4354,155,50,95.102121,Have,"block_15,line_1,word_ 2",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-665,5,1,15,1,1,3,797,4366,106,52,96.575364,you,"block_15,line_1,word_ 3",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-666,5,1,15,1,1,4,931,4354,253,50,96.337236,received,"block_15,line_1,word_ 4",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-667,5,1,15,1,1,5,1214,4355,292,63,95.728241,payments,"block_15,line_1,word_ 5",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-668,5,1,15,1,1,6,1529,4353,82,51,96.701424,for,"block_15,line_1,word_ 6",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-669,5,1,15,1,1,7,1635,4353,225,51,96.360597,Federal,"block_15,line_1,word_ 7",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-670,5,1,15,1,1,8,1888,4354,251,50,96.056376,Disaster,"block_15,line_1,word_ 8",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-671,5,1,15,1,1,9,2163,4353,173,51,96.689471,Relief,"block_15,line_1,word_ 9",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-672,5,1,15,1,1,10,2355,4353,81,51,96.321012,for,"block_15,line_1,word_ 10",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-673,5,1,15,1,1,11,2457,4366,108,52,96.842029,any,"block_15,line_1,word_ 11",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-674,5,1,15,1,1,12,2586,4353,144,51,96.327403,flood,"block_15,line_1,word_ 12",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-675,5,1,15,1,1,13,2757,4366,60,38,96.715169,or,"block_15,line_1,word_ 13",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-676,5,1,15,1,1,14,2836,4355,170,49,96.237532,water,"block_15,line_1,word_ 14",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-677,5,1,15,1,1,15,3028,4354,245,64,93.593333,damage,"block_15,line_1,word_ 15",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-678,5,1,15,1,1,16,3299,4353,154,51,96.131803,loss?,"block_15,line_1,word_ 16",13. Have you received payments for Federal Disaster Relief for any flood or water damage loss?
-679,5,1,15,1,2,1,626,4433,114,51,95.757347,Yes,"block_15,line_2,word_ 1",Yes a No X
-680,5,1,15,1,2,2,787,4451,32,32,65.064716,a,"block_15,line_2,word_ 2",Yes a No X
-681,5,1,15,1,2,3,964,4433,81,51,92.557848,No,"block_15,line_2,word_ 3",Yes a No X
-682,5,1,15,1,2,4,1087,4433,44,50,91.492307,X,"block_15,line_2,word_ 4",Yes a No X
-683,5,1,16,1,1,1,630,4514,138,50,96.725280,Date,"block_16,line_1,word_ 1",Date of loss Amount of loss (Use Notes section below for loss details)
-684,5,1,16,1,1,2,792,4513,57,51,96.297760,of,"block_16,line_1,word_ 2",Date of loss Amount of loss (Use Notes section below for loss details)
-685,5,1,16,1,1,3,871,4514,117,50,96.297760,loss,"block_16,line_1,word_ 3",Date of loss Amount of loss (Use Notes section below for loss details)
-686,5,1,16,1,1,4,1492,4513,238,51,96.597739,Amount,"block_16,line_1,word_ 4",Date of loss Amount of loss (Use Notes section below for loss details)
-687,5,1,16,1,1,5,1752,4513,57,51,96.478029,of,"block_16,line_1,word_ 5",Date of loss Amount of loss (Use Notes section below for loss details)
-688,5,1,16,1,1,6,1832,4514,116,50,96.846009,loss,"block_16,line_1,word_ 6",Date of loss Amount of loss (Use Notes section below for loss details)
-689,5,1,16,1,1,7,2456,4513,140,65,96.905549,(Use,"block_16,line_1,word_ 7",Date of loss Amount of loss (Use Notes section below for loss details)
-690,5,1,16,1,1,8,2624,4514,172,50,96.631224,Notes,"block_16,line_1,word_ 8",Date of loss Amount of loss (Use Notes section below for loss details)
-691,5,1,16,1,1,9,2820,4514,214,50,96.742973,section,"block_16,line_1,word_ 9",Date of loss Amount of loss (Use Notes section below for loss details)
-692,5,1,16,1,1,10,3062,4513,177,51,96.945893,below,"block_16,line_1,word_ 10",Date of loss Amount of loss (Use Notes section below for loss details)
-693,5,1,16,1,1,11,3260,4513,80,51,96.644237,for,"block_16,line_1,word_ 11",Date of loss Amount of loss (Use Notes section below for loss details)
-694,5,1,16,1,1,12,3364,4514,116,50,96.269970,loss,"block_16,line_1,word_ 12",Date of loss Amount of loss (Use Notes section below for loss details)
-695,5,1,16,1,1,13,3504,4513,220,65,96.082870,details),"block_16,line_1,word_ 13",Date of loss Amount of loss (Use Notes section below for loss details)
-696,5,1,17,1,1,1,507,4672,82,50,95.887621,14.,"block_17,line_1,word_ 1",14. Location of contents:
-697,5,1,17,1,1,2,619,4672,253,51,96.372555,Location,"block_17,line_1,word_ 2",14. Location of contents:
-698,5,1,17,1,1,3,899,4672,57,51,96.932260,of,"block_17,line_1,word_ 3",14. Location of contents:
-699,5,1,17,1,1,4,976,4674,272,49,96.440339,contents:,"block_17,line_1,word_ 4",14. Location of contents:
-700,5,1,18,1,1,1,630,4832,306,51,96.242073,Basement,"block_18,line_1,word_ 1",Basement only (limited coverage) o Basement and above o
-701,5,1,18,1,1,2,958,4833,124,64,91.159064,only,"block_18,line_1,word_ 2",Basement only (limited coverage) o Basement and above o
-702,5,1,18,1,1,3,1107,4832,213,65,96.069514,(limited,"block_18,line_1,word_ 3",Basement only (limited coverage) o Basement and above o
-703,5,1,18,1,1,4,1348,4832,303,65,93.291872,coverage),"block_18,line_1,word_ 4",Basement only (limited coverage) o Basement and above o
-704,5,1,18,1,1,5,1697,4850,32,32,91.229703,o,"block_18,line_1,word_ 5",Basement only (limited coverage) o Basement and above o
-705,5,1,18,1,1,6,2166,4832,306,51,96.555273,Basement,"block_18,line_1,word_ 6",Basement only (limited coverage) o Basement and above o
-706,5,1,18,1,1,7,2495,4832,107,51,96.706580,and,"block_18,line_1,word_ 7",Basement only (limited coverage) o Basement and above o
-707,5,1,18,1,1,8,2630,4832,184,51,92.875223,above,"block_18,line_1,word_ 8",Basement only (limited coverage) o Basement and above o
-708,5,1,18,1,1,9,2860,4850,32,32,77.345121,o,"block_18,line_1,word_ 9",Basement only (limited coverage) o Basement and above o
-709,5,1,18,1,2,1,630,4912,213,51,96.727203,Lowest,"block_18,line_2,word_ 1",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-710,5,1,18,1,2,2,864,4912,135,51,96.679454,floor,"block_18,line_2,word_ 2",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-711,5,1,18,1,2,3,1020,4913,124,64,93.244591,only,"block_18,line_2,word_ 3",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-712,5,1,18,1,2,4,1164,4942,38,5,86.637025,—,"block_18,line_2,word_ 4",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-713,5,1,18,1,2,5,1225,4912,183,51,96.614862,above,"block_18,line_2,word_ 5",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-714,5,1,18,1,2,6,1432,4913,209,64,96.439342,ground,"block_18,line_2,word_ 6",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-715,5,1,18,1,2,7,1670,4913,135,50,92.964868,level,"block_18,line_2,word_ 7",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-716,5,1,18,1,2,8,1852,4930,32,32,91.282351,o,"block_18,line_2,word_ 8",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-717,5,1,18,1,2,9,2166,4912,214,51,96.393745,Lowest,"block_18,line_2,word_ 9",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-718,5,1,18,1,2,10,2400,4912,135,51,96.830902,floor,"block_18,line_2,word_ 10",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-719,5,1,18,1,2,11,2557,4912,184,51,96.592624,above,"block_18,line_2,word_ 11",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-720,5,1,18,1,2,12,2764,4913,208,64,96.306916,ground,"block_18,line_2,word_ 12",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-721,5,1,18,1,2,13,3002,4912,133,51,93.288041,level,"block_18,line_2,word_ 13",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-722,5,1,18,1,2,14,3162,4912,41,51,93.044456,&,"block_18,line_2,word_ 14",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-723,5,1,18,1,2,15,3229,4912,189,65,95.726093,higher,"block_18,line_2,word_ 15",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-724,5,1,18,1,2,16,3438,4912,165,51,91.482980,floors,"block_18,line_2,word_ 16",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-725,5,1,18,1,2,17,3647,4912,44,50,91.754467,X,"block_18,line_2,word_ 17",Lowest floor only — above ground level o Lowest floor above ground level & higher floors X
-726,5,1,18,1,3,1,625,4992,193,51,96.607999,Above,"block_18,line_3,word_ 1",Above ground level one full floor or more o
-727,5,1,18,1,3,2,842,4992,209,65,96.290232,ground,"block_18,line_3,word_ 2",Above ground level one full floor or more o
-728,5,1,18,1,3,3,1080,4992,134,51,96.327548,level,"block_18,line_3,word_ 3",Above ground level one full floor or more o
-729,5,1,18,1,3,4,1239,5005,112,38,96.327548,one,"block_18,line_3,word_ 4",Above ground level one full floor or more o
-730,5,1,18,1,3,5,1373,4992,83,51,96.494420,full,"block_18,line_3,word_ 5",Above ground level one full floor or more o
-731,5,1,18,1,3,6,1481,4992,135,51,96.043443,floor,"block_18,line_3,word_ 6",Above ground level one full floor or more o
-732,5,1,18,1,3,7,1636,5005,61,38,96.360304,or,"block_18,line_3,word_ 7",Above ground level one full floor or more o
-733,5,1,18,1,3,8,1719,5005,152,38,92.084137,more,"block_18,line_3,word_ 8",Above ground level one full floor or more o
-734,5,1,18,1,3,9,1917,5010,32,32,91.932201,o,"block_18,line_3,word_ 9",Above ground level one full floor or more o
-735,5,1,19,1,1,1,500,5120,51,51,96.320696,©,"block_19,line_1,word_ 1",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-736,5,1,19,1,1,2,573,5120,293,65,96.320696,Copyright,"block_19,line_1,word_ 2",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-737,5,1,19,1,1,3,888,5120,150,51,96.268026,2005,"block_19,line_1,word_ 3",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-738,5,1,19,1,1,4,1063,5121,68,64,95.997005,by,"block_19,line_1,word_ 4",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-739,5,1,19,1,1,5,1155,5120,199,51,92.528530,Chubb,"block_19,line_1,word_ 5",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-740,5,1,19,1,1,6,1378,5120,41,51,92.528530,&,"block_19,line_1,word_ 6",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-741,5,1,19,1,1,7,1444,5120,116,51,96.892355,Son,"block_19,line_1,word_ 7",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-742,5,1,19,1,1,8,1589,5120,100,51,96.398860,Inc.,"block_19,line_1,word_ 8",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-743,5,1,19,1,1,9,1720,5121,152,50,96.400008,Form,"block_19,line_1,word_ 9",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-744,5,1,19,1,1,10,1900,5120,97,51,96.343390,No.,"block_19,line_1,word_ 10",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-745,5,1,19,1,1,11,2026,5120,349,51,96.243455,02-03-0023,"block_19,line_1,word_ 11",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-746,5,1,19,1,1,12,2403,5120,73,50,95.300817,FL,"block_19,line_1,word_ 12",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-747,5,1,19,1,1,13,2501,5120,155,65,95.300817,(Rev.,"block_19,line_1,word_ 13",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-748,5,1,19,1,1,14,2689,5120,265,65,96.568477,11/2013),"block_19,line_1,word_ 14",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-749,5,1,19,1,1,15,3002,5120,154,65,96.568477,Page,"block_19,line_1,word_ 15",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-750,5,1,19,1,1,16,3181,5120,32,51,96.019798,3,"block_19,line_1,word_ 16",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-751,5,1,19,1,1,17,3238,5120,57,51,96.199384,of,"block_19,line_1,word_ 17",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-752,5,1,19,1,1,18,3314,5120,34,50,97.005170,4,"block_19,line_1,word_ 18",© Copyright 2005 by Chubb & Son Inc. Form No. 02-03-0023 FL (Rev. 11/2013) Page 3 of 4
-753,5,1,1,1,1,1,507,520,82,51,96.583357,15.,"block_1,line_1,word_ 1","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-754,5,1,1,1,1,2,620,520,34,50,90.939949,If,"block_1,line_1,word_ 2","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-755,5,1,1,1,1,3,678,520,290,51,92.640008,Post-Firm,"block_1,line_1,word_ 3","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-756,5,1,1,1,1,4,996,521,367,50,96.373885,construction,"block_1,line_1,word_ 4","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-757,5,1,1,1,1,5,1391,521,45,49,96.617965,in,"block_1,line_1,word_ 5","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-758,5,1,1,1,1,6,1460,521,189,50,96.200223,Zones,"block_1,line_1,word_ 6","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-759,5,1,1,1,1,7,1672,520,59,60,91.702666,"A,","block_1,line_1,word_ 7","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-760,5,1,1,1,1,8,1757,520,243,60,90.114899,"A1-A30,","block_1,line_1,word_ 8","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-761,5,1,1,1,1,9,2027,520,105,60,96.446134,"AE,","block_1,line_1,word_ 9","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-762,5,1,1,1,1,10,2158,520,113,60,95.480947,"AO,","block_1,line_1,word_ 10","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-763,5,1,1,1,1,11,2296,520,110,60,92.581374,"AH,","block_1,line_1,word_ 11","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-764,5,1,1,1,1,12,2432,520,59,60,86.239748,"V,","block_1,line_1,word_ 12","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-765,5,1,1,1,1,13,2517,520,243,60,86.239748,"V1-V30,","block_1,line_1,word_ 13","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-766,5,1,1,1,1,14,2789,521,107,50,96.256845,and,"block_1,line_1,word_ 14","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-767,5,1,1,1,1,15,2927,520,31,50,91.019312,if,"block_1,line_1,word_ 15","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-768,5,1,1,1,1,16,2981,520,259,51,91.019312,Pre-Firm,"block_1,line_1,word_ 16","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-769,5,1,1,1,1,17,3267,521,367,50,96.413383,construction,"block_1,line_1,word_ 17","15. If Post-Firm construction in Zones A, A1-A30, AE, AO, AH, V, V1-V30, and if Pre-Firm construction"
-770,5,1,1,1,2,1,597,600,106,51,93.295613,and,"block_1,line_2,word_ 1","and Elevation-Rated, submit Certification and complete elevation data below: (Certification optional for"
-771,5,1,1,1,2,2,733,600,501,60,91.916876,"Elevation-Rated,","block_1,line_2,word_ 2","and Elevation-Rated, submit Certification and complete elevation data below: (Certification optional for"
-772,5,1,1,1,2,3,1262,600,202,51,95.597259,submit,"block_1,line_2,word_ 3","and Elevation-Rated, submit Certification and complete elevation data below: (Certification optional for"
-773,5,1,1,1,2,4,1487,600,359,51,96.284746,Certification,"block_1,line_2,word_ 4","and Elevation-Rated, submit Certification and complete elevation data below: (Certification optional for"
-774,5,1,1,1,2,5,1871,600,108,51,95.664695,and,"block_1,line_2,word_ 5","and Elevation-Rated, submit Certification and complete elevation data below: (Certification optional for"
-775,5,1,1,1,2,6,2007,600,277,64,95.664695,complete,"block_1,line_2,word_ 6","and Elevation-Rated, submit Certification and complete elevation data below: (Certification optional for"
-776,5,1,1,1,2,7,2307,600,271,51,96.221161,elevation,"block_1,line_2,word_ 7","and Elevation-Rated, submit Certification and complete elevation data below: (Certification optional for"
-777,5,1,1,1,2,8,2605,600,128,51,96.859328,data,"block_1,line_2,word_ 8","and Elevation-Rated, submit Certification and complete elevation data below: (Certification optional for"
-778,5,1,1,1,2,9,2761,600,190,51,96.721074,below:,"block_1,line_2,word_ 9","and Elevation-Rated, submit Certification and complete elevation data below: (Certification optional for"
-779,5,1,1,1,2,10,2981,600,380,65,96.480349,(Certification,"block_1,line_2,word_ 10","and Elevation-Rated, submit Certification and complete elevation data below: (Certification optional for"
-780,5,1,1,1,2,11,3387,600,237,64,96.185036,optional,"block_1,line_2,word_ 11","and Elevation-Rated, submit Certification and complete elevation data below: (Certification optional for"
-781,5,1,1,1,2,12,3648,600,81,51,96.487258,for,"block_1,line_2,word_ 12","and Elevation-Rated, submit Certification and complete elevation data below: (Certification optional for"
-782,5,1,1,1,3,1,598,680,438,51,91.599725,non-basement,"block_1,line_3,word_ 1","non-basement buildings in Zones A, AO, and AH.)"
-783,5,1,1,1,3,2,1060,680,267,65,96.200516,buildings,"block_1,line_3,word_ 2","non-basement buildings in Zones A, AO, and AH.)"
-784,5,1,1,1,3,3,1354,681,45,49,94.998707,in,"block_1,line_3,word_ 3","non-basement buildings in Zones A, AO, and AH.)"
-785,5,1,1,1,3,4,1424,680,188,51,96.385290,Zones,"block_1,line_3,word_ 4","non-basement buildings in Zones A, AO, and AH.)"
-786,5,1,1,1,3,5,1634,681,60,59,96.654996,"A,","block_1,line_3,word_ 5","non-basement buildings in Zones A, AO, and AH.)"
-787,5,1,1,1,3,6,1719,680,113,60,96.414029,"AO,","block_1,line_3,word_ 6","non-basement buildings in Zones A, AO, and AH.)"
-788,5,1,1,1,3,7,1861,681,107,50,96.015521,and,"block_1,line_3,word_ 7","non-basement buildings in Zones A, AO, and AH.)"
-789,5,1,1,1,3,8,1993,680,137,65,95.423598,AH.),"block_1,line_3,word_ 8","non-basement buildings in Zones A, AO, and AH.)"
-790,5,1,2,1,1,1,630,840,237,65,95.678811,Building,"block_2,line_1,word_ 1",Building Diagram # Type of Cert: Noneo With BFE o Without BFE o
-791,5,1,2,1,1,2,895,840,252,65,91.984361,Diagram,"block_2,line_1,word_ 2",Building Diagram # Type of Cert: Noneo With BFE o Without BFE o
-792,5,1,2,1,1,3,1173,840,37,51,91.984361,#,"block_2,line_1,word_ 3",Building Diagram # Type of Cert: Noneo With BFE o Without BFE o
-793,5,1,2,1,1,4,1772,840,149,65,96.252940,Type,"block_2,line_1,word_ 4",Building Diagram # Type of Cert: Noneo With BFE o Without BFE o
-794,5,1,2,1,1,5,1945,840,58,51,96.252940,of,"block_2,line_1,word_ 5",Building Diagram # Type of Cert: Noneo With BFE o Without BFE o
-795,5,1,2,1,1,6,2023,840,141,51,93.299308,Cert:,"block_2,line_1,word_ 6",Building Diagram # Type of Cert: Noneo With BFE o Without BFE o
-796,5,1,2,1,1,7,2214,840,217,51,82.599636,Noneo,"block_2,line_1,word_ 7",Building Diagram # Type of Cert: Noneo With BFE o Without BFE o
-797,5,1,2,1,1,8,2499,840,132,50,95.372593,With,"block_2,line_1,word_ 8",Building Diagram # Type of Cert: Noneo With BFE o Without BFE o
-798,5,1,2,1,1,9,2660,840,126,50,92.632335,BFE,"block_2,line_1,word_ 9",Building Diagram # Type of Cert: Noneo With BFE o Without BFE o
-799,5,1,2,1,1,10,2834,858,32,32,92.442188,o,"block_2,line_1,word_ 10",Building Diagram # Type of Cert: Noneo With BFE o Without BFE o
-800,5,1,2,1,1,11,2999,840,233,51,96.004513,Without,"block_2,line_1,word_ 11",Building Diagram # Type of Cert: Noneo With BFE o Without BFE o
-801,5,1,2,1,1,12,3257,840,126,50,92.855105,BFE,"block_2,line_1,word_ 12",Building Diagram # Type of Cert: Noneo With BFE o Without BFE o
-802,5,1,2,1,1,13,3430,858,32,32,90.720159,o,"block_2,line_1,word_ 13",Building Diagram # Type of Cert: Noneo With BFE o Without BFE o
-803,5,1,3,1,1,1,630,1000,213,50,90.804013,Lowest,"block_3,line_1,word_ 1",Lowest Floor Elevation: minus Base Flood Elevation:
-804,5,1,3,1,1,2,869,1000,153,50,96.848850,Floor,"block_3,line_1,word_ 2",Lowest Floor Elevation: minus Base Flood Elevation:
-805,5,1,3,1,1,3,1046,999,293,51,96.494215,Elevation:,"block_3,line_1,word_ 3",Lowest Floor Elevation: minus Base Flood Elevation:
-806,5,1,3,1,1,4,2141,1000,197,50,96.369913,minus,"block_3,line_1,word_ 4",Lowest Floor Elevation: minus Base Flood Elevation:
-807,5,1,3,1,1,5,2366,1000,150,50,95.225924,Base,"block_3,line_1,word_ 5",Lowest Floor Elevation: minus Base Flood Elevation:
-808,5,1,3,1,1,6,2544,999,163,51,96.508307,Flood,"block_3,line_1,word_ 6",Lowest Floor Elevation: minus Base Flood Elevation:
-809,5,1,3,1,1,7,2737,1000,293,50,96.466769,Elevation:,"block_3,line_1,word_ 7",Lowest Floor Elevation: minus Base Flood Elevation:
-810,5,1,3,1,2,1,627,1080,213,63,96.696133,equals,"block_3,line_2,word_ 1",equals Elev Diff (Nearest Est Foot +/-)
-811,5,1,3,1,2,2,869,1080,128,50,96.659528,Elev,"block_3,line_2,word_ 2",equals Elev Diff (Nearest Est Foot +/-)
-812,5,1,3,1,2,3,1023,1079,100,50,96.077414,Diff,"block_3,line_2,word_ 3",equals Elev Diff (Nearest Est Foot +/-)
-813,5,1,3,1,2,4,1145,1079,261,65,96.136975,(Nearest,"block_3,line_2,word_ 4",equals Elev Diff (Nearest Est Foot +/-)
-814,5,1,3,1,2,5,1431,1080,96,50,96.144866,Est,"block_3,line_2,word_ 5",equals Elev Diff (Nearest Est Foot +/-)
-815,5,1,3,1,2,6,1552,1080,132,50,93.299632,Foot,"block_3,line_2,word_ 6",equals Elev Diff (Nearest Est Foot +/-)
-816,5,1,3,1,2,7,1708,1079,100,65,92.472502,+/-),"block_3,line_2,word_ 7",equals Elev Diff (Nearest Est Foot +/-)
-817,5,1,4,1,1,1,630,1239,229,65,96.222532,Highest,"block_4,line_1,word_ 1",Highest Adjacent Grade (HAG): Lowest Adjacent Grade (LAG):
-818,5,1,4,1,1,2,879,1240,269,64,96.004081,Adjacent,"block_4,line_1,word_ 2",Highest Adjacent Grade (HAG): Lowest Adjacent Grade (LAG):
-819,5,1,4,1,1,3,1171,1239,187,51,95.934271,Grade,"block_4,line_1,word_ 3",Highest Adjacent Grade (HAG): Lowest Adjacent Grade (LAG):
-820,5,1,4,1,1,4,1384,1239,206,65,92.727159,(HAG):,"block_4,line_1,word_ 4",Highest Adjacent Grade (HAG): Lowest Adjacent Grade (LAG):
-821,5,1,4,1,1,5,2253,1240,214,50,96.559455,Lowest,"block_4,line_1,word_ 5",Highest Adjacent Grade (HAG): Lowest Adjacent Grade (LAG):
-822,5,1,4,1,1,6,2487,1240,270,64,96.459656,Adjacent,"block_4,line_1,word_ 6",Highest Adjacent Grade (HAG): Lowest Adjacent Grade (LAG):
-823,5,1,4,1,1,7,2780,1239,186,51,96.366837,Grade,"block_4,line_1,word_ 7",Highest Adjacent Grade (HAG): Lowest Adjacent Grade (LAG):
-824,5,1,4,1,1,8,2991,1239,196,65,94.818457,(LAG):,"block_4,line_1,word_ 8",Highest Adjacent Grade (HAG): Lowest Adjacent Grade (LAG):
-825,5,1,5,1,1,1,505,1399,86,51,95.823278,16.,"block_5,line_1,word_ 1",16. Notes:
-826,5,1,5,1,1,2,619,1399,205,51,95.823278,Notes:,"block_5,line_1,word_ 2",16. Notes:
-827,5,1,6,1,1,1,628,2836,193,50,96.614190,Fraud,"block_6,line_1,word_ 1",Fraud Warning
-828,5,1,6,1,1,2,844,2835,270,65,95.612819,Warning,"block_6,line_1,word_ 2",Fraud Warning
-829,5,1,7,1,1,1,628,2995,226,51,96.517863,Florida,"block_7,line_1,word_ 1","Florida Applicants only: Any person who knowingly and with intent to injure, defraud, or deceive"
-830,5,1,7,1,1,2,874,2995,355,64,96.689975,Applicants,"block_7,line_1,word_ 2","Florida Applicants only: Any person who knowingly and with intent to injure, defraud, or deceive"
-831,5,1,7,1,1,3,1252,2995,160,65,96.391328,only:,"block_7,line_1,word_ 3","Florida Applicants only: Any person who knowingly and with intent to injure, defraud, or deceive"
-832,5,1,7,1,1,4,1433,2995,123,65,96.729324,Any,"block_7,line_1,word_ 4","Florida Applicants only: Any person who knowingly and with intent to injure, defraud, or deceive"
-833,5,1,7,1,1,5,1573,3008,209,51,95.613071,person,"block_7,line_1,word_ 5","Florida Applicants only: Any person who knowingly and with intent to injure, defraud, or deceive"
-834,5,1,7,1,1,6,1809,2995,122,51,96.270318,who,"block_7,line_1,word_ 6","Florida Applicants only: Any person who knowingly and with intent to injure, defraud, or deceive"
-835,5,1,7,1,1,7,1953,2995,306,65,96.301089,knowingly,"block_7,line_1,word_ 7","Florida Applicants only: Any person who knowingly and with intent to injure, defraud, or deceive"
-836,5,1,7,1,1,8,2279,2996,114,50,96.573342,and,"block_7,line_1,word_ 8","Florida Applicants only: Any person who knowingly and with intent to injure, defraud, or deceive"
-837,5,1,7,1,1,9,2414,2995,117,51,96.764561,with,"block_7,line_1,word_ 9","Florida Applicants only: Any person who knowingly and with intent to injure, defraud, or deceive"
-838,5,1,7,1,1,10,2555,2995,169,51,96.163152,intent,"block_7,line_1,word_ 10","Florida Applicants only: Any person who knowingly and with intent to injure, defraud, or deceive"
-839,5,1,7,1,1,11,2746,2997,52,49,96.343482,to,"block_7,line_1,word_ 11","Florida Applicants only: Any person who knowingly and with intent to injure, defraud, or deceive"
-840,5,1,7,1,1,12,2821,2996,179,63,96.026264,"injure,","block_7,line_1,word_ 12","Florida Applicants only: Any person who knowingly and with intent to injure, defraud, or deceive"
-841,5,1,7,1,1,13,3031,2995,243,60,96.026264,"defraud,","block_7,line_1,word_ 13","Florida Applicants only: Any person who knowingly and with intent to injure, defraud, or deceive"
-842,5,1,7,1,1,14,3303,3008,64,38,96.196620,or,"block_7,line_1,word_ 14","Florida Applicants only: Any person who knowingly and with intent to injure, defraud, or deceive"
-843,5,1,7,1,1,15,3386,2995,234,51,96.219734,deceive,"block_7,line_1,word_ 15","Florida Applicants only: Any person who knowingly and with intent to injure, defraud, or deceive"
-844,5,1,7,1,2,1,628,3088,111,52,96.258285,any,"block_7,line_2,word_ 1","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-845,5,1,7,1,2,2,757,3076,216,50,96.404279,insurer,"block_7,line_2,word_ 2","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-846,5,1,7,1,2,3,990,3075,120,51,95.713874,files,"block_7,line_2,word_ 3","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-847,5,1,7,1,2,4,1132,3088,33,38,95.911567,a,"block_7,line_2,word_ 4","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-848,5,1,7,1,2,5,1190,3077,305,49,95.911567,statement,"block_7,line_2,word_ 5","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-849,5,1,7,1,2,6,1514,3075,64,51,96.789460,of,"block_7,line_2,word_ 6","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-850,5,1,7,1,2,7,1592,3076,156,50,95.580015,claim,"block_7,line_2,word_ 7","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-851,5,1,7,1,2,8,1772,3088,64,38,95.639697,or,"block_7,line_2,word_ 8","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-852,5,1,7,1,2,9,1853,3088,72,38,96.625889,an,"block_7,line_2,word_ 9","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-853,5,1,7,1,2,10,1950,3075,326,64,95.979797,application,"block_7,line_2,word_ 10","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-854,5,1,7,1,2,11,2302,3075,312,64,96.042527,containing,"block_7,line_2,word_ 11","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-855,5,1,7,1,2,12,2636,3088,112,52,96.813856,any,"block_7,line_2,word_ 12","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-856,5,1,7,1,2,13,2768,3075,155,60,95.921424,"false,","block_7,line_2,word_ 13","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-857,5,1,7,1,2,14,2951,3076,346,63,96.333497,"incomplete,","block_7,line_2,word_ 14","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-858,5,1,7,1,2,15,3326,3088,64,38,96.295894,or,"block_7,line_2,word_ 15","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-859,5,1,7,1,2,16,3407,3075,330,64,96.054784,misleading,"block_7,line_2,word_ 16","any insurer files a statement of claim or an application containing any false, incomplete, or misleading"
-860,5,1,7,1,3,1,627,3155,337,51,95.963247,information,"block_7,line_3,word_ 1",information is guilty of a felony of the third degree.
-861,5,1,7,1,3,2,989,3156,48,50,96.387863,is,"block_7,line_3,word_ 2",information is guilty of a felony of the third degree.
-862,5,1,7,1,3,3,1058,3155,163,65,96.087889,guilty,"block_7,line_3,word_ 3",information is guilty of a felony of the third degree.
-863,5,1,7,1,3,4,1241,3155,63,51,96.043801,of,"block_7,line_3,word_ 4",information is guilty of a felony of the third degree.
-864,5,1,7,1,3,5,1317,3168,33,38,96.595663,a,"block_7,line_3,word_ 5",information is guilty of a felony of the third degree.
-865,5,1,7,1,3,6,1375,3155,186,65,96.432332,felony,"block_7,line_3,word_ 6",information is guilty of a felony of the third degree.
-866,5,1,7,1,3,7,1580,3155,63,51,96.858549,of,"block_7,line_3,word_ 7",information is guilty of a felony of the third degree.
-867,5,1,7,1,3,8,1658,3156,91,50,96.918998,the,"block_7,line_3,word_ 8",information is guilty of a felony of the third degree.
-868,5,1,7,1,3,9,1773,3156,134,50,96.702839,third,"block_7,line_3,word_ 9",information is guilty of a felony of the third degree.
-869,5,1,7,1,3,10,1928,3156,224,63,96.365878,degree.,"block_7,line_3,word_ 10",information is guilty of a felony of the third degree.
-870,5,1,8,1,1,1,500,5120,51,51,96.208198,©,"block_8,line_1,word_ 1",information is guilty of a felony of the third degree.
-871,5,1,8,1,1,2,573,5120,293,65,96.208198,Copyright,"block_8,line_1,word_ 2",
-872,5,1,8,1,1,3,888,5120,150,51,95.999053,2005,"block_8,line_1,word_ 3",
-873,5,1,8,1,1,4,1063,5120,68,65,96.767066,by,"block_8,line_1,word_ 4",
-874,5,1,8,1,1,5,1155,5120,199,51,92.682019,Chubb,"block_8,line_1,word_ 5",
-875,5,1,8,1,1,6,1378,5120,41,51,92.682019,&,"block_8,line_1,word_ 6",
-876,5,1,8,1,1,7,1444,5120,116,51,96.865802,Son,"block_8,line_1,word_ 7",
-877,5,1,8,1,1,8,1589,5120,100,51,96.300804,Inc.,"block_8,line_1,word_ 8",
-878,5,1,8,1,1,9,1720,5120,152,51,96.318653,Form,"block_8,line_1,word_ 9",
-879,5,1,8,1,1,10,1900,5120,97,51,96.104337,No.,"block_8,line_1,word_ 10",
-880,5,1,8,1,1,11,2026,5120,349,51,96.144836,02-03-0023,"block_8,line_1,word_ 11",
-881,5,1,8,1,1,12,2403,5120,73,50,95.669572,FL,"block_8,line_1,word_ 12",
-882,5,1,8,1,1,13,2501,5120,155,65,95.669572,(Rev.,"block_8,line_1,word_ 13",
-883,5,1,8,1,1,14,2689,5120,265,65,96.193180,11/2013),"block_8,line_1,word_ 14",
-884,5,1,8,1,1,15,3002,5120,154,65,96.193180,Page,"block_8,line_1,word_ 15",
-885,5,1,8,1,1,16,3179,5121,34,49,93.695593,4,"block_8,line_1,word_ 16",
-886,5,1,8,1,1,17,3238,5120,57,51,93.695593,of,"block_8,line_1,word_ 17",
-887,5,1,8,1,1,18,3314,5120,34,50,96.998895,4,"block_8,line_1,word_ 18",
+,level,page_num,block_num,par_num,line_num,word_num,left,top,width,height,conf,text
+0,5,1,1,1,1,1,3370,529,554,121,96.313440,Excess
+1,5,1,1,1,1,2,3992,528,429,122,95.971843,Flood
+2,5,1,1,1,1,3,4489,529,769,121,95.408334,Insurance
+3,5,1,1,1,1,4,5324,529,474,154,96.717744,Policy
+4,5,1,1,1,1,5,5850,528,890,153,92.807844,Application
+5,5,1,1,1,1,6,6798,596,92,18,89.710774,—
+6,5,1,1,1,1,7,6952,529,536,121,96.631069,Florida
+7,5,1,2,1,1,1,1010,925,396,128,96.022555,Policy
+8,5,1,2,1,1,2,1456,925,328,101,95.796365,Form
+9,5,1,2,1,1,3,1952,924,409,102,83.679368,Check
+10,5,1,2,1,1,4,2406,925,278,128,96.562888,only
+11,5,1,2,1,1,5,2732,950,236,76,94.358335,one
+12,5,1,2,1,1,6,3016,924,130,102,94.358335,of
+13,5,1,2,1,1,7,3182,925,202,101,95.684374,the
+14,5,1,2,1,1,8,3428,924,600,129,95.684374,following
+15,5,1,2,1,1,9,4510,927,396,128,96.349457,Policy
+16,5,1,2,1,1,10,4949,927,315,128,96.349457,Type
+17,5,1,2,1,2,1,1011,1085,382,101,94.309898,House
+18,5,1,2,1,2,2,1446,1083,542,130,94.309898,(includes
+19,5,1,2,1,2,3,2035,1110,65,76,96.681772,a
+20,5,1,2,1,2,4,2152,1085,557,101,96.653096,detached
+21,5,1,2,1,2,5,2760,1083,469,130,93.143322,garage)
+22,5,1,2,1,2,6,3354,1085,88,99,92.436920,X
+23,5,1,2,1,2,7,4510,1079,264,101,93.182977,New
+24,5,1,2,1,2,8,4816,1079,88,99,92.564886,X
+25,5,1,2,1,2,9,5071,1079,814,101,93.072468,Endorsement
+26,5,1,2,1,2,10,5934,1114,64,64,91.275999,o
+27,5,1,3,1,1,1,1007,1244,837,102,91.381494,Condominium
+28,5,1,3,1,1,2,1942,1280,64,64,89.052684,o
+29,5,1,3,1,1,3,4510,1239,640,128,96.203604,Underlying
+30,5,1,3,1,1,4,5211,1239,326,101,96.247425,Flood
+31,5,1,3,1,1,5,5596,1239,357,128,93.300674,Policy
+32,5,1,3,1,1,6,5995,1237,103,103,91.211961,#:
+33,5,1,3,1,2,1,1007,1404,732,128,92.803017,Cooperative
+34,5,1,3,1,2,2,1834,1440,64,64,92.322536,o
+35,5,1,3,1,3,1,1006,1564,340,102,95.301331,Other
+36,5,1,3,1,3,2,1393,1568,652,124,95.301331,permanent
+37,5,1,3,1,3,3,2089,1568,530,98,92.898524,structure
+38,5,1,3,1,3,4,2714,1600,64,64,89.128441,o
+39,5,1,4,1,1,1,914,872,6672,846,95.000000, 
+40,5,1,5,1,1,1,4506,1771,488,103,88.347733,SIG/VIP
+41,5,1,5,1,1,2,5048,1808,64,64,82.575310,o
+42,5,1,6,1,1,1,1010,2133,649,127,96.832063,Requested
+43,5,1,6,1,1,2,1718,2133,357,128,96.468954,Policy
+44,5,1,6,1,1,3,2127,2132,514,102,96.263423,Effective
+45,5,1,6,1,1,4,2698,2133,306,101,94.940230,Date:
+46,5,1,6,1,1,5,3060,2131,374,103,96.822659,2/1/22
+47,5,1,6,2,1,1,1002,2293,418,128,95.753883,Writing
+48,5,1,6,2,1,2,1475,2292,613,129,95.305365,Company:
+49,5,1,6,2,1,3,2189,2293,625,99,95.816771,FEDERAL
+50,5,1,6,2,1,4,2869,2292,798,102,94.976394,INSURANCE
+51,5,1,6,2,1,5,3719,2292,695,102,95.120037,COMPANY
+52,5,1,6,2,2,1,1010,2653,552,101,95.400866,Producer
+53,5,1,6,2,2,2,1610,2653,355,101,24.278331,Name
+54,5,1,6,2,2,3,2006,2653,1108,127,24.278331,_AssuredPartners
+55,5,1,6,2,2,4,3168,2653,616,118,96.603438,"Northeast,"
+56,5,1,6,2,2,5,3846,2652,238,102,96.808684,LLC
+57,5,1,6,2,3,1,1010,2815,552,101,96.366067,Producer
+58,5,1,6,2,3,2,1606,2814,361,102,96.329120,Street
+59,5,1,6,2,3,3,2008,2815,504,101,87.372819,Address
+60,5,1,6,2,3,4,2712,2815,223,101,87.372819,445
+61,5,1,6,2,3,5,2991,2815,527,101,96.358005,Hamilton
+62,5,1,6,2,3,6,3566,2815,233,101,96.385711,Ave
+63,5,1,6,2,3,7,3859,2808,211,108,78.088794,"10"""
+64,5,1,6,2,3,8,4125,2815,98,99,88.003556,FI
+65,5,1,7,1,1,1,1010,2973,552,101,93.182136,Producer
+66,5,1,7,1,1,2,1607,2971,1122,130,87.580931,City/State/Zipcode
+67,5,1,7,1,1,3,2836,3090,59,10,37.922187,_
+68,5,1,7,1,1,4,2930,2973,345,127,88.078076,White
+69,5,1,7,1,1,5,3330,2973,362,101,95.502520,"Plains,"
+70,5,1,7,1,1,6,3786,2973,178,99,94.235057,NY
+71,5,1,7,1,1,7,4021,2972,347,102,76.168556,10607
+72,5,1,7,1,1,8,4712,2973,554,101,96.118053,Producer
+73,5,1,7,1,1,9,5314,2973,385,101,93.264412,Phone
+74,5,1,7,1,1,10,5781,2968,503,137,86.367265,Number_
+75,5,1,7,1,1,11,6320,2972,850,102,68.295121,914-761-9000
+76,5,1,7,1,2,1,1010,3133,552,101,96.405095,Producer
+77,5,1,7,1,2,2,1610,3133,484,101,93.336667,Number
+78,5,1,7,1,2,3,2130,3132,535,128,31.429977,64/709
+79,5,1,7,1,2,4,3734,3132,788,128,87.766991,Subproducer
+80,5,1,7,1,2,5,4570,3133,486,101,96.094992,Number
+81,5,1,8,1,1,1,1013,3604,541,102,80.482976,Insured’s
+82,5,1,8,1,1,2,1610,3605,386,101,95.575283,Name:
+83,5,1,8,1,1,3,2289,3605,428,128,92.967984,Harvey
+84,5,1,8,1,1,4,2768,3605,87,99,91.683637,R
+85,5,1,8,1,1,5,2907,3605,229,101,93.126914,Uris
+86,5,1,8,1,1,6,3186,3604,82,102,92.504161,&
+87,5,1,8,1,1,7,3322,3605,451,101,95.592856,Mitchell
+88,5,1,8,1,1,8,3833,3605,227,101,96.929620,Uris
+89,5,1,8,1,2,1,1010,3765,418,128,95.851771,Mailing
+90,5,1,8,1,2,2,1476,3765,536,101,87.900225,Address:
+91,5,1,8,1,2,3,2060,3765,382,127,8.434029,__
+92,5,1,8,1,2,4,2318,3760,127,137,92.537433,56
+93,5,1,8,1,2,5,2496,3765,552,101,92.459114,Nantwick
+94,5,1,8,1,2,6,3094,3764,123,102,95.208537,St
+95,5,1,9,1,1,1,1007,3919,1146,138,90.652130,City/State/Zipcode:
+96,5,1,9,1,1,2,2604,3925,246,101,96.923411,Lido
+97,5,1,9,1,1,3,2906,3925,374,101,96.044396,"Beach,"
+98,5,1,9,1,1,4,3374,3925,184,99,95.931548,NY
+99,5,1,9,1,1,5,3611,3924,347,102,96.344186,11561
+100,5,1,10,1,1,1,914,2596,6672,1646,95.000000, 
+101,5,1,11,1,1,1,1010,4397,509,128,96.381912,Property
+102,5,1,11,1,1,2,1562,4397,504,101,96.831030,Address
+103,5,1,11,1,1,3,2118,4395,119,130,86.066138,(If
+104,5,1,11,1,1,4,2276,4396,495,102,95.915396,different
+105,5,1,11,1,1,5,2811,4396,267,102,93.117740,from
+106,5,1,11,1,1,6,3141,4396,543,102,90.544212,Insured’s
+107,5,1,11,1,1,7,3738,4397,422,128,96.708049,Mailing
+108,5,1,11,1,1,8,4211,4397,485,101,96.293689,address
+109,5,1,11,1,1,9,4743,4397,366,101,92.988365,above
+110,5,1,11,1,1,10,5156,4455,76,10,90.221555,—
+111,5,1,11,1,1,11,5274,4397,146,101,96.901421,do
+112,5,1,11,1,1,12,5471,4400,184,98,96.176708,not
+113,5,1,11,1,1,13,5704,4423,209,75,96.295609,use
+114,5,1,11,1,1,14,5968,4396,254,102,96.156960,P.O.
+115,5,1,11,1,1,15,6282,4395,271,130,96.406158,Box)
+116,5,1,12,1,1,1,1010,4557,509,128,96.848316,Property
+117,5,1,12,1,1,2,1570,4557,540,101,81.397343,Location:
+118,5,1,12,1,1,3,2399,4556,299,102,93.290989,6836
+119,5,1,12,1,1,4,2748,4556,687,129,89.319160,Queenferry
+120,5,1,12,1,1,5,3483,4556,171,102,96.936418,Cir
+121,5,1,12,1,2,1,1007,4711,1149,139,90.816176,City/State/Zipcode:
+122,5,1,12,1,2,2,2528,4717,300,101,95.387538,Boca
+123,5,1,12,1,2,3,2885,4717,351,101,96.207867,"Raton,"
+124,5,1,12,1,2,4,3331,4717,147,99,94.085205,FL
+125,5,1,12,1,2,5,3528,4716,372,102,93.653888,33496
+126,5,1,13,1,1,1,1007,4908,891,129,95.704139,Corresponding
+127,5,1,13,1,1,2,1953,4908,396,102,96.681858,Chubb
+128,5,1,13,1,1,3,2405,4909,803,101,96.026713,Homeowners
+129,5,1,13,1,1,4,3261,4909,344,128,95.952616,policy
+130,5,1,13,1,1,5,3653,4909,463,101,64.422004,number
+131,5,1,13,1,1,6,4152,5026,158,10,62.282038,—
+132,5,1,13,1,1,7,4366,4904,912,132,27.127447,15238933801
+133,5,1,13,1,2,1,1011,5108,514,102,96.070963,Effective
+134,5,1,13,1,2,2,1572,5107,374,103,96.382305,2/1/22
+135,5,1,13,1,2,3,1994,5112,108,98,96.671892,to
+136,5,1,13,1,2,4,2152,5107,374,103,96.710407,2/1/23
+137,5,1,14,1,1,1,2206,4802,2704,42,95.000000, 
+138,5,1,15,1,1,1,1013,5428,68,100,77.346830,lf
+139,5,1,15,1,1,2,1125,5429,382,101,95.747070,House
+140,5,1,15,1,1,3,1558,5455,559,102,96.315852,coverage
+141,5,1,15,1,1,4,2173,5429,85,101,81.370151,Is
+142,5,1,15,1,1,5,2311,5429,321,128,95.964836,being
+143,5,1,15,1,1,6,2689,5429,633,127,96.125736,"requested,"
+144,5,1,15,1,1,7,3375,5429,290,101,96.781868,what
+145,5,1,15,1,1,8,3715,5429,87,101,95.873119,is
+146,5,1,15,1,1,9,3846,5429,185,101,95.873119,the
+147,5,1,15,1,1,10,4085,5429,364,101,96.184662,house
+148,5,1,15,1,1,11,4497,5432,456,98,96.286067,amount
+149,5,1,15,1,1,12,4998,5428,115,102,96.791660,of
+150,5,1,15,1,1,13,5151,5454,560,103,96.791660,coverage
+151,5,1,15,1,1,14,5762,5455,140,75,96.283354,on
+152,5,1,15,1,1,15,5952,5429,185,101,96.187593,the
+153,5,1,15,1,1,16,6189,5428,396,102,95.765727,Chubb
+154,5,1,15,1,1,17,6639,5429,803,101,95.598031,Homeowners
+155,5,1,15,1,2,1,1010,5588,428,129,96.156175,Policy?
+156,5,1,15,1,2,2,1489,5580,715,127,96.406558,"$6,900,000."
+157,5,1,16,1,1,1,1013,5906,68,100,70.058753,If
+158,5,1,16,1,1,2,1121,5906,541,102,96.507020,Contents
+159,5,1,16,1,1,3,1711,5932,560,103,95.737962,coverage
+160,5,1,16,1,1,4,2327,5907,85,101,95.679715,is
+161,5,1,16,1,1,5,2465,5907,323,128,96.603208,being
+162,5,1,16,1,1,6,2843,5907,635,127,95.757543,"requested,"
+163,5,1,16,1,1,7,3529,5907,290,101,96.370984,what
+164,5,1,16,1,1,8,3871,5907,85,101,96.272430,is
+165,5,1,16,1,1,9,4002,5907,183,101,96.456071,the
+166,5,1,16,1,1,10,4233,5910,517,98,95.584621,contents
+167,5,1,16,1,1,11,4799,5910,458,98,96.465198,amount
+168,5,1,16,1,1,12,5298,5906,117,102,96.465198,of
+169,5,1,16,1,1,13,5453,5933,562,102,95.686981,coverage
+170,5,1,16,1,1,14,6064,5932,140,76,96.749704,on
+171,5,1,16,1,1,15,6254,5907,185,101,96.432067,the
+172,5,1,16,1,1,16,6491,5906,396,102,96.680986,Chubb
+173,5,1,16,1,2,1,1011,6067,799,101,95.883458,Homeowners
+174,5,1,16,1,2,2,1864,6066,430,129,96.050726,Policy?
+175,5,1,16,1,2,3,2345,6058,715,127,96.529945,"$2,070,000."
+176,5,1,17,1,1,1,1013,6386,68,100,86.550832,lf
+177,5,1,17,1,1,2,1120,6386,342,102,96.405320,Other
+178,5,1,17,1,1,3,1507,6390,652,124,96.012444,permanent
+179,5,1,17,1,1,4,2205,6390,599,98,96.513134,structures
+180,5,1,17,1,1,5,2853,6412,560,103,95.985976,coverage
+181,5,1,17,1,1,6,3467,6387,85,101,96.271530,is
+182,5,1,17,1,1,7,3605,6387,633,127,96.441478,"requested,"
+183,5,1,17,1,1,8,4291,6387,290,101,96.552567,what
+184,5,1,17,1,1,9,4631,6387,85,101,96.810107,is
+185,5,1,17,1,1,10,4762,6387,183,101,96.613260,the
+186,5,1,17,1,1,11,4996,6387,312,101,96.260666,other
+187,5,1,17,1,1,12,5355,6390,654,124,96.684011,permanent
+188,5,1,17,1,1,13,6053,6390,599,98,96.571063,structures
+189,5,1,17,1,1,14,6698,6387,251,101,96.155366,total
+190,5,1,17,1,1,15,6998,6386,402,102,88.353555,value?
+191,5,1,17,1,2,1,1005,6538,713,127,96.284347,"$1,380,000."
+192,5,1,18,1,1,1,1011,7019,324,101,96.000735,Flood
+193,5,1,18,1,1,2,1386,7019,340,101,33.251400,Zone:
+194,5,1,18,1,1,3,1774,7019,248,127,2.897749,_X
+195,5,1,18,1,1,4,2508,7019,366,101,93.155254,Month
+196,5,1,18,1,1,5,2928,7018,82,102,93.155254,&
+197,5,1,18,1,1,6,3054,7019,292,101,93.160328,Year
+198,5,1,18,1,1,7,3394,7017,975,103,91.685208,Built/Substantial
+199,5,1,18,1,1,8,4429,7019,796,127,95.264620,Improvement
+200,5,1,18,1,1,9,5276,7019,308,101,96.005767,Date:
+201,5,1,18,1,1,10,5689,7017,385,103,86.274912,1/2011
+202,5,1,19,1,1,1,1007,7177,889,130,91.770944,County/Parish:
+203,5,1,19,1,1,2,1956,7179,298,101,95.665552,Palm
+204,5,1,19,1,1,3,2310,7179,376,101,95.665552,Beach
+205,5,1,19,1,1,4,2741,7178,430,129,96.104918,County
+206,5,1,19,1,1,5,3505,7177,503,103,81.032038,Comm#:
+207,5,1,19,1,1,6,4073,7178,441,102,96.404330,120192
+208,5,1,19,1,2,1,1010,7339,474,128,96.610807,Building
+209,5,1,19,1,2,2,1536,7337,714,130,96.045689,Occupancy:
+210,5,1,19,1,2,3,2306,7338,375,129,96.088335,Single
+211,5,1,19,1,2,4,2727,7338,360,129,93.299275,family
+212,5,1,19,1,2,5,3132,7339,88,99,93.078880,X
+213,5,1,19,1,2,6,4002,7339,188,99,96.489080,2-4
+214,5,1,19,1,2,7,4235,7338,362,129,93.257649,family
+215,5,1,19,1,2,8,4646,7374,64,64,91.374304,o
+216,5,1,20,1,1,1,1010,7808,746,129,55.138178,Mortgagee’s
+217,5,1,20,1,1,2,1809,7834,363,76,96.916284,name:
+218,5,1,20,1,1,3,5090,7809,292,101,96.210568,Loan
+219,5,1,20,1,1,4,5437,7809,487,101,96.384502,number:
+220,5,1,20,1,2,1,1000,7969,534,101,96.723328,Address:
+221,5,1,20,1,3,1,1007,8129,1149,130,90.353652,City/State/Zipcode:
+222,5,1,21,1,1,1,1006,8448,340,102,96.332417,Other
+223,5,1,21,1,1,2,1389,8449,578,101,96.278884,additional
+224,5,1,21,1,1,3,2025,8449,471,101,96.546239,interest:
+225,5,1,21,1,1,4,5259,8448,626,102,96.277803,Reference
+226,5,1,21,1,1,5,5937,8449,487,101,96.185790,number:
+227,5,1,21,1,2,1,1000,8609,534,101,96.068854,Address:
+228,5,1,21,1,3,1,1007,8767,1149,130,89.950950,City/State/Zipcode:
+229,5,1,22,1,1,1,914,6960,6672,2126,95.000000, 
+230,5,1,23,1,1,1,1000,10410,102,101,95.517939,©
+231,5,1,23,1,1,2,1147,10410,584,129,96.042770,Copyright
+232,5,1,23,1,1,3,1776,10410,300,102,96.322397,2005
+233,5,1,23,1,1,4,2127,10411,134,128,96.410483,by
+234,5,1,23,1,1,5,2311,10410,396,102,93.072096,Chubb
+235,5,1,23,1,1,6,2756,10410,82,102,93.072096,&
+236,5,1,23,1,1,7,2888,10410,232,102,96.544784,Son
+237,5,1,23,1,1,8,3178,10411,200,101,96.543911,Inc.
+238,5,1,23,1,1,9,3439,10411,305,101,96.043471,Form
+239,5,1,23,1,1,10,3800,10411,194,101,96.687855,No.
+240,5,1,23,1,1,11,4052,10410,698,102,96.742206,02-03-0023
+241,5,1,23,1,1,12,4805,10411,147,99,94.195558,FL
+242,5,1,23,1,1,13,5002,10409,310,130,94.195558,(Rev.
+243,5,1,23,1,1,14,5379,10409,528,130,96.422500,11/2013)
+244,5,1,23,1,1,15,6004,10411,307,128,96.056994,Page
+245,5,1,23,1,1,16,6371,10410,37,100,95.940499,1
+246,5,1,23,1,1,17,6476,10410,115,102,95.936774,of
+247,5,1,23,1,1,18,6628,10411,68,99,96.988481,4
+248,5,1,1,1,1,1,384,1041,358,101,94.531665,Flood
+249,5,1,1,1,1,2,796,1039,622,103,96.454258,Coverage
+250,5,1,1,1,1,3,1465,1041,233,101,95.870900,and
+251,5,1,1,1,1,4,1756,1041,617,101,95.795446,Premium:
+252,5,1,1,1,1,5,5508,1041,395,101,96.061690,Below
+253,5,1,1,1,1,6,5944,1039,314,103,96.644824,filled
+254,5,1,1,1,1,7,6314,1041,104,99,96.627853,in
+255,5,1,1,1,1,8,6520,1035,138,137,95.738951,by
+256,5,1,1,1,1,9,6674,1066,516,102,95.738951,compan
+257,5,1,2,1,1,1,4810,1172,525,228,95.000000,   
+258,5,1,2,1,2,1,4930,1400,17,146,95.000000,  
+259,5,1,2,1,3,1,4930,1546,17,131,95.000000, 
+260,5,1,3,1,1,1,5655,1172,409,228,95.000000,   
+261,5,1,3,1,2,1,6055,1400,9,146,95.000000,  
+262,5,1,3,1,3,1,6055,1546,9,131,95.000000, 
+263,5,1,4,1,1,1,3934,1172,249,228,95.000000,  
+264,5,1,4,1,2,1,2313,1400,1759,146,95.000000,  
+265,5,1,4,1,3,1,2313,1546,1759,131,95.000000,  
+266,5,1,5,1,1,1,2313,1172,1064,345,95.000000,  
+267,5,1,6,1,1,1,2625,1201,251,139,96.786841,Self
+268,5,1,6,1,1,2,3314,1205,620,130,95.718582,Coverage
+269,5,1,6,1,1,3,4016,1200,71,139,95.718582,|
+270,5,1,6,1,1,4,4183,1207,627,101,96.043257,Increased
+271,5,1,6,1,1,5,5335,1201,320,139,96.143709,Total
+272,5,1,6,1,1,6,6327,1207,318,101,95.456480,Total
+273,5,1,6,1,1,7,6703,1207,567,127,96.356831,premium
+274,5,1,6,1,2,1,2508,1367,480,101,95.924953,insured
+275,5,1,6,1,2,2,3377,1363,495,136,96.292844,amount
+276,5,1,6,1,2,3,4200,1392,597,103,96.182151,coverage
+277,5,1,6,1,2,4,5200,1392,598,103,96.117333,coverage
+278,5,1,6,1,3,1,2489,1527,518,101,96.426252,retained
+279,5,1,6,1,3,2,4253,1524,493,136,96.550792,amount
+280,5,1,6,1,3,3,5253,1530,493,98,96.646950,amount
+281,5,1,7,1,1,1,2310,1664,7,986,95.000000,   
+282,5,1,8,1,1,1,2576,1687,344,101,95.197340,limits
+283,5,1,8,1,2,1,270,1853,550,128,96.572194,Dwelling
+284,5,1,8,1,2,2,873,1878,136,76,96.106676,or
+285,5,1,8,1,2,3,1049,1853,346,101,96.106676,other
+286,5,1,8,1,2,4,1439,1856,701,124,96.567247,permanent
+287,5,1,8,1,3,1,264,2016,592,98,96.718045,structure
+288,5,1,8,2,1,1,266,2138,583,176,96.043310,Contents
+289,5,1,8,2,1,2,2317,2150,1072,160,0.000000,"$100,000"
+290,5,1,8,2,1,3,3094,2146,119,177,33.880768,|
+291,5,1,8,2,1,4,3426,2150,634,160,0.000000,Saeygeneleye)
+292,5,1,8,2,2,1,260,2347,634,101,96.770508,Additions
+293,5,1,8,2,2,2,943,2347,233,101,96.842581,and
+294,5,1,8,2,2,3,1228,2347,690,101,96.494926,alterations
+295,5,1,8,2,2,4,2317,2316,1743,160,0.000000,"$250,000"
+296,5,1,8,2,2,5,3148,2312,129,170,75.528769,|
+297,5,1,8,2,2,6,3885,2312,171,170,31.183195,|
+298,5,1,8,2,3,1,266,2511,590,103,96.270168,Contents
+299,5,1,8,2,3,2,910,2513,104,99,95.367610,in
+300,5,1,8,2,3,3,1066,2538,68,76,95.367610,a
+301,5,1,8,2,3,4,1185,2513,637,101,96.211683,basement
+302,5,1,8,2,4,1,270,2681,273,101,95.938438,Real
+303,5,1,8,2,4,2,599,2684,475,124,93.677182,property
+304,5,1,8,2,4,3,1204,2681,222,101,41.448169,ina
+305,5,1,8,2,4,4,1479,2681,637,101,41.448169,basement
+306,5,1,8,2,4,5,2261,2646,90,180,8.446541,|
+307,5,1,8,2,4,6,2317,2650,1743,172,8.446541,"$250,000"
+308,5,1,8,2,4,7,3146,2646,135,180,66.056309,|
+309,5,1,8,2,4,8,3731,2646,330,180,52.094688,—__
+310,5,1,8,2,5,1,260,2847,669,101,96.515242,Additional
+311,5,1,8,2,5,2,986,2847,324,99,96.335283,living
+312,5,1,8,2,5,3,1382,2872,622,102,96.213974,expenses
+313,5,1,8,2,5,4,3192,2816,1744,160,30.308819,"$7,500"
+314,5,1,8,2,5,5,3981,2812,171,170,76.533165,|
+315,5,1,8,2,5,6,4661,2812,270,170,30.546193,|
+316,5,1,8,2,6,1,270,3013,698,128,96.578667,Rebuilding
+317,5,1,8,2,6,2,1018,3016,124,98,96.412539,to
+318,5,1,8,2,6,3,1190,3013,314,101,96.811167,code
+319,5,1,8,2,6,4,2316,2984,1744,160,0.000000,"/$250,000"
+320,5,1,8,2,6,5,3147,2980,143,170,5.030632,|
+321,5,1,8,2,6,6,3813,2980,242,170,1.813402,——|
+322,5,1,9,1,1,1,4060,2070,932,234,95.000000,  
+323,5,1,9,1,2,1,4056,2304,936,266,95.000000,   
+324,5,1,9,1,3,1,4060,2570,932,294,95.000000,  
+325,5,1,10,1,1,1,3186,2476,6,8,95.000000, 
+326,5,1,11,1,1,1,2310,2810,874,94,95.000000,  
+327,5,1,11,1,2,1,2310,2904,6,80,95.000000, 
+328,5,1,12,1,1,1,5623,3345,540,103,96.085266,Subtotal
+329,5,1,13,1,1,1,5127,3511,329,103,96.558998,State
+330,5,1,13,1,1,2,5502,3513,664,128,96.558998,surcharge
+331,5,1,13,1,2,1,5599,3679,329,103,96.371798,State
+332,5,1,13,1,2,2,5972,3684,197,98,96.910916,tax
+333,5,1,13,2,1,1,5296,3847,321,101,95.862126,Total
+334,5,1,13,2,1,2,5674,3847,488,127,96.322744,Prepaid
+335,5,1,13,2,2,1,5648,4005,522,101,96.702696,Amount
+336,5,1,14,1,1,1,4062,2984,3684,1152,95.000000, 
+337,5,1,15,1,1,1,1010,4415,534,128,96.195045,Payment
+338,5,1,15,1,1,2,1588,4413,432,129,93.638260,Option:
+339,5,1,15,1,1,3,2509,4415,202,101,95.814095,Full
+340,5,1,15,1,1,4,2770,4415,534,101,95.597255,Premium
+341,5,1,15,1,1,5,3354,4415,537,101,93.219135,Attached
+342,5,1,15,1,1,6,3988,4450,64,64,90.198356,o
+343,5,1,15,1,1,7,4506,4415,165,99,70.004172,Bill
+344,5,1,15,1,1,8,4730,4415,178,101,70.004172,Me
+345,5,1,15,1,1,9,5000,4450,64,64,89.410557,o
+346,5,1,15,1,1,10,5506,4415,165,99,93.116187,Bill
+347,5,1,15,1,1,11,5730,4415,648,128,92.533081,Mortgagee
+348,5,1,15,1,1,12,6468,4450,64,64,90.688241,o
+349,5,1,15,1,2,1,2506,4575,167,99,95.963355,Bill
+350,5,1,15,1,2,2,2724,4573,344,103,93.172897,Other
+351,5,1,15,1,2,3,3154,4610,64,64,90.834351,o
+352,5,1,16,1,1,1,914,4362,6672,526,95.000000, 
+353,5,1,17,1,1,1,1003,5075,228,101,95.616627,The
+354,5,1,17,1,1,2,1281,5075,368,101,95.616627,above
+355,5,1,17,1,1,3,1696,5078,670,98,96.583475,statements
+356,5,1,17,1,1,4,2415,5100,188,76,95.703840,are
+357,5,1,17,1,1,5,2655,5078,418,98,96.106732,correct
+358,5,1,17,1,1,6,3114,5078,110,98,96.463826,to
+359,5,1,17,1,1,7,3268,5075,183,101,96.264786,the
+360,5,1,17,1,1,8,3505,5075,252,101,96.300295,best
+361,5,1,17,1,1,9,3802,5073,115,103,95.850032,of
+362,5,1,17,1,1,10,3961,5100,172,103,95.850032,my
+363,5,1,17,1,1,11,4183,5075,684,128,96.640618,knowledge.
+364,5,1,17,1,1,12,4928,5075,14,99,94.335285,|
+365,5,1,17,1,1,13,5000,5075,677,101,96.026352,understand
+366,5,1,17,1,1,14,5726,5075,230,101,96.324660,that
+367,5,1,17,1,1,15,6001,5100,216,103,96.324660,any
+368,5,1,17,1,1,16,6259,5073,286,103,96.325026,false
+369,5,1,17,1,1,17,6594,5078,668,98,96.697194,statements
+370,5,1,17,1,2,1,1009,5260,248,103,96.085601,may
+371,5,1,17,1,2,2,1307,5235,140,101,96.452023,be
+372,5,1,17,1,2,3,1501,5235,657,127,96.371507,punishable
+373,5,1,17,1,2,4,2211,5235,134,128,96.248376,by
+374,5,1,17,1,2,5,2387,5233,216,103,96.585191,fine
+375,5,1,17,1,2,6,2653,5233,391,103,96.120277,and/or
+376,5,1,17,1,2,7,3089,5235,822,127,96.408207,imprisonment
+377,5,1,17,1,2,8,3960,5235,348,101,96.489199,under
+378,5,1,17,1,2,9,4351,5235,614,127,96.442802,applicable
+379,5,1,17,1,2,10,5018,5235,227,101,95.449240,law.
+380,5,1,18,1,1,1,1006,6031,581,130,76.506715,signature
+381,5,1,18,1,1,2,1634,6031,115,103,96.480421,of
+382,5,1,18,1,1,3,1796,6033,443,101,95.454599,Insured
+383,5,1,18,1,1,4,4008,6033,272,101,96.840125,Date
+384,5,1,18,1,1,5,5510,6033,491,128,96.396829,Daytime
+385,5,1,18,1,1,6,6053,6033,372,127,96.440154,phone
+386,5,1,18,1,1,7,6479,6033,463,101,96.709022,number
+387,5,1,19,1,1,1,1010,6831,552,101,92.400752,Producer
+388,5,1,19,1,1,2,1598,6829,38,103,92.400752,/
+389,5,1,19,1,1,3,1676,6831,361,128,95.868348,Agent
+390,5,1,19,1,1,4,2088,6831,356,101,95.868348,Name
+391,5,1,19,1,1,5,4004,6829,587,130,96.744982,City/State
+392,5,1,19,1,1,6,5506,6831,461,101,96.775196,License
+393,5,1,19,1,1,7,6022,6831,486,101,96.480561,Number
+394,5,1,19,1,2,1,1008,6989,178,130,96.377003,(as
+395,5,1,19,1,2,2,1234,6991,571,128,96.709098,displayed
+396,5,1,19,1,2,3,1860,7016,140,76,96.575979,on
+397,5,1,19,1,2,4,2056,6989,463,131,96.660599,license)
+398,5,1,20,1,1,1,1000,10239,102,103,96.789731,©
+399,5,1,20,1,1,2,1147,10239,584,130,96.135319,Copyright
+400,5,1,20,1,1,3,1776,10240,300,102,96.135319,2005
+401,5,1,20,1,1,4,2127,10241,134,128,95.781604,by
+402,5,1,20,1,1,5,2311,10239,397,103,92.382265,Chubb
+403,5,1,20,1,1,6,2756,10239,82,103,92.382265,&
+404,5,1,20,1,1,7,2888,10239,232,103,96.089556,Son
+405,5,1,20,1,1,8,3178,10241,201,101,95.636775,Inc.
+406,5,1,20,1,1,9,3439,10241,305,101,96.254619,Form
+407,5,1,20,1,1,10,3800,10241,194,101,96.500134,No.
+408,5,1,20,1,1,11,4052,10240,699,102,96.848270,02-03-0023
+409,5,1,20,1,1,12,4805,10241,147,99,96.024004,FL
+410,5,1,20,1,1,13,5002,10239,310,131,95.886123,(Rev.
+411,5,1,20,1,1,14,5378,10239,529,131,96.467369,11/2013)
+412,5,1,20,1,1,15,6004,10241,307,128,96.123794,Page
+413,5,1,20,1,1,16,6360,10240,66,100,96.424065,2
+414,5,1,20,1,1,17,6476,10239,115,103,95.440628,of
+415,5,1,20,1,1,18,6628,10241,68,99,95.440628,4
+416,5,1,1,1,1,1,1010,881,534,128,96.287279,Building
+417,5,1,1,1,1,2,1601,880,744,102,96.582174,Information
+418,5,1,1,1,1,3,2399,880,180,129,96.522176,(or
+419,5,1,1,1,1,4,2623,881,394,101,96.236058,attach
+420,5,1,1,1,1,5,3075,881,513,127,96.236058,printout
+421,5,1,1,1,1,6,3630,880,298,102,95.952581,from
+422,5,1,1,1,1,7,3983,881,369,128,96.377434,rating
+423,5,1,1,1,1,8,4406,880,351,129,96.527115,disk):
+424,5,1,1,1,2,1,1330,1200,406,102,96.677575,NOTE:
+425,5,1,1,1,2,2,1791,1201,463,99,96.287954,THERE
+426,5,1,1,1,2,3,2305,1200,117,102,96.343197,IS
+427,5,1,1,1,2,4,2476,1201,539,99,95.712808,LIMITED
+428,5,1,1,1,2,5,3068,1200,780,102,96.156692,COVERAGE
+429,5,1,1,1,2,6,3902,1200,506,102,96.585428,BELOW
+430,5,1,1,1,2,7,4451,1201,269,99,95.826336,THE
+431,5,1,1,1,2,8,4774,1200,580,102,96.417665,LOWEST
+432,5,1,1,1,2,9,5406,1201,723,99,95.754022,ELEVATED
+433,5,1,1,1,2,10,6184,1200,476,102,93.230840,FLOOR
+434,5,1,1,1,2,11,6700,1199,544,103,89.822077,AND/OR
+435,5,1,1,1,2,12,7293,1201,118,99,96.068774,IN
+436,5,1,2,1,1,1,3896,1361,98,99,95.989702,A
+437,5,1,2,1,1,2,4044,1360,797,102,95.989702,BASEMENT.
+438,5,1,2,1,2,1,3280,1520,538,102,96.261355,PLEASE
+439,5,1,2,1,2,2,3874,1521,458,99,95.568747,REFER
+440,5,1,2,1,2,3,4375,1520,183,102,94.206895,TO
+441,5,1,2,1,2,4,4605,1521,271,99,94.206895,THE
+442,5,1,2,1,2,5,4932,1520,533,102,96.215419,POLICY.
+443,5,1,3,1,1,1,1015,2158,87,100,95.394231,1.
+444,5,1,3,1,1,2,1200,2159,525,101,96.390754,Distance
+445,5,1,3,1,1,3,1769,2158,267,102,96.390754,from
+446,5,1,3,1,1,4,2093,2162,454,98,92.998073,nearest
+447,5,1,3,1,1,5,2592,2157,1264,130,88.763224,ocean/gulf/river/lake:
+448,5,1,3,1,1,6,3904,2160,343,126,27.746391,5.5
+449,5,1,3,1,1,7,4301,2159,309,101,21.598091,miles
+450,5,1,3,1,1,8,4734,2159,374,100,81.585683,Within
+451,5,1,3,1,1,9,5171,2158,323,119,96.857458,"1,000"
+452,5,1,3,1,1,10,5543,2158,226,102,95.992377,feet
+453,5,1,3,1,1,11,5816,2158,115,102,95.818647,of
+454,5,1,3,1,1,12,5971,2184,65,76,96.336344,a
+455,5,1,3,1,1,13,6089,2159,339,128,96.715459,major
+456,5,1,3,1,1,14,6475,2159,290,128,95.495671,body
+457,5,1,3,1,1,15,6808,2158,117,102,96.040049,of
+458,5,1,3,1,1,16,6961,2158,409,102,84.619452,water’?
+459,5,1,3,1,2,1,1190,2319,230,101,92.313067,Yes
+460,5,1,3,1,2,2,1512,2354,64,64,90.627940,o
+461,5,1,3,1,2,3,2008,2319,162,101,91.457102,No
+462,5,1,3,1,2,4,2216,2319,88,99,92.151603,X
+463,5,1,4,1,1,1,1004,2639,98,99,96.913605,2.
+464,5,1,4,1,1,2,1203,2639,91,101,73.190918,Is
+465,5,1,4,1,1,3,1340,2639,490,128,96.162654,dwelling
+466,5,1,4,1,1,4,1881,2639,758,128,95.974088,substantially
+467,5,1,4,1,1,5,2691,2638,629,128,89.223090,improved?
+468,5,1,4,1,1,6,3538,2639,366,101,80.402734,YesX
+469,5,1,4,1,1,7,4084,2639,316,101,66.485620,Noa
+470,5,1,5,1,1,1,1006,2956,96,102,96.279717,3.
+471,5,1,5,1,1,2,1203,2957,89,101,89.269596,Is
+472,5,1,5,1,1,3,1340,2957,490,128,95.573846,dwelling
+473,5,1,5,1,1,4,1887,2957,89,99,96.755833,in
+474,5,1,5,1,1,5,2029,2982,406,76,96.531897,course
+475,5,1,5,1,1,6,2484,2956,115,102,96.228214,of
+476,5,1,5,1,1,7,2639,2956,813,102,96.216053,construction?
+477,5,1,5,1,1,8,3498,2957,232,101,94.997288,Yes
+478,5,1,5,1,1,9,3822,2992,64,64,63.575485,ao
+479,5,1,5,1,1,10,4082,2957,162,101,90.882069,No
+480,5,1,5,1,1,11,4330,2957,88,99,91.562993,X
+481,5,1,5,1,1,12,4509,2957,89,101,96.035572,Is
+482,5,1,5,1,1,13,4647,2957,489,128,96.432442,dwelling
+483,5,1,5,1,1,14,5184,2957,185,101,93.186094,the
+484,5,1,5,1,1,15,5425,2956,539,102,67.507508,insured’s
+485,5,1,5,1,1,16,6017,2957,498,127,96.076496,principal
+486,5,1,5,1,1,17,6571,2956,665,102,95.187764,residence?
+487,5,1,5,1,2,1,1190,3117,230,101,92.608860,Yes
+488,5,1,5,1,2,2,1512,3152,64,64,89.991772,o
+489,5,1,5,1,2,3,2086,3117,162,101,93.235655,No
+490,5,1,5,1,2,4,2332,3117,88,99,92.258969,X
+491,5,1,6,1,1,1,1002,3437,100,99,96.661318,4.
+492,5,1,6,1,1,2,1203,3437,89,101,34.266667,Is
+493,5,1,6,1,1,3,1345,3437,461,128,96.100538,building
+494,5,1,6,1,1,4,1859,3437,508,101,96.188993,elevated
+495,5,1,6,1,1,5,2424,3435,542,130,96.315200,(includes
+496,5,1,6,1,1,6,3015,3437,489,128,96.367500,dwelling
+497,5,1,6,1,1,7,3556,3437,311,101,95.944161,crawl
+498,5,1,6,1,1,8,3918,3435,554,130,96.460653,spaces)?
+499,5,1,6,1,1,9,4518,3437,230,101,95.981177,Yes
+500,5,1,6,1,1,10,4844,3472,64,64,65.467870,ao
+501,5,1,6,1,1,11,5082,3437,164,101,93.280463,No
+502,5,1,6,1,1,12,5330,3437,88,99,92.123710,X
+503,5,1,7,1,1,1,1006,3756,96,100,0.000000,o.
+504,5,1,7,1,1,2,1203,3755,89,101,91.314131,Is
+505,5,1,7,1,1,3,1338,3755,187,101,96.703220,the
+506,5,1,7,1,1,4,1573,3781,265,75,95.830502,area
+507,5,1,7,1,1,5,1893,3755,351,101,95.789182,below
+508,5,1,7,1,1,6,2288,3755,185,101,96.790510,the
+509,5,1,7,1,1,7,2521,3755,512,101,96.174598,elevated
+510,5,1,7,1,1,8,3083,3754,269,102,96.550376,floor
+511,5,1,7,1,1,9,3395,3754,621,102,71.483929,enclosed?
+512,5,1,7,1,1,10,4498,3755,230,101,85.254959,Yes
+513,5,1,7,1,1,11,4820,3790,64,64,85.080053,o
+514,5,1,7,1,1,12,5082,3755,318,101,90.017154,Noo
+515,5,1,7,1,2,1,1441,4075,298,128,96.544630,Type
+516,5,1,7,1,2,2,1788,4074,115,102,96.801404,of
+517,5,1,7,1,2,3,1941,4075,592,101,96.451050,enclosure
+518,5,1,7,1,2,4,2579,4075,333,101,95.976444,walls:
+519,5,1,7,1,2,5,3008,4075,673,128,11.007938,Breakaway
+520,5,1,7,1,2,6,3732,4110,64,64,11.007938,a
+521,5,1,7,1,2,7,4008,4075,391,101,34.105248,Lattice
+522,5,1,7,1,2,8,4492,4110,64,64,90.996375,o
+523,5,1,7,1,2,9,5502,4074,293,102,95.397761,Solid
+524,5,1,7,1,2,10,5853,4075,577,127,92.990542,perimeter
+525,5,1,7,1,2,11,6514,4110,64,64,87.714010,o
+526,5,1,7,1,3,1,1444,4234,340,102,96.618046,Other
+527,5,1,7,1,3,2,1830,4233,603,130,96.707433,(describe)
+528,5,1,7,1,4,1,1005,4555,97,101,96.154498,6.
+529,5,1,7,1,4,2,1200,4555,613,101,96.122794,Basement
+530,5,1,7,1,4,3,1861,4555,538,101,96.276492,enclosed
+531,5,1,7,1,4,4,2453,4581,299,75,94.967906,area:
+532,5,1,7,1,4,5,2812,4555,315,101,93.273879,None
+533,5,1,7,1,4,6,3214,4555,88,99,89.584820,X
+534,5,1,7,1,4,7,4009,4555,500,101,92.875944,Finished
+535,5,1,7,1,4,8,4608,4590,64,64,90.675395,o
+536,5,1,7,1,4,9,5007,4554,634,102,92.936997,Unfinished
+537,5,1,7,1,4,10,5738,4590,64,64,90.355957,o
+538,5,1,7,1,5,1,1006,4874,96,98,91.800040,7.
+539,5,1,7,1,5,2,1203,4873,89,101,86.548333,Is
+540,5,1,7,1,5,3,1338,4873,187,101,94.918628,the
+541,5,1,7,1,5,4,1576,4873,383,101,96.554526,lowest
+542,5,1,7,1,5,5,2001,4872,271,102,95.706097,floor
+543,5,1,7,1,5,6,2318,4873,298,128,95.933824,living
+544,5,1,7,1,5,7,2671,4898,265,76,95.933824,area
+545,5,1,7,1,5,8,2984,4872,155,102,95.191361,off
+546,5,1,7,1,5,9,3178,4873,417,128,95.191361,ground
+547,5,1,7,1,5,10,3653,4873,136,128,96.514950,by
+548,5,1,7,1,5,11,3837,4898,403,76,95.523752,means
+549,5,1,7,1,5,12,4288,4872,138,102,95.828693,of:
+550,5,1,7,1,5,13,4526,4873,300,101,69.435434,Piers
+551,5,1,7,1,5,14,4994,4908,64,64,85.772679,o
+552,5,1,7,1,5,15,5506,4873,330,101,92.179325,Posts
+553,5,1,7,1,5,16,5928,4908,64,64,89.996810,o
+554,5,1,7,1,5,17,6504,4873,284,101,93.120567,Piles
+555,5,1,7,1,5,18,6882,4908,64,64,91.537276,o
+556,5,1,7,1,6,1,1195,5032,533,102,95.393400,Columns
+557,5,1,7,1,6,2,1820,5068,64,64,53.751206,oa
+558,5,1,7,1,6,3,2504,5032,291,102,96.094803,Solid
+559,5,1,7,1,6,4,2853,5033,579,127,96.520464,perimeter
+560,5,1,7,1,6,5,3471,5033,301,101,92.536342,walls
+561,5,1,7,1,6,6,3856,5033,88,99,92.536342,X
+562,5,1,7,1,6,7,4006,5033,443,101,95.882802,Parallel
+563,5,1,7,1,6,8,4501,5033,345,101,96.028561,shear
+564,5,1,7,1,6,9,4885,5033,301,101,91.819093,walls
+565,5,1,7,1,6,10,5278,5068,64,64,91.819093,o
+566,5,1,7,1,7,1,1194,5192,340,102,96.311913,Other
+567,5,1,7,1,7,2,1580,5191,603,130,95.596097,(describe)
+568,5,1,8,1,1,1,1006,5513,96,101,96.741223,8.
+569,5,1,8,1,1,2,1200,5513,310,101,96.280252,Does
+570,5,1,8,1,1,3,1563,5513,600,101,95.985398,basement
+571,5,1,8,1,1,4,2206,5538,120,76,96.148960,or
+572,5,1,8,1,1,5,2369,5513,540,101,96.345005,enclosed
+573,5,1,8,1,1,6,2963,5538,263,76,96.361327,area
+574,5,1,8,1,1,7,3277,5513,435,101,96.215618,contain
+575,5,1,8,1,1,8,3769,5513,628,128,96.215618,machinery
+576,5,1,8,1,1,9,4445,5513,214,101,96.732526,and
+577,5,1,8,1,1,10,4713,5512,715,128,95.893461,equipment?
+578,5,1,8,1,1,11,5474,5513,232,101,94.623879,Yes
+579,5,1,8,1,1,12,5798,5548,64,64,41.602387,ao
+580,5,1,8,1,1,13,6082,5513,162,101,84.496715,No
+581,5,1,8,1,1,14,6328,5513,88,99,92.210606,X
+582,5,1,9,1,1,1,1006,5830,96,102,92.958690,9.
+583,5,1,9,1,1,2,1197,5830,452,129,96.629140,Garage
+584,5,1,9,1,1,3,1696,5856,120,76,96.432797,or
+585,5,1,9,1,1,4,1861,5831,538,101,96.413566,enclosed
+586,5,1,9,1,1,5,2453,5856,267,76,93.760946,area
+587,5,1,9,1,1,6,2773,5831,85,101,93.760946,is
+588,5,1,9,1,1,7,2910,5831,283,101,96.092759,used
+589,5,1,9,1,1,8,3243,5830,187,102,90.810357,for:
+590,5,1,9,1,1,9,3530,5829,1498,130,90.810357,Parking/Storage/Access:
+591,5,1,9,1,1,10,5118,5831,88,99,92.736452,X
+592,5,1,9,1,2,1,1194,5989,340,103,96.477859,Other
+593,5,1,9,1,2,2,1580,5989,603,130,94.902948,(describe)
+594,5,1,10,1,1,1,1015,6310,163,102,96.137187,10.
+595,5,1,10,1,1,2,1231,6311,300,128,96.762646,Type
+596,5,1,10,1,1,3,1580,6310,115,102,96.844221,of
+597,5,1,10,1,1,4,1739,6311,497,128,96.393380,building:
+598,5,1,10,1,2,1,1256,6470,583,128,21.023035,oplit-level
+599,5,1,10,1,2,2,1936,6506,64,64,88.355180,o
+600,5,1,10,1,2,3,2321,6470,1404,102,89.914310,Townhouse/Rowhouse
+601,5,1,10,1,2,4,3818,6506,64,64,86.746505,o
+602,5,1,10,1,2,5,4173,6471,265,128,96.271377,High
+603,5,1,10,1,2,6,4494,6471,263,101,91.991082,Rise
+604,5,1,10,1,2,7,4848,6506,64,64,90.748253,o
+605,5,1,11,1,1,1,1015,6790,163,100,96.159701,11.
+606,5,1,11,1,1,2,1238,6791,486,101,96.569415,Number
+607,5,1,11,1,1,3,1766,6790,115,102,95.701994,of
+608,5,1,11,1,1,4,1915,6790,335,102,95.701994,floors
+609,5,1,11,1,1,5,2303,6791,89,99,95.665077,in
+610,5,1,11,1,1,6,2445,6791,338,101,96.598893,entire
+611,5,1,11,1,1,7,2837,6791,459,128,96.091043,building
+612,5,1,11,1,1,8,3352,6789,576,130,93.293172,(including
+613,5,1,11,1,1,9,3985,6789,1184,103,91.686938,basement/enclosed
+614,5,1,11,1,1,10,5223,6817,297,92,96.681820,"area,"
+615,5,1,11,1,1,11,5583,6790,64,100,96.195451,if
+616,5,1,11,1,1,12,5685,6789,293,130,96.059685,any):
+617,5,1,11,1,2,1,1265,6948,481,102,35.566444,1floorg
+618,5,1,11,1,2,2,2002,6948,444,102,54.054837,2floors
+619,5,1,11,1,2,3,2532,6949,88,99,93.045666,X
+620,5,1,11,1,2,4,3272,6949,64,101,64.783583,3
+621,5,1,11,1,2,5,3386,6975,120,75,33.836842,or
+622,5,1,11,1,2,6,3553,6975,302,75,33.836842,more
+623,5,1,11,1,2,7,3899,6948,333,102,93.217622,floors
+624,5,1,11,1,2,8,4324,6984,64,64,91.262748,o
+625,5,1,12,1,1,1,1262,7270,69,100,90.657436,lf
+626,5,1,12,1,1,2,1369,7269,1601,129,91.443712,"condominium/cooperative,"
+627,5,1,12,1,1,3,3023,7271,290,101,96.818494,what
+628,5,1,12,1,1,4,3363,7271,85,101,95.674358,is
+629,5,1,12,1,1,5,3494,7271,185,101,95.778188,the
+630,5,1,12,1,1,6,3730,7271,385,101,96.478758,lowest
+631,5,1,12,1,1,7,4155,7270,271,102,96.581020,floor
+632,5,1,12,1,1,8,4473,7271,89,99,96.404156,in
+633,5,1,12,1,1,9,4615,7297,269,102,96.307380,your
+634,5,1,12,1,1,10,4929,7270,285,102,96.414793,unit?
+635,5,1,12,1,2,1,1265,7424,129,104,52.281942,1°
+636,5,1,12,1,2,2,1435,7428,269,102,93.055174,floor
+637,5,1,12,1,2,3,1752,7464,64,64,91.664962,o
+638,5,1,12,1,2,4,2140,7422,166,106,75.074024,2™
+639,5,1,12,1,2,5,2351,7428,271,102,95.508279,floor
+640,5,1,12,1,2,6,2708,7464,64,64,69.829016,a
+641,5,1,12,1,2,7,3060,7422,144,108,23.042841,3”
+642,5,1,12,1,2,8,3251,7428,271,102,96.157203,floor
+643,5,1,12,1,2,9,3562,7455,120,75,96.157203,or
+644,5,1,12,1,2,10,3729,7429,379,128,92.895453,higher
+645,5,1,12,1,2,11,4194,7464,64,64,86.363798,o
+646,5,1,13,1,1,1,1260,7749,160,101,95.409370,Do
+647,5,1,13,1,1,2,1467,7775,210,102,95.965946,you
+648,5,1,13,1,1,3,1737,7749,284,101,96.023664,have
+649,5,1,13,1,1,4,2069,7774,423,76,94.493484,access
+650,5,1,13,1,1,5,2538,7752,108,98,96.492939,to
+651,5,1,13,1,1,6,2699,7749,600,101,96.097344,basement
+652,5,1,13,1,1,7,3342,7748,530,129,91.341985,storage?
+653,5,1,13,1,1,8,3998,7749,348,101,49.251885,Yeso
+654,5,1,13,1,1,9,4506,7749,162,101,92.614025,No
+655,5,1,13,1,1,10,4798,7784,64,64,90.690827,o
+656,5,1,14,1,1,1,1015,8068,163,100,95.361223,12.
+657,5,1,14,1,1,2,1230,8069,235,128,96.535458,Any
+658,5,1,14,1,1,3,1507,8068,290,102,95.475821,flood
+659,5,1,14,1,1,4,1850,8095,120,75,96.112141,or
+660,5,1,14,1,1,5,2009,8072,339,98,96.112141,water
+661,5,1,14,1,1,6,2390,8069,491,128,96.552169,damage
+662,5,1,14,1,1,7,2936,8069,410,118,96.209428,"losses,"
+663,5,1,14,1,1,8,3397,8069,269,127,61.489143,paid
+664,5,1,14,1,1,9,3706,8095,129,75,96.407934,or
+665,5,1,14,1,1,10,3870,8069,432,127,96.299524,"unpaid,"
+666,5,1,14,1,1,11,4367,8069,89,99,95.958785,in
+667,5,1,14,1,1,12,4504,8069,185,101,96.435449,the
+668,5,1,14,1,1,13,4744,8069,205,101,93.497685,last
+669,5,1,14,1,1,14,5003,8068,133,102,93.497685,10
+670,5,1,14,1,1,15,5183,8068,409,129,93.386788,years?
+671,5,1,14,1,1,16,5678,8069,230,101,93.170161,Yes
+672,5,1,14,1,1,17,6002,8104,64,64,87.223451,o
+673,5,1,14,1,1,18,6356,8069,162,101,89.705253,No
+674,5,1,14,1,1,19,6564,8069,88,99,89.705253,X
+675,5,1,14,1,2,1,1260,8229,275,101,96.635860,Date
+676,5,1,14,1,2,2,1584,8228,115,102,95.387081,of
+677,5,1,14,1,2,3,1742,8229,234,101,96.605400,loss
+678,5,1,14,1,2,4,2908,8229,473,101,96.583448,Amount
+679,5,1,14,1,2,5,3428,8228,115,102,96.884880,of
+680,5,1,14,1,2,6,3586,8229,234,101,96.676092,loss
+681,5,1,14,1,3,1,1258,8385,279,130,96.429217,(Use
+682,5,1,14,1,3,2,1590,8387,346,101,95.906072,Notes
+683,5,1,14,1,3,3,1985,8387,425,101,96.426403,section
+684,5,1,14,1,3,4,2469,8387,349,101,96.288570,below
+685,5,1,14,1,3,5,2859,8386,165,102,96.793429,for
+686,5,1,14,1,3,6,3070,8387,232,101,96.596932,loss
+687,5,1,14,1,3,7,3350,8386,437,129,96.073619,details)
+688,5,1,15,1,1,1,1015,8706,163,102,95.565467,13.
+689,5,1,15,1,1,2,1239,8707,308,101,96.064008,Have
+690,5,1,15,1,1,3,1595,8733,210,102,96.215737,you
+691,5,1,15,1,1,4,1863,8707,506,101,96.059951,received
+692,5,1,15,1,1,5,2427,8710,585,125,95.455210,payments
+693,5,1,15,1,1,6,3057,8706,165,102,95.920199,for
+694,5,1,15,1,1,7,3269,8707,450,101,95.920199,Federal
+695,5,1,15,1,1,8,3776,8707,502,101,96.635345,Disaster
+696,5,1,15,1,1,9,4327,8706,346,102,96.620719,Relief
+697,5,1,15,1,1,10,4709,8706,163,102,95.578790,for
+698,5,1,15,1,1,11,4913,8733,216,102,96.923901,any
+699,5,1,15,1,1,12,5171,8706,290,102,96.464812,flood
+700,5,1,15,1,1,13,5514,8733,120,75,95.470947,or
+701,5,1,15,1,1,14,5673,8711,339,97,95.984914,water
+702,5,1,15,1,1,15,6056,8707,489,128,96.094730,damage
+703,5,1,15,1,1,16,6598,8706,308,102,95.449125,loss?
+704,5,1,15,1,2,1,1252,8867,228,101,91.939226,Yes
+705,5,1,15,1,2,2,1574,8902,64,64,91.275049,o
+706,5,1,15,1,2,3,1928,8867,162,101,93.245159,No
+707,5,1,15,1,2,4,2174,8867,88,99,90.357672,X
+708,5,1,16,1,1,1,1260,9027,275,101,96.718738,Date
+709,5,1,16,1,1,2,1584,9026,115,102,96.122443,of
+710,5,1,16,1,1,3,1742,9027,234,101,96.122443,loss
+711,5,1,16,1,1,4,2984,9027,475,101,96.550471,Amount
+712,5,1,16,1,1,5,3504,9026,115,102,96.150006,of
+713,5,1,16,1,1,6,3664,9027,232,101,95.385743,loss
+714,5,1,16,1,1,7,4912,9025,279,130,96.589411,(Use
+715,5,1,16,1,1,8,5248,9027,344,101,95.865156,Notes
+716,5,1,16,1,1,9,5641,9027,427,101,95.865156,section
+717,5,1,16,1,1,10,6125,9027,353,101,96.650393,below
+718,5,1,16,1,1,11,6519,9026,161,102,95.369235,for
+719,5,1,16,1,1,12,6728,9027,232,101,95.733415,loss
+720,5,1,16,1,1,13,7008,9025,439,130,95.888955,details)
+721,5,1,17,1,1,1,1015,9344,163,100,96.472099,14.
+722,5,1,17,1,1,2,1238,9345,506,101,96.472099,Location
+723,5,1,17,1,1,3,1798,9344,115,102,96.721293,of
+724,5,1,17,1,1,4,1951,9348,545,98,96.336759,contents:
+725,5,1,18,1,1,1,1260,9665,611,101,96.550496,Basement
+726,5,1,18,1,1,2,1916,9665,247,128,94.727529,only
+727,5,1,18,1,1,3,2214,9664,427,129,95.254683,(limited
+728,5,1,18,1,1,4,2696,9663,605,130,93.068386,coverage)
+729,5,1,18,1,1,5,3394,9700,64,64,90.581253,o
+730,5,1,18,1,1,6,4332,9665,611,101,95.900351,Basement
+731,5,1,18,1,1,7,4991,9665,214,101,96.384049,and
+732,5,1,18,1,1,8,5261,9665,366,101,93.194302,above
+733,5,1,18,1,1,9,5720,9700,64,64,85.184063,o
+734,5,1,18,1,2,1,1260,9825,425,101,96.637498,Lowest
+735,5,1,18,1,2,2,1727,9824,271,102,95.771450,floor
+736,5,1,18,1,2,3,2040,9825,247,128,93.175139,only
+737,5,1,18,1,2,4,2328,9883,77,10,92.268006,—
+738,5,1,18,1,2,5,2449,9825,366,101,96.765065,above
+739,5,1,18,1,2,6,2864,9825,419,128,96.509429,ground
+740,5,1,18,1,2,7,3340,9825,269,101,91.851044,level
+741,5,1,18,1,2,8,3704,9860,64,64,90.904953,o
+742,5,1,18,1,2,9,4332,9825,427,101,96.460458,Lowest
+743,5,1,18,1,2,10,4799,9824,271,102,96.326960,floor
+744,5,1,18,1,2,11,5113,9825,368,101,96.326960,above
+745,5,1,18,1,2,12,5528,9825,417,128,96.317491,ground
+746,5,1,18,1,2,13,6004,9825,265,101,93.151990,level
+747,5,1,18,1,2,14,6324,9824,82,102,93.129313,&
+748,5,1,18,1,2,15,6459,9825,376,128,95.930974,higher
+749,5,1,18,1,2,16,6875,9824,331,102,93.216494,floors
+750,5,1,18,1,2,17,7294,9825,88,99,91.808129,X
+751,5,1,18,1,3,1,1250,9985,385,101,96.676151,Above
+752,5,1,18,1,3,2,1684,9985,419,128,96.798225,ground
+753,5,1,18,1,3,3,2160,9985,267,101,96.340574,level
+754,5,1,18,1,3,4,2478,10010,223,76,96.739907,one
+755,5,1,18,1,3,5,2745,9984,166,102,95.781470,full
+756,5,1,18,1,3,6,2961,9984,271,102,95.706230,floor
+757,5,1,18,1,3,7,3272,10011,122,75,96.597815,or
+758,5,1,18,1,3,8,3439,10011,302,75,92.070263,more
+759,5,1,18,1,3,9,3834,10020,64,64,91.396096,o
+760,5,1,19,1,1,1,1000,10240,102,101,95.563987,©
+761,5,1,19,1,1,2,1147,10240,584,129,96.287170,Copyright
+762,5,1,19,1,1,3,1776,10240,299,102,95.514452,2005
+763,5,1,19,1,1,4,2127,10241,134,128,95.170578,by
+764,5,1,19,1,1,5,2311,10240,396,102,93.126726,Chubb
+765,5,1,19,1,1,6,2756,10240,82,102,93.126726,&
+766,5,1,19,1,1,7,2888,10240,232,102,96.440313,Son
+767,5,1,19,1,1,8,3179,10241,199,101,96.239159,Inc.
+768,5,1,19,1,1,9,3439,10241,305,101,95.961335,Form
+769,5,1,19,1,1,10,3800,10241,194,101,96.684148,No.
+770,5,1,19,1,1,11,4052,10240,698,102,96.624173,02-03-0023
+771,5,1,19,1,1,12,4805,10241,147,99,95.009378,FL
+772,5,1,19,1,1,13,5002,10239,310,130,95.009378,(Rev.
+773,5,1,19,1,1,14,5379,10239,528,130,96.129153,11/2013)
+774,5,1,19,1,1,15,6004,10241,307,128,96.129153,Page
+775,5,1,19,1,1,16,6362,10241,64,101,96.674024,3
+776,5,1,19,1,1,17,6476,10240,115,102,96.852390,of
+777,5,1,19,1,1,18,6628,10241,68,99,96.989471,4
+778,5,1,1,1,1,1,1015,1040,163,102,96.554937,15.
+779,5,1,1,1,1,2,1241,1040,68,100,93.277091,If
+780,5,1,1,1,1,3,1356,1041,580,101,91.057355,Post-Firm
+781,5,1,1,1,1,4,1991,1041,735,101,96.258470,construction
+782,5,1,1,1,1,5,2781,1041,91,99,96.048300,in
+783,5,1,1,1,1,6,2920,1041,378,101,96.048300,Zones
+784,5,1,1,1,1,7,3344,1041,118,118,92.501510,"A,"
+785,5,1,1,1,1,8,3514,1040,486,119,87.730438,"A1-A30,"
+786,5,1,1,1,1,9,4054,1041,210,118,96.481470,"AE,"
+787,5,1,1,1,1,10,4316,1040,226,119,96.713131,"AO,"
+788,5,1,1,1,1,11,4592,1041,220,118,93.276166,"AH,"
+789,5,1,1,1,1,12,4864,1041,118,118,83.000791,"V,"
+790,5,1,1,1,1,13,5033,1040,487,119,83.000791,"V1-V30,"
+791,5,1,1,1,1,14,5577,1041,216,101,96.119433,and
+792,5,1,1,1,1,15,5853,1040,64,100,93.263397,if
+793,5,1,1,1,1,16,5962,1041,518,101,92.141829,Pre-Firm
+794,5,1,1,1,1,17,6533,1041,735,101,96.513411,construction
+795,5,1,1,1,2,1,1193,1201,214,101,92.835194,and
+796,5,1,1,1,2,2,1467,1201,1001,118,90.916474,"Elevation-Rated,"
+797,5,1,1,1,2,3,2525,1201,403,101,96.626711,submit
+798,5,1,1,1,2,4,2975,1200,717,102,96.111760,Certification
+799,5,1,1,1,2,5,3743,1201,216,101,96.615455,and
+800,5,1,1,1,2,6,4013,1201,554,127,96.023695,complete
+801,5,1,1,1,2,7,4615,1201,541,101,96.325992,elevation
+802,5,1,1,1,2,8,5210,1201,256,101,96.325992,data
+803,5,1,1,1,2,9,5523,1201,379,101,95.686162,below:
+804,5,1,1,1,2,10,5962,1199,760,130,96.105950,(Certification
+805,5,1,1,1,2,11,6774,1201,473,127,96.105950,optional
+806,5,1,1,1,2,12,7295,1200,163,102,96.863289,for
+807,5,1,1,1,3,1,1197,1361,874,101,92.464395,non-basement
+808,5,1,1,1,3,2,2121,1361,533,128,95.790295,buildings
+809,5,1,1,1,3,3,2709,1361,89,99,96.914380,in
+810,5,1,1,1,3,4,2848,1361,376,101,95.860502,Zones
+811,5,1,1,1,3,5,3268,1361,120,118,95.860502,"A,"
+812,5,1,1,1,3,6,3438,1359,226,120,96.570512,"AO,"
+813,5,1,1,1,3,7,3721,1361,216,101,96.709248,and
+814,5,1,1,1,3,8,3986,1359,273,130,95.618677,AH.)
+815,5,1,2,1,1,1,1260,1681,474,128,95.855060,Building
+816,5,1,2,1,1,2,1790,1681,504,128,93.296458,Diagram
+817,5,1,2,1,1,3,2345,1679,74,103,93.280472,#
+818,5,1,2,1,1,4,3543,1681,298,128,96.232375,Type
+819,5,1,2,1,1,5,3890,1680,117,102,96.348063,of
+820,5,1,2,1,1,6,4047,1680,281,102,91.805450,Cert:
+821,5,1,2,1,1,7,4428,1681,434,101,78.697901,Noneo
+822,5,1,2,1,1,8,4998,1681,264,100,93.832932,With
+823,5,1,2,1,1,9,5320,1681,253,99,93.237431,BFE
+824,5,1,2,1,1,10,5668,1716,64,64,81.298460,o
+825,5,1,2,1,1,11,5998,1681,466,101,93.721557,Without
+826,5,1,2,1,1,12,6514,1681,253,99,93.046410,BFE
+827,5,1,2,1,1,13,6860,1716,64,64,92.115480,o
+828,5,1,3,1,1,1,1260,1999,425,101,96.479940,Lowest
+829,5,1,3,1,1,2,1737,1999,307,101,96.038938,Floor
+830,5,1,3,1,1,3,2093,1999,585,101,96.038938,Elevation:
+831,5,1,3,1,1,4,4282,1999,394,101,96.419077,minus
+832,5,1,3,1,1,5,4732,1999,299,101,96.419077,Base
+833,5,1,3,1,1,6,5087,1999,326,101,96.475636,Flood
+834,5,1,3,1,1,7,5475,1999,585,101,96.214646,Elevation:
+835,5,1,3,1,2,1,1254,2159,426,127,96.606943,equals
+836,5,1,3,1,2,2,1739,2159,256,101,96.802796,Elev
+837,5,1,3,1,2,3,2046,2158,201,100,96.064917,Diff
+838,5,1,3,1,2,4,2290,2157,521,130,95.935831,(Nearest
+839,5,1,3,1,2,5,2863,2159,190,101,96.264647,Est
+840,5,1,3,1,2,6,3103,2159,264,101,91.917927,Foot
+841,5,1,3,1,2,7,3416,2157,199,130,91.672855,+/-)
+842,5,1,4,1,1,1,1261,2479,456,128,96.110040,Highest
+843,5,1,4,1,1,2,1758,2479,537,128,96.688803,Adjacent
+844,5,1,4,1,1,3,2341,2477,374,103,96.649967,Grade
+845,5,1,4,1,1,4,2768,2477,412,130,55.054493,(HAG):
+846,5,1,4,1,1,5,4506,2479,427,101,96.391920,Lowest
+847,5,1,4,1,1,6,4974,2479,539,128,96.696785,Adjacent
+848,5,1,4,1,1,7,5559,2477,372,103,96.662758,Grade
+849,5,1,4,1,1,8,5982,2477,392,130,95.597514,(LAG):
+850,5,1,5,1,1,1,1010,2798,171,102,96.146162,16.
+851,5,1,5,1,1,2,1238,2799,411,101,96.146162,Notes:
+852,5,1,6,1,1,1,1256,5671,386,101,96.248873,Fraud
+853,5,1,6,1,1,2,1688,5671,540,128,96.288144,Warning
+854,5,1,7,1,1,1,1256,5991,452,101,96.799331,Florida
+855,5,1,7,1,1,2,1747,5991,711,127,96.768148,Applicants
+856,5,1,7,1,1,3,2504,5991,320,128,96.512410,only:
+857,5,1,7,1,1,4,2866,5991,247,128,96.560336,Any
+858,5,1,7,1,1,5,3145,6016,420,102,95.723346,person
+859,5,1,7,1,1,6,3619,5991,243,101,95.628791,who
+860,5,1,7,1,1,7,3907,5991,612,128,95.628791,knowingly
+861,5,1,7,1,1,8,4558,5991,228,101,96.101097,and
+862,5,1,7,1,1,9,4829,5991,232,100,95.660609,with
+863,5,1,7,1,1,10,5110,5991,338,101,95.660609,intent
+864,5,1,7,1,1,11,5492,5994,105,98,96.735206,to
+865,5,1,7,1,1,12,5642,5991,358,127,96.184200,"injure,"
+866,5,1,7,1,1,13,6061,5990,487,120,96.423385,"defraud,"
+867,5,1,7,1,1,14,6606,6017,128,75,95.596171,or
+868,5,1,7,1,1,15,6771,5991,469,101,95.660377,deceive
+869,5,1,7,1,2,1,1256,6176,223,103,96.669860,any
+870,5,1,7,1,2,2,1514,6151,431,101,96.549496,insurer
+871,5,1,7,1,2,3,1980,6150,239,102,96.742786,files
+872,5,1,7,1,2,4,2264,6176,67,76,96.928532,a
+873,5,1,7,1,2,5,2380,6154,610,98,96.532849,statement
+874,5,1,7,1,2,6,3028,6150,128,102,96.919831,of
+875,5,1,7,1,2,7,3184,6151,312,101,96.636695,claim
+876,5,1,7,1,2,8,3544,6177,127,75,96.199668,or
+877,5,1,7,1,2,9,3706,6177,145,75,96.199668,an
+878,5,1,7,1,2,10,3900,6151,653,127,95.491726,application
+879,5,1,7,1,2,11,4604,6151,624,128,96.394200,containing
+880,5,1,7,1,2,12,5272,6176,225,103,96.426403,any
+881,5,1,7,1,2,13,5536,6150,310,120,96.447824,"false,"
+882,5,1,7,1,2,14,5902,6151,692,127,96.302254,"incomplete,"
+883,5,1,7,1,2,15,6652,6176,127,76,96.349786,or
+884,5,1,7,1,2,16,6815,6151,659,128,95.735376,misleading
+885,5,1,7,1,3,1,1254,6310,675,102,95.086564,information
+886,5,1,7,1,3,2,1978,6311,95,101,94.630491,is
+887,5,1,7,1,3,3,2116,6311,327,128,96.138174,guilty
+888,5,1,7,1,3,4,2482,6310,126,102,96.798044,of
+889,5,1,7,1,3,5,2634,6337,67,75,96.954187,a
+890,5,1,7,1,3,6,2750,6310,372,129,96.509023,felony
+891,5,1,7,1,3,7,3160,6310,126,102,96.509023,of
+892,5,1,7,1,3,8,3316,6311,182,101,96.596214,the
+893,5,1,7,1,3,9,3546,6311,268,101,96.596214,third
+894,5,1,7,1,3,10,3855,6311,449,128,96.378448,degree.
+895,5,1,8,1,1,1,1000,10240,102,102,95.447892,©
+896,5,1,8,1,1,2,1147,10240,584,129,96.179388,Copyright
+897,5,1,8,1,1,3,1776,10240,299,102,95.557758,2005
+898,5,1,8,1,1,4,2127,10241,134,128,94.789607,by
+899,5,1,8,1,1,5,2311,10240,396,102,93.189164,Chubb
+900,5,1,8,1,1,6,2756,10240,82,102,93.189164,&
+901,5,1,8,1,1,7,2888,10240,232,102,96.318564,Son
+902,5,1,8,1,1,8,3178,10241,200,101,96.364598,Inc.
+903,5,1,8,1,1,9,3439,10241,305,101,96.065601,Form
+904,5,1,8,1,1,10,3800,10241,194,101,96.553539,No.
+905,5,1,8,1,1,11,4052,10240,698,102,96.583488,02-03-0023
+906,5,1,8,1,1,12,4805,10241,147,99,94.827734,FL
+907,5,1,8,1,1,13,5002,10239,310,130,94.827734,(Rev.
+908,5,1,8,1,1,14,5379,10239,528,130,96.443597,11/2013)
+909,5,1,8,1,1,15,6004,10241,307,128,96.648093,Page
+910,5,1,8,1,1,16,6358,10241,68,99,94.633778,4
+911,5,1,8,1,1,17,6476,10240,115,102,94.633778,of
+912,5,1,8,1,1,18,6628,10241,68,99,96.950165,4
