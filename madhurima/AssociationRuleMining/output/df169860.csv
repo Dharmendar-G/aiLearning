@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cypress:cyw89335lcubgt_firmware:-:*:*:*:*:*:*:*,Cypress CYW89335LCUBGT Firmware,['CVE-2018-19860'],2022-03-20T09:47Z
+1,cpe:2.3:h:cypress:cyw920735q60evb-01:-:*:*:*:*:*:*:*,Cypress CYW920735Q60EVB-01,['CVE-2021-34146'],2022-03-20T09:47Z
+2,cpe:2.3:o:cypress:cyw920735q60evb-01_firmware:-:*:*:*:*:*:*:*,Cypress CYW920735Q60EVB-01 Firmware,['CVE-2021-34146'],2022-03-20T09:47Z
+3,cpe:2.3:h:cypress:psoc_4:-:*:*:*:*:*:*:*,Cypress PSoC 4,['CVE-2019-17061'],2022-03-20T09:47Z
+4,cpe:2.3:a:cypress:psoc_4.2_ble:3.64:*:*:*:*:*:*:*,Cypress PSoC 4.2 BLE 3.64,[''],2022-03-20T09:47Z
+5,cpe:2.3:a:cypress:psoc_4_ble:3.62:*:*:*:*:*:*:*,Cypress PSoC 4 BLE 3.62,['CVE-2019-17061'],2022-03-20T09:47Z
+6,cpe:2.3:a:cypress:wiced_studio:6.2:*:*:*:*:*:*:*,Cypress Wiced Studio 6.2,['CVE-2019-13916'],2022-03-20T09:47Z
+7,cpe:2.3:o:cypress:wireless_internet_connectivity_for_embedded_devices:-:*:*:*:*:*:*:*,Cypress Wireless Internet Connectivity for Embedded Devices (WICED),"['CVE-2021-34145', 'CVE-2021-34147', 'CVE-2021-34148']",2022-03-20T09:47Z
+8,cpe:2.3:o:cypress:wireless_internet_connectivity_for_embedded_devices:2.9.0:*:*:*:*:*:*:*,Cypress Wireless Internet Connectivity for Embedded Devices (WICED) 2.9.0,"['CVE-2021-34145', 'CVE-2021-34147', 'CVE-2021-34148']",2022-03-20T09:47Z
+9,cpe:2.3:a:cypserver_project:cypserver:1.0.0:*:*:*:*:node.js:*:*,cypserver Project cypserver 1.0.0 for Node.js,['CVE-2017-16191'],2022-03-20T09:48Z

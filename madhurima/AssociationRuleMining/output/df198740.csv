@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dulwich_project:dulwich:0.19.15:*:*:*:*:*:*:*,Dulwich Project Dulwich 0.19.15,[''],2022-03-20T18:46Z
+1,cpe:2.3:a:dundas:dundas_bi:5.0.1.1010:*:*:*:*:*:*:*,Dundas BI 5.0.1.1010,"['CVE-2018-18569', 'CVE-2020-28408', 'CVE-2020-28409']",2022-03-20T18:46Z
+2,cpe:2.3:a:dundas:dundas_bi:8.0.0.1001:*:*:*:*:*:*:*,Dundas Dundas BI 8.0.0.1001,"['CVE-2020-28408', 'CVE-2020-28409']",2022-03-20T18:46Z
+3,cpe:2.3:a:dundas:dundas_chart_asp.net:3.5.0.1590:*:*:*:enterprise:*:*:*,Dundas Chart Asp.net Enterprise 3.5.0.1590,[''],2022-03-20T18:46Z
+4,cpe:2.3:a:dungeon_crawl_stone_soup_project:dungeon_crawl_stone_soup:0.1:beta1:*:*:*:*:*:*,Dungeon Crawl Stone Soup Project Dungeon Crawl Stone Soup 0.1 Beta 1,['CVE-2020-11722'],2022-03-20T18:46Z
+5,cpe:2.3:a:dungeon_crawl_stone_soup_project:dungeon_crawl_stone_soup:0.1.1:*:*:*:*:*:*:*,Dungeon Crawl Stone Soup Project Dungeon Crawl Stone Soup 0.1.1,['CVE-2020-11722'],2022-03-20T18:46Z
+6,cpe:2.3:a:dungeon_crawl_stone_soup_project:dungeon_crawl_stone_soup:0.1.2:*:*:*:*:*:*:*,Dungeon Crawl Stone Soup Project Dungeon Crawl Stone Soup 0.1.2,['CVE-2020-11722'],2022-03-20T18:46Z
+7,cpe:2.3:a:dungeon_crawl_stone_soup_project:dungeon_crawl_stone_soup:0.1.3:*:*:*:*:*:*:*,Dungeon Crawl Stone Soup Project Dungeon Crawl Stone Soup 0.1.3,['CVE-2020-11722'],2022-03-20T18:46Z
+8,cpe:2.3:a:dungeon_crawl_stone_soup_project:dungeon_crawl_stone_soup:0.1.4:*:*:*:*:*:*:*,Dungeon Crawl Stone Soup Project Dungeon Crawl Stone Soup 0.1.4,['CVE-2020-11722'],2022-03-20T18:46Z
+9,cpe:2.3:a:dungeon_crawl_stone_soup_project:dungeon_crawl_stone_soup:0.1.5:*:*:*:*:*:*:*,Dungeon Crawl Stone Soup Project Dungeon Crawl Stone Soup 0.1.5,['CVE-2020-11722'],2022-03-20T18:46Z

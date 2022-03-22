@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:doctrine-project:doctrinemongodbbundle:4.0.1:*:*:*:*:*:*:*,Doctrine Project DoctrineMongoDBBundle 4.0.1,[''],2022-03-20T16:45Z
+1,cpe:2.3:a:doctrine-project:doctrinemongodbbundle:4.1.0:*:*:*:*:*:*:*,Doctrine Project DoctrineMongoDBBundle 4.1.0,[''],2022-03-20T16:45Z
+2,cpe:2.3:a:doctrine-project:doctrinemongodbbundle:4.1.1:*:*:*:*:*:*:*,Doctrine Project DoctrineMongoDBBundle 4.1.1,[''],2022-03-20T16:45Z
+3,cpe:2.3:a:doctrine-project:doctrinemongodbbundle:4.2.0:*:*:*:*:*:*:*,Doctrine Project DoctrineMongoDBBundle 4.2.0,[''],2022-03-20T16:45Z
+4,cpe:2.3:a:doctrine-project:doctrinemongodbbundle:4.2.1:*:*:*:*:*:*:*,Doctrine Project DoctrineMongoDBBundle 4.2.1,[''],2022-03-20T16:45Z
+5,cpe:2.3:a:doctrine-project:mongodb_object_document_mapper:1.0.0:-:*:*:*:*:*:*,Doctrine Project MongoDB Object Document Mapper (ODM) 1.0.0,[''],2022-03-20T16:45Z
+6,cpe:2.3:a:doctrine-project:mongodb_object_document_mapper:1.0.0:alpha1:*:*:*:*:*:*,Doctrine Project MongoDB Object Document Mapper (ODM) 1.0.0 Alpha 1,[''],2022-03-20T16:45Z
+7,cpe:2.3:a:doctrine-project:mongodb_object_document_mapper:1.0.0:alpha2:*:*:*:*:*:*,Doctrine Project MongoDB Object Document Mapper (ODM) 1.0.0 Alpha 2,[''],2022-03-20T16:45Z
+8,cpe:2.3:a:doctrine-project:mongodb_object_document_mapper:1.0.0:beta1:*:*:*:*:*:*,Doctrine Project MongoDB Object Document Mapper (ODM) 1.0.0 Beta 1,[''],2022-03-20T16:45Z
+9,cpe:2.3:a:doctrine-project:mongodb_object_document_mapper:1.0.0:beta10:*:*:*:*:*:*,Doctrine Project MongoDB Object Document Mapper (ODM) 1.0.0 Beta 10,[''],2022-03-20T16:46Z

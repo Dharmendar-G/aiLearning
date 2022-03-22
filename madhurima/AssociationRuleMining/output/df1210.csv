@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,cpe:2.3:a:1cdn_project:1cdn:-:*:*:*:*:*:*:*,1CDN Project 1CDN,['CVE-2021-32616'],2022-03-18T09:43Z
+5,cpe:2.3:a:1cdn_project:1cdn:2021-05-16:*:*:*:*:*:*:*,1CDN Project 1CDN 2021-05-16,[''],2022-03-18T09:43Z
+6,cpe:2.3:a:1crm:1crm:8.5.7:*:*:*:*:*:*:*,1CRM 1CRM 8.5.7,['CVE-2020-15958'],2022-03-18T09:43Z
+7,cpe:2.3:a:1crm:1crm:8.6.7:*:*:*:*:*:*:*,1CRM 1CRM 8.6.7,['CVE-2020-15958'],2022-03-18T09:43Z
+8,cpe:2.3:a:1crm:1crm_on-premise:-:*:*:*:*:*:*:*,1CRM On-Premise,['CVE-2019-14221'],2022-03-18T09:43Z
+9,cpe:2.3:a:1crm:1crm_on-premise:8.5.7:*:*:*:*:*:*:*,1CRM On-Premise 8.5.7,['CVE-2019-14221'],2022-03-18T09:43Z

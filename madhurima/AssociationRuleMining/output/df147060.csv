@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:routing-release:0.159.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.159.0,"['CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:38Z
+1,cpe:2.3:a:cloudfoundry:routing-release:0.160.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.160.0,"['CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:38Z
+2,cpe:2.3:a:cloudfoundry:routing-release:0.161.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.161.0,"['CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:38Z
+3,cpe:2.3:a:cloudfoundry:routing-release:0.162.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.162.0,"['CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:38Z
+4,cpe:2.3:a:cloudfoundry:routing-release:0.163.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.163.0,"['CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:38Z
+5,cpe:2.3:a:cloudfoundry:routing-release:0.164.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.164.0,"['CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:38Z
+6,cpe:2.3:a:cloudfoundry:routing-release:0.165.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.165.0,"['CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:38Z
+7,cpe:2.3:a:cloudfoundry:routing-release:0.166.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.166.0,"['CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:38Z
+8,cpe:2.3:a:cloudfoundry:routing-release:0.167.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.167.0,"['CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:38Z
+9,cpe:2.3:a:cloudfoundry:routing-release:0.168.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.168.0,"['CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:38Z

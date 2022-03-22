@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m681_firmware:2407081_000578:*:*:*:*:*:*:*,HP Color Laserjet Enterprise Flow Mfp M681 Firmware 2407081 000578,[''],2022-03-21T13:02Z
+1,cpe:2.3:h:hp:color_laserjet_enterprise_flow_mfp_m681f:-:*:*:*:*:*:*:*,HP Color Laserjet Enterprise Flow MFP M681F,['CVE-2018-5923'],2022-03-21T13:02Z
+2,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m681f_firmware:-:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise Flow Mfp M681f Firmware -,['CVE-2018-5923'],2022-03-21T13:02Z
+3,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m681f_firmware:2406087_000017:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise Flow Mfp M681f Firmware 2406087 000017,[''],2022-03-21T13:02Z
+4,cpe:2.3:h:hp:color_laserjet_enterprise_flow_mfp_m681z:-:*:*:*:*:*:*:*,HP Color Laserjet Enterprise Flow MFP M681Z,['CVE-2018-5923'],2022-03-21T13:02Z
+5,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m681z_firmware:-:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise Flow Mfp M681z Firmware -,['CVE-2018-5923'],2022-03-21T13:02Z
+6,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m681z_firmware:2406087_000017:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise Flow Mfp M681z Firmware 2406087 000017,[''],2022-03-21T13:02Z
+7,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m682_firmware:-:*:*:*:*:*:*:*,HP Color Laserjet Enterprise Flow Mfp M682 Firmware -,['CVE-2019-6318'],2022-03-21T13:02Z
+8,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m682_firmware:2407081_000578:*:*:*:*:*:*:*,HP Color Laserjet Enterprise Flow Mfp M682 Firmware 2407081 000578,[''],2022-03-21T13:02Z
+9,cpe:2.3:h:hp:color_laserjet_enterprise_flow_mfp_m682z:-:*:*:*:*:*:*:*,HP Color Laserjet Enterprise Flow MFP M682Z,['CVE-2018-5923'],2022-03-21T13:02Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:druid:0.6.113:*:*:*:*:*:*:*,Apache Software Foundation Druid 0.6.113,"['CVE-2021-25646', 'CVE-2021-26919', 'CVE-2021-26920', 'CVE-2021-36749']",2022-03-18T18:16Z
+1,cpe:2.3:a:apache:druid:0.6.114:*:*:*:*:*:*:*,Apache Software Foundation Druid 0.6.114,"['CVE-2021-25646', 'CVE-2021-26919', 'CVE-2021-26920', 'CVE-2021-36749']",2022-03-18T18:16Z
+2,cpe:2.3:a:apache:druid:0.6.115:*:*:*:*:*:*:*,Apache Software Foundation Druid 0.6.115,"['CVE-2021-25646', 'CVE-2021-26919', 'CVE-2021-26920', 'CVE-2021-36749']",2022-03-18T18:16Z
+3,cpe:2.3:a:apache:druid:0.6.116:*:*:*:*:*:*:*,Apache Software Foundation Druid 0.6.116,"['CVE-2021-25646', 'CVE-2021-26919', 'CVE-2021-26920', 'CVE-2021-36749']",2022-03-18T18:16Z
+4,cpe:2.3:a:apache:druid:0.6.117:*:*:*:*:*:*:*,Apache Software Foundation Druid 0.6.117,"['CVE-2021-25646', 'CVE-2021-26919', 'CVE-2021-26920', 'CVE-2021-36749']",2022-03-18T18:16Z
+5,cpe:2.3:a:apache:druid:0.6.118:*:*:*:*:*:*:*,Apache Software Foundation Druid 0.6.118,"['CVE-2021-25646', 'CVE-2021-26919', 'CVE-2021-26920', 'CVE-2021-36749']",2022-03-18T18:17Z
+6,cpe:2.3:a:apache:druid:0.6.119:*:*:*:*:*:*:*,Apache Software Foundation Druid 0.6.119,"['CVE-2021-25646', 'CVE-2021-26919', 'CVE-2021-26920', 'CVE-2021-36749']",2022-03-18T18:17Z
+7,cpe:2.3:a:apache:druid:0.6.120:*:*:*:*:*:*:*,Apache Software Foundation Druid 0.6.120,"['CVE-2021-25646', 'CVE-2021-26919', 'CVE-2021-26920', 'CVE-2021-36749']",2022-03-18T18:17Z
+8,cpe:2.3:a:apache:druid:0.6.121:*:*:*:*:*:*:*,Apache Software Foundation Druid 0.6.121,"['CVE-2021-25646', 'CVE-2021-26919', 'CVE-2021-26920', 'CVE-2021-36749']",2022-03-18T18:17Z
+9,cpe:2.3:a:apache:druid:0.6.121.1:*:*:*:*:*:*:*,Apache Software Foundation Druid 0.6.121.1,"['CVE-2021-25646', 'CVE-2021-26919', 'CVE-2021-26920', 'CVE-2021-36749']",2022-03-18T18:17Z

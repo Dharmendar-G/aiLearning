@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:videoscape_distribution_suite_for_television:3.2\(7\):*:*:*:*:*:*:*,Cisco Videoscape Distribution Suite for Television 3.2(7),['CVE-2017-6745'],2022-03-20T01:03Z
+1,cpe:2.3:a:cisco:videoscape_distribution_suite_for_television:3.3\(1\):*:*:*:*:*:*:*,Cisco Videoscape Distribution Suite for Television 3.3(1),['CVE-2017-6745'],2022-03-20T01:03Z
+2,cpe:2.3:a:cisco:videoscape_distribution_suite_for_television:3.4\(1\):*:*:*:*:*:*:*,Cisco Videoscape Distribution Suite for Television 3.4(1),['CVE-2017-6745'],2022-03-20T01:03Z
+3,cpe:2.3:a:cisco:videoscape_distribution_suite_for_television:3.4\(2\):*:*:*:*:*:*:*,Cisco Videoscape Distribution Suite for Television 3.4(2),['CVE-2017-6745'],2022-03-20T01:03Z
+4,cpe:2.3:a:cisco:videoscape_distribution_suite_for_television:3.5\(1\):*:*:*:*:*:*:*,Cisco Videoscape Distribution Suite for Television 3.5(1),['CVE-2017-6745'],2022-03-20T01:03Z
+5,cpe:2.3:a:cisco:videoscape_distribution_suite_for_television:3.5\(1\)-cos:*:*:*:*:*:*:*,Cisco Videoscape Distribution Suite for Television 3.5(1)-cos,['CVE-2017-6745'],2022-03-20T01:03Z
+6,cpe:2.3:a:cisco:videoscape_distribution_suite_for_television:3.6\(1\):*:*:*:*:*:*:*,Cisco Videoscape Distribution Suite for Television 3.6(1),['CVE-2017-6745'],2022-03-20T01:03Z
+7,cpe:2.3:a:cisco:videoscape_distribution_suite_for_television:3.8\(1\):*:*:*:*:*:*:*,Cisco Videoscape Distribution Suite for Television 3.8(1),['CVE-2017-6745'],2022-03-20T01:03Z
+8,cpe:2.3:a:cisco:videoscape_distribution_suite_for_television:3.9\(1\):*:*:*:*:*:*:*,Cisco Videoscape Distribution Suite for Television 3.9(1),['CVE-2017-6745'],2022-03-20T01:03Z
+9,cpe:2.3:a:cisco:videoscape_distribution_suite_for_television:4.1\(2\):*:*:*:*:*:*:*,Cisco Videoscape Distribution Suite for Television 4.1(2),['CVE-2017-6745'],2022-03-20T01:03Z

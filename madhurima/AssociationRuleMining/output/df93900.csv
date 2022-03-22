@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:brother:mfl-pro_suite:1.0.0:*:*:*:*:*:*:*,Brother Mfl-pro Suite 1.0.0,[''],2022-03-19T12:38Z
+1,cpe:2.3:a:brother:mfl-pro_suite:1.1.8.0:*:*:*:*:*:*:*,Brother Mfl-pro Suite 1.1.8.0,[''],2022-03-19T12:38Z
+2,cpe:2.3:h:brother:nc-3100h:-:*:*:*:*:*:*:*,Brother NC-3100h,['CVE-2002-1055'],2022-03-19T12:38Z
+3,cpe:2.3:a:brother:p-touch_editor:3.1:*:*:*:*:*:*:*,Brother P-touch Editor 3.1,[''],2022-03-19T12:38Z
+4,cpe:2.3:a:brother:p-touch_editor:3.2:*:*:*:*:*:*:*,Brother P-touch Editor 3.2,[''],2022-03-19T12:38Z
+5,cpe:2.3:o:brother_industries:mfc-j960dwn_firmware:d:*:*:*:*:*:*:*,Brother Industries MFC-J960DWN Firmware D,[''],2022-03-19T12:38Z
+6,cpe:2.3:a:brotherscripts:business_directory:-:*:*:*:*:*:*:*,BrotherScripts (BS) Business Directory,['CVE-2010-4969'],2022-03-19T12:38Z
+7,cpe:2.3:a:browserid_project:browserid:7.x-1.0:*:*:*:*:drupal:*:*,Browserid Project Browserid 7.x-1.0 for Drupal,['CVE-2012-2714'],2022-03-19T12:38Z
+8,cpe:2.3:a:browserid_project:browserid:7.x-1.0:*:*:*:*:drupal:*:*,Browserid Project Browserid 7.x-1.0 for Drupal,['CVE-2012-2714'],2022-03-19T12:39Z
+9,cpe:2.3:a:browserid_project:browserid:7.x-1.1:*:*:*:*:drupal:*:*,Browserid Project Browserid 7.x-1.1 for Drupal,"['CVE-2012-2713', 'CVE-2012-2714']",2022-03-19T12:38Z

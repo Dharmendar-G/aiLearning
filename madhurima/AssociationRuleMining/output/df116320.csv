@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:b460_m4:-:*:*:*:*:*:*:*,Cisco B460 M4,['CVE-2014-7989'],2022-03-19T18:45Z
+1,cpe:2.3:a:cisco:backup_and_restore_system:4.0.14000:*:*:*:*:*:*:*,Cisco Backup And Restore System 4.0.14000,[''],2022-03-19T18:46Z
+2,cpe:2.3:a:cisco:bams:-:*:*:*:*:*:*:*,Cisco BAMS,['CVE-2002-2037'],2022-03-19T18:46Z
+3,cpe:2.3:h:cisco:bpx_switch:-:*:*:*:*:*:*:*,Cisco BPX Switch,[''],2022-03-19T18:46Z
+4,cpe:2.3:h:cisco:br:-:*:*:*:*:*:*:*,Cisco BR,[''],2022-03-19T18:46Z
+5,cpe:2.3:a:cisco:broadband_access_center_telco_wireless_software:-:*:*:*:*:*:*:*,Cisco Broadband Access Center Telco Wireless Software,"['CVE-2014-2190', 'CVE-2014-2191']",2022-03-19T18:46Z
+6,cpe:2.3:a:cisco:broadband_access_center_telco_wireless_software:3.8.0.1:*:*:*:*:*:*:*,Cisco Broadband Access Center Telco Wireless Software 3.8.0.1,[''],2022-03-19T18:46Z
+7,cpe:2.3:o:cisco:broadband_operating_system:-:*:*:*:*:*:*:*,Cisco Cisco Broadband Operating System,"['CVE-2001-0055', 'CVE-2001-0056', 'CVE-2001-0057', 'CVE-2001-0058']",2022-03-19T18:46Z
+8,cpe:2.3:o:cisco:broadband_operating_system:2.3.8:*:*:*:*:*:*:*,Cisco Cisco Broadband Operating System 2.3.8,"['CVE-2001-0055', 'CVE-2001-0056', 'CVE-2001-0057', 'CVE-2001-0058']",2022-03-19T18:46Z
+9,cpe:2.3:o:cisco:broadband_operating_system:2.4.1:*:*:*:*:*:*:*,Cisco Cisco Broadband Operating System 2.4.1,"['CVE-2001-0056', 'CVE-2001-0057', 'CVE-2001-0058']",2022-03-19T18:46Z

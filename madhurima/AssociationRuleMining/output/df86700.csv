@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bplugins:polo_video_gallery:1.0:*:*:*:*:wordpress:*:*,bPlugins Polo Video Gallery 1.0 for Wordpress,['CVE-2021-24415'],2022-03-19T10:22Z
+1,cpe:2.3:a:bplugins:polo_video_gallery:1.1:*:*:*:*:wordpress:*:*,bPlugins Polo Video Gallery 1.1 for Wordpress,['CVE-2021-24415'],2022-03-19T10:22Z
+2,cpe:2.3:a:bplugins:polo_video_gallery:1.2:*:*:*:*:wordpress:*:*,bPlugins Polo Video Gallery 1.2 for Wordpress,['CVE-2021-24415'],2022-03-19T10:22Z
+3,cpe:2.3:a:bplugins:streamcast_radio_player:-:*:*:*:*:wordpress:*:*,bPlugins StreamCast Radio Player for Wordpress,['CVE-2021-24416'],2022-03-19T10:22Z
+4,cpe:2.3:a:bplugins:streamcast_radio_player:1.0:*:*:*:*:wordpress:*:*,bPlugins StreamCast Radio Player 1.0 for Wordpress,['CVE-2021-24416'],2022-03-19T10:22Z
+5,cpe:2.3:a:bplugins:streamcast_radio_player:1.1:*:*:*:*:wordpress:*:*,bPlugins StreamCast Radio Player 1.1 for Wordpress,['CVE-2021-24416'],2022-03-19T10:22Z
+6,cpe:2.3:a:bplugins:streamcast_radio_player:2.0.0:*:*:*:*:wordpress:*:*,bPlugins StreamCast Radio Player 2.0.0 for Wordpress,['CVE-2021-24416'],2022-03-19T10:22Z
+7,cpe:2.3:a:bplugins:streamcast_radio_player:2.1.1:*:*:*:*:wordpress:*:*,bPlugins StreamCast Radio Player 2.1.1 for Wordpress,[''],2022-03-19T10:22Z
+8,cpe:2.3:a:bpstoken_project:bpstoken:-:*:*:*:*:*:*:*,BpsToken Project BpsToken,['CVE-2018-13715'],2022-03-19T10:22Z
+9,cpe:2.3:a:bpurcell:keytool_gui:1.7:*:*:*:*:*:*:*,Bpurcell Keytool Gui 1.7,[''],2022-03-19T10:22Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:h:asuswrt-merlin_project:rt-n12d1:-:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-N12D1,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420']",2022-03-19T00:01Z
+2,cpe:2.3:o:asuswrt-merlin_project:rt-n12d1_firmware:3.0.0.4.380.7378:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-N12D1 Firmware 3.0.0.4.380.7378,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420']",2022-03-19T00:01Z
+3,cpe:2.3:h:asuswrt-merlin_project:rt-n12hp:-:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-N12HP,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420']",2022-03-19T00:01Z
+4,cpe:2.3:h:asuswrt-merlin_project:rt-n12hp_b1:-:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-N12HP B1,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420']",2022-03-19T00:01Z
+5,cpe:2.3:o:asuswrt-merlin_project:rt-n12hp_b1_firmware:3.0.0.4.380.3479:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-N12HP B1 Firmware 3.0.0.4.380.3479,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420']",2022-03-19T00:01Z
+6,cpe:2.3:o:asuswrt-merlin_project:rt-n12hp_firmware:3.0.0.4.380.2943:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-N12HP Firmware 3.0.0.4.380.2943,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420']",2022-03-19T00:01Z
+7,cpe:2.3:h:asuswrt-merlin_project:rt-n16:-:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-N16,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420']",2022-03-19T00:01Z
+8,cpe:2.3:o:asuswrt-merlin_project:rt-n16_firmware:3.0.0.4.380.7378:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-N16 Firmware 3.0.0.4.380.7378,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420']",2022-03-19T00:01Z
+9,cpe:2.3:h:asuswrt-merlin_project:rt-n18u:-:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-N18U,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420']",2022-03-19T00:01Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitnami:containers:6.18.35-debian-10-r58:*:*:*:*:laravel:*:*,Bitnami Containers 6.18.35-debian-10-r58 for Laravel,['CVE-2021-21979'],2022-03-19T08:14Z
+1,cpe:2.3:a:bitnami:containers:6.18.35-debian-10-r59:*:*:*:*:laravel:*:*,Bitnami Containers 6.18.35-debian-10-r59 for Laravel,['CVE-2021-21979'],2022-03-19T08:14Z
+2,cpe:2.3:a:bitnami:containers:6.18.35-debian-10-r60:*:*:*:*:laravel:*:*,Bitnami Containers 6.18.35-debian-10-r60 for Laravel,['CVE-2021-21979'],2022-03-19T08:14Z
+3,cpe:2.3:a:bitnami:containers:6.18.35-debian-10-r61:*:*:*:*:laravel:*:*,Bitnami Containers 6.18.35-debian-10-r61 for Laravel,['CVE-2021-21979'],2022-03-19T08:14Z
+4,cpe:2.3:a:bitnami:containers:6.18.35-debian-10-r62:*:*:*:*:laravel:*:*,Bitnami Containers 6.18.35-debian-10-r62 for Laravel,['CVE-2021-21979'],2022-03-19T08:14Z
+5,cpe:2.3:a:bitnami:containers:6.18.35-debian-10-r63:*:*:*:*:laravel:*:*,Bitnami Containers 6.18.35-debian-10-r63 for Laravel,['CVE-2021-21979'],2022-03-19T08:14Z
+6,cpe:2.3:a:bitnami:containers:6.18.35-debian-10-r64:*:*:*:*:laravel:*:*,Bitnami Containers 6.18.35-debian-10-r64 for Laravel,['CVE-2021-21979'],2022-03-19T08:14Z
+7,cpe:2.3:a:bitnami:containers:6.18.35-debian-10-r65:*:*:*:*:laravel:*:*,Bitnami Containers 6.18.35-debian-10-r65 for Laravel,['CVE-2021-21979'],2022-03-19T08:14Z
+8,cpe:2.3:a:bitnami:containers:6.18.35-debian-10-r66:*:*:*:*:laravel:*:*,Bitnami Containers 6.18.35-debian-10-r66 for Laravel,['CVE-2021-21979'],2022-03-19T08:14Z
+9,cpe:2.3:a:bitnami:containers:6.19.0-debian-10-r0:*:*:*:*:laravel:*:*,Bitnami Containers 6.19.0-debian-10-r0 for Laravel,['CVE-2021-21979'],2022-03-19T08:14Z

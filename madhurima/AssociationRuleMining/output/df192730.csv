@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:doctrine-project:object_relational_mapper:2.0.2:*:*:*:*:*:*:*,Doctrine Project Object Relational Mapper 2.0.2,['CVE-2015-5723'],2022-03-20T16:47Z
+1,cpe:2.3:a:doctrine-project:object_relational_mapper:2.0.3:*:*:*:*:*:*:*,Doctrine Project Object Relational Mapper 2.0.3,['CVE-2015-5723'],2022-03-20T16:47Z
+2,cpe:2.3:a:doctrine-project:object_relational_mapper:2.0.4:*:*:*:*:*:*:*,Doctrine Project Object Relational Mapper 2.0.4,['CVE-2015-5723'],2022-03-20T16:47Z
+3,cpe:2.3:a:doctrine-project:object_relational_mapper:2.0.5:*:*:*:*:*:*:*,Doctrine Project Object Relational Mapper 2.0.5,['CVE-2015-5723'],2022-03-20T16:47Z
+4,cpe:2.3:a:doctrine-project:object_relational_mapper:2.0.6:*:*:*:*:*:*:*,Doctrine Project Object Relational Mapper 2.0.6,['CVE-2015-5723'],2022-03-20T16:47Z
+5,cpe:2.3:a:doctrine-project:object_relational_mapper:2.0.7:*:*:*:*:*:*:*,Doctrine Project Object Relational Mapper 2.0.7,['CVE-2015-5723'],2022-03-20T16:47Z
+6,cpe:2.3:a:doctrine-project:object_relational_mapper:2.1.0:-:*:*:*:*:*:*,Doctrine Project Object Relational Mapper 2.1.0,['CVE-2015-5723'],2022-03-20T16:47Z
+7,cpe:2.3:a:doctrine-project:object_relational_mapper:2.1.0:beta1:*:*:*:*:*:*,Doctrine Project Object Relational Mapper 2.1.0 Beta 1,['CVE-2015-5723'],2022-03-20T16:47Z
+8,cpe:2.3:a:doctrine-project:object_relational_mapper:2.1.0:rc1:*:*:*:*:*:*,Doctrine Project Object Relational Mapper 2.1.0 Release Candidate 1,['CVE-2015-5723'],2022-03-20T16:47Z
+9,cpe:2.3:a:doctrine-project:object_relational_mapper:2.1.0:rc2:*:*:*:*:*:*,Doctrine Project Object Relational Mapper 2.1.0 Release Candidate 2,['CVE-2015-5723'],2022-03-20T16:47Z

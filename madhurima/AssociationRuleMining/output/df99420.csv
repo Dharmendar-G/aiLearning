@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:caddyserver:caddy:0.10.4:*:*:*:*:*:*:*,Caddyserver Caddy 0.10.4,['CVE-2018-19148'],2022-03-19T14:33Z
+1,cpe:2.3:a:caddyserver:caddy:0.10.5:*:*:*:*:*:*:*,Caddyserver Caddy 0.10.5,['CVE-2018-19148'],2022-03-19T14:33Z
+2,cpe:2.3:a:caddyserver:caddy:0.10.6:*:*:*:*:*:*:*,Caddyserver Caddy 0.10.6,['CVE-2018-19148'],2022-03-19T14:33Z
+3,cpe:2.3:a:caddyserver:caddy:0.10.7:*:*:*:*:*:*:*,Caddyserver Caddy 0.10.7,['CVE-2018-19148'],2022-03-19T14:33Z
+4,cpe:2.3:a:caddyserver:caddy:0.10.8:*:*:*:*:*:*:*,Caddyserver Caddy 0.10.8,['CVE-2018-19148'],2022-03-19T14:33Z
+5,cpe:2.3:a:caddyserver:caddy:0.10.9:*:*:*:*:*:*:*,Caddyserver Caddy 0.10.9,['CVE-2018-19148'],2022-03-19T14:33Z
+6,cpe:2.3:a:caddyserver:caddy:0.10.10:*:*:*:*:*:*:*,Caddyserver Caddy 0.10.10,['CVE-2018-19148'],2022-03-19T14:33Z
+7,cpe:2.3:a:caddyserver:caddy:0.10.11:*:*:*:*:*:*:*,Caddyserver Caddy 0.10.11,['CVE-2018-19148'],2022-03-19T14:33Z
+8,cpe:2.3:a:caddyserver:caddy:0.10.12:*:*:*:*:*:*:*,Caddyserver Caddy 0.10.12,['CVE-2018-19148'],2022-03-19T14:33Z
+9,cpe:2.3:a:caddyserver:caddy:0.10.13:*:*:*:*:*:*:*,Caddyserver Caddy 0.10.13,['CVE-2018-19148'],2022-03-19T14:33Z

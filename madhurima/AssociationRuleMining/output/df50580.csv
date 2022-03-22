@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:asus:zenfone_3_laser_firmware:-:*:*:*:*:*:*:*,Asus ZenFone 3 Laser Firmware,['CVE-2019-15411'],2022-03-18T23:58Z
+1,cpe:2.3:h:asus:zenfone_3_max:-:*:*:*:*:*:*:*,ASUS Zenfone 3 Max,"['CVE-2018-14979', 'CVE-2018-14980', 'CVE-2018-14992', 'CVE-2018-14993']",2022-03-18T23:58Z
+2,cpe:2.3:o:asus:zenfone_3_max_firmware:-:*:*:*:*:*:*:*,Asus Zenfone 3 Max Firmware -,"['CVE-2018-14980', 'CVE-2018-14993']",2022-03-18T23:58Z
+3,cpe:2.3:o:asus:zenfone_3_max_firmware:1.5.0.40:*:*:*:*:*:*:*,ASUS Zenfone 3 Max Firmware 1.5.0.40,['CVE-2018-14992'],2022-03-18T23:58Z
+4,cpe:2.3:o:asus:zenfone_3_max_firmware:7.0.0.55:*:*:*:*:*:*:*,ASUSZenfone 3 Max Firmware 7.0.0.55,['CVE-2018-14979'],2022-03-18T23:58Z
+5,cpe:2.3:h:asus:zenfone_3_ultra:-:*:*:*:*:*:*:*,Asus ZenFone 3 Ultra,"['CVE-2019-15400', 'CVE-2019-15413']",2022-03-18T23:58Z
+6,cpe:2.3:o:asus:zenfone_3_ultra_firmware:-:*:*:*:*:*:*:*,Asus ZeFone 3 Ultra Firmware,"['CVE-2019-15400', 'CVE-2019-15413']",2022-03-18T23:58Z
+7,cpe:2.3:h:asus:zenfone_3s_max:-:*:*:*:*:*:*:*,Asus ZenFone 3S Max,"['CVE-2019-15395', 'CVE-2019-15403']",2022-03-18T23:58Z
+8,cpe:2.3:o:asus:zenfone_3s_max_firmware:-:*:*:*:*:*:*:*,Asus ZenFone 3S Max Firmware,"['CVE-2019-15395', 'CVE-2019-15403']",2022-03-18T23:58Z
+9,cpe:2.3:h:asus:zenfone_4_max:-:*:*:*:*:*:*:*,Asus ZenFone 4 Max,"['CVE-2019-15404', 'CVE-2019-15407']",2022-03-18T23:58Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:devsaran:company:7.x-1.2:*:*:*:*:*:*:*,Devsaran Company theme module for Drupal 7.x-1.2,['CVE-2013-1786'],2022-03-20T13:52Z
+1,cpe:2.3:a:devsaran:company:7.x-1.3:*:*:*:*:*:*:*,Devsaran Company theme module for Drupal 7.x-1.3,['CVE-2013-1786'],2022-03-20T13:52Z
+2,cpe:2.3:a:devsaran:corporate:7.x-1.0:*:*:*:*:*:*:*,Devsaran Simple Corporate theme module for Drupal 7.x-1.0,['CVE-2013-1787'],2022-03-20T13:52Z
+3,cpe:2.3:a:devsaran:corporate:7.x-1.1:*:*:*:*:*:*:*,Devsaran Simple Corporate theme module for Drupal 7.x-1.1,['CVE-2013-1787'],2022-03-20T13:52Z
+4,cpe:2.3:a:devsaran:corporate:7.x-1.2:*:*:*:*:*:*:*,Devsaran Simple Corporate theme module for Drupal 7.x-1.2,['CVE-2013-1787'],2022-03-20T13:52Z
+5,cpe:2.3:a:devsaran:corporate:7.x-1.3:*:*:*:*:*:*:*,Devsaran Simple Corporate theme module for Drupal 7.x-1.3,['CVE-2013-1787'],2022-03-20T13:52Z
+6,cpe:2.3:a:devsaran:creative:7.x-1.0:*:*:*:*:*:*:*,devsaran Creative Theme module for Drupal 7.x-1.0,['CVE-2013-1778'],2022-03-20T13:52Z
+7,cpe:2.3:a:devsaran:creative:7.x-1.1:*:*:*:*:*:*:*,devsaran Creative Theme module for Drupal 7.x-1.1,['CVE-2013-1778'],2022-03-20T13:52Z
+8,cpe:2.3:a:devsaran:fresh:7.x-1.0:*:*:*:*:*:*:*,devsaran Fresh theme module for Drupal 7.x-1.0,['CVE-2013-1779'],2022-03-20T13:52Z
+9,cpe:2.3:a:devsaran:fresh:7.x-1.1:*:*:*:*:*:*:*,devsaran Fresh theme module for Drupal 7.x-1.1,['CVE-2013-1779'],2022-03-20T13:52Z

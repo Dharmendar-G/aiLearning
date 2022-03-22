@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:latitude_7380_firmware:1.15.1:*:*:*:*:*:*:*,Dell Latitude 7380 Firmware 1.15.1,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:51Z
+1,cpe:2.3:o:dell:latitude_7380_firmware:1.21.1:*:*:*:*:*:*:*,Dell Latitude 7380 Firmware 1.21.1,"['CVE-2021-21522', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:52Z
+2,cpe:2.3:h:dell:latitude_7389:-:*:*:*:*:*:*:*,Dell Latitude 7389,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-21522', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:52Z
+3,cpe:2.3:o:dell:latitude_7389_firmware:-:*:*:*:*:*:*:*,Dell Latitude 7389 Firmware,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-21522', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:52Z
+4,cpe:2.3:o:dell:latitude_7389_firmware:1.17.1:*:*:*:*:*:*:*,Dell Latitude 7389 Firmware 1.17.1,"['CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-21522', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:52Z
+5,cpe:2.3:o:dell:latitude_7389_firmware:1.18.1:*:*:*:*:*:*:*,Dell Latitude 7389 Firmware 1.18.1,"['CVE-2020-5362', 'CVE-2021-21522', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:52Z
+6,cpe:2.3:h:dell:latitude_7390:-:*:*:*:*:*:*:*,Dell Latitude 7390,"['CVE-2019-3717', 'CVE-2020-5324', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-21522', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:52Z
+7,cpe:2.3:h:dell:latitude_7390_2-in-1:-:*:*:*:*:*:*:*,Dell Latitude 7390 2-in-1,"['CVE-2019-3717', 'CVE-2020-5362', 'CVE-2021-21522']",2022-03-20T12:52Z
+8,cpe:2.3:o:dell:latitude_7390_2-in-1_firmware:-:*:*:*:*:*:*:*,Dell Latitude 7390 2-in-1 Firmware,"['CVE-2019-3717', 'CVE-2020-5362', 'CVE-2021-21522']",2022-03-20T12:52Z
+9,cpe:2.3:o:dell:latitude_7390_2-in-1_firmware:1.8.3:*:*:*:*:*:*:*,Dell Latitude 7390 2-in-1 Firmware 1.8.3,"['CVE-2020-5362', 'CVE-2021-21522']",2022-03-20T12:52Z

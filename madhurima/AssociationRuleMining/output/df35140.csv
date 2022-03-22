@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:poi:3.5:beta3:*:*:*:*:*:*,Apache Software Foundation  POI 3.5 beta3,"['CVE-2012-0213', 'CVE-2014-3529', 'CVE-2014-3574', 'CVE-2014-9527', 'CVE-2016-5000', 'CVE-2017-12626', 'CVE-2017-5644', 'CVE-2019-12415']",2022-03-18T19:49Z
+1,cpe:2.3:a:apache:poi:3.5:beta4:*:*:*:*:*:*,Apache Software Foundation  POI 3.5 beta4,"['CVE-2012-0213', 'CVE-2014-3529', 'CVE-2014-3574', 'CVE-2016-5000', 'CVE-2017-12626', 'CVE-2017-5644', 'CVE-2019-12415']",2022-03-18T19:49Z
+2,cpe:2.3:a:apache:poi:3.5:beta5:*:*:*:*:*:*,Apache Software Foundation  POI 3.5 beta5,"['CVE-2012-0213', 'CVE-2014-3529', 'CVE-2014-3574', 'CVE-2016-5000', 'CVE-2017-12626', 'CVE-2017-5644', 'CVE-2019-12415']",2022-03-18T19:49Z
+3,cpe:2.3:a:apache:poi:3.5:beta6:*:*:*:*:*:*,Apache Software Foundation  POI 3.5 beta6,"['CVE-2012-0213', 'CVE-2014-3529', 'CVE-2014-3574', 'CVE-2016-5000', 'CVE-2017-12626', 'CVE-2017-5644', 'CVE-2019-12415']",2022-03-18T19:49Z
+4,cpe:2.3:a:apache:poi:3.6:*:*:*:*:*:*:*,Apache Software Foundation  POI 3.6,"['CVE-2012-0213', 'CVE-2014-3529', 'CVE-2014-3574', 'CVE-2016-5000', 'CVE-2017-12626', 'CVE-2017-5644', 'CVE-2019-12415']",2022-03-18T19:49Z
+5,cpe:2.3:a:apache:poi:3.7:*:*:*:*:*:*:*,Apache Software Foundation  POI 3.7,"['CVE-2012-0213', 'CVE-2014-3529', 'CVE-2014-3574', 'CVE-2016-5000', 'CVE-2017-12626', 'CVE-2017-5644', 'CVE-2019-12415']",2022-03-18T19:49Z
+6,cpe:2.3:a:apache:poi:3.7:beta1:*:*:*:*:*:*,Apache Software Foundation  POI 3.7 beta1,"['CVE-2012-0213', 'CVE-2014-3529', 'CVE-2014-3574', 'CVE-2016-5000', 'CVE-2017-12626', 'CVE-2017-5644', 'CVE-2019-12415']",2022-03-18T19:49Z
+7,cpe:2.3:a:apache:poi:3.7:beta2:*:*:*:*:*:*,Apache Software Foundation  POI 3.7 beta2,"['CVE-2012-0213', 'CVE-2014-3529', 'CVE-2014-3574', 'CVE-2016-5000', 'CVE-2017-12626', 'CVE-2017-5644', 'CVE-2019-12415']",2022-03-18T19:49Z
+8,cpe:2.3:a:apache:poi:3.7:beta3:*:*:*:*:*:*,Apache Software Foundation  POI 3.7 beta3,"['CVE-2012-0213', 'CVE-2014-3529', 'CVE-2014-3574', 'CVE-2014-9527', 'CVE-2016-5000', 'CVE-2017-12626', 'CVE-2017-5644', 'CVE-2019-12415']",2022-03-18T19:49Z
+9,cpe:2.3:a:apache:poi:3.8:*:*:*:*:*:*:*,Apache Software Foundation  POI 3.8,"['CVE-2012-0213', 'CVE-2014-3529', 'CVE-2014-3574', 'CVE-2016-5000', 'CVE-2017-12626', 'CVE-2017-5644', 'CVE-2019-12415']",2022-03-18T19:49Z

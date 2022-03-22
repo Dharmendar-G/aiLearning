@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:boonex:dolphin:7.0.2:*:*:*:*:*:*:*,BoonEx Dolphin 7.0.2,"['CVE-2012-0873', 'CVE-2013-3638', 'CVE-2014-3810', 'CVE-2014-4333']",2022-03-19T09:44Z
+1,cpe:2.3:a:boonex:dolphin:7.0.3:*:*:*:*:*:*:*,BoonEx Dolphin 7.0.3,"['CVE-2012-0873', 'CVE-2013-3638', 'CVE-2014-3810', 'CVE-2014-4333']",2022-03-19T09:44Z
+2,cpe:2.3:a:boonex:dolphin:7.0.3:beta:*:*:*:*:*:*,BoonEx Dolphin 7.0.3 beta,"['CVE-2012-0873', 'CVE-2013-3638', 'CVE-2014-3810', 'CVE-2014-4333']",2022-03-19T09:44Z
+3,cpe:2.3:a:boonex:dolphin:7.0.4:*:*:*:*:*:*:*,BoonEx Dolphin 7.0.4,"['CVE-2011-3728', 'CVE-2012-0873', 'CVE-2013-3638', 'CVE-2014-3810', 'CVE-2014-4333']",2022-03-19T09:44Z
+4,cpe:2.3:a:boonex:dolphin:7.0.5:*:*:*:*:*:*:*,BoonEx Dolphin 7.0.5,"['CVE-2012-0873', 'CVE-2013-3638', 'CVE-2014-3810', 'CVE-2014-4333']",2022-03-19T09:44Z
+5,cpe:2.3:a:boonex:dolphin:7.0.6:*:*:*:*:*:*:*,BoonEx Dolphin 7.0.6,"['CVE-2012-0873', 'CVE-2013-3638', 'CVE-2014-3810', 'CVE-2014-4333']",2022-03-19T09:44Z
+6,cpe:2.3:a:boonex:dolphin:7.0.7:*:*:*:*:*:*:*,BoonEx Dolphin 7.0.7,"['CVE-2012-0873', 'CVE-2013-3638', 'CVE-2014-3810', 'CVE-2014-4333']",2022-03-19T09:44Z
+7,cpe:2.3:a:boonex:dolphin:7.0.8:*:*:*:*:*:*:*,BoonEx Dolphin 7.0.8,"['CVE-2013-3638', 'CVE-2014-3810', 'CVE-2014-4333']",2022-03-19T09:44Z
+8,cpe:2.3:a:boonex:dolphin:7.0.9:*:*:*:*:*:*:*,BoonEx Dolphin 7.0.9,"['CVE-2013-3638', 'CVE-2014-3810', 'CVE-2014-4333']",2022-03-19T09:44Z
+9,cpe:2.3:a:boonex:dolphin:7.1.0:*:*:*:*:*:*:*,BoonEx Dolphin 7.1.0,"['CVE-2013-3638', 'CVE-2014-3810', 'CVE-2014-4333']",2022-03-19T09:44Z

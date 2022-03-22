@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:unity_server:4.0:*:*:*:*:*:*:*,Cisco Unity Server 4.0,"['CVE-2004-1322', 'CVE-2005-0356']",2022-03-20T00:58Z
+1,cpe:2.3:o:cisco:universal_small_cell_firmware:r2.12_base:*:*:*:*:*:*:*,Cisco Universal Small Cell Firmware R2.12 BASE,['CVE-2016-1321'],2022-03-20T00:58Z
+2,cpe:2.3:o:cisco:universal_small_cell_firmware:r2.13_base:*:*:*:*:*:*:*,Cisco Universal Small Cell Firmware R2.13 BASE,['CVE-2016-1321'],2022-03-20T00:58Z
+3,cpe:2.3:o:cisco:universal_small_cell_firmware:r2.14_base:*:*:*:*:*:*:*,Cisco Universal Small Cell Firmware R2.14 BASE,['CVE-2016-1321'],2022-03-20T00:58Z
+4,cpe:2.3:o:cisco:universal_small_cell_firmware:r2.15_base:*:*:*:*:*:*:*,Cisco Universal Small Cell Firmware R2.15 BASE,['CVE-2016-1321'],2022-03-20T00:58Z
+5,cpe:2.3:o:cisco:universal_small_cell_firmware:r2.16_base:*:*:*:*:*:*:*,Cisco Universal Small Cell Firmware R2.16 BASE,['CVE-2016-1321'],2022-03-20T00:58Z
+6,cpe:2.3:o:cisco:universal_small_cell_firmware:r2.17_base:*:*:*:*:*:*:*,Cisco Universal Small Cell Firmware R2.17 BASE,['CVE-2016-1321'],2022-03-20T00:58Z
+7,cpe:2.3:o:cisco:universal_small_cell_firmware:r3.2_base:*:*:*:*:*:*:*,Cisco Universal Small Cell Firmware R3.2 BASE,['CVE-2016-1321'],2022-03-20T00:58Z
+8,cpe:2.3:o:cisco:universal_small_cell_firmware:r3.3_base:*:*:*:*:*:*:*,Cisco Universal Small Cell Firmware R3.3 BASE,['CVE-2016-1321'],2022-03-20T00:58Z
+9,cpe:2.3:o:cisco:universal_small_cell_firmware:r3.4_1.1:*:*:*:*:*:*:*,Cisco Universal Small Cell Firmware R3.4 1.1,['CVE-2016-1321'],2022-03-20T00:58Z

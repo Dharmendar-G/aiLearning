@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hgiga:msr35_isherlock-user:1.5.127:*:*:*:*:*:*:*,HGiga MSR35 iSherlock-user 1.5.127,[''],2022-03-21T10:53Z
+1,cpe:2.3:a:hgiga:msr35_isherlock-useradmin:1.5.239:*:*:*:*:*:*:*,HGiga MSR35 iSherlock-useradmin 1.5.239,[''],2022-03-21T10:53Z
+2,cpe:2.3:a:hgiga:msr45_isherlock-antispam:4.5-130:*:*:*:*:*:*:*,HGiga MSR45 iSherlock-antispam 4.5-130,"['CVE-2020-35740', 'CVE-2020-35741', 'CVE-2020-35742', 'CVE-2020-35743', 'CVE-2021-22848']",2022-03-21T10:53Z
+3,cpe:2.3:a:hgiga:msr45_isherlock-antispam:4.5-133:*:*:*:*:*:*:*,HGiga MSR45 iSherlock-antispam 4.5-133,[''],2022-03-21T10:53Z
+4,cpe:2.3:a:hgiga:msr45_isherlock-audit:4.5-143:*:*:*:*:*:*:*,HGiga MSR45 iSherlock-audit 4.5-143,[''],2022-03-21T10:53Z
+5,cpe:2.3:a:hgiga:msr45_isherlock-base:4.5-206:*:*:*:*:*:*:*,HGiga MSR45 iSherlock-base 4.5-206,['CVE-2020-25848'],2022-03-21T10:53Z
+6,cpe:2.3:a:hgiga:msr45_isherlock-base:4.5-243:*:*:*:*:*:*:*,HGiga MSR45 iSherlock-base 4.5-243,[''],2022-03-21T10:53Z
+7,cpe:2.3:a:hgiga:msr45_isherlock-sysinfo:4.5-109:*:*:*:*:*:*:*,HGiga MSR45 iSherlock-sysinfo 4.5-109,[''],2022-03-21T10:53Z
+8,cpe:2.3:a:hgiga:msr45_isherlock-user:4.5-81:*:*:*:*:*:*:*,HGiga MSR45 iSherlock-user 4.5-81,"['CVE-2020-25848', 'CVE-2020-25850', 'CVE-2020-35740', 'CVE-2020-35741', 'CVE-2020-35742', 'CVE-2020-35743', 'CVE-2020-35851', 'CVE-2021-22848']",2022-03-21T10:53Z
+9,cpe:2.3:a:hgiga:msr45_isherlock-user:4.5-114:*:*:*:*:*:*:*,HGiga MSR45 iSherlock-user 4.5-114,"['CVE-2020-25850', 'CVE-2020-35740', 'CVE-2020-35741', 'CVE-2020-35742', 'CVE-2020-35743', 'CVE-2020-35851', 'CVE-2021-22848']",2022-03-21T10:53Z

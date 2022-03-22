@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dash:dash_core:0.8.9.1:*:*:*:*:*:*:*,Dash Core 0.8.9.1,['CVE-2019-16752'],2022-03-20T10:26Z
+1,cpe:2.3:a:dash:dash_core:0.8.9.2:*:*:*:*:*:*:*,Dash Core 0.8.9.2,['CVE-2019-16752'],2022-03-20T10:26Z
+2,cpe:2.3:a:dash:dash_core:0.9.0.0:*:*:*:*:*:*:*,Dash Core 0.9.0.0,['CVE-2019-16752'],2022-03-20T10:26Z
+3,cpe:2.3:a:dash:dash_core:0.9.0.1:*:*:*:*:*:*:*,Dash Core 0.9.0.1,['CVE-2019-16752'],2022-03-20T10:26Z
+4,cpe:2.3:a:dash:dash_core:0.9.1.0:*:*:*:*:*:*:*,Dash Core 0.9.1.0,['CVE-2019-16752'],2022-03-20T10:26Z
+5,cpe:2.3:a:dash:dash_core:0.9.1.1:*:*:*:*:*:*:*,Dash Core 0.9.1.1,['CVE-2019-16752'],2022-03-20T10:26Z
+6,cpe:2.3:a:dash:dash_core:0.9.1.2:*:*:*:*:*:*:*,Dash Core 0.9.1.2,['CVE-2019-16752'],2022-03-20T10:26Z
+7,cpe:2.3:a:dash:dash_core:0.9.3.0:*:*:*:*:*:*:*,Dash Core 0.9.3.0,['CVE-2019-16752'],2022-03-20T10:26Z
+8,cpe:2.3:a:dash:dash_core:0.9.3.3:*:*:*:*:*:*:*,Dash Core 0.9.3.3,['CVE-2019-16752'],2022-03-20T10:26Z
+9,cpe:2.3:a:dash:dash_core:0.9.3.4:*:*:*:*:*:*:*,Dash Core 0.9.3.4,['CVE-2019-16752'],2022-03-20T10:26Z

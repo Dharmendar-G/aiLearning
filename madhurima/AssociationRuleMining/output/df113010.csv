@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:2621xm:-:*:*:*:*:*:*:*,Cisco 2621XM,"['CVE-2020-3359', 'CVE-2020-3477']",2022-03-19T17:46Z
+1,cpe:2.3:h:cisco:2650xm:-:*:*:*:*:*:*:*,Cisco 2650XM,"['CVE-2020-3359', 'CVE-2020-3477']",2022-03-19T17:46Z
+2,cpe:2.3:h:cisco:2651xm:-:*:*:*:*:*:*:*,Cisco 2651XM,"['CVE-2020-3359', 'CVE-2020-3477']",2022-03-19T17:46Z
+3,cpe:2.3:h:cisco:2691:-:*:*:*:*:*:*:*,Cisco 2691,"['CVE-2020-3359', 'CVE-2020-3477']",2022-03-19T17:46Z
+4,cpe:2.3:h:cisco:2700_wireless_location_appliance:-:*:*:*:*:*:*:*,Cisco 2700 Wireless Location Appliance,[''],2022-03-19T17:46Z
+5,cpe:2.3:h:cisco:2700_wireless_location_appliance:1.1.73.0:*:*:*:*:*:*:*,Cisco 2700 Wireless Location Appliance 1.1.73.0,['CVE-2006-5288'],2022-03-19T17:46Z
+6,cpe:2.3:h:cisco:2900_integrated_service_router:-:*:*:*:*:*:*:*,Cisco 2900 Integrated Service Router,['CVE-2015-0586'],2022-03-19T17:46Z
+7,cpe:2.3:h:cisco:2901:-:*:*:*:*:*:*:*,Cisco 2901 -,"['CVE-2018-0179', 'CVE-2018-0180']",2022-03-19T17:46Z
+8,cpe:2.3:h:cisco:2901_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 2901 Integrated Services Router,"['CVE-2013-1241', 'CVE-2018-0163']",2022-03-19T17:46Z
+9,cpe:2.3:h:cisco:2911:-:*:*:*:*:*:*:*,Cisco 2911 -,"['CVE-2018-0179', 'CVE-2018-0180']",2022-03-19T17:46Z

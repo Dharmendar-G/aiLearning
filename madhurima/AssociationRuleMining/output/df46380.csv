@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arista:cloudeos:4.22.4m:*:*:*:*:*:*:*,Arista CloudEOS 4.22.4M,['CVE-2020-11622'],2022-03-18T23:01Z
+1,cpe:2.3:a:arista:cloudeos:4.22.5m:*:*:*:*:*:*:*,Arista CloudEOS 4.22.5M,[''],2022-03-18T23:01Z
+2,cpe:2.3:a:arista:cloudeos:4.23.0:*:*:*:*:*:*:*,Arista CloudEOS 4.23.0,['CVE-2020-11622'],2022-03-18T23:01Z
+3,cpe:2.3:a:arista:cloudeos:4.23.2.1:*:*:*:*:*:*:*,Arista CloudEOS 4.23.2.1,['CVE-2020-11622'],2022-03-18T23:01Z
+4,cpe:2.3:a:arista:cloudeos:4.23.2m:*:*:*:*:*:*:*,Arista CloudEOS 4.23.2M,['CVE-2020-11622'],2022-03-18T23:01Z
+5,cpe:2.3:a:arista:cloudeos:4.23.3m:*:*:*:*:*:*:*,Arista CloudEOS 4.23.3M,[''],2022-03-18T23:01Z
+6,cpe:2.3:a:arista:cloudvision_exchange:-:*:*:*:*:*:*:*,Arista CloudVision eXchange (CVX),[''],2022-03-18T23:01Z
+7,cpe:2.3:a:arista:cloudvision_exchange:4.21.5f:*:*:*:*:*:*:*,Arista CloudVision eXchange (CVX) 4.21.5F,['CVE-2020-13100'],2022-03-18T23:01Z
+8,cpe:2.3:a:arista:cloudvision_exchange:4.21.10m:*:*:*:*:*:*:*,Arista CloudVision eXchange (CVX) 4.21.10M,['CVE-2020-13100'],2022-03-18T23:01Z
+9,cpe:2.3:a:arista:cloudvision_exchange:4.21.12m:*:*:*:*:*:*:*,Arista CloudVision eXchange (CVX) 4.21.12M,[''],2022-03-18T23:01Z

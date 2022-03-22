@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alex_barth:data:6.x-1.0:alpha8:*:*:*:*:*:*,Alex Barth Data module for Drupal 6.x-1.0-alpha8,['CVE-2012-1654'],2022-03-18T14:35Z
+1,cpe:2.3:a:alex_barth:data:6.x-1.0:alpha9:*:*:*:*:*:*,Alex Barth Data module for Drupal 6.x-1.0-alpha9,['CVE-2012-1654'],2022-03-18T14:35Z
+2,cpe:2.3:a:alex_barth:data:6.x-1.x:dev:*:*:*:*:*:*,Alex Barth Data module for Drupal 6.x-1.x-dev,['CVE-2012-1654'],2022-03-18T14:35Z
+3,cpe:2.3:a:alex_barth:data:7.x-1.0:alpha1:*:*:*:*:*:*,Alex Barth Data module for Drupal 7.x-1.0-alpha1,['CVE-2012-1654'],2022-03-18T14:35Z
+4,cpe:2.3:a:alex_barth:data:7.x-1.0:alpha2:*:*:*:*:*:*,Alex Barth Data module for Drupal 7.x-1.0-alpha2,['CVE-2012-1654'],2022-03-18T14:35Z
+5,cpe:2.3:a:alex_barth:data:7.x-1.x:dev:*:*:*:*:*:*,Alex Barth Data module for Drupal 7.x-1.x-dev,['CVE-2012-1654'],2022-03-18T14:35Z
+6,cpe:2.3:a:alex_feinman:iso_recorder:3.1.0:*:*:*:*:*:*:*,Alex Feinman Iso Recorder 3.1.0,[''],2022-03-18T14:35Z
+7,cpe:2.3:a:alex_kellner:powermail:1.0.1:*:*:*:*:*:*:*,Alex Kellner Powermail 1.0.1,"['CVE-2010-0329', 'CVE-2010-3604', 'CVE-2010-3605', 'CVE-2010-3687', 'CVE-2010-4892', 'CVE-2012-5889', 'CVE-2014-3948']",2022-03-18T14:35Z
+8,cpe:2.3:a:alex_kellner:powermail:1.0.2:*:*:*:*:*:*:*,Alex Kellner Powermail 1.0.2,"['CVE-2010-0329', 'CVE-2010-3604', 'CVE-2010-3605', 'CVE-2010-3687', 'CVE-2010-4892', 'CVE-2012-5889', 'CVE-2014-3948']",2022-03-18T14:35Z
+9,cpe:2.3:a:alex_kellner:powermail:1.0.3:*:*:*:*:*:*:*,Alex Kellner Powermail 1.0.3,"['CVE-2010-0329', 'CVE-2010-3604', 'CVE-2010-3605', 'CVE-2010-3687', 'CVE-2010-4892', 'CVE-2012-5889', 'CVE-2014-3948']",2022-03-18T14:35Z

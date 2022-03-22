@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:beetel:450tc2_router_firmware:tx6-0q-005_retail:*:*:*:*:*:*:*,Beetel 450TC2 Router firmware TX6-0Q-005 retail,['CVE-2014-3792'],2022-03-19T06:51Z
+1,cpe:2.3:h:beetel:777vr1:-:*:*:*:*:*:*:*,Beetel 777VR1,['CVE-2020-25498'],2022-03-19T06:51Z
+2,cpe:2.3:o:beetel:777vr1_firmware:-:*:*:*:*:*:*:*,Beetel 777VR1 Firmware,['CVE-2020-25498'],2022-03-19T06:51Z
+3,cpe:2.3:a:be-graph:bezip:3.00:*:*:*:*:*:*:*,Be-Graph BeZIP 3.00,['CVE-2012-5171'],2022-03-19T06:51Z
+4,cpe:2.3:a:be-graph:bezip:3.02:*:*:*:*:*:*:*,Be-Graph BeZIP 3.02,['CVE-2012-5171'],2022-03-19T06:51Z
+5,cpe:2.3:a:be-graph:bezip:3.03:*:*:*:*:*:*:*,Be-Graph BeZIP 3.03,['CVE-2012-5171'],2022-03-19T06:51Z
+6,cpe:2.3:a:be-graph:bezip:3.04:*:*:*:*:*:*:*,Be-Graph BeZIP 3.04,['CVE-2012-5171'],2022-03-19T06:51Z
+7,cpe:2.3:a:beijerelectronics:beijer_adp:6.5.0-180_r1967:*:*:*:*:*:*:*,beijerelectronics Beijer ADP 6.5.0-180_R1967,['CVE-2012-4696'],2022-03-19T06:51Z
+8,cpe:2.3:a:beijerelectronics:beijer_adp:6.5.1-186_r2942:*:*:*:*:*:*:*,beijerelectronics Beijer ADP 6.5.1-186_R2942,['CVE-2012-4696'],2022-03-19T06:51Z
+9,cpe:2.3:a:beijerelectronics:h-designer:6.5.0_b180_r1967:*:*:*:*:*:*:*,beijerelectronics H-Designer 6.5.0 B180_R1967,['CVE-2012-4696'],2022-03-19T06:51Z

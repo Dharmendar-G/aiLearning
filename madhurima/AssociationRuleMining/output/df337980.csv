@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:xh628_v3_firmware:v100r003c00:*:*:*:*:*:*:*,Huawei XH628 V3 Firmware V100R003C00,['CVE-2015-7842'],2022-03-21T19:10Z
+1,cpe:2.3:h:huawei:xh628_v3_server:-:*:*:*:*:*:*:*,Huawei XH628 V3 Server,"['CVE-2016-6825', 'CVE-2016-6899', 'CVE-2016-6900']",2022-03-21T19:10Z
+2,cpe:2.3:o:huawei:xh628_v3_server_firmware:v100r003c00:*:*:*:*:*:*:*,Huawei XH628 V3 Server Firmware V100R003C00,"['CVE-2016-6825', 'CVE-2016-6899', 'CVE-2016-6900']",2022-03-21T19:10Z
+3,cpe:2.3:h:huawei:y5_2018:-:*:*:*:*:*:*:*,Huawei Y5 2018,['CVE-2019-9506'],2022-03-21T19:11Z
+4,cpe:2.3:o:huawei:y5_2018_firmware:-:*:*:*:*:*:*:*,Huawei Y5 2018 FIRMWARE,['CVE-2019-9506'],2022-03-21T19:11Z
+5,cpe:2.3:h:huawei:y5_lite:-:*:*:*:*:*:*:*,Huawei Y5 Lite,['CVE-2019-9506'],2022-03-21T19:11Z
+6,cpe:2.3:o:huawei:y5_lite_firmware:-:*:*:*:*:*:*:*,Huawei Y5 LITE FIRMWARE,['CVE-2019-9506'],2022-03-21T19:11Z
+7,cpe:2.3:h:huawei:y6_2019:-:*:*:*:*:*:*:*,Huawei Y6 2019,['CVE-2019-9506'],2022-03-21T19:11Z
+8,cpe:2.3:o:huawei:y6_2019_firmware:-:*:*:*:*:*:*:*,Huawei Y6 2019 FIRMWARE,['CVE-2019-9506'],2022-03-21T19:11Z
+9,cpe:2.3:h:huawei:y6_prime_2018:-:*:*:*:*:*:*:*,Huawei Y6 Prime 2018,['CVE-2019-9506'],2022-03-21T19:11Z

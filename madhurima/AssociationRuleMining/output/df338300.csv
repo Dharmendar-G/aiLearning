@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hummingbird:enterprise_collaboration:5.21:*:*:*:*:*:*:*,Hummingbird Hummingbird Enterprise Collaboration 5.21,"['CVE-2006-0172', 'CVE-2006-0173', 'CVE-2006-0174']",2022-03-21T19:16Z
+1,cpe:2.3:a:hummingbird:exceed:-:*:*:*:*:*:*:*,Hummingbird Exceed,['CVE-2008-4729'],2022-03-21T19:16Z
+2,cpe:2.3:a:hummingbird:exceed:5.0:*:*:*:*:*:*:*,Hummingbird Exceed 5.0,"['CVE-1999-1196', 'CVE-2008-4729']",2022-03-21T19:16Z
+3,cpe:2.3:a:hummingbird:exceed:6.0.1.0:*:*:*:*:*:*:*,Hummingbird Exceed 6.0.1.0,"['CVE-1999-1280', 'CVE-2008-4729']",2022-03-21T19:16Z
+4,cpe:2.3:a:hummingbird:exceed:9.0:*:*:*:*:*:*:*,Hummingbird Exceed 9.0,"['CVE-2004-2258', 'CVE-2008-4729']",2022-03-21T19:16Z
+5,cpe:2.3:a:hummingbird:exceed:10.0:*:*:*:*:*:*:*,Hummingbird Exceed 10.0,['CVE-2008-4729'],2022-03-21T19:16Z
+6,cpe:2.3:a:hummingbird:exceed:10.0.0.0:*:*:*:*:*:*:*,Hummingbird Exceed 10.0.0.0,['CVE-2008-4729'],2022-03-21T19:16Z
+7,cpe:2.3:a:hummingbird:exceed:13.0:*:*:*:*:*:*:*,Hummingbird Exceed 13.0,['CVE-2008-4729'],2022-03-21T19:16Z
+8,cpe:2.3:a:hummingbird:exceed:14.0.0:*:*:*:*:*:*:*,Hummingbird Exceed 14.0.0,[''],2022-03-21T19:16Z
+9,cpe:2.3:a:hummingbird:exceed:2006:*:*:*:*:*:*:*,Hummingbird Exceed 2006,['CVE-2008-4729'],2022-03-21T19:16Z

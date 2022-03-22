@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:etrust_audit_policy_manager:1.5:sp3:*:*:*:*:*:*,Broadcom eTrust Audit Policy Manager 1.5 Service Pack 3,['CVE-2006-4901'],2022-03-19T12:20Z
+1,cpe:2.3:a:broadcom:etrust_audit_policy_manager:8.0:*:*:*:*:*:*:*,Broadcom eTrust Audit Policy Manager 8.0,['CVE-2006-4901'],2022-03-19T12:20Z
+2,cpe:2.3:a:broadcom:etrust_directory:-:*:*:*:*:*:*:*,Broadcom eTrust Directory,[''],2022-03-19T12:20Z
+3,cpe:2.3:a:broadcom:etrust_ez_antivirus:-:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus,[''],2022-03-19T12:20Z
+4,cpe:2.3:a:broadcom:etrust_ez_antivirus:6.0:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 6.0,[''],2022-03-19T12:20Z
+5,cpe:2.3:a:broadcom:etrust_ez_antivirus:6.1:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 6.1,"['CVE-2004-0932', 'CVE-2004-0933', 'CVE-2004-0934', 'CVE-2004-0935', 'CVE-2004-0936', 'CVE-2004-0937', 'CVE-2004-1096', 'CVE-2007-2864', 'CVE-2007-3875']",2022-03-19T12:20Z
+6,cpe:2.3:a:broadcom:etrust_ez_antivirus:6.2:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 6.2,"['CVE-2004-0932', 'CVE-2004-0933', 'CVE-2004-0934', 'CVE-2004-0935', 'CVE-2004-0936', 'CVE-2004-0937', 'CVE-2004-1096']",2022-03-19T12:20Z
+7,cpe:2.3:a:broadcom:etrust_ez_antivirus:6.3:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 6.3,"['CVE-2004-0932', 'CVE-2004-0933', 'CVE-2004-0934', 'CVE-2004-0935', 'CVE-2004-0936', 'CVE-2004-0937', 'CVE-2004-1096']",2022-03-19T12:20Z
+8,cpe:2.3:a:broadcom:etrust_ez_antivirus:7:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 7,['CVE-2007-3875'],2022-03-19T12:20Z
+9,cpe:2.3:a:broadcom:etrust_ez_antivirus:7.0:*:*:*:*:*:*:*,Broadcom eTrust EZ Antivirus 7.0,"['CVE-2004-1149', 'CVE-2007-2864']",2022-03-19T12:20Z

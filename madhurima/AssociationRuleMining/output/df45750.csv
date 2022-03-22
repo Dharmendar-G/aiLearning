@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arcserve:udp:6.5:update_4:*:*:*:*:*:*,Arcserve UDP 6.5 Update 4,"['CVE-2018-18657', 'CVE-2018-18658', 'CVE-2018-18659', 'CVE-2018-18660']",2022-03-18T22:52Z
+1,cpe:2.3:a:arcserve:udp:7.0:*:*:*:*:*:*:*,Arcserve UDP 7.0,[''],2022-03-18T22:53Z
+2,cpe:2.3:a:arcsight:arcsight_console:4.0.2.0:sp2:*:*:*:*:*:*,Arcsight Console Service Pack 2 4.0.2.0,[''],2022-03-18T22:53Z
+3,cpe:2.3:a:arcsight:arcsight_console:4.0.3.0:sp3:*:*:*:*:*:*,Arcsight Console Service Pack 3 4.0.3.0,[''],2022-03-18T22:53Z
+4,cpe:2.3:a:arcsight:arcsight_console:4.0.3.5:sp3_patch_5:*:*:*:*:*:*,Arcsight Console Service Pack 3 Patch 5 4.0.3.5,[''],2022-03-18T22:53Z
+5,cpe:2.3:a:arcsight:arcsight_console:5.0.0.0:*:*:*:*:*:*:*,Arcsight Console 5.0.0.0,[''],2022-03-18T22:53Z
+6,cpe:2.3:a:arcsight:arcsight_console:5.0.1.0:sp1:*:*:*:*:*:*,Arcsight Console Service Pack 1 5.0.1.0,[''],2022-03-18T22:53Z
+7,cpe:2.3:a:arcsight:arcsight_console:5.0.1.2:sp1_patch_2:*:*:*:*:*:*,Arcsight Console Service Pack 1 Patch 2 5.0.1.2,[''],2022-03-18T22:53Z
+8,cpe:2.3:a:arcsight:arcsight_smartconnector:4.0.1.0:*:*:*:*:*:*:*,Arcsight Smartconnector 4.0.1.0,[''],2022-03-18T22:53Z
+9,cpe:2.3:a:arcsight:arcsight_smartconnector:5.0.1.0:*:*:*:*:*:*:*,Arcsight Smartconnector 5.0.1.0,[''],2022-03-18T22:53Z

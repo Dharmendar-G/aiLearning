@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:inspiron_3468_firmware:1.12.0:*:*:*:*:*:*:*,Dell Inspiron 3468 Firmware 1.12.0,[''],2022-03-20T12:36Z
+1,cpe:2.3:h:dell:inspiron_3470:-:*:*:*:*:*:*:*,Dell Inspiron 3470,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:36Z
+2,cpe:2.3:o:dell:inspiron_3470_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 3470 Firmware,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:36Z
+3,cpe:2.3:o:dell:inspiron_3470_firmware:1.5.21:*:*:*:*:*:*:*,Dell Inspiron 3470 Firmware 1.5.21,"['CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:36Z
+4,cpe:2.3:o:dell:inspiron_3470_firmware:2.13.0:*:*:*:*:*:*:*,Dell Inspiron 3470 Firmware 2.13.0,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:36Z
+5,cpe:2.3:o:dell:inspiron_3470_firmware:2.16.0:*:*:*:*:*:*:*,Dell Inspiron 3470 Firmware 2.16.0,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:36Z
+6,cpe:2.3:h:dell:inspiron_3471:-:*:*:*:*:*:*:*,Dell Inspiron 3471,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:36Z
+7,cpe:2.3:o:dell:inspiron_3471_firmware:1.3.0:*:*:*:*:*:*:*,Dell Inspiron 3471 Firmware 1.3.0,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:36Z
+8,cpe:2.3:h:dell:inspiron_3472:-:*:*:*:*:*:*:*,Dell Inspiron 3472,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:36Z
+9,cpe:2.3:o:dell:inspiron_3472_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 3472 Firmware,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:36Z

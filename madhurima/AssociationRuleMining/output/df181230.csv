@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:precision_m4400:-:*:*:*:*:*:*:*,Dell Precision M4400 -,['CVE-2013-3582'],2022-03-20T13:05Z
+1,cpe:2.3:h:dell:precision_m6300:-:*:*:*:*:*:*:*,Dell Precision M6300 -,['CVE-2013-3582'],2022-03-20T13:05Z
+2,cpe:2.3:h:dell:precision_m6400:-:*:*:*:*:*:*:*,Dell Precision M6400 -,['CVE-2013-3582'],2022-03-20T13:05Z
+3,cpe:2.3:h:dell:precision_m6500:-:*:*:*:*:*:*:*,Dell Precision M6500 -,['CVE-2013-3582'],2022-03-20T13:05Z
+4,cpe:2.3:h:dell:precision_mobile_m4500:-:*:*:*:*:*:*:*,Dell Precision Mobile M4500,['CVE-2015-2890'],2022-03-20T13:05Z
+5,cpe:2.3:h:dell:precision_mobile_m4600:-:*:*:*:*:*:*:*,Dell Precision Mobile M4600,['CVE-2015-2890'],2022-03-20T13:05Z
+6,cpe:2.3:h:dell:precision_mobile_m6600:-:*:*:*:*:*:*:*,Dell Precision Mobile M6600,['CVE-2015-2890'],2022-03-20T13:05Z
+7,cpe:2.3:a:dell:precision_optimizer:3.5.5.0:*:*:*:*:*:*:*,Dell Precision Optimizer 3.5.5.0,['CVE-2017-2802'],2022-03-20T13:05Z
+8,cpe:2.3:h:dell:precision_t1600:-:*:*:*:*:*:*:*,Dell Precision T1600,['CVE-2015-2890'],2022-03-20T13:05Z
+9,cpe:2.3:h:dell:precision_t3600:-:*:*:*:*:*:*:*,Dell Precision T3600,['CVE-2015-2890'],2022-03-20T13:05Z

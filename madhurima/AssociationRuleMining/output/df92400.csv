@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:brickom:100ap_device_firmware:3.1.0.8:*:*:*:*:*:*:*,Brickom 100Ap Device Firmware 3.1.0.8,['CVE-2013-3690'],2022-03-19T12:10Z
+1,cpe:2.3:h:brickom:fb-100ap:-:*:*:*:*:*:*:*,Brickom FB-100AP,"['CVE-2013-3689', 'CVE-2013-3690']",2022-03-19T12:10Z
+2,cpe:2.3:h:brickom:md-100ap:-:*:*:*:*:*:*:*,Brickom MD-100AP,"['CVE-2013-3689', 'CVE-2013-3690']",2022-03-19T12:10Z
+3,cpe:2.3:h:brickom:ob-100ae:-:*:*:*:*:*:*:*,Brickom OB-100AE,"['CVE-2013-3689', 'CVE-2013-3690']",2022-03-19T12:10Z
+4,cpe:2.3:h:brickom:osd-040e:-:*:*:*:*:*:*:*,Brickom OSD-040E,"['CVE-2013-3689', 'CVE-2013-3690']",2022-03-19T12:10Z
+5,cpe:2.3:h:brickom:wcb-100ap:-:*:*:*:*:*:*:*,Brickom WCB-100AP,"['CVE-2013-3689', 'CVE-2013-3690']",2022-03-19T12:10Z
+6,cpe:2.3:h:brickom:wfb-100ap:-:*:*:*:*:*:*:*,Brickom WFB-100AP,"['CVE-2013-3689', 'CVE-2013-3690']",2022-03-19T12:10Z
+7,cpe:2.3:h:brightsign:4k242:-:*:*:*:*:*:*:*,Brightsign 4k242,"['CVE-2017-17737', 'CVE-2017-17738', 'CVE-2017-17739']",2022-03-19T12:10Z
+8,cpe:2.3:o:brightsign:4k242_firmware:6.2.63:*:*:*:*:*:*:*,Brightsign 4k242 Firmware 6.2.63,"['CVE-2017-17737', 'CVE-2017-17738', 'CVE-2017-17739']",2022-03-19T12:10Z
+9,cpe:2.3:h:brilliantts:fuze_card:-:*:*:*:*:*:*:*,Brilliantts Fuze Card,['CVE-2018-9119'],2022-03-19T12:10Z

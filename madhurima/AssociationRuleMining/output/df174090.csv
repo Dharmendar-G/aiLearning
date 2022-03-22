@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dataiku:data_science_studio:1.4.1:*:*:*:*:*:*:*,Dataiku Data Science Studio (DSS) 1.4.1,"['CVE-2018-10732', 'CVE-2020-8817', 'CVE-2021-27225']",2022-03-20T10:46Z
+1,cpe:2.3:a:dataiku:data_science_studio:1.4.2:*:*:*:*:*:*:*,Dataiku Data Science Studio (DSS) 1.4.2,"['CVE-2018-10732', 'CVE-2020-8817', 'CVE-2021-27225']",2022-03-20T10:46Z
+2,cpe:2.3:a:dataiku:data_science_studio:1.4.3:*:*:*:*:*:*:*,Dataiku Data Science Studio (DSS) 1.4.3,"['CVE-2018-10732', 'CVE-2020-8817', 'CVE-2021-27225']",2022-03-20T10:46Z
+3,cpe:2.3:a:dataiku:data_science_studio:1.4.4:*:*:*:*:*:*:*,Dataiku Data Science Studio (DSS) 1.4.4,"['CVE-2018-10732', 'CVE-2020-8817', 'CVE-2021-27225']",2022-03-20T10:46Z
+4,cpe:2.3:a:dataiku:data_science_studio:1.4.5:*:*:*:*:*:*:*,Dataiku Data Science Studio (DSS) 1.4.5,"['CVE-2018-10732', 'CVE-2020-8817', 'CVE-2021-27225']",2022-03-20T10:47Z
+5,cpe:2.3:a:dataiku:data_science_studio:2.0.0:*:*:*:*:*:*:*,Dataiku Data Science Studio (DSS) 2.0.0,"['CVE-2018-10732', 'CVE-2020-8817', 'CVE-2021-27225']",2022-03-20T10:47Z
+6,cpe:2.3:a:dataiku:data_science_studio:2.0.1:*:*:*:*:*:*:*,Dataiku Data Science Studio (DSS) 2.0.1,"['CVE-2018-10732', 'CVE-2020-8817', 'CVE-2021-27225']",2022-03-20T10:47Z
+7,cpe:2.3:a:dataiku:data_science_studio:2.0.2:*:*:*:*:*:*:*,Dataiku Data Science Studio (DSS) 2.0.2,"['CVE-2018-10732', 'CVE-2020-8817', 'CVE-2021-27225']",2022-03-20T10:47Z
+8,cpe:2.3:a:dataiku:data_science_studio:2.0.3:*:*:*:*:*:*:*,Dataiku Data Science Studio (DSS) 2.0.3,"['CVE-2018-10732', 'CVE-2020-8817', 'CVE-2021-27225']",2022-03-20T10:47Z
+9,cpe:2.3:a:dataiku:data_science_studio:2.0.4:*:*:*:*:*:*:*,Dataiku Data Science Studio (DSS) 2.0.4,"['CVE-2018-10732', 'CVE-2020-8817', 'CVE-2021-27225']",2022-03-20T10:47Z

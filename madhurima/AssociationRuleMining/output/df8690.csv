@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:admidio:admidio:4.0.0:beta1:*:*:*:*:*:*,Admidio 4.0.0 Beta 1,"['CVE-2021-32630', 'CVE-2021-43810']",2022-03-18T11:59Z
+1,cpe:2.3:a:admidio:admidio:4.0.0:beta2:*:*:*:*:*:*,Admidio 4.0.0 Beta 2,"['CVE-2021-32630', 'CVE-2021-43810']",2022-03-18T11:59Z
+2,cpe:2.3:a:admidio:admidio:4.0.0:beta3:*:*:*:*:*:*,Admidio 4.0.0 Beta 3,"['CVE-2021-32630', 'CVE-2021-43810']",2022-03-18T11:59Z
+3,cpe:2.3:a:admidio:admidio:4.0.0:beta4:*:*:*:*:*:*,Admidio 4.0.0 Beta 4,"['CVE-2021-32630', 'CVE-2021-43810']",2022-03-18T11:59Z
+4,cpe:2.3:a:admidio:admidio:4.0.0:beta5:*:*:*:*:*:*,Admidio 4.0.0 Beta 5,"['CVE-2021-32630', 'CVE-2021-43810']",2022-03-18T11:59Z
+5,cpe:2.3:a:admidio:admidio:4.0.1:*:*:*:*:*:*:*,Admidio 4.0.1,"['CVE-2021-32630', 'CVE-2021-43810']",2022-03-18T11:59Z
+6,cpe:2.3:a:admidio:admidio:4.0.1.1:*:*:*:*:*:*:*,Admidio 4.0.1.1,"['CVE-2021-32630', 'CVE-2021-43810']",2022-03-18T11:59Z
+7,cpe:2.3:a:admidio:admidio:4.0.2:*:*:*:*:*:*:*,Admidio 4.0.2,"['CVE-2021-32630', 'CVE-2021-43810']",2022-03-18T11:59Z
+8,cpe:2.3:a:admidio:admidio:4.0.3:*:*:*:*:*:*:*,Admidio 4.0.3,"['CVE-2021-32630', 'CVE-2021-43810']",2022-03-18T11:59Z
+9,cpe:2.3:a:admidio:admidio:4.0.4:*:*:*:*:*:*:*,Admidio 4.0.4,['CVE-2021-43810'],2022-03-18T11:59Z

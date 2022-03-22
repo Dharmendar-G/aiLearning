@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:honor_6:-:*:*:*:*:*:*:*,Huawei Honor 6,"['CVE-2016-6179', 'CVE-2016-8759', 'CVE-2016-8760', 'CVE-2016-8761', 'CVE-2016-8768', 'CVE-2016-8783', 'CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T17:51Z
+1,cpe:2.3:o:huawei:honor_6_firmware:h60-j1:*:*:*:*:*:*:*,Huawei Honor 6 Firmware H60-J1,"['CVE-2016-8783', 'CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T17:51Z
+2,cpe:2.3:o:huawei:honor_6_firmware:h60-l01:*:*:*:*:*:*:*,Huawei Honor 6 Firmware H60-L01,"['CVE-2016-6179', 'CVE-2016-8783', 'CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T17:51Z
+3,cpe:2.3:o:huawei:honor_6_firmware:h60-l01c00b850:*:*:*:*:*:*:*,Huawei Honor 6 Firmware H60-L01C00B850,"['CVE-2016-6179', 'CVE-2016-8783', 'CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T17:51Z
+4,cpe:2.3:o:huawei:honor_6_firmware:h60-l02:*:*:*:*:*:*:*,Huawei Honor 6 Firmware H60-L02,"['CVE-2016-6179', 'CVE-2016-8783', 'CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T17:51Z
+5,cpe:2.3:o:huawei:honor_6_firmware:h60-l02_6.12.16:*:*:*:*:*:*:*,Huawei Honor 6 Firmware H60-L02 6.12.16,"['CVE-2016-6179', 'CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T17:51Z
+6,cpe:2.3:o:huawei:honor_6_firmware:h60-l02c00b850:*:*:*:*:*:*:*,Huawei Honor 6 Firmware H60-L02C00B850,"['CVE-2016-6179', 'CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T17:51Z
+7,cpe:2.3:o:huawei:honor_6_firmware:h60-l03:*:*:*:*:*:*:*,Huawei Honor 6 Firmware H60-L03,"['CVE-2016-6179', 'CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T17:51Z
+8,cpe:2.3:o:huawei:honor_6_firmware:h60-l03c01b850:*:*:*:*:*:*:*,Huawei Honor 6 Firmware H60-L03C01B850,"['CVE-2016-6179', 'CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T17:51Z
+9,cpe:2.3:o:huawei:honor_6_firmware:h60-l04:*:*:*:*:*:*:*,Huawei Honor 6 Firmware H60-L04,"['CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T17:51Z

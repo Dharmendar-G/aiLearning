@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:broadworks_messaging_server:22.0:*:*:*:*:*:*:*,Cisco Broadworks Messaging Server 22.0,['CVE-2021-1530'],2022-03-19T18:46Z
+1,cpe:2.3:h:cisco:building_broadband_service_manager:-:*:*:*:*:*:*:*,Cisco Building Broadband Service Manager,[''],2022-03-19T18:46Z
+2,cpe:2.3:h:cisco:building_broadband_service_manager:5.0:*:*:*:*:*:*:*,Cisco Building Broadband Service Manager 5.0,[''],2022-03-19T18:46Z
+3,cpe:2.3:h:cisco:business_140ac:-:*:*:*:*:*:*:*,Cisco Business 140AC,"['CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T18:46Z
+4,cpe:2.3:h:cisco:business_145ac:-:*:*:*:*:*:*:*,Cisco Business 145AC,"['CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T18:46Z
+5,cpe:2.3:h:cisco:business_220-16p-2g:-:*:*:*:*:*:*:*,Cisco Business 220-16P-2G,"['CVE-2021-34744', 'CVE-2021-34757', 'CVE-2021-34775', 'CVE-2021-34776', 'CVE-2021-34777', 'CVE-2021-34778', 'CVE-2021-34779', 'CVE-2021-34780']",2022-03-19T18:46Z
+6,cpe:2.3:o:cisco:business_220-16p-2g_firmware:1.2.0.6:*:*:*:*:*:*:*,Cisco Business 220-16P-2G Firmware 1.2.0.6,"['CVE-2021-34744', 'CVE-2021-34757', 'CVE-2021-34775', 'CVE-2021-34776', 'CVE-2021-34777', 'CVE-2021-34778', 'CVE-2021-34779', 'CVE-2021-34780']",2022-03-19T18:46Z
+7,cpe:2.3:o:cisco:business_220-16p-2g_firmware:1.2.1.2:*:*:*:*:*:*:*,Cisco Business 220-16P-2G Firmware 1.2.1.2,[''],2022-03-19T18:46Z
+8,cpe:2.3:h:cisco:business_220-16t-2g:-:*:*:*:*:*:*:*,Cisco Business 220-16T-2G,"['CVE-2021-34744', 'CVE-2021-34757', 'CVE-2021-34775', 'CVE-2021-34776', 'CVE-2021-34777', 'CVE-2021-34778', 'CVE-2021-34779', 'CVE-2021-34780']",2022-03-19T18:46Z
+9,cpe:2.3:o:cisco:business_220-16t-2g_firmware:1.2.0.6:*:*:*:*:*:*:*,Cisco Business 220-16T-2G Firmware 1.2.0.6,"['CVE-2021-34744', 'CVE-2021-34757', 'CVE-2021-34775', 'CVE-2021-34776', 'CVE-2021-34777', 'CVE-2021-34778', 'CVE-2021-34779', 'CVE-2021-34780']",2022-03-19T18:46Z

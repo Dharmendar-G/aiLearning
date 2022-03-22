@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hawt:hawtio:1.5.8:*:*:*:*:*:*:*,Hawt Hawtio 1.5.8,['CVE-2019-9827'],2022-03-21T10:08Z
+1,cpe:2.3:a:hawt:hawtio:1.5.9:*:*:*:*:*:*:*,Hawt Hawtio 1.5.9,['CVE-2019-9827'],2022-03-21T10:08Z
+2,cpe:2.3:a:hawt:hawtio:1.5.10:*:*:*:*:*:*:*,Hawt Hawtio 1.5.10,['CVE-2019-9827'],2022-03-21T10:08Z
+3,cpe:2.3:a:hawt:hawtio:1.5.11:*:*:*:*:*:*:*,Hawt Hawtio 1.5.11,['CVE-2019-9827'],2022-03-21T10:08Z
+4,cpe:2.3:a:hawt:hawtio:1.5.12:*:*:*:*:*:*:*,Hawt Hawtio 1.5.12,['CVE-2019-9827'],2022-03-21T10:08Z
+5,cpe:2.3:a:hawt:hawtio:2.0.1:*:*:*:*:*:*:*,Hawt Hawtio 2.0.1,['CVE-2019-9827'],2022-03-21T10:08Z
+6,cpe:2.3:a:hawt:hawtio:2.0.2:*:*:*:*:*:*:*,Hawt Hawtio 2.0.2,['CVE-2019-9827'],2022-03-21T10:08Z
+7,cpe:2.3:a:hawt:hawtio:2.0.3:*:*:*:*:*:*:*,Hawt Hawtio 2.0.3,['CVE-2019-9827'],2022-03-21T10:08Z
+8,cpe:2.3:a:hawt:hawtio:2.1.0:*:*:*:*:*:*:*,Hawt Hawtio 2.1.0,['CVE-2019-9827'],2022-03-21T10:08Z
+9,cpe:2.3:a:hawt:hawtio:2.2.0:*:*:*:*:*:*:*,Hawt Hawtio 2.2.0,['CVE-2019-9827'],2022-03-21T10:08Z

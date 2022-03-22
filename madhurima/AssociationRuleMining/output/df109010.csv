@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:checkpoint:vpn-1_firewall-1:4.1:sp5:*:*:*:*:*:*,Checkpoint VPN-1 Firewall-1 4.1 SP5,['CVE-2002-1623'],2022-03-19T16:49Z
+1,cpe:2.3:a:checkpoint:vpn-1_firewall-1:4.1:sp5a:*:*:*:*:*:*,Checkpoint VPN-1 Firewall-1 4.1 SP5a,['CVE-2002-1623'],2022-03-19T16:49Z
+2,cpe:2.3:a:checkpoint:vpn-1_firewall-1:4.1:sp6:*:*:*:*:*:*,Checkpoint VPN-1 Firewall-1 4.1 SP6,['CVE-2002-1623'],2022-03-19T16:49Z
+3,cpe:2.3:a:checkpoint:vpn-1_firewall-1_next_generation:-:*:*:*:*:*:*:*,Checkpoint VPN-1 Firewall-1 Next Generation,[''],2022-03-19T16:49Z
+4,cpe:2.3:a:checkpoint:vpn-1_firewall-1_next_generation:fp0:*:*:*:*:*:*:*,Checkpoint VPN-1 Firewall-1 Next Generation FP0,[''],2022-03-19T16:49Z
+5,cpe:2.3:a:checkpoint:vpn-1_firewall-1_next_generation:fp1:*:*:*:*:*:*:*,Checkpoint VPN-1 Firewall-1 Next Generation FP1,[''],2022-03-19T16:49Z
+6,cpe:2.3:a:checkpoint:vpn-1_firewall-1_next_generation:fp2:*:*:*:*:*:*:*,Checkpoint VPN-1 Firewall-1 Next Generation FP2,[''],2022-03-19T16:49Z
+7,cpe:2.3:a:checkpoint:vpn-1_firewall-1_next_generation:fp3:*:*:*:*:*:*:*,Checkpoint VPN-1 Firewall-1 Next Generation FP3,[''],2022-03-19T16:49Z
+8,cpe:2.3:a:checkpoint:vpn-1_firewall-1_next_generation:r54:*:*:*:*:*:*:*,Checkpoint VPN-1 Firewall-1 Next Generation R54,['CVE-2005-3673'],2022-03-19T16:49Z
+9,cpe:2.3:a:checkpoint:vpn-1_firewall-1_next_generation:r55:*:*:*:*:*:*:*,Checkpoint VPN-1 Firewall-1 Next Generation R55,['CVE-2005-3673'],2022-03-19T16:49Z

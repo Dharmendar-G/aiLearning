@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:812_3g_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 812 3g Integrated Services Router,['CVE-2018-0163'],2022-03-19T17:48Z
+1,cpe:2.3:h:cisco:812_cifi_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 812 Cifi Integrated Services Router,['CVE-2018-0163'],2022-03-19T17:48Z
+2,cpe:2.3:h:cisco:819_hardened_3g:-:*:*:*:*:*:*:*,Cisco 819 Hardened 3G,['CVE-2018-0163'],2022-03-19T17:48Z
+3,cpe:2.3:h:cisco:819_hardened_dual_radio_802.11n_wifi_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 819 Hardened Dual Radio 802.11n Wifi Integrated Services Router,['CVE-2018-0163'],2022-03-19T17:48Z
+4,cpe:2.3:h:cisco:819_hardened_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 819 Hardened Integrated Services Router,['CVE-2018-0163'],2022-03-19T17:48Z
+5,cpe:2.3:h:cisco:819_non-hardened_4g_lte_m2m:-:*:*:*:*:*:*:*,Cisco 819 Non-Hardened 4g LTE M2M,['CVE-2018-0163'],2022-03-19T17:48Z
+6,cpe:2.3:h:cisco:819_non-hardened_secure_multi-mode_4g_lte_m2m_isr_router:-:*:*:*:*:*:*:*,Cisco 819 Non-Hardened Secure Multi-Mode 4g LTE M2M ISR Router,['CVE-2018-0163'],2022-03-19T17:48Z
+7,cpe:2.3:h:cisco:8201:-:*:*:*:*:*:*:*,Cisco 8201,"['CVE-2020-3473', 'CVE-2020-3569', 'CVE-2021-1136', 'CVE-2021-1244', 'CVE-2021-1370', 'CVE-2021-34708', 'CVE-2021-34709', 'CVE-2021-34719', 'CVE-2021-34720', 'CVE-2021-34721', 'CVE-2021-34722', 'CVE-2021-34728']",2022-03-19T17:48Z
+8,cpe:2.3:h:cisco:8201-32fh:-:*:*:*:*:*:*:*,Cisco 8201-32FH,"['CVE-2021-34708', 'CVE-2021-34709', 'CVE-2021-34719', 'CVE-2021-34720', 'CVE-2021-34721', 'CVE-2021-34722', 'CVE-2021-34728']",2022-03-19T17:48Z
+9,cpe:2.3:h:cisco:8202:-:*:*:*:*:*:*:*,Cisco 8202,"['CVE-2020-3473', 'CVE-2020-3569', 'CVE-2021-1136', 'CVE-2021-1244', 'CVE-2021-1370', 'CVE-2021-34708', 'CVE-2021-34709', 'CVE-2021-34719', 'CVE-2021-34720', 'CVE-2021-34721', 'CVE-2021-34722', 'CVE-2021-34728']",2022-03-19T17:48Z

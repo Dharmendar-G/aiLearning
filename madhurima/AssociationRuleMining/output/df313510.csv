@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hmailserver:hmailserver:5.6:*:*:*:*:*:*:*,HMailServer 5.6,[''],2022-03-21T11:33Z
+1,cpe:2.3:a:hmailserver:hmailserver:5.6.1:*:*:*:*:*:*:*,HMailServer 5.6.1,[''],2022-03-21T11:33Z
+2,cpe:2.3:a:hmailserver:hmailserver:5.6.2:*:*:*:*:*:*:*,HMailServer 5.6.2,[''],2022-03-21T11:33Z
+3,cpe:2.3:a:hmailserver:hmailserver:5.6.3:*:*:*:*:*:*:*,HMailServer 5.6.3,[''],2022-03-21T11:33Z
+4,cpe:2.3:a:hmailserver:hmailserver:5.6.4:*:*:*:*:*:*:*,HMailServer 5.6.4,[''],2022-03-21T11:33Z
+5,cpe:2.3:a:hmailserver:hmailserver:5.6.5:*:*:*:*:*:*:*,HMailServer 5.6.5,[''],2022-03-21T11:33Z
+6,cpe:2.3:a:hmailserver:hmailserver:5.6.6:*:*:*:*:*:*:*,HMailServer 5.6.6,[''],2022-03-21T11:33Z
+7,cpe:2.3:a:hmailserver:hmailserver:5.6.7:*:*:*:*:*:*:*,HMailServer 5.6.7,[''],2022-03-21T11:33Z
+8,cpe:2.3:a:hmailserver:hmailserver:5.6.8:*:*:*:*:*:*:*,HMailServer 5.6.8,[''],2022-03-21T11:33Z
+9,cpe:2.3:a:hm-print_project:hm-print:1.2:*:*:*:*:*:*:*,HM Print Project HM Print 1.2,['CVE-2019-18939'],2022-03-21T11:33Z

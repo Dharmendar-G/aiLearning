@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:d-link:dhp-1565:ax:*:*:*:*:*:*:*,D-Link DHP-1565 Ax,[''],2022-03-20T16:00Z
+1,cpe:2.3:h:d-link:di-524:-:*:*:*:*:*:*:*,D-Link DI-524,"['CVE-2005-4723', 'CVE-2006-3687', 'CVE-2008-1266', 'CVE-2017-5633']",2022-03-20T16:00Z
+2,cpe:2.3:h:d-link:di-524up:-:*:*:*:*:*:*:*,D-Link DI-524UP Router,['CVE-2013-6026'],2022-03-20T16:00Z
+3,[0],[0],[0],[0]
+4,cpe:2.3:h:d-link:di-604s:-:*:*:*:*:*:*:*,D-Link DI-604S Router,['CVE-2013-6026'],2022-03-20T16:00Z
+5,cpe:2.3:h:d-link:di-604up:-:*:*:*:*:*:*:*,D-Link DI-604UP Router,['CVE-2013-6026'],2022-03-20T16:00Z
+6,cpe:2.3:h:d-link:di-624:-:*:*:*:*:*:*:*,D-Link DI-624,"['CVE-2004-0615', 'CVE-2005-4723', 'CVE-2006-3687']",2022-03-20T16:00Z
+7,cpe:2.3:o:d-link:di-624_firmware:2.42:*:*:*:*:*:*:*,D-Link DI-624 Firmware 2.42,[''],2022-03-20T16:00Z
+8,cpe:2.3:h:d-link:di-624s:-:*:*:*:*:*:*:*,D-Link DI-624S Router,['CVE-2013-6026'],2022-03-20T16:01Z
+9,cpe:2.3:h:d-link:dir-100:-:*:*:*:*:*:*:*,D-Link DIR-100 Router,"['CVE-2013-6026', 'CVE-2013-6027', 'CVE-2013-7051', 'CVE-2013-7052', 'CVE-2013-7053', 'CVE-2013-7054', 'CVE-2013-7055']",2022-03-20T16:01Z

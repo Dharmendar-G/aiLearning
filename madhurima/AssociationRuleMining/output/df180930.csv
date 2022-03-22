@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:poweredge_c6420:-:*:*:*:*:*:*:*,Dell PowerEdge C6420,['CVE-2021-21557'],2022-03-20T12:59Z
+1,cpe:2.3:o:dell:poweredge_c6420_firmware:-:*:*:*:*:*:*:*,Dell Poweredge C6420 Firmware -,['CVE-2021-21557'],2022-03-20T12:59Z
+2,cpe:2.3:o:dell:poweredge_c6420_firmware:2.11.2:*:*:*:*:*:*:*,Dell Poweredge C6420 Firmware 2.11.2,[''],2022-03-20T12:59Z
+3,cpe:2.3:h:dell:poweredge_c6525:-:*:*:*:*:*:*:*,Dell PowerEdge C6525,['CVE-2021-21557'],2022-03-20T12:59Z
+4,cpe:2.3:o:dell:poweredge_c6525_firmware:-:*:*:*:*:*:*:*,Dell Poweredge C6525 Firmware -,['CVE-2021-21557'],2022-03-20T12:59Z
+5,cpe:2.3:o:dell:poweredge_c6525_firmware:2.2.4:*:*:*:*:*:*:*,Dell Poweredge C6525 Firmware 2.2.4,[''],2022-03-20T12:59Z
+6,cpe:2.3:a:dell:poweredge_diagnostics:2.7:*:*:*:*:*:*:*,Dell Poweredge Diagnostics 2.7,[''],2022-03-20T12:59Z
+7,cpe:2.3:a:dell:poweredge_diagnostics:2.8:*:*:*:*:*:*:*,Dell Poweredge Diagnostics 2.8,[''],2022-03-20T12:59Z
+8,cpe:2.3:a:dell:poweredge_diagnostics:2.9:*:*:*:*:*:*:*,Dell Poweredge Diagnostics 2.9,[''],2022-03-20T12:59Z
+9,cpe:2.3:h:dell:poweredge_fc640:-:*:*:*:*:*:*:*,Dell PowerEdge FC640,['CVE-2021-21557'],2022-03-20T12:59Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:telepresence_mcu_4501_series_software:4.2\(1.46\):*:*:*:*:*:*:*,Cisco TelePresence MCU 4501 Series  4.2(1.46),['CVE-2013-1176'],2022-03-20T00:30Z
+1,cpe:2.3:a:cisco:telepresence_mcu_4501_series_software:4.2\(1.50\):*:*:*:*:*:*:*,Cisco TelePresence MCU 4501 Series  4.2(1.50),['CVE-2013-1176'],2022-03-20T00:30Z
+2,cpe:2.3:a:cisco:telepresence_mcu_4501_series_software:4.3\(1.68\):*:*:*:*:*:*:*,Cisco TelePresence MCU 4501 Series  4.3(1.68),['CVE-2013-1176'],2022-03-20T00:30Z
+3,cpe:2.3:a:cisco:telepresence_mcu_4501_series_software:4.3\(2.18\):*:*:*:*:*:*:*,Cisco TelePresence MCU 4501 Series 4.3(2.18),['CVE-2013-1176'],2022-03-20T00:31Z
+4,cpe:2.3:h:cisco:telepresence_mcu_4505:-:*:*:*:*:*:*:*,Cisco TelePresence MCU 4505,"['CVE-2013-1176', 'CVE-2017-3792']",2022-03-20T00:31Z
+5,cpe:2.3:h:cisco:telepresence_mcu_4510:-:*:*:*:*:*:*:*,Cisco TelePresence MCU 4510,"['CVE-2013-1176', 'CVE-2017-3792']",2022-03-20T00:31Z
+6,cpe:2.3:h:cisco:telepresence_mcu_4515:-:*:*:*:*:*:*:*,Cisco TelePresence MCU 4515,"['CVE-2013-1176', 'CVE-2017-3792']",2022-03-20T00:31Z
+7,cpe:2.3:h:cisco:telepresence_mcu_4520:-:*:*:*:*:*:*:*,Cisco TelePresence MCU 4520,"['CVE-2013-1176', 'CVE-2017-3792']",2022-03-20T00:31Z
+8,cpe:2.3:h:cisco:telepresence_mcu_5310:-:*:*:*:*:*:*:*,Cisco TelePresence MCU 5310,['CVE-2017-3792'],2022-03-20T00:31Z
+9,cpe:2.3:h:cisco:telepresence_mcu_5320:-:*:*:*:*:*:*:*,Cisco TelePresence MCU 5320,['CVE-2017-3792'],2022-03-20T00:31Z

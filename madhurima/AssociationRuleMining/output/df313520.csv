@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hm-print_project:hm-print:1.2a:*:*:*:*:*:*:*,HM Print Project HM Print 1.2a,['CVE-2019-18939'],2022-03-21T11:33Z
+1,cpe:2.3:a:hms-networks:ecatcher:1.0.1:*:*:*:*:*:*:*,HMS-Networks Ecatcher 1.0.1,"['CVE-2020-14498', 'CVE-2021-33214']",2022-03-21T11:33Z
+2,cpe:2.3:a:hms-networks:ecatcher:3.0.0:*:*:*:*:*:*:*,HMS-Networks Ecatcher 3.0.0,"['CVE-2020-14498', 'CVE-2021-33214']",2022-03-21T11:33Z
+3,cpe:2.3:a:hms-networks:ecatcher:3.0.1:*:*:*:*:*:*:*,HMS-Networks Ecatcher 3.0.1,"['CVE-2020-14498', 'CVE-2021-33214']",2022-03-21T11:33Z
+4,cpe:2.3:a:hms-networks:ecatcher:3.0.2:*:*:*:*:*:*:*,HMS-Networks Ecatcher 3.0.2,"['CVE-2020-14498', 'CVE-2021-33214']",2022-03-21T11:33Z
+5,cpe:2.3:a:hms-networks:ecatcher:3.0.3:*:*:*:*:*:*:*,HMS-Networks Ecatcher 3.0.3,"['CVE-2020-14498', 'CVE-2021-33214']",2022-03-21T11:33Z
+6,cpe:2.3:a:hms-networks:ecatcher:3.1.0:*:*:*:*:*:*:*,HMS-Networks Ecatcher 3.1.0,"['CVE-2020-14498', 'CVE-2021-33214']",2022-03-21T11:33Z
+7,cpe:2.3:a:hms-networks:ecatcher:3.2.0:*:*:*:*:*:*:*,HMS-Networks Ecatcher 3.2.0,"['CVE-2020-14498', 'CVE-2021-33214']",2022-03-21T11:33Z
+8,cpe:2.3:a:hms-networks:ecatcher:4.0.0:*:*:*:*:*:*:*,HMS-Networks Ecatcher 4.0.0,"['CVE-2020-14498', 'CVE-2021-33214']",2022-03-21T11:33Z
+9,cpe:2.3:a:hms-networks:ecatcher:4.1.0:*:*:*:*:*:*:*,HMS-Networks Ecatcher 4.1.0,"['CVE-2020-14498', 'CVE-2021-33214']",2022-03-21T11:33Z

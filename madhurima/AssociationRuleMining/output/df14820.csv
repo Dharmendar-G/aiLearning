@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aerospike:aerospike_server:5.6.0.3:*:*:*:community:*:*:*,Aerospike Server 5.6.0.3 Community Edition,[''],2022-03-18T13:27Z
+1,cpe:2.3:a:aerospike:aerospike_server:5.6.0.4:*:*:*:community:*:*:*,Aerospike Server 5.6.0.4 Community Edition,[''],2022-03-18T13:27Z
+2,cpe:2.3:a:aerospike:aerospike_server:5.6.0.5:*:*:*:community:*:*:*,Aerospike Server 5.6.0.5 Community Edition,[''],2022-03-18T13:27Z
+3,cpe:2.3:a:aerospike:aerospike_server:5.6.0.7:*:*:*:community:*:*:*,Aerospike Server 5.6.0.7 Community Edition,[''],2022-03-18T13:27Z
+4,cpe:2.3:a:aerospike:aerospike_server:5.6.0.8:*:*:*:community:*:*:*,Aerospike Server 5.6.0.8 Community Edition,[''],2022-03-18T13:27Z
+5,cpe:2.3:a:aerospike:database_server:3.10.0.3:*:*:*:*:*:*:*,Aerospike Database Server 3.10.0.3,"['CVE-2016-9049', 'CVE-2016-9050', 'CVE-2016-9051', 'CVE-2016-9052', 'CVE-2016-9053', 'CVE-2016-9054']",2022-03-18T13:27Z
+6,cpe:2.3:a:aertherwide:exiftags:0.80:*:*:*:*:*:*:*,Aertherwide exiftags 0.80,"['CVE-2007-6354', 'CVE-2007-6355', 'CVE-2007-6356']",2022-03-18T13:27Z
+7,cpe:2.3:a:aertherwide:exiftags:0.90:*:*:*:*:*:*:*,Aertherwide exiftags 0.90,"['CVE-2007-6354', 'CVE-2007-6355', 'CVE-2007-6356']",2022-03-18T13:27Z
+8,cpe:2.3:a:aertherwide:exiftags:0.91:*:*:*:*:*:*:*,Aertherwide exiftags 0.91,"['CVE-2007-6354', 'CVE-2007-6355', 'CVE-2007-6356']",2022-03-18T13:27Z
+9,cpe:2.3:a:aertherwide:exiftags:0.92:*:*:*:*:*:*:*,Aertherwide exiftags 0.92,"['CVE-2007-6354', 'CVE-2007-6355', 'CVE-2007-6356']",2022-03-18T13:27Z

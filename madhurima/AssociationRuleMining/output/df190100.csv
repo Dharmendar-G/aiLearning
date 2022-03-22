@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dsr-500ac_firmware:3.17:*:*:*:*:*:*:*,D-Link DSR-500AC Firmware 3.17,"['CVE-2020-25757', 'CVE-2020-25758', 'CVE-2020-25759']",2022-03-20T15:56Z
+1,cpe:2.3:h:dlink:dsr-500n:-:*:*:*:*:*:*:*,D-Link DSR-500N,"['CVE-2013-5945', 'CVE-2020-25757', 'CVE-2020-25758', 'CVE-2020-25759', 'CVE-2021-39615']",2022-03-20T15:56Z
+2,cpe:2.3:o:dlink:dsr-500n_firmware:1.02:*:*:*:*:*:*:*,D-Link DSR-500N Firmware 1.02,"['CVE-2013-5945', 'CVE-2020-25757', 'CVE-2020-25758', 'CVE-2020-25759', 'CVE-2021-39615']",2022-03-20T15:56Z
+3,cpe:2.3:o:dlink:dsr-500n_firmware:1.08b77:*:*:*:*:*:*:*,D-Link DSR-500N Firmware 1.08B77,"['CVE-2020-25757', 'CVE-2020-25758', 'CVE-2020-25759']",2022-03-20T15:56Z
+4,cpe:2.3:o:dlink:dsr-500n_firmware:2.11b201c:*:*:*:*:*:*:*,D-Link DSR-500N Firmware 2.11B201C,"['CVE-2020-25757', 'CVE-2020-25758', 'CVE-2020-25759']",2022-03-20T15:56Z
+5,cpe:2.3:o:dlink:dsr-500n_firmware:2.12:*:*:*:*:*:*:*,D-Link DSR-500N Firmware 2.12,"['CVE-2020-25757', 'CVE-2020-25758', 'CVE-2020-25759']",2022-03-20T15:56Z
+6,cpe:2.3:o:dlink:dsr-500n_firmware:2.13:*:*:*:*:*:*:*,D-Link DSR-500N Firmware 2.13,"['CVE-2020-25757', 'CVE-2020-25758', 'CVE-2020-25759']",2022-03-20T15:56Z
+7,cpe:2.3:h:dlink:dva-2800:revision_t:*:*:*:*:*:*:*,D-Link DVA-2800 Rev T,"['CVE-2020-27862', 'CVE-2020-27863']",2022-03-20T15:56Z
+8,cpe:2.3:o:dlink:dva-2800_firmware:2.30_au:*:*:*:*:*:*:*,D-Link DVA-2800 Firmware 2.30 AU,"['CVE-2020-27862', 'CVE-2020-27863']",2022-03-20T15:56Z
+9,cpe:2.3:h:dlink:dva-5592:-:*:*:*:*:*:*:*,D-Link DVA-5592,"['CVE-2018-17777', 'CVE-2019-6968', 'CVE-2019-6969']",2022-03-20T15:56Z

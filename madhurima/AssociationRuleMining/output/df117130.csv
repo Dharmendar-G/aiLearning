@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:catalyst_9115_ap:-:*:*:*:*:*:*:*,Cisco Catalyst 9115 AP,"['CVE-2020-3487', 'CVE-2021-34740']",2022-03-19T19:01Z
+1,cpe:2.3:h:cisco:catalyst_9115axe:-:*:*:*:*:*:*:*,Cisco Catalyst 9115AXE,"['CVE-2021-1419', 'CVE-2021-34740']",2022-03-19T19:01Z
+2,cpe:2.3:h:cisco:catalyst_9115axi:-:*:*:*:*:*:*:*,Cisco Catalyst 9115AXI,"['CVE-2021-1419', 'CVE-2021-34740']",2022-03-19T19:01Z
+3,cpe:2.3:h:cisco:catalyst_9117:-:*:*:*:*:*:*:*,Cisco Catalyst 9117,"['CVE-2020-3486', 'CVE-2020-3560', 'CVE-2021-1615', 'CVE-2021-34740']",2022-03-19T19:01Z
+4,cpe:2.3:h:cisco:catalyst_9117_ap:-:*:*:*:*:*:*:*,Cisco Catalyst 9117 AP,"['CVE-2020-3487', 'CVE-2021-34740']",2022-03-19T19:01Z
+5,cpe:2.3:h:cisco:catalyst_9117axi:-:*:*:*:*:*:*:*,Cisco Catalyst 9117AXI,"['CVE-2021-1419', 'CVE-2021-34740']",2022-03-19T19:01Z
+6,cpe:2.3:h:cisco:catalyst_9120:-:*:*:*:*:*:*:*,Cisco Catalyst 9120,"['CVE-2020-3486', 'CVE-2020-3560', 'CVE-2021-1615', 'CVE-2021-34740']",2022-03-19T19:01Z
+7,cpe:2.3:h:cisco:catalyst_9120_ap:-:*:*:*:*:*:*:*,Cisco Catalyst 9120 AP,"['CVE-2020-3487', 'CVE-2021-34740']",2022-03-19T19:01Z
+8,cpe:2.3:h:cisco:catalyst_9120axe:-:*:*:*:*:*:*:*,Cisco Catalyst 9120AXE,"['CVE-2021-1419', 'CVE-2021-34740']",2022-03-19T19:01Z
+9,cpe:2.3:h:cisco:catalyst_9120axi:-:*:*:*:*:*:*:*,Cisco Catalyst 9120AXI,"['CVE-2021-1419', 'CVE-2021-34740']",2022-03-19T19:01Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,cpe:2.3:h:axis:thermal_camera:-:*:*:*:*:*:*:*,Axis Thermal Camera,"['CVE-2015-8256', 'CVE-2015-8257']",2022-03-19T04:57Z
+3,cpe:2.3:o:axis:v5914_firmware:5.75.1.10:*:*:*:*:*:*:*,Axis Communications V5914 Firmware 5.75.1.10,[''],2022-03-19T04:57Z
+4,cpe:2.3:o:axis:v5915_firmware:5.75.1.10:*:*:*:*:*:*:*,Axis Communications V5915 Firmware 5.75.1.10,[''],2022-03-19T04:57Z
+5,cpe:2.3:o:axis:xf40-q1765_firmware:6.50.2.3:*:*:*:*:*:*:*,Axis Communications XF40-Q1765 Firmware 6.50.2.3,[''],2022-03-19T04:57Z
+6,cpe:2.3:o:axis:xf40-q2901_firmware:6.55.1.2:*:*:*:*:*:*:*,Axis Communications XF40-Q2901 Firmware 6.55.1.2,[''],2022-03-19T04:57Z
+7,cpe:2.3:o:axis:xf60-q2901_firmware:6.55.1.2:*:*:*:*:*:*:*,Axis Communications XF60-Q2901 Firmware 6.55.1.2,[''],2022-03-19T04:57Z
+8,cpe:2.3:o:axis:xp40-q1765_firmware:6.50.2.3:*:*:*:*:*:*:*,Axis Communications XP40-Q1765 Firmware 6.50.2.3,[''],2022-03-19T04:57Z
+9,cpe:2.3:o:axis:xp40-q1942_firmware:6.55.1.2:*:*:*:*:*:*:*,Axis Communications XP40-Q1942 Firmware 6.55.1.2,[''],2022-03-19T04:57Z

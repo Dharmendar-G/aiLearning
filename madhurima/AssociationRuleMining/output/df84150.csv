@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bonitasoft:bonita_bpm_portal:7.8.0:*:*:*:*:*:*:*,Bonitasoft Bonita BPM Portal 7.8.0,[''],2022-03-19T09:34Z
+1,cpe:2.3:a:bonitasoft:bonita_bpm_portal:7.8.1:*:*:*:*:*:*:*,Bonitasoft Bonita BPM Portal 7.8.1,[''],2022-03-19T09:34Z
+2,cpe:2.3:a:bonitasoft:bonita_bpm_portal:7.8.2:*:*:*:*:*:*:*,Bonitasoft Bonita BPM Portal 7.8.2,[''],2022-03-19T09:34Z
+3,cpe:2.3:a:bonitasoft:bonita_bpm_portal:7.8.3:*:*:*:*:*:*:*,Bonitasoft Bonita BPM Portal 7.8.3,[''],2022-03-19T09:34Z
+4,cpe:2.3:a:bonitasoft:bonita_bpm_portal:7.8.4:*:*:*:*:*:*:*,Bonitasoft Bonita BPM Portal 7.8.4,[''],2022-03-19T09:34Z
+5,cpe:2.3:a:bonitasoft:bonita_bpm_portal:7.9.0:*:*:*:*:*:*:*,Bonitasoft Bonita BPM Portal 7.9.0,[''],2022-03-19T09:34Z
+6,cpe:2.3:a:bonitasoft:bonita_bpm_portal:7.9.1:*:*:*:*:*:*:*,Bonitasoft Bonita BPM Portal 7.9.1,[''],2022-03-19T09:34Z
+7,cpe:2.3:a:bonitasoft:bonita_bpm_portal:7.9.2:*:*:*:*:*:*:*,Bonitasoft Bonita BPM Portal 7.9.2,[''],2022-03-19T09:34Z
+8,cpe:2.3:a:bonitasoft:bonita_bpm_portal:7.9.3:*:*:*:*:*:*:*,Bonitasoft Bonita BPM Portal 7.9.3,[''],2022-03-19T09:34Z
+9,cpe:2.3:a:bonobogitserver:bonobo_git_server:1.1.0:*:*:*:*:*:*:*,Bonobo Git Server 1.1.0,"['CVE-2019-11217', 'CVE-2019-11218']",2022-03-19T09:34Z

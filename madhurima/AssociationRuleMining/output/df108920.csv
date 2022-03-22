@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:checkpoint:harmony_browse:90.08.7405:*:*:*:*:*:*:*,Check Point Harmony Browse 90.08.7405,[''],2022-03-19T16:48Z
+1,cpe:2.3:a:checkpoint:ica_management_portal:r80.20:-:*:*:*:*:*:*,Check Point ICA Management Portal R80.20,['CVE-2020-6020'],2022-03-19T16:48Z
+2,cpe:2.3:a:checkpoint:ica_management_portal:r80.20:take_156:*:*:*:*:*:*,Check Point ICA Management Portal R80.20 Take 156,['CVE-2020-6020'],2022-03-19T16:48Z
+3,cpe:2.3:a:checkpoint:ica_management_portal:r80.30:-:*:*:*:*:*:*,Check Point ICA Management Portal R80.30,['CVE-2020-6020'],2022-03-19T16:48Z
+4,cpe:2.3:a:checkpoint:ica_management_portal:r80.30:take_200:*:*:*:*:*:*,Check Point ICA Management Portal R80.30 Take 200,['CVE-2020-6020'],2022-03-19T16:48Z
+5,cpe:2.3:a:checkpoint:ica_management_portal:r80.40:-:*:*:*:*:*:*,Check Point ICA Management Portal R80.40,['CVE-2020-6020'],2022-03-19T16:48Z
+6,cpe:2.3:a:checkpoint:identity_agent:-:*:*:*:*:*:*:*,Check Point Identity Agent,['CVE-2021-30356'],2022-03-19T16:48Z
+7,cpe:2.3:a:checkpoint:identity_agent:r81.018.0000:*:*:*:*:*:*:*,Check Point Identity Agent R81.018.0000,[''],2022-03-19T16:48Z
+8,cpe:2.3:a:checkpoint:ipsec_vpn:r80.10:*:*:*:*:*:*:*,Checkpoint IPsec Vpn R80.10,['CVE-2019-8456'],2022-03-19T16:48Z
+9,cpe:2.3:a:checkpoint:ipsec_vpn:r80.20:*:*:*:*:*:*:*,Checkpoint IPsec Vpn R80.20,['CVE-2019-8456'],2022-03-19T16:48Z

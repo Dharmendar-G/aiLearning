@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:espace_u1960_firmware:v200r003c30spc200:*:*:*:*:*:*:*,Huawei eSpace U1960 Firmware V200R003C30SPC200,"['CVE-2017-17142', 'CVE-2017-17143', 'CVE-2017-17144']",2022-03-21T17:41Z
+1,cpe:2.3:h:huawei:espace_u1980:-:*:*:*:*:*:*:*,Huawei eSpace U1980,"['CVE-2017-2690', 'CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T17:41Z
+2,cpe:2.3:o:huawei:espace_u1980_firmware:v100r001c01spc500t:*:*:*:*:*:*:*,Huawei eSpace U1980 Firmware V100R001C01SPC500T,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T17:41Z
+3,cpe:2.3:o:huawei:espace_u1980_firmware:v100r001c20spc300:*:*:*:*:*:*:*,Huawei eSpace U1980 Firmware V100R001C20SPC300,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T17:41Z
+4,cpe:2.3:o:huawei:espace_u1980_firmware:v100r001c20spc400:*:*:*:*:*:*:*,Huawei eSpace U1980 Firmware V100R001C20SPC400,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T17:41Z
+5,cpe:2.3:o:huawei:espace_u1980_firmware:v100r001c20spc500t:*:*:*:*:*:*:*,Huawei eSpace U1980 Firmware V100R001C20SPC500T,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T17:41Z
+6,cpe:2.3:o:huawei:espace_u1980_firmware:v100r001c20spc502:*:*:*:*:*:*:*,Huawei eSpace U1980 Firmware V100R001C20SPC502,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T17:41Z
+7,cpe:2.3:o:huawei:espace_u1980_firmware:v100r001c20spc600:*:*:*:*:*:*:*,Huawei eSpace U1980 Firmware V100R001C20SPC600,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T17:41Z
+8,cpe:2.3:o:huawei:espace_u1980_firmware:v100r001c20sph309:*:*:*:*:*:*:*,Huawei eSpace U1980 Firmware V100R001C20SPH309,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T17:41Z
+9,cpe:2.3:o:huawei:espace_u1980_firmware:v100r001c20sph703:*:*:*:*:*:*:*,Huawei eSpace U1980 Firmware V100R001C20SPH703,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T17:41Z

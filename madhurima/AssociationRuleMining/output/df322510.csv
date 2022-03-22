@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:hp-ux_series_700:10.20:*:*:*:*:*:*:*,HP hp-ux series 700 10.20,"['CVE-2002-1668', 'CVE-2003-0028', 'CVE-2003-0161', 'CVE-2004-1332']",2022-03-21T13:35Z
+1,cpe:2.3:o:hp:hp-ux_series_800:-:*:*:*:*:*:*:*,HP hp-ux series 800,[''],2022-03-21T13:35Z
+2,cpe:2.3:o:hp:hp-ux_series_800:10.20:*:*:*:*:*:*:*,HP hp-ux series 800 10.20,"['CVE-2002-1668', 'CVE-2003-0028', 'CVE-2003-0161', 'CVE-2004-1332']",2022-03-21T13:35Z
+3,cpe:2.3:a:hp:hp-ux_whitelisting:a.01.02:*:*:*:*:*:*:*,HP HP-UX Whitelisting (aka WLI) A.01.02,['CVE-2013-6219'],2022-03-21T13:35Z
+4,cpe:2.3:a:hp:hp-ux_whitelisting:a.01.02.02:*:*:*:*:*:*:*,HP HP-UX Whitelisting (aka WLI) A.01.02.02,[''],2022-03-21T13:35Z
+5,cpe:2.3:a:hp:hpztlbxfx:0.206.197:*:*:*:*:*:*:*,HP Hpztlbxfx 0.206.197,[''],2022-03-21T13:35Z
+6,cpe:2.3:a:hp:hpztlbxfx:1.2.139:*:*:*:*:*:*:*,HP Hpztlbxfx 1.2.139,[''],2022-03-21T13:35Z
+7,cpe:2.3:a:hp:hpztlbxfx:2.2.170:*:*:*:*:*:*:*,HP Hpztlbxfx 2.2.170,[''],2022-03-21T13:35Z
+8,cpe:2.3:a:hp:hpztlbxfx:3.7.281:*:*:*:*:*:*:*,HP Hpztlbxfx 3.7.281,[''],2022-03-21T13:35Z
+9,cpe:2.3:a:hp:hpztlbxfx:4.9.140:*:*:*:*:*:*:*,HP Hpztlbxfx 4.9.140,[''],2022-03-21T13:35Z

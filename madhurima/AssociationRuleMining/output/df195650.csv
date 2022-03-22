@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:draftpress:header_footer_code_manager:1.1.6:*:*:*:*:wordpress:*:*,Draftpress Header Footer Code Manager 1.1.6 for WordPress,"['CVE-2021-24791', 'CVE-2022-0710']",2022-03-20T17:45Z
+1,cpe:2.3:a:draftpress:header_footer_code_manager:1.1.7:*:*:*:*:wordpress:*:*,Draftpress Header Footer Code Manager 1.1.7 for WordPress,"['CVE-2021-24791', 'CVE-2022-0710']",2022-03-20T17:45Z
+2,cpe:2.3:a:draftpress:header_footer_code_manager:1.1.8:*:*:*:*:wordpress:*:*,Draftpress Header Footer Code Manager 1.1.8 for WordPress,"['CVE-2021-24791', 'CVE-2022-0710']",2022-03-20T17:45Z
+3,cpe:2.3:a:draftpress:header_footer_code_manager:1.1.9:*:*:*:*:wordpress:*:*,Draftpress Header Footer Code Manager 1.1.9 for WordPress,"['CVE-2021-24791', 'CVE-2022-0710']",2022-03-20T17:45Z
+4,cpe:2.3:a:draftpress:header_footer_code_manager:1.1.10:*:*:*:*:wordpress:*:*,Draftpress Header Footer Code Manager 1.1.10 for WordPress,"['CVE-2021-24791', 'CVE-2022-0710']",2022-03-20T17:45Z
+5,cpe:2.3:a:draftpress:header_footer_code_manager:1.1.11:*:*:*:*:wordpress:*:*,Draftpress Header Footer Code Manager 1.1.11 for WordPress,"['CVE-2021-24791', 'CVE-2022-0710']",2022-03-20T17:45Z
+6,cpe:2.3:a:draftpress:header_footer_code_manager:1.1.12:*:*:*:*:wordpress:*:*,Draftpress Header Footer Code Manager 1.1.12 for WordPress,"['CVE-2021-24791', 'CVE-2022-0710']",2022-03-20T17:45Z
+7,cpe:2.3:a:draftpress:header_footer_code_manager:1.1.13:*:*:*:*:wordpress:*:*,Draftpress Header Footer Code Manager 1.1.13 for WordPress,"['CVE-2021-24791', 'CVE-2022-0710']",2022-03-20T17:45Z
+8,cpe:2.3:a:draftpress:header_footer_code_manager:1.1.14:*:*:*:*:wordpress:*:*,Draftpress Header Footer Code Manager 1.1.14 for WordPress,['CVE-2022-0710'],2022-03-20T17:45Z
+9,cpe:2.3:a:dragonbyte-tech:forumon_rpg_module:1.0.8:*:*:*:*:vbulletin:*:*,DragonByte Technologies Forumon RPG Module 1.0.8 for vBulletin,[''],2022-03-20T17:45Z

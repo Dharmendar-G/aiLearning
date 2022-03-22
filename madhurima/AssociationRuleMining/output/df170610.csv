@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dahuasecurity:n52a4p_firmware:2019-12:*:*:*:*:*:*:*,Dahuasecurity N52A4P Firmware 2019-12,[''],2022-03-20T09:57Z
+1,cpe:2.3:h:dahuasecurity:n52b2p:-:*:*:*:*:*:*:*,Dahuasecurity N52B2P,"['CVE-2019-9682', 'CVE-2020-9499', 'CVE-2020-9500', 'CVE-2020-9502']",2022-03-20T09:57Z
+2,cpe:2.3:o:dahuasecurity:n52b2p_firmware:-:*:*:*:*:*:*:*,Dahua Technology N52B2P Firmware,"['CVE-2019-9682', 'CVE-2020-9499', 'CVE-2020-9500', 'CVE-2020-9502']",2022-03-20T09:57Z
+3,cpe:2.3:o:dahuasecurity:n52b2p_firmware:2019-12:*:*:*:*:*:*:*,Dahuasecurity N52B2P Firmware 2019-12,[''],2022-03-20T09:57Z
+4,cpe:2.3:h:dahuasecurity:n52b3p:-:*:*:*:*:*:*:*,Dahuasecurity N52B3P,"['CVE-2019-9682', 'CVE-2020-9499', 'CVE-2020-9500', 'CVE-2020-9502']",2022-03-20T09:57Z
+5,cpe:2.3:o:dahuasecurity:n52b3p_firmware:-:*:*:*:*:*:*:*,Dahua Technology N52B3P Firmware,"['CVE-2019-9682', 'CVE-2020-9499', 'CVE-2020-9500', 'CVE-2020-9502']",2022-03-20T09:57Z
+6,cpe:2.3:o:dahuasecurity:n52b3p_firmware:2019-12:*:*:*:*:*:*:*,Dahuasecurity N52B3P Firmware 2019-12,[''],2022-03-20T09:57Z
+7,cpe:2.3:h:dahuasecurity:n52b5p:-:*:*:*:*:*:*:*,Dahuasecurity N52B5P,"['CVE-2019-9682', 'CVE-2020-9499', 'CVE-2020-9500', 'CVE-2020-9502']",2022-03-20T09:57Z
+8,cpe:2.3:o:dahuasecurity:n52b5p_firmware:-:*:*:*:*:*:*:*,Dahua Technology N52B5P Firmware,"['CVE-2019-9682', 'CVE-2020-9499', 'CVE-2020-9500', 'CVE-2020-9502']",2022-03-20T09:57Z
+9,cpe:2.3:o:dahuasecurity:n52b5p_firmware:2019-12:*:*:*:*:*:*:*,Dahuasecurity N52B5P Firmware 2019-12,[''],2022-03-20T09:57Z

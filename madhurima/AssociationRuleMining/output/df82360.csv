@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bmc:patrol_agent:10.7.00.05:*:*:*:*:*:*:*,BMC Software PATROL Agent 10.7.00.05,"['CVE-2018-20735', 'CVE-2019-8352']",2022-03-19T09:09Z
+1,cpe:2.3:a:bmc:patrol_agent:11.0.00:*:*:*:*:*:*:*,BMC Software PATROL Agent 11.0.00,"['CVE-2018-20735', 'CVE-2019-8352']",2022-03-19T09:09Z
+2,cpe:2.3:a:bmc:patrol_agent:11.0.00.01:*:*:*:*:*:*:*,BMC Software PATROL Agent 11.0.00.01,"['CVE-2018-20735', 'CVE-2019-8352']",2022-03-19T09:09Z
+3,cpe:2.3:a:bmc:patrol_agent:11.0.00.02:*:*:*:*:*:*:*,BMC Software PATROL Agent 11.0.00.02,"['CVE-2018-20735', 'CVE-2019-8352']",2022-03-19T09:09Z
+4,cpe:2.3:a:bmc:patrol_agent:11.0.00.03:*:*:*:*:*:*:*,BMC Software PATROL Agent 11.0.00.03,"['CVE-2018-20735', 'CVE-2019-8352']",2022-03-19T09:09Z
+5,cpe:2.3:a:bmc:patrol_agent:11.3.01:*:*:*:*:*:*:*,BMC Software PATROL Agent 11.3.01,"['CVE-2018-20735', 'CVE-2019-8352']",2022-03-19T09:09Z
+6,cpe:2.3:a:bmc:patrol_agent:11.3.02:*:*:*:*:*:*:*,BMC Software PATROL Agent 11.3.02,[''],2022-03-19T09:09Z
+7,cpe:2.3:a:bmc:patrol_agent:11.3.02.01:*:*:*:*:*:*:*,BMC Software PATROL Agent 11.3.02.01,[''],2022-03-19T09:09Z
+8,cpe:2.3:a:bmc:patrol_perform_agent:-:*:*:*:*:*:*:*,BMC Software PerformAgent,['CVE-2007-2136'],2022-03-19T09:09Z
+9,cpe:2.3:a:bmc:performance_manager:-:*:*:*:*:*:*:*,BMC Software Performance Manager,['CVE-2007-1972'],2022-03-19T09:09Z

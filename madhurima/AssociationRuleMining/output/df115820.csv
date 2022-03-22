@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:asa_cx_context-aware_security_software:9.3.4-1:*:*:*:*:*:*:*,Cisco ASA CX Context-Aware Security Software 9.3.4-1,['CVE-2016-9225'],2022-03-19T18:36Z
+1,cpe:2.3:o:cisco:asa_cx_context-aware_security_software:9.3.4-2:*:*:*:*:*:*:*,Cisco ASA CX Context-Aware Security Software 9.3.4-2,['CVE-2016-9225'],2022-03-19T18:36Z
+2,cpe:2.3:o:cisco:asa_cx_context-aware_security_software:9.3.4-3:*:*:*:*:*:*:*,Cisco ASA CX Context-Aware Security Software 9.3.4-3,['CVE-2016-9225'],2022-03-19T18:36Z
+3,cpe:2.3:o:cisco:asa_cx_context-aware_security_software:9.3.4-4:*:*:*:*:*:*:*,Cisco ASA CX Context-Aware Security Software 9.3.4-4,['CVE-2016-9225'],2022-03-19T18:36Z
+4,cpe:2.3:o:cisco:asa_cx_context-aware_security_software:9.3.4-5:*:*:*:*:*:*:*,Cisco ASA CX Context-Aware Security Software 9.3.4-5,['CVE-2016-9225'],2022-03-19T18:36Z
+5,cpe:2.3:o:cisco:asa_cx_context-aware_security_software:9.3.4-6:*:*:*:*:*:*:*,Cisco ASA CX Context-Aware Security Software 9.3.4-6,['CVE-2016-9225'],2022-03-19T18:36Z
+6,cpe:2.3:o:cisco:asa_cx_context-aware_security_software:9.3_base:*:*:*:*:*:*:*,Cisco ASA CX Context-Aware Security Software 9.3 BASE,"['CVE-2015-0678', 'CVE-2016-9225']",2022-03-19T18:36Z
+7,cpe:2.3:a:cisco:asa_with_firepower_services:5.3.1:*:*:*:*:*:*:*,Cisco ASA With FirePOWER Services 5.3.1,['CVE-2016-1369'],2022-03-19T18:36Z
+8,cpe:2.3:o:cisco:asa_with_firepower_services:5.3.1:*:*:*:*:*:*:*,Cisco ASA with Firewpower Services 5.3.1,['CVE-2015-0678'],2022-03-19T18:36Z
+9,cpe:2.3:a:cisco:asa_with_firepower_services:5.3.1.1:*:*:*:*:*:*:*,Cisco ASA With FirePOWER Services 5.3.1.1,['CVE-2016-1369'],2022-03-19T18:36Z

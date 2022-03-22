@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hyuki:yukiwiki:2.1.0:*:*:*:*:*:*:*,Hiroshi Yuki YukiWiki 2.1.0,"['CVE-2018-0699', 'CVE-2018-0700']",2022-03-21T19:34Z
+1,cpe:2.3:a:hyuki:yukiwiki:2.1.0d:*:*:*:*:*:*:*,Hiroshi Yuki YukiWiki 2.1.0d,"['CVE-2018-0699', 'CVE-2018-0700']",2022-03-21T19:34Z
+2,cpe:2.3:a:hyuki:yukiwiki:2.1.1:*:*:*:*:*:*:*,Hiroshi Yuki YukiWiki 2.1.1,"['CVE-2018-0699', 'CVE-2018-0700']",2022-03-21T19:34Z
+3,cpe:2.3:a:hyuki:yukiwiki:2.1.1a:*:*:*:*:*:*:*,Hiroshi Yuki YukiWiki 2.1.1a,"['CVE-2018-0699', 'CVE-2018-0700']",2022-03-21T19:35Z
+4,cpe:2.3:a:hyuki:yukiwiki:2.1.2:*:*:*:*:*:*:*,Hiroshi Yuki YukiWiki 2.1.2,"['CVE-2018-0699', 'CVE-2018-0700']",2022-03-21T19:35Z
+5,cpe:2.3:a:hyuki:yukiwiki:2.1.2a:*:*:*:*:*:*:*,Hiroshi Yuki YukiWiki 2.1.2a,"['CVE-2018-0699', 'CVE-2018-0700']",2022-03-21T19:35Z
+6,cpe:2.3:a:hyuki:yukiwiki:2.1.3:*:*:*:*:*:*:*,Hiroshi Yuki YukiWiki 2.1.3,"['CVE-2018-0699', 'CVE-2018-0700']",2022-03-21T19:35Z
+7,cpe:2.3:h:hyundai-pay:hk-1000:-:*:*:*:*:*:*:*,Hyundai Pay HK-1000,['CVE-2019-14360'],2022-03-21T19:35Z
+8,cpe:2.3:a:hyundaiusa:blue_link:3.9.4:*:*:*:*:*:*:*,Hyundai Motor America Blue Link 3.9.4,"['CVE-2017-6052', 'CVE-2017-6054']",2022-03-21T19:35Z
+9,cpe:2.3:a:hyundaiusa:blue_link:3.9.5:*:*:*:*:*:*:*,Hyundai Motor America Blue Link 3.9.5,"['CVE-2017-6052', 'CVE-2017-6054']",2022-03-21T19:35Z

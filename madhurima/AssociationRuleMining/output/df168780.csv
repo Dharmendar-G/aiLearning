@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cutephp:cutenews:1.5.2:*:*:*:*:*:*:*,CutePHP CuteNews 1.5.2,['CVE-2005-3009'],2022-03-20T09:34Z
+1,cpe:2.3:a:cutephp:cutenews:1.5.3:*:*:*:*:*:*:*,CutePHP CuteNews 1.5.3,['CVE-2005-3009'],2022-03-20T09:34Z
+2,cpe:2.3:a:cutephp:cutenews:2.0.0:*:*:*:*:*:*:*,CutePHP CuteNews 2.0.0,['CVE-2005-3009'],2022-03-20T09:34Z
+3,cpe:2.3:a:cutephp:cutenews:2.0.1:*:*:*:*:*:*:*,CutePHP CuteNews 2.0.1,"['CVE-2005-3009', 'CVE-2020-5557', 'CVE-2020-5558']",2022-03-20T09:34Z
+4,cpe:2.3:a:cutephp:cutenews:2.0.2:*:*:*:*:*:*:*,CutePHP CuteNews 2.0.2,['CVE-2005-3009'],2022-03-20T09:34Z
+5,cpe:2.3:a:cutephp:cutenews:2.0.3:*:*:*:*:*:*:*,CutePHP CuteNews 2.0.3,['CVE-2005-3009'],2022-03-20T09:34Z
+6,cpe:2.3:a:cutephp:cutenews:2.0.4:*:*:*:*:*:*:*,CutePHP CuteNews 2.0.4,['CVE-2005-3009'],2022-03-20T09:34Z
+7,cpe:2.3:a:cutephp:cutenews:2.1.0:*:*:*:*:*:*:*,CutePHP CuteNews 2.1.0,['CVE-2005-3009'],2022-03-20T09:34Z
+8,cpe:2.3:a:cutephp:cutenews:2.1.1:*:*:*:*:*:*:*,CutePHP CuteNews 2.1.1,['CVE-2005-3009'],2022-03-20T09:34Z
+9,cpe:2.3:a:cutephp:cutenews:2.1.2:*:*:*:*:*:*:*,CutePHP CuteNews 2.1.2,"['CVE-2005-3009', 'CVE-2019-11447']",2022-03-20T09:34Z

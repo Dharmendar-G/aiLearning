@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.7:*:*:*:*:*:*:*,Burrow-Wheeler Aligner Project Burrow-Wheeler Aligner (BWA) 0.7.7,['CVE-2019-10269'],2022-03-19T13:40Z
+1,cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.8:*:*:*:*:*:*:*,Burrow-Wheeler Aligner Project Burrow-Wheeler Aligner (BWA) 0.7.8,['CVE-2019-10269'],2022-03-19T13:40Z
+2,cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.9:*:*:*:*:*:*:*,Burrow-Wheeler Aligner Project Burrow-Wheeler Aligner (BWA) 0.7.9,['CVE-2019-10269'],2022-03-19T13:40Z
+3,cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.10:*:*:*:*:*:*:*,Burrow-Wheeler Aligner Project Burrow-Wheeler Aligner (BWA) 0.7.10,['CVE-2019-10269'],2022-03-19T13:40Z
+4,cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.11:*:*:*:*:*:*:*,Burrow-Wheeler Aligner Project Burrow-Wheeler Aligner (BWA) 0.7.11,['CVE-2019-10269'],2022-03-19T13:40Z
+5,cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.12:*:*:*:*:*:*:*,Burrow-Wheeler Aligner Project Burrow-Wheeler Aligner (BWA) 0.7.12,['CVE-2019-10269'],2022-03-19T13:40Z
+6,cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.13:*:*:*:*:*:*:*,Burrow-Wheeler Aligner Project Burrow-Wheeler Aligner (BWA) 0.7.13,['CVE-2019-10269'],2022-03-19T13:40Z
+7,cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.15:*:*:*:*:*:*:*,Burrow-Wheeler Aligner Project Burrow-Wheeler Aligner (BWA) 0.7.15,['CVE-2019-10269'],2022-03-19T13:41Z
+8,cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.16:*:*:*:*:*:*:*,Burrow-Wheeler Aligner Project Burrow-Wheeler Aligner (BWA) 0.7.16,['CVE-2019-10269'],2022-03-19T13:41Z
+9,cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.17:-:*:*:*:*:*:*,Burrow-Wheeler Aligner Project Burrow-Wheeler Aligner (BWA) 0.7.17 -,['CVE-2019-10269'],2022-03-19T13:41Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:rv160w_firmware:1.0.3.20:*:*:*:*:*:*:*,Cisco RV160W Firmware 1.0.3.20,['CVE-2021-1251'],2022-03-19T23:52Z
+1,cpe:2.3:h:cisco:rv160w_wireless-ac_vpn_router:-:*:*:*:*:*:*:*,Cisco RV160W Wireless-AC VPN Router,"['CVE-2021-1289', 'CVE-2021-1290', 'CVE-2021-1291', 'CVE-2021-1292', 'CVE-2021-1293', 'CVE-2021-1294', 'CVE-2021-1295', 'CVE-2021-1296', 'CVE-2021-1297']",2022-03-19T23:52Z
+2,cpe:2.3:o:cisco:rv160w_wireless-ac_vpn_router_firmware:1.0.01.02:*:*:*:*:*:*:*,Cisco RV160W Wireless-AC VPN Router Firmware 1.0.01.02,[''],2022-03-19T23:53Z
+3,cpe:2.3:o:cisco:rv180_firmware:1.0.5.4:*:*:*:*:*:*:*,Cisco RV180 VPN Router Firmware 1.0.5.4,['CVE-2015-6358'],2022-03-19T23:53Z
+4,cpe:2.3:h:cisco:rv180_vpn_router:-:*:*:*:*:*:*:*,Cisco RV180 VPN Router,"['CVE-2015-6319', 'CVE-2016-1429', 'CVE-2016-1430']",2022-03-19T23:53Z
+5,cpe:2.3:o:cisco:rv180_vpn_router_firmware:-:*:*:*:*:*:*:*,Cisco RV180 VPN Router Firmware,"['CVE-2016-1429', 'CVE-2016-1430']",2022-03-19T23:53Z
+6,cpe:2.3:o:cisco:rv180w_firmware:-:*:*:*:*:*:*:*,Cisco RV180W Firmware,"['CVE-2015-6358', 'CVE-2018-0405']",2022-03-19T23:53Z
+7,cpe:2.3:o:cisco:rv180w_firmware:1.0.5.4:*:*:*:*:*:*:*,Cisco RV180W Wireless-N Multifunction VPN Router Firmware 1.0.5.4,['CVE-2015-6358'],2022-03-19T23:53Z
+8,cpe:2.3:h:cisco:rv180w_vpn_router:-:*:*:*:*:*:*:*,Cisco RV180W VPN Router,['CVE-2016-1430'],2022-03-19T23:53Z
+9,cpe:2.3:o:cisco:rv180w_vpn_router_firmware:-:*:*:*:*:*:*:*,Cisco RV180W VPN Router Firmware,['CVE-2016-1430'],2022-03-19T23:53Z

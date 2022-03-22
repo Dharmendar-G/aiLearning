@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:buildbot:buildbot:1.4.0:*:*:*:*:*:*:*,Buildbot 1.4.0,"['CVE-2019-12300', 'CVE-2019-7313']",2022-03-19T13:25Z
+1,cpe:2.3:a:buildbot:buildbot:1.5.0:*:*:*:*:*:*:*,Buildbot 1.5.0,"['CVE-2019-12300', 'CVE-2019-7313']",2022-03-19T13:25Z
+2,cpe:2.3:a:buildbot:buildbot:1.6.0:*:*:*:*:*:*:*,Buildbot 1.6.0,"['CVE-2019-12300', 'CVE-2019-7313']",2022-03-19T13:25Z
+3,cpe:2.3:a:buildbot:buildbot:1.7.0:*:*:*:*:*:*:*,Buildbot 1.7.0,"['CVE-2019-12300', 'CVE-2019-7313']",2022-03-19T13:25Z
+4,cpe:2.3:a:buildbot:buildbot:1.8.0:*:*:*:*:*:*:*,Buildbot 1.8.0,"['CVE-2019-12300', 'CVE-2019-7313']",2022-03-19T13:26Z
+5,cpe:2.3:a:buildbot:buildbot:1.8.1:*:*:*:*:*:*:*,Buildbot 1.8.1,['CVE-2019-12300'],2022-03-19T13:26Z
+6,cpe:2.3:a:buildbot:buildbot:1.8.2:*:*:*:*:*:*:*,Buildbot 1.8.2,[''],2022-03-19T13:26Z
+7,cpe:2.3:a:buildbot:buildbot:2.0.0:*:*:*:*:*:*:*,Buildbot 2.0.0,['CVE-2019-12300'],2022-03-19T13:26Z
+8,cpe:2.3:a:buildbot:buildbot:2.0.1:*:*:*:*:*:*:*,Buildbot 2.0.1,['CVE-2019-12300'],2022-03-19T13:26Z
+9,cpe:2.3:a:buildbot:buildbot:2.1.0:*:*:*:*:*:*:*,Buildbot 2.1.0,['CVE-2019-12300'],2022-03-19T13:26Z

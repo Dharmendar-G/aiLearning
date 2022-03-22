@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:amazon:fire_os:1:*:*:*:*:*:*:*,Amazon Fire OS 1.0,"['CVE-2015-7292', 'CVE-2019-7399']",2022-03-18T15:49Z
+1,cpe:2.3:o:amazon:fire_os:2:*:*:*:*:*:*:*,Amazon Fire OS 2.0,"['CVE-2015-7292', 'CVE-2019-7399']",2022-03-18T15:49Z
+2,cpe:2.3:o:amazon:fire_os:3:*:*:*:*:*:*:*,Amazon Fire OS 3.0,"['CVE-2015-7292', 'CVE-2019-7399']",2022-03-18T15:49Z
+3,cpe:2.3:o:amazon:fire_os:4:*:*:*:*:*:*:*,Amazon Fire OS 4.0,"['CVE-2015-7292', 'CVE-2019-7399']",2022-03-18T15:49Z
+4,cpe:2.3:o:amazon:fire_os:5:*:*:*:*:*:*:*,Amazon Fire OS 5.0,"['CVE-2015-7292', 'CVE-2019-7399']",2022-03-18T15:49Z
+5,cpe:2.3:o:amazon:fire_os:5.3.6.3:*:*:*:*:*:*:*,Amazon Fire OS 5.3.6.3,['CVE-2019-7399'],2022-03-18T15:49Z
+6,cpe:2.3:o:amazon:fire_os:5.3.6.4:*:*:*:*:*:*:*,Amazon Fire OS 5.3.6.4,[''],2022-03-18T15:49Z
+7,cpe:2.3:o:amazon:fire_os:6:*:*:*:*:*:*:*,Amazon Fire OS 6.0,[''],2022-03-18T15:49Z
+8,cpe:2.3:o:amazon:fire_os:7:*:*:*:*:*:*:*,Amazon Fire OS 7.0,[''],2022-03-18T15:50Z
+9,cpe:2.3:a:amazon:firecracker:-:*:*:*:*:*:*:*,Amazon Firecracker,['CVE-2020-27174'],2022-03-18T15:50Z

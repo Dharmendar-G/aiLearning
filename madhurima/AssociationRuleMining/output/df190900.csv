@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dnnsoftware:dotnetnuke:7.1.2.223:*:*:*:*:*:*:*,DNN Software DotNetNuke 7.1.2.223,"['CVE-2017-0929', 'CVE-2017-9822', 'CVE-2019-12562', 'CVE-2020-5186', 'CVE-2020-5187', 'CVE-2020-5188']",2022-03-20T16:11Z
+1,cpe:2.3:a:dnnsoftware:dotnetnuke:7.1.2.224:*:*:*:*:*:*:*,DNN Software DotNetNuke 7.1.2.224,"['CVE-2017-0929', 'CVE-2017-9822', 'CVE-2019-12562', 'CVE-2020-5186', 'CVE-2020-5187', 'CVE-2020-5188']",2022-03-20T16:11Z
+2,cpe:2.3:a:dnnsoftware:dotnetnuke:7.1.2.225:*:*:*:*:*:*:*,DNN Software DotNetNuke 7.1.2.225,"['CVE-2017-0929', 'CVE-2017-9822', 'CVE-2019-12562', 'CVE-2020-5186', 'CVE-2020-5187', 'CVE-2020-5188']",2022-03-20T16:11Z
+3,cpe:2.3:a:dnnsoftware:dotnetnuke:7.1.2.226:*:*:*:*:*:*:*,DNN Software DotNetNuke 7.1.2.226,"['CVE-2017-0929', 'CVE-2017-9822', 'CVE-2019-12562', 'CVE-2020-5186', 'CVE-2020-5187', 'CVE-2020-5188']",2022-03-20T16:11Z
+4,cpe:2.3:a:dnnsoftware:dotnetnuke:7.1.2.227:*:*:*:*:*:*:*,DNN Software DotNetNuke 7.1.2.227,"['CVE-2017-0929', 'CVE-2017-9822', 'CVE-2019-12562', 'CVE-2020-5186', 'CVE-2020-5187', 'CVE-2020-5188']",2022-03-20T16:11Z
+5,cpe:2.3:a:dnnsoftware:dotnetnuke:7.1.2.228:*:*:*:*:*:*:*,DNN Software DotNetNuke 7.1.2.228,"['CVE-2017-0929', 'CVE-2017-9822', 'CVE-2019-12562', 'CVE-2020-5186', 'CVE-2020-5187', 'CVE-2020-5188']",2022-03-20T16:11Z
+6,cpe:2.3:a:dnnsoftware:dotnetnuke:7.2.0.607:*:*:*:*:*:*:*,DNN Software DotNetNuke 7.2.0.607,"['CVE-2017-0929', 'CVE-2017-9822', 'CVE-2019-12562', 'CVE-2020-5186', 'CVE-2020-5187', 'CVE-2020-5188']",2022-03-20T16:11Z
+7,cpe:2.3:a:dnnsoftware:dotnetnuke:7.2.1.367:*:*:*:*:*:*:*,DNN Software DotNetNuke 7.2.1.367,"['CVE-2017-0929', 'CVE-2017-9822', 'CVE-2019-12562', 'CVE-2020-5186', 'CVE-2020-5187', 'CVE-2020-5188']",2022-03-20T16:11Z
+8,cpe:2.3:a:dnnsoftware:dotnetnuke:7.3.0.499:*:*:*:*:*:*:*,DNN Software DotNetNuke 7.3.0.499,"['CVE-2017-0929', 'CVE-2017-9822', 'CVE-2019-12562', 'CVE-2020-5186', 'CVE-2020-5187', 'CVE-2020-5188']",2022-03-20T16:11Z
+9,cpe:2.3:a:dnnsoftware:dotnetnuke:7.3.1.20:*:*:*:*:*:*:*,DNN Software DotNetNuke 7.3.1.20,"['CVE-2017-0929', 'CVE-2017-9822', 'CVE-2019-12562', 'CVE-2020-5186', 'CVE-2020-5187', 'CVE-2020-5188']",2022-03-20T16:11Z

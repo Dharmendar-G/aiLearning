@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:d-link:dsl-2680_firmware:1.03:*:*:*:*:*:*:*,D-Link DSL-2680 Firmware 1.03,"['CVE-2019-19222', 'CVE-2019-19223', 'CVE-2019-19224', 'CVE-2019-19225', 'CVE-2019-19226']",2022-03-20T16:03Z
+1,cpe:2.3:h:d-link:dsl-2730b:c1:*:*:*:*:*:*:*,D-Link DSL-2730B C1,['CVE-2015-1028'],2022-03-20T16:03Z
+2,cpe:2.3:o:d-link:dsl-2730b:ge_1.01:*:*:*:*:*:*:*,D-Link DSL-2730B GE_1.01,[''],2022-03-20T16:03Z
+3,cpe:2.3:o:d-link:dsl-2730b_firmware:ge_1.01:*:*:*:*:*:*:*,D-Link DSL-2730B Firmware GE 1.01,['CVE-2015-1028'],2022-03-20T16:03Z
+4,cpe:2.3:h:d-link:dsl-2730u:-:*:*:*:*:*:*:*,D-Link DSL-2730U,"['CVE-2012-5966', 'CVE-2017-6411']",2022-03-20T16:04Z
+5,cpe:2.3:h:d-link:dsl-2740e:-:*:*:*:*:*:*:*,D-link Dsl-2740e -,['CVE-2016-10699'],2022-03-20T16:04Z
+6,cpe:2.3:o:d-link:dsl-2740e_firmware:1.00_bg_20150720:*:*:*:*:*:*:*,D-Link DSL-2740E Firmware 1.00 BG 20150720,['CVE-2016-10699'],2022-03-20T16:04Z
+7,cpe:2.3:h:d-link:dsl2740u:-:*:*:*:*:*:*:*,D-LINK DSL2740U,['CVE-2014-4927'],2022-03-20T16:04Z
+8,cpe:2.3:h:d-link:dsl2750u:-:*:*:*:*:*:*:*,D-LINK DSL2750U,['CVE-2014-4927'],2022-03-20T16:04Z
+9,cpe:2.3:h:d-link:dsl-2760u-e1:-:*:*:*:*:*:*:*,D-link DSL-2760U-E1,['CVE-2014-4645'],2022-03-20T16:04Z

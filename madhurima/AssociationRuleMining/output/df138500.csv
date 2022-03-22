@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:web_security_appliance:9.1.2-039:*:*:*:*:*:*:*,Cisco Web Security Appliance 9.1.2-039,"['CVE-2018-0093', 'CVE-2018-0410', 'CVE-2019-15969', 'CVE-2020-3164', 'CVE-2021-1490']",2022-03-20T01:08Z
+1,cpe:2.3:a:cisco:web_security_appliance:9.1_base:*:*:*:*:*:*:*,Cisco Web Security Appliance 9.1 Base,"['CVE-2016-1381', 'CVE-2016-6360', 'CVE-2016-6372', 'CVE-2016-6407', 'CVE-2016-6416', 'CVE-2018-0093', 'CVE-2019-15969', 'CVE-2020-3164', 'CVE-2021-1490']",2022-03-20T01:08Z
+2,cpe:2.3:a:cisco:web_security_appliance:9.5.0-235:*:*:*:*:*:*:*,Cisco Web Security Appliance (WSA) 9.5.0-235,"['CVE-2016-1296', 'CVE-2016-6360', 'CVE-2016-6372', 'CVE-2016-6407', 'CVE-2016-6416', 'CVE-2018-0093', 'CVE-2019-15969', 'CVE-2020-3164', 'CVE-2021-1490']",2022-03-20T01:08Z
+3,cpe:2.3:a:cisco:web_security_appliance:9.5.0-284:*:*:*:*:*:*:*,Cisco Web Security Appliance (WSA) 9.5.0-284,"['CVE-2016-1405', 'CVE-2016-6360', 'CVE-2016-6372', 'CVE-2016-6407', 'CVE-2016-6416', 'CVE-2018-0093', 'CVE-2019-15969', 'CVE-2020-3164', 'CVE-2021-1490']",2022-03-20T01:08Z
+4,cpe:2.3:a:cisco:web_security_appliance:9.5.0-444:*:*:*:*:*:*:*,Cisco Web Security Appliance 9.5.0-444,"['CVE-2016-6360', 'CVE-2016-6372', 'CVE-2016-6407', 'CVE-2016-6416', 'CVE-2018-0093', 'CVE-2019-15969', 'CVE-2020-3164', 'CVE-2021-1490']",2022-03-20T01:08Z
+5,cpe:2.3:a:cisco:web_security_appliance:9.5_base:*:*:*:*:*:*:*,Cisco Web Security Appliance 9.5 BASE,"['CVE-2016-6360', 'CVE-2016-6372', 'CVE-2016-6407', 'CVE-2016-6416', 'CVE-2018-0093', 'CVE-2019-15969', 'CVE-2020-3164', 'CVE-2021-1490']",2022-03-20T01:08Z
+6,[0],[0],[0],[0]
+7,cpe:2.3:a:cisco:web_security_appliance:10.0.0-082:*:*:*:*:*:*:*,Cisco Web Security Appliance (WSA) 10.0.0-082,"['CVE-2017-3827', 'CVE-2018-0093', 'CVE-2019-15969', 'CVE-2020-3164', 'CVE-2021-1490']",2022-03-20T01:08Z
+8,cpe:2.3:a:cisco:web_security_appliance:10.0.0-124:*:*:*:*:*:*:*,Cisco Web Security Appliance (WSA) 10.0.0-124,"['CVE-2017-3827', 'CVE-2018-0093', 'CVE-2019-15969', 'CVE-2020-3164', 'CVE-2021-1490']",2022-03-20T01:08Z
+9,[0],[0],[0],[0]

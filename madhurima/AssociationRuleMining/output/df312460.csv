@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitachi:cosminexus_studio:05-00:*:*:*:*:*:*:*,Hitachi Cosminexus Studio 05-00,['CVE-2009-4776'],2022-03-21T11:18Z
+1,cpe:2.3:a:hitachi:cosminexus_studio:05-00-\/i:*:*:*:*:*:*:*,Hitachi Cosminexus Studio 05-00-/I,['CVE-2009-4776'],2022-03-21T11:18Z
+2,cpe:2.3:a:hitachi:cosminexus_studio:05-01:*:*:*:*:*:*:*,Hitachi Cosminexus Studio 05-01,['CVE-2009-4776'],2022-03-21T11:18Z
+3,cpe:2.3:a:hitachi:cosminexus_studio:05-01-\/l:*:*:*:*:*:*:*,Hitachi Cosminexus Studio 05-01-/L,['CVE-2009-4776'],2022-03-21T11:18Z
+4,cpe:2.3:a:hitachi:cosminexus_studio:05-05:*:*:*:*:*:*:*,Hitachi Cosminexus Studio 05-05,['CVE-2009-4776'],2022-03-21T11:18Z
+5,cpe:2.3:a:hitachi:cosminexus_studio:05-05-\/p:*:*:*:*:*:*:*,Hitachi Cosminexus Studio 05-05-/P,['CVE-2009-4776'],2022-03-21T11:18Z
+6,cpe:2.3:a:hitachi:cosminexux_client:6:*:*:*:*:*:*:*,Hitachi Cosminexus Client 6,[''],2022-03-21T11:18Z
+7,cpe:2.3:a:hitachi:developer\'s_kit_for_java:-:*:*:*:*:*:*:*,Hitachi Developer's Kit for Java,['CVE-2009-4776'],2022-03-21T11:18Z
+8,cpe:2.3:a:hitachi:device_manager:7.0.0:*:*:*:*:*:*:*,Hitachi Device Manager 7.0.0,"['CVE-2015-1565', 'CVE-2017-9294', 'CVE-2017-9295', 'CVE-2017-9296', 'CVE-2017-9297', 'CVE-2017-9298', 'CVE-2018-21026', 'CVE-2018-21033']",2022-03-21T11:18Z
+9,cpe:2.3:a:hitachi:device_manager:7.0.0-00:*:*:*:*:*:*:*,Hitachi Device Manager 7.0.0-00,"['CVE-2015-1565', 'CVE-2017-9294', 'CVE-2017-9295', 'CVE-2017-9296', 'CVE-2017-9297', 'CVE-2017-9298', 'CVE-2018-14735', 'CVE-2018-21026', 'CVE-2018-21032', 'CVE-2018-21033', 'CVE-2019-17360']",2022-03-21T11:18Z

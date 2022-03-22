@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:centreon:centreon_web:19.10.1:*:*:*:*:*:*:*,Centreon Web 19.10.1,"['CVE-2019-15298', 'CVE-2019-15300']",2022-03-19T16:02Z
+1,cpe:2.3:a:centreon:centreon_web:19.10.2:*:*:*:*:*:*:*,Centreon Web 19.10.2,[''],2022-03-19T16:02Z
+2,cpe:2.3:a:centreon:centreon_web:19.10.3:*:*:*:*:*:*:*,Centreon Web 19.10.3,[''],2022-03-19T16:02Z
+3,cpe:2.3:a:centreon:centreon_web:19.10.4:*:*:*:*:*:*:*,Centreon Web 19.10.4,[''],2022-03-19T16:02Z
+4,cpe:2.3:a:centreon:centreon_web:19.10.5:*:*:*:*:*:*:*,Centreon Web 19.10.5,[''],2022-03-19T16:02Z
+5,cpe:2.3:a:centreon:centreon_web:19.10.6:*:*:*:*:*:*:*,Centreon Web 19.10.6,[''],2022-03-19T16:02Z
+6,cpe:2.3:a:centreon:centreon_web:19.10.7:*:*:*:*:*:*:*,Centreon Web 19.10.7,[''],2022-03-19T16:02Z
+7,cpe:2.3:a:centreon:centreon_web:19.10.8:*:*:*:*:*:*:*,Centreon Web 19.10.8,[''],2022-03-19T16:02Z
+8,cpe:2.3:a:centreon:centreon_web:19.10.9:*:*:*:*:*:*:*,Centreon Web 19.10.9,[''],2022-03-19T16:02Z
+9,cpe:2.3:a:centreon:centreon_web:19.10.10:*:*:*:*:*:*:*,Centreon Web 19.10.10,[''],2022-03-19T16:02Z

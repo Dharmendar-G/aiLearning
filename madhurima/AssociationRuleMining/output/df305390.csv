@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hardened-php:suhosin:0.9.27:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.27,['CVE-2012-0807'],2022-03-21T09:21Z
+1,cpe:2.3:a:hardened-php:suhosin:0.9.28:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.28,['CVE-2012-0807'],2022-03-21T09:21Z
+2,cpe:2.3:a:hardened-php:suhosin:0.9.29:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.29,['CVE-2012-0807'],2022-03-21T09:21Z
+3,cpe:2.3:a:hardened-php:suhosin:0.9.30:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.30,['CVE-2012-0807'],2022-03-21T09:21Z
+4,cpe:2.3:a:hardened-php:suhosin:0.9.31:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.31,['CVE-2012-0807'],2022-03-21T09:21Z
+5,cpe:2.3:a:hardened-php:suhosin:0.9.33:*:*:*:*:*:*:*,hardened-php project Suhosin extenstion for PHP 0.9.33,[''],2022-03-21T09:21Z
+6,cpe:2.3:a:hardlink_project:hardlink:-:*:*:*:*:*:*:*,hardlink Project hardlink,"['CVE-2011-3630', 'CVE-2011-3631', 'CVE-2011-3632']",2022-03-21T09:21Z
+7,cpe:2.3:a:hardlink_project:hardlink:0.1.2:*:*:*:*:*:*:*,hardlink Project hardlink 0.1.2,[''],2022-03-21T09:21Z
+8,cpe:2.3:a:haremthief:harem_thief_dating:1.2.1:*:*:*:*:android:*:*,haremthief Harem Thief Dating (aka com.haremthief.haremthief) for android 1.2.1,['CVE-2014-6760'],2022-03-21T09:21Z
+9,cpe:2.3:a:harfbuzz_project:harfbuzz:0.6.0:*:*:*:*:*:*:*,Harfbuzz Project Harfbuzz 0.6.0,"['CVE-2015-8947', 'CVE-2015-9274', 'CVE-2016-2052']",2022-03-21T09:21Z

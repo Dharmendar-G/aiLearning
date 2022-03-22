@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:acme:thttpd:2.25:*:*:*:*:*:*:*,ACME thttpd 2.25,['CVE-2017-17663'],2022-03-18T11:02Z
+1,cpe:2.3:a:acme:thttpd:2.25:b:*:*:*:*:*:*,ACME thttpd 2.25b,"['CVE-2009-4491', 'CVE-2013-0348', 'CVE-2017-17663']",2022-03-18T11:02Z
+2,cpe:2.3:a:acme:thttpd:2.26:*:*:*:*:*:*:*,ACME thttpd 2.26,['CVE-2017-17663'],2022-03-18T11:02Z
+3,cpe:2.3:a:acme:thttpd:2.27:*:*:*:*:*:*:*,ACME thttpd 2.27,['CVE-2017-17663'],2022-03-18T11:02Z
+4,cpe:2.3:a:acme:thttpd:2.28:*:*:*:*:*:*:*,ACME thttpd 2.28,[''],2022-03-18T11:02Z
+5,cpe:2.3:a:acme:thttpd:2.29:*:*:*:*:*:*:*,ACME thttpd 2.29,[''],2022-03-18T11:02Z
+6,cpe:2.3:a:acme:thttpd:2007:*:*:*:*:*:*:*,Acme Thttpd 2007,['CVE-2007-0158'],2022-03-18T11:02Z
+7,cpe:2.3:a:acnam:ad_invalid_click_protector:-:*:*:*:*:wordpress:*:*,acnam Ad Invalid Click Protector (AICP) WordPress,['CVE-2022-0190'],2022-03-18T11:02Z
+8,cpe:2.3:a:acnam:ad_invalid_click_protector:1.0.0:*:*:*:*:wordpress:*:*,acnam Ad Invalid Click Protector (AICP) 1.0.0 WordPress,['CVE-2022-0190'],2022-03-18T11:02Z
+9,cpe:2.3:a:acnam:ad_invalid_click_protector:1.0.1:*:*:*:*:wordpress:*:*,acnam Ad Invalid Click Protector (AICP) 1.0.1 WordPress,['CVE-2022-0190'],2022-03-18T11:02Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atmarkweb:\@web_shoppingcart:1.3.1.1:*:*:*:*:*:*:*,WEBLOGIC @WEB ShoppingCart 1.3.1.1,['CVE-2012-2631'],2022-03-19T02:20Z
+1,cpe:2.3:a:atmarkweb:\@web_shoppingcart:1.5.0.0:*:*:*:*:*:*:*,ウェブロジック ＠WEBショッピングカート 1.5.0.0,['CVE-2012-2631'],2022-03-19T02:20Z
+2,cpe:2.3:a:atmarkweb:\@web_shoppingcart:1.5.1.0:*:*:*:*:*:*:*,ウェブロジック ＠WEBショッピングカート 1.5.1.0,['CVE-2012-2631'],2022-03-19T02:20Z
+3,cpe:2.3:a:atmarkweb:\@web_shoppingcart:1.5.2.0:*:*:*:*:*:*:*,WEBLOGIC @WEB ShoppingCart 1.5.2.0,[''],2022-03-19T02:20Z
+4,cpe:2.3:a:atme:atme:1.0.10:*:*:*:*:android:*:*,atme Atme (aka com.bedigital.atme) for android 1.0.10,['CVE-2014-7626'],2022-03-19T02:20Z
+5,cpe:2.3:a:atmist:snazzy_maps:1.0.0:*:*:*:*:wordpress:*:*,Atmist Snazzy Maps 1.0.0 WordPress,['CVE-2018-17947'],2022-03-19T02:20Z
+6,cpe:2.3:a:atmist:snazzy_maps:1.0.1:*:*:*:*:wordpress:*:*,Atmist Snazzy Maps 1.0.1 WordPress,['CVE-2018-17947'],2022-03-19T02:20Z
+7,cpe:2.3:a:atmist:snazzy_maps:1.0.2:*:*:*:*:wordpress:*:*,Atmist Snazzy Maps 1.0.2 WordPress,['CVE-2018-17947'],2022-03-19T02:20Z
+8,cpe:2.3:a:atmist:snazzy_maps:1.0.3:*:*:*:*:wordpress:*:*,Atmist Snazzy Maps 1.0.3 WordPress,['CVE-2018-17947'],2022-03-19T02:20Z
+9,cpe:2.3:a:atmist:snazzy_maps:1.0.4:*:*:*:*:wordpress:*:*,Atmist Snazzy Maps 1.0.4 WordPress,['CVE-2018-17947'],2022-03-19T02:20Z

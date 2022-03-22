@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hioa:student_id:1.2:*:*:*:*:android:*:*,hioa Student ID (aka com.computas.studentbevis) for android 1.2,['CVE-2014-7433'],2022-03-21T11:15Z
+1,cpe:2.3:a:hiox:hiox_guest_book:5.0:*:*:*:*:*:*:*,Hiox Hiox Guest Book (HGB) 5.0,['CVE-2014-1620'],2022-03-21T11:15Z
+2,cpe:2.3:a:hiphop_virtual_machine_for_php_project:hiphop_virtual_machine_for_php:2.0.0:*:*:*:*:*:*:*,HipHop Virtual Machine for PHP 2.0.0,"['CVE-2014-1439', 'CVE-2014-9767']",2022-03-21T11:15Z
+3,cpe:2.3:a:hiphop_virtual_machine_for_php_project:hiphop_virtual_machine_for_php:2.0.1:*:*:*:*:*:*:*,HipHop Virtual Machine for PHP 2.0.1,"['CVE-2014-1439', 'CVE-2014-9767']",2022-03-21T11:15Z
+4,cpe:2.3:a:hiphop_virtual_machine_for_php_project:hiphop_virtual_machine_for_php:2.0.2:*:*:*:*:*:*:*,HipHop Virtual Machine for PHP 2.0.2,"['CVE-2014-1439', 'CVE-2014-9767']",2022-03-21T11:15Z
+5,cpe:2.3:a:hiphop_virtual_machine_for_php_project:hiphop_virtual_machine_for_php:2.1.0:*:*:*:*:*:*:*,HipHop Virtual Machine for PHP 2.1.0,"['CVE-2014-1439', 'CVE-2014-9767']",2022-03-21T11:15Z
+6,cpe:2.3:a:hiphop_virtual_machine_for_php_project:hiphop_virtual_machine_for_php:2.2.0:*:*:*:*:*:*:*,HipHop Virtual Machine for PHP 2.2.0,"['CVE-2014-1439', 'CVE-2014-9767']",2022-03-21T11:15Z
+7,cpe:2.3:a:hiphop_virtual_machine_for_php_project:hiphop_virtual_machine_for_php:2.3.0:*:*:*:*:*:*:*,HipHop Virtual Machine for PHP 2.3.0,"['CVE-2014-1439', 'CVE-2014-9767']",2022-03-21T11:15Z
+8,cpe:2.3:a:hiphop_virtual_machine_for_php_project:hiphop_virtual_machine_for_php:2.3.1:*:*:*:*:*:*:*,HipHop Virtual Machine for PHP 2.3.1,"['CVE-2014-1439', 'CVE-2014-9767']",2022-03-21T11:15Z
+9,cpe:2.3:a:hiphop_virtual_machine_for_php_project:hiphop_virtual_machine_for_php:2.3.2:*:*:*:*:*:*:*,HipHop Virtual Machine for PHP 2.3.2,"['CVE-2014-1439', 'CVE-2014-9767']",2022-03-21T11:15Z

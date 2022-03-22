@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:php-buildpack:3.3.1:*:*:*:*:*:*:*,Cloud Foundry PHP Buildpack 3.3.1,['CVE-2016-6639'],2022-03-20T03:33Z
+1,cpe:2.3:a:cloudfoundry:php-buildpack:4.0.0:*:*:*:*:*:*:*,Cloud Foundry PHP Buildpack 4.0.0,['CVE-2016-6639'],2022-03-20T03:33Z
+2,cpe:2.3:a:cloudfoundry:php-buildpack:4.1.0:*:*:*:*:*:*:*,Cloud Foundry PHP Buildpack 4.1.0,['CVE-2016-6639'],2022-03-20T03:33Z
+3,cpe:2.3:a:cloudfoundry:php-buildpack:4.1.1:*:*:*:*:*:*:*,Cloud Foundry PHP Buildpack 4.1.1,['CVE-2016-6639'],2022-03-20T03:33Z
+4,cpe:2.3:a:cloudfoundry:php-buildpack:4.1.2:*:*:*:*:*:*:*,Cloud Foundry PHP Buildpack 4.1.2,['CVE-2016-6639'],2022-03-20T03:33Z
+5,cpe:2.3:a:cloudfoundry:php-buildpack:4.1.3:*:*:*:*:*:*:*,Cloud Foundry PHP Buildpack 4.1.3,['CVE-2016-6639'],2022-03-20T03:33Z
+6,cpe:2.3:a:cloudfoundry:php-buildpack:4.1.4:*:*:*:*:*:*:*,Cloud Foundry PHP Buildpack 4.1.4,['CVE-2016-6639'],2022-03-20T03:33Z
+7,cpe:2.3:a:cloudfoundry:php-buildpack:4.1.5:*:*:*:*:*:*:*,Cloud Foundry PHP Buildpack 4.1.5,['CVE-2016-6639'],2022-03-20T03:33Z
+8,cpe:2.3:a:cloudfoundry:php-buildpack:4.2.0:*:*:*:*:*:*:*,Cloud Foundry PHP Buildpack 4.2.0,['CVE-2016-6639'],2022-03-20T03:33Z
+9,cpe:2.3:a:cloudfoundry:php-buildpack:4.2.1:*:*:*:*:*:*:*,Cloud Foundry PHP Buildpack 4.2.1,['CVE-2016-6639'],2022-03-20T03:33Z

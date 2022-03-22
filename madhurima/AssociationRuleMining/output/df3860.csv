@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:abb:gate-e2:-:*:*:*:*:*:*:*,ABB GATE-E2,"['CVE-2018-18995', 'CVE-2018-18997']",2022-03-18T10:30Z
+1,cpe:2.3:o:abb:gate-e2_firmware:-:*:*:*:*:*:*:*,ABB GAGE-E2 Firmware,"['CVE-2018-18995', 'CVE-2018-18997']",2022-03-18T10:30Z
+2,cpe:2.3:h:abb:gms600:-:*:*:*:*:*:*:*,ABB GMS600,['CVE-2021-27196'],2022-03-18T10:30Z
+3,cpe:2.3:o:abb:gms600_firmware:-:*:*:*:*:*:*:*,ABB GMS600 Firmware,['CVE-2021-27196'],2022-03-18T10:30Z
+4,cpe:2.3:o:abb:gms600_firmware:1.3.0:*:*:*:*:*:*:*,ABB GMS600 Firmware 1.3.0,['CVE-2021-27196'],2022-03-18T10:30Z
+5,cpe:2.3:h:abb:ip_gateway:-:*:*:*:*:*:*:*,ABB IP Gateway,"['CVE-2017-7906', 'CVE-2017-7931', 'CVE-2017-7933']",2022-03-18T10:30Z
+6,cpe:2.3:o:abb:ip_gateway_firmware:3.39:*:*:*:*:*:*:*,ABB IP Gateway 3.39,"['CVE-2017-7906', 'CVE-2017-7931', 'CVE-2017-7933']",2022-03-18T10:30Z
+7,cpe:2.3:h:abb:irb140:-:*:*:*:*:*:*:*,ABB IRB140,"['CVE-2020-10287', 'CVE-2020-10288']",2022-03-18T10:30Z
+8,cpe:2.3:o:abb:irb140_firmware:-:*:*:*:*:*:*:*,ABB IRB 140 Firmware,['CVE-2020-10287'],2022-03-18T10:30Z
+9,cpe:2.3:h:abb:irc5:-:*:*:*:*:*:*:*,ABB IRC5,"['CVE-2020-10287', 'CVE-2020-10288']",2022-03-18T10:30Z

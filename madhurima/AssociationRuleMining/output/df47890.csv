@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arthurdejong:nss-pam-ldapd:0.7.18:*:*:*:*:*:*:*,Arthur de Jong nss-pam-ldapd 0.7.18 PAM module,[''],2022-03-18T23:22Z
+1,cpe:2.3:a:arthurdejong:nss-pam-ldapd:0.8.0:*:*:*:*:*:*:*,Arthur de Jong nss-pam-ldapd 0.8.0 PAM module,"['CVE-2011-0438', 'CVE-2013-0288']",2022-03-18T23:22Z
+2,cpe:2.3:a:arthurdejong:nss-pam-ldapd:0.8.1:*:*:*:*:*:*:*,Arthur de Jong nss-pam-ldapd 0.8.1 PAM module,['CVE-2013-0288'],2022-03-18T23:22Z
+3,cpe:2.3:a:arthurdejong:nss-pam-ldapd:0.8.2:*:*:*:*:*:*:*,Arthur de Jong nss-pam-ldapd 0.8.2 PAM module,['CVE-2013-0288'],2022-03-18T23:22Z
+4,cpe:2.3:a:arthurdejong:nss-pam-ldapd:0.8.3:*:*:*:*:*:*:*,Arthur de Jong nss-pam-ldapd 0.8.3 PAM module,['CVE-2013-0288'],2022-03-18T23:22Z
+5,cpe:2.3:a:arthurdejong:nss-pam-ldapd:0.8.4:*:*:*:*:*:*:*,Arthur de Jong nss-pam-ldapd 0.8.4 PAM module,['CVE-2013-0288'],2022-03-18T23:22Z
+6,cpe:2.3:a:arthurdejong:nss-pam-ldapd:0.8.5:*:*:*:*:*:*:*,Arthur de Jong nss-pam-ldapd 0.8.5 PAM module,['CVE-2013-0288'],2022-03-18T23:22Z
+7,cpe:2.3:a:arthurdejong:nss-pam-ldapd:0.8.6:*:*:*:*:*:*:*,Arthur de Jong nss-pam-ldapd 0.8.6 PAM module,['CVE-2013-0288'],2022-03-18T23:23Z
+8,cpe:2.3:a:arthurdejong:nss-pam-ldapd:0.8.7:*:*:*:*:*:*:*,Arthur de Jong nss-pam-ldapd 0.8.7 PAM module,['CVE-2013-0288'],2022-03-18T23:23Z
+9,cpe:2.3:a:arthurdejong:nss-pam-ldapd:0.8.8:*:*:*:*:*:*:*,Arthur de Jong nss-pam-ldapd 0.8.8 PAM module,['CVE-2013-0288'],2022-03-18T23:22Z

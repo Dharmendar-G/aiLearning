@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avaya:aura_presence_services:6.1:*:*:*:*:*:*:*,Avaya Aura Presence Services 6.1,"['CVE-2010-2492', 'CVE-2010-2798', 'CVE-2010-2942', 'CVE-2010-2943']",2022-03-19T04:05Z
+1,cpe:2.3:a:avaya:aura_presence_services:6.1.1:*:*:*:*:*:*:*,Avaya Aura Presence Services 6.1.1,"['CVE-2010-2492', 'CVE-2010-2798', 'CVE-2010-2942', 'CVE-2010-2943']",2022-03-19T04:05Z
+2,cpe:2.3:a:avaya:aura_session_manager:-:*:*:*:*:*:*:*,Avaya Aura Session Manager,[''],2022-03-19T04:05Z
+3,cpe:2.3:a:avaya:aura_session_manager:1.1:*:*:*:*:*:*:*,Avaya Aura Session Manager 1.1,"['CVE-2010-2492', 'CVE-2010-2798', 'CVE-2010-2942', 'CVE-2010-2943']",2022-03-19T04:05Z
+4,cpe:2.3:a:avaya:aura_session_manager:5.2:*:*:*:*:*:*:*,Avaya Aura Session Manager 5.2,"['CVE-2010-2492', 'CVE-2010-2798', 'CVE-2010-2942', 'CVE-2010-2943']",2022-03-19T04:05Z
+5,cpe:2.3:a:avaya:aura_session_manager:6.0:*:*:*:*:*:*:*,Avaya Aura Session Manager 6.0,"['CVE-2010-2492', 'CVE-2010-2798', 'CVE-2010-2942', 'CVE-2010-2943']",2022-03-19T04:05Z
+6,cpe:2.3:a:avaya:aura_session_manager:6.3:*:*:*:*:*:*:*,Avaya Aura Session Manager 6.3,['CVE-2016-5285'],2022-03-19T04:05Z
+7,cpe:2.3:a:avaya:aura_session_manager:6.3.18:*:*:*:*:*:*:*,Avaya Aura Session Manager 6.3.18,['CVE-2016-5285'],2022-03-19T04:05Z
+8,cpe:2.3:a:avaya:aura_session_manager:7.0:-:*:*:*:*:*:*,Avaya Aura Session Manager 7.0,['CVE-2016-5285'],2022-03-19T04:05Z
+9,cpe:2.3:a:avaya:aura_session_manager:7.0:sp1:*:*:*:*:*:*,Avaya Aura Session Manager 7.0 Service Pack 1,['CVE-2016-5285'],2022-03-19T04:05Z

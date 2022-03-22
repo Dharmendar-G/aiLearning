@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:s3300hi_firmware:v200r001c00spc300:*:*:*:*:*:*:*,Huawei S3300HI Firmware V200R001C00SPC300,['CVE-2014-4706'],2022-03-21T18:33Z
+1,cpe:2.3:h:huawei:s3500:r6305:*:*:*:*:*:*:*,Huawei S3500 R6305,"['CVE-2012-6569', 'CVE-2012-6570', 'CVE-2012-6571']",2022-03-21T18:33Z
+2,cpe:2.3:h:huawei:s3700:-:*:*:*:*:*:*:*,Huawei S3700,"['CVE-2014-5394', 'CVE-2014-8572', 'CVE-2015-2808', 'CVE-2015-3913', 'CVE-2017-17141']",2022-03-21T18:33Z
+3,cpe:2.3:h:huawei:s3700:r6305:*:*:*:*:*:*:*,Huawei S3700 R6305,"['CVE-2012-6569', 'CVE-2012-6570', 'CVE-2012-6571']",2022-03-21T18:33Z
+4,cpe:2.3:h:huawei:s3700:v100r005:*:*:*:*:*:*:*,Huawei S3700 V100R005,['CVE-2012-4960'],2022-03-21T18:34Z
+5,cpe:2.3:h:huawei:s3700:v100r006:*:*:*:*:*:*:*,Huawei S3700 V100R006,['CVE-2012-4960'],2022-03-21T18:34Z
+6,cpe:2.3:h:huawei:s3700:v200r001:*:*:*:*:*:*:*,Huawei S3700 V200R001,['CVE-2012-4960'],2022-03-21T18:34Z
+7,cpe:2.3:o:huawei:s3700_firmware:-:*:*:*:*:*:*:*,Huawei S3700 Firmware -,['CVE-2015-2808'],2022-03-21T18:34Z
+8,cpe:2.3:o:huawei:s3700_firmware:v2r11c10:*:*:*:*:*:*:*,Huawei S3700 Firmware V2R11C10,[''],2022-03-21T18:34Z
+9,cpe:2.3:o:huawei:s3700_firmware:v100r006c00:*:*:*:*:*:*:*,Huawei S3700 Firmware V100r006c00,['CVE-2015-3913'],2022-03-21T18:34Z

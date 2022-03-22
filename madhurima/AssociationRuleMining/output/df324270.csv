@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_enterprise_flow_mfp_m830_l3u65a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise Flow MFP M830 L3U65A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:02Z
+1,cpe:2.3:h:hp:laserjet_enterprise_flow_mfp_m880z_a2w75a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise Flow MFP M880z A2W75A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:02Z
+2,cpe:2.3:h:hp:laserjet_enterprise_flow_mfp_m880z_a2w76a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise Flow MFP M880z A2W76A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:02Z
+3,cpe:2.3:h:hp:laserjet_enterprise_flow_mfp_m880z_d7p70a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise Flow MFP M880z D7P70A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:02Z
+4,cpe:2.3:h:hp:laserjet_enterprise_flow_mfp_m880z_d7p71a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise Flow MFP M880z D7P71A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:02Z
+5,cpe:2.3:h:hp:laserjet_enterprise_flow_mfp_m880z_l3u51a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise Flow MFP M880z L3U51A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:02Z
+6,cpe:2.3:h:hp:laserjet_enterprise_flow_mfp_m880z_l3u52a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise Flow MFP M880z L3U52A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:02Z
+7,cpe:2.3:h:hp:laserjet_enterprise_m406_3pz15a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M406 3PZ15A,['CVE-2020-28419'],2022-03-21T15:02Z
+8,cpe:2.3:h:hp:laserjet_enterprise_m407_3pz16a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M407 3PZ16A,['CVE-2020-28419'],2022-03-21T15:02Z
+9,cpe:2.3:h:hp:laserjet_enterprise_m4555_mfp:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M4555 MFP,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T15:02Z

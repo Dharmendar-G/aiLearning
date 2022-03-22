@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:s5700s-li:-:*:*:*:*:*:*:*,Huawei S5700S-LI,['CVE-2015-2808'],2022-03-21T18:38Z
+1,cpe:2.3:o:huawei:s5700s-li_firmware:-:*:*:*:*:*:*:*,Huawei S5700S-LI Firmware,['CVE-2015-2808'],2022-03-21T18:38Z
+2,cpe:2.3:h:huawei:s5710ei:-:*:*:*:*:*:*:*,Huawei S5710EI,['CVE-2015-2808'],2022-03-21T18:38Z
+3,cpe:2.3:o:huawei:s5710ei_firmware:-:*:*:*:*:*:*:*,Huawei S5710EI Firmware,['CVE-2015-2808'],2022-03-21T18:38Z
+4,cpe:2.3:h:huawei:s5710hi:-:*:*:*:*:*:*:*,Huawei S5710HI,"['CVE-2015-2808', 'CVE-2015-3913']",2022-03-21T18:38Z
+5,cpe:2.3:o:huawei:s5710hi_firmware:-:*:*:*:*:*:*:*,Huawei S5710hi Firmware -,['CVE-2015-2808'],2022-03-21T18:38Z
+6,cpe:2.3:o:huawei:s5710hi_firmware:v200r001c00spc300:*:*:*:*:*:*:*,Huawei S5710hi Firmware V200r001c00 Service Pack c300,['CVE-2015-3913'],2022-03-21T18:38Z
+7,cpe:2.3:o:huawei:s5710hi_firmware:v200r002c00spc300:*:*:*:*:*:*:*,Huawei S5710hi Firmware V200r002c00 Service Pack c300,['CVE-2015-3913'],2022-03-21T18:38Z
+8,cpe:2.3:o:huawei:s5710hi_firmware:v200r003c00spc300:*:*:*:*:*:*:*,Huawei S5710hi Firmware V200r003c00 Service Pack c300,['CVE-2015-3913'],2022-03-21T18:38Z
+9,cpe:2.3:o:huawei:s5710hi_firmware:v200r005c00spc300:*:*:*:*:*:*:*,Huawei S5710hi Firmware V200r005c00 Service Pack c300,['CVE-2015-3913'],2022-03-21T18:38Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisofy:lynis:3.0.0:*:*:*:*:*:*:*,Cisofy Lynis 3.0.0,[''],2022-03-20T01:27Z
+1,cpe:2.3:a:cisofy:lynis:3.0.1:*:*:*:*:*:*:*,CISOfy Lynis 3.0.1,[''],2022-03-20T01:27Z
+2,cpe:2.3:a:citadel:hercules:-:*:*:*:*:*:*:*,Citadel Hercules,[''],2022-03-20T01:27Z
+3,cpe:2.3:a:citadel:hercules:3.5:*:*:*:*:*:*:*,Citadel Hercules 3.5,[''],2022-03-20T01:27Z
+4,cpe:2.3:a:citadel:hercules:4.0:*:*:*:*:*:*:*,Citadel Hercules 4.0,[''],2022-03-20T01:27Z
+5,cpe:2.3:a:citadel:hercules_remediation_client_for_windows:3.5.1:*:*:*:*:*:*:*,Citadel Hercules Remediation Client For Windows 3.5.1,[''],2022-03-20T01:27Z
+6,cpe:2.3:a:citadel:hercules_remediation_client_for_windows:4.0.0:*:*:*:*:*:*:*,Citadel Hercules Remediation Client For Windows 4.0.0,[''],2022-03-20T01:27Z
+7,cpe:2.3:a:citadel:hercules_remediation_client_for_windows:4.5.0:*:*:*:*:*:*:*,Citadel Hercules Remediation Client For Windows 4.5.0,[''],2022-03-20T01:27Z
+8,cpe:2.3:a:citadel:smtp:-:*:*:*:*:*:*:*,Citadel Citadel_SMTP,['CVE-2008-0394'],2022-03-20T01:27Z
+9,cpe:2.3:a:citadel:smtp:7.10:*:*:*:*:*:*:*,Citadel Citadel_SMTP 7.10,['CVE-2008-0394'],2022-03-20T01:27Z

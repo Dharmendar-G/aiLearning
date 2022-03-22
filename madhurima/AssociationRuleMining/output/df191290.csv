@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,cpe:2.3:a:docker:crux_linux_docker_image:3.0:*:*:*:*:*:*:*,Docker Crux Linux Docker Image 3.0,['CVE-2020-29389'],2022-03-20T16:19Z
+6,cpe:2.3:a:docker:crux_linux_docker_image:3.1:*:*:*:*:*:*:*,Docker Crux Linux Docker Image 3.1,['CVE-2020-29389'],2022-03-20T16:19Z
+7,cpe:2.3:a:docker:crux_linux_docker_image:3.2:*:*:*:*:*:*:*,Docker Crux Linux Docker Image 3.2,['CVE-2020-29389'],2022-03-20T16:19Z
+8,cpe:2.3:a:docker:crux_linux_docker_image:3.4:*:*:*:*:*:*:*,Docker Crux Linux Docker Image 3.4,['CVE-2020-29389'],2022-03-20T16:19Z
+9,cpe:2.3:a:docker:cs_engine:-:*:*:*:*:*:*:*,Docker CS Engine,"['CVE-2014-8178', 'CVE-2014-8179']",2022-03-20T16:19Z

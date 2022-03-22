@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dahuasecurity:tpc-bf1241:-:*:*:*:*:*:*:*,Dahua Security TPC-BF1241,"['CVE-2021-33044', 'CVE-2021-33046']",2022-03-20T09:58Z
+1,cpe:2.3:h:dahuasecurity:tpc-bf2221:-:*:*:*:*:*:*:*,Dahua Security TPC-BF2221,"['CVE-2021-33044', 'CVE-2021-33046']",2022-03-20T09:58Z
+2,cpe:2.3:h:dahuasecurity:tpc-bf5x01:-:*:*:*:*:*:*:*,Dahua Security TPC-BF5X01,"['CVE-2021-33044', 'CVE-2021-33046']",2022-03-20T09:58Z
+3,cpe:2.3:h:dahuasecurity:tpc-bf5x21:-:*:*:*:*:*:*:*,Dahua Security TPC-BF5X21,['CVE-2021-33044'],2022-03-20T09:58Z
+4,cpe:2.3:h:dahuasecurity:tpc-pt8x21b:-:*:*:*:*:*:*:*,Dahua Security TPC-PT8X21B,['CVE-2021-33044'],2022-03-20T09:58Z
+5,cpe:2.3:h:dahuasecurity:tpc-sd2221:-:*:*:*:*:*:*:*,Dahua Security TPC-SD2221,"['CVE-2021-33044', 'CVE-2021-33046']",2022-03-20T09:58Z
+6,cpe:2.3:h:dahuasecurity:tpc-sd8x21:-:*:*:*:*:*:*:*,Dahua Security TPC-SD8X21,"['CVE-2021-33044', 'CVE-2021-33046']",2022-03-20T09:58Z
+7,cpe:2.3:h:dahuasecurity:vth-542xh:-:*:*:*:*:*:*:*,Dahua Security VTH-542XH,"['CVE-2021-33044', 'CVE-2021-33045']",2022-03-20T09:58Z
+8,cpe:2.3:h:dahuasecurity:vto-65xxx:-:*:*:*:*:*:*:*,Dahua Security VTO-65XXX,"['CVE-2021-33044', 'CVE-2021-33045']",2022-03-20T09:58Z
+9,cpe:2.3:h:dahuasecurity:vto-75x95x:-:*:*:*:*:*:*:*,Dahua Security VTO-75X95X,"['CVE-2021-33044', 'CVE-2021-33045']",2022-03-20T09:58Z

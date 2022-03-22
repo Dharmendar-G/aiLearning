@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:abb:relion_sam600-io_firmware:2.2.1:*:*:*:*:*:*:*,ABB Relion SAM600-IO Firmware 2.2.1,['CVE-2021-27196'],2022-03-18T10:33Z
+1,cpe:2.3:o:abb:relion_sam600-io_firmware:2.2.1.6:*:*:*:*:*:*:*,ABB Relion SAM600-IO Firmware 2.2.1.6,[''],2022-03-18T10:33Z
+2,cpe:2.3:a:abb:robotstudio:5.60:*:*:*:*:*:*:*,ABB RobotStudio 5.60,['CVE-2014-5430'],2022-03-18T10:33Z
+3,cpe:2.3:a:abb:robotstudio:5.61:*:*:*:*:*:*:*,ABB RobotStudio 5.61,['CVE-2014-5430'],2022-03-18T10:33Z
+4,cpe:2.3:a:abb:robotstudio:5.61.01:*:*:*:*:*:*:*,ABB RobotStudio 5.61.01,['CVE-2014-5430'],2022-03-18T10:33Z
+5,cpe:2.3:a:abb:robotware:5.09:*:*:*:*:*:*:*,ABB RobotWare 5.09,['CVE-2020-10288'],2022-03-18T10:33Z
+6,cpe:2.3:h:abb:rtu500:-:*:*:*:*:*:*:*,ABB RTU500,"['CVE-2021-27196', 'CVE-2021-35533']",2022-03-18T10:33Z
+7,cpe:2.3:o:abb:rtu500_firmware:7.0:*:*:*:*:*:*:*,ABB RTU500 Firmware 7.0,['CVE-2021-27196'],2022-03-18T10:33Z
+8,cpe:2.3:o:abb:rtu500_firmware:8.0:*:*:*:*:*:*:*,ABB RTU500 Firmware 8.0,['CVE-2021-27196'],2022-03-18T10:33Z
+9,cpe:2.3:o:abb:rtu500_firmware:9.0:*:*:*:*:*:*:*,ABB RTU500 Firmware 9.0,['CVE-2021-27196'],2022-03-18T10:33Z

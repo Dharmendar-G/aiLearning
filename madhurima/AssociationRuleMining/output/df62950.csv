@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:automationdirect:c-more_ea9-t10cl_firmware:-:*:*:*:*:*:*:*,AutomationDirect C-more EA9-T10CL Firmware,['CVE-2020-6969'],2022-03-19T03:35Z
+1,cpe:2.3:o:automationdirect:c-more_ea9-t10cl_firmware:6.53:*:*:*:*:*:*:*,AutomationDirect C-more EA9-T10CL Firmware 6.53,[''],2022-03-19T03:35Z
+2,cpe:2.3:h:automationdirect:c-more_ea9-t10wcl:-:*:*:*:*:*:*:*,AutomationDirect C-more EA9-T10WCL,['CVE-2020-6969'],2022-03-19T03:35Z
+3,cpe:2.3:o:automationdirect:c-more_ea9-t10wcl_firmware:-:*:*:*:*:*:*:*,AutomationDirect C-more EA9-T10WCL Firmware,['CVE-2020-6969'],2022-03-19T03:35Z
+4,cpe:2.3:o:automationdirect:c-more_ea9-t10wcl_firmware:6.53:*:*:*:*:*:*:*,AutomationDirect C-more EA9-T10WCL Firmware 6.53,[''],2022-03-19T03:35Z
+5,cpe:2.3:h:automationdirect:c-more_ea9-t12cl:-:*:*:*:*:*:*:*,AutomationDirect C-more EA9-T12CL,['CVE-2020-6969'],2022-03-19T03:35Z
+6,cpe:2.3:o:automationdirect:c-more_ea9-t12cl_firmware:-:*:*:*:*:*:*:*,AutomationDirect C-more EA9-T12CL Firmware,['CVE-2020-6969'],2022-03-19T03:35Z
+7,cpe:2.3:o:automationdirect:c-more_ea9-t12cl_firmware:6.53:*:*:*:*:*:*:*,AutomationDirect C-more EA9-T12CL Firmware 6.53,[''],2022-03-19T03:35Z
+8,cpe:2.3:h:automationdirect:c-more_ea9-t15cl:-:*:*:*:*:*:*:*,AutomationDirect C-more EA9-T15CL,['CVE-2020-6969'],2022-03-19T03:35Z
+9,cpe:2.3:o:automationdirect:c-more_ea9-t15cl_firmware:-:*:*:*:*:*:*:*,AutomationDirect C-more EA9-T15CL Firmware,['CVE-2020-6969'],2022-03-19T03:35Z

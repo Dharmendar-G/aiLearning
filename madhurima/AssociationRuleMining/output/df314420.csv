@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:horde:ansel:3.0.7:*:*:*:*:*:*:*,Horde Ansel 3.0.7,[''],2022-03-21T11:45Z
+1,cpe:2.3:a:horde:ansel:3.0.8:*:*:*:*:*:*:*,Horde Ansel 3.0.8,[''],2022-03-21T11:45Z
+2,cpe:2.3:a:horde:ansel:3.0.9:*:*:*:*:*:*:*,Horde Ansel 3.0.9,[''],2022-03-21T11:45Z
+3,cpe:2.3:a:horde:ansel:3.0.10:*:*:*:*:*:*:*,Horde Ansel 3.0.10,[''],2022-03-21T11:45Z
+4,cpe:2.3:a:horde:content:1.0.0:-:*:*:*:*:*:*,Horde Content 1.0.0,[''],2022-03-21T11:45Z
+5,cpe:2.3:a:horde:content:1.0.0:alpha1:*:*:*:*:*:*,Horde Content 1.0.0 Alpha 1,[''],2022-03-21T11:45Z
+6,cpe:2.3:a:horde:content:1.0.0:beta1:*:*:*:*:*:*,Horde Content 1.0.0 Beta 1,[''],2022-03-21T11:45Z
+7,cpe:2.3:a:horde:content:1.0.0:rc1:*:*:*:*:*:*,Horde Content 1.0.0 Release Candidate 1,[''],2022-03-21T11:45Z
+8,cpe:2.3:a:horde:content:1.0.0:rc2:*:*:*:*:*:*,Horde Content 1.0.0 Release Candidate 2,[''],2022-03-21T11:45Z
+9,cpe:2.3:a:horde:content:1.0.1:*:*:*:*:*:*:*,Horde Content 1.0.1,[''],2022-03-21T11:45Z

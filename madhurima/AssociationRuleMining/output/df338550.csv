@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hybridgroup:gobot:0.6:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.6,['CVE-2019-12496'],2022-03-21T19:20Z
+1,cpe:2.3:a:hybridgroup:gobot:0.6.1:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.6.1,['CVE-2019-12496'],2022-03-21T19:20Z
+2,cpe:2.3:a:hybridgroup:gobot:0.6.2:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.6.2,['CVE-2019-12496'],2022-03-21T19:20Z
+3,cpe:2.3:a:hybridgroup:gobot:0.6.3:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.6.3,['CVE-2019-12496'],2022-03-21T19:20Z
+4,cpe:2.3:a:hybridgroup:gobot:0.7:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.7,['CVE-2019-12496'],2022-03-21T19:20Z
+5,cpe:2.3:a:hybridgroup:gobot:0.7.1:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.7.1,['CVE-2019-12496'],2022-03-21T19:20Z
+6,cpe:2.3:a:hybridgroup:gobot:0.8:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.8,['CVE-2019-12496'],2022-03-21T19:20Z
+7,cpe:2.3:a:hybridgroup:gobot:0.8.1:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.8.1,['CVE-2019-12496'],2022-03-21T19:20Z
+8,cpe:2.3:a:hybridgroup:gobot:0.8.2:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.8.2,['CVE-2019-12496'],2022-03-21T19:20Z
+9,cpe:2.3:a:hybridgroup:gobot:0.10.0:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.10.0,['CVE-2019-12496'],2022-03-21T19:20Z

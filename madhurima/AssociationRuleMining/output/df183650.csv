@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:devsaran:business:7.x-1.5:*:*:*:*:*:*:*,Devsaran Business theme module for Drupal 7.x-1.5,['CVE-2013-1783'],2022-03-20T13:52Z
+1,cpe:2.3:a:devsaran:business:7.x-1.6:*:*:*:*:*:*:*,Devsaran Business theme module for Drupal 7.x-1.6,['CVE-2013-1783'],2022-03-20T13:52Z
+2,cpe:2.3:a:devsaran:business:7.x-1.7:*:*:*:*:*:*:*,Devsaran Business theme module for Drupal 7.x-1.7,['CVE-2013-1783'],2022-03-20T13:52Z
+3,cpe:2.3:a:devsaran:business:7.x-1.8:*:*:*:*:*:*:*,Devsaran Business theme module for Drupal 7.x-1.8,['CVE-2013-1783'],2022-03-20T13:52Z
+4,cpe:2.3:a:devsaran:business:7.x-1.x:dev:*:*:*:*:*:*,Devsaran Business theme module for Drupal 7.x-1.x-dev,['CVE-2013-1783'],2022-03-20T13:52Z
+5,cpe:2.3:a:devsaran:clean_theme:7.x-1.0:*:*:*:*:*:*:*,Devsaran Clean Theme for Drupal 7.x-1.0,['CVE-2013-1784'],2022-03-20T13:52Z
+6,cpe:2.3:a:devsaran:clean_theme:7.x-1.1:*:*:*:*:*:*:*,Devsaran Clean Theme for Drupal 7.x-1.1,['CVE-2013-1784'],2022-03-20T13:52Z
+7,cpe:2.3:a:devsaran:clean_theme:7.x-1.2:*:*:*:*:*:*:*,Devsaran Clean Theme for Drupal 7.x-1.2,['CVE-2013-1784'],2022-03-20T13:52Z
+8,cpe:2.3:a:devsaran:company:7.x-1.0:*:*:*:*:*:*:*,Devsaran Company theme module for Drupal 7.x-1.0,['CVE-2013-1786'],2022-03-20T13:52Z
+9,cpe:2.3:a:devsaran:company:7.x-1.1:*:*:*:*:*:*:*,Devsaran Company theme module for Drupal 7.x-1.1,['CVE-2013-1786'],2022-03-20T13:52Z

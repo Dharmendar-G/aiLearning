@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:s2350ei_firmware:v200r001c00:*:*:*:*:*:*:*,Huawei S2350EI Firmware V200R001C00,['CVE-2015-8676'],2022-03-21T18:32Z
+1,cpe:2.3:o:huawei:s2350ei_firmware:v200r001c00spc300:*:*:*:*:*:*:*,Huawei S2350EI Firmware V200r001c00 Service Pack c300,"['CVE-2015-3913', 'CVE-2015-8676']",2022-03-21T18:32Z
+2,cpe:2.3:o:huawei:s2350ei_firmware:v200r001sph018:*:*:*:*:*:*:*,Huawei S2350EI Firmware V200R001SPH018,[''],2022-03-21T18:32Z
+3,cpe:2.3:o:huawei:s2350ei_firmware:v200r002c00:*:*:*:*:*:*:*,Huawei S2350EI Firmware V200R002C00,['CVE-2015-8676'],2022-03-21T18:32Z
+4,cpe:2.3:o:huawei:s2350ei_firmware:v200r002c00spc300:*:*:*:*:*:*:*,Huawei S2350EI Firmware V200r002c00 Service Pack c300,"['CVE-2015-3913', 'CVE-2015-8676']",2022-03-21T18:32Z
+5,cpe:2.3:o:huawei:s2350ei_firmware:v200r003c00:*:*:*:*:*:*:*,Huawei S2350EI Firmware V200R003C00,"['CVE-2015-8676', 'CVE-2015-8677']",2022-03-21T18:32Z
+6,cpe:2.3:o:huawei:s2350ei_firmware:v200r003c00spc300:*:*:*:*:*:*:*,Huawei S2350EI Firmware V200r003c00 Service Pack c300,"['CVE-2015-3913', 'CVE-2015-8676', 'CVE-2015-8677']",2022-03-21T18:32Z
+7,cpe:2.3:o:huawei:s2350ei_firmware:v200r003sph011:*:*:*:*:*:*:*,Huawei S2350EI Firmware V200R003SPH011,[''],2022-03-21T18:32Z
+8,cpe:2.3:o:huawei:s2350ei_firmware:v200r005c00:*:*:*:*:*:*:*,Huawei S2350EI Firmware V200R005C00,['CVE-2015-8677'],2022-03-21T18:32Z
+9,cpe:2.3:o:huawei:s2350ei_firmware:v200r005c00spc300:*:*:*:*:*:*:*,Huawei S2350EI Firmware V200r005c00 Service Pack c300,"['CVE-2015-3913', 'CVE-2015-8677']",2022-03-21T18:32Z

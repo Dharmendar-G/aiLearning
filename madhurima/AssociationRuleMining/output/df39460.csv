@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apereo:opencast:9.4:*:*:*:*:*:*:*,Apereo Opencast 9.4,"['CVE-2021-32623', 'CVE-2021-43807', 'CVE-2021-43821']",2022-03-18T21:15Z
+1,cpe:2.3:a:apereo:opencast:9.5:*:*:*:*:*:*:*,Apereo Opencast 9.5,"['CVE-2021-32623', 'CVE-2021-43807', 'CVE-2021-43821']",2022-03-18T21:15Z
+2,cpe:2.3:a:apereo:opencast:9.6:*:*:*:*:*:*:*,Apereo Opencast 9.6,"['CVE-2021-43807', 'CVE-2021-43821']",2022-03-18T21:15Z
+3,cpe:2.3:a:apereo:opencast:9.7:*:*:*:*:*:*:*,Apereo Opencast 9.7,"['CVE-2021-43807', 'CVE-2021-43821']",2022-03-18T21:15Z
+4,cpe:2.3:a:apereo:opencast:9.8:*:*:*:*:*:*:*,Apereo Opencast 9.8,"['CVE-2021-43807', 'CVE-2021-43821']",2022-03-18T21:15Z
+5,cpe:2.3:a:apereo:opencast:9.9:*:*:*:*:*:*:*,Apereo Opencast 9.9,"['CVE-2021-43807', 'CVE-2021-43821']",2022-03-18T21:15Z
+6,cpe:2.3:a:apereo:opencast:9.10:*:*:*:*:*:*:*,Apereo Opencast 9.10,['CVE-2021-43821'],2022-03-18T21:15Z
+7,cpe:2.3:a:apereo:opencast:10.0:*:*:*:*:*:*:*,Apereo Opencast 10.0,['CVE-2021-43821'],2022-03-18T21:15Z
+8,cpe:2.3:a:apereo:opencast:10.1:*:*:*:*:*:*:*,Apereo Opencast 10.1,['CVE-2021-43821'],2022-03-18T21:15Z
+9,cpe:2.3:a:apereo:opencast:10.2:*:*:*:*:*:*:*,Apereo Opencast 10.2,['CVE-2021-43821'],2022-03-18T21:15Z

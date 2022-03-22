@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bea:aqualogic_interaction_content_service_for_windows_files:1.0.0.0:*:*:*:*:*:*:*,Bea Aqualogic Interaction Content Service For Windows Files 1.0.0.0,[''],2022-03-19T06:44Z
+1,cpe:2.3:a:bea:aqualogic_interaction_content_service_for_windows_files:6.1.0.0:*:*:*:*:*:*:*,Bea Aqualogic Interaction Content Service For Windows Files 6.1.0.0,[''],2022-03-19T06:44Z
+2,cpe:2.3:a:bea:aqualogic_interaction_identity_service_for_ldap:2.2.2.0:*:*:*:*:*:*:*,Bea Aqualogic Interaction Identity Service For Ldap 2.2.2.0,[''],2022-03-19T06:44Z
+3,cpe:2.3:a:bea:aqualogic_service_bus:-:*:*:*:*:*:*:*,BEA Systems AquaLogic Service Bus,[''],2022-03-19T06:44Z
+4,cpe:2.3:a:bea:aqualogic_service_bus:2.0:*:*:*:*:*:*:*,BEA Systems AquaLogic Service Bus 2.0,"['CVE-2007-0432', 'CVE-2007-0433']",2022-03-19T06:44Z
+5,cpe:2.3:a:bea:aqualogic_service_bus:2.1:*:*:*:*:*:*:*,BEA Systems AquaLogic Service Bus 2.1,"['CVE-2007-0432', 'CVE-2007-0433']",2022-03-19T06:44Z
+6,cpe:2.3:a:bea:aqualogic_service_bus:2.1:sp1:*:*:*:*:*:*,BEA Systems AquaLogic Service Bus 2.1 SP1,"['CVE-2007-0432', 'CVE-2007-0433']",2022-03-19T06:44Z
+7,cpe:2.3:a:bea:aqualogic_service_bus:2.2:*:*:*:*:*:*:*,BEA Systems AquaLogic Service Bus 2.2,['CVE-2007-0433'],2022-03-19T06:44Z
+8,cpe:2.3:a:bea:aqualogic_service_bus:2.5:*:*:*:*:*:*:*,BEA Systems AquaLogic Service Bus 2.5,['CVE-2007-0432'],2022-03-19T06:44Z
+9,cpe:2.3:a:bea:jolt:1.2:*:*:*:*:*:*:*,Bea Jolt 1.2,[''],2022-03-19T06:44Z

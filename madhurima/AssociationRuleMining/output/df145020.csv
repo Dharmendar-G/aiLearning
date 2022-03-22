@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudflare:warp:-:*:*:*:*:windows:*:*,Cloudflare WARP for Windows,['CVE-2020-35152'],2022-03-20T02:59Z
+1,cpe:2.3:a:cloudflare:warp:1.2.2695.1:*:*:*:*:windows:*:*,Cloudflare WARP 1.2.2695.1 for Windows,[''],2022-03-20T02:59Z
+2,cpe:2.3:a:cloudflare-scrape_project:cloudflare-scrape:1.6.6:*:*:*:*:*:*:*,cloudflare-scrape Project cloudflare-scrape 1.6.6,['CVE-2017-7235'],2022-03-20T02:59Z
+3,cpe:2.3:a:cloudflare-scrape_project:cloudflare-scrape:1.6.7:*:*:*:*:*:*:*,cloudflare-scrape Project cloudflare-scrape 1.6.7,['CVE-2017-7235'],2022-03-20T02:59Z
+4,cpe:2.3:a:cloudflare-scrape_project:cloudflare-scrape:1.6.8:*:*:*:*:*:*:*,cloudflare-scrape Project cloudflare-scrape 1.6.8,['CVE-2017-7235'],2022-03-20T02:59Z
+5,cpe:2.3:a:cloudflare-scrape_project:cloudflare-scrape:1.7.0:*:*:*:*:*:*:*,cloudflare-scrape Project cloudflare-scrape 1.7.0,['CVE-2017-7235'],2022-03-20T02:59Z
+6,cpe:2.3:a:cloudflare-scrape_project:cloudflare-scrape:1.7.1:*:*:*:*:*:*:*,cloudflare-scrape Project cloudflare-scrape 1.7.1,['CVE-2017-7235'],2022-03-20T02:59Z
+7,cpe:2.3:a:cloudflare-scrape_project:cloudflare-scrape:1.9.0:*:*:*:*:*:*:*,cloudflare-scrape Project cloudflare-scrape 1.9.0,[''],2022-03-20T02:59Z
+8,cpe:2.3:a:cloudflare-scrape_project:cloudflare-scrape:1.9.1:*:*:*:*:*:*:*,cloudflare-scrape Project cloudflare-scrape 1.9.1,[''],2022-03-20T02:59Z
+9,cpe:2.3:a:cloudflare-scrape_project:cloudflare-scrape:1.9.2:*:*:*:*:*:*:*,cloudflare-scrape Project cloudflare-scrape 1.9.2,[''],2022-03-20T02:59Z

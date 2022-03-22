@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:gurock:testrail:2.4:*:*:*:*:*:*:*,Gurock TestRail 2.4,"['CVE-2014-4857', 'CVE-2021-40875', 'CVE-2021-44263']",2022-03-21T08:26Z
+1,cpe:2.3:a:gurock:testrail:2.4.1:*:*:*:*:*:*:*,Gurock TestRail 2.4.1,"['CVE-2014-4857', 'CVE-2021-40875', 'CVE-2021-44263']",2022-03-21T08:26Z
+2,cpe:2.3:a:gurock:testrail:2.5:*:*:*:*:*:*:*,Gurock TestRail 2.5,"['CVE-2014-4857', 'CVE-2021-40875', 'CVE-2021-44263']",2022-03-21T08:26Z
+3,cpe:2.3:a:gurock:testrail:2.5.1:*:*:*:*:*:*:*,Gurock TestRail 2.5.1,"['CVE-2014-4857', 'CVE-2021-40875', 'CVE-2021-44263']",2022-03-21T08:26Z
+4,cpe:2.3:a:gurock:testrail:2.6:*:*:*:*:*:*:*,Gurock TestRail 2.6,"['CVE-2014-4857', 'CVE-2021-40875', 'CVE-2021-44263']",2022-03-21T08:26Z
+5,cpe:2.3:a:gurock:testrail:2.7:*:*:*:*:*:*:*,Gurock TestRail 2.7,"['CVE-2014-4857', 'CVE-2021-40875', 'CVE-2021-44263']",2022-03-21T08:26Z
+6,cpe:2.3:a:gurock:testrail:2.7.1:*:*:*:*:*:*:*,Gurock TestRail 2.7.1,"['CVE-2014-4857', 'CVE-2021-40875', 'CVE-2021-44263']",2022-03-21T08:26Z
+7,cpe:2.3:a:gurock:testrail:3.0:*:*:*:*:*:*:*,Gurock TestRail 3.0,"['CVE-2014-4857', 'CVE-2021-40875', 'CVE-2021-44263']",2022-03-21T08:26Z
+8,cpe:2.3:a:gurock:testrail:3.0.1:*:*:*:*:*:*:*,Gurock TestRail 3.0.1,"['CVE-2014-4857', 'CVE-2021-40875', 'CVE-2021-44263']",2022-03-21T08:26Z
+9,cpe:2.3:a:gurock:testrail:3.0.2:*:*:*:*:*:*:*,Gurock TestRail 3.0.2,"['CVE-2014-4857', 'CVE-2021-40875', 'CVE-2021-44263']",2022-03-21T08:26Z

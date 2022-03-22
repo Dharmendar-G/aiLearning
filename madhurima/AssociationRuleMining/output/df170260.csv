@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dadamailproject:dada_mail:9.3.0:*:*:*:*:*:*:*,Dadamailproject Dada Mail 9.3.0,['CVE-2021-41083'],2022-03-20T09:52Z
+1,cpe:2.3:a:dadamailproject:dada_mail:9.4.0:*:*:*:*:*:*:*,Dadamailproject Dada Mail 9.4.0,['CVE-2021-41083'],2022-03-20T09:52Z
+2,cpe:2.3:a:dadamailproject:dada_mail:9.4.1:*:*:*:*:*:*:*,Dadamailproject Dada Mail 9.4.1,['CVE-2021-41083'],2022-03-20T09:52Z
+3,cpe:2.3:a:dadamailproject:dada_mail:9.5.0:*:*:*:*:*:*:*,Dadamailproject Dada Mail 9.5.0,['CVE-2021-41083'],2022-03-20T09:52Z
+4,cpe:2.3:a:dadamailproject:dada_mail:9.6.0:*:*:*:*:*:*:*,Dadamailproject Dada Mail 9.6.0,['CVE-2021-41083'],2022-03-20T09:52Z
+5,cpe:2.3:a:dadamailproject:dada_mail:9.6.1:*:*:*:*:*:*:*,Dadamailproject Dada Mail 9.6.1,['CVE-2021-41083'],2022-03-20T09:52Z
+6,cpe:2.3:a:dadamailproject:dada_mail:10.0.0:*:*:*:*:*:*:*,Dadamailproject Dada Mail 10.0.0,['CVE-2021-41083'],2022-03-20T09:52Z
+7,cpe:2.3:a:dadamailproject:dada_mail:10.0.1:*:*:*:*:*:*:*,Dadamailproject Dada Mail 10.0.1,['CVE-2021-41083'],2022-03-20T09:52Z
+8,cpe:2.3:a:dadamailproject:dada_mail:10.0.2:*:*:*:*:*:*:*,Dadamailproject Dada Mail 10.0.2,['CVE-2021-41083'],2022-03-20T09:53Z
+9,cpe:2.3:a:dadamailproject:dada_mail:10.0.3:*:*:*:*:*:*:*,Dadamailproject Dada Mail 10.0.3,['CVE-2021-41083'],2022-03-20T09:53Z

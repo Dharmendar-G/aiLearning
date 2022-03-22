@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:video_surveillance_sp_isp:1.23.7:*:*:*:*:*:*:*,Cisco Video Surveillance SP_ISP 1.23.7,"['CVE-2007-4746', 'CVE-2007-4747']",2022-03-20T01:02Z
+1,cpe:2.3:a:cisco:video_surveillance_sp_isp_decoder_software:-:*:*:*:*:*:*:*,Cisco Video Surveillance SP_ISP Decoder Software,"['CVE-2007-4746', 'CVE-2007-4747']",2022-03-20T01:02Z
+2,cpe:2.3:a:cisco:video_surveillance_sp_isp_decoder_software:1.11.0:*:*:*:*:*:*:*,Cisco Video Surveillance SP_ISP Decoder Software 1.11.0,"['CVE-2007-4746', 'CVE-2007-4747']",2022-03-20T01:02Z
+3,cpe:2.3:h:cisco:video_surveillance_vc220_network_dome_camera:-:*:*:*:*:*:*:*,Cisco Video Surveillance VC220 Network Dome Camera,['CVE-2012-3913'],2022-03-20T01:02Z
+4,cpe:2.3:a:cisco:videoscape_anyres_live:-:*:*:*:*:*:*:*,Cisco Videoscape AnyRes Live,[''],2022-03-20T01:02Z
+5,cpe:2.3:a:cisco:videoscape_anyres_live:9.7.6:*:*:*:*:*:*:*,Cisco Videoscape AnyRes Live 9.7.6,['CVE-2018-0220'],2022-03-20T01:02Z
+6,cpe:2.3:a:cisco:videoscape_delivery_system_for_internet_streamer:1.0.0:*:*:*:*:*:*:*,Cisco Videoscape Distribution Suite Optimization Engine (VDS-OE) 1.0.0,['CVE-2013-3444'],2022-03-20T01:02Z
+7,cpe:2.3:a:cisco:videoscape_delivery_system_for_internet_streamer:3.2.0:*:*:*:*:*:*:*,Cisco VideoScape Delivery System for Internet Streamer (VDS-IS) 3.2.0,['CVE-2013-3444'],2022-03-20T01:02Z
+8,cpe:2.3:a:cisco:videoscape_delivery_system_for_internet_streamer:3.2.1:*:*:*:*:*:*:*,Cisco VideoScape Delivery System for Internet Streamer (VDS-IS) 3.2.1,"['CVE-2013-3444', 'CVE-2015-0671']",2022-03-20T01:02Z
+9,cpe:2.3:a:cisco:videoscape_delivery_system_for_internet_streamer:3.2.1.b9:*:*:*:*:*:*:*,Cisco VideoScape Delivery System for Internet Streamer (VDS-IS) 3.2.1.b9,[''],2022-03-20T01:02Z

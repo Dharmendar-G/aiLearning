@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:crayon_syntax_highlighter_project:crayon_syntax_highlighter:1.13:*:*:*:*:wordpress:*:*,Crayon Syntax Highlighter Project Crayon Syntax Highlighter 1.13 for WordPress,['CVE-2016-10893'],2022-03-20T08:56Z
+1,cpe:2.3:a:crayon_syntax_highlighter_project:crayon_syntax_highlighter:1.13.1:*:*:*:*:wordpress:*:*,Crayon Syntax Highlighter Project Crayon Syntax Highlighter 1.13.1 for WordPress,['CVE-2016-10893'],2022-03-20T08:56Z
+2,cpe:2.3:a:crayon_syntax_highlighter_project:crayon_syntax_highlighter:1.14:*:*:*:*:wordpress:*:*,Crayon Syntax Highlighter Project Crayon Syntax Highlighter 1.14 for WordPress,['CVE-2016-10893'],2022-03-20T08:56Z
+3,cpe:2.3:a:crayon_syntax_highlighter_project:crayon_syntax_highlighter:1.15:*:*:*:*:wordpress:*:*,Crayon Syntax Highlighter Project Crayon Syntax Highlighter 1.15 for WordPress,['CVE-2016-10893'],2022-03-20T08:56Z
+4,cpe:2.3:a:crayon_syntax_highlighter_project:crayon_syntax_highlighter:1.16:*:*:*:*:wordpress:*:*,Crayon Syntax Highlighter Project Crayon Syntax Highlighter 1.16 for WordPress,['CVE-2016-10893'],2022-03-20T08:56Z
+5,cpe:2.3:a:crayon_syntax_highlighter_project:crayon_syntax_highlighter:1.17:*:*:*:*:wordpress:*:*,Crayon Syntax Highlighter Project Crayon Syntax Highlighter 1.17 for WordPress,['CVE-2016-10893'],2022-03-20T08:56Z
+6,cpe:2.3:a:crayon_syntax_highlighter_project:crayon_syntax_highlighter:2.0.0:*:*:*:*:wordpress:*:*,Crayon Syntax Highlighter Project Crayon Syntax Highlighter 2.0.0 for WordPress,['CVE-2016-10893'],2022-03-20T08:56Z
+7,cpe:2.3:a:crayon_syntax_highlighter_project:crayon_syntax_highlighter:2.0.1:*:*:*:*:wordpress:*:*,Crayon Syntax Highlighter Project Crayon Syntax Highlighter 2.0.1 for WordPress,['CVE-2016-10893'],2022-03-20T08:56Z
+8,cpe:2.3:a:crayon_syntax_highlighter_project:crayon_syntax_highlighter:2.0.2:*:*:*:*:wordpress:*:*,Crayon Syntax Highlighter Project Crayon Syntax Highlighter 2.0.2 for WordPress,['CVE-2016-10893'],2022-03-20T08:56Z
+9,cpe:2.3:a:crayon_syntax_highlighter_project:crayon_syntax_highlighter:2.1.0:*:*:*:*:wordpress:*:*,Crayon Syntax Highlighter Project Crayon Syntax Highlighter 2.1.0 for WordPress,['CVE-2016-10893'],2022-03-20T08:56Z

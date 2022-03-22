@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:berkeley-l09_firmware:9.1.0.351\(c432e5r1p13t8\):*:*:*:*:*:*:*,Huawei Berkeley-L09 Firmware 9.1.0.351(C432E5R1P13T8),['CVE-2020-9069'],2022-03-21T17:26Z
+1,cpe:2.3:o:huawei:berkeley-l09_firmware:10.0.1.1\(c675r1\):*:*:*:*:*:*:*,Huawei Berkeley-L09 Firmware 10.0.1.1(C675R1),[''],2022-03-21T17:26Z
+2,cpe:2.3:h:huawei:berkeley-tl10:-:*:*:*:*:*:*:*,Huawei BERKELEY-TL10,['CVE-2019-9506'],2022-03-21T17:26Z
+3,cpe:2.3:h:huawei:berlin-emui5.0:-:*:*:*:*:*:*:*,Huawei Berlin-EMUI5.0,['CVE-2017-17201'],2022-03-21T17:26Z
+4,cpe:2.3:o:huawei:berlin-emui5.0_firmware:berlin-l21hnc432b360:*:*:*:*:*:*:*,Huawei Berlin-EMUI5.0 Firmware Berlin-L21HNC432B360,['CVE-2017-17201'],2022-03-21T17:26Z
+5,cpe:2.3:o:huawei:berlin-emui5.0_firmware:berlin-l21hnc432b365:*:*:*:*:*:*:*,Huawei Berlin-emui5.0 Firmware Berlin-l21hnc432b365,[''],2022-03-21T17:26Z
+6,cpe:2.3:o:huawei:berlin-emui5.0_firmware:berlin-l22hnc636b360:*:*:*:*:*:*:*,Huawei Berlin-EMUI5.0 Firmware Berlin-L22HNC636B360,['CVE-2017-17201'],2022-03-21T17:26Z
+7,cpe:2.3:o:huawei:berlin-emui5.0_firmware:berlin-l22hnc636b372:*:*:*:*:*:*:*,Huawei Berlin-emui5.0 Firmware Berlin-l22hnc636b372,[''],2022-03-21T17:26Z
+8,cpe:2.3:o:huawei:berlin-emui5.0_firmware:berlin-l24hnc567b360:*:*:*:*:*:*:*,Huawei Berlin-EMUI5.0 Firmware Berlin-L24HNC567B360,['CVE-2017-17201'],2022-03-21T17:26Z
+9,cpe:2.3:o:huawei:berlin-emui5.0_firmware:berlin-l24hnc567b366:*:*:*:*:*:*:*,Huawei Berlin-emui5.0 Firmware Berlin-l24hnc567b366,[''],2022-03-21T17:26Z

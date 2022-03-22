@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:spa512g_firmware:7.6.2sr3:*:*:*:*:*:*:*,Cisco SPA512G Firmware 7.6.2sr3,['CVE-2019-1923'],2022-03-20T00:24Z
+1,cpe:2.3:o:cisco:spa512g_firmware:7.6.2sr4:*:*:*:*:*:*:*,Cisco SPA512G Firmware 7.6.2sr4,['CVE-2019-1923'],2022-03-20T00:24Z
+2,cpe:2.3:o:cisco:spa512g_firmware:7.6.2sr5:*:*:*:*:*:*:*,Cisco SPA512G Firmware 7.6.2sr5,['CVE-2019-1923'],2022-03-20T00:24Z
+3,cpe:2.3:h:cisco:spa514g:-:*:*:*:*:*:*:*,Cisco SPA514G -,"['CVE-2018-0389', 'CVE-2019-15959', 'CVE-2019-1683', 'CVE-2019-1923']",2022-03-20T00:24Z
+4,cpe:2.3:o:cisco:spa514g_firmware:1.4.2:*:*:*:*:*:*:*,Cisco SPA514G Firmware 1.4.2,"['CVE-2018-0389', 'CVE-2019-1683', 'CVE-2019-1923']",2022-03-20T00:24Z
+5,cpe:2.3:o:cisco:spa514g_firmware:7.5.2b:*:*:*:*:*:*:*,Cisco SPA514G Firmware 7.5.2b,"['CVE-2018-0389', 'CVE-2019-1923']",2022-03-20T00:24Z
+6,cpe:2.3:o:cisco:spa514g_firmware:7.5.3:*:*:*:*:*:*:*,Cisco SPA514G Firmware 7.5.3,"['CVE-2018-0389', 'CVE-2019-1923']",2022-03-20T00:24Z
+7,cpe:2.3:o:cisco:spa514g_firmware:7.5.4:*:*:*:*:*:*:*,Cisco SPA514G Firmware 7.5.4,"['CVE-2018-0389', 'CVE-2019-1923']",2022-03-20T00:24Z
+8,cpe:2.3:o:cisco:spa514g_firmware:7.5.5:*:*:*:*:*:*:*,Cisco SPA514G Firmware 7.5.5,"['CVE-2018-0389', 'CVE-2019-1923']",2022-03-20T00:24Z
+9,cpe:2.3:o:cisco:spa514g_firmware:7.5.5b:*:*:*:*:*:*:*,Cisco SPA514G Firmware 7.5.5b,"['CVE-2018-0389', 'CVE-2019-1923']",2022-03-20T00:24Z

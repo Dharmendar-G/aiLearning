@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alexis_wilke:protected_node:6.x-1.5:*:*:*:*:*:*:*,Alexis Wilke Protected Node module for Drupal 6.x-1.5,['CVE-2012-2730'],2022-03-18T14:36Z
+1,cpe:2.3:a:alexis_wilke:protected_node:6.x-1.x:dev:*:*:*:*:*:*,Alexis Wilke Protected Node module for Drupal 6.x-1.x-dev,['CVE-2012-2730'],2022-03-18T14:36Z
+2,cpe:2.3:h:alfa:awus036h:-:*:*:*:*:*:*:*,ALFA AWUS036H,"['CVE-2020-26140', 'CVE-2020-26141', 'CVE-2020-26143']",2022-03-18T14:36Z
+3,cpe:2.3:o:alfa:awus036h_firmware:6.1316.1209:*:*:*:*:windows_10:*:*,ALFA AWUS036H FIRMWARE 6.1316.1209 for Windows 10,"['CVE-2020-26140', 'CVE-2020-26141']",2022-03-18T14:36Z
+4,cpe:2.3:o:alfa:awus036h_firmware:1030.36.604:*:*:*:*:windows_10:*:*,ALFA AWUS036H FIRMWARE 1030.36.604 for Windows 10,['CVE-2020-26143'],2022-03-18T14:36Z
+5,cpe:2.3:a:alfabank:alfa-bank:5.5.1.1:*:*:*:*:android:*:*,alfabank Alfa-Bank (aka ru.alfabank.mobile.android) for android 5.5.1.1,['CVE-2014-6731'],2022-03-18T14:37Z
+6,cpe:2.3:a:alfasado:powercms:-:*:*:*:*:*:*:*,Alfasado PowerCMS,[''],2022-03-18T14:37Z
+7,cpe:2.3:a:alfasado:powercms:2.0:*:*:*:*:*:*:*,Alfasado PowerCMS 2.0,['CVE-2021-20850'],2022-03-18T14:37Z
+8,cpe:2.3:a:alfasado:powercms:2.058:*:*:*:*:*:*:*,Alfasado PowerCMS 2.058,['CVE-2021-20850'],2022-03-18T14:37Z
+9,cpe:2.3:a:alfasado:powercms:2.0493:*:*:*:*:*:*:*,Alfasado PowerCMS 2.0493,[''],2022-03-18T14:37Z

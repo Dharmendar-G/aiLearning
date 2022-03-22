@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chama:memocgi:2.2002:*:*:*:*:*:*:*,ChamaNet MemoCGI 2.2002,['CVE-2018-0617'],2022-03-19T16:28Z
+1,cpe:2.3:a:chama:memocgi:2.2100:*:*:*:*:*:*:*,ChamaNet MemoCGI 2.2100,['CVE-2018-0617'],2022-03-19T16:28Z
+2,cpe:2.3:a:chama:memocgi:2.2200:*:*:*:*:*:*:*,ChamaNet MemoCGI 2.2200,['CVE-2018-0617'],2022-03-19T16:28Z
+3,cpe:2.3:a:chama:memocgi:2.2300:*:*:*:*:*:*:*,ChamaNet MemoCGI 2.2300,[''],2022-03-19T16:28Z
+4,cpe:2.3:a:chama:memocgi:2.2400:*:*:*:*:*:*:*,ChamaNet MemoCGI 2.2400,[''],2022-03-19T16:28Z
+5,cpe:2.3:a:chama:memocgi:2.2500:*:*:*:*:*:*:*,ChamaNet MemoCGI 2.2500,[''],2022-03-19T16:28Z
+6,cpe:2.3:a:chama:memocgi:2.2600:*:*:*:*:*:*:*,ChamaNet MemoCGI 2.2600,[''],2022-03-19T16:28Z
+7,cpe:2.3:a:chama:memocgi:2.2700:*:*:*:*:*:*:*,ChamaNet MemoCGI 2.2700,[''],2022-03-19T16:28Z
+8,cpe:2.3:a:chamanet:chamacargo:7.0000:*:*:*:*:*:*:*,ChamaNet ChamaCargo 7.0000,['CVE-2013-4704'],2022-03-19T16:28Z
+9,cpe:2.3:a:chamber_dashboard_business_directory_project:chamber_dashboard_business_directory:1.0:*:*:*:*:wordpress:*:*,Chamber Dashboard Business Directory Project Chamber Dashboard Business Directory 1.0 for WordPress,[''],2022-03-19T16:28Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:crestron:tsw-560-nc-w-s:-:*:*:*:*:*:*:*,Crestron TSW-560-NC-W-S,"['CVE-2018-10630', 'CVE-2018-13341']",2022-03-20T08:59Z
+1,cpe:2.3:h:crestron:tsw-560-w-s:-:*:*:*:*:*:*:*,Crestron TSW-560-W-S,"['CVE-2018-10630', 'CVE-2018-13341']",2022-03-20T08:59Z
+2,cpe:2.3:h:crestron:tsw-760:-:*:*:*:*:*:*:*,Crestron TSW-760,"['CVE-2018-11228', 'CVE-2018-11229']",2022-03-20T08:59Z
+3,cpe:2.3:h:crestron:tsw-760-b-s:-:*:*:*:*:*:*:*,Crestron TSW-760-B-S,"['CVE-2018-10630', 'CVE-2018-13341']",2022-03-20T08:59Z
+4,cpe:2.3:h:crestron:tsw-760-nc:-:*:*:*:*:*:*:*,Crestron TSW-760-NC,"['CVE-2018-11228', 'CVE-2018-11229']",2022-03-20T08:59Z
+5,cpe:2.3:h:crestron:tsw-760-nc-b-s:-:*:*:*:*:*:*:*,Crestron TSW-760-NC-B-S,"['CVE-2018-10630', 'CVE-2018-13341']",2022-03-20T08:59Z
+6,cpe:2.3:h:crestron:tsw-760-nc-w-s:-:*:*:*:*:*:*:*,Crestron TSW-760-NC-W-S,"['CVE-2018-10630', 'CVE-2018-13341']",2022-03-20T08:59Z
+7,cpe:2.3:h:crestron:tsw-760-w-s:-:*:*:*:*:*:*:*,Crestron TSW-760-W-S,"['CVE-2018-10630', 'CVE-2018-13341']",2022-03-20T08:59Z
+8,cpe:2.3:a:crgroup-lb:c.r._group:1:*:*:*:*:android:*:*,crgroup-lb C.R. Group (aka com.c.r.group) for android 1.0,['CVE-2014-7643'],2022-03-20T08:59Z
+9,cpe:2.3:a:cribl:cribl:1.4.2:*:*:*:*:*:*:*,Cribl 1.4.2,[''],2022-03-20T08:59Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:att:labs\'_natural_voices_desktop_redist:1.4.0916:*:*:*:*:*:*:*,Att Labs' Natural Voices Desktop Redist 1.4.0916,[''],2022-03-19T02:25Z
+1,cpe:2.3:a:att:mobileiron_sentry:-:*:*:*:*:*:*:*,AT&T MobileIron Sentry,['CVE-2013-7286'],2022-03-19T02:25Z
+2,cpe:2.3:a:att:mobileiron_sentry:5.0:*:*:*:*:*:*:*,AT&T MobileIron Sentry 5.0,[''],2022-03-19T02:25Z
+3,cpe:2.3:a:att:mobileiron_virtual_smartphone_platform:mobileiron_virtual_smartphone_platform:*:*:*:*:*:*:*,Att Mobileiron Virtual Smartphone Platform Mobileiron Virtual Smartphone Platform,[''],2022-03-19T02:25Z
+4,cpe:2.3:a:att:natural_voices_crystal_16k:1.4.0011:*:*:*:*:*:*:*,Att Natural Voices Crystal 16k 1.4.0011,[''],2022-03-19T02:25Z
+5,cpe:2.3:a:att:natural_voices_mike_16k:1.4.0011:*:*:*:*:*:*:*,Att Natural Voices Mike 16k 1.4.0011,[''],2022-03-19T02:25Z
+6,cpe:2.3:h:att:status:-:*:*:*:*:*:*:*,AT&T Status,['CVE-2012-2980'],2022-03-19T02:25Z
+7,cpe:2.3:a:att:u-verse:9.2.2h0d83:*:*:*:*:*:*:*,AT&T U-verse 9.2.2h0d83,[''],2022-03-19T02:25Z
+8,cpe:2.3:o:att:u-verse_firmware:9.2.2h0d83:*:*:*:*:*:*:*,AT&T U-Verse Firmware 9.2.2h0d83,"['CVE-2017-10793', 'CVE-2017-14115', 'CVE-2017-14116', 'CVE-2017-14117']",2022-03-19T02:25Z
+9,cpe:2.3:a:att:xmill:0.7:*:*:*:*:*:*:*,Att Xmill 0.7,"['CVE-2021-21810', 'CVE-2021-21811', 'CVE-2021-21812', 'CVE-2021-21813', 'CVE-2021-21814', 'CVE-2021-21815', 'CVE-2021-21825', 'CVE-2021-21826', 'CVE-2021-21827', 'CVE-2021-21828', 'CVE-2021-21829', 'CVE-2021-21830']",2022-03-19T02:25Z

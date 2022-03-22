@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cartpauj:mingle-forum:1.0.31:*:*:*:*:*:*:*,cartpauj Mingle Forum (mingle-forum) plugin for Wordpress 1.0.31,"['CVE-2012-5327', 'CVE-2012-5328', 'CVE-2013-0734', 'CVE-2013-0735', 'CVE-2013-0736']",2022-03-19T15:38Z
+1,cpe:2.3:a:cartpauj:mingle-forum:1.0.31.1:*:*:*:*:*:*:*,cartpauj Mingle Forum (mingle-forum) plugin for Wordpress 1.0.31.1,"['CVE-2012-5327', 'CVE-2012-5328', 'CVE-2013-0734', 'CVE-2013-0735', 'CVE-2013-0736']",2022-03-19T15:38Z
+2,cpe:2.3:a:cartpauj:mingle-forum:1.0.31.2:*:*:*:*:*:*:*,cartpauj Mingle Forum (mingle-forum) plugin for Wordpress 1.0.31.2,"['CVE-2012-5327', 'CVE-2012-5328', 'CVE-2013-0734', 'CVE-2013-0735', 'CVE-2013-0736']",2022-03-19T15:38Z
+3,cpe:2.3:a:cartpauj:mingle-forum:1.0.31.3:*:*:*:*:*:*:*,cartpauj Mingle Forum (mingle-forum) plugin for Wordpress 1.0.31.3,"['CVE-2012-5327', 'CVE-2012-5328', 'CVE-2013-0734', 'CVE-2013-0735', 'CVE-2013-0736']",2022-03-19T15:38Z
+4,cpe:2.3:a:cartpauj:mingle-forum:1.0.31.4:*:*:*:*:*:*:*,cartpauj Mingle Forum (mingle-forum) plugin for Wordpress 1.0.31.4,"['CVE-2012-5327', 'CVE-2012-5328', 'CVE-2013-0734', 'CVE-2013-0735', 'CVE-2013-0736']",2022-03-19T15:38Z
+5,cpe:2.3:a:cartpauj:mingle-forum:1.0.32:*:*:*:*:*:*:*,cartpauj Mingle Forum (mingle-forum) plugin for Wordpress 1.0.32,"['CVE-2012-5327', 'CVE-2012-5328', 'CVE-2013-0734', 'CVE-2013-0735', 'CVE-2013-0736']",2022-03-19T15:38Z
+6,cpe:2.3:a:cartpauj:mingle-forum:1.0.32.1:*:*:*:*:*:*:*,cartpauj Mingle Forum (mingle-forum) plugin for Wordpress 1.0.32.1,"['CVE-2012-5327', 'CVE-2012-5328', 'CVE-2013-0734', 'CVE-2013-0735', 'CVE-2013-0736']",2022-03-19T15:38Z
+7,cpe:2.3:a:cartpauj:mingle-forum:1.0.33:*:*:*:*:*:*:*,cartpauj Mingle Forum (mingle-forum) plugin for Wordpress 1.0.33,"['CVE-2013-0734', 'CVE-2013-0735', 'CVE-2013-0736']",2022-03-19T15:38Z
+8,cpe:2.3:a:cartpauj:mingle-forum:1.0.34:*:*:*:*:*:*:*,cartpauj Mingle Forum (mingle-forum) plugin for Wordpress 1.0.34,['CVE-2013-0736'],2022-03-19T15:38Z
+9,cpe:2.3:a:cartpauj:shortcode-redirect:1.0.00:*:*:*:*:*:*:*,cartpauj Shortcode Redirect plugin (shortcode-redirect) for Wordpress 1.0.00,['CVE-2012-5325'],2022-03-19T15:38Z

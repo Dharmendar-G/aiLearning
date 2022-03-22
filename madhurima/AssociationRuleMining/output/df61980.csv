@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:auth0:passport-wsfed-saml2:1.2.0:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 1.2.0,['CVE-2017-16897'],2022-03-19T03:16Z
+1,cpe:2.3:a:auth0:passport-wsfed-saml2:1.3.0:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 1.3.0,['CVE-2017-16897'],2022-03-19T03:16Z
+2,cpe:2.3:a:auth0:passport-wsfed-saml2:1.3.1:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 1.3.1,['CVE-2017-16897'],2022-03-19T03:16Z
+3,cpe:2.3:a:auth0:passport-wsfed-saml2:1.3.2:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 1.3.2,['CVE-2017-16897'],2022-03-19T03:16Z
+4,cpe:2.3:a:auth0:passport-wsfed-saml2:1.3.4:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 1.3.4,['CVE-2017-16897'],2022-03-19T03:16Z
+5,cpe:2.3:a:auth0:passport-wsfed-saml2:1.3.5:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 1.3.5,['CVE-2017-16897'],2022-03-19T03:16Z
+6,cpe:2.3:a:auth0:passport-wsfed-saml2:2.0.0:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 2.0.0,['CVE-2017-16897'],2022-03-19T03:16Z
+7,cpe:2.3:a:auth0:passport-wsfed-saml2:2.0.1:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 2.0.1,['CVE-2017-16897'],2022-03-19T03:16Z
+8,cpe:2.3:a:auth0:passport-wsfed-saml2:2.0.2:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 2.0.2,['CVE-2017-16897'],2022-03-19T03:16Z
+9,cpe:2.3:a:auth0:passport-wsfed-saml2:2.1.0:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 2.1.0,['CVE-2017-16897'],2022-03-19T03:16Z

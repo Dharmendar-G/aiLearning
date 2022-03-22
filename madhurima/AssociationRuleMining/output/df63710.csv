@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:automox:automox:33:*:*:*:*:*:*:*,Automox 33,['CVE-2021-43325'],2022-03-19T03:51Z
+1,cpe:2.3:a:autonomy:connector_framework:1.0.0.0:*:*:*:*:*:*:*,Autonomy Connector Framework 1.0.0.0,[''],2022-03-19T03:51Z
+2,cpe:2.3:a:autonomy:keyview_export_sdk:-:*:*:*:*:*:*:*,Autonomy KeyView Export SDK,"['CVE-2005-2618', 'CVE-2005-2619', 'CVE-2007-5909', 'CVE-2007-5910', 'CVE-2007-6008', 'CVE-2008-4564']",2022-03-19T03:51Z
+3,cpe:2.3:a:autonomy:keyview_filter_sdk:-:*:*:*:*:*:*:*,Autonomy KeyView Filter SDK,"['CVE-2005-2618', 'CVE-2005-2619', 'CVE-2007-5909', 'CVE-2007-5910', 'CVE-2007-6008', 'CVE-2008-4564']",2022-03-19T03:51Z
+4,cpe:2.3:a:autonomy:keyview_idol:-:*:*:*:*:*:*:*,Autonomy KeyView IDOL,['CVE-2012-6349'],2022-03-19T03:51Z
+5,cpe:2.3:a:autonomy:keyview_viewer_sdk:-:*:*:*:*:*:*:*,Autonomy KeyView Viewer SDK,"['CVE-2005-2618', 'CVE-2005-2619', 'CVE-2007-5909', 'CVE-2007-5910', 'CVE-2007-6008', 'CVE-2008-4564']",2022-03-19T03:51Z
+6,cpe:2.3:a:autonomy:sharepoint_connector_cfs:1.0.0.0:*:*:*:*:*:*:*,Autonomy Sharepoint Connector Cfs 1.0.0.0,[''],2022-03-19T03:51Z
+7,cpe:2.3:a:autonomy:survey_editor:430:*:*:*:*:*:*:*,Autonomy Survey Editor 430,[''],2022-03-19T03:51Z
+8,cpe:2.3:a:autonomy:verity_k2:-:*:*:*:*:*:*:*,Autonomy Verity K2,[''],2022-03-19T03:51Z
+9,cpe:2.3:a:autonomy:verity_k2:5.5.0:*:*:*:*:*:*:*,Autonomy Verity K2 5.5.0,[''],2022-03-19T03:51Z

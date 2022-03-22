@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:a:arubanetworks:sd-wan:2.2.0.0:*:*:*:*:*:*:*,Aruba Networks Pass Policy Manager 2.2.0.0,"['CVE-2020-24633', 'CVE-2020-24634', 'CVE-2020-24637', 'CVE-2021-37716', 'CVE-2021-37717', 'CVE-2021-37718', 'CVE-2021-37719', 'CVE-2021-37720', 'CVE-2021-37721', 'CVE-2021-37722', 'CVE-2021-37725', 'CVE-2021-37729', 'CVE-2021-37731', 'CVE-2021-37733']",2022-03-18T23:42Z
+2,[0],[0],[0],[0]
+3,cpe:2.3:a:arubanetworks:sd-wan:2.2.0.1:*:*:*:*:*:*:*,Aruba Networks Pass Policy Manager 2.2.0.1,"['CVE-2021-37716', 'CVE-2021-37717', 'CVE-2021-37718', 'CVE-2021-37719', 'CVE-2021-37720', 'CVE-2021-37721', 'CVE-2021-37722', 'CVE-2021-37725', 'CVE-2021-37729', 'CVE-2021-37731', 'CVE-2021-37733']",2022-03-18T23:42Z
+4,cpe:2.3:a:arubanetworks:sd-wan:2.2.0.3:*:*:*:*:*:*:*,Aruba Networks Pass Policy Manager 2.2.0.3,"['CVE-2021-37716', 'CVE-2021-37717', 'CVE-2021-37718', 'CVE-2021-37719', 'CVE-2021-37720', 'CVE-2021-37721', 'CVE-2021-37722', 'CVE-2021-37725', 'CVE-2021-37729', 'CVE-2021-37731', 'CVE-2021-37733']",2022-03-18T23:42Z
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,cpe:2.3:a:arubanetworks:sd-wan:2.2.0.4:*:*:*:*:*:*:*,Aruba Networks Pass Policy Manager 2.2.0.4,"['CVE-2021-37717', 'CVE-2021-37718']",2022-03-18T23:42Z
+8,cpe:2.3:a:arubanetworks:sd-wan:2.2.0.5:*:*:*:*:*:*:*,Aruba Networks Pass Policy Manager 2.2.0.5,"['CVE-2021-37717', 'CVE-2021-37718']",2022-03-18T23:42Z
+9,[0],[0],[0],[0]

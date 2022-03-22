@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:axis:2420-ir_network_camera:-:*:*:*:*:*:*:*,Axis Communications AXIS 2420-IR Network Camera,['CVE-2007-2239'],2022-03-19T04:47Z
+1,cpe:2.3:h:axis:2420-ir_network_camera:2.39:*:*:*:*:*:*:*,Axis Communications AXIS 2420-IR Network Camera 2.39,['CVE-2007-2239'],2022-03-19T04:47Z
+2,cpe:2.3:h:axis:2460_network_dvr:-:*:*:*:*:*:*:*,Axis Communications AXIS 2460 Network DVR,"['CVE-2003-0240', 'CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427']",2022-03-19T04:47Z
+3,cpe:2.3:h:axis:2460_network_dvr:3.00:*:*:*:*:*:*:*,Axis Communications AXIS 2460 Network DVR 3.00,"['CVE-2003-0240', 'CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427']",2022-03-19T04:47Z
+4,cpe:2.3:h:axis:2460_network_dvr:3.10:*:*:*:*:*:*:*,Axis Communications AXIS 2460 Network DVR 3.10,"['CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427']",2022-03-19T04:47Z
+5,cpe:2.3:h:axis:2460_network_dvr:3.11:*:*:*:*:*:*:*,Axis Communications AXIS 2460 Network DVR 3.11,"['CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427']",2022-03-19T04:47Z
+6,cpe:2.3:h:axis:2460_network_dvr:3.12:*:*:*:*:*:*:*,Axis Communications AXIS 2460 Digital Video Recorder 3.12,"['CVE-2004-0789', 'CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427']",2022-03-19T04:47Z
+7,cpe:2.3:h:axis:2490_serial_server:-:*:*:*:*:*:*:*,Axis Communications AXIS 2490 Serial Server,"['CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427']",2022-03-19T04:47Z
+8,cpe:2.3:h:axis:2490_serial_server:2.11.3:*:*:*:*:*:*:*,Axis Communications AXIS 2490 Serial Server 2.11.3,"['CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427']",2022-03-19T04:47Z
+9,cpe:2.3:h:axis:250s_mpeg2_video_server:-:*:*:*:*:*:*:*,Axis Communications AXIS 250S MPEG2 Video Server,[''],2022-03-19T04:47Z

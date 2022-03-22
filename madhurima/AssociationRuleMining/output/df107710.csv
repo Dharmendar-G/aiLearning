@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chamilo:chamilo_lms:1.11.14:-:*:*:*:*:*:*,Chamilo LMS 1.11.14,"['CVE-2021-35413', 'CVE-2021-35414', 'CVE-2021-35415']",2022-03-19T16:31Z
+1,cpe:2.3:a:chamilo:chamilo_lms:1.11.14:beta1:*:*:*:*:*:*,Chamilo LMS 1.11.14 Beta 1,"['CVE-2021-35413', 'CVE-2021-35414', 'CVE-2021-35415']",2022-03-19T16:31Z
+2,cpe:2.3:a:chamilo:chamilo_lms:1.11.16:-:*:*:*:*:*:*,Chamilo LMS 1.11.16,"['CVE-2021-35413', 'CVE-2021-35414', 'CVE-2021-35415']",2022-03-19T16:31Z
+3,cpe:2.3:a:chamilo:chamilo_lms:1.11.16:beta1:*:*:*:*:*:*,Chamilo LMS 1.11.16 Beta 1,"['CVE-2021-35413', 'CVE-2021-35414', 'CVE-2021-35415']",2022-03-19T16:31Z
+4,cpe:2.3:a:chamilo_integration_project:chamilo_integration:7.x-1.0:*:*:*:*:drupal:*:*,Chamilo Integration project Chamilo Integration 7.x-1.0 for Drupal,['CVE-2015-5503'],2022-03-19T16:31Z
+5,cpe:2.3:a:chamilo_integration_project:chamilo_integration:7.x-1.1:*:*:*:*:drupal:*:*,Chamilo Integration project Chamilo Integration 7.x-1.1 for Drupal,['CVE-2015-5503'],2022-03-19T16:31Z
+6,cpe:2.3:h:changehealthcare:cardiology:-:*:*:*:*:*:*:*,Change Healthcare Cardiology,['CVE-2018-18630'],2022-03-19T16:31Z
+7,cpe:2.3:o:changehealthcare:cardiology_firmware:14.1.0:*:*:*:*:*:*:*,Change Healthcare Cardiology Firmware 14.1.0,['CVE-2018-18630'],2022-03-19T16:31Z
+8,cpe:2.3:a:changehealthcare:conserus_image_repository:2.1.1.105:*:*:*:*:*:*:*,Change Healthcare Conserus Image Repository 2.1.1.105,['CVE-2017-14101'],2022-03-19T16:31Z
+9,cpe:2.3:a:changeset_project:changeset:0.0.1:*:*:*:*:node.js:*:*,changeset Project changeset 0.0.1 for Node.js,['CVE-2021-25915'],2022-03-19T16:31Z

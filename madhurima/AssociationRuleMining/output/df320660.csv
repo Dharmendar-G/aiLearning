@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:data_protector_media_operations:6.11:*:*:*:*:*:*:*,HP Data Protector Media Operations 6.11,['CVE-2011-4791'],2022-03-21T13:11Z
+1,cpe:2.3:a:hp:database_and_middleware_automation:10.0:*:*:*:*:*:*:*,HP Database and Middleware Automation 10.0,"['CVE-2013-2365', 'CVE-2013-6212']",2022-03-21T13:11Z
+2,cpe:2.3:a:hp:database_and_middleware_automation:10.01:*:*:*:*:*:*:*,HP Database and Middleware Automation 10.01,"['CVE-2013-2365', 'CVE-2013-6212']",2022-03-21T13:11Z
+3,cpe:2.3:a:hp:database_and_middleware_automation:10.10:*:*:*:*:*:*:*,HP Database and Middleware Automation 10.10,['CVE-2013-6212'],2022-03-21T13:11Z
+4,cpe:2.3:a:hp:database_and_middleware_automation:10.20:*:*:*:*:*:*:*,HP Database and Middleware Automation 10.20,['CVE-2013-6212'],2022-03-21T13:11Z
+5,cpe:2.3:a:hp:database_and_middleware_automation:10.20.100:*:*:*:*:*:*:*,HP Database and Middleware Automation 10.20.100,[''],2022-03-21T13:11Z
+6,cpe:2.3:h:hp:dc7900:-:*:*:*:*:*:*:*,HP DC7900  Convertible Minitower,[''],2022-03-21T13:11Z
+7,cpe:2.3:a:hp:decnet_osi:-:*:*:*:*:*:*:*,HP DECnet_OSI,[''],2022-03-21T13:11Z
+8,cpe:2.3:h:hp:designjet_1055:-:*:*:*:*:*:*:*,HP designjet 1055 printer,[''],2022-03-21T13:11Z
+9,cpe:2.3:h:hp:designjet_500ps:-:*:*:*:*:*:*:*,HP designjet 500ps printer,[''],2022-03-21T13:11Z

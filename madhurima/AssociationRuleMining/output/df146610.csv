@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:java_buildpack:4.17.2:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 4.17.2,[''],2022-03-20T03:29Z
+1,cpe:2.3:a:cloudfoundry:java_buildpack:4.18:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 4.18,[''],2022-03-20T03:29Z
+2,cpe:2.3:a:cloudfoundry:java_buildpack:4.19:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 4.19,[''],2022-03-20T03:29Z
+3,cpe:2.3:a:cloudfoundry:java_buildpack:4.19.1:*:*:*:*:*:*:*,Cloudfoundry Java Buildpack 4.19.1,[''],2022-03-20T03:29Z
+4,cpe:2.3:a:cloudfoundry:loggregator:65:*:*:*:*:*:*:*,Cloud Foundry Loggregator 65,[''],2022-03-20T03:29Z
+5,cpe:2.3:a:cloudfoundry:loggregator:66:*:*:*:*:*:*:*,Cloud Foundry Loggregator 66,[''],2022-03-20T03:29Z
+6,cpe:2.3:a:cloudfoundry:loggregator:67:*:*:*:*:*:*:*,Cloud Foundry Loggregator 67,[''],2022-03-20T03:29Z
+7,cpe:2.3:a:cloudfoundry:loggregator:68:*:*:*:*:*:*:*,Cloud Foundry Loggregator 68,[''],2022-03-20T03:29Z
+8,cpe:2.3:a:cloudfoundry:loggregator:69:*:*:*:*:*:*:*,Cloud Foundry Loggregator 69,[''],2022-03-20T03:29Z
+9,cpe:2.3:a:cloudfoundry:loggregator:70:*:*:*:*:*:*:*,Cloud Foundry Loggregator 70,[''],2022-03-20T03:29Z

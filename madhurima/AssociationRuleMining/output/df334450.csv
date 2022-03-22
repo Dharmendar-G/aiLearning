@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:honor_view_20_firmware:10.1.0.212\(c432e10r3p4\):*:*:*:*:*:*:*,Huawei Honor View 20 Firmware 10.1.0.212(C432E10R3P4),['CVE-2020-9235'],2022-03-21T17:54Z
+1,cpe:2.3:o:huawei:honor_view_20_firmware:10.1.0.213\(c636e3r4p3\):*:*:*:*:*:*:*,Huawei Honor View 20 Firmware 10.1.0.213(C636E3R4P3),['CVE-2020-9235'],2022-03-21T17:54Z
+2,cpe:2.3:o:huawei:honor_view_20_firmware:10.1.0.214\(c10e5r4p3\):*:*:*:*:*:*:*,Huawei Honor View 20 Firmware 10.1.0.214(C10E5R4P3),['CVE-2020-9235'],2022-03-21T17:54Z
+3,cpe:2.3:o:huawei:honor_view_20_firmware:10.1.0.214\(c185e3r3p3\):*:*:*:*:*:*:*,Huawei Honor View 20 Firmware 10.1.0.214(C185E3R3P3),[''],2022-03-21T17:54Z
+4,cpe:2.3:h:huawei:honor_ws851:-:*:*:*:*:*:*:*,Huawei Honor WS851 Router,"['CVE-2016-5365', 'CVE-2016-5366', 'CVE-2016-5367']",2022-03-21T17:55Z
+5,cpe:2.3:o:huawei:honor_ws851_firmware:1.1.21.1:*:*:*:*:*:*:*,Huawei Honor WS851 Firmware 1.1.21.1,"['CVE-2016-5365', 'CVE-2016-5366', 'CVE-2016-5367']",2022-03-21T17:55Z
+6,cpe:2.3:h:huawei:honor6:-:*:*:*:*:*:*:*,Huawei Honor6,['CVE-2016-8279'],2022-03-21T17:55Z
+7,cpe:2.3:o:huawei:honor6_firmware:6.9:*:*:*:*:*:*:*,Huawei Honor6 Firmware 6.9,['CVE-2016-8279'],2022-03-21T17:55Z
+8,cpe:2.3:h:huawei:honor6_plus:-:*:*:*:*:*:*:*,Huawei Honor6 Plus,['CVE-2016-8279'],2022-03-21T17:55Z
+9,cpe:2.3:h:huawei:huawei_firmware:v5500r001c00:*:*:*:*:*:*:*,Huawei Firmware V5500R001C00,['CVE-2016-5435'],2022-03-21T17:55Z

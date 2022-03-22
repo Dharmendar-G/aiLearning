@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:3s-software:codesys_runtime_system:-:*:*:*:*:*:*:*,3s-Software CODESYS Runtime System,"['CVE-2014-0760', 'CVE-2014-0769', 'CVE-2015-6482', 'CVE-2018-5440']",2022-03-18T10:08Z
+1,cpe:2.3:a:3s-software:codesys_runtime_system:1.1.9.19:*:*:*:*:*:*:*,3S-Software CODESYS Runtime System 1.1.9.19,['CVE-2015-6482'],2022-03-18T10:08Z
+2,cpe:2.3:a:3s-software:codesys_runtime_system:2.3.9.8:*:*:*:*:*:*:*,3s-Software CODESYS Runtime System 2.3.9.8,"['CVE-2012-6068', 'CVE-2012-6069', 'CVE-2015-6482']",2022-03-18T10:08Z
+3,cpe:2.3:a:3s-software:codesys_runtime_system:2.3.9.35:*:*:*:*:*:*:*,3s-Software CODESYS Runtime System 2.3.9.35,"['CVE-2012-6068', 'CVE-2012-6069', 'CVE-2015-6482']",2022-03-18T10:08Z
+4,cpe:2.3:a:3s-software:codesys_runtime_system:2.3.9.36:*:*:*:*:*:*:*,3s-Software CODESYS Runtime System 2.3.9.36,"['CVE-2012-6068', 'CVE-2012-6069', 'CVE-2015-6482']",2022-03-18T10:08Z
+5,cpe:2.3:a:3s-software:codesys_runtime_system:2.3.9.37:*:*:*:*:*:*:*,3s-Software CODESYS Runtime System 2.3.9.37,"['CVE-2012-6068', 'CVE-2012-6069', 'CVE-2015-6482']",2022-03-18T10:08Z
+6,cpe:2.3:a:3s-software:codesys_runtime_system:2.3.9.47:*:*:*:*:*:*:*,3s-Software CODESYS Runtime System 2.3.9.47,['CVE-2015-6482'],2022-03-18T10:08Z
+7,cpe:2.3:a:3s-software:codesys_web_server:2.3:*:*:*:*:*:*:*,3S-Software CODESYS Web Server 2.3,['CVE-2018-5440'],2022-03-18T10:08Z
+8,cpe:2.3:h:3xlogic:infinias_access_control:-:*:*:*:*:*:*:*,3xLOGIC infinias Access Control,['CVE-2019-18651'],2022-03-18T10:08Z
+9,cpe:2.3:a:3xlogic:infinias_access_control:6.7.10708.0:*:*:*:*:*:*:*,3xLOGIC Infinias Access Control 6.7.10708.0,['CVE-2021-41847'],2022-03-18T10:08Z

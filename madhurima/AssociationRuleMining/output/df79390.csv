@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitrock:installbuilder:5.4.2:*:*:*:*:*:*:*,BitRock InstallBuilder 5.4.2,['CVE-2019-5530'],2022-03-19T08:29Z
+1,cpe:2.3:a:bitrock:installbuilder:5.4.3:*:*:*:*:*:*:*,BitRock InstallBuilder 5.4.3,['CVE-2019-5530'],2022-03-19T08:29Z
+2,cpe:2.3:a:bitrock:installbuilder:5.4.4:*:*:*:*:*:*:*,BitRock InstallBuilder 5.4.4,['CVE-2019-5530'],2022-03-19T08:29Z
+3,cpe:2.3:a:bitrock:installbuilder:5.4.5:*:*:*:*:*:*:*,BitRock InstallBuilder 5.4.5,['CVE-2019-5530'],2022-03-19T08:29Z
+4,cpe:2.3:a:bitrock:installbuilder:5.4.6:*:*:*:*:*:*:*,BitRock InstallBuilder 5.4.6,['CVE-2019-5530'],2022-03-19T08:29Z
+5,cpe:2.3:a:bitrock:installbuilder:5.4.7:*:*:*:*:*:*:*,BitRock InstallBuilder 5.4.7,['CVE-2019-5530'],2022-03-19T08:29Z
+6,cpe:2.3:a:bitrock:installbuilder:5.4.8:*:*:*:*:*:*:*,BitRock InstallBuilder 5.4.8,['CVE-2019-5530'],2022-03-19T08:29Z
+7,cpe:2.3:a:bitrock:installbuilder:5.4.9:*:*:*:*:*:*:*,BitRock InstallBuilder 5.4.9,['CVE-2019-5530'],2022-03-19T08:29Z
+8,cpe:2.3:a:bitrock:installbuilder:5.4.10:*:*:*:*:*:*:*,BitRock InstallBuilder 5.4.10,['CVE-2019-5530'],2022-03-19T08:29Z
+9,cpe:2.3:a:bitrock:installbuilder:5.4.11:*:*:*:*:*:*:*,BitRock InstallBuilder 5.4.11,['CVE-2019-5530'],2022-03-19T08:29Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:asr_920-24sz-m_router:-:*:*:*:*:*:*:*,Cisco ASR 920-24SZ-M Router,['CVE-2018-0315'],2022-03-19T18:41Z
+1,cpe:2.3:h:cisco:asr_920-24tz-m:-:*:*:*:*:*:*:*,Cisco Asr 920-24tz-m,"['CVE-2019-12647', 'CVE-2021-34696']",2022-03-19T18:41Z
+2,cpe:2.3:h:cisco:asr_920-24tz-m_r:-:*:*:*:*:*:*:*,Cisco ASR 920-24TZ-M R,"['CVE-2019-12658', 'CVE-2021-34696']",2022-03-19T18:41Z
+3,cpe:2.3:h:cisco:asr_920-24tz-m_router:-:*:*:*:*:*:*:*,Cisco ASR 920-24TZ-M Router,['CVE-2018-0315'],2022-03-19T18:41Z
+4,cpe:2.3:h:cisco:asr_920-4sz-a:-:*:*:*:*:*:*:*,Cisco ASR 920-4SZ-A,"['CVE-2017-6795', 'CVE-2019-12647', 'CVE-2021-34696']",2022-03-19T18:41Z
+5,cpe:2.3:h:cisco:asr_920-4sz-a_r:-:*:*:*:*:*:*:*,Cisco ASR 920-4SZ-R R,"['CVE-2019-12658', 'CVE-2021-34696']",2022-03-19T18:41Z
+6,cpe:2.3:h:cisco:asr_920-4sz-a_router:-:*:*:*:*:*:*:*,Cisco ASR 920-4SZ-A Router,['CVE-2018-0315'],2022-03-19T18:41Z
+7,cpe:2.3:h:cisco:asr_920-4sz-d:-:*:*:*:*:*:*:*,Cisco Asr 920-4sz-d,"['CVE-2019-12647', 'CVE-2021-34696']",2022-03-19T18:41Z
+8,cpe:2.3:h:cisco:asr_920-4sz-d_r:-:*:*:*:*:*:*:*,Cisco ASR 920-4SZ-D R,"['CVE-2019-12658', 'CVE-2021-34696']",2022-03-19T18:41Z
+9,cpe:2.3:h:cisco:asr_920-4sz-d_router:-:*:*:*:*:*:*:*,Cisco ASR 920-4SZ-D Router,['CVE-2018-0315'],2022-03-19T18:41Z

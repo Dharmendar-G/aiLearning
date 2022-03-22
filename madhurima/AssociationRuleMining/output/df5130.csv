@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,[0],[0],[0],[0]
+8,cpe:2.3:a:acf_to_rest_api_project:acf_to_rest_api:2.0.0:*:*:*:*:wordpress:*:*,ACF to REST API Project ACF to REST API 2.0.0 for WordPress,['CVE-2020-13700'],2022-03-18T10:56Z
+9,cpe:2.3:a:acf_to_rest_api_project:acf_to_rest_api:2.0.1:*:*:*:*:wordpress:*:*,ACF to REST API Project ACF to REST API 2.0.1 for WordPress,['CVE-2020-13700'],2022-03-18T10:56Z

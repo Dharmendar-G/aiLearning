@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:1:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 1,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:40Z
+1,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:1-2:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 1-2,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:40Z
+2,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:2:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 2,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:40Z
+3,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:2-1:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 2-1,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:40Z
+4,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:2-2:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 2-2,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:40Z
+5,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:3:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 3,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:40Z
+6,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:3-1:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 3-1,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:40Z
+7,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:3-2:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 3-2,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:40Z
+8,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:3-3:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 3-3,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:40Z
+9,cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:3-4:*:*:*:*:*:*:*,Apt-cacher-ng Project Apt-cacher-ng 3-4,"['CVE-2017-7443', 'CVE-2019-18899', 'CVE-2020-5202']",2022-03-18T22:40Z

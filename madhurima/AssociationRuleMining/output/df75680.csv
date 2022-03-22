@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bigbluebutton:bigbluebutton:2.3.15:*:*:*:*:*:*:*,BigBlueButton 2.3.15,['CVE-2021-4143'],2022-03-19T07:37Z
+1,cpe:2.3:a:bigbluebutton:bigbluebutton:2.3.16:*:*:*:*:*:*:*,BigBlueButton 2.3.16,['CVE-2021-4143'],2022-03-19T07:37Z
+2,cpe:2.3:a:bigbluebutton:bigbluebutton:2.3.17:*:*:*:*:*:*:*,BigBlueButton 2.3.17,['CVE-2021-4143'],2022-03-19T07:37Z
+3,cpe:2.3:a:bigbluebutton:bigbluebutton:2.4.0:*:*:*:*:*:*:*,BigBlueButton 2.4.0,[''],2022-03-19T07:37Z
+4,cpe:2.3:a:bigbluebutton:bigbluebutton:2.4.1:*:*:*:*:*:*:*,BigBlueButton 2.4.1,[''],2022-03-19T07:37Z
+5,cpe:2.3:a:bigbluebutton:bigbluebutton:2.4.2:*:*:*:*:*:*:*,BigBlueButton 2.4.2,[''],2022-03-19T07:37Z
+6,cpe:2.3:a:bigbluebutton:greenlight:-:*:*:*:*:*:*:*,BigBlueButton Greenlight,['CVE-2020-26163'],2022-03-19T07:37Z
+7,cpe:2.3:a:bigbluebutton:greenlight:2.0.0:*:*:*:*:*:*:*,BigBlueButton Greenlight 2.0.0,['CVE-2020-26163'],2022-03-19T07:37Z
+8,cpe:2.3:a:bigbluebutton:greenlight:2.0.1:*:*:*:*:*:*:*,BigBlueButton Greenlight 2.0.1,['CVE-2020-26163'],2022-03-19T07:37Z
+9,cpe:2.3:a:bigbluebutton:greenlight:2.0.2:*:*:*:*:*:*:*,BigBlueButton Greenlight 2.0.2,['CVE-2020-26163'],2022-03-19T07:37Z

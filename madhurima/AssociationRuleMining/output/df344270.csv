@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:jazz_reporting_service:6.0.6:*:*:*:*:*:*:*,IBM Jazz Reporting Service 6.0.6,"['CVE-2018-1639', 'CVE-2018-1918', 'CVE-2018-2004', 'CVE-2019-4047', 'CVE-2019-4184', 'CVE-2019-4494', 'CVE-2019-4495', 'CVE-2019-4497', 'CVE-2020-4419', 'CVE-2020-4533', 'CVE-2020-4539', 'CVE-2020-4718']",2022-03-21T20:59Z
+1,cpe:2.3:a:ibm:jazz_reporting_service:6.0.6.1:*:*:*:*:*:*:*,IBM Jazz Reporting Service 6.0.6.1,"['CVE-2019-4184', 'CVE-2019-4494', 'CVE-2019-4495', 'CVE-2019-4497', 'CVE-2019-4651', 'CVE-2020-4419', 'CVE-2020-4533', 'CVE-2020-4539', 'CVE-2020-4718', 'CVE-2020-4933', 'CVE-2021-20535']",2022-03-21T20:59Z
+2,cpe:2.3:a:ibm:jazz_reporting_service:7.0:*:*:*:*:*:*:*,IBM Jazz Reporting Service 7.0,"['CVE-2020-4419', 'CVE-2020-4533', 'CVE-2020-4539', 'CVE-2020-4541', 'CVE-2020-4718', 'CVE-2020-4933', 'CVE-2021-20535']",2022-03-21T20:59Z
+3,cpe:2.3:a:ibm:jazz_reporting_service:7.0.1:*:*:*:*:*:*:*,IBM Jazz Reporting Service 7.0.1,"['CVE-2020-4539', 'CVE-2020-4541', 'CVE-2020-4718', 'CVE-2020-4933', 'CVE-2021-20535']",2022-03-21T20:59Z
+4,cpe:2.3:a:ibm:jazz_reporting_service:7.0.2:*:*:*:*:*:*:*,IBM Jazz Reporting Service 7.0.2,"['CVE-2020-4933', 'CVE-2021-20535']",2022-03-21T20:59Z
+5,cpe:2.3:a:ibm:jdk:1.4.2:*:*:*:*:*:*:*,IBM Jdk 1.4.2,[''],2022-03-21T20:59Z
+6,cpe:2.3:a:ibm:jdk:5.0:*:*:*:*:*:*:*,IBM Jdk 5.0,[''],2022-03-21T20:59Z
+7,cpe:2.3:a:ibm:jre:1.4.0:*:*:*:*:*:*:*,IBM Jre 1.4.0,[''],2022-03-21T20:59Z
+8,cpe:2.3:a:ibm:jre:1.4.2:*:*:*:*:*:*:*,IBM Jre 1.4.2,[''],2022-03-21T20:59Z
+9,cpe:2.3:a:ibm:jre:1.5.0:*:*:*:*:*:*:*,IBM Jre 1.5.0,[''],2022-03-21T20:59Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:openmanage_remote_access_components:3.31:*:*:*:*:*:*:*,Dell Openmanage Remote Access Components 3.31,[''],2022-03-20T12:55Z
+1,cpe:2.3:a:dell:openmanage_remote_access_components:4.0.0:*:*:*:*:*:*:*,Dell Openmanage Remote Access Components 4.0.0,[''],2022-03-20T12:55Z
+2,cpe:2.3:a:dell:openmanage_server_administrator:1.00.0000:*:*:*:*:*:*:*,Dell OpenManage Server Administrator 1.00.0000,"['CVE-2012-4955', 'CVE-2013-0740', 'CVE-2021-21513', 'CVE-2021-21514']",2022-03-20T12:55Z
+3,cpe:2.3:a:dell:openmanage_server_administrator:4.3.0:*:*:*:*:*:*:*,Dell Openmanage Server Administrator 4.3.0,"['CVE-2012-4955', 'CVE-2013-0740', 'CVE-2021-21513', 'CVE-2021-21514']",2022-03-20T12:55Z
+4,cpe:2.3:a:dell:openmanage_server_administrator:4.4.0:*:*:*:*:*:*:*,Dell Openmanage Server Administrator 4.4.0,"['CVE-2012-4955', 'CVE-2013-0740', 'CVE-2021-21513', 'CVE-2021-21514']",2022-03-20T12:55Z
+5,cpe:2.3:a:dell:openmanage_server_administrator:4.5.0:*:*:*:*:*:*:*,Dell Openmanage Server Administrator 4.5.0,"['CVE-2012-4955', 'CVE-2013-0740', 'CVE-2021-21513', 'CVE-2021-21514']",2022-03-20T12:55Z
+6,cpe:2.3:a:dell:openmanage_server_administrator:5.0.0:*:*:*:*:*:*:*,Dell Openmanage Server Administrator 5.0.0,"['CVE-2012-4955', 'CVE-2013-0740', 'CVE-2021-21513', 'CVE-2021-21514']",2022-03-20T12:55Z
+7,cpe:2.3:a:dell:openmanage_server_administrator:5.1.0:*:*:*:*:*:*:*,Dell OpenManage Server Administrator 5.1.0,"['CVE-2012-4955', 'CVE-2013-0740', 'CVE-2021-21513', 'CVE-2021-21514']",2022-03-20T12:55Z
+8,cpe:2.3:a:dell:openmanage_server_administrator:5.1.0.1:*:*:*:*:*:*:*,Dell Openmanage Server Administrator 5.1.0.1,"['CVE-2012-4955', 'CVE-2013-0740', 'CVE-2021-21513', 'CVE-2021-21514']",2022-03-20T12:55Z
+9,cpe:2.3:a:dell:openmanage_server_administrator:5.2.0:*:*:*:*:*:*:*,Dell OpenManage Server Administrator,"['CVE-2012-4955', 'CVE-2013-0740', 'CVE-2021-21513', 'CVE-2021-21514']",2022-03-20T12:55Z

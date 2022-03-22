@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cardgate:cardgate_payments:3.1.11:*:*:*:*:woocommerce:*:*,Cardgate Payments 3.1.11 for WooCommerce,['CVE-2020-8819'],2022-03-19T15:32Z
+1,cpe:2.3:a:cardgate:cardgate_payments:3.1.12:*:*:*:*:woocommerce:*:*,Cardgate Payments 3.1.12 for WooCommerce,['CVE-2020-8819'],2022-03-19T15:32Z
+2,cpe:2.3:a:cardgate:cardgate_payments:3.1.14:*:*:*:*:woocommerce:*:*,Cardgate Payments 3.1.14 for WooCommerce,['CVE-2020-8819'],2022-03-19T15:32Z
+3,cpe:2.3:a:cardgate:cardgate_payments:3.1.15:*:*:*:*:woocommerce:*:*,Cardgate Payments 3.1.15 for WooCommerce,['CVE-2020-8819'],2022-03-19T15:32Z
+4,cpe:2.3:a:cardinal_cms_project:cardinal_cms:1.0:*:*:*:*:*:*:*,Cardinal CMS Project Cardinal CMS 1.0,[''],2022-03-19T15:32Z
+5,cpe:2.3:a:cardinal_cms_project:cardinal_cms:1.2:*:*:*:*:*:*:*,Cardinal CMS Project Cardinal CMS 1.2,['CVE-2007-5156'],2022-03-19T15:32Z
+6,cpe:2.3:a:cardozatechnologies:wordpress_poll:34.05:*:*:*:*:wordpress:*:*,Cardoza Technologies WordPress Poll 34.05 for WordPress,"['CVE-2013-1400', 'CVE-2013-1401']",2022-03-19T15:32Z
+7,cpe:2.3:a:cardozatechnologies:wordpress_poll:34.06:*:*:*:*:wordpress:*:*,Cardoza Technologies WordPress Poll 34.06 for WordPress,['CVE-2013-1400'],2022-03-19T15:32Z
+8,cpe:2.3:a:cardozatechnologies:wordpress_poll:35.0:*:*:*:*:wordpress:*:*,Cardozatechnologies Wordpress Poll 35.0 for WordPress,[''],2022-03-19T15:32Z
+9,cpe:2.3:a:cardozatechnologies:wordpress_poll:35.1:*:*:*:*:wordpress:*:*,Cardozatechnologies Wordpress Poll 35.1 for WordPress,[''],2022-03-19T15:32Z

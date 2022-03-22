@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,cpe:2.3:a:cisco:intrusion_prevention_system:6.0:*:*:*:*:*:*:*,Cisco Intrusion Prevention System 6.0,"['CVE-2008-2060', 'CVE-2012-3899', 'CVE-2013-1218', 'CVE-2013-1243', 'CVE-2013-3410', 'CVE-2014-2103', 'CVE-2014-3402', 'CVE-2014-3406']",2022-03-19T20:11Z
+8,cpe:2.3:a:cisco:intrusion_prevention_system:6.0.2.0:*:*:*:*:*:*:*,Cisco Intrusion Prevention System 6.0.2.0,"['CVE-2013-1218', 'CVE-2013-1243', 'CVE-2013-3410', 'CVE-2014-2103', 'CVE-2014-3402', 'CVE-2014-3406']",2022-03-19T20:11Z
+9,cpe:2.3:a:cisco:intrusion_prevention_system:7.0:*:*:*:*:*:*:*,Cisco Intrusion Prevention System 7.0,"['CVE-2011-4022', 'CVE-2012-3899', 'CVE-2012-3901', 'CVE-2013-1218', 'CVE-2013-1243', 'CVE-2013-3410', 'CVE-2014-2103', 'CVE-2014-3402', 'CVE-2014-3406']",2022-03-19T20:11Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adblockplus:adblock_plus:3.7:*:*:*:*:chrome:*:*,Adblock Plus 3.7 for Chrome,[''],2022-03-18T11:45Z
+1,cpe:2.3:a:adbnewssender_project:adbnewssender:1.0.0:*:*:de:*:*:*:*,ADbNewsSender Project ADbNewsSender 1.0.0 De,['CVE-2008-6046'],2022-03-18T11:45Z
+2,cpe:2.3:a:adbnewssender_project:adbnewssender:1.0.0:*:*:en:*:*:*:*,ADbNewsSender Project ADbNewsSender 1.0.0 En,['CVE-2008-6046'],2022-03-18T11:45Z
+3,cpe:2.3:a:adbnewssender_project:adbnewssender:1.0.1:*:*:de:*:*:*:*,ADbNewsSender Project ADbNewsSender 1.0.1 De,['CVE-2008-6046'],2022-03-18T11:45Z
+4,cpe:2.3:a:adbnewssender_project:adbnewssender:1.0.1:*:*:en:*:*:*:*,ADbNewsSender Project ADbNewsSender 1.0.1 En,['CVE-2008-6046'],2022-03-18T11:45Z
+5,cpe:2.3:a:adbnewssender_project:adbnewssender:1.0.2:*:*:de:*:*:*:*,ADbNewsSender Project ADbNewsSender 1.0.2 De,['CVE-2008-6046'],2022-03-18T11:45Z
+6,cpe:2.3:a:adbnewssender_project:adbnewssender:1.0.2:*:*:en:*:*:*:*,ADbNewsSender Project ADbNewsSender 1.0.2 En,['CVE-2008-6046'],2022-03-18T11:46Z
+7,cpe:2.3:a:adbnewssender_project:adbnewssender:1.1.0:*:*:*:*:*:*:*,ADbNewsSender Project ADbNewsSender 1.1.0,['CVE-2008-6046'],2022-03-18T11:46Z
+8,cpe:2.3:a:adbnewssender_project:adbnewssender:1.1.1:*:*:*:*:*:*:*,ADbNewsSender Project ADbNewsSender 1.1.1,['CVE-2008-6046'],2022-03-18T11:46Z
+9,cpe:2.3:a:adbnewssender_project:adbnewssender:1.1.2:*:*:*:*:*:*:*,ADbNewsSender Project ADbNewsSender 1.1.2,['CVE-2008-6046'],2022-03-18T11:46Z

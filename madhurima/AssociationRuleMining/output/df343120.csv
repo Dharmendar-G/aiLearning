@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:general_parallel_file_system:3.5.0.30:*:*:*:*:*:*:*,IBM General Parallel File System (GPFS) 3.5.0.30,"['CVE-2016-2984', 'CVE-2016-2985']",2022-03-21T20:40Z
+1,cpe:2.3:a:ibm:general_parallel_file_system:3.5.0.31:*:*:*:*:*:*:*,IBM General Parallel File System (GPFS) 3.5.0.31,"['CVE-2016-2984', 'CVE-2016-2985']",2022-03-21T20:40Z
+2,cpe:2.3:a:ibm:general_parallel_file_system:4.1:*:*:*:*:*:*:*,IBM General Parallel File System (GPFS) 4.1,"['CVE-2015-0197', 'CVE-2015-0198', 'CVE-2015-0199', 'CVE-2015-1890']",2022-03-21T20:40Z
+3,cpe:2.3:a:ibm:general_parallel_file_system:4.1.0.0:*:*:*:*:*:*:*,IBM General Parallel File System (GPFS) 4.1.0.0,"['CVE-2016-2984', 'CVE-2016-2985', 'CVE-2016-6115', 'CVE-2017-1654', 'CVE-2018-1431']",2022-03-21T20:40Z
+4,cpe:2.3:a:ibm:general_parallel_file_system:4.1.0.1:*:*:*:*:*:*:*,IBM General Parallel File System (GPFS) 4.1.0.1,"['CVE-2016-0361', 'CVE-2016-2984', 'CVE-2016-2985', 'CVE-2016-6115', 'CVE-2017-1654', 'CVE-2018-1431']",2022-03-21T20:40Z
+5,cpe:2.3:a:ibm:general_parallel_file_system:4.1.0.2:*:*:*:*:*:*:*,IBM General Parallel File System (GPFS) 4.1.0.2,"['CVE-2016-2984', 'CVE-2016-2985', 'CVE-2016-6115', 'CVE-2017-1654', 'CVE-2018-1431']",2022-03-21T20:40Z
+6,cpe:2.3:a:ibm:general_parallel_file_system:4.1.0.3:*:*:*:*:*:*:*,IBM General Parallel File System (GPFS) 4.1.0.3,"['CVE-2016-2984', 'CVE-2016-2985', 'CVE-2016-6115', 'CVE-2017-1654', 'CVE-2018-1431']",2022-03-21T20:40Z
+7,cpe:2.3:a:ibm:general_parallel_file_system:4.1.0.4:*:*:*:*:*:*:*,IBM General Parallel File System (GPFS) 4.1.0.4,"['CVE-2016-2984', 'CVE-2016-2985', 'CVE-2016-6115', 'CVE-2017-1654', 'CVE-2018-1431']",2022-03-21T20:40Z
+8,cpe:2.3:a:ibm:general_parallel_file_system:4.1.0.5:*:*:*:*:*:*:*,IBM General Parallel File System (GPFS) 4.1.0.5,"['CVE-2016-2984', 'CVE-2016-2985', 'CVE-2016-6115', 'CVE-2017-1654', 'CVE-2018-1431']",2022-03-21T20:40Z
+9,cpe:2.3:a:ibm:general_parallel_file_system:4.1.0.6:*:*:*:*:*:*:*,IBM General Parallel File System (GPFS) 4.1.0.6,"['CVE-2016-2984', 'CVE-2016-2985', 'CVE-2016-6115', 'CVE-2017-1654', 'CVE-2018-1431']",2022-03-21T20:40Z

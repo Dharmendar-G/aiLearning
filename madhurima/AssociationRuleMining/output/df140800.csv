@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:citrix:sharefile_storagezones_controller:5.11.20:*:*:*:*:*:*:*,Citrix ShareFile StorageZones Controller 5.11.20,[''],2022-03-20T01:37Z
+1,cpe:2.3:a:citrix:single_sign-on_console:4.8.6410.0:*:*:*:*:*:*:*,Citrix Single Sign-on Console 4.8.6410.0,[''],2022-03-20T01:37Z
+2,cpe:2.3:a:citrix:single_sign-on_console:5.0.0.6684:*:*:*:*:*:*:*,Citrix Single Sign-on Console 5.0.0.6684,[''],2022-03-20T01:37Z
+3,cpe:2.3:a:citrix:storage_zones_controller:-:*:*:*:*:*:*:*,Citrix Storage Zones Controller,[''],2022-03-20T01:37Z
+4,cpe:2.3:a:citrix:storage_zones_controller:5.11.19:*:*:*:*:*:*:*,Citrix Storage Zones Controller 5.11.19,[''],2022-03-20T01:37Z
+5,cpe:2.3:a:citrix:storefront_server:-:*:*:*:*:*:*:*,Citrix StoreFront Server,"['CVE-2019-13608', 'CVE-2020-8200']",2022-03-20T01:37Z
+6,cpe:2.3:a:citrix:storefront_server:3.0:*:*:*:*:*:*:*,Citrix StoreFront Server 3.0,"['CVE-2019-13608', 'CVE-2020-8200']",2022-03-20T01:37Z
+7,cpe:2.3:a:citrix:storefront_server:3.0:*:*:*:ltsr:*:*:*,Citrix StoreFront Server 3.0 Long Term Service Release (LTSR) Edition,"['CVE-2019-13608', 'CVE-2020-8200']",2022-03-20T01:37Z
+8,cpe:2.3:a:citrix:storefront_server:3.0.8000:*:*:*:*:*:*:*,Citrix StoreFront Server 3.0.8000,"['CVE-2019-13608', 'CVE-2020-8200']",2022-03-20T01:37Z
+9,cpe:2.3:a:citrix:storefront_server:3.0.8001:*:*:*:ltsr:*:*:*,Citrix StoreFront Server 3.0.8001 Long Term Service Release (LTSR) Edition,"['CVE-2019-13608', 'CVE-2020-8200']",2022-03-20T01:37Z

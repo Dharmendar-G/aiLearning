@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:curam_social_program_management:7.0.7.0:*:*:*:*:*:*:*,IBM Curam Social Program Management 7.0.7.0,[''],2022-03-21T20:07Z
+1,cpe:2.3:a:ibm:curam_social_program_management:7.0.9.0:*:*:*:*:*:*:*,IBM Curam Social Program Management 7.0.9.0,"['CVE-2020-4772', 'CVE-2020-4773', 'CVE-2020-4774', 'CVE-2020-4775', 'CVE-2020-4776', 'CVE-2020-4778', 'CVE-2020-4779', 'CVE-2020-4780', 'CVE-2020-4781', 'CVE-2020-4942']",2022-03-21T20:07Z
+2,cpe:2.3:a:ibm:curam_social_program_management:7.0.10.0:*:*:*:*:*:*:*,IBM Curam Social Program Management 7.0.10.0,"['CVE-2020-4772', 'CVE-2020-4773', 'CVE-2020-4774', 'CVE-2020-4775', 'CVE-2020-4776', 'CVE-2020-4778', 'CVE-2020-4779', 'CVE-2020-4780', 'CVE-2020-4781']",2022-03-21T20:07Z
+3,cpe:2.3:a:ibm:curam_social_program_management:7.0.11.0:*:*:*:*:*:*:*,IBM Curam Social Program Management 7.0.11.0,['CVE-2020-4942'],2022-03-21T20:07Z
+4,cpe:2.3:a:ibm:daeja_viewone:4.1.5:*:*:*:professional:*:*:*,IBM Daeja ViewONE 4.1.5 Professional Edition,"['CVE-2017-1209', 'CVE-2017-1210', 'CVE-2017-1211', 'CVE-2017-1212', 'CVE-2017-1308']",2022-03-21T20:07Z
+5,cpe:2.3:a:ibm:daeja_viewone:4.1.5:*:*:*:standard:*:*:*,IBM Daeja ViewONE 4.1.5 Standard Edition,"['CVE-2017-1209', 'CVE-2017-1210', 'CVE-2017-1211', 'CVE-2017-1212', 'CVE-2017-1308']",2022-03-21T20:07Z
+6,cpe:2.3:a:ibm:daeja_viewone:4.1.5:*:*:*:virtual:*:*:*,IBM Daeja ViewONE 4.1.5 Virtual Edition,"['CVE-2017-1209', 'CVE-2017-1210', 'CVE-2017-1211', 'CVE-2017-1212', 'CVE-2017-1308', 'CVE-2018-1399']",2022-03-21T20:07Z
+7,cpe:2.3:a:ibm:daeja_viewone:4.1.5.1:*:*:*:professional:*:*:*,IBM Daeja ViewONE 4.1.5.1 Professional Edition,"['CVE-2017-1209', 'CVE-2017-1210', 'CVE-2017-1211', 'CVE-2017-1212', 'CVE-2017-1308']",2022-03-21T20:07Z
+8,cpe:2.3:a:ibm:daeja_viewone:4.1.5.1:*:*:*:standard:*:*:*,IBM Daeja ViewONE 4.1.5.1 Standard Edition,"['CVE-2017-1209', 'CVE-2017-1210', 'CVE-2017-1211', 'CVE-2017-1212', 'CVE-2017-1308']",2022-03-21T20:07Z
+9,cpe:2.3:a:ibm:daeja_viewone:4.1.5.1:*:*:*:virtual:*:*:*,IBM Daeja ViewONE 4.1.5.1 Virtual Edition,"['CVE-2017-1209', 'CVE-2017-1210', 'CVE-2017-1211', 'CVE-2017-1212', 'CVE-2017-1308']",2022-03-21T20:07Z

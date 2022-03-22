@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hpe:proliant_dl380_gen10_server:-:*:*:*:*:*:*:*,HPE ProLiant DL380 Gen10 Server,"['CVE-2019-11136', 'CVE-2019-11137', 'CVE-2020-7205']",2022-03-21T16:32Z
+1,cpe:2.3:o:hpe:proliant_dl380_gen10_server_firmware:-:*:*:*:*:*:*:*,HPE ProLiant DL380 Gen10 Server Firmware,"['CVE-2019-11136', 'CVE-2019-11137']",2022-03-21T16:32Z
+2,cpe:2.3:o:hpe:proliant_dl380_gen10_server_firmware:2.20:*:*:*:*:*:*:*,HPE ProLiant DL380 Gen10 Server Firmware 2.20,[''],2022-03-21T16:32Z
+3,cpe:2.3:h:hpe:proliant_dl380_gen9_server:-:*:*:*:*:*:*:*,HPE ProLiant DL380 Gen9 Server,"['CVE-2019-11136', 'CVE-2019-11137', 'CVE-2020-7205']",2022-03-21T16:32Z
+4,cpe:2.3:o:hpe:proliant_dl380_gen9_server_firmware:-:*:*:*:*:*:*:*,HPE ProLiant DL380 Gen9 Server Firmware,"['CVE-2019-11136', 'CVE-2019-11137']",2022-03-21T16:32Z
+5,cpe:2.3:o:hpe:proliant_dl380_gen9_server_firmware:2.76:*:*:*:*:*:*:*,HPE ProLiant DL380 Gen9 Server Firmware 2.76,[''],2022-03-21T16:32Z
+6,cpe:2.3:h:hpe:proliant_dl380e_gen8_server:-:*:*:*:*:*:*:*,HPE Proliant DL380e Gen8 Server,['CVE-2020-7205'],2022-03-21T16:32Z
+7,cpe:2.3:h:hpe:proliant_dl380p_gen8_server:-:*:*:*:*:*:*:*,HPE Proliant DL380p Gen8 Server,['CVE-2020-7205'],2022-03-21T16:32Z
+8,cpe:2.3:h:hpe:proliant_dl385_gen10_server:-:*:*:*:*:*:*:*,HPE Proliant DL385 Gen10 Server,['CVE-2020-7205'],2022-03-21T16:32Z
+9,cpe:2.3:h:hpe:proliant_dl385p_gen8_server:-:*:*:*:*:*:*:*,HPE Proliant DL385p Gen8 Server,['CVE-2020-7205'],2022-03-21T16:32Z

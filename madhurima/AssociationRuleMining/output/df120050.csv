@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:hosted_collaboration_solution:10.6_base:*:*:*:*:*:*:*,Cisco Hosted Collaboration Solution (HCS) 10.6 BASE,"['CVE-2015-6352', 'CVE-2019-1911']",2022-03-19T19:57Z
+1,cpe:2.3:a:cisco:hosted_collaboration_solution:11.5\(1\):*:*:*:*:*:*:*,Cisco Hosted Collaboration Solution 11.5(1),"['CVE-2018-0386', 'CVE-2019-1911']",2022-03-19T19:57Z
+2,cpe:2.3:a:cisco:hosted_collaboration_solution:11.5\(3\)pb3:*:*:*:*:*:*:*,Cisco Hosted Collaboration Solution 11.5(3)PB3,['CVE-2019-1911'],2022-03-19T19:57Z
+3,cpe:2.3:h:cisco:hosting_solution_engine:-:*:*:*:*:*:*:*,Cisco Hosting Solution Engine,[''],2022-03-19T19:57Z
+4,[0],[0],[0],[0]
+5,cpe:2.3:h:cisco:hosting_solution_engine:1.7:*:*:*:*:*:*:*,Cisco Hosting Solution Engine 1.7,"['CVE-2004-0391', 'CVE-2006-1961']",2022-03-19T19:57Z
+6,cpe:2.3:h:cisco:hosting_solution_engine:1.7.0:*:*:*:*:*:*:*,Cisco Hosting Solution Engine 1.7.0,"['CVE-2004-0391', 'CVE-2006-1961']",2022-03-19T19:57Z
+7,cpe:2.3:h:cisco:hosting_solution_engine:1.7.1:*:*:*:*:*:*:*,Cisco Hosting Solution Engine 1.7.1,"['CVE-2004-0391', 'CVE-2006-1961']",2022-03-19T19:57Z
+8,cpe:2.3:h:cisco:hosting_solution_engine:1.7.2:*:*:*:*:*:*:*,Cisco Hosting Solution Engine 1.7.2,"['CVE-2004-0391', 'CVE-2006-1961']",2022-03-19T19:57Z
+9,cpe:2.3:h:cisco:hosting_solution_engine:1.7.3:*:*:*:*:*:*:*,Cisco Hosting Solution Engine 1.7.3,"['CVE-2004-0391', 'CVE-2006-1961']",2022-03-19T19:57Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:ccc_harvest:-:*:*:*:*:*:*:*,Broadcom CCC Harvest,[''],2022-03-19T12:17Z
+1,cpe:2.3:a:broadcom:ccc_harvest:5.0:*:*:*:*:*:*:*,Broadcom CCC Harvest 5.0,['CVE-2001-0382'],2022-03-19T12:17Z
+2,cpe:2.3:a:broadcom:cleverpath_aion:-:*:*:*:*:*:*:*,Broadcom CleverPath Aion,[''],2022-03-19T12:17Z
+3,cpe:2.3:a:broadcom:cleverpath_aion:10.0:*:*:*:*:*:*:*,Broadcom CleverPath Aion 10.0,"['CVE-2005-2668', 'CVE-2005-2669', 'CVE-2007-0060']",2022-03-19T12:17Z
+4,cpe:2.3:a:broadcom:cleverpath_ecm:-:*:*:*:*:*:*:*,Broadcom CleverPath ECM,[''],2022-03-19T12:17Z
+5,cpe:2.3:a:broadcom:cleverpath_ecm:3.5:*:*:*:*:*:*:*,Broadcom CleverPath ECM 3.5,"['CVE-2005-2667', 'CVE-2005-2668', 'CVE-2005-2669', 'CVE-2007-0060']",2022-03-19T12:17Z
+6,cpe:2.3:a:broadcom:cleverpath_eureka:7.0.11:*:*:*:*:*:*:*,Broadcom CleverPath Eureka 7.0.11,[''],2022-03-19T12:17Z
+7,cpe:2.3:a:broadcom:cleverpath_olap:-:*:*:*:*:*:*:*,Broadcom CleverPath OLAP,[''],2022-03-19T12:17Z
+8,cpe:2.3:a:broadcom:cleverpath_olap:5.1:*:*:*:*:*:*:*,Broadcom CleverPath OLAP 5.1,"['CVE-2005-2667', 'CVE-2005-2668', 'CVE-2005-2669', 'CVE-2007-0060']",2022-03-19T12:17Z
+9,cpe:2.3:a:broadcom:cleverpath_portal:-:*:*:*:*:*:*:*,Broadcom CleverPath Portal,"['CVE-2006-6641', 'CVE-2007-2230']",2022-03-19T12:17Z

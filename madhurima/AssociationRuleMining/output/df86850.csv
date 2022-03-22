@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bracketspace:notification:6.3.0:*:*:*:*:wordpress:*:*,BracketSpace Notification 6.3.0 for WordPress,['CVE-2021-39340'],2022-03-19T10:25Z
+1,cpe:2.3:a:bracketspace:notification:6.3.1:*:*:*:*:wordpress:*:*,BracketSpace Notification 6.3.1 for WordPress,['CVE-2021-39340'],2022-03-19T10:25Z
+2,cpe:2.3:a:bracketspace:notification:6.3.2:*:*:*:*:wordpress:*:*,BracketSpace Notification 6.3.2 for WordPress,['CVE-2021-39340'],2022-03-19T10:25Z
+3,cpe:2.3:a:bracketspace:notification:7.0.0:*:*:*:*:wordpress:*:*,BracketSpace Notification 7.0.0 for WordPress,['CVE-2021-39340'],2022-03-19T10:25Z
+4,cpe:2.3:a:bracketspace:notification:7.0.1:*:*:*:*:wordpress:*:*,BracketSpace Notification 7.0.1 for WordPress,['CVE-2021-39340'],2022-03-19T10:25Z
+5,cpe:2.3:a:bracketspace:notification:7.0.2:*:*:*:*:wordpress:*:*,BracketSpace Notification 7.0.2 for WordPress,['CVE-2021-39340'],2022-03-19T10:25Z
+6,cpe:2.3:a:bracketspace:notification:7.0.3:*:*:*:*:wordpress:*:*,BracketSpace Notification 7.0.3 for WordPress,['CVE-2021-39340'],2022-03-19T10:25Z
+7,cpe:2.3:a:bracketspace:notification:7.0.4:*:*:*:*:wordpress:*:*,BracketSpace Notification 7.0.4 for WordPress,['CVE-2021-39340'],2022-03-19T10:25Z
+8,cpe:2.3:a:bracketspace:notification:7.1.0:*:*:*:*:wordpress:*:*,BracketSpace Notification 7.1.0 for WordPress,['CVE-2021-39340'],2022-03-19T10:25Z
+9,cpe:2.3:a:bracketspace:notification:7.1.1:*:*:*:*:wordpress:*:*,BracketSpace Notification 7.1.1 for WordPress,['CVE-2021-39340'],2022-03-19T10:25Z

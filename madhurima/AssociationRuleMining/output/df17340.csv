@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ajenti:ajenti:1.2.11.2:*:*:*:*:*:*:*,Eugene Pankov Ajenti 1.2.11.2,['CVE-2014-4301'],2022-03-18T14:10Z
+1,cpe:2.3:a:ajenti:ajenti:1.2.12:*:*:*:*:*:*:*,Eugene Pankov Ajenti 1.2.12,['CVE-2014-4301'],2022-03-18T14:10Z
+2,cpe:2.3:a:ajenti:ajenti:1.2.13:*:*:*:*:*:*:*,Eugene Pankov Ajenti 1.2.13,"['CVE-2014-2260', 'CVE-2014-4301']",2022-03-18T14:10Z
+3,cpe:2.3:a:ajenti:ajenti:1.2.14:*:*:*:*:*:*:*,Eugene Pankov Ajenti 1.2.14,['CVE-2014-4301'],2022-03-18T14:10Z
+4,cpe:2.3:a:ajenti:ajenti:1.2.15:*:*:*:*:*:*:*,Eugene Pankov Ajenti 1.2.15,['CVE-2014-4301'],2022-03-18T14:10Z
+5,cpe:2.3:a:ajenti:ajenti:1.2.16:*:*:*:*:*:*:*,Eugene Pankov Ajenti 1.2.16,['CVE-2014-4301'],2022-03-18T14:10Z
+6,cpe:2.3:a:ajenti:ajenti:1.2.17:*:*:*:*:*:*:*,Eugene Pankov Ajenti 1.2.17,['CVE-2014-4301'],2022-03-18T14:10Z
+7,cpe:2.3:a:ajenti:ajenti:1.2.18:*:*:*:*:*:*:*,Eugene Pankov Ajenti 1.2.18,['CVE-2014-4301'],2022-03-18T14:10Z
+8,cpe:2.3:a:ajenti:ajenti:1.2.19:*:*:*:*:*:*:*,Eugene Pankov Ajenti 1.2.19,['CVE-2014-4301'],2022-03-18T14:10Z
+9,cpe:2.3:a:ajenti:ajenti:1.2.20:*:*:*:*:*:*:*,Eugene Pankov Ajenti 1.2.20,['CVE-2014-4301'],2022-03-18T14:10Z

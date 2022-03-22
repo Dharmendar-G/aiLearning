@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:devome:grr:3.4.0a:*:*:*:*:*:*:*,Devome GRR 3.4.0a,"['CVE-2020-10562', 'CVE-2020-10563']",2022-03-20T13:47Z
+1,cpe:2.3:a:devome:grr:3.4.0c:*:*:*:*:*:*:*,Devome GRR 3.4.0c,"['CVE-2020-10562', 'CVE-2020-10563']",2022-03-20T13:47Z
+2,cpe:2.3:a:devome:grr:3.4.0d:*:*:*:*:*:*:*,Devome GRR 3.4.0d,"['CVE-2020-10562', 'CVE-2020-10563']",2022-03-20T13:47Z
+3,cpe:2.3:a:devome:grr:3.4.1:*:*:*:*:*:*:*,Devome GRR 3.4.1,"['CVE-2020-10562', 'CVE-2020-10563']",2022-03-20T13:47Z
+4,cpe:2.3:a:devome:grr:3.4.1:rc1:*:*:*:*:*:*,Devome GRR 3.4.1 Release Candidate 1,"['CVE-2020-10562', 'CVE-2020-10563']",2022-03-20T13:47Z
+5,cpe:2.3:a:devome:grr:3.4.1:rc2:*:*:*:*:*:*,Devome GRR 3.4.1 Release Candidate 2,"['CVE-2020-10562', 'CVE-2020-10563']",2022-03-20T13:48Z
+6,cpe:2.3:a:devome:grr:3.4.1:rc3:*:*:*:*:*:*,Devome GRR 3.4.1 Release Candidate 3,"['CVE-2020-10562', 'CVE-2020-10563']",2022-03-20T13:48Z
+7,cpe:2.3:a:devome:grr:3.4.1a:*:*:*:*:*:*:*,Devome GRR 3.4.1a,"['CVE-2020-10562', 'CVE-2020-10563']",2022-03-20T13:48Z
+8,cpe:2.3:a:devome:grr:3.4.1b:*:*:*:*:*:*:*,Devome GRR 3.4.1b,"['CVE-2020-10562', 'CVE-2020-10563']",2022-03-20T13:48Z
+9,cpe:2.3:a:devome:grr:3.4.1c:*:*:*:*:*:*:*,Devome GRR 3.4.1c,[''],2022-03-20T13:48Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cimg:cimg_library:2.6.2:*:*:*:*:*:*:*,CImg Library 2.6.2,[''],2022-03-19T17:42Z
+1,cpe:2.3:a:cimg:cimg_library:2.6.3:*:*:*:*:*:*:*,CImg Library 2.6.3,[''],2022-03-19T17:42Z
+2,cpe:2.3:a:cimg:cimg_library:2.6.4:*:*:*:*:*:*:*,CImg Library 2.6.4,[''],2022-03-19T17:42Z
+3,cpe:2.3:a:cimg:cimg_library:2.6.5:*:*:*:*:*:*:*,CImg Library 2.6.5,[''],2022-03-19T17:42Z
+4,cpe:2.3:a:cimg:cimg_library:2.6.6:*:*:*:*:*:*:*,CImgLibrary 2.6.6,[''],2022-03-19T17:42Z
+5,cpe:2.3:a:cimg:cimg_library:2.6.7:*:*:*:*:*:*:*,CImg Library 2.6.7,[''],2022-03-19T17:42Z
+6,cpe:2.3:a:cimon:cmnview:2.14.0.1:*:*:*:*:*:*:*,Cimon CMNView 2.14.0.1,['CVE-2014-9207'],2022-03-19T17:42Z
+7,cpe:2.3:a:cimon:ultimateaccess:3.00:*:*:*:*:*:*:*,Cimon UltimateAccess 3.00,['CVE-2014-9207'],2022-03-19T17:42Z
+8,cpe:2.3:a:cimon:ultimateaccess:3.01:*:*:*:*:*:*:*,Cimon UltimateAccess 3.01,['CVE-2014-9207'],2022-03-19T17:42Z
+9,cpe:2.3:a:cimtechniques:cimscan:6.0.5814:*:*:*:*:*:*:*,CIMTechniques CIMScan 6.0.5814,['CVE-2018-16803'],2022-03-19T17:42Z

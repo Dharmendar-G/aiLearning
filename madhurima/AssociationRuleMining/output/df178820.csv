@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:emc_data_protection_central:19.4:*:*:*:*:*:*:*,Dell EMC Data Protection Central 19.4,"['CVE-2021-36349', 'CVE-2021-43588']",2022-03-20T12:19Z
+1,cpe:2.3:a:dell:emc_data_protection_central:19.5:*:*:*:*:*:*:*,Dell EMC Data Protection Central 19.5,"['CVE-2021-36349', 'CVE-2021-43588']",2022-03-20T12:19Z
+2,cpe:2.3:a:dell:emc_data_protection_central:19.6:*:*:*:*:*:*:*,Dell EMC Data Protection Central 19.6,[''],2022-03-20T12:19Z
+3,cpe:2.3:a:dell:emc_elastic_cloud_storage:3.4.0.0:*:*:*:*:*:*:*,Dell EMC Elastic Cloud Storage 3.4.0.0,"['CVE-2020-5317', 'CVE-2020-5386']",2022-03-20T12:19Z
+4,cpe:2.3:a:dell:emc_elastic_cloud_storage:3.4.0.1:*:*:*:*:*:*:*,Dell EMC Elastic Cloud Storage 3.4.0.1,['CVE-2020-5386'],2022-03-20T12:19Z
+5,cpe:2.3:a:dell:emc_enterprise_copy_data_management:1.0:*:*:*:*:*:*:*,Dell EMC Enterprise Copy Data Management (eCDM) 1.0,['CVE-2019-3751'],2022-03-20T12:19Z
+6,cpe:2.3:a:dell:emc_enterprise_copy_data_management:1.1:*:*:*:*:*:*:*,Dell EMC Enterprise Copy Data Management (eCDM) 1.1,['CVE-2019-3751'],2022-03-20T12:19Z
+7,cpe:2.3:a:dell:emc_enterprise_copy_data_management:2.0:*:*:*:*:*:*:*,Dell EMC Enterprise Copy Data Management (eCDM) 2.0,['CVE-2019-3751'],2022-03-20T12:19Z
+8,cpe:2.3:a:dell:emc_enterprise_copy_data_management:2.1:*:*:*:*:*:*:*,Dell EMC Enterprise Copy Data Management (eCDM) 2.1,['CVE-2019-3751'],2022-03-20T12:19Z
+9,cpe:2.3:a:dell:emc_enterprise_copy_data_management:3.0:*:*:*:*:*:*:*,Dell EMC Enterprise Copy Data Management (eCDM) 3.0,['CVE-2019-3751'],2022-03-20T12:19Z

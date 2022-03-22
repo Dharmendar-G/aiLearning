@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:i2_intelligent_analysis_platform:9.1.1:*:*:*:-:*:*:*,IBM i2 Intelligent Analyis Platform 9.1.1,['CVE-2019-4062'],2022-03-21T20:44Z
+1,cpe:2.3:a:ibm:i2_intelligent_analysis_platform:9.1.1:*:*:*:premium:*:*:*,IBM i2 Intelligent Analyis Platform 9.1.1 Premium Edition,['CVE-2019-4062'],2022-03-21T20:44Z
+2,cpe:2.3:a:ibm:i2_intelligent_analysis_platform:9.2.0:*:*:*:-:*:*:*,IBM i2 Intelligent Analyis Platform 9.2.0,[''],2022-03-21T20:44Z
+3,cpe:2.3:a:ibm:i2_intelligent_analysis_platform:9.2.0:*:*:*:premium:*:*:*,IBM i2 Intelligent Analyis Platform 9.2.0 Premium Edition,[''],2022-03-21T20:44Z
+4,cpe:2.3:o:ibm:i5os:-:*:*:*:*:*:*:*,IBM i5OS,"['CVE-2007-1945', 'CVE-2008-2163', 'CVE-2008-3860']",2022-03-21T20:44Z
+5,cpe:2.3:h:ibm:ib6131:-:*:*:*:*:*:*:*,IBM IB6131,"['CVE-2014-9564', 'CVE-2014-9565']",2022-03-21T20:44Z
+6,cpe:2.3:o:ibm:ib6131_firmware:-:*:*:*:*:*:*:*,IBM IB6131 Firmware,"['CVE-2014-9564', 'CVE-2014-9565']",2022-03-21T20:44Z
+7,cpe:2.3:o:ibm:ib6131_firmware:3.4.0.0.0.0:*:*:*:*:*:*:*,IBM IB6131 Firmware 3.4.0.0.0.0,['CVE-2014-9565'],2022-03-21T20:44Z
+8,cpe:2.3:a:ibm:ibm_db:0.0.1:*:*:*:*:node.js:*:*,IBM ibm_db 0.0.1 for Node.js,['CVE-2016-10577'],2022-03-21T20:44Z
+9,cpe:2.3:a:ibm:ibm_db:0.0.2:*:*:*:*:node.js:*:*,IBM ibm_db 0.0.2 for Node.js,['CVE-2016-10577'],2022-03-21T20:44Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,cpe:2.3:h:asus:rt-n10e:-:*:*:*:*:*:*:*,ASUS RT-N10E,"['CVE-2013-3610', 'CVE-2018-20333', 'CVE-2018-20334', 'CVE-2018-20335']",2022-03-18T23:56Z
+3,cpe:2.3:o:asus:rt-n10e_firmware:2.0.0.7:*:*:*:*:*:*:*,ASUS RT-N10E firmware 2.0.0.7,"['CVE-2013-3610', 'CVE-2014-2719']",2022-03-18T23:56Z
+4,cpe:2.3:o:asus:rt-n10e_firmware:2.0.0.10:*:*:*:*:*:*:*,ASUS RT-N10E firmware 2.0.0.10,"['CVE-2013-3610', 'CVE-2014-2719']",2022-03-18T23:56Z
+5,cpe:2.3:o:asus:rt-n10e_firmware:2.0.0.16:*:*:*:*:*:*:*,ASUS RT-N10E firmware 2.0.0.16,"['CVE-2013-3610', 'CVE-2014-2719']",2022-03-18T23:56Z
+6,cpe:2.3:o:asus:rt-n10e_firmware:2.0.0.19:*:*:*:*:*:*:*,ASUS RT-N10E firmware 2.0.0.19,"['CVE-2013-3610', 'CVE-2014-2719']",2022-03-18T23:56Z
+7,cpe:2.3:o:asus:rt-n10e_firmware:2.0.0.20:*:*:*:*:*:*:*,ASUS RT-N10E firmware 2.0.0.20,"['CVE-2013-3610', 'CVE-2014-2719']",2022-03-18T23:56Z
+8,cpe:2.3:o:asus:rt-n10e_firmware:2.0.0.24:*:*:*:*:*:*:*,ASUS RT-N10E firmware 2.0.0.24,"['CVE-2013-3610', 'CVE-2014-2719']",2022-03-18T23:56Z
+9,cpe:2.3:o:asus:rt-n10e_firmware:2.0.0.25:*:*:*:*:*:*:*,ASUS RT-N10E firmware 2.0.0.25,['CVE-2014-2719'],2022-03-18T23:56Z

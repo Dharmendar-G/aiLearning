@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:pagewide_mfp_774_4pa44a:-:*:*:*:*:*:*:*,HP PageWide MFP 774 4PA44A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:42Z
+1,cpe:2.3:h:hp:pagewide_mfp_774_4pz43a:-:*:*:*:*:*:*:*,HP PageWide MFP 774 4PZ43A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:42Z
+2,cpe:2.3:h:hp:pagewide_mfp_779_4pz45a:-:*:*:*:*:*:*:*,HP PageWide MFP 779 4PZ45A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:42Z
+3,cpe:2.3:h:hp:pagewide_mfp_779_4pz46a:-:*:*:*:*:*:*:*,HP PageWide MFP 779 4PZ46A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:42Z
+4,cpe:2.3:h:hp:pagewide_pro_452dn_d3q15a:-:*:*:*:*:*:*:*,HP PageWide Pro 452DN D3Q15A,['CVE-2019-16240'],2022-03-21T15:42Z
+5,cpe:2.3:h:hp:pagewide_pro_452dn_d3q15b:-:*:*:*:*:*:*:*,HP PageWide Pro 452DN D3Q15B,['CVE-2019-16240'],2022-03-21T15:42Z
+6,cpe:2.3:h:hp:pagewide_pro_452dn_d3q15d:-:*:*:*:*:*:*:*,HP PageWide Pro 452DN D3Q15D,['CVE-2019-16240'],2022-03-21T15:42Z
+7,cpe:2.3:h:hp:pagewide_pro_452dw_d3q16a:-:*:*:*:*:*:*:*,HP PageWide Pro 452DW D3Q16A,['CVE-2019-16240'],2022-03-21T15:42Z
+8,cpe:2.3:h:hp:pagewide_pro_452dw_d3q16d:-:*:*:*:*:*:*:*,HP PageWide Pro 452DW D3Q16D,['CVE-2019-16240'],2022-03-21T15:42Z
+9,cpe:2.3:h:hp:pagewide_pro_452dw_w2z52b:-:*:*:*:*:*:*:*,HP PageWide Pro 452DW W2Z52B,['CVE-2019-16240'],2022-03-21T15:42Z

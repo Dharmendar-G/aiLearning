@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:email_security_appliance_firmware:11.0.1:*:*:*:*:*:*:*,Cisco Email Security Appliance Firmware 11.0.1,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:26Z
+1,cpe:2.3:o:cisco:email_security_appliance_firmware:11.0.1-027:*:*:*:*:*:*:*,Cisco Email Security Appliance Firmware 11.0.1-027,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:26Z
+2,cpe:2.3:o:cisco:email_security_appliance_firmware:11.0.1-401:*:*:*:*:*:*:*,Cisco Email Security Appliance Firmware 11.0.1-401,"['CVE-2018-15453', 'CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:26Z
+3,cpe:2.3:o:cisco:email_security_appliance_firmware:11.0.2:*:*:*:*:*:*:*,Cisco Email Security Appliance Firmware 11.0.2,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:26Z
+4,cpe:2.3:o:cisco:email_security_appliance_firmware:11.0.3:*:*:*:*:*:*:*,Cisco Email Security Appliance Firmware 11.0.3,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:26Z
+5,cpe:2.3:o:cisco:email_security_appliance_firmware:11.1:*:*:*:*:*:*:*,Cisco Email Security Appliance Firmware 11.1,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:26Z
+6,cpe:2.3:o:cisco:email_security_appliance_firmware:11.1.0-069:*:*:*:*:*:*:*,Cisco Email Security Appliance Firmware 11.1.0-069,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:26Z
+7,cpe:2.3:o:cisco:email_security_appliance_firmware:11.1.0-072:*:*:*:*:*:*:*,Cisco Email Security Appliance Firmware 11.1.0-072,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:26Z
+8,cpe:2.3:o:cisco:email_security_appliance_firmware:11.1.0-086:*:*:*:*:*:*:*,Cisco Email Security Appliance Firmware 11.1.0-086,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:26Z
+9,cpe:2.3:o:cisco:email_security_appliance_firmware:11.1.0-128:*:*:*:*:*:*:*,Cisco Email Security Appliance Firmware 11.1.0-128,"['CVE-2019-12706', 'CVE-2019-15971', 'CVE-2019-15988']",2022-03-19T19:27Z

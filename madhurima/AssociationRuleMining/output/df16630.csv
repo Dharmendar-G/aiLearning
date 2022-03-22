@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:airdroid:airdroid:4.2.6.6:*:*:*:*:android:*:*,AirDroid 4.2.6.6 for Android,[''],2022-03-18T13:55Z
+1,cpe:2.3:a:airdroid:airdroid:4.2.6.7:*:*:*:*:android:*:*,AirDroid 4.2.6.7 for Android,[''],2022-03-18T13:55Z
+2,cpe:2.3:a:airdroid:airdroid:4.2.6.9:*:*:*:*:android:*:*,AirDroid 4.2.6.9 for Android,[''],2022-03-18T13:55Z
+3,cpe:2.3:a:airdrop_project:airdrop:1.0:*:*:*:*:android:*:*,AirDrop Project AirDrop 1.0 for Android,['CVE-2019-9832'],2022-03-18T13:55Z
+4,cpe:2.3:a:airdrop_project:airdrop:2.0:*:*:*:*:android:*:*,AirDrop Project AirDrop 2.0 for Android,['CVE-2019-9832'],2022-03-18T13:55Z
+5,cpe:2.3:a:airforce:nitf_extract_utility:7.5:*:*:*:*:*:*:*,Air Force NITF Extract Utility 7.5,['CVE-2020-13995'],2022-03-18T13:55Z
+6,cpe:2.3:h:airleader:airleader_easy:-:*:*:*:*:*:*:*,Airleader Easy,"['CVE-2020-26509', 'CVE-2020-26510']",2022-03-18T13:55Z
+7,cpe:2.3:h:airleader:airleader_master:-:*:*:*:*:*:*:*,Airleader Master,"['CVE-2020-26509', 'CVE-2020-26510']",2022-03-18T13:55Z
+8,cpe:2.3:h:airleader:master_control:-:*:*:*:*:*:*:*,Airleader Master Control,[''],2022-03-18T13:55Z
+9,cpe:2.3:o:airleader:master_control_firmware:6.21:*:*:*:*:*:*:*,Airleader Master Control Firmware 6.21,[''],2022-03-18T13:55Z

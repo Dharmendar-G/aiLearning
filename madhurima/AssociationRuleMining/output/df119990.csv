@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:gigabit_switch_router_12008:-:*:*:*:*:*:*:*,Cisco Gigabit Switch Router 12008,['CVE-2000-0700'],2022-03-19T19:55Z
+1,cpe:2.3:h:cisco:gigabit_switch_router_12012:-:*:*:*:*:*:*:*,Cisco Gigabit Switch Router 12012,['CVE-2000-0700'],2022-03-19T19:55Z
+2,cpe:2.3:h:cisco:gigabit_switch_router_12016:-:*:*:*:*:*:*:*,Cisco Gigabit Switch Router 12016,['CVE-2000-0700'],2022-03-19T19:56Z
+3,cpe:2.3:h:cisco:global_site_selector:-:*:*:*:*:*:*:*,Cisco Global Site Selector (GSS) -,['CVE-2013-5471'],2022-03-19T19:55Z
+4,cpe:2.3:a:cisco:gpccontainer_class:10031.6.2017.0125:*:*:*:*:internet_explorer:*:*,Cisco GPCContainer Class 10031.6.2017.0125 for Internet Explorer,['CVE-2017-3823'],2022-03-19T19:56Z
+5,cpe:2.3:h:cisco:gss_4480_global_site_selector:-:*:*:*:*:*:*:*,Cisco GSS 4480 Global Site Selector,"['CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112', 'CVE-2008-3819']",2022-03-19T19:56Z
+6,cpe:2.3:h:cisco:gss_4490_global_site_selector:-:*:*:*:*:*:*:*,Cisco GSS 4490 Global Site Selector,"['CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112', 'CVE-2008-3819']",2022-03-19T19:56Z
+7,cpe:2.3:h:cisco:gss_4491_global_site_selector:-:*:*:*:*:*:*:*,Cisco GSS 4491 Global Site Selector,['CVE-2008-3819'],2022-03-19T19:56Z
+8,cpe:2.3:h:cisco:gss_4492r_global_site_selector:-:*:*:*:*:*:*:*,Cisco GSS 4492R Global Site Selector,['CVE-2008-3819'],2022-03-19T19:56Z
+9,cpe:2.3:h:cisco:guard:-:*:*:*:*:*:*:*,Cisco Guard,[''],2022-03-19T19:56Z

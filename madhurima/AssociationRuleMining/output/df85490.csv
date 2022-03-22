@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:borland:jbuilder_2005:11.0.0.0:*:*:*:developer:*:*:*,Borland Jbuilder 2005 Developer 11.0.0.0,[''],2022-03-19T09:59Z
+1,cpe:2.3:a:borland:ldap_quickstart_manager:10.0.7.0:*:*:*:*:*:*:*,Borland LDAP Quickstart Manager 10.0.7.0,[''],2022-03-19T09:59Z
+2,cpe:2.3:a:borland:license_server:4.0.4.0:*:*:*:*:*:*:*,Borland License Server 4.0.4.0,[''],2022-03-19T09:59Z
+3,cpe:2.3:a:borland:paradox:7.0:*:*:*:*:*:*:*,Borland Paradox 7.0,[''],2022-03-19T09:59Z
+4,cpe:2.3:a:borland:search:3.0.34.0:*:*:*:*:*:*:*,Borland Search 3.0.34.0,[''],2022-03-19T09:59Z
+5,cpe:2.3:a:borland:starteam_cross-platform_client:10.0.63.0:*:*:*:*:*:*:*,Borland Starteam Platform Client 10.0.63.0,[''],2022-03-19T09:59Z
+6,cpe:2.3:a:borland:starteam_sdk_for_.net:10.0.58.0:*:*:*:*:*:*:*,Borland Starteam Sdk For .Net 10.0.58.0,[''],2022-03-19T09:59Z
+7,cpe:2.3:a:borland:starteam_sdk_runtime:10.0:*:*:*:*:*:*:*,Borland Starteam SDK Runtime 10.0,[''],2022-03-19T09:59Z
+8,cpe:2.3:a:borland:starteam_sdk_runtime:2006:*:*:*:*:*:*:*,Borland Starteam SDK Runtime 2006,[''],2022-03-19T09:59Z
+9,cpe:2.3:a:borland:starteam_sdk_runtime_for_.net:10.0.58.0:*:*:*:*:*:*:*,Borland Starteam Sdk Runtime For .Net 10.0.58.0,[''],2022-03-19T09:59Z

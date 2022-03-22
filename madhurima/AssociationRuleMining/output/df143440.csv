@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:clickdesk:clickdesk:2.0:*:*:*:*:wordpress:*:*,ClickDesk 2.0 for WordPress,['CVE-2014-9211'],2022-03-20T02:28Z
+1,cpe:2.3:a:clickdesk:clickdesk:3.0:*:*:*:*:wordpress:*:*,ClickDesk 3.0 for WordPress,['CVE-2014-9211'],2022-03-20T02:28Z
+2,cpe:2.3:a:clickdesk:clickdesk:3.1:*:*:*:*:wordpress:*:*,ClickDesk 3.1 for WordPress,['CVE-2014-9211'],2022-03-20T02:28Z
+3,cpe:2.3:a:clickdesk:clickdesk:3.2:-:*:*:*:wordpress:*:*,ClickDesk 3.2 for WordPress,['CVE-2014-9211'],2022-03-20T02:28Z
+4,cpe:2.3:a:clickdesk:clickdesk:3.2:alpha:*:*:*:wordpress:*:*,ClickDesk 3.2 Alpha for WordPress,['CVE-2014-9211'],2022-03-20T02:28Z
+5,cpe:2.3:a:clickdesk:clickdesk:3.2.1:*:*:*:*:wordpress:*:*,ClickDesk 3.2.1 for WordPress,['CVE-2014-9211'],2022-03-20T02:29Z
+6,cpe:2.3:a:clickdesk:clickdesk:3.3:*:*:*:*:wordpress:*:*,ClickDesk 3.3 for WordPress,['CVE-2014-9211'],2022-03-20T02:29Z
+7,cpe:2.3:a:clickdesk:clickdesk:3.3.1:*:*:*:*:wordpress:*:*,ClickDesk 3.3.1 for WordPress,['CVE-2014-9211'],2022-03-20T02:29Z
+8,cpe:2.3:a:clickdesk:clickdesk:3.4:*:*:*:*:wordpress:*:*,ClickDesk 3.4 for WordPress,['CVE-2014-9211'],2022-03-20T02:29Z
+9,cpe:2.3:a:clickdesk:clickdesk:3.5:*:*:*:*:wordpress:*:*,ClickDesk 3.5 for WordPress,['CVE-2014-9211'],2022-03-20T02:29Z

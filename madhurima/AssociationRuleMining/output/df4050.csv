@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:abb:system_access_point_127v_firmware:-:*:*:*:*:*:*:*,ABB System Access Point 127v Firmware -,['CVE-2021-22276'],2022-03-18T10:34Z
+1,cpe:2.3:o:abb:system_access_point_127v_firmware:2.6.4:*:*:*:*:*:*:*,ABB System Access Point 127v Firmware 2.6.4,[''],2022-03-18T10:34Z
+2,cpe:2.3:h:abb:system_access_point_2.0:-:*:*:*:*:*:*:*,ABB System Access Point 2.0 -,['CVE-2021-22276'],2022-03-18T10:34Z
+3,cpe:2.3:o:abb:system_access_point_2.0_firmware:2.6.4:*:*:*:*:*:*:*,ABB System Access Point 2.0 Firmware 2.6.4,[''],2022-03-18T10:34Z
+4,cpe:2.3:h:abb:tb511-arcnet:2.0:*:*:*:*:*:*:*,ABB TB511-ARCNET 2.0,[''],2022-03-18T10:34Z
+5,cpe:2.3:h:abb:tb511-eth:2.0:*:*:*:*:*:*:*,ABB TB511-ETH 2.0,[''],2022-03-18T10:34Z
+6,cpe:2.3:h:abb:tb521-arcnet:2.0:*:*:*:*:*:*:*,ABB TB521-ARCNET 2.0,[''],2022-03-18T10:34Z
+7,cpe:2.3:h:abb:tb521-eth:2.0:*:*:*:*:*:*:*,ABB TB521-ETH 2.0,[''],2022-03-18T10:34Z
+8,cpe:2.3:h:abb:tb523-2eth:2.0:*:*:*:*:*:*:*,ABB TB523-2ETH 2.0,[''],2022-03-18T10:34Z
+9,cpe:2.3:h:abb:tb541-eth:2.0:*:*:*:*:*:*:*,ABB TB541-ETH 2.0,[''],2022-03-18T10:34Z

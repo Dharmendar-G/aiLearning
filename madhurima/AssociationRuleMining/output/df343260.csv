@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:host_on-demand:11.0.4:*:*:*:*:*:*:*,IBM Host On-Demand 11.0.4,"['CVE-2013-4002', 'CVE-2015-5002']",2022-03-21T20:42Z
+1,cpe:2.3:a:ibm:host_on-demand:11.0.5:*:*:*:*:*:*:*,IBM Host On-Demand 11.0.5,"['CVE-2013-4002', 'CVE-2015-5002']",2022-03-21T20:42Z
+2,cpe:2.3:a:ibm:host_on-demand:11.0.5.1:*:*:*:*:*:*:*,IBM Host On-Demand 11.0.5.1,['CVE-2013-4002'],2022-03-21T20:42Z
+3,cpe:2.3:a:ibm:host_on-demand:11.0.6:*:*:*:*:*:*:*,IBM Host On-Demand 11.0.6,"['CVE-2013-4002', 'CVE-2015-5002']",2022-03-21T20:42Z
+4,cpe:2.3:a:ibm:host_on-demand:11.0.6.1:*:*:*:*:*:*:*,IBM Host On-Demand 11.0.6.1,['CVE-2013-4002'],2022-03-21T20:42Z
+5,cpe:2.3:a:ibm:host_on-demand:11.0.7:*:*:*:*:*:*:*,IBM Host On-Demand 11.0.7,"['CVE-2013-4002', 'CVE-2015-5002']",2022-03-21T20:42Z
+6,cpe:2.3:a:ibm:host_on-demand:11.0.8:*:*:*:*:*:*:*,IBM Host On-Demand 11.0.8,"['CVE-2013-4002', 'CVE-2015-5002']",2022-03-21T20:42Z
+7,cpe:2.3:a:ibm:host_on-demand:11.0.9:*:*:*:*:*:*:*,IBM Host On-Demand 11.0.9,['CVE-2015-5002'],2022-03-21T20:42Z
+8,cpe:2.3:a:ibm:host_on-demand:11.0.10:*:*:*:*:*:*:*,IBM Host On-Demand 11.0.10,['CVE-2015-5002'],2022-03-21T20:42Z
+9,cpe:2.3:a:ibm:host_on-demand:11.0.11:*:*:*:*:*:*:*,IBM Host On-Demand 11.0.11,['CVE-2015-5002'],2022-03-21T20:42Z

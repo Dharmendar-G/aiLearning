@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:proliant_ml30_gen9:2:*:*:*:*:*:*:*,HP Proliant Ml30 Gen9 2,"['CVE-2019-11982', 'CVE-2019-11983']",2022-03-21T15:57Z
+1,cpe:2.3:h:hp:proliant_ml30_gen9_server:-:*:*:*:*:*:*:*,HP Proliant Ml30 Gen9 Server,"['CVE-2018-7112', 'CVE-2020-7202']",2022-03-21T15:57Z
+2,cpe:2.3:h:hp:proliant_ml310e_gen8_server:-:*:*:*:*:*:*:*,HP Proliant Ml310e Gen8 Server,"['CVE-2018-7112', 'CVE-2020-7202']",2022-03-21T15:57Z
+3,cpe:2.3:h:hp:proliant_ml310e_gen8_v2_server:-:*:*:*:*:*:*:*,HP Proliant Ml310e Gen8 V2 Server,"['CVE-2018-7112', 'CVE-2020-7202']",2022-03-21T15:57Z
+4,cpe:2.3:h:hp:proliant_ml330_g6_server:-:*:*:*:*:*:*:*,HP Proliant Ml330 G6 Server,['CVE-2018-7112'],2022-03-21T15:57Z
+5,cpe:2.3:o:hp:proliant_ml350_firmware:-:*:*:*:*:*:*:*,HP Proliant ML350 Firmware,['CVE-2019-11135'],2022-03-21T15:57Z
+6,cpe:2.3:o:hp:proliant_ml350_firmware:2.20:*:*:*:*:*:*:*,HP Proliant ML350 Firmware 2.20,[''],2022-03-21T15:57Z
+7,cpe:2.3:h:hp:proliant_ml350_g6_server:-:*:*:*:*:*:*:*,HP Proliant Ml350 G6 Server,['CVE-2018-7112'],2022-03-21T15:57Z
+8,cpe:2.3:h:hp:proliant_ml350_gen10:-:*:*:*:*:*:*:*,HP ProLiant ML350 Gen10,"['CVE-2018-7117', 'CVE-2019-11982', 'CVE-2019-11983', 'CVE-2020-7207']",2022-03-21T15:57Z
+9,cpe:2.3:h:hp:proliant_ml350_gen10_server:-:*:*:*:*:*:*:*,HP ProLiant ML350 Gen10 Server,"['CVE-2018-7101', 'CVE-2020-7202', 'CVE-2021-29201', 'CVE-2021-29202', 'CVE-2021-29204', 'CVE-2021-29205', 'CVE-2021-29206', 'CVE-2021-29207', 'CVE-2021-29208', 'CVE-2021-29209', 'CVE-2021-29210', 'CVE-2021-29211']",2022-03-21T15:57Z

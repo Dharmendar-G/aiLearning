@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:debian:elvis_tiny:-:*:*:*:*:*:*:*,Debian Elvis tiny,['CVE-2000-1136'],2022-03-20T11:41Z
+1,cpe:2.3:a:debian:elvis_tiny:1.4.9:*:*:*:*:*:*:*,Debian Elvis tiny 1.4.9,['CVE-2000-1136'],2022-03-20T11:41Z
+2,cpe:2.3:a:debian:freedombox:-:*:*:*:*:*:*:*,Debian FreedomBox,['CVE-2020-25073'],2022-03-20T11:42Z
+3,cpe:2.3:a:debian:freedombox:0.1:*:*:*:*:*:*:*,Debian FreedomBox 0.1,['CVE-2020-25073'],2022-03-20T11:42Z
+4,cpe:2.3:a:debian:freedombox:0.2:*:*:*:*:*:*:*,Debian FreedomBox 0.2,['CVE-2020-25073'],2022-03-20T11:42Z
+5,cpe:2.3:a:debian:freedombox:0.2.1:*:*:*:*:*:*:*,Debian FreedomBox 0.2.1,['CVE-2020-25073'],2022-03-20T11:42Z
+6,cpe:2.3:a:debian:freedombox:0.3:*:*:*:*:*:*:*,Debian FreedomBox 0.3,['CVE-2020-25073'],2022-03-20T11:42Z
+7,cpe:2.3:a:debian:freedombox:0.3.1:*:*:*:*:*:*:*,Debian FreedomBox 0.3.1,['CVE-2020-25073'],2022-03-20T11:42Z
+8,cpe:2.3:a:debian:freedombox:0.3.2:*:*:*:*:*:*:*,Debian FreedomBox 0.3.2,['CVE-2020-25073'],2022-03-20T11:42Z
+9,cpe:2.3:a:debian:freedombox:0.4:*:*:*:*:*:*:*,Debian FreedomBox 0.4,['CVE-2020-25073'],2022-03-20T11:42Z

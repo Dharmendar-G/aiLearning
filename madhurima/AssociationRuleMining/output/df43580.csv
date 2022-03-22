@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apple:swift:4.1.1:*:*:*:*:ubuntu:*:*,Apple Swift 4.1.1 for Ubuntu,"['CVE-2019-8790', 'CVE-2020-9861']",2022-03-18T22:23Z
+1,cpe:2.3:a:apple:swift:4.1.2:*:*:*:*:ubuntu:*:*,Apple Swift 4.1.2 for Ubuntu,"['CVE-2019-8790', 'CVE-2020-9861']",2022-03-18T22:23Z
+2,cpe:2.3:a:apple:swift:5.0:*:*:*:*:ubuntu:*:*,Apple Swift 5.0 for Ubuntu,"['CVE-2019-8790', 'CVE-2020-9861']",2022-03-18T22:23Z
+3,cpe:2.3:a:apple:swift:5.1:*:*:*:*:ubuntu:*:*,Apple Swift 5.1 for Ubuntu,"['CVE-2019-8790', 'CVE-2020-9861']",2022-03-18T22:23Z
+4,cpe:2.3:a:apple:swift:5.1.1:*:*:*:*:ubuntu:*:*,Apple Swift 5.1.1 for Ubuntu,['CVE-2020-9861'],2022-03-18T22:23Z
+5,cpe:2.3:a:apple:swift:5.1.4:*:*:*:*:ubuntu:*:*,Apple Swift 5.1.4 for Ubuntu,['CVE-2020-9861'],2022-03-18T22:23Z
+6,cpe:2.3:a:apple:swiftnio:1.0.0:*:*:*:*:*:*:*,Apple SwiftNIO 1.0.0,"['CVE-2018-4281', 'CVE-2019-9511', 'CVE-2019-9512', 'CVE-2019-9513', 'CVE-2019-9514', 'CVE-2019-9515', 'CVE-2019-9516', 'CVE-2019-9517', 'CVE-2019-9518']",2022-03-18T22:23Z
+7,cpe:2.3:a:apple:swiftnio:1.0.1:*:*:*:*:*:*:*,Apple SwiftNIO 1.0.1,"['CVE-2018-4281', 'CVE-2019-9511', 'CVE-2019-9512', 'CVE-2019-9513', 'CVE-2019-9514', 'CVE-2019-9515', 'CVE-2019-9516', 'CVE-2019-9517', 'CVE-2019-9518']",2022-03-18T22:23Z
+8,cpe:2.3:a:apple:swiftnio:1.1.0:*:*:*:*:*:*:*,Apple SwiftNIO 1.1.0,"['CVE-2018-4281', 'CVE-2019-9511', 'CVE-2019-9512', 'CVE-2019-9513', 'CVE-2019-9514', 'CVE-2019-9515', 'CVE-2019-9516', 'CVE-2019-9517', 'CVE-2019-9518']",2022-03-18T22:23Z
+9,cpe:2.3:a:apple:swiftnio:1.1.1:*:*:*:*:*:*:*,Apple SwiftNIO 1.1.1,"['CVE-2018-4281', 'CVE-2019-9511', 'CVE-2019-9512', 'CVE-2019-9513', 'CVE-2019-9514', 'CVE-2019-9515', 'CVE-2019-9516', 'CVE-2019-9517', 'CVE-2019-9518']",2022-03-18T22:23Z

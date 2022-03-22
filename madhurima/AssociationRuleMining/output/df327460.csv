@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:photo_and_imaging_gallery:1.1:*:*:*:*:*:*:*,HP photo & imaging gallery 1.1,['CVE-2007-4916'],2022-03-21T15:44Z
+1,cpe:2.3:a:hp:photo_and_imaging_software:2.0.0:*:*:*:*:*:*:*,HP Photo And Imaging Software 2.0.0,[''],2022-03-21T15:44Z
+2,cpe:2.3:a:hp:photo_and_imaging_software:2.2.0:*:*:*:*:*:*:*,HP Photo And Imaging Software 2.2.0,[''],2022-03-21T15:44Z
+3,cpe:2.3:a:hp:photo_and_imaging_software:2.3.0:*:*:*:*:*:*:*,HP Photo And Imaging Software 2.3.0,[''],2022-03-21T15:44Z
+4,cpe:2.3:a:hp:photo_creations:1.0.0.2024:*:*:*:*:*:*:*,HP Photo Creations 1.0.0.2024,[''],2022-03-21T15:44Z
+5,cpe:2.3:a:hp:photo_gallery:45.4.157.0:*:*:*:*:*:*:*,HP Photo Gallery 45.4.157.0,[''],2022-03-21T15:44Z
+6,cpe:2.3:a:hp:photo_gallery:53.0.13.0:*:*:*:*:*:*:*,HP Photo Gallery 53.0.13.0,[''],2022-03-21T15:44Z
+7,cpe:2.3:a:hp:photo_gallery:70.0.170.0:*:*:*:*:*:*:*,HP Photo Gallery 70.0.170.0,[''],2022-03-21T15:44Z
+8,cpe:2.3:a:hp:photosmart_disclabel_paperlabel:2.2.0:*:*:*:*:*:*:*,HP Photosmart Disclabel Paperlabel 2.2.0,[''],2022-03-21T15:44Z
+9,cpe:2.3:a:hp:photosmart_disclabel_paperlabel:2.4.0:*:*:*:*:*:*:*,HP Photosmart Disclabel Paperlabel 2.4.0,[''],2022-03-21T15:44Z

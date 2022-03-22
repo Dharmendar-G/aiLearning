@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:burp_project:burp:2.0.42:*:*:*:*:*:*:*,Burp Project Burp 2.0.42,"['CVE-2017-18284', 'CVE-2017-18285']",2022-03-19T13:39Z
+1,cpe:2.3:a:burp_project:burp:2.0.44:*:*:*:*:*:*:*,Burp Project Burp 2.0.44,"['CVE-2017-18284', 'CVE-2017-18285']",2022-03-19T13:39Z
+2,cpe:2.3:a:burp_project:burp:2.0.46:*:*:*:*:*:*:*,Burp Project Burp 2.0.46,"['CVE-2017-18284', 'CVE-2017-18285']",2022-03-19T13:39Z
+3,cpe:2.3:a:burp_project:burp:2.0.48:*:*:*:*:*:*:*,Burp Project Burp 2.0.48,"['CVE-2017-18284', 'CVE-2017-18285']",2022-03-19T13:39Z
+4,cpe:2.3:a:burp_project:burp:2.0.50:*:*:*:*:*:*:*,Burp Project Burp 2.0.50,"['CVE-2017-18284', 'CVE-2017-18285']",2022-03-19T13:40Z
+5,cpe:2.3:a:burp_project:burp:2.0.52:*:*:*:*:*:*:*,Burp Project Burp 2.0.52,"['CVE-2017-18284', 'CVE-2017-18285']",2022-03-19T13:40Z
+6,cpe:2.3:a:burp_project:burp:2.0.54:*:*:*:*:*:*:*,Burp Project Burp 2.0.54,"['CVE-2017-18284', 'CVE-2017-18285']",2022-03-19T13:40Z
+7,cpe:2.3:a:burp_project:burp:2.1.0:*:*:*:*:*:*:*,Burp Project Burp 2.1.0,"['CVE-2017-18284', 'CVE-2017-18285']",2022-03-19T13:40Z
+8,cpe:2.3:a:burp_project:burp:2.1.2:*:*:*:*:*:*:*,Burp Project Burp 2.1.2,"['CVE-2017-18284', 'CVE-2017-18285']",2022-03-19T13:40Z
+9,cpe:2.3:a:burp_project:burp:2.1.4:*:*:*:*:*:*:*,Burp Project Burp 2.1.4,"['CVE-2017-18284', 'CVE-2017-18285']",2022-03-19T13:40Z

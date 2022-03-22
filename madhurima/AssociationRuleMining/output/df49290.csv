@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:arubanetworks:cx_8400:-:*:*:*:*:*:*:*,Aruba Networks CX 8400,"['CVE-2021-29143', 'CVE-2021-29148', 'CVE-2021-29149']",2022-03-18T23:41Z
+1,cpe:2.3:o:arubanetworks:instant:4.0.0.0:*:*:*:*:*:*:*,Arubanetworks Instant 4.0.0.0,['CVE-2018-16417'],2022-03-18T23:41Z
+2,cpe:2.3:o:arubanetworks:instant:4.2.4.12:*:*:*:*:*:*:*,Arubanetworks Instant 4.2.4.12,[''],2022-03-18T23:41Z
+3,cpe:2.3:o:arubanetworks:instant:6.4.0.0:*:*:*:*:*:*:*,Aruba Networks Instant 6.4.0.0,"['CVE-2019-5317', 'CVE-2019-5319', 'CVE-2021-25144', 'CVE-2021-25145', 'CVE-2021-25149', 'CVE-2021-25155', 'CVE-2021-25156', 'CVE-2021-25157', 'CVE-2021-25159', 'CVE-2021-25160', 'CVE-2021-25161', 'CVE-2021-25162']",2022-03-18T23:41Z
+4,cpe:2.3:a:arubanetworks:instant:6.4.4.6:*:*:*:*:*:*:*,Aruba Networks Instant 6.4.4.6,['CVE-2017-13099'],2022-03-18T23:41Z
+5,cpe:2.3:o:arubanetworks:instant:6.4.4.8-4.2.4.18:*:*:*:*:*:*:*,Aruba Networks Instant 6.4.4.8-4.2.4.18,"['CVE-2019-5317', 'CVE-2021-25144', 'CVE-2021-25145', 'CVE-2021-25149', 'CVE-2021-25155', 'CVE-2021-25156', 'CVE-2021-25157', 'CVE-2021-25159', 'CVE-2021-25160', 'CVE-2021-25161', 'CVE-2021-25162']",2022-03-18T23:41Z
+6,cpe:2.3:o:arubanetworks:instant:6.5.0.0:*:*:*:*:*:*:*,Arubanetworks Instant 6.5.0.0,"['CVE-2018-16417', 'CVE-2019-5317', 'CVE-2019-5319', 'CVE-2020-24635', 'CVE-2020-24636', 'CVE-2021-25144', 'CVE-2021-25145', 'CVE-2021-25146', 'CVE-2021-25148', 'CVE-2021-25149', 'CVE-2021-25150', 'CVE-2021-25155', 'CVE-2021-25156', 'CVE-2021-25157', 'CVE-2021-25158', 'CVE-2021-25159', 'CVE-2021-25160', 'CVE-2021-25161', 'CVE-2021-25162']",2022-03-18T23:41Z
+7,cpe:2.3:a:arubanetworks:instant:6.5.0.0:*:*:*:*:*:*:*,Aruba Networks Instant 6.5.0.0,['CVE-2017-13099'],2022-03-18T23:41Z
+8,cpe:2.3:a:arubanetworks:instant:6.5.3.0:*:*:*:*:*:*:*,Aruba Networks Instant 6.5.3.0,['CVE-2017-13099'],2022-03-18T23:41Z
+9,cpe:2.3:a:arubanetworks:instant:6.5.3.3:*:*:*:*:*:*:*,Aruba Networks Instant 6.5.3.3,['CVE-2017-13099'],2022-03-18T23:41Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:gina:-:*:*:*:*:*:*:*,IBM GINA,[''],2022-03-21T20:41Z
+1,cpe:2.3:a:ibm:gina:1.0:*:*:*:*:*:*:*,IBM GINA 1.0,['CVE-1999-0718'],2022-03-21T20:41Z
+2,cpe:2.3:a:ibm:global_configuration_management:7.0.2:*:*:*:*:*:*:*,IBM Global Configuration Management 7.0.2,"['CVE-2020-4524', 'CVE-2020-4547', 'CVE-2020-4855', 'CVE-2020-4856', 'CVE-2020-4857', 'CVE-2020-4863', 'CVE-2020-4865', 'CVE-2020-4866', 'CVE-2020-4975', 'CVE-2021-20340', 'CVE-2021-20350', 'CVE-2021-20351', 'CVE-2021-20357']",2022-03-21T20:41Z
+3,cpe:2.3:o:ibm:global_console_manager_16_firmware:1.18.0.22011:*:*:*:*:*:*:*,IBM Global Console Manager 16 Firmware 1.18.0.22011,"['CVE-2013-0526', 'CVE-2014-3080', 'CVE-2014-3081', 'CVE-2014-3085']",2022-03-21T20:41Z
+4,cpe:2.3:o:ibm:global_console_manager_16_firmware:1.20.0.22575:*:*:*:*:*:*:*,IBM Global Console Manager 16 Firmware 1.20.0.22575,"['CVE-2014-3080', 'CVE-2014-3081', 'CVE-2014-3085']",2022-03-21T20:41Z
+5,cpe:2.3:o:ibm:global_console_manager_16_firmware:1.20.0.23447:*:*:*:*:*:*:*,IBM Global Console Manager 16 Firmware 1.20.0.23447,[''],2022-03-21T20:41Z
+6,cpe:2.3:o:ibm:global_console_manager_32_firmware:1.18.0.22011:*:*:*:*:*:*:*,IBM Global Console Manager 32 Firmware 1.18.0.22011,"['CVE-2013-0526', 'CVE-2014-3080', 'CVE-2014-3081', 'CVE-2014-3085']",2022-03-21T20:41Z
+7,cpe:2.3:o:ibm:global_console_manager_32_firmware:1.20.0.22575:*:*:*:*:*:*:*,IBM Global Console Manager 32 Firmware 1.20.0.22575,"['CVE-2014-3080', 'CVE-2014-3081', 'CVE-2014-3085']",2022-03-21T20:41Z
+8,cpe:2.3:o:ibm:global_console_manager_32_firmware:1.20.0.23447:*:*:*:*:*:*:*,IBM Global Console Manager 32 Firmware 1.20.0.23447,[''],2022-03-21T20:41Z
+9,cpe:2.3:a:ibm:global_retention_policy_and_schedule_management:6.0:*:*:*:*:*:*:*,IBM Global Retention Policy And Schedule Management 6.0,"['CVE-2013-6321', 'CVE-2013-6334', 'CVE-2014-0889', 'CVE-2016-6100']",2022-03-21T20:41Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dan_kogai:encode_module:1.10:*:*:*:*:*:*:*,Dan Kogai Encode Module 1.10,['CVE-2011-2939'],2022-03-20T10:01Z
+1,cpe:2.3:a:dan_kogai:encode_module:1.11:*:*:*:*:*:*:*,Dan Kogai Encode Module 1.11,['CVE-2011-2939'],2022-03-20T10:01Z
+2,cpe:2.3:a:dan_kogai:encode_module:1.20:*:*:*:*:*:*:*,Dan Kogai Encode Module 1.20,['CVE-2011-2939'],2022-03-20T10:01Z
+3,cpe:2.3:a:dan_kogai:encode_module:1.21:*:*:*:*:*:*:*,Dan Kogai Encode Module 1.21,['CVE-2011-2939'],2022-03-20T10:01Z
+4,cpe:2.3:a:dan_kogai:encode_module:1.25:*:*:*:*:*:*:*,Dan Kogai Encode Module 1.25,['CVE-2011-2939'],2022-03-20T10:01Z
+5,cpe:2.3:a:dan_kogai:encode_module:1.26:*:*:*:*:*:*:*,Dan Kogai Encode Module 1.26,['CVE-2011-2939'],2022-03-20T10:01Z
+6,cpe:2.3:a:dan_kogai:encode_module:1.28:*:*:*:*:*:*:*,Dan Kogai Encode Module 1.28,['CVE-2011-2939'],2022-03-20T10:01Z
+7,cpe:2.3:a:dan_kogai:encode_module:1.30:*:*:*:*:*:*:*,Dan Kogai Encode Module 1.30,['CVE-2011-2939'],2022-03-20T10:01Z
+8,cpe:2.3:a:dan_kogai:encode_module:1.31:*:*:*:*:*:*:*,Dan Kogai Encode Module 1.31,['CVE-2011-2939'],2022-03-20T10:01Z
+9,cpe:2.3:a:dan_kogai:encode_module:1.32:*:*:*:*:*:*:*,Dan Kogai Encode Module 1.32,['CVE-2011-2939'],2022-03-20T10:01Z

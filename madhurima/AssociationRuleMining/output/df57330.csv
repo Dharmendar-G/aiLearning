@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:jira_server_for_slack:2.0.10:*:*:*:*:*:*:*,Atlassian Jira Server for Slack 2.0.10,['CVE-2021-26068'],2022-03-19T01:43Z
+1,cpe:2.3:a:atlassian:jira_server_for_slack:2.0.11:*:*:*:*:*:*:*,Atlassian Jira Server for Slack 2.0.11,['CVE-2021-26068'],2022-03-19T01:43Z
+2,cpe:2.3:a:atlassian:jira_server_for_slack:2.0.13:*:*:*:*:*:*:*,Atlassian Jira Server for Slack 2.0.13,['CVE-2021-26068'],2022-03-19T01:43Z
+3,cpe:2.3:a:atlassian:jira_server_for_slack:2.0.14:*:*:*:*:*:*:*,Atlassian Jira Server for Slack 2.0.14,['CVE-2021-26068'],2022-03-19T01:43Z
+4,cpe:2.3:a:atlassian:jira_server_for_slack:2.0.15:*:*:*:*:*:*:*,Atlassian Jira Server for Slack 2.0.15,[''],2022-03-19T01:43Z
+5,cpe:2.3:a:atlassian:jira_server_for_slack:2.0.16:*:*:*:*:*:*:*,Atlassian Jira Server for Slack 2.0.16,[''],2022-03-19T01:43Z
+6,cpe:2.3:a:atlassian:jira_server_for_slack:2.0.17:*:*:*:*:*:*:*,Atlassian Jira Server for Slack 2.0.17,[''],2022-03-19T01:43Z
+7,cpe:2.3:a:atlassian:jira_server_for_slack:2.0.18:*:*:*:*:*:*:*,Atlassian Jira Server for Slack 2.0.18,[''],2022-03-19T01:43Z
+8,cpe:2.3:a:atlassian:jira_server_for_slack:2.0.20:*:*:*:*:*:*:*,Atlassian Jira Server for Slack 2.0.20,[''],2022-03-19T01:43Z
+9,cpe:2.3:a:atlassian:jira_server_for_slack:2.0.21:*:*:*:*:*:*:*,Atlassian Jira Server for Slack 2.0.21,[''],2022-03-19T01:43Z

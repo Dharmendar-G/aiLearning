@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:heron:0.16.4.1:*:*:*:*:*:*:*,Apache Heron 0.16.4.1,['CVE-2018-11789'],2022-03-18T18:39Z
+1,cpe:2.3:a:apache:heron:0.16.4.2:*:*:*:*:*:*:*,Apache Heron 0.16.4.2,['CVE-2018-11789'],2022-03-18T18:39Z
+2,cpe:2.3:a:apache:heron:0.16.4.3:*:*:*:*:*:*:*,Apache Heron 0.16.4.3,['CVE-2018-11789'],2022-03-18T18:39Z
+3,cpe:2.3:a:apache:heron:0.16.5:*:*:*:*:*:*:*,Apache Heron 0.16.5,['CVE-2018-11789'],2022-03-18T18:39Z
+4,cpe:2.3:a:apache:heron:0.16.5.1:*:*:*:*:*:*:*,Apache Heron 0.16.5.1,['CVE-2018-11789'],2022-03-18T18:39Z
+5,cpe:2.3:a:apache:heron:0.16.5.2:*:*:*:*:*:*:*,Apache Heron 0.16.5.2,['CVE-2018-11789'],2022-03-18T18:39Z
+6,cpe:2.3:a:apache:heron:0.16.5.3:*:*:*:*:*:*:*,Apache Heron 0.16.5.3,['CVE-2018-11789'],2022-03-18T18:40Z
+7,cpe:2.3:a:apache:heron:0.17.0:*:*:*:*:*:*:*,Apache Heron 0.17.0,['CVE-2018-11789'],2022-03-18T18:39Z
+8,cpe:2.3:a:apache:heron:0.17.0.1:*:*:*:*:*:*:*,Apache Heron 0.17.0.1,['CVE-2018-11789'],2022-03-18T18:40Z
+9,cpe:2.3:a:apache:heron:0.17.0.2:*:*:*:*:*:*:*,Apache Heron 0.17.0.2,['CVE-2018-11789'],2022-03-18T18:40Z

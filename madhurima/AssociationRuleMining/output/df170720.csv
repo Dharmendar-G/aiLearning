@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dahuasecurity:sd41:-:*:*:*:*:*:*:*,Dahua Security SD41,['CVE-2021-33044'],2022-03-20T09:58Z
+1,cpe:2.3:h:dahuasecurity:sd50:-:*:*:*:*:*:*:*,Dahuasecurity SD50,"['CVE-2019-9682', 'CVE-2020-9499', 'CVE-2020-9500', 'CVE-2020-9502', 'CVE-2021-33044', 'CVE-2021-33046']",2022-03-20T09:58Z
+2,cpe:2.3:o:dahuasecurity:sd50_firmware:2019-12:*:*:*:*:*:*:*,Dahuasecurity SD50 Firmware 2019-12,['CVE-2021-33046'],2022-03-20T09:58Z
+3,cpe:2.3:h:dahuasecurity:sd52c:-:*:*:*:*:*:*:*,Dahuasecurity SD52C,"['CVE-2019-9682', 'CVE-2020-9499', 'CVE-2020-9500', 'CVE-2020-9502', 'CVE-2021-33044', 'CVE-2021-33046']",2022-03-20T09:58Z
+4,cpe:2.3:o:dahuasecurity:sd52c_firmware:2019-12:*:*:*:*:*:*:*,Dahuasecurity SD52C Firmware 2019-12,['CVE-2021-33046'],2022-03-20T09:58Z
+5,cpe:2.3:h:dahuasecurity:sd5a:-:*:*:*:*:*:*:*,Dahuasecurity SD5A,"['CVE-2019-9682', 'CVE-2020-9499', 'CVE-2020-9500', 'CVE-2020-9502']",2022-03-20T09:58Z
+6,cpe:2.3:o:dahuasecurity:sd5a_firmware:2019-12:*:*:*:*:*:*:*,Dahuasecurity SD5A Firmware 2019-12,[''],2022-03-20T09:58Z
+7,cpe:2.3:h:dahuasecurity:sd6al:-:*:*:*:*:*:*:*,Dahuasecurity SD6AL,"['CVE-2019-9682', 'CVE-2020-9499', 'CVE-2020-9500', 'CVE-2020-9502', 'CVE-2021-33044', 'CVE-2021-33046']",2022-03-20T09:58Z
+8,cpe:2.3:o:dahuasecurity:sd6al_firmware:2019-12:*:*:*:*:*:*:*,Dahuasecurity SD6AL Firmware 2019-12,['CVE-2021-33046'],2022-03-20T09:58Z
+9,cpe:2.3:o:dahuasecurity:smartpss_firmware:1.16.1:*:*:*:*:*:*:*,Dahua Technology SMARTPSS Firmware 1.16.1,"['CVE-2017-6341', 'CVE-2017-6342', 'CVE-2017-6343']",2022-03-20T09:58Z

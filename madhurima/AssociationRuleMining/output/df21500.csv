@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aman_project:aman:-:*:*:*:*:*:*:*,aman Project aman,['CVE-2018-13515'],2022-03-18T15:19Z
+1,cpe:2.3:a:amanda:amanda:-:*:*:*:*:*:*:*,AMANDA AMANDA,[''],2022-03-18T15:19Z
+2,cpe:2.3:a:amanda:amanda:2.3.0.4:*:*:*:*:*:*:*,AMANDA AMANDA 2.3.0.4,['CVE-2002-0901'],2022-03-18T15:19Z
+3,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:1.0:*:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 1.0 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:19Z
+4,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:1.1:*:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 1.1 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:19Z
+5,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:1.3:*:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 1.3 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:19Z
+6,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:1.4:*:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 1.4 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:19Z
+7,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:1.4.2:*:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 1.4.2 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:19Z
+8,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:1.5:*:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 1.5 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:19Z
+9,cpe:2.3:a:amaze_file_manager_project:amaze_file_manager:1.5.1:*:*:*:*:android:*:*,Amaze File Manager Project Amaze File Manager 1.5.1 for Android,"['CVE-2020-35173', 'CVE-2020-36246']",2022-03-18T15:19Z

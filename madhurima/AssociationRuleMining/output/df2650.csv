@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:3cx:live_chat:9.1.1:*:*:*:*:wordpress:*:*,3CX Live Chat 9.1.1 for WordPress,[''],2022-03-18T10:06Z
+1,cpe:2.3:a:3cx:live_chat:9.1.2:*:*:*:*:wordpress:*:*,3CX Live Chat 9.1.2 for WordPress,[''],2022-03-18T10:06Z
+2,cpe:2.3:a:3cx:live_chat:9.2.0:*:*:*:*:wordpress:*:*,3CX Live Chat 9.2.0 for WordPress,[''],2022-03-18T10:06Z
+3,cpe:2.3:a:3cx:live_chat:9.2.1:*:*:*:*:wordpress:*:*,3CX Live Chat 9.2.1 for WordPress,[''],2022-03-18T10:06Z
+4,cpe:2.3:a:3cx:live_chat:9.3.0:*:*:*:*:wordpress:*:*,3CX Live Chat 9.3.0 for WordPress,[''],2022-03-18T10:06Z
+5,cpe:2.3:a:3cx:live_chat:9.3.1:*:*:*:*:wordpress:*:*,3CX Live Chat 9.3.1 for WordPress,[''],2022-03-18T10:06Z
+6,cpe:2.3:a:3cx:wp-live_chat:8.0.33:*:*:*:*:wordpress:*:*,3cx WP-Live Chat 8.0.33 for WordPress,[''],2022-03-18T10:06Z
+7,cpe:2.3:a:3cx:wp-live_chat:8.1.7:*:*:*:*:wordpress:*:*,3cx WP-Live Chat 8.1.7 for WordPress,[''],2022-03-18T10:06Z
+8,cpe:2.3:a:3d_cover_carousel_project:3d_cover_carousel:1.0:*:*:*:*:wordpress:*:*,3D Cover Carousel Project 3D Cover Carousel 1.0 for WordPress,['CVE-2021-38318'],2022-03-18T10:06Z
+9,cpe:2.3:a:3dprotect:3d_eqsecure:4.2:-:professional:*:*:*:*:*,3dprotect 3D EQSecure Professional Edition 4.2,['CVE-2010-5150'],2022-03-18T10:06Z

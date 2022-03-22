@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:openmanage_client_instrumentation:7.5.0.647:*:*:*:*:*:*:*,Dell Openmanage Client Instrumentation 7.5.0.647,[''],2022-03-20T12:55Z
+1,cpe:2.3:a:dell:openmanage_client_instrumentation:8.0.1.150:*:*:*:*:*:*:*,Dell Openmanage Client Instrumentation 8.0.1.150,[''],2022-03-20T12:55Z
+2,cpe:2.3:a:dell:openmanage_drac_tools:6.4.0:*:*:*:*:*:*:*,Dell Openmanage Drac Tools 6.4.0,[''],2022-03-20T12:55Z
+3,cpe:2.3:a:dell:openmanage_enterprise:3.5:*:*:*:*:*:*:*,Dell OpenManage Enterprise 3.5,"['CVE-2021-21564', 'CVE-2021-21584', 'CVE-2021-21585', 'CVE-2021-21596']",2022-03-20T12:55Z
+4,cpe:2.3:a:dell:openmanage_enterprise:3.6.1:*:*:*:*:*:*:*,Dell OpenManage Enterprise 3.6.1,['CVE-2021-21596'],2022-03-20T12:55Z
+5,cpe:2.3:a:dell:openmanage_enterprise-modular:-:*:*:*:*:*:*:*,Dell OpenManage Enterprise-Modular (OME-M),['CVE-2021-21530'],2022-03-20T12:55Z
+6,cpe:2.3:a:dell:openmanage_enterprise-modular:1.00.01:*:*:*:*:*:*:*,Dell OpenManage Enterprise-Modular (OME-M) 1.00.01,['CVE-2021-21530'],2022-03-20T12:55Z
+7,cpe:2.3:a:dell:openmanage_enterprise-modular:1.00.10:*:*:*:*:*:*:*,Dell OpenManage Enterprise-Modular (OME-M) 1.00.10,['CVE-2021-21530'],2022-03-20T12:55Z
+8,cpe:2.3:a:dell:openmanage_enterprise-modular:1.10.00:*:*:*:*:*:*:*,Dell OpenManage Enterprise-Modular (OME-M) 1.10.00,['CVE-2021-21530'],2022-03-20T12:55Z
+9,cpe:2.3:a:dell:openmanage_enterprise-modular:1.10.10:*:*:*:*:*:*:*,Dell OpenManage Enterprise-Modular (OME-M) 1.10.10,['CVE-2021-21530'],2022-03-20T12:55Z

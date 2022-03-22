@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:elastic_services_controller:2.3:*:*:*:*:*:*:*,Cisco Elastic Services Controller 2.3,"['CVE-2017-6777', 'CVE-2018-0106', 'CVE-2021-1312']",2022-03-19T19:22Z
+1,cpe:2.3:a:cisco:elastic_services_controller:2.3.0:*:*:*:*:*:*:*,Cisco Elastic Services Controller 2.3.0,"['CVE-2017-6712', 'CVE-2017-6713', 'CVE-2018-0106', 'CVE-2021-1312']",2022-03-19T19:22Z
+2,cpe:2.3:a:cisco:elastic_services_controller:2.3.1:*:*:*:*:*:*:*,Cisco Elastic Services Controller 2.3.1,"['CVE-2018-0106', 'CVE-2021-1312']",2022-03-19T19:22Z
+3,cpe:2.3:a:cisco:elastic_services_controller:2.3.2:*:*:*:*:*:*:*,Cisco Elastic Services Controller 2.3.2,"['CVE-2018-0106', 'CVE-2021-1312']",2022-03-19T19:22Z
+4,cpe:2.3:a:cisco:elastic_services_controller:3.0:*:*:*:*:*:*:*,Cisco Elastic Services Controller 3.0,"['CVE-2018-0106', 'CVE-2021-1312']",2022-03-19T19:22Z
+5,cpe:2.3:a:cisco:elastic_services_controller:3.1:*:*:*:*:*:*:*,Cisco Elastic Services Controller 3.1,"['CVE-2018-0106', 'CVE-2021-1312']",2022-03-19T19:22Z
+6,cpe:2.3:a:cisco:elastic_services_controller:4.0:*:*:*:*:*:*:*,Cisco Elastic Services Controller 4.0,"['CVE-2018-0106', 'CVE-2021-1312']",2022-03-19T19:22Z
+7,cpe:2.3:a:cisco:elastic_services_controller:4.1:*:*:*:*:*:*:*,Cisco Elastic Services Controller 4.1,"['CVE-2018-0106', 'CVE-2019-1867', 'CVE-2021-1312']",2022-03-19T19:22Z
+8,cpe:2.3:a:cisco:elastic_services_controller:4.1.0.100:*:*:*:*:*:*:*,Cisco Elastic Services Controller 4.1.0.100,"['CVE-2018-0106', 'CVE-2019-1867', 'CVE-2021-1312']",2022-03-19T19:22Z
+9,cpe:2.3:a:cisco:elastic_services_controller:4.1.0.111:*:*:*:*:*:*:*,Cisco Elastic Services Controller 4.1.0.111,"['CVE-2018-0106', 'CVE-2019-1867', 'CVE-2021-1312']",2022-03-19T19:22Z

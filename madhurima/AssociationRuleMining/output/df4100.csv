@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:abbott:assurity:-:*:*:*:*:*:*:*,Abbott Assurity,"['CVE-2017-12712', 'CVE-2017-12714']",2022-03-18T10:35Z
+1,cpe:2.3:o:abbott:assurity_firmware:f14.07.80:*:*:*:*:*:*:*,Abbott Assurity Firmware F14.07.80,[''],2022-03-18T10:35Z
+2,cpe:2.3:h:abbott:assurity_mri:-:*:*:*:*:*:*:*,Abbott Assurity MRI,"['CVE-2017-12712', 'CVE-2017-12714']",2022-03-18T10:35Z
+3,cpe:2.3:o:abbott:assurity_mri_firmware:f17.01.49:*:*:*:*:*:*:*,Abbott Assurity MRI Firmware F17.01.49,[''],2022-03-18T10:35Z
+4,cpe:2.3:h:abbott:freestyle_libre:-:*:*:*:*:*:*:*,Abbott FreesSyle Libre,['CVE-2020-8997'],2022-03-18T10:35Z
+5,cpe:2.3:o:abbott:freestyle_libre_firmware:-:*:*:*:*:*:*:*,Abbott FreeS5tyle Libre Firmware,['CVE-2020-8997'],2022-03-18T10:35Z
+6,cpe:2.3:a:abbs_software_audio_media_player_project:abbs_software_audio_media_player:3.1:*:*:*:*:*:*:*,Abbs Software Audio Media Player Project Abbs Software Audio Media Player 3.1,['CVE-2019-5621'],2022-03-18T10:35Z
+7,cpe:2.3:a:abbyy:finereader:4.1:*:*:*:*:*:*:*,Abbyy Finereader 4.1,['CVE-2019-20383'],2022-03-18T10:35Z
+8,cpe:2.3:a:abbyy:finereader:5.0:-:office:*:*:*:*:*,Abbyy Finereader 5.0 Office Edition,['CVE-2019-20383'],2022-03-18T10:35Z
+9,cpe:2.3:a:abbyy:finereader:5.0:-:pro:*:*:*:*:*,Abbyy Finereader 5.0 Professional Edition,['CVE-2019-20383'],2022-03-18T10:35Z

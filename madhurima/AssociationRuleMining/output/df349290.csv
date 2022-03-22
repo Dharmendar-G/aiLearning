@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:sterling_secure_proxy:6.0.3.0:*:*:*:*:*:*:*,IBM Sterling Secure Proxy 6.0.3.0,"['CVE-2022-22333', 'CVE-2022-22336']",2022-03-21T22:20Z
+1,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:8.0:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 8.0,"['CVE-2013-6322', 'CVE-2014-4807']",2022-03-21T22:20Z
+2,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:8.5:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 8.5,"['CVE-2013-0505', 'CVE-2013-0506', 'CVE-2013-0578', 'CVE-2013-6322', 'CVE-2014-4807']",2022-03-21T22:20Z
+3,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.0:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.0,"['CVE-2013-0505', 'CVE-2013-0506', 'CVE-2013-0578', 'CVE-2014-0932', 'CVE-2014-4807', 'CVE-2015-1911']",2022-03-21T22:20Z
+4,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.1.0:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.1.0,"['CVE-2013-0505', 'CVE-2013-0506', 'CVE-2013-0578', 'CVE-2014-4807', 'CVE-2016-5953']",2022-03-21T22:20Z
+5,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.1.0.1:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.1.0.1,"['CVE-2013-0578', 'CVE-2014-4807']",2022-03-21T22:20Z
+6,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.1.0.2:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.1.0.2,"['CVE-2013-0578', 'CVE-2014-4807']",2022-03-21T22:20Z
+7,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.1.0.3:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.1.0.3,"['CVE-2013-0578', 'CVE-2014-4807']",2022-03-21T22:20Z
+8,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.1.0.4:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.1.0.4,"['CVE-2013-0578', 'CVE-2014-4807']",2022-03-21T22:20Z
+9,cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.1.0.5:*:*:*:*:*:*:*,IBM Sterling Selling and Fulfillment Foundation 9.1.0.5,"['CVE-2013-0578', 'CVE-2014-4807']",2022-03-21T22:20Z

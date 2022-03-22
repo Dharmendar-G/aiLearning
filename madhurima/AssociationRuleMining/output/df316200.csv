@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:horde:horde_imap_client:2.29.13:*:*:*:*:*:*:*,Horde Imap Client 2.29.13,[''],2022-03-21T12:10Z
+1,cpe:2.3:a:horde:horde_imap_client:2.29.14:*:*:*:*:*:*:*,Horde Imap Client 2.29.14,[''],2022-03-21T12:10Z
+2,cpe:2.3:a:horde:horde_imap_client:2.29.15:*:*:*:*:*:*:*,Horde Imap Client 2.29.15,[''],2022-03-21T12:10Z
+3,cpe:2.3:a:horde:horde_imap_client:2.29.16:*:*:*:*:*:*:*,Horde Imap Client 2.29.16,[''],2022-03-21T12:10Z
+4,cpe:2.3:a:horde:horde_imap_client:2.29.17:*:*:*:*:*:*:*,Horde Imap Client 2.29.17,[''],2022-03-21T12:10Z
+5,cpe:2.3:a:horde:horde_imap_client:2.29.18:*:*:*:*:*:*:*,Horde Imap Client 2.29.18,[''],2022-03-21T12:10Z
+6,cpe:2.3:a:horde:horde_imap_client:2.30.0:*:*:*:*:*:*:*,Horde Imap Client 2.30.0,[''],2022-03-21T12:10Z
+7,cpe:2.3:a:horde:horde_imap_client:2.30.1:*:*:*:*:*:*:*,Horde Imap Client 2.30.1,[''],2022-03-21T12:11Z
+8,cpe:2.3:a:horde:horde_imp:-:*:*:*:*:*:*:*,Horde IMP,"['CVE-2017-17688', 'CVE-2017-17689']",2022-03-21T12:11Z
+9,cpe:2.3:a:horde:horde_imsp:1.0.0:-:*:*:*:*:*:*,Horde Imsp 1.0.0,[''],2022-03-21T12:11Z

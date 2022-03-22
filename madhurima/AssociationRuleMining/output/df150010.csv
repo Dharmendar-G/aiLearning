@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cnesty:helpcom:10.0:*:*:*:*:*:*:*,Cnesty HelpCom 10.0,['CVE-2020-7856'],2022-03-20T04:35Z
+1,cpe:2.3:a:cnesty:helpcom:11.2020:*:*:*:*:*:*:*,Cnesty HelpCom 11.2020,[''],2022-03-20T04:35Z
+2,cpe:2.3:a:cnezsoft:zentao:11.5.1:*:*:*:*:*:*:*,Cnezsoft Zentao 11.5.1,['CVE-2019-14731'],2022-03-20T04:35Z
+3,cpe:2.3:a:cnn:cnnmoney_portfolio:1.03:*:*:*:*:android:*:*,CNN CNNMoney Portfolio (aka com.cnn.cnnmoney) for Android 1.03,['CVE-2014-5869'],2022-03-20T04:35Z
+4,cpe:2.3:a:cnn:cnnmoney_portfolio_for_stocks:1.0.2:*:*:*:*:android:*:*,cnn CNNMoney Portfolio for stocks (aka com.cnn.portfolio) for android 1.0.2,['CVE-2014-6883'],2022-03-20T04:35Z
+5,cpe:2.3:a:cnpmjs:operadriver:0.2.1:*:*:*:*:node.js:*:*,cnpmjs operadriver 0.2.1 for Node.js,['CVE-2016-10565'],2022-03-20T04:36Z
+6,cpe:2.3:a:cnpmjs:operadriver:0.2.2:*:*:*:*:node.js:*:*,cnpmjs operadriver 0.2.2 for Node.js,['CVE-2016-10565'],2022-03-20T04:36Z
+7,cpe:2.3:a:cnpmjs:operadriver:0.2.3:*:*:*:*:node.js:*:*,cnpmjs operadriver 0.2.3 for Node.js,[''],2022-03-20T04:36Z
+8,cpe:2.3:a:cnpmjs:operadriver:1.0.0:*:*:*:*:node.js:*:*,cnpmjs operadriver 1.0.0 for Node.js,[''],2022-03-20T04:36Z
+9,cpe:2.3:a:cnrs:hal:-:*:*:*:*:wordpress:*:*,Centre National de la Recherche Scientifique (The National Center for Scientific Research) HAL for WordPress,['CVE-2021-39345'],2022-03-20T04:36Z

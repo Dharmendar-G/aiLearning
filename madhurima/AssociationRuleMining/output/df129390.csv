@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:meraki_mr74:-:*:*:*:*:*:*:*,Cisco Meraki MR74,[''],2022-03-19T22:55Z
+1,cpe:2.3:h:cisco:meraki_mr76:-:*:*:*:*:*:*:*,Cisco Meraki MR76,[''],2022-03-19T22:55Z
+2,cpe:2.3:h:cisco:meraki_mr84:-:*:*:*:*:*:*:*,Cisco Meraki MR84,[''],2022-03-19T22:55Z
+3,cpe:2.3:h:cisco:meraki_mr86:-:*:*:*:*:*:*:*,Cisco Meraki MR86,[''],2022-03-19T22:55Z
+4,cpe:2.3:h:cisco:meraki_ms:-:*:*:*:*:*:*:*,Cisco Meraki MS,"['CVE-2014-7993', 'CVE-2014-7994', 'CVE-2014-7995', 'CVE-2014-7999', 'CVE-2018-0284']",2022-03-19T22:55Z
+5,cpe:2.3:o:cisco:meraki_ms_10_firmware:10.20:*:*:*:*:*:*:*,Cisco Meraki MS 10 Firmware 10.20,[''],2022-03-19T22:55Z
+6,cpe:2.3:o:cisco:meraki_ms_9_firmware:9.37:*:*:*:*:*:*:*,Cisco Meraki MS 9 Firmware 9.37,[''],2022-03-19T22:55Z
+7,cpe:2.3:a:cisco:meraki_ms_firmware:2014-09-24:*:*:*:*:*:*:*,Cisco Meraki MS Firmware 2014-09-24,"['CVE-2014-7993', 'CVE-2014-7994', 'CVE-2014-7995', 'CVE-2014-7999']",2022-03-19T22:55Z
+8,cpe:2.3:h:cisco:meraki_mx:-:*:*:*:*:*:*:*,Cisco Meraki MX,"['CVE-2014-7993', 'CVE-2014-7994', 'CVE-2014-7995', 'CVE-2014-7999', 'CVE-2018-0284', 'CVE-2020-3299']",2022-03-19T22:55Z
+9,cpe:2.3:o:cisco:meraki_mx_13_firmware:13.32:*:*:*:*:*:*:*,Cisco Meraki Mx 13 Firmware 13.32,[''],2022-03-19T22:55Z

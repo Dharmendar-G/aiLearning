@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:doorkeeper_project:doorkeeper:0.5.0:*:*:*:*:ruby:*:*,Doorkeeper Project Doorkeeper 0.5.0 for Ruby,"['CVE-2014-8144', 'CVE-2016-6582', 'CVE-2018-1000211']",2022-03-20T17:10Z
+1,cpe:2.3:a:doorkeeper_project:doorkeeper:0.5.0:-:*:*:*:ruby:*:*,Doorkeeper Project Doorkeeper 0.5.0 - for Ruby,"['CVE-2014-8144', 'CVE-2016-6582', 'CVE-2018-1000211']",2022-03-20T17:10Z
+2,cpe:2.3:a:doorkeeper_project:doorkeeper:0.5.0:rc1:*:*:*:ruby:*:*,Doorkeeper Project Doorkeeper 0.5.0 Release Candidate 1 for Ruby,"['CVE-2014-8144', 'CVE-2016-6582', 'CVE-2018-1000211']",2022-03-20T17:10Z
+3,cpe:2.3:a:doorkeeper_project:doorkeeper:0.6.0:-:*:*:*:ruby:*:*,Doorkeeper Project Doorkeeper 0.6.0 for Ruby,"['CVE-2014-8144', 'CVE-2016-6582', 'CVE-2018-1000211']",2022-03-20T17:10Z
+4,cpe:2.3:a:doorkeeper_project:doorkeeper:0.6.0:rc1:*:*:*:ruby:*:*,Doorkeeper Project Doorkeeper 0.6.0 Release Candidate 1 for Ruby,"['CVE-2014-8144', 'CVE-2016-6582', 'CVE-2018-1000211']",2022-03-20T17:10Z
+5,cpe:2.3:a:doorkeeper_project:doorkeeper:0.6.1:*:*:*:*:ruby:*:*,Doorkeeper Project Doorkeeper 0.6.1 for Ruby,"['CVE-2014-8144', 'CVE-2016-6582', 'CVE-2018-1000211']",2022-03-20T17:10Z
+6,cpe:2.3:a:doorkeeper_project:doorkeeper:0.6.2:*:*:*:*:ruby:*:*,Doorkeeper Project Doorkeeper 0.6.2 for Ruby,"['CVE-2014-8144', 'CVE-2016-6582', 'CVE-2018-1000211']",2022-03-20T17:10Z
+7,cpe:2.3:a:doorkeeper_project:doorkeeper:0.6.3:*:*:*:*:ruby:*:*,Doorkeeper Project Doorkeeper 0.6.3 for Ruby,"['CVE-2014-8144', 'CVE-2016-6582', 'CVE-2018-1000211']",2022-03-20T17:10Z
+8,cpe:2.3:a:doorkeeper_project:doorkeeper:0.6.4:*:*:*:*:ruby:*:*,Doorkeeper Project Doorkeeper 0.6.4 for Ruby,"['CVE-2014-8144', 'CVE-2016-6582', 'CVE-2018-1000211']",2022-03-20T17:10Z
+9,cpe:2.3:a:doorkeeper_project:doorkeeper:0.6.5:*:*:*:*:ruby:*:*,Doorkeeper Project Doorkeeper 0.6.5 for Ruby,"['CVE-2014-8144', 'CVE-2016-6582', 'CVE-2018-1000211']",2022-03-20T17:10Z

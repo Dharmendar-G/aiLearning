@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:unified_ccx:6.0\(1\):*:*:*:*:*:*:*,Cisco Unified Contact Center Express 6.0(1),"['CVE-2009-2047', 'CVE-2009-2048', 'CVE-2011-3315']",2022-03-20T00:42Z
+1,cpe:2.3:a:cisco:unified_ccx:7.0\(1\):*:*:*:*:*:*:*,Cisco Unified Contact Center Express 7.0(1),"['CVE-2009-2047', 'CVE-2009-2048', 'CVE-2011-3315']",2022-03-20T00:42Z
+2,cpe:2.3:a:cisco:unified_ccx:7.0\(2\):*:*:*:*:*:*:*,Cisco Unified Contact Center Express 7.0(2),['CVE-2011-3315'],2022-03-20T00:42Z
+3,cpe:2.3:a:cisco:unified_ccx:8.0\(1\):*:*:*:*:*:*:*,Cisco Unified Contact Center Express 8.0(1),['CVE-2011-3315'],2022-03-20T00:42Z
+4,cpe:2.3:a:cisco:unified_ccx:8.0\(2\):*:*:*:*:*:*:*,Cisco Unified Contact Center Express 8.0(2),['CVE-2011-3315'],2022-03-20T00:42Z
+5,cpe:2.3:a:cisco:unified_ccx:8.5\(1\):*:*:*:*:*:*:*,Cisco Unified Contact Center Express 8.5(1),['CVE-2011-3315'],2022-03-20T00:42Z
+6,cpe:2.3:a:cisco:unified_ccx_editor:8.0.1161.0:*:*:*:*:*:*:*,Cisco Unified Ccx Editor 8.0.1161.0,[''],2022-03-20T00:42Z
+7,cpe:2.3:a:cisco:unified_ccx_historical_reports:1.0.0.0:*:*:*:*:*:*:*,Cisco Unified Ccx Historical Reports 1.0.0.0,[''],2022-03-20T00:42Z
+8,cpe:2.3:a:cisco:unified_cdm_application_software:8.1:*:*:*:*:*:*:*,Cisco Unified CDM Application Software 8.1,"['CVE-2014-2197', 'CVE-2014-3300']",2022-03-20T00:42Z
+9,cpe:2.3:a:cisco:unified_cdm_application_software:8.1.4:*:*:*:*:*:*:*,Cisco Unified CDM Application Software 8.1.4,['CVE-2014-3300'],2022-03-20T00:42Z

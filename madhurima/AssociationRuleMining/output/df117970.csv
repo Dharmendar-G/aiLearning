@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:crosswork_network_automation:4.1.1:*:*:*:*:*:*:*,Cisco Crosswork Network Automation 4.1.1,['CVE-2021-44228'],2022-03-19T19:17Z
+1,cpe:2.3:a:cisco:crosswork_network_controller:3.0.0:*:*:*:*:*:*:*,Cisco Crosswork Network Controller 3.0.0,['CVE-2021-44228'],2022-03-19T19:17Z
+2,cpe:2.3:a:cisco:crosswork_optimization_engine:3.0.0:*:*:*:*:*:*:*,Cisco Crosswork Optimization Engine 3.0.0,['CVE-2021-44228'],2022-03-19T19:17Z
+3,cpe:2.3:a:cisco:crosswork_platform_infrastructure:4.1.0:*:*:*:*:*:*:*,Cisco Crosswork Platform Infrastructure 4.1.0,['CVE-2021-44228'],2022-03-19T19:17Z
+4,cpe:2.3:a:cisco:crosswork_zero_touch_provisioning:3.0.0:*:*:*:*:*:*:*,Cisco Crosswork Zero Touch Provisioning 3.0.0,['CVE-2021-44228'],2022-03-19T19:17Z
+5,cpe:2.3:h:cisco:crs:-:*:*:*:*:*:*:*,Cisco CRS,"['CVE-2019-15989', 'CVE-2019-16018', 'CVE-2019-16020', 'CVE-2019-16022', 'CVE-2020-3118', 'CVE-2020-3120']",2022-03-19T19:17Z
+6,cpe:2.3:h:cisco:crs_performance_route_processor:-:*:*:*:*:*:*:*,Cisco CRS Performance Route Processor,['CVE-2012-2488'],2022-03-19T19:17Z
+7,cpe:2.3:h:cisco:crs-1_16-slot_line_card_chassis:-:*:*:*:*:*:*:*,Cisco Crs-1 16-slot Line Card Chassis,['CVE-2019-1842'],2022-03-19T19:17Z
+8,cpe:2.3:h:cisco:crs-1_16-slot_single-shelf_system:-:*:*:*:*:*:*:*,Cisco Crs-1 16-slot Single-shelf System,['CVE-2019-1842'],2022-03-19T19:17Z
+9,cpe:2.3:h:cisco:crs-1_4-slot_single-shelf_system:-:*:*:*:*:*:*:*,Cisco Crs-1 4-slot Single-shelf System,['CVE-2019-1842'],2022-03-19T19:17Z

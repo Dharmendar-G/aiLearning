@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:ibm:integrated_management_module_firmware:3.50:*:*:*:*:*:*:*,IBM Integrated Management Module 2 (IMM2) Firmware 3.50,"['CVE-2014-0881', 'CVE-2014-0882', 'CVE-2017-3744']",2022-03-21T20:52Z
+1,cpe:2.3:o:ibm:integrated_management_module_firmware:3.55:*:*:*:*:*:*:*,IBM Integrated Management Module 2 (IMM2) 3.55,"['CVE-2014-0881', 'CVE-2014-0882', 'CVE-2017-3744']",2022-03-21T20:52Z
+2,cpe:2.3:o:ibm:integrated_management_module_firmware:3.56:*:*:*:*:*:*:*,IBM Integrated Management Module 2 (IMM2) Firmware 3.56,"['CVE-2014-0881', 'CVE-2014-0882', 'CVE-2017-3744']",2022-03-21T20:52Z
+3,cpe:2.3:o:ibm:integrated_management_module_firmware:3.67:*:*:*:*:*:*:*,IBM Integrated Management Module 2 (IMM2) Firmware 3.67,"['CVE-2014-0882', 'CVE-2017-3744']",2022-03-21T20:52Z
+4,cpe:2.3:o:ibm:integrated_management_module_firmware:6.19:*:*:*:*:*:*:*,IBM Integrated Management Module (IMM2) Firmware 6.19,['CVE-2017-3744'],2022-03-21T20:52Z
+5,cpe:2.3:h:ibm:integrated_management_module_ii:-:*:*:*:*:*:*:*,IBM Integrated Management Module II (IMM2),"['CVE-2012-4838', 'CVE-2014-0860']",2022-03-21T20:52Z
+6,cpe:2.3:o:ibm:integrated_management_module_ii_firmware:3.65:*:*:*:*:*:*:*,IBM Integrated Management Module II (IMM2) firmware 3.65,['CVE-2014-0860'],2022-03-21T20:52Z
+7,cpe:2.3:o:ibm:integrated_management_module_ii_firmware:4.15:*:*:*:*:*:*:*,IBM Integrated Management Module II (IMM2) firmware 4.15,[''],2022-03-21T20:52Z
+8,cpe:2.3:a:ibm:integrated_solutions_console:6.0.1:*:*:*:*:*:*:*,IBM Integrated Solutions Console 6.0.1,['CVE-2009-0899'],2022-03-21T20:52Z
+9,cpe:2.3:a:ibm:integration_bus:9.0:*:*:*:*:*:*:*,IBM Integration Bus 9.0,"['CVE-2014-4819', 'CVE-2014-6170', 'CVE-2015-0118', 'CVE-2015-2018', 'CVE-2015-5011', 'CVE-2015-7399', 'CVE-2016-0394', 'CVE-2016-2961', 'CVE-2016-9010', 'CVE-2016-9706', 'CVE-2017-1144']",2022-03-21T20:52Z

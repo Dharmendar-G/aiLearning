@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:canon:lbp151dw:-:*:*:*:*:*:*:*,Canon LBP151DW,"['CVE-2020-16849', 'CVE-2021-20877']",2022-03-19T15:14Z
+1,cpe:2.3:o:canon:lbp151dw_firmware:-:*:*:*:*:*:*:*,Canon LBP151DW Firmware,['CVE-2020-16849'],2022-03-19T15:14Z
+2,cpe:2.3:h:canon:lbp162:-:*:*:*:*:*:*:*,Canon LBP162,['CVE-2021-20877'],2022-03-19T15:14Z
+3,cpe:2.3:h:canon:lbp162dw:-:*:*:*:*:*:*:*,Canon LBP162DW,"['CVE-2020-16849', 'CVE-2021-20877']",2022-03-19T15:14Z
+4,cpe:2.3:o:canon:lbp162dw_firmware:-:*:*:*:*:*:*:*,Canon LBP162DW Firmware,['CVE-2020-16849'],2022-03-19T15:14Z
+5,cpe:2.3:h:canon:lbp162l:-:*:*:*:*:*:*:*,Canon LBP162L,['CVE-2021-20877'],2022-03-19T15:14Z
+6,cpe:2.3:h:canon:lbp223dw:-:*:*:*:*:*:*:*,Canon LBP223DW,['CVE-2021-43471'],2022-03-19T15:14Z
+7,cpe:2.3:o:canon:lbp223dw_firmware:-:*:*:*:*:*:*:*,Canon LBP223DW Firmware,['CVE-2021-43471'],2022-03-19T15:14Z
+8,cpe:2.3:h:canon:lbp3370:-:*:*:*:*:*:*:*,Canon LBP3370,['CVE-2018-11692'],2022-03-19T15:14Z
+9,cpe:2.3:o:canon:lbp3370_firmware:-:*:*:*:*:*:*:*,Canon LBP3370 Firmware,['CVE-2018-11692'],2022-03-19T15:14Z

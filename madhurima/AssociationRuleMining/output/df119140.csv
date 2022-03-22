@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:firepower_extensible_operating_system:2.0\(1.68\):*:*:*:*:*:*:*,Cisco FirePOWER Extensible Operating System 2.0(1.68),"['CVE-2017-6598', 'CVE-2017-6600', 'CVE-2017-6601', 'CVE-2017-6602']",2022-03-19T19:39Z
+1,cpe:2.3:o:cisco:firepower_extensible_operating_system:2.2:*:*:*:*:*:*:*,Cisco Firepower Extensible Operating System (FXOS) 2.2,"['CVE-2020-3455', 'CVE-2020-3459']",2022-03-19T19:39Z
+2,cpe:2.3:o:cisco:firepower_extensible_operating_system:2.2\(1.58\):*:*:*:*:*:*:*,Cisco Firepower Extensible Operating System 2.2(1.58),"['CVE-2017-12299', 'CVE-2020-3455', 'CVE-2020-3459']",2022-03-19T19:39Z
+3,cpe:2.3:o:cisco:firepower_extensible_operating_system:2.3:*:*:*:*:*:*:*,Cisco Firepower Extensible Operating System (FXOS) 2.3,"['CVE-2020-3455', 'CVE-2020-3459']",2022-03-19T19:39Z
+4,cpe:2.3:o:cisco:firepower_extensible_operating_system:2.4:*:*:*:*:*:*:*,Cisco Firepower Extensible Operating System (FXOS) 2.4,"['CVE-2020-3455', 'CVE-2020-3457', 'CVE-2020-3459']",2022-03-19T19:39Z
+5,cpe:2.3:o:cisco:firepower_extensible_operating_system:2.4\(1.249\):*:*:*:*:*:*:*,Cisco Firepower Extensible Operating System 2.4(1.249),"['CVE-2020-3455', 'CVE-2020-3456', 'CVE-2020-3457', 'CVE-2020-3459']",2022-03-19T19:39Z
+6,cpe:2.3:o:cisco:firepower_extensible_operating_system:2.4.1.268:*:*:*:*:*:*:*,Cisco Firepower Extensible Operating System (FXOS) 2.4.1.268,[''],2022-03-19T19:39Z
+7,cpe:2.3:o:cisco:firepower_extensible_operating_system:2.6:*:*:*:*:*:*:*,Cisco Firepower Extensible Operating System (FXOS) 2.6,"['CVE-2020-3455', 'CVE-2020-3457', 'CVE-2020-3459']",2022-03-19T19:39Z
+8,cpe:2.3:o:cisco:firepower_extensible_operating_system:2.6.1.214:*:*:*:*:*:*:*,Cisco Firepower Extensible Operating System (FXOS) 2.6.1.214,[''],2022-03-19T19:39Z
+9,cpe:2.3:o:cisco:firepower_extensible_operating_system:2.7:*:*:*:*:*:*:*,Cisco Firepower Extensible Operating System (FXOS) 2.7,"['CVE-2020-3455', 'CVE-2020-3457', 'CVE-2020-3459']",2022-03-19T19:40Z

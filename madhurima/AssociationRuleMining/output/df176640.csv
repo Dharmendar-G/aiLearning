@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:debian:devscripts:2.11.9:*:*:*:*:*:*:*,Debian devscripts 2.11.9,"['CVE-2013-7325', 'CVE-2018-13043']",2022-03-20T11:36Z
+1,cpe:2.3:a:debian:devscripts:2.12.0:*:*:*:*:*:*:*,Debian devscripts 2.12.0,"['CVE-2013-7325', 'CVE-2018-13043']",2022-03-20T11:36Z
+2,cpe:2.3:a:debian:devscripts:2.12.1:*:*:*:*:*:*:*,Debian devscripts 2.12.1,"['CVE-2013-7325', 'CVE-2018-13043']",2022-03-20T11:36Z
+3,cpe:2.3:a:debian:devscripts:2.12.2:*:*:*:*:*:*:*,Debian devscripts 2.12.2,"['CVE-2013-7325', 'CVE-2018-13043']",2022-03-20T11:36Z
+4,cpe:2.3:a:debian:devscripts:2.12.3:*:*:*:*:*:*:*,Debian devscripts 2.12.3,"['CVE-2013-7325', 'CVE-2018-13043']",2022-03-20T11:36Z
+5,cpe:2.3:a:debian:devscripts:2.12.4:*:*:*:*:*:*:*,Debian devscripts 2.12.4,"['CVE-2013-7325', 'CVE-2018-13043']",2022-03-20T11:36Z
+6,cpe:2.3:a:debian:devscripts:2.12.5:*:*:*:*:*:*:*,Debian devscripts 2.12.5,"['CVE-2013-7325', 'CVE-2018-13043']",2022-03-20T11:36Z
+7,cpe:2.3:a:debian:devscripts:2.12.6:*:*:*:*:*:*:*,Debian devscripts 2.12.6,"['CVE-2013-7325', 'CVE-2018-13043']",2022-03-20T11:36Z
+8,cpe:2.3:a:debian:devscripts:2.13.0:*:*:*:*:*:*:*,Debian devscripts 2.13.0,"['CVE-2013-7325', 'CVE-2018-13043']",2022-03-20T11:36Z
+9,cpe:2.3:a:debian:devscripts:2.13.1:*:*:*:*:*:*:*,Debian devscripts 2.13.1,"['CVE-2013-7325', 'CVE-2018-13043']",2022-03-20T11:36Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:brave:browser:1.31:*:*:*:*:iphone_os:*:*,Brave Browser 1.31 iPhone OS,[''],2022-03-19T12:07Z
+1,cpe:2.3:a:brave:browser:1.31.1:*:*:*:*:iphone_os:*:*,Brave Browser 1.31.1 iPhone OS,[''],2022-03-19T12:07Z
+2,cpe:2.3:a:brave:browser:1.32:*:*:*:*:iphone_os:*:*,Brave Browser 1.32 iPhone OS,[''],2022-03-19T12:07Z
+3,cpe:2.3:a:brave:browser:1.32.1:*:*:*:*:iphone_os:*:*,Brave Browser 1.32.1 iPhone OS,[''],2022-03-19T12:07Z
+4,cpe:2.3:a:brave:browser:1.32.2:*:*:*:*:iphone_os:*:*,Brave Browser 1.32.2 iPhone OS,[''],2022-03-19T12:07Z
+5,cpe:2.3:a:brave:browser:1.32.3:*:*:*:*:iphone_os:*:*,Brave Browser 1.32.3 iPhone OS,[''],2022-03-19T12:07Z
+6,cpe:2.3:a:brave:browser:1.33:*:*:*:*:iphone_os:*:*,Brave Browser 1.33 iPhone OS,[''],2022-03-19T12:08Z
+7,cpe:2.3:a:bravenewcode:wptouch:1.0:*:*:*:*:*:*:*,BraveNewCode WPtouch plugin 1.0,['CVE-2011-4803'],2022-03-19T12:08Z
+8,cpe:2.3:a:bravenewcode:wptouch:1.1:*:*:*:*:*:*:*,BraveNewCode WPtouch plugin 1.1,['CVE-2011-4803'],2022-03-19T12:08Z
+9,cpe:2.3:a:bravenewcode:wptouch:1.2:*:*:*:*:*:*:*,BraveNewCode WPtouch plugin 1.2,['CVE-2011-4803'],2022-03-19T12:08Z

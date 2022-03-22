@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:barnowl:barnowl:1.6.2:*:*:*:*:*:*:*,BarnOwl 1.6.2,[''],2022-03-19T06:18Z
+1,cpe:2.3:a:barracuda:load_balancer:5.0.0.015:*:*:*:*:*:*:*,Barracuda Load Balancer 5.0.0.015,"['CVE-2014-8426', 'CVE-2014-8428']",2022-03-19T06:18Z
+2,cpe:2.3:h:barracuda:load_balancer_adc:-:*:*:*:*:*:*:*,Barracuda Load Balancer ADC,['CVE-2019-5648'],2022-03-19T06:18Z
+3,cpe:2.3:a:barracuda:load_balancer_adc:5.2.0.004:*:*:*:*:*:*:*,Barracuda Load Balancer ADC 5.2.0.004,['CVE-2017-6320'],2022-03-19T06:18Z
+4,cpe:2.3:a:barracuda:load_balancer_adc:5.3.0.002:*:*:*:*:*:*:*,Barracuda Load Balancer ADC 5.3.0.002,['CVE-2017-6320'],2022-03-19T06:18Z
+5,cpe:2.3:a:barracuda:load_balancer_adc:5.3.0.003:*:*:*:*:*:*:*,Barracuda Load Balancer ADC 5.3.0.003,['CVE-2017-6320'],2022-03-19T06:18Z
+6,cpe:2.3:a:barracuda:load_balancer_adc:5.4.0.003:*:*:*:*:*:*:*,Barracuda Load Balancer ADC 5.4.0.003,['CVE-2017-6320'],2022-03-19T06:18Z
+7,cpe:2.3:a:barracuda:load_balancer_adc:5.4.0.004:*:*:*:*:*:*:*,Barracuda Load Balancer ADC 5.4.0.004,['CVE-2017-6320'],2022-03-19T06:18Z
+8,cpe:2.3:a:barracuda:load_balancer_adc:6.0.0.004:*:*:*:*:*:*:*,Barracuda Load Balancer ADC 6.0.0.004,['CVE-2017-6320'],2022-03-19T06:18Z
+9,cpe:2.3:a:barracuda:load_balancer_adc:6.0.0.005:*:*:*:*:*:*:*,Barracuda Load Balancer ADC 6.0.0.005,['CVE-2017-6320'],2022-03-19T06:18Z

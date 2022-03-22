@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:rv_series_router_firmware:1.0.5.4.\(gd\):*:*:*:*:*:*:*,Cisco RV Series Router Firmware 1.0.5.4.\(GD\),[''],2022-03-19T23:51Z
+1,cpe:2.3:o:cisco:rv_series_router_firmware:1.0.5.6:*:*:*:*:*:*:*,Cisco RV Series Router Firmware 1.0.5.6,['CVE-2015-6319'],2022-03-19T23:51Z
+2,cpe:2.3:o:cisco:rv_series_router_firmware:1.0.5.8:*:*:*:*:*:*:*,Cisco RV Series Router Firmware 1.0.5.8,['CVE-2015-6319'],2022-03-19T23:51Z
+3,cpe:2.3:o:cisco:rv_series_router_firmware:1.0.6.6:*:*:*:*:*:*:*,Cisco RV Series Router Firmware 1.0.6.6,['CVE-2015-6319'],2022-03-19T23:51Z
+4,cpe:2.3:o:cisco:rv_series_router_firmware:1.1.0.9:*:*:*:*:*:*:*,Cisco RV Series Router Firmware 1.1.0.9,['CVE-2015-6319'],2022-03-19T23:51Z
+5,cpe:2.3:o:cisco:rv_series_router_firmware:1.2.0.2:*:*:*:*:*:*:*,Cisco RV Series Router Firmware 1.2.0.2,['CVE-2015-6319'],2022-03-19T23:51Z
+6,cpe:2.3:h:cisco:rv016:-:*:*:*:*:*:*:*,Cisco RV016,"['CVE-2020-3274', 'CVE-2020-3275', 'CVE-2020-3276', 'CVE-2020-3277', 'CVE-2020-3278', 'CVE-2020-3279', 'CVE-2020-3286', 'CVE-2020-3287', 'CVE-2020-3288', 'CVE-2020-3289', 'CVE-2020-3290', 'CVE-2020-3291', 'CVE-2020-3292', 'CVE-2020-3293', 'CVE-2020-3294', 'CVE-2020-3295', 'CVE-2020-3296', 'CVE-2021-40120']",2022-03-19T23:51Z
+7,cpe:2.3:o:cisco:rv016_firmware:4.2.3.10:*:*:*:*:*:*:*,Cisco RV016 Firmware 4.2.3.10,"['CVE-2020-3274', 'CVE-2020-3275', 'CVE-2020-3276', 'CVE-2020-3277', 'CVE-2020-3278', 'CVE-2020-3279', 'CVE-2020-3286', 'CVE-2020-3287', 'CVE-2020-3288', 'CVE-2020-3289', 'CVE-2020-3290', 'CVE-2020-3291', 'CVE-2020-3292', 'CVE-2020-3293', 'CVE-2020-3294', 'CVE-2020-3295', 'CVE-2020-3296']",2022-03-19T23:51Z
+8,cpe:2.3:o:cisco:rv016_firmware:4.2.3.14:*:*:*:*:*:*:*,Cisco RV016 Firmware 4.2.3.14,[''],2022-03-19T23:51Z
+9,cpe:2.3:h:cisco:rv016_multi-wan_vpn:-:*:*:*:*:*:*:*,Cisco RV016 Multi-WAN VPN,"['CVE-2019-15271', 'CVE-2019-15957', 'CVE-2019-15990']",2022-03-19T23:51Z

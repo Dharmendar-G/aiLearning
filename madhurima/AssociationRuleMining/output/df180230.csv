@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:latitude_3150_firmware:-:*:*:*:*:*:*:*,Dell Latitude 3150 Firmware,['CVE-2019-3717'],2022-03-20T12:46Z
+1,cpe:2.3:o:dell:latitude_3150_firmware:a10:*:*:*:*:*:*:*,Dell Latitude 3150 Firmware A10,[''],2022-03-20T12:46Z
+2,cpe:2.3:h:dell:latitude_3160:-:*:*:*:*:*:*:*,Dell Latitude 3160,['CVE-2019-3717'],2022-03-20T12:46Z
+3,cpe:2.3:o:dell:latitude_3160_firmware:-:*:*:*:*:*:*:*,Dell Latitude 3160 Firmware,['CVE-2019-3717'],2022-03-20T12:46Z
+4,cpe:2.3:o:dell:latitude_3160_firmware:a12:*:*:*:*:*:*:*,Dell Latitude 3160 Firmware A12,[''],2022-03-20T12:46Z
+5,cpe:2.3:h:dell:latitude_3180:-:*:*:*:*:*:*:*,Dell Latitude 3180,"['CVE-2019-3717', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:46Z
+6,cpe:2.3:o:dell:latitude_3180_firmware:-:*:*:*:*:*:*:*,Dell Latitude 3180 Firmware,"['CVE-2019-3717', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:46Z
+7,cpe:2.3:o:dell:latitude_3180_firmware:1.7.2:*:*:*:*:*:*:*,Dell Latitude 3180 Firmware 1.7.2,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:46Z
+8,cpe:2.3:h:dell:latitude_3189:-:*:*:*:*:*:*:*,Dell Latitude 3189,"['CVE-2019-3717', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:46Z
+9,cpe:2.3:o:dell:latitude_3189_firmware:-:*:*:*:*:*:*:*,Dell Latitude 3189 Firmware,"['CVE-2019-3717', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:46Z

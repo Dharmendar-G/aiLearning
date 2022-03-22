@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:san_volume_controller_software:6.4.1.8:*:*:*:*:*:*:*,IBM SAN Volume Controller software 6.4.1.8,['CVE-2014-4811'],2022-03-21T21:52Z
+1,cpe:2.3:a:ibm:san_volume_controller_software:7.1.0.0:*:*:*:*:*:*:*,IBM SAN Volume Controller software 7.1.0.0,"['CVE-2014-0880', 'CVE-2014-4811']",2022-03-21T21:52Z
+2,cpe:2.3:a:ibm:san_volume_controller_software:7.1.0.1:*:*:*:*:*:*:*,IBM SAN Volume Controller software 7.1.0.1,"['CVE-2014-0880', 'CVE-2014-4811']",2022-03-21T21:52Z
+3,cpe:2.3:a:ibm:san_volume_controller_software:7.1.0.2:*:*:*:*:*:*:*,IBM SAN Volume Controller software 7.1.0.2,"['CVE-2014-0880', 'CVE-2014-4811']",2022-03-21T21:52Z
+4,cpe:2.3:a:ibm:san_volume_controller_software:7.1.0.3:*:*:*:*:*:*:*,IBM SAN Volume Controller software 7.1.0.3,"['CVE-2014-0880', 'CVE-2014-4811']",2022-03-21T21:52Z
+5,cpe:2.3:a:ibm:san_volume_controller_software:7.1.0.5:*:*:*:*:*:*:*,IBM SAN Volume Controller software 7.1.0.5,"['CVE-2014-0880', 'CVE-2014-4811']",2022-03-21T21:52Z
+6,cpe:2.3:a:ibm:san_volume_controller_software:7.1.0.6:*:*:*:*:*:*:*,IBM SAN Volume Controller software 7.1.0.6,"['CVE-2014-0880', 'CVE-2014-4811']",2022-03-21T21:52Z
+7,cpe:2.3:a:ibm:san_volume_controller_software:7.1.0.7:*:*:*:*:*:*:*,IBM SAN Volume Controller software 7.1.0.7,"['CVE-2014-0880', 'CVE-2014-4811']",2022-03-21T21:52Z
+8,cpe:2.3:a:ibm:san_volume_controller_software:7.2.0.0:*:*:*:*:*:*:*,IBM SAN Volume Controller software 7.2.0.0,"['CVE-2014-0880', 'CVE-2014-4811']",2022-03-21T21:52Z
+9,cpe:2.3:a:ibm:san_volume_controller_software:7.2.0.1:*:*:*:*:*:*:*,IBM SAN Volume Controller software 7.2.0.1,"['CVE-2014-0880', 'CVE-2014-4811']",2022-03-21T21:52Z

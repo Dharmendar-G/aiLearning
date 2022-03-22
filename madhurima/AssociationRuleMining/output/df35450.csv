@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:qpid_proton-j:0.9:rc3:*:*:*:*:*:*,Apache Software Foundation Qpid Proton-J 0.9 Release Candidate 3,['CVE-2018-17187'],2022-03-18T19:55Z
+1,cpe:2.3:a:apache:qpid_proton-j:0.9.1:-:*:*:*:*:*:*,Apache Software Foundation Qpid Proton-J 0.9.1,['CVE-2018-17187'],2022-03-18T19:55Z
+2,cpe:2.3:a:apache:qpid_proton-j:0.9.1:rc1:*:*:*:*:*:*,Apache Software Foundation Qpid Proton-J 0.9.1 Release Candidate 1,['CVE-2018-17187'],2022-03-18T19:55Z
+3,cpe:2.3:a:apache:qpid_proton-j:0.10:-:*:*:*:*:*:*,Apache Software Foundation Qpid Proton-J 0.10,['CVE-2018-17187'],2022-03-18T19:55Z
+4,cpe:2.3:a:apache:qpid_proton-j:0.10:beta1:*:*:*:*:*:*,Apache Software Foundation Qpid Proton-J 0.10 Beta 1,['CVE-2018-17187'],2022-03-18T19:55Z
+5,cpe:2.3:a:apache:qpid_proton-j:0.10:beta2:*:*:*:*:*:*,Apache Software Foundation Qpid Proton-J 0.10 Beta 2,['CVE-2018-17187'],2022-03-18T19:55Z
+6,cpe:2.3:a:apache:qpid_proton-j:0.10:rc1:*:*:*:*:*:*,Apache Software Foundation Qpid Proton-J 0.10 Release Candidate 1,['CVE-2018-17187'],2022-03-18T19:55Z
+7,cpe:2.3:a:apache:qpid_proton-j:0.10:rc2:*:*:*:*:*:*,Apache Software Foundation Qpid Proton-J 0.10 Release Candidate 2,['CVE-2018-17187'],2022-03-18T19:55Z
+8,cpe:2.3:a:apache:qpid_proton-j:0.10:rc3:*:*:*:*:*:*,Apache Software Foundation Qpid Proton-J 0.10 Release Candidate 3,['CVE-2018-17187'],2022-03-18T19:55Z
+9,cpe:2.3:a:apache:qpid_proton-j:0.11.0:-:*:*:*:*:*:*,Apache Software Foundation Qpid Proton-J 0.11.0,['CVE-2018-17187'],2022-03-18T19:55Z

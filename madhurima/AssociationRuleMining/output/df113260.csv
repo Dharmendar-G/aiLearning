@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:access_points:8.0:*:*:*:*:*:*:*,Cisco Access Points 8.0,"['CVE-2018-0441', 'CVE-2019-1920', 'CVE-2020-3552', 'CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T17:51Z
+1,cpe:2.3:o:cisco:access_points:8.0\(140.0\):*:*:*:*:*:*:*,Cisco Access Points 8.0(140.0),"['CVE-2018-0441', 'CVE-2019-1920', 'CVE-2020-3552', 'CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T17:51Z
+2,cpe:2.3:o:cisco:access_points:8.1:*:*:*:*:*:*:*,Cisco Access Points 8.1,"['CVE-2018-0441', 'CVE-2019-1920', 'CVE-2020-3552', 'CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T17:51Z
+3,cpe:2.3:o:cisco:access_points:8.2:*:*:*:*:*:*:*,Cisco Access Points 8.2,"['CVE-2018-0441', 'CVE-2019-1920', 'CVE-2020-3552', 'CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T17:51Z
+4,cpe:2.3:o:cisco:access_points:8.2\(141.0\):*:*:*:*:*:*:*,Cisco Access Points 8.2(141.0),"['CVE-2018-0441', 'CVE-2019-1920', 'CVE-2020-3552', 'CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T17:51Z
+5,cpe:2.3:o:cisco:access_points:8.2\(151.0\):*:*:*:*:*:*:*,Cisco Access Points 8.2(151.0),"['CVE-2018-0441', 'CVE-2019-1920', 'CVE-2020-3552', 'CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T17:51Z
+6,cpe:2.3:o:cisco:access_points:8.2.170.0:*:*:*:*:*:*:*,Cisco Access Points 8.2.170.0,"['CVE-2018-0441', 'CVE-2020-3552', 'CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T17:51Z
+7,cpe:2.3:o:cisco:access_points:8.3:*:*:*:*:*:*:*,Cisco Access Points 8.3,"['CVE-2018-0441', 'CVE-2019-1920', 'CVE-2020-3552', 'CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T17:51Z
+8,cpe:2.3:o:cisco:access_points:8.3\(102.0\):*:*:*:*:*:*:*,Cisco Access Points 8.3(102.0),"['CVE-2018-0441', 'CVE-2019-1920', 'CVE-2020-3552', 'CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T17:51Z
+9,cpe:2.3:o:cisco:access_points:8.3\(112.0\):*:*:*:*:*:*:*,Cisco Access Points 8.3(112.0),"['CVE-2018-0441', 'CVE-2019-1920', 'CVE-2020-3552', 'CVE-2020-3559', 'CVE-2020-3560']",2022-03-19T17:51Z

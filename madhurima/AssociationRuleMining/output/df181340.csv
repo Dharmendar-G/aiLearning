@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:sonicwall_network_security_appliance_2600:-:*:*:*:*:*:*:*,Dell SonicWall Network Security Appliance 2600,"['CVE-2018-5280', 'CVE-2018-5281']",2022-03-20T13:07Z
+1,cpe:2.3:h:dell:sonicwall_network_security_appliance_2650:-:*:*:*:*:*:*:*,Dell SonicWall Network Security Appliance 2650,"['CVE-2018-5280', 'CVE-2018-5281']",2022-03-20T13:07Z
+2,cpe:2.3:h:dell:sonicwall_network_security_appliance_3600:-:*:*:*:*:*:*:*,Dell SonicWall Network Security Appliance 3600,"['CVE-2018-5280', 'CVE-2018-5281']",2022-03-20T13:07Z
+3,cpe:2.3:h:dell:sonicwall_network_security_appliance_4600:-:*:*:*:*:*:*:*,Dell SonicWall Network Security Appliance 4600,"['CVE-2018-5280', 'CVE-2018-5281']",2022-03-20T13:07Z
+4,cpe:2.3:h:dell:sonicwall_network_security_appliance_5600:-:*:*:*:*:*:*:*,Dell SonicWall Network Security Appliance 5600,"['CVE-2018-5280', 'CVE-2018-5281']",2022-03-20T13:07Z
+5,cpe:2.3:h:dell:sonicwall_network_security_appliance_6600:-:*:*:*:*:*:*:*,Dell SonicWall Network Security Appliance 6600,"['CVE-2018-5280', 'CVE-2018-5281']",2022-03-20T13:07Z
+6,[0],[0],[0],[0]
+7,[0],[0],[0],[0]
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

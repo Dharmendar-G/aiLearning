@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:h2database:h2:1.3.146:beta:*:*:*:*:*:*,H2 Database H2 1.3.146 Beta,"['CVE-2021-23463', 'CVE-2021-42392', 'CVE-2022-23221']",2022-03-21T08:35Z
+1,cpe:2.3:a:h2database:h2:1.3.146:beta:*:*:*:*:*:*,H2 Database H2 1.3.146 Beta,"['CVE-2021-23463', 'CVE-2021-42392', 'CVE-2022-23221']",2022-03-21T08:35Z
+2,cpe:2.3:a:h2database:h2:1.3.148:beta:*:*:*:*:*:*,H2 Database H2 1.3.148 Beta,"['CVE-2021-23463', 'CVE-2021-42392', 'CVE-2022-23221']",2022-03-21T08:35Z
+3,cpe:2.3:a:h2database:h2:1.3.148:beta:*:*:*:*:*:*,H2 Database H2 1.3.148 Beta,"['CVE-2021-23463', 'CVE-2021-42392', 'CVE-2022-23221']",2022-03-21T08:35Z
+4,cpe:2.3:a:h2database:h2:1.3.149:beta:*:*:*:*:*:*,H2 Database H2 1.3.149 Beta,"['CVE-2021-23463', 'CVE-2021-42392', 'CVE-2022-23221']",2022-03-21T08:35Z
+5,cpe:2.3:a:h2database:h2:1.3.149:beta:*:*:*:*:*:*,H2 Database H2 1.3.149 Beta,"['CVE-2021-23463', 'CVE-2021-42392', 'CVE-2022-23221']",2022-03-21T08:35Z
+6,cpe:2.3:a:h2database:h2:1.3.150:beta:*:*:*:*:*:*,H2 Database H2 1.3.150 Beta,"['CVE-2021-23463', 'CVE-2021-42392', 'CVE-2022-23221']",2022-03-21T08:35Z
+7,cpe:2.3:a:h2database:h2:1.3.150:beta:*:*:*:*:*:*,H2 Database H2 1.3.150 Beta,"['CVE-2021-23463', 'CVE-2021-42392', 'CVE-2022-23221']",2022-03-21T08:35Z
+8,cpe:2.3:a:h2database:h2:1.3.151:beta:*:*:*:*:*:*,H2 Database H2 1.3.151 Beta,"['CVE-2021-23463', 'CVE-2021-42392', 'CVE-2022-23221']",2022-03-21T08:35Z
+9,cpe:2.3:a:h2database:h2:1.3.151:beta:*:*:*:*:*:*,H2 Database H2 1.3.151 Beta,"['CVE-2021-23463', 'CVE-2021-42392', 'CVE-2022-23221']",2022-03-21T08:35Z

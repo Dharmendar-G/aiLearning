@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bullguard:premium_protection:20.0.371.8:*:*:*:*:*:*:*,BullGuard Premium Protection 20.0.371.8,['CVE-2019-20000'],2022-03-19T13:26Z
+1,cpe:2.3:a:bullguard:safe_browsing:14.1.281:*:*:*:*:*:*:*,BullGuard Safe Browsing 14.1.281,['CVE-2018-17061'],2022-03-19T13:26Z
+2,cpe:2.3:a:bullguard:safe_browsing:14.1.282:*:*:*:*:*:*:*,BullGuard Safe Browsing 14.1.282,['CVE-2018-17061'],2022-03-19T13:26Z
+3,cpe:2.3:a:bullguard:safe_browsing:14.1.283:*:*:*:*:*:*:*,BullGuard Safe Browsing 14.1.283,['CVE-2018-17061'],2022-03-19T13:26Z
+4,cpe:2.3:a:bullguard:safe_browsing:14.1.284:*:*:*:*:*:*:*,BullGuard Safe Browsing 14.1.284,['CVE-2018-17061'],2022-03-19T13:26Z
+5,cpe:2.3:a:bullguard:safe_browsing:14.1.285:*:*:*:*:*:*:*,BullGuard Safe Browsing 14.1.285,['CVE-2018-17061'],2022-03-19T13:26Z
+6,cpe:2.3:a:bullguard:safe_browsing:14.1.286:*:*:*:*:*:*:*,BullGuard Safe Browsing 14.1.286,['CVE-2018-17061'],2022-03-19T13:26Z
+7,cpe:2.3:a:bullguard:safe_browsing:14.1.287:*:*:*:*:*:*:*,BullGuard Safe Browsing 14.1.287,['CVE-2018-17061'],2022-03-19T13:26Z
+8,cpe:2.3:a:bullguard:safe_browsing:15.0.288:*:*:*:*:*:*:*,BullGuard Safe Browsing 15.0.288,['CVE-2018-17061'],2022-03-19T13:26Z
+9,cpe:2.3:a:bullguard:safe_browsing:15.0.289:*:*:*:*:*:*:*,BullGuard Safe Browsing 15.0.289,['CVE-2018-17061'],2022-03-19T13:26Z

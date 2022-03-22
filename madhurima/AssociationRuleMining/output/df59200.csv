@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atom_project:atom:0.3.5:*:*:*:*:rust:*:*,Atom Project Atom 0.3.5 for Rust,['CVE-2020-35897'],2022-03-19T02:20Z
+1,cpe:2.3:a:atom_project:atom:0.3.6:*:*:*:*:rust:*:*,atom Project atom 0.3.6 for Rust,[''],2022-03-19T02:20Z
+2,cpe:2.3:a:atom_project:atom:0.4.0:*:*:*:*:rust:*:*,Atom Project Atom 0.4.0 for Rust,[''],2022-03-19T02:20Z
+3,cpe:2.3:a:atomic-option_project:atomic-option:-:*:*:*:*:rust:*:*,atomic-option Project atomic-option for Rust,['CVE-2020-36219'],2022-03-19T02:20Z
+4,cpe:2.3:a:atomic-option_project:atomic-option:0.0.1:*:*:*:*:rust:*:*,atomic-option Project atomic-option 0.0.1 for Rust,['CVE-2020-36219'],2022-03-19T02:20Z
+5,cpe:2.3:a:atomic-option_project:atomic-option:0.0.2:*:*:*:*:rust:*:*,atomic-option Project atomic-option 0.0.2 for Rust,['CVE-2020-36219'],2022-03-19T02:20Z
+6,cpe:2.3:a:atomic-option_project:atomic-option:0.0.3:*:*:*:*:rust:*:*,atomic-option Project atomic-option 0.0.3 for Rust,['CVE-2020-36219'],2022-03-19T02:21Z
+7,cpe:2.3:a:atomic-option_project:atomic-option:0.0.4:*:*:*:*:rust:*:*,atomic-option Project atomic-option 0.0.4 for Rust,['CVE-2020-36219'],2022-03-19T02:21Z
+8,cpe:2.3:a:atomic-option_project:atomic-option:0.1.0:*:*:*:*:rust:*:*,atomic-option Project atomic-option 0.1.0 for Rust,['CVE-2020-36219'],2022-03-19T02:21Z
+9,cpe:2.3:a:atomic-option_project:atomic-option:0.1.1:*:*:*:*:rust:*:*,atomic-option Project atomic-option 0.1.1 for Rust,['CVE-2020-36219'],2022-03-19T02:21Z

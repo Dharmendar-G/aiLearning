@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:unified_computing_system:2.1_2a:*:*:*:*:*:*:*,Cisco Unified Computing System (Management Software) 2.1 2a,"['CVE-2014-8003', 'CVE-2015-0718', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+1,cpe:2.3:a:cisco:unified_computing_system:2.1_2c:*:*:*:*:*:*:*,Cisco Unified Computing System (Management Software) 2.1 2c,"['CVE-2014-8003', 'CVE-2015-0718', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+2,cpe:2.3:a:cisco:unified_computing_system:2.1_2d:*:*:*:*:*:*:*,Cisco Unified Computing System (Management Software) 2.1 2d,"['CVE-2014-8003', 'CVE-2015-0718', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+3,cpe:2.3:a:cisco:unified_computing_system:2.1_3a:*:*:*:*:*:*:*,Cisco Unified Computing System (Management Software) 2.1 3a,"['CVE-2014-8003', 'CVE-2015-0718', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+4,cpe:2.3:a:cisco:unified_computing_system:2.1_3b:*:*:*:*:*:*:*,Cisco Unified Computing System (Management Software) 2.1 3b,"['CVE-2014-8003', 'CVE-2015-0718', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+5,cpe:2.3:a:cisco:unified_computing_system:2.1_3c:*:*:*:*:*:*:*,Cisco Unified Computing System (Management Software) 2.1 3c,"['CVE-2014-8003', 'CVE-2015-0718', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+6,cpe:2.3:a:cisco:unified_computing_system:2.1_3d:*:*:*:*:*:*:*,Cisco Unified Computing System (Management Software) 2.1 3d,"['CVE-2014-8003', 'CVE-2015-0718', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+7,cpe:2.3:a:cisco:unified_computing_system:2.1_3e:*:*:*:*:*:*:*,Cisco Unified Computing System (Management Software) 2.1 3e,"['CVE-2014-8003', 'CVE-2015-0718', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+8,cpe:2.3:a:cisco:unified_computing_system:2.1_3f:*:*:*:*:*:*:*,Cisco Unified Computing System (Management Software) 2.1 3f,"['CVE-2014-8003', 'CVE-2015-0718', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z
+9,cpe:2.3:a:cisco:unified_computing_system:2.1_base:*:*:*:*:*:*:*,Cisco Unified Computing System 2.1 Base,"['CVE-2014-8003', 'CVE-2015-6435', 'CVE-2019-1725', 'CVE-2021-1368', 'CVE-2021-34736']",2022-03-20T00:48Z

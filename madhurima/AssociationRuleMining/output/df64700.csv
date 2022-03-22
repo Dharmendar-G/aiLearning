@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:avaya:session_border_controller_for_enterprise_firmware:6.2:*:*:*:*:*:*:*,Avaya Session Border Controller For Enterprise Firmware 6.2,['CVE-2016-5285'],2022-03-19T04:19Z
+1,cpe:2.3:o:avaya:session_border_controller_for_enterprise_firmware:6.3:*:*:*:*:*:*:*,Avaya Session Border Controller For Enterprise Firmware 6.3,['CVE-2016-5285'],2022-03-19T04:19Z
+2,cpe:2.3:o:avaya:session_border_controller_for_enterprise_firmware:7.0:*:*:*:*:*:*:*,Avaya Session Border Controller For Enterprise Firmware 7.0,['CVE-2016-5285'],2022-03-19T04:19Z
+3,cpe:2.3:o:avaya:session_border_controller_for_enterprise_firmware:7.1:*:*:*:*:*:*:*,Avaya Session Border Controller For Enterprise Firmware 7.1,['CVE-2016-5285'],2022-03-19T04:19Z
+4,cpe:2.3:h:avaya:sg200:-:*:*:*:*:*:*:*,Avaya SG200,[''],2022-03-19T04:19Z
+5,cpe:2.3:h:avaya:sg200:4.4:*:*:*:*:*:*:*,Avaya SG200 4.4,"['CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112']",2022-03-19T04:19Z
+6,cpe:2.3:h:avaya:sg203:-:*:*:*:*:*:*:*,Avaya SG203,[''],2022-03-19T04:19Z
+7,cpe:2.3:h:avaya:sg203:4.4:*:*:*:*:*:*:*,Avaya SG203 4.4,"['CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112']",2022-03-19T04:19Z
+8,cpe:2.3:h:avaya:sg208:-:*:*:*:*:*:*:*,Avaya SG208,"['CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112']",2022-03-19T04:19Z
+9,cpe:2.3:h:avaya:sg208:4.4:*:*:*:*:*:*:*,Avaya SG208 4.4,"['CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112']",2022-03-19T04:19Z

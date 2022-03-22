@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:cuetour:45.4.157.0:*:*:*:*:*:*:*,HP Cuetour 45.4.157.0,[''],2022-03-21T13:08Z
+1,cpe:2.3:a:hp:cuetour:53.0.13.0:*:*:*:*:*:*:*,HP Cuetour 53.0.13.0,[''],2022-03-21T13:08Z
+2,cpe:2.3:a:hp:cuetour:70.0.170.0:*:*:*:*:*:*:*,HP Cuetour 70.0.170.0,[''],2022-03-21T13:08Z
+3,cpe:2.3:a:hp:customer_participation_program:7.0:*:*:*:*:*:*:*,HP Customer Participation Program 7.0,[''],2022-03-21T13:08Z
+4,cpe:2.3:a:hp:customer_participation_program:8.0:*:*:*:*:*:*:*,HP Customer Participation Program 8.0,[''],2022-03-21T13:08Z
+5,cpe:2.3:a:hp:customer_participation_program:9.0:*:*:*:*:*:*:*,HP Customer Participation Program 9.0,[''],2022-03-21T13:08Z
+6,cpe:2.3:a:hp:customer_participation_program:10.0:*:*:*:*:*:*:*,HP Customer Participation Program 10.0,[''],2022-03-21T13:08Z
+7,cpe:2.3:a:hp:customer_participation_program:12.0:*:*:*:*:*:*:*,HP Customer Participation Program 12.0,[''],2022-03-21T13:08Z
+8,cpe:2.3:a:hp:customer_participation_program:14.0:*:*:*:*:*:*:*,HP Customer Participation Program 14.0,[''],2022-03-21T13:08Z
+9,cpe:2.3:h:hp:cv037a:-:*:*:*:*:*:*:*,HP CV037A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:08Z

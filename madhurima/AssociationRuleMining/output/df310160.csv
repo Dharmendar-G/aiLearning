@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:helpsystems:cobalt_strike:4.2:*:*:*:*:*:*:*,Helpsystems Cobalt Strike 4.2,"['CVE-2021-36798', 'CVE-2022-23317']",2022-03-21T10:44Z
+1,cpe:2.3:a:helpsystems:cobalt_strike:4.3:*:*:*:*:*:*:*,Helpsystems Cobalt Strike 4.3,"['CVE-2021-36798', 'CVE-2022-23317']",2022-03-21T10:44Z
+2,cpe:2.3:a:helpsystems:cobalt_strike:4.4:*:*:*:*:*:*:*,HelpSystems Cobalt Strike 4.4,['CVE-2022-23317'],2022-03-21T10:44Z
+3,cpe:2.3:a:helpu:helpu:2020.6.27.1:*:*:*:*:*:*:*,HelpU HelpU 2020.6.27.1,['CVE-2020-7868'],2022-03-21T10:44Z
+4,cpe:2.3:a:helpu:helpuftclient:3.0.0.0:*:*:*:*:windows:*:*,helpU HelpuFTClient 3.0.0.0 for Windows,['CVE-2020-7862'],2022-03-21T10:44Z
+5,cpe:2.3:a:helpu:helpuftclient:2020.11.20.0:*:*:*:*:windows:*:*,helpU HelpuFTClient 2020.11.20.0 for Windows,[''],2022-03-21T10:44Z
+6,cpe:2.3:a:helpu:helpuftserver:3.0.0.0:*:*:*:*:windows:*:*,helpU HelpuFTServer 3.0.0.0 for Windows,['CVE-2020-7862'],2022-03-21T10:44Z
+7,cpe:2.3:a:helpu:helpuftserver:2020.11.20.0:*:*:*:*:windows:*:*,helpU HelpuFTServer 2020.11.20.0 for Windows,[''],2022-03-21T10:44Z
+8,cpe:2.3:a:helpu:helpuserver:1.0.0.2:*:*:*:*:windows:*:*,helpU HelpuServer 1.0.0.2 for Windows,['CVE-2020-7862'],2022-03-21T10:44Z
+9,cpe:2.3:a:helpu:helpuserver:2020.11.20.0:*:*:*:*:windows:*:*,helpU HelpuServer 2020.11.20.0 for Windows,[''],2022-03-21T10:44Z

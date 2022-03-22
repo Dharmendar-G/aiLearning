@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bmc:remedy_action_request_system:9.1.02.003:*:*:*:*:*:*:*,BMC Remedy Action Request System 9.1.02.003,"['CVE-2017-18223', 'CVE-2018-18862']",2022-03-19T09:10Z
+1,cpe:2.3:a:bmc:remedy_action_request_system:9.1.02.004:*:*:*:*:*:*:*,BMC Remedy Action Request System 9.1.02.004,['CVE-2017-18223'],2022-03-19T09:10Z
+2,cpe:2.3:a:bmc:remedy_action_request_system:9.1.03:sp3:*:*:*:*:*:*,BMC Remedy Action Request System 9.1.03 Service Pack 3,[''],2022-03-19T09:10Z
+3,cpe:2.3:a:bmc:remedy_action_request_system:9.1.03.001:*:*:*:*:*:*:*,BMC Remedy Action Request System 9.1.03.001,[''],2022-03-19T09:10Z
+4,cpe:2.3:a:bmc:remedy_action_request_system:9.1.04:*:*:*:*:*:*:*,BMC Remedy Action Request System 9.1.04,[''],2022-03-19T09:10Z
+5,cpe:2.3:a:bmc:remedy_action_request_system:9.1.04.001:*:*:*:*:*:*:*,BMC Remedy Action Request System 9.1.04.001,[''],2022-03-19T09:10Z
+6,cpe:2.3:a:bmc:remedy_action_request_system:9.1.04.002:*:*:*:*:*:*:*,BMC Remedy Action Request System 9.1.04.002,[''],2022-03-19T09:10Z
+7,cpe:2.3:a:bmc:remedy_action_request_system_administrator:6.3:*:*:*:*:*:*:*,Bmc Remedy Action Request System Administrator 6.3,[''],2022-03-19T09:10Z
+8,cpe:2.3:a:bmc:remedy_action_request_system_administrator:7.1:*:*:*:*:*:*:*,Bmc Remedy Action Request System Administrator 7.1,[''],2022-03-19T09:10Z
+9,cpe:2.3:a:bmc:remedy_action_request_system_alert:7.1:*:*:*:*:*:*:*,Bmc Remedy Action Request System Alert 7.1,[''],2022-03-19T09:10Z

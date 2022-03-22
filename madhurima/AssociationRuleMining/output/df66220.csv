@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:axis:companion_dome_wv_firmware:8.20.1:*:*:*:*:*:*:*,Axis Companion Dome Wv Firmware 8.20.1,[''],2022-03-19T04:49Z
+1,cpe:2.3:o:axis:companion_eye_l_firmware:8.20.1:*:*:*:*:*:*:*,Axis Companion Eye L Firmware 8.20.1,[''],2022-03-19T04:49Z
+2,cpe:2.3:o:axis:companion_eye_lve_firmware:8.20.1:*:*:*:*:*:*:*,Axis Companion Eye Lve Firmware 8.20.1,[''],2022-03-19T04:49Z
+3,cpe:2.3:o:axis:companion_recorder_4ch_firmware:1.20.1:*:*:*:*:*:*:*,Axis Companion Recorder 4ch Firmware 1.20.1,[''],2022-03-19T04:49Z
+4,cpe:2.3:o:axis:companion_recorder_8ch_firmware:1.20.1:*:*:*:*:*:*:*,Axis Companion Recorder 8ch Firmware 1.20.1,[''],2022-03-19T04:49Z
+5,cpe:2.3:o:axis:d201-s_xpt_q6055_firmware:6.50.2.3:*:*:*:*:*:*:*,Axis Communications D201-S XPT Q6055 Firmware 6.50.2.3,[''],2022-03-19T04:49Z
+6,cpe:2.3:o:axis:d2050-ve_firmware:7.35.4.2:*:*:*:*:*:*:*,Axis Communications D2050-VE Firmware 7.35.4.2,[''],2022-03-19T04:49Z
+7,cpe:2.3:a:axis:device_manager:2.07.037:*:*:*:*:*:*:*,AXIS Device Manager 2.07.037,[''],2022-03-19T04:49Z
+8,cpe:2.3:a:axis:device_manager:5.00.010:*:*:*:*:*:*:*,AXIS Device Manager 5.00.010,['CVE-2021-31989'],2022-03-19T04:49Z
+9,cpe:2.3:a:axis:device_manager:5.01.005:*:*:*:*:*:*:*,AXIS Device Manager 5.01.005,['CVE-2021-31989'],2022-03-19T04:49Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:security_access_manager_for_web_appliance:7.0.0.27:*:*:*:*:*:*:*,IBM Security Access Manager for Web Appliance 7.0.0.27,['CVE-2017-1489'],2022-03-21T21:58Z
+1,cpe:2.3:a:ibm:security_access_manager_for_web_appliance:7.0.0.28:*:*:*:*:*:*:*,IBM Security Access Manager for Web Appliance 7.0.0.28,['CVE-2017-1489'],2022-03-21T21:58Z
+2,cpe:2.3:a:ibm:security_access_manager_for_web_appliance:7.0.0.29:*:*:*:*:*:*:*,IBM Security Access Manager for Web Appliance 7.0.0.29,['CVE-2017-1489'],2022-03-21T21:58Z
+3,cpe:2.3:a:ibm:security_access_manager_for_web_appliance:7.0.0.30:*:*:*:*:*:*:*,IBM Security Access Manager for Web Appliance 7.0.0.30,['CVE-2017-1489'],2022-03-21T21:58Z
+4,cpe:2.3:h:ibm:security_access_manager_for_web_appliance:8.0:*:*:*:*:*:*:*,IBM Security Access Manager (ISAM) for Web appliance 8.0,"['CVE-2014-0963', 'CVE-2014-3052', 'CVE-2014-3053', 'CVE-2014-3073', 'CVE-2014-4809', 'CVE-2014-4823', 'CVE-2014-6079', 'CVE-2015-5013', 'CVE-2016-2908', 'CVE-2016-3016', 'CVE-2016-3017', 'CVE-2016-3020', 'CVE-2016-3021', 'CVE-2016-3022', 'CVE-2016-3023', 'CVE-2016-3024', 'CVE-2016-3027', 'CVE-2016-3029', 'CVE-2016-3043', 'CVE-2016-3046', 'CVE-2016-5919', 'CVE-2017-1459']",2022-03-21T21:58Z
+5,cpe:2.3:o:ibm:security_access_manager_for_web_firmware:8.0.0:*:*:*:*:*:*:*,IBM Security Access Manager For Web Firmware 8.0.0,"['CVE-2017-1473', 'CVE-2017-1534']",2022-03-21T21:58Z
+6,cpe:2.3:o:ibm:security_access_manager_for_web_firmware:8.0.0.4:*:*:*:*:*:*:*,IBM Security Access Manager For Web Firmware 8.0.0.4,"['CVE-2017-1473', 'CVE-2017-1534']",2022-03-21T21:58Z
+7,cpe:2.3:o:ibm:security_access_manager_for_web_firmware:8.0.1.5:*:*:*:*:*:*:*,IBM Security Access Manager For Web Firmware 8.0.1.5,"['CVE-2017-1473', 'CVE-2017-1534']",2022-03-21T21:58Z
+8,cpe:2.3:o:ibm:security_access_manager_for_web_firmware:8.0.1.6:*:*:*:*:*:*:*,IBM Security Access Manager For Web Firmware 8.0.1.6,"['CVE-2017-1473', 'CVE-2017-1534']",2022-03-21T21:58Z
+9,cpe:2.3:a:ibm:security_access_manager_for_web_software:7.0:*:*:*:*:*:*:*,IBM Security Access Manager (ISAM) for Web software 7.0,"['CVE-2014-0963', 'CVE-2014-3053', 'CVE-2014-3073', 'CVE-2017-1489']",2022-03-21T21:58Z

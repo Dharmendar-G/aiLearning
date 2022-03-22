@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:digium:certified_asterisk:1.4.0:*:*:*:*:*:*:*,Digium Certified Asterisk 1.4.0,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:40Z
+1,cpe:2.3:a:digium:certified_asterisk:1.4.1:*:*:*:*:*:*:*,Digium Certified Asterisk 1.4.1,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:40Z
+2,cpe:2.3:a:digium:certified_asterisk:1.4.2:*:*:*:*:*:*:*,Digium Certified Asterisk 1.4.2,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:40Z
+3,cpe:2.3:a:digium:certified_asterisk:1.4.3:*:*:*:*:*:*:*,Digium Certified Asterisk 1.4.3,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:40Z
+4,cpe:2.3:a:digium:certified_asterisk:1.4.4:*:*:*:*:*:*:*,Digium Certified Asterisk 1.4.4,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:40Z
+5,cpe:2.3:a:digium:certified_asterisk:1.4.5:*:*:*:*:*:*:*,Digium Certified Asterisk 1.4.5,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:40Z
+6,cpe:2.3:a:digium:certified_asterisk:1.4.6:*:*:*:*:*:*:*,Digium Certified Asterisk 1.4.6,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:40Z
+7,cpe:2.3:a:digium:certified_asterisk:1.4.7:*:*:*:*:*:*:*,Digium Certified Asterisk 1.4.7,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:40Z
+8,cpe:2.3:a:digium:certified_asterisk:1.4.7.1:*:*:*:*:*:*:*,Digium Certified Asterisk 1.4.7.1,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:40Z
+9,cpe:2.3:a:digium:certified_asterisk:1.4.8:*:*:*:*:*:*:*,Digium Certified Asterisk 1.4.8,"['CVE-2017-17090', 'CVE-2017-17664', 'CVE-2017-7617', 'CVE-2018-7284', 'CVE-2018-7286']",2022-03-20T14:40Z

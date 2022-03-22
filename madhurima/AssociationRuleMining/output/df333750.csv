@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:ese620x_vess:-:*:*:*:*:*:*:*,Huawei eSE620X vESS,"['CVE-2021-22361', 'CVE-2021-22365', 'CVE-2021-22366', 'CVE-2021-22383', 'CVE-2021-22396', 'CVE-2021-39995']",2022-03-21T17:39Z
+1,cpe:2.3:o:huawei:ese620x_vess_firmware:v100r001c10spc200:*:*:*:*:*:*:*,Huawei eSE620X vESS Firmware V100R001C10SPC200,"['CVE-2021-22361', 'CVE-2021-22365', 'CVE-2021-22366', 'CVE-2021-22383', 'CVE-2021-22396', 'CVE-2021-39995']",2022-03-21T17:39Z
+2,cpe:2.3:o:huawei:ese620x_vess_firmware:v100r001c20spc200:*:*:*:*:*:*:*,Huawei eSE620X vESS Firmware V100R001C20SPC200,"['CVE-2021-22361', 'CVE-2021-22365', 'CVE-2021-22366', 'CVE-2021-22383', 'CVE-2021-22396', 'CVE-2021-39995']",2022-03-21T17:39Z
+3,cpe:2.3:o:huawei:ese620x_vess_firmware:v200r001c00spc300:*:*:*:*:*:*:*,Huawei eSE620X vESS Firmware V200R001C00SPC300,"['CVE-2021-22365', 'CVE-2021-22366', 'CVE-2021-22383', 'CVE-2021-39995']",2022-03-21T17:39Z
+4,cpe:2.3:a:huawei:esight:v300r002c00:*:*:*:*:*:*:*,Huawei eSight V300R002C00,['CVE-2016-8280'],2022-03-21T17:39Z
+5,cpe:2.3:a:huawei:esight:v300r003c10:*:*:*:*:*:*:*,Huawei eSight V300R003C10,['CVE-2016-8280'],2022-03-21T17:39Z
+6,cpe:2.3:a:huawei:esight:v300r003c20:*:*:*:*:*:*:*,Huawei eSight V300R003C20,['CVE-2016-8280'],2022-03-21T17:39Z
+7,cpe:2.3:h:huawei:espace_7910:-:*:*:*:*:*:*:*,Huawei eSpace 7910,"['CVE-2015-8231', 'CVE-2017-17223']",2022-03-21T17:39Z
+8,cpe:2.3:a:huawei:espace_7910:v200r002c00spc100:*:*:*:*:*:*:*,Huawei eSpace 7910 V200R002C00SPC100,['CVE-2015-8231'],2022-03-21T17:39Z
+9,cpe:2.3:a:huawei:espace_7910:v200r002c00spc101:*:*:*:*:*:*:*,Huawei eSpace 7910 V200R002C00SPC101,['CVE-2015-8231'],2022-03-21T17:39Z

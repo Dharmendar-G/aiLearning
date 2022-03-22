@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_enterprise_700_m712xh:-:*:*:*:*:*:*:*,Hp LaserJet Enterprise 700 M712XH,['CVE-2018-5923'],2022-03-21T15:00Z
+1,cpe:2.3:o:hp:laserjet_enterprise_700_m712xh_firmware:-:*:*:*:*:*:*:*,Hp Laserjet Enterprise 700 M712xh Firmware -,['CVE-2018-5923'],2022-03-21T15:00Z
+2,cpe:2.3:o:hp:laserjet_enterprise_700_m712xh_firmware:2308974_579775:*:*:*:*:*:*:*,Hp Laserjet Enterprise 700 M712xh Firmware 2308974 579775,[''],2022-03-21T15:00Z
+3,cpe:2.3:h:hp:laserjet_enterprise_700_mfp_m775_cc522a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 700 MFP M775 CC522A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:00Z
+4,cpe:2.3:h:hp:laserjet_enterprise_700_mfp_m775_cc523a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 700 MFP M775 CC523A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:00Z
+5,cpe:2.3:h:hp:laserjet_enterprise_700_mfp_m775_cc524a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 700 MFP M775 CC524A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:00Z
+6,cpe:2.3:h:hp:laserjet_enterprise_700_mfp_m775_cf304a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 700 MFP M775 CF304A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:00Z
+7,cpe:2.3:h:hp:laserjet_enterprise_700_mfp_m775_l3u49a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 700 MFP M775 L3U49A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:00Z
+8,cpe:2.3:h:hp:laserjet_enterprise_700_mfp_m775_l3u50a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 700 MFP M775 L3U50A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:00Z
+9,cpe:2.3:h:hp:laserjet_enterprise_800_color_m855:-:*:*:*:*:*:*:*,Hp LaserJet Enterprise 800 Color M855,['CVE-2018-5923'],2022-03-21T15:00Z

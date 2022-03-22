@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:asr_5000_software:20.0.0:*:*:*:*:*:*:*,Cisco ASR 5000 Software 20.0.0,"['CVE-2016-1452', 'CVE-2017-6729']",2022-03-19T18:39Z
+1,cpe:2.3:o:cisco:asr_5000_software:20.0.0:*:*:*:*:*:*:*,Cisco Aggregation Services Router (ASR) 5000 Software 20.0.0,['CVE-2016-6455'],2022-03-19T18:39Z
+2,cpe:2.3:h:cisco:asr_5500:-:*:*:*:*:*:*:*,Cisco ASR 5500,"['CVE-2015-0711', 'CVE-2015-0712', 'CVE-2016-6455', 'CVE-2017-12217', 'CVE-2018-0115', 'CVE-2018-0117', 'CVE-2018-0122', 'CVE-2018-0217', 'CVE-2018-0224', 'CVE-2018-0273', 'CVE-2018-0369', 'CVE-2019-16026', 'CVE-2019-1869', 'CVE-2020-3244', 'CVE-2020-3500', 'CVE-2020-3601', 'CVE-2020-3602', 'CVE-2021-1145', 'CVE-2021-1353', 'CVE-2021-1539', 'CVE-2021-1540']",2022-03-19T18:39Z
+3,cpe:2.3:o:cisco:asr_5500_firmware:-:*:*:*:*:*:*:*,Cisco ASR 5500 Firmware,['CVE-2017-12217'],2022-03-19T18:39Z
+4,cpe:2.3:o:cisco:asr_5500_firmware:21.1.v0.66836:*:*:*:*:*:*:*,Cisco ASR  5500 Firmware 21.1.V0.66836,['CVE-2018-0117'],2022-03-19T18:40Z
+5,cpe:2.3:o:cisco:asr_5500_firmware:21.1.v7:*:*:*:*:*:*:*,Cisco ASR  5500 Firmware 21.1.V7,['CVE-2018-0117'],2022-03-19T18:40Z
+6,cpe:2.3:o:cisco:asr_5500_firmware:21.3.0:*:*:*:*:*:*:*,Cisco ASR 5500 Firmware 21.3.0,['CVE-2018-0117'],2022-03-19T18:40Z
+7,cpe:2.3:o:cisco:asr_5500_firmware:21.3.0.67664:*:*:*:*:*:*:*,Cisco ASR 5500 Firmware 21.3.0.67664,['CVE-2018-0217'],2022-03-19T18:40Z
+8,cpe:2.3:o:cisco:asr_5500_firmware:21.6.0:*:*:*:*:*:*:*,Cisco ASR 5500 Firmware 21.6.0,['CVE-2018-0117'],2022-03-19T18:40Z
+9,cpe:2.3:o:cisco:asr_5500_firmware:21.7.0:*:*:*:*:*:*:*,Cisco ASR 5500 Firmware 21.7.0,['CVE-2018-0217'],2022-03-19T18:40Z

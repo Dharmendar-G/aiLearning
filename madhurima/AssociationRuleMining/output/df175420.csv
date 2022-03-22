@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dbeaver:dbeaver:5.2.1:*:*:*:*:*:*:*,DBeaver 5.2.1,['CVE-2021-3836'],2022-03-20T11:12Z
+1,cpe:2.3:a:dbeaver:dbeaver:5.2.2:*:*:*:*:*:*:*,DBeaver 5.2.2,['CVE-2021-3836'],2022-03-20T11:12Z
+2,cpe:2.3:a:dbeaver:dbeaver:5.2.3:*:*:*:*:*:*:*,DBeaver 5.2.3,['CVE-2021-3836'],2022-03-20T11:12Z
+3,cpe:2.3:a:dbeaver:dbeaver:5.2.4:*:*:*:*:*:*:*,DBeaver 5.2.4,['CVE-2021-3836'],2022-03-20T11:12Z
+4,cpe:2.3:a:dbeaver:dbeaver:5.2.5:*:*:*:*:*:*:*,DBeaver 5.2.5,['CVE-2021-3836'],2022-03-20T11:12Z
+5,cpe:2.3:a:dbeaver:dbeaver:5.3.0:*:*:*:*:*:*:*,DBeaver 5.3.0,['CVE-2021-3836'],2022-03-20T11:12Z
+6,cpe:2.3:a:dbeaver:dbeaver:5.3.1:*:*:*:*:*:*:*,DBeaver 5.3.1,['CVE-2021-3836'],2022-03-20T11:12Z
+7,cpe:2.3:a:dbeaver:dbeaver:5.3.2:*:*:*:*:*:*:*,DBeaver 5.3.2,['CVE-2021-3836'],2022-03-20T11:12Z
+8,cpe:2.3:a:dbeaver:dbeaver:5.3.3:*:*:*:*:*:*:*,DBeaver 5.3.3,['CVE-2021-3836'],2022-03-20T11:12Z
+9,cpe:2.3:a:dbeaver:dbeaver:5.3.4:*:*:*:*:*:*:*,DBeaver 5.3.4,['CVE-2021-3836'],2022-03-20T11:12Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:asr_5000_firmware:21.1.v7:*:*:*:*:*:*:*,Cisco Aggregation Services Router (ASR) 5000 Firmware 21.1.v7,['CVE-2018-0117'],2022-03-19T18:37Z
+1,cpe:2.3:o:cisco:asr_5000_firmware:21.3.0:*:*:*:*:*:*:*,Cisco Aggregation Services Router (ASR)  5000 Firmware 21.3.0,['CVE-2018-0117'],2022-03-19T18:38Z
+2,cpe:2.3:o:cisco:asr_5000_firmware:21.3.0.67664:*:*:*:*:*:*:*,Cisco Aggregation Services Router (ASR) 5000 Firmware 21.3.0.67664,['CVE-2018-0217'],2022-03-19T18:38Z
+3,cpe:2.3:o:cisco:asr_5000_firmware:21.6.0:*:*:*:*:*:*:*,Cisco Aggregation Services Router (ASR)  5000 Firmware 21.6.0,['CVE-2018-0117'],2022-03-19T18:38Z
+4,cpe:2.3:o:cisco:asr_5000_firmware:21.7.0:*:*:*:*:*:*:*,Cisco Aggregation Services Router (ASR) 5000 Firmware 21.7.0,['CVE-2018-0217'],2022-03-19T18:38Z
+5,cpe:2.3:a:cisco:asr_5000_series:16.4.1:*:*:*:*:*:*:*,Cisco ASR 5000 Series 16.4.1,[''],2022-03-19T18:38Z
+6,cpe:2.3:a:cisco:asr_5000_series:16.5.0:*:*:*:*:*:*:*,Cisco ASR 5000 Series 16.5.0,[''],2022-03-19T18:38Z
+7,cpe:2.3:a:cisco:asr_5000_series:16.5.2:*:*:*:*:*:*:*,Cisco ASR 5000 Series 16.5.2,[''],2022-03-19T18:38Z
+8,cpe:2.3:a:cisco:asr_5000_series:17.2.0:*:*:*:*:*:*:*,Cisco ASR 5000 Series 17.2.0,[''],2022-03-19T18:38Z
+9,cpe:2.3:a:cisco:asr_5000_series:17.2.0.59184:*:*:*:*:*:*:*,Cisco ASR 5000 Series 17.2.0.59184,[''],2022-03-19T18:38Z

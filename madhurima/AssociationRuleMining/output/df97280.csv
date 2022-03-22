@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:businessobjects:crystal_enterprise_xi:-:*:*:*:*:*:*:*,businessobjects Crystal Enterprise XI,['CVE-2005-4813'],2022-03-19T13:43Z
+1,cpe:2.3:a:businessobjects:crystal_enterprise_xi:3.1:*:*:*:*:*:*:*,Businessobjects Crystal Enterprise Xi 3.1,['CVE-2005-4813'],2022-03-19T13:43Z
+2,cpe:2.3:a:businessobjects:crystal_enterprise_xi:3.1:fp1.8:*:*:*:*:*:*,Businessobjects Crystal Enterprise Xi Fp1.8 3.1,['CVE-2005-4813'],2022-03-19T13:43Z
+3,cpe:2.3:a:businessobjects:crystal_enterprise_xi:11.5.8.8265:release_2:*:*:*:*:*:*,Businessobjects Crystal Enterprise Xi Release 2 11.5.8.8265,['CVE-2005-4813'],2022-03-19T13:43Z
+4,cpe:2.3:a:businessobjects:crystal_enterprise_xi_client_tools:3.1:*:*:*:*:*:*:*,Businessobjects Crystal Enterprise Xi Client Tools 3.1,[''],2022-03-19T13:43Z
+5,cpe:2.3:a:businessobjects:crystal_reports:-:*:*:*:*:*:*:*,businessobjects Crystal Reports,['CVE-2001-1464'],2022-03-19T13:43Z
+6,cpe:2.3:a:businessobjects:crystal_reports:7.0:*:*:*:*:*:*:*,Businessobjects Crystal Reports 7.0,['CVE-2001-1464'],2022-03-19T13:43Z
+7,cpe:2.3:a:businessobjects:crystal_reports:8.5.0.2176:*:*:*:*:*:*:*,Businessobjects Crystal Reports 8.5.0.2176,['CVE-2001-1464'],2022-03-19T13:43Z
+8,cpe:2.3:a:businessobjects:crystal_reports:9:*:*:*:*:*:*:*,businessobjects Crystal Reports 9.0,"['CVE-2001-1464', 'CVE-2004-0204', 'CVE-2004-1981']",2022-03-19T13:43Z
+9,cpe:2.3:a:businessobjects:crystal_reports:10:*:*:*:*:*:*:*,businessobjects Crystal Reports 10.0,"['CVE-2001-1464', 'CVE-2004-0204', 'CVE-2004-1981']",2022-03-19T13:43Z

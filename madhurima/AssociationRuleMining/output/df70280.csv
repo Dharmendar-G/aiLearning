@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bandoo:savevid_plug-in:2.0.0.107556:*:*:*:*:*:*:*,Bandoo Savevid Plug-in 2.0.0.107556,[''],2022-03-19T06:10Z
+1,cpe:2.3:a:bandoo:windows_savevid_toolbar:2.5.0.103268:*:*:*:*:*:*:*,Bandoo Windows Savevid Toolbar 2.5.0.103268,[''],2022-03-19T06:10Z
+2,cpe:2.3:a:bandoo:windows_searchqu_toolbar:3.0.0.112202:*:*:*:*:*:*:*,Bandoo Windows Searchqu Toolbar 3.0.0.112202,[''],2022-03-19T06:10Z
+3,cpe:2.3:a:bankcoin_project:bankcoin:-:*:*:*:*:*:*:*,bankcoin Project bankcoin,['CVE-2018-13159'],2022-03-19T06:10Z
+4,cpe:2.3:a:banking_system_project:banking_system:1.0:*:*:*:*:*:*:*,Banking System Project Banking System 1.0,['CVE-2021-41659'],2022-03-19T06:10Z
+5,cpe:2.3:a:banner_effect_header_project:banner_effect_header:1.2.6:*:*:*:*:wordpress:*:*,Banner Effect Header project Banner Effect Header for WordPress 1.2.6,"['CVE-2015-0920', 'CVE-2015-1384']",2022-03-19T06:10Z
+6,cpe:2.3:a:banner_effect_header_project:banner_effect_header:1.2.7:*:*:*:*:wordpress:*:*,Banner Effect Header project Banner Effect Header for WordPress 1.2.7,['CVE-2015-1384'],2022-03-19T06:10Z
+7,cpe:2.3:a:bannersky:bsk_pdf_manager:1.0:*:*:*:*:wordpress:*:*,BannerSky BSK PDF Manager plugin for WordPress 1.0,['CVE-2021-24860'],2022-03-19T06:10Z
+8,cpe:2.3:a:bannersky:bsk_pdf_manager:1.1:*:*:*:*:wordpress:*:*,BannerSky BSK PDF Manager plugin for WordPress 1.1,['CVE-2021-24860'],2022-03-19T06:10Z
+9,cpe:2.3:a:bannersky:bsk_pdf_manager:1.2:*:*:*:*:wordpress:*:*,BannerSky BSK PDF Manager plugin for WordPress 1.2,['CVE-2021-24860'],2022-03-19T06:10Z

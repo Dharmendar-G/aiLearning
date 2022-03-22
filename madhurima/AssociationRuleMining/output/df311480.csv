@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:highcharts:highcharts:9.0.1:*:*:*:*:*:*:*,Highcharts 9.0.1,[''],2022-03-21T11:04Z
+1,cpe:2.3:a:highcharts:highcharts:9.1.0:*:*:*:*:*:*:*,Highcharts 9.1.0,[''],2022-03-21T11:04Z
+2,cpe:2.3:a:highlighterstudio:vineyard_all_in:0.1:*:*:*:*:android:*:*,highlighterstudio Vineyard All In (aka com.wVineyardAllIn) for android 0.1,['CVE-2014-7488'],2022-03-21T11:04Z
+3,cpe:2.3:a:highlightjs:highlight.js:5.3:*:*:*:*:node.js:*:*,highlight.js 5.3 for Node.js,['CVE-2020-26237'],2022-03-21T11:04Z
+4,cpe:2.3:a:highlightjs:highlight.js:5.4:*:*:*:*:node.js:*:*,highlight.js 5.4 for Node.js,['CVE-2020-26237'],2022-03-21T11:04Z
+5,cpe:2.3:a:highlightjs:highlight.js:5.5:*:*:*:*:node.js:*:*,highlight.js 5.5 for Node.js,['CVE-2020-26237'],2022-03-21T11:04Z
+6,cpe:2.3:a:highlightjs:highlight.js:5.6:*:*:*:*:node.js:*:*,highlight.js 5.6 for Node.js,['CVE-2020-26237'],2022-03-21T11:04Z
+7,cpe:2.3:a:highlightjs:highlight.js:5.7:*:*:*:*:node.js:*:*,highlight.js 5.7 for Node.js,['CVE-2020-26237'],2022-03-21T11:04Z
+8,cpe:2.3:a:highlightjs:highlight.js:5.8:*:*:*:*:node.js:*:*,highlight.js 5.8 for Node.js,['CVE-2020-26237'],2022-03-21T11:04Z
+9,cpe:2.3:a:highlightjs:highlight.js:5.9:*:*:*:*:node.js:*:*,highlight.js 5.9 for Node.js,['CVE-2020-26237'],2022-03-21T11:04Z

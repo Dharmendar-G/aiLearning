@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:confluence_server:7.12.2:*:*:*:*:*:*:*,Atlassian Confluence Server 7.12.2,"['CVE-2021-26084', 'CVE-2021-43940']",2022-03-19T00:41Z
+1,cpe:2.3:a:atlassian:confluence_server:7.12.3:*:*:*:*:*:*:*,Atlassian Confluence Server 7.12.3,['CVE-2021-26084'],2022-03-19T00:41Z
+2,cpe:2.3:a:atlassian:confluence_server:7.12.4:*:*:*:*:*:*:*,Atlassian Confluence Server 7.12.4,['CVE-2021-26084'],2022-03-19T00:41Z
+3,cpe:2.3:a:atlassian:confluence_server:7.12.5:*:*:*:*:*:*:*,Atlassian Confluence Server 7.12.5,[''],2022-03-19T00:41Z
+4,cpe:2.3:a:atlassian:connect_express:0.6.0:*:*:*:*:node.js:*:*,Atlassian Connect Express 0.6.0 for Node.js,[''],2022-03-19T00:41Z
+5,cpe:2.3:a:atlassian:connect_express:0.6.1:*:*:*:*:node.js:*:*,Atlassian Connect Express 0.6.1 for Node.js,[''],2022-03-19T00:41Z
+6,cpe:2.3:a:atlassian:connect_express:0.6.2:*:*:*:*:node.js:*:*,Atlassian Connect Express 0.6.2 for Node.js,[''],2022-03-19T00:41Z
+7,cpe:2.3:a:atlassian:connect_express:0.7.0:*:*:*:*:node.js:*:*,Atlassian Connect Express 0.7.0 for Node.js,[''],2022-03-19T00:41Z
+8,cpe:2.3:a:atlassian:connect_express:0.7.1:*:*:*:*:node.js:*:*,Atlassian Connect Express 0.7.1 for Node.js,[''],2022-03-19T00:41Z
+9,cpe:2.3:a:atlassian:connect_express:0.8.0:*:*:*:*:node.js:*:*,Atlassian Connect Express 0.8.0 for Node.js,[''],2022-03-19T00:41Z

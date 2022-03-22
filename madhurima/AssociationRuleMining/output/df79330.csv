@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitpie:bitcoin_wallet:4.3.7:*:*:*:*:iphone_os:*:*,Bitpie Bitcoin Wallet 4.3.7 for iPhone OS,[''],2022-03-19T08:28Z
+1,cpe:2.3:a:bitrix:bitrix24:20.0.950:*:*:*:*:*:*:*,Bitrix24 20.0.950,['CVE-2020-13758'],2022-03-19T08:28Z
+2,cpe:2.3:a:bitrix:mpbuilder:1.0.11:*:*:*:*:bitrix:*:*,Bitrix Mpbuilder 1.0.11 for Bitrix,['CVE-2015-8358'],2022-03-19T08:28Z
+3,cpe:2.3:a:bitrix:xscan:1.0.3:*:*:*:*:bitrix:*:*,Bitrix Xscan 1.0.3 for Bitrix,['CVE-2015-8357'],2022-03-19T08:28Z
+4,cpe:2.3:a:bitrix_project:bitrix:6.5.2:*:*:*:*:*:*:*,Bitrix Project Bitrix 6.5.2,['CVE-2015-8356'],2022-03-19T08:28Z
+5,cpe:2.3:a:bitrix24:bitrix_framework:20.0:*:*:*:*:*:*:*,Bitrix24 Bitrix Framework 20.0,['CVE-2020-28206'],2022-03-19T08:28Z
+6,cpe:2.3:a:bitrix24:bitrix24:-:*:*:*:*:*:*:*,Bitrix24,"['CVE-2020-13483', 'CVE-2020-13484']",2022-03-19T08:28Z
+7,cpe:2.3:a:bitrix24:bitrix24:20.0.0:*:*:*:*:*:*:*,Bitrix24 20.0.0,"['CVE-2020-13483', 'CVE-2020-13484']",2022-03-19T08:28Z
+8,cpe:2.3:a:bitrix24:bitrix24:20.0.975:*:*:*:*:*:*:*,Bitrix24 20.0.975,['CVE-2020-13484'],2022-03-19T08:28Z
+9,cpe:2.3:a:bitrock:bitrock_installbuilder_enterprise:7.0.2:*:*:*:*:*:*:*,Bitrock Installbuilder Enterprise 7.0.2,[''],2022-03-19T08:28Z

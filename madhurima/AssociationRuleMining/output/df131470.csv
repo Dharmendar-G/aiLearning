@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:nx-os_1000v_switch:4.0\(4\)sv1\(3d\):*:*:*:*:vmware_vsphere:*:*,Cisco NX-OS Software Cisco Nexus 1000V Switch for VMware vSphere 4.0(4)SV1(3d),[''],2022-03-19T23:35Z
+1,cpe:2.3:a:cisco:nx-os_for_nexus_5500_platform_switches:7.3\(1\)n1\(1\):*:*:*:*:*:*:*,Cisco NX-OS For Nexus 5500 Platform Switches 7.3(1)N1(1),"['CVE-2017-6655', 'CVE-2017-6770']",2022-03-19T23:35Z
+2,cpe:2.3:a:cisco:nx-os_for_nexus_5500_platform_switches:base:*:*:*:*:*:*:*,Cisco NX-OS For Nexus 5500 Platform Switches Base,['CVE-2017-6770'],2022-03-19T23:35Z
+3,cpe:2.3:a:cisco:nx-os_for_nexus_5600_platform_switches:7.3\(1\)n1\(1\):*:*:*:*:*:*:*,Cisco NX-OS For Nexus 5600 Platform Switches 7.3(1)N1(1),"['CVE-2017-6655', 'CVE-2017-6770']",2022-03-19T23:35Z
+4,cpe:2.3:a:cisco:nx-os_for_nexus_5600_platform_switches:base:*:*:*:*:*:*:*,Cisco NX-OS For Nexus 5600 Platform Switches Base,['CVE-2017-6770'],2022-03-19T23:35Z
+5,cpe:2.3:a:cisco:nx-os_for_nexus_7700_series_switches:8.0\(1\)\(ed\):*:*:*:*:*:*:*,Cisco NX-OS For Nexus 7700 Series Switches 8.0(1)(ED),"['CVE-2017-6655', 'CVE-2017-6770']",2022-03-19T23:35Z
+6,cpe:2.3:a:cisco:nx-os_for_nexus_7700_series_switches:8.1\(1\)\(ed\):*:*:*:*:*:*:*,Cisco NX-OS For Nexus 7700 Series Switches 8.1(1)(ed),['CVE-2017-6770'],2022-03-19T23:35Z
+7,cpe:2.3:a:cisco:nx-os_for_nexus_7700_series_switches:base:*:*:*:*:*:*:*,Cisco NX-OS For Nexus 7700 Series Switches Base,['CVE-2017-6770'],2022-03-19T23:35Z
+8,cpe:2.3:o:cisco:nx-ox:6.0\(2\)a7\(1\):*:*:*:*:*:*:*,Cisco NX-OS Software for Nexus 3000 Series 6.0(2)A7(1),[''],2022-03-19T23:35Z
+9,cpe:2.3:a:cisco:okena_stormwatch:-:*:*:*:*:*:*:*,Cisco Okena Stormwatch,[''],2022-03-19T23:35Z

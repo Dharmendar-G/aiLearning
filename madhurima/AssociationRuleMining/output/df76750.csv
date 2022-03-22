@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bit51:better-wp-security:-:alpha6:*:*:*:*:*:*,Bit51 Better WP Security (better-wp-security) plugin for Wordpress alpha6,"['CVE-2012-4263', 'CVE-2012-4264']",2022-03-19T07:51Z
+1,cpe:2.3:a:bit51:better-wp-security:-:alpha7:*:*:*:*:*:*,Bit51 Better WP Security (better-wp-security) plugin for Wordpress alpha7,"['CVE-2012-4263', 'CVE-2012-4264']",2022-03-19T07:51Z
+2,cpe:2.3:a:bit51:better-wp-security:-:alpha8:*:*:*:*:*:*,Bit51 Better WP Security (better-wp-security) plugin for Wordpress alpha8,"['CVE-2012-4263', 'CVE-2012-4264']",2022-03-19T07:51Z
+3,cpe:2.3:a:bit51:better-wp-security:-:alpha9:*:*:*:*:*:*,Bit51 Better WP Security (better-wp-security) plugin for Wordpress alpha9,"['CVE-2012-4263', 'CVE-2012-4264']",2022-03-19T07:51Z
+4,cpe:2.3:a:bit51:better-wp-security:0.1:alpha:*:*:*:*:*:*,Bit51 Better WP Security (better-wp-security) plugin for Wordpress 0.1 alpha,"['CVE-2012-4263', 'CVE-2012-4264']",2022-03-19T07:51Z
+5,cpe:2.3:a:bit51:better-wp-security:0.1:beta:*:*:*:*:*:*,Bit51 Better WP Security (better-wp-security) plugin for Wordpress 0.1 beta,"['CVE-2012-4263', 'CVE-2012-4264']",2022-03-19T07:51Z
+6,cpe:2.3:a:bit51:better-wp-security:0.2:beta:*:*:*:*:*:*,Bit51 Better WP Security (better-wp-security) plugin for Wordpress 0.2 beta,"['CVE-2012-4263', 'CVE-2012-4264']",2022-03-19T07:51Z
+7,cpe:2.3:a:bit51:better-wp-security:0.3:beta:*:*:*:*:*:*,Bit51 Better WP Security (better-wp-security) plugin for Wordpress 0.3 beta,"['CVE-2012-4263', 'CVE-2012-4264']",2022-03-19T07:51Z
+8,cpe:2.3:a:bit51:better-wp-security:0.4:beta:*:*:*:*:*:*,Bit51 Better WP Security (better-wp-security) plugin for Wordpress 0.4 beta,"['CVE-2012-4263', 'CVE-2012-4264']",2022-03-19T07:51Z
+9,cpe:2.3:a:bit51:better-wp-security:0.5:beta:*:*:*:*:*:*,Bit51 Better WP Security (better-wp-security) plugin for Wordpress 0.5 beta,"['CVE-2012-4263', 'CVE-2012-4264']",2022-03-19T07:51Z

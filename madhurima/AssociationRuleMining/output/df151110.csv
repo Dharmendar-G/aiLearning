@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:codeaurora:android-msm:3.12.6:*:*:*:*:*:*:*,codeaurora android-msm 3.12.6,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-4736', 'CVE-2013-6124', 'CVE-2013-6392', 'CVE-2014-0972']",2022-03-20T04:57Z
+1,cpe:2.3:o:codeaurora:android-msm:3.12.7:*:*:*:*:*:*:*,codeaurora android-msm 3.12.7,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-4736', 'CVE-2013-6124', 'CVE-2013-6392', 'CVE-2014-0972']",2022-03-20T04:57Z
+2,cpe:2.3:o:codeaurora:android-msm:3.12.8:*:*:*:*:*:*:*,codeaurora android-msm 3.12.8,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-4736', 'CVE-2013-6124', 'CVE-2013-6392', 'CVE-2014-0972']",2022-03-20T04:57Z
+3,cpe:2.3:o:codeaurora:android-msm:3.12.9:*:*:*:*:*:*:*,codeaurora android-msm 3.12.9,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-4736', 'CVE-2013-6124', 'CVE-2013-6392', 'CVE-2014-0972']",2022-03-20T04:57Z
+4,cpe:2.3:o:codeaurora:android-msm:3.12.10:*:*:*:*:*:*:*,codeaurora android-msm 3.12.10,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-4736', 'CVE-2013-6124', 'CVE-2013-6392', 'CVE-2014-0972']",2022-03-20T04:57Z
+5,cpe:2.3:o:codeaurora:android-msm:3.12.11:*:*:*:*:*:*:*,codeaurora android-msm 3.12.11,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-6124']",2022-03-20T04:57Z
+6,cpe:2.3:o:codeaurora:android-msm:3.12.12:*:*:*:*:*:*:*,codeaurora android-msm 3.12.12,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-6124']",2022-03-20T04:57Z
+7,cpe:2.3:o:codeaurora:android-msm:3.12.13:*:*:*:*:*:*:*,codeaurora android-msm 3.12.13,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-6124']",2022-03-20T04:57Z
+8,cpe:2.3:o:codeaurora:android-msm:3.12.14:*:*:*:*:*:*:*,codeaurora android-msm 3.12.14,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-6124']",2022-03-20T04:57Z
+9,cpe:2.3:o:codeaurora:android-msm:3.12.15:*:*:*:*:*:*:*,codeaurora android-msm 3.12.15,"['CVE-2013-2595', 'CVE-2013-2597', 'CVE-2013-2598', 'CVE-2013-2599', 'CVE-2013-6124']",2022-03-20T04:57Z

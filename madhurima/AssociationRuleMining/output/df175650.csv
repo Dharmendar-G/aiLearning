@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:ddrt:dashcam_live_firmware:2019-05-09:*:*:*:*:*:*:*,DDRT Dashcam Live Firmware 2019-05-09,[''],2022-03-20T11:16Z
+1,cpe:2.3:h:ddrt:dashcom_live:-:*:*:*:*:*:*:*,Ddrt Dashcom Live -,"['CVE-2019-11019', 'CVE-2019-11020']",2022-03-20T11:16Z
+2,cpe:2.3:a:ddsn:cm3_acora_content_management_system:5.5.0\/1b-p1:*:*:*:*:*:*:*,DDSN Interactive cm3 Acora CMS 5.5.0/1b-p1,"['CVE-2013-4722', 'CVE-2013-4723', 'CVE-2013-4724', 'CVE-2013-4725', 'CVE-2013-4726', 'CVE-2013-4727', 'CVE-2013-4728']",2022-03-20T11:16Z
+3,cpe:2.3:a:ddsn:cm3_acora_content_management_system:5.5.7\/12b:*:*:*:*:*:*:*,DDSN Interactive cm3 Acora CMS 5.5.7/12b,"['CVE-2013-4722', 'CVE-2013-4723', 'CVE-2013-4724', 'CVE-2013-4725', 'CVE-2013-4726', 'CVE-2013-4727', 'CVE-2013-4728']",2022-03-20T11:16Z
+4,cpe:2.3:a:ddsn:cm3_acora_content_management_system:6.0.2\/1a:*:*:*:*:*:*:*,DDSN Interactive cm3 Acora CMS 6.0.2/1a,"['CVE-2013-4722', 'CVE-2013-4723', 'CVE-2013-4724', 'CVE-2013-4725', 'CVE-2013-4726', 'CVE-2013-4727', 'CVE-2013-4728']",2022-03-20T11:16Z
+5,cpe:2.3:a:ddsn:cm3_acora_content_management_system:6.0.6\/1a:*:*:*:*:*:*:*,DDSN Interactive cm3 Acora CMS 6.0.6/1a,"['CVE-2013-4722', 'CVE-2013-4723', 'CVE-2013-4724', 'CVE-2013-4725', 'CVE-2013-4726', 'CVE-2013-4727', 'CVE-2013-4728']",2022-03-20T11:16Z
+6,cpe:2.3:o:dd-wrt:dd-wrt:-:*:*:*:*:*:*:*,DD-WRT,['CVE-2020-13976'],2022-03-20T11:16Z
+7,cpe:2.3:o:dd-wrt:dd-wrt:24:sp2:*:*:*:*:*:*,Dd-wrt Dd-wrt 24 Service Pack 2,"['CVE-2012-6297', 'CVE-2020-13976']",2022-03-20T11:16Z
+8,cpe:2.3:o:dd-wrt:dd-wrt:16214:*:*:*:*:*:*:*,DD-WRT 16214,['CVE-2020-13976'],2022-03-20T11:16Z
+9,cpe:2.3:a:deadwood_project:deadwood:2.02:*:*:*:*:*:*:*,Deadwood Project Deadwood 2.02,"['CVE-2014-2031', 'CVE-2014-2032']",2022-03-20T11:16Z

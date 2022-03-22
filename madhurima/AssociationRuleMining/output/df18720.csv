@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alfasado:powercms:4.0:-:*:*:*:*:*:*,Alfasado PowerCMS 4.0 -,"['CVE-2019-6020', 'CVE-2021-20850']",2022-03-18T14:37Z
+1,cpe:2.3:a:alfasado:powercms:4.0:beta:*:*:*:*:*:*,Alfasado PowerCMS 4.0 Beta,"['CVE-2019-6020', 'CVE-2021-20850']",2022-03-18T14:37Z
+2,cpe:2.3:a:alfasado:powercms:4.01:*:*:*:*:*:*:*,Alfasado PowerCMS 4.01,"['CVE-2019-6020', 'CVE-2021-20850']",2022-03-18T14:37Z
+3,cpe:2.3:a:alfasado:powercms:4.1:*:*:*:*:*:*:*,Alfasado PowerCMS 4.1,"['CVE-2019-6020', 'CVE-2021-20850']",2022-03-18T14:37Z
+4,cpe:2.3:a:alfasado:powercms:4.02:*:*:*:*:*:*:*,Alfasado PowerCMS 4.02,"['CVE-2019-6020', 'CVE-2021-20850']",2022-03-18T14:37Z
+5,cpe:2.3:a:alfasado:powercms:4.2:*:*:*:*:*:*:*,Alfasado PowerCMS 4.2,"['CVE-2019-6020', 'CVE-2021-20850']",2022-03-18T14:37Z
+6,cpe:2.3:a:alfasado:powercms:4.03:*:*:*:*:*:*:*,Alfasado PowerCMS 4.03,"['CVE-2019-6020', 'CVE-2021-20850']",2022-03-18T14:37Z
+7,cpe:2.3:a:alfasado:powercms:4.3:*:*:*:*:*:*:*,Alfasado PowerCMS 4.3,"['CVE-2019-6020', 'CVE-2021-20850']",2022-03-18T14:37Z
+8,cpe:2.3:a:alfasado:powercms:4.04:*:*:*:*:*:*:*,Alfasado PowerCMS 4.04,"['CVE-2019-6020', 'CVE-2021-20850']",2022-03-18T14:37Z
+9,cpe:2.3:a:alfasado:powercms:4.4:*:*:*:*:*:*:*,Alfasado PowerCMS 4.4,"['CVE-2019-6020', 'CVE-2021-20850']",2022-03-18T14:37Z

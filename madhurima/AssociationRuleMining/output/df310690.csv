@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:h-fj:mt-phpincgi:-:*:*:*:*:*:*:*,Ichi Fujimoto mt-phpincgi.php,['CVE-2015-2945'],2022-03-21T10:52Z
+1,cpe:2.3:a:hftp_project:hftp:-:*:*:*:*:node.js:*:*,hftp Project hftp for Node.js,['CVE-2017-16039'],2022-03-21T10:53Z
+2,cpe:2.3:a:hftp_project:hftp:0.0.1:*:*:*:*:node.js:*:*,hftp Project hftp 0.0.1 for Node.js,['CVE-2017-16039'],2022-03-21T10:53Z
+3,cpe:2.3:a:hftp_project:hftp:0.0.2:*:*:*:*:node.js:*:*,hftp Project hftp 0.0.2 for Node.js,['CVE-2017-16039'],2022-03-21T10:53Z
+4,cpe:2.3:a:hftp_project:hftp:0.0.3:*:*:*:*:node.js:*:*,hftp Project hftp 0.0.3 for Node.js,['CVE-2017-16039'],2022-03-21T10:53Z
+5,cpe:2.3:a:hftp_project:hftp:0.0.4:*:*:*:*:node.js:*:*,hftp Project hftp 0.0.4 for Node.js,['CVE-2017-16039'],2022-03-21T10:53Z
+6,cpe:2.3:a:hftp_project:hftp:0.0.5:*:*:*:*:node.js:*:*,hftp Project hftp 0.0.5 for Node.js,['CVE-2017-16039'],2022-03-21T10:53Z
+7,cpe:2.3:a:hftp_project:hftp:0.0.6:*:*:*:*:node.js:*:*,hftp Project hftp 0.0.6 for Node.js,['CVE-2017-16039'],2022-03-21T10:53Z
+8,cpe:2.3:a:hgiga:msr35_isherlock-base:1.5.328:*:*:*:*:*:*:*,HGiga MSR35 iSherlock-base 1.5.328,[''],2022-03-21T10:53Z
+9,cpe:2.3:a:hgiga:msr35_isherlock-sysinfo:1.5.196:*:*:*:*:*:*:*,HGiga MSR35 iSherlock-sysinfo 1.5.196,[''],2022-03-21T10:53Z

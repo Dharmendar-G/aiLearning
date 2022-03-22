@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:duraspace:dspace:6.0:rc4:*:*:*:*:*:*,Duraspace DSpace 6.0 Release Candidate 4,[''],2022-03-20T18:56Z
+1,cpe:2.3:a:duraspace:dspace:6.1:*:*:*:*:*:*:*,Duraspace DSpace 6.1,[''],2022-03-20T18:56Z
+2,cpe:2.3:a:duraspace:dspace:6.2:*:*:*:*:*:*:*,Duraspace DSpace 6.2,[''],2022-03-20T18:56Z
+3,cpe:2.3:a:duraspace:dspace:6.3:*:*:*:*:*:*:*,Duraspace DSpace 6.3,[''],2022-03-20T18:56Z
+4,cpe:2.3:a:dustincowell:free_simple_cms:1.0:*:*:*:*:*:*:*,Dustin Cowell Enterprises Free Simple CMS 1.0,"['CVE-2010-3307', 'CVE-2010-3742']",2022-03-20T18:56Z
+5,cpe:2.3:a:dutchcoders:transfer.sh:-:*:*:*:*:*:*:*,DutchCoders Transfer.sh,"['CVE-2021-33496', 'CVE-2021-33497']",2022-03-20T18:56Z
+6,cpe:2.3:a:dutchcoders:transfer.sh:1.0.0:*:*:*:*:*:*:*,DutchCoders Transfer.sh 1.0.0,"['CVE-2021-33496', 'CVE-2021-33497']",2022-03-20T18:56Z
+7,cpe:2.3:a:dutchcoders:transfer.sh:1.1.0:*:*:*:*:*:*:*,DutchCoders Transfer.sh 1.1.0,"['CVE-2021-33496', 'CVE-2021-33497']",2022-03-20T18:56Z
+8,cpe:2.3:a:dutchcoders:transfer.sh:1.1.1:*:*:*:*:*:*:*,DutchCoders Transfer.sh 1.1.1,"['CVE-2021-33496', 'CVE-2021-33497']",2022-03-20T18:56Z
+9,cpe:2.3:a:dutchcoders:transfer.sh:1.1.2:*:*:*:*:*:*:*,DutchCoders Transfer.sh 1.1.2,"['CVE-2021-33496', 'CVE-2021-33497']",2022-03-20T18:56Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:androidsvg_project:androidsvg:1.2.2:-:*:*:*:*:*:*,AndroidSVG Project AndroidSVG 1.2.2,['CVE-2017-1000498'],2022-03-18T16:30Z
+1,cpe:2.3:a:androidsvg_project:androidsvg:1.2.2:beta1:*:*:*:*:*:*,AndroidSVG Project AndroidSVG 1.2.2 Beta 1,[''],2022-03-18T16:30Z
+2,cpe:2.3:a:androidsvg_project:androidsvg:1.3:*:*:*:*:*:*:*,AndroidSVG Project AndroidSVG 1.3,[''],2022-03-18T16:30Z
+3,cpe:2.3:a:androidsvg_project:androidsvg:1.4:*:*:*:*:*:*:*,AndroidSVG Project AndroidSVG 1.4,[''],2022-03-18T16:30Z
+4,cpe:2.3:a:androkera:las_vegas_lottery_scratch_off:1.2:*:*:*:*:android:*:*,Androkera Las Vegas Lottery Scratch Off (aka com.androkera.lottery) for Android 1.2,['CVE-2014-5568'],2022-03-18T16:30Z
+5,cpe:2.3:h:androvideo:vd_1:-:*:*:*:*:*:*:*,AndroVideo VD 1,"['CVE-2019-11064', 'CVE-2019-13405', 'CVE-2019-13406', 'CVE-2019-13407', 'CVE-2019-13408']",2022-03-18T16:30Z
+6,cpe:2.3:o:androvideo:vd_1_firmware:230:*:*:*:*:*:*:*,AndroVideo VD 1 Firmware 230,"['CVE-2019-11064', 'CVE-2019-13405', 'CVE-2019-13406', 'CVE-2019-13407', 'CVE-2019-13408']",2022-03-18T16:30Z
+7,cpe:2.3:a:andsocialrew:amkamal_science_portfolio:0.1:*:*:*:*:android:*:*,andsocialrew AMKAMAL Science Portfolio (aka com.wAMKAMALSciencePortfolio) for android 0.1,['CVE-2014-7758'],2022-03-18T16:30Z
+8,cpe:2.3:a:andy_armstrong:cgi.pm:1.4:*:*:*:*:*:*:*,Andy Armstrong CGI.pm 1.4,"['CVE-2010-2761', 'CVE-2010-4410', 'CVE-2010-4411', 'CVE-2012-5526']",2022-03-18T16:30Z
+9,cpe:2.3:a:andy_armstrong:cgi.pm:1.42:*:*:*:*:*:*:*,Andy Armstrong CGI.pm 1.42,"['CVE-2010-2761', 'CVE-2010-4410', 'CVE-2010-4411', 'CVE-2012-5526']",2022-03-18T16:30Z

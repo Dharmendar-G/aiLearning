@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:delitestudio:push_notifications_for_wordpress:6.0:*:*:*:lite:wordpress:*:*,Delite Studio Push Notifications for WordPress 6.0 Lite for WordPress,['CVE-2021-20846'],2022-03-20T12:10Z
+1,cpe:2.3:a:delitestudio:push_notifications_for_wordpress:6.0.1:*:*:*:lite:wordpress:*:*,Delite Studio Push Notifications for WordPress 6.0.1 Lite for WordPress,[''],2022-03-20T12:10Z
+2,cpe:2.3:a:delitestudio:push_notifications_for_wordpress:6.0.2:*:*:*:lite:wordpress:*:*,Delite Studio Push Notifications for WordPress 6.0.2 Lite for WordPress,[''],2022-03-20T12:10Z
+3,cpe:2.3:a:delitestudio:push_notifications_for_wordpress:6.1:*:*:*:lite:wordpress:*:*,Delite Studio Push Notifications for WordPress 6.1 Lite for WordPress,[''],2022-03-20T12:10Z
+4,cpe:2.3:h:dell:2161ds_kvm:2:*:*:*:*:*:*:*,Dell KVM 2161DS_2,[''],2022-03-20T12:10Z
+5,cpe:2.3:h:dell:2335dn:-:*:*:*:*:*:*:*,Dell Multifunction Laser Printer 2335dn,"['CVE-2017-14386', 'CVE-2018-15748']",2022-03-20T12:10Z
+6,cpe:2.3:o:dell:2335dn_engine_firmware:1.10.65:*:*:*:*:*:*:*,Dell 2335dn Engine Firmware 1.10.65,['CVE-2018-15748'],2022-03-20T12:10Z
+7,cpe:2.3:o:dell:2335dn_firmware:2.70.06.26_a13:*:*:*:*:*:*:*,Dell 2335dn  Multifunction Laser Printers Firmware 2.70.06.26 A13,[''],2022-03-20T12:10Z
+8,cpe:2.3:o:dell:2335dn_network_firmware:v4.02.15\(2335dn_mfp\)_11-22-2010:*:*:*:*:*:*:*,Dell 2335dn Network Firmware V4.02.15(2335dn Mfp) 11-22-2010,['CVE-2018-15748'],2022-03-20T12:10Z
+9,cpe:2.3:o:dell:2335dn_printer_firmware:2.70.05.02:*:*:*:*:*:*:*,Dell 2335dn Printer Firmware 2.70.05.02,['CVE-2018-15748'],2022-03-20T12:10Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bmc:bladelogic_server_automation_rscd_agent:8.0.8.817:*:*:*:*:*:*:*,Bmc Bladelogic Server Automation Rscd Agent 8.0.8.817,[''],2022-03-19T09:08Z
+1,cpe:2.3:a:bmc:bladelogic_server_automation_rscd_agent:8.0.10.1014:*:*:*:*:*:*:*,Bmc Bladelogic Server Automation Rscd Agent 8.0.10.1014,[''],2022-03-19T09:08Z
+2,cpe:2.3:a:bmc:bladelogic_server_automation_rscd_agent:8.1.2.232:*:*:*:*:*:*:*,Bmc Bladelogic Server Automation Rscd Agent 8.1.2.232,[''],2022-03-19T09:09Z
+3,cpe:2.3:a:bmc:bladelogic_server_automation_rscd_agent:8.1.2.233:*:*:*:*:*:*:*,Bmc Bladelogic Server Automation Rscd Agent 8.1.2.233,[''],2022-03-19T09:08Z
+4,cpe:2.3:a:bmc:bladelogic_server_automation_rscd_agent:8.1.2.261:*:*:*:*:*:*:*,Bmc Bladelogic Server Automation Rscd Agent 8.1.2.261,[''],2022-03-19T09:09Z
+5,cpe:2.3:a:bmc:bladelogic_server_automation_rscd_agent:8.1.3.312:*:*:*:*:*:*:*,Bmc Bladelogic Server Automation Rscd Agent 8.1.3.312,[''],2022-03-19T09:09Z
+6,cpe:2.3:a:bmc:bladelogic_server_automation_rscd_agent:8.2.0.111:*:*:*:*:*:*:*,Bmc Bladelogic Server Automation Rscd Agent 8.2.0.111,[''],2022-03-19T09:09Z
+7,cpe:2.3:a:bmc:control-m\/agent:6.3.1:*:*:*:*:*:*:*,Bmc Control-m/agent 6.3.1,[''],2022-03-19T09:09Z
+8,cpe:2.3:a:bmc:control-m\/agent:6.4.1:*:*:*:*:*:*:*,Bmc Control-m/agent 6.4.1,[''],2022-03-19T09:09Z
+9,cpe:2.3:a:bmc:control-m\/enterprise_manager:6.4.1:*:*:*:*:*:*:*,Bmc Control-m/enterprise Manager 6.4.1,[''],2022-03-19T09:09Z

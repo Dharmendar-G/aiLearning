@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:auth0:passport-wsfed-saml2:3.0.12:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 3.0.12,[''],2022-03-19T03:16Z
+1,cpe:2.3:a:auth0:passport-wsfed-saml2:3.0.14:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 3.0.14,[''],2022-03-19T03:17Z
+2,cpe:2.3:a:auth0:passport-wsfed-saml2:3.0.15:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 3.0.15,[''],2022-03-19T03:17Z
+3,cpe:2.3:a:auth0:passport-wsfed-saml2:3.0.16:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 3.0.16,[''],2022-03-19T03:17Z
+4,cpe:2.3:a:auth0:passport-wsfed-saml2:3.0.17:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 3.0.17,[''],2022-03-19T03:17Z
+5,cpe:2.3:a:auth0:passport-wsfed-saml2:4.0.0:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 4.0.0,[''],2022-03-19T03:17Z
+6,cpe:2.3:a:auth0:passport-wsfed-saml2:4.0.1:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 4.0.1,[''],2022-03-19T03:17Z
+7,cpe:2.3:a:auth0:wp-auth0:3.3.0:*:*:*:*:wordpress:*:*,Auth0 wp-auth0 3.3.0 for WordPress,"['CVE-2020-5391', 'CVE-2020-5392']",2022-03-19T03:17Z
+8,cpe:2.3:a:auth0:wp-auth0:3.3.1:*:*:*:*:wordpress:*:*,Auth0 wp-auth0 3.3.1 for WordPress,"['CVE-2020-5391', 'CVE-2020-5392']",2022-03-19T03:17Z
+9,cpe:2.3:a:auth0:wp-auth0:3.3.2:*:*:*:*:wordpress:*:*,Auth0 wp-auth0 3.3.2 for WordPress,"['CVE-2020-5391', 'CVE-2020-5392']",2022-03-19T03:17Z

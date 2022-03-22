@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:honor_6x_firmware:berlin-l21hnc432b360:*:*:*:*:*:*:*,Huawei honor 6x Firmware Berlin-L21HNC432B360,"['CVE-2017-2728', 'CVE-2017-2733', 'CVE-2018-7939']",2022-03-21T17:51Z
+1,cpe:2.3:o:huawei:honor_6x_firmware:berlin-l22c636b150:*:*:*:*:*:*:*,Huawei Honor 6X Firmware BERLIN-L22C636B150,"['CVE-2017-2728', 'CVE-2017-2733', 'CVE-2018-7939']",2022-03-21T17:51Z
+2,cpe:2.3:o:huawei:honor_6x_firmware:berlin-l23c605b161:*:*:*:*:*:*:*,Huawei Honor 6X Firmware Berlin-L23C605B161,['CVE-2017-2733'],2022-03-21T17:51Z
+3,cpe:2.3:o:huawei:honor_6x_firmware:bln-al10c00b357:*:*:*:*:*:*:*,Huawei Honor 6x Firmware BLN-AL10C00B357,['CVE-2017-2733'],2022-03-21T17:51Z
+4,cpe:2.3:o:huawei:honor_6x_firmware:bln-al20c00b357:*:*:*:*:*:*:*,Huawei Honor 6x Firmware BLN-AL20C00B357,[''],2022-03-21T17:51Z
+5,cpe:2.3:h:huawei:honor_7:-:*:*:*:*:*:*:*,Huawei Honor 7,"['CVE-2016-8768', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2699']",2022-03-21T17:51Z
+6,cpe:2.3:o:huawei:honor_7_firmware:-:*:*:*:*:*:*:*,Huawei Honor 7 Firmware,"['CVE-2016-8768', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2699']",2022-03-21T17:51Z
+7,cpe:2.3:o:huawei:honor_7_firmware:plk-al10c00b220:*:*:*:*:*:*:*,Huawei Honor 7 Firmware PLK-AL10C00B220,"['CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2699']",2022-03-21T17:51Z
+8,cpe:2.3:o:huawei:honor_7_firmware:plk-al10c92b220:*:*:*:*:*:*:*,Huawei Honor 7 Firmware PLK-AL10C92B220,"['CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2699']",2022-03-21T17:51Z
+9,cpe:2.3:o:huawei:honor_7_firmware:plk-cl00c92b220:*:*:*:*:*:*:*,Huawei Honor 7 Firmware PLK-CL00C92B220,"['CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2699']",2022-03-21T17:51Z

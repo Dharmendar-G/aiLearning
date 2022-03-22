@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:hive:2.1.1:*:*:*:*:*:*:*,Apache Software Foundation Hive 2.1.1,"['CVE-2017-12625', 'CVE-2018-11777', 'CVE-2018-1282', 'CVE-2018-1284', 'CVE-2018-1314', 'CVE-2018-1315', 'CVE-2020-13949', 'CVE-2020-1926']",2022-03-18T18:41Z
+1,cpe:2.3:a:apache:hive:2.2.0:*:*:*:*:*:*:*,Apache Software Foundation Hive 2.2.0,"['CVE-2017-12625', 'CVE-2018-11777', 'CVE-2018-1282', 'CVE-2018-1284', 'CVE-2018-1314', 'CVE-2018-1315', 'CVE-2020-13949', 'CVE-2020-1926']",2022-03-18T18:41Z
+2,cpe:2.3:a:apache:hive:2.2.1:*:*:*:*:*:*:*,Apache Software Foundation Hive 2.2.1,"['CVE-2018-11777', 'CVE-2018-1282', 'CVE-2018-1284', 'CVE-2018-1314', 'CVE-2018-1315', 'CVE-2020-13949', 'CVE-2020-1926']",2022-03-18T18:41Z
+3,cpe:2.3:a:apache:hive:2.3.0:*:*:*:*:*:*:*,Apache Software Foundation Hive 2.3.0,"['CVE-2017-12625', 'CVE-2018-11777', 'CVE-2018-1282', 'CVE-2018-1284', 'CVE-2018-1314', 'CVE-2018-1315', 'CVE-2020-13949', 'CVE-2020-1926']",2022-03-18T18:41Z
+4,cpe:2.3:a:apache:hive:2.3.1:*:*:*:*:*:*:*,Apache Software Foundation Hive 2.3.1,"['CVE-2018-11777', 'CVE-2018-1282', 'CVE-2018-1284', 'CVE-2018-1314', 'CVE-2018-1315', 'CVE-2020-13949', 'CVE-2020-1926']",2022-03-18T18:41Z
+5,cpe:2.3:a:apache:hive:2.3.2:*:*:*:*:*:*:*,Apache Software Foundation Hive 2.3.2,"['CVE-2018-11777', 'CVE-2018-1282', 'CVE-2018-1284', 'CVE-2018-1314', 'CVE-2018-1315', 'CVE-2020-13949', 'CVE-2020-1926']",2022-03-18T18:41Z
+6,cpe:2.3:a:apache:hive:2.3.3:*:*:*:*:*:*:*,Apache Software Foundation Hive 2.3.3,"['CVE-2018-11777', 'CVE-2018-1314', 'CVE-2020-13949', 'CVE-2020-1926']",2022-03-18T18:41Z
+7,cpe:2.3:a:apache:hive:2.3.4:*:*:*:*:*:*:*,Apache Software Foundation Hive 2.3.4,"['CVE-2020-13949', 'CVE-2020-1926']",2022-03-18T18:41Z
+8,cpe:2.3:a:apache:hive:2.3.8:*:*:*:*:*:*:*,Apache Software Foundation Hive 2.3.8,['CVE-2020-13949'],2022-03-18T18:41Z
+9,cpe:2.3:a:apache:hive:2.4.0:*:*:*:*:*:*:*,Apache Software Foundation Hive 2.4.0,['CVE-2020-13949'],2022-03-18T18:41Z

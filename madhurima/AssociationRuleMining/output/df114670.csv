@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,[0],[0],[0],[0]
+8,cpe:2.3:o:cisco:aironet_access_point_software:8.2\(130.0\):*:*:*:*:*:*:*,Cisco Aironet Access Point Software 8.2(130.0),['CVE-2016-9220'],2022-03-19T18:14Z
+9,cpe:2.3:o:cisco:aironet_access_point_software:8.2\(160.0\):*:*:*:*:*:*:*,Cisco Aironet Access Point Software 8.2(160.0),['CVE-2018-0250'],2022-03-19T18:14Z

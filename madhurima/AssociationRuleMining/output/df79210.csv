@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitpie:bitcoin_wallet:2.2.6:*:*:*:*:android:*:*,Bitpie Bitcoin Wallet 2.2.6 for Android,['CVE-2018-10812'],2022-03-19T08:26Z
+1,cpe:2.3:a:bitpie:bitcoin_wallet:2.2.7:*:*:*:*:android:*:*,Bitpie Bitcoin Wallet 2.2.7 for Android,['CVE-2018-10812'],2022-03-19T08:26Z
+2,cpe:2.3:a:bitpie:bitcoin_wallet:2.2.8:*:*:*:*:android:*:*,Bitpie Bitcoin Wallet 2.2.8 for Android,['CVE-2018-10812'],2022-03-19T08:26Z
+3,cpe:2.3:a:bitpie:bitcoin_wallet:2.2.9:*:*:*:*:android:*:*,Bitpie Bitcoin Wallet 2.2.9 for Android,['CVE-2018-10812'],2022-03-19T08:26Z
+4,cpe:2.3:a:bitpie:bitcoin_wallet:2.2.9:*:*:*:*:iphone_os:*:*,Bitpie Bitcoin Wallet 2.2.9 for iPhone OS,['CVE-2018-10812'],2022-03-19T08:26Z
+5,cpe:2.3:a:bitpie:bitcoin_wallet:2.3.0:*:*:*:*:android:*:*,Bitpie Bitcoin Wallet 2.3.0 for Android,['CVE-2018-10812'],2022-03-19T08:26Z
+6,cpe:2.3:a:bitpie:bitcoin_wallet:2.3.1:*:*:*:*:android:*:*,Bitpie Bitcoin Wallet 2.3.1 for Android,['CVE-2018-10812'],2022-03-19T08:27Z
+7,cpe:2.3:a:bitpie:bitcoin_wallet:2.3.1:*:*:*:*:iphone_os:*:*,Bitpie Bitcoin Wallet 2.3.1 for iPhone OS,['CVE-2018-10812'],2022-03-19T08:26Z
+8,cpe:2.3:a:bitpie:bitcoin_wallet:2.3.2:*:*:*:*:android:*:*,Bitpie Bitcoin Wallet 2.3.2 for Android,['CVE-2018-10812'],2022-03-19T08:26Z
+9,cpe:2.3:a:bitpie:bitcoin_wallet:2.3.2:*:*:*:*:iphone_os:*:*,Bitpie Bitcoin Wallet 2.3.2 for iPhone OS,['CVE-2018-10812'],2022-03-19T08:26Z

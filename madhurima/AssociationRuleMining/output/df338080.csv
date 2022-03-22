@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hubot_scripts_project:hubot_scripts:1.1.8:*:*:*:*:node.js:*:*,Hubot Scripts Project Hubot Scripts 1.1.8 for Node.js,['CVE-2013-7378'],2022-03-21T19:12Z
+1,cpe:2.3:a:hubot_scripts_project:hubot_scripts:2.0.0:*:*:*:*:node.js:*:*,Hubot Scripts Project Hubot Scripts 2.0.0 for Node.js,['CVE-2013-7378'],2022-03-21T19:12Z
+2,cpe:2.3:a:hubot_scripts_project:hubot_scripts:2.0.1:*:*:*:*:node.js:*:*,Hubot Scripts Project Hubot Scripts 2.0.1 for Node.js,['CVE-2013-7378'],2022-03-21T19:12Z
+3,cpe:2.3:a:hubot_scripts_project:hubot_scripts:2.0.2:*:*:*:*:node.js:*:*,Hubot Scripts Project Hubot Scripts 2.0.2 for Node.js,['CVE-2013-7378'],2022-03-21T19:12Z
+4,cpe:2.3:a:hubot_scripts_project:hubot_scripts:2.0.3:*:*:*:*:node.js:*:*,Hubot Scripts Project Hubot Scripts 2.0.3 for Node.js,['CVE-2013-7378'],2022-03-21T19:12Z
+5,cpe:2.3:a:hubot_scripts_project:hubot_scripts:2.0.4:*:*:*:*:node.js:*:*,Hubot Scripts Project Hubot Scripts 2.0.4 for Node.js,['CVE-2013-7378'],2022-03-21T19:12Z
+6,cpe:2.3:a:hubot_scripts_project:hubot_scripts:2.0.5:*:*:*:*:node.js:*:*,Hubot Scripts Project Hubot Scripts 2.0.5 for Node.js,['CVE-2013-7378'],2022-03-21T19:12Z
+7,cpe:2.3:a:hubot_scripts_project:hubot_scripts:2.0.6:*:*:*:*:node.js:*:*,Hubot Scripts Project Hubot Scripts 2.0.6 for Node.js,['CVE-2013-7378'],2022-03-21T19:12Z
+8,cpe:2.3:a:hubot_scripts_project:hubot_scripts:2.0.7:*:*:*:*:node.js:*:*,Hubot Scripts Project Hubot Scripts 2.0.7 for Node.js,['CVE-2013-7378'],2022-03-21T19:12Z
+9,cpe:2.3:a:hubot_scripts_project:hubot_scripts:2.1.0:*:*:*:*:node.js:*:*,Hubot Scripts Project Hubot Scripts 2.1.0 for Node.js,['CVE-2013-7378'],2022-03-21T19:12Z

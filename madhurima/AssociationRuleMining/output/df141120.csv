@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:civetweb_project:civetweb:1.1:*:*:*:*:*:*:*,CivetWeb Project CivetWeb 1.1,['CVE-2018-12684'],2022-03-20T01:43Z
+1,cpe:2.3:a:civetweb_project:civetweb:1.2:*:*:*:*:*:*:*,CivetWeb Project CivetWeb 1.2,['CVE-2018-12684'],2022-03-20T01:43Z
+2,cpe:2.3:a:civetweb_project:civetweb:1.3:*:*:*:*:*:*:*,CivetWeb Project CivetWeb 1.3,['CVE-2018-12684'],2022-03-20T01:43Z
+3,cpe:2.3:a:civetweb_project:civetweb:1.4:*:*:*:*:*:*:*,CivetWeb Project CivetWeb 1.4,['CVE-2018-12684'],2022-03-20T01:43Z
+4,cpe:2.3:a:civetweb_project:civetweb:1.5:*:*:*:*:*:*:*,CivetWeb Project CivetWeb 1.5,['CVE-2018-12684'],2022-03-20T01:43Z
+5,cpe:2.3:a:civetweb_project:civetweb:1.6:*:*:*:*:*:*:*,CivetWeb Project CivetWeb 1.6,['CVE-2018-12684'],2022-03-20T01:43Z
+6,cpe:2.3:a:civetweb_project:civetweb:1.7:*:*:*:*:*:*:*,CivetWeb Project CivetWeb 1.7,['CVE-2018-12684'],2022-03-20T01:43Z
+7,cpe:2.3:a:civetweb_project:civetweb:1.8:*:*:*:*:*:*:*,CivetWeb Project CivetWeb 1.8,"['CVE-2018-12684', 'CVE-2020-27304']",2022-03-20T01:43Z
+8,cpe:2.3:a:civetweb_project:civetweb:1.9:*:*:*:*:*:*:*,CivetWeb Project CivetWeb 1.9,"['CVE-2018-12684', 'CVE-2020-27304']",2022-03-20T01:43Z
+9,cpe:2.3:a:civetweb_project:civetweb:1.9.1:*:*:*:*:*:*:*,CivetWeb Project CivetWeb 1.9.1,"['CVE-2018-12684', 'CVE-2020-27304']",2022-03-20T01:43Z

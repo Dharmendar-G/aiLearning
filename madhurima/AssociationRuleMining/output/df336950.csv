@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:shotx_firmware:ath-al00c00b210:*:*:*:*:*:*:*,Huawei Shotx Firmware ATH-AL00C00B210,"['CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T18:51Z
+1,cpe:2.3:o:huawei:shotx_firmware:ath-al00c92b200:*:*:*:*:*:*:*,Huawei Shotx Firmware ATH-AL00C92B200,"['CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T18:51Z
+2,cpe:2.3:o:huawei:shotx_firmware:ath-cl00c92b210:*:*:*:*:*:*:*,Huawei Shotx Firmware ATH-CL00C92B210,"['CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T18:51Z
+3,cpe:2.3:o:huawei:shotx_firmware:ath-tl00c01b210:*:*:*:*:*:*:*,Huawei Shotx Firmware ATH-TL00C01B210,"['CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T18:51Z
+4,cpe:2.3:o:huawei:shotx_firmware:ath-tl00hc01b210:*:*:*:*:*:*:*,Huawei Shotx Firmware ATH-TL00HC01B210,"['CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T18:51Z
+5,cpe:2.3:o:huawei:shotx_firmware:ath-ul00c00b210:*:*:*:*:*:*:*,Huawei Shotx Firmware ATH-UL00C00B210,"['CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T18:51Z
+6,cpe:2.3:o:huawei:shotx_firmware:rio-al00c00b220:*:*:*:*:*:*:*,Huawei Shotx Firmware RIO-AL00C00B220,"['CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T18:51Z
+7,cpe:2.3:a:huawei:skytone:-:*:*:*:*:*:*:*,Huawei Skytone -,"['CVE-2017-2704', 'CVE-2017-2709']",2022-03-21T18:51Z
+8,cpe:2.3:a:huawei:skytone:8.1.1:*:*:*:*:*:*:*,Huawei SkyTone 8.1.1,['CVE-2017-2704'],2022-03-21T18:51Z
+9,cpe:2.3:a:huawei:skytone:8.1.2.300:*:*:*:*:*:*:*,Huawei Skytone 8.1.2.300,['CVE-2017-2704'],2022-03-21T18:51Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:hg255s-10:-:*:*:*:*:*:*:*,Huawei Hg255s-10 -,['CVE-2017-17309'],2022-03-21T17:47Z
+1,cpe:2.3:o:huawei:hg255s-10_firmware:-:*:*:*:*:*:*:*,Huawei Hg255s-10 Firmware -,[''],2022-03-21T17:47Z
+2,cpe:2.3:o:huawei:hg255s-10_firmware:v100r001c163b025sp02:*:*:*:*:*:*:*,Huawei Hg255s-10 Firmware V100r001c163b025sp02,['CVE-2017-17309'],2022-03-21T17:47Z
+3,cpe:2.3:h:huawei:hg532:-:*:*:*:*:*:*:*,Huawei HG532,['CVE-2017-17215'],2022-03-21T17:47Z
+4,cpe:2.3:o:huawei:hg532_firmware:-:*:*:*:*:*:*:*,Huawei HG532 Firmware,['CVE-2017-17215'],2022-03-21T17:47Z
+5,cpe:2.3:h:huawei:hg532e:-:*:*:*:*:*:*:*,Huawei HG532E,"['CVE-2015-7254', 'CVE-2020-12695']",2022-03-21T17:47Z
+6,cpe:2.3:h:huawei:hg655m:-:*:*:*:*:*:*:*,Huawei HG655m,['CVE-2017-17224'],2022-03-21T17:47Z
+7,cpe:2.3:o:huawei:hg655m_firmware:-:*:*:*:*:*:*:*,Huawei HG655m Firmware,['CVE-2017-17224'],2022-03-21T17:47Z
+8,cpe:2.3:o:huawei:hg655m_firmware:harry-al00c_9.1.0.206\(c00e205r3p1\):*:*:*:*:*:*:*,Huawei HG655m Firmware Harry-AL00C 9.1.0.206(C00E205R3P1),['CVE-2017-17224'],2022-03-21T17:47Z
+9,cpe:2.3:o:huawei:hg655m_firmware:v100r001c02b023:*:*:*:*:*:*:*,Huawei HG655m Firmware V100R001C02B023,[''],2022-03-21T17:47Z

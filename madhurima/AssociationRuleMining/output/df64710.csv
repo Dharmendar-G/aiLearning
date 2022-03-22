@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:avaya:sg5:-:*:*:*:*:*:*:*,Avaya SG5,[''],2022-03-19T04:19Z
+1,cpe:2.3:h:avaya:sg5:4.2:*:*:*:*:*:*:*,Avaya SG5 4.2,"['CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112']",2022-03-19T04:19Z
+2,cpe:2.3:h:avaya:sg5:4.3:*:*:*:*:*:*:*,Avaya SG5 4.3,"['CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112']",2022-03-19T04:20Z
+3,cpe:2.3:h:avaya:sg5:4.4:*:*:*:*:*:*:*,Avaya SG5 4.4,"['CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112']",2022-03-19T04:20Z
+4,cpe:2.3:a:avaya:sip_enablement_services:-:*:*:*:*:*:*:*,Avaya SIP Enablement Services,"['CVE-2007-1491', 'CVE-2008-2812']",2022-03-19T04:20Z
+5,cpe:2.3:a:avaya:sip_enablement_services:4.0:*:*:*:*:*:*:*,Avaya SIP Enablement Services 4.0,"['CVE-2007-1491', 'CVE-2008-2812', 'CVE-2008-6706', 'CVE-2008-6707', 'CVE-2008-6709']",2022-03-19T04:20Z
+6,cpe:2.3:a:avaya:speech_access:-:*:*:*:*:*:*:*,Avaya Speech Access,['CVE-2011-1229'],2022-03-19T04:20Z
+7,cpe:2.3:h:avaya:tn2602ap_ip_media_resource_320_circuit_pack:-:*:*:*:*:*:*:*,Avaya TN2602AP IP Media Resource 320,['CVE-2005-3989'],2022-03-19T04:20Z
+8,cpe:2.3:a:avaya:unified_communication_center:-:*:*:*:*:*:*:*,Avaya Unified Communication Center,['CVE-2011-1229'],2022-03-19T04:20Z
+9,cpe:2.3:a:avaya:unified_messenger:-:*:*:*:*:*:*:*,Avaya Unified Messenger,['CVE-2011-1229'],2022-03-19T04:20Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cnvs:canvas:4.2.5:*:*:*:*:*:*:*,Cnvs Canvas 4.2.5,[''],2022-03-20T04:38Z
+1,cpe:2.3:a:cnvs:canvas:4.2.6:*:*:*:*:*:*:*,Cnvs Canvas 4.2.6,[''],2022-03-20T04:38Z
+2,cpe:2.3:a:cnvs:canvas:4.2.7:*:*:*:*:*:*:*,Cnvs Canvas 4.2.7,[''],2022-03-20T04:38Z
+3,cpe:2.3:a:cnvs:canvas:4.2.8:*:*:*:*:*:*:*,Cnvs Canvas 4.2.8,[''],2022-03-20T04:38Z
+4,cpe:2.3:a:cnvs:canvas:4.2.9:*:*:*:*:*:*:*,Cnvs Canvas 4.2.9,[''],2022-03-20T04:38Z
+5,cpe:2.3:a:co2bit_project:co2bit:-:*:*:*:*:*:*:*,Co2Bit Project Co2Bit,['CVE-2018-13565'],2022-03-20T04:38Z
+6,cpe:2.3:a:coapthon_project:coapthon:1.0:*:*:*:*:*:*:*,CoAPthon Project CoAPthon 1.0,[''],2022-03-20T04:38Z
+7,cpe:2.3:a:coapthon_project:coapthon:2.0:*:*:*:*:*:*:*,CoAPthon Project CoAPthon 2.0,[''],2022-03-20T04:38Z
+8,cpe:2.3:a:coapthon_project:coapthon:3.0:*:*:*:*:*:*:*,CoAPthon Project CoAPthon 3.0,[''],2022-03-20T04:38Z
+9,cpe:2.3:a:coapthon_project:coapthon:3.1:*:*:*:*:*:*:*,CoAPthon Project CoAPthon 3.1,['CVE-2018-12680'],2022-03-20T04:38Z

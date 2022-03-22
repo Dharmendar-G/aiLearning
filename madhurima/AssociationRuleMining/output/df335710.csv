@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:p8_lite:-:*:*:*:*:*:*:*,Huawei P8 Lite,"['CVE-2016-8762', 'CVE-2016-8763', 'CVE-2016-8764', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2729', 'CVE-2017-8150']",2022-03-21T18:23Z
+1,cpe:2.3:o:huawei:p8_lite_firmware:ale-l02c635b140:*:*:*:*:*:*:*,Huawei P8 Lite Firmware ALE-L02C635B140,"['CVE-2016-8762', 'CVE-2016-8763', 'CVE-2016-8764', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2729', 'CVE-2017-8150']",2022-03-21T18:23Z
+2,cpe:2.3:o:huawei:p8_lite_firmware:ale-l02c635b568:*:*:*:*:*:*:*,Huawei P8 Lite Firmware ALE-L02C635B568,"['CVE-2016-8762', 'CVE-2016-8763', 'CVE-2016-8764', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2729', 'CVE-2017-8150']",2022-03-21T18:23Z
+3,cpe:2.3:o:huawei:p8_lite_firmware:ale-l02c636b140:*:*:*:*:*:*:*,Huawei P8 Lite Firmware ALE-L02C636B140,"['CVE-2016-8762', 'CVE-2016-8763', 'CVE-2016-8764', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2729', 'CVE-2017-8150']",2022-03-21T18:23Z
+4,cpe:2.3:o:huawei:p8_lite_firmware:ale-l02c636b150:*:*:*:*:*:*:*,Huawei P8 Lite Firmware ALE-L02C636B150,"['CVE-2016-8762', 'CVE-2016-8763', 'CVE-2016-8764', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2729', 'CVE-2017-8150']",2022-03-21T18:23Z
+5,cpe:2.3:o:huawei:p8_lite_firmware:ale-l02c636b170:*:*:*:*:*:*:*,Huawei P8 Lite Firmware ALE-L02C636B170,"['CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2729', 'CVE-2017-8150']",2022-03-21T18:23Z
+6,cpe:2.3:o:huawei:p8_lite_firmware:ale-l21c10b150:*:*:*:*:*:*:*,Huawei P8 Lite Firmware ALE-L21C10B150,"['CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2729', 'CVE-2017-8150']",2022-03-21T18:23Z
+7,cpe:2.3:o:huawei:p8_lite_firmware:ale-l21c10b541:*:*:*:*:*:*:*,Huawei P8 Lite Firmware ALE-L21C10B541,"['CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2729', 'CVE-2017-8150']",2022-03-21T18:23Z
+8,cpe:2.3:o:huawei:p8_lite_firmware:ale-l21c113b566:*:*:*:*:*:*:*,Huawei P8 Lite Firmware ALE-L21C113B566,"['CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2729']",2022-03-21T18:23Z
+9,cpe:2.3:o:huawei:p8_lite_firmware:ale-l21c185b200:*:*:*:*:*:*:*,Huawei P8 Lite Firmware ALE-L21C185B200,"['CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2729']",2022-03-21T18:23Z

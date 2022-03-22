@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dpdk:data_plane_development_kit:20.05:*:*:*:*:*:*:*,DPDK Data Plane Development Kit 20.05,[''],2022-03-20T17:40Z
+1,cpe:2.3:o:dpdk:dpdk:-:*:*:*:*:*:*:*,DPDK,['CVE-2015-1142857'],2022-03-20T17:40Z
+2,cpe:2.3:a:dpic_project:dpic:2019-06-20:*:*:*:*:*:*:*,dpic Project dpic 2019-06-20,['CVE-2019-13989'],2022-03-20T17:40Z
+3,cpe:2.3:a:dpic_project:dpic:2019-07-20:*:*:*:*:*:*:*,dpic Project dpic 2019-07-20,[''],2022-03-20T17:40Z
+4,cpe:2.3:a:dpic_project:dpic:2019-07-30:*:*:*:*:*:*:*,dpic Project dpic 2019-07-30,[''],2022-03-20T17:40Z
+5,cpe:2.3:a:dpic_project:dpic:2019-08-30:*:*:*:*:*:*:*,dpic Project dpic 2019-08-30,[''],2022-03-20T17:40Z
+6,cpe:2.3:a:dpic_project:dpic:2019-11-30:*:*:*:*:*:*:*,dpic Project dpic 2019-11-30,[''],2022-03-20T17:41Z
+7,"cpe:2.3:a:dpl:product_feed_on_woocommerce_for_google\,_awin\,_shareasale\,_bing\,_and_more:-:*:*:*:*:wordpress:*:*","Digital Product Labs Product Feed on WooCommerce for Google, Awin, Shareasale, Bing, And More for WordPress",[''],2022-03-20T17:41Z
+8,"cpe:2.3:a:dpl:product_feed_on_woocommerce_for_google\,_awin\,_shareasale\,_bing\,_and_more:1.0:*:*:*:*:wordpress:*:*","Digital Product Labs Product Feed on WooCommerce for Google, Awin, Shareasale, Bing, And More 1.0 for WordPress",[''],2022-03-20T17:41Z
+9,"cpe:2.3:a:dpl:product_feed_on_woocommerce_for_google\,_awin\,_shareasale\,_bing\,_and_more:1.1:*:*:*:*:wordpress:*:*","Digital Product Labs Product Feed on WooCommerce for Google, Awin, Shareasale, Bing, And More 1.1 for WordPress",[''],2022-03-20T17:41Z

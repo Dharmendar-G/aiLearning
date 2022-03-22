@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:routing_release:0.69.0:*:*:*:*:*:*:*,Cloudfoundry Routing Release 0.69.0,"['CVE-2019-3789', 'CVE-2020-5401']",2022-03-20T03:36Z
+1,cpe:2.3:a:cloudfoundry:routing_release:0.99.0:*:*:*:*:*:*:*,Cloudfoundry Routing Release 0.99.0,"['CVE-2019-3789', 'CVE-2020-5401']",2022-03-20T03:36Z
+2,cpe:2.3:a:cloudfoundry:routing_release:0.118.0:*:*:*:*:*:*:*,Cloudfoundry Routing Release 0.118.0,"['CVE-2019-3789', 'CVE-2020-5401']",2022-03-20T03:36Z
+3,cpe:2.3:a:cloudfoundry:routing_release:0.121.0:*:*:*:*:*:*:*,Cloudfoundry Routing Release 0.121.0,"['CVE-2019-3789', 'CVE-2020-5401']",2022-03-20T03:36Z
+4,cpe:2.3:a:cloudfoundry:routing_release:0.122.0:*:*:*:*:*:*:*,Cloudfoundry Routing Release 0.122.0,"['CVE-2019-3789', 'CVE-2020-5401']",2022-03-20T03:36Z
+5,cpe:2.3:a:cloudfoundry:routing_release:0.123.0:*:*:*:*:*:*:*,Cloudfoundry Routing Release 0.123.0,"['CVE-2019-3789', 'CVE-2020-5401']",2022-03-20T03:36Z
+6,cpe:2.3:a:cloudfoundry:routing_release:0.126.0:*:*:*:*:*:*:*,Cloudfoundry Routing Release 0.126.0,"['CVE-2019-3789', 'CVE-2020-5401']",2022-03-20T03:36Z
+7,cpe:2.3:a:cloudfoundry:routing_release:0.133.0:*:*:*:*:*:*:*,Cloudfoundry Routing Release 0.133.0,"['CVE-2019-3789', 'CVE-2020-5401']",2022-03-20T03:36Z
+8,cpe:2.3:a:cloudfoundry:routing_release:0.134.0:*:*:*:*:*:*:*,Cloudfoundry Routing Release 0.134.0,"['CVE-2019-3789', 'CVE-2020-5401']",2022-03-20T03:36Z
+9,cpe:2.3:a:cloudfoundry:routing_release:0.135.0:*:*:*:*:*:*:*,Cloudfoundry Routing Release 0.135.0,"['CVE-2019-3789', 'CVE-2020-5401']",2022-03-20T03:36Z

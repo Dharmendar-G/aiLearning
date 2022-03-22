@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:digitalcorpora:tcpflow:1.2.9:*:*:*:*:*:*:*,DigitalCorpora Tcpflow 1.2.9,['CVE-2018-14938'],2022-03-20T14:13Z
+1,cpe:2.3:a:digitalcorpora:tcpflow:1.3.0:*:*:*:*:*:*:*,DigitalCorpora Tcpflow 1.3.0,['CVE-2018-14938'],2022-03-20T14:13Z
+2,cpe:2.3:a:digitalcorpora:tcpflow:1.4.0:*:*:*:*:*:*:*,DigitalCorpora Tcpflow 1.4.0,['CVE-2018-14938'],2022-03-20T14:13Z
+3,cpe:2.3:a:digitalcorpora:tcpflow:1.4.0:beta1:*:*:*:*:*:*,DigitalCorpora Tcpflow 1.4.0 Beta1,['CVE-2018-14938'],2022-03-20T14:13Z
+4,cpe:2.3:a:digitalcorpora:tcpflow:1.4.1:*:*:*:*:*:*:*,DigitalCorpora Tcpflow 1.4.1,['CVE-2018-14938'],2022-03-20T14:13Z
+5,cpe:2.3:a:digitalcorpora:tcpflow:1.4.2:*:*:*:*:*:*:*,DigitalCorpora Tcpflow 1.4.2,['CVE-2018-14938'],2022-03-20T14:13Z
+6,cpe:2.3:a:digitalcorpora:tcpflow:1.4.3:*:*:*:*:*:*:*,DigitalCorpora Tcpflow 1.4.3,['CVE-2018-14938'],2022-03-20T14:13Z
+7,cpe:2.3:a:digitalcorpora:tcpflow:1.4.4:*:*:*:*:*:*:*,DigitalCorpora Tcpflow 1.4.4,['CVE-2018-14938'],2022-03-20T14:13Z
+8,cpe:2.3:a:digitalcorpora:tcpflow:1.4.5:*:*:*:*:*:*:*,DigitalCorpora Tcpflow 1.4.5,['CVE-2018-14938'],2022-03-20T14:13Z
+9,cpe:2.3:a:digitalcorpora:tcpflow:1.5.0:*:*:*:*:*:*:*,DigitalCorpora Tcpflow 1.5.0,['CVE-2018-18409'],2022-03-20T14:13Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:web_security_appliance_8.0.5:hot_patch_1:*:*:*:*:*:*:*,Cisco Web Security Appliance (WSA) Hot Patch 1,['CVE-2016-6372'],2022-03-20T01:09Z
+1,cpe:2.3:h:cisco:web_security_appliance_s170:-:*:*:*:*:*:*:*,Cisco Web Security Appliance S170,['CVE-2021-34698'],2022-03-20T01:09Z
+2,cpe:2.3:h:cisco:web_security_appliance_s190:-:*:*:*:*:*:*:*,Cisco Web Security Appliance S190,['CVE-2021-34698'],2022-03-20T01:09Z
+3,cpe:2.3:h:cisco:web_security_appliance_s380:-:*:*:*:*:*:*:*,Cisco Web Security Appliance S380 ,['CVE-2021-34698'],2022-03-20T01:09Z
+4,cpe:2.3:h:cisco:web_security_appliance_s390:-:*:*:*:*:*:*:*,Cisco Web Security Appliance S390,['CVE-2021-34698'],2022-03-20T01:09Z
+5,cpe:2.3:h:cisco:web_security_appliance_s680:-:*:*:*:*:*:*:*,Cisco Web Security Appliance S680,['CVE-2021-34698'],2022-03-20T01:09Z
+6,cpe:2.3:h:cisco:web_security_appliance_s690:-:*:*:*:*:*:*:*,Cisco Web Security Appliance S690 ,['CVE-2021-34698'],2022-03-20T01:09Z
+7,cpe:2.3:h:cisco:web_security_appliance_s690x:-:*:*:*:*:*:*:*,Cisco Web Security Appliance S690X,['CVE-2021-34698'],2022-03-20T01:09Z
+8,cpe:2.3:a:cisco:web_security_virtual_appliance:7.1.0:*:*:*:*:*:*:*,Cisco Web Security Virtual Appliance 7.1.0,"['CVE-2014-2137', 'CVE-2021-1271']",2022-03-20T01:09Z
+9,cpe:2.3:a:cisco:web_security_virtual_appliance:7.1.1:*:*:*:*:*:*:*,Cisco Web Security Virtual Appliance 7.1.1,"['CVE-2014-2137', 'CVE-2021-1271']",2022-03-20T01:09Z

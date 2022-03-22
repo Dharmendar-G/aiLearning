@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:commsy:commsy:8.6.3:*:*:*:*:*:*:*,Commsy 8.6.3,['CVE-2019-11880'],2022-03-20T06:53Z
+1,cpe:2.3:a:commsy:commsy:8.6.3.1:*:*:*:*:*:*:*,Commsy 8.6.3.1,['CVE-2019-11880'],2022-03-20T06:53Z
+2,cpe:2.3:a:commsy:commsy:8.6.4:*:*:*:*:*:*:*,Commsy 8.6.4,['CVE-2019-11880'],2022-03-20T06:53Z
+3,cpe:2.3:a:commsy:commsy:8.6.5:*:*:*:*:*:*:*,Commsy 8.6.5,['CVE-2019-11880'],2022-03-20T06:53Z
+4,cpe:2.3:a:commsy:commsy:9.0.0:alpha1:*:*:*:*:*:*,Commsy 9.0.0 Alpha1,['CVE-2017-1000496'],2022-03-20T06:53Z
+5,cpe:2.3:a:commsy:commsy:9.0.0:beta1:*:*:*:*:*:*,Commsy 9.0.0 Beta1,['CVE-2017-1000496'],2022-03-20T06:53Z
+6,cpe:2.3:a:commsy:commsy:9.0.0:rc1:*:*:*:*:*:*,Commsy 9.0.0 Release Candidate 1,['CVE-2017-1000496'],2022-03-20T06:53Z
+7,cpe:2.3:a:commsy:commsy:9.0.4:*:*:*:*:*:*:*,Commsy 9.0.4,[''],2022-03-20T06:54Z
+8,cpe:2.3:a:commsy:commsy:9.0.5:*:*:*:*:*:*:*,Commsy 9.0.5,[''],2022-03-20T06:53Z
+9,cpe:2.3:a:commsy:commsy:9.1.1:*:*:*:*:*:*:*,Commsy 9.1.1,[''],2022-03-20T06:54Z

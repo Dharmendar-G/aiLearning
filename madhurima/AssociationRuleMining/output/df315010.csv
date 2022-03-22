@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:horde:horde_application_framework:4.0.14:*:*:*:*:*:*:*,Horde Application Framework 4.0.14,['CVE-2014-1691'],2022-03-21T11:54Z
+1,cpe:2.3:a:horde:horde_application_framework:4.0.15:*:*:*:*:*:*:*,Horde Application Framework 4.0.15,['CVE-2014-1691'],2022-03-21T11:54Z
+2,cpe:2.3:a:horde:horde_application_framework:4.0.16:*:*:*:*:*:*:*,Horde Application Framework 4.0.16,['CVE-2014-1691'],2022-03-21T11:54Z
+3,cpe:2.3:a:horde:horde_application_framework:5.0.0:*:*:*:*:*:*:*,Horde Application Framework 5.0.0,"['CVE-2014-1691', 'CVE-2015-7984']",2022-03-21T11:54Z
+4,cpe:2.3:a:horde:horde_application_framework:5.0.0:alpha1:*:*:*:*:*:*,Horde Horde Application Framework 5.0.0 Alpha 1,"['CVE-2014-1691', 'CVE-2015-7984']",2022-03-21T11:54Z
+5,cpe:2.3:a:horde:horde_application_framework:5.0.0:beta1:*:*:*:*:*:*,Horde Application Framework 5.0.0 Beta 1,"['CVE-2014-1691', 'CVE-2015-7984']",2022-03-21T11:54Z
+6,cpe:2.3:a:horde:horde_application_framework:5.0.0:beta2:*:*:*:*:*:*,Horde Application Framework 5.0.0 Beta 2,"['CVE-2014-1691', 'CVE-2015-7984']",2022-03-21T11:54Z
+7,cpe:2.3:a:horde:horde_application_framework:5.0.0:beta3:*:*:*:*:*:*,Horde Application Framework 5.0.0 Beta 3,"['CVE-2014-1691', 'CVE-2015-7984']",2022-03-21T11:54Z
+8,cpe:2.3:a:horde:horde_application_framework:5.0.0:beta4:*:*:*:*:*:*,Horde Application Framework 5.0.0 Beta 4,"['CVE-2014-1691', 'CVE-2015-7984']",2022-03-21T11:54Z
+9,cpe:2.3:a:horde:horde_application_framework:5.0.0:beta5:*:*:*:*:*:*,Horde Application Framework 5.0.0 Beta 5,"['CVE-2014-1691', 'CVE-2015-7984']",2022-03-21T11:54Z

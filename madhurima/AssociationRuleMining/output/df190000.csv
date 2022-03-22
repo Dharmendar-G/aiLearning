@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dns-320_firmware:2.00:*:*:*:*:*:*:*,D-Link DNS-320 Firmware 2.00,['CVE-2019-16057'],2022-03-20T15:54Z
+1,cpe:2.3:o:dlink:dns-320_firmware:2.02:*:*:*:*:*:*:*,D-Link DNS-320 Firmware 2.02,['CVE-2019-16057'],2022-03-20T15:54Z
+2,cpe:2.3:o:dlink:dns-320_firmware:2.03:*:*:*:*:*:*:*,D-Link DNS-320 Firmware 2.03,['CVE-2019-16057'],2022-03-20T15:54Z
+3,cpe:2.3:o:dlink:dns-320_firmware:2.05:*:*:*:*:*:*:*,D-Link DNS-320 Firmware 2.05,['CVE-2019-16057'],2022-03-20T15:54Z
+4,cpe:2.3:o:dlink:dns-320_firmware:2.05.b10:*:*:*:*:*:*:*,D-Link DNS-320 Firmware 2.05.B10,['CVE-2019-16057'],2022-03-20T15:54Z
+5,cpe:2.3:o:dlink:dns-320_firmware:2.06b01:*:*:*:*:*:*:*,D-Link DNS-320 Firmware 2.06B01,['CVE-2020-25506'],2022-03-20T15:54Z
+6,cpe:2.3:o:dlink:dns-320b_firmware:1.02b01:*:*:*:*:*:*:*,D-Link DNS-320B Firmware 1.02B01,[''],2022-03-20T15:54Z
+7,cpe:2.3:o:dlink:dns-320l_firmware:1.03b04:*:*:*:*:*:*:*,D-Link DNS-320L Firmware 1.03B04,[''],2022-03-20T15:54Z
+8,cpe:2.3:o:dlink:dns-320lw_firmware:1.03b04:*:*:*:*:*:*:*,D-Link DNS-320LW Firmware 1.03B04,[''],2022-03-20T15:54Z
+9,cpe:2.3:o:dlink:dns-322l_firmware:2.00b07:*:*:*:*:*:*:*,D-Link DNS-322L Firmware 2.00B07,[''],2022-03-20T15:54Z

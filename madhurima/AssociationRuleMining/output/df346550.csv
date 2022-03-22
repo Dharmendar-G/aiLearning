@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:ibm:rackswitch_g8264-t:-:*:*:*:*:*:*:*,IBM Rackswitch G8264-T,['CVE-2013-0570'],2022-03-21T21:36Z
+1,cpe:2.3:h:ibm:rackswitch_g8316:-:*:*:*:*:*:*:*,IBM Rackswitch G8316,"['CVE-2013-0570', 'CVE-2017-3765']",2022-03-21T21:36Z
+2,cpe:2.3:h:ibm:rackswitch_g8332:-:*:*:*:*:*:*:*,IBM Rackswitch G8332,['CVE-2017-3765'],2022-03-21T21:36Z
+3,cpe:2.3:a:ibm:rational_agent_controller:7.0.3.3:*:*:*:*:*:*:*,IBM Rational Agent Controller 7.0.3.3,[''],2022-03-21T21:36Z
+4,cpe:2.3:a:ibm:rational_appscan:5.2:*:enterprise:*:*:*:*:*,IBM Rational AppScan 5.2 Enterprise,"['CVE-2009-1056', 'CVE-2011-1366', 'CVE-2012-0729', 'CVE-2012-0730', 'CVE-2012-0731', 'CVE-2012-0732', 'CVE-2012-0733', 'CVE-2012-0734', 'CVE-2012-0735', 'CVE-2012-0736', 'CVE-2012-0737']",2022-03-21T21:36Z
+5,cpe:2.3:a:ibm:rational_appscan:5.4:*:enterprise:*:*:*:*:*,IBM Rational AppScan 5.4 Enterprise,"['CVE-2009-1056', 'CVE-2011-1366', 'CVE-2012-0729', 'CVE-2012-0730', 'CVE-2012-0731', 'CVE-2012-0732', 'CVE-2012-0733', 'CVE-2012-0734', 'CVE-2012-0735', 'CVE-2012-0736', 'CVE-2012-0737']",2022-03-21T21:36Z
+6,cpe:2.3:a:ibm:rational_appscan:5.5.0:*:enterprise:*:*:*:*:*,IBM Rational AppScan 5.5.0 Enterprise,"['CVE-2011-1366', 'CVE-2012-0729', 'CVE-2012-0730', 'CVE-2012-0731', 'CVE-2012-0732', 'CVE-2012-0733', 'CVE-2012-0734', 'CVE-2012-0735', 'CVE-2012-0736', 'CVE-2012-0737']",2022-03-21T21:36Z
+7,cpe:2.3:a:ibm:rational_appscan:5.5.0.1:*:enterprise:*:*:*:*:*,IBM Rational AppScan 5.5.0.1 Enterprise,"['CVE-2011-1366', 'CVE-2012-0729', 'CVE-2012-0730', 'CVE-2012-0731', 'CVE-2012-0732', 'CVE-2012-0733', 'CVE-2012-0734', 'CVE-2012-0735', 'CVE-2012-0736', 'CVE-2012-0737']",2022-03-21T21:36Z
+8,cpe:2.3:a:ibm:rational_appscan:5.5.0.2:*:enterprise:*:*:*:*:*,IBM Rational AppScan 5.5.0.2 Enterprise,"['CVE-2009-3745', 'CVE-2011-1366', 'CVE-2012-0729', 'CVE-2012-0730', 'CVE-2012-0731', 'CVE-2012-0732', 'CVE-2012-0733', 'CVE-2012-0734', 'CVE-2012-0735', 'CVE-2012-0736', 'CVE-2012-0737']",2022-03-21T21:36Z
+9,cpe:2.3:a:ibm:rational_appscan:5.6.0:*:enterprise:*:*:*:*:*,IBM Rational AppScan 5.6.0 Enterprise,"['CVE-2011-1366', 'CVE-2012-0729', 'CVE-2012-0730', 'CVE-2012-0731', 'CVE-2012-0732', 'CVE-2012-0733', 'CVE-2012-0734', 'CVE-2012-0735', 'CVE-2012-0736', 'CVE-2012-0737']",2022-03-21T21:36Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:mate_s_firmware:crr-ul00c00b153:*:*:*:*:*:*:*,Huawei Mate S Firmware CRR-UL00C00B153,"['CVE-2015-8678', 'CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T18:08Z
+1,cpe:2.3:o:huawei:mate_s_firmware:crr-ul00c00b172:*:*:*:*:*:*:*,Huawei Mate S Firmware CRR-UL00C00B172,"['CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T18:08Z
+2,cpe:2.3:o:huawei:mate_s_firmware:crr-ul20:*:*:*:*:*:*:*,Huawei Mate S Firmware CRR-UL20,"['CVE-2016-8279', 'CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T18:09Z
+3,cpe:2.3:o:huawei:mate_s_firmware:crr-ul20c432b171:*:*:*:*:*:*:*,Huawei Mate S Firmware CRR-UL20C432B171,"['CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T18:09Z
+4,cpe:2.3:h:huawei:max_presence:-:*:*:*:*:*:*:*,Huawei Max Presence,"['CVE-2017-15331', 'CVE-2017-15332', 'CVE-2017-17291', 'CVE-2017-17292', 'CVE-2017-17293', 'CVE-2017-17294', 'CVE-2017-8199', 'CVE-2017-8200', 'CVE-2017-8201']",2022-03-21T18:09Z
+5,cpe:2.3:o:huawei:max_presence_firmware:v100r001c00:*:*:*:*:*:*:*,Huawei Max Presence Firmware V100R001C00,"['CVE-2017-15331', 'CVE-2017-15332', 'CVE-2017-17291', 'CVE-2017-17292', 'CVE-2017-17293', 'CVE-2017-17294', 'CVE-2017-8199', 'CVE-2017-8200', 'CVE-2017-8201']",2022-03-21T18:09Z
+6,cpe:2.3:h:huawei:maya-l02:-:*:*:*:*:*:*:*,Huawei Maya-l02,['CVE-2017-8173'],2022-03-21T18:09Z
+7,cpe:2.3:o:huawei:maya-l02_firmware:-:*:*:*:*:*:*:*,Huawei Maya-l02 Firmware -,['CVE-2017-8173'],2022-03-21T18:09Z
+8,cpe:2.3:o:huawei:maya-l02_firmware:maya-l02c636b126:*:*:*:*:*:*:*,Huawei Maya-l02 Firmware Maya-l02c636b126,[''],2022-03-21T18:09Z
+9,cpe:2.3:h:huawei:me60:v100r005:*:*:*:*:*:*:*,Huawei ME60 V100R005,"['CVE-2012-3268', 'CVE-2012-4960']",2022-03-21T18:09Z

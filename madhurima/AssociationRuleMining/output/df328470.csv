@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:proliant_ml10_v2_server:-:*:*:*:*:*:*:*,HP Proliant Ml10 V2 Server,['CVE-2018-7112'],2022-03-21T15:57Z
+1,cpe:2.3:o:hp:proliant_ml110_firmware:-:*:*:*:*:*:*:*,HP Proliant ML110 Firmware,['CVE-2019-11135'],2022-03-21T15:57Z
+2,cpe:2.3:o:hp:proliant_ml110_firmware:2.20:*:*:*:*:*:*:*,HP Proliant ML110 Firmware 2.20,[''],2022-03-21T15:57Z
+3,cpe:2.3:h:hp:proliant_ml110_g6:-:*:*:*:*:*:*:*,HP ProLiant  ML110 G6,['CVE-2010-3006'],2022-03-21T15:57Z
+4,cpe:2.3:h:hp:proliant_ml110_g6_server:-:*:*:*:*:*:*:*,HP Proliant Ml110 G6 Server,['CVE-2018-7112'],2022-03-21T15:57Z
+5,cpe:2.3:o:hp:proliant_ml110_g6_server_firmware:-:*:*:*:*:*:*:*,Hp Proliant Ml110 G6 Server Firmware -,['CVE-2018-7112'],2022-03-21T15:57Z
+6,cpe:2.3:h:hp:proliant_ml110_g7_server:-:*:*:*:*:*:*:*,HP Proliant Ml110 G7 Server,['CVE-2018-7112'],2022-03-21T15:57Z
+7,cpe:2.3:h:hp:proliant_ml110_gen10:-:*:*:*:*:*:*:*,HP ProLiant ML110 Gen10,"['CVE-2018-7117', 'CVE-2019-11982', 'CVE-2019-11983', 'CVE-2020-7207']",2022-03-21T15:57Z
+8,cpe:2.3:h:hp:proliant_ml110_gen10_server:-:*:*:*:*:*:*:*,HP ProLiant ML110 Gen10 Server,"['CVE-2018-7101', 'CVE-2020-7202', 'CVE-2021-29201', 'CVE-2021-29202', 'CVE-2021-29204', 'CVE-2021-29205', 'CVE-2021-29206', 'CVE-2021-29207', 'CVE-2021-29208', 'CVE-2021-29209', 'CVE-2021-29210', 'CVE-2021-29211']",2022-03-21T15:57Z
+9,cpe:2.3:h:hp:proliant_ml110_gen9:-:*:*:*:*:*:*:*,HP ProLiant Ml110 Gen9,"['CVE-2019-11982', 'CVE-2019-11983']",2022-03-21T15:57Z

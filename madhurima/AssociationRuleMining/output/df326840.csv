@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:openview_nnm_advanced_edition_device_support_for_marconi_lan:2.0.0:*:*:*:*:*:*:*,HP Openview Nnm Advanced Edition Device Support For Marconi Lan 2.0.0,[''],2022-03-21T15:36Z
+1,cpe:2.3:a:hp:openview_nnm_advanced_edition_device_support_for_nortel_bay:3.11.0:*:*:*:*:*:*:*,HP Openview Nnm Advanced Edition Device Support For Nortel Bay 3.11.0,[''],2022-03-21T15:36Z
+2,cpe:2.3:a:hp:openview_nnm_advanced_edition_device_support_for_nortel_passport:3.21.0:*:*:*:*:*:*:*,HP Openview Nnm Advanced Edition Device Support For Nortel Passport 3.21.0,[''],2022-03-21T15:36Z
+3,cpe:2.3:a:hp:openview_nnm_advanced_edition_device_support_for_riverstone:1.0.0:*:*:*:*:*:*:*,HP Openview Nnm Advanced Edition Device Support For Riverstone 1.0.0,[''],2022-03-21T15:36Z
+4,cpe:2.3:a:hp:openview_nnm_advanced_edition_mib_support_for_huawei_switch:1.0.0:*:*:*:*:*:*:*,HP Openview Nnm Advanced Edition Mib Support For Huawei Switch 1.0.0,[''],2022-03-21T15:36Z
+5,cpe:2.3:a:hp:openview_nnm_advanced_edition_protocol_support_for_vrrp:1.1.0:*:*:*:*:*:*:*,HP Openview Nnm Advanced Edition Protocol Support For Vrrp 1.1.0,[''],2022-03-21T15:36Z
+6,cpe:2.3:a:hp:openview_nnm_lcore_dependencies:7.53.0:*:*:*:*:*:*:*,HP Openview Nnm Lcore Dependencies 7.53.0,[''],2022-03-21T15:36Z
+7,cpe:2.3:a:hp:openview_omniback_ii:-:*:*:*:*:*:*:*,HP OpenView OmniBack II,[''],2022-03-21T15:36Z
+8,cpe:2.3:a:hp:openview_omniback_ii:2.55:*:*:*:*:*:*:*,HP OpenView OmniBack II 2.55,['CVE-2000-0179'],2022-03-21T15:36Z
+9,cpe:2.3:a:hp:openview_omniback_ii:3.0:*:*:*:*:*:*:*,HP OpenView OmniBack II 3.0,['CVE-2000-0179'],2022-03-21T15:36Z

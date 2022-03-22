@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:hx220c_m5_firmware:3.0\(1a\):*:*:*:*:*:*:*,Cisco HX220C M5 Firmware 3.0(1A),['CVE-2019-1857'],2022-03-19T19:57Z
+1,cpe:2.3:h:cisco:hx240c_af_m5:-:*:*:*:*:*:*:*,Cisco HX240C AF M5,['CVE-2019-1857'],2022-03-19T19:57Z
+2,cpe:2.3:o:cisco:hx240c_af_m5_firmware:3.0\(1a\):*:*:*:*:*:*:*,Cisco HX240C AF M5 Firmware 3.0(1A),['CVE-2019-1857'],2022-03-19T19:57Z
+3,cpe:2.3:h:cisco:hx240c_large_form_factor:-:*:*:*:*:*:*:*,Cisco HX240C Large Form Factor,['CVE-2019-1857'],2022-03-19T19:57Z
+4,cpe:2.3:o:cisco:hx240c_large_form_factor_firmware:3.0\(1a\):*:*:*:*:*:*:*,Cisco HX240C Large Form Factor Firmware 3.0(1A),['CVE-2019-1857'],2022-03-19T19:57Z
+5,cpe:2.3:h:cisco:hx240c_m5:-:*:*:*:*:*:*:*,Cisco HX240C M5,['CVE-2019-1857'],2022-03-19T19:57Z
+6,cpe:2.3:o:cisco:hx240c_m5_firmware:3.0\(1a\):*:*:*:*:*:*:*,Cisco HX240C M5 Firmware 3.0(1A),['CVE-2019-1857'],2022-03-19T19:57Z
+7,cpe:2.3:a:cisco:hybrid_media_service:1.0_base:*:*:*:*:*:*:*,Cisco Hybrid Media Service 1.0 Base,['CVE-2016-6470'],2022-03-19T19:57Z
+8,cpe:2.3:a:cisco:hybrid_meeting_server:1.0_base:*:*:*:*:*:*:*,Cisco Hybrid Meeting Server 1.0 Base,['CVE-2016-9218'],2022-03-19T19:57Z
+9,cpe:2.3:o:cisco:hyperflex_hx_data_platform:1.8:*:*:*:*:*:*:*,Cisco HyperFlex HX Data Platform 1.8,"['CVE-2019-1958', 'CVE-2021-1498', 'CVE-2021-1499']",2022-03-19T19:58Z

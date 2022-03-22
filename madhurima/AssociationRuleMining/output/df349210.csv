@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:sterling_external_authentication_server:6.0.0.0:*:*:*:*:*:*:*,IBM Sterling External Authentication Server 6.0.0.0,['CVE-2020-4462'],2022-03-21T22:19Z
+1,cpe:2.3:a:ibm:sterling_external_authentication_server:6.0.0.1:*:*:*:*:*:*:*,IBM Sterling External Authentication Server (SEAS) 6.0.0.1,[''],2022-03-21T22:19Z
+2,cpe:2.3:a:ibm:sterling_external_authentication_server:6.0.1.0:*:*:*:*:*:*:*,IBM Sterling External Authentication Server 6.0.1.0,"['CVE-2020-4462', 'CVE-2021-29722', 'CVE-2021-29723', 'CVE-2021-29728']",2022-03-21T22:19Z
+3,cpe:2.3:a:ibm:sterling_external_authentication_server:6.0.1.1:*:*:*:*:*:*:*,IBM Sterling External Authentication Server (SEAS) 6.0.1.1,[''],2022-03-21T22:19Z
+4,cpe:2.3:a:ibm:sterling_external_authentication_server:6.0.2.0:*:*:*:*:*:*:*,IBM Sterling External Authentication Server (SEAS) 6.0.2.0,"['CVE-2021-29722', 'CVE-2021-29723', 'CVE-2021-29728', 'CVE-2022-22333', 'CVE-2022-22336', 'CVE-2022-22349']",2022-03-21T22:19Z
+5,cpe:2.3:a:ibm:sterling_external_authentication_server:6.0.3.0:*:*:*:*:*:*:*,IBM Sterling External Authentication Server 6.0.3.0,"['CVE-2022-22333', 'CVE-2022-22336', 'CVE-2022-22349']",2022-03-21T22:19Z
+6,cpe:2.3:a:ibm:sterling_file_gateway:-:*:*:*:*:*:*:*,Sterling Sterling File Gateway,['CVE-2013-0455'],2022-03-21T22:19Z
+7,cpe:2.3:a:ibm:sterling_file_gateway:1.1:*:*:*:*:*:*:*,Sterling Sterling File Gateway 1.1,['CVE-2012-5937'],2022-03-21T22:19Z
+8,cpe:2.3:a:ibm:sterling_file_gateway:2.0:*:*:*:*:*:*:*,Sterling Sterling File Gateway 2.0,['CVE-2012-5937'],2022-03-21T22:19Z
+9,cpe:2.3:a:ibm:sterling_file_gateway:2.1:*:*:*:*:*:*:*,Sterling Sterling File Gateway 2.1,"['CVE-2012-5766', 'CVE-2012-5936', 'CVE-2012-5937', 'CVE-2013-0456', 'CVE-2013-0463', 'CVE-2013-0468', 'CVE-2013-0475', 'CVE-2013-0476', 'CVE-2013-0479', 'CVE-2013-0481', 'CVE-2013-0539', 'CVE-2013-0558', 'CVE-2013-0560', 'CVE-2013-0567', 'CVE-2013-0568', 'CVE-2013-2982', 'CVE-2013-2984', 'CVE-2013-2985', 'CVE-2013-2987', 'CVE-2013-3020', 'CVE-2013-4002', 'CVE-2014-0912', 'CVE-2014-0927', 'CVE-2014-6199', 'CVE-2015-0194']",2022-03-21T22:19Z

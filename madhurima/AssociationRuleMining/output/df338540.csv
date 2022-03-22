@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hybridauth_social_login_project:hybridauth_social_login:7.x-2.10:*:*:*:*:drupal:*:*,Hybridauth Social Login Project  Hybridauth Social Login for Drupal 7.x-2.10,['CVE-2015-5511'],2022-03-21T19:20Z
+1,cpe:2.3:a:hybridauth_social_login_project:hybridauth_social_login:7.x-2.11:*:*:*:*:drupal:*:*,Hybridauth Social Login Project  Hybridauth Social Login for Drupal 7.x-2.11,['CVE-2015-5511'],2022-03-21T19:20Z
+2,cpe:2.3:a:hybridauth_social_login_project:hybridauth_social_login:7.x-2.12:*:*:*:*:drupal:*:*,Hybridauth Social Login Project  Hybridauth Social Login for Drupal 7.x-2.12,['CVE-2015-5511'],2022-03-21T19:20Z
+3,cpe:2.3:a:hybridgroup:gobot:0.1:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.1,['CVE-2019-12496'],2022-03-21T19:20Z
+4,cpe:2.3:a:hybridgroup:gobot:0.2:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.2,['CVE-2019-12496'],2022-03-21T19:20Z
+5,cpe:2.3:a:hybridgroup:gobot:0.3:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.3,['CVE-2019-12496'],2022-03-21T19:20Z
+6,cpe:2.3:a:hybridgroup:gobot:0.4:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.4,['CVE-2019-12496'],2022-03-21T19:20Z
+7,cpe:2.3:a:hybridgroup:gobot:0.5:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.5,['CVE-2019-12496'],2022-03-21T19:20Z
+8,cpe:2.3:a:hybridgroup:gobot:0.5.1:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.5.1,['CVE-2019-12496'],2022-03-21T19:20Z
+9,cpe:2.3:a:hybridgroup:gobot:0.5.2:*:*:*:*:*:*:*,The Hybrid Group Gobot 0.5.2,['CVE-2019-12496'],2022-03-21T19:20Z

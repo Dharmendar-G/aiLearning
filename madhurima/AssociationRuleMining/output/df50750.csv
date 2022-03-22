@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:asuswrt-merlin_project:rt-ac58u:-:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-AC58U,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420']",2022-03-19T00:01Z
+1,cpe:2.3:o:asuswrt-merlin_project:rt-ac58u_firmware:3.0.0.4.380.7485:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-AC58U Firmware 3.0.0.4.380.7485,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420']",2022-03-19T00:01Z
+2,cpe:2.3:h:asuswrt-merlin_project:rt-ac66u:-:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-AC66U,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420']",2022-03-19T00:01Z
+3,cpe:2.3:h:asuswrt-merlin_project:rt-ac66u_b1:-:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-AC66U B1,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420', 'CVE-2018-18319', 'CVE-2018-18320']",2022-03-19T00:01Z
+4,cpe:2.3:o:asuswrt-merlin_project:rt-ac66u_b1_firmware:-:*:*:*:*:*:*:*,Asuswrt-Merlin RT-AC66U B1 Firmware,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420', 'CVE-2018-18319', 'CVE-2018-18320']",2022-03-19T00:01Z
+5,cpe:2.3:o:asuswrt-merlin_project:rt-ac66u_b1_firmware:3.0.0.4.380.7743:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-AC66U B1 Firmware 3.0.0.4.380.7743,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420', 'CVE-2018-18319', 'CVE-2018-18320']",2022-03-19T00:01Z
+6,cpe:2.3:o:asuswrt-merlin_project:rt-ac66u_b1_firmware:380.70:*:*:*:*:*:*:*,Asuswrt-Merlin RT-AC66U B1 Firmware 380.70,"['CVE-2018-18319', 'CVE-2018-18320']",2022-03-19T00:01Z
+7,cpe:2.3:o:asuswrt-merlin_project:rt-ac66u_firmware:3.0.0.4.380.7743:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-AC66U Firmware 3.0.0.4.380.7743,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420']",2022-03-19T00:01Z
+8,cpe:2.3:h:asuswrt-merlin_project:rt-ac68p:-:*:*:*:*:*:*:*,Asuswrt-Merlin Project RT-AC68P,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420', 'CVE-2018-18319', 'CVE-2018-18320']",2022-03-19T00:01Z
+9,cpe:2.3:o:asuswrt-merlin_project:rt-ac68p_firmware:-:*:*:*:*:*:*:*,Asuswrt-Merlin RT-AC68P Firmware,"['CVE-2017-11344', 'CVE-2017-11345', 'CVE-2017-11420', 'CVE-2018-18319', 'CVE-2018-18320']",2022-03-19T00:01Z

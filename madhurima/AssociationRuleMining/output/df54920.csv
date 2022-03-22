@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:editor-core:61.4.3:*:*:*:*:node.js:*:*,Atlassian editor-core 61.4.3 for Node.js,['CVE-2019-20903'],2022-03-19T00:58Z
+1,cpe:2.3:a:atlassian:editor-core:61.4.4:*:*:*:*:node.js:*:*,Atlassian editor-core 61.4.4 for Node.js,['CVE-2019-20903'],2022-03-19T00:58Z
+2,cpe:2.3:a:atlassian:editor-core:61.4.5:*:*:*:*:node.js:*:*,Atlassian editor-core 61.4.5 for Node.js,['CVE-2019-20903'],2022-03-19T00:58Z
+3,cpe:2.3:a:atlassian:editor-core:61.4.6:*:*:*:*:node.js:*:*,Atlassian editor-core 61.4.6 for Node.js,['CVE-2019-20903'],2022-03-19T00:58Z
+4,cpe:2.3:a:atlassian:editor-core:61.4.7:*:*:*:*:node.js:*:*,Atlassian editor-core 61.4.7 for Node.js,['CVE-2019-20903'],2022-03-19T00:58Z
+5,cpe:2.3:a:atlassian:editor-core:61.4.8:*:*:*:*:node.js:*:*,Atlassian editor-core 61.4.8 for Node.js,['CVE-2019-20903'],2022-03-19T00:58Z
+6,cpe:2.3:a:atlassian:editor-core:61.4.9:*:*:*:*:node.js:*:*,Atlassian editor-core 61.4.9 for Node.js,['CVE-2019-20903'],2022-03-19T00:58Z
+7,cpe:2.3:a:atlassian:editor-core:61.4.10:*:*:*:*:node.js:*:*,Atlassian editor-core 61.4.10 for Node.js,['CVE-2019-20903'],2022-03-19T00:58Z
+8,cpe:2.3:a:atlassian:editor-core:61.4.11:*:*:*:*:node.js:*:*,Atlassian editor-core 61.4.11 for Node.js,['CVE-2019-20903'],2022-03-19T00:58Z
+9,cpe:2.3:a:atlassian:editor-core:61.4.12:*:*:*:*:node.js:*:*,Atlassian editor-core 61.4.12 for Node.js,['CVE-2019-20903'],2022-03-19T00:58Z

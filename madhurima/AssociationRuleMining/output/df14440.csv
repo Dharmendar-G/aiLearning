@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aerospike:aerospike:1.0.44:*:*:*:*:node.js:*:*,Aerospike 1.0.44 for Node.js,['CVE-2016-10558'],2022-03-18T13:21Z
+1,cpe:2.3:a:aerospike:aerospike:1.0.45:*:*:*:*:node.js:*:*,Aerospike 1.0.45 for Node.js,['CVE-2016-10558'],2022-03-18T13:21Z
+2,cpe:2.3:a:aerospike:aerospike:1.0.46:*:*:*:*:node.js:*:*,Aerospike 1.0.46 for Node.js,['CVE-2016-10558'],2022-03-18T13:21Z
+3,cpe:2.3:a:aerospike:aerospike:1.0.47:*:*:*:*:node.js:*:*,Aerospike 1.0.47 for Node.js,['CVE-2016-10558'],2022-03-18T13:21Z
+4,cpe:2.3:a:aerospike:aerospike:1.0.48:*:*:*:*:node.js:*:*,Aerospike 1.0.48 for Node.js,['CVE-2016-10558'],2022-03-18T13:21Z
+5,cpe:2.3:a:aerospike:aerospike:1.0.49:*:*:*:*:node.js:*:*,Aerospike 1.0.49 for Node.js,['CVE-2016-10558'],2022-03-18T13:21Z
+6,cpe:2.3:a:aerospike:aerospike:1.0.50:*:*:*:*:node.js:*:*,Aerospike 1.0.50 for Node.js,['CVE-2016-10558'],2022-03-18T13:21Z
+7,cpe:2.3:a:aerospike:aerospike:1.0.51:*:*:*:*:node.js:*:*,Aerospike 1.0.51 for Node.js,['CVE-2016-10558'],2022-03-18T13:21Z
+8,cpe:2.3:a:aerospike:aerospike:1.0.52:*:*:*:*:node.js:*:*,Aerospike 1.0.52 for Node.js,['CVE-2016-10558'],2022-03-18T13:21Z
+9,cpe:2.3:a:aerospike:aerospike:1.0.53:*:*:*:*:node.js:*:*,Aerospike 1.0.53 for Node.js,['CVE-2016-10558'],2022-03-18T13:21Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hpe:3par_service_provider:sp-4.4.0.ga-110:*:*:*:*:*:*:*,HPE 3PAR Service Provider Service Pack SP-4.4.0.ga-110,['CVE-2018-7094'],2022-03-21T16:25Z
+1,cpe:2.3:o:hpe:3par_service_provider:sp-4.4.0.ga-129:*:*:*:*:*:*:*,HPE 3PAR Service Provider Service Pack SP-4.4.0.ga-129,['CVE-2018-7094'],2022-03-21T16:25Z
+2,cpe:2.3:o:hpe:3par_service_provider:sp-5.0.0.0-22913:*:*:*:*:*:*:*,HPE 3PAR Service Provider Service Pack SP-5.0.0.0-22913,[''],2022-03-21T16:25Z
+3,cpe:2.3:h:hpe:3par_storeserv_10400:-:*:*:*:*:*:*:*,HPE 3PAR StoreServ 10400 -,['CVE-2021-26588'],2022-03-21T16:25Z
+4,cpe:2.3:h:hpe:3par_storeserv_10800:-:*:*:*:*:*:*:*,HPE 3PAR StoreServ 10800 -,['CVE-2021-26588'],2022-03-21T16:25Z
+5,cpe:2.3:h:hpe:3par_storeserv_20000:-:*:*:*:*:*:*:*,HPE 3PAR StoreServ 20000 -,['CVE-2021-26588'],2022-03-21T16:25Z
+6,cpe:2.3:h:hpe:3par_storeserv_7200c:-:*:*:*:*:*:*:*,HPE 3PAR StoreServ 7200C -,['CVE-2021-26588'],2022-03-21T16:25Z
+7,cpe:2.3:h:hpe:3par_storeserv_7400c:-:*:*:*:*:*:*:*,HPE 3PAR StoreServ 7400C -,['CVE-2021-26588'],2022-03-21T16:25Z
+8,cpe:2.3:h:hpe:3par_storeserv_7440c:-:*:*:*:*:*:*:*,HPE 3PAR StoreServ 7440C -,['CVE-2021-26588'],2022-03-21T16:25Z
+9,cpe:2.3:h:hpe:3par_storeserv_8000:-:*:*:*:*:*:*:*,HPE 3PAR StoreServ 8000 -,['CVE-2021-26588'],2022-03-21T16:25Z

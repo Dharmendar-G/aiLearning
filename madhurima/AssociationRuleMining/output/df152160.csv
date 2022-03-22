@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codecov:codecov:3.2.0:*:*:*:*:node.js:*:*,Codecov 3.2.0 for Node.js,"['CVE-2020-15123', 'CVE-2020-7597']",2022-03-20T05:17Z
+1,cpe:2.3:a:codecov:codecov:3.3.0:*:*:*:*:node.js:*:*,Codecov 3.3.0 for Node.js,"['CVE-2020-15123', 'CVE-2020-7597']",2022-03-20T05:17Z
+2,cpe:2.3:a:codecov:codecov:3.4.0:*:*:*:*:node.js:*:*,Codecov 3.4.0 for Node.js,"['CVE-2020-15123', 'CVE-2020-7597']",2022-03-20T05:17Z
+3,cpe:2.3:a:codecov:codecov:3.5.0:*:*:*:*:node.js:*:*,Codecov 3.5.0 for Node.js,"['CVE-2020-15123', 'CVE-2020-7597']",2022-03-20T05:17Z
+4,cpe:2.3:a:codecov:codecov:3.6.0:*:*:*:*:node.js:*:*,Codecov 3.6.0 for Node.js,"['CVE-2020-15123', 'CVE-2020-7597']",2022-03-20T05:17Z
+5,cpe:2.3:a:codecov:codecov:3.6.1:*:*:*:*:node.js:*:*,Codecov 3.6.1 for Node.js,"['CVE-2020-15123', 'CVE-2020-7597']",2022-03-20T05:17Z
+6,cpe:2.3:a:codecov:codecov:3.6.2:*:*:*:*:node.js:*:*,Codecov 3.6.2 for Node.js,"['CVE-2020-15123', 'CVE-2020-7597']",2022-03-20T05:17Z
+7,cpe:2.3:a:codecov:codecov:3.6.3:*:*:*:*:node.js:*:*,Codecov 3.6.3 for Node.js,"['CVE-2020-15123', 'CVE-2020-7597']",2022-03-20T05:17Z
+8,cpe:2.3:a:codecov:codecov:3.6.4:*:*:*:*:node.js:*:*,Codecov 3.6.4 for Node.js,"['CVE-2020-15123', 'CVE-2020-7597']",2022-03-20T05:17Z
+9,cpe:2.3:a:codecov:codecov:3.6.5:*:*:*:*:node.js:*:*,Codecov 3.6.5 for Node.js,['CVE-2020-15123'],2022-03-20T05:17Z

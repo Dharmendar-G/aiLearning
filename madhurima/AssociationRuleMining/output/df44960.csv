@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arachnys:cabot:0.11.6:beta2:*:*:*:*:*:*,Arachnys Cabot 0.11.6 Beta 2,['CVE-2020-7734'],2022-03-18T22:41Z
+1,cpe:2.3:a:arachnys:cabot:0.11.6:beta3:*:*:*:*:*:*,Arachnys Cabot 0.11.6 Beta 3,['CVE-2020-7734'],2022-03-18T22:41Z
+2,cpe:2.3:a:arachnys:cabot:0.11.7:*:*:*:*:*:*:*,Arachnys Cabot 0.11.7,['CVE-2020-7734'],2022-03-18T22:41Z
+3,cpe:2.3:a:arachnys:cabot:0.11.8:*:*:*:*:*:*:*,Arachnys Cabot 0.11.8,['CVE-2020-7734'],2022-03-18T22:41Z
+4,cpe:2.3:a:arachnys:cabot:0.11.9:*:*:*:*:*:*:*,Arachnys Cabot 0.11.9,['CVE-2020-7734'],2022-03-18T22:41Z
+5,cpe:2.3:a:arachnys:cabot:0.11.10:*:*:*:*:*:*:*,Arachnys Cabot 0.11.10,['CVE-2020-7734'],2022-03-18T22:41Z
+6,cpe:2.3:a:arachnys:cabot:0.11.11:*:*:*:*:*:*:*,Arachnys Cabot 0.11.11,['CVE-2020-7734'],2022-03-18T22:41Z
+7,cpe:2.3:a:arachnys:cabot:0.11.12:*:*:*:*:*:*:*,Arachnys Cabot 0.11.12,"['CVE-2020-25449', 'CVE-2020-7734']",2022-03-18T22:41Z
+8,cpe:2.3:a:arachnys:cabot:0.11.13:*:*:*:*:*:*:*,Arachnys Cabot 0.11.13,['CVE-2020-7734'],2022-03-18T22:41Z
+9,cpe:2.3:a:arachnys:cabot:0.11.14:*:*:*:*:*:*:*,Arachnys Cabot 0.11.14,['CVE-2020-7734'],2022-03-18T22:41Z

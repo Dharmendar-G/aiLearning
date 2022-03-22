@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:harmistechnology:ek_rishta:2.10:*:*:*:*:joomla\!:*:*,Harmis Technology Ek rishta 2.10 for Joomla!,['CVE-2018-12254'],2022-03-21T09:24Z
+1,cpe:2.3:a:harmistechnology:je_messenger:1.2.2:*:*:*:*:joomla\!:*:*,Harmis Technology JE Messenger 1.2.2 for Joomla!,"['CVE-2019-9918', 'CVE-2019-9919', 'CVE-2019-9920', 'CVE-2019-9921', 'CVE-2019-9922']",2022-03-21T09:24Z
+2,cpe:2.3:a:harmonicdesign:hd_quiz:-:*:*:*:*:wordpress:*:*,Harmonic Design HDQuiz for WordPress,['CVE-2021-24571'],2022-03-21T09:24Z
+3,cpe:2.3:a:harmonicdesign:hd_quiz:1.1:*:*:*:*:wordpress:*:*,Harmonic Design HDQuiz 1.1 for WordPress,['CVE-2021-24571'],2022-03-21T09:24Z
+4,cpe:2.3:a:harmonicdesign:hd_quiz:1.2:*:*:*:*:wordpress:*:*,Harmonic Design HDQuiz 1.2 for WordPress,['CVE-2021-24571'],2022-03-21T09:24Z
+5,cpe:2.3:a:harmonicdesign:hd_quiz:1.2.1:*:*:*:*:wordpress:*:*,Harmonic Design HDQuiz 1.2.1 for WordPress,['CVE-2021-24571'],2022-03-21T09:24Z
+6,cpe:2.3:a:harmonicdesign:hd_quiz:1.3.0:*:*:*:*:wordpress:*:*,Harmonic Design HDQuiz 1.3.0 for WordPress,['CVE-2021-24571'],2022-03-21T09:24Z
+7,cpe:2.3:a:harmonicdesign:hd_quiz:1.3.5:*:*:*:*:wordpress:*:*,Harmonic Design HDQuiz 1.3.5 for WordPress,['CVE-2021-24571'],2022-03-21T09:24Z
+8,cpe:2.3:a:harmonicdesign:hd_quiz:1.4.0:*:*:*:*:wordpress:*:*,Harmonic Design HDQuiz 1.4.0 for WordPress,['CVE-2021-24571'],2022-03-21T09:24Z
+9,cpe:2.3:a:harmonicdesign:hd_quiz:1.4.1:*:*:*:*:wordpress:*:*,Harmonic Design HDQuiz 1.4.1 for WordPress,['CVE-2021-24571'],2022-03-21T09:24Z

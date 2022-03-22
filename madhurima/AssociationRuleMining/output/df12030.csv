@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:ops-cli:2.1.5:*:*:*:*:*:*:*,Adobe Ops CLI 2.1.5,[''],2022-03-18T12:46Z
+1,cpe:2.3:a:adobe:ops-cli:2.1.6:*:*:*:*:*:*:*,Adobe Ops CLI 2.1.6,[''],2022-03-18T12:46Z
+2,cpe:2.3:a:adobe:ops-cli:2.1.7:*:*:*:*:*:*:*,Adobe Ops CLI 2.1.7,[''],2022-03-18T12:46Z
+3,cpe:2.3:a:adobe:output_module:2.0:*:*:*:*:*:*:*,Adobe Output Module 2.0,[''],2022-03-18T12:46Z
+4,cpe:2.3:a:adobe:output_module:2.1:*:*:*:*:*:*:*,Adobe Output Module 2.1,[''],2022-03-18T12:46Z
+5,cpe:2.3:a:adobe:pagemaker:-:*:*:*:*:*:*:*,Adobe Pagemaker,[''],2022-03-18T12:46Z
+6,cpe:2.3:a:adobe:pagemaker:6.5:*:*:*:*:*:*:*,Adobe Pagemaker 6.5,['CVE-2006-0525'],2022-03-18T12:46Z
+7,cpe:2.3:a:adobe:pagemaker:7.0:*:*:*:*:*:*:*,Adobe Pagemaker 7.0,['CVE-2006-0525'],2022-03-18T12:46Z
+8,cpe:2.3:a:adobe:pagemaker:7.0.1:*:*:*:*:*:*:*,Adobe Pagemaker 7.0.1,"['CVE-2007-5169', 'CVE-2007-5394', 'CVE-2007-6021', 'CVE-2007-6432']",2022-03-18T12:46Z
+9,cpe:2.3:a:adobe:pagemaker:7.0.2:*:*:*:*:*:*:*,アドビシステムズ ページメーカー 7.0.2,"['CVE-2007-5169', 'CVE-2007-5394', 'CVE-2007-6021', 'CVE-2007-6432']",2022-03-18T12:46Z

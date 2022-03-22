@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cygnux:syspass:1.1.2.20:*:*:*:*:*:*:*,Cygnux sysPass 1.1.2.20,['CVE-2017-1000192'],2022-03-20T09:43Z
+1,cpe:2.3:a:cygnux:syspass:1.1.2.21:*:*:*:*:*:*:*,Cygnux sysPass 1.1.2.21,['CVE-2017-1000192'],2022-03-20T09:43Z
+2,cpe:2.3:a:cygnux:syspass:1.1.2.22:*:*:*:*:*:*:*,Cygnux sysPass 1.1.2.22,['CVE-2017-1000192'],2022-03-20T09:43Z
+3,cpe:2.3:a:cygnux:syspass:1.1.2.23:*:*:*:*:*:*:*,Cygnux sysPass 1.1.2.23,['CVE-2017-1000192'],2022-03-20T09:43Z
+4,cpe:2.3:a:cygnux:syspass:1.1.2.24:*:*:*:*:*:*:*,Cygnux sysPass 1.1.2.24,['CVE-2017-1000192'],2022-03-20T09:43Z
+5,cpe:2.3:a:cygnux:syspass:1.2.0.01:*:*:*:*:*:*:*,Cygnux sysPass 1.2.0.01,['CVE-2017-1000192'],2022-03-20T09:43Z
+6,cpe:2.3:a:cygnux:syspass:1.2.0.02:*:*:*:*:*:*:*,Cygnux sysPass 1.2.0.02,['CVE-2017-1000192'],2022-03-20T09:43Z
+7,cpe:2.3:a:cygnux:syspass:1.2.0.03:*:*:*:*:*:*:*,Cygnux sysPass 1.2.0.03,['CVE-2017-1000192'],2022-03-20T09:43Z
+8,cpe:2.3:a:cygnux:syspass:1.2.0.04:*:*:*:*:*:*:*,Cygnux sysPass 1.2.0.04,['CVE-2017-1000192'],2022-03-20T09:43Z
+9,cpe:2.3:a:cygnux:syspass:1.2.0.05:*:*:*:*:*:*:*,Cygnux sysPass 1.2.0.05,['CVE-2017-1000192'],2022-03-20T09:43Z

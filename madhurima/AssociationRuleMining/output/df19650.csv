@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alkacon:opencms:8:*:*:*:*:*:*:*,Alkacon OpenCms 8,"['CVE-2009-4505', 'CVE-2013-4600', 'CVE-2019-11818', 'CVE-2019-11819']",2022-03-18T14:52Z
+1,cpe:2.3:a:alkacon:opencms:8.0.1:*:*:*:*:*:*:*,Alkacon OpenCms 8.0.1,"['CVE-2009-4505', 'CVE-2013-4600', 'CVE-2019-11818', 'CVE-2019-11819']",2022-03-18T14:52Z
+2,cpe:2.3:a:alkacon:opencms:8.0.2:*:*:*:*:*:*:*,Alkacon OpenCms 8.0.2,"['CVE-2009-4505', 'CVE-2013-4600', 'CVE-2019-11818', 'CVE-2019-11819']",2022-03-18T14:52Z
+3,cpe:2.3:a:alkacon:opencms:8.0.3:*:*:*:*:*:*:*,Alkacon OpenCms 8.0.3,"['CVE-2009-4505', 'CVE-2013-4600', 'CVE-2019-11818', 'CVE-2019-11819']",2022-03-18T14:52Z
+4,cpe:2.3:a:alkacon:opencms:8.0.4:*:*:*:*:*:*:*,Alkacon OpenCms 8.0.4,"['CVE-2009-4505', 'CVE-2013-4600', 'CVE-2019-11818', 'CVE-2019-11819']",2022-03-18T14:52Z
+5,cpe:2.3:a:alkacon:opencms:8.5:*:*:*:*:*:*:*,Alkacon OpenCms 8.5,"['CVE-2009-4505', 'CVE-2013-4600', 'CVE-2019-11818', 'CVE-2019-11819']",2022-03-18T14:52Z
+6,cpe:2.3:a:alkacon:opencms:8.5.1:*:*:*:*:*:*:*,Alkacon OpenCms 8.5.1,"['CVE-2009-4505', 'CVE-2013-4600', 'CVE-2019-11818', 'CVE-2019-11819']",2022-03-18T14:52Z
+7,cpe:2.3:a:alkacon:opencms:8.5.2:*:*:*:*:*:*:*,Alkacon OpenCms 8.5.2,"['CVE-2009-4505', 'CVE-2019-11818', 'CVE-2019-11819']",2022-03-18T14:52Z
+8,cpe:2.3:a:alkacon:opencms:9:-:*:*:*:*:*:*,Alkacon OpenCms 9 -,"['CVE-2009-4505', 'CVE-2019-11818', 'CVE-2019-11819']",2022-03-18T14:52Z
+9,cpe:2.3:a:alkacon:opencms:9:rc:*:*:*:*:*:*,Alkacon OpenCms 9 Release Candidate,"['CVE-2009-4505', 'CVE-2019-11818', 'CVE-2019-11819']",2022-03-18T14:52Z

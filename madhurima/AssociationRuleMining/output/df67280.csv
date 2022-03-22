@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ays-pro:poll_maker:3.2.2:*:*:*:*:wordpress:*:*,AYS Pro Poll Maker 3.2.2 for WordPress,"['CVE-2021-24651', 'CVE-2021-34635']",2022-03-19T05:10Z
+1,cpe:2.3:a:ays-pro:poll_maker:3.2.3:*:*:*:*:wordpress:*:*,AYS Pro Poll Maker 3.2.3 for WordPress,"['CVE-2021-24651', 'CVE-2021-34635']",2022-03-19T05:10Z
+2,cpe:2.3:a:ays-pro:poll_maker:3.2.4:*:*:*:*:wordpress:*:*,AYS Pro Poll Maker 3.2.4 for WordPress,"['CVE-2021-24651', 'CVE-2021-34635']",2022-03-19T05:10Z
+3,cpe:2.3:a:ays-pro:poll_maker:3.2.5:*:*:*:*:wordpress:*:*,AYS Pro Poll Maker 3.2.5 for WordPress,"['CVE-2021-24651', 'CVE-2021-34635']",2022-03-19T05:10Z
+4,cpe:2.3:a:ays-pro:poll_maker:3.2.6:*:*:*:*:wordpress:*:*,AYS Pro Poll Maker 3.2.6 for WordPress,"['CVE-2021-24651', 'CVE-2021-34635']",2022-03-19T05:10Z
+5,cpe:2.3:a:ays-pro:poll_maker:3.2.7:*:*:*:*:wordpress:*:*,AYS Pro Poll Maker 3.2.7 for WordPress,"['CVE-2021-24651', 'CVE-2021-34635']",2022-03-19T05:10Z
+6,cpe:2.3:a:ays-pro:poll_maker:3.2.8:*:*:*:*:wordpress:*:*,AYS Pro Poll Maker 3.2.8 for WordPress,"['CVE-2021-24651', 'CVE-2021-34635']",2022-03-19T05:10Z
+7,cpe:2.3:a:ays-pro:poll_maker:3.2.9:*:*:*:*:wordpress:*:*,AYS Pro Poll Maker 3.2.9 for WordPress,['CVE-2021-24651'],2022-03-19T05:10Z
+8,cpe:2.3:a:ays-pro:poll_maker:3.3.0:*:*:*:*:wordpress:*:*,AYS Pro Poll Maker 3.3.0 for WordPress,['CVE-2021-24651'],2022-03-19T05:10Z
+9,cpe:2.3:a:ays-pro:poll_maker:3.3.1:*:*:*:*:wordpress:*:*,AYS Pro Poll Maker 3.3.1 for WordPress,['CVE-2021-24651'],2022-03-19T05:10Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chyrp-lite_project:chyrp-lite:2020.01:*:*:*:*:*:*:*,Chyrp Lite Project Chyrp Lite 2020.01,[''],2022-03-19T17:40Z
+1,cpe:2.3:a:chyrp-lite_project:chyrp-lite:2020.02:*:*:*:*:*:*:*,Chyrp Lite Project Chyrp Lite 2020.02,[''],2022-03-19T17:40Z
+2,cpe:2.3:a:chyrp-lite_project:chyrp-lite:2020.03:*:*:*:*:*:*:*,Chyrp Lite Project Chyrp Lite 2020.03,[''],2022-03-19T17:40Z
+3,cpe:2.3:a:cibc:cibc_mobile_banking:3.2:*:*:*:*:android:*:*,CIBC CIBC Mobile Banking (aka com.cibc.android.mobi) application for Android 3.2,['CVE-2014-5594'],2022-03-19T17:40Z
+4,cpe:2.3:a:cibnliveinteractive_project:cibnliveinteractive:-:*:*:*:*:*:*:*,CIBNLiveInteractive Project CIBNLiveInteractive,['CVE-2018-13187'],2022-03-19T17:40Z
+5,cpe:2.3:a:ciborg_project:ciborg:0.0.1:*:*:*:*:ruby:*:*,ciborg Project ciborg 0.0.1 for Ruby,[''],2022-03-19T17:40Z
+6,cpe:2.3:a:ciborg_project:ciborg:3.0.0:*:*:*:*:ruby:*:*,ciborg Project ciborg 3.0.0 for Ruby,['CVE-2014-5003'],2022-03-19T17:40Z
+7,cpe:2.3:a:c-icap_project:c-icap:0.2.1:*:*:*:*:*:*:*,c-icap project c-icap 0.2.1,"['CVE-2013-7401', 'CVE-2013-7402']",2022-03-19T17:40Z
+8,cpe:2.3:a:c-icap_project:c-icap:0.2.2:*:*:*:*:*:*:*,c-icap project c-icap 0.2.2,"['CVE-2013-7401', 'CVE-2013-7402']",2022-03-19T17:40Z
+9,cpe:2.3:a:c-icap_project:c-icap:0.2.3:*:*:*:*:*:*:*,c-icap project c-icap 0.2.3,"['CVE-2013-7401', 'CVE-2013-7402']",2022-03-19T17:40Z

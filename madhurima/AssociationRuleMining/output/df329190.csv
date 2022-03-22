@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:storage_data_protector:8.10:-:*:*:*:windows_8:*:*,HP Storage Data Protector 8.10 for Windows 8,['CVE-2014-2623'],2022-03-21T16:07Z
+1,cpe:2.3:a:hp:storage_data_protector:8.10:-:*:*:*:windows_server_2003:*:*,HP Storage Data Protector 8.10 for Windows Server 2003,['CVE-2014-2623'],2022-03-21T16:07Z
+2,cpe:2.3:a:hp:storage_data_protector:8.10:-:*:*:*:windows_server_2008:*:*,HP Storage Data Protector 8.10 for Windows Server 2008,['CVE-2014-2623'],2022-03-21T16:07Z
+3,cpe:2.3:a:hp:storage_essentials:9.5.0.142:*:*:*:*:*:*:*,HP Storage Essentials 9.5.0.142,['CVE-2017-10992'],2022-03-21T16:07Z
+4,cpe:2.3:a:hp:storage_management_software:9.5:*:*:*:*:*:*:*,HP Storage Management Software 9.5,"['CVE-2014-2605', 'CVE-2014-2606']",2022-03-21T16:07Z
+5,cpe:2.3:a:hp:storage_management_software:10.0:*:*:*:*:*:*:*,HP Storage Management Software 10.0,"['CVE-2014-2605', 'CVE-2014-2606']",2022-03-21T16:07Z
+6,cpe:2.3:a:hp:storage_management_software:10.5:*:*:*:*:*:*:*,HP Storage Management Software 10.5,"['CVE-2014-2605', 'CVE-2014-2606']",2022-03-21T16:07Z
+7,cpe:2.3:a:hp:storage_management_software:11.0:*:*:*:*:*:*:*,HP Storage Management Software 11.0,"['CVE-2014-2605', 'CVE-2014-2606']",2022-03-21T16:07Z
+8,cpe:2.3:a:hp:storage_operations_manager_eva_5000:-:*:*:*:*:*:*:*,HP Storage Operations Manager EVA 5000,[''],2022-03-21T16:07Z
+9,cpe:2.3:a:hp:storage_sizing_tool:13.0:*:*:*:*:*:*:*,HP Storage Sizing Tool 13.0,['CVE-2016-4377'],2022-03-21T16:07Z

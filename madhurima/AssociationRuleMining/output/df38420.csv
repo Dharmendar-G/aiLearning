@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:wicket:8.0.0:milestone9:*:*:*:*:*:*,Apache Software Foundation Wicket 8.0.0 Milestone 9,['CVE-2021-23937'],2022-03-18T20:54Z
+1,cpe:2.3:a:apache:wicket:8.1.0:*:*:*:*:*:*:*,Apache Software Foundation Wicket 8.1.0,['CVE-2021-23937'],2022-03-18T20:54Z
+2,cpe:2.3:a:apache:wicket:8.2.0:*:*:*:*:*:*:*,Apache Software Foundation Wicket 8.2.0,['CVE-2021-23937'],2022-03-18T20:54Z
+3,cpe:2.3:a:apache:wicket:8.3.0:*:*:*:*:*:*:*,Apache Software Foundation Wicket 8.3.0,['CVE-2021-23937'],2022-03-18T20:54Z
+4,cpe:2.3:a:apache:wicket:8.4.0:*:*:*:*:*:*:*,Apache Software Foundation Wicket 8.4.0,['CVE-2021-23937'],2022-03-18T20:54Z
+5,cpe:2.3:a:apache:wicket:8.5.0:*:*:*:*:*:*:*,Apache Software Foundation Wicket 8.5.0,['CVE-2021-23937'],2022-03-18T20:54Z
+6,cpe:2.3:a:apache:wicket:8.8.0:*:*:*:*:*:*:*,Apache Software Foundation Wicket 8.8.0,"['CVE-2020-11976', 'CVE-2021-23937']",2022-03-18T20:54Z
+7,cpe:2.3:a:apache:wicket:8.12.0:*:*:*:*:*:*:*,Apache Software Foundation Wicket 8.12.0,[''],2022-03-18T20:54Z
+8,cpe:2.3:a:apache:wicket:9.0.0:milestone1:*:*:*:*:*:*,Apache Software Foundation Wicket 9.0.0 Milestone 1,['CVE-2021-23937'],2022-03-18T20:54Z
+9,cpe:2.3:a:apache:wicket:9.0.0:milestone2:*:*:*:*:*:*,Apache Software Foundation Wicket 9.0.0 Milestone 2,['CVE-2021-23937'],2022-03-18T20:54Z

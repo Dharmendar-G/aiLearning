@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:stock_photos_cs3:1.5:*:*:*:*:*:*:*,Adobe Stock Photos CS3 1.5,[''],2022-03-18T12:52Z
+1,cpe:2.3:a:adobe:stock_photos_cs3:1.5.1:*:*:*:*:*:*:*,Adobe Stock Photos CS3 1.5.1,[''],2022-03-18T12:52Z
+2,cpe:2.3:a:adobe:studio_mx:7.0:*:*:*:*:*:*:*,Adobe Studio MX 7.0,[''],2022-03-18T12:52Z
+3,cpe:2.3:a:adobe:suite_shared_configuration_cs4:1.0:*:*:*:*:*:*:*,Adobe Suite Shared Configuration CS4 1.0,[''],2022-03-18T12:52Z
+4,cpe:2.3:a:adobe:suite_specific:2.0.0:*:*:*:*:*:*:*,Adobe Suite Specific 2.0.0,[''],2022-03-18T12:52Z
+5,cpe:2.3:a:adobe:svg_viewer:-:*:*:*:*:*:*:*,Adobe SVG Viewer,[''],2022-03-18T12:52Z
+6,cpe:2.3:a:adobe:svg_viewer:1.0:*:*:*:*:*:*:*,Adobe SVG Viewer 1.0,['CVE-2005-0918'],2022-03-18T12:52Z
+7,cpe:2.3:a:adobe:svg_viewer:2.0:*:*:*:*:*:*:*,Adobe SVG Viewer 2.0,['CVE-2005-0918'],2022-03-18T12:52Z
+8,cpe:2.3:a:adobe:svg_viewer:3.0:*:*:*:*:*:*:*,Adobe SVG Viewer 3.0,['CVE-2005-0918'],2022-03-18T12:52Z
+9,cpe:2.3:a:adobe:svg_viewer:3.01:*:*:*:*:*:*:*,アドビシステムズ SVG Viewer 3.01,['CVE-2005-0918'],2022-03-18T12:52Z

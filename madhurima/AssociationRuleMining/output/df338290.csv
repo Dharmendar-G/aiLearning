@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hummingbird:cyberdocs:3.5.1:*:*:*:*:*:*:*,Hummingbird CyberDOCS 3.5.1,"['CVE-2003-1100', 'CVE-2003-1101', 'CVE-2003-1103']",2022-03-21T19:16Z
+1,cpe:2.3:a:hummingbird:cyberdocs:3.9:*:*:*:*:*:*:*,Hummingbird CyberDOCS 3.9,"['CVE-2003-1100', 'CVE-2003-1101', 'CVE-2003-1102']",2022-03-21T19:16Z
+2,cpe:2.3:a:hummingbird:cyberdocs:4.0:*:*:*:*:*:*:*,Hummingbird CyberDOCS 4.0,"['CVE-2003-1100', 'CVE-2003-1101', 'CVE-2003-1102']",2022-03-21T19:16Z
+3,cpe:2.3:a:hummingbird:deployment_wizard:2008:*:*:*:*:*:*:*,Hummingbird Deployment Wizard 2008,['CVE-2008-4728'],2022-03-21T19:16Z
+4,cpe:2.3:a:hummingbird:dm:-:*:*:*:*:*:*:*,Hummingbird DM,[''],2022-03-21T19:16Z
+5,cpe:2.3:a:hummingbird:dm:5.1.05:*:*:*:*:*:*:*,Hummingbird DM 5.1.05,[''],2022-03-21T19:16Z
+6,cpe:2.3:a:hummingbird:docs_admin_tools:-:*:*:*:*:*:*:*,Hummingbird DOCS Admin Tools,[''],2022-03-21T19:16Z
+7,cpe:2.3:a:hummingbird:docs_fusion_server:-:*:*:*:*:*:*:*,Hummingbird DOCSfusion Server,[''],2022-03-21T19:16Z
+8,cpe:2.3:a:hummingbird:enterprise_collaboration:-:*:*:*:*:*:*:*,Hummingbird Hummingbird Enterprise Collaboration,"['CVE-2006-0172', 'CVE-2006-0173', 'CVE-2006-0174']",2022-03-21T19:16Z
+9,cpe:2.3:a:hummingbird:enterprise_collaboration:5.2:*:*:*:*:*:*:*,Hummingbird Hummingbird Enterprise Collaboration 5.2,"['CVE-2006-0172', 'CVE-2006-0173', 'CVE-2006-0174']",2022-03-21T19:16Z

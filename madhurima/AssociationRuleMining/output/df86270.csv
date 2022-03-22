@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bottomline:transform_foundation_server:4.3.1:*:*:*:*:*:*:*,Bottomline Technologies Transform Foundation Server 4.3.1,['CVE-2014-2577'],2022-03-19T10:13Z
+1,cpe:2.3:a:bottomline:transform_foundation_server:5.2:*:*:*:*:*:*:*,Bottomline Technologies Transform Foundation Server 5.2,['CVE-2014-2577'],2022-03-19T10:13Z
+2,cpe:2.3:a:bouncycastle:bc-csharp:-:*:*:*:*:*:*:*,Bouncycastle bc-csharp,['CVE-2020-15522'],2022-03-19T10:13Z
+3,cpe:2.3:a:bouncycastle:bc-csharp:1.8.7:*:*:*:*:*:*:*,Bouncycastle bc-csharp 1.8.7,[''],2022-03-19T10:13Z
+4,cpe:2.3:a:bouncycastle:bouncy_castle_fips_.net_api:-:*:*:*:*:*:*:*,Bouncycastle Bouncy Castle FIPS .NET API,['CVE-2020-15522'],2022-03-19T10:13Z
+5,cpe:2.3:a:bouncycastle:bouncy_castle_fips_.net_api:1.0.1.1:*:*:*:*:*:*:*,Bouncycastle Bouncy Castle FIPS .NET API 1.0.1.1,[''],2022-03-19T10:13Z
+6,cpe:2.3:a:bouncycastle:fips_java_api:1.0.1:*:*:*:*:*:*:*,Bouncy Castle FIPS Java API 1.0.1,['CVE-2018-1000180'],2022-03-19T10:13Z
+7,cpe:2.3:a:bouncycastle:fips_java_api:1.0.2:*:*:*:*:*:*:*,Bouncy Castle FIPS Java API 1.0.2,[''],2022-03-19T10:13Z
+8,cpe:2.3:a:bouncycastle:fips_java_api:1.1.0:*:*:*:*:*:*:*,Bouncy Castle FIPS Java API 1.1.0,[''],2022-03-19T10:13Z
+9,cpe:2.3:a:bouncycastle:legion-of-the-bouncy-castle:1.00:*:*:*:*:*:*:*,Bouncy Castle The Legion of the Bouncy Castle 1.00,['CVE-2020-26939'],2022-03-19T10:13Z

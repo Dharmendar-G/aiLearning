@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:belden:hirschmann_octopus_os3x-xx24xxx:-:*:*:*:*:*:*:*,Belden Hirschmann Octopus OS3X-XX24XXX,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+1,cpe:2.3:h:belden:hirschmann_prp_redbox:-:*:*:*:*:*:*:*,Belden Hirschmann PRP Redbox,['CVE-2020-6994'],2022-03-19T06:53Z
+2,cpe:2.3:h:belden:hirschmann_rail_switch_power:-:*:*:*:*:*:*:*,Belden Hirschmann Rail Switch Power,['CVE-2020-6994'],2022-03-19T06:53Z
+3,cpe:2.3:h:belden:hirschmann_rail_switch_power_enhanced:-:*:*:*:*:*:*:*,Belden Hirschmann Rail Switch Power Enhanced,['CVE-2020-6994'],2022-03-19T06:53Z
+4,cpe:2.3:h:belden:hirschmann_rail_switch_power_lite:-:*:*:*:*:*:*:*,Belden Hirschmann Rail Switch Power Lite,['CVE-2020-6994'],2022-03-19T06:53Z
+5,cpe:2.3:h:belden:hirschmann_rail_switch_power_smart:-:*:*:*:*:*:*:*,Belden Hirschmann Rail Switch Power Smart,['CVE-2020-6994'],2022-03-19T06:53Z
+6,cpe:2.3:h:belden:hirschmann_rs20-0900mmm2tdau:-:*:*:*:*:*:*:*,Belden Hirschmann RS20-0900MMM2TDAU,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+7,cpe:2.3:h:belden:hirschmann_rs20-0900nnm4tdau:-:*:*:*:*:*:*:*,Belden Hirschmann RS20-0900NNM4TDAU,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+8,cpe:2.3:h:belden:hirschmann_rs20-0900vvm2tdau:-:*:*:*:*:*:*:*,Belden Hirschmann RS20-0900VVM2TDAU,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z
+9,cpe:2.3:h:belden:hirschmann_rs20-1600l2l2sdau:-:*:*:*:*:*:*:*,Belden Hirschmann RS20-1600L2L2SDAU,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:53Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:robohelp:2017:*:*:*:*:*:*:*,Adobe RoboHelp 2017,"['CVE-2017-3104', 'CVE-2017-3105', 'CVE-2021-21070']",2022-03-18T12:50Z
+1,cpe:2.3:a:adobe:robohelp:2017.0.1:*:*:*:*:*:*:*,Adobe RoboHelp 2017.0.1,['CVE-2021-21070'],2022-03-18T12:50Z
+2,cpe:2.3:a:adobe:robohelp:2017.0.2:*:*:*:*:*:*:*,Adobe RoboHelp 2017.0.2,['CVE-2021-21070'],2022-03-18T12:50Z
+3,cpe:2.3:a:adobe:robohelp:2019:*:*:*:*:*:*:*,Adobe RoboHelp 2019,['CVE-2021-21070'],2022-03-18T12:50Z
+4,cpe:2.3:a:adobe:robohelp:2019.0.1:*:*:*:*:*:*:*,Adobe RoboHelp 2019.0.1,['CVE-2021-21070'],2022-03-18T12:51Z
+5,cpe:2.3:a:adobe:robohelp:2019.0.2:*:*:*:*:*:*:*,Adobe RoboHelp 2019.0.2,['CVE-2021-21070'],2022-03-18T12:50Z
+6,cpe:2.3:a:adobe:robohelp:2019.0.3:*:*:*:*:*:*:*,Adobe RoboHelp 2019.0.3,['CVE-2021-21070'],2022-03-18T12:51Z
+7,cpe:2.3:a:adobe:robohelp:2019.0.4:*:*:*:*:*:*:*,Adobe RoboHelp 2019.0.4,['CVE-2021-21070'],2022-03-18T12:50Z
+8,cpe:2.3:a:adobe:robohelp:2019.0.5:*:*:*:*:*:*:*,Adobe RoboHelp 2019.0.5,['CVE-2021-21070'],2022-03-18T12:51Z
+9,cpe:2.3:a:adobe:robohelp:2019.0.6:*:*:*:*:*:*:*,Adobe RoboHelp 2019.0.6,['CVE-2021-21070'],2022-03-18T12:51Z

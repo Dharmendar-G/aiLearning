@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:canon:lbp3460:-:*:*:*:*:*:*:*,Canon LBP3460,['CVE-2018-11692'],2022-03-19T15:14Z
+1,cpe:2.3:o:canon:lbp3460_firmware:-:*:*:*:*:*:*:*,Canon LBP3460 Firmware,['CVE-2018-11692'],2022-03-19T15:14Z
+2,cpe:2.3:h:canon:lbp6030w:-:*:*:*:*:*:*:*,Canon LBP6030w,['CVE-2018-12049'],2022-03-19T15:14Z
+3,cpe:2.3:o:canon:lbp6030w_firmware:-:*:*:*:*:*:*:*,Canon LBP6030w Firmware,['CVE-2018-12049'],2022-03-19T15:14Z
+4,cpe:2.3:h:canon:lbp6650:-:*:*:*:*:*:*:*,Canon LBP6650,['CVE-2018-11692'],2022-03-19T15:14Z
+5,cpe:2.3:o:canon:lbp6650_firmware:-:*:*:*:*:*:*:*,Canon LBP6650 Firmware,['CVE-2018-11692'],2022-03-19T15:14Z
+6,cpe:2.3:h:canon:lbp7110cw:-:*:*:*:*:*:*:*,Canon LBP7110Cw,['CVE-2018-12048'],2022-03-19T15:14Z
+7,cpe:2.3:o:canon:lbp7110cw_firmware:-:*:*:*:*:*:*:*,Canon LBP7110Cw Firmware,['CVE-2018-12048'],2022-03-19T15:14Z
+8,cpe:2.3:h:canon:lbp7750c:-:*:*:*:*:*:*:*,Canon LBP7750C,['CVE-2018-11692'],2022-03-19T15:14Z
+9,cpe:2.3:o:canon:lbp7750c_firmware:-:*:*:*:*:*:*:*,Canon LBP7750C Firmware,['CVE-2018-11692'],2022-03-19T15:14Z

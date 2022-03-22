@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:experience_manager_forms_add-on:6.5.6.0:*:*:*:*:*:*:*,Adobe Experience Manager Forms add-on 6.5.6.0,['CVE-2020-24444'],2022-03-18T12:31Z
+1,cpe:2.3:a:adobe:extendscript_toolkit:1.0.3:*:*:*:*:*:*:*,Adobe Extendscript Toolkit (ESTK) 1.0.3,[''],2022-03-18T12:31Z
+2,cpe:2.3:a:adobe:extendscript_toolkit:2.0:*:*:*:*:*:*:*,Adobe Extendscript Toolkit (ESTK) 2.0,[''],2022-03-18T12:31Z
+3,cpe:2.3:a:adobe:extendscript_toolkit:2.0.2:*:*:*:*:*:*:*,Adobe ExtendScript Toolkit (ESTK) 2.0.2,[''],2022-03-18T12:31Z
+4,cpe:2.3:a:adobe:extendscript_toolkit_cs4:3.0.0:*:*:*:*:*:*:*,Adobe Extendscript Toolkit (ESTK) CS4 3.0.0,[''],2022-03-18T12:31Z
+5,cpe:2.3:a:adobe:extension_manager:1.5:*:*:*:*:*:*:*,Adobe Extension Manager 1.5,[''],2022-03-18T12:31Z
+6,cpe:2.3:a:adobe:extension_manager:1.6:*:*:*:*:*:*:*,Adobe Extension Manager 1.6,[''],2022-03-18T12:31Z
+7,cpe:2.3:a:adobe:extension_manager:1.7:*:*:*:*:*:*:*,Adobe Extension Manager 1.7,[''],2022-03-18T12:31Z
+8,cpe:2.3:a:adobe:extension_manager:1.8:*:*:*:*:*:*:*,Adobe Extension Manager 1.8,[''],2022-03-18T12:31Z
+9,cpe:2.3:a:adobe:extension_manager_cs3:1.8:*:*:*:*:*:*:*,Adobe Extension Manager CS3 1.8,[''],2022-03-18T12:31Z

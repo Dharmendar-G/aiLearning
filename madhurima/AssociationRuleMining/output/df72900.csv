@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:berta:berta_cms:1.8.3:*:*:*:*:*:*:*,Berta CMS 1.8.3,[''],2022-03-19T06:56Z
+1,cpe:2.3:a:berta:berta_cms:1.8.4:*:*:*:*:*:*:*,Berta CMS 1.8.4,[''],2022-03-19T06:56Z
+2,cpe:2.3:a:berta:berta_cms:1.8.5:*:*:*:*:*:*:*,Berta CMS 1.8.5,[''],2022-03-19T06:56Z
+3,cpe:2.3:a:berta:berta_cms:1.8.6:*:*:*:*:*:*:*,Berta CMS 1.8.6,[''],2022-03-19T06:56Z
+4,cpe:2.3:a:berta:berta_cms:1.8.7:*:*:*:*:*:*:*,Berta CMS 1.8.7,[''],2022-03-19T06:56Z
+5,cpe:2.3:a:berta:berta_cms:1.8.8:*:*:*:*:*:*:*,Berta CMS 1.8.8,[''],2022-03-19T06:56Z
+6,cpe:2.3:a:berta:berta_cms:1.8.9:*:*:*:*:*:*:*,Berta CMS 1.8.9,[''],2022-03-19T06:56Z
+7,cpe:2.3:a:bertanddip:craigms:1.0:*:*:*:*:*:*:*,Bertanddip Craigms 1.0,['CVE-2020-18048'],2022-03-19T06:56Z
+8,cpe:2.3:a:b-e-soft:artweaver:1.5:*:*:*:*:*:*:*,Boris Eyrich Software Artweaver 1.5,['CVE-2013-2576'],2022-03-19T06:56Z
+9,cpe:2.3:a:b-e-soft:artweaver:2.0:*:*:*:*:*:*:*,b-e-soft Artweaver 2.0,['CVE-2013-2576'],2022-03-19T06:56Z

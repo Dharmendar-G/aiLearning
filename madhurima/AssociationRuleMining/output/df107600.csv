@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chamber_dashboard_business_directory_project:chamber_dashboard_business_directory:3.2.5:*:*:*:*:wordpress:*:*,Chamber Dashboard Business Directory Project Chamber Dashboard Business Directory 3.2.5 for WordPress,[''],2022-03-19T16:30Z
+1,cpe:2.3:a:chamber_dashboard_business_directory_project:chamber_dashboard_business_directory:3.2.6:*:*:*:*:wordpress:*:*,Chamber Dashboard Business Directory Project Chamber Dashboard Business Directory 3.2.6 for WordPress,[''],2022-03-19T16:30Z
+2,cpe:2.3:a:chamber_dashboard_business_directory_project:chamber_dashboard_business_directory:3.2.7:*:*:*:*:wordpress:*:*,Chamber Dashboard Business Directory Project Chamber Dashboard Business Directory 3.2.7 for WordPress,[''],2022-03-19T16:30Z
+3,cpe:2.3:a:chamber_dashboard_business_directory_project:chamber_dashboard_business_directory:3.2.8:*:*:*:*:wordpress:*:*,Chamber Dashboard Business Directory Project Chamber Dashboard Business Directory 3.2.8 for WordPress,['CVE-2020-24699'],2022-03-19T16:30Z
+4,cpe:2.3:a:chamber_dashboard_business_directory_project:chamber_dashboard_business_directory:3.2.9:*:*:*:*:wordpress:*:*,Chamber Dashboard Business Directory Project Chamber Dashboard Business Directory 3.2.9 for WordPress,[''],2022-03-19T16:30Z
+5,cpe:2.3:a:chamberme:so._co._business_partnership:3.2:*:*:*:*:android:*:*,ChamberMe So. Co. Business Partnership (aka com.ChamberMe.SCBPSOUTHERNCO) for android 3.2,['CVE-2014-7686'],2022-03-19T16:30Z
+6,cpe:2.3:a:chameleon_css_project:chameleon_css:-:*:*:*:*:wordpress:*:*,Chameleon CSS Project Chameleon CSS for WordPress,['CVE-2021-24626'],2022-03-19T16:30Z
+7,cpe:2.3:a:chameleon_css_project:chameleon_css:0.1:*:*:*:*:wordpress:*:*,Chameleon CSS Project Chameleon CSS 0.1 for WordPress,['CVE-2021-24626'],2022-03-19T16:30Z
+8,cpe:2.3:a:chameleon_css_project:chameleon_css:0.2:*:*:*:*:wordpress:*:*,Chameleon CSS Project Chameleon CSS 0.2 for WordPress,['CVE-2021-24626'],2022-03-19T16:30Z
+9,cpe:2.3:a:chameleon_css_project:chameleon_css:0.3:*:*:*:*:wordpress:*:*,Chameleon CSS Project Chameleon CSS 0.3 for WordPress,['CVE-2021-24626'],2022-03-19T16:30Z

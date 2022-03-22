@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:digitalzoomstudio:zoomsounds:6.50:*:*:*:*:wordpress:*:*,Digitalzoomstudio ZoomSounds 6.50 for WordPress,[''],2022-03-20T14:16Z
+1,cpe:2.3:a:digitalzoomstudio:zoomsounds:6.60:*:*:*:*:wordpress:*:*,Digitalzoomstudio ZoomSounds 6.60 for WordPress,[''],2022-03-20T14:16Z
+2,cpe:2.3:a:digitiliti:digilibe:3.4:*:*:*:*:*:*:*,Digitiliti DigiLIBE 3.4,['CVE-2013-1402'],2022-03-20T14:16Z
+3,cpe:2.3:h:digitus:da-70254:-:*:*:*:*:*:*:*,Digitus DA-70254,"['CVE-2020-15062', 'CVE-2020-15063', 'CVE-2020-15064', 'CVE-2020-15065']",2022-03-20T14:16Z
+4,cpe:2.3:o:digitus:da-70254_firmware:2.073.000.e0008:*:*:*:*:*:*:*,Digitus DA-70254 Firmware 2.073.000.e0008,"['CVE-2020-15062', 'CVE-2020-15063', 'CVE-2020-15064', 'CVE-2020-15065']",2022-03-20T14:16Z
+5,cpe:2.3:a:digium:addons_module:2.11.0.7:*:*:*:*:freepbx:*:*,Digium Add-ons Module 2.11.0.6 for FreePBX,[''],2022-03-20T14:16Z
+6,cpe:2.3:a:digium:asterisk:-:*:*:*:business:*:*:*,Digium Asterisk Business Edition,"['CVE-2006-1827', 'CVE-2007-5358', 'CVE-2011-0495', 'CVE-2012-5976', 'CVE-2012-5977', 'CVE-2014-4048', 'CVE-2017-17090', 'CVE-2018-7284', 'CVE-2020-35652']",2022-03-20T14:16Z
+7,cpe:2.3:a:digium:asterisk:0.1.0:*:*:*:*:*:*:*,Digium Asterisk 0.1.0,"['CVE-2005-3559', 'CVE-2006-1827', 'CVE-2007-5358', 'CVE-2012-5976', 'CVE-2012-5977', 'CVE-2014-4048', 'CVE-2017-17090', 'CVE-2018-7284', 'CVE-2020-35652']",2022-03-20T14:16Z
+8,cpe:2.3:a:digium:asterisk:0.1.1:*:*:*:*:*:*:*,Digium Asterisk 0.1.1,"['CVE-2005-3559', 'CVE-2006-1827', 'CVE-2007-5358', 'CVE-2012-5976', 'CVE-2012-5977', 'CVE-2014-4048', 'CVE-2017-17090', 'CVE-2018-7284', 'CVE-2020-35652']",2022-03-20T14:16Z
+9,cpe:2.3:a:digium:asterisk:0.1.2:*:*:*:*:*:*:*,Digium Asterisk 0.1.2,"['CVE-2005-3559', 'CVE-2006-1827', 'CVE-2007-5358', 'CVE-2012-5976', 'CVE-2012-5977', 'CVE-2014-4048', 'CVE-2017-17090', 'CVE-2018-7284', 'CVE-2020-35652']",2022-03-20T14:16Z

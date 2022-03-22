@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bobronix:jeditor:2.3.13.1:*:*:*:*:*:*:*,Bobronix JEditor 2.3.13.1,['CVE-2019-12836'],2022-03-19T09:15Z
+1,cpe:2.3:a:bobronix:jeditor:2.3.14:*:*:*:*:*:*:*,Bobronix JEditor 2.3.14,['CVE-2019-12836'],2022-03-19T09:15Z
+2,cpe:2.3:a:bobronix:jeditor:2.3.15:*:*:*:*:*:*:*,Bobronix JEditor 2.3.15,['CVE-2019-12836'],2022-03-19T09:15Z
+3,cpe:2.3:a:bobronix:jeditor:2.3.15.1:*:*:*:*:*:*:*,Bobronix JEditor 2.3.15.1,['CVE-2019-12836'],2022-03-19T09:15Z
+4,cpe:2.3:a:bobronix:jeditor:2.3.15.2:*:*:*:*:*:*:*,Bobronix JEditor 2.3.15.2,['CVE-2019-12836'],2022-03-19T09:15Z
+5,cpe:2.3:a:bobronix:jeditor:2.3.16:*:*:*:*:*:*:*,Bobronix JEditor 2.3.16,['CVE-2019-12836'],2022-03-19T09:15Z
+6,cpe:2.3:a:bobronix:jeditor:2.3.17:*:*:*:*:*:*:*,Bobronix JEditor 2.3.17,['CVE-2019-12836'],2022-03-19T09:15Z
+7,cpe:2.3:a:bobronix:jeditor:2.3.19:*:*:*:*:*:*:*,Bobronix JEditor 2.3.19,['CVE-2019-12836'],2022-03-19T09:15Z
+8,cpe:2.3:a:bobronix:jeditor:2.3.21:*:*:*:*:*:*:*,Bobronix JEditor 2.3.21,['CVE-2019-12836'],2022-03-19T09:15Z
+9,cpe:2.3:a:bobronix:jeditor:2.3.23:*:*:*:*:*:*:*,Bobronix JEditor 2.3.23,['CVE-2019-12836'],2022-03-19T09:15Z

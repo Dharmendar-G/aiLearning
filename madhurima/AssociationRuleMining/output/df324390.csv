@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_enterprise_m750_d3l08a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M750 D3L08A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:04Z
+1,cpe:2.3:h:hp:laserjet_enterprise_m750_d3l09a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M750 D3L09A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:04Z
+2,cpe:2.3:h:hp:laserjet_enterprise_m750_d3l10a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M750 D3L10A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:04Z
+3,cpe:2.3:h:hp:laserjet_enterprise_m751_t3u43a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M751 T3U43A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:04Z
+4,cpe:2.3:h:hp:laserjet_enterprise_m751_t3u44a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M751 T3U44A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:04Z
+5,cpe:2.3:h:hp:laserjet_enterprise_m751_t3u64a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M751 T3U64A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:04Z
+6,cpe:2.3:h:hp:laserjet_enterprise_m806:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M806,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T15:04Z
+7,cpe:2.3:h:hp:laserjet_enterprise_m806_cz244a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M806 CZ244A,"['CVE-2019-18912', 'CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:04Z
+8,cpe:2.3:h:hp:laserjet_enterprise_m806_cz245a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise M806 CZ245A,"['CVE-2019-18912', 'CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:04Z
+9,cpe:2.3:o:hp:laserjet_enterprise_m806_firmware:-:*:*:*:*:*:*:*,Hp Laserjet Enterprise M806 Firmware -,"['CVE-2018-5923', 'CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T15:04Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:precision_3551:-:*:*:*:*:*:*:*,Dell Precision 3551,"['CVE-2020-5362', 'CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36283', 'CVE-2021-36284', 'CVE-2021-36285', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T13:02Z
+1,cpe:2.3:h:dell:precision_3560:-:*:*:*:*:*:*:*,Dell Precision 3560,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T13:03Z
+2,cpe:2.3:h:dell:precision_3561:-:*:*:*:*:*:*:*,Dell Precision 3561,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T13:03Z
+3,cpe:2.3:h:dell:precision_3620:-:*:*:*:*:*:*:*,Dell Precision 3620 ,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:03Z
+4,cpe:2.3:o:dell:precision_3620_firmware:-:*:*:*:*:*:*:*,Dell Precision 3620 Firmware,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:03Z
+5,cpe:2.3:o:dell:precision_3620_firmware:2.12.0:*:*:*:*:*:*:*,Dell Precision 3620 Firmware 2.12.0,"['CVE-2020-5326', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:03Z
+6,cpe:2.3:o:dell:precision_3620_firmware:2.13.1:*:*:*:*:*:*:*,Dell Precision 3620 Firmware 2.13.1,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:03Z
+7,cpe:2.3:h:dell:precision_3620_tower:-:*:*:*:*:*:*:*,Dell Precision 3620 Tower,"['CVE-2020-5362', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T13:03Z
+8,cpe:2.3:h:dell:precision_3630:-:*:*:*:*:*:*:*,Dell Precision 3630,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:03Z
+9,cpe:2.3:o:dell:precision_3630_firmware:-:*:*:*:*:*:*:*,Dell Precision 3630 Firmware,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T13:03Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:3com_router:5232:*:*:*:*:*:*:*,HP 3Com Router 5232,"['CVE-2013-2340', 'CVE-2013-2341', 'CVE-2013-4806']",2022-03-21T12:49Z
+1,cpe:2.3:h:hp:3com_router:5640:*:*:*:*:*:*:*,HP 3Com Router 5640,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+2,cpe:2.3:h:hp:3com_router:5642:*:*:*:*:*:*:*,HP 3Com Router 5642,"['CVE-2013-2340', 'CVE-2013-2341', 'CVE-2013-4806']",2022-03-21T12:49Z
+3,cpe:2.3:h:hp:3com_router:5642_taa:*:*:*:*:*:*:*,HP 3Com Router 5642 TAA,"['CVE-2013-2340', 'CVE-2013-2341', 'CVE-2013-4806']",2022-03-21T12:49Z
+4,cpe:2.3:h:hp:3com_router:5680:*:*:*:*:*:*:*,HP 3Com Router 5680,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+5,cpe:2.3:h:hp:3com_router:5682:*:*:*:*:*:*:*,HP 3Com Router 5682,"['CVE-2013-2340', 'CVE-2013-2341', 'CVE-2013-4806']",2022-03-21T12:49Z
+6,cpe:2.3:h:hp:3com_router:6040:*:*:*:*:*:*:*,HP 3Com Router 6040,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+7,cpe:2.3:h:hp:3com_router:6080:*:*:*:*:*:*:*,HP 3Com Router 6080,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+8,cpe:2.3:h:hp:3com_router:jg005a:*:*:*:*:*:*:*,HP 3COM Router Model JG005A,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z
+9,cpe:2.3:h:hp:3com_router:ss4_5500g-ei:*:*:*:*:*:*:*,HP 3Com SS4 5500G-EI,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T12:49Z

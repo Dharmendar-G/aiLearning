@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:cd16-10:-:*:*:*:*:*:*:*,Huawei CD16-10,"['CVE-2019-5268', 'CVE-2019-5269', 'CVE-2020-9069']",2022-03-21T17:29Z
+1,cpe:2.3:o:huawei:cd16-10_firmware:-:*:*:*:*:*:*:*,Huawei CD16-10 Firmware,['CVE-2020-9069'],2022-03-21T17:29Z
+2,cpe:2.3:o:huawei:cd16-10_firmware:10.0.2.3:*:*:*:*:*:*:*,Huawei CD16-10 Firmware 10.0.2.3,"['CVE-2019-5268', 'CVE-2019-5269', 'CVE-2020-9069']",2022-03-21T17:29Z
+3,cpe:2.3:o:huawei:cd16-10_firmware:10.0.2.5:*:*:*:*:*:*:*,Huawei CD16-10 Firmware 10.0.2.5,['CVE-2020-9069'],2022-03-21T17:29Z
+4,cpe:2.3:o:huawei:cd16-10_firmware:10.0.2.8:*:*:*:*:*:*:*,Huawei CD16-10 Firmware 10.0.2.8,[''],2022-03-21T17:29Z
+5,cpe:2.3:h:huawei:cd17-10:-:*:*:*:*:*:*:*,Huawei CD17-10,"['CVE-2019-5268', 'CVE-2019-5269', 'CVE-2020-9069']",2022-03-21T17:29Z
+6,cpe:2.3:o:huawei:cd17-10_firmware:-:*:*:*:*:*:*:*,Huawei CD17-10 Firmware,['CVE-2020-9069'],2022-03-21T17:29Z
+7,cpe:2.3:o:huawei:cd17-10_firmware:9.0.3.3:*:*:*:*:*:*:*,Huawei CD17-10 Firmware 9.0.3.3,"['CVE-2019-5268', 'CVE-2019-5269', 'CVE-2020-9069']",2022-03-21T17:29Z
+8,cpe:2.3:o:huawei:cd17-10_firmware:10.0.2.5:*:*:*:*:*:*:*,Huawei CD17-10 Firmware 10.0.2.5,['CVE-2020-9069'],2022-03-21T17:29Z
+9,cpe:2.3:o:huawei:cd17-10_firmware:10.0.2.8:*:*:*:*:*:*:*,Huawei CD17-10 Firmware 10.0.2.8,[''],2022-03-21T17:29Z

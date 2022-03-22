@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:xml-rpc:1.0:-:*:*:*:*:*:*,Apache Software Foundation XML-RPC 1.0,[''],2022-03-18T20:59Z
+1,cpe:2.3:a:apache:xml-rpc:1.0:rc1:*:*:*:*:*:*,Apache Software Foundation XML-RPC 1.0 Release Candidate 1,[''],2022-03-18T20:59Z
+2,cpe:2.3:a:apache:xml-rpc:1.1:*:*:*:*:*:*:*,Apache Software Foundation XML-RPC 1.1,[''],2022-03-18T20:59Z
+3,cpe:2.3:a:apache:xml-rpc:1.2:a1:*:*:*:*:*:*,Apache Software Foundation XML-RPC 1.2 A1,[''],2022-03-18T20:59Z
+4,cpe:2.3:a:apache:xml-rpc:1.2:a2:*:*:*:*:*:*,Apache Software Foundation XML-RPC 1.2 A2,[''],2022-03-18T20:59Z
+5,cpe:2.3:a:apache:xml-rpc:1.2:b1:*:*:*:*:*:*,Apache Software Foundation XML-RPC 1.2 B1,[''],2022-03-18T20:59Z
+6,cpe:2.3:a:apache:xml-rpc:1.2:b2:*:*:*:*:*:*,Apache Software Foundation XML-RPC 1.2 B2,[''],2022-03-18T20:59Z
+7,cpe:2.3:a:apache:xml-rpc:2.0:-:*:*:*:*:*:*,Apache Software Foundation XML-RPC 2.0,[''],2022-03-18T20:59Z
+8,cpe:2.3:a:apache:xml-rpc:2.0:b1:*:*:*:*:*:*,Apache Software Foundation XML-RPC 2.0 B1,[''],2022-03-18T20:59Z
+9,cpe:2.3:a:apache:xml-rpc:2.0.1:*:*:*:*:*:*:*,Apache Software Foundation XML-RPC 2.0.1,[''],2022-03-18T20:59Z

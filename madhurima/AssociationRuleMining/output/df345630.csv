@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:mq_appliance:9.1.0.4:*:*:*:continuous_delivery:*:*:*,IBM MQ Appliance 9.1.0.4 Continuous Delivery Edition,"['CVE-2019-4055', 'CVE-2019-4614', 'CVE-2019-4619', 'CVE-2019-4620', 'CVE-2019-4655', 'CVE-2019-4719', 'CVE-2020-4267', 'CVE-2020-4319', 'CVE-2020-4375', 'CVE-2020-4465', 'CVE-2020-4498', 'CVE-2020-4938', 'CVE-2021-29843']",2022-03-21T21:21Z
+1,cpe:2.3:a:ibm:mq_appliance:9.1.0.4:*:*:*:lts:*:*:*,IBM MQ Appliance 9.1.0.4 LTS Edition,"['CVE-2020-4319', 'CVE-2020-4375', 'CVE-2020-4465', 'CVE-2020-4498', 'CVE-2020-4938', 'CVE-2021-29843']",2022-03-21T21:21Z
+2,cpe:2.3:a:ibm:mq_appliance:9.1.0.6:*:*:*:lts:*:*:*,IBM MQ Appliance 9.1.0.6 LTS Edition,"['CVE-2020-4938', 'CVE-2021-29843']",2022-03-21T21:21Z
+3,cpe:2.3:a:ibm:mq_appliance:9.1.0.7:*:*:*:lts:*:*:*,IBM MQ Appliance 9.1.0.7 LTS Edition,"['CVE-2020-4938', 'CVE-2021-29843']",2022-03-21T21:21Z
+4,cpe:2.3:a:ibm:mq_appliance:9.1.0.8:*:*:*:lts:*:*:*,IBM MQ Appliance 9.1.0.8 LTS Edition,['CVE-2021-29843'],2022-03-21T21:21Z
+5,cpe:2.3:a:ibm:mq_appliance:9.1.0.9:*:*:*:lts:*:*:*,IBM MQ Appliance 9.1.0.9 LTS Edition,[''],2022-03-21T21:21Z
+6,cpe:2.3:a:ibm:mq_appliance:9.1.1:*:*:*:*:*:*:*,IBM MQ Appliance 9.1.1,[''],2022-03-21T21:21Z
+7,cpe:2.3:a:ibm:mq_appliance:9.1.1:*:*:*:continuous_delivery:*:*:*,IBM MQ Appliance 9.1.1 Continuous Delivery Edition,"['CVE-2019-4055', 'CVE-2019-4294', 'CVE-2019-4560', 'CVE-2019-4614', 'CVE-2019-4619', 'CVE-2019-4620', 'CVE-2019-4655', 'CVE-2019-4719', 'CVE-2020-4267', 'CVE-2020-4319', 'CVE-2020-4375', 'CVE-2020-4465', 'CVE-2020-4498', 'CVE-2020-4938', 'CVE-2021-29843']",2022-03-21T21:21Z
+8,cpe:2.3:a:ibm:mq_appliance:9.1.2:*:*:*:continuous_delivery:*:*:*,IBM MQ Appliance 9.1.2 Continuous Delivery Edition,"['CVE-2019-4294', 'CVE-2019-4560', 'CVE-2019-4614', 'CVE-2019-4619', 'CVE-2019-4620', 'CVE-2019-4655', 'CVE-2019-4719', 'CVE-2020-4267', 'CVE-2020-4319', 'CVE-2020-4375', 'CVE-2020-4465', 'CVE-2020-4498', 'CVE-2020-4938', 'CVE-2021-29843']",2022-03-21T21:21Z
+9,cpe:2.3:a:ibm:mq_appliance:9.1.2:*:*:*:lts:*:*:*,IBM MQ Appliance 9.1.2 LTS Edition,[''],2022-03-21T21:21Z

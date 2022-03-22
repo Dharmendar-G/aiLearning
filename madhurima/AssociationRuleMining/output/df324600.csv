@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:laserjet_managed_e60075x_firmware:-:*:*:*:*:*:*:*,Hp Laserjet Managed E60075x Firmware -,['CVE-2018-5923'],2022-03-21T15:07Z
+1,cpe:2.3:o:hp:laserjet_managed_e60075x_firmware:2406048_029638:*:*:*:*:*:*:*,Hp Laserjet Managed E60075x Firmware 2406048 029638,[''],2022-03-21T15:07Z
+2,cpe:2.3:h:hp:laserjet_managed_e65050_l3u55a:-:*:*:*:*:*:*:*,HP LaserJet Managed E65050 L3U55A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:07Z
+3,cpe:2.3:h:hp:laserjet_managed_e65050_l3u56a:-:*:*:*:*:*:*:*,HP LaserJet Managed E65050 L3U56A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:07Z
+4,cpe:2.3:h:hp:laserjet_managed_e65050_l3u57a:-:*:*:*:*:*:*:*,HP LaserJet Managed E65050 L3U57A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:07Z
+5,cpe:2.3:h:hp:laserjet_managed_e65060_l3u55a:-:*:*:*:*:*:*:*,HP LaserJet Managed E65060 L3U55A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:07Z
+6,cpe:2.3:h:hp:laserjet_managed_e65060_l3u56a:-:*:*:*:*:*:*:*,HP LaserJet Managed E65060 L3U56A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:07Z
+7,cpe:2.3:h:hp:laserjet_managed_e65060_l3u57a:-:*:*:*:*:*:*:*,HP LaserJet Managed E65060 L3U57A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:07Z
+8,cpe:2.3:h:hp:laserjet_managed_e75245_t3u43a:-:*:*:*:*:*:*:*,HP LaserJet Managed E75245 T3U43A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:07Z
+9,cpe:2.3:h:hp:laserjet_managed_e75245_t3u44a:-:*:*:*:*:*:*:*,HP LaserJet Managed E75245 T3U44A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:07Z

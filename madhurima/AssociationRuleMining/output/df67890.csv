@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ays-pro:quiz_maker:6.2.3.6:*:*:*:*:wordpress:*:*,AYS Pro Quiz Maker 6.2.3.6 for WordPress,[''],2022-03-19T05:22Z
+1,cpe:2.3:a:ays-pro:quiz_maker:6.2.3.7:*:*:*:*:wordpress:*:*,AYS Pro Quiz Maker 6.2.3.7 for WordPress,[''],2022-03-19T05:22Z
+2,cpe:2.3:a:ays-pro:quiz_maker:6.2.3.8:*:*:*:*:wordpress:*:*,AYS Pro Quiz Maker 6.2.3.8 for WordPress,[''],2022-03-19T05:22Z
+3,cpe:2.3:a:ays-pro:quiz_maker:6.2.3.9:*:*:*:*:wordpress:*:*,AYS Pro Quiz Maker 6.2.3.9 for WordPress,[''],2022-03-19T05:22Z
+4,cpe:2.3:a:ays-pro:quiz_maker:6.2.4.0:*:*:*:*:wordpress:*:*,AYS Pro Quiz Maker 6.2.4.0 for WordPress,[''],2022-03-19T05:22Z
+5,cpe:2.3:a:ays-pro:secure_copy_content_protection_and_content_locking:1.0.1:*:*:*:*:wordpress:*:*,AYS Pro Secure Copy Content Protection and Content Locking 1.0.1 for WordPress,"['CVE-2021-24484', 'CVE-2021-24931']",2022-03-19T05:22Z
+6,cpe:2.3:a:ays-pro:secure_copy_content_protection_and_content_locking:1.0.2:*:*:*:*:wordpress:*:*,AYS Pro Secure Copy Content Protection and Content Locking 1.0.2 for WordPress,"['CVE-2021-24484', 'CVE-2021-24931']",2022-03-19T05:22Z
+7,cpe:2.3:a:ays-pro:secure_copy_content_protection_and_content_locking:1.0.3:*:*:*:*:wordpress:*:*,AYS Pro Secure Copy Content Protection and Content Locking 1.0.3 for WordPress,"['CVE-2021-24484', 'CVE-2021-24931']",2022-03-19T05:22Z
+8,cpe:2.3:a:ays-pro:secure_copy_content_protection_and_content_locking:1.0.4:*:*:*:*:wordpress:*:*,AYS Pro Secure Copy Content Protection and Content Locking 1.0.4 for WordPress,"['CVE-2021-24484', 'CVE-2021-24931']",2022-03-19T05:22Z
+9,cpe:2.3:a:ays-pro:secure_copy_content_protection_and_content_locking:1.0.5:*:*:*:*:wordpress:*:*,AYS Pro Secure Copy Content Protection and Content Locking 1.0.5 for WordPress,"['CVE-2021-24484', 'CVE-2021-24931']",2022-03-19T05:22Z

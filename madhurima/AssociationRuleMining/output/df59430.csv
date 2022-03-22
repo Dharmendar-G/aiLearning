@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:attachmate:extra\!_for_windows_95\/nt:6.4:*:*:*:*:*:*:*,Attachmate Extra! For Windows 95/nt 6.4,[''],2022-03-19T02:25Z
+1,cpe:2.3:a:attachmate:infoconnect_enterprise_edition:7.50.0000:*:*:*:*:*:*:*,Attachmate Infoconnect Enterprise Edition 7.50.0000,[''],2022-03-19T02:25Z
+2,cpe:2.3:a:attachmate:infoconnect_enterprise_edition:8.00.0000:*:*:*:*:*:*:*,Attachmate Infoconnect Enterprise Edition 8.00.0000,[''],2022-03-19T02:25Z
+3,cpe:2.3:a:attachmate:infoconnect_for_unisys:9.0.1393:*:*:*:*:*:*:*,Attachmate Infoconnect For Unisys 9.0.1393,[''],2022-03-19T02:25Z
+4,cpe:2.3:a:attachmate:infoconnect_options_pack:8.00.0000:*:*:*:*:*:*:*,Attachmate Infoconnect Options Pack 8.00.0000,[''],2022-03-19T02:25Z
+5,cpe:2.3:a:attachmate:installer_service:8.00.0001:*:*:*:*:*:*:*,Attachmate Installer Service 8.00.0001,[''],2022-03-19T02:25Z
+6,cpe:2.3:a:attachmate:oracle_provider:1.0.0:*:*:*:*:*:*:*,Attachmate Oracle Provider 1.0.0,[''],2022-03-19T02:25Z
+7,cpe:2.3:a:attachmate:reflection_administrator\'s_toolkit:14.0.3670:*:*:*:*:*:*:*,Attachmate Reflection Administrator's Toolkit 14.0.3670,[''],2022-03-19T02:25Z
+8,cpe:2.3:a:attachmate:reflection_for_hp:14.0:*:*:*:*:*:*:*,Attachmate Reflection For HP 14.0,['CVE-2011-5157'],2022-03-19T02:25Z
+9,cpe:2.3:a:attachmate:reflection_for_hp:14.1:sp1:*:*:*:*:*:*,Attachmate Reflection For HP 14.1 Service Pack 1,['CVE-2011-5157'],2022-03-19T02:25Z

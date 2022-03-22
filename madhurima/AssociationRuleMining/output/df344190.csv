@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:java_sdk:6.0.16.7:*:*:*:technology:*:*:*,Ibm Java SDK 6.0.16.7 Technology Edition,"['CVE-2015-5006', 'CVE-2015-5041', 'CVE-2016-0264', 'CVE-2016-0363', 'CVE-2016-0376']",2022-03-21T20:58Z
+1,cpe:2.3:a:ibm:java_sdk:6.0.16.15:*:*:*:technology:*:*:*,IBM Java SDK 6.0.16.15 Technology Edition,"['CVE-2015-5041', 'CVE-2016-0264', 'CVE-2016-0363', 'CVE-2016-0376']",2022-03-21T20:58Z
+2,cpe:2.3:a:ibm:java_sdk:6.0.16.20:*:*:*:technology:*:*:*,IBM Java SDK 6.0.16.20 Technology Edition,"['CVE-2016-0264', 'CVE-2016-0363', 'CVE-2016-0376']",2022-03-21T20:58Z
+3,cpe:2.3:a:ibm:java_sdk:6.0.16.21:*:*:*:technology:*:*:*,IBM Java SDK Technology Edition 6.0.16.21 (6.0 Service Refresh 16 FixPack 21) Technology,"['CVE-2016-0264', 'CVE-2016-0363', 'CVE-2016-0376']",2022-03-21T20:58Z
+4,cpe:2.3:a:ibm:java_sdk:6.0.16.25:*:*:*:technology:*:*:*,IBM Java SDK 6.0.16.25 Technology Edition,[''],2022-03-21T20:58Z
+5,cpe:2.3:a:ibm:java_sdk:6.1.0.0:*:*:*:technology:*:*:*,IBM Java SDK 6.1.0.0 Technology Edition,"['CVE-2014-8891', 'CVE-2014-8892', 'CVE-2015-5041', 'CVE-2016-0264', 'CVE-2016-0363', 'CVE-2016-0376', 'CVE-2018-1417']",2022-03-21T20:58Z
+6,cpe:2.3:a:ibm:java_sdk:6.1.8.2:*:*:*:technology:*:*:*,"IBM Java SDK Technology Edition 6.1.8.2 (6R1 Service Refresh 8, FixPack 2)","['CVE-2014-8891', 'CVE-2014-8892', 'CVE-2015-5006', 'CVE-2015-5041', 'CVE-2016-0264', 'CVE-2016-0363', 'CVE-2016-0376']",2022-03-21T20:58Z
+7,cpe:2.3:a:ibm:java_sdk:6.1.8.7:*:*:*:technology:*:*:*,Ibm Java SDK 6.1.8.7 Technology Edition,"['CVE-2015-5006', 'CVE-2015-5041', 'CVE-2016-0264', 'CVE-2016-0363', 'CVE-2016-0376']",2022-03-21T20:58Z
+8,cpe:2.3:a:ibm:java_sdk:6.1.8.15:*:*:*:technology:*:*:*,IBM Java SDK 6.1.8.15 Technology Edition,"['CVE-2015-5041', 'CVE-2016-0264', 'CVE-2016-0363', 'CVE-2016-0376']",2022-03-21T20:58Z
+9,cpe:2.3:a:ibm:java_sdk:6.1.8.20:*:*:*:technology:*:*:*,IBM Java SDK Technology Edition 6.1.8.20 (6R1 Service Refresh 8 FixPack 20) Technology,"['CVE-2016-0264', 'CVE-2016-0363', 'CVE-2016-0376']",2022-03-21T20:58Z

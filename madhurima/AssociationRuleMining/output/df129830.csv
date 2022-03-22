@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:4.9.1:*:*:*:*:*:*:*,Cisco Network Admission Control (NAC) Manager and Server System Software 4.9.1,['CVE-2013-1177'],2022-03-19T23:03Z
+1,cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:4.9.2:*:*:*:*:*:*:*,Cisco Network Admission Control (NAC) Manager and Server System Software 4.9.2,[''],2022-03-19T23:03Z
+2,cpe:2.3:h:cisco:network_analysis_module:-:*:*:*:*:*:*:*,Cisco Network Analysis Module,"['CVE-2007-1257', 'CVE-2007-1467', 'CVE-2016-1370', 'CVE-2016-1388']",2022-03-19T23:03Z
+3,cpe:2.3:o:cisco:network_analysis_module_software:4.0.0:*:*:*:*:*:*:*,Cisco Network Analysis Module Software 4.0.0,['CVE-2016-1370'],2022-03-19T23:03Z
+4,cpe:2.3:o:cisco:network_analysis_module_software:4.1.0:*:*:*:*:*:*:*,Cisco Network Analysis Module Software 4.1.0,['CVE-2016-1370'],2022-03-19T23:03Z
+5,cpe:2.3:a:cisco:network_assistant:1.0:*:*:*:*:*:*:*,Cisco Network Assistant 1.0,[''],2022-03-19T23:03Z
+6,cpe:2.3:a:cisco:network_assistant:2.1:*:*:*:*:*:*:*,Cisco Network Assistant 2.1,[''],2022-03-19T23:03Z
+7,cpe:2.3:a:cisco:network_assistant:3.0:*:*:*:*:*:*:*,Cisco Network Assistant 3.0,[''],2022-03-19T23:03Z
+8,cpe:2.3:a:cisco:network_assistant:4.0:*:*:*:*:*:*:*,Cisco Network Assistant 4.0,[''],2022-03-19T23:03Z
+9,cpe:2.3:a:cisco:network_assistant:5.0:*:*:*:*:*:*:*,Cisco Network Assistant 5.0,[''],2022-03-19T23:03Z

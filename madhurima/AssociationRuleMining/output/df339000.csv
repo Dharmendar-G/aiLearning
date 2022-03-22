@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hyper:http:0.1.17:*:*:*:*:rust:*:*,Hyper HTTP 0.1.17 for Rust,"['CVE-2019-25009', 'CVE-2020-25574']",2022-03-21T19:28Z
+1,cpe:2.3:a:hyper:http:0.1.17:*:*:*:*:rust:*:*,Hyper HTTP 0.1.17 for Rust,"['CVE-2019-25009', 'CVE-2020-25574']",2022-03-21T19:28Z
+2,cpe:2.3:a:hyper:http:0.1.18:*:*:*:*:rust:*:*,Hyper HTTP 0.1.18 for Rust,"['CVE-2019-25009', 'CVE-2020-25574']",2022-03-21T19:28Z
+3,cpe:2.3:a:hyper:http:0.1.18:*:*:*:*:rust:*:*,Hyper HTTP 0.1.18 for Rust,"['CVE-2019-25009', 'CVE-2020-25574']",2022-03-21T19:28Z
+4,cpe:2.3:a:hyper:http:0.1.19:*:*:*:*:rust:*:*,Hyper HTTP 0.1.19 for Rust,"['CVE-2019-25009', 'CVE-2020-25574']",2022-03-21T19:28Z
+5,cpe:2.3:a:hyper:http:0.1.19:*:*:*:*:rust:*:*,Hyper HTTP 0.1.19 for Rust,"['CVE-2019-25009', 'CVE-2020-25574']",2022-03-21T19:28Z
+6,cpe:2.3:a:hyper:http:0.1.20:*:*:*:*:rust:*:*,Hyper HTTP 0.1.20 for Rust,[''],2022-03-21T19:28Z
+7,cpe:2.3:a:hyper:http:0.1.20:*:*:*:*:rust:*:*,Hyper HTTP 0.1.20 for Rust,[''],2022-03-21T19:28Z
+8,cpe:2.3:a:hyper:hyper:-:*:*:*:*:rust:*:*,hyper for Rust,"['CVE-2016-10932', 'CVE-2017-18587', 'CVE-2020-35863', 'CVE-2021-32714', 'CVE-2021-32715']",2022-03-21T19:28Z
+9,cpe:2.3:a:hyper:hyper:-:*:*:*:*:rust:*:*,hyper for Rust,"['CVE-2016-10932', 'CVE-2017-18587', 'CVE-2020-35863', 'CVE-2021-32714', 'CVE-2021-32715']",2022-03-21T19:28Z

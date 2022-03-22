@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:license_metric_tool:9.2.14.1:*:*:*:*:*:*:*,IBM License Metric Tool (ILMT) 9.2.14.1,[''],2022-03-21T21:03Z
+1,cpe:2.3:a:ibm:license_metric_tool:9.2.14.2:*:*:*:*:*:*:*,IBM License Metric Tool (ILMT) 9.2.14.2,[''],2022-03-21T21:03Z
+2,cpe:2.3:a:ibm:license_metric_tool:9.2.15:*:*:*:*:*:*:*,IBM License Metric Tool 9.2.15,[''],2022-03-21T21:03Z
+3,cpe:2.3:a:ibm:license_metric_tool:9.2.15.1:*:*:*:*:*:*:*,IBM License Metric Tool (ILMT) 9.2.15.1,[''],2022-03-21T21:03Z
+4,cpe:2.3:a:ibm:license_metric_tool_tad4d_agent:7.2.2:*:*:*:*:*:*:*,IBM License Metric Tool Tad4d Agent 7.2.2,[''],2022-03-21T21:03Z
+5,cpe:2.3:o:ibm:linux_on_power:-:*:*:*:*:*:*:*,IBM Linux on Power,[''],2022-03-21T21:03Z
+6,cpe:2.3:o:ibm:linux_on_zseries:-:*:*:*:*:*:*:*,IBM Linux on zSeries,"['CVE-2020-4675', 'CVE-2020-4870', 'CVE-2021-29722', 'CVE-2021-29723', 'CVE-2021-29728', 'CVE-2021-29841']",2022-03-21T21:03Z
+7,cpe:2.3:o:ibm:linux_on_zseries:-:*:*:*:*:*:x64:*,IBM Linux on zSeries 64-bit,"['CVE-2014-6195', 'CVE-2020-4675', 'CVE-2020-4870', 'CVE-2021-29722', 'CVE-2021-29723', 'CVE-2021-29728', 'CVE-2021-29841']",2022-03-21T21:03Z
+8,cpe:2.3:o:ibm:linux_on_zseries:-:*:*:*:*:*:x86:*,IBM Linux on zSeries 32-bit,"['CVE-2014-6195', 'CVE-2020-4675', 'CVE-2020-4870', 'CVE-2021-29722', 'CVE-2021-29723', 'CVE-2021-29728', 'CVE-2021-29841']",2022-03-21T21:03Z
+9,cpe:2.3:a:ibm:loopback:8.0.0:*:*:*:*:*:*:*,IBM Loopback 8.0.0,['CVE-2020-4988'],2022-03-21T21:03Z

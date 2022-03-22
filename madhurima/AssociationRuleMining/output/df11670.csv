@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:flash_player_for_linux:11.2.202.643:*:*:*:*:*:*:*,Adobe Flash Player for Linux 11.2.202.643,"['CVE-2016-7857', 'CVE-2016-7858', 'CVE-2016-7859', 'CVE-2016-7860', 'CVE-2016-7861', 'CVE-2016-7862', 'CVE-2016-7863', 'CVE-2016-7864', 'CVE-2016-7865', 'CVE-2016-7867', 'CVE-2016-7868', 'CVE-2016-7869', 'CVE-2016-7870', 'CVE-2016-7871', 'CVE-2016-7872', 'CVE-2016-7873', 'CVE-2016-7874', 'CVE-2016-7875', 'CVE-2016-7876', 'CVE-2016-7877', 'CVE-2016-7878', 'CVE-2016-7879', 'CVE-2016-7880', 'CVE-2016-7881', 'CVE-2016-7890', 'CVE-2016-7892']",2022-03-18T12:41Z
+1,cpe:2.3:a:adobe:flash_player_for_linux:11.2.202.644:*:*:*:*:*:*:*,Adobe Flash Player for Linux 11.2.202.644,"['CVE-2016-7867', 'CVE-2016-7868', 'CVE-2016-7869', 'CVE-2016-7870', 'CVE-2016-7871', 'CVE-2016-7872', 'CVE-2016-7873', 'CVE-2016-7874', 'CVE-2016-7875', 'CVE-2016-7876', 'CVE-2016-7877', 'CVE-2016-7878', 'CVE-2016-7879', 'CVE-2016-7880', 'CVE-2016-7881', 'CVE-2016-7890', 'CVE-2016-7892']",2022-03-18T12:41Z
+2,cpe:2.3:a:adobe:flash_player_installer:31.0.0.108:*:*:*:*:*:*:*,Adobe Flash Player Installer 31.0.0.108,['CVE-2018-15982'],2022-03-18T12:41Z
+3,cpe:2.3:a:adobe:flash_video_encoder:2.0:*:*:*:*:*:*:*,Adobe Flash Video Encoder 2.0,[''],2022-03-18T12:41Z
+4,cpe:2.3:a:adobe:flex_builder:3.0:*:*:*:*:*:*:*,Adobe Flex Builder 3.0,[''],2022-03-18T12:41Z
+5,cpe:2.3:a:adobe:flex_builder_plug-in:3.0.2.214193:*:*:*:*:*:*:*,Adobe Flex Builder Plug-in 3.0.2.214193,[''],2022-03-18T12:42Z
+6,cpe:2.3:a:adobe:flex_sdk:-:*:*:*:*:*:*:*,Adobe Flex,['CVE-2009-1879'],2022-03-18T12:42Z
+7,cpe:2.3:a:adobe:flex_sdk:1.5:*:*:*:*:*:*:*,Adobe Flex 1.5,"['CVE-2006-3311', 'CVE-2009-1879']",2022-03-18T12:42Z
+8,cpe:2.3:a:adobe:flex_sdk:3.3:*:*:*:*:*:*:*,Adobe Flex SDK 3.3,"['CVE-2009-1879', 'CVE-2011-2461']",2022-03-18T12:42Z
+9,cpe:2.3:a:adobe:flex_sdk:3.4:*:*:*:*:*:*:*,Adobe Flex SDK 3.4,['CVE-2011-2461'],2022-03-18T12:42Z

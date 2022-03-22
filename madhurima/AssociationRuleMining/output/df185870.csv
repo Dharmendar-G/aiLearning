@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:digium:asterisk:13.31.0:*:*:*:*:*:*:*,Digium Asterisk 13.31.0,"['CVE-2017-17090', 'CVE-2020-35652', 'CVE-2020-35776', 'CVE-2021-26712', 'CVE-2021-26906', 'CVE-2021-32558']",2022-03-20T14:34Z
+1,cpe:2.3:a:digium:asterisk:13.31.0:rc1:*:*:*:*:*:*,Digium Asterisk 13.31.0 Release Candidate 1,"['CVE-2017-17090', 'CVE-2020-35652', 'CVE-2020-35776', 'CVE-2021-26712', 'CVE-2021-26906', 'CVE-2021-32558']",2022-03-20T14:35Z
+2,cpe:2.3:a:digium:asterisk:13.32.0:*:*:*:*:*:*:*,Digium Asterisk 13.32.0,"['CVE-2017-17090', 'CVE-2020-35652', 'CVE-2020-35776', 'CVE-2021-26712', 'CVE-2021-26906', 'CVE-2021-32558']",2022-03-20T14:35Z
+3,cpe:2.3:a:digium:asterisk:13.32.0:rc1:*:*:*:*:*:*,Digium Asterisk 13.32.0 Release Candidate 1,"['CVE-2017-17090', 'CVE-2020-35652', 'CVE-2020-35776', 'CVE-2021-26712', 'CVE-2021-26906', 'CVE-2021-32558']",2022-03-20T14:35Z
+4,cpe:2.3:a:digium:asterisk:13.33.0:*:*:*:*:*:*:*,Digium Asterisk 13.33.0,"['CVE-2017-17090', 'CVE-2020-35652', 'CVE-2020-35776', 'CVE-2021-26712', 'CVE-2021-26906', 'CVE-2021-32558']",2022-03-20T14:35Z
+5,cpe:2.3:a:digium:asterisk:13.33.0:rc1:*:*:*:*:*:*,Digium Asterisk 13.33.0 Release Candidate 1,"['CVE-2017-17090', 'CVE-2020-35652', 'CVE-2020-35776', 'CVE-2021-26712', 'CVE-2021-26906', 'CVE-2021-32558']",2022-03-20T14:35Z
+6,cpe:2.3:a:digium:asterisk:13.34.0:*:*:*:*:*:*:*,Digium Asterisk 13.34.0,"['CVE-2017-17090', 'CVE-2020-35652', 'CVE-2020-35776', 'CVE-2021-26712', 'CVE-2021-26906', 'CVE-2021-32558']",2022-03-20T14:35Z
+7,cpe:2.3:a:digium:asterisk:13.34.0:rc1:*:*:*:*:*:*,Digium Asterisk 13.34.0 Release Candidate 1,"['CVE-2017-17090', 'CVE-2020-35652', 'CVE-2020-35776', 'CVE-2021-26712', 'CVE-2021-26906', 'CVE-2021-32558']",2022-03-20T14:35Z
+8,cpe:2.3:a:digium:asterisk:13.35.0:*:*:*:*:*:*:*,Digium Asterisk 13.35.0,"['CVE-2017-17090', 'CVE-2020-35652', 'CVE-2020-35776', 'CVE-2021-26712', 'CVE-2021-26906', 'CVE-2021-32558']",2022-03-20T14:35Z
+9,cpe:2.3:a:digium:asterisk:13.35.0:rc1:*:*:*:*:*:*,Digium Asterisk 13.35.0 Release Candidate 1,"['CVE-2017-17090', 'CVE-2020-35652', 'CVE-2020-35776', 'CVE-2021-26712', 'CVE-2021-26906', 'CVE-2021-32558']",2022-03-20T14:35Z

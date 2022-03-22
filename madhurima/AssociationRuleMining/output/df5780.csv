@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:acti:camera_firmware:a1d-500-v6.11.31-ac:*:*:*:*:*:*:*,ACTi Camera Firmware A1D-500-V6.11.31-AC,"['CVE-2017-3184', 'CVE-2017-3185', 'CVE-2017-3186']",2022-03-18T11:08Z
+1,cpe:2.3:a:acti:nvr:2.3.04.07:*:*:*:professional:*:*:*,ACTi NVR 2.3.04.07 Professional Edition,['CVE-2020-15956'],2022-03-18T11:08Z
+2,cpe:2.3:a:acti:nvr:3.0.12.42:*:*:*:standard:*:*:*,ACTi NVR 3.0.12.42 Standard Edition,['CVE-2020-15956'],2022-03-18T11:08Z
+3,cpe:2.3:a:actian:ingres:2.6:*:*:*:*:*:*:*,Actian Ingres 2.6,['CVE-2008-3357'],2022-03-18T11:08Z
+4,cpe:2.3:a:actian:ingres:9.0.4:*:*:*:*:*:*:*,Actian Ingres 9.0.4,['CVE-2008-3357'],2022-03-18T11:09Z
+5,cpe:2.3:a:actian:ingres:9.1.0:*:*:*:*:*:*:*,Actian Ingres 9.1.0,['CVE-2008-3357'],2022-03-18T11:09Z
+6,cpe:2.3:a:actian:pervasive_psql:12.10:*:*:*:*:*:*:*,Actian Pervasive PSQL 12.10,['CVE-2017-11757'],2022-03-18T11:09Z
+7,cpe:2.3:a:actian:zen:13:*:*:*:*:*:*:*,Actian Zen 13,[''],2022-03-18T11:09Z
+8,cpe:2.3:a:actian:zen:13.0:-:*:*:*:*:*:*,Actian Zen 13.0,['CVE-2017-11757'],2022-03-18T11:09Z
+9,cpe:2.3:a:actian:zen:13.0:r2:*:*:*:*:*:*,Actian Zen 13.0 R2,['CVE-2017-11757'],2022-03-18T11:09Z

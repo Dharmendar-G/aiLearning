@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:poi:3.13:*:*:*:*:*:*:*,Apache POI 3.13,"['CVE-2016-5000', 'CVE-2017-12626', 'CVE-2017-5644', 'CVE-2019-12415']",2022-03-18T19:49Z
+1,cpe:2.3:a:apache:poi:3.14:*:*:*:*:*:*:*,Apache Software Foundation POI 3.14,"['CVE-2017-12626', 'CVE-2017-5644', 'CVE-2019-12415']",2022-03-18T19:49Z
+2,cpe:2.3:a:apache:poi:3.17:*:*:*:*:*:*:*,Apache Software Foundation POI 3.17,['CVE-2019-12415'],2022-03-18T19:49Z
+3,cpe:2.3:a:apache:poi:4.1.0:*:*:*:*:*:*:*,Apache Software Foundation POI 4.1.0,['CVE-2019-12415'],2022-03-18T19:49Z
+4,cpe:2.3:a:apache:poi:4.1.1:*:*:*:*:*:*:*,Apache Software Foundation POI 4.1.1,[''],2022-03-18T19:49Z
+5,cpe:2.3:a:apache:pony_mail:0.1a:*:*:*:*:*:*:*,Apache Software Foundation Pony Mail 0.1a,[''],2022-03-18T19:49Z
+6,cpe:2.3:a:apache:pony_mail:0.2a:*:*:*:*:*:*:*,Apache Software Foundation Pony Mail 0.2a,[''],2022-03-18T19:49Z
+7,cpe:2.3:a:apache:pony_mail:0.3a:*:*:*:*:*:*:*,Apache Software Foundation Pony Mail 0.3a,[''],2022-03-18T19:49Z
+8,cpe:2.3:a:apache:pony_mail:0.4a:*:*:*:*:*:*:*,Apache Software Foundation Pony Mail 0.4a,[''],2022-03-18T19:49Z
+9,cpe:2.3:a:apache:pony_mail:0.5a:*:*:*:*:*:*:*,Apache Software Foundation Pony Mail 0.5a,[''],2022-03-18T19:49Z

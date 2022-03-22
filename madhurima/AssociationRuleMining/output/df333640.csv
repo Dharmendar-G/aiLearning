@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:ecns210_td:-:*:*:*:*:*:*:*,Huawei eCNS210_TD,"['CVE-2017-15323', 'CVE-2017-15333', 'CVE-2017-15346', 'CVE-2017-2722']",2022-03-21T17:37Z
+1,cpe:2.3:o:huawei:ecns210_td_firmware:v100r004c10:*:*:*:*:*:*:*,Huawei eCNS210_TD Firmware V100R004C10,"['CVE-2017-15323', 'CVE-2017-15333', 'CVE-2017-15346', 'CVE-2017-2722']",2022-03-21T17:37Z
+2,cpe:2.3:o:huawei:ecns210_td_firmware:v100r004c10spc003:*:*:*:*:*:*:*,Huawei eCNS210_TD Firmware V100R004C10SPC003,"['CVE-2017-15333', 'CVE-2017-15346']",2022-03-21T17:37Z
+3,cpe:2.3:o:huawei:ecns210_td_firmware:v100r004c10spc100:*:*:*:*:*:*:*,Huawei eCNS210_TD Firmware V100R004C10SPC100,"['CVE-2017-15333', 'CVE-2017-15346']",2022-03-21T17:37Z
+4,cpe:2.3:o:huawei:ecns210_td_firmware:v100r004c10spc101:*:*:*:*:*:*:*,Huawei eCNS210_TD  Firmware V100R004C10SPC101,"['CVE-2017-15333', 'CVE-2017-15346']",2022-03-21T17:37Z
+5,cpe:2.3:o:huawei:ecns210_td_firmware:v100r004c10spc102:*:*:*:*:*:*:*,Huawei eCNS210_TD Firmware V100R004C10SPC102,"['CVE-2017-15333', 'CVE-2017-15346']",2022-03-21T17:37Z
+6,cpe:2.3:o:huawei:ecns210_td_firmware:v100r004c10spc200:*:*:*:*:*:*:*,Huawei eCNS210_TD Firmware V100R004C10SPC200,"['CVE-2017-15333', 'CVE-2017-15346']",2022-03-21T17:37Z
+7,cpe:2.3:o:huawei:ecns210_td_firmware:v100r004c10spc221:*:*:*:*:*:*:*,Huawei eCNS210_TD Firmware V100R004C10SPC221,"['CVE-2017-15333', 'CVE-2017-15346']",2022-03-21T17:37Z
+8,cpe:2.3:o:huawei:ecns210_td_firmware:v100r004c10spc400:*:*:*:*:*:*:*,Huawei eCNS210_TD Firmware V100R004C10SPC400,"['CVE-2017-15333', 'CVE-2017-15346']",2022-03-21T17:37Z
+9,cpe:2.3:o:huawei:ecns210_td_firmware:v100r004c10spc410:*:*:*:*:*:*:*,Huawei eCNS210_TD Firmware V100R004C10SPC410,[''],2022-03-21T17:37Z

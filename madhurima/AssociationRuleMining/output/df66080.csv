@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:axis:2400_video_server:2.30:*:*:*:*:*:*:*,Axis Communications AXIS 2400 Video Server 2.30,"['CVE-2003-0240', 'CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427', 'CVE-2007-2239']",2022-03-19T04:47Z
+1,cpe:2.3:h:axis:2400_video_server:2.31:*:*:*:*:*:*:*,Axis Communications AXIS 2400 Video Server 2.31,"['CVE-2003-0240', 'CVE-2003-1386', 'CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427', 'CVE-2007-2239']",2022-03-19T04:47Z
+2,cpe:2.3:h:axis:2400_video_server:2.32:*:*:*:*:*:*:*,Axis Communications AXIS 2400 Video Server 2.32,"['CVE-2003-0240', 'CVE-2003-1386', 'CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427', 'CVE-2007-2239']",2022-03-19T04:47Z
+3,cpe:2.3:h:axis:2400_video_server:2.33:*:*:*:*:*:*:*,Axis Communications AXIS 2400 Video Server 2.33,"['CVE-2003-1386', 'CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427', 'CVE-2007-2239']",2022-03-19T04:47Z
+4,cpe:2.3:h:axis:2400_video_server:2.34:*:*:*:*:*:*:*,Axis Communications AXIS 2400 Video Server 2.34,"['CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427', 'CVE-2007-2239']",2022-03-19T04:47Z
+5,cpe:2.3:h:axis:2400_video_server:2.39:*:*:*:*:*:*:*,Axis Communications AXIS 2400 Video Server 2.39,['CVE-2007-2239'],2022-03-19T04:47Z
+6,cpe:2.3:h:axis:2401_video_server:-:*:*:*:*:*:*:*,Axis Communications AXIS 2401 Video Server,"['CVE-2003-0240', 'CVE-2007-2239']",2022-03-19T04:47Z
+7,cpe:2.3:h:axis:2401_video_server:1.0_1:*:*:*:*:*:*:*,Axis Communications AXIS 2401 Video Server 1.0 1,"['CVE-2003-0240', 'CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427', 'CVE-2007-2239']",2022-03-19T04:47Z
+8,cpe:2.3:h:axis:2401_video_server:1.15:*:*:*:*:*:*:*,Axis Communications AXIS 2401 Video Server 1.15,"['CVE-2003-0240', 'CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427', 'CVE-2007-2239']",2022-03-19T04:47Z
+9,cpe:2.3:h:axis:2401_video_server:2.20:*:*:*:*:*:*:*,Axis Communications AXIS 2401 Video Server 2.20,"['CVE-2003-0240', 'CVE-2003-1386', 'CVE-2004-2425', 'CVE-2004-2426', 'CVE-2004-2427', 'CVE-2007-2239']",2022-03-19T04:47Z

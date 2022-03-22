@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:caret:caret:4.0.0:rc9:*:*:*:*:*:*,Caret 4.0.0 Release Candidate 9,['CVE-2019-9927'],2022-03-19T15:34Z
+1,cpe:2.3:a:caret:caret:2019-02-22:*:*:*:*:*:*:*,Caret 2019-02-22,[''],2022-03-19T15:34Z
+2,cpe:2.3:h:carlosgavazzi:eos-box_photovoltaic_monitoring_system:-:*:*:*:*:*:*:*,Carlo Gavazzi EOS-Box Photovoltaic Monitoring System,"['CVE-2012-6427', 'CVE-2012-6428']",2022-03-19T15:34Z
+3,cpe:2.3:o:carlosgavazzi:eos-box_photovoltaic_monitoring_system_firmware:1.0.0:*:*:*:*:*:*:*,Carlo Gavazzi EOS-Box Photovoltaic Monitoring System Firmware 1.0.0,"['CVE-2012-6427', 'CVE-2012-6428']",2022-03-19T15:34Z
+4,cpe:2.3:o:carlosgavazzi:eos-box_photovoltaic_monitoring_system_firmware:1.0.0.1080_2.1.10:*:*:*:*:*:*:*,Carlo Gavazzi EOS-Box Photovoltaic Monitoring System Firmware 1.0.0.1080_2.1.10,[''],2022-03-19T15:34Z
+5,cpe:2.3:h:carlosgavazzi:vmu-c_em:-:*:*:*:*:*:*:*,Carlo Gavazzi VMU-C EM,"['CVE-2017-5144', 'CVE-2017-5145', 'CVE-2017-5146']",2022-03-19T15:34Z
+6,cpe:2.3:o:carlosgavazzi:vmu-c_em_firmware:-:*:*:*:*:*:*:*,Carlo Gavazzi VMU-C EM Firmware,"['CVE-2017-5144', 'CVE-2017-5145', 'CVE-2017-5146']",2022-03-19T15:34Z
+7,cpe:2.3:h:carlosgavazzi:vmu-c_pv:-:*:*:*:*:*:*:*,Carlo Gavazzi VMU-C PV,"['CVE-2017-5144', 'CVE-2017-5145', 'CVE-2017-5146']",2022-03-19T15:34Z
+8,cpe:2.3:o:carlosgavazzi:vmu-c_pv_firmware:-:*:*:*:*:*:*:*,Carlo Gavazzi VMU-C PV Firmware,"['CVE-2017-5144', 'CVE-2017-5145', 'CVE-2017-5146']",2022-03-19T15:34Z
+9,cpe:2.3:a:carrcommunications:rsvpmaker_excel:1.1:*:*:*:*:wordpress:*:*,Carr Communications RSVPmaker Excel 1.1 for WordPress,['CVE-2021-38337'],2022-03-19T15:34Z

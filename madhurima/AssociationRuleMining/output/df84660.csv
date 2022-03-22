@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bookx_plugin_project:bookx:1.7:*:*:*:*:wordpress:*:*,BookX plugin project Bookx plugin for WordPress 1.7,['CVE-2014-4937'],2022-03-19T09:44Z
+1,cpe:2.3:a:boolebox:boolebox:-:*:*:*:*:*:*:*,BooleBox,"['CVE-2020-13247', 'CVE-2020-13248']",2022-03-19T09:44Z
+2,cpe:2.3:a:boolebox:boolebox:4.2.3.0:*:*:*:*:*:*:*,BooleBox 4.2.3.0,[''],2022-03-19T09:44Z
+3,cpe:2.3:a:boolector_project:boolector:3.0.0:*:*:*:*:*:*:*,Boolector Project Boolector 3.0.0,['CVE-2019-7560'],2022-03-19T09:44Z
+4,cpe:2.3:a:boombatower:subuser:6.x-1.0:*:*:*:*:*:*:*,boombatower Subuser module (subuser) for Drupal 6.x-1.0,"['CVE-2012-4486', 'CVE-2012-4487']",2022-03-19T09:44Z
+5,cpe:2.3:a:boombatower:subuser:6.x-1.1:*:*:*:*:*:*:*,boombatower Subuser module (subuser) for Drupal 6.x-1.1,"['CVE-2012-4486', 'CVE-2012-4487']",2022-03-19T09:44Z
+6,cpe:2.3:a:boombatower:subuser:6.x-1.2:*:*:*:*:*:*:*,boombatower Subuser module (subuser) for Drupal 6.x-1.2,"['CVE-2012-4486', 'CVE-2012-4487']",2022-03-19T09:44Z
+7,cpe:2.3:a:boombatower:subuser:6.x-1.3:*:*:*:*:*:*:*,boombatower Subuser module (subuser) for Drupal 6.x-1.3,"['CVE-2012-4486', 'CVE-2012-4487']",2022-03-19T09:44Z
+8,cpe:2.3:a:boombatower:subuser:6.x-1.4:*:*:*:*:*:*:*,boombatower Subuser module (subuser) for Drupal 6.x-1.4,"['CVE-2012-4486', 'CVE-2012-4487']",2022-03-19T09:44Z
+9,cpe:2.3:a:boombatower:subuser:6.x-1.5:*:*:*:*:*:*:*,boombatower Subuser module (subuser) for Drupal 6.x-1.5,"['CVE-2012-4486', 'CVE-2012-4487']",2022-03-19T09:44Z

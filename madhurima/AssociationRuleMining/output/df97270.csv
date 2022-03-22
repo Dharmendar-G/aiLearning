@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:businessobjects:business_intelligence:12.1.0.882:*:*:*:*:*:*:*,Businessobjects Business Intelligence 12.1.0.882,[''],2022-03-19T13:43Z
+1,cpe:2.3:a:businessobjects:businessobjects_enterprise:65.10.0.1011:*:*:*:*:*:*:*,Businessobjects Enterprise 65.10.0.1011,[''],2022-03-19T13:43Z
+2,cpe:2.3:a:businessobjects:crystal_enterprise:-:*:*:*:*:*:*:*,businessobjects Crystal Enterprise,[''],2022-03-19T13:43Z
+3,cpe:2.3:a:businessobjects:crystal_enterprise:8.5:*:*:*:*:*:*:*,businessobjects Crystal Enterprise 8.5,[''],2022-03-19T13:43Z
+4,cpe:2.3:a:businessobjects:crystal_enterprise:9:*:*:*:*:*:*:*,businessobjects Crystal Enterprise 9,"['CVE-2004-0204', 'CVE-2004-1981', 'CVE-2006-4099']",2022-03-19T13:43Z
+5,cpe:2.3:a:businessobjects:crystal_enterprise:10:*:*:*:*:*:*:*,businessobjects Crystal Enterprise 10,"['CVE-2004-0204', 'CVE-2004-1981', 'CVE-2006-4099']",2022-03-19T13:43Z
+6,cpe:2.3:a:businessobjects:crystal_enterprise_embedded:10.0.0.533:*:*:*:*:*:*:*,Businessobjects Crystal Enterprise Embedded 10.0.0.533,[''],2022-03-19T13:43Z
+7,cpe:2.3:a:businessobjects:crystal_enterprise_java_sdk:-:*:*:*:*:*:*:*,businessobjects Crystal Enterprise Java SDK,[''],2022-03-19T13:43Z
+8,cpe:2.3:a:businessobjects:crystal_enterprise_java_sdk:8.5:*:*:*:*:*:*:*,businessobjects Crystal Enterprise Java SDK 8.5,['CVE-2004-0204'],2022-03-19T13:43Z
+9,cpe:2.3:a:businessobjects:crystal_enterprise_ras_for_unix:-:*:*:*:*:*:*:*,businessobjects Crystal Enterprise RAS for UNIX,[''],2022-03-19T13:43Z

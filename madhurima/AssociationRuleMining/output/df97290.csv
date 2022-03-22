@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:businessobjects:crystal_reports:10.0.0.53327:*:*:*:*:*:*:*,Businessobjects Crystal Reports 10.0.0.53327,['CVE-2001-1464'],2022-03-19T13:43Z
+1,cpe:2.3:a:businessobjects:crystal_reports:12.3.1.684:*:*:*:*:*:*:*,Businessobjects Crystal Reports 12.3.1.684,['CVE-2001-1464'],2022-03-19T13:43Z
+2,cpe:2.3:a:businessobjects:crystal_reports_.net_runtime:10.0.0.0:*:*:*:*:*:*:*,Businessobjects Crystal Reports .net Runtime 10.0.0.0,[''],2022-03-19T13:43Z
+3,cpe:2.3:a:businessobjects:crystal_reports_.net_server:11.0.0.0:*:*:*:*:*:*:*,Businessobjects Crystal Reports .net Server 11.0.0.0,[''],2022-03-19T13:43Z
+4,cpe:2.3:a:businessobjects:crystal_reports_basic_runtime_for_visual_studio_2008:10.5.0.0:*:*:*:*:*:*:*,Businessobjects Crystal Reports Basic Runtime For Visual Studio 2008 10.5.0.0,[''],2022-03-19T13:43Z
+5,cpe:2.3:a:businessobjects:crystal_reports_basic_runtime_for_visual_studio_2008:10.5.0.0:*:*:*:*:*:x64:*,Businessobjects Crystal Reports Basic Runtime For Visual Studio 2008 10.5.0.0 (x64) 64-bit,[''],2022-03-19T13:43Z
+6,cpe:2.3:a:businessobjects:crystal_reports_basic_runtime_for_visual_studio_2008:10.5.2.0:*:*:*:*:*:*:*,Businessobjects Crystal Reports Basic Runtime For Visual Studio 2008 10.5.2.0,[''],2022-03-19T13:43Z
+7,cpe:2.3:a:businessobjects:crystal_reports_client:7.0:*:*:*:*:*:*:*,Businessobjects Crystal Reports Client 7.0,[''],2022-03-19T13:43Z
+8,cpe:2.3:a:businessobjects:crystal_reports_for_.net_framework_2.0:10.2.0:*:*:*:*:*:x64:*,Businessobjects Crystal Reports For .net Framework 2.0 10.2.0 (x64) 64-bit,[''],2022-03-19T13:43Z
+9,cpe:2.3:a:businessobjects:crystal_reports_for_visual_studio_2010:13.0.2.469:*:*:*:*:*:*:*,Businessobjects Crystal Reports For Visual Studio 2010 13.0.2.469,[''],2022-03-19T13:43Z

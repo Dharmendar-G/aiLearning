@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:axiosys:bento4:1.6.0-634:*:*:*:*:*:*:*,Axiomatic Systems Bento4 1.6.0-634,"['CVE-2020-23330', 'CVE-2020-23333', 'CVE-2020-23334', 'CVE-2020-23912', 'CVE-2021-32265', 'CVE-2021-35306', 'CVE-2021-35307']",2022-03-19T04:46Z
+1,cpe:2.3:a:axiosys:bento4:1.6.0-635:*:*:*:*:*:*:*,Axiomatic Systems Bento4 1.6.0-635,"['CVE-2020-23912', 'CVE-2021-32265', 'CVE-2021-35306', 'CVE-2021-35307']",2022-03-19T04:46Z
+2,cpe:2.3:a:axiosys:bento4:1.6.0-636:*:*:*:*:*:*:*,Axiomatic Systems Bento4 1.6.0-636,"['CVE-2020-23912', 'CVE-2021-32265', 'CVE-2021-35306', 'CVE-2021-35307']",2022-03-19T04:46Z
+3,cpe:2.3:a:axiosys:bento4:1.6.0-637:*:*:*:*:*:*:*,Axiomatic Systems Bento4 1.6.0-637,"['CVE-2020-23912', 'CVE-2021-32265']",2022-03-19T04:46Z
+4,cpe:2.3:a:axiosys:bento4:1.6.0-638:*:*:*:*:*:*:*,Axiomatic Systems Bento4 1.6.0-638,[''],2022-03-19T04:46Z
+5,cpe:2.3:a:axiosys:bento4:1.6.0-639:*:*:*:*:*:*:*,Axiomatic Systems Bento4 1.6.0-639,[''],2022-03-19T04:46Z
+6,cpe:2.3:h:axis:207_network_camera:-:*:*:*:*:*:*:*,Axis Communications AXIS 207 Network Camera,[''],2022-03-19T04:46Z
+7,cpe:2.3:h:axis:207w_camera:-:*:*:*:*:*:*:*,Axis 207W Camera,['CVE-2007-4926'],2022-03-19T04:46Z
+8,cpe:2.3:h:axis:207w_network_camera:-:*:*:*:*:*:*:*,Axis Communications AXIS 207W Network Camera,"['CVE-2007-4927', 'CVE-2007-4928', 'CVE-2007-4929', 'CVE-2007-4930']",2022-03-19T04:46Z
+9,cpe:2.3:h:axis:2100_network_camera:-:*:*:*:*:*:*:*,Axis 2100 Network Camera,"['CVE-2001-1543', 'CVE-2003-0240', 'CVE-2007-2239', 'CVE-2017-12413', 'CVE-2017-15885']",2022-03-19T04:46Z

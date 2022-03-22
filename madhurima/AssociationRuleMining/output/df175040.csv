@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dayz:kinza:4.6.0:*:*:*:*:windows:*:*,Dayz Kinza 4.6.0 for Windows,['CVE-2019-6031'],2022-03-20T11:04Z
+1,cpe:2.3:a:dayz:kinza:4.6.1:*:*:*:*:windows:*:*,Dayz Kinza 4.6.1 for Windows,['CVE-2019-6031'],2022-03-20T11:04Z
+2,cpe:2.3:a:dayz:kinza:4.7.0:*:*:*:*:windows:*:*,Dayz Kinza 4.7.0 for Windows,['CVE-2019-6031'],2022-03-20T11:04Z
+3,cpe:2.3:a:dayz:kinza:4.7.1:*:*:*:*:windows:*:*,Dayz Kinza 4.7.1 for Windows,['CVE-2019-6031'],2022-03-20T11:04Z
+4,cpe:2.3:a:dayz:kinza:4.7.2:*:*:*:*:windows:*:*,Dayz Kinza 4.7.2 for Windows,['CVE-2019-6031'],2022-03-20T11:05Z
+5,cpe:2.3:a:dayz:kinza:4.8.0:*:*:*:*:windows:*:*,Dayz Kinza 4.8.0 for Windows,['CVE-2019-6031'],2022-03-20T11:05Z
+6,cpe:2.3:a:dayz:kinza:4.8.1:*:*:*:*:windows:*:*,Dayz Kinza 4.8.1 for Windows,['CVE-2019-6031'],2022-03-20T11:05Z
+7,cpe:2.3:a:dayz:kinza:4.8.2:*:*:*:*:windows:*:*,Dayz Kinza 4.8.2 for Windows,['CVE-2019-6031'],2022-03-20T11:05Z
+8,cpe:2.3:a:dayz:kinza:4.9.0:*:*:*:*:windows:*:*,Dayz Kinza 4.9.0 for Windows,['CVE-2019-6031'],2022-03-20T11:05Z
+9,cpe:2.3:a:dayz:kinza:4.9.1:*:*:*:*:windows:*:*,Dayz Kinza 4.9.1 for Windows,['CVE-2019-6031'],2022-03-20T11:05Z

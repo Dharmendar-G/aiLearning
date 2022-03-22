@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:procurve_router:jc149b:*:*:*:*:*:*:*,HP ProCurve Router Model JC149B,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:46Z
+1,cpe:2.3:h:hp:procurve_router:jc150a:*:*:*:*:*:*:*,HP ProCurve Router Model JC150A,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:46Z
+2,cpe:2.3:h:hp:procurve_router:jc150b:*:*:*:*:*:*:*,HP ProCurve Router Model JC150B,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:46Z
+3,cpe:2.3:h:hp:procurve_router:jd429b:*:*:*:*:*:*:*,HP ProCurve Router Model JD429B,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:47Z
+4,cpe:2.3:h:hp:procurve_router:jd431a:*:*:*:*:*:*:*,HP ProCurve Router Model JD431A,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:47Z
+5,cpe:2.3:h:hp:procurve_router:jd432a:*:*:*:*:*:*:*,HP ProCurve Router Model JD432A,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:47Z
+6,cpe:2.3:h:hp:procurve_router:jd433a:*:*:*:*:*:*:*,HP ProCurve Router Model JD433A,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:47Z
+7,cpe:2.3:h:hp:procurve_router:jd653a:*:*:*:*:*:*:*,HP ProCurve Router Model JD653A,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:47Z
+8,cpe:2.3:h:hp:procurve_router:jd655a:*:*:*:*:*:*:*,HP ProCurve Router Model JD655A,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:47Z
+9,cpe:2.3:h:hp:procurve_router:jd656a:*:*:*:*:*:*:*,HP ProCurve Router Model JD656A,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T15:47Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:heketi_project:heketi:-:*:*:*:*:*:*:*,Heketi Project Heketi,"['CVE-2019-3899', 'CVE-2020-10763']",2022-03-21T10:37Z
+1,cpe:2.3:a:heketi_project:heketi:2.1.0:dev:*:*:*:*:*:*,Heketi Project Heketi 2.1.0 Dev,['CVE-2020-10763'],2022-03-21T10:37Z
+2,cpe:2.3:a:heketi_project:heketi:3.0.0:*:*:*:*:*:*:*,Heketi Project Heketi 3.0.0,['CVE-2020-10763'],2022-03-21T10:37Z
+3,cpe:2.3:a:heketi_project:heketi:3.1.0:*:*:*:*:*:*:*,Heketi Project Heketi 3.1.0,['CVE-2020-10763'],2022-03-21T10:37Z
+4,cpe:2.3:a:heketi_project:heketi:4.0.0:*:*:*:*:*:*:*,Heketi Project Heketi 4.0.0,['CVE-2020-10763'],2022-03-21T10:37Z
+5,cpe:2.3:a:heketi_project:heketi:5.0.0:*:*:*:*:*:*:*,Heketi Project Heketi 5.0.0,"['CVE-2017-15104', 'CVE-2020-10763']",2022-03-21T10:37Z
+6,cpe:2.3:a:heketi_project:heketi:5.0.1:*:*:*:*:*:*:*,Heketi Project Heketi 5.0.1,['CVE-2020-10763'],2022-03-21T10:37Z
+7,cpe:2.3:a:heketi_project:heketi:6.0.0:*:*:*:*:*:*:*,Heketi Project Heketi 6.0.0,['CVE-2020-10763'],2022-03-21T10:37Z
+8,cpe:2.3:a:heketi_project:heketi:7.0.0:*:*:*:*:*:*:*,Heketi Project Heketi 7.0.0,['CVE-2020-10763'],2022-03-21T10:37Z
+9,cpe:2.3:a:heketi_project:heketi:8.0.0:*:*:*:*:*:*:*,Heketi Project Heketi 8.0.0,['CVE-2020-10763'],2022-03-21T10:37Z

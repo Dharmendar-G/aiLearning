@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:citrix:xenapp_management:6.0.0.0:*:*:*:*:*:*:*,Citrix Xenapp Management 6.0.0.0,[''],2022-03-20T01:40Z
+1,cpe:2.3:a:citrix:xenapp_management:6.5.0.0:*:*:*:*:*:*:*,Citrix Xenapp Management 6.5.0.0,[''],2022-03-20T01:40Z
+2,cpe:2.3:a:citrix:xenapp_migration:6.5.0.0:*:*:*:*:*:*:*,Citrix Xenapp Migration 6.5.0.0,[''],2022-03-20T01:40Z
+3,cpe:2.3:a:citrix:xenapp_online:12.1:*:*:*:*:*:*:*,Citrix Xenapp Online 12.1,['CVE-2012-4603'],2022-03-20T01:40Z
+4,cpe:2.3:a:citrix:xenapp_plugin_for_hosted_apps:11.0.0.5357:*:*:*:*:*:*:*,Citrix Xenapp Plugin For Hosted Apps 11.0.0.5357,[''],2022-03-20T01:40Z
+5,cpe:2.3:a:citrix:xenapp_plugin_for_hosted_apps:11.0.150.5357:*:*:*:*:*:*:*,Citrix Xenapp Plugin For Hosted Apps 11.0.150.5357,[''],2022-03-20T01:40Z
+6,cpe:2.3:a:citrix:xenapp_plugin_for_streamed_apps:1.2.5357:*:*:*:*:*:*:*,Citrix Xenapp Plugin For Streamed Apps 1.2.5357,[''],2022-03-20T01:41Z
+7,cpe:2.3:a:citrix:xenapp_plugin_for_streamed_apps:5.0.0.5357:*:*:*:*:*:*:*,Citrix Xenapp Plugin For Streamed Apps 5.0.0.5357,[''],2022-03-20T01:41Z
+8,cpe:2.3:a:citrix:xenapp_power_and_capacity_management_agent:2.0.0.22:*:*:*:*:*:*:*,Citrix Xenapp Power And Capacity Management Agent 2.0.0.22,[''],2022-03-20T01:41Z
+9,cpe:2.3:a:citrix:xenapp_reports:4.7.0.0:*:*:*:*:*:*:*,Citrix Xenapp Reports 4.7.0.0,[''],2022-03-20T01:41Z

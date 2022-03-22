@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:august:august_home:10.13.1:*:*:*:*:android:*:*,August Home 10.13.1 for Android,[''],2022-03-19T02:44Z
+1,cpe:2.3:h:august:connect_wi-fi_bridge:-:*:*:*:*:*:*:*,August Connect Wi-Fi Bridge,['CVE-2019-17098'],2022-03-19T02:44Z
+2,cpe:2.3:o:august:connect_wi-fi_bridge_firmware:-:*:*:*:*:*:*:*,August Connect Wi-Fi Bridge Firmware,['CVE-2019-17098'],2022-03-19T02:44Z
+3,cpe:2.3:o:august:connect_wi-fi_bridge_firmware:2.2.12:*:*:*:*:*:*:*,August Connect Wi-Fi Bridge Firmware 2.2.12,['CVE-2019-17098'],2022-03-19T02:44Z
+4,cpe:2.3:a:augustine_project:augustine:0.1.0:*:*:*:*:node.js:*:*,augustine Project augustine 0.1.0 for Node.js,[''],2022-03-19T02:44Z
+5,cpe:2.3:a:augustine_project:augustine:0.1.2:*:*:*:*:node.js:*:*,augustine Project augustine 0.1.2 for Node.js,[''],2022-03-19T02:44Z
+6,cpe:2.3:a:augustine_project:augustine:0.1.12:*:*:*:*:node.js:*:*,augustine Project augustine 0.1.12 for Node.js,[''],2022-03-19T02:44Z
+7,cpe:2.3:a:augustine_project:augustine:0.1.13:*:*:*:*:node.js:*:*,augustine Project augustine 0.1.13 for Node.js,[''],2022-03-19T02:44Z
+8,cpe:2.3:a:augustine_project:augustine:0.1.14:*:*:*:*:node.js:*:*,augustine Project augustine 0.1.14 for Node.js,[''],2022-03-19T02:44Z
+9,cpe:2.3:a:augustine_project:augustine:0.1.15:*:*:*:*:node.js:*:*,augustine Project augustine 0.1.15 for Node.js,[''],2022-03-19T02:44Z

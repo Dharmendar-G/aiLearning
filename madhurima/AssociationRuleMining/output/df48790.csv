@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:arubanetworks:aruba_2530yb:-:*:*:*:*:*:*:*,Aruba Networks Aruba 2530YB,['CVE-2021-25141'],2022-03-18T23:35Z
+1,cpe:2.3:o:arubanetworks:aruba_2530yb_firmware:yb.16.10.0012:*:*:*:*:*:*:*,Aruba Networks Aruba 2530YB Firmware YB.16.10.0012,[''],2022-03-18T23:35Z
+2,cpe:2.3:h:arubanetworks:aruba_2540:-:*:*:*:*:*:*:*,Aruba Networks Aruba 2540,['CVE-2021-25141'],2022-03-18T23:35Z
+3,cpe:2.3:o:arubanetworks:aruba_2540_firmware:yc.16.10.0012:*:*:*:*:*:*:*,Aruba Networks Aruba 2540 Firmware YC.16.10.0012,[''],2022-03-18T23:35Z
+4,cpe:2.3:h:arubanetworks:aruba_2620:-:*:*:*:*:*:*:*,Aruba Networks Aruba 2620,['CVE-2021-25141'],2022-03-18T23:35Z
+5,cpe:2.3:o:arubanetworks:aruba_2620_firmware:ra.16.04.0022:*:*:*:*:*:*:*,Aruba Networks Aruba 2620 Firmware RA.16.04.0022,[''],2022-03-18T23:35Z
+6,cpe:2.3:h:arubanetworks:aruba_2920:-:*:*:*:*:*:*:*,Aruba Networks Aruba 2920,['CVE-2021-25141'],2022-03-18T23:35Z
+7,cpe:2.3:o:arubanetworks:aruba_2920_firmware:wb.16.10.0011:*:*:*:*:*:*:*,Aruba Networks Aruba 2920 Firmware WB.16.10.0011,[''],2022-03-18T23:35Z
+8,cpe:2.3:h:arubanetworks:aruba_2930f:-:*:*:*:*:*:*:*,Aruba Networks Aruba 2930F,['CVE-2021-25141'],2022-03-18T23:35Z
+9,cpe:2.3:o:arubanetworks:aruba_2930f_firmware:wc.16.10.0012:*:*:*:*:*:*:*,Aruba Networks Aruba 2930F Firmware WC.16.10.0012,[''],2022-03-18T23:35Z

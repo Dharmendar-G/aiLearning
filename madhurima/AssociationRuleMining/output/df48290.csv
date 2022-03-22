@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:artifex:jbig2dec:0.9:*:*:*:*:*:*:*,Artifex jbig2dec 0.9,"['CVE-2016-9601', 'CVE-2020-12268']",2022-03-18T23:28Z
+1,cpe:2.3:a:artifex:jbig2dec:0.10:*:*:*:*:*:*:*,Artifex jbig2dec 0.10,"['CVE-2016-9601', 'CVE-2020-12268']",2022-03-18T23:28Z
+2,cpe:2.3:a:artifex:jbig2dec:0.11:*:*:*:*:*:*:*,Artifex jbig2dec 0.11,"['CVE-2016-9601', 'CVE-2020-12268']",2022-03-18T23:28Z
+3,cpe:2.3:a:artifex:jbig2dec:0.12:*:*:*:*:*:*:*,Artifex jbig2dec 0.12,"['CVE-2016-9601', 'CVE-2020-12268']",2022-03-18T23:28Z
+4,cpe:2.3:a:artifex:jbig2dec:0.13:*:*:*:*:*:*:*,Artifex jbig2dec 0.13,"['CVE-2016-9601', 'CVE-2017-7885', 'CVE-2017-7975', 'CVE-2017-7976', 'CVE-2020-12268']",2022-03-18T23:28Z
+5,cpe:2.3:a:artifex:jbig2dec:0.14:*:*:*:*:*:*:*,Artifex jbig2dec 0.14,['CVE-2020-12268'],2022-03-18T23:28Z
+6,cpe:2.3:a:artifex:jbig2dec:0.15:*:*:*:*:*:*:*,Artifex jbig2dec 0.15,['CVE-2020-12268'],2022-03-18T23:28Z
+7,cpe:2.3:a:artifex:jbig2dec:0.16:*:*:*:*:*:*:*,Artifex jbig2dec 0.16,['CVE-2020-12268'],2022-03-18T23:28Z
+8,cpe:2.3:a:artifex:jbig2dec:0.17:*:*:*:*:*:*:*,Artifex jbig2dec 0.17,['CVE-2020-12268'],2022-03-18T23:28Z
+9,cpe:2.3:a:artifex:jbig2dec:0.18:*:*:*:*:*:*:*,Artifex Jbig2dec 0.18,[''],2022-03-18T23:28Z

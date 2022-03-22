@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:checkpoint:ng-ai:-:*:*:*:*:*:*:*,Checkpoint NG-AI,[''],2022-03-19T16:48Z
+1,cpe:2.3:a:checkpoint:ng-ai:r54:*:*:*:*:*:*:*,Checkpoint NG-AI R54,['CVE-2004-0469'],2022-03-19T16:48Z
+2,cpe:2.3:a:checkpoint:ng-ai:r55:*:*:*:*:*:*:*,Checkpoint NG-AI R55,['CVE-2004-0469'],2022-03-19T16:48Z
+3,cpe:2.3:a:checkpoint:provider-1:-:*:*:*:*:*:*:*,Checkpoint Provider-1,[''],2022-03-19T16:48Z
+4,cpe:2.3:a:checkpoint:provider-1:4.1:*:*:*:*:*:*:*,Checkpoint Provider-1 4.1,"['CVE-2001-1176', 'CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112']",2022-03-19T16:48Z
+5,cpe:2.3:a:checkpoint:provider-1:4.1:sp1:*:*:*:*:*:*,Checkpoint Provider-1 4.1 SP1,"['CVE-2001-1176', 'CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112']",2022-03-19T16:48Z
+6,cpe:2.3:a:checkpoint:provider-1:4.1:sp2:*:*:*:*:*:*,Checkpoint Provider-1 4.1 SP2,"['CVE-2001-1176', 'CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112']",2022-03-19T16:48Z
+7,cpe:2.3:a:checkpoint:provider-1:4.1:sp3:*:*:*:*:*:*,Checkpoint Provider-1 4.1 SP3,"['CVE-2001-1176', 'CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112']",2022-03-19T16:48Z
+8,cpe:2.3:a:checkpoint:provider-1:4.1:sp4:*:*:*:*:*:*,Checkpoint Provider-1 4.1 SP4,"['CVE-2001-1176', 'CVE-2004-0079', 'CVE-2004-0081', 'CVE-2004-0112']",2022-03-19T16:48Z
+9,cpe:2.3:h:checkpoint:quantum_security_gateway:-:*:*:*:*:*:*:*,Check Point Quantum Security Gateway,['CVE-2021-3449'],2022-03-19T16:48Z

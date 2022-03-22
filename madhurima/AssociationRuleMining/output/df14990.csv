@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:afian:filerun:2019.05.21:*:*:*:*:*:*:*,Afian FileRun 2019.05.21,"['CVE-2019-12457', 'CVE-2019-12458', 'CVE-2019-12459', 'CVE-2019-12905', 'CVE-2021-35504', 'CVE-2021-35505']",2022-03-18T13:30Z
+1,cpe:2.3:a:afian:filerun:2019.06.01:*:*:*:*:*:*:*,Afian FileRun 2019.06.01,"['CVE-2021-35504', 'CVE-2021-35505']",2022-03-18T13:30Z
+2,cpe:2.3:a:afian:filerun:2019.12.25:*:*:*:*:*:*:*,Afian FileRun 2019.12.25,"['CVE-2021-35504', 'CVE-2021-35505']",2022-03-18T13:30Z
+3,cpe:2.3:a:afian:filerun:2020.11.21:*:*:*:*:*:*:*,Afian FileRun 2020.11.21,"['CVE-2021-35504', 'CVE-2021-35505']",2022-03-18T13:30Z
+4,cpe:2.3:a:afian:filerun:2021.03.26:*:*:*:*:*:*:*,Afian FileRun 2021.03.26,"['CVE-2021-35503', 'CVE-2021-35504', 'CVE-2021-35505', 'CVE-2021-35506']",2022-03-18T13:30Z
+5,cpe:2.3:a:afi-solutions:webacms:2.1.0:*:*:*:*:*:*:*,AFI Solutions WebACMS 2.1.0,['CVE-2021-44829'],2022-03-18T13:30Z
+6,cpe:2.3:a:afnetworking_project:afnetworking:0.2.1:*:*:*:*:*:*:*,AFNetworking Project AFNetworking 0.2.1,['CVE-2015-3996'],2022-03-18T13:30Z
+7,cpe:2.3:a:afnetworking_project:afnetworking:0.3.0:*:*:*:*:*:*:*,AFNetworking Project AFNetworking 0.3.0,['CVE-2015-3996'],2022-03-18T13:30Z
+8,cpe:2.3:a:afnetworking_project:afnetworking:0.4.0:*:*:*:*:*:*:*,AFNetworking Project AFNetworking 0.4.0,['CVE-2015-3996'],2022-03-18T13:30Z
+9,cpe:2.3:a:afnetworking_project:afnetworking:0.5.0:*:*:*:*:*:*:*,AFNetworking Project AFNetworking 0.5.0,['CVE-2015-3996'],2022-03-18T13:30Z

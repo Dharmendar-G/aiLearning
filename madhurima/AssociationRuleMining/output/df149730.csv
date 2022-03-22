@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cmsuno_project:cmsuno:1.6.1:*:*:*:*:*:*:*,CMSUno Project CMSUno 1.6.1,[''],2022-03-20T04:29Z
+1,cpe:2.3:a:cmsuno_project:cmsuno:1.6.2:*:*:*:*:*:*:*,CMSUno Project CMSUno 1.6.2,"['CVE-2020-25538', 'CVE-2020-25557']",2022-03-20T04:29Z
+2,cpe:2.3:a:cmsuno_project:cmsuno:1.6.3:*:*:*:*:*:*:*,CMSUno Project CMSUno 1.6.3,[''],2022-03-20T04:29Z
+3,cpe:2.3:a:cmsuno_project:cmsuno:1.7:*:*:*:*:*:*:*,CMSUno Project CMSUno 1.7,['CVE-2021-36654'],2022-03-20T04:29Z
+4,cpe:2.3:a:cmsuno_project:cmsuno:1.7.1:*:*:*:*:*:*:*,CMSUno Project CMSUno 1.7.1,[''],2022-03-20T04:29Z
+5,cpe:2.3:a:cmsuno_project:cmsuno:1.7.2:*:*:*:*:*:*:*,CMSUno Project CMSUno 1.7.2,['CVE-2021-40889'],2022-03-20T04:29Z
+6,cpe:2.3:a:cmsuno_project:cmsuno:1.7.3:*:*:*:*:*:*:*,CMSUno Project CMSUno 1.7.3,[''],2022-03-20T04:29Z
+7,cpe:2.3:a:cmsuno_project:cmsuno:1.7.4:*:*:*:*:*:*:*,CMSUno Project CMSUno 1.7.4,[''],2022-03-20T04:29Z
+8,cpe:2.3:a:cmswing:cmswing:1.0.0:*:*:*:*:*:*:*,CmsWing 1.0.0,[''],2022-03-20T04:29Z
+9,cpe:2.3:a:cmswing:cmswing:1.1.0:*:*:*:*:*:*:*,CmsWing 1.1.0,[''],2022-03-20T04:29Z

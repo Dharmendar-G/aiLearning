@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:auna:connect_100:-:*:*:*:*:*:*:*,auna Connect 100,['CVE-2019-13473'],2022-03-19T02:44Z
+1,cpe:2.3:o:auna:connect_100_firmware:-:*:*:*:*:*:*:*,auna Connect 100 Firmware,['CVE-2019-13473'],2022-03-19T02:44Z
+2,cpe:2.3:a:auo:solar_data_recorder:1.3.0:*:*:*:*:*:*:*,AUO Solar Data Recorder 1.3.0,[''],2022-03-19T02:44Z
+3,cpe:2.3:a:auo:sunveillance_monitoring_system_\&_data_recorder:-:*:*:*:*:*:*:*,Auo Sunveillance Monitoring System & Data Recorder,"['CVE-2019-12719', 'CVE-2019-12720']",2022-03-19T02:44Z
+4,cpe:2.3:a:auo:sunveillance_monitoring_system_\&_data_recorder:1.1.9e:*:*:*:*:*:*:*,Auo Sunveillance Monitoring System & Data Recorder 1.1.9e,[''],2022-03-19T02:44Z
+5,cpe:2.3:a:auracms:auracms:3.0:*:*:*:*:*:*:*,auraCMS AuraCMS 3.0,"['CVE-2014-3974', 'CVE-2014-3975']",2022-03-19T02:44Z
+6,cpe:2.3:a:aurea:jive-n:9.0.2.1:*:*:*:*:*:*:*,Aurea Jive-n 9.0.2.1,['CVE-2018-5758'],2022-03-19T02:44Z
+7,cpe:2.3:a:auromeera:emli:1.0:*:*:*:*:*:*:*,AuroMeera eMLi 1.0,"['CVE-2017-7258', 'CVE-2017-7621']",2022-03-19T02:44Z
+8,cpe:2.3:a:auroradao:aura:-:*:*:*:*:*:*:*,Aurora DAO AURA,['CVE-2018-10705'],2022-03-19T02:44Z
+9,cpe:2.3:a:auroradao:idex_membership:-:*:*:*:*:*:*:*,Aurora IDEX Membership (IDXM),['CVE-2018-10666'],2022-03-19T02:44Z

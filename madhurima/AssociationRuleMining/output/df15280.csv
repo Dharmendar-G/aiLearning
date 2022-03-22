@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:afterlogic:mailsuite_pro:8.5.0:*:*:*:*:linux:*:*,Afterlogic MailSuite Pro 8.5.0 for Linux,[''],2022-03-18T13:34Z
+1,cpe:2.3:a:afterlogic:mailsuite_pro:8.5.1:*:*:*:*:linux:*:*,Afterlogic MailSuite Pro 8.5.1 for Linux,[''],2022-03-18T13:34Z
+2,cpe:2.3:a:afterlogic:mailsuite_pro:8.5.2:*:*:*:*:linux:*:*,Afterlogic MailSuite Pro 8.5.2 for Linux,[''],2022-03-18T13:34Z
+3,cpe:2.3:a:afterlogic:mailsuite_pro:8.5.3:*:*:*:*:linux:*:*,Afterlogic MailSuite Pro 8.5.3 for Linux,[''],2022-03-18T13:34Z
+4,cpe:2.3:a:afterlogic:mailsuite_pro:8.5.4:*:*:*:*:linux:*:*,Afterlogic MailSuite Pro 8.5.4 for Linux,[''],2022-03-18T13:34Z
+5,cpe:2.3:a:afterlogic:mailsuite_pro:8.6.0:*:*:*:*:linux:*:*,Afterlogic MailSuite Pro 8.6.0 for Linux,[''],2022-03-18T13:34Z
+6,cpe:2.3:a:afterlogic:webmail:7.7:*:*:*:*:*:*:*,AfterLogic WebMail 7.7,['CVE-2017-14597'],2022-03-18T13:34Z
+7,cpe:2.3:a:afterlogic:webmail_pro:-:*:*:*:*:*:*:*,Afterlogic WebMail Pro,"['CVE-2009-4743', 'CVE-2021-26293', 'CVE-2021-26294']",2022-03-18T13:34Z
+8,cpe:2.3:a:afterlogic:webmail_pro:7.7.9:*:*:*:*:*:*:*,Afterlogic Webmail Pro 7.7.9,"['CVE-2021-26293', 'CVE-2021-26294']",2022-03-18T13:34Z
+9,cpe:2.3:a:afterlogic:webmail_pro:8.2.3:*:*:*:*:*:*:*,Afterlogic WebMail Pro 8.2.3,['CVE-2021-26293'],2022-03-18T13:34Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitachi:device_manager:8.1.1:*:*:*:*:*:*:*,Hitachi Device manger 8.1.1,"['CVE-2015-1565', 'CVE-2017-9294', 'CVE-2017-9295', 'CVE-2017-9296', 'CVE-2017-9297', 'CVE-2017-9298', 'CVE-2018-14735', 'CVE-2018-21026', 'CVE-2018-21032', 'CVE-2018-21033', 'CVE-2019-17360']",2022-03-21T11:18Z
+1,cpe:2.3:a:hitachi:device_manager:8.5.2:*:*:*:*:*:*:*,Hitachi Device Manager 8.5.2,"['CVE-2017-9294', 'CVE-2017-9295', 'CVE-2017-9296', 'CVE-2017-9297', 'CVE-2017-9298', 'CVE-2018-14735', 'CVE-2018-21026', 'CVE-2018-21032', 'CVE-2018-21033', 'CVE-2019-17360']",2022-03-21T11:18Z
+2,cpe:2.3:a:hitachi:device_manager:8.6.0-00:*:*:*:*:*:*:*,Hitachi Device Manager 8.6.0-00,"['CVE-2018-14735', 'CVE-2018-21026', 'CVE-2018-21032', 'CVE-2018-21033', 'CVE-2019-17360']",2022-03-21T11:18Z
+3,cpe:2.3:a:hitachi:device_manager:8.6.1-00:*:*:*:*:*:*:*,Hitachi Device Manager 8.6.1-00,"['CVE-2018-14735', 'CVE-2018-21026', 'CVE-2018-21032', 'CVE-2018-21033', 'CVE-2019-17360']",2022-03-21T11:18Z
+4,cpe:2.3:a:hitachi:device_manager:8.6.1-02:*:*:*:*:*:*:*,Hitachi Device Manager 8.6.1-02,"['CVE-2018-21026', 'CVE-2018-21032', 'CVE-2018-21033', 'CVE-2019-17360']",2022-03-21T11:18Z
+5,cpe:2.3:a:hitachi:device_manager:8.6.2-00:*:*:*:*:*:*:*,Hitachi Device Manager 8.6.2-00,"['CVE-2018-21026', 'CVE-2018-21032', 'CVE-2019-17360']",2022-03-21T11:18Z
+6,cpe:2.3:a:hitachi:device_manager:8.6.5:*:*:*:*:*:*:*,Hitachi Device Manager 8.6.5,"['CVE-2018-21026', 'CVE-2018-21032', 'CVE-2019-17360']",2022-03-21T11:18Z
+7,cpe:2.3:a:hitachi:device_manager:8.6.5-00:*:*:*:*:*:*:*,Hitachi Device Manager 8.6.5-00,"['CVE-2018-21032', 'CVE-2019-17360']",2022-03-21T11:18Z
+8,cpe:2.3:a:hitachi:device_manager:8.7.0-00:*:*:*:*:*:*:*,Hitachi Device Manager 8.7.0-00,['CVE-2018-21032'],2022-03-21T11:18Z
+9,cpe:2.3:a:hitachi:device_manager:8.7.1-00:*:*:*:*:*:*:*,Hitachi Device Manager 8.7.1-00,[''],2022-03-21T11:18Z

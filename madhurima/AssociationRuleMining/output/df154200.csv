@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codesnippets:code_snippets:2.14.1:*:*:*:*:wordpress:*:*,Code Snippets 2.14.1 for Wordpress,['CVE-2021-25008'],2022-03-20T06:00Z
+1,cpe:2.3:a:codesnippets:code_snippets:2.14.2:*:*:*:*:wordpress:*:*,Code Snippets 2.14.2 for Wordpress,['CVE-2021-25008'],2022-03-20T06:00Z
+2,cpe:2.3:a:codesnippets:code_snippets:2.14.3:*:*:*:*:wordpress:*:*,Code Snippets 2.14.3 for WordPress,[''],2022-03-20T06:00Z
+3,cpe:2.3:a:codesolz:better_find_and_replace:-:*:*:*:*:wordpress:*:*,CodeSolz Better Find And Replace for WordPress,['CVE-2021-24676'],2022-03-20T06:00Z
+4,cpe:2.3:a:codesolz:better_find_and_replace:0.5:*:*:*:*:wordpress:*:*,CodeSolz Better Find And Replace 0.5 for WordPress,['CVE-2021-24676'],2022-03-20T06:00Z
+5,cpe:2.3:a:codesolz:better_find_and_replace:1.0.0:*:*:*:*:wordpress:*:*,CodeSolz Better Find And Replace 1.0.0 for WordPress,['CVE-2021-24676'],2022-03-20T06:00Z
+6,cpe:2.3:a:codesolz:better_find_and_replace:1.0.1:*:*:*:*:wordpress:*:*,CodeSolz Better Find And Replace 1.0.1 for WordPress,['CVE-2021-24676'],2022-03-20T06:00Z
+7,cpe:2.3:a:codesolz:better_find_and_replace:1.0.2:*:*:*:*:wordpress:*:*,CodeSolz Better Find And Replace 1.0.2 for WordPress,['CVE-2021-24676'],2022-03-20T06:00Z
+8,cpe:2.3:a:codesolz:better_find_and_replace:1.0.3:*:*:*:*:wordpress:*:*,CodeSolz Better Find And Replace 1.0.3 for WordPress,['CVE-2021-24676'],2022-03-20T06:00Z
+9,cpe:2.3:a:codesolz:better_find_and_replace:1.0.4:*:*:*:*:wordpress:*:*,CodeSolz Better Find And Replace 1.0.4 for WordPress,['CVE-2021-24676'],2022-03-20T06:00Z

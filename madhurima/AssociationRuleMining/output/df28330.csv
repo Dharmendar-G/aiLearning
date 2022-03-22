@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:ambari:2.2.1:*:*:*:*:*:*:*,Apache Software Foundation Ambari 2.2.1,"['CVE-2014-3582', 'CVE-2016-4976', 'CVE-2018-8003', 'CVE-2020-13924', 'CVE-2020-1936']",2022-03-18T17:33Z
+1,cpe:2.3:a:apache:ambari:2.2.2:*:*:*:*:*:*:*,Apache Software Foundation Ambari 2.2.2,"['CVE-2014-3582', 'CVE-2016-4976', 'CVE-2017-5655', 'CVE-2018-8003', 'CVE-2020-13924', 'CVE-2020-1936']",2022-03-18T17:33Z
+2,cpe:2.3:a:apache:ambari:2.2.2:rc0:*:*:*:*:*:*,Apache Software Foundation Ambari 2.2.2 Release Candidate 0,"['CVE-2014-3582', 'CVE-2016-4976', 'CVE-2017-5655', 'CVE-2018-8003', 'CVE-2020-13924', 'CVE-2020-1936']",2022-03-18T17:33Z
+3,cpe:2.3:a:apache:ambari:2.2.2:rc1:*:*:*:*:*:*,Apache Software Foundation Ambari 2.2.2 Release Candidate 1,"['CVE-2014-3582', 'CVE-2016-4976', 'CVE-2017-5655', 'CVE-2018-8003', 'CVE-2020-13924', 'CVE-2020-1936']",2022-03-18T17:33Z
+4,cpe:2.3:a:apache:ambari:2.4.0:*:*:*:*:*:*:*,Apache Software Foundation Ambari 2.4.0,"['CVE-2016-6807', 'CVE-2017-5642', 'CVE-2017-5654', 'CVE-2017-5655', 'CVE-2018-8003', 'CVE-2020-13924', 'CVE-2020-1936']",2022-03-18T17:33Z
+5,cpe:2.3:a:apache:ambari:2.4.0:rc0:*:*:*:*:*:*,Apache Software Foundation Ambari 2.4.0 Release Candidate 0,"['CVE-2016-6807', 'CVE-2017-5642', 'CVE-2017-5654', 'CVE-2017-5655', 'CVE-2018-8003', 'CVE-2020-13924', 'CVE-2020-1936']",2022-03-18T17:33Z
+6,cpe:2.3:a:apache:ambari:2.4.1:*:*:*:*:*:*:*,Apache Software Foundation Ambari 2.4.1,"['CVE-2016-6807', 'CVE-2017-5642', 'CVE-2017-5654', 'CVE-2017-5655', 'CVE-2018-8003', 'CVE-2020-13924', 'CVE-2020-1936']",2022-03-18T17:33Z
+7,cpe:2.3:a:apache:ambari:2.4.1:rc0:*:*:*:*:*:*,Apache Software Foundation Ambari 2.4.1 Release Candidate 0,"['CVE-2016-6807', 'CVE-2017-5642', 'CVE-2017-5654', 'CVE-2017-5655', 'CVE-2018-8003', 'CVE-2020-13924', 'CVE-2020-1936']",2022-03-18T17:33Z
+8,cpe:2.3:a:apache:ambari:2.4.1:rc1:*:*:*:*:*:*,Apache Software Foundation Ambari 2.4.1 Release Candidate 1,"['CVE-2016-6807', 'CVE-2017-5642', 'CVE-2017-5654', 'CVE-2017-5655', 'CVE-2018-8003', 'CVE-2020-13924', 'CVE-2020-1936']",2022-03-18T17:33Z
+9,cpe:2.3:a:apache:ambari:2.4.2:-:*:*:*:*:*:*,Apache Software Foundation Ambari 2.4.2,"['CVE-2017-5642', 'CVE-2017-5655', 'CVE-2018-8003', 'CVE-2020-13924', 'CVE-2020-1936']",2022-03-18T17:33Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:gpfs.tct.server:1.1.7:*:*:*:*:*:*:*,IBM Gpfs.tct.server 1.1.7,['CVE-2020-4850'],2022-03-21T20:41Z
+1,cpe:2.3:a:ibm:gpfs.tct.server:1.1.8:*:*:*:*:*:*:*,IBM Gpfs.tct.server 1.1.8,['CVE-2020-4850'],2022-03-21T20:41Z
+2,cpe:2.3:a:ibm:gpfs.tct.server:1.1.8.4:*:*:*:*:*:*:*,IBM Gpfs.tct.server 1.1.8.4,[''],2022-03-21T20:41Z
+3,cpe:2.3:a:ibm:guardium_data_encryption:3.0.0.2:*:*:*:*:*:*:*,IBM Guardium Data Encryption 3.0.0.2,"['CVE-2019-4686', 'CVE-2019-4688', 'CVE-2019-4689', 'CVE-2019-4691', 'CVE-2019-4692', 'CVE-2019-4693', 'CVE-2019-4694', 'CVE-2019-4695', 'CVE-2019-4697', 'CVE-2019-4698', 'CVE-2019-4699', 'CVE-2019-4701', 'CVE-2019-4713', 'CVE-2021-20378', 'CVE-2021-20414', 'CVE-2021-20474']",2022-03-21T20:41Z
+4,cpe:2.3:a:ibm:guardium_data_encryption:4.0.0.0:*:*:*:*:*:*:*,IBM Guardium Data Encryption 4.0.0.0,"['CVE-2019-4686', 'CVE-2019-4688', 'CVE-2019-4689', 'CVE-2019-4691', 'CVE-2021-39025']",2022-03-21T20:41Z
+5,cpe:2.3:a:ibm:guardium_data_encryption:4.0.0.3:*:*:*:*:*:*:*,IBM Guardium Data Encryption 4.0.0.3,[''],2022-03-21T20:41Z
+6,cpe:2.3:a:ibm:guardium_data_encryption:5.0.0.3:*:*:*:*:*:*:*,IBM Guardium Data Encryption 5.0.0.3,['CVE-2021-39026'],2022-03-21T20:41Z
+7,cpe:2.3:a:ibm:guardium_data_encryption:5.0.0.4:*:*:*:*:*:*:*,IBM Guardium Data Encryption 5.0.0.4,[''],2022-03-21T20:41Z
+8,cpe:2.3:a:ibm:guardium_for_cloud_key_management:1.7.0:*:*:*:*:*:*:*,IBM Guardium for Cloud Key Management 1.7.0,[''],2022-03-21T20:41Z
+9,cpe:2.3:a:ibm:hacmp:-:*:*:*:*:*:*:*,IBM HACMP,[''],2022-03-21T20:41Z

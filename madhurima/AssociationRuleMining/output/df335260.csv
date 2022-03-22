@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:ngfw_module_firmware:v500r005c10:*:*:*:*:*:*:*,Huawei NGFW Module Firmware V500R005C10,"['CVE-2020-9099', 'CVE-2020-9101', 'CVE-2021-22342']",2022-03-21T18:13Z
+1,cpe:2.3:o:huawei:ngfw_module_firmware:v500r005c20:*:*:*:*:*:*:*,Huawei NGFW Module Firmware V500R005C20,"['CVE-2020-9099', 'CVE-2021-22342']",2022-03-21T18:13Z
+2,cpe:2.3:o:huawei:ngfw_module_firmware:v500r005c20spc300:*:*:*:*:*:*:*,Huawei NGFW Module Firmware V500R005C20SPC300,['CVE-2021-22320'],2022-03-21T18:13Z
+3,cpe:2.3:h:huawei:nice:-:*:*:*:*:*:*:*,Huawei Nice,['CVE-2017-2708'],2022-03-21T18:13Z
+4,cpe:2.3:o:huawei:nice_firmware:nice-al00c00b0135:*:*:*:*:*:*:*,Huawei Nice Firmware Nice-AL00C00B0135,[''],2022-03-21T18:13Z
+5,cpe:2.3:h:huawei:nip100:v100r001:*:*:*:*:*:*:*,Huawei NIP100 V100R001,['CVE-2012-4960'],2022-03-21T18:13Z
+6,cpe:2.3:h:huawei:nip1000:v100r001:*:*:*:*:*:*:*,Huawei NIP1000 V100R001,['CVE-2012-4960'],2022-03-21T18:13Z
+7,cpe:2.3:h:huawei:nip200:v100r001:*:*:*:*:*:*:*,Huawei NIP200 V100R001,['CVE-2012-4960'],2022-03-21T18:13Z
+8,cpe:2.3:h:huawei:nip2100:v100r001c00:*:*:*:*:*:*:*,Huawei NIP2100 V100R001C00,['CVE-2012-4960'],2022-03-21T18:13Z
+9,cpe:2.3:h:huawei:nip2200:v100r001c00:*:*:*:*:*:*:*,Huawei NIP2200 V100R001C00,['CVE-2012-4960'],2022-03-21T18:13Z

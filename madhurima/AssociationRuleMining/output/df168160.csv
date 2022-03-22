@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:curlrequest_project:curlrequest:0.5.4:*:*:*:*:node.js:*:*,Curlrequest Project Curlrequest 0.5.4 for Node.js,['CVE-2020-7646'],2022-03-20T09:25Z
+1,cpe:2.3:a:curlrequest_project:curlrequest:0.5.5:*:*:*:*:node.js:*:*,Curlrequest Project Curlrequest 0.5.5 for Node.js,['CVE-2020-7646'],2022-03-20T09:25Z
+2,cpe:2.3:a:curlrequest_project:curlrequest:0.5.6:*:*:*:*:node.js:*:*,Curlrequest Project Curlrequest 0.5.6 for Node.js,['CVE-2020-7646'],2022-03-20T09:25Z
+3,cpe:2.3:a:curlrequest_project:curlrequest:0.5.7:*:*:*:*:node.js:*:*,Curlrequest Project Curlrequest 0.5.7 for Node.js,['CVE-2020-7646'],2022-03-20T09:25Z
+4,cpe:2.3:a:curlrequest_project:curlrequest:1.0.0:*:*:*:*:node.js:*:*,Curlrequest Project Curlrequest 1.0.0 for Node.js,['CVE-2020-7646'],2022-03-20T09:25Z
+5,cpe:2.3:a:curlrequest_project:curlrequest:1.0.1:*:*:*:*:node.js:*:*,Curlrequest Project Curlrequest 1.0.1 for Node.js,['CVE-2020-7646'],2022-03-20T09:25Z
+6,cpe:2.3:a:curly-bracket-parser_project:curly-bracket-parser:0.0.1:*:*:*:*:node.js:*:*,curly-bracket-parser Project curly-bracket-parser 0.0.1 for Node.js,['CVE-2021-23416'],2022-03-20T09:25Z
+7,cpe:2.3:a:curly-bracket-parser_project:curly-bracket-parser:1.0.0:*:*:*:*:node.js:*:*,curly-bracket-parser Project curly-bracket-parser 1.0.0 for Node.js,['CVE-2021-23416'],2022-03-20T09:25Z
+8,cpe:2.3:a:curly-bracket-parser_project:curly-bracket-parser:1.0.1:*:*:*:*:node.js:*:*,curly-bracket-parser Project curly-bracket-parser 1.0.1 for Node.js,['CVE-2021-23416'],2022-03-20T09:25Z
+9,cpe:2.3:a:curly-bracket-parser_project:curly-bracket-parser:1.0.2:*:*:*:*:node.js:*:*,curly-bracket-parser Project curly-bracket-parser 1.0.2 for Node.js,['CVE-2021-23416'],2022-03-20T09:25Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:webex_teams:-:*:*:*:*:iphone_os:*:*,Cisco Webex Teams for iPhone OS,"['CVE-2018-0387', 'CVE-2018-0436', 'CVE-2019-16001', 'CVE-2019-1939', 'CVE-2020-3131', 'CVE-2020-3155', 'CVE-2021-1242']",2022-03-20T01:17Z
+1,cpe:2.3:a:cisco:webex_teams:-:*:*:*:*:iphone_os:*:*,Cisco Webex Teams for iPhone OS,"['CVE-2018-0387', 'CVE-2018-0436', 'CVE-2019-16001', 'CVE-2019-1939', 'CVE-2020-3131', 'CVE-2020-3155', 'CVE-2021-1242']",2022-03-20T01:17Z
+2,cpe:2.3:a:cisco:webex_teams:3.0.4533:*:*:*:*:*:*:*,Cisco Webex Teams 3.0.4533,"['CVE-2018-0436', 'CVE-2019-16001', 'CVE-2019-1636', 'CVE-2019-1939', 'CVE-2020-3131', 'CVE-2020-3155', 'CVE-2021-1242']",2022-03-20T01:17Z
+3,cpe:2.3:a:cisco:webex_teams:3.0.12427.0:*:*:*:*:*:*:*,Cisco Webex Teams 3.0.12427.0,"['CVE-2018-0436', 'CVE-2019-16001', 'CVE-2020-3131', 'CVE-2020-3155', 'CVE-2021-1242']",2022-03-20T01:17Z
+4,cpe:2.3:a:cisco:webex_teams:3.0.12808.0:*:*:*:*:*:*:*,Cisco Webex Teams 3.0.12808.0,"['CVE-2018-0436', 'CVE-2019-16001', 'CVE-2020-3131', 'CVE-2020-3155', 'CVE-2021-1242']",2022-03-20T01:17Z
+5,cpe:2.3:a:cisco:webex_teams:3.0.13131:*:*:*:*:*:*:*,Cisco Webex Teams 3.0.13131,"['CVE-2018-0436', 'CVE-2019-16001', 'CVE-2020-3131', 'CVE-2020-3155', 'CVE-2021-1242']",2022-03-20T01:17Z
+6,cpe:2.3:a:cisco:webex_teams:3.0.14234:*:*:*:*:*:*:*,Cisco Webex Teams 3.0.14234,"['CVE-2018-0436', 'CVE-2019-16001', 'CVE-2020-3155', 'CVE-2021-1242']",2022-03-20T01:17Z
+7,cpe:2.3:a:cisco:webex_teams:3.0.14741.0:*:*:*:*:windows:*:*,Cisco Webex Teams 3.0.14741.0 for Windows,"['CVE-2018-0436', 'CVE-2019-16001', 'CVE-2020-3155', 'CVE-2020-3535', 'CVE-2020-3541', 'CVE-2021-1242']",2022-03-20T01:17Z
+8,cpe:2.3:a:cisco:webex_teams:3.0.14866.0:*:*:*:*:windows:*:*,Cisco Webex Teams 3.0.14866.0 for Windows,"['CVE-2018-0436', 'CVE-2019-16001', 'CVE-2020-3155', 'CVE-2020-3535', 'CVE-2020-3541', 'CVE-2021-1242']",2022-03-20T01:17Z
+9,cpe:2.3:a:cisco:webex_teams:3.0.15015.0:*:*:*:*:windows:*:*,Cisco Webex Teams 3.0.15015.0 for Windows,"['CVE-2018-0436', 'CVE-2019-16001', 'CVE-2020-3155', 'CVE-2020-3535', 'CVE-2020-3541', 'CVE-2021-1242']",2022-03-20T01:17Z

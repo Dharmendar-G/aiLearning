@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.030_01:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.030 01,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+1,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.030_02:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.030 02,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+2,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.031:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.031,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+3,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.032:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.032,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+4,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.032_01:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.032 01,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+5,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.032_02:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.032 02,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+6,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.032_03:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.032 03,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+7,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.033:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.033,"['CVE-2015-8949', 'CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+8,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.033_01:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.033 01,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z
+9,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.033_02:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.033 02,"['CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:10Z

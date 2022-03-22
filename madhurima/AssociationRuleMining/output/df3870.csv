@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:abb:irc5_firmware:-:*:*:*:*:*:*:*,ABB IRC5 Firmware,['CVE-2020-10287'],2022-03-18T10:30Z
+1,cpe:2.3:h:abb:m2m_ethernet:-:*:*:*:*:*:*:*,ABB M2M Ethernet,['CVE-2018-17926'],2022-03-18T10:30Z
+2,cpe:2.3:h:abb:microscada_pro_sys600:-:*:*:*:*:*:*:*,ABB MicroSCADA Pro SYS600,[''],2022-03-18T10:30Z
+3,cpe:2.3:a:abb:microscada_pro_sys600:9.3:*:*:*:*:*:*:*,ABB MicroSCADA Pro SYS600 9.3,['CVE-2019-5620'],2022-03-18T10:30Z
+4,cpe:2.3:o:abb:microscada_pro_sys600_firmware:9.3:*:*:*:*:windows:*:*,ABB MicroSCADA Pro SYS600 Firmware 9.3 for Windows,[''],2022-03-18T10:31Z
+5,cpe:2.3:a:abb:mms_server:6.1:*:*:*:*:*:*:*,ABB MMS Server 6.1,"['CVE-2020-8472', 'CVE-2020-8478']",2022-03-18T10:30Z
+6,cpe:2.3:h:abb:modular_switchgear_monitoring:-:*:*:*:*:*:*:*,ABB MODULAR SWITCHGEAR MONITORING,['CVE-2021-27196'],2022-03-18T10:31Z
+7,cpe:2.3:o:abb:modular_switchgear_monitoring_firmware:-:*:*:*:*:*:*:*,ABB Modular Switchgear Monitoring Firmware,['CVE-2021-27196'],2022-03-18T10:31Z
+8,cpe:2.3:o:abb:modular_switchgear_monitoring_firmware:2.1.0:*:*:*:*:*:*:*,ABB Modular Switchgear Monitoring Firmware 2.1.0,[''],2022-03-18T10:31Z
+9,cpe:2.3:a:abb:mybuildings:-:*:*:*:*:*:*:*,ABB MyBuildings,['CVE-2021-22272'],2022-03-18T10:31Z

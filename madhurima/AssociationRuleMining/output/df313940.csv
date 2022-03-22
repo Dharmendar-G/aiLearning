@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:homey:homey_firmware:2.5.1:*:*:*:*:*:*:*,Homey Firmware 2.5.1,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z
+1,cpe:2.3:o:homey:homey_firmware:2.5.2:*:*:*:*:*:*:*,Homey Firmware 2.5.2,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z
+2,cpe:2.3:o:homey:homey_firmware:3.0.0:*:*:*:*:*:*:*,Homey Firmware 3.0.0,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z
+3,cpe:2.3:o:homey:homey_firmware:3.1.0:*:*:*:*:*:*:*,Homey Firmware 3.1.0,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z
+4,cpe:2.3:o:homey:homey_firmware:3.1.1:*:*:*:*:*:*:*,Homey Firmware 3.1.1,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z
+5,cpe:2.3:o:homey:homey_firmware:3.2.0:*:*:*:*:*:*:*,Homey Firmware 3.2.0,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z
+6,cpe:2.3:o:homey:homey_firmware:3.2.1:*:*:*:*:*:*:*,Homey Firmware 3.2.1,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z
+7,cpe:2.3:o:homey:homey_firmware:4.0.0:*:*:*:*:*:*:*,Homey Firmware 4.0.0,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z
+8,cpe:2.3:o:homey:homey_firmware:4.0.1:*:*:*:*:*:*:*,Homey Firmware 4.0.1,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z
+9,cpe:2.3:o:homey:homey_firmware:4.1.0:*:*:*:*:*:*:*,Homey Firmware 4.1.0,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z

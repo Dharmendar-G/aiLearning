@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:amd:radeon_software:21.3.1:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Radeon Software 21.3.1,"['CVE-2020-12891', 'CVE-2020-12960']",2022-03-18T16:09Z
+1,cpe:2.3:a:amd:radeon_software:21.4.1:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Radeon Software 21.4.1,[''],2022-03-18T16:09Z
+2,cpe:2.3:h:amd:ryzen:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen,"['CVE-2018-8930', 'CVE-2018-8931', 'CVE-2018-8932', 'CVE-2018-8934', 'CVE-2018-8935', 'CVE-2018-8936', 'CVE-2021-26318']",2022-03-18T16:09Z
+3,cpe:2.3:a:amd:ryzen:2017-01-27:*:*:*:*:*:*:*,AMD Ryzen 2017-01-27,['CVE-2017-7262'],2022-03-18T16:09Z
+4,cpe:2.3:h:amd:ryzen_4300g:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 4300g -,['CVE-2020-12965'],2022-03-18T16:09Z
+5,cpe:2.3:o:amd:ryzen_4300g_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 4300g Firmware ,['CVE-2020-12965'],2022-03-18T16:09Z
+6,cpe:2.3:h:amd:ryzen_4300ge:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 4300ge -,['CVE-2020-12965'],2022-03-18T16:09Z
+7,cpe:2.3:o:amd:ryzen_4300ge_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 4300ge Firmware ,['CVE-2020-12965'],2022-03-18T16:09Z
+8,cpe:2.3:h:amd:ryzen_4600g:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 4600g -,['CVE-2020-12965'],2022-03-18T16:09Z
+9,cpe:2.3:o:amd:ryzen_4600g_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen 4600g Firmware ,['CVE-2020-12965'],2022-03-18T16:09Z

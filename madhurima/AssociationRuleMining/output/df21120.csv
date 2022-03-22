@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:altiris:deployment_solution:6.0:*:*:*:*:*:*:*,Altiris Deployment Solution 6,"['CVE-2005-1590', 'CVE-2007-3874']",2022-03-18T15:14Z
+1,cpe:2.3:a:altiris:deployment_solution:6.8:*:*:*:*:*:*:*,Altiris Deployment Solution 6.8,['CVE-2007-3874'],2022-03-18T15:14Z
+2,cpe:2.3:a:altiris:deployment_solution:6.8:sp1:*:*:*:*:*:*,Altiris Deployment Solution 6.8 SP1,['CVE-2007-3874'],2022-03-18T15:14Z
+3,cpe:2.3:a:altiris:deployment_solution:6.8:sp2:*:*:*:*:*:*,Altiris Deployment Solution 6.8 SP2,['CVE-2007-3874'],2022-03-18T15:14Z
+4,cpe:2.3:a:altiris:deployment_solution:6.9.174:*:*:*:*:*:*:*,Altiris Deployment Solution 6.9.174,[''],2022-03-18T15:14Z
+5,cpe:2.3:a:altiris:deployment_solution:6.9.355:*:*:*:*:*:*:*,Altiris Deployment Solution 6.9.355,[''],2022-03-18T15:14Z
+6,cpe:2.3:a:altiris:deployment_solution_for_network_devices:6.0.1046:*:*:*:*:*:*:*,Altiris Deployment Solution For Network Devices 6.0.1046,[''],2022-03-18T15:14Z
+7,cpe:2.3:a:altiris:deployment_solution_for_network_devices_documentation:6.0.1013:*:*:*:*:*:*:*,Altiris Deployment Solution For Network Devices Documentation 6.0.1013,[''],2022-03-18T15:14Z
+8,cpe:2.3:a:altiris:deployment_web_console:6.8:*:*:*:*:*:*:*,Altiris Deployment Web Console 6.8,[''],2022-03-18T15:14Z
+9,cpe:2.3:a:altiris:deployment_web_console:6.9:*:*:*:*:*:*:*,Altiris Deployment Web Console 6.9,[''],2022-03-18T15:14Z

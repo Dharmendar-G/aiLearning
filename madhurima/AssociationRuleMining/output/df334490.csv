@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:huawei:huaweiwear:20.0.3.311_g:*:*:*:*:*:*:*,Huawei HuaweiWear 20.0.3.311 G,['CVE-2017-2704'],2022-03-21T17:55Z
+1,cpe:2.3:a:huawei:huaweiwear:20.0.5.301:*:*:*:*:*:*:*,Huawei HuaweiWear 20.0.5.301,['CVE-2017-2704'],2022-03-21T17:55Z
+2,cpe:2.3:a:huawei:huaweiwear:20.0.10.301:*:*:*:*:*:*:*,Huawei HuaweiWear 20.0.10.301,['CVE-2017-2704'],2022-03-21T17:55Z
+3,cpe:2.3:a:huawei:huaweiwear:21.0.0.302:*:*:*:*:*:*:*,Huawei HuaweiWear 21.0.0.302,['CVE-2017-2704'],2022-03-21T17:55Z
+4,cpe:2.3:a:huawei:huaweiwear:21.0.0.305:*:*:*:*:*:*:*,Huawei HuaweiWear 21.0.0.305,['CVE-2017-2704'],2022-03-21T17:55Z
+5,cpe:2.3:a:huawei:huaweiwear:21.0.0.310:*:*:*:*:*:*:*,Huawei HuaweiWear 21.0.0.310,['CVE-2017-2704'],2022-03-21T17:55Z
+6,cpe:2.3:a:huawei:huaweiwear:21.0.0.317:*:*:*:*:*:*:*,Huawei HuaweiWear 21.0.0.317,['CVE-2017-2704'],2022-03-21T17:55Z
+7,cpe:2.3:a:huawei:huaweiwear:21.0.0.321:*:*:*:*:*:*:*,Huawei HuaweiWear 21.0.0.321,['CVE-2017-2704'],2022-03-21T17:55Z
+8,cpe:2.3:a:huawei:huaweiwear:21.0.0.323:*:*:*:*:*:*:*,Huawei HuaweiWear 21.0.0.323,['CVE-2017-2704'],2022-03-21T17:55Z
+9,cpe:2.3:a:huawei:huaweiwear:21.0.0.331:*:*:*:*:*:*:*,Huawei HuaweiWear 21.0.0.331,['CVE-2017-2704'],2022-03-21T17:55Z

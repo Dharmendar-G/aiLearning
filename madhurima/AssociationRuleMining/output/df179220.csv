@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:emc_solutions_enabler_virtual_appliance:8.4.0.21:*:*:*:*:*:*:*,Dell EMC Solutions Enabler Virtual Appliance 8.4.0.21,[''],2022-03-20T12:26Z
+1,cpe:2.3:a:dell:emc_sourceone:7.2:-:*:*:*:*:*:*,Dell EMC SourceOne 7.2,['CVE-2021-21515'],2022-03-20T12:26Z
+2,cpe:2.3:a:dell:emc_sourceone:7.2:sp1:*:*:*:*:*:*,Dell EMC SourceOne 7.2 Service Pack 1,['CVE-2021-21515'],2022-03-20T12:26Z
+3,cpe:2.3:a:dell:emc_sourceone:7.2:sp10:*:*:*:*:*:*,Dell EMC SourceOne 7.2 Service Pack 10,[''],2022-03-20T12:26Z
+4,cpe:2.3:a:dell:emc_sourceone:7.2:sp11:*:*:*:*:*:*,Dell EMC SourceOne 7.2 Service Pack 11,[''],2022-03-20T12:26Z
+5,cpe:2.3:a:dell:emc_sourceone:7.2:sp2:*:*:*:*:*:*,Dell EMC SourceOne 7.2 Service Pack 2,['CVE-2021-21515'],2022-03-20T12:26Z
+6,cpe:2.3:a:dell:emc_sourceone:7.2:sp3:*:*:*:*:*:*,Dell EMC SourceOne 7.2 Service Pack 3,['CVE-2021-21515'],2022-03-20T12:26Z
+7,cpe:2.3:a:dell:emc_sourceone:7.2:sp4:*:*:*:*:*:*,Dell EMC SourceOne 7.2 Service Pack 4,['CVE-2021-21515'],2022-03-20T12:26Z
+8,cpe:2.3:a:dell:emc_sourceone:7.2:sp5:*:*:*:*:*:*,Dell EMC SourceOne 7.2 Service Pack 5,['CVE-2021-21515'],2022-03-20T12:26Z
+9,cpe:2.3:a:dell:emc_sourceone:7.2:sp6:*:*:*:*:*:*,Dell EMC SourceOne 7.2 Service Pack 6,['CVE-2021-21515'],2022-03-20T12:26Z

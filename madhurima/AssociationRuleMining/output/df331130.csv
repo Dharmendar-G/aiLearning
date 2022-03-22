@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:htc:evo_4g:gri40:*:*:*:*:*:*:*,HTC Android EVO 4G GRI40,"['CVE-2011-3975', 'CVE-2011-4872', 'CVE-2012-2217']",2022-03-21T16:42Z
+1,cpe:2.3:a:htc:evo_4g_software:1.32.651.1:*:*:*:*:*:*:*,HTC EVO 4G Software 1.32.651.1,['CVE-2012-2217'],2022-03-21T16:42Z
+2,cpe:2.3:a:htc:evo_4g_software:1.47.651.1:*:*:*:*:*:*:*,HTC EVO 4G Software 1.47.651.1,['CVE-2012-2217'],2022-03-21T16:42Z
+3,cpe:2.3:a:htc:evo_4g_software:3.26.651.6:*:*:*:*:*:*:*,HTC EVO 4G Software 3.26.651.6,['CVE-2012-2217'],2022-03-21T16:42Z
+4,cpe:2.3:a:htc:evo_4g_software:3.29.651.5:*:*:*:*:*:*:*,HTC EVO 4G Software 3.29.651.5,['CVE-2012-2217'],2022-03-21T16:42Z
+5,cpe:2.3:a:htc:evo_4g_software:3.30.651.2:*:*:*:*:*:*:*,HTC EVO 4G Software 3.30.651.2,['CVE-2012-2217'],2022-03-21T16:42Z
+6,cpe:2.3:a:htc:evo_4g_software:3.30.651.3:*:*:*:*:*:*:*,HTC EVO 4G Software 3.30.651.3,['CVE-2012-2217'],2022-03-21T16:42Z
+7,cpe:2.3:a:htc:evo_4g_software:3.70.651.1:*:*:*:*:*:*:*,HTC EVO 4G Software 3.70.651.1,['CVE-2012-2217'],2022-03-21T16:42Z
+8,cpe:2.3:a:htc:evo_4g_software:4.22.651.2:*:*:*:*:*:*:*,HTC EVO 4G Software 4.22.651.2,['CVE-2012-2217'],2022-03-21T16:42Z
+9,cpe:2.3:a:htc:evo_4g_software:4.24.651.1:*:*:*:*:*:*:*,HTC EVO 4G Software 4.24.651.1,['CVE-2012-2217'],2022-03-21T16:42Z

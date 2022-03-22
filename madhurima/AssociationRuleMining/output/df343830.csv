@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:installation_manager:1.8.2.0:*:*:*:*:*:*:*,IBM Installation Manager 1.8.2.0,['CVE-2015-7442'],2022-03-21T20:52Z
+1,cpe:2.3:a:ibm:installation_manager:1.8.2.1:*:*:*:*:*:*:*,IBM Installation Manager 1.8.2.1,['CVE-2015-7442'],2022-03-21T20:52Z
+2,cpe:2.3:a:ibm:installation_manager:1.8.3.0:*:*:*:*:*:*:*,IBM Installation Manager 1.8.3.0,['CVE-2015-7442'],2022-03-21T20:52Z
+3,cpe:2.3:h:ibm:integrated_management_module:-:*:*:*:*:*:*:*,IBM Integrated Management Module (IMM),['CVE-2014-0860'],2022-03-21T20:52Z
+4,cpe:2.3:h:ibm:integrated_management_module_2:1.00:*:*:*:*:*:*:*,IBM Integrated Management Module 2 1.00,['CVE-2013-4030'],2022-03-21T20:52Z
+5,cpe:2.3:h:ibm:integrated_management_module_2:2.00:*:*:*:*:*:*:*,IBM Integrated Management Module 2 2.00,['CVE-2013-4030'],2022-03-21T20:52Z
+6,cpe:2.3:o:ibm:integrated_management_module_firmware:1.00:*:*:*:*:*:*:*,IBM Integrated Management Module 2 (IMM2) Firmware 1.00,"['CVE-2014-0860', 'CVE-2014-0881', 'CVE-2017-3744']",2022-03-21T20:52Z
+7,cpe:2.3:o:ibm:integrated_management_module_firmware:1.36:*:*:*:*:*:*:*,IBM Integrated Management Module (IMM) firmware 1.36,"['CVE-2014-0860', 'CVE-2014-0881', 'CVE-2017-3744']",2022-03-21T20:52Z
+8,cpe:2.3:o:ibm:integrated_management_module_firmware:1.43:*:*:*:*:*:*:*,IBM Integrated Management Module (IMM) firmware 1.43,"['CVE-2014-0881', 'CVE-2017-3744']",2022-03-21T20:52Z
+9,cpe:2.3:o:ibm:integrated_management_module_firmware:3.00:*:*:*:*:*:*:*,IBM Integrated Management Module 2 (IMM2) Firmware 3.00,"['CVE-2014-0881', 'CVE-2017-3744']",2022-03-21T20:52Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hbgk:hb9908:-:*:*:*:*:*:*:*,HanBang Digital Technology HB9908,['CVE-2017-14335'],2022-03-21T10:24Z
+1,cpe:2.3:o:hbgk:hb9908_firmware:-:*:*:*:*:*:*:*,HanBang Digital Technology HB9908 Firmware,['CVE-2017-14335'],2022-03-21T10:24Z
+2,cpe:2.3:h:hbgk:hb9912:-:*:*:*:*:*:*:*,HanBang Digital Technology HB9912,['CVE-2017-14335'],2022-03-21T10:24Z
+3,cpe:2.3:o:hbgk:hb9912_firmware:-:*:*:*:*:*:*:*,HanBang Digital Technology HB9912 Firmware,['CVE-2017-14335'],2022-03-21T10:24Z
+4,cpe:2.3:h:hbgk:hb9916:-:*:*:*:*:*:*:*,HanBang Digital Technology HB9916,['CVE-2017-14335'],2022-03-21T10:24Z
+5,cpe:2.3:o:hbgk:hb9916_firmware:-:*:*:*:*:*:*:*,HanBang Digital Technology HB9916 Firmware,['CVE-2017-14335'],2022-03-21T10:24Z
+6,cpe:2.3:h:hbgk:hb9924:-:*:*:*:*:*:*:*,HanBang Digital Technology HB9924,['CVE-2017-14335'],2022-03-21T10:24Z
+7,cpe:2.3:o:hbgk:hb9924_firmware:-:*:*:*:*:*:*:*,HanBang Digital Technology HB9924 Firmware,['CVE-2017-14335'],2022-03-21T10:24Z
+8,cpe:2.3:h:hbgk:hb9932:-:*:*:*:*:*:*:*,HanBang Digital Technology HB9932,['CVE-2017-14335'],2022-03-21T10:24Z
+9,cpe:2.3:o:hbgk:hb9932_firmware:-:*:*:*:*:*:*:*,HanBang Digital Technology HB9932 Firmware,['CVE-2017-14335'],2022-03-21T10:24Z

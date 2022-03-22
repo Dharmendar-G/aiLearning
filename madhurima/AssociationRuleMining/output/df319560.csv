@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:b9s56a:-:*:*:*:*:*:*:*,HP B9S56A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T12:57Z
+1,cpe:2.3:o:hp:b9s56a_firmware:1830b:*:*:*:*:*:*:*,HP B9S56A Firmware 1830B,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T12:57Z
+2,cpe:2.3:h:hp:b9s57c:-:*:*:*:*:*:*:*,HP B9S57C,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T12:57Z
+3,cpe:2.3:o:hp:b9s57c_firmware:1829a:*:*:*:*:*:*:*,HP B9S57C Firmware 1829A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T12:57Z
+4,cpe:2.3:h:hp:b9s58a:-:*:*:*:*:*:*:*,HP B9S58A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T12:57Z
+5,cpe:2.3:o:hp:b9s58a_firmware:1830b:*:*:*:*:*:*:*,HP B9S58A Firmware 1830B,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T12:57Z
+6,cpe:2.3:h:hp:b9s76:-:*:*:*:*:*:*:*,HP B9S76,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T12:57Z
+7,cpe:2.3:o:hp:b9s76_firmware:1830a:*:*:*:*:*:*:*,HP B9S76 Firmware 1830A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T12:57Z
+8,cpe:2.3:h:hp:backbox_e4.09:-:*:*:*:*:*:*:*,HP Backbox E4.09,[''],2022-03-21T12:57Z
+9,cpe:2.3:o:hp:backbox_e4.09_firmware:22sep2020:*:*:*:*:*:*:*,HP Backbox E4.09 Firmware 22sSEP2020,[''],2022-03-21T12:57Z

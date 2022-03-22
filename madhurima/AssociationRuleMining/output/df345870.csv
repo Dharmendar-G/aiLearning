@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:personal_communications:6.0.11:*:*:*:*:*:*:*,IBM Personal Communications (PCOMM) 6.0.11,['CVE-2016-0321'],2022-03-21T21:24Z
+1,cpe:2.3:a:ibm:personal_communications:6.0.12:*:*:*:*:*:*:*,IBM Personal Communications (PCOMM) 6.0.12,['CVE-2016-0321'],2022-03-21T21:24Z
+2,cpe:2.3:a:ibm:personal_communications:6.0.13:*:*:*:*:*:*:*,IBM Personal Communications (PCOMM) 6.0.13,['CVE-2016-0321'],2022-03-21T21:24Z
+3,cpe:2.3:a:ibm:personal_communications:6.0.14:*:*:*:*:*:*:*,IBM Personal Communications (PCOMM) 6.0.14,['CVE-2016-0321'],2022-03-21T21:24Z
+4,cpe:2.3:a:ibm:personal_communications:6.0.15:*:*:*:*:*:*:*,IBM Personal Communications (PCOMM) 6.0.15,['CVE-2016-0321'],2022-03-21T21:24Z
+5,cpe:2.3:a:ibm:personal_communications:6.0.16:*:*:*:*:*:*:*,IBM Personal Communications (PCOMM) 6.0.16,['CVE-2016-0321'],2022-03-21T21:24Z
+6,cpe:2.3:a:ibm:personal_communications:12.0.0:*:*:*:*:*:*:*,IBM Personal Communications (PCOMM) 12.0.0,['CVE-2016-0321'],2022-03-21T21:24Z
+7,cpe:2.3:a:ibm:planning_analytics:2.0:*:*:*:*:*:*:*,IBM Planning Analytics 2.0,"['CVE-2018-1933', 'CVE-2019-4134', 'CVE-2019-4611', 'CVE-2019-4612', 'CVE-2019-4613', 'CVE-2019-4716', 'CVE-2020-4361', 'CVE-2020-4527', 'CVE-2020-4562', 'CVE-2020-4648', 'CVE-2020-4653', 'CVE-2020-4764', 'CVE-2020-4871', 'CVE-2020-4873', 'CVE-2020-4881', 'CVE-2020-4882', 'CVE-2020-4953', 'CVE-2021-20477', 'CVE-2021-20526', 'CVE-2021-20580', 'CVE-2021-29851', 'CVE-2021-29852', 'CVE-2021-29853', 'CVE-2021-38873', 'CVE-2022-22308']",2022-03-21T21:24Z
+8,cpe:2.3:a:ibm:planning_analytics:2.0.1:*:*:*:*:*:*:*,IBM Planning Analytics 2.0.1,"['CVE-2018-1933', 'CVE-2019-4716']",2022-03-21T21:25Z
+9,cpe:2.3:a:ibm:planning_analytics:2.0.2:*:*:*:*:*:*:*,IBM Planning Analytics 2.0.2,"['CVE-2018-1933', 'CVE-2019-4716']",2022-03-21T21:25Z

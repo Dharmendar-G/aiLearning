@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:ie-1000:-:*:*:*:*:*:*:*,Cisco IE-1000,['CVE-2020-3512'],2022-03-19T20:06Z
+1,cpe:2.3:h:cisco:ie-1000-4p2s-lm:-:*:*:*:*:*:*:*,Cisco IE-1000-4P2S-LM,['CVE-2017-6634'],2022-03-19T20:06Z
+2,cpe:2.3:h:cisco:ie-1000-4t1t-lm:-:*:*:*:*:*:*:*,Cisco IE-1000-4T1T-LM,['CVE-2017-6634'],2022-03-19T20:06Z
+3,cpe:2.3:h:cisco:ie-1000-6t2t-lm:-:*:*:*:*:*:*:*,Cisco IE-1000-6T2T-LM,['CVE-2017-6634'],2022-03-19T20:06Z
+4,cpe:2.3:h:cisco:ie-1000-8p2s-lm:-:*:*:*:*:*:*:*,Cisco IE-1000-8P2S-LM,['CVE-2017-6634'],2022-03-19T20:06Z
+5,cpe:2.3:h:cisco:ie-2000u-16tc-g:-:*:*:*:*:*:*:*,Cisco IE-2000U-16TC-G,['CVE-2020-3512'],2022-03-19T20:06Z
+6,cpe:2.3:h:cisco:ie-2000u-16tc-gp:-:*:*:*:*:*:*:*,Cisco IE-2000U-16TC-GP,['CVE-2020-3512'],2022-03-19T20:06Z
+7,cpe:2.3:h:cisco:ie-2000u-16tc-g-x:-:*:*:*:*:*:*:*,Cisco IE-2000U-16TC-G-X,['CVE-2020-3512'],2022-03-19T20:06Z
+8,cpe:2.3:h:cisco:ie-2000u-4s-g:-:*:*:*:*:*:*:*,Cisco IE-2000U-4S-G,['CVE-2020-3512'],2022-03-19T20:06Z
+9,cpe:2.3:h:cisco:ie-2000u-4t-gs:-:*:*:*:*:*:*:*,Cisco IE-2000U-4T-GS,['CVE-2020-3512'],2022-03-19T20:06Z

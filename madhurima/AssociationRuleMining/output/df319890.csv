@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:color_laserjet_2500l:-:*:*:*:*:*:*:*,HP color laserjet 2500l,"['CVE-2006-1654', 'CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T13:01Z
+1,cpe:2.3:h:hp:color_laserjet_2500lse:-:*:*:*:*:*:*:*,HP color laserjet 2500lse,"['CVE-2006-1654', 'CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T13:01Z
+2,cpe:2.3:h:hp:color_laserjet_2500n:-:*:*:*:*:*:*:*,HP color laserjet 2500n,"['CVE-2006-1654', 'CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T13:01Z
+3,cpe:2.3:h:hp:color_laserjet_2500tn:-:*:*:*:*:*:*:*,HP color laserjet 2500tn,"['CVE-2006-1654', 'CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T13:01Z
+4,cpe:2.3:h:hp:color_laserjet_2550:-:*:*:*:*:*:*:*,HP Color Laserjet 2550 (initial release),[''],2022-03-21T13:01Z
+5,cpe:2.3:h:hp:color_laserjet_3000:q7534a:*:*:*:*:*:*:*,HP Color LaserJet 3000 Q7534A,"['CVE-2011-4161', 'CVE-2012-5221']",2022-03-21T13:01Z
+6,cpe:2.3:h:hp:color_laserjet_3800:q5981a:*:*:*:*:*:*:*,HP Color LaserJet 3800 Q5981A,"['CVE-2011-4161', 'CVE-2012-5221']",2022-03-21T13:01Z
+7,cpe:2.3:h:hp:color_laserjet_4550:-:*:*:*:*:*:*:*,HP color laserjet 4550 (initial release),[''],2022-03-21T13:01Z
+8,cpe:2.3:h:hp:color_laserjet_4600:-:*:*:*:*:*:*:*,HP color laserjet 4600,"['CVE-2004-2439', 'CVE-2006-1654', 'CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T13:01Z
+9,cpe:2.3:a:hp:color_laserjet_4600_toolbox:-:*:*:*:*:*:*:*,HP color laserjet 4600 toolbox,['CVE-2006-1654'],2022-03-21T13:01Z

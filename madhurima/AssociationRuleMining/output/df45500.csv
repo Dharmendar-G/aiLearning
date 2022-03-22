@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arangodb:arangodb:3.8.3:-:*:*:*:*:*:*,ArangoDB 3.8.3,"['CVE-2021-25939', 'CVE-2021-25940']",2022-03-18T22:49Z
+1,cpe:2.3:a:arangodb:arangodb:3.8.3:preview3:*:*:*:*:*:*,ArangoDB 3.8.3 Preview 3,"['CVE-2021-25939', 'CVE-2021-25940']",2022-03-18T22:49Z
+2,cpe:2.3:a:arangodb:arangodb:3.9.0:alpha1:*:*:*:*:*:*,ArangoDB 3.9.0 Alpha 1,['CVE-2021-25939'],2022-03-18T22:49Z
+3,cpe:2.3:a:arastta:ecommerce:1.6.2:*:*:*:*:*:*:*,Arastta eCommerce 1.6.2,['CVE-2018-20849'],2022-03-18T22:49Z
+4,cpe:2.3:h:arbiter:1094b_gps_substation_clock:-:*:*:*:*:*:*:*,Arbiter 1094B GPS Substation Clock,['CVE-2014-9194'],2022-03-18T22:49Z
+5,cpe:2.3:h:arbiter:power_sentinel:1133a:*:*:*:*:*:*:*,Arbiter Systems Power Sentinel Model 1133A,['CVE-2012-3012'],2022-03-18T22:49Z
+6,cpe:2.3:o:arbiter:power_sentinel_1133a_firmware:11jun2012:*:*:*:*:*:*:*,Arbiter Systems Power Sentinel Model 1133A Firmware 11Jun2012,['CVE-2012-3012'],2022-03-18T22:49Z
+7,cpe:2.3:o:arbiter:power_sentinel_1133a_firmware:11jun2012:rev421:*:*:*:*:*:*,Arbiter Systems Power Sentinel Model 1133A Firmware 11Jun2012 Revision 421,['CVE-2012-3012'],2022-03-18T22:49Z
+8,cpe:2.3:a:arbornetworks:peakflow_sp:5.1.1:*:*:*:*:*:*:*,Arbor Networks Peakflow SP 5.1.1,['CVE-2012-4685'],2022-03-18T22:49Z
+9,cpe:2.3:a:arbornetworks:peakflow_sp:5.5:*:*:*:*:*:*:*,Arbor Networks Peakflow SP 5.5,['CVE-2012-4685'],2022-03-18T22:50Z

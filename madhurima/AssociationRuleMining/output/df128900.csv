@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:ir829gw-lte-ga-zk9:-:*:*:*:*:*:*:*,Cisco IR829GW-LTE-GA-ZK9,"['CVE-2020-3257', 'CVE-2020-3258']",2022-03-19T22:45Z
+1,cpe:2.3:h:cisco:ir829gw-lte-na-ak9:-:*:*:*:*:*:*:*,Cisco IR829GW-LTE-NA-AK9,"['CVE-2020-3257', 'CVE-2020-3258']",2022-03-19T22:45Z
+2,cpe:2.3:h:cisco:ir829gw-lte-vz-ak9:-:*:*:*:*:*:*:*,Cisco IR829GW-LTE-VZ-AK9,"['CVE-2020-3257', 'CVE-2020-3258']",2022-03-19T22:45Z
+3,cpe:2.3:h:cisco:ironport_s170:-:*:*:*:*:*:*:*,Cisco IronPort S170,[''],2022-03-19T22:45Z
+4,cpe:2.3:h:cisco:ironport_s370:-:*:*:*:*:*:*:*,Cisco IronPort S370,[''],2022-03-19T22:45Z
+5,cpe:2.3:h:cisco:ironport_s380:-:*:*:*:*:*:*:*,Cisco IronPort S380,[''],2022-03-19T22:45Z
+6,cpe:2.3:h:cisco:ironport_s670:-:*:*:*:*:*:*:*,Cisco IronPort S670,[''],2022-03-19T22:45Z
+7,cpe:2.3:h:cisco:ironport_s680:-:*:*:*:*:*:*:*,Cisco IronPort S680,[''],2022-03-19T22:45Z
+8,cpe:2.3:a:cisco:ironport_web_security_appliance:-:*:*:*:*:*:*:*,Cisco IronPort Web Security Appliance,"['CVE-2012-0334', 'CVE-2012-1316', 'CVE-2012-1326']",2022-03-19T22:45Z
+9,cpe:2.3:a:cisco:ironport_web_security_appliance:7.5:*:*:*:*:*:*:*,Cisco IronPort Web Security Appliance 7.5,['CVE-2012-1326'],2022-03-19T22:46Z

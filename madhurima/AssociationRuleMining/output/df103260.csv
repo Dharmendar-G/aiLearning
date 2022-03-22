@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:c-ares_project:c-ares:1.5.1:*:*:*:*:*:*:*,c-ares Project c-ares 1.5.1,"['CVE-2016-5180', 'CVE-2020-8277', 'CVE-2021-3672']",2022-03-19T15:33Z
+1,cpe:2.3:a:c-ares_project:c-ares:1.5.2:*:*:*:*:*:*:*,c-ares Project c-ares 1.5.2,"['CVE-2016-5180', 'CVE-2020-8277', 'CVE-2021-3672']",2022-03-19T15:33Z
+2,cpe:2.3:a:c-ares_project:c-ares:1.5.3:*:*:*:*:*:*:*,c-ares Project c-ares 1.5.3,"['CVE-2016-5180', 'CVE-2020-8277', 'CVE-2021-3672']",2022-03-19T15:33Z
+3,cpe:2.3:a:c-ares_project:c-ares:1.6.0:*:*:*:*:*:*:*,c-ares Project c-ares 1.6.0,"['CVE-2016-5180', 'CVE-2020-8277', 'CVE-2021-3672']",2022-03-19T15:33Z
+4,cpe:2.3:a:c-ares_project:c-ares:1.7.0:*:*:*:*:*:*:*,c-ares Project c-ares 1.7.0,"['CVE-2016-5180', 'CVE-2020-8277', 'CVE-2021-3672']",2022-03-19T15:33Z
+5,cpe:2.3:a:c-ares_project:c-ares:1.7.1:*:*:*:*:*:*:*,c-ares Project c-ares 1.7.1,"['CVE-2016-5180', 'CVE-2020-8277', 'CVE-2021-3672']",2022-03-19T15:33Z
+6,cpe:2.3:a:c-ares_project:c-ares:1.7.2:*:*:*:*:*:*:*,c-ares Project c-ares 1.7.2,"['CVE-2016-5180', 'CVE-2020-8277', 'CVE-2021-3672']",2022-03-19T15:33Z
+7,cpe:2.3:a:c-ares_project:c-ares:1.7.3:*:*:*:*:*:*:*,c-ares Project c-ares 1.7.3,"['CVE-2016-5180', 'CVE-2020-8277', 'CVE-2021-3672']",2022-03-19T15:33Z
+8,cpe:2.3:a:c-ares_project:c-ares:1.7.4:*:*:*:*:*:*:*,c-ares Project c-ares 1.7.4,"['CVE-2016-5180', 'CVE-2020-8277', 'CVE-2021-3672']",2022-03-19T15:33Z
+9,cpe:2.3:a:c-ares_project:c-ares:1.7.5:*:*:*:*:*:*:*,c-ares Project c-ares 1.7.5,"['CVE-2016-5180', 'CVE-2020-8277', 'CVE-2021-3672']",2022-03-19T15:33Z

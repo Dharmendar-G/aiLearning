@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:rhapsody_model_manager:7.0.1:*:*:*:*:*:*:*,IBM Rhapsody Model Manager (RMM) 7.0.1,"['CVE-2020-4487', 'CVE-2020-4544', 'CVE-2020-4691', 'CVE-2020-4697', 'CVE-2020-4733']",2022-03-21T21:50Z
+1,cpe:2.3:a:ibm:robotic_process_automation_with_automation_anywhere:10:*:*:*:*:*:*:*,IBM Robotic Process Automation with Automation Anywhere 10,['CVE-2018-1552'],2022-03-21T21:50Z
+2,cpe:2.3:a:ibm:robotic_process_automation_with_automation_anywhere:10.0.0:*:*:*:*:*:*:*,IBM Robotic Process Automation With Automation Anywhere 10.0.0,['CVE-2017-1751'],2022-03-21T21:50Z
+3,cpe:2.3:a:ibm:robotic_process_automation_with_automation_anywhere:10.0.0.0:-:*:*:*:*:*:*,IBM Robotic Process Automation with Automation Anywhere 10.0.0.0,[''],2022-03-21T21:50Z
+4,cpe:2.3:a:ibm:robotic_process_automation_with_automation_anywhere:10.0.0.0:cf201412:*:*:*:*:*:*,IBM Robotic Process Automation with Automation Anywhere 10.0.0.0 CF201412,[''],2022-03-21T21:50Z
+5,cpe:2.3:a:ibm:robotic_process_automation_with_automation_anywhere:10.0.0.0:cf201803:*:*:*:*:*:*,IBM Robotic Process Automation with Automation Anywhere 10.0.0.0 CF201803,[''],2022-03-21T21:50Z
+6,cpe:2.3:a:ibm:robotic_process_automation_with_automation_anywhere:11:*:*:*:*:*:*:*,IBM Robotic Process Automation with Automation Anywhere 11,"['CVE-2018-1552', 'CVE-2018-1878']",2022-03-21T21:50Z
+7,cpe:2.3:a:ibm:robotic_process_automation_with_automation_anywhere:11.0:*:*:*:*:*:*:*,IBM Robotic Process Automation With Automation Anywhere 11.0,"['CVE-2018-1876', 'CVE-2018-1877', 'CVE-2018-1908']",2022-03-21T21:50Z
+8,cpe:2.3:a:ibm:robotic_process_automation_with_automation_anywhere:11.0.0.0:*:*:*:*:*:*:*,IBM Robotic Process Automation with Automation Anywhere 11.0.0.0,"['CVE-2018-1908', 'CVE-2018-2006', 'CVE-2019-4295', 'CVE-2019-4296', 'CVE-2019-4297', 'CVE-2019-4298', 'CVE-2019-4299', 'CVE-2019-4336', 'CVE-2019-4337', 'CVE-2020-4901']",2022-03-21T21:50Z
+9,cpe:2.3:a:ibm:robotic_process_automation_with_automation_anywhere:11.0.0.1:*:*:*:*:*:*:*,IBM Robotic Process Automation with Automation Anywhere 11.0.0.1,"['CVE-2018-1908', 'CVE-2018-2006', 'CVE-2019-4295', 'CVE-2019-4296', 'CVE-2019-4297', 'CVE-2019-4298', 'CVE-2019-4299', 'CVE-2019-4336', 'CVE-2019-4337', 'CVE-2020-4901']",2022-03-21T21:50Z

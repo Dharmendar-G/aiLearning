@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:asuswrt-merlin:asuswrt-merlin:384.11_2:*:*:*:*:*:*:*,Asuswrt-Merlin 384.11 2,[''],2022-03-18T23:59Z
+1,cpe:2.3:o:asuswrt-merlin:asuswrt-merlin:384.12:*:*:*:*:*:*:*,Asuswrt-Merlin 384.12,[''],2022-03-18T23:59Z
+2,cpe:2.3:o:asuswrt-merlin:asuswrt-merlin:384.13:*:*:*:*:*:*:*,Asuswrt-Merlin 384.13,[''],2022-03-18T23:59Z
+3,cpe:2.3:o:asuswrt-merlin:asuswrt-merlin:384.13_1:*:*:*:*:*:*:*,Asuswrt-Merlin 384.13 1,[''],2022-03-18T23:59Z
+4,cpe:2.3:o:asuswrt-merlin:asuswrt-merlin:384.13_2:*:*:*:*:*:*:*,Asuswrt-Merlin 384.13 2,[''],2022-03-18T23:59Z
+5,cpe:2.3:o:asuswrt-merlin:asuswrt-merlin:384.13_4:*:*:*:*:*:*:*,Asuswrt-Merlin 384.13 4,[''],2022-03-18T23:59Z
+6,cpe:2.3:o:asuswrt-merlin:asuswrt-merlin:384.14:*:*:*:*:*:*:*,Asuswrt-Merlin 384.14,[''],2022-03-18T23:59Z
+7,cpe:2.3:o:asuswrt-merlin:asuswrt-merlin:384.14_2:*:*:*:*:*:*:*,Asuswrt-Merlin 384.14 2,[''],2022-03-18T23:59Z
+8,cpe:2.3:o:asuswrt-merlin:asuswrt-merlin:384.15:*:*:*:*:*:*:*,Asuswrt-Merlin 384.15,[''],2022-03-19T00:00Z
+9,cpe:2.3:h:asuswrt-merlin:rt_ac1200g:-:*:*:*:*:*:*:*,Asuswrt-merlin Rt Ac1200g -,['CVE-2017-12754'],2022-03-19T00:00Z

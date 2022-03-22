@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:duckduckgo:duckduckgo:7.26.0:*:*:*:*:iphone_os:*:*,DuckDuckGo 7.26.0 for iPhone OS,['CVE-2020-15502'],2022-03-20T18:42Z
+1,cpe:2.3:a:duckduckgo:duckduckgo:7.27.0:*:*:*:*:iphone_os:*:*,DuckDuckGo 7.27.0 for iPhone OS,['CVE-2020-15502'],2022-03-20T18:42Z
+2,cpe:2.3:a:duckduckgo:duckduckgo:7.28.0:*:*:*:*:iphone_os:*:*,DuckDuckGo 7.28.0 for iPhone OS,['CVE-2020-15502'],2022-03-20T18:42Z
+3,cpe:2.3:a:duckduckgo:duckduckgo:7.29.0:*:*:*:*:iphone_os:*:*,DuckDuckGo 7.29.0 for iPhone OS,['CVE-2020-15502'],2022-03-20T18:42Z
+4,cpe:2.3:a:duckduckgo:duckduckgo:7.30.0:*:*:*:*:iphone_os:*:*,DuckDuckGo 7.30.0 for iPhone OS,['CVE-2020-15502'],2022-03-20T18:42Z
+5,cpe:2.3:a:duckduckgo:duckduckgo:7.31.0:*:*:*:*:iphone_os:*:*,DuckDuckGo 7.31.0 for iPhone OS,['CVE-2020-15502'],2022-03-20T18:42Z
+6,cpe:2.3:a:duckduckgo:duckduckgo:7.31.1:*:*:*:*:iphone_os:*:*,DuckDuckGo 7.31.1 for iPhone OS,['CVE-2020-15502'],2022-03-20T18:43Z
+7,cpe:2.3:a:duckduckgo:duckduckgo:7.32.0:*:*:*:*:iphone_os:*:*,DuckDuckGo 7.32.0 for iPhone OS,['CVE-2020-15502'],2022-03-20T18:43Z
+8,cpe:2.3:a:duckduckgo:duckduckgo:7.32.1:*:*:*:*:iphone_os:*:*,DuckDuckGo 7.32.1 for iPhone OS,['CVE-2020-15502'],2022-03-20T18:43Z
+9,cpe:2.3:a:duckduckgo:duckduckgo:7.33.1:*:*:*:*:iphone_os:*:*,DuckDuckGo 7.33.1 for iPhone OS,['CVE-2020-15502'],2022-03-20T18:43Z

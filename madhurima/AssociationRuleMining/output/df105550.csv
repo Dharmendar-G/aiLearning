@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:centrify:authentication_service:3.4.0:*:*:*:*:windows:*:*,Centrify Authentication Service 3.4.0 for Windows,['CVE-2019-18631'],2022-03-19T16:03Z
+1,cpe:2.3:a:centrify:authentication_service:3.4.1:*:*:*:*:windows:*:*,Centrify Authentication Service 3.4.1 for Windows,['CVE-2019-18631'],2022-03-19T16:03Z
+2,cpe:2.3:a:centrify:authentication_service:3.4.2:*:*:*:*:windows:*:*,Centrify Authentication Service 3.4.2 for Windows,['CVE-2019-18631'],2022-03-19T16:03Z
+3,cpe:2.3:a:centrify:authentication_service:3.4.3:*:*:*:*:windows:*:*,Centrify Authentication Service 3.4.3 for Windows,['CVE-2019-18631'],2022-03-19T16:03Z
+4,cpe:2.3:a:centrify:authentication_service:3.5.0:*:*:*:*:windows:*:*,Centrify Authentication Service 3.5.0 for Windows,['CVE-2019-18631'],2022-03-19T16:03Z
+5,cpe:2.3:a:centrify:authentication_service:3.5.1:*:*:*:*:windows:*:*,Centrify Authentication Service 3.5.1 for Windows,['CVE-2019-18631'],2022-03-19T16:03Z
+6,cpe:2.3:a:centrify:authentication_service:3.5.2:*:*:*:*:windows:*:*,Centrify Authentication Service 3.5.2 for Windows,['CVE-2019-18631'],2022-03-19T16:03Z
+7,cpe:2.3:a:centrify:authentication_service:3.6.0:*:*:*:*:windows:*:*,Centrify Authentication Service 3.6.0 for Windows,['CVE-2019-18631'],2022-03-19T16:03Z
+8,cpe:2.3:a:centrify:centrify_deployment_manager:2.1.0.283:*:*:*:*:*:*:*,Centrify Deployment Manager 2.1.0.283,['CVE-2012-6348'],2022-03-19T16:03Z
+9,cpe:2.3:a:centrify:centrify_suite:2012:*:*:*:*:*:*:*,Centrify Suite 2012,"['CVE-2012-6348', 'CVE-2014-7298']",2022-03-19T16:03Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bullguard:safe_browsing:19.0.365:*:*:*:*:*:*:*,BullGuard Safe Browsing 19.0.365,[''],2022-03-19T13:27Z
+1,cpe:2.3:a:bullguard:safe_browsing:19.0.366:*:*:*:*:*:*:*,BullGuard Safe Browsing 19.0.366,[''],2022-03-19T13:27Z
+2,cpe:2.3:a:bullguard:safe_browsing:19.0.367:*:*:*:*:*:*:*,BullGuard Safe Browsing 19.0.367,[''],2022-03-19T13:27Z
+3,cpe:2.3:a:bullguard:safe_browsing:19.0.368:*:*:*:*:*:*:*,BullGuard Safe Browsing 19.0.368,[''],2022-03-19T13:27Z
+4,cpe:2.3:a:bullguard:safe_browsing:19.0.369:*:*:*:*:*:*:*,BullGuard Safe Browsing 19.0.369,[''],2022-03-19T13:27Z
+5,cpe:2.3:a:bullguard:safe_browsing:19.0.370:*:*:*:*:*:*:*,BullGuard Safe Browsing 19.0.370,[''],2022-03-19T13:27Z
+6,cpe:2.3:a:bullguard:safe_browsing:19.0.371:*:*:*:*:*:*:*,BullGuard Safe Browsing 19.0.371,[''],2022-03-19T13:27Z
+7,cpe:2.3:a:bullguard:safe_browsing:20.0.373:*:*:*:*:*:*:*,BullGuard Safe Browsing 20.0.373,[''],2022-03-19T13:27Z
+8,cpe:2.3:a:bump_project:bump:-:*:*:*:*:android:*:*,Bump Project Bump for Android,['CVE-2014-5320'],2022-03-19T13:27Z
+9,cpe:2.3:a:bumpalo_project:bumpalo:1.0.0:*:*:*:*:rust:*:*,Bumpalo Project Bumpalo 1.0.0 for Rust,[''],2022-03-19T13:27Z

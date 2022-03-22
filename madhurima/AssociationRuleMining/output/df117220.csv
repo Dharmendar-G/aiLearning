@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:catalyst_blade_switch_3032:-:*:*:*:*:*:*:*,Cisco Catalyst Blade Switch 3032,['CVE-2017-3881'],2022-03-19T19:03Z
+1,cpe:2.3:h:cisco:catalyst_blade_switch_3040:-:*:*:*:*:*:*:*,Cisco Catalyst Blade Switch 3040,['CVE-2017-3881'],2022-03-19T19:03Z
+2,cpe:2.3:h:cisco:catalyst_blade_switch_3120:-:*:*:*:*:*:*:*,Cisco Catalyst Blade Switch 3120,['CVE-2017-3881'],2022-03-19T19:03Z
+3,cpe:2.3:h:cisco:catalyst_blade_switch_3120x:-:*:*:*:*:*:*:*,Cisco Catalyst Blade Switch 3120x,['CVE-2017-3881'],2022-03-19T19:03Z
+4,cpe:2.3:h:cisco:catalyst_blade_switch_3130:-:*:*:*:*:*:*:*,Cisco Catalyst Blade Switch 3130,['CVE-2017-3881'],2022-03-19T19:03Z
+5,cpe:2.3:h:cisco:catalyst_c2928-24lt-c:-:*:*:*:*:*:*:*,Cisco Catalyst C2928-24LT-C,['CVE-2017-3881'],2022-03-19T19:03Z
+6,cpe:2.3:h:cisco:catalyst_c2928-48tc-c:-:*:*:*:*:*:*:*,Cisco Catalyst C2928-48TC-C,['CVE-2017-3881'],2022-03-19T19:03Z
+7,cpe:2.3:h:cisco:catalyst_c3850-12x48u-e:-:*:*:*:*:*:*:*,Cisco Catalyst C3850-12x48u-e -,"['CVE-2018-0165', 'CVE-2018-0177', 'CVE-2019-12649', 'CVE-2019-12657', 'CVE-2019-12658', 'CVE-2020-3508']",2022-03-19T19:03Z
+8,cpe:2.3:h:cisco:catalyst_c3850-12x48u-l:-:*:*:*:*:*:*:*,Cisco Catalyst C3850-12x48u-l -,"['CVE-2018-0165', 'CVE-2018-0177', 'CVE-2019-12649', 'CVE-2019-12657', 'CVE-2019-12658', 'CVE-2020-3508']",2022-03-19T19:03Z
+9,cpe:2.3:h:cisco:catalyst_c3850-12x48u-s:-:*:*:*:*:*:*:*,Cisco Catalyst C3850-12x48u-s -,"['CVE-2018-0165', 'CVE-2018-0177', 'CVE-2019-12649', 'CVE-2019-12657', 'CVE-2019-12658', 'CVE-2020-3508']",2022-03-19T19:03Z

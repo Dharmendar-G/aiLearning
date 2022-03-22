@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:abb:pm585-mc-kit:2.0:*:*:*:*:*:*:*,ABB PM585-MC-KIT 2.0,[''],2022-03-18T10:32Z
+1,cpe:2.3:h:abb:pm590-arcnet-v14x:2.0:*:*:*:*:*:*:*,ABB PM590-ARCNET-V14x 2.0,[''],2022-03-18T10:32Z
+2,cpe:2.3:h:abb:pm590-eth:2.0:*:*:*:*:*:*:*,ABB PM590-ETH 2.0,[''],2022-03-18T10:32Z
+3,cpe:2.3:h:abb:pm590-eth-v14x:2.0:*:*:*:*:*:*:*,ABB PM590-ETH-V14x 2.0,[''],2022-03-18T10:32Z
+4,cpe:2.3:h:abb:pm590-mc-kit:2.0:*:*:*:*:*:*:*,ABB PM590-MC-KIT 2.0,[''],2022-03-18T10:32Z
+5,cpe:2.3:h:abb:pm590-v14x:2.0:*:*:*:*:*:*:*,ABB PM590-V14x 2.0,[''],2022-03-18T10:32Z
+6,cpe:2.3:h:abb:pm591-2eth:2.0:*:*:*:*:*:*:*,ABB PM591-2ETH 2.0,[''],2022-03-18T10:32Z
+7,cpe:2.3:h:abb:pm591-arcnet-v14x:2.0:*:*:*:*:*:*:*,ABB PM591-ARCNET-V14x 2.0,[''],2022-03-18T10:32Z
+8,cpe:2.3:h:abb:pm591-eth:2.0:*:*:*:*:*:*:*,ABB PM591-ETH 2.0,[''],2022-03-18T10:32Z
+9,cpe:2.3:h:abb:pm591-eth-v14x:2.0:*:*:*:*:*:*:*,ABB PM591-ETH-V14x 2.0,[''],2022-03-18T10:32Z

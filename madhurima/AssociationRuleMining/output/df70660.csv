@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bareos:bareos:18.2.7:-:*:*:*:*:*:*,Bareos 18.2.7,"['CVE-2020-11061', 'CVE-2020-4042']",2022-03-19T06:17Z
+1,cpe:2.3:a:bareos:bareos:18.2.7:pre:*:*:*:*:*:*,Bareos 18.2.7 Pre,"['CVE-2020-11061', 'CVE-2020-4042']",2022-03-19T06:17Z
+2,cpe:2.3:a:bareos:bareos:18.2.8:-:*:*:*:*:*:*,Bareos 18.2.8,"['CVE-2020-11061', 'CVE-2020-4042']",2022-03-19T06:17Z
+3,cpe:2.3:a:bareos:bareos:18.2.8:pre:*:*:*:*:*:*,Bareos 18.2.8 Pre,"['CVE-2020-11061', 'CVE-2020-4042']",2022-03-19T06:17Z
+4,cpe:2.3:a:bareos:bareos:18.2.9:pre:*:*:*:*:*:*,Bareos 18.2.9 Pre,['CVE-2020-4042'],2022-03-19T06:17Z
+5,cpe:2.3:a:bareos:bareos:18.4.1:*:*:*:*:*:*:*,Bareos 18.4.1,"['CVE-2020-11061', 'CVE-2020-4042']",2022-03-19T06:17Z
+6,cpe:2.3:a:bareos:bareos:19.2.4:-:*:*:*:*:*:*,Bareos 19.2.4,"['CVE-2020-11061', 'CVE-2020-4042']",2022-03-19T06:17Z
+7,cpe:2.3:a:bareos:bareos:19.2.4:pre:*:*:*:*:*:*,Bareos 19.2.4 Pre,"['CVE-2020-11061', 'CVE-2020-4042']",2022-03-19T06:17Z
+8,cpe:2.3:a:bareos:bareos:19.2.4:rc1:*:*:*:*:*:*,Bareos 19.2.4 Release Candidate 1,"['CVE-2020-11061', 'CVE-2020-4042']",2022-03-19T06:17Z
+9,cpe:2.3:a:bareos:bareos:19.2.5:-:*:*:*:*:*:*,Bareos 19.2.5,"['CVE-2020-11061', 'CVE-2020-4042']",2022-03-19T06:17Z

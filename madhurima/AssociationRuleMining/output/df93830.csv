@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bromium:secure_platform:4.0:*:*:*:*:*:*:*,Bromium Secure Platform 4.0,[''],2022-03-19T12:37Z
+1,cpe:2.3:a:bronzedb-protocol_project:bronzedb-protocol:0.1.0:*:*:*:*:rust:*:*,bronzeDB-protocol Project bronzeDB-protocol 0.1.0 for Rust,['CVE-2021-45682'],2022-03-19T12:37Z
+2,cpe:2.3:a:brookinsconsulting:collected_information_export:1.0.0:*:*:*:*:ez_publish:*:*,Brookins Consulting (BC) Collected Information Export (CIE) 1.0.0 for eZ Publish,[''],2022-03-19T12:37Z
+3,cpe:2.3:a:brookinsconsulting:collected_information_export:1.0.1:*:*:*:*:ez_publish:*:*,Brookins Consulting (BC) Collected Information Export (CIE) 1.0.1 for eZ Publish,[''],2022-03-19T12:37Z
+4,cpe:2.3:a:brookinsconsulting:collected_information_export:1.0.2:*:*:*:*:ez_publish:*:*,Brookins Consulting (BC) Collected Information Export (CIE) 1.0.2 for eZ Publish,[''],2022-03-19T12:37Z
+5,cpe:2.3:a:brookinsconsulting:collected_information_export:1.0.3:*:*:*:*:ez_publish:*:*,Brookins Consulting (BC) Collected Information Export (CIE) 1.0.3 for eZ Publish,[''],2022-03-19T12:37Z
+6,cpe:2.3:a:brookinsconsulting:collected_information_export:1.0.4:*:*:*:*:ez_publish:*:*,Brookins Consulting (BC) Collected Information Export (CIE) 1.0.4 for eZ Publish,[''],2022-03-19T12:37Z
+7,cpe:2.3:a:brookinsconsulting:collected_information_export:1.0.5:*:*:*:*:ez_publish:*:*,Brookins Consulting (BC) Collected Information Export (CIE) 1.0.5 for eZ Publish,[''],2022-03-19T12:37Z
+8,cpe:2.3:a:brookinsconsulting:collected_information_export:1.0.6:*:*:*:*:ez_publish:*:*,Brookins Consulting (BC) Collected Information Export (CIE) 1.0.6 for eZ Publish,[''],2022-03-19T12:37Z
+9,cpe:2.3:a:brookinsconsulting:collected_information_export:1.0.7:*:*:*:*:ez_publish:*:*,Brookins Consulting (BC) Collected Information Export (CIE) 1.0.7 for eZ Publish,[''],2022-03-19T12:37Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitachi:automation_director:8.1.1-00:*:*:*:*:*:*:*,Hitachi Automation Director 8.1.1-00,"['CVE-2018-21032', 'CVE-2018-21033']",2022-03-21T11:16Z
+1,cpe:2.3:a:hitachi:automation_director:8.2.0-00:*:*:*:*:*:*:*,Hitachi Automation Director 8.2.0-00,"['CVE-2018-21032', 'CVE-2018-21033']",2022-03-21T11:16Z
+2,cpe:2.3:a:hitachi:automation_director:8.5.0-00:*:*:*:*:*:*:*,Hitachi Automation Director 8.5.0-00,['CVE-2018-21033'],2022-03-21T11:16Z
+3,cpe:2.3:a:hitachi:automation_director:8.6.2-00:*:*:*:*:*:*:*,Hitachi Automation Director 8.6.2-00,[''],2022-03-21T11:16Z
+4,cpe:2.3:a:hitachi:cobol_gui_option:06-00:*:*:*:*:*:*:*,Hitachi Cobol GUI Option 06-00,['CVE-2012-4274'],2022-03-21T11:16Z
+5,cpe:2.3:a:hitachi:cobol_gui_option:06-01:*:*:*:*:*:*:*,Hitachi Cobol GUI Option 06-01,['CVE-2012-4274'],2022-03-21T11:16Z
+6,cpe:2.3:a:hitachi:cobol_gui_option:06-01\/a:*:*:*:*:*:*:*,Hitachi Cobol GUI Option 06-01/A,['CVE-2012-4274'],2022-03-21T11:16Z
+7,cpe:2.3:a:hitachi:cobol_gui_option:07-00:*:*:*:*:*:*:*,Hitachi Cobol GUI Option 07-00,['CVE-2012-4274'],2022-03-21T11:16Z
+8,cpe:2.3:a:hitachi:cobol_gui_option:07-01:*:*:*:*:*:*:*,Hitachi Cobol GUI Option 07-01,['CVE-2012-4274'],2022-03-21T11:16Z
+9,cpe:2.3:a:hitachi:cobol_gui_option:07-01\/a:*:*:*:*:*:*:*,Hitachi Cobol GUI Option 07-01/A,['CVE-2012-4274'],2022-03-21T11:16Z

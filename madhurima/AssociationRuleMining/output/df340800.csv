@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:cloud_app_management:2018.4.0:*:*:*:*:*:*:*,IBM Cloud App Management 2018.4.0,['CVE-2018-1990'],2022-03-21T20:00Z
+1,cpe:2.3:a:ibm:cloud_app_management:2018.4.1:*:*:*:*:*:*:*,IBM Cloud App Management 2018.4.1,['CVE-2018-1990'],2022-03-21T20:00Z
+2,cpe:2.3:a:ibm:cloud_app_management:2019.3.0:*:*:*:*:*:*:*,IBM Cloud App Management 2019.3.0,"['CVE-2019-4750', 'CVE-2019-4751']",2022-03-21T20:00Z
+3,cpe:2.3:a:ibm:cloud_app_management:2019.4.0:*:*:*:*:*:*:*,IBM Cloud App Management 2019.4.0,"['CVE-2019-4750', 'CVE-2019-4751']",2022-03-21T20:00Z
+4,cpe:2.3:a:ibm:cloud_application_performance_management:8.1.4:*:*:*:*:advanced_private:*:*,IBM Cloud Application Performance Management 8.1.4 for Advanced Private,"['CVE-2019-4131', 'CVE-2020-4719', 'CVE-2020-4725', 'CVE-2020-4726']",2022-03-21T20:00Z
+5,cpe:2.3:a:ibm:cloud_application_performance_management:8.1.4:*:*:*:*:base_private:*:*,IBM Cloud Application Performance Management 8.1.4 for Base Private,"['CVE-2019-4131', 'CVE-2020-4719', 'CVE-2020-4725', 'CVE-2020-4726']",2022-03-21T20:00Z
+6,cpe:2.3:a:ibm:cloud_automation_manager:2.1.0:*:*:*:*:*:*:*,IBM Cloud Automation Manager 2.1.0,[''],2022-03-21T20:00Z
+7,cpe:2.3:a:ibm:cloud_automation_manager:2.1.0.1:*:*:*:*:*:*:*,IBM Cloud Automation Manager 2.1.0.1,[''],2022-03-21T20:00Z
+8,cpe:2.3:a:ibm:cloud_automation_manager:2.1.0.2:*:*:*:*:*:*:*,IBM Cloud Automation Manager 2.1.0.2,[''],2022-03-21T20:00Z
+9,cpe:2.3:a:ibm:cloud_automation_manager:2.1.0.3:*:*:*:*:*:*:*,IBM Cloud Automation Manager 2.1.0.3,[''],2022-03-21T20:00Z

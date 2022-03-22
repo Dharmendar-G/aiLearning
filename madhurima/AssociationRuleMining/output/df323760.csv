@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:jg407a_hp_msr3024_dc_router:-:*:*:*:*:*:*:*,HP JG407A HP MSR3024 DC Router,['CVE-2015-5434'],2022-03-21T13:53Z
+1,cpe:2.3:h:hp:jg408a:-:*:*:*:*:*:*:*,HP JG409A HP MSR3012 AC Router,[''],2022-03-21T13:53Z
+2,cpe:2.3:h:hp:jg408a_hp_msr3024_poe_router:-:*:*:*:*:*:*:*,HP JG408A HP MSR3024 POE Router,['CVE-2015-5434'],2022-03-21T13:53Z
+3,cpe:2.3:h:hp:jg409a:-:*:*:*:*:*:*:*,HP JG362A HP HSR6804 Router Chassis,[''],2022-03-21T13:53Z
+4,cpe:2.3:h:hp:jg409a_hp_msr3012_ac_router:-:*:*:*:*:*:*:*,HP JG409A HP MSR3012 AC Router,['CVE-2015-5434'],2022-03-21T13:53Z
+5,cpe:2.3:h:hp:jg410a:-:*:*:*:*:*:*:*,HP JG408A HP MSR3024 PoE Router,[''],2022-03-21T13:53Z
+6,cpe:2.3:h:hp:jg410a_hp_msr3012_dc_router:-:*:*:*:*:*:*:*,HP JG410A HP MSR3012 DC Router,['CVE-2015-5434'],2022-03-21T13:53Z
+7,cpe:2.3:h:hp:jg411a:-:*:*:*:*:*:*:*,HP JG364A HP HSR6800 RSE-X2 Router Main Processing Unit,[''],2022-03-21T13:53Z
+8,cpe:2.3:h:hp:jg411a_hp_msr2003_ac_router:-:*:*:*:*:*:*:*,HP JG411A HP MSR2003 AC Router,['CVE-2015-5434'],2022-03-21T13:53Z
+9,cpe:2.3:h:hp:jg412a:-:*:*:*:*:*:*:*,HP JG353A HP HSR6602-G Router,[''],2022-03-21T13:53Z

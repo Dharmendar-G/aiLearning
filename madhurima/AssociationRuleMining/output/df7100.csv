@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:actix:actix-web:2.0.0:alpha2:*:*:*:rust:*:*,Actix actix-web 2.0.0 Alpha 2 for Rust,[''],2022-03-18T11:35Z
+1,cpe:2.3:a:actix:actix-web:2.0.0:alpha3:*:*:*:rust:*:*,Actix actix-web 2.0.0 Alpha 3 for Rust,[''],2022-03-18T11:35Z
+2,cpe:2.3:a:actix:actix-web:2.0.0:alpha4:*:*:*:rust:*:*,Actix actix-web 2.0.0 Alpha 4 for Rust,[''],2022-03-18T11:35Z
+3,cpe:2.3:a:actix:actix-web:2.0.0:alpha5:*:*:*:rust:*:*,Actix actix-web 2.0.0 Alpha 5 for Rust,[''],2022-03-18T11:35Z
+4,cpe:2.3:a:actix:actix-web:2.0.0:alpha6:*:*:*:rust:*:*,Actix actix-web 2.0.0 Alpha 6 for Rust,[''],2022-03-18T11:35Z
+5,cpe:2.3:a:actix:actix-web:2.0.0:rc:*:*:*:rust:*:*,Actix actix-web 2.0.0 Release Candidate for Rust,[''],2022-03-18T11:35Z
+6,cpe:2.3:a:actix:actix-web:3.0.0:-:*:*:*:rust:*:*,Actix actix-web 3.0.0 - for Rust,[''],2022-03-18T11:35Z
+7,cpe:2.3:a:actix:actix-web:3.0.0:alpha1:*:*:*:rust:*:*,Actix actix-web 3.0.0 Alpha 1 for Rust,[''],2022-03-18T11:35Z
+8,cpe:2.3:a:actix:actix-web:3.0.0:alpha2:*:*:*:rust:*:*,Actix actix-web 3.0.0 Alpha 2 for Rust,[''],2022-03-18T11:35Z
+9,cpe:2.3:a:actix:actix-web:3.0.0:alpha3:*:*:*:rust:*:*,Actix actix-web 3.0.0 Alpha 3 for Rust,[''],2022-03-18T11:35Z

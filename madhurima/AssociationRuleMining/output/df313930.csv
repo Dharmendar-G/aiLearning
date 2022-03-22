@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:homepage_decorator:perltreebbs:2.30:*:*:*:*:*:*:*,Homepage Decorator PerlTreeBBS 2.30,['CVE-2015-0873'],2022-03-21T11:38Z
+1,cpe:2.3:a:homepage_decorator_perlmailer_project:homepage_decorator_perlmailer:3.10:*:*:*:*:*:*:*,Homepage Decorator PerlMailer Project Homepage Decorator PerlMailer 3.10,['CVE-2014-3897'],2022-03-21T11:38Z
+2,cpe:2.3:a:homepage_decorator_perlmailer_project:homepage_decorator_perlmailer:3.11:*:*:*:*:*:*:*,Homepage Decorator PerlMailer Project Homepage Decorator PerlMailer 3.11,[''],2022-03-21T11:38Z
+3,cpe:2.3:a:homerelectric:hea_mobile:1.153.0034:*:*:*:*:android:*:*,homerelectric HEA Mobile (aka com.homerelectric.smartapps) for android 1.153.0034,['CVE-2014-7422'],2022-03-21T11:38Z
+4,cpe:2.3:h:homey:homey:-:*:*:*:*:*:*:*,Homey,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z
+5,cpe:2.3:o:homey:homey_firmware:2.0:*:*:*:*:*:*:*,Homey Firmware 2.0,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z
+6,cpe:2.3:o:homey:homey_firmware:2.3.0:*:*:*:*:*:*:*,Homey Firmware 2.3.0,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z
+7,cpe:2.3:o:homey:homey_firmware:2.4.0:*:*:*:*:*:*:*,Homey Firmware 2.4.0,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z
+8,cpe:2.3:o:homey:homey_firmware:2.4.1:*:*:*:*:*:*:*,Homey Firmware 2.4.1,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z
+9,cpe:2.3:o:homey:homey_firmware:2.5.0:*:*:*:*:*:*:*,Homey Firmware 2.5.0,"['CVE-2020-28952', 'CVE-2020-9462']",2022-03-21T11:38Z

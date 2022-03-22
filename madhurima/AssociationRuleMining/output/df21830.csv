@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:amazon:aws_cloudformation:-:*:*:*:*:*:*:*,Amazon AWS CloudFormation,[''],2022-03-18T15:24Z
+1,cpe:2.3:a:amazon:aws_cloudtrail:-:*:*:*:*:*:*:*,Amazon AWS CloudTrail,[''],2022-03-18T15:24Z
+2,[0],[0],[0],[0]
+3,cpe:2.3:a:amazon:aws_command_line_interface:-:*:*:*:*:*:*:*,Amazon AWS Command Line Interface (CLI),[''],2022-03-18T15:24Z
+4,cpe:2.3:a:amazon:aws_config:-:*:*:*:*:*:*:*,Amazon AWS Config,[''],2022-03-18T15:24Z
+5,cpe:2.3:a:amazon:aws_encryption_sdk:-:*:*:*:*:*:*:*,Amazon AWS Encryption SDK,['CVE-2020-8897'],2022-03-18T15:24Z
+6,cpe:2.3:a:amazon:aws_encryption_sdk:1.7.0:*:*:*:*:*:*:*,Amazon AWS Encryption SDK 1.7.0,['CVE-2020-8897'],2022-03-18T15:24Z
+7,cpe:2.3:a:amazon:aws_encryption_sdk:2.0.0:*:*:*:*:*:*:*,Amazon AWS Encryption SDK 2.0.0,[''],2022-03-18T15:24Z
+8,cpe:2.3:a:amazon:aws_identity_and_access_management:-:*:*:*:*:*:*:*,Amazon AWS Identity and Access Management (IAM),[''],2022-03-18T15:24Z
+9,cpe:2.3:a:amazon:aws_javascript_s3_explorer:1.0.0:*:*:*:*:*:*:*,Amazon AWS JavaScript S3 Explorer 1.0.0,['CVE-2019-14652'],2022-03-18T15:24Z

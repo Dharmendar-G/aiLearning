@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:digitalzoomstudio:zoomsounds:1.45:*:*:*:*:wordpress:*:*,Digitalzoomstudio ZoomSounds 1.45 for WordPress,"['CVE-2015-9471', 'CVE-2021-39316']",2022-03-20T14:15Z
+1,cpe:2.3:a:digitalzoomstudio:zoomsounds:1.50:*:*:*:*:wordpress:*:*,Digitalzoomstudio ZoomSounds 1.50 for WordPress,"['CVE-2015-9471', 'CVE-2021-39316']",2022-03-20T14:15Z
+2,cpe:2.3:a:digitalzoomstudio:zoomsounds:1.51:*:*:*:*:wordpress:*:*,Digitalzoomstudio ZoomSounds 1.51 for WordPress,"['CVE-2015-9471', 'CVE-2021-39316']",2022-03-20T14:15Z
+3,cpe:2.3:a:digitalzoomstudio:zoomsounds:1.60:*:*:*:*:wordpress:*:*,Digitalzoomstudio ZoomSounds 1.60 for WordPress,"['CVE-2015-9471', 'CVE-2021-39316']",2022-03-20T14:15Z
+4,cpe:2.3:a:digitalzoomstudio:zoomsounds:1.61:*:*:*:*:wordpress:*:*,Digitalzoomstudio ZoomSounds 1.61 for WordPress,"['CVE-2015-9471', 'CVE-2021-39316']",2022-03-20T14:15Z
+5,cpe:2.3:a:digitalzoomstudio:zoomsounds:1.62:*:*:*:*:wordpress:*:*,Digitalzoomstudio ZoomSounds 1.62 for WordPress,"['CVE-2015-9471', 'CVE-2021-39316']",2022-03-20T14:15Z
+6,cpe:2.3:a:digitalzoomstudio:zoomsounds:1.63:*:*:*:*:wordpress:*:*,Digitalzoomstudio ZoomSounds 1.63 for WordPress,"['CVE-2015-9471', 'CVE-2021-39316']",2022-03-20T14:15Z
+7,cpe:2.3:a:digitalzoomstudio:zoomsounds:1.70:*:*:*:*:wordpress:*:*,Digitalzoomstudio ZoomSounds 1.70 for WordPress,"['CVE-2015-9471', 'CVE-2021-39316']",2022-03-20T14:15Z
+8,cpe:2.3:a:digitalzoomstudio:zoomsounds:2.00:*:*:*:*:wordpress:*:*,Digitalzoomstudio ZoomSounds 2.00 for WordPress,"['CVE-2015-9471', 'CVE-2021-39316']",2022-03-20T14:15Z
+9,cpe:2.3:a:digitalzoomstudio:zoomsounds:2.02:*:*:*:*:wordpress:*:*,Digitalzoomstudio ZoomSounds 2.02 for WordPress,['CVE-2021-39316'],2022-03-20T14:15Z

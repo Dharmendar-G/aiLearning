@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bestwebsoft:gallery:4.6.4:*:*:*:*:wordpress:*:*,BestWebSoft Gallery 4.6.4 for WordPress,[''],2022-03-19T07:11Z
+1,cpe:2.3:a:bestwebsoft:gallery:4.6.5:*:*:*:*:wordpress:*:*,BestWebSoft Gallery 4.6.5 for WordPress,[''],2022-03-19T07:11Z
+2,cpe:2.3:a:bestwebsoft:gallery:4.6.6:*:*:*:*:wordpress:*:*,BestWebSoft Gallery 4.6.6 for WordPress,[''],2022-03-19T07:11Z
+3,cpe:2.3:a:bestwebsoft:gallery:4.6.7:*:*:*:*:wordpress:*:*,BestWebSoft Gallery 4.6.7 for WordPress,[''],2022-03-19T07:11Z
+4,cpe:2.3:a:bestwebsoft:gallery_categories:1.0.8:*:*:*:*:wordpress:*:*,BestWebSoft Gallery Categories 1.0.8 for WordPress,['CVE-2017-2171'],2022-03-19T07:11Z
+5,cpe:2.3:a:bestwebsoft:gallery_categories:1.1.0:*:*:*:*:wordpress:*:*,BestWebSoft Gallery Categories 1.1.0 for WordPress,[''],2022-03-19T07:11Z
+6,[0],[0],[0],[0]
+7,[0],[0],[0],[0]
+8,cpe:2.3:a:bestwebsoft:google_adsense:0.51:*:*:*:*:wordpress:*:*,BestWebSoft Google Adsense 0.51 for WordPress,['CVE-2017-2171'],2022-03-19T07:11Z
+9,cpe:2.3:a:bestwebsoft:google_adsense:0.52:*:*:*:*:wordpress:*:*,BestWebSoft Google Adsense 0.52 for WordPress,['CVE-2017-2171'],2022-03-19T07:11Z

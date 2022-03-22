@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ampache:ampache:3.5.4:*:*:*:*:*:*:*,Ampache 3.5.4,"['CVE-2019-12385', 'CVE-2019-12386', 'CVE-2020-15153', 'CVE-2021-21399']",2022-03-18T16:16Z
+1,cpe:2.3:a:ampache:ampache:3.6:alpha1:*:*:*:*:*:*,Ampache 3.6 Alpha 1,"['CVE-2019-12385', 'CVE-2019-12386', 'CVE-2020-15153', 'CVE-2021-21399']",2022-03-18T16:16Z
+2,cpe:2.3:a:ampache:ampache:3.6:alpha2:*:*:*:*:*:*,Ampache 3.6 Alpha 2,"['CVE-2019-12385', 'CVE-2019-12386', 'CVE-2020-15153', 'CVE-2021-21399']",2022-03-18T16:16Z
+3,cpe:2.3:a:ampache:ampache:3.6:alpha3:*:*:*:*:*:*,Ampache 3.6 Alpha 3,"['CVE-2019-12385', 'CVE-2019-12386', 'CVE-2020-15153', 'CVE-2021-21399']",2022-03-18T16:16Z
+4,cpe:2.3:a:ampache:ampache:3.6:alpha4:*:*:*:*:*:*,Ampache 3.6 Alpha 4,"['CVE-2019-12385', 'CVE-2019-12386', 'CVE-2020-15153', 'CVE-2021-21399']",2022-03-18T16:16Z
+5,cpe:2.3:a:ampache:ampache:3.6:alpha5:*:*:*:*:*:*,Ampache 3.6 Alpha 5,"['CVE-2019-12385', 'CVE-2019-12386', 'CVE-2020-15153', 'CVE-2021-21399']",2022-03-18T16:16Z
+6,cpe:2.3:a:ampache:ampache:3.6:alpha6:*:*:*:*:*:*,Ampache 3.6 Alpha 6,"['CVE-2019-12385', 'CVE-2019-12386', 'CVE-2020-15153', 'CVE-2021-21399']",2022-03-18T16:16Z
+7,cpe:2.3:a:ampache:ampache:3.7.0:*:*:*:*:*:*:*,Ampache 3.7.0,"['CVE-2019-12385', 'CVE-2019-12386', 'CVE-2020-15153', 'CVE-2021-21399']",2022-03-18T16:16Z
+8,cpe:2.3:a:ampache:ampache:3.8.0:-:*:*:*:*:*:*,Ampache 3.8.0,"['CVE-2019-12385', 'CVE-2019-12386', 'CVE-2020-15153', 'CVE-2021-21399']",2022-03-18T16:16Z
+9,cpe:2.3:a:ampache:ampache:3.8.0:beta1:*:*:*:*:*:*,Ampache 3.8.0 Beta 1,"['CVE-2019-12385', 'CVE-2019-12386', 'CVE-2020-15153', 'CVE-2021-21399']",2022-03-18T16:16Z

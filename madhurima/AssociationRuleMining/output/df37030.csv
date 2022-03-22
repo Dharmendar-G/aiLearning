@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:tapestry:5.6.3:*:*:*:*:*:*:*,Apache Software Foundation Tapestry 5.6.3,"['CVE-2020-13953', 'CVE-2021-30638']",2022-03-18T20:26Z
+1,cpe:2.3:a:apache:tapestry:5.6.4:*:*:*:*:*:*:*,Apache Software Foundation Tapestry 5.6.4,[''],2022-03-18T20:26Z
+2,cpe:2.3:a:apache:tapestry:5.7.0:*:*:*:*:*:*:*,Apache Software Foundation Tapestry 5.7.0,"['CVE-2020-13953', 'CVE-2021-27850', 'CVE-2021-30638']",2022-03-18T20:27Z
+3,cpe:2.3:a:apache:tapestry:5.7.1:*:*:*:*:*:*:*,Apache Software Foundation Tapestry 5.7.1,"['CVE-2020-13953', 'CVE-2021-30638']",2022-03-18T20:27Z
+4,cpe:2.3:a:apache:tapestry:5.7.2:*:*:*:*:*:*:*,Apache Software Foundation Tapestry 5.7.2,[''],2022-03-18T20:26Z
+5,cpe:2.3:a:apache:thrift:0.2.0:*:*:*:*:node.js:*:*,Apache Software Foundation Thrift 0.2.0 for Node.js,"['CVE-2015-3254', 'CVE-2016-5397', 'CVE-2019-0205']",2022-03-18T20:27Z
+6,cpe:2.3:a:apache:thrift:0.2.0:*:*:*:*:node.js:*:*,Apache Software Foundation Thrift 0.2.0 for Node.js,"['CVE-2015-3254', 'CVE-2016-5397', 'CVE-2019-0205']",2022-03-18T20:27Z
+7,cpe:2.3:a:apache:thrift:0.3.0:*:*:*:*:node.js:*:*,Apache Software Foundation Thrift 0.3.0 for Node.js,"['CVE-2015-3254', 'CVE-2016-5397', 'CVE-2019-0205']",2022-03-18T20:27Z
+8,cpe:2.3:a:apache:thrift:0.3.0:*:*:*:*:node.js:*:*,Apache Software Foundation Thrift 0.3.0 for Node.js,"['CVE-2015-3254', 'CVE-2016-5397', 'CVE-2019-0205']",2022-03-18T20:27Z
+9,cpe:2.3:a:apache:thrift:0.4.0:*:*:*:*:node.js:*:*,Apache Software Foundation Thrift 0.4.0 for Node.js,"['CVE-2015-3254', 'CVE-2016-5397', 'CVE-2019-0205']",2022-03-18T20:27Z

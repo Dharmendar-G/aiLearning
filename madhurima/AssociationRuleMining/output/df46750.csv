@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:arm:cortex-r7:-:*:*:*:*:*:*:*,ARM Cortex-R7,['CVE-2017-5753'],2022-03-18T23:06Z
+1,cpe:2.3:o:arm:cortex-r7_firmware:-:*:*:*:*:*:*:*,ARM Cortex-R7 Firmware,['CVE-2017-5753'],2022-03-18T23:06Z
+2,cpe:2.3:h:arm:cortex-r8:-:*:*:*:*:*:*:*,ARM Cortex-R8,['CVE-2017-5753'],2022-03-18T23:06Z
+3,cpe:2.3:o:arm:cortex-r8_firmware:-:*:*:*:*:*:*:*,ARM Cortex-R8 Firmware,['CVE-2017-5753'],2022-03-18T23:06Z
+4,cpe:2.3:h:arm:cortex-x1:-:*:*:*:*:*:*:*,ARM Cortex-X1,"['CVE-2017-5753', 'CVE-2022-25368']",2022-03-18T23:06Z
+5,cpe:2.3:o:arm:cortex-x1_firmware:-:*:*:*:*:*:*:*,ARM Cortex-X1 Firmware,"['CVE-2017-5753', 'CVE-2022-25368']",2022-03-18T23:06Z
+6,cpe:2.3:o:arm:mbed:5.0.0:*:*:*:*:*:*:*,Arm Mbed 5.0.0,[''],2022-03-18T23:06Z
+7,cpe:2.3:o:arm:mbed:5.0.1:*:*:*:*:*:*:*,Arm Mbed 5.0.1,[''],2022-03-18T23:06Z
+8,cpe:2.3:o:arm:mbed:5.1.0:-:*:*:*:*:*:*,Arm Mbed 5.1.0,[''],2022-03-18T23:06Z
+9,cpe:2.3:o:arm:mbed:5.1.0:rc1:*:*:*:*:*:*,Arm Mbed 5.1.0 Release Candidate 1,[''],2022-03-18T23:06Z

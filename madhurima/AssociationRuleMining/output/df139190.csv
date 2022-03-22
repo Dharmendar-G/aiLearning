@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:webex_teams:3.0.16040.0:*:*:*:*:windows:*:*,Cisco Webex Teams 3.0.16040.0 for Windows,"['CVE-2018-0436', 'CVE-2019-16001', 'CVE-2020-3155', 'CVE-2020-3535', 'CVE-2021-1242']",2022-03-20T01:17Z
+1,cpe:2.3:a:cisco:webex_teams:3.0.16285.0:*:*:*:*:windows:*:*,Cisco Webex Teams 3.0.16285.0 for Windows,"['CVE-2018-0436', 'CVE-2019-16001', 'CVE-2020-3155', 'CVE-2021-1242']",2022-03-20T01:17Z
+2,cpe:2.3:a:cisco:webex_teams:3.0.16605.0:*:*:*:*:windows:*:*,Cisco Webex Teams 3.0.16605.0 for Windows,"['CVE-2018-0436', 'CVE-2019-16001', 'CVE-2020-3155', 'CVE-2021-1242']",2022-03-20T01:17Z
+3,cpe:2.3:a:cisco:webex_teams:3.13.26920:*:*:*:*:iphone_os:*:*,Cisco Webex Teams 3.13.26920 on iPhone OS,"['CVE-2018-0436', 'CVE-2019-16001', 'CVE-2020-3155', 'CVE-2021-1242']",2022-03-20T01:17Z
+4,cpe:2.3:a:cisco:webex_teams:40.12.0.17293:*:*:*:*:*:*:*,Cisco Webex Teams 40.12.0.17293,"['CVE-2018-0436', 'CVE-2019-16001', 'CVE-2020-3155']",2022-03-20T01:17Z
+5,cpe:2.3:a:cisco:webex_teams:20180417-150803:*:*:*:*:*:*:*,Cisco Webex Teams 20180417-150803,"['CVE-2019-16001', 'CVE-2020-3155']",2022-03-20T01:17Z
+6,cpe:2.3:a:cisco:webex_training:-:*:*:*:*:*:*:*,Cisco Webex Training,['CVE-2020-3542'],2022-03-20T01:17Z
+7,cpe:2.3:a:cisco:webex_training:40.7.6:*:*:*:*:*:*:*,Cisco Webex Training 40.7.6,[''],2022-03-20T01:17Z
+8,cpe:2.3:a:cisco:webex_training_center:-:*:*:*:*:*:*:*,Cisco WebEx Training Center,"['CVE-2013-1108', 'CVE-2013-1109', 'CVE-2013-1110', 'CVE-2013-6709', 'CVE-2013-6710', 'CVE-2013-6963', 'CVE-2013-6965', 'CVE-2013-6966', 'CVE-2013-6968', 'CVE-2013-6969', 'CVE-2013-6971', 'CVE-2013-6972', 'CVE-2013-6973', 'CVE-2014-2199', 'CVE-2019-15987']",2022-03-20T01:17Z
+9,cpe:2.3:a:cisco:webex_training_center:t30_base:*:*:*:*:*:*:*,Cisco WebEx Training Center T30 Base,['CVE-2017-6753'],2022-03-20T01:17Z

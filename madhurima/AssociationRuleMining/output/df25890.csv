@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ansi2html_project:ansi2html:0.0.1:*:*:*:*:node.js:*:*,ansi2html Project ansi2html 0.0.1 for Node.js,['CVE-2015-9239'],2022-03-18T16:43Z
+1,[0],[0],[0],[0]
+2,cpe:2.3:a:ansible_collections_project:community.crypto:-:*:*:*:*:*:*:*,Ansible Collections Project community.crypto,['CVE-2020-25646'],2022-03-18T16:43Z
+3,cpe:2.3:a:ansible-vault_project:ansible-vault:1.0.0:*:*:*:*:*:*:*,ansible-vault Project ansible-vault 1.0.0,['CVE-2017-2809'],2022-03-18T16:43Z
+4,cpe:2.3:a:ansible-vault_project:ansible-vault:1.0.1:*:*:*:*:*:*:*,ansible-vault Project ansible-vault 1.0.1,['CVE-2017-2809'],2022-03-18T16:43Z
+5,cpe:2.3:a:ansible-vault_project:ansible-vault:1.0.2:*:*:*:*:*:*:*,ansible-vault Project ansible-vault 1.0.2,['CVE-2017-2809'],2022-03-18T16:43Z
+6,cpe:2.3:a:ansible-vault_project:ansible-vault:1.0.3:*:*:*:*:*:*:*,ansible-vault Project ansible-vault 1.0.3,['CVE-2017-2809'],2022-03-18T16:43Z
+7,cpe:2.3:a:ansible-vault_project:ansible-vault:1.0.4:*:*:*:*:*:*:*,ansible-vault Project ansible-vault 1.0.4,['CVE-2017-2809'],2022-03-18T16:43Z
+8,cpe:2.3:a:ansible-vault_project:ansible-vault:1.0.5:*:*:*:*:*:*:*,ansible-vault Project ansible-vault 1.0.5,[''],2022-03-18T16:43Z
+9,cpe:2.3:a:ansible-vault_project:ansible-vault:1.1.0:*:*:*:*:*:*:*,ansible-vault Project ansible-vault 1.1.0,[''],2022-03-18T16:43Z

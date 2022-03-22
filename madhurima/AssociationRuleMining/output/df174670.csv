@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dave_airlie:pam_smb:1.1:*:*:*:*:*:*:*,Samba pam_smb 1.1,['CVE-2003-0686'],2022-03-20T10:57Z
+1,cpe:2.3:a:dave_airlie:pam_smb:1.1.1:*:*:*:*:*:*:*,Samba pam_smb 1.1.1,['CVE-2003-0686'],2022-03-20T10:57Z
+2,cpe:2.3:a:dave_airlie:pam_smb:1.1.2:*:*:*:*:*:*:*,Samba pam_smb 1.1.2,['CVE-2003-0686'],2022-03-20T10:57Z
+3,cpe:2.3:a:dave_airlie:pam_smb:1.1.3:*:*:*:*:*:*:*,Samba pam_smb 1.1.3,['CVE-2003-0686'],2022-03-20T10:57Z
+4,cpe:2.3:a:dave_airlie:pam_smb:1.1.4:*:*:*:*:*:*:*,Samba pam_smb 1.1.4,['CVE-2003-0686'],2022-03-20T10:57Z
+5,cpe:2.3:a:dave_airlie:pam_smb:1.1.5:*:*:*:*:*:*:*,Samba pam_smb 1.1.5,"['CVE-2000-0843', 'CVE-2003-0686']",2022-03-20T10:57Z
+6,cpe:2.3:a:dave_airlie:pam_smb:1.1.6:*:*:*:*:*:*:*,Samba pam_smb 1.1.6,['CVE-2003-0686'],2022-03-20T10:58Z
+7,cpe:2.3:a:dave_airlie:pam_smb:2.0_rc4:*:*:*:*:*:*:*,Samba pam_smb 2.0 rc4,['CVE-2003-0686'],2022-03-20T10:58Z
+8,cpe:2.3:a:dave_coffin:dcraw:0.8.0:*:*:*:*:*:*:*,Dave Coffin dcraw 0.8.0,['CVE-2013-1438'],2022-03-20T10:58Z
+9,cpe:2.3:a:dave_coffin:dcraw:0.8.1:*:*:*:*:*:*:*,Dave Coffin dcraw 0.8.1,['CVE-2013-1438'],2022-03-20T10:58Z

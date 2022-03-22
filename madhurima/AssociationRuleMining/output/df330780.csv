@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hpe:service_governance_framework:4.3:*:*:*:*:*:*:*,HPE Service Governance Framework 4.3,['CVE-2018-7110'],2022-03-21T16:34Z
+1,cpe:2.3:a:hpe:service_pack_for_proliant:2020.03.0:*:*:*:*:*:*:*,HPE Service Pack for Proliant 2020.03.0,[''],2022-03-21T16:35Z
+2,cpe:2.3:h:hpe:simplivity_2600_gen10:-:*:*:*:*:*:*:*,HPE Simplivity 2600 Gen10,['CVE-2020-7205'],2022-03-21T16:35Z
+3,cpe:2.3:h:hpe:simplivity_325_gen10:-:*:*:*:*:*:*:*,HPE Simplivity 325 Gen10 -,['CVE-2020-7205'],2022-03-21T16:35Z
+4,cpe:2.3:h:hpe:simplivity_380_gen10:-:*:*:*:*:*:*:*,HPE Simplivity 380 Gen10,['CVE-2020-7205'],2022-03-21T16:35Z
+5,cpe:2.3:a:hpe:smart_update_manager:-:*:*:*:*:*:*:*,HPE Smart Update Manager (SUM),"['CVE-2019-11987', 'CVE-2019-11988', 'CVE-2020-7136']",2022-03-21T16:35Z
+6,cpe:2.3:a:hpe:smart_update_manager:6.0.0:*:*:*:*:*:*:*,HPE Smart Update Manager (SUM) 6.0.0,"['CVE-2014-2608', 'CVE-2019-11987', 'CVE-2019-11988', 'CVE-2020-7136']",2022-03-21T16:35Z
+7,cpe:2.3:a:hpe:smart_update_manager:6.2.0:*:*:*:*:*:*:*,HPE Smart Update Manager (SUM) 6.2.0,"['CVE-2014-2608', 'CVE-2019-11987', 'CVE-2019-11988', 'CVE-2020-7136']",2022-03-21T16:35Z
+8,cpe:2.3:a:hpe:smart_update_manager:6.3.1.0:*:*:*:*:*:*:*,HPE Smart Update Manager (SUM) 6.3.1.0,"['CVE-2014-2608', 'CVE-2019-11987', 'CVE-2019-11988', 'CVE-2020-7136']",2022-03-21T16:35Z
+9,cpe:2.3:a:hpe:smart_update_manager:6.4.1:*:*:*:*:*:*:*,HPE Smart Update Manager (SUM) 6.4.1,"['CVE-2019-11987', 'CVE-2019-11988', 'CVE-2020-7136']",2022-03-21T16:35Z

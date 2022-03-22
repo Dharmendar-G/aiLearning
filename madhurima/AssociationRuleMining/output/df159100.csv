@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:constantcontact:constant_contact_forms:1.10.1:*:*:*:*:wordpress:*:*,Constant Contact Forms 1.10.1 for WordPress,[''],2022-03-20T07:25Z
+1,cpe:2.3:a:construtiva:cis_manager_cms:-:*:*:*:*:*:*:*,Construtiva CIS Manager CMS,"['CVE-2014-2847', 'CVE-2014-3749']",2022-03-20T07:25Z
+2,cpe:2.3:a:consulo:ip_alarm:1.4:*:*:*:*:android:*:*,consulo IP Alarm (aka com.cosesy.gadget.alarm) for android 1.4,['CVE-2014-7124'],2022-03-20T07:25Z
+3,cpe:2.3:a:consumer_complaints_clone_script_project:consumer_complaints_clone_script:1.0:*:*:*:*:*:*:*,Consumer Complaints Clone Script Project Consumer Complaints Clone Script 1.0,['CVE-2017-17605'],2022-03-20T07:25Z
+4,cpe:2.3:a:consumer_complaints_clone_script_project:consumer_complaints_clone_script:1.3.3:*:*:*:*:*:*:*,Consumer Complaints Clone Script Project Consumer Complaints Clone Script 1.3.3,[''],2022-03-20T07:25Z
+5,cpe:2.3:a:consumer_reviews_script_project:consumer_reviews_script:-:*:*:*:*:*:*:*,Consumer Reviews Script Project Consumer Reviews Script,[''],2022-03-20T07:25Z
+6,cpe:2.3:a:consumer_reviews_script_project:consumer_reviews_script:4.0.3:*:*:*:*:*:*:*,Consumer Reviews Script Project Consumer Reviews Script 4.0.3,"['CVE-2018-20626', 'CVE-2018-20627']",2022-03-20T07:25Z
+7,cpe:2.3:a:contact_form_7_captcha_project:contact_form_7_captcha:-:*:*:*:*:wordpress:*:*,Contact Form 7 Captcha Project Contact Form 7 Captcha for WordPress,['CVE-2021-24565'],2022-03-20T07:25Z
+8,cpe:2.3:a:contact_form_7_captcha_project:contact_form_7_captcha:0.0.9:*:*:*:*:wordpress:*:*,Contact Form 7 Captcha Project Contact Form 7 Captcha 0.0.9 for WordPress,[''],2022-03-20T07:25Z
+9,cpe:2.3:a:contact_form_7_database_addon:contact_form_7_database_addon:1.0.0:*:*:*:*:wordpress:*:*,Contact Form 7 Database Addon Contact Form 7 Database Addon 1.0.0 for Wordpress,['CVE-2021-24144'],2022-03-20T07:25Z

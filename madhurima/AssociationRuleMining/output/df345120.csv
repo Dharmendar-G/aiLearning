@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:marketing_platform:9.1.0.0:*:*:*:*:*:*:*,IBM Marketing Platform 9.1.0.0,"['CVE-2013-6308', 'CVE-2013-6309', 'CVE-2013-6310', 'CVE-2013-6311', 'CVE-2016-0224', 'CVE-2016-0229', 'CVE-2016-0233', 'CVE-2016-6112', 'CVE-2017-1107']",2022-03-21T21:13Z
+1,cpe:2.3:a:ibm:marketing_platform:9.1.0.1:*:*:*:*:*:*:*,IBM Marketing Platform 9.1.0.1,"['CVE-2013-6308', 'CVE-2013-6309', 'CVE-2013-6310', 'CVE-2013-6311', 'CVE-2016-0224', 'CVE-2016-0229', 'CVE-2016-0233']",2022-03-21T21:13Z
+2,cpe:2.3:a:ibm:marketing_platform:9.1.0.2:*:*:*:*:*:*:*,IBM Marketing Platform 9.1.0.2,"['CVE-2016-0224', 'CVE-2016-0229', 'CVE-2016-0233']",2022-03-21T21:13Z
+3,cpe:2.3:a:ibm:marketing_platform:9.1.0.3:*:*:*:*:*:*:*,IBM Marketing Platform 9.1.0.3,"['CVE-2016-0224', 'CVE-2016-0229', 'CVE-2016-0233']",2022-03-21T21:13Z
+4,cpe:2.3:a:ibm:marketing_platform:9.1.0.4:*:*:*:*:*:*:*,IBM Marketing Platform 9.1.0.4,"['CVE-2016-0224', 'CVE-2016-0229', 'CVE-2016-0233']",2022-03-21T21:13Z
+5,cpe:2.3:a:ibm:marketing_platform:9.1.0.5:*:*:*:*:*:*:*,IBM Marketing Platform 9.1.0.5,"['CVE-2016-0224', 'CVE-2016-0229', 'CVE-2016-0233']",2022-03-21T21:13Z
+6,cpe:2.3:a:ibm:marketing_platform:9.1.0.6:*:*:*:*:*:*:*,IBM Marketing Platform 9.1.0.6,"['CVE-2016-0224', 'CVE-2016-0229', 'CVE-2016-0233']",2022-03-21T21:13Z
+7,cpe:2.3:a:ibm:marketing_platform:9.1.0.7:*:*:*:*:*:*:*,IBM Marketing Platform 9.1.0.7,"['CVE-2016-0224', 'CVE-2016-0229', 'CVE-2016-0233']",2022-03-21T21:13Z
+8,cpe:2.3:a:ibm:marketing_platform:9.1.0.8:*:*:*:*:*:*:*,IBM Marketing Platform 9.1.0.8,"['CVE-2016-0224', 'CVE-2016-0229', 'CVE-2016-0233']",2022-03-21T21:13Z
+9,cpe:2.3:a:ibm:marketing_platform:9.1.0.9:*:*:*:*:*:*:*,IBM Marketing Platform 9.1.0.9,"['CVE-2016-0224', 'CVE-2016-0229', 'CVE-2016-0233']",2022-03-21T21:13Z

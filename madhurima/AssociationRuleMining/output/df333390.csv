@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:cloudengine_12800_firmware:v100r005c00spc200:*:*:*:*:*:*:*,Huawei CloudEngine 12800 Firmware V100R005C00SPC200,['CVE-2020-1810'],2022-03-21T17:31Z
+1,cpe:2.3:o:huawei:cloudengine_12800_firmware:v100r005c00spc300:*:*:*:*:*:*:*,Huawei CloudEngine 12800 Firmware V100R005C00SPC300,['CVE-2020-1810'],2022-03-21T17:31Z
+2,cpe:2.3:o:huawei:cloudengine_12800_firmware:v100r005c10:*:*:*:*:*:*:*,Huawei CloudEngine 12800 Firmware V100R005C10,"['CVE-2016-6178', 'CVE-2016-8782', 'CVE-2016-8784', 'CVE-2016-8790', 'CVE-2016-8795', 'CVE-2017-15349', 'CVE-2017-17301', 'CVE-2017-8147']",2022-03-21T17:31Z
+3,cpe:2.3:o:huawei:cloudengine_12800_firmware:v100r005c10hp0001:*:*:*:*:*:*:*,Huawei CloudEngine 12800 Firmware V100R005C10HP0001,['CVE-2020-1810'],2022-03-21T17:31Z
+4,cpe:2.3:o:huawei:cloudengine_12800_firmware:v100r005c10spc100:*:*:*:*:*:*:*,Huawei CloudEngine 12800 Firmware V100R005C10SPC100,['CVE-2020-1810'],2022-03-21T17:31Z
+5,cpe:2.3:o:huawei:cloudengine_12800_firmware:v100r005c10spc200:*:*:*:*:*:*:*,Huawei CloudEngine 12800 Firmware V100R005C10SPC200,['CVE-2020-1810'],2022-03-21T17:31Z
+6,cpe:2.3:o:huawei:cloudengine_12800_firmware:v100r006c00:*:*:*:*:*:*:*,Huawei CloudEngine 12800 Firmware V100R006C00,"['CVE-2016-8780', 'CVE-2016-8782', 'CVE-2016-8784', 'CVE-2016-8790', 'CVE-2016-8795', 'CVE-2017-15349', 'CVE-2017-17301', 'CVE-2017-8147', 'CVE-2020-1810']",2022-03-21T17:31Z
+7,cpe:2.3:o:huawei:cloudengine_12800_firmware:v200r001c00:*:*:*:*:*:*:*,Huawei Cloudengine 12800 Firmware V200r001c00,"['CVE-2017-17301', 'CVE-2017-8147', 'CVE-2020-1810']",2022-03-21T17:31Z
+8,cpe:2.3:o:huawei:cloudengine_12800_firmware:v200r001c00spc600:*:*:*:*:*:*:*,Huawei CloudEngine 12800 Firmware V200R001C00SPC600,"['CVE-2019-5248', 'CVE-2020-1861']",2022-03-21T17:31Z
+9,cpe:2.3:o:huawei:cloudengine_12800_firmware:v200r001c00spc700:*:*:*:*:*:*:*,Huawei CloudEngine 12800 Firmware V200R001C00SPC700,"['CVE-2019-5248', 'CVE-2020-1861']",2022-03-21T17:31Z

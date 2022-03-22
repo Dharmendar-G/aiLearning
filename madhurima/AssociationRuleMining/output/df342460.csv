@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:emptoris_sourcing:9.5.1.2:*:*:*:*:*:*:*,IBM Emptoris Sourcing 9.5.1.2,"['CVE-2016-8947', 'CVE-2016-8948', 'CVE-2016-8950', 'CVE-2016-8953', 'CVE-2017-1444', 'CVE-2017-1447', 'CVE-2017-1449', 'CVE-2017-1450']",2022-03-21T20:29Z
+1,cpe:2.3:a:ibm:emptoris_sourcing:9.5.1.3:*:*:*:*:*:*:*,IBM Emptoris Sourcing 9.5.1.3,"['CVE-2016-8947', 'CVE-2016-8948', 'CVE-2016-8950', 'CVE-2016-8953', 'CVE-2017-1444', 'CVE-2017-1447', 'CVE-2017-1449', 'CVE-2017-1450']",2022-03-21T20:29Z
+2,cpe:2.3:a:ibm:emptoris_sourcing:10.0.0:*:*:*:*:*:*:*,IBM Emptoris Sourcing 10.0.0,"['CVE-2016-6114', 'CVE-2016-8946', 'CVE-2016-8947', 'CVE-2016-8948', 'CVE-2016-8950', 'CVE-2016-8953', 'CVE-2017-1444', 'CVE-2017-1447', 'CVE-2017-1449', 'CVE-2017-1450']",2022-03-21T20:29Z
+3,cpe:2.3:a:ibm:emptoris_sourcing:10.0.0.0:*:*:*:*:*:*:*,IBM Emptoris Sourcing 10.0.0.0,['CVE-2016-0329'],2022-03-21T20:29Z
+4,cpe:2.3:a:ibm:emptoris_sourcing:10.0.0.1:*:*:*:*:*:*:*,IBM Emptoris Sourcing 10.0.0.1,['CVE-2016-0329'],2022-03-21T20:29Z
+5,cpe:2.3:a:ibm:emptoris_sourcing:10.0.1:*:*:*:*:*:*:*,IBM Emptoris Sourcing 10.0.1,"['CVE-2016-0329', 'CVE-2016-6114', 'CVE-2016-8946', 'CVE-2016-8947', 'CVE-2016-8948', 'CVE-2016-8950', 'CVE-2016-8953', 'CVE-2017-1444', 'CVE-2017-1447', 'CVE-2017-1449', 'CVE-2017-1450']",2022-03-21T20:29Z
+6,cpe:2.3:a:ibm:emptoris_sourcing:10.0.1.0:*:*:*:*:*:*:*,IBM Emptoris Sourcing 10.0.1.0,['CVE-2016-0329'],2022-03-21T20:29Z
+7,cpe:2.3:a:ibm:emptoris_sourcing:10.0.1.1:*:*:*:*:*:*:*,IBM Emptoris Sourcing 10.0.1.1,['CVE-2016-0329'],2022-03-21T20:29Z
+8,cpe:2.3:a:ibm:emptoris_sourcing:10.0.1.2:*:*:*:*:*:*:*,IBM Emptoris Sourcing 10.0.1.2,['CVE-2016-0329'],2022-03-21T20:29Z
+9,cpe:2.3:a:ibm:emptoris_sourcing:10.0.1.3:*:*:*:*:*:*:*,IBM Emptoris Sourcing 10.0.1.3,['CVE-2016-0329'],2022-03-21T20:29Z

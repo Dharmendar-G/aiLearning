@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitachi:ucosminexus_client:06-70:*:*:*:*:*:*:*,Hitachi uCosminexus Client 06-70,['CVE-2009-4776'],2022-03-21T11:23Z
+1,cpe:2.3:a:hitachi:ucosminexus_client:06-70-\/f:*:*:*:*:*:*:*,Hitachi uCosminexus Client 06-70-/F,['CVE-2009-4776'],2022-03-21T11:23Z
+2,cpe:2.3:a:hitachi:ucosminexus_client:06-70-\/g:*:*:*:*:*:*:*,Hitachi uCosminexus Client 06-70-/G,[''],2022-03-21T11:23Z
+3,cpe:2.3:a:hitachi:ucosminexus_client:06-71:*:*:*:*:*:*:*,Hitachi uCosminexus Client 06-71,['CVE-2009-4776'],2022-03-21T11:23Z
+4,cpe:2.3:a:hitachi:ucosminexus_client:06-71-\/f:*:*:*:*:*:*:*,Hitachi uCosminexus Client 06-71-/F,['CVE-2009-4776'],2022-03-21T11:23Z
+5,cpe:2.3:a:hitachi:ucosminexus_client:06-71-\/g:*:*:*:*:*:*:*,Hitachi uCosminexus Client 06-71-/G,[''],2022-03-21T11:23Z
+6,cpe:2.3:a:hitachi:ucosminexus_client:07-00:*:*:*:*:*:*:*,Hitachi uCosminexus Client 07-00,['CVE-2009-4776'],2022-03-21T11:23Z
+7,cpe:2.3:a:hitachi:ucosminexus_client:07-00-05:*:*:*:*:*:*:*,Hitachi uCosminexus Client 07-00-05,[''],2022-03-21T11:23Z
+8,cpe:2.3:a:hitachi:ucosminexus_client:07-00-06:*:*:*:*:*:*:*,Hitachi uCosminexus Client 07-00-06,[''],2022-03-21T11:23Z
+9,cpe:2.3:a:hitachi:ucosminexus_client:07-00-09:*:*:*:*:*:*:*,Hitachi uCosminexus Client 07-00-09,[''],2022-03-21T11:23Z

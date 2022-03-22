@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:access_manager_for_microsoft_.net:4.0.6:*:*:*:*:*:*:*,IBM Access Manager For Microsoft .net 4.0.6,[''],2022-03-21T19:48Z
+1,cpe:2.3:a:ibm:access_support_activex_control:3.20.284.0:*:*:*:*:*:*:*,IBM Access Support ActiveX Control 3.20.284.0,['CVE-2009-0215'],2022-03-21T19:48Z
+2,cpe:2.3:a:ibm:acprunner:-:*:*:*:*:*:*:*,IBM acpRunner,[''],2022-03-21T19:48Z
+3,cpe:2.3:a:ibm:actuate_encyclopedia_for_ibm_maximo:6.2.0.0:*:*:*:*:*:*:*,IBM Actuate Encyclopedia For Ibm Maximo 6.2.0.0,[''],2022-03-21T19:48Z
+4,cpe:2.3:h:ibm:advanced_management_module:-:*:*:*:*:*:*:*,IBM Advanced Management Module (AMM),"['CVE-2014-0860', 'CVE-2016-8232']",2022-03-21T19:48Z
+5,cpe:2.3:o:ibm:advanced_management_module_firmware:-:*:*:*:*:*:*:*,IBM Advanced Management Module Firmware,"['CVE-2014-0860', 'CVE-2016-8232']",2022-03-21T19:48Z
+6,cpe:2.3:o:ibm:advanced_management_module_firmware:2.00:*:*:*:*:*:*:*,IBM Advanced Management Module (AMM) firmware 2.00,['CVE-2014-0860'],2022-03-21T19:48Z
+7,cpe:2.3:o:ibm:advanced_management_module_firmware:2.50:*:*:*:*:*:*:*,IBM Advanced Management Module (AMM) firmware 2.50,['CVE-2014-0860'],2022-03-21T19:48Z
+8,cpe:2.3:o:ibm:advanced_management_module_firmware:3.54:bbet54l:*:*:*:*:*:*,IBM Advanced Management  Module 3.54 bbet54l,['CVE-2014-0860'],2022-03-21T19:48Z
+9,cpe:2.3:o:ibm:advanced_management_module_firmware:3.54:bbet54p:*:*:*:*:*:*,IBM Advanced Management  Module 3.54 bbet54p,['CVE-2014-0860'],2022-03-21T19:48Z

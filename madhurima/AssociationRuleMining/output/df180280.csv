@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:latitude_3460_mobile_thin_client:-:*:*:*:*:*:*:*,Dell Latitude 3460 Mobile Thin Client,['CVE-2020-5362'],2022-03-20T12:47Z
+1,cpe:2.3:h:dell:latitude_3470:-:*:*:*:*:*:*:*,Dell Latitude 3470,"['CVE-2019-3717', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:47Z
+2,cpe:2.3:o:dell:latitude_3470_firmware:-:*:*:*:*:*:*:*,Dell Latitude 3470 Firmware,"['CVE-2019-3717', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:47Z
+3,cpe:2.3:o:dell:latitude_3470_firmware:1.14.1:*:*:*:*:*:*:*,Dell Latitude 3470 Firmware 1.14.1,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:47Z
+4,cpe:2.3:h:dell:latitude_3480:-:*:*:*:*:*:*:*,Dell Latitude 3480,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:47Z
+5,cpe:2.3:o:dell:latitude_3480_firmware:-:*:*:*:*:*:*:*,Dell Latitude 3480 Firmware,"['CVE-2019-3717', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:47Z
+6,cpe:2.3:o:dell:latitude_3480_firmware:1.11.0:*:*:*:*:*:*:*,Dell Latitude 3480 Firmware 1.11.0,"['CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:47Z
+7,cpe:2.3:o:dell:latitude_3480_firmware:1.12.0:*:*:*:*:*:*:*,Dell Latitude 3480 Firmware 1.12.0,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:47Z
+8,cpe:2.3:h:dell:latitude_3480_mobile_thin_client:-:*:*:*:*:*:*:*,Dell Latitude 3480 Mobile Thin Client,['CVE-2020-5362'],2022-03-20T12:47Z
+9,cpe:2.3:h:dell:latitude_3490:-:*:*:*:*:*:*:*,Dell Latitude 3490,"['CVE-2019-3717', 'CVE-2020-5324', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:47Z

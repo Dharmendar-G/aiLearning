@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hgiga:ssr45_isherlock-user:4.5-115:*:*:*:*:*:*:*,HGiga SSR45 iSherlock-user 4.5-115,"['CVE-2020-25850', 'CVE-2020-35740', 'CVE-2020-35741', 'CVE-2020-35742', 'CVE-2020-35743', 'CVE-2021-22848']",2022-03-21T10:53Z
+1,cpe:2.3:a:hgiga:ssr45_isherlock-user:4.5-117:*:*:*:*:*:*:*,HGiga SSR45 iSherlock-user 4.5-117,"['CVE-2020-35740', 'CVE-2020-35741', 'CVE-2020-35742', 'CVE-2020-35743', 'CVE-2021-22848']",2022-03-21T10:53Z
+2,cpe:2.3:a:hgiga:ssr45_isherlock-user:4.5-120:*:*:*:*:*:*:*,HGiga SSR45 iSherlock-user 4.5-120,[''],2022-03-21T10:53Z
+3,cpe:2.3:a:hgiga:ssr45_isherlock-useradmin:4.5-112:*:*:*:*:*:*:*,HGiga SSR45 iSherlock-useradmin 4.5-112,[''],2022-03-21T10:53Z
+4,cpe:2.3:a:hhg-multistore:multistore:-:*:*:*:enterprise:*:*:*,H.H.G Multistore Enterprise Edition,"['CVE-2021-46444', 'CVE-2021-46445', 'CVE-2021-46446', 'CVE-2021-46447', 'CVE-2021-46448']",2022-03-21T10:53Z
+5,cpe:2.3:a:hhg-multistore:multistore:4.10.3:*:*:*:community:*:*:*,H.H.G Multistore 4.10.3 Community Edition,"['CVE-2021-46444', 'CVE-2021-46445', 'CVE-2021-46446', 'CVE-2021-46447', 'CVE-2021-46448']",2022-03-21T10:53Z
+6,cpe:2.3:a:hhg-multistore:multistore:5.1.0:*:*:*:enterprise:*:*:*,H.H.G Multistore 5.1.0 Enterprise Edition,"['CVE-2021-46444', 'CVE-2021-46445', 'CVE-2021-46446', 'CVE-2021-46447', 'CVE-2021-46448']",2022-03-21T10:53Z
+7,cpe:2.3:a:hiawatha-webserver:hiawatha:0.1.0:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 0.1.0,['CVE-2019-8358'],2022-03-21T10:53Z
+8,cpe:2.3:a:hiawatha-webserver:hiawatha:0.2.0:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 0.2.0,['CVE-2019-8358'],2022-03-21T10:53Z
+9,cpe:2.3:a:hiawatha-webserver:hiawatha:0.3.0:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 0.3.0,['CVE-2019-8358'],2022-03-21T10:53Z

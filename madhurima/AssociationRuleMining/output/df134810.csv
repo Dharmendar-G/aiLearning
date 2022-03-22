@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:spa2102_phone_adapter_with_router_firmware:5.2.3:*:*:*:*:*:*:*,Cisco SPA2102 Phone Adapter with Router Firmware 5.2.3,['CVE-2011-2545'],2022-03-20T00:22Z
+1,cpe:2.3:o:cisco:spa2102_phone_adapter_with_router_firmware:5.2.5:*:*:*:*:*:*:*,Cisco SPA2102 Phone Adapter with Router Firmware 5.2.5,['CVE-2011-2545'],2022-03-20T00:22Z
+2,cpe:2.3:o:cisco:spa2102_phone_adapter_with_router_firmware:5.2.10:*:*:*:*:*:*:*,Cisco SPA2102 Phone Adapter with Router Firmware 5.2.10,['CVE-2011-2545'],2022-03-20T00:22Z
+3,cpe:2.3:o:cisco:spa2102_phone_adapter_with_router_firmware:5.2.12:*:*:*:*:*:*:*,Cisco SPA2102 Phone Adapter with Router Firmware 5.2.12,['CVE-2011-2545'],2022-03-20T00:22Z
+4,cpe:2.3:o:cisco:spa2102_phone_adapter_with_router_firmware:5.2.13:*:*:*:*:*:*:*,Cisco SPA2102 Phone Adapter with Router Firmware 5.2.13,[''],2022-03-20T00:22Z
+5,cpe:2.3:o:cisco:spa300_firmware:7.5.5:*:*:*:*:*:*:*,Cisco SPA300 Firmware 7.5.5,['CVE-2015-0670'],2022-03-20T00:22Z
+6,cpe:2.3:o:cisco:spa300_firmware:7.5.7:*:*:*:*:*:*:*,Cisco SPA300 Firmware 7.5.7,['CVE-2015-6403'],2022-03-20T00:22Z
+7,cpe:2.3:h:cisco:spa300_series_ip_phone:-:*:*:*:*:*:*:*,Cisco SPA300 Series IP Phone,"['CVE-2016-1469', 'CVE-2017-12271']",2022-03-20T00:22Z
+8,cpe:2.3:o:cisco:spa300_series_ip_phone_firmware:7.5.7\(6\):*:*:*:*:*:*:*,Cisco SPA300 Series IP Phone Firmware 7.5.7(6),['CVE-2016-1469'],2022-03-20T00:22Z
+9,cpe:2.3:h:cisco:spa3102_voice_gateway_with_router:-:*:*:*:*:*:*:*,Cisco SPA3102 Voice Gateway with Router,['CVE-2011-2545'],2022-03-20T00:22Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:autonomy_ultraseek:6.0:*:*:*:*:*:*:*,HP Autonomy Ultraseek 6.0,[''],2022-03-21T12:56Z
+1,cpe:2.3:h:hp:b320-14ikb:-:*:*:*:*:*:*:*,HP B320-14IKB,['CVE-2018-9069'],2022-03-21T12:56Z
+2,cpe:2.3:o:hp:b320-14ikb_firmware:-:*:*:*:*:*:*:*,HP B320-14IKB Firmware,['CVE-2018-9069'],2022-03-21T12:56Z
+3,cpe:2.3:h:hp:b3g84a:-:*:*:*:*:*:*:*,HP B3G84A,"['CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:56Z
+4,cpe:2.3:h:hp:b3g85a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise B3G85A,"['CVE-2016-2244', 'CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:56Z
+5,cpe:2.3:o:hp:b3g85a_firmware:-:*:*:*:*:*:*:*,HP B3G85A Firmware,"['CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:56Z
+6,cpe:2.3:o:hp:b3g85a_firmware:2308214_000912:*:*:*:*:*:*:*,HP B3G85A Firmware 2308214 000912,"['CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:56Z
+7,cpe:2.3:h:hp:b3g86a:-:*:*:*:*:*:*:*,HP B3G86A,"['CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:56Z
+8,cpe:2.3:h:hp:b4l03:-:*:*:*:*:*:*:*,HP B4L03,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T12:56Z
+9,cpe:2.3:o:hp:b4l03_firmware:1830a:*:*:*:*:*:*:*,HP B4L03 Firmware 1830A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T12:56Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:tomee:7.0.1:*:*:*:*:*:*:*,Apache Software Foundation TomEE 7.0.1,"['CVE-2018-8031', 'CVE-2020-11969', 'CVE-2020-13931', 'CVE-2021-40690']",2022-03-18T20:41Z
+1,cpe:2.3:a:apache:tomee:7.0.2:*:*:*:*:*:*:*,Apache Software Foundation TomEE 7.0.2,"['CVE-2018-8031', 'CVE-2020-11969', 'CVE-2020-13931', 'CVE-2021-40690']",2022-03-18T20:41Z
+2,cpe:2.3:a:apache:tomee:7.0.3:*:*:*:*:*:*:*,Apache Software Foundation TomEE 7.0.3,"['CVE-2018-8031', 'CVE-2020-11969', 'CVE-2020-13931', 'CVE-2021-40690']",2022-03-18T20:41Z
+3,cpe:2.3:a:apache:tomee:7.0.4:*:*:*:*:*:*:*,Apache Software Foundation TomEE 7.0.4,"['CVE-2018-8031', 'CVE-2020-11969', 'CVE-2020-13931', 'CVE-2021-40690']",2022-03-18T20:41Z
+4,cpe:2.3:a:apache:tomee:7.0.5:*:*:*:*:*:*:*,Apache Software Foundation TomEE 7.0.5,"['CVE-2020-11969', 'CVE-2020-13931', 'CVE-2021-40690']",2022-03-18T20:41Z
+5,cpe:2.3:a:apache:tomee:7.0.6:*:*:*:*:*:*:*,Apache TomEE 7.0.6,"['CVE-2020-11969', 'CVE-2020-13931', 'CVE-2021-40690']",2022-03-18T20:41Z
+6,cpe:2.3:a:apache:tomee:7.0.7:*:*:*:*:*:*:*,Apache TomEE 7.0.7,"['CVE-2020-11969', 'CVE-2020-13931', 'CVE-2021-40690']",2022-03-18T20:41Z
+7,cpe:2.3:a:apache:tomee:7.0.8:*:*:*:*:*:*:*,Apache TomEE 7.0.8,"['CVE-2020-13931', 'CVE-2021-40690']",2022-03-18T20:41Z
+8,cpe:2.3:a:apache:tomee:7.1.0:*:*:*:*:*:*:*,Apache Software Foundation TomEE 7.1.0,"['CVE-2020-11969', 'CVE-2020-13931', 'CVE-2021-40690']",2022-03-18T20:41Z
+9,cpe:2.3:a:apache:tomee:7.1.1:*:*:*:*:*:*:*,Apache Software Foundation TomEE 7.1.1,"['CVE-2020-11969', 'CVE-2020-13931', 'CVE-2021-40690']",2022-03-18T20:41Z

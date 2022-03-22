@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adaltas:mixme:0.0.1:*:*:*:*:node.js:*:*,Adaltas Mixme 0.0.1 for Node.js,['CVE-2021-28860'],2022-03-18T11:41Z
+1,cpe:2.3:a:adaltas:mixme:0.1.0:*:*:*:*:node.js:*:*,Adaltas Mixme 0.1.0 for Node.js,['CVE-2021-28860'],2022-03-18T11:41Z
+2,cpe:2.3:a:adaltas:mixme:0.2.0:*:*:*:*:node.js:*:*,Adaltas Mixme 0.2.0 for Node.js,['CVE-2021-28860'],2022-03-18T11:41Z
+3,cpe:2.3:a:adaltas:mixme:0.3.0:*:*:*:*:node.js:*:*,Adaltas Mixme 0.3.0 for Node.js,['CVE-2021-28860'],2022-03-18T11:41Z
+4,cpe:2.3:a:adaltas:mixme:0.3.1:*:*:*:*:node.js:*:*,Adaltas Mixme 0.3.1 for Node.js,['CVE-2021-28860'],2022-03-18T11:41Z
+5,cpe:2.3:a:adaltas:mixme:0.3.2:*:*:*:*:node.js:*:*,Adaltas Mixme 0.3.2 for Node.js,['CVE-2021-28860'],2022-03-18T11:42Z
+6,cpe:2.3:a:adaltas:mixme:0.3.3:*:*:*:*:node.js:*:*,Adaltas Mixme 0.3.3 for Node.js,['CVE-2021-28860'],2022-03-18T11:42Z
+7,cpe:2.3:a:adaltas:mixme:0.3.5:*:*:*:*:node.js:*:*,Adaltas Mixme 0.3.5 for Node.js,['CVE-2021-28860'],2022-03-18T11:42Z
+8,cpe:2.3:a:adaltas:mixme:0.4.0:*:*:*:*:node.js:*:*,Adaltas Mixme 0.4.0 for Node.js,['CVE-2021-28860'],2022-03-18T11:42Z
+9,cpe:2.3:a:adaltas:mixme:0.5.0:*:*:*:*:node.js:*:*,Adaltas Mixme 0.5.0 for Node.js,['CVE-2021-28860'],2022-03-18T11:42Z

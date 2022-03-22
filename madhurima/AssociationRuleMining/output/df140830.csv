@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:citrix:storefront_server:2006:*:*:*:*:*:*:*,Citrix StoreFront Server 2006,[''],2022-03-20T01:38Z
+1,cpe:2.3:a:citrix:vdi-in-a-box:5.3.0:*:*:*:*:*:*:*,Citrix VDI-in-a-Box 5.3.0,"['CVE-2014-2690', 'CVE-2014-3780']",2022-03-20T01:38Z
+2,cpe:2.3:a:citrix:vdi-in-a-box:5.3.1:*:*:*:*:*:*:*,Citrix VDI-in-a-Box 5.3.1,"['CVE-2014-2690', 'CVE-2014-3780']",2022-03-20T01:38Z
+3,cpe:2.3:a:citrix:vdi-in-a-box:5.3.2:*:*:*:*:*:*:*,Citrix VDI-in-a-Box 5.3.2,"['CVE-2014-2690', 'CVE-2014-3780']",2022-03-20T01:38Z
+4,cpe:2.3:a:citrix:vdi-in-a-box:5.3.3:*:*:*:*:*:*:*,Citrix VDI-in-a-Box 5.3.3,"['CVE-2014-2690', 'CVE-2014-3780']",2022-03-20T01:38Z
+5,cpe:2.3:a:citrix:vdi-in-a-box:5.3.4:*:*:*:*:*:*:*,Citrix VDI-in-a-Box 5.3.4,"['CVE-2014-2690', 'CVE-2014-3780']",2022-03-20T01:38Z
+6,cpe:2.3:a:citrix:vdi-in-a-box:5.3.5:*:*:*:*:*:*:*,Citrix VDI-in-a-Box 5.3.5,"['CVE-2014-2690', 'CVE-2014-3780']",2022-03-20T01:38Z
+7,cpe:2.3:a:citrix:vdi-in-a-box:5.3.6:*:*:*:*:*:*:*,Citrix VDI-in-a-Box 5.3.6,['CVE-2014-3780'],2022-03-20T01:38Z
+8,cpe:2.3:a:citrix:vdi-in-a-box:5.4.0:*:*:*:*:*:*:*,Citrix VDI-in-a-Box 5.4.0,"['CVE-2014-2690', 'CVE-2014-3780']",2022-03-20T01:38Z
+9,cpe:2.3:a:citrix:vdi-in-a-box:5.4.1:*:*:*:*:*:*:*,Citrix VDI-in-a-Box 5.4.1,"['CVE-2014-2690', 'CVE-2014-3780']",2022-03-20T01:38Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:bosch:recording_station_firmware:-:*:*:*:*:*:*:*,Bosch Recording Station Firmware,['CVE-2020-6774'],2022-03-19T10:04Z
+1,cpe:2.3:h:bosch:rexroth_indramotion_mlc:-:*:*:*:*:*:*:*,Bosch Rexroth IndraMotion MLC,['CVE-2021-23855'],2022-03-19T10:04Z
+2,cpe:2.3:o:bosch:rexroth_indramotion_mlc_firmware:-:*:*:*:*:*:*:*,Bosch Rexroth IndraMotion MLC Firmware,['CVE-2021-23855'],2022-03-19T10:04Z
+3,cpe:2.3:h:bosch:rexroth_indramotion_mlc_l20:-:*:*:*:*:*:*:*,Bosch Rexroth IndraMotion MLC L20,"['CVE-2021-23856', 'CVE-2021-23857', 'CVE-2021-23858']",2022-03-19T10:04Z
+4,cpe:2.3:o:bosch:rexroth_indramotion_mlc_l20_firmware:-:*:*:*:*:*:*:*,Bosch Rexroth IndraMotion MLC L20 Firmware,"['CVE-2021-23856', 'CVE-2021-23857', 'CVE-2021-23858']",2022-03-19T10:04Z
+5,cpe:2.3:h:bosch:rexroth_indramotion_mlc_l25:-:*:*:*:*:*:*:*,Bosch Rexroth IndraMotion MLC L25,"['CVE-2021-23857', 'CVE-2021-23858']",2022-03-19T10:04Z
+6,cpe:2.3:h:bosch:rexroth_indramotion_mlc_l40:-:*:*:*:*:*:*:*,Bosch Rexroth IndraMotion MLC L40,"['CVE-2021-23856', 'CVE-2021-23857', 'CVE-2021-23858']",2022-03-19T10:04Z
+7,cpe:2.3:o:bosch:rexroth_indramotion_mlc_l40_firmware:-:*:*:*:*:*:*:*,Bosch Rexroth IndraMotion MLC L40 Firmware,"['CVE-2021-23856', 'CVE-2021-23857', 'CVE-2021-23858']",2022-03-19T10:04Z
+8,cpe:2.3:h:bosch:rexroth_indramotion_mlc_l45:-:*:*:*:*:*:*:*,Bosch Rexroth IndraMotion MLC L45,"['CVE-2021-23857', 'CVE-2021-23858']",2022-03-19T10:04Z
+9,cpe:2.3:h:bosch:rexroth_indramotion_mlc_l65:-:*:*:*:*:*:*:*,Bosch Rexroth IndraMotion MLC L65,"['CVE-2021-23857', 'CVE-2021-23858']",2022-03-19T10:04Z

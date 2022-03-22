@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitachiabb-powergrids:counterparty_settlement_and_billing:-:*:*:*:*:*:*:*,Hitachi ABB Power Grids Counterparty Settlement and Billing,['CVE-2021-35529'],2022-03-21T11:25Z
+1,cpe:2.3:a:hitachiabb-powergrids:counterparty_settlement_and_billing:5.7.2:*:*:*:*:*:*:*,Hitachi ABB Power Grids Counterparty Settlement and Billing 5.7.2,['CVE-2021-35529'],2022-03-21T11:25Z
+2,cpe:2.3:a:hitachiabb-powergrids:counterparty_settlement_and_billing:5.7.3:*:*:*:*:*:*:*,Hitachi ABB Power Grids Counterparty Settlement and Billing 5.7.3,[''],2022-03-21T11:25Z
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,cpe:2.3:h:hitachiabb-powergrids:sdm600:-:*:*:*:*:*:*:*,Hitachi ABB Power Grids SDM600,['CVE-2021-35526'],2022-03-21T11:25Z
+7,cpe:2.3:a:hitachienergy:retail_operations:-:*:*:*:*:*:*:*,Hitachi Energy Retail Operations,"['CVE-2021-35528', 'CVE-2021-35529']",2022-03-21T11:25Z
+8,cpe:2.3:a:hitachienergy:retail_operations:5.7.2:*:*:*:*:*:*:*,Hitachi Energy Retail Operations 5.7.2,"['CVE-2021-35528', 'CVE-2021-35529']",2022-03-21T11:25Z
+9,cpe:2.3:a:hitachienergy:retail_operations:5.7.3:*:*:*:*:*:*:*,Hitachi Energy Retail Operations 5.7.3,['CVE-2021-35528'],2022-03-21T11:25Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cryptopro:csp:-:*:*:*:*:*:x86:*,Cryptopro CSP on x86,['CVE-2020-9331'],2022-03-20T09:10Z
+1,cpe:2.3:a:cryptopro:csp:5.0.0.10004:*:*:*:*:*:x64:*,Cryptopro CSP 5.0.0.10004 on x64,['CVE-2020-9361'],2022-03-20T09:10Z
+2,cpe:2.3:a:cryptopro:csp:5.0.0.10004:*:*:*:*:*:x86:*,Cryptopro CSP 5.0.0.10004 on x86,[''],2022-03-20T09:10Z
+3,cpe:2.3:a:cryptosaga:cryptosaga:-:*:*:*:*:*:*:*,CryptoSaga,['CVE-2018-12975'],2022-03-20T09:10Z
+4,cpe:2.3:a:cryptosistoken_project:cryptosistoken:-:*:*:*:*:*:*:*,CryptosisToken Project CryptosisToken,['CVE-2018-13754'],2022-03-20T09:10Z
+5,cpe:2.3:a:cryptsetup_project:cryptsetup:1.0.7:*:*:*:*:*:*:*,cryptsetup Project cryptsetup 1.0.7,['CVE-2016-4484'],2022-03-20T09:10Z
+6,cpe:2.3:a:cryptsetup_project:cryptsetup:1.1.0:*:*:*:*:*:*:*,cryptsetup Project cryptsetup 1.1.0,['CVE-2016-4484'],2022-03-20T09:10Z
+7,cpe:2.3:a:cryptsetup_project:cryptsetup:1.1.1:*:*:*:*:*:*:*,cryptsetup Project cryptsetup 1.1.1,['CVE-2016-4484'],2022-03-20T09:10Z
+8,cpe:2.3:a:cryptsetup_project:cryptsetup:1.1.2:*:*:*:*:*:*:*,cryptsetup Project cryptsetup 1.1.2,['CVE-2016-4484'],2022-03-20T09:10Z
+9,cpe:2.3:a:cryptsetup_project:cryptsetup:1.1.3:*:*:*:*:*:*:*,cryptsetup Project cryptsetup 1.1.3,['CVE-2016-4484'],2022-03-20T09:11Z

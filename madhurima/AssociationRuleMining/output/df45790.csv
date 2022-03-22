@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arc-swap_project:arc-swap:0.3.11:*:*:*:*:*:*:*,arc-swap Project arc-swap 0.3.11,['CVE-2020-35711'],2022-03-18T22:53Z
+1,cpe:2.3:a:arc-swap_project:arc-swap:0.4.0:*:*:*:*:*:*:*,arc-swap Project arc-swap 0.4.0,['CVE-2020-35711'],2022-03-18T22:53Z
+2,cpe:2.3:a:arc-swap_project:arc-swap:0.4.1:*:*:*:*:*:*:*,arc-swap Project arc-swap 0.4.1,['CVE-2020-35711'],2022-03-18T22:53Z
+3,cpe:2.3:a:arc-swap_project:arc-swap:0.4.2:*:*:*:*:*:*:*,arc-swap Project arc-swap 0.4.2,['CVE-2020-35711'],2022-03-18T22:53Z
+4,cpe:2.3:a:arc-swap_project:arc-swap:0.4.3:*:*:*:*:*:*:*,arc-swap Project arc-swap 0.4.3,['CVE-2020-35711'],2022-03-18T22:53Z
+5,cpe:2.3:a:arc-swap_project:arc-swap:0.4.4:*:*:*:*:*:*:*,arc-swap Project arc-swap 0.4.4,['CVE-2020-35711'],2022-03-18T22:53Z
+6,cpe:2.3:a:arc-swap_project:arc-swap:0.4.5:*:*:*:*:*:*:*,arc-swap Project arc-swap 0.4.5,['CVE-2020-35711'],2022-03-18T22:53Z
+7,cpe:2.3:a:arc-swap_project:arc-swap:0.4.6:*:*:*:*:*:*:*,arc-swap Project arc-swap 0.4.6,['CVE-2020-35711'],2022-03-18T22:53Z
+8,cpe:2.3:a:arc-swap_project:arc-swap:0.4.7:*:*:*:*:*:*:*,arc-swap Project arc-swap 0.4.7,['CVE-2020-35711'],2022-03-18T22:53Z
+9,cpe:2.3:a:arc-swap_project:arc-swap:0.4.8:*:*:*:*:*:*:*,arc-swap Project arc-swap 0.4.8,[''],2022-03-18T22:53Z

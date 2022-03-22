@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:enhanced_layer_2\/3_etherswitch_service_module:-:*:*:*:*:*:*:*,Cisco Enhanced Layer 2/3 Etherswitch Service Module,['CVE-2017-3881'],2022-03-19T19:28Z
+1,cpe:2.3:h:cisco:enhanced_layer_2_etherswitch_service_module:-:*:*:*:*:*:*:*,Cisco Enhanced Layer 2 Etherswitch Service Module,['CVE-2017-3881'],2022-03-19T19:28Z
+2,cpe:2.3:a:cisco:enterprise_chat_and_email:11.6\(1\):*:*:*:*:*:*:*,Cisco Enterprise Chat And Email 11.6(1),"['CVE-2019-1702', 'CVE-2019-1870', 'CVE-2021-44228']",2022-03-19T19:28Z
+3,cpe:2.3:a:cisco:enterprise_chat_and_email:11.6\(1\)es6:*:*:*:*:*:*:*,Cisco Enterprise Chat And Email 11.6(1)ES6,"['CVE-2019-1870', 'CVE-2021-44228']",2022-03-19T19:28Z
+4,cpe:2.3:a:cisco:enterprise_chat_and_email:11.6\(1\)es9:*:*:*:*:*:*:*,Cisco Enterprise Chat and Email 11.6(1)ES9,"['CVE-2019-1877', 'CVE-2021-44228']",2022-03-19T19:28Z
+5,cpe:2.3:a:cisco:enterprise_content_delivery_network_software:1.1:*:*:*:*:*:*:*,Cisco Enterprise Content Delivery Network (ECDN) Software 1.1,[''],2022-03-19T19:28Z
+6,cpe:2.3:a:cisco:enterprise_content_delivery_network_software:2.0:*:*:*:*:*:*:*,Cisco Enterprise Content Delivery Network (ECDN) Software 2.0,['CVE-2013-3444'],2022-03-19T19:28Z
+7,cpe:2.3:a:cisco:enterprise_content_delivery_network_software:2.5.3:*:*:*:*:*:*:*,Cisco Enterprise Content Delivery Network (ECDN) Software 2.5.3,['CVE-2013-3444'],2022-03-19T19:28Z
+8,cpe:2.3:a:cisco:enterprise_content_delivery_network_software:2.5.5:*:*:*:*:*:*:*,Cisco Enterprise Content Delivery Network (ECDN) Software 2.5.5,['CVE-2013-3444'],2022-03-19T19:28Z
+9,cpe:2.3:a:cisco:enterprise_content_delivery_network_software:2.5.6:*:*:*:*:*:*:*,Cisco Enterprise Content Delivery Network (ECDN) Software 2.5.6,[''],2022-03-19T19:28Z

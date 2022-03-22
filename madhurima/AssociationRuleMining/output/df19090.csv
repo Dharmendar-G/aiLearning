@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alfresco:share:5.1.0.15:*:*:*:*:*:*:*,Alfresco Share 5.1.0.15,['CVE-2021-41791'],2022-03-18T14:44Z
+1,cpe:2.3:a:alfresco:share:5.1.0.16:*:*:*:*:*:*:*,Alfresco Share 5.1.0.16,['CVE-2021-41791'],2022-03-18T14:44Z
+2,cpe:2.3:a:alfresco:share:5.1.0.17:*:*:*:*:*:*:*,Alfresco Share 5.1.0.17,['CVE-2021-41791'],2022-03-18T14:44Z
+3,cpe:2.3:a:alfresco:share:5.1.0.18:*:*:*:*:*:*:*,Alfresco Share 5.1.0.18,['CVE-2021-41791'],2022-03-18T14:44Z
+4,cpe:2.3:a:alfresco:share:5.1.1:*:*:*:*:*:*:*,Alfresco Share 5.1.1,['CVE-2021-41791'],2022-03-18T14:44Z
+5,cpe:2.3:a:alfresco:share:5.1.1.1:*:*:*:*:*:*:*,Alfresco Share 5.1.1.1,['CVE-2021-41791'],2022-03-18T14:44Z
+6,cpe:2.3:a:alfresco:share:5.1.1.4:*:*:*:*:*:*:*,Alfresco Share 5.1.1.4,['CVE-2021-41791'],2022-03-18T14:44Z
+7,cpe:2.3:a:alfresco:share:5.1.1.5:*:*:*:*:*:*:*,Alfresco Share 5.1.1.5,['CVE-2021-41791'],2022-03-18T14:44Z
+8,cpe:2.3:a:alfresco:share:5.1.1.6:*:*:*:*:*:*:*,Alfresco Share 5.1.1.6,['CVE-2021-41791'],2022-03-18T14:44Z
+9,cpe:2.3:a:alfresco:share:5.1.1.7:*:*:*:*:*:*:*,Alfresco Share 5.1.1.7,['CVE-2021-41791'],2022-03-18T14:44Z

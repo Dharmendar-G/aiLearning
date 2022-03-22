@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:brightstor_mobile_backup:r4.0:*:*:*:*:*:*:*,Broadcom Brightstor Mobile Backup R4.0,"['CVE-2006-0306', 'CVE-2006-0307', 'CVE-2007-0449']",2022-03-19T12:15Z
+1,cpe:2.3:a:broadcom:brightstor_portal:-:*:*:*:*:*:*:*,Broadcom Brightstor Portal,[''],2022-03-19T12:15Z
+2,cpe:2.3:a:broadcom:brightstor_portal:11.1:*:*:*:*:*:*:*,Broadcom Brightstor Portal 11.1,"['CVE-2005-2667', 'CVE-2005-2668', 'CVE-2005-2669', 'CVE-2005-3653', 'CVE-2007-0060']",2022-03-19T12:15Z
+3,cpe:2.3:a:broadcom:brightstor_process_automation_manager:-:*:*:*:*:*:*:*,Broadcom Brightstor Process Automation Manager,[''],2022-03-19T12:15Z
+4,cpe:2.3:a:broadcom:brightstor_process_automation_manager:11.1:*:*:*:*:*:*:*,Broadcom Brightstor Process Automation Manager 11.1,['CVE-2005-3653'],2022-03-19T12:15Z
+5,cpe:2.3:a:broadcom:brightstor_san_manager:-:*:*:*:*:*:*:*,Broadcom Brightstor SAN Manager,[''],2022-03-19T12:15Z
+6,cpe:2.3:a:broadcom:brightstor_san_manager:1.1:*:*:*:*:*:*:*,Broadcom Brightstor SAN Manager 1.1,"['CVE-2005-2667', 'CVE-2005-2668', 'CVE-2005-2669']",2022-03-19T12:15Z
+7,cpe:2.3:a:broadcom:brightstor_san_manager:1.1:sp1:*:*:*:*:*:*,Broadcom Brightstor SAN Manager 1.1 Service Pack 1,"['CVE-2005-2667', 'CVE-2005-2668', 'CVE-2005-2669']",2022-03-19T12:15Z
+8,cpe:2.3:a:broadcom:brightstor_san_manager:1.1:sp2:*:*:*:*:*:*,Broadcom Brightstor SAN Manager 1.1 Service Pack 2,"['CVE-2005-2667', 'CVE-2005-2668', 'CVE-2005-2669']",2022-03-19T12:15Z
+9,cpe:2.3:a:broadcom:brightstor_san_manager:11.1:*:*:*:*:*:*:*,Broadcom Brightstor SAN Manager 11.1,"['CVE-2005-2667', 'CVE-2005-2668', 'CVE-2005-2669', 'CVE-2005-3653', 'CVE-2007-0060']",2022-03-19T12:15Z

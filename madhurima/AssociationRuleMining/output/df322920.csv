@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:instant_share_devices:53.0.13.0:*:*:*:*:*:*:*,HP Instant Share Devices 53.0.13.0,[''],2022-03-21T13:41Z
+1,cpe:2.3:a:hp:instant_share_devices:70.0.170.0:*:*:*:*:*:*:*,HP Instant Share Devices 70.0.170.0,[''],2022-03-21T13:41Z
+2,cpe:2.3:a:hp:instant_share_devices_mfc:70.0.170.0:*:*:*:*:*:*:*,HP Instant Share Devices Mfc 70.0.170.0,[''],2022-03-21T13:41Z
+3,cpe:2.3:a:hp:instant_support:-:*:*:*:*:*:*:*,HP Instant Support,"['CVE-2007-3554', 'CVE-2007-5604', 'CVE-2007-5605', 'CVE-2007-5606', 'CVE-2007-5607', 'CVE-2007-5608', 'CVE-2007-5610', 'CVE-2008-0952', 'CVE-2008-0953']",2022-03-21T13:41Z
+4,cpe:2.3:a:hp:instant_toptools:-:*:*:*:*:*:*:*,HP Instant TopTools,[''],2022-03-21T13:41Z
+5,cpe:2.3:a:hp:instant_toptools:5.04:*:*:*:*:*:*:*,HP Instant TopTools 5.04,['CVE-2003-0169'],2022-03-21T13:41Z
+6,[0],[0],[0],[0]
+7,[0],[0],[0],[0]
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

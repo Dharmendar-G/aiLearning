@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arubanetworks:clearpass:6.6.3:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.6.3,"['CVE-2018-0489', 'CVE-2018-7060']",2022-03-18T23:39Z
+1,cpe:2.3:a:arubanetworks:clearpass:6.6.4:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.6.4,"['CVE-2018-0489', 'CVE-2018-7060']",2022-03-18T23:39Z
+2,cpe:2.3:a:arubanetworks:clearpass:6.6.5:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.6.5,"['CVE-2018-0489', 'CVE-2018-7060']",2022-03-18T23:39Z
+3,cpe:2.3:a:arubanetworks:clearpass:6.6.7:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.6.7,"['CVE-2018-0489', 'CVE-2018-7060']",2022-03-18T23:39Z
+4,cpe:2.3:a:arubanetworks:clearpass:6.6.8:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.6.8,"['CVE-2018-0489', 'CVE-2018-7060']",2022-03-18T23:39Z
+5,cpe:2.3:a:arubanetworks:clearpass:6.6.9:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.6.9,['CVE-2018-0489'],2022-03-18T23:39Z
+6,cpe:2.3:a:arubanetworks:clearpass:6.6.10:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.6.10,[''],2022-03-18T23:39Z
+7,cpe:2.3:a:arubanetworks:clearpass:6.7.0:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.7.0,"['CVE-2018-0489', 'CVE-2018-7060', 'CVE-2020-7110', 'CVE-2020-7111', 'CVE-2020-7113', 'CVE-2020-7114', 'CVE-2021-29138', 'CVE-2021-29139', 'CVE-2021-29140', 'CVE-2021-29141', 'CVE-2021-29142', 'CVE-2021-29144', 'CVE-2021-29145', 'CVE-2021-29146', 'CVE-2021-29147']",2022-03-18T23:39Z
+8,cpe:2.3:a:arubanetworks:clearpass:6.7.1:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.7.1,"['CVE-2018-0489', 'CVE-2020-7110', 'CVE-2020-7111', 'CVE-2020-7113', 'CVE-2020-7114', 'CVE-2021-29138', 'CVE-2021-29139', 'CVE-2021-29140', 'CVE-2021-29141', 'CVE-2021-29142', 'CVE-2021-29144', 'CVE-2021-29145', 'CVE-2021-29146', 'CVE-2021-29147']",2022-03-18T23:39Z
+9,cpe:2.3:a:arubanetworks:clearpass:6.7.2:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.7.2,"['CVE-2020-7110', 'CVE-2020-7111', 'CVE-2020-7113', 'CVE-2020-7114', 'CVE-2021-29138', 'CVE-2021-29139', 'CVE-2021-29140', 'CVE-2021-29141', 'CVE-2021-29142', 'CVE-2021-29144', 'CVE-2021-29145', 'CVE-2021-29146', 'CVE-2021-29147']",2022-03-18T23:39Z

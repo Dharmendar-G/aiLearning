@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:delta_project:delta:0.7.1:*:*:*:*:*:*:*,Delta Project Delta 0.7.1,['CVE-2021-36376'],2022-03-20T13:18Z
+1,cpe:2.3:a:delta_project:delta:0.8.0:*:*:*:*:*:*:*,Delta Project Delta 0.8.0,['CVE-2021-36376'],2022-03-20T13:18Z
+2,cpe:2.3:a:delta_project:delta:0.8.1:*:*:*:*:*:*:*,Delta Project Delta 0.8.1,['CVE-2021-36376'],2022-03-20T13:18Z
+3,cpe:2.3:a:delta_project:delta:0.8.2:*:*:*:*:*:*:*,Delta Project Delta 0.8.2,['CVE-2021-36376'],2022-03-20T13:18Z
+4,cpe:2.3:a:delta_project:delta:0.8.3:*:*:*:*:*:*:*,Delta Project Delta 0.8.3,[''],2022-03-20T13:18Z
+5,cpe:2.3:h:deltacontrols:entelibus:-:*:*:*:*:*:*:*,Delta Controls enteliBUS,['CVE-2019-9569'],2022-03-20T13:18Z
+6,cpe:2.3:o:deltacontrols:entelibus_firmware:3.40_b-571848:*:*:*:*:*:*:*,Delta Controls enteliBUS Firmware 3.40 B-571848,['CVE-2019-9569'],2022-03-20T13:18Z
+7,cpe:2.3:a:deltaww:cncsoft:1.00.83:*:*:*:*:*:*:*,Delta Electronics CNCSoft 1.00.83,"['CVE-2018-10598', 'CVE-2018-10636', 'CVE-2021-43982']",2022-03-20T13:18Z
+8,cpe:2.3:a:deltaww:cncsoft_screeneditor:-:*:*:*:*:*:*:*,Delta Industrial Automation CNCSoft ScreenEditor,"['CVE-2019-10947', 'CVE-2019-10949', 'CVE-2019-10951', 'CVE-2020-16199', 'CVE-2020-16201', 'CVE-2020-16203', 'CVE-2020-27281', 'CVE-2020-6976', 'CVE-2020-7002', 'CVE-2021-22668', 'CVE-2021-22672']",2022-03-20T13:18Z
+9,cpe:2.3:a:deltaww:cncsoft_screeneditor:1.00.88:*:*:*:*:*:*:*,Delta Industrial Automation CNCSoft ScreenEditor 1.00.88,"['CVE-2019-10947', 'CVE-2019-10949', 'CVE-2019-10951', 'CVE-2020-16199', 'CVE-2020-16201', 'CVE-2020-16203', 'CVE-2020-27281', 'CVE-2020-6976', 'CVE-2020-7002', 'CVE-2021-22668', 'CVE-2021-22672']",2022-03-20T13:18Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:brainstormforce:astra:1.5.2:*:*:*:pro:wordpress:*:*,Brainstorm Force Astra 1.5.2 Pro Edition for WordPress,['CVE-2021-24507'],2022-03-19T10:29Z
+1,cpe:2.3:a:brainstormforce:astra:1.5.3:*:*:*:*:wordpress:*:*,Brainstorm Force Astra 1.5.3 for WordPress,[''],2022-03-19T10:29Z
+2,cpe:2.3:a:brainstormforce:astra:1.5.4:*:*:*:*:wordpress:*:*,Brainstorm Force Astra 1.5.4 for WordPress,[''],2022-03-19T10:29Z
+3,cpe:2.3:a:brainstormforce:astra:1.5.5:*:*:*:*:wordpress:*:*,Brainstorm Force Astra 1.5.5 for WordPress,[''],2022-03-19T10:29Z
+4,cpe:2.3:a:brainstormforce:astra:1.6.0:*:*:*:*:wordpress:*:*,Brainstorm Force Astra 1.6.0 for WordPress,[''],2022-03-19T10:29Z
+5,cpe:2.3:a:brainstormforce:astra:1.6.0:-:*:*:pro:wordpress:*:*,Brainstorm Force Astra 1.6.0 Pro Edition for WordPress,['CVE-2021-24507'],2022-03-19T10:29Z
+6,cpe:2.3:a:brainstormforce:astra:1.6.0:beta1:*:*:pro:wordpress:*:*,Brainstorm Force Astra 1.6.0 Beta 1 Pro Edition for WordPress,['CVE-2021-24507'],2022-03-19T10:29Z
+7,cpe:2.3:a:brainstormforce:astra:1.6.0:beta2:*:*:pro:wordpress:*:*,Brainstorm Force Astra 1.6.0 Beta 2 Pro Edition for WordPress,['CVE-2021-24507'],2022-03-19T10:29Z
+8,cpe:2.3:a:brainstormforce:astra:1.6.0:beta3:*:*:pro:wordpress:*:*,Brainstorm Force Astra 1.6.0 Beta 3 Pro Edition for WordPress,['CVE-2021-24507'],2022-03-19T10:29Z
+9,cpe:2.3:a:brainstormforce:astra:1.6.0:beta4:*:*:pro:wordpress:*:*,Brainstorm Force Astra 1.6.0 Beta 4 Pro Edition for WordPress,['CVE-2021-24507'],2022-03-19T10:29Z

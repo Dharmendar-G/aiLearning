@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bmoor_project:bmoor:0.8.5:*:*:*:*:*:*:*,Bmoor Project Bmoor 0.8.5,['CVE-2020-7736'],2022-03-19T09:12Z
+1,cpe:2.3:a:bmoor_project:bmoor:0.8.7:*:*:*:*:*:*:*,Bmoor Project Bmoor 0.8.7,['CVE-2020-7736'],2022-03-19T09:12Z
+2,cpe:2.3:a:bmoor_project:bmoor:0.8.8:*:*:*:*:*:*:*,Bmoor Project Bmoor 0.8.8,['CVE-2020-7736'],2022-03-19T09:12Z
+3,cpe:2.3:a:bmoor_project:bmoor:0.8.9:*:*:*:*:*:*:*,Bmoor Project Bmoor 0.8.9,['CVE-2020-7736'],2022-03-19T09:12Z
+4,cpe:2.3:a:bmoor_project:bmoor:0.8.10:*:*:*:*:*:*:*,Bmoor Project Bmoor 0.8.10,['CVE-2020-7736'],2022-03-19T09:12Z
+5,cpe:2.3:a:bmoor_project:bmoor:0.8.11:*:*:*:*:*:*:*,Bmoor Project Bmoor 0.8.11,['CVE-2020-7736'],2022-03-19T09:12Z
+6,cpe:2.3:a:bmoor_project:bmoor:0.8.12:*:*:*:*:*:*:*,Bmoor Project Bmoor 0.8.12,[''],2022-03-19T09:12Z
+7,cpe:2.3:a:bmvcoin:bmvcoin:-:*:*:*:*:*:*:*,BMVcoin,['CVE-2018-13562'],2022-03-19T09:12Z
+8,cpe:2.3:h:bmw:head_unit_hu_nbt:-:*:*:*:*:*:*:*,BMW Head Unit HU NBT,"['CVE-2018-9312', 'CVE-2018-9313', 'CVE-2018-9314', 'CVE-2018-9320', 'CVE-2018-9322']",2022-03-19T09:12Z
+9,cpe:2.3:o:bmw:head_unit_hu_nbt_firmware:-:*:*:*:*:*:*:*,BMW Head Unit HU NBT Firmware,"['CVE-2018-9312', 'CVE-2018-9313', 'CVE-2018-9314', 'CVE-2018-9320', 'CVE-2018-9322']",2022-03-19T09:12Z

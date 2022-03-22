@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:a:atlassian:sourcetree:1.2.7:*:*:*:*:macos:*:*,Atlassian Sourcetree 1.2.7 for macOS,"['CVE-2017-14592', 'CVE-2017-8768', 'CVE-2018-20234']",2022-03-19T02:07Z
+2,[0],[0],[0],[0]
+3,cpe:2.3:a:atlassian:sourcetree:1.2.7.1:*:*:*:*:macos:*:*,Atlassian Sourcetree 1.2.7.1 for macOS,"['CVE-2017-14592', 'CVE-2017-8768', 'CVE-2018-20234']",2022-03-19T02:07Z
+4,[0],[0],[0],[0]
+5,cpe:2.3:a:atlassian:sourcetree:1.2.8:*:*:*:*:macos:*:*,Atlassian Sourcetree 1.2.8 for macOS,"['CVE-2017-14592', 'CVE-2017-8768', 'CVE-2018-20234']",2022-03-19T02:07Z
+6,[0],[0],[0],[0]
+7,cpe:2.3:a:atlassian:sourcetree:1.2.8.1:*:*:*:*:macos:*:*,Atlassian Sourcetree 1.2.8.1 for macOS,"['CVE-2017-14592', 'CVE-2017-8768', 'CVE-2018-20234']",2022-03-19T02:07Z
+8,[0],[0],[0],[0]
+9,cpe:2.3:a:atlassian:sourcetree:1.2.9:*:*:*:*:macos:*:*,Atlassian Sourcetree 1.2.9 for macOS,"['CVE-2017-14592', 'CVE-2017-8768', 'CVE-2018-20234']",2022-03-19T02:07Z

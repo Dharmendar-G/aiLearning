@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:discount_project:discount:2.1.7:*:*:*:*:*:*:*,Discount Project Discount 2.1.7,[''],2022-03-20T15:02Z
+1,cpe:2.3:a:discount_project:discount:2.1.8:*:*:*:*:*:*:*,Discount Project Discount 2.1.8,[''],2022-03-20T15:02Z
+2,cpe:2.3:a:discount_project:discount:2.1.8:a:*:*:*:*:*:*,Discount Project Discount 2.1.8 A,[''],2022-03-20T15:02Z
+3,cpe:2.3:a:discount_project:discount:2.2.0:*:*:*:*:*:*:*,Discount Project Discount 2.2.0,[''],2022-03-20T15:02Z
+4,cpe:2.3:a:discount_project:discount:2.2.1:*:*:*:*:*:*:*,Discount Project Discount 2.2.1,[''],2022-03-20T15:02Z
+5,cpe:2.3:a:discount_project:discount:2.2.2:*:*:*:*:*:*:*,Discount Project Discount 2.2.2,[''],2022-03-20T15:02Z
+6,cpe:2.3:a:discount_project:discount:2.2.3:*:*:*:*:*:*:*,Discount Project Discount 2.2.3,[''],2022-03-20T15:02Z
+7,cpe:2.3:a:discount_project:discount:2.2.3:a:*:*:*:*:*:*,Discount Project Discount 2.2.3 A,"['CVE-2018-11468', 'CVE-2018-11503', 'CVE-2018-11504', 'CVE-2018-12495']",2022-03-20T15:02Z
+8,cpe:2.3:a:discount_project:discount:2.2.3:b6:*:*:*:*:*:*,Discount Project Discount 2.2.3 B6,[''],2022-03-20T15:02Z
+9,cpe:2.3:a:discount_project:discount:2.2.3:b7:*:*:*:*:*:*,Discount Project Discount 2.2.3 B7,[''],2022-03-20T15:02Z

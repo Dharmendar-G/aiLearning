@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:routing_release:0.186.0:*:*:*:*:*:*:*,Cloudfoundry Routing Release 0.186.0,"['CVE-2019-3789', 'CVE-2020-5401']",2022-03-20T03:37Z
+1,cpe:2.3:a:cloudfoundry:routing_release:0.187.0:*:*:*:*:*:*:*,Cloudfoundry Routing Release 0.187.0,"['CVE-2019-3789', 'CVE-2020-5401']",2022-03-20T03:37Z
+2,cpe:2.3:a:cloudfoundry:routing_release:0.188.0:*:*:*:*:*:*:*,Cloudfoundry Routing Release 0.188.0,['CVE-2020-5401'],2022-03-20T03:37Z
+3,cpe:2.3:a:cloudfoundry:routing_release:0.197.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.197.0,[''],2022-03-20T03:37Z
+4,cpe:2.3:a:cloudfoundry:routing-release:-:*:*:*:*:*:*:*,Cloud Foundry routing-release,"['CVE-2016-8218', 'CVE-2017-8034', 'CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:37Z
+5,cpe:2.3:a:cloudfoundry:routing-release:0.62.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.62.0,"['CVE-2016-8218', 'CVE-2017-8034', 'CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:37Z
+6,cpe:2.3:a:cloudfoundry:routing-release:0.66.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.66.0,"['CVE-2016-8218', 'CVE-2017-8034', 'CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:37Z
+7,cpe:2.3:a:cloudfoundry:routing-release:0.69.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.69.0,"['CVE-2016-8218', 'CVE-2017-8034', 'CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:37Z
+8,cpe:2.3:a:cloudfoundry:routing-release:0.99.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.99.0,"['CVE-2016-8218', 'CVE-2017-8034', 'CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:37Z
+9,cpe:2.3:a:cloudfoundry:routing-release:0.118.0:*:*:*:*:*:*:*,Cloud Foundry routing-release 0.118.0,"['CVE-2016-8218', 'CVE-2017-8034', 'CVE-2018-1193', 'CVE-2018-1221', 'CVE-2019-11289', 'CVE-2020-15586', 'CVE-2020-5416']",2022-03-20T03:37Z

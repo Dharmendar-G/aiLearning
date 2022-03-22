@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hcltech:bigfix_webui:-:*:*:*:*:*:*:*,HCL BigFix WebUI,['CVE-2020-4104'],2022-03-21T10:26Z
+1,cpe:2.3:a:hcltech:connections:5.5:*:*:*:*:*:*:*,HCLTech Connections 5.5,"['CVE-2019-4209', 'CVE-2020-4082', 'CVE-2020-4084', 'CVE-2020-4085']",2022-03-21T10:26Z
+2,cpe:2.3:a:hcltech:connections:6.0:*:*:*:*:*:*:*,HCLTech Connections 6.0,"['CVE-2019-4209', 'CVE-2020-4084', 'CVE-2020-4085']",2022-03-21T10:26Z
+3,cpe:2.3:a:hcltech:connections:6.5:*:*:*:*:*:*:*,HCLTech Connections 6.5,"['CVE-2019-4209', 'CVE-2020-4083', 'CVE-2020-4084', 'CVE-2020-4085']",2022-03-21T10:26Z
+4,cpe:2.3:a:hcltech:digital_experience:8.5:*:*:*:*:*:*:*,HCL Technologies Digital Experience 8.5,"['CVE-2020-14221', 'CVE-2020-14223', 'CVE-2020-4081']",2022-03-21T10:26Z
+5,cpe:2.3:a:hcltech:digital_experience:9.0:*:*:*:*:*:*:*,HCL Technologies Digital Experience 9.0,"['CVE-2020-14221', 'CVE-2020-14223', 'CVE-2020-4081']",2022-03-21T10:26Z
+6,cpe:2.3:a:hcltech:digital_experience:9.5:*:*:*:*:*:*:*,HCL Technologies Digital Experience 9.5,"['CVE-2020-14221', 'CVE-2020-14223', 'CVE-2020-14255', 'CVE-2020-4081']",2022-03-21T10:26Z
+7,cpe:2.3:a:hcltech:domino:-:*:*:*:*:*:*:*,HCL Domino,"['CVE-2017-1712', 'CVE-2020-14230', 'CVE-2020-14234']",2022-03-21T10:26Z
+8,cpe:2.3:a:hcltech:domino:9.0:*:*:*:*:*:*:*,Hcltech Domino 9.0,"['CVE-2017-1712', 'CVE-2020-14230', 'CVE-2020-14234']",2022-03-21T10:26Z
+9,cpe:2.3:a:hcltech:domino:9.0.1:*:*:*:*:*:*:*,HCL Domino 9.0.1,"['CVE-2020-14244', 'CVE-2020-14260', 'CVE-2020-14270', 'CVE-2020-4128']",2022-03-21T10:26Z

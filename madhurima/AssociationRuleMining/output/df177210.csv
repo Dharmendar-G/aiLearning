@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:debian:lintian:2.2.14:*:*:*:*:*:*:*,Debian Lintian 2.2.14,"['CVE-2009-4013', 'CVE-2009-4014', 'CVE-2009-4015', 'CVE-2013-1429', 'CVE-2017-8829']",2022-03-20T11:47Z
+1,cpe:2.3:a:debian:lintian:2.2.15:*:*:*:*:*:*:*,Debian Lintian 2.2.15,"['CVE-2009-4013', 'CVE-2009-4014', 'CVE-2009-4015', 'CVE-2013-1429', 'CVE-2017-8829']",2022-03-20T11:47Z
+2,cpe:2.3:a:debian:lintian:2.2.16:*:*:*:*:*:*:*,Debian Lintian 2.2.16,"['CVE-2009-4013', 'CVE-2009-4014', 'CVE-2009-4015', 'CVE-2013-1429', 'CVE-2017-8829']",2022-03-20T11:47Z
+3,cpe:2.3:a:debian:lintian:2.2.17:*:*:*:*:*:*:*,Debian Lintian 2.2.17,"['CVE-2013-1429', 'CVE-2017-8829']",2022-03-20T11:47Z
+4,cpe:2.3:a:debian:lintian:2.2.18:*:*:*:*:*:*:*,Debian Lintian 2.2.18,"['CVE-2009-4013', 'CVE-2009-4014', 'CVE-2009-4015', 'CVE-2013-1429', 'CVE-2017-8829']",2022-03-20T11:47Z
+5,cpe:2.3:a:debian:lintian:2.3.0:*:*:*:*:*:*:*,Debian Lintian 2.3.0,"['CVE-2009-4013', 'CVE-2009-4014', 'CVE-2009-4015', 'CVE-2013-1429', 'CVE-2017-8829']",2022-03-20T11:47Z
+6,cpe:2.3:a:debian:lintian:2.3.1:*:*:*:*:*:*:*,Debian Lintian 2.3.1,"['CVE-2009-4013', 'CVE-2009-4014', 'CVE-2009-4015', 'CVE-2013-1429', 'CVE-2017-8829']",2022-03-20T11:47Z
+7,cpe:2.3:a:debian:lintian:2.3.2:*:*:*:*:*:*:*,Debian Lintian 2.3.2,"['CVE-2013-1429', 'CVE-2017-8829']",2022-03-20T11:48Z
+8,cpe:2.3:a:debian:lintian:2.3.3:*:*:*:*:*:*:*,Debian Lintian 2.3.3,"['CVE-2013-1429', 'CVE-2017-8829']",2022-03-20T11:48Z
+9,cpe:2.3:a:debian:lintian:2.3.4:*:*:*:*:*:*:*,Debian Lintian 2.3.4,"['CVE-2013-1429', 'CVE-2017-8829']",2022-03-20T11:48Z

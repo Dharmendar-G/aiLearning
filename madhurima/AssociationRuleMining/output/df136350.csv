@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:umbrella:-:*:*:*:*:*:*:*,Cisco Umbrella,"['CVE-2017-6679', 'CVE-2018-0435', 'CVE-2019-1792', 'CVE-2019-1807', 'CVE-2020-3246', 'CVE-2020-3337', 'CVE-2021-1350', 'CVE-2021-1474', 'CVE-2021-1475', 'CVE-2021-40126']",2022-03-20T00:41Z
+1,cpe:2.3:a:cisco:umbrella:2.0.3:*:*:*:*:*:*:*,Cisco Umbrella 2.0.3,"['CVE-2017-6679', 'CVE-2018-0435', 'CVE-2019-1792', 'CVE-2019-1807', 'CVE-2020-3246', 'CVE-2020-3337']",2022-03-20T00:41Z
+2,cpe:2.3:a:cisco:umbrella_enterprise_roaming_client:1.2.0:*:*:*:*:*:*:*,Cisco Umbrella Enterprise Roaming Client 1.2.0,"['CVE-2018-0437', 'CVE-2018-0438']",2022-03-20T00:41Z
+3,cpe:2.3:a:cisco:umbrella_enterprise_roaming_client:1.7.269:*:*:*:*:*:*:*,Cisco Umbrella Enterprise Roaming Client 1.7.269,"['CVE-2018-0437', 'CVE-2018-0438']",2022-03-20T00:41Z
+4,cpe:2.3:a:cisco:umbrella_enterprise_roaming_client:2.0.1:*:*:*:*:*:*:*,Cisco Umbrella Enterprise Roaming Client 2.0.1,"['CVE-2018-0437', 'CVE-2018-0438']",2022-03-20T00:41Z
+5,cpe:2.3:a:cisco:umbrella_enterprise_roaming_client:2.0.168:*:*:*:*:*:*:*,Cisco Umbrella Enterprise Roaming Client 2.0.168,"['CVE-2018-0437', 'CVE-2018-0438']",2022-03-20T00:41Z
+6,cpe:2.3:a:cisco:umbrella_enterprise_roaming_client:2.0.213:*:*:*:*:*:*:*,Cisco Umbrella Enterprise Roaming Client 2.0.213,"['CVE-2018-0437', 'CVE-2018-0438']",2022-03-20T00:41Z
+7,cpe:2.3:a:cisco:umbrella_enterprise_roaming_client:2.0.255:*:*:*:*:*:*:*,Cisco Umbrella Enterprise Roaming Client 2.0.255,"['CVE-2018-0437', 'CVE-2018-0438']",2022-03-20T00:41Z
+8,cpe:2.3:a:cisco:umbrella_enterprise_roaming_client:2.0.331:*:*:*:*:*:*:*,Cisco Umbrella Enterprise Roaming Client 2.0.331,"['CVE-2018-0437', 'CVE-2018-0438']",2022-03-20T00:41Z
+9,cpe:2.3:a:cisco:umbrella_enterprise_roaming_client:2.0.338:*:*:*:*:*:*:*,Cisco Umbrella Enterprise Roaming Client 2.0.338,"['CVE-2018-0437', 'CVE-2018-0438']",2022-03-20T00:41Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:807_industrial_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 807 Industrial Integrated Services Router,['CVE-2020-3426'],2022-03-19T17:48Z
+1,cpe:2.3:h:cisco:8070_ip_camera:-:*:*:*:*:*:*:*,Cisco 8070 IP Camera,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507', 'CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:48Z
+2,cpe:2.3:o:cisco:8070_ip_camera_firmware:1.0.9-1:*:*:*:*:*:*:*,Cisco 8070 IP Camera Firmware 1.0.9-1,"['CVE-2020-3505', 'CVE-2020-3506', 'CVE-2020-3507']",2022-03-19T17:48Z
+3,cpe:2.3:o:cisco:8070_ip_camera_firmware:1.0.9-4:*:*:*:*:*:*:*,Cisco 8070 IP Camera Firmware 1.0.9-4,"['CVE-2020-3543', 'CVE-2020-3544']",2022-03-19T17:48Z
+4,cpe:2.3:h:cisco:80-7111-01_for_the_unity-svrx255-1a:-:*:*:*:*:*:*:*,Cisco 80-7111-01 for the UNITY-SVRX255-1A,['CVE-2003-0983'],2022-03-19T17:48Z
+5,cpe:2.3:h:cisco:80-7112-01_for_the_unity-svrx255-2a:-:*:*:*:*:*:*:*,Cisco 80-7112-01 for the UNITY-SVRX255-2A,['CVE-2003-0983'],2022-03-19T17:48Z
+6,cpe:2.3:h:cisco:809:-:*:*:*:*:*:*:*,Cisco 809,"['CVE-2020-3198', 'CVE-2020-3199', 'CVE-2020-3205', 'CVE-2020-3208', 'CVE-2020-3210', 'CVE-2020-3234']",2022-03-19T17:48Z
+7,cpe:2.3:h:cisco:8101-32fh:-:*:*:*:*:*:*:*,Cisco 8101-32FH,"['CVE-2021-34708', 'CVE-2021-34709', 'CVE-2021-34719', 'CVE-2021-34720', 'CVE-2021-34721', 'CVE-2021-34722', 'CVE-2021-34728']",2022-03-19T17:48Z
+8,cpe:2.3:h:cisco:8101-32h:-:*:*:*:*:*:*:*,Cisco 8101-32H,"['CVE-2021-34708', 'CVE-2021-34709', 'CVE-2021-34719', 'CVE-2021-34720', 'CVE-2021-34721', 'CVE-2021-34722', 'CVE-2021-34728']",2022-03-19T17:48Z
+9,cpe:2.3:h:cisco:8102-64h:-:*:*:*:*:*:*:*,Cisco 8102-64H,"['CVE-2021-34708', 'CVE-2021-34709', 'CVE-2021-34719', 'CVE-2021-34720', 'CVE-2021-34721', 'CVE-2021-34722', 'CVE-2021-34728']",2022-03-19T17:48Z

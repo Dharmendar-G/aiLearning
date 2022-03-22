@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arubanetworks:clearpass:6.5.1:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.5.1,"['CVE-2015-3653', 'CVE-2015-3654', 'CVE-2015-3655', 'CVE-2015-3656', 'CVE-2015-3657', 'CVE-2015-4649', 'CVE-2016-2034', 'CVE-2016-4401']",2022-03-18T23:39Z
+1,cpe:2.3:a:arubanetworks:clearpass:6.5.2:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.5.2,"['CVE-2016-2034', 'CVE-2016-4401']",2022-03-18T23:39Z
+2,cpe:2.3:a:arubanetworks:clearpass:6.5.3:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.5.3,"['CVE-2016-2034', 'CVE-2016-4401']",2022-03-18T23:39Z
+3,cpe:2.3:a:arubanetworks:clearpass:6.5.4:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.5.4,"['CVE-2016-2034', 'CVE-2016-4401']",2022-03-18T23:39Z
+4,cpe:2.3:a:arubanetworks:clearpass:6.5.5:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.5.5,"['CVE-2016-2034', 'CVE-2016-4401']",2022-03-18T23:39Z
+5,cpe:2.3:a:arubanetworks:clearpass:6.5.6:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.5.6,"['CVE-2016-2034', 'CVE-2016-4401']",2022-03-18T23:39Z
+6,cpe:2.3:a:arubanetworks:clearpass:6.5.7:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.5.7,[''],2022-03-18T23:39Z
+7,cpe:2.3:a:arubanetworks:clearpass:6.6.0:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.6.0,"['CVE-2016-2034', 'CVE-2016-4401', 'CVE-2018-0489', 'CVE-2018-7060']",2022-03-18T23:39Z
+8,cpe:2.3:a:arubanetworks:clearpass:6.6.1:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.6.1,"['CVE-2016-4401', 'CVE-2018-0489', 'CVE-2018-7060']",2022-03-18T23:39Z
+9,cpe:2.3:a:arubanetworks:clearpass:6.6.2:*:*:*:*:*:*:*,Aruba Networks ClearPass 6.6.2,"['CVE-2018-0489', 'CVE-2018-7060']",2022-03-18T23:39Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chimpgroup:foodbakery:2.2:*:*:*:*:wordpress:*:*,Chimp Group FoodBakery 2.2 for WordPress,[''],2022-03-19T17:23Z
+1,cpe:2.3:a:chimpgroup:foodbakery:2.3:*:*:*:*:wordpress:*:*,Chimp Group FoodBakery 2.3 for WordPress,[''],2022-03-19T17:23Z
+2,cpe:2.3:h:chinamobile:an_lianbao_wf-1:-:*:*:*:*:*:*:*,ChinaMobile An Lianbao WF-1,"['CVE-2021-25812', 'CVE-2021-30228', 'CVE-2021-30229', 'CVE-2021-30230', 'CVE-2021-30231', 'CVE-2021-30232', 'CVE-2021-30233', 'CVE-2021-30234', 'CVE-2021-33964', 'CVE-2021-33965']",2022-03-19T17:23Z
+3,cpe:2.3:o:chinamobile:an_lianbao_wf-1_firmware:1.0.1:*:*:*:*:*:*:*,ChinaMobile An Lianbao WF-1 Firmware 1.0.1,"['CVE-2021-25812', 'CVE-2021-30228', 'CVE-2021-30229', 'CVE-2021-30230', 'CVE-2021-30231', 'CVE-2021-30232', 'CVE-2021-30233', 'CVE-2021-30234', 'CVE-2021-33964', 'CVE-2021-33965']",2022-03-19T17:23Z
+4,cpe:2.3:h:chinamobile:gpn2.4p21-c-cn:-:*:*:*:*:*:*:*,ChinaMobile GPN2.4P21-C-CN,['CVE-2018-20326'],2022-03-19T17:23Z
+5,cpe:2.3:o:chinamobile:gpn2.4p21-c-cn_firmware:w2001en-00:*:*:*:*:*:*:*,ChinaMobile GPN2.4P21-C-CN Firmware W2001EN-00,['CVE-2018-20326'],2022-03-19T17:23Z
+6,cpe:2.3:h:chinamobileltd:gpn2.4p21-c-cn:-:*:*:*:*:*:*:*,China Mobile Limited GPN2.4P21-C-CN,"['CVE-2019-1010136', 'CVE-2019-6279', 'CVE-2019-6282']",2022-03-19T17:23Z
+7,cpe:2.3:o:chinamobileltd:gpn2.4p21-c-cn_firmware:w2001en-00:*:*:*:*:*:*:*,Chinamobileltd Gpn2.4p21-c-cn Firmware W2001en-00,"['CVE-2019-1010136', 'CVE-2019-6279', 'CVE-2019-6282']",2022-03-19T17:23Z
+8,cpe:2.3:a:chinasea:qb_smart_service_robot:-:*:*:*:*:*:*:*,China Sea Information Group (Chengxi Information Integration) QB Smart Service Robot,"['CVE-2021-44162', 'CVE-2021-44163', 'CVE-2021-44164']",2022-03-19T17:23Z
+9,cpe:2.3:a:chipsbank:umptool:-:*:*:*:*:*:*:*,ChipsBank UMPTool,['CVE-2018-19795'],2022-03-19T17:23Z

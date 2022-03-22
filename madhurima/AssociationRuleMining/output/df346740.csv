@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:rational_clearquest:7.1.2.15:*:*:*:*:*:*:*,IBM Rational ClearQuest 7.1.2.15,"['CVE-2007-4592', 'CVE-2014-8925']",2022-03-21T21:39Z
+1,cpe:2.3:a:ibm:rational_clearquest:7.1.2.16:*:*:*:*:*:*:*,IBM Rational ClearQuest 7.1.2.16,['CVE-2007-4592'],2022-03-21T21:39Z
+2,cpe:2.3:a:ibm:rational_clearquest:7.1.2.17:*:*:*:*:*:*:*,IBM Rational ClearQuest 7.1.2.17,['CVE-2007-4592'],2022-03-21T21:39Z
+3,cpe:2.3:a:ibm:rational_clearquest:7.1.2.18:*:*:*:*:*:*:*,IBM Rational ClearQuest 7.1.2.18,['CVE-2007-4592'],2022-03-21T21:39Z
+4,cpe:2.3:a:ibm:rational_clearquest:7.1.2.19:*:*:*:*:*:*:*,IBM Rational ClearQuest 7.1.2.19,['CVE-2007-4592'],2022-03-21T21:39Z
+5,cpe:2.3:a:ibm:rational_clearquest:8.0:*:*:*:*:*:*:*,IBM Rational ClearQuest 8.0,"['CVE-2007-4592', 'CVE-2011-1390', 'CVE-2012-0744', 'CVE-2012-2164', 'CVE-2012-5757', 'CVE-2013-0598', 'CVE-2013-3041']",2022-03-21T21:39Z
+6,cpe:2.3:a:ibm:rational_clearquest:8.0.0:*:*:*:*:*:*:*,IBM Rational ClearQuest 8.0.0,"['CVE-2007-4592', 'CVE-2012-0708', 'CVE-2012-2165', 'CVE-2012-2168', 'CVE-2012-2205', 'CVE-2012-4839', 'CVE-2012-5765', 'CVE-2014-0950', 'CVE-2014-8925', 'CVE-2015-4996']",2022-03-21T21:39Z
+7,cpe:2.3:a:ibm:rational_clearquest:8.0.0.0:*:*:*:*:*:*:*,IBM Rational ClearQuest 8.0.0.0,"['CVE-2007-4592', 'CVE-2014-0950', 'CVE-2016-2922']",2022-03-21T21:39Z
+8,cpe:2.3:a:ibm:rational_clearquest:8.0.0.1:*:*:*:*:*:*:*,IBM Rational ClearQuest 8.0.0.1,"['CVE-2007-4592', 'CVE-2011-1390', 'CVE-2012-0708', 'CVE-2012-0744', 'CVE-2012-2164', 'CVE-2012-2165', 'CVE-2012-2168', 'CVE-2012-2205', 'CVE-2012-4839', 'CVE-2012-5757', 'CVE-2012-5765', 'CVE-2013-0598', 'CVE-2013-3041', 'CVE-2014-0950', 'CVE-2014-8925', 'CVE-2015-4996', 'CVE-2016-2922']",2022-03-21T21:39Z
+9,cpe:2.3:a:ibm:rational_clearquest:8.0.0.2:*:*:*:*:*:*:*,IBM Rational ClearQuest 8.0.0.2 (Fix Pack 2),"['CVE-2007-4592', 'CVE-2012-0744', 'CVE-2012-2164', 'CVE-2012-2165', 'CVE-2012-2168', 'CVE-2012-2205', 'CVE-2012-4839', 'CVE-2012-5757', 'CVE-2012-5765', 'CVE-2013-0598', 'CVE-2013-3041', 'CVE-2014-0950', 'CVE-2014-8925', 'CVE-2015-4996', 'CVE-2016-2922']",2022-03-21T21:39Z

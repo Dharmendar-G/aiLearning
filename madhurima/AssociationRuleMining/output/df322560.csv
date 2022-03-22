@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:icewall_mfa:4.0:*:*:*:standard:*:*:*,HP IceWall MFA 4.0 Standard Edition,['CVE-2017-8978'],2022-03-21T13:36Z
+1,cpe:2.3:a:hp:icewall_smart_device_option:10.0:*:*:*:*:*:*:*,HP IceWall Smart Device Option 10.0,"['CVE-2013-4818', 'CVE-2013-4820']",2022-03-21T13:36Z
+2,cpe:2.3:a:hp:icewall_sso:10.0:*:*:*:certd:*:*:*,HP IceWall SSO 10.0 Certd,"['CVE-2015-3196', 'CVE-2016-2177', 'CVE-2016-2182', 'CVE-2016-6306', 'CVE-2017-8989']",2022-03-21T13:36Z
+3,cpe:2.3:a:hp:icewall_sso:10.0:*:*:*:dfw:*:*:*,HP Icewall SSO 10.0 Dfw,"['CVE-2014-2604', 'CVE-2016-2177', 'CVE-2016-2182', 'CVE-2016-6306', 'CVE-2017-8989']",2022-03-21T13:36Z
+4,cpe:2.3:a:hp:icewall_sso:10.0:p8:*:*:dfw:*:*:*,HP IceWall SSO 10.0 Patch 8 Dfw,"['CVE-2014-2604', 'CVE-2016-2177', 'CVE-2016-2182', 'CVE-2016-6306', 'CVE-2017-8978', 'CVE-2017-8989']",2022-03-21T13:36Z
+5,cpe:2.3:a:hp:icewall_sso:11.0:*:*:*:*:*:*:*,HP IceWall SSO 11.0,"['CVE-2017-8978', 'CVE-2017-8989']",2022-03-21T13:36Z
+6,cpe:2.3:a:hp:icewall_sso_agent:8.0:*:*:*:*:*:*:*,HP IceWall SSO Agent 8.0,"['CVE-2013-4818', 'CVE-2013-4820']",2022-03-21T13:36Z
+7,cpe:2.3:a:hp:icewall_sso_agent:8.0:*:enterprise:*:*:*:*:*,HP IceWall SSO Agent 8.0 Enterprise,"['CVE-2013-4818', 'CVE-2013-4820']",2022-03-21T13:36Z
+8,cpe:2.3:a:hp:icewall_sso_agent:8.0:r2:*:*:enterprise:*:*:*,HP IceWall SSO Agent 8.0 Release 2 Enterprise,"['CVE-2013-4818', 'CVE-2013-4820']",2022-03-21T13:36Z
+9,cpe:2.3:a:hp:icewall_sso_agent:8.0:r2:*:*:standard:*:*:*,HP IceWall SSO Agent 8.0 Release 2 Standard,"['CVE-2013-4818', 'CVE-2013-4820']",2022-03-21T13:36Z

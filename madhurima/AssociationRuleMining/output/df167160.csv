@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:csc:mqmonitorinstaller:1.0.0:*:*:*:*:*:*:*,Csc Mqmonitorinstaller 1.0.0,[''],2022-03-20T09:12Z
+1,cpe:2.3:a:csc:serviceclient:1.2.9:*:*:*:*:*:*:*,Csc Serviceclient 1.2.9,[''],2022-03-20T09:12Z
+2,cpe:2.3:a:csc:ssoserviceclient:1.2.8:*:*:*:*:*:*:*,Csc Ssoserviceclient 1.2.8,[''],2022-03-20T09:12Z
+3,cpe:2.3:a:csc:ssoserviceclient:1.9.0:*:*:*:*:*:*:*,Csc Ssoserviceclient 1.9.0,[''],2022-03-20T09:12Z
+4,cpe:2.3:a:csc:ssowebservice:1.2.9:*:*:*:*:*:*:*,Csc Ssowebservice 1.2.9,[''],2022-03-20T09:12Z
+5,cpe:2.3:a:csc:tsrserviceclient:1.2.8:*:*:*:*:*:*:*,Csc Tsrserviceclient 1.2.8,[''],2022-03-20T09:12Z
+6,cpe:2.3:a:csc:tsrserviceclient:1.6.0:*:*:*:*:*:*:*,Csc Tsrserviceclient 1.6.0,[''],2022-03-20T09:12Z
+7,cpe:2.3:a:csc:tsrwebservice:1.2.9:*:*:*:*:*:*:*,Csc Tsrwebservice 1.2.9,[''],2022-03-20T09:12Z
+8,cpe:2.3:a:csc:xmlwebservice:1.2.9:*:*:*:*:*:*:*,Csc Xmlwebservice 1.2.9,[''],2022-03-20T09:12Z
+9,[0],[0],[0],[0]

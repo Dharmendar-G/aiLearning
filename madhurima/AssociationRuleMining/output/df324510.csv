@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_m3027_mfp:-:*:*:*:*:*:*:*,HP LaserJet M3027 MFP printer,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2009-2684']",2022-03-21T15:06Z
+1,cpe:2.3:h:hp:laserjet_m3027_mfp:cb416a:*:*:*:*:*:*:*,HP LaserJet M3027 MFP printer CB416A,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2009-2684', 'CVE-2012-5221']",2022-03-21T15:06Z
+2,cpe:2.3:h:hp:laserjet_m3035_mfp:-:*:*:*:*:*:*:*,HP LaserJet M3035 MFP printer,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2009-2684']",2022-03-21T15:06Z
+3,cpe:2.3:h:hp:laserjet_m3035_mfp:cb414a:*:*:*:*:*:*:*,HP LaserJet M3035 Multifunction Printer (MFP) CB414A,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2009-2684', 'CVE-2012-5221']",2022-03-21T15:06Z
+4,cpe:2.3:h:hp:laserjet_m3035_mfp:cc519a:*:*:*:*:*:*:*,HP LaserJet M3035 Multifunction Printer (MFP) CC519A,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2009-2684', 'CVE-2012-5221']",2022-03-21T15:06Z
+5,cpe:2.3:h:hp:laserjet_m4345_mfp:-:*:*:*:*:*:*:*,HP LaserJet M4345 MFP,"['CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T15:06Z
+6,cpe:2.3:h:hp:laserjet_m4345_mfp:cb425a:*:*:*:*:*:*:*,HP LaserJet M4345 Multifunction Printer (MFP) CB425A,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2012-5221']",2022-03-21T15:06Z
+7,cpe:2.3:h:hp:laserjet_m4555:-:*:*:*:*:*:*:*,HP LaserJet M4555,"['CVE-2013-4828', 'CVE-2013-4829']",2022-03-21T15:06Z
+8,cpe:2.3:h:hp:laserjet_m4555f:-:*:*:*:*:*:*:*,HP LaserJet M4555f,"['CVE-2013-4828', 'CVE-2013-4829']",2022-03-21T15:06Z
+9,cpe:2.3:h:hp:laserjet_m4555fskm:-:*:*:*:*:*:*:*,HP LaserJet M4555fskm,"['CVE-2013-4828', 'CVE-2013-4829']",2022-03-21T15:06Z

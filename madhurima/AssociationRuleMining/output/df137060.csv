@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:unified_computing_system_server_firmware:2.0\(10b\):*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) Firmware 2.0(10b),['CVE-2019-1880'],2022-03-20T00:50Z
+1,cpe:2.3:o:cisco:unified_computing_system_server_firmware:2.0\(10c\):*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) Firmware 2.0(10c),['CVE-2019-1880'],2022-03-20T00:50Z
+2,cpe:2.3:o:cisco:unified_computing_system_server_firmware:2.0\(10e\):*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) Firmware 2.0(10e),['CVE-2019-1880'],2022-03-20T00:50Z
+3,cpe:2.3:o:cisco:unified_computing_system_server_firmware:2.0\(10f\):*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) Firmware 2.0(10f),['CVE-2019-1880'],2022-03-20T00:50Z
+4,cpe:2.3:o:cisco:unified_computing_system_server_firmware:2.0\(10g\):*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) Firmware 2.0(10g),['CVE-2019-1880'],2022-03-20T00:50Z
+5,cpe:2.3:o:cisco:unified_computing_system_server_firmware:2.0\(10h\):*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) Firmware 2.0(10h),['CVE-2019-1880'],2022-03-20T00:50Z
+6,cpe:2.3:o:cisco:unified_computing_system_server_firmware:2.0\(10i\):*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) Firmware 2.0(10i),['CVE-2019-1880'],2022-03-20T00:50Z
+7,cpe:2.3:o:cisco:unified_computing_system_server_firmware:2.0\(10k\):*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) Firmware 2.0(10k),['CVE-2019-1880'],2022-03-20T00:50Z
+8,cpe:2.3:o:cisco:unified_computing_system_server_firmware:2.0\(13e\):*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) Firmware 2.0(13e),['CVE-2019-1880'],2022-03-20T00:50Z
+9,cpe:2.3:o:cisco:unified_computing_system_server_firmware:2.0\(13f\):*:*:*:*:*:*:*,Cisco Unified Computing System (UCS) Firmware 2.0(13f),['CVE-2019-1880'],2022-03-20T00:50Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:bla-l29c_firmware:8.0.0.137\(c432\):*:*:*:*:*:*:*,Huawei BLA-L29C Firmware 8.0.0.137(C432),"['CVE-2018-7910', 'CVE-2019-19412', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:27Z
+1,cpe:2.3:o:huawei:bla-l29c_firmware:9.0.0.179\(c576e2r1p7t8\):*:*:*:*:*:*:*,Huawei BLA-L29C Firmware 9.0.0.179(C576E2R1P7T8),"['CVE-2019-19412', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:27Z
+2,cpe:2.3:o:huawei:bla-l29c_firmware:9.0.0.194\(c185e2r1p13\):*:*:*:*:*:*:*,Huawei BLA-L29C Firmware 9.0.0.194(C185E2R1P13),"['CVE-2019-19412', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:27Z
+3,cpe:2.3:o:huawei:bla-l29c_firmware:9.0.0.206\(c432e4r1p11\):*:*:*:*:*:*:*,Huawei BLA-L29C Firmware 9.0.0.206(C432E4R1P11),"['CVE-2019-19412', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:27Z
+4,cpe:2.3:o:huawei:bla-l29c_firmware:9.0.0.210\(c635e4r1p13\):*:*:*:*:*:*:*,Huawei BLA-L29C Firmware 9.0.0.210(C635E4R1P13),"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:27Z
+5,cpe:2.3:o:huawei:bla-l29c_firmware:9.1.0.302\(c635e4r1p13t8\):*:*:*:*:*:*:*,Huawei BLA-L29C Firmware 9.1.0.302(C635E4R1P13T8),"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T17:27Z
+6,cpe:2.3:o:huawei:bla-l29c_firmware:9.1.0.321\(c636e4r1p14t8\):*:*:*:*:*:*:*,Huawei BLA-L29C Firmware 9.1.0.321(C636E4R1P14T8),"['CVE-2019-5302', 'CVE-2019-5303']",2022-03-21T17:27Z
+7,cpe:2.3:o:huawei:bla-l29c_firmware:9.1.0.330\(c432e6r1p12t8\):*:*:*:*:*:*:*,Huawei BLA-L29C Firmware 9.1.0.330(C432E6R1P12T8),[''],2022-03-21T17:27Z
+8,cpe:2.3:h:huawei:bla-tl00b:-:*:*:*:*:*:*:*,Huawei BLA-TL00B,"['CVE-2018-7911', 'CVE-2019-5235', 'CVE-2019-9506', 'CVE-2020-9239']",2022-03-21T17:27Z
+9,cpe:2.3:o:huawei:bla-tl00b_firmware:8.0.0.113\(sp7c01\):*:*:*:*:*:*:*,Huawei BLA-TL00B Firmware 8.0.0.113(SP7C01),"['CVE-2018-7911', 'CVE-2019-9506', 'CVE-2020-9239']",2022-03-21T17:27Z

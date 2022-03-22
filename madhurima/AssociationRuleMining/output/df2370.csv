@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:3com:3cp4144:-:*:*:*:*:*:*:*,3Com OfficeConnect ADSL Router 812,"['CVE-2001-0740', 'CVE-2004-0476', 'CVE-2004-0477']",2022-03-18T10:01Z
+1,cpe:2.3:h:3com:3cp4144:1.1.7:*:*:*:*:*:*:*,スリーコム OfficeConnect ADSL Router 812 1.1.7,"['CVE-2001-0740', 'CVE-2002-0888', 'CVE-2003-0291', 'CVE-2004-0476', 'CVE-2004-0477']",2022-03-18T10:01Z
+2,cpe:2.3:h:3com:3cp4144:1.1.9:*:*:*:*:*:*:*,3Com OfficeConnect ADSL Router 812 1.1.9,"['CVE-2001-0740', 'CVE-2002-0888', 'CVE-2004-0476', 'CVE-2004-0477']",2022-03-18T10:01Z
+3,cpe:2.3:h:3com:3cp4144:1.1.9.4:*:*:*:*:*:*:*,3Com OfficeConnect Remote 812 ADSL Router 1.1.9.4,"['CVE-2004-0476', 'CVE-2004-0477']",2022-03-18T10:01Z
+4,cpe:2.3:h:3com:3cr29223:-:*:*:*:*:*:*:*,スリーコム HomeConnect Cable Modem External with USB,['CVE-2001-1293'],2022-03-18T10:01Z
+5,cpe:2.3:h:3com:3cr860-95:-:*:*:*:*:*:*:*,スリーコム OfficeConnect Secure Router,[''],2022-03-18T10:01Z
+6,cpe:2.3:h:3com:3cradsl72:-:*:*:*:*:*:*:*,3Com Wireless Router 3CRADSL72,['CVE-2004-1596'],2022-03-18T10:01Z
+7,cpe:2.3:h:3com:3crtpx505-73:-:*:*:*:*:*:*:*,スリーコム TippingPoint IMS X505,['CVE-2007-2734'],2022-03-18T10:01Z
+8,cpe:2.3:h:3com:3crwe454g72:-:*:*:*:*:*:*:*,3Com 3Com OfficeConnect Wireless11g Access Point,[''],2022-03-18T10:01Z
+9,cpe:2.3:h:3com:3crwe454g72:1.0.2:*:*:*:*:*:*:*,スリーコム 3Com OfficeConnect Wireless11g Access Point 3CRWE454G72 1.0.2,['CVE-2005-0112'],2022-03-18T10:01Z

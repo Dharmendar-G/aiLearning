@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cardgate:cardgate_payments:2.0.29:*:*:*:*:*:*:*,Cardgate Cardgate Payments 2.0.29,['CVE-2020-8818'],2022-03-19T15:32Z
+1,cpe:2.3:a:cardgate:cardgate_payments:2.0.30:*:*:*:*:*:*:*,Cardgate Cardgate Payments 2.0.30,['CVE-2020-8818'],2022-03-19T15:32Z
+2,cpe:2.3:a:cardgate:cardgate_payments:2.0.31:*:*:*:*:*:*:*,Cardgate Cardgate Payments 2.0.31,[''],2022-03-19T15:32Z
+3,cpe:2.3:a:cardgate:cardgate_payments:2.1.12:*:*:*:*:woocommerce:*:*,Cardgate Payments 2.1.12 for WooCommerce,['CVE-2020-8819'],2022-03-19T15:32Z
+4,cpe:2.3:a:cardgate:cardgate_payments:3.1.4:*:*:*:*:woocommerce:*:*,Cardgate Payments 3.1.4 for WooCommerce,['CVE-2020-8819'],2022-03-19T15:32Z
+5,cpe:2.3:a:cardgate:cardgate_payments:3.1.5:*:*:*:*:woocommerce:*:*,Cardgate Payments 3.1.5 for WooCommerce,['CVE-2020-8819'],2022-03-19T15:32Z
+6,cpe:2.3:a:cardgate:cardgate_payments:3.1.6:*:*:*:*:woocommerce:*:*,Cardgate Payments 3.1.6 for WooCommerce,['CVE-2020-8819'],2022-03-19T15:32Z
+7,cpe:2.3:a:cardgate:cardgate_payments:3.1.7:*:*:*:*:woocommerce:*:*,Cardgate Payments 3.1.7 for WooCommerce,['CVE-2020-8819'],2022-03-19T15:32Z
+8,cpe:2.3:a:cardgate:cardgate_payments:3.1.9:*:*:*:*:woocommerce:*:*,Cardgate Payments 3.1.9 for WooCommerce,['CVE-2020-8819'],2022-03-19T15:32Z
+9,cpe:2.3:a:cardgate:cardgate_payments:3.1.10:*:*:*:*:woocommerce:*:*,Cardgate Payments 3.1.10 for WooCommerce,['CVE-2020-8819'],2022-03-19T15:32Z

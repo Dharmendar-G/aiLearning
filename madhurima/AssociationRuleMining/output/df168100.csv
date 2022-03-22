@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cure53:dompurify:1.0.6:*:*:*:*:*:*:*,Cure53 DOMPurify 1.0.6,"['CVE-2019-16728', 'CVE-2020-26870']",2022-03-20T09:24Z
+1,cpe:2.3:a:cure53:dompurify:1.0.7:*:*:*:*:*:*:*,Cure53 DOMPurify 1.0.7,"['CVE-2019-16728', 'CVE-2020-26870']",2022-03-20T09:24Z
+2,cpe:2.3:a:cure53:dompurify:1.0.8:*:*:*:*:*:*:*,Cure53 DOMPurify 1.0.8,"['CVE-2019-16728', 'CVE-2020-26870']",2022-03-20T09:24Z
+3,cpe:2.3:a:cure53:dompurify:1.0.9:*:*:*:*:*:*:*,Cure53 DOMPurify 1.0.9,"['CVE-2019-16728', 'CVE-2020-26870']",2022-03-20T09:24Z
+4,cpe:2.3:a:cure53:dompurify:1.0.10:*:*:*:*:*:*:*,Cure53 DOMPurify 1.0.10,"['CVE-2019-16728', 'CVE-2020-26870']",2022-03-20T09:24Z
+5,cpe:2.3:a:cure53:dompurify:1.0.11:*:*:*:*:*:*:*,Cure53 DOMPurify 1.0.11,"['CVE-2019-16728', 'CVE-2020-26870']",2022-03-20T09:24Z
+6,cpe:2.3:a:cure53:dompurify:2.0.0:*:*:*:*:*:*:*,Cure53 DOMPurify 2.0.0,"['CVE-2019-16728', 'CVE-2020-26870']",2022-03-20T09:24Z
+7,cpe:2.3:a:cure53:dompurify:2.0.1:*:*:*:*:*:*:*,Cure53 DOMPurify 2.0.1,['CVE-2020-26870'],2022-03-20T09:24Z
+8,cpe:2.3:a:cure53:dompurify:2.0.2:*:*:*:*:*:*:*,Cure53 DOMPurify 2.0.2,['CVE-2020-26870'],2022-03-20T09:24Z
+9,cpe:2.3:a:cure53:dompurify:2.0.17:*:*:*:*:*:*:*,Cure53 DOMPurify 2.0.17,[''],2022-03-20T09:24Z

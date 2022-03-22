@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hikvision:ds-2df6a425x-ael\(t3\):-:*:*:*:*:*:*:*,Hikvision DS-2DF6A425X-AEL(T3),['CVE-2021-36260'],2022-03-21T11:11Z
+1,cpe:2.3:o:hikvision:ds-2df6a425x-ael\(t3\)_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2DF6A425X-AEL(T3) Firmware,['CVE-2021-36260'],2022-03-21T11:11Z
+2,cpe:2.3:h:hikvision:ds-2df6a436x-ael\(t3\):-:*:*:*:*:*:*:*,Hikvision DS-2DF6A436X-AEL(T3),['CVE-2021-36260'],2022-03-21T11:11Z
+3,cpe:2.3:o:hikvision:ds-2df6a436x-ael\(t3\)_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2DF6A436X-AEL(T3) Firmware,['CVE-2021-36260'],2022-03-21T11:11Z
+4,cpe:2.3:h:hikvision:ds-2df6a436x-ael\(t5\):-:*:*:*:*:*:*:*,Hikvision DS-2DF6A436X-AEL(T5),['CVE-2021-36260'],2022-03-21T11:11Z
+5,cpe:2.3:o:hikvision:ds-2df6a436x-ael\(t5\)_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2DF6A436X-AEL(T5) Firmware,['CVE-2021-36260'],2022-03-21T11:11Z
+6,cpe:2.3:h:hikvision:ds-2df6a436x-aely\(t5\):-:*:*:*:*:*:*:*,Hikvision DS-2DF6A436X-AELY(T5),['CVE-2021-36260'],2022-03-21T11:11Z
+7,cpe:2.3:o:hikvision:ds-2df6a436x-aely\(t5\)_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2DF6A436X-AELY(T5) Firmware,['CVE-2021-36260'],2022-03-21T11:11Z
+8,cpe:2.3:h:hikvision:ds-2df6a825x-ael:-:*:*:*:*:*:*:*,Hikvision DS-2DF6A825X-AEL,['CVE-2021-36260'],2022-03-21T11:12Z
+9,cpe:2.3:o:hikvision:ds-2df6a825x-ael_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2DF6A825X-AEL Firmware,['CVE-2021-36260'],2022-03-21T11:12Z

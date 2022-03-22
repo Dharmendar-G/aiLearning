@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:collne:welcart:1.4.17:*:*:*:*:wordpress:*:*,Collne Welcart 1.4.17 for Wordpress,"['CVE-2015-2973', 'CVE-2015-7791']",2022-03-20T06:33Z
+1,cpe:2.3:a:collne:welcart:1.4.18:*:*:*:*:wordpress:*:*,Collne Welcart 1.4.18 for Wordpress,['CVE-2015-7791'],2022-03-20T06:33Z
+2,cpe:2.3:a:collne:welcart:1.4.19:*:*:*:*:wordpress:*:*,Collne Welcart 1.4.19 for Wordpress,['CVE-2015-7791'],2022-03-20T06:33Z
+3,cpe:2.3:a:collne:welcart:1.4.20:*:*:*:*:wordpress:*:*,Collne Welcart 1.4.20 for Wordpress,['CVE-2015-7791'],2022-03-20T06:33Z
+4,cpe:2.3:a:collne:welcart:1.5.2:*:*:*:*:wordpress:*:*,Collne Welcart 1.5.2 for Wordpress,"['CVE-2015-7791', 'CVE-2021-20734']",2022-03-20T06:33Z
+5,cpe:2.3:a:collne:welcart_e-commerce:-:*:*:*:*:wordpress:*:*,Collne Welcart e-Commerce for WordPress,"['CVE-2016-4825', 'CVE-2016-4826', 'CVE-2016-4827', 'CVE-2016-4828', 'CVE-2020-28339']",2022-03-20T06:33Z
+6,cpe:2.3:a:collne:welcart_e-commerce:0.7:*:*:*:*:wordpress:*:*,Collne Welcart e-Commerce 0.7 for WordPress,"['CVE-2016-4825', 'CVE-2016-4826', 'CVE-2016-4827', 'CVE-2016-4828', 'CVE-2020-28339']",2022-03-20T06:33Z
+7,cpe:2.3:a:collne:welcart_e-commerce:0.7.1:*:*:*:*:wordpress:*:*,Collne Welcart e-Commerce 0.7.1 for WordPress,"['CVE-2016-4825', 'CVE-2016-4826', 'CVE-2016-4827', 'CVE-2016-4828', 'CVE-2020-28339']",2022-03-20T06:33Z
+8,cpe:2.3:a:collne:welcart_e-commerce:0.7.2:*:*:*:*:wordpress:*:*,Collne Welcart e-Commerce 0.7.2 for WordPress,"['CVE-2016-4825', 'CVE-2016-4826', 'CVE-2016-4827', 'CVE-2016-4828', 'CVE-2020-28339']",2022-03-20T06:33Z
+9,cpe:2.3:a:collne:welcart_e-commerce:0.7.3:*:*:*:*:wordpress:*:*,Collne Welcart e-Commerce 0.7.3 for WordPress,"['CVE-2016-4825', 'CVE-2016-4826', 'CVE-2016-4827', 'CVE-2016-4828', 'CVE-2020-28339']",2022-03-20T06:33Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hpe:proliant_dl120_gen10_server:-:*:*:*:*:*:*:*,HPE ProLiant DL120 Gen10 Server,"['CVE-2019-11136', 'CVE-2019-11137', 'CVE-2020-7205']",2022-03-21T16:31Z
+1,cpe:2.3:o:hpe:proliant_dl120_gen10_server_firmware:-:*:*:*:*:*:*:*,HPE ProLiant DL120 Gen10 Server Firmware,"['CVE-2019-11136', 'CVE-2019-11137']",2022-03-21T16:31Z
+2,cpe:2.3:o:hpe:proliant_dl120_gen10_server_firmware:2.20:*:*:*:*:*:*:*,HPE ProLiant DL120 Gen10 Server Firmware 2.20,[''],2022-03-21T16:31Z
+3,cpe:2.3:h:hpe:proliant_dl120_gen9_server:-:*:*:*:*:*:*:*,HPE ProLiant  DL120 Gen9 Server,"['CVE-2019-11136', 'CVE-2019-11137', 'CVE-2020-7205']",2022-03-21T16:31Z
+4,cpe:2.3:o:hpe:proliant_dl120_gen9_server_firmware:-:*:*:*:*:*:*:*,HPE ProLiant DL120 Gen9 Server Firmware,"['CVE-2019-11136', 'CVE-2019-11137']",2022-03-21T16:31Z
+5,cpe:2.3:o:hpe:proliant_dl120_gen9_server_firmware:2.76:*:*:*:*:*:*:*,HPE ProLiant DL120 Gen9 Server Firmware 2.76,[''],2022-03-21T16:31Z
+6,cpe:2.3:h:hpe:proliant_dl160_gen10_server:-:*:*:*:*:*:*:*,HPE ProLiant DL160 Gen10 Server,"['CVE-2019-11136', 'CVE-2019-11137', 'CVE-2020-7205']",2022-03-21T16:31Z
+7,cpe:2.3:o:hpe:proliant_dl160_gen10_server_firmware:-:*:*:*:*:*:*:*,HPE ProLiant DL160 Gen10 Server Firmware,"['CVE-2019-11136', 'CVE-2019-11137']",2022-03-21T16:32Z
+8,cpe:2.3:o:hpe:proliant_dl160_gen10_server_firmware:2.20:*:*:*:*:*:*:*,HPE ProLiant DL160 Gen10 Server Firmware 2.20,[''],2022-03-21T16:32Z
+9,cpe:2.3:h:hpe:proliant_dl160_gen8_server:-:*:*:*:*:*:*:*,HPE Proliant DL160 Gen8 Server,['CVE-2020-7205'],2022-03-21T16:32Z

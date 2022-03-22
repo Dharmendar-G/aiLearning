@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:ibm:power8:-:*:*:*:*:*:*:*,IBM Power8,['CVE-2020-8834'],2022-03-21T21:27Z
+1,cpe:2.3:o:ibm:power9:-:*:*:*:*:*:*:*,IBM Power9,['CVE-2020-4788'],2022-03-21T21:27Z
+2,cpe:2.3:o:ibm:power9_system_firmware:-:*:*:*:*:*:*:*,IBM Power9 System Firmware,['CVE-2021-20487'],2022-03-21T21:27Z
+3,cpe:2.3:o:ibm:power9_system_firmware:fw930.00:*:*:*:*:*:*:*,IBM Power9 System Firmware FW930.00,['CVE-2021-20487'],2022-03-21T21:27Z
+4,cpe:2.3:o:ibm:power9_system_firmware:fw930.30:*:*:*:*:*:*:*,IBM Power9 System Firmware FW930.30,['CVE-2021-20487'],2022-03-21T21:27Z
+5,cpe:2.3:o:ibm:power9_system_firmware:fw940.00:*:*:*:*:*:*:*,IBM Power9 System Firmware FW940.00,['CVE-2021-20487'],2022-03-21T21:27Z
+6,cpe:2.3:o:ibm:power9_system_firmware:fw940.20:*:*:*:*:*:*:*,IBM Power9 System Firmware FW940.20,['CVE-2021-20487'],2022-03-21T21:27Z
+7,cpe:2.3:o:ibm:power9_system_firmware:fw950.00:*:*:*:*:*:*:*,IBM Power9 System Firmware FW950.00,[''],2022-03-21T21:27Z
+8,cpe:2.3:a:ibm:powerha:7.2:*:*:*:*:*:*:*,IBM PowerHA 7.2,['CVE-2020-4832'],2022-03-21T21:27Z
+9,cpe:2.3:a:ibm:powerha_system_mirror:-:*:*:*:*:*:*:*,IBM PowerHA System Mirror,['CVE-2015-5005'],2022-03-21T21:27Z

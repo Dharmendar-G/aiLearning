@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:unified_ip_phone_8941:-:*:*:*:*:*:*:*,Cisco Unified IP Phone 8941,['CVE-2020-3360'],2022-03-20T00:54Z
+1,cpe:2.3:o:cisco:unified_ip_phone_8941_firmware:12.8\(1\):*:*:*:*:*:*:*,Cisco Unified IP Phone 8941 Firmware 12.8(1),['CVE-2020-3360'],2022-03-20T00:54Z
+2,cpe:2.3:h:cisco:unified_ip_phone_8945:-:*:*:*:*:*:*:*,Cisco Unified IP Phone 8945,"['CVE-2013-3468', 'CVE-2020-3360']",2022-03-20T00:54Z
+3,cpe:2.3:o:cisco:unified_ip_phone_8945_firmware:12.8\(1\):*:*:*:*:*:*:*,Cisco Unified IP Phone 8945 Firmware 12.8(1),['CVE-2020-3360'],2022-03-20T00:54Z
+4,cpe:2.3:h:cisco:unified_ip_phone_8961:-:*:*:*:*:*:*:*,Cisco Unified IP Phone 8961,"['CVE-2013-6685', 'CVE-2020-3360']",2022-03-20T00:54Z
+5,cpe:2.3:o:cisco:unified_ip_phone_8961_firmware:12.8\(1\):*:*:*:*:*:*:*,Cisco Unified IP Phone 8961 Firmware 12.8(1),['CVE-2020-3360'],2022-03-20T00:54Z
+6,cpe:2.3:h:cisco:unified_ip_phone_9951:-:*:*:*:*:*:*:*,Cisco Unified IP Phone 9951,"['CVE-2013-3426', 'CVE-2013-5526', 'CVE-2013-5532', 'CVE-2013-5533', 'CVE-2013-6685', 'CVE-2014-0658', 'CVE-2015-0600', 'CVE-2015-0601', 'CVE-2015-0602', 'CVE-2015-0603', 'CVE-2015-0604', 'CVE-2018-0332', 'CVE-2020-3360']",2022-03-20T00:54Z
+7,cpe:2.3:o:cisco:unified_ip_phone_9951_firmware:9.4\(.1\):*:*:*:*:*:*:*,Cisco Unified IP Phone 9951 Firmware 9.4(.1),['CVE-2020-3360'],2022-03-20T00:54Z
+8,cpe:2.3:o:cisco:unified_ip_phone_9951_firmware:12.8\(1\):*:*:*:*:*:*:*,Cisco Unified IP Phone 9951 Firmware 12.8(1),['CVE-2020-3360'],2022-03-20T00:54Z
+9,cpe:2.3:h:cisco:unified_ip_phone_9971:-:*:*:*:*:*:*:*,Cisco Unified IP Phone 9971,"['CVE-2013-3426', 'CVE-2013-5526', 'CVE-2013-5532', 'CVE-2013-5533', 'CVE-2013-6685', 'CVE-2014-0658', 'CVE-2015-0600', 'CVE-2015-0601', 'CVE-2015-0602', 'CVE-2015-0603', 'CVE-2015-0604', 'CVE-2018-0332', 'CVE-2020-3360']",2022-03-20T00:54Z

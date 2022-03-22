@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:andy_armstrong:cgi-simple:1.1.1:*:*:*:*:*:*:*,Andy Armstrong CGI::Simple 1.1.1,"['CVE-2010-2761', 'CVE-2010-4410']",2022-03-18T16:33Z
+1,cpe:2.3:a:andy_armstrong:cgi-simple:1.1.2:*:*:*:*:*:*:*,Andy Armstrong CGI::Simple 1.1.2,"['CVE-2010-2761', 'CVE-2010-4410']",2022-03-18T16:33Z
+2,cpe:2.3:a:andy_armstrong:cgi-simple:1.103:*:*:*:*:*:*:*,Andy Armstrong CGI::Simple 1.103,"['CVE-2010-2761', 'CVE-2010-4410']",2022-03-18T16:33Z
+3,cpe:2.3:a:andy_armstrong:cgi-simple:1.104:*:*:*:*:*:*:*,Andy Armstrong CGI::Simple 1.104,"['CVE-2010-2761', 'CVE-2010-4410']",2022-03-18T16:33Z
+4,cpe:2.3:a:andy_armstrong:cgi-simple:1.105:*:*:*:*:*:*:*,Andy Armstrong CGI::Simple 1.105,"['CVE-2010-2761', 'CVE-2010-4410']",2022-03-18T16:33Z
+5,cpe:2.3:a:andy_armstrong:cgi-simple:1.106:*:*:*:*:*:*:*,Andy Armstrong CGI::Simple 1.106,"['CVE-2010-2761', 'CVE-2010-4410']",2022-03-18T16:33Z
+6,cpe:2.3:a:andy_armstrong:cgi-simple:1.107:*:*:*:*:*:*:*,Andy Armstrong CGI::Simple 1.107,"['CVE-2010-2761', 'CVE-2010-4410']",2022-03-18T16:33Z
+7,cpe:2.3:a:andy_armstrong:cgi-simple:1.108:*:*:*:*:*:*:*,Andy Armstrong CGI::Simple 1.108,"['CVE-2010-2761', 'CVE-2010-4410']",2022-03-18T16:33Z
+8,cpe:2.3:a:andy_armstrong:cgi-simple:1.109:*:*:*:*:*:*:*,Andy Armstrong CGI::Simple 1.109,"['CVE-2010-2761', 'CVE-2010-4410']",2022-03-18T16:33Z
+9,cpe:2.3:a:andy_armstrong:cgi-simple:1.110:*:*:*:*:*:*:*,Andy Armstrong CGI::Simple 1.110,"['CVE-2010-2761', 'CVE-2010-4410']",2022-03-18T16:33Z

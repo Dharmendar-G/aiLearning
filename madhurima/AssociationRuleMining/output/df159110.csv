@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:contact_form_7_database_addon:contact_form_7_database_addon:1.2.4.10:*:*:*:*:wordpress:*:*,Contact Form 7 Database Addon Contact Form 7 Database Addon 1.2.4.10 for Wordpress,['CVE-2021-24144'],2022-03-20T07:25Z
+1,cpe:2.3:a:contact_form_7_database_addon:contact_form_7_database_addon:1.2.4.11:*:*:*:*:wordpress:*:*,Contact Form 7 Database Addon Contact Form 7 Database Addon 1.2.4.11 for Wordpress,['CVE-2021-24144'],2022-03-20T07:25Z
+2,cpe:2.3:a:contact_form_7_database_addon:contact_form_7_database_addon:1.2.5:*:*:*:*:wordpress:*:*,Contact Form 7 Database Addon Contact Form 7 Database Addon 1.2.5 for Wordpress,['CVE-2021-24144'],2022-03-20T07:25Z
+3,cpe:2.3:a:contact_form_7_database_addon:contact_form_7_database_addon:1.2.5.3:*:*:*:*:wordpress:*:*,Contact Form 7 Database Addon Contact Form 7 Database Addon 1.2.5.3 for Wordpress,['CVE-2021-24144'],2022-03-20T07:25Z
+4,cpe:2.3:a:contact_form_7_database_addon:contact_form_7_database_addon:1.2.5.4:*:*:*:*:wordpress:*:*,Contact Form 7 Database Addon Contact Form 7 Database Addon 1.2.5.4 for Wordpress,['CVE-2021-24144'],2022-03-20T07:25Z
+5,cpe:2.3:a:contact_form_7_database_addon:contact_form_7_database_addon:1.2.5.8:*:*:*:*:wordpress:*:*,Contact Form 7 Database Addon Contact Form 7 Database Addon 1.2.5.8 for Wordpress,[''],2022-03-20T07:25Z
+6,cpe:2.3:a:contact_form_7_database_addon:contact_form_7_database_addon:1.2.5.9:*:*:*:*:wordpress:*:*,Contact Form 7 Database Addon Contact Form 7 Database Addon 1.2.5.9 for Wordpress,[''],2022-03-20T07:25Z
+7,cpe:2.3:a:contact_form_advanced_database_project:contact_form_advanced_database:-:*:*:*:*:wordpress:*:*,Contact Form Advanced Database Project Contact Form Advanced Database for WordPress,['CVE-2021-24790'],2022-03-20T07:25Z
+8,cpe:2.3:a:contact_form_advanced_database_project:contact_form_advanced_database:1.0.8:*:*:*:*:wordpress:*:*,Contact Form Advanced Database Project Contact Form Advanced Database 1.0.8 for WordPress,['CVE-2021-24790'],2022-03-20T07:25Z
+9,cpe:2.3:a:contact_form_submissions_project:contact_form_submissions:1.0:*:*:*:*:wordpress:*:*,Contact Form Submissions Project Contact Form Submissions 1.0 for WordPress,['CVE-2021-24125'],2022-03-20T07:25Z

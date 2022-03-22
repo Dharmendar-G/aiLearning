@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:brainstormforce:ultimate_addons_for_elementor:1.21.1:*:*:*:*:wordpress:*:*,Brainstorm Force Ultimate Addons for Elementor 1.21.1 for WordPress,"['CVE-2020-13125', 'CVE-2021-24271']",2022-03-19T10:37Z
+1,cpe:2.3:a:brainstormforce:ultimate_addons_for_elementor:1.22.0:*:*:*:*:wordpress:*:*,Brainstorm Force Ultimate Addons for Elementor 1.22.0 for WordPress,"['CVE-2020-13125', 'CVE-2021-24271']",2022-03-19T10:37Z
+2,cpe:2.3:a:brainstormforce:ultimate_addons_for_elementor:1.22.0.1:*:*:*:*:wordpress:*:*,Brainstorm Force Ultimate Addons for Elementor 1.22.0.1 for WordPress,"['CVE-2020-13125', 'CVE-2021-24271']",2022-03-19T10:37Z
+3,cpe:2.3:a:brainstormforce:ultimate_addons_for_elementor:1.22.1:*:*:*:*:wordpress:*:*,Brainstorm Force Ultimate Addons for Elementor 1.22.1 for WordPress,"['CVE-2020-13125', 'CVE-2021-24271']",2022-03-19T10:37Z
+4,cpe:2.3:a:brainstormforce:ultimate_addons_for_elementor:1.23.0:*:*:*:*:wordpress:*:*,Brainstorm Force Ultimate Addons for Elementor 1.23.0 for WordPress,"['CVE-2020-13125', 'CVE-2021-24271']",2022-03-19T10:37Z
+5,cpe:2.3:a:brainstormforce:ultimate_addons_for_elementor:1.23.1:*:*:*:*:wordpress:*:*,Brainstorm Force Ultimate Addons for Elementor 1.23.1 for WordPress,"['CVE-2020-13125', 'CVE-2021-24271']",2022-03-19T10:37Z
+6,cpe:2.3:a:brainstormforce:ultimate_addons_for_elementor:1.24.0:*:*:*:*:wordpress:*:*,Brainstorm Force Ultimate Addons for Elementor 1.24.0 for WordPress,"['CVE-2020-13125', 'CVE-2021-24271']",2022-03-19T10:37Z
+7,cpe:2.3:a:brainstormforce:ultimate_addons_for_elementor:1.24.1:*:*:*:*:wordpress:*:*,Brainstorm Force Ultimate Addons for Elementor 1.24.1 for WordPress,"['CVE-2020-13125', 'CVE-2021-24271']",2022-03-19T10:37Z
+8,cpe:2.3:a:brainstormforce:ultimate_addons_for_elementor:1.24.2:*:*:*:*:wordpress:*:*,Brainstorm Force Ultimate Addons for Elementor 1.24.2 for WordPress,['CVE-2021-24271'],2022-03-19T10:37Z
+9,cpe:2.3:a:brainstormforce:ultimate_addons_for_elementor:1.24.3:*:*:*:*:wordpress:*:*,Brainstorm Force Ultimate Addons for Elementor 1.24.3 for WordPress,['CVE-2021-24271'],2022-03-19T10:37Z

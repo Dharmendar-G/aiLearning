@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:ibm:s38:-:*:*:*:*:*:*:*,IBM System z9 Enterprise Class (z9 EC) Model S38 (Machine Type 2094),[''],2022-03-21T21:50Z
+1,cpe:2.3:h:ibm:s54:-:*:*:*:*:*:*:*,IBM System z9 Enterprise Class (z9 EC) Model S54 (Machine Type 2094),[''],2022-03-21T21:50Z
+2,cpe:2.3:a:ibm:safestring_library:2021-07-22:*:*:*:*:*:*:*,IBM Safestring Library 2021-07-22,[''],2022-03-21T21:50Z
+3,cpe:2.3:a:ibm:sametime:6.5.1.0:*:*:*:*:*:*:*,IBM Sametime 6.5.1.0,['CVE-2012-3331'],2022-03-21T21:50Z
+4,cpe:2.3:a:ibm:sametime:7.0.0.0:*:*:*:*:*:*:*,IBM Sametime 7.0.0.0,['CVE-2012-3331'],2022-03-21T21:50Z
+5,cpe:2.3:a:ibm:sametime:7.5.0.0:*:*:*:*:*:*:*,IBM Sametime 7.5.0.0,['CVE-2012-3331'],2022-03-21T21:50Z
+6,cpe:2.3:a:ibm:sametime:7.5.0.1:*:*:*:*:*:*:*,IBM Sametime 7.5.0.1,[''],2022-03-21T21:50Z
+7,cpe:2.3:a:ibm:sametime:7.5.1.0:*:*:*:*:*:*:*,IBM Sametime 7.5.1.0,['CVE-2012-3331'],2022-03-21T21:50Z
+8,cpe:2.3:a:ibm:sametime:7.5.1.1:*:*:*:*:*:*:*,IBM Sametime 7.5.1.1,['CVE-2012-3331'],2022-03-21T21:50Z
+9,cpe:2.3:a:ibm:sametime:7.5.1.2:*:*:*:*:*:*:*,IBM Sametime 7.5.1.2,"['CVE-2012-3331', 'CVE-2013-6733']",2022-03-21T21:50Z

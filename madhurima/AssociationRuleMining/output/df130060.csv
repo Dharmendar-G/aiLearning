@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:nexus_1000v_switch:-:*:*:*:*:hyper-v:*:*,Cisco Nexus 1000v Switch - for Hyper-v,['CVE-2019-1963'],2022-03-19T23:08Z
+1,cpe:2.3:h:cisco:nexus_1000v_switch:-:*:*:*:*:vmware_vsphere:*:*,Cisco Nexus 1000v Switch - for Vmware Vsphere,['CVE-2019-1963'],2022-03-19T23:08Z
+2,cpe:2.3:h:cisco:nexus_1000v_switch_for_microsoft_hyper-v:-:*:*:*:*:*:*:*,Cisco Nexus 1000V Switch for Microsoft Hyper-V,['CVE-2021-1229'],2022-03-19T23:08Z
+3,cpe:2.3:h:cisco:nexus_1000v_switch_for_vmware_vsphere:-:*:*:*:*:*:*:*,Cisco Nexus 1000V Switch for VMware vSphere,['CVE-2021-1229'],2022-03-19T23:08Z
+4,cpe:2.3:h:cisco:nexus_1000ve:-:*:*:*:*:vsphere:*:*,Cisco Nexus 1000VE for vSphere,"['CVE-2019-1735', 'CVE-2020-10136', 'CVE-2020-3120', 'CVE-2020-3172', 'CVE-2022-20625']",2022-03-19T23:08Z
+5,cpe:2.3:h:cisco:nexus_1100v:-:*:*:*:*:*:*:*,Cisco Nexus 1100v,['CVE-2017-3883'],2022-03-19T23:08Z
+6,cpe:2.3:h:cisco:nexus_1110-s:-:*:*:*:*:*:*:*,Cisco Nexus 1110-S,['CVE-2018-0306'],2022-03-19T23:08Z
+7,cpe:2.3:h:cisco:nexus_1110-x:-:*:*:*:*:*:*:*,Cisco Nexus 1110-X,['CVE-2018-0306'],2022-03-19T23:08Z
+8,cpe:2.3:h:cisco:nexus_172tq-xl:-:*:*:*:*:*:*:*,Cisco Nexus 172TQ-XL,"['CVE-2018-0291', 'CVE-2018-0292', 'CVE-2018-0293', 'CVE-2018-0294', 'CVE-2018-0295', 'CVE-2018-0301', 'CVE-2018-0303', 'CVE-2018-0306', 'CVE-2018-0307', 'CVE-2018-0310', 'CVE-2018-0311', 'CVE-2018-0313', 'CVE-2018-0330', 'CVE-2018-0331']",2022-03-19T23:08Z
+9,cpe:2.3:h:cisco:nexus_2000:-:*:*:*:*:*:*:*,Cisco Nexus 2000,"['CVE-2017-12301', 'CVE-2017-3883', 'CVE-2019-1594', 'CVE-2019-1600', 'CVE-2019-1601', 'CVE-2019-1605', 'CVE-2019-1611', 'CVE-2019-1614']",2022-03-19T23:08Z

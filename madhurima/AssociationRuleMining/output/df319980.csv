@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:color_laserjet_enterprise_flow_mfp_m880z_l3u52a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise Flow MFP M880Z L3U52A,['CVE-2020-28419'],2022-03-21T13:02Z
+1,cpe:2.3:h:hp:color_laserjet_enterprise_m455_3pz95a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise M455 3PZ95A,['CVE-2020-28419'],2022-03-21T13:02Z
+2,cpe:2.3:h:hp:color_laserjet_enterprise_m552:-:*:*:*:*:*:*:*,HP Color Laserjet Enterprise M552,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T13:02Z
+3,cpe:2.3:h:hp:color_laserjet_enterprise_m552_b5l23a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise M552 B5L23A,['CVE-2020-28419'],2022-03-21T13:02Z
+4,cpe:2.3:o:hp:color_laserjet_enterprise_m552_firmware:-:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise M552 Firmware -,"['CVE-2018-5923', 'CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T13:02Z
+5,cpe:2.3:o:hp:color_laserjet_enterprise_m552_firmware:2308974_579763:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise M552 Firmware 2308974 579763,['CVE-2019-6318'],2022-03-21T13:02Z
+6,cpe:2.3:o:hp:color_laserjet_enterprise_m552_firmware:2309010_581409:*:*:*:*:*:*:*,HP Color Laserjet Enterprise M552 Firmware 2309010 581409,['CVE-2019-6318'],2022-03-21T13:02Z
+7,cpe:2.3:o:hp:color_laserjet_enterprise_m552_firmware:2407081_00060:*:*:*:*:*:*:*,HP Color Laserjet Enterprise M552 Firmware 2407081 00060,[''],2022-03-21T13:02Z
+8,cpe:2.3:h:hp:color_laserjet_enterprise_m553:-:*:*:*:*:*:*:*,HP Color Laserjet Enterprise M553,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T13:02Z
+9,cpe:2.3:h:hp:color_laserjet_enterprise_m553_b5l25a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise M553 B5L25A,['CVE-2020-28419'],2022-03-21T13:02Z

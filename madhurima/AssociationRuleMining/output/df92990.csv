@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:etrust_intrusion_detection:2.0:*:*:*:*:*:*:*,Broadcom eTrust Intrusion Detection 2.0,['CVE-2007-3875'],2022-03-19T12:21Z
+1,cpe:2.3:a:broadcom:etrust_intrusion_detection:3.0:*:*:*:*:*:*:*,Broadcom eTrust Intrusion Detection 3.0,"['CVE-2005-0968', 'CVE-2005-1693', 'CVE-2007-1005', 'CVE-2007-3302', 'CVE-2007-3875', 'CVE-2009-0042', 'CVE-2009-3587', 'CVE-2009-3588']",2022-03-19T12:21Z
+2,cpe:2.3:a:broadcom:etrust_intrusion_detection:4.0:*:*:*:*:*:*:*,Broadcom eTrust Intrusion Detection 4.0,['CVE-2009-0042'],2022-03-19T12:21Z
+3,cpe:2.3:a:broadcom:etrust_pestpatrol:-:*:*:*:*:*:*:*,Broadcom eTrust PestPatrol,[''],2022-03-19T12:21Z
+4,cpe:2.3:a:broadcom:etrust_pestpatrol:8.0:*:*:*:*:*:*:*,Broadcom eTrust PestPatrol 8.0,"['CVE-2006-3223', 'CVE-2007-2522']",2022-03-19T12:21Z
+5,cpe:2.3:a:broadcom:etrust_secure_content_manager:-:*:*:*:*:*:*:*,Broadcom eTrust Secure Content Manager,[''],2022-03-19T12:21Z
+6,cpe:2.3:a:broadcom:etrust_secure_content_manager:1.0:*:*:*:*:*:*:*,Broadcom eTrust Secure Content Manager 1.0,"['CVE-2004-0932', 'CVE-2004-0933', 'CVE-2004-0934', 'CVE-2004-0935', 'CVE-2004-0936', 'CVE-2004-0937', 'CVE-2004-1096', 'CVE-2005-1693']",2022-03-19T12:21Z
+7,cpe:2.3:a:broadcom:etrust_secure_content_manager:1.1:*:*:*:*:*:*:*,Broadcom eTrust Secure Content Manager 1.1,"['CVE-2004-0932', 'CVE-2004-0933', 'CVE-2004-0934', 'CVE-2004-0935', 'CVE-2004-0936', 'CVE-2004-0937', 'CVE-2004-1096', 'CVE-2005-1693', 'CVE-2009-3587', 'CVE-2009-3588']",2022-03-19T12:21Z
+8,cpe:2.3:a:broadcom:etrust_security_command_center:-:*:*:*:*:*:*:*,Broadcom eTrust Security Command Center,[''],2022-03-19T12:21Z
+9,cpe:2.3:a:broadcom:etrust_security_command_center:1.0:*:*:*:*:*:*:*,Broadcom eTrust Security Command Center 1.0,"['CVE-2006-4899', 'CVE-2006-4901']",2022-03-19T12:21Z

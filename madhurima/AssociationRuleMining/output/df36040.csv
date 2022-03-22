@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:spark:2.3.0:rc4:*:*:*:*:*:*,Apache Software Foundation Spark 2.3.0 Release Candidate 4,"['CVE-2018-11760', 'CVE-2018-11770', 'CVE-2018-11804', 'CVE-2018-1334', 'CVE-2018-17190', 'CVE-2018-8024', 'CVE-2019-10099', 'CVE-2020-9480']",2022-03-18T20:06Z
+1,cpe:2.3:a:apache:spark:2.3.1:-:*:*:*:*:*:*,Apache Software Foundation Spark 2.3.1,"['CVE-2018-11760', 'CVE-2018-11770', 'CVE-2018-11804', 'CVE-2018-17190', 'CVE-2019-10099', 'CVE-2020-9480']",2022-03-18T20:06Z
+2,cpe:2.3:a:apache:spark:2.3.1:-:*:*:*:*:*:*,Apache Software Foundation Spark 2.3.1,"['CVE-2018-11760', 'CVE-2018-11770', 'CVE-2018-11804', 'CVE-2018-17190', 'CVE-2019-10099', 'CVE-2020-9480']",2022-03-18T20:07Z
+3,cpe:2.3:a:apache:spark:2.3.1:rc1:*:*:*:*:*:*,Apache Software Foundation Spark 2.3.1 Release Candidate 1,"['CVE-2018-11760', 'CVE-2018-11770', 'CVE-2018-11804', 'CVE-2018-17190', 'CVE-2019-10099', 'CVE-2020-9480']",2022-03-18T20:07Z
+4,cpe:2.3:a:apache:spark:2.3.1:rc2:*:*:*:*:*:*,Apache Software Foundation Spark 2.3.1 Release Candidate 2,"['CVE-2018-11760', 'CVE-2018-11770', 'CVE-2018-11804', 'CVE-2018-17190', 'CVE-2019-10099', 'CVE-2020-9480']",2022-03-18T20:07Z
+5,cpe:2.3:a:apache:spark:2.3.1:rc3:*:*:*:*:*:*,Apache Software Foundation Spark 2.3.1 Release Candidate 3,"['CVE-2018-11760', 'CVE-2018-11770', 'CVE-2018-11804', 'CVE-2018-17190', 'CVE-2019-10099', 'CVE-2020-9480']",2022-03-18T20:07Z
+6,cpe:2.3:a:apache:spark:2.3.1:rc4:*:*:*:*:*:*,Apache Software Foundation Spark 2.3.1 Release Candidate 4,"['CVE-2018-11760', 'CVE-2018-11770', 'CVE-2018-11804', 'CVE-2018-17190', 'CVE-2019-10099', 'CVE-2020-9480']",2022-03-18T20:07Z
+7,cpe:2.3:a:apache:spark:2.3.2:-:*:*:*:*:*:*,Apache Software Foundation Spark 2.3.2,"['CVE-2018-11770', 'CVE-2018-11804', 'CVE-2018-17190', 'CVE-2020-9480']",2022-03-18T20:07Z
+8,cpe:2.3:a:apache:spark:2.3.2:-:*:*:*:*:*:*,Apache Software Foundation Spark 2.3.2,"['CVE-2018-11770', 'CVE-2018-11804', 'CVE-2018-17190', 'CVE-2020-9480']",2022-03-18T20:07Z
+9,cpe:2.3:a:apache:spark:2.3.2:rc1:*:*:*:*:*:*,Apache Software Foundation Spark 2.3.2 Release Candidate 1,"['CVE-2018-11770', 'CVE-2018-11804', 'CVE-2018-17190', 'CVE-2020-9480']",2022-03-18T20:07Z

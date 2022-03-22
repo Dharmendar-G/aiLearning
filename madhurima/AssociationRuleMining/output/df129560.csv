@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:n9k-c93360yc-fx2:-:*:*:*:*:*:*:*,Cisco N9K-C93360YC-FX2,['CVE-2022-20623'],2022-03-19T22:58Z
+1,cpe:2.3:h:cisco:n9k-c9336c-fx2:-:*:*:*:*:*:*:*,Cisco N9K-C9336C-FX2,['CVE-2022-20623'],2022-03-19T22:58Z
+2,cpe:2.3:h:cisco:n9k-c9348gc-fxp:-:*:*:*:*:*:*:*,Cisco N9K-C9348GC-FXP,"['CVE-2019-1649', 'CVE-2022-20623']",2022-03-19T22:58Z
+3,cpe:2.3:h:cisco:n9k-c93600cd-gx:-:*:*:*:*:*:*:*,Cisco N9K-C93600CD-GX,"['CVE-2022-20623', 'CVE-2022-20624', 'CVE-2022-20625', 'CVE-2022-20650']",2022-03-19T22:58Z
+4,cpe:2.3:h:cisco:n9k-c9364c:-:*:*:*:*:*:*:*,Cisco N9K-C9364C,['CVE-2022-20623'],2022-03-19T22:58Z
+5,cpe:2.3:h:cisco:n9k-c9364c-gx:-:*:*:*:*:*:*:*,Cisco N9K-C9364C-GX,['CVE-2022-20623'],2022-03-19T22:58Z
+6,cpe:2.3:h:cisco:n9k-c9372px:-:*:*:*:*:*:*:*,Cisco N9K-C9372PX,[''],2022-03-19T22:58Z
+7,cpe:2.3:o:cisco:n9k-c9372px_firmware:13.2\(3n\):*:*:*:*:*:*:*,Cisco N9K-C9372PX Firmware 13.2(3n),[''],2022-03-19T22:58Z
+8,cpe:2.3:o:cisco:n9k-c9372px_firmware:14.2\(4i\):*:*:*:*:*:*:*,Cisco N9K-C9372PX Firmware 14.2(4i),[''],2022-03-19T22:58Z
+9,cpe:2.3:h:cisco:n9k-c9372px-e:-:*:*:*:*:*:*:*,Cisco N9K-C9372PX-E,[''],2022-03-19T22:58Z

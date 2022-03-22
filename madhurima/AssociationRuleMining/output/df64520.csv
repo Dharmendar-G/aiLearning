@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:avaya:csu_5000:-:*:*:*:*:*:*:*,Avaya CSU 5000,[''],2022-03-19T04:14Z
+1,cpe:2.3:h:avaya:csu_5000:3.2.40:*:*:*:*:*:*:*,Avaya CSU 5000 3.2.40,['CVE-2006-0718'],2022-03-19T04:14Z
+2,cpe:2.3:a:avaya:customer_interaction_express:-:*:*:*:*:*:*:*,Avaya Customer Interaction Express,['CVE-2011-1229'],2022-03-19T04:14Z
+3,cpe:2.3:h:avaya:definity_one_media_server:-:*:*:*:*:*:*:*,Avaya DefinityOne Media Server,"['CVE-2004-0201', 'CVE-2004-0205', 'CVE-2004-0212', 'CVE-2004-0215', 'CVE-2004-0839', 'CVE-2004-0841', 'CVE-2004-0842', 'CVE-2004-1050', 'CVE-2007-1765', 'CVE-2007-2374']",2022-03-19T04:14Z
+4,cpe:2.3:h:avaya:definity_one_media_server:r9:*:*:*:*:*:*:*,Avaya DefinityOne Media Servers R9,"['CVE-2004-0201', 'CVE-2004-0205', 'CVE-2004-0212', 'CVE-2004-0215', 'CVE-2004-0839', 'CVE-2004-0841', 'CVE-2004-0842', 'CVE-2004-1050', 'CVE-2007-1765', 'CVE-2007-2374']",2022-03-19T04:14Z
+5,cpe:2.3:h:avaya:definity_one_media_server:r10:*:*:*:*:*:*:*,Avaya DefinityOne Media Servers R10,"['CVE-2004-0201', 'CVE-2004-0205', 'CVE-2004-0212', 'CVE-2004-0215', 'CVE-2004-0839', 'CVE-2004-0841', 'CVE-2004-0842', 'CVE-2004-1050', 'CVE-2007-1765', 'CVE-2007-2374']",2022-03-19T04:14Z
+6,cpe:2.3:a:avaya:enterprise_manager:-:*:*:*:*:*:*:*,Avaya Enterprise Manager,['CVE-2011-1229'],2022-03-19T04:14Z
+7,cpe:2.3:a:avaya:equinox_conferencing:9.0.0:*:*:*:*:*:*:*,Avaya Equinox Conferencing 9.0.0,"['CVE-2020-7033', 'CVE-2020-7037', 'CVE-2020-7038']",2022-03-19T04:14Z
+8,cpe:2.3:a:avaya:equinox_conferencing:9.1.9:*:*:*:*:*:*:*,Avaya Equinox Conferencing 9.1.9,"['CVE-2020-7033', 'CVE-2020-7037', 'CVE-2020-7038']",2022-03-19T04:14Z
+9,cpe:2.3:a:avaya:equinox_conferencing:9.1.10:*:*:*:*:*:*:*,Avaya Equinox Conferencing 9.1.10,"['CVE-2020-7037', 'CVE-2020-7038']",2022-03-19T04:14Z

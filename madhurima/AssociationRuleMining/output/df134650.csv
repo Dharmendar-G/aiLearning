@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:smart_software_manager_on-prem:-:*:*:*:*:*:*:*,Cisco Smart Software Manager On-Prem,"['CVE-2019-16029', 'CVE-2020-3158', 'CVE-2020-3245', 'CVE-2021-1218', 'CVE-2021-1219', 'CVE-2021-1222', 'CVE-2021-34766']",2022-03-20T00:20Z
+1,cpe:2.3:a:cisco:smart_software_manager_on-prem:5.0:*:*:*:*:*:*:*,Cisco Smart Software Manager On-Prem 5.0,"['CVE-2019-16029', 'CVE-2020-3158', 'CVE-2020-3245', 'CVE-2021-1218', 'CVE-2021-1219', 'CVE-2021-1222', 'CVE-2021-34766']",2022-03-20T00:20Z
+2,cpe:2.3:a:cisco:smart_software_manager_on-prem:5.1.0:*:*:*:*:*:*:*,Cisco Smart Software Manager On-Prem 5.1.0,"['CVE-2019-16029', 'CVE-2020-3158', 'CVE-2020-3245', 'CVE-2021-1219', 'CVE-2021-1222', 'CVE-2021-34766']",2022-03-20T00:20Z
+3,cpe:2.3:a:cisco:smart_software_manager_on-prem:6.3.0:*:*:*:*:*:*:*,Cisco Smart Software Manager On-Prem 6.3.0,"['CVE-2019-16029', 'CVE-2020-3158', 'CVE-2020-3245', 'CVE-2021-34766']",2022-03-20T00:20Z
+4,cpe:2.3:a:cisco:smart_software_manager_on-prem:7-201910:*:*:*:*:*:*:*,Cisco Smart Software Manager On-Prem 7-201910,"['CVE-2020-3158', 'CVE-2020-3245', 'CVE-2021-34766']",2022-03-20T00:20Z
+5,cpe:2.3:a:cisco:smart_software_manager_on-prem:7-202001:*:*:*:*:*:*:*,Cisco Smart Software Manager On-Prem 7-202001,"['CVE-2020-3245', 'CVE-2021-34766']",2022-03-20T00:20Z
+6,cpe:2.3:a:cisco:smart_software_manager_on-prem:8-202004:*:*:*:*:*:*:*,Cisco Smart Software Manager On-Prem 8-202004,"['CVE-2020-3443', 'CVE-2021-34766']",2022-03-20T00:20Z
+7,cpe:2.3:a:cisco:smart_software_manager_on-prem:8-202108:*:*:*:*:*:*:*,Cisco Smart Software Manager On-Prem 8-202108,[''],2022-03-20T00:20Z
+8,cpe:2.3:a:cisco:smart_software_manager_satellite:5.1.0:*:*:*:*:*:*:*,Cisco Smart Software Manager Satellite 5.1.0,"['CVE-2021-1138', 'CVE-2021-1139', 'CVE-2021-1140', 'CVE-2021-1141', 'CVE-2021-1142']",2022-03-20T00:20Z
+9,cpe:2.3:h:cisco:sm-x_layer_2\/3_etherswitch_service_module:-:*:*:*:*:*:*:*,Cisco SM-X Layer 2/3 Etherswitch Service Module -,"['CVE-2017-3881', 'CVE-2018-0282']",2022-03-20T00:20Z

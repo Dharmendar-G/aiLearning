@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:canonical:whoopsie:0.2.66ubuntu0.3:*:*:*:*:*:*:*,Canonical whoopsie 0.2.66ubuntu0.3,[''],2022-03-19T15:28Z
+1,cpe:2.3:a:canonical:whoopsie:0.2.67:*:*:*:*:*:*:*,Canonical whoopsie 0.2.67,['CVE-2020-11937'],2022-03-19T15:28Z
+2,cpe:2.3:a:canonical:whoopsie:0.2.68:*:*:*:*:*:*:*,Canonical whoopsie 0.2.68,['CVE-2020-11937'],2022-03-19T15:28Z
+3,cpe:2.3:a:canonical:whoopsie:0.2.69:*:*:*:*:*:*:*,Canonical whoopsie 0.2.69,['CVE-2020-11937'],2022-03-19T15:28Z
+4,cpe:2.3:a:canonical:whoopsie:0.2.69ubuntu0.1:*:*:*:*:*:*:*,Canonical whoopsie 0.2.69ubuntu0.1,[''],2022-03-19T15:28Z
+5,cpe:2.3:a:canonical:whoopsie:0.2.71:*:*:*:*:*:*:*,Canonical whoopsie 0.2.71,[''],2022-03-19T15:28Z
+6,cpe:2.3:a:canon-its:accessguardian:-:*:*:*:*:*:*:*,キヤノンITソリューションズ ACCESSGUARDIAN,[''],2022-03-19T15:28Z
+7,cpe:2.3:a:canon-its:accessguardian:3.0:*:*:*:*:*:*:*,Canon IT Solutions ACCESSGUARDIAN 3.0,['CVE-2009-4608'],2022-03-19T15:28Z
+8,cpe:2.3:a:canon-its:accessguardian:3.0.14:*:*:*:*:*:*:*,Canon IT Solutions ACCESSGUARDIAN 3.0.14,['CVE-2009-4608'],2022-03-19T15:29Z
+9,cpe:2.3:a:canon-its:accessguardian:3.5:*:*:*:*:*:*:*,Canon IT Solutions ACCESSGUARDIAN 3.5,['CVE-2009-4608'],2022-03-19T15:29Z

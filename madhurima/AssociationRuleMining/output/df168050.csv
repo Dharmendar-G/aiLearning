@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cups_easy_project:cups_easy:1.0:*:*:*:*:*:*:*,Cups Easy Project Cups Easy 1.0,['CVE-2020-8424'],2022-03-20T09:23Z
+1,cpe:2.3:a:cups-pk-helper_project:cups-pk-helper:0.0.1:*:*:*:*:*:*:*,cups-pk-helper Project cups-pk-helper 0.0.1,['CVE-2012-4510'],2022-03-20T09:23Z
+2,cpe:2.3:a:cups-pk-helper_project:cups-pk-helper:0.0.2:*:*:*:*:*:*:*,cups-pk-helper Project cups-pk-helper 0.0.2,['CVE-2012-4510'],2022-03-20T09:23Z
+3,cpe:2.3:a:cups-pk-helper_project:cups-pk-helper:0.0.3:*:*:*:*:*:*:*,cups-pk-helper Project cups-pk-helper 0.0.3,['CVE-2012-4510'],2022-03-20T09:23Z
+4,cpe:2.3:a:cups-pk-helper_project:cups-pk-helper:0.0.4:*:*:*:*:*:*:*,cups-pk-helper Project cups-pk-helper 0.0.4,['CVE-2012-4510'],2022-03-20T09:23Z
+5,cpe:2.3:a:cups-pk-helper_project:cups-pk-helper:0.1.0:*:*:*:*:*:*:*,cups-pk-helper Project cups-pk-helper 0.1.0,['CVE-2012-4510'],2022-03-20T09:23Z
+6,cpe:2.3:a:cups-pk-helper_project:cups-pk-helper:0.1.1:*:*:*:*:*:*:*,cups-pk-helper Project cups-pk-helper 0.1.1,['CVE-2012-4510'],2022-03-20T09:23Z
+7,cpe:2.3:a:cups-pk-helper_project:cups-pk-helper:0.1.2:*:*:*:*:*:*:*,cups-pk-helper Project cups-pk-helper 0.1.2,['CVE-2012-4510'],2022-03-20T09:23Z
+8,cpe:2.3:a:cups-pk-helper_project:cups-pk-helper:0.1.3:*:*:*:*:*:*:*,cups-pk-helper Project cups-pk-helper 0.1.3,['CVE-2012-4510'],2022-03-20T09:23Z
+9,cpe:2.3:a:cups-pk-helper_project:cups-pk-helper:0.2.0:*:*:*:*:*:*:*,cups-pk-helper Project cups-pk-helper 0.2.0,['CVE-2012-4510'],2022-03-20T09:23Z

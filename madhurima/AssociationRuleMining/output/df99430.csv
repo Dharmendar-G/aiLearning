@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:caddyserver:caddy:0.10.14:*:*:*:*:*:*:*,Caddyserver Caddy 0.10.14,['CVE-2018-19148'],2022-03-19T14:33Z
+1,cpe:2.3:a:caddyserver:caddy:0.11.0:*:*:*:*:*:*:*,Caddyserver Caddy 0.11.0,['CVE-2018-19148'],2022-03-19T14:33Z
+2,cpe:2.3:a:caddyserver:caddy:0.11.1:*:*:*:*:*:*:*,Caddyserver Caddy 0.11.1,[''],2022-03-19T14:33Z
+3,cpe:2.3:a:cadpage:cadpage:1.7.44:*:*:*:*:android:*:*,cadpage Cadpage (aka net.anei.cadpage) for android 1.7.44,['CVE-2014-7043'],2022-03-19T14:33Z
+4,cpe:2.3:a:cafuego:simple_document_management_system:1.1.4:*:*:*:*:*:*:*,cafuego Simple Document Management System 1.1.4,"['CVE-2005-3877', 'CVE-2008-6220', 'CVE-2008-6236', 'CVE-2010-4986']",2022-03-19T14:33Z
+5,cpe:2.3:a:cafuego:simple_document_management_system:1.1.5:*:*:*:*:*:*:*,cafuego Simple Document Management System 1.1.4,"['CVE-2005-3877', 'CVE-2008-6220', 'CVE-2008-6236', 'CVE-2010-4986']",2022-03-19T14:34Z
+6,cpe:2.3:a:cafuego:simple_document_management_system:1.1.6:*:*:*:*:*:*:*,cafuego Simple Document Management System 1.1.6,"['CVE-2005-3877', 'CVE-2010-4986']",2022-03-19T14:34Z
+7,[0],[0],[0],[0]
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

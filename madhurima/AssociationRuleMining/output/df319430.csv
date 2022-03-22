@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:arcsight_logger:6.71:*:*:*:*:*:*:*,HP ArcSight Logger 6.71,['CVE-2019-11655'],2022-03-21T12:55Z
+1,cpe:2.3:h:hp:arcsight_logger_appliance:l7400-san:*:*:*:*:*:*:*,HP ArcSight Logger Appliance Model L7400-SAN,['CVE-2012-2960'],2022-03-21T12:55Z
+2,cpe:2.3:o:hp:arcsight_logger_appliance_firmware:5.2.0.6288.0:*:*:*:*:*:*:*,HP ArcSight Logger Appliance Firmware 5.2.0.6288.0,['CVE-2012-2960'],2022-03-21T12:55Z
+3,cpe:2.3:a:hp:arcsight_management_center:2.0:p1:*:*:*:*:*:*,HP ArcSight Management Center 2.0 P1,"['CVE-2015-6030', 'CVE-2018-6500', 'CVE-2018-6501', 'CVE-2018-6502', 'CVE-2018-6503', 'CVE-2018-6505', 'CVE-2019-3486']",2022-03-21T12:55Z
+4,cpe:2.3:a:hp:arcsight_management_center:2.9.1:*:*:*:*:*:*:*,HP ArcSight Management Center 2.9.1,"['CVE-2018-6500', 'CVE-2018-6501', 'CVE-2018-6502', 'CVE-2018-6503', 'CVE-2018-6505']",2022-03-21T12:55Z
+5,cpe:2.3:a:hp:arcsight_winc_connector:-:*:*:*:*:*:*:*,HP ArcSight WINC Connector,['CVE-2016-4391'],2022-03-21T12:55Z
+6,cpe:2.3:a:hp:arcsight_winc_connector:7.3.0:*:*:*:*:*:*:*,HP ArcSight WINC Connector 7.3.0,[''],2022-03-21T12:55Z
+7,cpe:2.3:a:hp:array_configuration_utility:7.80.6.0:*:*:*:*:*:*:*,HP Array Configuration Utility 7.80.6.0,['CVE-2013-6216'],2022-03-21T12:55Z
+8,cpe:2.3:a:hp:array_configuration_utility:7.85.18.0:*:*:*:*:*:*:*,HP Array Configuration Utility 7.85.18.0,['CVE-2013-6216'],2022-03-21T12:55Z
+9,cpe:2.3:a:hp:array_configuration_utility:8.0.14.0:*:*:*:*:*:*:*,HP Array Configuration Utility 8.0.14.0,['CVE-2013-6216'],2022-03-21T12:55Z

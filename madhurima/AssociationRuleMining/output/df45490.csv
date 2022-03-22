@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arangodb:arangodb:3.7.13.1:*:*:*:*:*:*:*,ArangoDB 3.7.13.1,"['CVE-2021-25939', 'CVE-2021-25940']",2022-03-18T22:49Z
+1,cpe:2.3:a:arangodb:arangodb:3.7.14:*:*:*:*:*:*:*,ArangoDB 3.7.14,"['CVE-2021-25939', 'CVE-2021-25940']",2022-03-18T22:49Z
+2,cpe:2.3:a:arangodb:arangodb:3.7.15:*:*:*:*:*:*:*,ArangoDB 3.7.15,"['CVE-2021-25939', 'CVE-2021-25940']",2022-03-18T22:49Z
+3,cpe:2.3:a:arangodb:arangodb:3.8.0:-:*:*:*:*:*:*,ArangoDB 3.8.0,"['CVE-2021-25939', 'CVE-2021-25940']",2022-03-18T22:49Z
+4,cpe:2.3:a:arangodb:arangodb:3.8.0:alpha1:*:*:*:*:*:*,ArangoDB 3.8.0 Alpha 1,"['CVE-2021-25939', 'CVE-2021-25940']",2022-03-18T22:49Z
+5,cpe:2.3:a:arangodb:arangodb:3.8.0:beta1:*:*:*:*:*:*,ArangoDB 3.8.0 Beta 1,"['CVE-2021-25939', 'CVE-2021-25940']",2022-03-18T22:49Z
+6,cpe:2.3:a:arangodb:arangodb:3.8.0:rc1:*:*:*:*:*:*,ArangoDB 3.8.0 Release Candidate 1,"['CVE-2021-25939', 'CVE-2021-25940']",2022-03-18T22:49Z
+7,cpe:2.3:a:arangodb:arangodb:3.8.0:rc2:*:*:*:*:*:*,ArangoDB 3.8.0 Release Candidate 2,"['CVE-2021-25939', 'CVE-2021-25940']",2022-03-18T22:49Z
+8,cpe:2.3:a:arangodb:arangodb:3.8.1:*:*:*:*:*:*:*,ArangoDB 3.8.1,"['CVE-2021-25939', 'CVE-2021-25940']",2022-03-18T22:49Z
+9,cpe:2.3:a:arangodb:arangodb:3.8.2:*:*:*:*:*:*:*,ArangoDB 3.8.2,"['CVE-2021-25939', 'CVE-2021-25940']",2022-03-18T22:49Z

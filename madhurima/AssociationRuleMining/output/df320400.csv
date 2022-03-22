@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:converged_infrastructure_solution_sizer_suite:2.13.0:*:*:*:*:*:*:*,HP Converged Infrastructure Solution Sizer Suite 2.13.0,['CVE-2016-4377'],2022-03-21T13:07Z
+1,cpe:2.3:a:hp:copy:45.4.157.0:*:*:*:*:*:*:*,HP Copy 45.4.157.0,[''],2022-03-21T13:07Z
+2,cpe:2.3:a:hp:copy:90.0.146.0:*:*:*:*:*:*:*,HP Copy 90.0.146.0,[''],2022-03-21T13:07Z
+3,cpe:2.3:a:hp:copy:100.0.170.0:*:*:*:*:*:*:*,HP Copy 100.0.170.0,[''],2022-03-21T13:07Z
+4,cpe:2.3:h:hp:cp1160_network_printer:-:*:*:*:*:*:*:*,HP Network Printer CP1160,[''],2022-03-21T13:07Z
+5,cpe:2.3:h:hp:cp1700_network_printer:-:*:*:*:*:*:*:*,HP Network Printer CP1700,[''],2022-03-21T13:07Z
+6,cpe:2.3:h:hp:cq176:-:*:*:*:*:*:*:*,HP CQ176,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:07Z
+7,cpe:2.3:o:hp:cq176_firmware:1828a:*:*:*:*:*:*:*,HP CQ176 Firmware 1828A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:07Z
+8,cpe:2.3:h:hp:cq176a:-:*:*:*:*:*:*:*,HP CQ176A,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:07Z
+9,cpe:2.3:o:hp:cq176a_firmware:1829b:*:*:*:*:*:*:*,HP CQ176A Firmware  1829B,"['CVE-2018-5924', 'CVE-2018-5925']",2022-03-21T13:07Z

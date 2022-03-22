@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:forms_experience_builder:8.6.4:*:*:*:*:*:*:*,IBM Forms Experience Builder 8.6.4,[''],2022-03-21T20:39Z
+1,cpe:2.3:a:ibm:forms_experience_builder:8.6.4.1:*:*:*:*:*:*:*,IBM Forms Experience Builder 8.6.4.1,[''],2022-03-21T20:39Z
+2,cpe:2.3:a:ibm:forms_experience_builder:8.6.4.2:*:*:*:*:*:*:*,IBM Forms Experience Builder 8.6.4.2,[''],2022-03-21T20:39Z
+3,cpe:2.3:a:ibm:forms_server:4.0.0.0:*:*:*:*:*:*:*,IBM Forms Server 4.0.0.0,['CVE-2016-0223'],2022-03-21T20:39Z
+4,cpe:2.3:a:ibm:forms_server:8.0.0.0:*:*:*:*:*:*:*,IBM Forms Server 8.0.0.0,['CVE-2016-0223'],2022-03-21T20:39Z
+5,cpe:2.3:a:ibm:forms_server:8.0.1.0:*:*:*:*:*:*:*,IBM Forms Server 8.0.1.0,['CVE-2016-0223'],2022-03-21T20:39Z
+6,cpe:2.3:a:ibm:forms_server:8.1.0.0:*:*:*:*:*:*:*,IBM Forms Server 8.1.0.0,['CVE-2016-0223'],2022-03-21T20:39Z
+7,cpe:2.3:a:ibm:forms_server:8.2.0.0:*:*:*:*:*:*:*,IBM Forms Server 8.2.0.0,['CVE-2016-0223'],2022-03-21T20:39Z
+8,cpe:2.3:a:ibm:forms_viewer:4.0.0:*:*:*:*:*:*:*,IBM Forms Viewer 4.0.0,['CVE-2013-5447'],2022-03-21T20:39Z
+9,cpe:2.3:a:ibm:forms_viewer:4.0.0.1:*:*:*:*:*:*:*,IBM Forms Viewer 4.0.0.1,['CVE-2013-5447'],2022-03-21T20:39Z

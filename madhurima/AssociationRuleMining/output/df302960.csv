@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:h5ai_project:h5ai:0.29.1:*:*:*:*:*:*:*,h5ai project h5ai 0.29.1,[''],2022-03-21T08:37Z
+1,cpe:2.3:a:h5ai_project:h5ai:0.29.2:*:*:*:*:*:*:*,h5ai project h5ai 0.29.2,[''],2022-03-21T08:37Z
+2,cpe:2.3:a:h5ai_project:h5ai:0.30.0:*:*:*:*:*:*:*,h5ai project h5ai 0.30.0,[''],2022-03-21T08:37Z
+3,cpe:2.3:h:hachi:hv-04rd_pro:-:*:*:*:*:*:*:*,Hachi HV-04RD PRO,['CVE-2013-1391'],2022-03-21T08:37Z
+4,cpe:2.3:o:hachi:hv-04rd_pro_firmware:-:*:*:*:*:*:*:*,Hachi HV-04RD PRO Firmware,['CVE-2013-1391'],2022-03-21T08:37Z
+5,cpe:2.3:h:hachi:hv-08rd_pro:-:*:*:*:*:*:*:*,Hachi HV-08RD PRO,['CVE-2013-1391'],2022-03-21T08:37Z
+6,cpe:2.3:o:hachi:hv-08rd_pro_firmware:-:*:*:*:*:*:*:*,Hachi HV-08RD PRO Firmware,['CVE-2013-1391'],2022-03-21T08:37Z
+7,cpe:2.3:a:hack:hfish:0.1:*:*:*:*:*:*:*,Hack HFish 0.1,[''],2022-03-21T08:37Z
+8,cpe:2.3:a:hack:hfish:0.1.1:*:*:*:*:*:*:*,Hack HFish 0.1.1,[''],2022-03-21T08:37Z
+9,cpe:2.3:a:hack:hfish:0.2:*:*:*:*:*:*:*,Hack HFish 0.2,[''],2022-03-21T08:37Z

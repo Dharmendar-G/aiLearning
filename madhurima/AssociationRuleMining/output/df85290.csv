@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:boot2docker:boot2docker:19.03.4:-:*:*:-:*:*:*,Boot2docker 19.03.4,[''],2022-03-19T09:55Z
+1,cpe:2.3:o:boot2docker:boot2docker:19.03.4:rc1:*:*:-:*:*:*,Boot2docker 19.03.4 Release Candidate 1,[''],2022-03-19T09:55Z
+2,cpe:2.3:o:boot2docker:boot2docker:19.03.5:-:*:*:-:*:*:*,Boot2docker 19.03.5,[''],2022-03-19T09:55Z
+3,cpe:2.3:o:boot2docker:boot2docker:19.03.5:beta1:*:*:-:*:*:*,Boot2docker 19.03.5 Beta 1,[''],2022-03-19T09:55Z
+4,cpe:2.3:o:boot2docker:boot2docker:19.03.5:beta2:*:*:-:*:*:*,Boot2docker 19.03.5 Beta 2,[''],2022-03-19T09:56Z
+5,cpe:2.3:o:boot2docker:boot2docker:19.03.5:rc1:*:*:-:*:*:*,Boot2docker 19.03.5 Release Candidate 1,[''],2022-03-19T09:56Z
+6,cpe:2.3:a:bootstrap_table_project:bootstrap_table:-:*:*:*:*:*:*:*,Bootstrap Table Project Bootstrap Table,['CVE-2021-23472'],2022-03-19T09:56Z
+7,cpe:2.3:a:bootstrap_table_project:bootstrap_table:1.0.1:*:*:*:*:*:*:*,Bootstrap Table Project Bootstrap Table 1.0.1,['CVE-2021-23472'],2022-03-19T09:56Z
+8,cpe:2.3:a:bootstrap_table_project:bootstrap_table:1.0.2:*:*:*:*:*:*:*,Bootstrap Table Project Bootstrap Table 1.0.2,['CVE-2021-23472'],2022-03-19T09:56Z
+9,cpe:2.3:a:bootstrap_table_project:bootstrap_table:1.0.3:*:*:*:*:*:*:*,Bootstrap Table Project Bootstrap Table 1.0.3,['CVE-2021-23472'],2022-03-19T09:56Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:amd:ryzen_pro_2400g_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen Pro 2400g Firmware ,['CVE-2020-12965'],2022-03-18T16:10Z
+1,cpe:2.3:h:amd:ryzen_pro_2400ge:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen Pro 2400ge -,['CVE-2020-12965'],2022-03-18T16:10Z
+2,cpe:2.3:o:amd:ryzen_pro_2400ge_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen Pro 2400ge Firmware ,['CVE-2020-12965'],2022-03-18T16:10Z
+3,cpe:2.3:h:amd:ryzen_pro_3200g:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen Pro 3200g -,['CVE-2020-12965'],2022-03-18T16:10Z
+4,cpe:2.3:o:amd:ryzen_pro_3200g_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen Pro 3200g Firmware ,['CVE-2020-12965'],2022-03-18T16:10Z
+5,cpe:2.3:h:amd:ryzen_pro_3200ge:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen Pro 3200ge -,['CVE-2020-12965'],2022-03-18T16:10Z
+6,cpe:2.3:o:amd:ryzen_pro_3200ge_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen Pro 3200ge Firmware ,['CVE-2020-12965'],2022-03-18T16:10Z
+7,cpe:2.3:h:amd:ryzen_pro_3350g:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen Pro 3350g -,['CVE-2020-12965'],2022-03-18T16:10Z
+8,cpe:2.3:o:amd:ryzen_pro_3350g_firmware:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen Pro 3350g Firmware ,['CVE-2020-12965'],2022-03-18T16:10Z
+9,cpe:2.3:h:amd:ryzen_pro_3400g:-:*:*:*:*:*:*:*,Advanced Micro Devices (AMD) Ryzen Pro 3400g -,['CVE-2020-12965'],2022-03-18T16:10Z

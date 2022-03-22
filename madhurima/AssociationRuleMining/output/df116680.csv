@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:catalyst_2960l-48ts-ll:-:*:*:*:*:*:*:*,Cisco Catalyst 2960l-48ts-ll -,"['CVE-2017-3881', 'CVE-2018-0161']",2022-03-19T18:52Z
+1,cpe:2.3:h:cisco:catalyst_2960l-8ps-ll:-:*:*:*:*:*:*:*,Cisco Catalyst 2960l-8ps-ll -,"['CVE-2017-3881', 'CVE-2018-0161']",2022-03-19T18:52Z
+2,cpe:2.3:h:cisco:catalyst_2960l-8ts-ll:-:*:*:*:*:*:*:*,Cisco Catalyst 2960l-8ts-ll -,"['CVE-2017-3881', 'CVE-2018-0161']",2022-03-19T18:52Z
+3,cpe:2.3:h:cisco:catalyst_2960pd-8tt-l:-:*:*:*:*:*:*:*,Cisco Catalyst 2960PD-8TT-L,['CVE-2017-3881'],2022-03-19T18:52Z
+4,cpe:2.3:h:cisco:catalyst_2960-plus_24lc-l:-:*:*:*:*:*:*:*,Cisco Catalyst 2960-Plus 24LC-L,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:52Z
+5,cpe:2.3:h:cisco:catalyst_2960-plus_24lc-s:-:*:*:*:*:*:*:*,Cisco Catalyst 2960-Plus 24LC-S,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:52Z
+6,cpe:2.3:h:cisco:catalyst_2960-plus_24pc-l:-:*:*:*:*:*:*:*,Cisco Catalyst 2960-Plus 24PC-L,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:53Z
+7,cpe:2.3:h:cisco:catalyst_2960-plus_24pc-s:-:*:*:*:*:*:*:*,Cisco Catalyst 2960-Plus 24PC-S,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:53Z
+8,cpe:2.3:h:cisco:catalyst_2960-plus_24tc-l:-:*:*:*:*:*:*:*,Cisco Catalyst 2960-Plus 24TC-L,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:53Z
+9,cpe:2.3:h:cisco:catalyst_2960-plus_24tc-s:-:*:*:*:*:*:*:*,Cisco Catalyst 2960-Plus 24TC-S,"['CVE-2017-3881', 'CVE-2018-0156', 'CVE-2018-0282']",2022-03-19T18:53Z

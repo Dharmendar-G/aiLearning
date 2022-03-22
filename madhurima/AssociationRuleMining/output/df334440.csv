@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:honor_view_20_firmware:-:*:*:*:*:*:*:*,Huawei HONOR VIEW 20 FIRMWARE,"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506', 'CVE-2020-1808', 'CVE-2020-9074', 'CVE-2020-9235']",2022-03-21T17:54Z
+1,cpe:2.3:o:huawei:honor_view_20_firmware:9.1.0.238\(c432e1r3p1\):*:*:*:*:*:*:*,Huawei Honor View 20 Firmware 9.1.0.238(C432E1R3P1),"['CVE-2020-1808', 'CVE-2020-9074', 'CVE-2020-9235']",2022-03-21T17:54Z
+2,cpe:2.3:o:huawei:honor_view_20_firmware:10.0.0.179\(c636e3r4p3\):*:*:*:*:*:*:*,Huawei Honor View 20 Firmware 10.0.0.179(C636E3R4P3),"['CVE-2020-1808', 'CVE-2020-9074', 'CVE-2020-9235']",2022-03-21T17:54Z
+3,cpe:2.3:o:huawei:honor_view_20_firmware:10.0.0.180\(c185e3r3p3\):*:*:*:*:*:*:*,Huawei Honor View 20 Firmware 10.0.0.180(C185E3R3P3),"['CVE-2020-1808', 'CVE-2020-9074', 'CVE-2020-9235']",2022-03-21T17:54Z
+4,cpe:2.3:o:huawei:honor_view_20_firmware:10.0.0.180\(c432e10r3p4\):*:*:*:*:*:*:*,Huawei Honor View 20 Firmware 10.0.0.180(C432E10R3P4),"['CVE-2020-1808', 'CVE-2020-9074', 'CVE-2020-9235']",2022-03-21T17:54Z
+5,cpe:2.3:o:huawei:honor_view_20_firmware:10.0.0.188\(c00e62r2p11\):*:*:*:*:*:*:*,Huawei Honor View 20 Firmware 10.0.0.188(C00E62R2P11),"['CVE-2020-9074', 'CVE-2020-9235']",2022-03-21T17:54Z
+6,cpe:2.3:o:huawei:honor_view_20_firmware:10.0.0.195\(c00e62r4p11\):*:*:*:*:*:*:*,Huawei Honor View 20 Firmware 10.0.0.195(C00E62R4P11),"['CVE-2020-9074', 'CVE-2020-9235']",2022-03-21T17:54Z
+7,cpe:2.3:o:huawei:honor_view_20_firmware:10.0.0.200\(c185e3r3p3\):*:*:*:*:*:*:*,Huawei Honor View 20 Firmware 10.0.0.200(C185E3R3P3),"['CVE-2020-9074', 'CVE-2020-9235']",2022-03-21T17:54Z
+8,cpe:2.3:o:huawei:honor_view_20_firmware:10.0.0.201\(c10e5r4p3\):*:*:*:*:*:*:*,Huawei Honor View 20 Firmware 10.0.0.201(C10E5R4P3),"['CVE-2020-9074', 'CVE-2020-9235']",2022-03-21T17:54Z
+9,cpe:2.3:o:huawei:honor_view_20_firmware:10.0.0.201\(c636e3r4p3\):*:*:*:*:*:*:*,Huawei Honor View 20 Firmware 10.0.0.201(C636E3R4P3),['CVE-2020-9235'],2022-03-21T17:54Z

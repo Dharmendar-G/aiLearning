@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:jabber:12.9.4:*:*:*:*:macos:*:*,Cisco Jabber 12.9.4 for macOS,"['CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:49Z
+1,cpe:2.3:a:cisco:jabber:12.9.6.55898:*:*:*:*:windows:*:*,Cisco Jabber 12.9.6.55898 for Windows,['CVE-2020-3155'],2022-03-19T22:49Z
+2,cpe:2.3:a:cisco:jabber:14.0:*:*:*:*:windows:*:*,Cisco Jabber 14.0 for Windows,"['CVE-2020-3155', 'CVE-2021-1569', 'CVE-2021-1570']",2022-03-19T22:49Z
+3,cpe:2.3:a:cisco:jabber:14.0.1.55914:*:*:*:*:windows:*:*,Cisco Jabber 14.0.1.55914 for Windows,['CVE-2020-3155'],2022-03-19T22:49Z
+4,cpe:2.3:a:cisco:jabber_extensible_communications_platform:5.0:*:*:*:*:*:*:*,Cisco Jabber Extensible Communications Platform (XCP) 5.0,"['CVE-2011-3287', 'CVE-2012-3935']",2022-03-19T22:49Z
+5,cpe:2.3:a:cisco:jabber_for_mobile_platforms:12.9\(0\):*:*:*:*:*:*:*,Cisco Jabber For Mobile Platforms 12.9(0),"['CVE-2020-27127', 'CVE-2020-27132', 'CVE-2020-27133', 'CVE-2020-27134']",2022-03-19T22:49Z
+6,cpe:2.3:a:cisco:jabber_for_mobile_platforms:12.9\(1\):*:*:*:*:*:*:*,Cisco Jabber For Mobile Platforms 12.9(1),"['CVE-2020-27127', 'CVE-2020-27132', 'CVE-2020-27133', 'CVE-2020-27134']",2022-03-19T22:49Z
+7,cpe:2.3:a:cisco:jabber_for_mobile_platforms:12.9\(2\):*:*:*:*:*:*:*,Cisco Jabber For Mobile Platforms 12.9(2),"['CVE-2020-27127', 'CVE-2020-27132', 'CVE-2020-27133', 'CVE-2020-27134']",2022-03-19T22:49Z
+8,cpe:2.3:a:cisco:jabber_for_mobile_platforms:12.9\(3\):*:*:*:*:*:*:*,Cisco Jabber For Mobile Platforms 12.9(3),"['CVE-2020-27127', 'CVE-2020-27132', 'CVE-2020-27133', 'CVE-2020-27134']",2022-03-19T22:49Z
+9,cpe:2.3:a:cisco:jabber_guest:-:*:*:*:*:*:*:*,Cisco Jabber Guest,"['CVE-2014-8024', 'CVE-2014-8025', 'CVE-2014-8026', 'CVE-2020-3136']",2022-03-19T22:49Z

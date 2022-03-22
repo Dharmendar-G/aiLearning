@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:10web:form_maker:1.10.8:*:*:*:*:wordpress:*:*,10web Form Maker 1.10.8 for WordPress,"['CVE-2019-10866', 'CVE-2019-11590', 'CVE-2021-24526']",2022-03-18T09:31Z
+1,cpe:2.3:a:10web:form_maker:1.10.9:*:*:*:*:wordpress:*:*,10web Form Maker 1.10.9 for WordPress,"['CVE-2019-10866', 'CVE-2019-11590', 'CVE-2021-24526']",2022-03-18T09:31Z
+2,cpe:2.3:a:10web:form_maker:1.10.10:*:*:*:*:wordpress:*:*,10web Form Maker 1.10.10 for WordPress,"['CVE-2019-10866', 'CVE-2019-11590', 'CVE-2021-24526']",2022-03-18T09:31Z
+3,cpe:2.3:a:10web:form_maker:1.10.11:*:*:*:*:wordpress:*:*,10web Form Maker 1.10.11 for WordPress,"['CVE-2019-10866', 'CVE-2019-11590', 'CVE-2021-24526']",2022-03-18T09:31Z
+4,cpe:2.3:a:10web:form_maker:1.11.1:*:*:*:*:wordpress:*:*,10web Form Maker 1.11.1 for WordPress,"['CVE-2019-10866', 'CVE-2019-11590', 'CVE-2021-24526']",2022-03-18T09:31Z
+5,cpe:2.3:a:10web:form_maker:1.11.2:*:*:*:*:wordpress:*:*,10web Form Maker 1.11.2 for WordPress,"['CVE-2019-10866', 'CVE-2019-11590', 'CVE-2021-24526']",2022-03-18T09:31Z
+6,cpe:2.3:a:10web:form_maker:1.11.3:*:*:*:*:wordpress:*:*,10web Form Maker 1.11.3 for WordPress,"['CVE-2019-10866', 'CVE-2019-11590', 'CVE-2021-24526']",2022-03-18T09:31Z
+7,cpe:2.3:a:10web:form_maker:1.11.4:*:*:*:*:wordpress:*:*,10web Form Maker 1.11.4 for WordPress,"['CVE-2019-10866', 'CVE-2019-11590', 'CVE-2021-24526']",2022-03-18T09:31Z
+8,cpe:2.3:a:10web:form_maker:1.11.5:*:*:*:*:wordpress:*:*,10web Form Maker 1.11.5 for WordPress,"['CVE-2019-10866', 'CVE-2019-11590', 'CVE-2021-24526']",2022-03-18T09:31Z
+9,cpe:2.3:a:10web:form_maker:1.11.6:*:*:*:*:wordpress:*:*,10web Form Maker 1.11.6 for WordPress,"['CVE-2019-10866', 'CVE-2019-11590', 'CVE-2021-24526']",2022-03-18T09:31Z

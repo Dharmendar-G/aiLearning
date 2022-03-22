@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:grpc:grpc:1.34.0:*:*:*:*:java:*:*,gRPC 1.34.0 for Java,[''],2022-03-21T08:07Z
+1,cpe:2.3:a:grpc:grpc:1.34.0:*:*:*:*:dart:*:*,gRPC 1.34.0 for Dart,[''],2022-03-21T08:07Z
+2,cpe:2.3:a:grpc:grpc:1.34.0:*:*:*:*:go:*:*,gRPC 1.34.0 for Go,[''],2022-03-21T08:08Z
+3,cpe:2.3:a:grpc:grpc:1.34.0:*:*:*:*:java:*:*,gRPC 1.34.0 for Java,[''],2022-03-21T08:08Z
+4,cpe:2.3:a:grpc:grpc:1.34.1:*:*:*:*:java:*:*,gRPC 1.34.1 for Java,[''],2022-03-21T08:08Z
+5,cpe:2.3:a:grpc:grpc:1.34.1:*:*:*:*:dart:*:*,gRPC 1.34.1 for Dart,[''],2022-03-21T08:08Z
+6,cpe:2.3:a:grpc:grpc:1.34.1:*:*:*:*:go:*:*,gRPC 1.34.1 for Go,[''],2022-03-21T08:08Z
+7,cpe:2.3:a:grpc:grpc:1.34.1:*:*:*:*:java:*:*,gRPC 1.34.1 for Java,[''],2022-03-21T08:08Z
+8,cpe:2.3:a:grpc:grpc:1.34.2:*:*:*:*:go:*:*,gRPC 1.34.2 for Go,[''],2022-03-21T08:08Z
+9,cpe:2.3:a:grpc:grpc:1.35.0:*:*:*:*:java:*:*,gRPC 1.35.0 for Java,[''],2022-03-21T08:08Z

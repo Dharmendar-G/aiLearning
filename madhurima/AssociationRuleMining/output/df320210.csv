@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:color_laserjet_managed_m651_firmware:2309010_581418:*:*:*:*:*:*:*,HP Color Laserjet Managed M651 Firmware 2309010 581418,['CVE-2019-6318'],2022-03-21T13:05Z
+1,cpe:2.3:o:hp:color_laserjet_managed_m651_firmware:2407081_000585:*:*:*:*:*:*:*,HP Color Laserjet Managed M651 Firmware 2407081 000585,[''],2022-03-21T13:05Z
+2,cpe:2.3:h:hp:color_laserjet_managed_m651_h0dc9a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed M651 H0DC9A,['CVE-2020-28419'],2022-03-21T13:05Z
+3,cpe:2.3:h:hp:color_laserjet_managed_m651_l8z07a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed M651 L8Z07A,['CVE-2020-28419'],2022-03-21T13:05Z
+4,cpe:2.3:h:hp:color_laserjet_managed_mfp_e57540:-:*:*:*:*:*:*:*,HP Color Laserjet Managed MFP E57540,['CVE-2019-6318'],2022-03-21T13:05Z
+5,cpe:2.3:o:hp:color_laserjet_managed_mfp_e57540_firmware:-:*:*:*:*:*:*:*,HP Color Laserjet Managed Mfp E57540 Firmware -,['CVE-2019-6318'],2022-03-21T13:05Z
+6,cpe:2.3:o:hp:color_laserjet_managed_mfp_e57540_firmware:2407081_000571:*:*:*:*:*:*:*,HP Color Laserjet Managed Mfp E57540 Firmware 2407081 000571,[''],2022-03-21T13:05Z
+7,cpe:2.3:h:hp:color_laserjet_managed_mfp_e57540dn:-:*:*:*:*:*:*:*,HP Color Laserjet Managed MFP E57540DN,['CVE-2018-5923'],2022-03-21T13:05Z
+8,cpe:2.3:o:hp:color_laserjet_managed_mfp_e57540dn_firmware:-:*:*:*:*:*:*:*,Hp Color Laserjet Managed Mfp E57540dn Firmware -,['CVE-2018-5923'],2022-03-21T13:05Z
+9,cpe:2.3:o:hp:color_laserjet_managed_mfp_e57540dn_firmware:2406048_029627:*:*:*:*:*:*:*,Hp Color Laserjet Managed Mfp E57540dn Firmware 2406048 029627,[''],2022-03-21T13:05Z

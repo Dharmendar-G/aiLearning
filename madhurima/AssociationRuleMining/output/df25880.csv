@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ansi_up_project:ansi_up:2.0.1:*:*:*:*:node.js:*:*,ansi up Project ansi up 2.0.1 for Node.js,['CVE-2021-3377'],2022-03-18T16:43Z
+1,cpe:2.3:a:ansi_up_project:ansi_up:2.0.2:*:*:*:*:node.js:*:*,ansi up Project ansi up 2.0.2 for Node.js,['CVE-2021-3377'],2022-03-18T16:43Z
+2,cpe:2.3:a:ansi_up_project:ansi_up:2.0.3:*:*:*:*:node.js:*:*,ansi up Project ansi up 2.0.3 for Node.js,['CVE-2021-3377'],2022-03-18T16:43Z
+3,cpe:2.3:a:ansi_up_project:ansi_up:3.0.0:*:*:*:*:node.js:*:*,ansi up Project ansi up 3.0.0 for Node.js,['CVE-2021-3377'],2022-03-18T16:43Z
+4,cpe:2.3:a:ansi_up_project:ansi_up:4.0.2:*:*:*:*:node.js:*:*,ansi up Project ansi up 4.0.2 for Node.js,['CVE-2021-3377'],2022-03-18T16:43Z
+5,cpe:2.3:a:ansi_up_project:ansi_up:4.0.3:*:*:*:*:node.js:*:*,ansi up Project ansi up 4.0.3 for Node.js,['CVE-2021-3377'],2022-03-18T16:43Z
+6,cpe:2.3:a:ansi_up_project:ansi_up:4.0.4:*:*:*:*:node.js:*:*,ansi up Project ansi up 4.0.4 for Node.js,['CVE-2021-3377'],2022-03-18T16:43Z
+7,cpe:2.3:a:ansi_up_project:ansi_up:5.0.0:*:*:*:*:node.js:*:*,ansi up Project ansi up 5.0.0 for Node.js,[''],2022-03-18T16:43Z
+8,cpe:2.3:a:ansi_up_project:ansi_up:5.0.1:*:*:*:*:node.js:*:*,ansi up Project ansi up 5.0.1 for Node.js,[''],2022-03-18T16:43Z
+9,cpe:2.3:a:ansi2html_project:ansi2html:-:*:*:*:*:node.js:*:*,ansi2html Project ansi2html for Node.js,[''],2022-03-18T16:43Z

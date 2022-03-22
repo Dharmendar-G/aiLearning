@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:moonshot_provisioning_manager:1.20:*:*:*:*:*:*:*,HP Moonshot Provisioning Manager 1.20,"['CVE-2018-7072', 'CVE-2018-7073', 'CVE-2021-25139', 'CVE-2021-25140']",2022-03-21T15:21Z
+1,cpe:2.3:a:hp:moonshot_provisioning_manager:1.24:*:*:*:*:*:*:*,HP Moonshot Provisioning Manager 1.24,[''],2022-03-21T15:21Z
+2,cpe:2.3:a:hp:moonshot_provisioning_manager_appliance:1.20:*:*:*:*:*:*:*,HP Moonshot Provisioning Manager Appliance 1.20,"['CVE-2017-8975', 'CVE-2017-8976', 'CVE-2017-8977']",2022-03-21T15:21Z
+3,cpe:2.3:a:hp:moonshot_remote_console_administrator:2.50:*:*:*:*:*:*:*,HP Moonshot Remote Console Administrator 2.50,[''],2022-03-21T15:21Z
+4,cpe:2.3:h:hp:mp9_g2_retail_system:-:*:*:*:*:*:*:*,HP mp9 G2 Retail System,"['CVE-2016-2243', 'CVE-2019-16284']",2022-03-21T15:21Z
+5,cpe:2.3:o:hp:mp9_g2_retail_system_firmware:-:*:*:*:*:*:*:*,HP MP9 G2 Retail System Firmware,['CVE-2019-16284'],2022-03-21T15:21Z
+6,cpe:2.3:o:hp:mp9_g2_retail_system_firmware:2.42:*:*:*:*:*:*:*,HP MP9 G2 Retail System Firmware 2.42,[''],2022-03-21T15:21Z
+7,cpe:2.3:h:hp:mp9_g4_retail_system:-:*:*:*:*:*:*:*,HP MP9 G4 Retail System ,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T15:21Z
+8,cpe:2.3:o:hp:mpe:-:*:*:*:*:*:*:*,HP mpe,['CVE-2001-0608'],2022-03-21T15:21Z
+9,cpe:2.3:o:hp:mpe:6.5:*:*:*:*:*:*:*,HP mpe 6.5,['CVE-2001-0608'],2022-03-21T15:21Z

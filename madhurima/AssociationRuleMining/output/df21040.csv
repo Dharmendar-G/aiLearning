@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alternate-tools:alternate_pic_view:2.650:*:*:*:*:*:*:*,Alternate Tools Alternate Pic View 2.650,[''],2022-03-18T15:13Z
+1,cpe:2.3:a:alternative_connection_project:alternative_connection:0.1:*:*:*:*:android:*:*,Alternative Connection project Alternative Connection (aka com.wAlternativeConnection) for android 0.1,['CVE-2014-7382'],2022-03-18T15:13Z
+2,cpe:2.3:a:alterpoint:logwatch:1.0.0.0:*:*:*:*:*:*:*,Alterpoint Logwatch 1.0.0.0,[''],2022-03-18T15:13Z
+3,cpe:2.3:a:alterpoint:networkauthority:6.0.0.0:*:*:*:*:*:*:*,Alterpoint Networkauthority 6.0.0.0,[''],2022-03-18T15:13Z
+4,cpe:2.3:a:alterpoint:networkauthority_engineering_environment:6.0.1.0:*:*:*:*:*:*:*,Alterpoint Networkauthority Engineering Environment 6.0.1.0,[''],2022-03-18T15:13Z
+5,cpe:2.3:a:altimatech:netzoom:6.2.2:*:*:*:*:*:*:*,Altimatech Netzoom 6.2.2,[''],2022-03-18T15:13Z
+6,cpe:2.3:a:altiris:agent_for_mac:6.2.1302:*:*:*:*:*:*:*,Altiris Agent For Mac 6.2.1302,[''],2022-03-18T15:13Z
+7,cpe:2.3:a:altiris:agent_for_mac_documentation:6.2.1124:*:*:*:*:*:*:*,Altiris Agent For Mac Documentation 6.2.1124,[''],2022-03-18T15:13Z
+8,cpe:2.3:a:altiris:agent_for_pocket_pc:6.1.1141:*:*:*:*:*:*:*,Altiris Agent For Pocket Pc 6.1.1141,[''],2022-03-18T15:13Z
+9,cpe:2.3:a:altiris:agent_for_unix_and_linux:6.2.1378:*:*:*:*:*:*:*,Altiris Agent For Unix And Linux 6.2.1378,[''],2022-03-18T15:13Z

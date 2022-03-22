@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aria2_project:aria2:1.30.0:*:*:*:*:*:*:*,aria2 Project aria2 1.30.0,[''],2022-03-18T22:59Z
+1,cpe:2.3:a:aria2_project:aria2:1.31.0:*:*:*:*:*:*:*,aria2 Project aria2 1.31.0,[''],2022-03-18T22:59Z
+2,cpe:2.3:a:aria2_project:aria2:1.32.0:*:*:*:*:*:*:*,aria2 Project aria2 1.32.0,[''],2022-03-18T22:59Z
+3,cpe:2.3:a:aria2_project:aria2:1.33.0:*:*:*:*:*:*:*,aria2 Project aria2 1.33.0,[''],2022-03-18T22:59Z
+4,cpe:2.3:a:aria2_project:aria2:1.33.1:*:*:*:*:*:*:*,aria2 Project aria2 1.33.1,['CVE-2019-3500'],2022-03-18T22:59Z
+5,cpe:2.3:a:aria2_project:aria2:1.34.0:*:*:*:*:*:*:*,aria2 Project aria2 1.34.0,[''],2022-03-18T22:59Z
+6,[0],[0],[0],[0]
+7,cpe:2.3:a:arialsoftware:campaign_enterprise:11.0.551:*:*:*:*:*:*:*,Arialsoftware Campaign Enterprise 11.0.551,['CVE-2012-3821'],2022-03-18T22:59Z
+8,cpe:2.3:a:ariel_barreiro:noderecommendation:6.x-1.0:*:*:*:*:*:*:*,Ariel Barreiro noderecommendation 6.x-1.0,['CVE-2012-1659'],2022-03-18T22:59Z
+9,cpe:2.3:a:ariel_barreiro:noderecommendation:6.x-1.x:dev:*:*:*:*:*:*,Ariel Barreiro noderecommendation 6.x-1.x-dev,['CVE-2012-1659'],2022-03-18T22:59Z

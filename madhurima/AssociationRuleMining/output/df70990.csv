@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bart_feenstra:payment:-:7.x-1.0:alpha5:*:*:*:*:*,Bart Feenstra Payment module for Drupal 7.x-1.0-alpha5,['CVE-2013-0182'],2022-03-19T06:23Z
+1,cpe:2.3:a:bart_feenstra:payment:-:7.x-1.0:alpha6:*:*:*:*:*,Bart Feenstra Payment module for Drupal 7.x-1.0-alpha6,['CVE-2013-0182'],2022-03-19T06:23Z
+2,cpe:2.3:a:bart_feenstra:payment:-:7.x-1.0:beta1:*:*:*:*:*,Bart Feenstra Payment module for Drupal 7.x-1.0-beta1,['CVE-2013-0182'],2022-03-19T06:23Z
+3,cpe:2.3:a:bart_feenstra:payment:-:7.x-1.0:beta2:*:*:*:*:*,Bart Feenstra Payment module for Drupal 7.x-1.0-beta2,['CVE-2013-0182'],2022-03-19T06:23Z
+4,cpe:2.3:a:bart_feenstra:payment:-:7.x-1.0:beta3:*:*:*:*:*,Bart Feenstra Payment module for Drupal 7.x-1.0-beta3,['CVE-2013-0182'],2022-03-19T06:23Z
+5,cpe:2.3:a:bart_feenstra:payment:-:7.x-1.1:*:*:*:*:*:*,Bart Feenstra Payment module for Drupal 7.x-1.1,['CVE-2013-0182'],2022-03-19T06:23Z
+6,cpe:2.3:a:bart_feenstra:payment:-:7.x-1.2:*:*:*:*:*:*,Bart Feenstra Payment module for Drupal 7.x-1.2,['CVE-2013-0182'],2022-03-19T06:23Z
+7,cpe:2.3:a:bart_feenstra:payment:-:7.x-1.x:dev:*:*:*:*:*,Bart Feenstra Payment module for Drupal 7.x-1.x-dev,['CVE-2013-0182'],2022-03-19T06:23Z
+8,cpe:2.3:a:bart_lagerweij:pe_builder:3.1.10a:*:*:*:*:*:*:*,Bart Lagerweij Pe Builder 3.1.10a,[''],2022-03-19T06:23Z
+9,cpe:2.3:a:barton:ngircd:18.0:*:*:*:*:*:*:*,barton.de ngIRCd 18.0,"['CVE-2013-5580', 'CVE-2020-14148']",2022-03-19T06:23Z

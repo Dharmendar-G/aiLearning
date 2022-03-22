@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dva-5592_firmware:20180823:*:*:*:*:*:*:*,D-Link DVA-5592 Firmware 20180823,"['CVE-2019-6968', 'CVE-2019-6969']",2022-03-20T15:56Z
+1,cpe:2.3:o:dlink:dva-5592_firmware:a1_wi_20180823:*:*:*:*:*:*:*,D-Link DVA-5592 Firmware A1 Wi 20180823,['CVE-2018-17777'],2022-03-20T15:56Z
+2,cpe:2.3:h:dlink:dvg-3104ms:-:*:*:*:*:*:*:*,D-Link DVG-3104MS,['CVE-2021-39613'],2022-03-20T15:56Z
+3,cpe:2.3:o:dlink:dvg-3104ms_firmware:1.0.2.0.3:*:*:*:*:*:*:*,D-Link DVG-3104MS Firmware 1.0.2.0.3,['CVE-2021-39613'],2022-03-20T15:56Z
+4,cpe:2.3:o:dlink:dvg-3104ms_firmware:1.0.2.0.4:*:*:*:*:*:*:*,D-Link DVG-3104MS Firmware 1.0.2.0.4,['CVE-2021-39613'],2022-03-20T15:56Z
+5,cpe:2.3:o:dlink:dvg-3104ms_firmware:1.0.2.0.4e:*:*:*:*:*:*:*,D-Link DVG-3104MS Firmware 1.0.2.0.4e,['CVE-2021-39613'],2022-03-20T15:56Z
+6,cpe:2.3:o:dlink:dvg-n5402sp_firmware:w1000cn-00:*:*:*:*:*:*:*,D-Link DVG-N5402SP Firmware W1000CN-00,[''],2022-03-20T15:56Z
+7,cpe:2.3:o:dlink:dvg-n5402sp_firmware:w1000cn-03:*:*:*:*:*:*:*,D-Link DVG-N5402SP Firmware W1000CN-03,[''],2022-03-20T15:56Z
+8,cpe:2.3:o:dlink:dvg-n5402sp_firmware:w2000en-00:*:*:*:*:*:*:*,D-Link DVG-N5402SP Firmware W2000EN-00,[''],2022-03-20T15:56Z
+9,cpe:2.3:h:dlink:dvx-2000ms:-:*:*:*:*:*:*:*,D-Link DVX-2000MS,['CVE-2021-39614'],2022-03-20T15:56Z

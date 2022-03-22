@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:ir809g-lte-ga-k9:-:*:*:*:*:*:*:*,Cisco IR809G-LTE-GA-K9,"['CVE-2020-3257', 'CVE-2020-3258']",2022-03-19T22:45Z
+1,cpe:2.3:h:cisco:ir809g-lte-la-k9:-:*:*:*:*:*:*:*,Cisco IR809G-LTE-LA-K9,"['CVE-2020-3257', 'CVE-2020-3258']",2022-03-19T22:45Z
+2,cpe:2.3:h:cisco:ir809g-lte-na-k9:-:*:*:*:*:*:*:*,Cisco IR809G-LTE-NA-K9,"['CVE-2020-3257', 'CVE-2020-3258']",2022-03-19T22:45Z
+3,cpe:2.3:h:cisco:ir809g-lte-vz-k9:-:*:*:*:*:*:*:*,Cisco IR809G-LTE-VZ-K9,"['CVE-2020-3257', 'CVE-2020-3258']",2022-03-19T22:45Z
+4,cpe:2.3:h:cisco:ir829-2lte-ea-ak9:-:*:*:*:*:*:*:*,Cisco IR829-2LTE-EA-AK9,"['CVE-2020-3257', 'CVE-2020-3258']",2022-03-19T22:45Z
+5,cpe:2.3:h:cisco:ir829-2lte-ea-bk9:-:*:*:*:*:*:*:*,Cisco IR829-2LTE-EA-BK9,"['CVE-2020-3257', 'CVE-2020-3258']",2022-03-19T22:45Z
+6,cpe:2.3:h:cisco:ir829-2lte-ea-ek9:-:*:*:*:*:*:*:*,Cisco IR829-2LTE-EA-EK9,"['CVE-2020-3257', 'CVE-2020-3258']",2022-03-19T22:45Z
+7,cpe:2.3:h:cisco:ir829gw-lte-ga-ck9:-:*:*:*:*:*:*:*,Cisco IR829GW-LTE-GA-CK9,"['CVE-2020-3257', 'CVE-2020-3258']",2022-03-19T22:45Z
+8,cpe:2.3:h:cisco:ir829gw-lte-ga-ek9:-:*:*:*:*:*:*:*,Cisco IR829GW-LTE-GA-EK9,"['CVE-2020-3257', 'CVE-2020-3258']",2022-03-19T22:45Z
+9,cpe:2.3:h:cisco:ir829gw-lte-ga-sk9:-:*:*:*:*:*:*:*,Cisco IR829GW-LTE-GA-SK9,"['CVE-2020-3257', 'CVE-2020-3258']",2022-03-19T22:45Z

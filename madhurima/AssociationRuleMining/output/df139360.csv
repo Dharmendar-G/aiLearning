@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:wide_area_application_services:4.0.19:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 4.0.19,"['CVE-2013-3443', 'CVE-2013-3444', 'CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+1,cpe:2.3:a:cisco:wide_area_application_services:4.0.21:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 4.0.21,"['CVE-2013-3443', 'CVE-2013-3444', 'CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+2,cpe:2.3:a:cisco:wide_area_application_services:4.0.23:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 4.0.23,"['CVE-2013-3443', 'CVE-2013-3444', 'CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+3,cpe:2.3:a:cisco:wide_area_application_services:4.0.25:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 4.0.25,"['CVE-2013-3443', 'CVE-2013-3444', 'CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+4,cpe:2.3:a:cisco:wide_area_application_services:4.0.27:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 4.0.27,"['CVE-2013-3443', 'CVE-2013-3444', 'CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+5,cpe:2.3:a:cisco:wide_area_application_services:4.4\(7\):*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 4.4(7),"['CVE-2014-3285', 'CVE-2017-6730', 'CVE-2021-1438']",2022-03-20T01:19Z
+6,cpe:2.3:a:cisco:wide_area_application_services:5.1:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 5.1,"['CVE-2012-1348', 'CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+7,cpe:2.3:a:cisco:wide_area_application_services:5.1\(.1\):*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 5.1(.1),"['CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+8,cpe:2.3:a:cisco:wide_area_application_services:5.1\(.1a\):*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 5.1(.1a),"['CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+9,cpe:2.3:a:cisco:wide_area_application_services:5.1\(.1b\):*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 5.1(.1b),"['CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:industrial_network_director:1.3.0:*:*:*:*:*:*:*,Cisco Industrial Network Director (IND) 1.3.0,"['CVE-2018-15392', 'CVE-2019-15973', 'CVE-2019-1861', 'CVE-2019-1940', 'CVE-2019-1976', 'CVE-2020-3567']",2022-03-19T20:08Z
+1,cpe:2.3:a:cisco:industrial_network_director:1.4.0:*:*:*:*:*:*:*,Cisco Industrial Network Director (IND) 1.4.0,"['CVE-2018-15392', 'CVE-2019-15973', 'CVE-2019-1861', 'CVE-2019-1940', 'CVE-2019-1976', 'CVE-2020-3567']",2022-03-19T20:08Z
+2,cpe:2.3:a:cisco:industrial_network_director:1.5\(0.250\):*:*:*:*:*:*:*,Cisco Industrial Network Director 1.5(0.250),"['CVE-2019-15973', 'CVE-2019-1861', 'CVE-2019-1881', 'CVE-2019-1882', 'CVE-2019-1940', 'CVE-2019-1976', 'CVE-2020-3567']",2022-03-19T20:08Z
+3,cpe:2.3:a:cisco:industrial_network_director:1.5.0:*:*:*:*:*:*:*,Cisco Industrial Network Director (IND) 1.5.0,"['CVE-2018-15392', 'CVE-2019-15973', 'CVE-2019-1861', 'CVE-2019-1940', 'CVE-2019-1976', 'CVE-2020-3567']",2022-03-19T20:08Z
+4,cpe:2.3:a:cisco:industrial_network_director:1.6.0:*:*:*:*:*:*:*,Cisco Industrial Network Director 1.6.0,"['CVE-2019-15973', 'CVE-2019-1940', 'CVE-2020-3567']",2022-03-19T20:08Z
+5,cpe:2.3:a:cisco:industrial_network_director:1.6.1:*:*:*:*:*:*:*,Cisco Industrial Network Director (IND) 1.6.1,"['CVE-2019-15973', 'CVE-2019-1940', 'CVE-2020-3567']",2022-03-19T20:08Z
+6,cpe:2.3:a:cisco:industrial_network_director:1.7.0:*:*:*:*:*:*:*,Cisco Industrial Network Director (IND) 1.7.0,"['CVE-2019-15973', 'CVE-2020-3567']",2022-03-19T20:09Z
+7,cpe:2.3:a:cisco:industrial_network_director:1.7.1:*:*:*:*:*:*:*,Cisco Industrial Network Director 1.7.1,"['CVE-2019-15973', 'CVE-2020-3567']",2022-03-19T20:09Z
+8,cpe:2.3:a:cisco:industrial_network_director:1.8.0:*:*:*:*:*:*:*,Cisco Industrial Network Director 1.8.0,['CVE-2020-3567'],2022-03-19T20:09Z
+9,cpe:2.3:h:cisco:industrial_security_appliances_3000:-:*:*:*:*:*:*:*,Cisco Industrial Security Appliance 3000 (ISA) -,['CVE-2019-1649'],2022-03-19T20:09Z

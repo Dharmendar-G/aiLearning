@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:iab:open_real-time_bidding:3.0:*:*:*:*:*:*:*,Interactive Advertising Bureau OpenRTB 3.0,[''],2022-03-21T19:43Z
+1,cpe:2.3:a:iac:fromdoctopdf:-:*:*:*:*:chrome:*:*,IAC FromDocToPDF for Chrome,['CVE-2018-10178'],2022-03-21T19:43Z
+2,cpe:2.3:a:iac:fromdoctopdf:13.611.13.2303:*:*:*:*:chrome:*:*,IAC FromDocToPDF 13.611.13.2303 for Chrome,[''],2022-03-21T19:44Z
+3,cpe:2.3:a:iadowr_project:iadowr:-:*:*:*:*:*:*:*,IADOWR Project IADOWR,['CVE-2018-13086'],2022-03-21T19:44Z
+4,cpe:2.3:a:iain:gypsy:0.5:*:*:*:*:*:*:*,iain gypsy 0.5,[''],2022-03-21T19:44Z
+5,cpe:2.3:a:iain:gypsy:0.6:*:*:*:*:*:*:*,iain gypsy 0.6,[''],2022-03-21T19:44Z
+6,cpe:2.3:a:iain:gypsy:0.7:*:*:*:*:*:*:*,iain gypsy 0.7,[''],2022-03-21T19:44Z
+7,cpe:2.3:a:iain:gypsy:0.8:*:*:*:*:*:*:*,iain gypsy 0.8,"['CVE-2011-0523', 'CVE-2011-0524']",2022-03-21T19:44Z
+8,cpe:2.3:a:iamrich_project:iamrich:-:*:*:*:*:*:*:*,IamRich Project IamRich,['CVE-2018-13509'],2022-03-21T19:44Z
+9,cpe:2.3:a:iata:airlines_international:1:*:*:*:*:android:*:*,iata Airlines International (aka org.iata.IAMagazine) for android 1.0,['CVE-2014-6712'],2022-03-21T19:44Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chatwoot:chatwoot:2.0.1:*:*:*:*:*:*:*,Chatwoot 2.0.1,"['CVE-2021-3813', 'CVE-2022-0526', 'CVE-2022-0527']",2022-03-19T16:39Z
+1,cpe:2.3:a:chatwoot:chatwoot:2.0.2:*:*:*:*:*:*:*,Chatwoot 2.0.2,"['CVE-2021-3813', 'CVE-2022-0526', 'CVE-2022-0527']",2022-03-19T16:39Z
+2,cpe:2.3:a:chatwoot:chatwoot:2.1.0:*:*:*:*:*:*:*,Chatwoot 2.1.0,"['CVE-2021-3813', 'CVE-2022-0526', 'CVE-2022-0527']",2022-03-19T16:39Z
+3,cpe:2.3:a:chatwoot:chatwoot:2.1.1:*:*:*:*:*:*:*,Chatwoot 2.1.1,"['CVE-2021-3813', 'CVE-2022-0526', 'CVE-2022-0527']",2022-03-19T16:39Z
+4,cpe:2.3:a:chatwork:chatwork:2.3.0:*:*:*:*:windows:*:*,ChatWork 2.3.0 for Windows,['CVE-2018-0648'],2022-03-19T16:39Z
+5,cpe:2.3:a:check_diskio_project:check_diskio:3.2.5:*:*:*:*:*:*:*,check_diskio project check_diskio for Nagios 3.2.5,['CVE-2014-8994'],2022-03-19T16:39Z
+6,cpe:2.3:a:check_email_project:check_email:0.1:*:*:*:*:wordpress:*:*,Check Email Project Check Email 0.1 for WordPress,['CVE-2016-10934'],2022-03-19T16:40Z
+7,cpe:2.3:a:check_email_project:check_email:0.1.1:*:*:*:*:wordpress:*:*,Check Email Project Check Email 0.1.1 for WordPress,['CVE-2016-10934'],2022-03-19T16:39Z
+8,cpe:2.3:a:check_email_project:check_email:0.1.2:*:*:*:*:wordpress:*:*,Check Email Project Check Email 0.1.2 for WordPress,['CVE-2016-10934'],2022-03-19T16:40Z
+9,cpe:2.3:a:check_email_project:check_email:0.1.3:*:*:*:*:wordpress:*:*,Check Email Project Check Email 0.1.3 for WordPress,['CVE-2016-10934'],2022-03-19T16:40Z

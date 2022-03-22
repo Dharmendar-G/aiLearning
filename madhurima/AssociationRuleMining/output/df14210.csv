@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aedes_project:aedes:0.38.0:*:*:*:*:*:*:*,Aedes Project Aedes 0.38.0,[''],2022-03-18T13:18Z
+1,cpe:2.3:a:aedes_project:aedes:0.38.1:*:*:*:*:*:*:*,Aedes Project Aedes 0.38.1,[''],2022-03-18T13:18Z
+2,cpe:2.3:a:aedes_project:aedes:0.39.0:*:*:*:*:*:*:*,Aedes Project Aedes 0.39.0,[''],2022-03-18T13:18Z
+3,cpe:2.3:a:aedes_project:aedes:0.42.0:*:*:*:*:*:*:*,Aedes Project Aedes 0.42.0,['CVE-2020-13410'],2022-03-18T13:18Z
+4,cpe:2.3:a:aegir_project:aegir:1.0.0:-:*:*:*:node.js:*:*,aegir Project aegir 1.0.0 for Node.js,[''],2022-03-18T13:18Z
+5,cpe:2.3:a:aegir_project:aegir:1.0.0:beta0:*:*:*:node.js:*:*,aegir Project aegir 1.0.0 Beta 0 for Node.js,[''],2022-03-18T13:18Z
+6,cpe:2.3:a:aegir_project:aegir:1.0.1:*:*:*:*:node.js:*:*,aegir Project aegir 1.0.1 for Node.js,[''],2022-03-18T13:18Z
+7,cpe:2.3:a:aegir_project:aegir:2.0.0:*:*:*:*:node.js:*:*,aegir Project aegir 2.0.0 for Node.js,[''],2022-03-18T13:18Z
+8,cpe:2.3:a:aegir_project:aegir:2.0.1:*:*:*:*:node.js:*:*,aegir Project aegir 2.0.1 for Node.js,[''],2022-03-18T13:18Z
+9,cpe:2.3:a:aegir_project:aegir:2.0.2:*:*:*:*:node.js:*:*,aegir Project aegir 2.0.2 for Node.js,[''],2022-03-18T13:18Z

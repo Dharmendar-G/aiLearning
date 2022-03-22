@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:honor_7a:-:*:*:*:*:*:*:*,Huawei Honor 7A,['CVE-2018-7946'],2022-03-21T17:52Z
+1,cpe:2.3:o:huawei:honor_7a_firmware:8.0.0.132:*:*:*:*:*:*:*,Huawei Honor 7A Firmware 8.0.0.132,['CVE-2018-7946'],2022-03-21T17:52Z
+2,cpe:2.3:o:huawei:honor_7a_firmware:8.0.0.133:*:*:*:*:*:*:*,Huawei Honor 7A Firmware 8.0.0.133,['CVE-2018-7946'],2022-03-21T17:52Z
+3,cpe:2.3:o:huawei:honor_7a_firmware:8.0.0.140:*:*:*:*:*:*:*,Huawei Honor 7A Firmware 8.0.0.140,['CVE-2018-7946'],2022-03-21T17:52Z
+4,cpe:2.3:o:huawei:honor_7a_firmware:8.0.0.150:*:*:*:*:*:*:*,Huawei Honor 7A Firmware 8.0.0.150,['CVE-2018-7946'],2022-03-21T17:52Z
+5,cpe:2.3:h:huawei:honor_8:-:*:*:*:*:*:*:*,Huawei Honor 8,"['CVE-2017-15307', 'CVE-2017-8214', 'CVE-2017-8215', 'CVE-2018-7939']",2022-03-21T17:52Z
+6,cpe:2.3:o:huawei:honor_8_firmware:frd-al00c00b391:*:*:*:*:*:*:*,Huawei Honor 8 Firmware FRD-AL00C00B391,"['CVE-2017-15307', 'CVE-2017-8214', 'CVE-2017-8215', 'CVE-2018-7939']",2022-03-21T17:52Z
+7,cpe:2.3:o:huawei:honor_8_firmware:frd-dl00c00b391:*:*:*:*:*:*:*,Huawei Honor 8 Firmware FRD-DL00C00B391,"['CVE-2017-15307', 'CVE-2018-7939']",2022-03-21T17:52Z
+8,cpe:2.3:o:huawei:honor_8_firmware:frd-l04c567b389:*:*:*:*:*:*:*,Huawei Honor 8 Firmware FRD-L04C567B389,"['CVE-2017-15307', 'CVE-2018-7939']",2022-03-21T17:52Z
+9,cpe:2.3:o:huawei:honor_8_firmware:frd-l09c10b387:*:*:*:*:*:*:*,Huawei Honor 8 Firmware Frd-l09c10b387,"['CVE-2017-15307', 'CVE-2018-7939']",2022-03-21T17:52Z

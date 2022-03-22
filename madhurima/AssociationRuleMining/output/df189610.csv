@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dlink:dgs-1510-52xmp:-:*:*:*:*:*:*:*,D-Link DGS-1510-52XMP,['CVE-2018-7859'],2022-03-20T15:46Z
+1,cpe:2.3:o:dlink:dgs-1510-52xmp_firmware:-:*:*:*:*:*:*:*,D-Link DGS-1510-52XMP Firmware,['CVE-2018-7859'],2022-03-20T15:46Z
+2,cpe:2.3:o:dlink:dgs-1510-52xmp_firmware:1.20.011:*:*:*:*:*:*:*,D-Link DGS-1510-52XMP Firmware 1.20.011,['CVE-2018-7859'],2022-03-20T15:46Z
+3,cpe:2.3:o:dlink:dgs-1510-52xmp_firmware:1.30.007:*:*:*:*:*:*:*,D-Link DGS-1510-52XMP Firmware 1.30.007,['CVE-2018-7859'],2022-03-20T15:47Z
+4,cpe:2.3:o:dlink:dgs-1510-52xmp_firmware:1.31.b003:*:*:*:*:*:*:*,D-Link DGS-1510-52XMP Firmware 1.31.B003,['CVE-2018-7859'],2022-03-20T15:47Z
+5,cpe:2.3:o:dlink:dhp-1565_firmware:-:*:*:*:*:*:*:*,D-Link DHP-1565 Firmware,['CVE-2019-16920'],2022-03-20T15:47Z
+6,cpe:2.3:o:dlink:dhp-1565_firmware:1.01:*:*:*:*:*:*:*,D-Link DHP-1565 Firmware 1.01,['CVE-2019-16920'],2022-03-20T15:47Z
+7,cpe:2.3:h:dlink:di-524:-:*:*:*:*:*:*:*,D-Link DI-524,['CVE-2019-11017'],2022-03-20T15:47Z
+8,cpe:2.3:o:dlink:di-524_firmware:2.06ru:*:*:*:*:*:*:*,D-Link DI-524 Firmware 2.06RU,['CVE-2019-11017'],2022-03-20T15:47Z
+9,cpe:2.3:o:dlink:dir-130_firmware:1.23:*:*:*:*:*:*:*,D-Link DIR-130 Firmware 1.23,[''],2022-03-20T15:47Z

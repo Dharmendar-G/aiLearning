@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:axel_jung:js_css_optimizer:1.1.15:*:*:*:*:*:*:*,Axel Jung  js_css_optimizer 1.1.15 for TYPO3,[''],2022-03-19T04:39Z
+1,cpe:2.3:a:axel_jung:js_css_optimizer:1.2.0:*:*:*:*:*:*:*,Axel Jung  js_css_optimizer 1.2.0 for TYPO3,[''],2022-03-19T04:39Z
+2,cpe:2.3:a:axel_jung:js_css_optimizer:1.2.1:*:*:*:*:*:*:*,Axel Jung  js_css_optimizer 1.2.1 for TYPO3,[''],2022-03-19T04:39Z
+3,cpe:2.3:a:axel_jung:js_css_optimizer:1.2.2:*:*:*:*:*:*:*,Axel Jung  js_css_optimizer 1.2.2 for TYPO3,[''],2022-03-19T04:39Z
+4,cpe:2.3:a:axel_jung:js_css_optimizer:1.2.3:*:*:*:*:*:*:*,Axel Jung  js_css_optimizer 1.2.3 for TYPO3,[''],2022-03-19T04:39Z
+5,cpe:2.3:a:axel_jung:js_css_optimizer:1.2.4:*:*:*:*:*:*:*,Axel Jung  js_css_optimizer 1.2.4 for TYPO3,[''],2022-03-19T04:39Z
+6,cpe:2.3:a:axel_project:axel:0.9:*:*:*:*:*:*:*,AXEL Project AXEL 0.9,['CVE-2020-13614'],2022-03-19T04:39Z
+7,cpe:2.3:a:axel_project:axel:0.91:*:*:*:*:*:*:*,AXEL Project AXEL 0.91,['CVE-2020-13614'],2022-03-19T04:39Z
+8,cpe:2.3:a:axel_project:axel:0.92:*:*:*:*:*:*:*,AXEL Project AXEL 0.92,['CVE-2020-13614'],2022-03-19T04:39Z
+9,cpe:2.3:a:axel_project:axel:0.94:*:*:*:*:*:*:*,AXEL Project AXEL 0.94,['CVE-2020-13614'],2022-03-19T04:39Z

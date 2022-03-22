@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:datapower_gateway:7.7.1.3:*:*:*:continuous_delivery:*:*:*,IBM DataPower 7.7.1.3 Continuous Delivery Edition,"['CVE-2018-1663', 'CVE-2018-1665', 'CVE-2018-1666', 'CVE-2018-1667', 'CVE-2019-4294']",2022-03-21T20:12Z
+1,cpe:2.3:a:ibm:datapower_gateway:10.0.0.0:*:*:*:*:*:*:*,IBM DataPower Gateway 10.0.0.0,"['CVE-2020-4528', 'CVE-2020-4831', 'CVE-2020-5008', 'CVE-2020-5014']",2022-03-21T20:12Z
+2,cpe:2.3:a:ibm:datapower_gateway:10.0.0.1:*:*:*:*:*:*:*,IBM DataPower Gateway 10.0.0.1,"['CVE-2020-4831', 'CVE-2020-5008', 'CVE-2020-5014']",2022-03-21T20:12Z
+3,cpe:2.3:a:ibm:datapower_gateway:10.0.1.0:*:*:*:*:*:*:*,IBM DataPower Gateway 10.0.1.0,"['CVE-2020-4831', 'CVE-2020-5008', 'CVE-2020-5014', 'CVE-2021-38910']",2022-03-21T20:12Z
+4,cpe:2.3:a:ibm:datapower_gateway:10.0.1.1:*:*:*:*:*:*:*,IBM DataPower Gateway 10.0.1.1,"['CVE-2020-5014', 'CVE-2021-38910']",2022-03-21T20:12Z
+5,cpe:2.3:a:ibm:datapower_gateway:10.0.1.2:*:*:*:*:*:*:*,IBM DataPower Gateway 10.0.1.2,['CVE-2021-38910'],2022-03-21T20:12Z
+6,cpe:2.3:a:ibm:datapower_gateway:10.0.1.3:*:*:*:*:*:*:*,IBM DataPower Gateway 10.0.1.3,['CVE-2021-38910'],2022-03-21T20:12Z
+7,cpe:2.3:a:ibm:datapower_gateway:10.0.2.0:*:*:*:*:*:*:*,IBM DataPower Gateway 10.0.2.0,['CVE-2021-38910'],2022-03-21T20:12Z
+8,cpe:2.3:a:ibm:datapower_gateway:10.0.3.0:*:*:*:*:*:*:*,IBM DataPower Gateway 10.0.3.0,['CVE-2021-38910'],2022-03-21T20:12Z
+9,cpe:2.3:a:ibm:datapower_gateway:2018.4:*:*:*:*:*:*:*,IBM DataPower Gateway 2018.4,['CVE-2018-1663'],2022-03-21T20:12Z

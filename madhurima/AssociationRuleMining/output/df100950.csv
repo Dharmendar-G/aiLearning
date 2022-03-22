@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:calibre-ebook:calibre:3.9.0:*:*:*:*:*:*:*,Calibre E-book Calibre 3.9.0,['CVE-2021-44686'],2022-03-19T15:01Z
+1,cpe:2.3:a:calibre-ebook:calibre:3.10.0:*:*:*:*:*:*:*,Calibre E-book Calibre 3.10.0,['CVE-2021-44686'],2022-03-19T15:01Z
+2,cpe:2.3:a:calibre-ebook:calibre:3.11.0:*:*:*:*:*:*:*,Calibre E-book Calibre 3.11.0,['CVE-2021-44686'],2022-03-19T15:01Z
+3,cpe:2.3:a:calibre-ebook:calibre:3.11.1:*:*:*:*:*:*:*,Calibre E-book Calibre 3.11.1,['CVE-2021-44686'],2022-03-19T15:01Z
+4,cpe:2.3:a:calibre-ebook:calibre:3.12.0:*:*:*:*:*:*:*,Calibre E-book Calibre 3.12.0,['CVE-2021-44686'],2022-03-19T15:01Z
+5,cpe:2.3:a:calibre-ebook:calibre:3.13.0:*:*:*:*:*:*:*,Calibre E-book Calibre 3.13.0,['CVE-2021-44686'],2022-03-19T15:01Z
+6,cpe:2.3:a:calibre-ebook:calibre:3.14.0:*:*:*:*:*:*:*,Calibre E-book Calibre 3.14.0,['CVE-2021-44686'],2022-03-19T15:01Z
+7,cpe:2.3:a:calibre-ebook:calibre:3.15.0:*:*:*:*:*:*:*,Calibre E-book Calibre 3.15.0,['CVE-2021-44686'],2022-03-19T15:01Z
+8,cpe:2.3:a:calibre-ebook:calibre:3.16.0:*:*:*:*:*:*:*,Calibre E-book Calibre 3.16.0,['CVE-2021-44686'],2022-03-19T15:01Z
+9,cpe:2.3:a:calibre-ebook:calibre:3.17.0:*:*:*:*:*:*:*,Calibre E-book Calibre 3.17.0,['CVE-2021-44686'],2022-03-19T15:01Z

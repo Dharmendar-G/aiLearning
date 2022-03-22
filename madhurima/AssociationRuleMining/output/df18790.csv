@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alfresco:alfresco:4.2.f:*:*:*:community:*:*:*,Alfresco Community Edition 4.2.f,"['CVE-2014-9300', 'CVE-2014-9301', 'CVE-2019-14222', 'CVE-2019-14223', 'CVE-2020-8776', 'CVE-2020-8777', 'CVE-2020-8778']",2022-03-18T14:39Z
+1,cpe:2.3:a:alfresco:alfresco:5.0.a:*:*:*:community:*:*:*,Alfresco Community Edition 5.0.a,"['CVE-2014-9300', 'CVE-2019-14222', 'CVE-2019-14223', 'CVE-2020-8776', 'CVE-2020-8777', 'CVE-2020-8778']",2022-03-18T14:39Z
+2,cpe:2.3:a:alfresco:alfresco:5.2:*:*:*:community:*:*:*,Alfresco 5.2 Community Edition,"['CVE-2019-14222', 'CVE-2019-14223', 'CVE-2019-14224', 'CVE-2020-18327', 'CVE-2020-8776', 'CVE-2020-8777', 'CVE-2020-8778']",2022-03-18T14:39Z
+3,cpe:2.3:a:alfresco:alfresco:5.2.0:*:*:*:enterprise:*:*:*,Alfresco 5.2.0 Enterprise Edition,"['CVE-2019-19496', 'CVE-2020-8776', 'CVE-2020-8777', 'CVE-2020-8778']",2022-03-18T14:39Z
+4,cpe:2.3:a:alfresco:alfresco:5.2.1:*:*:*:enterprise:*:*:*,Alfresco 5.2.1 Enterprise Edition,"['CVE-2019-19496', 'CVE-2020-8776', 'CVE-2020-8777', 'CVE-2020-8778']",2022-03-18T14:39Z
+5,cpe:2.3:a:alfresco:alfresco:5.2.2:*:*:*:enterprise:*:*:*,Alfresco 5.2.2 Enterprise Edition,"['CVE-2019-19496', 'CVE-2020-8776', 'CVE-2020-8777', 'CVE-2020-8778']",2022-03-18T14:39Z
+6,cpe:2.3:a:alfresco:alfresco:5.2.3:*:*:*:enterprise:*:*:*,Alfresco 5.2.3 Enterprise Edition,"['CVE-2019-19496', 'CVE-2020-8776', 'CVE-2020-8777', 'CVE-2020-8778']",2022-03-18T14:39Z
+7,cpe:2.3:a:alfresco:alfresco:5.2.4:*:*:*:enterprise:*:*:*,Alfresco 5.2.4 Enterprise Edition,"['CVE-2019-19496', 'CVE-2020-8776', 'CVE-2020-8777', 'CVE-2020-8778']",2022-03-18T14:39Z
+8,cpe:2.3:a:alfresco:alfresco:5.2.5:*:*:*:enterprise:*:*:*,Alfresco 5.2.5 Enterprise Edition,"['CVE-2020-8776', 'CVE-2020-8777', 'CVE-2020-8778']",2022-03-18T14:39Z
+9,cpe:2.3:a:alfresco:alfresco:5.2.6:*:*:*:community:*:*:*,Alfresco 5.2.6 Community Edition,"['CVE-2019-14222', 'CVE-2020-8776', 'CVE-2020-8777', 'CVE-2020-8778']",2022-03-18T14:39Z

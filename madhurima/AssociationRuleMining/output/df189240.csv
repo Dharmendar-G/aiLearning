@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dap-2690_firmware:3.20rc115:beta:*:*:*:*:*:*,D-Link DAP-2690 FIRMWARE 3.20RC115 Beta,['CVE-2021-28838'],2022-03-20T15:40Z
+1,cpe:2.3:h:dlink:dap-2695:-:*:*:*:*:*:*:*,D-Link DAP-2695,"['CVE-2021-28838', 'CVE-2021-28839', 'CVE-2021-28840']",2022-03-20T15:40Z
+2,cpe:2.3:o:dlink:dap-2695_firmware:-:*:*:*:*:*:*:*,D-Link DAP-2695 FIRMWARE,['CVE-2021-28838'],2022-03-20T15:40Z
+3,cpe:2.3:o:dlink:dap-2695_firmware:1.17.rc063:*:*:*:*:*:*:*,D-Link DAP-2695 FIRMWARE 1.17.RC063,"['CVE-2021-28838', 'CVE-2021-28839', 'CVE-2021-28840']",2022-03-20T15:40Z
+4,cpe:2.3:o:dlink:dap-2695_firmware:1.20rc093:*:*:*:*:*:*:*,D-Link DAP-2695 FIRMWARE 1.20RC093,['CVE-2021-28838'],2022-03-20T15:40Z
+5,cpe:2.3:h:dlink:dap-3320:-:*:*:*:*:*:*:*,D-Link DAP-3320,"['CVE-2021-28838', 'CVE-2021-28839', 'CVE-2021-28840']",2022-03-20T15:40Z
+6,cpe:2.3:o:dlink:dap-3320_firmware:-:*:*:*:*:*:*:*,D-Link DAP-3320 FIRMWARE,['CVE-2021-28838'],2022-03-20T15:40Z
+7,cpe:2.3:o:dlink:dap-3320_firmware:1.01.rc014:*:*:*:*:*:*:*,D-Link DAP-3320 FIRMWARE 1.01.RC014,"['CVE-2021-28838', 'CVE-2021-28839', 'CVE-2021-28840']",2022-03-20T15:40Z
+8,cpe:2.3:o:dlink:dap-3320_firmware:1.05rc027:beta:*:*:*:*:*:*,D-Link DAP-3320 FIRMWARE 1.05RC027 Beta,['CVE-2021-28838'],2022-03-20T15:40Z
+9,cpe:2.3:o:dlink:dap-3320_firmware:1.05rc027:beta:*:*:*:*:*:*,D-Link DAP-3320 FIRMWARE 1.05RC027 Beta,['CVE-2021-28838'],2022-03-20T15:40Z

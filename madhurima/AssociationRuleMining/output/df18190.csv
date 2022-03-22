@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:akka:akka:10.0.1:*:*:*:*:*:*:*,Akka 10.0.1,[''],2022-03-18T14:27Z
+1,cpe:2.3:a:akka:akka:10.0.2:*:*:*:*:*:*:*,Akka 10.0.2,[''],2022-03-18T14:27Z
+2,cpe:2.3:a:akka:akka:10.0.3:*:*:*:*:*:*:*,Akka 10.0.3,[''],2022-03-18T14:27Z
+3,cpe:2.3:a:akka:akka:10.0.4:*:*:*:*:*:*:*,Akka 10.0.4,[''],2022-03-18T14:27Z
+4,cpe:2.3:a:akka:akka:10.0.5:*:*:*:*:*:*:*,Akka 10.0.5,[''],2022-03-18T14:27Z
+5,cpe:2.3:a:akka:http_server:-:*:*:*:*:*:*:*,Akka HTTP Server,['CVE-2017-1000118'],2022-03-18T14:27Z
+6,cpe:2.3:a:akka:http_server:10.0.0:*:*:*:*:*:*:*,Akka HTTP Server 10.0.0,['CVE-2017-1000118'],2022-03-18T14:27Z
+7,cpe:2.3:a:akka:http_server:10.0.1:*:*:*:*:*:*:*,Akka HTTP Server 10.0.1,['CVE-2017-1000118'],2022-03-18T14:27Z
+8,cpe:2.3:a:akka:http_server:10.0.2:*:*:*:*:*:*:*,Akka HTTP Server 10.0.2,['CVE-2017-1000118'],2022-03-18T14:27Z
+9,cpe:2.3:a:akka:http_server:10.0.3:*:*:*:*:*:*:*,Akka HTTP Server 10.0.3,['CVE-2017-1000118'],2022-03-18T14:27Z

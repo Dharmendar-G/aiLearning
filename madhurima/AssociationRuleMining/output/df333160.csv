@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:berlin-l21:-:*:*:*:*:*:*:*,Huawei Berlin-l21 -,"['CVE-2017-17201', 'CVE-2017-2721']",2022-03-21T17:26Z
+1,cpe:2.3:o:huawei:berlin-l21_firmware:berlin-l21c10b130:*:*:*:*:*:*:*,Huawei Berlin-l21 Firmware Berlin-L21C10B130,"['CVE-2017-17201', 'CVE-2017-2721']",2022-03-21T17:26Z
+2,cpe:2.3:o:huawei:berlin-l21_firmware:berlin-l21c10b371:*:*:*:*:*:*:*,Huawei Berlin-l21 Firmware Berlin-l21c10b371,[''],2022-03-21T17:26Z
+3,cpe:2.3:o:huawei:berlin-l21_firmware:berlin-l21c185b132:*:*:*:*:*:*:*,Huawei Berlin-L21 Firmware Berlin-L21C185B132,['CVE-2017-17201'],2022-03-21T17:26Z
+4,cpe:2.3:o:huawei:berlin-l21_firmware:berlin-l21c185b133:*:*:*:*:*:*:*,Huawei Berlin-l21 Firmware Berlin-L21C185B133,['CVE-2017-2721'],2022-03-21T17:26Z
+5,cpe:2.3:o:huawei:berlin-l21_firmware:berlin-l21c464b130:*:*:*:*:*:*:*,Huawei Berlin-L21 Firmware Berlin-L21C464B130,['CVE-2017-17201'],2022-03-21T17:26Z
+6,cpe:2.3:o:huawei:berlin-l21_firmware:berlin-l21c464b135:*:*:*:*:*:*:*,Huawei Berlin-l21 Firmware Berlin-l21c464b135,[''],2022-03-21T17:26Z
+7,cpe:2.3:h:huawei:berlin-l21hn:-:*:*:*:*:*:*:*,Huawei Berlin-l21hn -,"['CVE-2017-17158', 'CVE-2017-2721']",2022-03-21T17:26Z
+8,cpe:2.3:o:huawei:berlin-l21hn_firmware:berlin-l21hnc10b131:*:*:*:*:*:*:*,Huawei Berlin-l21hn Firmware Berlin-L21HNC10B131,"['CVE-2017-17158', 'CVE-2017-2721']",2022-03-21T17:26Z
+9,cpe:2.3:o:huawei:berlin-l21hn_firmware:berlin-l21hnc185b140:*:*:*:*:*:*:*,Huawei Berlin-l21hn Firmware Berlin-L21HNC185B140,"['CVE-2017-17158', 'CVE-2017-2721']",2022-03-21T17:26Z

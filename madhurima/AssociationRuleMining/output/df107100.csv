@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cformsii_project:cformsii:11.1:*:*:*:*:wordpress:*:*,cformsII Project cformsII 11.1 for WordPress,"['CVE-2014-10377', 'CVE-2015-9333', 'CVE-2017-18559', 'CVE-2017-18570', 'CVE-2019-15238']",2022-03-19T16:23Z
+1,cpe:2.3:a:cformsii_project:cformsii:11.2:*:*:*:*:wordpress:*:*,cformsII Project cformsII 11.2 for WordPress,"['CVE-2014-10377', 'CVE-2015-9333', 'CVE-2017-18559', 'CVE-2017-18570', 'CVE-2019-15238']",2022-03-19T16:23Z
+2,cpe:2.3:a:cformsii_project:cformsii:11.3:*:*:*:*:wordpress:*:*,cformsII Project cformsII 11.3 for WordPress,"['CVE-2014-10377', 'CVE-2015-9333', 'CVE-2017-18559', 'CVE-2017-18570', 'CVE-2019-15238']",2022-03-19T16:23Z
+3,cpe:2.3:a:cformsii_project:cformsii:11.4:*:*:*:*:wordpress:*:*,cformsII Project cformsII 11.4 for WordPress,"['CVE-2014-10377', 'CVE-2015-9333', 'CVE-2017-18559', 'CVE-2017-18570', 'CVE-2019-15238']",2022-03-19T16:23Z
+4,cpe:2.3:a:cformsii_project:cformsii:11.5:*:*:*:*:wordpress:*:*,cformsII Project cformsII 11.5 for WordPress,"['CVE-2014-10377', 'CVE-2015-9333', 'CVE-2017-18559', 'CVE-2017-18570', 'CVE-2019-15238']",2022-03-19T16:23Z
+5,cpe:2.3:a:cformsii_project:cformsii:11.6:*:*:*:*:wordpress:*:*,cformsII Project cformsII 11.6 for WordPress,"['CVE-2014-10377', 'CVE-2015-9333', 'CVE-2017-18559', 'CVE-2017-18570', 'CVE-2019-15238']",2022-03-19T16:23Z
+6,cpe:2.3:a:cformsii_project:cformsii:11.6.1:*:*:*:*:wordpress:*:*,cformsII Project cformsII 11.6.1 for WordPress,"['CVE-2014-10377', 'CVE-2015-9333', 'CVE-2017-18559', 'CVE-2017-18570', 'CVE-2019-15238']",2022-03-19T16:23Z
+7,cpe:2.3:a:cformsii_project:cformsii:11.7:*:*:*:*:wordpress:*:*,cformsII Project cformsII 11.7 for WordPress,"['CVE-2014-10377', 'CVE-2015-9333', 'CVE-2017-18559', 'CVE-2017-18570', 'CVE-2019-15238']",2022-03-19T16:23Z
+8,cpe:2.3:a:cformsii_project:cformsii:11.7.1:*:*:*:*:wordpress:*:*,cformsII Project cformsII 11.7.1 for WordPress,"['CVE-2014-10377', 'CVE-2015-9333', 'CVE-2017-18559', 'CVE-2017-18570', 'CVE-2019-15238']",2022-03-19T16:23Z
+9,cpe:2.3:a:cformsii_project:cformsii:11.7.2:*:*:*:*:wordpress:*:*,cformsII Project cformsII 11.7.2 for WordPress,"['CVE-2014-10377', 'CVE-2015-9333', 'CVE-2017-18559', 'CVE-2017-18570', 'CVE-2019-15238']",2022-03-19T16:23Z

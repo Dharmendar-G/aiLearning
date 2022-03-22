@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:telepresence_readiness_assessment_manager:1.0:*:*:*:*:*:*:*,CiscoTelePresence Readiness Assessment Manager 1.0,"['CVE-2009-1161', 'CVE-2010-3036']",2022-03-20T00:32Z
+1,cpe:2.3:a:cisco:telepresence_recording_server:1.6.1\(2\):*:*:*:*:*:*:*,Cisco TelePresence Recording Server 1.6.1(2),"['CVE-2012-2486', 'CVE-2012-3073', 'CVE-2012-3076']",2022-03-20T00:32Z
+2,cpe:2.3:a:cisco:telepresence_recording_server:1.6.2\(31\):*:*:*:*:*:*:*,Cisco TelePresence Recording Server 1.6.2(31),"['CVE-2012-2486', 'CVE-2012-3073', 'CVE-2012-3076']",2022-03-20T00:32Z
+3,cpe:2.3:a:cisco:telepresence_recording_server:1.6.3\(4\):*:*:*:*:*:*:*,Cisco TelePresence Recording Server 1.6.3(4),"['CVE-2012-2486', 'CVE-2012-3073', 'CVE-2012-3076']",2022-03-20T00:32Z
+4,cpe:2.3:a:cisco:telepresence_recording_server:1.7.0\(190\):*:*:*:*:*:*:*,Cisco TelePresence Recording Server 1.7.0(190),"['CVE-2012-2486', 'CVE-2012-3073', 'CVE-2012-3076']",2022-03-20T00:32Z
+5,cpe:2.3:a:cisco:telepresence_recording_server:1.7.1\(22\):*:*:*:*:*:*:*,Cisco TelePresence Recording Server 1.7.1(22),"['CVE-2012-2486', 'CVE-2012-3073', 'CVE-2012-3076']",2022-03-20T00:32Z
+6,cpe:2.3:a:cisco:telepresence_recording_server:1.7.2.1:*:*:*:*:*:*:*,Cisco TelePresence Recording Server 1.7.2.1,"['CVE-2012-2486', 'CVE-2012-3073', 'CVE-2012-3076']",2022-03-20T00:32Z
+7,cpe:2.3:a:cisco:telepresence_recording_server:1.7.3\(3\):*:*:*:*:*:*:*,Cisco TelePresence Recording Server 1.7.3(3),"['CVE-2012-2486', 'CVE-2012-3073', 'CVE-2012-3076']",2022-03-20T00:32Z
+8,cpe:2.3:a:cisco:telepresence_recording_server:1.8.0\(160\):*:*:*:*:*:*:*,Cisco TelePresence Recording Server 1.8.0(160),"['CVE-2012-2486', 'CVE-2012-3073']",2022-03-20T00:32Z
+9,cpe:2.3:a:cisco:telepresence_recording_server:1.8.1:*:*:*:*:*:*:*,Cisco TelePresence Recording Server 1.8.1,[''],2022-03-20T00:32Z

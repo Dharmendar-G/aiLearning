@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:ucs_e160s_m3:-:*:*:*:*:*:*:*,Cisco UCS E160S M3,[''],2022-03-20T00:40Z
+1,cpe:2.3:h:cisco:ucs_e180d_m2:-:*:*:*:*:*:*:*,Cisco UCS E180D M2,[''],2022-03-20T00:40Z
+2,cpe:2.3:h:cisco:ucs_e180d_m3:-:*:*:*:*:*:*:*,Cisco UCS E180D M3,[''],2022-03-20T00:40Z
+3,cpe:2.3:h:cisco:ucs_e-series_m1:-:*:*:*:*:*:*:*,Cisco UCS E-Series M1,['CVE-2020-3470'],2022-03-20T00:40Z
+4,cpe:2.3:h:cisco:ucs_e-series_m2:-:*:*:*:*:*:*:*,Cisco UCS E-Series M2,['CVE-2020-3470'],2022-03-20T00:40Z
+5,cpe:2.3:h:cisco:ucs_e-series_m3:-:*:*:*:*:*:*:*,Cisco UCS E-Series M3,['CVE-2020-3470'],2022-03-20T00:40Z
+6,cpe:2.3:a:cisco:ucs_invicta_c3124sa_appliance:4.3.1:*:*:*:*:*:*:*,Cisco UCS Invicta C3124SA Appliance 4.3.1,"['CVE-2016-1313', 'CVE-2016-1404']",2022-03-20T00:40Z
+7,cpe:2.3:a:cisco:ucs_invicta_c3124sa_appliance:4.3_base:*:*:*:*:*:*:*,Cisco UCS Invicta C3124SA Appliance 4.3 Base,['CVE-2016-1404'],2022-03-20T00:40Z
+8,cpe:2.3:a:cisco:ucs_invicta_c3124sa_appliance:4.5.0:*:*:*:*:*:*:*,Cisco UCS Invicta C3124SA Appliance 4.5.0,"['CVE-2016-1313', 'CVE-2016-1404']",2022-03-20T00:40Z
+9,cpe:2.3:a:cisco:ucs_invicta_c3124sa_appliance:4.5_base:*:*:*:*:*:*:*,Cisco UCS Invicta C3124SA Appliance 4.5 Base,['CVE-2016-1404'],2022-03-20T00:40Z

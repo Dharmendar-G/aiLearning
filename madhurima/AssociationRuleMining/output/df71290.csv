@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:baseurl:yum:3.2.27:*:*:*:*:*:*:*,baseurl yum 3.2.27,['CVE-2014-0022'],2022-03-19T06:29Z
+1,cpe:2.3:a:baseurl:yum:3.2.28:*:*:*:*:*:*:*,baseurl yum 3.2.28,['CVE-2014-0022'],2022-03-19T06:29Z
+2,cpe:2.3:a:baseurl:yum:3.2.29:*:*:*:*:*:*:*,baseurl yum 3.2.29,['CVE-2014-0022'],2022-03-19T06:29Z
+3,cpe:2.3:a:baseurl:yum:3.4.0:*:*:*:*:*:*:*,baseurl yum 3.4.0,['CVE-2014-0022'],2022-03-19T06:29Z
+4,cpe:2.3:a:baseurl:yum:3.4.1:*:*:*:*:*:*:*,baseurl yum 3.4.1,['CVE-2014-0022'],2022-03-19T06:29Z
+5,cpe:2.3:a:baseurl:yum:3.4.2:*:*:*:*:*:*:*,baseurl yum 3.4.2,['CVE-2014-0022'],2022-03-19T06:29Z
+6,cpe:2.3:a:baseurl:yum:3.4.3:*:*:*:*:*:*:*,baseurl yum 3.4.3,"['CVE-2013-1910', 'CVE-2014-0022']",2022-03-19T06:29Z
+7,cpe:2.3:a:bashgaming:bingo_bash_free_bingo_casino:1.31.1:*:*:*:*:android:*:*,bashgaming Bingo Bash - Free Bingo Casino (aka air.com.bitrhymes.bingo) for Android 1.31.1,['CVE-2014-5536'],2022-03-19T06:29Z
+8,cpe:2.3:a:basic_b2b_script_project:basic_b2b_script:-:*:*:*:*:*:*:*,Basic B2B Script Project Basic B2B Script,[''],2022-03-19T06:29Z
+9,cpe:2.3:a:basic_b2b_script_project:basic_b2b_script:2.0.8:*:*:*:*:*:*:*,Basic B2B Script Project Basic B2B Script 2.0.8,['CVE-2017-17600'],2022-03-19T06:29Z

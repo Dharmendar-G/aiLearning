@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:warsaw-al00_firmware:-:*:*:*:*:*:*:*,Huawei Warsaw-al00 Firmware -,['CVE-2017-8173'],2022-03-21T19:08Z
+1,cpe:2.3:o:huawei:warsaw-al00_firmware:warsaw-al00c00b200:*:*:*:*:*:*:*,Huawei Warsaw-al00 Firmware Warsaw-al00c00b200,[''],2022-03-21T19:08Z
+2,cpe:2.3:h:huawei:watch_2:-:*:*:*:*:*:*:*,Huawei Watch 2,['CVE-2018-7926'],2022-03-21T19:08Z
+3,cpe:2.3:o:huawei:watch_2_firmware:owdd.180707.001.e1:*:*:*:*:*:*:*,Huawei Watch 2 Firmware OWDD.180707.001.E1,['CVE-2018-7926'],2022-03-21T19:08Z
+4,cpe:2.3:o:huawei:watch_2_firmware:owdd.180707.001.h1:*:*:*:*:*:*:*,Huawei Watch 2 Firmware OWDD.180707.001.H1,[''],2022-03-21T19:08Z
+5,cpe:2.3:a:huawei:wear_app:-:*:*:*:*:*:*:*,Huawei Wear,['CVE-2016-3677'],2022-03-21T19:08Z
+6,cpe:2.3:a:huawei:webui:11.010.06.01.858:*:*:*:*:*:*:*,Huawei WebUi 11.010.06.01.858,"['CVE-2014-2946', 'CVE-2015-3912']",2022-03-21T19:08Z
+7,cpe:2.3:h:huawei:wlan_ac_6605:v200r001c00:*:*:*:*:*:*:*,Huawei WLAN AC 6605 V200R001C00,['CVE-2012-4960'],2022-03-21T19:08Z
+8,cpe:2.3:h:huawei:wlan_ac_6605:v200r001c00spc100:*:*:*:*:*:*:*,Huawei WLAN AC 6605 V200R001C00SPC100,['CVE-2012-4960'],2022-03-21T19:09Z
+9,cpe:2.3:h:huawei:wlan_ac6005:-:*:*:*:*:*:*:*,Huawei WLAN AC6005,"['CVE-2014-4705', 'CVE-2015-6586']",2022-03-21T19:09Z

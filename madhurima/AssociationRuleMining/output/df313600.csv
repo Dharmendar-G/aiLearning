@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hoermann:hse1-868-bs_firmware:-:*:*:*:*:*:*:*,Hoermann HSE1-868-BS Firmware,['CVE-2017-17910'],2022-03-21T11:34Z
+1,cpe:2.3:h:hoermann:hse2-868-bs:-:*:*:*:*:*:*:*,Hoermann HSE2-868-BS,['CVE-2017-17910'],2022-03-21T11:34Z
+2,cpe:2.3:o:hoermann:hse2-868-bs_firmware:-:*:*:*:*:*:*:*,Hoermann HSE2-868-BS Firmware,['CVE-2017-17910'],2022-03-21T11:34Z
+3,cpe:2.3:a:hogs_fly_crazy_project:hogs_fly_crazy:1.0.0:*:*:*:*:android:*:*,Hogs Fly Crazy project Hogs Fly Crazy (aka com.pedrojayme.hogsflycrazy) for android 1.0.0,['CVE-2014-6871'],2022-03-21T11:34Z
+4,cpe:2.3:a:hokkaidobank:dogin:-:*:*:*:*:android:*:*,Hokkaido Bank Dogin for Android,['CVE-2020-5523'],2022-03-21T11:34Z
+5,cpe:2.3:a:hokkaidobank:dogin:3.0.1:*:*:*:*:android:*:*,Hokkaido Bank Dogin 3.0.1 for Android,['CVE-2020-5523'],2022-03-21T11:34Z
+6,cpe:2.3:a:hokkaidobank:dogin:3.0.2:*:*:*:*:android:*:*,Hokkaido Bank Dogin 3.0.2 for Android,[''],2022-03-21T11:34Z
+7,cpe:2.3:a:hokugin:hokuriku_bank_portal:-:*:*:*:*:android:*:*,Hokugin Hokuriku Bank Portal for Android,['CVE-2020-5523'],2022-03-21T11:34Z
+8,cpe:2.3:a:hokugin:hokuriku_bank_portal:2.0.1:*:*:*:*:android:*:*,Hokugin Hokuriku Bank Portal 2.0.1 for Android,['CVE-2020-5523'],2022-03-21T11:34Z
+9,cpe:2.3:a:hokugin:hokuriku_bank_portal:2.0.2:*:*:*:*:android:*:*,Hokugin Hokuriku Bank Portal 2.0.2 for Android,[''],2022-03-21T11:34Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:ws5200-10_firmware:9.0.3.9:*:*:*:*:*:*:*,Huawei WS5200-10 Firmware 9.0.3.9,"['CVE-2018-7937', 'CVE-2019-5268', 'CVE-2019-5269']",2022-03-21T19:09Z
+1,cpe:2.3:o:huawei:ws5200-10_firmware:10.0.2.6:*:*:*:*:*:*:*,Huawei WS5200-10 Firmware 10.0.2.6,['CVE-2018-7937'],2022-03-21T19:09Z
+2,cpe:2.3:h:huawei:ws5200-11:-:*:*:*:*:*:*:*,Huawei WS5200-11,"['CVE-2019-5268', 'CVE-2019-5269', 'CVE-2020-9069']",2022-03-21T19:09Z
+3,cpe:2.3:o:huawei:ws5200-11_firmware:9.0.3.11:*:*:*:*:*:*:*,Huawei WS5200-11 Firmware 9.0.3.11,"['CVE-2019-5268', 'CVE-2019-5269', 'CVE-2020-9069']",2022-03-21T19:09Z
+4,cpe:2.3:o:huawei:ws5200-11_firmware:10.0.2.3:*:*:*:*:*:*:*,Huawei WS5200-11 Firmware 10.0.2.3,"['CVE-2019-5268', 'CVE-2019-5269', 'CVE-2020-9069']",2022-03-21T19:09Z
+5,cpe:2.3:o:huawei:ws5200-11_firmware:10.0.2.8:*:*:*:*:*:*:*,Huawei WS5200-11 Firmware 10.0.2.8,['CVE-2020-9069'],2022-03-21T19:09Z
+6,cpe:2.3:o:huawei:ws5200-11_firmware:10.0.2.23:*:*:*:*:*:*:*,Huawei WS5200-11 Firmware 10.0.2.23,[''],2022-03-21T19:09Z
+7,cpe:2.3:h:huawei:ws5200-12:-:*:*:*:*:*:*:*,Huawei WS5200-12,['CVE-2020-9122'],2022-03-21T19:09Z
+8,cpe:2.3:o:huawei:ws5200-12_firmware:10.0.1.9:*:*:*:*:*:*:*,Huawei WS5200-12 Firmware 10.0.1.9,['CVE-2020-9122'],2022-03-21T19:09Z
+9,cpe:2.3:o:huawei:ws5200-12_firmware:10.0.5.6:*:*:*:*:*:*:*,Huawei WS5200-12 Firmware 10.0.5.6,['CVE-2020-9122'],2022-03-21T19:09Z

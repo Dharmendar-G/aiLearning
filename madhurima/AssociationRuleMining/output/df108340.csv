@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:check_mk_project:check_mk:1.1.0:*:*:*:*:*:*:*,Check_MK Project Check_MK 1.1.0,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z
+1,cpe:2.3:a:check_mk_project:check_mk:1.1.2:*:*:*:*:*:*:*,Check_MK Project Check_MK 1.1.2,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z
+2,cpe:2.3:a:check_mk_project:check_mk:1.1.3:-:*:*:*:*:*:*,Check_MK Project Check_MK 1.1.3,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z
+3,cpe:2.3:a:check_mk_project:check_mk:1.1.3:b1:*:*:*:*:*:*,Check_MK Project Check_MK 1.1.3 Beta 1,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z
+4,cpe:2.3:a:check_mk_project:check_mk:1.1.4:*:*:*:*:*:*:*,Check_MK Project Check_MK 1.1.4,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z
+5,cpe:2.3:a:check_mk_project:check_mk:1.1.5:i0:*:*:*:*:*:*,Check_MK Project Check_MK 1.1.5 i0,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z
+6,cpe:2.3:a:check_mk_project:check_mk:1.1.5:i1:*:*:*:*:*:*,Check_MK Project Check_MK 1.1.5 i1,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z
+7,cpe:2.3:a:check_mk_project:check_mk:1.1.5:i2:*:*:*:*:*:*,Check_MK Project Check_MK 1.1.5 i2,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z
+8,cpe:2.3:a:check_mk_project:check_mk:1.1.5:i3:*:*:*:*:*:*,Check_MK Project Check_MK 1.1.5 i3,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z
+9,cpe:2.3:a:check_mk_project:check_mk:1.1.6:-:*:*:*:*:*:*,Check_MK Project Check_MK 1.1.6,"['CVE-2014-0243', 'CVE-2014-2329', 'CVE-2014-2330', 'CVE-2014-2331', 'CVE-2014-2332']",2022-03-19T16:40Z

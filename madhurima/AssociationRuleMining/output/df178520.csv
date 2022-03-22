@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:bsafe_crypto-j:6.2:*:*:*:*:*:*:*,Dell BSAFE Crypto-J 6.2,"['CVE-2016-0887', 'CVE-2016-8212', 'CVE-2016-8217', 'CVE-2018-11070', 'CVE-2019-3738', 'CVE-2019-3739', 'CVE-2019-3740']",2022-03-20T12:13Z
+1,cpe:2.3:a:dell:bsafe_crypto-j:6.2.0.1:*:*:*:*:*:*:*,Dell BSAFE Crypto-J 6.2.0.1,"['CVE-2016-0887', 'CVE-2016-8212', 'CVE-2016-8217', 'CVE-2018-11070', 'CVE-2019-3738', 'CVE-2019-3739', 'CVE-2019-3740']",2022-03-20T12:13Z
+2,cpe:2.3:a:dell:bsafe_crypto-j:6.2.0.2:*:*:*:*:*:*:*,Dell BSAFE Crypto-J 6.2.0.2,"['CVE-2016-0887', 'CVE-2016-8212', 'CVE-2016-8217', 'CVE-2018-11070', 'CVE-2019-3738', 'CVE-2019-3739', 'CVE-2019-3740']",2022-03-20T12:13Z
+3,cpe:2.3:a:dell:bsafe_crypto-j:6.2.1:*:*:*:*:*:*:*,Dell BSAFE Crypto-J 6.2.1,"['CVE-2016-8212', 'CVE-2016-8217', 'CVE-2018-11070', 'CVE-2019-3738', 'CVE-2019-3739', 'CVE-2019-3740']",2022-03-20T12:13Z
+4,cpe:2.3:a:dell:bsafe_crypto-j:6.2.2:*:*:*:*:*:*:*,Dell BSAFE Crypto-J 6.2.2,"['CVE-2018-11070', 'CVE-2019-3738', 'CVE-2019-3739', 'CVE-2019-3740']",2022-03-20T12:13Z
+5,cpe:2.3:a:dell:bsafe_crypto-j:6.2.2.1:*:*:*:*:*:*:*,Dell BSAFE Crypto-J 6.2.2.1,"['CVE-2018-11070', 'CVE-2019-3738', 'CVE-2019-3739', 'CVE-2019-3740']",2022-03-20T12:13Z
+6,cpe:2.3:a:dell:bsafe_crypto-j:6.2.3:*:*:*:*:*:*:*,Dell BSAFE Crypto-J 6.2.3,"['CVE-2018-11070', 'CVE-2019-3738', 'CVE-2019-3739', 'CVE-2019-3740']",2022-03-20T12:13Z
+7,cpe:2.3:a:dell:bsafe_crypto-j:6.2.4:*:*:*:*:*:*:*,Dell BSAFE Crypto-J 6.2.4,"['CVE-2019-3738', 'CVE-2019-3739', 'CVE-2019-3740']",2022-03-20T12:13Z
+8,cpe:2.3:a:dell:bsafe_crypto-j:6.2.4.0.1:*:*:*:*:*:*:*,Dell BSAFE Crypto-J 6.2.4.0.1,"['CVE-2019-3738', 'CVE-2019-3739', 'CVE-2019-3740']",2022-03-20T12:13Z
+9,cpe:2.3:a:dell:bsafe_crypto-j:6.2.4.2:*:*:*:*:*:*:*,Dell BSAFE Crypto-J 6.2.4.2,"['CVE-2019-3738', 'CVE-2019-3739', 'CVE-2019-3740']",2022-03-20T12:13Z

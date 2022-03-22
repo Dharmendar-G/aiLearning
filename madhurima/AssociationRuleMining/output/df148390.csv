@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:clusterlabs:hawk:2.2.0-12:*:*:*:*:*:*:*,ClusterLabs hawk 2.2.0-12,['CVE-2020-35458'],2022-03-20T04:03Z
+1,cpe:2.3:a:clusterlabs:hawk:2.2.0-15:*:*:*:*:*:*:*,ClusterLabs hawk 2.2.0-15,[''],2022-03-20T04:03Z
+2,cpe:2.3:a:clusterlabs:hawk:2.3.0-12:*:*:*:*:*:*:*,ClusterLabs hawk 2.3.0-12,['CVE-2020-35458'],2022-03-20T04:03Z
+3,cpe:2.3:a:clusterlabs:hawk:2.3.0-15:*:*:*:*:*:*:*,ClusterLabs hawk 2.3.0-15,[''],2022-03-20T04:03Z
+4,cpe:2.3:a:clusterlabs:libqb:0.1.0:*:*:*:*:*:*:*,ClusterLabs Libqb 0.1.0,['CVE-2019-12779'],2022-03-20T04:03Z
+5,cpe:2.3:a:clusterlabs:libqb:0.2.0:*:*:*:*:*:*:*,ClusterLabs Libqb 0.2.0,['CVE-2019-12779'],2022-03-20T04:03Z
+6,cpe:2.3:a:clusterlabs:libqb:0.3.0:*:*:*:*:*:*:*,ClusterLabs Libqb 0.3.0,['CVE-2019-12779'],2022-03-20T04:03Z
+7,cpe:2.3:a:clusterlabs:libqb:0.4.0:*:*:*:*:*:*:*,ClusterLabs Libqb 0.4.0,['CVE-2019-12779'],2022-03-20T04:03Z
+8,cpe:2.3:a:clusterlabs:libqb:0.4.1:*:*:*:*:*:*:*,ClusterLabs Libqb 0.4.1,['CVE-2019-12779'],2022-03-20T04:03Z
+9,cpe:2.3:a:clusterlabs:libqb:0.5.0:*:*:*:*:*:*:*,ClusterLabs Libqb 0.5.0,['CVE-2019-12779'],2022-03-20T04:03Z

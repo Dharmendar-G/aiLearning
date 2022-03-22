@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:baidu:simeji:1.0.0.7:*:*:*:*:*:*:*,Baidu Simeji 1.0.0.7,['CVE-2017-2219'],2022-03-19T06:03Z
+1,cpe:2.3:a:baidu:spark_browser:2.8:*:*:*:*:*:*:*,Baidu Spark Browser 2.8,['CVE-2018-0692'],2022-03-19T06:03Z
+2,cpe:2.3:a:baidu:spark_browser:26.2.9999.1411:*:*:*:*:*:*:*,Baidu Spark Browser 26.2.9999.1411,['CVE-2018-0692'],2022-03-19T06:03Z
+3,cpe:2.3:a:baidu:spark_browser:26.3.9999.1646:*:*:*:*:*:*:*,Baidu Spark Browser 26.3.9999.1646,['CVE-2018-0692'],2022-03-19T06:03Z
+4,cpe:2.3:a:baidu:spark_browser:26.5.9999.3511:*:*:*:*:*:*:*,Baidu Spark Browser 26.5.9999.3511,"['CVE-2014-5349', 'CVE-2018-0692']",2022-03-19T06:03Z
+5,cpe:2.3:a:baidu:spark_browser:33.7.9999.6169:*:*:*:*:*:*:*,Baidu Spark Browser 33.7.9999.6169,['CVE-2018-0692'],2022-03-19T06:03Z
+6,cpe:2.3:a:baidu:spark_browser:33.8.9999.6066:*:*:*:*:*:*:*,Baidu Spark Browser 33.8.9999.6066,['CVE-2018-0692'],2022-03-19T06:03Z
+7,cpe:2.3:a:baidu:spark_browser:33.9.1000.57:*:*:*:*:*:*:*,Baidu Spark Browser 33.9.1000.57,['CVE-2018-0692'],2022-03-19T06:03Z
+8,cpe:2.3:a:baidu:spark_browser:33.11.1000.67:*:*:*:*:*:*:*,Baidu Spark Browser 33.11.1000.67,['CVE-2018-0692'],2022-03-19T06:03Z
+9,cpe:2.3:a:baidu:spark_browser:33.12.1000.133:*:*:*:*:*:*:*,Baidu Spark Browser 33.12.1000.133,['CVE-2018-0692'],2022-03-19T06:03Z

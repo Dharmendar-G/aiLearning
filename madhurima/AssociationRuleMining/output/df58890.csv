@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:a:atlassian:sourcetree:3.1:*:*:*:*:macos:*:*,Atlassian Sourcetree 3.1 for macOS,['CVE-2018-20234'],2022-03-19T02:14Z
+2,cpe:2.3:a:atlassian:sourcetree:3.1:*:*:*:*:windows:*:*,Atlassian Sourcetree 3.1 for Windows,['CVE-2019-11582'],2022-03-19T02:14Z
+3,[0],[0],[0],[0]
+4,cpe:2.3:a:atlassian:sourcetree:3.1.1:*:*:*:*:macos:*:*,Atlassian Sourcetree 3.1.1 for macOS,[''],2022-03-19T02:14Z
+5,cpe:2.3:a:atlassian:sourcetree:3.1.1:*:*:*:*:windows:*:*,Atlassian Sourcetree 3.1.1 for Windows,['CVE-2019-11582'],2022-03-19T02:14Z
+6,cpe:2.3:a:atlassian:sourcetree:3.1.2:*:*:*:*:windows:*:*,Atlassian Sourcetree 3.1.2 for Windows,['CVE-2019-11582'],2022-03-19T02:15Z
+7,cpe:2.3:a:atlassian:sourcetree:3.1.3:*:*:*:*:windows:*:*,Atlassian Sourcetree 3.1.3 for Windows,[''],2022-03-19T02:15Z
+8,cpe:2.3:a:atlassian:sourcetree:3.2.6:*:*:*:*:windows:*:*,Atlassian Sourcetree 3.2.6 for Windows,[''],2022-03-19T02:15Z
+9,cpe:2.3:a:atlassian:subversion_application_lifecycle_management:8.8.2:*:*:*:*:*:*:*,Atlassian Subversion Application Lifecycle Management 8.8.2,[''],2022-03-19T02:15Z

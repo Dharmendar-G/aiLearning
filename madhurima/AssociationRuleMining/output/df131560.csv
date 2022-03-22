@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,cpe:2.3:h:cisco:ons_15600_multiservice_switching_platform:-:*:*:*:*:*:*:*,Cisco ONS 15600 Multiservice Switching Platform (MSPP),[''],2022-03-19T23:37Z
+7,cpe:2.3:h:cisco:ons_15600_sdh_multiservice_provisioning_platform:-:*:*:*:*:*:*:*,Cisco ONS 15600 SDH Multiservice Provisioning Platform (MSPP),[''],2022-03-19T23:37Z
+8,cpe:2.3:a:cisco:openh264:1.2.0:*:*:*:*:*:*:*,Cisco OpenH264 1.2.0,"['CVE-2014-8001', 'CVE-2014-8002']",2022-03-19T23:37Z
+9,cpe:2.3:a:cisco:optical_networking_systems_software:1.0:*:*:*:*:*:*:*,Cisco Optical Networking Systems Software (ONS) 1.0,"['CVE-2004-0306', 'CVE-2004-0307', 'CVE-2004-0308', 'CVE-2004-1432', 'CVE-2004-1433', 'CVE-2004-1434', 'CVE-2004-1435', 'CVE-2004-1436', 'CVE-2006-1670', 'CVE-2006-1671', 'CVE-2006-1672']",2022-03-19T23:37Z

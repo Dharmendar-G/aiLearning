@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,cpe:2.3:a:docker:composer_docker_image:-:*:*:*:*:*:*:*,Docker Composer Docker Image,['CVE-2020-35184'],2022-03-20T16:18Z
+8,cpe:2.3:a:docker:composer_docker_image:1.1.0:*:*:*:*:*:*:*,Docker Composer Docker Image 1.1.0,['CVE-2020-35184'],2022-03-20T16:18Z
+9,cpe:2.3:a:docker:composer_docker_image:1.1.3:*:*:*:*:*:*:*,Docker Composer Docker Image 1.1.3,['CVE-2020-35184'],2022-03-20T16:18Z

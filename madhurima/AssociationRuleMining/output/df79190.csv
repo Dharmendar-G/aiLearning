@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitpay:copay_bitcoin_wallet:6.1.0:*:*:*:*:*:*:*,BitPay Copay Bitcoin Wallet 6.1.0,[''],2022-03-19T08:26Z
+1,cpe:2.3:a:bitpay:copay_bitcoin_wallet:6.1.1:*:*:*:*:*:*:*,BitPay Copay Bitcoin Wallet 6.1.1,[''],2022-03-19T08:26Z
+2,cpe:2.3:a:bitpay:copay_bitcoin_wallet:6.2.0:*:*:*:*:*:*:*,BitPay Copay Bitcoin Wallet 6.2.0,[''],2022-03-19T08:26Z
+3,cpe:2.3:a:bitpay:copay_bitcoin_wallet:6.2.1:*:*:*:*:*:*:*,BitPay Copay Bitcoin Wallet 6.2.1,[''],2022-03-19T08:26Z
+4,cpe:2.3:a:bitpay:copay_bitcoin_wallet:6.2.2:*:*:*:*:*:*:*,BitPay Copay Bitcoin Wallet 6.2.2,[''],2022-03-19T08:26Z
+5,cpe:2.3:a:bitpay:copay_bitcoin_wallet:6.2.3:*:*:*:*:*:*:*,BitPay Copay Bitcoin Wallet 6.2.3,[''],2022-03-19T08:26Z
+6,cpe:2.3:a:bitpie:bitcoin_wallet:1.0.0:*:*:*:*:android:*:*,Bitpie Bitcoin Wallet 1.0.0 for Android,['CVE-2018-10812'],2022-03-19T08:26Z
+7,cpe:2.3:a:bitpie:bitcoin_wallet:1.1.0:*:*:*:*:android:*:*,Bitpie Bitcoin Wallet 1.1.0 for Android,['CVE-2018-10812'],2022-03-19T08:26Z
+8,cpe:2.3:a:bitpie:bitcoin_wallet:1.1.6:*:*:*:*:android:*:*,Bitpie Bitcoin Wallet 1.1.6 for Android,['CVE-2018-10812'],2022-03-19T08:26Z
+9,cpe:2.3:a:bitpie:bitcoin_wallet:1.1.7:*:*:*:*:android:*:*,Bitpie Bitcoin Wallet 1.1.7 for Android,['CVE-2018-10812'],2022-03-19T08:26Z

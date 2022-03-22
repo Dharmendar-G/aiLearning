@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bloomreach:experience_manager:14.1.1:*:*:*:*:*:*:*,Bloomreach Experience Manager 14.1.1,"['CVE-2020-14987', 'CVE-2020-14988', 'CVE-2020-14989']",2022-03-19T08:44Z
+1,cpe:2.3:a:bloomreach:experience_manager:14.2.1:*:*:*:*:*:*:*,Bloomreach Experience Manager 14.2.1,"['CVE-2020-14987', 'CVE-2020-14988', 'CVE-2020-14989']",2022-03-19T08:44Z
+2,cpe:2.3:a:bloomreach:experience_manager:14.2.2:*:*:*:*:*:*:*,Bloomreach Experience Manager 14.2.2,"['CVE-2020-14987', 'CVE-2020-14988', 'CVE-2020-14989']",2022-03-19T08:44Z
+3,cpe:2.3:a:bloomreach:experience_manager:14.2.3:*:*:*:*:*:*:*,Bloomreach Experience Manager 14.2.3,[''],2022-03-19T08:44Z
+4,cpe:2.3:a:bloomreach:experience_manager:14.3.1:*:*:*:*:*:*:*,Bloomreach Experience Manager 14.3.1,[''],2022-03-19T08:44Z
+5,cpe:2.3:a:bloomreach:experience_manager:14.3.2:*:*:*:*:*:*:*,Bloomreach Experience Manager 14.3.2,[''],2022-03-19T08:44Z
+6,cpe:2.3:a:bloomreach:experience_manager:14.3.3:*:*:*:*:*:*:*,Bloomreach Experience Manager 14.3.3,[''],2022-03-19T08:44Z
+7,cpe:2.3:a:bloomreach:experience_manager:14.4.0:*:*:*:*:*:*:*,Bloomreach Experience Manager 14.4.0,[''],2022-03-19T08:44Z
+8,cpe:2.3:a:bloomreach:experience_manager:14.5.0:*:*:*:*:*:*:*,Bloomreach Experience Manager 14.5.0,[''],2022-03-19T08:44Z
+9,cpe:2.3:a:bloomreach:experience_manager:14.5.1:*:*:*:*:*:*:*,Bloomreach Experience Manager 14.5.1,[''],2022-03-19T08:44Z

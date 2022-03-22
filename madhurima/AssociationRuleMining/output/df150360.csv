@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cobblerd:cobbler:2.0.2-1:*:*:*:*:*:*:*,Cobblerd Cobbler 2.0.2-1,"['CVE-2018-1000225', 'CVE-2018-1000226']",2022-03-20T04:42Z
+1,cpe:2.3:a:cobblerd:cobbler:2.0.3:*:*:*:*:*:*:*,Cobblerd Cobbler 2.0.3,"['CVE-2018-1000225', 'CVE-2018-1000226']",2022-03-20T04:42Z
+2,cpe:2.3:a:cobblerd:cobbler:2.0.3.:*:*:*:*:*:*:*,Cobblerd Cobbler 2.0.3.,"['CVE-2018-1000225', 'CVE-2018-1000226']",2022-03-20T04:42Z
+3,cpe:2.3:a:cobblerd:cobbler:2.0.3.1:*:*:*:*:*:*:*,Cobblerd Cobbler 2.0.3.1,"['CVE-2018-1000225', 'CVE-2018-1000226']",2022-03-20T04:42Z
+4,cpe:2.3:a:cobblerd:cobbler:2.0.3.1-2:*:*:*:*:*:*:*,Cobblerd Cobbler 2.0.3.1-2,"['CVE-2018-1000225', 'CVE-2018-1000226']",2022-03-20T04:42Z
+5,cpe:2.3:a:cobblerd:cobbler:2.0.3.2-1:*:*:*:*:*:*:*,Cobblerd Cobbler 2.0.3.2-1,"['CVE-2018-1000225', 'CVE-2018-1000226']",2022-03-20T04:42Z
+6,cpe:2.3:a:cobblerd:cobbler:2.0.4:*:*:*:*:*:*:*,Cobblerd Cobbler 2.0.4,"['CVE-2018-1000225', 'CVE-2018-1000226']",2022-03-20T04:42Z
+7,cpe:2.3:a:cobblerd:cobbler:2.0.6:*:*:*:*:*:*:*,Cobblerd Cobbler 2.0.6,"['CVE-2018-1000225', 'CVE-2018-1000226']",2022-03-20T04:42Z
+8,cpe:2.3:a:cobblerd:cobbler:2.0.8:*:*:*:*:*:*:*,Cobblerd Cobbler 2.0.8,"['CVE-2018-1000225', 'CVE-2018-1000226']",2022-03-20T04:42Z
+9,cpe:2.3:a:cobblerd:cobbler:2.0.9:*:*:*:*:*:*:*,Cobblerd Cobbler 2.0.9,"['CVE-2018-1000225', 'CVE-2018-1000226']",2022-03-20T04:42Z

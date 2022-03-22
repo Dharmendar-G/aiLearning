@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:myfaces:2.2.5:*:*:*:*:*:*:*,Apache Software Foundation MyFaces 2.2.5,['CVE-2021-26296'],2022-03-18T19:30Z
+1,cpe:2.3:a:apache:myfaces:2.2.6:*:*:*:*:*:*:*,Apache Software Foundation MyFaces 2.2.6,['CVE-2021-26296'],2022-03-18T19:30Z
+2,cpe:2.3:a:apache:myfaces:2.2.7:*:*:*:*:*:*:*,Apache Software Foundation MyFaces 2.2.7,['CVE-2021-26296'],2022-03-18T19:31Z
+3,cpe:2.3:a:apache:myfaces:2.2.8:*:*:*:*:*:*:*,Apache Software Foundation MyFaces 2.2.8,['CVE-2021-26296'],2022-03-18T19:31Z
+4,cpe:2.3:a:apache:myfaces:2.2.9:*:*:*:*:*:*:*,Apache Software Foundation MyFaces 2.2.9,['CVE-2021-26296'],2022-03-18T19:31Z
+5,cpe:2.3:a:apache:myfaces:2.2.10:*:*:*:*:*:*:*,Apache Software Foundation MyFaces 2.2.10,['CVE-2021-26296'],2022-03-18T19:31Z
+6,cpe:2.3:a:apache:myfaces:2.2.11:*:*:*:*:*:*:*,Apache Software Foundation MyFaces 2.2.11,['CVE-2021-26296'],2022-03-18T19:31Z
+7,cpe:2.3:a:apache:myfaces:2.2.12:*:*:*:*:*:*:*,Apache Software Foundation MyFaces 2.2.12,['CVE-2021-26296'],2022-03-18T19:31Z
+8,cpe:2.3:a:apache:myfaces:2.2.13:*:*:*:*:*:*:*,Apache Software Foundation MyFaces 2.2.13,['CVE-2021-26296'],2022-03-18T19:31Z
+9,cpe:2.3:a:apache:myfaces:2.3:next-m1:*:*:*:*:*:*,Apache Software Foundation MyFaces 2.3 Next-M1,['CVE-2021-26296'],2022-03-18T19:31Z

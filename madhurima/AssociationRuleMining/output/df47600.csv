@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arqbackup:arq:4.11.1:*:*:*:*:macos:*:*,Arq Backup Arq 4.11.1 for macOS,['CVE-2017-15357'],2022-03-18T23:18Z
+1,[0],[0],[0],[0]
+2,cpe:2.3:a:arqbackup:arq:4.11.2:*:*:*:*:macos:*:*,Arq Backup Arq 4.11.2 for macOS,['CVE-2017-15357'],2022-03-18T23:18Z
+3,[0],[0],[0],[0]
+4,cpe:2.3:a:arqbackup:arq:4.11.5:*:*:*:*:macos:*:*,Arq Backup Arq 4.11.5 for macOS,['CVE-2017-15357'],2022-03-18T23:18Z
+5,[0],[0],[0],[0]
+6,cpe:2.3:a:arqbackup:arq:4.12:*:*:*:*:macos:*:*,Arq Backup Arq 4.12 for macOS,['CVE-2017-15357'],2022-03-18T23:18Z
+7,[0],[0],[0],[0]
+8,cpe:2.3:a:arqbackup:arq:4.12.1:*:*:*:*:macos:*:*,Arq Backup Arq 4.12.1 for macOS,['CVE-2017-15357'],2022-03-18T23:18Z
+9,[0],[0],[0],[0]

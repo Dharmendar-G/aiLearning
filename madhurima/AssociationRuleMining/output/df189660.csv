@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dir-605l_firmware:2.01mt:*:*:*:*:*:*:*,D-Link DIR-605L Firmware 2.01MT,['CVE-2021-40655'],2022-03-20T15:47Z
+1,cpe:2.3:o:dlink:dir-605l_firmware:2.08b01:*:*:*:*:*:*:*,D-Link DIR-605L Firmware 2.08B01,['CVE-2017-9675'],2022-03-20T15:47Z
+2,cpe:2.3:o:dlink:dir-605l_firmware:2.12b1:*:*:*:*:*:*:*,D-Link DIR-605L Firmware 2.12B1,[''],2022-03-20T15:47Z
+3,cpe:2.3:o:dlink:dir-605l_model_b_firmware:fw2.11betab06_hbrf:*:*:*:*:*:*:*,D-Link DIR-605L Model B Firmware FW2.11betab06 HBRF,[''],2022-03-20T15:47Z
+4,cpe:2.3:h:dlink:dir-610:-:*:*:*:*:*:*:*,D-Link DIR-610,"['CVE-2020-9376', 'CVE-2020-9377']",2022-03-20T15:47Z
+5,cpe:2.3:o:dlink:dir-610_firmware:-:*:*:*:*:*:*:*,D-Link DIR-610 Firmware,"['CVE-2020-9376', 'CVE-2020-9377']",2022-03-20T15:48Z
+6,cpe:2.3:h:dlink:dir-615:-:*:*:*:*:*:*:*,D-Link DIR-615,"['CVE-2017-11436', 'CVE-2017-7404', 'CVE-2017-7405', 'CVE-2017-7406', 'CVE-2018-15839', 'CVE-2019-17353', 'CVE-2019-19742']",2022-03-20T15:48Z
+7,cpe:2.3:o:dlink:dir-615:20.12ptb01:*:*:*:*:*:*:*,D-Link DIR-615 Firmware 20.12PTB01,"['CVE-2017-11436', 'CVE-2017-7404', 'CVE-2017-7405', 'CVE-2017-7406']",2022-03-20T15:48Z
+8,cpe:2.3:h:dlink:dir-615:c2:*:*:*:*:*:*:*,D-Link DIR-615 C2,"['CVE-2017-11436', 'CVE-2017-7405', 'CVE-2017-7406', 'CVE-2021-37388']",2022-03-20T15:48Z
+9,cpe:2.3:h:dlink:dir-615:q1:*:*:*:*:*:*:*,D-Link DIR-615 Q1,"['CVE-2017-11436', 'CVE-2017-7405', 'CVE-2017-7406', 'CVE-2021-40654']",2022-03-20T15:48Z

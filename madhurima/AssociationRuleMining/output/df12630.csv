@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adplug_project:adplug:2.3.1:*:*:*:*:*:*:*,AdPlug Project AdPlug 2.3.1,"['CVE-2018-17825', 'CVE-2019-14690', 'CVE-2019-14691', 'CVE-2019-14692', 'CVE-2019-14732', 'CVE-2019-14733', 'CVE-2019-14734', 'CVE-2019-15151']",2022-03-18T12:54Z
+1,cpe:2.3:a:adremsoft:netcrunch:10.0.2:*:*:*:*:*:*:*,AdRem Software NetCrunch 10.0.2,"['CVE-2019-14477', 'CVE-2019-14480', 'CVE-2019-14482', 'CVE-2019-14483']",2022-03-18T12:54Z
+2,cpe:2.3:a:adremsoft:netcrunch:10.1.0:*:*:*:*:*:*:*,AdRem Software NetCrunch 10.1.0,"['CVE-2019-14477', 'CVE-2019-14480', 'CVE-2019-14482', 'CVE-2019-14483']",2022-03-18T12:54Z
+3,cpe:2.3:a:adremsoft:netcrunch:10.1.1:*:*:*:*:*:*:*,AdRem Software NetCrunch 10.1.1,"['CVE-2019-14477', 'CVE-2019-14480', 'CVE-2019-14482', 'CVE-2019-14483']",2022-03-18T12:54Z
+4,cpe:2.3:a:adremsoft:netcrunch:10.2.0:*:*:*:*:*:*:*,AdRem Software NetCrunch 10.2.0,"['CVE-2019-14477', 'CVE-2019-14480', 'CVE-2019-14482', 'CVE-2019-14483']",2022-03-18T12:54Z
+5,cpe:2.3:a:adremsoft:netcrunch:10.3.0:*:*:*:*:*:*:*,AdRem Software NetCrunch 10.3.0,"['CVE-2019-14477', 'CVE-2019-14480', 'CVE-2019-14482', 'CVE-2019-14483']",2022-03-18T12:54Z
+6,cpe:2.3:a:adremsoft:netcrunch:10.3.1:*:*:*:*:*:*:*,AdRem Software NetCrunch 10.3.1,"['CVE-2019-14477', 'CVE-2019-14480', 'CVE-2019-14482', 'CVE-2019-14483']",2022-03-18T12:54Z
+7,cpe:2.3:a:adremsoft:netcrunch:10.3.2:*:*:*:*:*:*:*,AdRem Software NetCrunch 10.3.2,"['CVE-2019-14477', 'CVE-2019-14480', 'CVE-2019-14482', 'CVE-2019-14483']",2022-03-18T12:54Z
+8,cpe:2.3:a:adremsoft:netcrunch:10.4.0:*:*:*:*:*:*:*,AdRem Software NetCrunch 10.4.0,"['CVE-2019-14477', 'CVE-2019-14480', 'CVE-2019-14482', 'CVE-2019-14483']",2022-03-18T12:54Z
+9,cpe:2.3:a:adremsoft:netcrunch:10.4.1:*:*:*:*:*:*:*,AdRem Software NetCrunch 10.4.1,"['CVE-2019-14477', 'CVE-2019-14480', 'CVE-2019-14482', 'CVE-2019-14483']",2022-03-18T12:54Z

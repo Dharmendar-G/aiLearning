@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:bosch:cpp6_firmware:7.62:*:*:*:*:*:*:*,Bosch Common Product Platform 6 Firmware 7.62,['CVE-2021-23854'],2022-03-19T10:01Z
+1,cpe:2.3:o:bosch:cpp6_firmware:7.70:*:*:*:*:*:*:*,Bosch Common Product Platform 6 Firmware 7.70,"['CVE-2021-23847', 'CVE-2021-23849', 'CVE-2021-23854']",2022-03-19T10:01Z
+2,cpe:2.3:o:bosch:cpp6_firmware:7.72:*:*:*:*:*:*:*,Bosch Common Product Platform 6 Firmware 7.72,"['CVE-2021-23847', 'CVE-2021-23854']",2022-03-19T10:01Z
+3,cpe:2.3:o:bosch:cpp6_firmware:7.80:*:*:*:*:*:*:*,Bosch Common Product Platform 6 Firmware 7.80,"['CVE-2021-23847', 'CVE-2021-23849']",2022-03-19T10:01Z
+4,cpe:2.3:o:bosch:cpp6_firmware:7.80.0129:*:*:*:*:*:*:*,Bosch Common Product Platform 6 Firmware 7.80.0129,[''],2022-03-19T10:01Z
+5,cpe:2.3:h:bosch:cpp7:-:*:*:*:*:*:*:*,Bosch CPP7,"['CVE-2021-23847', 'CVE-2021-23848', 'CVE-2021-23849', 'CVE-2021-23852', 'CVE-2021-23853', 'CVE-2021-23854']",2022-03-19T10:01Z
+6,cpe:2.3:h:bosch:cpp7.3:-:*:*:*:*:*:*:*,Bosch CPP7.3,"['CVE-2021-23847', 'CVE-2021-23848', 'CVE-2021-23849', 'CVE-2021-23852', 'CVE-2021-23853', 'CVE-2021-23854']",2022-03-19T10:01Z
+7,cpe:2.3:o:bosch:cpp7.3_firmware:-:*:*:*:*:*:*:*,Bosch Common Product Platform 7.3 Firmware,"['CVE-2021-23848', 'CVE-2021-23852', 'CVE-2021-23853']",2022-03-19T10:01Z
+8,cpe:2.3:o:bosch:cpp7.3_firmware:7.60:*:*:*:*:*:*:*,Bosch CPP7.3 FIRMWARE 7.60,['CVE-2021-23849'],2022-03-19T10:02Z
+9,cpe:2.3:o:bosch:cpp7.3_firmware:7.61:*:*:*:*:*:*:*,Bosch CPP7.3 FIRMWARE 7.61,['CVE-2021-23849'],2022-03-19T10:02Z

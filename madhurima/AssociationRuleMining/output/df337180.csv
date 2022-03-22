@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:sydneym-l03_firmware:9.1.0.217\(c605e1r1p1t8\):*:*:*:*:*:*:*,Huawei SydneyM-L03 Firmware 9.1.0.217(C605E1R1P1T8),[''],2022-03-21T18:56Z
+1,cpe:2.3:h:huawei:sydneym-l21:-:*:*:*:*:*:*:*,Huawei SydneyM-L21,"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T18:56Z
+2,cpe:2.3:o:huawei:sydneym-l21_firmware:-:*:*:*:*:*:*:*,Huawei SYDNEYM-L21 FIRMWARE,"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T18:56Z
+3,cpe:2.3:o:huawei:sydneym-l21_firmware:9.1.0.215\(c432e4r1p1t8\):*:*:*:*:*:*:*,Huawei SydneyM-L21 Firmware 9.1.0.215(C432E4R1P1T8),"['CVE-2019-5302', 'CVE-2019-5303']",2022-03-21T18:56Z
+4,cpe:2.3:o:huawei:sydneym-l21_firmware:9.1.0.221\(c461e1r1p1t8\):*:*:*:*:*:*:*,Huawei SydneyM-L21 Firmware 9.1.0.221(C461E1R1P1T8),[''],2022-03-21T18:56Z
+5,cpe:2.3:h:huawei:sydneym-l22:-:*:*:*:*:*:*:*,Huawei SydneyM-L22,"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T18:56Z
+6,cpe:2.3:o:huawei:sydneym-l22_firmware:-:*:*:*:*:*:*:*,Huawei SYDNEYM-L22 FIRMWARE,"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T18:56Z
+7,cpe:2.3:o:huawei:sydneym-l22_firmware:9.1.0.216\(c569e1r1p1t8\):*:*:*:*:*:*:*,Huawei SydneyM-L22 Firmware 9.1.0.216(C569E1R1P1T8),"['CVE-2019-5302', 'CVE-2019-5303']",2022-03-21T18:56Z
+8,cpe:2.3:o:huawei:sydneym-l22_firmware:9.1.0.220\(c635e1r1p2t8\):*:*:*:*:*:*:*,Huawei SydneyM-L22 Firmware 9.1.0.220(C635E1R1P2T8),"['CVE-2019-5302', 'CVE-2019-5303']",2022-03-21T18:56Z
+9,cpe:2.3:o:huawei:sydneym-l22_firmware:9.1.0.259\(c185e1r1p2t8\):*:*:*:*:*:*:*,Huawei SydneyM-L22 Firmware 9.1.0.259(C185E1R1P2T8),[''],2022-03-21T18:56Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:defaults-deep_project:defaults-deep:0.2.1:*:*:*:*:node.js:*:*,defaults-deep Project defaults-deep 0.2.1 for Node.js,"['CVE-2018-16486', 'CVE-2018-3723']",2022-03-20T12:05Z
+1,cpe:2.3:a:defaults-deep_project:defaults-deep:0.2.2:*:*:*:*:node.js:*:*,defaults-deep Project defaults-deep 0.2.2 for Node.js,"['CVE-2018-16486', 'CVE-2018-3723']",2022-03-20T12:05Z
+2,cpe:2.3:a:defaults-deep_project:defaults-deep:0.2.3:*:*:*:*:node.js:*:*,defaults-deep Project defaults-deep 0.2.3 for Node.js,"['CVE-2018-16486', 'CVE-2018-3723']",2022-03-20T12:05Z
+3,cpe:2.3:a:defaults-deep_project:defaults-deep:0.2.4:*:*:*:*:node.js:*:*,defaults-deep Project defaults-deep 0.2.4 for Node.js,['CVE-2018-16486'],2022-03-20T12:05Z
+4,cpe:2.3:h:defcon:def_con_27:-:*:*:*:*:*:*:*,DEF CON Communications Def Con 27,['CVE-2021-38111'],2022-03-20T12:05Z
+5,cpe:2.3:o:defcon:def_con_27_firmware:-:*:*:*:*:*:*:*,DEF CON Communications Def Con 27 Firmware,['CVE-2021-38111'],2022-03-20T12:05Z
+6,cpe:2.3:a:defence:defence.pk:2.4.13.1:*:*:*:*:android:*:*,defence Defence.pk (aka com.tapatalk.defencepkforums) for Android 2.4.13.1,['CVE-2014-6659'],2022-03-20T12:05Z
+7,cpe:2.3:a:definitions_project:definitions:-:*:*:*:*:python:*:*,Definitions Project Definitions for Python,['CVE-2018-20325'],2022-03-20T12:05Z
+8,cpe:2.3:a:definitions_project:definitions:0.2.0:*:*:*:*:python:*:*,Definitions Project Definitions 0.2.0 for Python,[''],2022-03-20T12:05Z
+9,cpe:2.3:a:degraaff:checkbot:1.75:*:*:*:*:*:*:*,Degraaff Checkbot 1.75,[''],2022-03-20T12:05Z

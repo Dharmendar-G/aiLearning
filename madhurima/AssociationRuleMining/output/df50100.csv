@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:asus:aura_sync_firmware:1.07.22:*:*:*:*:*:*:*,Asus Aura Sync Firmware 1.07.22,"['CVE-2018-18535', 'CVE-2018-18536', 'CVE-2018-18537']",2022-03-18T23:52Z
+1,cpe:2.3:h:asus:chromebit_cs10:-:*:*:*:*:*:*:*,ASUS Chromebit CS10,['CVE-2017-15361'],2022-03-18T23:52Z
+2,cpe:2.3:h:asus:chromebook_c200:-:*:*:*:*:*:*:*,ASUS Chromebook C200,['CVE-2017-15361'],2022-03-18T23:52Z
+3,cpe:2.3:h:asus:chromebook_c201pa:-:*:*:*:*:*:*:*,ASUS Chromebook C201PA,['CVE-2017-15361'],2022-03-18T23:52Z
+4,cpe:2.3:h:asus:chromebook_c202sa:-:*:*:*:*:*:*:*,ASUS Chromebook C202SA,['CVE-2017-15361'],2022-03-18T23:52Z
+5,cpe:2.3:h:asus:chromebook_c300:-:*:*:*:*:*:*:*,ASUS Chromebook C300,['CVE-2017-15361'],2022-03-18T23:52Z
+6,cpe:2.3:h:asus:chromebook_c300sa:-:*:*:*:*:*:*:*,ASUS Chromebook C300SA,['CVE-2017-15361'],2022-03-18T23:52Z
+7,cpe:2.3:h:asus:chromebook_c301sa:-:*:*:*:*:*:*:*,ASUS Chromebook C301SA,['CVE-2017-15361'],2022-03-18T23:52Z
+8,cpe:2.3:h:asus:chromebook_flip_c100pa:-:*:*:*:*:*:*:*,ASUS Chromebook Flip C100PA,['CVE-2017-15361'],2022-03-18T23:52Z
+9,cpe:2.3:h:asus:chromebook_flip_c302:-:*:*:*:*:*:*:*,ASUS Chromebook Flip C302,['CVE-2017-15361'],2022-03-18T23:52Z

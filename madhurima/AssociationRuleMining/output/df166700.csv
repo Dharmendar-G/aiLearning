@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:crunchify:all-in-on-webmaster:8.0.0:*:*:*:*:*:*:*,Crunchify All in One Webmaster plugin for WordPress 8.0.0,['CVE-2013-2696'],2022-03-20T09:06Z
+1,cpe:2.3:a:crunchify:all-in-on-webmaster:8.1:*:*:*:*:*:*:*,Crunchify All in One Webmaster plugin for WordPress 8.1,['CVE-2013-2696'],2022-03-20T09:06Z
+2,cpe:2.3:a:crunchify:all-in-on-webmaster:8.2:*:*:*:*:*:*:*,Crunchify All in One Webmaster plugin for WordPress 8.2,['CVE-2013-2696'],2022-03-20T09:06Z
+3,cpe:2.3:a:crunchify:all-in-on-webmaster:8.2.1:*:*:*:*:*:*:*,Crunchify All in One Webmaster plugin for WordPress 8.2.1,['CVE-2013-2696'],2022-03-20T09:06Z
+4,cpe:2.3:a:crunchify:all-in-on-webmaster:8.2.2:*:*:*:*:*:*:*,Crunchify All in One Webmaster plugin for WordPress 8.2.2,['CVE-2013-2696'],2022-03-20T09:06Z
+5,cpe:2.3:a:crunchify:all-in-on-webmaster:8.2.3:*:*:*:*:*:*:*,Crunchify All in One Webmaster plugin for WordPress 8.2.3,['CVE-2013-2696'],2022-03-20T09:06Z
+6,cpe:2.3:a:crunchify:facebook_members:4.5.3:*:*:*:*:*:*:*,Crunchify Facebook Members plugin for WordPress 4.5.3,['CVE-2013-2703'],2022-03-20T09:06Z
+7,cpe:2.3:a:crunchify:facebook_members:4.6:*:*:*:*:*:*:*,Crunchify Facebook Members plugin for WordPress 4.6,['CVE-2013-2703'],2022-03-20T09:06Z
+8,cpe:2.3:a:crunchify:facebook_members:4.6.1:*:*:*:*:*:*:*,Crunchify Facebook Members plugin for WordPress 4.6.1,['CVE-2013-2703'],2022-03-20T09:06Z
+9,cpe:2.3:a:crunchify:facebook_members:4.7:*:*:*:*:*:*:*,Crunchify Facebook Members plugin for WordPress 4.7,['CVE-2013-2703'],2022-03-20T09:06Z

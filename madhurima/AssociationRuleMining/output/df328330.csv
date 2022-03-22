@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:proliant_bl460c_gen9_server_blade:-:*:*:*:*:*:*:*,Hp Proliant Bl460c Gen9 Server Blade -,"['CVE-2018-7112', 'CVE-2020-7202']",2022-03-21T15:55Z
+1,cpe:2.3:h:hp:proliant_bl465c_g7_server_blade:-:*:*:*:*:*:*:*,Hp Proliant Bl465c G7 Server Blade -,['CVE-2018-7112'],2022-03-21T15:55Z
+2,cpe:2.3:h:hp:proliant_bl465c_gen8_\(amd\):-:*:*:*:*:*:*:*,Hp Proliant Bl465c Gen8 (amd) -,['CVE-2018-7112'],2022-03-21T15:55Z
+3,cpe:2.3:h:hp:proliant_bl490c_g6_server_blade:-:*:*:*:*:*:*:*,Hp Proliant Bl490c G6 Server Blade -,['CVE-2018-7112'],2022-03-21T15:55Z
+4,cpe:2.3:h:hp:proliant_bl490c_g7_server_blade:-:*:*:*:*:*:*:*,Hp Proliant Bl490c G7 Server Blade -,['CVE-2018-7112'],2022-03-21T15:55Z
+5,cpe:2.3:h:hp:proliant_bl620c_g7_server_blade:-:*:*:*:*:*:*:*,Hp Proliant Bl620c G7 Server Blade -,['CVE-2018-7112'],2022-03-21T15:55Z
+6,cpe:2.3:h:hp:proliant_bl660c_gen8_server:-:*:*:*:*:*:*:*,Hp Proliant Bl660c Gen8 Server -,['CVE-2018-7112'],2022-03-21T15:55Z
+7,cpe:2.3:h:hp:proliant_bl660c_gen9_server:-:*:*:*:*:*:*:*,Hp Proliant Bl660c Gen9 Server -,"['CVE-2018-7112', 'CVE-2020-7202']",2022-03-21T15:55Z
+8,cpe:2.3:h:hp:proliant_bl680c_g7_server_blade:-:*:*:*:*:*:*:*,Hp Proliant Bl680c G7 Server Blade -,['CVE-2018-7112'],2022-03-21T15:55Z
+9,cpe:2.3:h:hp:proliant_bl685c_g7_server_blade_\(amd\):-:*:*:*:*:*:*:*,Hp Proliant Bl685c G7 Server Blade (amd) -,['CVE-2018-7112'],2022-03-21T15:55Z

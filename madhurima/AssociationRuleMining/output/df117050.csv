@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:catalyst_4503-e:-:*:*:*:*:*:*:*,Cisco Catlyst 4503-E,"['CVE-2015-0687', 'CVE-2020-3235']",2022-03-19T18:59Z
+1,cpe:2.3:h:cisco:catalyst_4506:-:*:*:*:*:*:*:*,Cisco Catalyst 4506,"['CVE-2004-0551', 'CVE-2005-4258', 'CVE-2013-1100']",2022-03-19T18:59Z
+2,cpe:2.3:h:cisco:catalyst_4506-e:-:*:*:*:*:*:*:*,Cisco Catalyst 4506-E,"['CVE-2015-0687', 'CVE-2020-3235']",2022-03-19T18:59Z
+3,cpe:2.3:h:cisco:catalyst_4507r:-:*:*:*:*:*:*:*,Cisco Catalyst 4507R,"['CVE-2004-0551', 'CVE-2005-4258', 'CVE-2013-1100']",2022-03-19T18:59Z
+4,[0],[0],[0],[0]
+5,cpe:2.3:h:cisco:catalyst_4507r-e:-:*:*:*:*:*:*:*,Cisco Catalyst 4507R-E,['CVE-2015-0687'],2022-03-19T18:59Z
+6,cpe:2.3:h:cisco:catalyst_4510r:-:*:*:*:*:*:*:*,Cisco Catalyst 4510R,"['CVE-2004-0551', 'CVE-2005-4258', 'CVE-2013-1100']",2022-03-19T19:00Z
+7,[0],[0],[0],[0]
+8,cpe:2.3:h:cisco:catalyst_4510r-e:-:*:*:*:*:*:*:*,Cisco Catalyst 4510R-E,['CVE-2015-0687'],2022-03-19T19:00Z
+9,cpe:2.3:h:cisco:catalyst_4840g:-:*:*:*:*:*:*:*,Cisco Catalyst 4840G,"['CVE-2005-4258', 'CVE-2013-1100']",2022-03-19T19:00Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:download_manager:1.2:*:*:*:*:*:*:*,アドビシステムズ Download Manager 1.2,"['CVE-2006-5856', 'CVE-2008-4816', 'CVE-2008-4817', 'CVE-2010-0189']",2022-03-18T12:29Z
+1,cpe:2.3:a:adobe:download_manager:1.6.2.41:*:*:*:*:*:*:*,Adobe Download Manager 1.6.2.41,"['CVE-2006-5856', 'CVE-2008-4816', 'CVE-2008-4817', 'CVE-2010-0189']",2022-03-18T12:29Z
+2,cpe:2.3:a:adobe:download_manager:1.6.2.44:*:*:*:*:*:*:*,Adobe Download Manager 1.6.2.44,"['CVE-2006-5856', 'CVE-2008-4816', 'CVE-2008-4817', 'CVE-2010-0189']",2022-03-18T12:29Z
+3,cpe:2.3:a:adobe:download_manager:1.6.2.48:*:*:*:*:*:*:*,Adobe Download Manager 1.6.2.48,"['CVE-2006-5856', 'CVE-2008-4816', 'CVE-2008-4817', 'CVE-2010-0189']",2022-03-18T12:29Z
+4,cpe:2.3:a:adobe:download_manager:1.6.2.49:*:*:*:*:*:*:*,Adobe Download Manager 1.6.2.49,"['CVE-2006-5856', 'CVE-2008-4816', 'CVE-2008-4817', 'CVE-2010-0189']",2022-03-18T12:29Z
+5,cpe:2.3:a:adobe:download_manager:1.6.2.60:*:*:*:*:*:*:*,Adobe Download Manager 1.6.2.60,"['CVE-2006-5856', 'CVE-2008-4816', 'CVE-2008-4817', 'CVE-2010-0189']",2022-03-18T12:29Z
+6,cpe:2.3:a:adobe:download_manager:1.6.2.63:*:*:*:*:*:*:*,Adobe Download Manager 1.6.2.63,"['CVE-2006-5856', 'CVE-2008-4816', 'CVE-2008-4817']",2022-03-18T12:29Z
+7,cpe:2.3:a:adobe:download_manager:1.6.2.87:*:*:*:*:*:*:*,Adobe Download Manager 1.6.2.87,"['CVE-2006-5856', 'CVE-2008-4816', 'CVE-2008-4817']",2022-03-18T12:29Z
+8,cpe:2.3:a:adobe:download_manager:1.6.2.90:*:*:*:*:*:*:*,Adobe Download Manager 1.6.2.90,"['CVE-2006-5856', 'CVE-2008-4816', 'CVE-2008-4817']",2022-03-18T12:29Z
+9,cpe:2.3:a:adobe:download_manager:1.6.2.91:*:*:*:*:*:*:*,Adobe Download Manager 1.6.2.91,"['CVE-2006-5856', 'CVE-2008-4816', 'CVE-2008-4817']",2022-03-18T12:29Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:scan:11.6.1.0:*:*:*:*:*:*:*,HP Scan 11.6.1.0,[''],2022-03-21T16:00Z
+1,cpe:2.3:a:hp:scan:12.0.0.0:*:*:*:*:*:*:*,HP Scan 12.0.0.0,[''],2022-03-21T16:00Z
+2,cpe:2.3:a:hp:scan:13.0.0.0:*:*:*:*:*:*:*,HP Scan 13.0.0.0,[''],2022-03-21T16:00Z
+3,cpe:2.3:a:hp:scan:140.0.80.0:*:*:*:*:*:*:*,HP Scan 140.0.80.0,[''],2022-03-21T16:00Z
+4,cpe:2.3:a:hp:scan:140.0.167.0:*:*:*:*:*:*:*,HP Scan 140.0.167.0,[''],2022-03-21T16:00Z
+5,cpe:2.3:a:hp:scan_to:2.0.1:*:*:*:*:*:*:*,HP Scan To 2.0.1,[''],2022-03-21T16:00Z
+6,cpe:2.3:h:hp:scanjet_2400:-:*:*:*:*:*:*:*,HP Scanjet 2400 (initial release),[''],2022-03-21T16:00Z
+7,cpe:2.3:h:hp:scanjet_3670c:-:*:*:*:*:*:*:*,hp scanjet 3670c (inital release),[''],2022-03-21T16:00Z
+8,cpe:2.3:h:hp:scanjet_4500c:-:*:*:*:*:*:*:*,hp scanjet 4500c (inital release),[''],2022-03-21T16:00Z
+9,cpe:2.3:h:hp:scanjet_5590:-:*:*:*:*:*:*:*,HP Scanjet 5590 (initial release),[''],2022-03-21T16:00Z

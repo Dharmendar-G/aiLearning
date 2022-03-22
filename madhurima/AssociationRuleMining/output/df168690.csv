@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:custom_search_project:custom_search:6.x-1.6:*:*:*:*:drupal:*:*,Custom Search Project Custom Search for Drupal 6.x-1.6,['CVE-2014-8320'],2022-03-20T09:32Z
+1,cpe:2.3:a:custom_search_project:custom_search:6.x-1.7:*:*:*:*:drupal:*:*,Custom Search Project Custom Search for Drupal 6.x-1.7,['CVE-2014-8320'],2022-03-20T09:32Z
+2,cpe:2.3:a:custom_search_project:custom_search:6.x-1.8:*:*:*:*:drupal:*:*,Custom Search Project Custom Search for Drupal 6.x-1.8,['CVE-2014-8320'],2022-03-20T09:32Z
+3,cpe:2.3:a:custom_search_project:custom_search:6.x-1.9:*:*:*:*:drupal:*:*,Custom Search Project Custom Search for Drupal 6.x-1.9,['CVE-2014-8320'],2022-03-20T09:32Z
+4,cpe:2.3:a:custom_search_project:custom_search:6.x-1.10:*:*:*:*:drupal:*:*,Custom Search Project Custom Search for Drupal 6.x-1.10,['CVE-2014-8320'],2022-03-20T09:32Z
+5,cpe:2.3:a:custom_search_project:custom_search:6.x-1.11:*:*:*:*:drupal:*:*,Custom Search Project Custom Search for Drupal 6.x-1.11,['CVE-2014-8320'],2022-03-20T09:32Z
+6,cpe:2.3:a:custom_search_project:custom_search:6.x-1.12:*:*:*:*:drupal:*:*,Custom Search Project Custom Search 6.x-1.12 for Drupal,[''],2022-03-20T09:32Z
+7,cpe:2.3:a:custom_search_project:custom_search:6.x-1.13:*:*:*:*:drupal:*:*,Custom Search Project Custom Search 6.x-1.13 for Drupal,[''],2022-03-20T09:32Z
+8,cpe:2.3:a:custom_search_project:custom_search:6.x-1.x:dev:*:*:*:drupal:*:*,Custom Search Project Custom Search 6.x-1.x Dev for Drupal,[''],2022-03-20T09:33Z
+9,cpe:2.3:a:custom_search_project:custom_search:7.x-1.0:*:*:*:*:drupal:*:*,Custom Search Project Custom Search for Drupal 7.x-1.0,['CVE-2014-8320'],2022-03-20T09:33Z

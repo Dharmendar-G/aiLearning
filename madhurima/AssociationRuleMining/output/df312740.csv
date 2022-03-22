@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitachi:ucosminexus_application_server:7:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 7 Enterprise,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+1,cpe:2.3:a:hitachi:ucosminexus_application_server:7:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 7 Standard,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+2,cpe:2.3:a:hitachi:ucosminexus_application_server:07-00:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 07-00 Enterprise,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+3,cpe:2.3:a:hitachi:ucosminexus_application_server:07-00:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 07-00 Standard,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+4,cpe:2.3:a:hitachi:ucosminexus_application_server:07-00-05:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 07-00-05 Enterprise,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:22Z
+5,cpe:2.3:a:hitachi:ucosminexus_application_server:07-00-05:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 07-00-05 Standard,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:22Z
+6,cpe:2.3:a:hitachi:ucosminexus_application_server:07-00-06:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 07-00-06 Enterprise,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:22Z
+7,cpe:2.3:a:hitachi:ucosminexus_application_server:07-00-06:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 07-00-06 Standard,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:22Z
+8,cpe:2.3:a:hitachi:ucosminexus_application_server:07-00-09:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 07-00-09 Enterprise,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:22Z
+9,cpe:2.3:a:hitachi:ucosminexus_application_server:07-00-09:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 07-00-09 Standard,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:22Z

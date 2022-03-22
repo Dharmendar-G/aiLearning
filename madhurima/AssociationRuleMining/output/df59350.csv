@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:atoptechnology:se5908_firmware:1.18:*:*:*:*:*:*:*,Atop Technology SE5908 Firmware 1.18,['CVE-2020-24552'],2022-03-19T02:23Z
+1,cpe:2.3:o:atoptechnology:se5908_firmware:1.40:*:*:*:*:*:*:*,Atop Technology SE5908 Firmware 1.40,['CVE-2020-24552'],2022-03-19T02:23Z
+2,cpe:2.3:h:atoptechnology:se5908a:-:*:*:*:*:*:*:*,Atop Technology SE5908A,['CVE-2020-24552'],2022-03-19T02:23Z
+3,cpe:2.3:o:atoptechnology:se5908a_firmware:1.18:*:*:*:*:*:*:*,Atop Technology SE5908A Firmware 1.18,['CVE-2020-24552'],2022-03-19T02:23Z
+4,cpe:2.3:o:atoptechnology:se5908a_firmware:1.40:*:*:*:*:*:*:*,Atop Technology SE5908A Firmware 1.40,['CVE-2020-24552'],2022-03-19T02:23Z
+5,cpe:2.3:h:atoptechnology:se5916:-:*:*:*:*:*:*:*,Atop Technology SE5916,['CVE-2020-24552'],2022-03-19T02:23Z
+6,cpe:2.3:o:atoptechnology:se5916_firmware:1.18:*:*:*:*:*:*:*,Atop Technology SE5916 Firmware 1.18,['CVE-2020-24552'],2022-03-19T02:23Z
+7,cpe:2.3:o:atoptechnology:se5916_firmware:1.40:*:*:*:*:*:*:*,Atop Technology SE5916 Firmware 1.40,['CVE-2020-24552'],2022-03-19T02:23Z
+8,cpe:2.3:h:atoptechnology:se5916a:-:*:*:*:*:*:*:*,Atop Technology SE5916A,['CVE-2020-24552'],2022-03-19T02:23Z
+9,cpe:2.3:o:atoptechnology:se5916a_firmware:1.18:*:*:*:*:*:*:*,Atop Technology SE5916A Firmware 1.18,['CVE-2020-24552'],2022-03-19T02:23Z

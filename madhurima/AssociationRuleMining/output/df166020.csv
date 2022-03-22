@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:crear.ne.jp:al-mail32:1.12:*:*:*:*:*:*:*,CREAR AL-Mail32 1.12,[''],2022-03-20T08:56Z
+1,cpe:2.3:a:crear.ne.jp:al-mail32:1.13:d:*:*:*:*:*:*,クレアル AL-Mail32 1.13d,[''],2022-03-20T08:56Z
+2,cpe:2.3:a:crear.ne.jp:al-mail32:1.13:a:*:*:*:*:*:*,クレアル AL-Mail32 1.13a,[''],2022-03-20T08:56Z
+3,cpe:2.3:a:crear.ne.jp:al-mail32:1.13:c:*:*:*:*:*:*,AlMail AL-Mail32 1.13c,['CVE-2015-0880'],2022-03-20T08:56Z
+4,cpe:2.3:a:crear.ne.jp:al-mail32:1.13:d:*:*:*:*:*:*,クレアル AL-Mail32 1.13d,[''],2022-03-20T08:56Z
+5,cpe:2.3:a:createdineden:buy_yorkshire_conference:1.4:*:*:*:*:android:*:*,createdineden (Eden Agency)  Buy Yorkshire Conference (aka com.gotfocus.buyyorkshire) for Android 1.4,['CVE-2014-5635'],2022-03-20T08:56Z
+6,cpe:2.3:a:create-project_manager_project:create-project_manager:1.07:*:*:*:*:*:*:*,Create-project Manager Project Create-project Manager 1.07,['CVE-2020-23974'],2022-03-20T08:56Z
+7,cpe:2.3:a:create-sd:create_sd:1.0.2:*:*:*:*:android:*:*,Create-SD Create SD 1.0.2 for Android,['CVE-2019-5955'],2022-03-20T08:57Z
+8,cpe:2.3:a:create-sd:create_sd:1.0.3:*:*:*:*:android:*:*,Create-SD Create SD 1.0.3 for Android,[''],2022-03-20T08:57Z
+9,cpe:2.3:a:creatingahaven:compassion_satisfaction:0.75.13440.35155:*:*:*:*:android:*:*,creatingahaven Compassion Satisfaction (aka com.wCompassionSatisfactionWorkshopPresentation) for android 0.75.13440.35155,['CVE-2014-7368'],2022-03-20T08:57Z

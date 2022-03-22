@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:haxe:haxe:3.4.4:*:*:*:*:node.js:*:*,Haxe 3.4.4 for Node.js,"['CVE-2016-10602', 'CVE-2016-10688']",2022-03-21T10:10Z
+1,cpe:2.3:a:haxe:haxe:3.4.5:*:*:*:*:node.js:*:*,Haxe 3.4.5 for Node.js,"['CVE-2016-10602', 'CVE-2016-10688']",2022-03-21T10:10Z
+2,cpe:2.3:a:haxe:haxe:3.4.6:*:*:*:*:node.js:*:*,Haxe 3.4.6 for Node.js,"['CVE-2016-10602', 'CVE-2016-10688']",2022-03-21T10:10Z
+3,cpe:2.3:a:haxe:haxe:3.4.7:*:*:*:*:node.js:*:*,Haxe 3.4.7 for Node.js,"['CVE-2016-10602', 'CVE-2016-10688']",2022-03-21T10:10Z
+4,cpe:2.3:a:haxe:haxe:4.0.0:*:*:*:*:node.js:*:*,Haxe 4.0.0 for Node.js,['CVE-2016-10602'],2022-03-21T10:10Z
+5,cpe:2.3:a:haxe:haxe:4.0.0:-:*:*:*:node.js:*:*,Haxe 4.0.0 - for Node.js,['CVE-2016-10602'],2022-03-21T10:10Z
+6,cpe:2.3:a:haxe:haxe:4.0.0:preview1:*:*:*:node.js:*:*,Haxe 4.0.0 Preview1 for Node.js,['CVE-2016-10602'],2022-03-21T10:10Z
+7,cpe:2.3:a:haxe:haxe:4.0.0:preview2:*:*:*:node.js:*:*,Haxe 4.0.0 Preview2 for Node.js,['CVE-2016-10602'],2022-03-21T10:10Z
+8,cpe:2.3:a:haxe:haxe:4.0.0:preview3:*:*:*:node.js:*:*,Haxe 4.0.0 Preview3 for Node.js,['CVE-2016-10602'],2022-03-21T10:10Z
+9,cpe:2.3:a:haxe:haxe:4.0.0:preview4:*:*:*:node.js:*:*,Haxe 4.0.0 Preview4 for Node.js,['CVE-2016-10602'],2022-03-21T10:10Z

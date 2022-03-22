@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hans_nilsson:video_filter:6.x-1.x:dev:*:*:*:*:*:*,Hans Nilsson Video Filter module for Drupal (video_filter) 6.x-1.x:dev,[''],2022-03-21T08:54Z
+1,cpe:2.3:a:hans_nilsson:video_filter:6.x-2.0:*:*:*:*:*:*:*,Hans Nilsson Video Filter module for Drupal (video_filter) 6.x-2.0,['CVE-2012-1634'],2022-03-21T08:54Z
+2,cpe:2.3:a:hans_nilsson:video_filter:6.x-2.1:*:*:*:*:*:*:*,Hans Nilsson Video Filter module for Drupal (video_filter) 6.x-2.1,['CVE-2012-1634'],2022-03-21T08:54Z
+3,cpe:2.3:a:hans_nilsson:video_filter:6.x-2.2:*:*:*:*:*:*:*,Hans Nilsson Video Filter module for Drupal (video_filter) 6.x-2.2,['CVE-2012-1634'],2022-03-21T08:54Z
+4,cpe:2.3:a:hans_nilsson:video_filter:6.x-2.3:*:*:*:*:*:*:*,Hans Nilsson Video Filter module for Drupal (video_filter) 6.x-2.3,['CVE-2012-1634'],2022-03-21T08:54Z
+5,cpe:2.3:a:hans_nilsson:video_filter:6.x-2.4:*:*:*:*:*:*:*,Hans Nilsson Video Filter module for Drupal (video_filter) 6.x-2.4,['CVE-2012-1634'],2022-03-21T08:54Z
+6,cpe:2.3:a:hans_nilsson:video_filter:6.x-2.5:*:*:*:*:*:*:*,Hans Nilsson Video Filter module for Drupal (video_filter) 6.x-2.5,['CVE-2012-1634'],2022-03-21T08:54Z
+7,cpe:2.3:a:hans_nilsson:video_filter:6.x-2.6:*:*:*:*:*:*:*,Hans Nilsson Video Filter module for Drupal (video_filter) 6.x-2.6,['CVE-2012-1634'],2022-03-21T08:54Z
+8,cpe:2.3:a:hans_nilsson:video_filter:6.x-2.7:*:*:*:*:*:*:*,Hans Nilsson Video Filter module for Drupal (video_filter) 6.x-2.7,['CVE-2012-1634'],2022-03-21T08:54Z
+9,cpe:2.3:a:hans_nilsson:video_filter:6.x-2.8:*:*:*:*:*:*:*,Hans Nilsson Video Filter module for Drupal (video_filter) 6.x-2.8,['CVE-2012-1634'],2022-03-21T08:54Z

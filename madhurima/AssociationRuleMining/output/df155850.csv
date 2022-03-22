@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:collectivecolors:taxonomy_view_integrator_module:6.x-1.1:*:*:*:*:*:*:*,CollectiveColors Taxonomy View Integrator 6.x-1.1,['CVE-2012-1653'],2022-03-20T06:32Z
+1,cpe:2.3:a:collectivecolors:taxonomy_view_integrator_module:6.x-1.2:*:*:*:*:*:*:*,CollectiveColors Taxonomy View Integrator 6.x-1.2,['CVE-2012-1653'],2022-03-20T06:32Z
+2,cpe:2.3:a:college_management_system_project:college_management_system:1.0:*:*:*:*:*:*:*,College Management System Project College Management System 1.0,"['CVE-2020-25408', 'CVE-2020-25409', 'CVE-2020-26051']",2022-03-20T06:32Z
+3,cpe:2.3:a:collne:welcart:1.4.0:*:*:*:*:wordpress:*:*,Collne Welcart 1.4.0 for Wordpress,"['CVE-2015-2973', 'CVE-2015-7791']",2022-03-20T06:32Z
+4,cpe:2.3:a:collne:welcart:1.4.1:*:*:*:*:wordpress:*:*,Collne Welcart 1.4.1 for Wordpress,"['CVE-2015-2973', 'CVE-2015-7791']",2022-03-20T06:32Z
+5,cpe:2.3:a:collne:welcart:1.4.2:*:*:*:*:wordpress:*:*,Collne Welcart 1.4.2 for Wordpress,"['CVE-2015-2973', 'CVE-2015-7791']",2022-03-20T06:32Z
+6,cpe:2.3:a:collne:welcart:1.4.3:*:*:*:*:wordpress:*:*,Collne Welcart 1.4.3 for Wordpress,"['CVE-2015-2973', 'CVE-2015-7791']",2022-03-20T06:32Z
+7,cpe:2.3:a:collne:welcart:1.4.4:*:*:*:*:wordpress:*:*,Collne Welcart 1.4.4 for Wordpress,"['CVE-2015-2973', 'CVE-2015-7791']",2022-03-20T06:32Z
+8,cpe:2.3:a:collne:welcart:1.4.5:*:*:*:*:wordpress:*:*,Collne Welcart 1.4.5 for Wordpress,"['CVE-2015-2973', 'CVE-2015-7791']",2022-03-20T06:32Z
+9,cpe:2.3:a:collne:welcart:1.4.6:*:*:*:*:wordpress:*:*,Collne Welcart 1.4.6 for Wordpress,"['CVE-2015-2973', 'CVE-2015-7791']",2022-03-20T06:32Z

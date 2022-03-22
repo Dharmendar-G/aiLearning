@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:buffalotech:bbr-4mg_firmware:1.40:beta:*:*:*:*:*:*,BUFFALO BBR-4MG Firmware 1.40 beta,[''],2022-03-19T13:19Z
+1,cpe:2.3:a:buffalotech:bbr-4mg_firmware:1.42:*:*:*:*:*:*:*,BUFFALO BBR-4MG Firmware 1.42,[''],2022-03-19T13:19Z
+2,cpe:2.3:a:buffalotech:bbr-4mg_firmware:1.43:beta:*:*:*:*:*:*,BUFFALO BBR-4MG Firmware 1.43 beta,[''],2022-03-19T13:19Z
+3,cpe:2.3:a:buffalotech:bbr-4mg_firmware:1.43:beta:*:*:*:*:*:*,BUFFALO BBR-4MG Firmware 1.43 beta,[''],2022-03-19T13:19Z
+4,cpe:2.3:a:buffalotech:bbr-4mg_firmware:1.43:beta2:*:*:*:*:*:*,BUFFALO BBR-4MG Firmware 1.43 beta2,[''],2022-03-19T13:19Z
+5,cpe:2.3:h:buffalotech:bhr-4grv2:-:*:*:*:*:*:*:*,バッファロー BHR-4GRV2,"['CVE-2014-9284', 'CVE-2016-1134', 'CVE-2016-1135']",2022-03-19T13:19Z
+6,cpe:2.3:h:buffalotech:bhr-4grv2_firmware:1.03:*:*:*:*:*:*:*,BUFFALO BHR-4GRV2 Firmware 1.03,['CVE-2014-9284'],2022-03-19T13:19Z
+7,[0],[0],[0],[0]
+8,cpe:2.3:o:buffalotech:bhr-4grv2_firmware:1.04:*:*:*:*:*:*:*,BUFFALO BHR-4GRV2 Firmware 1.04,"['CVE-2016-1134', 'CVE-2016-1135']",2022-03-19T13:20Z
+9,cpe:2.3:o:buffalotech:bhr-4grv2_firmware:1.05:*:*:*:*:*:*:*,BUFFALO BHR-4GRV2 Firmware 1.05,[''],2022-03-19T13:20Z

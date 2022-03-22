@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:spa508g:-:*:*:*:*:*:*:*,Cisco SPA508G -,"['CVE-2019-1683', 'CVE-2019-1923']",2022-03-20T00:23Z
+1,cpe:2.3:o:cisco:spa508g_firmware:1.4.2:*:*:*:*:*:*:*,Cisco SPA508G Firmware 1.4.2,"['CVE-2019-1683', 'CVE-2019-1923']",2022-03-20T00:23Z
+2,cpe:2.3:o:cisco:spa508g_firmware:7.3.7:*:*:*:*:*:*:*,Cisco SPA508G Firmware 7.3.7,['CVE-2019-1923'],2022-03-20T00:23Z
+3,cpe:2.3:o:cisco:spa508g_firmware:7.4.3:*:*:*:*:*:*:*,Cisco SPA508G Firmware 7.4.3,['CVE-2019-1923'],2022-03-20T00:23Z
+4,cpe:2.3:o:cisco:spa508g_firmware:7.4.4:*:*:*:*:*:*:*,Cisco SPA508G Firmware 7.4.4,['CVE-2019-1923'],2022-03-20T00:23Z
+5,cpe:2.3:o:cisco:spa508g_firmware:7.4.6:*:*:*:*:*:*:*,Cisco SPA508G Firmware 7.4.6,['CVE-2019-1923'],2022-03-20T00:23Z
+6,cpe:2.3:o:cisco:spa508g_firmware:7.4.7:*:*:*:*:*:*:*,Cisco SPA508G Firmware 7.4.7,['CVE-2019-1923'],2022-03-20T00:23Z
+7,cpe:2.3:o:cisco:spa508g_firmware:7.4.8:*:*:*:*:*:*:*,Cisco SPA508G Firmware 7.4.8,['CVE-2019-1923'],2022-03-20T00:23Z
+8,cpe:2.3:o:cisco:spa508g_firmware:7.4.9:*:*:*:*:*:*:*,Cisco SPA508G Firmware 7.4.9,['CVE-2019-1923'],2022-03-20T00:23Z
+9,cpe:2.3:o:cisco:spa508g_firmware:7.5.1:*:*:*:*:*:*:*,Cisco SPA508G Firmware 7.5.1,['CVE-2019-1923'],2022-03-20T00:23Z

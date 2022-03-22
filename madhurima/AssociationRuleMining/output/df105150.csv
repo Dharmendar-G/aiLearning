@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:central_dogma_project:central_dogma:0.23.0:*:*:*:*:*:*:*,Central Dogma Project Central Dogma 0.23.0,['CVE-2019-6002'],2022-03-19T15:58Z
+1,cpe:2.3:a:central_dogma_project:central_dogma:0.24.0:*:*:*:*:*:*:*,Central Dogma Project Central Dogma 0.24.0,['CVE-2019-6002'],2022-03-19T15:58Z
+2,cpe:2.3:a:central_dogma_project:central_dogma:0.25.0:*:*:*:*:*:*:*,Central Dogma Project Central Dogma 0.25.0,['CVE-2019-6002'],2022-03-19T15:58Z
+3,cpe:2.3:a:central_dogma_project:central_dogma:0.26.0:*:*:*:*:*:*:*,Central Dogma Project Central Dogma 0.26.0,['CVE-2019-6002'],2022-03-19T15:58Z
+4,cpe:2.3:a:central_dogma_project:central_dogma:0.27.0:*:*:*:*:*:*:*,Central Dogma Project Central Dogma 0.27.0,['CVE-2019-6002'],2022-03-19T15:58Z
+5,cpe:2.3:a:central_dogma_project:central_dogma:0.28.0:*:*:*:*:*:*:*,Central Dogma Project Central Dogma 0.28.0,['CVE-2019-6002'],2022-03-19T15:58Z
+6,cpe:2.3:a:central_dogma_project:central_dogma:0.28.1:*:*:*:*:*:*:*,Central Dogma Project Central Dogma 0.28.1,['CVE-2019-6002'],2022-03-19T15:58Z
+7,cpe:2.3:a:central_dogma_project:central_dogma:0.29.0:*:*:*:*:*:*:*,Central Dogma Project Central Dogma 0.29.0,['CVE-2019-6002'],2022-03-19T15:58Z
+8,cpe:2.3:a:central_dogma_project:central_dogma:0.30.0:*:*:*:*:*:*:*,Central Dogma Project Central Dogma 0.30.0,['CVE-2019-6002'],2022-03-19T15:58Z
+9,cpe:2.3:a:central_dogma_project:central_dogma:0.31.0:*:*:*:*:*:*:*,Central Dogma Project Central Dogma 0.31.0,['CVE-2019-6002'],2022-03-19T15:58Z

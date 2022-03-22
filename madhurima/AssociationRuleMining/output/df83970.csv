@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:boltcms:bolt:4.0.0:rc41:*:*:*:*:*:*,BoltCMS Bolt 4.0.0 Release Candidate 41,['CVE-2021-27367'],2022-03-19T09:31Z
+1,cpe:2.3:a:boltcms:bolt:4.0.0:rc42:*:*:*:*:*:*,BoltCMS Bolt 4.0.0 Release Candidate 42,['CVE-2021-27367'],2022-03-19T09:31Z
+2,cpe:2.3:a:boltcms:bolt:4.0.0:rc43:*:*:*:*:*:*,BoltCMS Bolt 4.0.0 Release Candidate 43,['CVE-2021-27367'],2022-03-19T09:31Z
+3,cpe:2.3:a:boltcms:bolt:4.0.0:rc44:*:*:*:*:*:*,BoltCMS Bolt 4.0.0 Release Candidate 44,['CVE-2021-27367'],2022-03-19T09:31Z
+4,cpe:2.3:a:boltcms:bolt:4.0.0:rc5:*:*:*:*:*:*,BoltCMS Bolt 4.0.0 Release Candidate 5,['CVE-2021-27367'],2022-03-19T09:31Z
+5,cpe:2.3:a:boltcms:bolt:4.0.0:rc6:*:*:*:*:*:*,BoltCMS Bolt 4.0.0 Release Candidate 6,['CVE-2021-27367'],2022-03-19T09:31Z
+6,cpe:2.3:a:boltcms:bolt:4.0.0:rc7:*:*:*:*:*:*,BoltCMS Bolt 4.0.0 Release Candidate 7,['CVE-2021-27367'],2022-03-19T09:31Z
+7,cpe:2.3:a:boltcms:bolt:4.0.0:rc8:*:*:*:*:*:*,BoltCMS Bolt 4.0.0 Release Candidate 8,['CVE-2021-27367'],2022-03-19T09:31Z
+8,cpe:2.3:a:boltcms:bolt:4.0.0:rc9:*:*:*:*:*:*,BoltCMS Bolt 4.0.0 Release Candidate 9,['CVE-2021-27367'],2022-03-19T09:31Z
+9,cpe:2.3:a:boltcms:bolt:4.0.1:*:*:*:*:*:*:*,BoltCMS Bolt 4.0.1,['CVE-2021-27367'],2022-03-19T09:31Z

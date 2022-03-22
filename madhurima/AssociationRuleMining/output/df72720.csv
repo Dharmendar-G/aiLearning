@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:belden:hirschmann_rsr20:-:*:*:*:*:*:*:*,Belden Hirschmann RSR20,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:54Z
+1,cpe:2.3:h:belden:hirschmann_rsr30:-:*:*:*:*:*:*:*,Belden Hirschmann RSR30,"['CVE-2018-5461', 'CVE-2018-5465', 'CVE-2018-5467', 'CVE-2018-5469', 'CVE-2018-5471']",2022-03-19T06:54Z
+2,cpe:2.3:h:belden:tofino_xenon_security_appliance:-:*:*:*:*:*:*:*,Belden Tofino Xenon Security Appliance,"['CVE-2017-11400', 'CVE-2017-11401', 'CVE-2017-11402']",2022-03-19T06:54Z
+3,cpe:2.3:o:belden:tofino_xenon_security_appliance_firmware:3.1.0:*:*:*:*:*:*:*,Belden Tofino Xenon Security Appliance Firmware 3.1.0,"['CVE-2017-11400', 'CVE-2017-11401', 'CVE-2017-11402']",2022-03-19T06:54Z
+4,cpe:2.3:a:belitsoft:checklist:1.1.1:*:*:*:*:joomla\!:*:*,Belitsoft Checklist 1.1.1 for Joomla!,['CVE-2018-7318'],2022-03-19T06:54Z
+5,cpe:2.3:h:belkin:crock-pot_smart_slow_cooker_with_wemo:-:*:*:*:*:*:*:*,Belkin Crock-Pot Smart Slow Cooker with WeMo,['CVE-2019-12780'],2022-03-19T06:54Z
+6,cpe:2.3:o:belkin:crock-pot_smart_slow_cooker_with_wemo_firmware:-:*:*:*:*:*:*:*,Belkin Crock-Pot Smart Slow Cooker with WeMo Firmware,['CVE-2019-12780'],2022-03-19T06:54Z
+7,cpe:2.3:h:belkin:f5d8236-4:2:*:*:*:*:*:*:*,Belkin F5D8236-4 2,['CVE-2013-3085'],2022-03-19T06:54Z
+8,cpe:2.3:h:belkin:f5d8236-4:v2:*:*:*:*:*:*:*,Belkin Model F5D8236-4 v2,['CVE-2013-3084'],2022-03-19T06:54Z
+9,cpe:2.3:o:belkin:f5d8236-4_firmware:-:*:*:*:*:*:*:*,Belkin F5D8236-4 Firmware,['CVE-2013-3085'],2022-03-19T06:54Z

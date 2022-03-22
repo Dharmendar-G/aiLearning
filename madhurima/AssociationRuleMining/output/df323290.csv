@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:jc124b:-:*:*:*:*:*:*:*,HP JC124A HP A9508 Switch Chassis,[''],2022-03-21T13:46Z
+1,cpe:2.3:h:hp:jc124b_hp_9505_switch_chassis:-:*:*:*:*:*:*:*,HP JC124B HP 9505 Switch Chassis,['CVE-2015-5434'],2022-03-21T13:46Z
+2,cpe:2.3:h:hp:jc125a:-:*:*:*:*:*:*:*,HP JC748A HP 10512 Switch Chassis,[''],2022-03-21T13:46Z
+3,cpe:2.3:h:hp:jc125a_hp_a9512_switch_chassis:-:*:*:*:*:*:*:*,HP JC125A HP A9512 Switch Chassis,['CVE-2015-5434'],2022-03-21T13:46Z
+4,cpe:2.3:h:hp:jc125b:-:*:*:*:*:*:*:*,HP JC125A HP A9512 Switch Chassis,[''],2022-03-21T13:46Z
+5,cpe:2.3:h:hp:jc125b_hp_9512_switch_chassis:-:*:*:*:*:*:*:*,HP JC125B HP 9512 Switch Chassis,['CVE-2015-5434'],2022-03-21T13:46Z
+6,cpe:2.3:h:hp:jc147a:-:*:*:*:*:*:*:*,HP JC147A,['CVE-2012-3268'],2022-03-21T13:46Z
+7,cpe:2.3:h:hp:jc147b:-:*:*:*:*:*:*:*,HP JC147B,['CVE-2012-3268'],2022-03-21T13:46Z
+8,cpe:2.3:h:hp:jc148a:-:*:*:*:*:*:*:*,HP JC148A,['CVE-2012-3268'],2022-03-21T13:46Z
+9,cpe:2.3:h:hp:jc148b:-:*:*:*:*:*:*:*,HP JC148B,['CVE-2012-3268'],2022-03-21T13:46Z

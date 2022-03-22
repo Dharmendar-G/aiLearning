@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:i2_intelligent_analysis_platform:9.0.0:*:*:*:premium:*:*:*,IBM i2 Intelligent Analyis Platform 9.0.0 Premium Edition,['CVE-2019-4062'],2022-03-21T20:44Z
+1,cpe:2.3:a:ibm:i2_intelligent_analysis_platform:9.0.1:*:*:*:-:*:*:*,IBM i2 Intelligent Analyis Platform 9.0.1,['CVE-2019-4062'],2022-03-21T20:44Z
+2,cpe:2.3:a:ibm:i2_intelligent_analysis_platform:9.0.1:*:*:*:premium:*:*:*,IBM i2 Intelligent Analyis Platform 9.0.1 Premium Edition,['CVE-2019-4062'],2022-03-21T20:44Z
+3,cpe:2.3:a:ibm:i2_intelligent_analysis_platform:9.0.2:*:*:*:-:*:*:*,IBM i2 Intelligent Analyis Platform 9.0.2,['CVE-2019-4062'],2022-03-21T20:44Z
+4,cpe:2.3:a:ibm:i2_intelligent_analysis_platform:9.0.2:*:*:*:premium:*:*:*,IBM i2 Intelligent Analyis Platform 9.0.2 Premium Edition,['CVE-2019-4062'],2022-03-21T20:44Z
+5,cpe:2.3:a:ibm:i2_intelligent_analysis_platform:9.0.3:*:*:*:-:*:*:*,IBM i2 Intelligent Analyis Platform 9.0.3,['CVE-2019-4062'],2022-03-21T20:44Z
+6,cpe:2.3:a:ibm:i2_intelligent_analysis_platform:9.0.3:*:*:*:premium:*:*:*,IBM i2 Intelligent Analyis Platform 9.0.3 Premium Edition,['CVE-2019-4062'],2022-03-21T20:44Z
+7,cpe:2.3:a:ibm:i2_intelligent_analysis_platform:9.0.4:*:*:*:-:*:*:*,IBM i2 Intelligent Analyis Platform 9.0.4,['CVE-2019-4062'],2022-03-21T20:44Z
+8,cpe:2.3:a:ibm:i2_intelligent_analysis_platform:9.0.4:*:*:*:premium:*:*:*,IBM i2 Intelligent Analyis Platform 9.0.4 Premium Edition,['CVE-2019-4062'],2022-03-21T20:44Z
+9,cpe:2.3:a:ibm:i2_intelligent_analysis_platform:9.0.5:*:*:*:-:*:*:*,IBM i2 Intelligent Analyis Platform 9.0.5,['CVE-2019-4062'],2022-03-21T20:44Z

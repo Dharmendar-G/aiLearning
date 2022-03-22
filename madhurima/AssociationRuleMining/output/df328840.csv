@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:service_manager_web_tier:9.30:*:*:*:*:*:*:*,HP Service Manager Web Tier 9.30,['CVE-2012-3251'],2022-03-21T16:02Z
+1,cpe:2.3:a:hp:service_manager_web_tier:9.31:*:*:*:*:*:*:*,HP Service Manager Web Tier 9.31,"['CVE-2012-5222', 'CVE-2013-2321']",2022-03-21T16:02Z
+2,cpe:2.3:a:hp:service_manager_windows_client:9.30:*:*:*:*:*:*:*,HP Service Manager Windows Client 9.30,['CVE-2016-4371'],2022-03-21T16:02Z
+3,cpe:2.3:a:hp:service_manager_windows_client:9.31:*:*:*:*:*:*:*,HP Service Manager Windows Client 9.31,['CVE-2016-4371'],2022-03-21T16:02Z
+4,cpe:2.3:a:hp:service_manager_windows_client:9.32:*:*:*:*:*:*:*,HP Service Manager Windows Client 9.32,['CVE-2016-4371'],2022-03-21T16:02Z
+5,cpe:2.3:a:hp:service_manager_windows_client:9.33:*:*:*:*:*:*:*,HP Service Manager Windows Client 9.33,['CVE-2016-4371'],2022-03-21T16:02Z
+6,cpe:2.3:a:hp:service_manager_windows_client:9.34:*:*:*:*:*:*:*,HP Service Manager Windows Client 9.34,['CVE-2016-4371'],2022-03-21T16:02Z
+7,cpe:2.3:a:hp:service_manager_windows_client:9.35:*:*:*:*:*:*:*,HP Service Manager Windows Client 9.35,['CVE-2016-4371'],2022-03-21T16:02Z
+8,cpe:2.3:a:hp:service_manager_windows_client:9.40:*:*:*:*:*:*:*,HP Service Manager Windows Client 9.40,['CVE-2016-4371'],2022-03-21T16:02Z
+9,cpe:2.3:a:hp:service_manager_windows_client:9.41:*:*:*:*:*:*:*,HP Service Manager Windows Client 9.41,['CVE-2016-4371'],2022-03-21T16:02Z

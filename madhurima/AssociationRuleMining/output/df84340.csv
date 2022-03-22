@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bookingholdings:booking.com_banner_creator:1.4.5:*:*:*:*:wordpress:*:*,Booking Holdings Booking.com Banner Creator 1.4.5 for WordPress,[''],2022-03-19T09:38Z
+1,cpe:2.3:a:bookingholdings:booking.com_banner_creator:1.4.6:*:*:*:*:wordpress:*:*,Booking Holdings Booking.com Banner Creator 1.4.6 for WordPress,[''],2022-03-19T09:38Z
+2,cpe:2.3:a:bookingholdings:booking.com_product_helper:-:*:*:*:*:wordpress:*:*,Booking Holdings Booking.com Product Helper for WordPress,['CVE-2021-24645'],2022-03-19T09:38Z
+3,cpe:2.3:a:bookingholdings:booking.com_product_helper:1.0.0:*:*:*:*:wordpress:*:*,Booking Holdings Booking.com Product Helper 1.0.0 for WordPress,['CVE-2021-24645'],2022-03-19T09:38Z
+4,cpe:2.3:a:bookingholdings:booking.com_product_helper:1.0.1:*:*:*:*:wordpress:*:*,Booking Holdings Booking.com Product Helper 1.0.1 for WordPress,['CVE-2021-24645'],2022-03-19T09:38Z
+5,cpe:2.3:a:bookingholdings:booking.com_product_helper:1.0.2:*:*:*:*:wordpress:*:*,Booking Holdings Booking.com Product Helper 1.0.2 for WordPress,[''],2022-03-19T09:38Z
+6,cpe:2.3:a:bookingholdings:booking.com_product_helper:1.0.3:*:*:*:*:wordpress:*:*,Booking Holdings Booking.com Product Helper 1.0.3 for WordPress,[''],2022-03-19T09:38Z
+7,cpe:2.3:a:bookingholdings:booking.com_product_helper:1.0.4:*:*:*:*:wordpress:*:*,Booking Holdings Booking.com Product Helper 1.0.4 for WordPress,[''],2022-03-19T09:38Z
+8,cpe:2.3:a:bookjam:cookbible:1.0.0:*:*:*:*:android:*:*,bookjam cookbible (aka net.bookjam.cookbible) for Android 1.0.0,['CVE-2014-5990'],2022-03-19T09:38Z
+9,cpe:2.3:a:bookly_project:bookly:1.1.7:*:*:*:*:wordpress:*:*,Bookly Project Bookly 1.1.7 for WordPress,['CVE-2021-24930'],2022-03-19T09:38Z

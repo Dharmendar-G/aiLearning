@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:jabber:12.8:*:*:*:*:android:*:*,Cisco Jabber 12.8 for Android,"['CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:48Z
+1,cpe:2.3:a:cisco:jabber:12.8:*:*:*:*:windows:*:*,Cisco Jabber 12.8 for Windows,"['CVE-2020-26085', 'CVE-2020-3155', 'CVE-2020-3430', 'CVE-2020-3495', 'CVE-2020-3498', 'CVE-2020-3537']",2022-03-19T22:48Z
+2,cpe:2.3:a:cisco:jabber:12.8.0:*:*:*:*:iphone_os:*:*,Cisco Jabber 12.8.0 for iPhone OS,"['CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:48Z
+3,cpe:2.3:a:cisco:jabber:12.8.1:*:*:*:*:iphone_os:*:*,Cisco Jabber 12.8.1 for iPhone OS,"['CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:48Z
+4,cpe:2.3:a:cisco:jabber:12.8.2:*:*:*:*:iphone_os:*:*,Cisco Jabber 12.8.2 for iPhone OS,"['CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:48Z
+5,cpe:2.3:a:cisco:jabber:12.8.3:*:*:*:*:iphone_os:*:*,Cisco Jabber 12.8.3 for iPhone OS,"['CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:48Z
+6,cpe:2.3:a:cisco:jabber:12.8.3:*:*:*:*:windows:*:*,Cisco Jabber 12.8.3 for Windows,"['CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1411', 'CVE-2021-1417', 'CVE-2021-1418', 'CVE-2021-1469', 'CVE-2021-1471']",2022-03-19T22:48Z
+7,cpe:2.3:a:cisco:jabber:12.8.4:*:*:*:*:windows:*:*,Cisco Jabber 12.8.4 for Windows,"['CVE-2020-3155', 'CVE-2021-1411', 'CVE-2021-1417', 'CVE-2021-1418', 'CVE-2021-1469', 'CVE-2021-1471']",2022-03-19T22:48Z
+8,cpe:2.3:a:cisco:jabber:12.8.5:*:*:*:*:macos:*:*,Cisco Jabber 12.8.5 for macOS,"['CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:48Z
+9,cpe:2.3:a:cisco:jabber:12.9:*:*:*:*:android:*:*,Cisco Jabber 12.9 for Android,"['CVE-2020-26085', 'CVE-2020-3155', 'CVE-2021-1418', 'CVE-2021-1471']",2022-03-19T22:48Z

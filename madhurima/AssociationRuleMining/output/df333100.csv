@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:baggio2-u01a_firmware:bg2-u01c333b160custc333d001:*:*:*:*:*:*:*,Huawei Baggio2-U01A Firmware BG2-U01C333B160CUSTC333D001,['CVE-2018-7907'],2022-03-21T17:25Z
+1,cpe:2.3:h:huawei:baggio-l03a:-:*:*:*:*:*:*:*,Huawei Baggio-L03A,['CVE-2017-15322'],2022-03-21T17:25Z
+2,cpe:2.3:o:huawei:baggio-l03a_firmware:bgo-l03c158b003custc158d001:*:*:*:*:*:*:*,Huawei Baggio-L03A Firmware BGO-L03C158B003CUSTC158D001,['CVE-2017-15322'],2022-03-21T17:25Z
+3,cpe:2.3:o:huawei:baggio-l03a_firmware:bgo-l03c331b009custc331d001:*:*:*:*:*:*:*,Huawei Baggio-L03A Firmware BGO-L03C331B009CUSTC331D001,['CVE-2017-15322'],2022-03-21T17:25Z
+4,cpe:2.3:h:huawei:band_2:-:*:*:*:*:*:*:*,Huawei Band 2,['CVE-2019-5218'],2022-03-21T17:25Z
+5,cpe:2.3:o:huawei:band_2_firmware:-:*:*:*:*:*:*:*,Huawei Band 2 Firmware,['CVE-2019-5218'],2022-03-21T17:25Z
+6,cpe:2.3:o:huawei:band_2_firmware:eris-b19\/eris-b29_1.2.53:*:*:*:*:*:*:*,Huawei Band 2 Firmware Eris-B19/Eris-B29 1.2.53,[''],2022-03-21T17:25Z
+7,cpe:2.3:h:huawei:band_3:-:*:*:*:*:*:*:*,Huawei Band 3,['CVE-2019-5218'],2022-03-21T17:25Z
+8,cpe:2.3:o:huawei:band_3_firmware:-:*:*:*:*:*:*:*,Huawei Band 3 Firmware,['CVE-2019-5218'],2022-03-21T17:25Z
+9,cpe:2.3:o:huawei:band_3_firmware:nyx-b10hn_1.5.53:*:*:*:*:*:*:*,Huawei Band 3 Firmware NYX-B10HN 1.5.53,[''],2022-03-21T17:25Z
