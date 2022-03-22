@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 
-df4 = pd.read_csv('4.csv')
+df1 = pd.read_csv('../../dataset/1.csv',encoding='utf-8')
 
 df4
 
@@ -59,7 +59,7 @@ u=re.findall(pattern,data)
 
 print(u)
 
-df6 = pd.read_csv('6.csv')
+df6 = pd.read_csv('../../dataset/6.csv',encoding='utf-8')
 
 df6
 
