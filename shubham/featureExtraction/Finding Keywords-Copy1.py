@@ -76,14 +76,4 @@ lst_sent(7,'What is the deductible on the homeowners policy?')
 lst_sent(7,'Is dwelling in course of construction?')
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
+fhfhhwjhegafdifekahhfj
