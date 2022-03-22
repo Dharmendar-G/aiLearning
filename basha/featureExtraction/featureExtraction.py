@@ -1,26 +1,21 @@
 # Compare below 4 keys with 6 different dataframes to update StandardTemplate.csv
-# 1.Flood Zone
-
-# 2.Month & Year Built/Substantial Improvement Date
-
-# 3.County/Parish
-
-# 4.If Other permanent structures coverage is requested, what is the other permanent structures total value?
-
+# Flood Zone
+# Month & Year Built/Substantial Improvement Date
+# County/Parish
+# If Other permanent structures coverage is requested, what is the other permanent structures total value?
 import pandas as pd
 import warnings
 warnings.filterwarnings('ignore')
 import re
 
+#Read the csv files
 df1 = pd.read_csv('../../dataset/1.csv',encoding='utf-8')
 df2 = pd.read_csv('../../dataset/2.csv',encoding='utf-8')
 df3 = pd.read_csv('../../dataset/3.csv',encoding='utf-8')
 df4 = pd.read_csv('../../dataset/4.csv',encoding='utf-8')
-df6 = pd.read_csv('../../dataset/6.csv',encoding='utf-8')
 with open('../../dataset/5csv_complete_text.txt') as f:
     df5 = f.readlines()
-df6 = pd.read_csv('../../dataset/6.csv',encoding='utf-8')
-
+df6 = pd.read_csv('../../dataset/6.csv')
 
 #Extract the text from csv and join the lines
 data1 = ' '.join(list(df1['text'].values))
@@ -29,6 +24,7 @@ data3= ' '.join(list(df3['text'].values))
 data4= ' '.join(list(df4['text'].values))
 data6= ' '.join(list(df6['text'].values))
 
+# check Flood Zone feature present in each csv file or not
 result1_1 = []
 find = ['Flood Zone:']
 for i in find:
@@ -63,36 +59,34 @@ for i in find:
     match_string = df6.new_col.str.findall(i)
     match_string = [ele for ele in match_string if ele != [] and ele != 'NaN' and ele != 'nan']
     result1_6.append(match_string)
-result1_6.append(match_string)
 
-#check 'Month & Year Built/Substantial Improvement Date'feature present in csv file or not
+# check 'Month & Year Built/Substantial Improvement Date'feature present in csv file or not
 result2_1 = []
 find = ['Month & Year Built/Substantial Improvement Date']
 for i in find:
     match_string = df1.new_col.str.findall(i)
-    match_string = [ele for ele in match_string if ele != [] and ele!='NaN' and ele!='nan']
+    match_string = [ele for ele in match_string if ele != [] and ele != 'NaN' and ele != 'nan']
     result2_1.append(match_string)
 
 result2_2 = []
 find = ['Month & Year Built/Substantial Improvement Date']
 for i in find:
     match_string = df2.new_col.str.findall(i)
-    match_string = [ele for ele in match_string if ele != [] and ele!='NaN' and ele!='nan']
+    match_string = [ele for ele in match_string if ele != [] and ele != 'NaN' and ele != 'nan']
     result2_2.append(match_string)
-
 
 result2_3 = []
 find = ['Month & Year Built/Substantial Improvement Date']
 for i in find:
     match_string = df3.new_col.str.findall(i)
-    match_string = [ele for ele in match_string if ele != [] and ele!='NaN' and ele!='nan']
+    match_string = [ele for ele in match_string if ele != [] and ele != 'NaN' and ele != 'nan']
     result2_3.append(match_string)
 
 result2_4 = []
 find = ['Month & Year Built/Substantial Improvement Date']
 for i in find:
     match_string = df4.new_col.str.findall(i)
-    match_string = [ele for ele in match_string if ele != [] and ele!='NaN' and ele!='nan']
+    match_string = [ele for ele in match_string if ele != [] and ele != 'NaN' and ele != 'nan']
     result2_4.append(match_string)
 result2_4.append(match_string)
 
@@ -100,7 +94,7 @@ result2_6 = []
 find = ['Month & Year Built/Substantial Improvement Date']
 for i in find:
     match_string = df6.new_col.str.findall(i)
-    match_string = [ele for ele in match_string if ele != [] and ele!='NaN' and ele!='nan']
+    match_string = [ele for ele in match_string if ele != [] and ele != 'NaN' and ele != 'nan']
     result2_6.append(match_string)
 
 # check 'Month & Year Built/Substantial Improvement Date'feature present in csv file or not
@@ -189,7 +183,6 @@ u=re.findall(pattern,data6)
 s = str(df6[df6['block_num']==15]['new_col'])
 s =re.search('\$\d+,\d+,\d+', s).group()
 
-
 # Standard Template Dataset
 standard = pd.read_csv('../../dataset/StandardTemplate.csv', encoding='cp1252')
 stdf = standard[standard.columns.tolist()[:167]]
@@ -201,4 +194,4 @@ df.iloc[5,101]= '$1,380,000'
 df.iloc[5,102]= 'X'
 df.iloc[5,103]= '01-2011'
 df.iloc[5,104]= 'Palm Beach County'
-df.to_csv('standardTemplate.csv',encoding='cp1252')
+df.to_csv('submission.csv',encoding='cp1252')
