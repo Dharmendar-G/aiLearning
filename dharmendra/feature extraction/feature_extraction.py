@@ -19,7 +19,7 @@ import numpy as np
 pd.set_option('display.max_columns', None)
 
 # Standard Template Dataset
-standard = pd.read_csv('dataset\StandardTemplate.csv', encoding='cp1252')
+standard = pd.read_csv('C:\\Users\\DharmendraGa_5wskc\\Desktop\\AI Training\\aiLearning\\dataset\\StandardTemplate.csv', encoding='cp1252')
 stdf = standard[standard.columns.tolist()[:167]]
 stdf.rename(columns={'fileName':'FileName'}, inplace=True)
 
@@ -34,7 +34,7 @@ stdf.rename(columns={'fileName':'FileName'}, inplace=True)
 # Importing 6 matching dataframes 
 df_list = []
 for i in range(1,7):
-    df = pd.read_csv(f'dataset\{i}.csv')
+    df = pd.read_csv(f'C:\\Users\\DharmendraGa_5wskc\\Desktop\\AI Training\\aiLearning\\dataset\\{i}.csv')
     df_list.append(df)
     
 # Required Keys
