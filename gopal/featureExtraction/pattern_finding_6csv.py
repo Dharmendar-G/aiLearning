@@ -4,7 +4,7 @@ import os
 
 print(os.getcwd())
 
-df=pd.read_csv("../../dataset/StandardTemplate.csv",encoding='cp1252')
+df=pd.read_csv("../../mukund/StandardTemplate.csv", encoding='cp1252')
 df2=pd.read_csv("../../dataset/6.csv")
 
 b = []
