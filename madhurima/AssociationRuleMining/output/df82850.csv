@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bochs_project:bochs:2.1:-:*:*:*:*:*:*,Bochs Project Bochs 2.1,['CVE-2004-2372'],2022-03-19T09:16Z
+1,cpe:2.3:a:bochs_project:bochs:2.1:pre1:*:*:*:*:*:*,Bochs Project Bochs 2.1 Pre 1,['CVE-2004-2372'],2022-03-19T09:16Z
+2,cpe:2.3:a:bochs_project:bochs:2.1:pre2:*:*:*:*:*:*,Bochs Project Bochs 2.1 Pre 2,['CVE-2004-2372'],2022-03-19T09:16Z
+3,cpe:2.3:a:bochs_project:bochs:2.1:pre3:*:*:*:*:*:*,Bochs Project Bochs 2.1 Pre 3,['CVE-2004-2372'],2022-03-19T09:16Z
+4,cpe:2.3:a:bochs_project:bochs:2.1.1:*:*:*:*:*:*:*,Bochs Project Bochs 2.1.1,[''],2022-03-19T09:16Z
+5,cpe:2.3:a:bochs_project:bochs:2.2:-:*:*:*:*:*:*,Bochs Project Bochs 2.2,[''],2022-03-19T09:16Z
+6,cpe:2.3:a:bochs_project:bochs:2.2:pre1:*:*:*:*:*:*,Bochs Project Bochs 2.2 Pre 1,[''],2022-03-19T09:16Z
+7,cpe:2.3:a:bochs_project:bochs:2.2:pre2:*:*:*:*:*:*,Bochs Project Bochs 2.2 Pre 2,[''],2022-03-19T09:16Z
+8,cpe:2.3:a:bochs_project:bochs:2.2:pre3:*:*:*:*:*:*,Bochs Project Bochs 2.2 Pre 3,[''],2022-03-19T09:16Z
+9,cpe:2.3:a:bochs_project:bochs:2.2:pre4:*:*:*:*:*:*,Bochs Project Bochs 2.2 Pre 4,[''],2022-03-19T09:16Z

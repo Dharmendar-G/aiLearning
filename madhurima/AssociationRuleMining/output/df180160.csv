@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:integrated_data_protection_appliance_dp8300:2.4.0:*:*:*:*:*:*:*,Dell EMC Integrated Data Protection Appliance (IDPA) DP8300 2.4.0,[''],2022-03-20T12:44Z
+1,cpe:2.3:a:dell:integrated_data_protection_appliance_dp8300:2.4.0:*:*:*:*:*:*:*,Dell EMC Integrated Data Protection Appliance (IDPA) DP8300 2.4.0,[''],2022-03-20T12:44Z
+2,cpe:2.3:a:dell:integrated_data_protection_appliance_dp8300:2.5:*:*:*:*:*:*:*,Dell EMC Integrated Data Protection Appliance (IDPA) DP8300 2.5,[''],2022-03-20T12:44Z
+3,cpe:2.3:h:dell:integrated_data_protection_appliance_dp8300:2.5:*:*:*:*:*:*:*,Dell EMC Integrated Data Protection Appliance (IDPA) DP8300 2.5,[''],2022-03-20T12:44Z
+4,cpe:2.3:h:dell:integrated_data_protection_appliance_dp8300:2.6.0:*:*:*:*:*:*:*,Dell EMC Integrated Data Protection Appliance (IDPA) DP8300 2.6.0,[''],2022-03-20T12:44Z
+5,cpe:2.3:a:dell:integrated_data_protection_appliance_dp8300:2.6.0:*:*:*:*:*:*:*,Dell EMC Integrated Data Protection Appliance (IDPA) DP8300 2.6.0,[''],2022-03-20T12:44Z
+6,cpe:2.3:a:dell:integrated_data_protection_appliance_dp8300:2.7:*:*:*:*:*:*:*,Dell EMC Integrated Data Protection Appliance (IDPA) DP8300 2.7,[''],2022-03-20T12:44Z
+7,cpe:2.3:h:dell:integrated_data_protection_appliance_dp8300:2.7:*:*:*:*:*:*:*,Dell EMC Integrated Data Protection Appliance (IDPA) DP8300 2.7,[''],2022-03-20T12:44Z
+8,cpe:2.3:h:dell:integrated_data_protection_appliance_dp8800:2.3:*:*:*:*:*:*:*,Dell EMC Integrated Data Protection Appliance (IDPA) DP8800 2.3,[''],2022-03-20T12:44Z
+9,cpe:2.3:a:dell:integrated_data_protection_appliance_dp8800:2.3:*:*:*:*:*:*:*,Dell EMC Integrated Data Protection Appliance (IDPA) DP8800 2.3,[''],2022-03-20T12:44Z

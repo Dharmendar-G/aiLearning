@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:psc_700:-:*:*:*:*:*:*:*,HP PSC 700,['CVE-2007-0161'],2022-03-21T15:59Z
+1,cpe:2.3:h:hp:psc_750:-:*:*:*:*:*:*:*,HP psc 750 printer,[''],2022-03-21T15:59Z
+2,cpe:2.3:h:hp:psc_900:-:*:*:*:*:*:*:*,HP PSC 900,['CVE-2007-0161'],2022-03-21T15:59Z
+3,cpe:2.3:a:hp:psprinters08:8.1.0:*:*:*:*:*:*:*,HP Psprinters08 8.1.0,[''],2022-03-21T15:59Z
+4,cpe:2.3:a:hp:psswcore:2.1.0:*:*:*:*:*:*:*,HP Psswcore 2.1.0,[''],2022-03-21T15:59Z
+5,cpe:2.3:a:hp:psswcore:2.2.0:*:*:*:*:*:*:*,HP Psswcore 2.2.0,[''],2022-03-21T15:59Z
+6,cpe:2.3:a:hp:pstaplugin:8.1.0:*:*:*:*:*:*:*,HP Pstaplugin 8.1.0,[''],2022-03-21T15:59Z
+7,cpe:2.3:h:hp:pusb_thermal_receipt_printer_f7m67aa:-:*:*:*:*:*:*:*,HP PUSB Thermal Receipt Printer F7M67AA,"['CVE-2014-7888', 'CVE-2014-7893', 'CVE-2014-7894', 'CVE-2014-7895']",2022-03-21T15:59Z
+8,cpe:2.3:h:hp:pusb_thermal_receipt_printer_fk224aa:-:*:*:*:*:*:*:*,HP PUSB Thermal Receipt Printer FK224AA,"['CVE-2014-7888', 'CVE-2014-7893', 'CVE-2014-7894', 'CVE-2014-7895']",2022-03-21T15:59Z
+9,cpe:2.3:a:hp:quality_center:9.2_patch_10:*:*:*:*:*:*:*,HP Quality Center 9.2 Patch 10,[''],2022-03-21T15:59Z

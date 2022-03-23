@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:loggregator:81:*:*:*:*:*:*:*,Cloud Foundry Loggregator 81,[''],2022-03-20T03:30Z
+1,cpe:2.3:a:cloudfoundry:loggregator:82:*:*:*:*:*:*:*,Cloud Foundry Loggregator 82,[''],2022-03-20T03:30Z
+2,cpe:2.3:a:cloudfoundry:loggregator:83:*:*:*:*:*:*:*,Cloud Foundry Loggregator 83,[''],2022-03-20T03:30Z
+3,cpe:2.3:a:cloudfoundry:loggregator:84:*:*:*:*:*:*:*,Cloud Foundry Loggregator 84,[''],2022-03-20T03:30Z
+4,cpe:2.3:a:cloudfoundry:loggregator:85:*:*:*:*:*:*:*,Cloud Foundry Loggregator 85,[''],2022-03-20T03:30Z
+5,cpe:2.3:a:cloudfoundry:loggregator:86:*:*:*:*:*:*:*,Cloud Foundry Loggregator 86,[''],2022-03-20T03:30Z
+6,cpe:2.3:a:cloudfoundry:loggregator:87:*:*:*:*:*:*:*,Cloud Foundry Loggregator 87,[''],2022-03-20T03:30Z
+7,cpe:2.3:a:cloudfoundry:loggregator:88:*:*:*:*:*:*:*,Cloud Foundry Loggregator 88,[''],2022-03-20T03:30Z
+8,cpe:2.3:a:cloudfoundry:loggregator:89:*:*:*:*:*:*:*,Cloud Foundry Loggregator 89,"['CVE-2018-1268', 'CVE-2018-1269']",2022-03-20T03:30Z
+9,cpe:2.3:a:cloudfoundry:loggregator:89.1:*:*:*:*:*:*:*,Cloud Foundry Loggregator 89.1,"['CVE-2018-1268', 'CVE-2018-1269']",2022-03-20T03:30Z

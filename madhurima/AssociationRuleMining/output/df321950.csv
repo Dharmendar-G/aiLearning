@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:flex_5-1570:-:*:*:*:*:*:*:*,HP FLEX 5-1570,['CVE-2018-9069'],2022-03-21T13:28Z
+1,cpe:2.3:o:hp:flex_5-1570_firmware:-:*:*:*:*:*:*:*,HP FLEX 5-1570 Firmware,['CVE-2018-9069'],2022-03-21T13:28Z
+2,cpe:2.3:o:hp:flex_5-1570_firmware:2.09:*:*:*:*:*:*:*,HP FLEX 5-1570 Firmware 2.09,[''],2022-03-21T13:28Z
+3,cpe:2.3:a:hp:fortify_software_security_center:3.1:*:*:*:*:*:*:*,HP Fortify Software Security Center 3.1,"['CVE-2012-3248', 'CVE-2012-3249']",2022-03-21T13:28Z
+4,cpe:2.3:a:hp:fortify_software_security_center:3.3:*:*:*:*:*:*:*,HP Fortify Software Security Center 3.3,"['CVE-2012-3248', 'CVE-2012-3249']",2022-03-21T13:28Z
+5,cpe:2.3:a:hp:fortify_software_security_center:3.4:*:*:*:*:*:*:*,HP Fortify Software Security Center 3.4,"['CVE-2012-3248', 'CVE-2012-3249']",2022-03-21T13:28Z
+6,cpe:2.3:a:hp:fortify_software_security_center:3.5:*:*:*:*:*:*:*,HP Fortify Software Security Center 3.5,"['CVE-2012-3248', 'CVE-2012-3249']",2022-03-21T13:28Z
+7,cpe:2.3:a:hp:fortify_software_security_center:17.1:*:*:*:*:*:*:*,HP Fortify Software Security Center 17.1,['CVE-2018-12463'],2022-03-21T13:28Z
+8,cpe:2.3:a:hp:fortify_software_security_center:17.2:*:*:*:*:*:*:*,HP Fortify Software Security Center 17.2,['CVE-2018-12463'],2022-03-21T13:28Z
+9,cpe:2.3:a:hp:fortify_software_security_center:18.1:*:*:*:*:*:*:*,HP Fortify Software Security Center 18.1,['CVE-2018-12463'],2022-03-21T13:28Z

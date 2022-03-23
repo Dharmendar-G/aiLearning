@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_pro_mfp_m427_f6w15a:-:*:*:*:*:*:*:*,HP LaserJet Pro MFP M427 F6W15A,['CVE-2020-28419'],2022-03-21T15:18Z
+1,cpe:2.3:h:hp:laserjet_pro_mfp_m427_f6w16a:-:*:*:*:*:*:*:*,HP LaserJet Pro MFP M427 F6W16A,['CVE-2020-28419'],2022-03-21T15:18Z
+2,cpe:2.3:h:hp:laserjet_pro_mfp_m427_f6w17a:-:*:*:*:*:*:*:*,HP LaserJet Pro MFP M427 F6W17A,['CVE-2020-28419'],2022-03-21T15:18Z
+3,cpe:2.3:h:hp:laserjet_pro_mfp_m427_f6w18a:-:*:*:*:*:*:*:*,HP LaserJet Pro MFP M427 F6W18A,['CVE-2020-28419'],2022-03-21T15:18Z
+4,cpe:2.3:h:hp:laserjet_pro_mfp_m427_f6w19a:-:*:*:*:*:*:*:*,HP LaserJet Pro MFP M427 F6W19A,['CVE-2020-28419'],2022-03-21T15:18Z
+5,cpe:2.3:h:hp:laserjet_pro_p1102:ce657a:*:*:*:*:*:*:*,HP LaserJet Pro P1102 CE657A,['CVE-2013-6193'],2022-03-21T15:18Z
+6,cpe:2.3:h:hp:laserjet_pro_p1102:ce658a:*:*:*:*:*:*:*,HP LaserJet Pro P1102 CE658A,['CVE-2013-6193'],2022-03-21T15:18Z
+7,cpe:2.3:o:hp:laserjet_pro_p1102w_firmware:20130703:*:*:*:*:*:*:*,HP LaserJet Pro P1102w Firmware 20130703,[''],2022-03-21T15:18Z
+8,cpe:2.3:h:hp:laserjet_pro_p1606dn:ce749a:*:*:*:*:*:*:*,HP LaserJet Pro P1606dn CE749A,"['CVE-2012-5215', 'CVE-2013-4807', 'CVE-2013-6193']",2022-03-21T15:18Z
+9,cpe:2.3:o:hp:laserjet_pro_p1606dn_firmware:20130703:*:*:*:*:*:*:*,HP LaserJet Pro P1606dn Firmware 20130703,[''],2022-03-21T15:18Z

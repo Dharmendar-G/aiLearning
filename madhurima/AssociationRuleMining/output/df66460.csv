@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:axis:p3364-v_firmware:6.50.2.3:*:*:*:*:*:*:*,Axis Communications P3364-V Firmware 6.50.2.3,[''],2022-03-19T04:54Z
+1,cpe:2.3:o:axis:p3364-ve_firmware:6.50.2.3:*:*:*:*:*:*:*,Axis Communications P3364-VE Firmware 6.50.2.3,[''],2022-03-19T04:54Z
+2,cpe:2.3:o:axis:p3365-v_firmware:6.50.2.3:*:*:*:*:*:*:*,Axis Communications P3365-V Firmware 6.50.2.3,[''],2022-03-19T04:54Z
+3,cpe:2.3:o:axis:p3365-ve_firmware:6.50.2.3:*:*:*:*:*:*:*,Axis Communications P3365-VE Firmware 6.50.2.3,[''],2022-03-19T04:54Z
+4,cpe:2.3:o:axis:p3367-v_firmware:6.50.2.3:*:*:*:*:*:*:*,Axis Communications P3367-V Firmware 6.50.2.3,[''],2022-03-19T04:54Z
+5,cpe:2.3:o:axis:p3367-ve_firmware:6.50.2.3:*:*:*:*:*:*:*,Axis Communications P3367-VE Firmware 6.50.2.3,[''],2022-03-19T04:54Z
+6,cpe:2.3:o:axis:p3374-lv_firmware:8.20.1:*:*:*:*:*:*:*,Axis Communications P3374-LV Firmware 8.20.1,[''],2022-03-19T04:54Z
+7,cpe:2.3:o:axis:p3374-v_firmware:8.20.1:*:*:*:*:*:*:*,Axis Communications P3374-V Firmware 8.20.1,[''],2022-03-19T04:54Z
+8,cpe:2.3:o:axis:p3375-lv_firmware:8.20.1:*:*:*:*:*:*:*,Axis Communications P3375-LV Firmware 8.20.1,[''],2022-03-19T04:54Z
+9,cpe:2.3:o:axis:p3375-lve_firmware:8.20.1:*:*:*:*:*:*:*,Axis Communications P3375-LVE Firmware 8.20.1,[''],2022-03-19T04:54Z

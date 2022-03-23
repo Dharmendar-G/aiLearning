@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:universal_small_cell_firmware:r3.4_2.1:*:*:*:*:*:*:*,Cisco Universal Small Cell Firmware R3.4 2.1,['CVE-2016-1321'],2022-03-20T00:58Z
+1,cpe:2.3:o:cisco:universal_small_cell_firmware:r3.4_2.17:*:*:*:*:*:*:*,Cisco Universal Small Cell Firmware R3.4 2.17,['CVE-2016-1321'],2022-03-20T00:58Z
+2,cpe:2.3:o:cisco:universal_small_cell_firmware:r3.4_base:*:*:*:*:*:*:*,Cisco Universal Small Cell Firmware R3.4 BASE,['CVE-2016-1321'],2022-03-20T00:58Z
+3,cpe:2.3:o:cisco:universal_small_cell_firmware:r3.5_base:*:*:*:*:*:*:*,Cisco Universal Small Cell Firmware R3.5 BASE,['CVE-2016-1321'],2022-03-20T00:58Z
+4,cpe:2.3:o:cisco:universal_small_cell_series_firmware:-:*:*:*:*:*:*:*,Cisco Universal Small Cell Series Firmware,['CVE-2014-3307'],2022-03-20T00:58Z
+5,cpe:2.3:h:cisco:usc_6324:-:*:*:*:*:*:*:*,Cisco USC 6324,['CVE-2019-1728'],2022-03-20T00:58Z
+6,cpe:2.3:h:cisco:usc_6332-16up:-:*:*:*:*:*:*:*,Cisco USC 6332-16UP,['CVE-2019-1728'],2022-03-20T00:58Z
+7,cpe:2.3:a:cisco:user_registration_tool:-:*:*:*:*:*:*:*,Cisco User Registration Tool,['CVE-2006-1961'],2022-03-20T00:58Z
+8,cpe:2.3:a:cisco:vbond_orchestrator:-:*:*:*:*:*:*:*,Cisco vBond Orchestrator,"['CVE-2018-0342', 'CVE-2018-0343', 'CVE-2018-0344', 'CVE-2018-0345', 'CVE-2018-0346', 'CVE-2018-0347', 'CVE-2018-0348', 'CVE-2018-0349', 'CVE-2018-0350', 'CVE-2018-0351', 'CVE-2018-0433', 'CVE-2019-1646', 'CVE-2019-1648', 'CVE-2019-1650', 'CVE-2020-3379']",2022-03-20T00:58Z
+9,cpe:2.3:h:cisco:vc240_network_bullet_camera:-:*:*:*:*:*:*:*,Cisco VC240 Network Bullet Camera,['CVE-2012-3913'],2022-03-20T00:58Z

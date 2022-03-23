@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hostbillapp:hostbill:4.8.2:*:*:*:*:*:*:*,hostbillapp HostBill 4.8.2,['CVE-2013-7188'],2022-03-21T12:40Z
+1,cpe:2.3:a:hostbillapp:hostbill:4.8.4:*:*:*:*:*:*:*,hostbillapp HostBill 4.8.4,['CVE-2013-7188'],2022-03-21T12:40Z
+2,cpe:2.3:a:hostbillapp:hostbill:4.8.6:*:*:*:*:*:*:*,hostbillapp HostBill 4.8.6,['CVE-2013-7188'],2022-03-21T12:40Z
+3,cpe:2.3:a:hostbillapp:hostbill:4.8.8:*:*:*:*:*:*:*,hostbillapp HostBill 4.8.8,['CVE-2013-7188'],2022-03-21T12:40Z
+4,cpe:2.3:a:hostbillapp:hostbill:4.9.0:*:*:*:*:*:*:*,hostbillapp HostBill 4.9.0,['CVE-2013-7188'],2022-03-21T12:40Z
+5,cpe:2.3:a:hostbillapp:hostbill:4.9.2:*:*:*:*:*:*:*,hostbillapp HostBill 4.9.2,['CVE-2013-7188'],2022-03-21T12:40Z
+6,cpe:2.3:a:hostbillapp:hostbill:4.9.6:*:*:*:*:*:*:*,hostbillapp HostBill 4.9.6,['CVE-2013-7188'],2022-03-21T12:40Z
+7,cpe:2.3:a:hostbillapp:hostbill:4.9.8:*:*:*:*:*:*:*,hostbillapp HostBill 4.9.8,['CVE-2013-7188'],2022-03-21T12:40Z
+8,cpe:2.3:a:hostbillapp:hostbill:06-11-2013:*:*:*:*:*:*:*,hostbillapp HostBill 06-11-2013,['CVE-2013-7188'],2022-03-21T12:40Z
+9,cpe:2.3:a:hostbillapp:hostbill:06-12-2013:*:*:*:*:*:*:*,hostbillapp HostBill 06-12-2013,['CVE-2013-7188'],2022-03-21T12:40Z

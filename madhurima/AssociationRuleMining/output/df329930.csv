@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:webproxy:-:*:*:*:*:*:*:*,HP Webproxy,[''],2022-03-21T16:17Z
+1,cpe:2.3:a:hp:webproxy:2.0:*:*:*:*:*:*:*,HP Webproxy 2.0,['CVE-2004-0492'],2022-03-21T16:17Z
+2,cpe:2.3:a:hp:webproxy:2.1:*:*:*:*:*:*:*,HP Webproxy 2.1,['CVE-2004-0492'],2022-03-21T16:17Z
+3,cpe:2.3:a:hp:webproxy:a.02.00:*:*:*:*:*:*:*,HP Webproxy A.02.00,['CVE-2004-1082'],2022-03-21T16:17Z
+4,cpe:2.3:a:hp:webproxy:a.02.10:*:*:*:*:*:*:*,HP Webproxy A.02.10,['CVE-2004-1082'],2022-03-21T16:17Z
+5,cpe:2.3:a:hp:wireless_assistant:4.0.10.0:*:*:*:*:*:*:*,HP Wireless Assistant 4.0.10.0,[''],2022-03-21T16:17Z
+6,cpe:2.3:h:hp:wireless_barcode_scanner_e6p34aa:-:*:*:*:*:*:*:*,HP Wireless Barcode Scanner E6P34AA,['CVE-2014-7897'],2022-03-21T16:17Z
+7,cpe:2.3:a:hp:workload_manager:-:*:*:*:*:*:*:*,HP Workload Manager,[''],2022-03-21T16:17Z
+8,cpe:2.3:a:hp:workload_manager:a.02.01:*:*:*:*:*:*:*,HP Workload Manager A.02.01,['CVE-2004-1713'],2022-03-21T16:17Z
+9,cpe:2.3:h:hp:x3220nr_firmware:-:*:*:*:*:*:*:*,HP X3220NR Firmware,['CVE-2020-10136'],2022-03-21T16:17Z

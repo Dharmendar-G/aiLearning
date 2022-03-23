@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:django-unicorn:unicorn:0.7.0:*:*:*:*:django:*:*,Django-unicorn Unicorn 0.7.0 for Django,"['CVE-2021-42053', 'CVE-2021-42134']",2022-03-20T15:34Z
+1,cpe:2.3:a:django-unicorn:unicorn:0.7.1:*:*:*:*:django:*:*,Django-unicorn Unicorn 0.7.1 for Django,"['CVE-2021-42053', 'CVE-2021-42134']",2022-03-20T15:34Z
+2,cpe:2.3:a:django-unicorn:unicorn:0.8.0:*:*:*:*:django:*:*,Django-unicorn Unicorn 0.8.0 for Django,"['CVE-2021-42053', 'CVE-2021-42134']",2022-03-20T15:34Z
+3,cpe:2.3:a:django-unicorn:unicorn:0.9.0:*:*:*:*:django:*:*,Django-unicorn Unicorn 0.9.0 for Django,"['CVE-2021-42053', 'CVE-2021-42134']",2022-03-20T15:34Z
+4,cpe:2.3:a:django-unicorn:unicorn:0.9.1:*:*:*:*:django:*:*,Django-unicorn Unicorn 0.9.1 for Django,"['CVE-2021-42053', 'CVE-2021-42134']",2022-03-20T15:34Z
+5,cpe:2.3:a:django-unicorn:unicorn:0.9.2:*:*:*:*:django:*:*,Django-unicorn Unicorn 0.9.2 for Django,"['CVE-2021-42053', 'CVE-2021-42134']",2022-03-20T15:34Z
+6,cpe:2.3:a:django-unicorn:unicorn:0.9.3:*:*:*:*:django:*:*,Django-unicorn Unicorn 0.9.3 for Django,"['CVE-2021-42053', 'CVE-2021-42134']",2022-03-20T15:34Z
+7,cpe:2.3:a:django-unicorn:unicorn:0.9.4:*:*:*:*:django:*:*,Django-unicorn Unicorn 0.9.4 for Django,"['CVE-2021-42053', 'CVE-2021-42134']",2022-03-20T15:34Z
+8,cpe:2.3:a:django-unicorn:unicorn:0.10.0:*:*:*:*:django:*:*,Django-unicorn Unicorn 0.10.0 for Django,"['CVE-2021-42053', 'CVE-2021-42134']",2022-03-20T15:34Z
+9,cpe:2.3:a:django-unicorn:unicorn:0.10.1:*:*:*:*:django:*:*,Django-unicorn Unicorn 0.10.1 for Django,"['CVE-2021-42053', 'CVE-2021-42134']",2022-03-20T15:34Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:imanager_neteco:-:*:*:*:*:*:*:*,Huawei iManager NetEco,"['CVE-2019-9506', 'CVE-2021-37127']",2022-03-21T17:56Z
+1,cpe:2.3:h:huawei:imanager_neteco:v600r010c00cp2001:*:*:*:*:*:*:*,Huawei iManager NetEco V600r010c00cp2001,['CVE-2021-37131'],2022-03-21T17:56Z
+2,cpe:2.3:h:huawei:imanager_neteco:v600r010c00cp2002:*:*:*:*:*:*:*,Huawei iManager NetEco V600r010c00cp2002,['CVE-2021-37131'],2022-03-21T17:56Z
+3,cpe:2.3:h:huawei:imanager_neteco:v600r010c00cp3001:*:*:*:*:*:*:*,Huawei iManager NetEco V600r010c00cp3001,['CVE-2021-37131'],2022-03-21T17:56Z
+4,cpe:2.3:h:huawei:imanager_neteco:v600r010c00cp3002:*:*:*:*:*:*:*,Huawei iManager NetEco V600r010c00cp3002,['CVE-2021-37131'],2022-03-21T17:56Z
+5,cpe:2.3:h:huawei:imanager_neteco:v600r010c00cp3101:*:*:*:*:*:*:*,Huawei iManager NetEco V600r010c00cp3101,['CVE-2021-37131'],2022-03-21T17:56Z
+6,cpe:2.3:h:huawei:imanager_neteco:v600r010c00cp3102:*:*:*:*:*:*:*,Huawei iManager NetEco V600r010c00cp3102,['CVE-2021-37131'],2022-03-21T17:56Z
+7,cpe:2.3:h:huawei:imanager_neteco:v600r010c00spc100:*:*:*:*:*:*:*,Huawei iManager NetEco V600r010c00spc100,['CVE-2021-37131'],2022-03-21T17:56Z
+8,cpe:2.3:h:huawei:imanager_neteco:v600r010c00spc110:*:*:*:*:*:*:*,Huawei iManager NetEco V600r010c00spc110,['CVE-2021-37131'],2022-03-21T17:56Z
+9,cpe:2.3:h:huawei:imanager_neteco:v600r010c00spc120:*:*:*:*:*:*:*,Huawei iManager NetEco V600r010c00spc120,['CVE-2021-37131'],2022-03-21T17:56Z

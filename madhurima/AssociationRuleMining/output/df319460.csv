@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:aruba_clearpass_policy_manager:6.7.1:*:*:*:*:*:*:*,HP Aruba Clearpass Policy Manager 6.7.1,['CVE-2018-5390'],2022-03-21T12:55Z
+1,cpe:2.3:a:hp:aruba_clearpass_policy_manager:6.7.2:*:*:*:*:*:*:*,HP Aruba Clearpass Policy Manager 6.7.2,['CVE-2018-5390'],2022-03-21T12:55Z
+2,cpe:2.3:a:hp:aruba_clearpass_policy_manager:6.7.3:*:*:*:*:*:*:*,HP Aruba Clearpass Policy Manager 6.7.3,['CVE-2018-5390'],2022-03-21T12:55Z
+3,cpe:2.3:a:hp:aruba_clearpass_policy_manager:6.7.4:*:*:*:*:*:*:*,HP Aruba Clearpass Policy Manager 6.7.4,['CVE-2018-5390'],2022-03-21T12:55Z
+4,cpe:2.3:a:hp:aruba_clearpass_policy_manager:6.7.5:*:*:*:*:*:*:*,HP Aruba Clearpass Policy Manager 6.7.5,['CVE-2018-5390'],2022-03-21T12:55Z
+5,cpe:2.3:a:hp:aruba_clearpass_policy_manager:6.7.6:*:*:*:*:*:*:*,HP Aruba Clearpass Policy Manager 6.7.6,[''],2022-03-21T12:55Z
+6,cpe:2.3:a:hp:aruba_clearpass_policy_manager:6.9:*:*:*:*:*:*:*,HP Aruba ClearPass Policy Manager 6.9,[''],2022-03-21T12:55Z
+7,cpe:2.3:o:hp:arubaos:-:*:*:*:*:*:*:*,HP ArubaOS,"['CVE-2017-9000', 'CVE-2017-9003']",2022-03-21T12:55Z
+8,cpe:2.3:o:hp:arubaos:2.4:*:*:*:*:*:*:*,HP ArubaOS 2.4,['CVE-2017-9000'],2022-03-21T12:55Z
+9,cpe:2.3:o:hp:arubaos:2.4.8.0:*:*:*:*:*:*:*,HP ArubaOS 2.4.8.0,['CVE-2017-9000'],2022-03-21T12:55Z

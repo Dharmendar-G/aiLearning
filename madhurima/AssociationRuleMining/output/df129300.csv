@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:meeting_server:2.3.0:*:*:*:*:*:*:*,Cisco Meeting Server 2.3.0,"['CVE-2017-12264', 'CVE-2017-12311', 'CVE-2018-0263', 'CVE-2018-0359', 'CVE-2018-0439', 'CVE-2019-1623', 'CVE-2019-1676', 'CVE-2020-3160', 'CVE-2020-3197', 'CVE-2021-40122']",2022-03-19T22:53Z
+1,cpe:2.3:a:cisco:meeting_server:2.3.1:*:*:*:*:*:*:*,Cisco Meeting Server 2.3.1,"['CVE-2017-12264', 'CVE-2018-0263', 'CVE-2019-1623', 'CVE-2019-1676', 'CVE-2020-3160', 'CVE-2020-3197', 'CVE-2021-40122']",2022-03-19T22:53Z
+2,cpe:2.3:a:cisco:meeting_server:2.3.2:*:*:*:*:*:*:*,Cisco Meeting Server 2.3.2,"['CVE-2017-12264', 'CVE-2018-0263', 'CVE-2019-1623', 'CVE-2019-1676', 'CVE-2020-3160', 'CVE-2020-3197', 'CVE-2021-40122']",2022-03-19T22:53Z
+3,cpe:2.3:a:cisco:meeting_server:2.3.3:*:*:*:*:*:*:*,Cisco Meeting Server 2.3.3,"['CVE-2017-12264', 'CVE-2018-0263', 'CVE-2019-1623', 'CVE-2019-1676', 'CVE-2020-3160', 'CVE-2020-3197', 'CVE-2021-40122']",2022-03-19T22:53Z
+4,cpe:2.3:a:cisco:meeting_server:2.3.4:*:*:*:*:*:*:*,Cisco Meeting Server 2.3.4,"['CVE-2017-12264', 'CVE-2019-1623', 'CVE-2019-1676', 'CVE-2020-3160', 'CVE-2020-3197', 'CVE-2021-40122']",2022-03-19T22:53Z
+5,cpe:2.3:a:cisco:meeting_server:2.3.5:*:*:*:*:*:*:*,Cisco Meeting Server 2.3.5,"['CVE-2017-12264', 'CVE-2019-1623', 'CVE-2019-1676', 'CVE-2020-3160', 'CVE-2020-3197', 'CVE-2021-40122']",2022-03-19T22:53Z
+6,cpe:2.3:a:cisco:meeting_server:2.3.6:*:*:*:*:*:*:*,Cisco Meeting Server 2.3.6,"['CVE-2017-12264', 'CVE-2019-1623', 'CVE-2019-1676', 'CVE-2019-1678', 'CVE-2020-3160', 'CVE-2020-3197', 'CVE-2021-40122']",2022-03-19T22:53Z
+7,cpe:2.3:a:cisco:meeting_server:2.3.7:*:*:*:*:*:*:*,Cisco Meeting Server 2.3.7,"['CVE-2017-12264', 'CVE-2019-1623', 'CVE-2019-1676', 'CVE-2020-3160', 'CVE-2020-3197', 'CVE-2021-40122']",2022-03-19T22:53Z
+8,cpe:2.3:a:cisco:meeting_server:2.3.8:*:*:*:*:*:*:*,Cisco Meeting Server 2.3.8,"['CVE-2017-12264', 'CVE-2019-1676', 'CVE-2020-3160', 'CVE-2020-3197', 'CVE-2021-40122']",2022-03-19T22:53Z
+9,cpe:2.3:a:cisco:meeting_server:2.3.9:*:*:*:*:*:*:*,Cisco Meeting Server 2.3.9,"['CVE-2017-12264', 'CVE-2020-3160', 'CVE-2020-3197', 'CVE-2021-40122']",2022-03-19T22:53Z

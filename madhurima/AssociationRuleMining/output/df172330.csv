@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dart:powertcp_webserver_for_activex:1.9.1.0:*:*:*:*:*:*:*,Dart PowerTCP WebServer for ActiveX 1.9.1.0,['CVE-2012-5389'],2022-03-20T10:20Z
+1,cpe:2.3:a:dart:powertcp_webserver_for_activex:1.9.2:*:*:*:*:*:*:*,Dart PowerTCP WebServer for ActiveX 1.9.2,['CVE-2012-5389'],2022-03-20T10:20Z
+2,cpe:2.3:a:dart:powertcp_webserver_for_activex:1.9.4.0:*:*:*:*:*:*:*,Dart PowerTCP WebServer for ActiveX 1.9.4.0,[''],2022-03-20T10:20Z
+3,cpe:2.3:a:dart:powertcp_webserver_for_activex:1.9.5.0:*:*:*:*:*:*:*,Dart PowerTCP WebServer for ActiveX 1.9.5.0,[''],2022-03-20T10:20Z
+4,cpe:2.3:a:dart:powertcp_zip_compression:1.8.5.3:*:*:*:*:*:*:*,Dart Communications PowerTCP ZIP Compression 1.8.5.3,['CVE-2007-2856'],2022-03-20T10:20Z
+5,cpe:2.3:a:darwin:factor:0.0.3:*:*:*:*:node.js:*:*,Darwin Factor 0.0.3 for Node.js,[''],2022-03-20T10:20Z
+6,cpe:2.3:a:darwin:factor:0.0.4:*:*:*:*:node.js:*:*,Darwin Factor 0.0.4 for Node.js,[''],2022-03-20T10:20Z
+7,cpe:2.3:a:darwin:factor:0.0.5:*:*:*:*:node.js:*:*,Darwin Factor 0.0.5 for Node.js,[''],2022-03-20T10:20Z
+8,cpe:2.3:a:darwin:factor:0.0.6:*:*:*:*:node.js:*:*,Darwin Factor 0.0.6 for Node.js,[''],2022-03-20T10:20Z
+9,cpe:2.3:a:darwin:factor:0.0.7:*:*:*:*:node.js:*:*,Darwin Factor 0.0.7 for Node.js,[''],2022-03-20T10:20Z

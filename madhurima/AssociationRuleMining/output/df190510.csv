@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:d-link:dsp-w215_firmware:1.01:b06:*:*:*:*:*:*,D-LINK DSP-W215 firmware 1.01 b06,['CVE-2014-3936'],2022-03-20T16:04Z
+1,cpe:2.3:o:d-link:dsp-w215_firmware:1.26b03:*:*:*:*:*:*:*,D-LINK DSP-W215 Firmware 1.26b03,"['CVE-2020-13135', 'CVE-2020-13136']",2022-03-20T16:04Z
+2,cpe:2.3:h:d-link:dsr-1000:-:*:*:*:*:*:*:*,D-Link DSR 1000,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:04Z
+3,cpe:2.3:o:d-link:dsr-1000_firmware:1.01b50:*:*:*:*:*:*:*,D-Link DSR 1000 Firmware 1.01b50,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:04Z
+4,cpe:2.3:o:d-link:dsr-1000_firmware:1.02b11:*:*:*:*:*:*:*,D-Link DSR 1000 Firmware 1.02b11,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:04Z
+5,cpe:2.3:o:d-link:dsr-1000_firmware:1.02b25:*:*:*:*:*:*:*,D-Link DSR 1000 Firmware 1.02b25,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:04Z
+6,cpe:2.3:o:d-link:dsr-1000_firmware:1.03b12:*:*:*:*:*:*:*,D-Link DSR 1000 Firmware 1.03b12,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:04Z
+7,cpe:2.3:o:d-link:dsr-1000_firmware:1.03b23:*:*:*:*:*:*:*,D-Link DSR 1000 Firmware 1.03b23,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:04Z
+8,cpe:2.3:o:d-link:dsr-1000_firmware:1.03b27:*:*:*:*:*:*:*,D-Link DSR 1000 Firmware 1.03b27,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:04Z
+9,cpe:2.3:o:d-link:dsr-1000_firmware:1.03b36:*:*:*:*:*:*:*,D-Link DSR 1000 Firmware 1.03b36,"['CVE-2013-5946', 'CVE-2013-7004', 'CVE-2013-7005']",2022-03-20T16:04Z

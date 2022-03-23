@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:datto:siris_3:-:*:*:*:*:*:*:*,Datto Siris 3,"['CVE-2015-2081', 'CVE-2015-9254', 'CVE-2015-9255', 'CVE-2015-9256']",2022-03-20T10:54Z
+1,cpe:2.3:o:datto:siris_3_firmware:-:*:*:*:*:*:*:*,Datto Siris 3 Firmware,"['CVE-2015-2081', 'CVE-2015-9254', 'CVE-2015-9255', 'CVE-2015-9256']",2022-03-20T10:54Z
+2,cpe:2.3:h:datto:siris_virtual:-:*:*:*:*:*:*:*,Datto Siris Virtual,"['CVE-2015-2081', 'CVE-2015-9254', 'CVE-2015-9255', 'CVE-2015-9256']",2022-03-20T10:54Z
+3,cpe:2.3:o:datto:siris_virtual_firmware:-:*:*:*:*:*:*:*,Datto Siris Virtual Firmware,"['CVE-2015-2081', 'CVE-2015-9254', 'CVE-2015-9255', 'CVE-2015-9256']",2022-03-20T10:54Z
+4,cpe:2.3:a:datto:windows_agent:1.0.5.0:*:*:*:*:*:*:*,Datto Windows Agent 1.0.5.0,['CVE-2017-16674'],2022-03-20T10:54Z
+5,cpe:2.3:a:datto:windows_agent:2.0:*:*:*:*:*:*:*,Datto Windows Agent 2.0,[''],2022-03-20T10:54Z
+6,cpe:2.3:a:datto:windows_agent:2.1:*:*:*:*:*:*:*,Datto Windows Agent 2.1,[''],2022-03-20T10:54Z
+7,cpe:2.3:a:datto:windows_agent:2.2:*:*:*:*:*:*:*,Datto Windows Agent 2.2,[''],2022-03-20T10:54Z
+8,cpe:2.3:o:datumsystems:snip:-:*:*:*:*:*:psm-4500:*,Datum Systems SnIP operating system for PSM-4500 devices,"['CVE-2014-2950', 'CVE-2014-2951']",2022-03-20T10:54Z
+9,cpe:2.3:o:datumsystems:snip:-:*:*:*:*:*:psm-500:*,Datum Systems SnIP operating system for PSM-500 devices,"['CVE-2014-2950', 'CVE-2014-2951']",2022-03-20T10:55Z

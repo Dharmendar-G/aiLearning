@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:aci_multi-site_orchestrator:3.2\(1f\):*:*:*:*:*:*:*,Cisco ACI Multi-Site Orchestrator 3.2(1f),[''],2022-03-19T17:53Z
+1,cpe:2.3:a:cisco:aci_multi-site_orchestrator:3.3\(1e\):*:*:*:*:*:*:*,Cisco ACI Multi-Site Orchestrator 3.3(1e),[''],2022-03-19T17:53Z
+2,cpe:2.3:a:cisco:acs_for_windows:-:*:*:*:*:*:*:*,Cisco ACS for Windows,"['CVE-2008-0532', 'CVE-2008-0533']",2022-03-19T17:53Z
+3,cpe:2.3:a:cisco:acs_for_windows:4.1:*:*:*:*:*:*:*,Cisco ACS for Windows 4.1,"['CVE-2008-0532', 'CVE-2008-0533']",2022-03-19T17:53Z
+4,cpe:2.3:a:cisco:acs_solution_engine:-:*:*:*:*:*:*:*,Cisco ACS Solution Engine,"['CVE-2008-0532', 'CVE-2008-0533']",2022-03-19T17:54Z
+5,cpe:2.3:a:cisco:acs_solution_engine:4.1:*:*:*:*:*:*:*,Cisco ACS Solution Engine 4.1,"['CVE-2007-1467', 'CVE-2008-0532', 'CVE-2008-0533']",2022-03-19T17:53Z
+6,cpe:2.3:a:cisco:activetouch_general_plugin_container:105:*:*:*:*:firefox:*:*,Cisco Activetouch General Plugin Container 105 for Firefox,['CVE-2017-3823'],2022-03-19T17:54Z
+7,cpe:2.3:h:cisco:adaptive_security_appliance:-:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance,"['CVE-2006-4312', 'CVE-2009-1201', 'CVE-2009-1202', 'CVE-2009-1203', 'CVE-2009-2631', 'CVE-2012-4629', 'CVE-2012-5415', 'CVE-2012-5717', 'CVE-2012-6395', 'CVE-2013-1138', 'CVE-2013-1150', 'CVE-2013-1152', 'CVE-2013-1194', 'CVE-2013-1199', 'CVE-2013-3414', 'CVE-2013-3458', 'CVE-2013-3463', 'CVE-2013-6696', 'CVE-2014-0653', 'CVE-2014-0655', 'CVE-2016-1385', 'CVE-2017-3867']",2022-03-19T17:54Z
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

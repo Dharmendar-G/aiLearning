@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:asr_5000_series:20.2.12:*:*:*:*:*:*:*,Cisco ASR 5000 Series 20.2.12,[''],2022-03-19T18:38Z
+1,cpe:2.3:a:cisco:asr_5000_series:20.2_base:*:*:*:*:*:*:*,Cisco ASR 5000 Series 20.2 Base,[''],2022-03-19T18:38Z
+2,cpe:2.3:a:cisco:asr_5000_series:21.0.0:*:*:*:*:*:*:*,Cisco ASR 5000 Series 21.0.0,[''],2022-03-19T18:39Z
+3,cpe:2.3:a:cisco:asr_5000_series:21.0.v0.65839:*:*:*:*:*:*:*,Cisco ASR 5000 Series 21.0.v0.65839,[''],2022-03-19T18:39Z
+4,cpe:2.3:a:cisco:asr_5000_series:21.0.v1:*:*:*:*:*:*:*,Cisco ASR 5000 Series 21.0.v1,[''],2022-03-19T18:39Z
+5,cpe:2.3:a:cisco:asr_5000_series:21.0_base:*:*:*:*:*:*:*,Cisco ASR 5000 Series 21.0 Base,[''],2022-03-19T18:39Z
+6,cpe:2.3:a:cisco:asr_5000_series:21.0_m0.64246:*:*:*:*:*:*:*,Cisco ASR 5000 Series 21.0 M0.64246,[''],2022-03-19T18:39Z
+7,cpe:2.3:a:cisco:asr_5000_series:21.0_m0.64702:*:*:*:*:*:*:*,Cisco ASR 5000 Series 21.0 M0.64702,[''],2022-03-19T18:39Z
+8,cpe:2.3:a:cisco:asr_5000_series:21.3.m0.67005:*:*:*:*:*:*:*,Cisco ASR 5000 Series 21.3.m0.67005,[''],2022-03-19T18:39Z
+9,cpe:2.3:a:cisco:asr_5000_series_software:-:*:*:*:*:*:*:*,Cisco ASR 5000 Series Software,"['CVE-2014-0669', 'CVE-2015-0617']",2022-03-19T18:39Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:rave:0.14:*:*:*:*:*:*:*,Apache Software Foundation Rave 0.14,['CVE-2013-1814'],2022-03-18T19:57Z
+1,cpe:2.3:a:apache:rave:0.15:*:*:*:*:*:*:*,Apache Software Foundation Rave 0.15,['CVE-2013-1814'],2022-03-18T19:56Z
+2,cpe:2.3:a:apache:rave:0.16:*:*:*:*:*:*:*,Apache Software Foundation Rave 0.16,['CVE-2013-1814'],2022-03-18T19:57Z
+3,cpe:2.3:a:apache:rave:0.17:*:*:*:*:*:*:*,Apache Software Foundation Rave 0.17,['CVE-2013-1814'],2022-03-18T19:57Z
+4,cpe:2.3:a:apache:rave:0.18:*:*:*:*:*:*:*,Apache Software Foundation Rave 0.18,['CVE-2013-1814'],2022-03-18T19:57Z
+5,cpe:2.3:a:apache:rave:0.19:*:*:*:*:*:*:*,Apache Software Foundation Rave 0.19,['CVE-2013-1814'],2022-03-18T19:57Z
+6,cpe:2.3:a:apache:rave:0.20:*:*:*:*:*:*:*,Apache Software Foundation Rave 0.20,['CVE-2013-1814'],2022-03-18T19:57Z
+7,cpe:2.3:a:apache:rocketmq:4.2.0:*:*:*:*:*:*:*,Apache Software Foundation RocketMQ 4.2.0,['CVE-2019-17572'],2022-03-18T19:57Z
+8,cpe:2.3:a:apache:rocketmq:4.6.0:*:*:*:*:*:*:*,Apache Software Foundation RocketMQ 4.6.0,['CVE-2019-17572'],2022-03-18T19:57Z
+9,cpe:2.3:a:apache:roller:0.9.5:*:*:*:*:*:*:*,Apache Software Foundation  Roller 0.9.5,"['CVE-2012-2380', 'CVE-2012-2381', 'CVE-2013-4171', 'CVE-2013-4212', 'CVE-2018-17198', 'CVE-2021-33580']",2022-03-18T19:57Z

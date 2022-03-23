@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloud_foundry:bits_service:2.8.0:dev15:*:*:*:*:*:*,Cloud Foundry Bits Service 2.8.0 Dev15,['CVE-2018-15800'],2022-03-20T02:38Z
+1,cpe:2.3:a:cloud_foundry:bits_service:2.8.0:dev16:*:*:*:*:*:*,Cloud Foundry Bits Service 2.8.0 Dev16,['CVE-2018-15800'],2022-03-20T02:39Z
+2,cpe:2.3:a:cloud_foundry:bits_service:2.8.0:dev17:*:*:*:*:*:*,Cloud Foundry Bits Service 2.8.0 Dev17,['CVE-2018-15800'],2022-03-20T02:39Z
+3,cpe:2.3:a:cloud_foundry:bits_service:2.8.0:dev18:*:*:*:*:*:*,Cloud Foundry Bits Service 2.8.0 Dev18,['CVE-2018-15800'],2022-03-20T02:39Z
+4,cpe:2.3:a:cloud_foundry:bits_service:2.8.0:dev19:*:*:*:*:*:*,Cloud Foundry Bits Service 2.8.0 Dev19,['CVE-2018-15800'],2022-03-20T02:39Z
+5,cpe:2.3:a:cloud_foundry:bits_service:2.8.0:dev3:*:*:*:*:*:*,Cloud Foundry Bits Service 2.8.0 Dev3,['CVE-2018-15800'],2022-03-20T02:39Z
+6,cpe:2.3:a:cloud_foundry:bits_service:2.8.0:dev4:*:*:*:*:*:*,Cloud Foundry Bits Service 2.8.0 Dev4,['CVE-2018-15800'],2022-03-20T02:39Z
+7,cpe:2.3:a:cloud_foundry:bits_service:2.8.0:dev5:*:*:*:*:*:*,Cloud Foundry Bits Service 2.8.0 Dev5,['CVE-2018-15800'],2022-03-20T02:39Z
+8,cpe:2.3:a:cloud_foundry:bits_service:2.8.0:dev6:*:*:*:*:*:*,Cloud Foundry Bits Service 2.8.0 Dev6,['CVE-2018-15800'],2022-03-20T02:39Z
+9,cpe:2.3:a:cloud_foundry:bits_service:2.8.0:dev7:*:*:*:*:*:*,Cloud Foundry Bits Service 2.8.0 Dev7,['CVE-2018-15800'],2022-03-20T02:39Z

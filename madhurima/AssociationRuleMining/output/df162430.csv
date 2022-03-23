@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:count_per_day_project:count_per_day:2.3.1:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 2.3.1 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:09Z
+1,cpe:2.3:a:count_per_day_project:count_per_day:2.4:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 2.4 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:09Z
+2,cpe:2.3:a:count_per_day_project:count_per_day:2.4.2:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 2.4.2 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:09Z
+3,cpe:2.3:a:count_per_day_project:count_per_day:2.5:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 2.5 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:09Z
+4,cpe:2.3:a:count_per_day_project:count_per_day:2.6:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 2.6 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:09Z
+5,cpe:2.3:a:count_per_day_project:count_per_day:2.7:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 2.7 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:09Z
+6,cpe:2.3:a:count_per_day_project:count_per_day:2.8:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 2.8 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:09Z
+7,cpe:2.3:a:count_per_day_project:count_per_day:2.9:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 2.9 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:09Z
+8,cpe:2.3:a:count_per_day_project:count_per_day:2.10:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 2.10 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:09Z
+9,cpe:2.3:a:count_per_day_project:count_per_day:2.10.1:*:*:*:*:wordpress:*:*,Count Per Day Project Count Per Day 2.10.1 for WordPress,"['CVE-2012-6714', 'CVE-2013-7472', 'CVE-2015-5533']",2022-03-20T08:09Z

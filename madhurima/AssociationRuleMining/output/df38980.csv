@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:apc:smart-ups_2200:-:*:*:*:*:*:*:*,APC Smart-UPS 2200,[''],2022-03-18T21:05Z
+1,cpe:2.3:a:apc:switched_rack_pdu_firmware:-:*:*:*:*:*:*:*,APC Rack Power Distribution Unit,[''],2022-03-18T21:05Z
+2,cpe:2.3:a:apc:switched_rack_pdu_firmware:3.5.5:*:*:*:*:*:*:*,APC Rack Power Distribution Unit 3.5.5,['CVE-2007-6226'],2022-03-18T21:05Z
+3,cpe:2.3:a:apcupsd:apc_ups_daemon:3.14.14:*:*:*:*:*:*:*,Apcupsd APC UPS Daemon 3.14.14,['CVE-2017-7884'],2022-03-18T21:05Z
+4,cpe:2.3:a:apcupsd:apcupsd:0.3.91_5:*:*:*:*:*:*:*,Apcupsd 0.3.91 5,"['CVE-2003-0098', 'CVE-2019-12584', 'CVE-2019-12585']",2022-03-18T21:05Z
+5,cpe:2.3:a:apcupsd:apcupsd:3.8.5:*:*:*:*:*:*:*,APC UPS Daemon (apcupsd) 3.8.5,['CVE-2003-0098'],2022-03-18T21:05Z
+6,cpe:2.3:a:apcupsd:apcupsd:3.8.6:*:*:*:*:*:*:*,APC UPS Daemon (apcupsd) 3.8.6,[''],2022-03-18T21:05Z
+7,cpe:2.3:a:apcupsd:apcupsd:3.9.9:*:*:*:*:*:*:*,APC UPS Daemon (apcupsd) 3.9.9,[''],2022-03-18T21:05Z
+8,cpe:2.3:a:apcupsd:apcupsd:3.10.0:*:*:*:*:*:*:*,APC UPS Daemon (apcupsd) 3.10.0,['CVE-2003-0098'],2022-03-18T21:05Z
+9,cpe:2.3:a:apcupsd:apcupsd:3.10.1:*:*:*:*:*:*:*,APC UPS Daemon (apcupsd) 3.10.1,['CVE-2003-0098'],2022-03-18T21:05Z

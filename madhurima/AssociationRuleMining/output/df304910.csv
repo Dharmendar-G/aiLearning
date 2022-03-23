@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:happyworm:jplayer:2.2.20:*:*:*:*:*:*:*,Happyworm jPlayer 2.2.20,"['CVE-2013-2022', 'CVE-2013-2023']",2022-03-21T09:11Z
+1,cpe:2.3:a:happyworm:jplayer:2.2.21:*:*:*:*:*:*:*,Happyworm jPlayer 2.2.21,"['CVE-2013-2022', 'CVE-2013-2023']",2022-03-21T09:11Z
+2,cpe:2.3:a:happyworm:jplayer:2.2.22:*:*:*:*:*:*:*,Happyworm jPlayer 2.2.22,"['CVE-2013-2022', 'CVE-2013-2023']",2022-03-21T09:11Z
+3,cpe:2.3:a:happyworm:jplayer:2.2.23:*:*:*:*:*:*:*,Happyworm jPlayer 2.2.23,['CVE-2013-2023'],2022-03-21T09:11Z
+4,cpe:2.3:a:happyworm:jplayer:2.2.24:*:*:*:*:*:*:*,Happyworm jPlayer 2.2.24,['CVE-2013-2023'],2022-03-21T09:11Z
+5,cpe:2.3:a:happyworm:jplayer:2.2.25:*:*:*:*:*:*:*,Happyworm jPlayer 2.2.25,['CVE-2013-2023'],2022-03-21T09:11Z
+6,cpe:2.3:a:happyworm:jplayer:2.3.0:*:*:*:*:*:*:*,Happyworm jPlayer 2.3.0,['CVE-2013-2023'],2022-03-21T09:11Z
+7,cpe:2.3:a:happyworm:jplayer:2.3.1:*:*:*:*:*:*:*,Happyworm jPlayer 2.3.1,[''],2022-03-21T09:11Z
+8,cpe:2.3:a:happyworm:jplayer:2.3.2:*:*:*:*:*:*:*,Happyworm jPlayer 2.3.2,[''],2022-03-21T09:11Z
+9,cpe:2.3:a:happyworm:jplayer:2.3.3:*:*:*:*:*:*:*,Happyworm jPlayer 2.3.3,[''],2022-03-21T09:11Z

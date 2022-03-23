@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:danielb:finder:7.x-2.0:alpha6:*:*:*:*:*:*,danielb Finder module for Drupal 7.x-2.0-alpha6,"['CVE-2012-1561', 'CVE-2012-1641', 'CVE-2012-6645']",2022-03-20T10:04Z
+1,cpe:2.3:a:danielb:finder:7.x-2.x:dev:*:*:*:*:*:*,danielb Finder module for Drupal 7.x-2.x-dev,"['CVE-2012-1561', 'CVE-2012-1641', 'CVE-2012-6645']",2022-03-20T10:04Z
+2,cpe:2.3:a:danielkorte:nodeaccesskeys:7.x-1.0:*:*:*:*:drupal:*:*,danielkorte Node Access Keys module (nodeaccesskeys) for Drupal 7.x-1.0,['CVE-2013-4596'],2022-03-20T10:04Z
+3,cpe:2.3:a:danielkorte:nodeaccesskeys:7.x-1.1:*:*:*:*:drupal:*:*,danielkorte Node Access Keys module (nodeaccesskeys) for Drupal 7.x-1.1,[''],2022-03-20T10:04Z
+4,cpe:2.3:a:danneo:danneo_cms:1.5.0:-:*:*:*:*:*:*,Danneo CMS 1.5.0,[''],2022-03-20T10:04Z
+5,cpe:2.3:a:danneo:danneo_cms:1.5.0:beta1:*:*:*:*:*:*,Danneo CMS 1.5.0 Beta 1,[''],2022-03-20T10:04Z
+6,cpe:2.3:a:danneo:danneo_cms:1.5.0:beta2:*:*:*:*:*:*,Danneo CMS 1.5.0 Beta 2,[''],2022-03-20T10:04Z
+7,cpe:2.3:a:danneo:danneo_cms:1.5.0:beta3:*:*:*:*:*:*,Danneo CMS 1.5.0 Beta 3,[''],2022-03-20T10:04Z
+8,cpe:2.3:a:danneo:danneo_cms:1.5.0:patch1:*:*:*:*:*:*,Danneo CMS 1.5.0 Patch 1,[''],2022-03-20T10:04Z
+9,cpe:2.3:a:danneo:danneo_cms:1.5.0:patch2:*:*:*:*:*:*,Danneo CMS 1.5.0 Patch 2,[''],2022-03-20T10:04Z

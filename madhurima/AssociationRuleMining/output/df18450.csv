@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alchemy-cms:alchemy_cms:4.0.0:rc2:*:*:*:*:*:*,AlchemyCMS 4.0.0 Release Candidate 2,[''],2022-03-18T14:32Z
+1,cpe:2.3:a:alchemy-cms:alchemy_cms:4.0.1:*:*:*:*:*:*:*,AlchemyCMS 4.0.1,[''],2022-03-18T14:32Z
+2,cpe:2.3:a:alchemy-cms:alchemy_cms:4.0.2:*:*:*:*:*:*:*,AlchemyCMS 4.0.2,[''],2022-03-18T14:32Z
+3,cpe:2.3:a:alchemy-cms:alchemy_cms:4.0.3:*:*:*:*:*:*:*,AlchemyCMS 4.0.3,[''],2022-03-18T14:32Z
+4,cpe:2.3:a:alchemy-cms:alchemy_cms:4.0.4:*:*:*:*:*:*:*,AlchemyCMS 4.0.4,[''],2022-03-18T14:32Z
+5,cpe:2.3:a:alchemy-cms:alchemy_cms:4.0.5:*:*:*:*:*:*:*,AlchemyCMS 4.0.5,[''],2022-03-18T14:32Z
+6,cpe:2.3:a:alchemy-cms:alchemy_cms:4.1.0:*:*:*:*:*:*:*,AlchemyCMS 4.1.0,['CVE-2018-18307'],2022-03-18T14:32Z
+7,cpe:2.3:a:alchemy-cms:alchemy_cms:4.2.0:*:*:*:*:*:*:*,AlchemyCMS 4.2.0,[''],2022-03-18T14:32Z
+8,cpe:2.3:a:aldostools:aldo\'s_web_server:1.5:*:*:*:*:*:*:*,Aldostools Aldo's Web Server (AWeb) 1.5,['CVE-2004-1991'],2022-03-18T14:32Z
+9,cpe:2.3:h:alecto:dvc-215ip:-:*:*:*:*:*:*:*,Alecto DVC-215IP,['CVE-2022-24610'],2022-03-18T14:32Z

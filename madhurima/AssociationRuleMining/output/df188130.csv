@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:divisait:dv2eemvc:20.0.13:*:*:*:*:*:*:*,Divisa iT dv2eemvc 20.0.13,[''],2022-03-20T15:18Z
+1,cpe:2.3:a:divisait:proxia_phr:-:*:*:*:*:*:*:*,Divisa iT Proxia PHR,[''],2022-03-20T15:18Z
+2,cpe:2.3:a:divisait:proxia_phr:1.0:*:*:*:*:*:*:*,Divisa iT Proxia PHR 1.0,['CVE-2019-18956'],2022-03-20T15:18Z
+3,cpe:2.3:a:divisait:proxia_phr:1.0.30:*:*:*:*:*:*:*,Divisa iT Proxia PHR 1.0.30,[''],2022-03-20T15:18Z
+4,cpe:2.3:a:divisait:proxia_phr:1.1:*:*:*:*:*:*:*,Divisa iT Proxia PHR 1.1,['CVE-2019-18956'],2022-03-20T15:18Z
+5,cpe:2.3:a:divisait:proxia_phr:1.1.2:*:*:*:*:*:*:*,Divisa iT Proxia PHR 1.1.2,[''],2022-03-20T15:19Z
+6,cpe:2.3:a:divisait:proxia_suite:-:*:*:*:*:*:*:*,Divisa iT Proxia Suite,[''],2022-03-20T15:19Z
+7,cpe:2.3:a:divisait:proxia_suite:9.0:*:*:*:*:*:*:*,Divisa iT Proxia Suite 9.0,['CVE-2019-18956'],2022-03-20T15:19Z
+8,cpe:2.3:a:divisait:proxia_suite:9.7.10:*:*:*:*:*:*:*,Divisa iT Proxia Suite 9.7.10,['CVE-2019-18956'],2022-03-20T15:19Z
+9,cpe:2.3:a:divisait:proxia_suite:9.8.43:*:*:*:*:*:*:*,Divisa iT Proxia Suite 9.8.43,['CVE-2019-18956'],2022-03-20T15:19Z

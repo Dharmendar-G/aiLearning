@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:designmodo:wp_maintenance_mode:2.0.4:*:*:*:*:wordpress:*:*,Designmodo WP Maintenance Mode 2.0.4 for WordPress,"['CVE-2018-20154', 'CVE-2018-20155', 'CVE-2018-20156']",2022-03-20T13:36Z
+1,cpe:2.3:a:designmodo:wp_maintenance_mode:2.0.5:*:*:*:*:wordpress:*:*,Designmodo WP Maintenance Mode 2.0.5 for WordPress,"['CVE-2018-20154', 'CVE-2018-20155', 'CVE-2018-20156']",2022-03-20T13:36Z
+2,cpe:2.3:a:designmodo:wp_maintenance_mode:2.0.6:*:*:*:*:wordpress:*:*,Designmodo WP Maintenance Mode 2.0.6 for WordPress,"['CVE-2018-20154', 'CVE-2018-20155', 'CVE-2018-20156']",2022-03-20T13:36Z
+3,cpe:2.3:a:designmodo:wp_maintenance_mode:2.0.7:*:*:*:*:wordpress:*:*,Designmodo WP Maintenance Mode 2.0.7 for WordPress,[''],2022-03-20T13:36Z
+4,cpe:2.3:a:designmodo:wp_maintenance_mode:2.0.8:*:*:*:*:wordpress:*:*,Designmodo WP Maintenance Mode 2.0.8 for WordPress,[''],2022-03-20T13:36Z
+5,cpe:2.3:a:designmodo:wp_maintenance_mode:2.0.9:*:*:*:*:wordpress:*:*,Designmodo WP Maintenance Mode 2.0.9 for WordPress,[''],2022-03-20T13:36Z
+6,cpe:2.3:a:designmodo:wp_maintenance_mode:2.1:*:*:*:*:wordpress:*:*,Designmodo WP Maintenance Mode 2.1 for WordPress,[''],2022-03-20T13:36Z
+7,cpe:2.3:a:designmodo:wp_maintenance_mode:2.1.1:*:*:*:*:wordpress:*:*,Designmodo WP Maintenance Mode 2.1.1 for WordPress,[''],2022-03-20T13:36Z
+8,cpe:2.3:a:designmodo:wp_maintenance_mode:2.1.2:*:*:*:*:wordpress:*:*,Designmodo WP Maintenance Mode 2.1.2 for WordPress,[''],2022-03-20T13:36Z
+9,cpe:2.3:a:designmodo:wp_maintenance_mode:2.2:*:*:*:*:wordpress:*:*,Designmodo WP Maintenance Mode 2.2 for WordPress,[''],2022-03-20T13:36Z

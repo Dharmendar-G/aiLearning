@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:business_service_management:9.25:p1:*:*:*:*:*:*,HP Business Service Management (BSM) 9.25 Patch 1,"['CVE-2015-3269', 'CVE-2016-4392', 'CVE-2016-4405']",2022-03-21T12:58Z
+1,cpe:2.3:a:hp:business_service_management:9.26:*:*:*:*:*:*:*,HP Business Service Management (BSM) 9.26,"['CVE-2015-3269', 'CVE-2016-4405']",2022-03-21T12:58Z
+2,cpe:2.3:a:hp:button_manager:1.6.0.0:*:*:*:*:*:*:*,HP Button Manager 1.6.0.0,[''],2022-03-21T12:58Z
+3,cpe:2.3:h:hp:c2s11a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise C2S11A,"['CVE-2016-2244', 'CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:58Z
+4,cpe:2.3:o:hp:c2s11a_firmware:-:*:*:*:*:*:*:*,HP C2S11A Firmware,"['CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:58Z
+5,cpe:2.3:o:hp:c2s11a_firmware:2308214_000906:*:*:*:*:*:*:*,HP C2S11A Firmware 2308214 000906,"['CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:58Z
+6,cpe:2.3:h:hp:c2s11v:-:*:*:*:*:*:*:*,HP C2S11V,"['CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:58Z
+7,cpe:2.3:h:hp:c2s12a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise C2S12A,"['CVE-2016-2244', 'CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:58Z
+8,cpe:2.3:o:hp:c2s12a_firmware:-:*:*:*:*:*:*:*,HP C2S12A Firmware,"['CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:58Z
+9,cpe:2.3:o:hp:c2s12a_firmware:2308214_000906:*:*:*:*:*:*:*,HP C2S12A Firmware 2308214 000906,"['CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T12:58Z

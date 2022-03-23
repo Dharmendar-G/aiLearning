@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:3.3.2:*:*:*:*:*:*:*,Dolibarr ERP/CRM 3.3.2,"['CVE-2017-18259', 'CVE-2017-18260', 'CVE-2017-9838', 'CVE-2017-9839']",2022-03-20T16:58Z
+1,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:3.3.3:*:*:*:*:*:*:*,Dolibarr ERP/CRM 3.3.3,"['CVE-2017-18259', 'CVE-2017-18260', 'CVE-2017-9838', 'CVE-2017-9839']",2022-03-20T16:58Z
+2,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:3.4.0:-:*:*:*:*:*:*,Dolibarr ERP/CRM 3.4.0,"['CVE-2017-18259', 'CVE-2017-18260', 'CVE-2017-9838', 'CVE-2017-9839']",2022-03-20T16:58Z
+3,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:3.4.0:beta1:*:*:*:*:*:*,Dolibarr ERP/CRM 3.4.0 Beta1,"['CVE-2017-18259', 'CVE-2017-18260', 'CVE-2017-9838', 'CVE-2017-9839']",2022-03-20T16:58Z
+4,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:3.4.1:*:*:*:*:*:*:*,Dolibarr ERP/CRM 3.4.1,"['CVE-2017-18259', 'CVE-2017-18260', 'CVE-2017-9838', 'CVE-2017-9839']",2022-03-20T16:58Z
+5,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:3.4.2:*:*:*:*:*:*:*,Dolibarr ERP/CRM 3.4.2,"['CVE-2017-18259', 'CVE-2017-18260', 'CVE-2017-9838', 'CVE-2017-9839']",2022-03-20T16:58Z
+6,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:3.5.0:-:*:*:*:*:*:*,Dolibarr ERP/CRM 3.5.0,"['CVE-2017-18259', 'CVE-2017-18260', 'CVE-2017-9838', 'CVE-2017-9839']",2022-03-20T16:58Z
+7,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:3.5.0:beta1:*:*:*:*:*:*,Dolibarr ERP/CRM 3.5.0 Beta1,"['CVE-2017-18259', 'CVE-2017-18260', 'CVE-2017-9838', 'CVE-2017-9839']",2022-03-20T16:58Z
+8,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:3.5.1:*:*:*:*:*:*:*,Dolibarr ERP/CRM 3.5.1,"['CVE-2017-18259', 'CVE-2017-18260', 'CVE-2017-9838', 'CVE-2017-9839']",2022-03-20T16:58Z
+9,cpe:2.3:a:dolibarr:dolibarr_erp\/crm:3.5.2:*:*:*:*:*:*:*,Dolibarr ERP/CRM 3.5.2,"['CVE-2017-18259', 'CVE-2017-18260', 'CVE-2017-9838', 'CVE-2017-9839']",2022-03-20T16:58Z

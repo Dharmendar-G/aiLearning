@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:clogica:seo_redirection:7.3:*:*:*:*:wordpress:*:*,Clogica SEO Redirection 7.3 for WordPress,[''],2022-03-20T02:35Z
+1,cpe:2.3:a:clogica:seo_redirection:7.4:*:*:*:*:wordpress:*:*,Clogica SEO Redirection 7.4 for WordPress,[''],2022-03-20T02:35Z
+2,cpe:2.3:a:clogica:seo_redirection:7.5:*:*:*:*:wordpress:*:*,Clogica SEO Redirection 7.5 for WordPress,[''],2022-03-20T02:35Z
+3,cpe:2.3:a:clogica:seo_redirection:7.6:*:*:*:*:wordpress:*:*,Clogica SEO Redirection 7.6 for WordPress,[''],2022-03-20T02:35Z
+4,cpe:2.3:a:clogica:seo_redirection:7.7:*:*:*:*:wordpress:*:*,Clogica SEO Redirection 7.7 for WordPress,[''],2022-03-20T02:35Z
+5,cpe:2.3:a:clogica:seo_redirection:7.8:*:*:*:*:wordpress:*:*,Clogica SEO Redirection 7.8 for WordPress,[''],2022-03-20T02:35Z
+6,cpe:2.3:a:clogica:seo_redirection:7.9:*:*:*:*:wordpress:*:*,Clogica SEO Redirection 7.9 for WordPress,[''],2022-03-20T02:35Z
+7,cpe:2.3:a:clogica:seo_redirection:8.1:*:*:*:*:wordpress:*:*,Clogica SEO Redirection 8.1 for WordPress,[''],2022-03-20T02:35Z
+8,cpe:2.3:a:clogica:seo_redirection:8.2:*:*:*:*:wordpress:*:*,Clogica SEO Redirection 8.2 for WordPress,[''],2022-03-20T02:35Z
+9,cpe:2.3:a:clogica:seo_redirection_plugin:-:*:*:*:*:wordpress:*:*,Clogica SEO Redirection Plugin for WordPress,"['CVE-2021-24325', 'CVE-2021-24327']",2022-03-20T02:35Z

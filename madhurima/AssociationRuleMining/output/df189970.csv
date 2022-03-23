@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dir-895l_firmware:-:*:*:*:*:*:*:*,D-Link DIR-895L Firmware,"['CVE-2016-6563', 'CVE-2019-16190', 'CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:53Z
+1,cpe:2.3:o:dlink:dir-895l_firmware:1.11:b04:*:*:*:*:*:*,D-Link DIR-895L Firmware 1.11 B04,"['CVE-2019-16190', 'CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:54Z
+2,cpe:2.3:o:dlink:dir-895l_firmware:1.11:b04:*:*:*:*:*:*,D-Link DIR-895L Firmware 1.11 B04,"['CVE-2019-16190', 'CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:53Z
+3,cpe:2.3:o:dlink:dir-895l_firmware:1.12:b10:*:*:*:*:*:*,D-Link DIR-895L Firmware 1.12 B10,"['CVE-2019-16190', 'CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:54Z
+4,cpe:2.3:o:dlink:dir-895l_firmware:1.12b10:*:*:*:*:*:*:*,D-Link DIR-895L Firmware 1.12b10,"['CVE-2019-16190', 'CVE-2019-17621', 'CVE-2019-20213']",2022-03-20T15:54Z
+5,cpe:2.3:o:dlink:dir-895l_firmware:1.13:b03:*:*:*:*:*:*,D-Link DIR-895L Firmware 1.13 B03,['CVE-2019-16190'],2022-03-20T15:54Z
+6,cpe:2.3:o:dlink:dir-895l_firmware:1.13b03:*:*:*:*:*:*:*,Dlink DIR-895L Firmware 1.13b03,"['CVE-2017-14948', 'CVE-2019-16190']",2022-03-20T15:54Z
+7,cpe:2.3:o:dlink:dir-895l_firmware:1.20:b02:*:*:*:*:*:*,D-Link DIR-895L Firmware 1.20 B02,['CVE-2019-16190'],2022-03-20T15:54Z
+8,cpe:2.3:o:dlink:dir-895l_firmware:1.21:-:*:*:*:*:*:*,D-Link DIR-895L Firmware 1.21,['CVE-2019-16190'],2022-03-20T15:54Z
+9,cpe:2.3:o:dlink:dir-895l_firmware:1.21:b05:*:*:*:*:*:*,D-Link DIR-895L Firmware 1.21 B05,['CVE-2019-16190'],2022-03-20T15:54Z

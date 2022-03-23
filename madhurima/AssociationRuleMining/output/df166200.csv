@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:crestron:am-100_firmware:1.1.1:*:*:*:*:*:*:*,Crestron AM-100 Firmware 1.1.1,[''],2022-03-20T08:59Z
+1,cpe:2.3:o:crestron:am-100_firmware:1.1.1.10:*:*:*:*:*:*:*,Crestron AM-100 Firmware 1.1.1.10,[''],2022-03-20T08:59Z
+2,cpe:2.3:o:crestron:am-100_firmware:1.6.0.2:*:*:*:*:*:*:*,Crestron Am-100 Firmware 1.6.0.2,"['CVE-2019-3925', 'CVE-2019-3926', 'CVE-2019-3927', 'CVE-2019-3928', 'CVE-2019-3929', 'CVE-2019-3930', 'CVE-2019-3931', 'CVE-2019-3932', 'CVE-2019-3933', 'CVE-2019-3934', 'CVE-2019-3935', 'CVE-2019-3936', 'CVE-2019-3937', 'CVE-2019-3938', 'CVE-2019-3939']",2022-03-20T08:59Z
+3,cpe:2.3:h:crestron:am-101:-:*:*:*:*:*:*:*,Crestron AM-101,"['CVE-2019-3925', 'CVE-2019-3926', 'CVE-2019-3927', 'CVE-2019-3928', 'CVE-2019-3929', 'CVE-2019-3930', 'CVE-2019-3931', 'CVE-2019-3932', 'CVE-2019-3933', 'CVE-2019-3934', 'CVE-2019-3935', 'CVE-2019-3936', 'CVE-2019-3937', 'CVE-2019-3938', 'CVE-2019-3939']",2022-03-20T08:59Z
+4,cpe:2.3:o:crestron:am-101_firmware:2.7.0.2:*:*:*:*:*:*:*,Crestron Am-101 Firmware 2.7.0.2,"['CVE-2019-3925', 'CVE-2019-3926', 'CVE-2019-3927', 'CVE-2019-3928', 'CVE-2019-3929', 'CVE-2019-3930', 'CVE-2019-3931', 'CVE-2019-3932', 'CVE-2019-3933', 'CVE-2019-3934', 'CVE-2019-3935', 'CVE-2019-3936', 'CVE-2019-3937', 'CVE-2019-3938', 'CVE-2019-3939']",2022-03-20T08:59Z
+5,cpe:2.3:o:crestron:crestron_toolbox_protocol_firmware:1.502.0047.001:*:*:*:*:*:*:*,Crestron Toolbox Protocol Firmware 1.502.0047.001,"['CVE-2018-11228', 'CVE-2018-11229']",2022-03-20T08:59Z
+6,cpe:2.3:h:crestron:dge-100:-:*:*:*:*:*:*:*,Crestron DGE-100,['CVE-2018-5553'],2022-03-20T08:59Z
+7,cpe:2.3:o:crestron:dge-100_firmware:1.3384.00049.001:*:*:*:*:*:*:*,Crestron DGE-100 Firmware 1.3384.00049.001,['CVE-2018-5553'],2022-03-20T08:59Z
+8,cpe:2.3:h:crestron:dmc-str:-:*:*:*:*:*:*:*,Crestron DMC-STR,"['CVE-2018-11228', 'CVE-2018-11229']",2022-03-20T08:59Z
+9,cpe:2.3:h:crestron:dmc-stro:-:*:*:*:*:*:*:*,Crestron DMC-STRO,['CVE-2019-18184'],2022-03-20T08:59Z

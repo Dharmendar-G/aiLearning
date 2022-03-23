@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:bluecoat:proxysg_sg9000-20:-:-:acceleration:*:*:*:*:*,Blue Coat Systems SG9000-20 (9000 series) Acceleration Edition,"['CVE-2009-1211', 'CVE-2010-5189', 'CVE-2010-5190', 'CVE-2010-5192']",2022-03-19T08:51Z
+1,cpe:2.3:h:bluecoat:proxysg_sg9000-20:-:-:full_proxy:*:*:*:*:*,Blue Coat Systems SG9000-20 (9000 series) Full Proxy Edition,"['CVE-2009-1211', 'CVE-2010-5189', 'CVE-2010-5190', 'CVE-2010-5192']",2022-03-19T08:51Z
+2,cpe:2.3:h:bluecoat:proxysg_sg9000-5:-:-:acceleration:*:*:*:*:*,Blue Coat Systems SG9000-5 (9000 series) Acceleration Edition,"['CVE-2009-1211', 'CVE-2010-5189', 'CVE-2010-5190', 'CVE-2010-5192']",2022-03-19T08:51Z
+3,cpe:2.3:h:bluecoat:proxysg_sg9000-5:-:-:full_proxy:*:*:*:*:*,Blue Coat Systems SG9000-5 (9000 series) Full Proxy Edition,"['CVE-2009-1211', 'CVE-2010-5189', 'CVE-2010-5190', 'CVE-2010-5192']",2022-03-19T08:51Z
+4,cpe:2.3:a:bluecoat:proxysg_va-10:-:*:*:*:*:*:*:*,Blue Coat Systems Virtual Appliance VA-10,['CVE-2009-1211'],2022-03-19T08:51Z
+5,cpe:2.3:a:bluecoat:proxysg_va-15:-:*:*:*:*:*:*:*,Blue Coat Systems Virtual Appliance VA-15,['CVE-2009-1211'],2022-03-19T08:51Z
+6,cpe:2.3:a:bluecoat:proxysg_va-20:-:*:*:*:*:*:*:*,Blue Coat Systems Virtual Appliance VA-20,['CVE-2009-1211'],2022-03-19T08:51Z
+7,cpe:2.3:a:bluecoat:proxysg_va-5:-:*:*:*:*:*:*:*,Blue Coat Systems Virtual Appliance VA-5,['CVE-2009-1211'],2022-03-19T08:51Z
+8,cpe:2.3:o:bluecoat:proxysgos:5.3:*:*:*:*:*:*:*,BlueCoast ProxySGOS 5.3,['CVE-2013-5959'],2022-03-19T08:51Z
+9,cpe:2.3:a:bluecoat:proxysgos:5.4:*:*:*:*:*:*:*,BlueCoast ProxySGOS 5.4,['CVE-2013-5959'],2022-03-19T08:51Z

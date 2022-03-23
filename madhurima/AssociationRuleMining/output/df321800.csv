@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:envy_pro_6400_5se48b:-:*:*:*:*:*:*:*,HP ENVY Pro 6400 5SE48B,['CVE-2020-28419'],2022-03-21T13:26Z
+1,cpe:2.3:h:hp:envy_pro_6400_5se50a:-:*:*:*:*:*:*:*,HP ENVY Pro 6400 5SE50A,['CVE-2020-28419'],2022-03-21T13:26Z
+2,cpe:2.3:h:hp:envy_pro_6400_6wd14a:-:*:*:*:*:*:*:*,HP ENVY Pro 6400 6WD14A,['CVE-2020-28419'],2022-03-21T13:26Z
+3,cpe:2.3:h:hp:envy_pro_6400_6wd16a:-:*:*:*:*:*:*:*,HP ENVY Pro 6400 6WD16A,['CVE-2020-28419'],2022-03-21T13:26Z
+4,cpe:2.3:h:hp:envy_pro_6400_7xk12a:-:*:*:*:*:*:*:*,HP ENVY Pro 6400 7XK12A,['CVE-2020-28419'],2022-03-21T13:26Z
+5,cpe:2.3:h:hp:envy_pro_6400_8qq86a:-:*:*:*:*:*:*:*,HP ENVY Pro 6400 8QQ86A,['CVE-2020-28419'],2022-03-21T13:26Z
+6,cpe:2.3:h:hp:envy_pro_6400_8qq87a:-:*:*:*:*:*:*:*,HP ENVY Pro 6400 8QQ87A,['CVE-2020-28419'],2022-03-21T13:26Z
+7,cpe:2.3:h:hp:envy_pro_6400_8qq88a:-:*:*:*:*:*:*:*,HP ENVY Pro 6400 8QQ88A,['CVE-2020-28419'],2022-03-21T13:26Z
+8,cpe:2.3:h:hp:envy_pro_6420_5se45b:-:*:*:*:*:*:*:*,HP ENVY Pro 6420 5SE45B,['CVE-2020-12695'],2022-03-21T13:26Z
+9,cpe:2.3:h:hp:envy_pro_6420_5se46a:-:*:*:*:*:*:*:*,HP ENVY Pro 6420 5SE46A,['CVE-2020-12695'],2022-03-21T13:26Z

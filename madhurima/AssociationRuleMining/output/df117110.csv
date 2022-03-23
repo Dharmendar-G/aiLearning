@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:catalyst_7600_ws-svc-nam-2:2.2\(1a\):*:*:*:*:*:*:*,Cisco Catalyst 7600 2.2 (1a)WS-SVC-NAM-2,"['CVE-2003-1001', 'CVE-2003-1002', 'CVE-2005-4258', 'CVE-2007-1257', 'CVE-2007-5134', 'CVE-2013-1100']",2022-03-19T19:00Z
+1,cpe:2.3:h:cisco:catalyst_7600_ws-svc-nam-2:3.1\(1a\):*:*:*:*:*:*:*,Cisco Catalyst 7600 3.1 (1a)WS-SVC-NAM-2,"['CVE-2003-1001', 'CVE-2003-1002', 'CVE-2005-4258', 'CVE-2007-5134', 'CVE-2013-1100']",2022-03-19T19:01Z
+2,cpe:2.3:h:cisco:catalyst_7600_ws-x6380-nam:2.1\(2\):*:*:*:*:*:*:*,Cisco Catalyst 7600 2.1 (2)WS-X6380-NAM,"['CVE-2003-1001', 'CVE-2003-1002', 'CVE-2005-4258', 'CVE-2007-5134', 'CVE-2013-1100']",2022-03-19T19:01Z
+3,cpe:2.3:h:cisco:catalyst_7600_ws-x6380-nam:3.1\(1a\):*:*:*:*:*:*:*,Cisco Catalyst 7600 3.1 (1a)WS-X6380-NAM,"['CVE-2003-1001', 'CVE-2003-1002', 'CVE-2005-4258', 'CVE-2007-1257', 'CVE-2007-5134', 'CVE-2013-1100']",2022-03-19T19:01Z
+4,cpe:2.3:h:cisco:catalyst_8300-1n1s-4t2x:-:*:*:*:*:*:*:*,Cisco CATALYST 8300-1N1S-4T2X,"['CVE-2021-1495', 'CVE-2021-1529', 'CVE-2021-1620']",2022-03-19T19:01Z
+5,cpe:2.3:h:cisco:catalyst_8300-1n1s-6t:-:*:*:*:*:*:*:*,Cisco CATALYST 8300-1N1S-6T,"['CVE-2021-1495', 'CVE-2021-1529', 'CVE-2021-1620']",2022-03-19T19:01Z
+6,cpe:2.3:h:cisco:catalyst_8300-2n2s-4t2x:-:*:*:*:*:*:*:*,Cisco CATALYST 8300-2N2S-4T2X,"['CVE-2021-1495', 'CVE-2021-1529', 'CVE-2021-1620']",2022-03-19T19:01Z
+7,cpe:2.3:h:cisco:catalyst_8300-2n2s-6t:-:*:*:*:*:*:*:*,Cisco CATALYST 8300-2N2S-6T,"['CVE-2021-1495', 'CVE-2021-1529', 'CVE-2021-1620']",2022-03-19T19:01Z
+8,cpe:2.3:h:cisco:catalyst_8500:-:*:*:*:*:*:*:*,Cisco Catalyst 8500,"['CVE-2001-0895', 'CVE-2005-4258', 'CVE-2013-1100', 'CVE-2021-1529', 'CVE-2021-1620']",2022-03-19T19:01Z
+9,cpe:2.3:h:cisco:catalyst_8500l:-:*:*:*:*:*:*:*,Cisco CATALYST 8500L,"['CVE-2021-1495', 'CVE-2021-1529', 'CVE-2021-1620']",2022-03-19T19:01Z

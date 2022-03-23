@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bdew:bdlib:1.16.1.7:*:*:*:*:minecraft:*:*,bdew BdLib 1.16.1.7 for Minecraft,[''],2022-03-19T06:40Z
+1,cpe:2.3:a:bdtask:multi-scheduler:1.0.0:*:*:*:*:wordpress:*:*,bdtask Multi Scheduler 1.0.0 for WordPress,['CVE-2020-13426'],2022-03-19T06:40Z
+2,cpe:2.3:a:bdtask:multi-store:1.0.0:*:*:*:*:wordpress:*:*,Bdtask Multi-Store 1.0.0 for WordPress,['CVE-2020-36012'],2022-03-19T06:40Z
+3,cpe:2.3:a:bdwgc_project:bdwgc:1.9:*:*:*:*:*:*:*,bdwgc Project bdwgc 1.9,['CVE-2016-9427'],2022-03-19T06:40Z
+4,cpe:2.3:a:bdwgc_project:bdwgc:2.4:*:*:*:*:*:*:*,bdwgc Project bdwgc 2.4,['CVE-2016-9427'],2022-03-19T06:40Z
+5,cpe:2.3:a:bdwgc_project:bdwgc:2.6:*:*:*:*:*:*:*,bdwgc Project bdwgc 2.6,['CVE-2016-9427'],2022-03-19T06:40Z
+6,cpe:2.3:a:bdwgc_project:bdwgc:3.3:*:*:*:*:*:*:*,bdwgc Project bdwgc 3.3,['CVE-2016-9427'],2022-03-19T06:40Z
+7,cpe:2.3:a:bdwgc_project:bdwgc:3.6:*:*:*:*:*:*:*,bdwgc Project bdwgc 3.6,['CVE-2016-9427'],2022-03-19T06:40Z
+8,cpe:2.3:a:bdwgc_project:bdwgc:3.7:*:*:*:*:*:*:*,bdwgc Project bdwgc 3.7,['CVE-2016-9427'],2022-03-19T06:40Z
+9,cpe:2.3:a:bdwgc_project:bdwgc:4.0:*:*:*:*:*:*:*,bdwgc Project bdwgc 4.0,['CVE-2016-9427'],2022-03-19T06:40Z

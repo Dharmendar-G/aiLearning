@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blackberry:enterprise_service:12.3.1:*:*:*:*:*:*:*,Blackberry Enterprise Service (BES) 12.3.1,"['CVE-2016-3128', 'CVE-2016-3130', 'CVE-2017-3894']",2022-03-19T08:35Z
+1,cpe:2.3:a:blackberry:enterprise_service:12.4.0:*:*:*:*:*:*:*,Blackberry Enterprise Service (BES) 12.4.0,"['CVE-2016-3128', 'CVE-2016-3130', 'CVE-2017-3894']",2022-03-19T08:35Z
+2,cpe:2.3:a:blackberry:enterprise_service:12.4.1:*:*:*:*:*:*:*,Blackberry Enterprise Service (BES) 12.4.1,"['CVE-2016-3128', 'CVE-2016-3130', 'CVE-2017-3894']",2022-03-19T08:36Z
+3,cpe:2.3:a:blackberry:enterprise_service:12.5.0:*:*:*:*:*:*:*,Blackberry Enterprise Service (BES) 12.5.0,['CVE-2017-3894'],2022-03-19T08:35Z
+4,cpe:2.3:a:blackberry:enterprise_service:12.5.0a:*:*:*:*:*:*:*,Blackberry Enterprise Service (BES) 12.5.0a,"['CVE-2016-3128', 'CVE-2016-3130']",2022-03-19T08:35Z
+5,cpe:2.3:a:blackberry:enterprise_service:12.5.1:*:*:*:*:*:*:*,Blackberry Enterprise Service (BES) 12.5.1,"['CVE-2016-3128', 'CVE-2016-3130', 'CVE-2017-3894']",2022-03-19T08:35Z
+6,cpe:2.3:a:blackberry:enterprise_service:12.5.2:*:*:*:*:*:*:*,Blackberry Enterprise Service (BES) 12.5.2,"['CVE-2016-3128', 'CVE-2016-3130', 'CVE-2017-3894']",2022-03-19T08:35Z
+7,cpe:2.3:a:blackberry:good_control_server:2.2.511.26:*:*:*:*:*:*:*,BlackBerry Good Control Server 2.2.511.26,['CVE-2016-3127'],2022-03-19T08:36Z
+8,cpe:2.3:o:blackberry:good_enterprise_mobility_server:2.2.22.25:*:*:*:*:*:*:*,Blackberry Good Enterprise Mobility Server (GEMS) Firmware 2.2.22.25,['CVE-2016-3129'],2022-03-19T08:36Z
+9,cpe:2.3:a:blackberry:mobile_device_manager:-:*:*:*:*:*:*:*,BlackBerry Mobile Device Manager (MDM),[''],2022-03-19T08:36Z

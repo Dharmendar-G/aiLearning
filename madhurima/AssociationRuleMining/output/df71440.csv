@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:baxter:sigma_spectrum_infusion_system_firmware:6.0:*:*:*:*:*:*:*,Baxter Sigma Spectrum Infusion System Firmware 6.0,"['CVE-2020-12039', 'CVE-2020-12040']",2022-03-19T06:32Z
+1,cpe:2.3:o:baxter:sigma_spectrum_infusion_system_firmware:6.05:*:*:*:*:*:*:*,Baxter Sigma Spectrum Infusion System Firmware 6.05,"['CVE-2014-5431', 'CVE-2014-5432', 'CVE-2014-5433', 'CVE-2014-5434', 'CVE-2020-12039', 'CVE-2020-12040']",2022-03-19T06:32Z
+2,cpe:2.3:o:baxter:sigma_spectrum_infusion_system_firmware:8.0:*:*:*:*:*:*:*,Baxter Sigma Spectrum Infusion System Firmware 8.0,"['CVE-2020-12039', 'CVE-2020-12040', 'CVE-2020-12041', 'CVE-2020-12043', 'CVE-2020-12045', 'CVE-2020-12047']",2022-03-19T06:32Z
+3,cpe:2.3:a:baxter:welch_allyn_connex_cardio:1.0.0:*:*:*:*:*:*:*,Baxter Welch Allyn Connex Cardio 1.0.0,['CVE-2021-43935'],2022-03-19T06:32Z
+4,cpe:2.3:a:baxter:welch_allyn_connex_cardio:1.1.1:*:*:*:*:*:*:*,Baxter Welch Allyn Connex Cardio 1.1.1,['CVE-2021-43935'],2022-03-19T06:32Z
+5,cpe:2.3:a:baxter:welch_allyn_diagnostic_cardiology_suite:2.1.0:*:*:*:*:*:*:*,Baxter Welch Allyn Diagnostic Cardiology Suite 2.1.0,['CVE-2021-43935'],2022-03-19T06:32Z
+6,cpe:2.3:h:baxter:welch_allyn_hscribe_holter_analysis_system:-:*:*:*:*:*:*:*,Baxter Welch Allyn HScribe Holter Analysis System,['CVE-2021-43935'],2022-03-19T06:32Z
+7,[0],[0],[0],[0]
+8,[0],[0],[0],[0]
+9,cpe:2.3:o:baxter:welch_allyn_hscribe_holter_analysis_system_firmware:5.01:*:*:*:*:*:*:*,Baxter Welch Allyn HScribe Holter Analysis System Firmware 5.01,['CVE-2021-43935'],2022-03-19T06:32Z

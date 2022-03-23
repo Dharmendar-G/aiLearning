@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:enterprise_nfv_infrastructure_software:3.8.1:*:*:*:*:*:*:*,Cisco Enterprise NFV Infrastructure Software 3.8.1,"['CVE-2020-3470', 'CVE-2021-1127', 'CVE-2021-1421']",2022-03-19T19:29Z
+1,cpe:2.3:a:cisco:enterprise_nfv_infrastructure_software:3.9.1:*:*:*:*:*:*:*,Cisco Enterprise NFV Infrastructure Software 3.9.1,"['CVE-2019-1656', 'CVE-2019-1893', 'CVE-2019-1894', 'CVE-2020-3470', 'CVE-2021-1127', 'CVE-2021-1421']",2022-03-19T19:29Z
+2,cpe:2.3:a:cisco:enterprise_nfv_infrastructure_software:4.4.1:*:*:*:*:*:*:*,Cisco Enterprise NFV Infrastructure Software (NFVIS) 4.4.1,['CVE-2021-1421'],2022-03-19T19:29Z
+3,cpe:2.3:a:cisco:enterprise_nfv_infrastructure_software:4.5.1:*:*:*:*:*:*:*,Cisco Enterprise Network Function Virtualization Infrastructure Software (NFVIS) 4.5.1,['CVE-2021-34746'],2022-03-19T19:29Z
+4,cpe:2.3:h:cisco:epc2203:-:*:*:*:*:*:*:*,Cisco EPC2203 Cable Modem With Digital Voice,['CVE-2016-1327'],2022-03-19T19:29Z
+5,cpe:2.3:o:cisco:epc2203_cable_modem_firmware:r1_customer_image_base:*:*:*:*:*:*:*,Cisco EPC2203 Cable Modem With Digital Voice Firmware R1 Customer Image Base,['CVE-2016-1327'],2022-03-19T19:29Z
+6,cpe:2.3:h:cisco:epc3010:-:*:*:*:*:*:*:*,Cisco Model EPC3010 DOCSIS 3.0 Cable Modem,['CVE-2014-3306'],2022-03-19T19:29Z
+7,cpe:2.3:h:cisco:epc3212:-:*:*:*:*:*:*:*,Cisco EPC3212 VoIP Cable Modem,['CVE-2014-3306'],2022-03-19T19:29Z
+8,cpe:2.3:h:cisco:epc3825:-:*:*:*:*:*:*:*,Cisco EPC3825 8x4 DOCSIS 3.0 Wireless Residential Gateway,['CVE-2014-3306'],2022-03-19T19:29Z
+9,cpe:2.3:h:cisco:epc3925:-:*:*:*:*:*:*:*,Cisco EPC3925,"['CVE-2013-6976', 'CVE-2014-3306']",2022-03-19T19:29Z

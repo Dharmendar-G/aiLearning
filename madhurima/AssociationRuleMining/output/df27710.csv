@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:anydesk:anydesk:4.3.0:*:*:*:*:macos:*:*,AnyDesk 4.3.0 for macOS,"['CVE-2020-13160', 'CVE-2020-27614']",2022-03-18T17:20Z
+1,cpe:2.3:a:anydesk:anydesk:5.1.0:*:*:*:*:macos:*:*,AnyDesk 5.1.0 for macOS,"['CVE-2020-13160', 'CVE-2020-27614']",2022-03-18T17:20Z
+2,cpe:2.3:a:anydesk:anydesk:5.1.1:*:*:*:*:macos:*:*,AnyDesk 5.1.1 for macOS,"['CVE-2020-13160', 'CVE-2020-27614']",2022-03-18T17:20Z
+3,cpe:2.3:a:anydesk:anydesk:5.1.2:*:*:*:*:macos:*:*,AnyDesk 5.1.2 for macOS,"['CVE-2020-13160', 'CVE-2020-27614']",2022-03-18T17:20Z
+4,cpe:2.3:a:anydesk:anydesk:5.1.3:*:*:*:*:macos:*:*,AnyDesk 5.1.3 for macOS,"['CVE-2020-13160', 'CVE-2020-27614']",2022-03-18T17:20Z
+5,cpe:2.3:a:anydesk:anydesk:5.1.4:*:*:*:*:macos:*:*,AnyDesk 5.1.4 for macOS,"['CVE-2020-13160', 'CVE-2020-27614']",2022-03-18T17:20Z
+6,cpe:2.3:a:anydesk:anydesk:5.1.5:*:*:*:*:macos:*:*,AnyDesk 5.1.5 for macOS,"['CVE-2020-13160', 'CVE-2020-27614']",2022-03-18T17:20Z
+7,cpe:2.3:a:anydesk:anydesk:5.4.0:*:*:*:*:macos:*:*,AnyDesk 5.4.0 for macOS,"['CVE-2020-13160', 'CVE-2020-27614']",2022-03-18T17:20Z
+8,cpe:2.3:a:anydesk:anydesk:5.4.1:*:*:*:*:macos:*:*,AnyDesk 5.4.1 for macOS,"['CVE-2020-13160', 'CVE-2020-27614']",2022-03-18T17:20Z
+9,cpe:2.3:a:anydesk:anydesk:5.4.2:*:*:*:*:macos:*:*,AnyDesk 5.4.2 for macOS,"['CVE-2020-13160', 'CVE-2020-27614']",2022-03-18T17:20Z

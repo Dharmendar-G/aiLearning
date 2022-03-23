@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blubrry:powerpress_podcasting:5.0.7:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting 5.0.7 for WordPress,['CVE-2015-1385'],2022-03-19T08:48Z
+1,cpe:2.3:a:blubrry:powerpress_podcasting:5.0.8:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting 5.0.8 for WordPress,['CVE-2015-1385'],2022-03-19T08:48Z
+2,cpe:2.3:a:blubrry:powerpress_podcasting:5.0.9:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting 5.0.9 for WordPress,['CVE-2015-1385'],2022-03-19T08:48Z
+3,cpe:2.3:a:blubrry:powerpress_podcasting:5.0.10:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting 5.0.10 for WordPress,['CVE-2015-1385'],2022-03-19T08:48Z
+4,cpe:2.3:a:blubrry:powerpress_podcasting:6.0:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting for WordPress 6.0,['CVE-2015-1385'],2022-03-19T08:48Z
+5,cpe:2.3:a:blubrry:powerpress_podcasting:6.0.2:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting 6.0.2 for WordPress,[''],2022-03-19T08:48Z
+6,cpe:2.3:a:blubrry:powerpress_podcasting:6.0.3:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting 6.0.3 for WordPress,[''],2022-03-19T08:48Z
+7,cpe:2.3:a:blubrry:powerpress_podcasting:6.0.4:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting 6.0.4 for WordPress,['CVE-2015-9410'],2022-03-19T08:48Z
+8,cpe:2.3:a:blubrry:powerpress_podcasting:6.0.5:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting 6.0.5 for WordPress,[''],2022-03-19T08:48Z
+9,cpe:2.3:a:blubrry:powerpress_podcasting:6.1:*:*:*:*:wordpress:*:*,Blubrry PowerPress Podcasting 6.1 for WordPress,[''],2022-03-19T08:48Z

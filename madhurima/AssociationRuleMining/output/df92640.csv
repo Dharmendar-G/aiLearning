@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:brightstor_enterprise_backup:-:*:solaris:*:*:*:*:*,Broadcom Brightstor Enterprise Backup Solaris Edition,[''],2022-03-19T12:14Z
+1,cpe:2.3:a:broadcom:brightstor_enterprise_backup:-:*:tru54:*:*:*:*:*,Broadcom Brightstor Enterprise Backup Tru54 Edition,[''],2022-03-19T12:14Z
+2,cpe:2.3:a:broadcom:brightstor_enterprise_backup:-:*:windows:*:*:*:*:*,Broadcom Brightstor Enterprise Backup Windows Edition,[''],2022-03-19T12:14Z
+3,cpe:2.3:a:broadcom:brightstor_enterprise_backup:10:*:solaris:*:*:*:*:*,Broadcom Brightstor Enterprise Backup 10 Solaris Edition,['CVE-2005-2535'],2022-03-19T12:14Z
+4,cpe:2.3:a:broadcom:brightstor_enterprise_backup:10.0:*:*:*:*:*:*:*,Broadcom Brightstor Enterprise Backup 10.0,"['CVE-2005-1272', 'CVE-2005-2535']",2022-03-19T12:14Z
+5,cpe:2.3:a:broadcom:brightstor_enterprise_backup:10.0:*:aix:*:*:*:*:*,Broadcom Brightstor Enterprise Backup 10.0 AIX Edition,"['CVE-2005-1272', 'CVE-2005-2535']",2022-03-19T12:14Z
+6,cpe:2.3:a:broadcom:brightstor_enterprise_backup:10.0:*:hpux:*:*:*:*:*,Broadcom Brightstor Enterprise Backup 10.0 HPUX Edition,"['CVE-2005-1272', 'CVE-2005-2535']",2022-03-19T12:14Z
+7,cpe:2.3:a:broadcom:brightstor_enterprise_backup:10.0:*:mainframe_linux:*:*:*:*:*,Broadcom Brightstor Enterprise Backup 10.0 Mainframe Linux Edition,"['CVE-2005-1272', 'CVE-2005-2535']",2022-03-19T12:14Z
+8,cpe:2.3:a:broadcom:brightstor_enterprise_backup:10.5:*:*:*:*:*:*:*,Broadcom Brightstor Enterprise Backup 10.5,"['CVE-2005-1272', 'CVE-2005-2535', 'CVE-2006-5143', 'CVE-2006-5171', 'CVE-2006-5172', 'CVE-2006-6379', 'CVE-2007-0168', 'CVE-2007-0169', 'CVE-2007-2863', 'CVE-2007-3825', 'CVE-2007-3875', 'CVE-2007-5325', 'CVE-2007-5326', 'CVE-2007-5327', 'CVE-2007-5328', 'CVE-2007-5329', 'CVE-2007-5330', 'CVE-2007-5331', 'CVE-2007-5332']",2022-03-19T12:14Z
+9,cpe:2.3:a:broadcom:brightstor_enterprise_backup:10.5:*:aix:*:*:*:*:*,Broadcom Brightstor Enterprise Backup 10.5 AIX Edition,"['CVE-2005-1272', 'CVE-2005-2535', 'CVE-2006-5143', 'CVE-2006-5171', 'CVE-2006-5172', 'CVE-2006-6379', 'CVE-2007-0168', 'CVE-2007-0169', 'CVE-2007-2863', 'CVE-2007-3825', 'CVE-2007-3875', 'CVE-2007-5325', 'CVE-2007-5326', 'CVE-2007-5327', 'CVE-2007-5328', 'CVE-2007-5329', 'CVE-2007-5330', 'CVE-2007-5331', 'CVE-2007-5332']",2022-03-19T12:14Z

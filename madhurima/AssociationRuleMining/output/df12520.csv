@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adobe:xmp_toolkit:5.1.2:*:*:*:*:java:*:*,Adobe XMP Toolkit 5.1.2 for Java,['CVE-2016-4216'],2022-03-18T12:53Z
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:-:*:*:*:*:*:*:*,Adobe XMP Toolkit Software Development Kit (SDK),"['CVE-2021-36045', 'CVE-2021-36046', 'CVE-2021-36047', 'CVE-2021-36048', 'CVE-2021-36050', 'CVE-2021-36051', 'CVE-2021-36052', 'CVE-2021-36053', 'CVE-2021-36054', 'CVE-2021-36055', 'CVE-2021-36056', 'CVE-2021-36057', 'CVE-2021-36058', 'CVE-2021-36064', 'CVE-2021-39847', 'CVE-2021-40716', 'CVE-2021-40732']",2022-03-18T12:53Z
+5,cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:2020.1:*:*:*:*:*:*:*,Adobe XMP Toolkit Software Development Kit (SDK) 2020.1,"['CVE-2021-36045', 'CVE-2021-36046', 'CVE-2021-36047', 'CVE-2021-36048', 'CVE-2021-36050', 'CVE-2021-36051', 'CVE-2021-36052', 'CVE-2021-36053', 'CVE-2021-36054', 'CVE-2021-36055', 'CVE-2021-36056', 'CVE-2021-36057', 'CVE-2021-36058', 'CVE-2021-36064', 'CVE-2021-39847', 'CVE-2021-40716', 'CVE-2021-40732']",2022-03-18T12:53Z
+6,cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:2021.07:*:*:*:*:*:*:*,Adobe XMP Toolkit Software Development Kit (SDK) 2021.07,"['CVE-2021-40716', 'CVE-2021-40732']",2022-03-18T12:53Z
+7,cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:2021.08:*:*:*:*:*:*:*,Adobe XMP Toolkit Software Development Kit (SDK) 2021.08,[''],2022-03-18T12:53Z
+8,cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:2021.10:*:*:*:*:*:*:*,Adobe XMP Toolkit Software Development Kit (SDK) 2021.10,[''],2022-03-18T12:53Z
+9,cpe:2.3:a:adodb_project:adodb:5.00:beta:*:*:*:*:*:*,ADOdb Project ADOdb 5.00 Beta,"['CVE-2016-4855', 'CVE-2016-7405', 'CVE-2021-3850']",2022-03-18T12:53Z

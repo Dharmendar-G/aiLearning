@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:link_layer_discovery_protocol:6.0\(4\):*:*:*:*:*:*:*,Cisco Link Layer Discovery Protocol (LLDP) 6.0(4),[''],2022-03-19T22:50Z
+1,cpe:2.3:o:cisco:link_layer_discovery_protocol:6.1\(3\)s2:*:*:*:*:*:*:*,Cisco Link Layer Discovery Protocol (LLDP) 6.1(3)s2,[''],2022-03-19T22:50Z
+2,cpe:2.3:o:cisco:link_layer_discovery_protocol:12.3\(1e\):*:*:*:*:*:*:*,Cisco Link Layer Discovery Protocol (LLDP) 12.3(1e),[''],2022-03-19T22:50Z
+3,cpe:2.3:o:cisco:link_layer_discovery_protocol:r231:*:*:*:*:*:*:*,Cisco Link Layer Discovery Protocol (LLDP) R231,[''],2022-03-19T22:50Z
+4,cpe:2.3:h:cisco:linksys_e4200:-:*:*:*:*:*:*:*,Cisco Linksys E4200 -,"['CVE-2013-2678', 'CVE-2013-2680', 'CVE-2013-2681', 'CVE-2013-2682', 'CVE-2013-2683', 'CVE-2013-2684', 'CVE-2013-5122']",2022-03-19T22:50Z
+5,cpe:2.3:o:cisco:linksys_e4200_firmware:1.0.05:*:*:*:*:*:*:*,Cisco Linksys E4200 Firmware 1.0.05,"['CVE-2013-2678', 'CVE-2013-2680', 'CVE-2013-2681', 'CVE-2013-2682', 'CVE-2013-2683', 'CVE-2013-2684']",2022-03-19T22:50Z
+6,cpe:2.3:o:cisco:linksys_e4200_firmware:2.0.36:*:*:*:*:*:*:*,Cisco Linksys E4200 Firmware 2.0.36,['CVE-2013-5122'],2022-03-19T22:50Z
+7,cpe:2.3:h:cisco:linksys_ea2700:-:*:*:*:*:*:*:*,Cisco Linksys EA2700 -,['CVE-2013-5122'],2022-03-19T22:50Z
+8,cpe:2.3:o:cisco:linksys_ea2700_firmware:1.0.14:*:*:*:*:*:*:*,Cisco Linksys EA2700 Firmware 1.0.14,['CVE-2013-5122'],2022-03-19T22:50Z
+9,cpe:2.3:h:cisco:linksys_ea3500:-:*:*:*:*:*:*:*,Cisco Linksys EA3500 -,['CVE-2013-5122'],2022-03-19T22:50Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:horde:horde_pear:1.0.0:alpha5:*:*:*:*:*:*,Horde Pear 1.0.0 Alpha 5,[''],2022-03-21T12:19Z
+1,cpe:2.3:a:horde:horde_pear:1.0.0:alpha6:*:*:*:*:*:*,Horde Pear 1.0.0 Alpha 6,[''],2022-03-21T12:19Z
+2,cpe:2.3:a:horde:horde_pear:1.0.0:alpha7:*:*:*:*:*:*,Horde Pear 1.0.0 Alpha 7,[''],2022-03-21T12:19Z
+3,cpe:2.3:a:horde:horde_pear:1.0.0:alpha8:*:*:*:*:*:*,Horde Pear 1.0.0 Alpha 8,[''],2022-03-21T12:19Z
+4,cpe:2.3:a:horde:horde_pear:1.0.0:alpha9:*:*:*:*:*:*,Horde Pear 1.0.0 Alpha 9,[''],2022-03-21T12:19Z
+5,cpe:2.3:a:horde:horde_perms:1.0.0:-:*:*:*:*:*:*,Horde Permissions 1.0.0,[''],2022-03-21T12:19Z
+6,cpe:2.3:a:horde:horde_perms:1.0.0:alpha1:*:*:*:*:*:*,Horde Permissions 1.0.0 Alpha 1,[''],2022-03-21T12:19Z
+7,cpe:2.3:a:horde:horde_perms:1.0.0:beta1:*:*:*:*:*:*,Horde Permissions 1.0.0 Beta 1,[''],2022-03-21T12:19Z
+8,cpe:2.3:a:horde:horde_perms:1.0.0:rc1:*:*:*:*:*:*,Horde Permissions 1.0.0 Release Candidate 1,[''],2022-03-21T12:19Z
+9,cpe:2.3:a:horde:horde_perms:1.0.0:rc2:*:*:*:*:*:*,Horde Permissions 1.0.0 Release Candidate 2,[''],2022-03-21T12:19Z

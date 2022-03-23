@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:h3c_switch:s5800-56c-pwr:*:*:*:*:*:*:*,HP H3C Switch Model S5800-56C-PWR,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:32Z
+1,cpe:2.3:h:hp:h3c_switch:s5800-60c-pwr:*:*:*:*:*:*:*,HP H3C Switch Model S5800-60C-PWR,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:32Z
+2,cpe:2.3:h:hp:h3c_switch:s5820x-28c:*:*:*:*:*:*:*,HP H3C Switch Model S5820X-28C,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:32Z
+3,cpe:2.3:h:hp:h3c_switch:s5820x-28s:*:*:*:*:*:*:*,HP H3C Switch Model S5820X-28S,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:32Z
+4,cpe:2.3:h:hp:h3c_switch:s7502e:*:*:*:*:*:*:*,HP H3C Switch Model S7502E,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:32Z
+5,cpe:2.3:h:hp:h3c_switch:s7503e:*:*:*:*:*:*:*,HP H3C Switch Model S7503E,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:32Z
+6,cpe:2.3:h:hp:h3c_switch:s7503e-s:*:*:*:*:*:*:*,HP H3C Switch Model S7503E-S,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:32Z
+7,cpe:2.3:h:hp:h3c_switch:s7506e:*:*:*:*:*:*:*,HP H3C Switch Model S7506E,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:32Z
+8,cpe:2.3:h:hp:h3c_switch:s7506e-v:*:*:*:*:*:*:*,HP H3C Switch Model S7506E-V,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:32Z
+9,cpe:2.3:h:hp:h3c_switch:s9505e:*:*:*:*:*:*:*,HP H3C Switch Model S9505E,"['CVE-2013-2340', 'CVE-2013-2341']",2022-03-21T13:32Z

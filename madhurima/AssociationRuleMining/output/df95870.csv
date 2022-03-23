@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:buffalo:wsr-1166dhp4_firmware:1.03:*:*:*:*:*:*:*,Buffalo WSR-1166DHP4 Firmware 1.03,[''],2022-03-19T13:16Z
+1,cpe:2.3:h:buffalo:wsr-2533dhp3-bk:-:*:*:*:*:*:*:*,Buffalo WSR-2533DHP3-BK,"['CVE-2021-20090', 'CVE-2021-20091', 'CVE-2021-20092']",2022-03-19T13:16Z
+2,cpe:2.3:o:buffalo:wsr-2533dhp3-bk_firmware:-:*:*:*:*:*:*:*,Buffalo WSR-2533DHP3-BK Firmware,"['CVE-2021-20090', 'CVE-2021-20091', 'CVE-2021-20092']",2022-03-19T13:16Z
+3,cpe:2.3:o:buffalo:wsr-2533dhp3-bk_firmware:1.24:*:*:*:*:*:*:*,Buffalo WSR-2533DHP3-BK Firmware 1.24,"['CVE-2021-20090', 'CVE-2021-20091', 'CVE-2021-20092']",2022-03-19T13:16Z
+4,cpe:2.3:o:buffalo:wsr-2533dhp3-bk_firmware:1.25:*:*:*:*:*:*:*,Buffalo WSR-2533DHP3-BK Firmware 1.25,[''],2022-03-19T13:16Z
+5,cpe:2.3:h:buffalo:wsr-2533dhpl2-bk:-:*:*:*:*:*:*:*,Buffalo WSR-2533DHPL2-BK,"['CVE-2021-20090', 'CVE-2021-20091', 'CVE-2021-20092']",2022-03-19T13:16Z
+6,cpe:2.3:o:buffalo:wsr-2533dhpl2-bk_firmware:-:*:*:*:*:*:*:*,Buffalo WSR-2533DHPL2-BK Firmware,"['CVE-2021-20090', 'CVE-2021-20091', 'CVE-2021-20092']",2022-03-19T13:16Z
+7,cpe:2.3:o:buffalo:wsr-2533dhpl2-bk_firmware:1.02:*:*:*:*:*:*:*,Buffalo WSR-2533DHPL2-BK Firmware 1.02,"['CVE-2021-20090', 'CVE-2021-20091', 'CVE-2021-20092']",2022-03-19T13:16Z
+8,cpe:2.3:h:buffalo:wvr-g54-nf:-:*:*:*:*:*:*:*,Buffalo WVR-G54-NF,['CVE-2021-20716'],2022-03-19T13:16Z
+9,cpe:2.3:o:buffalo:wvr-g54-nf_firmware:-:*:*:*:*:*:*:*,Buffalo WVR-G54-NF FIRMWARE,['CVE-2021-20716'],2022-03-19T13:16Z

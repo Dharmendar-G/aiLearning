@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:9bis:kitty:0.74.4.9:*:*:*:*:windows:*:*,9bis KiTTY 0.74.4.9 for Windows,[''],2022-03-18T10:19Z
+1,cpe:2.3:a:9bis:kitty:0.74.4.10:*:*:*:*:windows:*:*,9bis KiTTY 0.74.4.10 for Windows,[''],2022-03-18T10:19Z
+2,cpe:2.3:a:9bis:kitty:0.74.4.11:*:*:*:*:windows:*:*,9bis KiTTY 0.74.4.11 for Windows,[''],2022-03-18T10:19Z
+3,cpe:2.3:a:9bis:kitty:0.74.4.12:*:*:*:*:windows:*:*,9bis KiTTY 0.74.4.12 for Windows,[''],2022-03-18T10:19Z
+4,cpe:2.3:a:9bis:kitty:0.74.4.13:*:*:*:*:windows:*:*,9bis KiTTY 0.74.4.13 for Windows,[''],2022-03-18T10:19Z
+5,cpe:2.3:a:9folders:nine:-:*:*:*:*:android:*:*,9folders Nine for Android,"['CVE-2017-17689', 'CVE-2019-12366']",2022-03-18T10:19Z
+6,cpe:2.3:a:9folders:nine:-:*:*:*:*:iphone_os:*:*,9folders Nine for iPhone OS,['CVE-2017-17689'],2022-03-18T10:19Z
+7,cpe:2.3:a:9folders:nine:1.0.8:*:*:*:*:iphone_os:*:*,9Folders Nine 1.0.8 for iPhone OS,[''],2022-03-18T10:19Z
+8,cpe:2.3:a:9folders:nine:1.0.13:*:*:*:*:iphone_os:*:*,9Folders Nine 1.0.13 for iPhone OS,[''],2022-03-18T10:19Z
+9,cpe:2.3:a:9folders:nine:1.0.15:*:*:*:*:iphone_os:*:*,9Folders Nine 1.0.15 for iPhone OS,[''],2022-03-18T10:19Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:fusionstorage_firmware:v100r003c30u1:*:*:*:*:*:*:*,Huawei FusionStorage Firmware V100R003C30U1,[''],2022-03-21T17:46Z
+1,cpe:2.3:h:huawei:g8:-:*:*:*:*:*:*:*,Huawei G8,"['CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T17:46Z
+2,cpe:2.3:o:huawei:g8_firmware:rio-al00c00b220:*:*:*:*:*:*:*,Huawei G8 Firmware Rio-al00c00b220,"['CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T17:46Z
+3,cpe:2.3:o:huawei:g8_firmware:rio-cl00c92b220:*:*:*:*:*:*:*,Huawei G8 Firmware Rio-cl00c92b220,"['CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T17:46Z
+4,cpe:2.3:o:huawei:g8_firmware:rio-tl00c01b220:*:*:*:*:*:*:*,Huawei G8 Firmware Rio-tl00c01b220,"['CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T17:46Z
+5,cpe:2.3:o:huawei:g8_firmware:rio-ul00c00b220:*:*:*:*:*:*:*,Huawei G8 Firmware Rio-ul00c00b220,"['CVE-2017-2692', 'CVE-2017-2693']",2022-03-21T17:46Z
+6,cpe:2.3:h:huawei:g9_lite:-:*:*:*:*:*:*:*,Huawei G9 Lite,['CVE-2018-7939'],2022-03-21T17:46Z
+7,cpe:2.3:o:huawei:g9_lite_firmware:vns-l53c605b120custc605d103:*:*:*:*:*:*:*,Huawei G9 Lite Firmware VNS-L53C605B120CUSTC605D103,[''],2022-03-21T17:46Z
+8,cpe:2.3:a:huawei:gaussdb_200:6.5.1:*:*:*:*:*:*:*,Huawei GaussDB 200 6.5.1,"['CVE-2020-1790', 'CVE-2020-1811', 'CVE-2020-1853']",2022-03-21T17:46Z
+9,cpe:2.3:a:huawei:gaussdb_200:6.5.1.1:*:*:*:*:*:*:*,Huawei GaussDB 200 6.5.1.1,[''],2022-03-21T17:46Z

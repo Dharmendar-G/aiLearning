@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hashtopus_project:hashtopus:1.5g:*:*:*:*:*:*:*,hashtopus Project hashtopus 1.5g,"['CVE-2017-11677', 'CVE-2017-11678', 'CVE-2017-11679']",2022-03-21T10:00Z
+1,cpe:2.3:a:haskell:hs-tls:0.1:*:*:*:*:*:*:*,Haskell hs-tls 0.1,['CVE-2013-0243'],2022-03-21T10:00Z
+2,cpe:2.3:a:haskell:hs-tls:0.1.1:*:*:*:*:*:*:*,Haskell hs-tls 0.1.1,['CVE-2013-0243'],2022-03-21T10:00Z
+3,cpe:2.3:a:haskell:hs-tls:0.1.2:*:*:*:*:*:*:*,Haskell hs-tls 0.1.2,['CVE-2013-0243'],2022-03-21T10:00Z
+4,cpe:2.3:a:haskell:hs-tls:0.1.3:*:*:*:*:*:*:*,Haskell hs-tls 0.1.3,['CVE-2013-0243'],2022-03-21T10:00Z
+5,cpe:2.3:a:haskell:hs-tls:0.1.4:*:*:*:*:*:*:*,Haskell hs-tls 0.1.4,['CVE-2013-0243'],2022-03-21T10:00Z
+6,cpe:2.3:a:haskell:hs-tls:0.1.5:*:*:*:*:*:*:*,Haskell hs-tls 0.1.5,['CVE-2013-0243'],2022-03-21T10:00Z
+7,cpe:2.3:a:haskell:hs-tls:0.1.6:*:*:*:*:*:*:*,Haskell hs-tls 0.1.6,['CVE-2013-0243'],2022-03-21T10:00Z
+8,cpe:2.3:a:haskell:hs-tls:0.1.7:*:*:*:*:*:*:*,Haskell hs-tls 0.1.7,['CVE-2013-0243'],2022-03-21T10:00Z
+9,cpe:2.3:a:haskell:hs-tls:0.1.8:*:*:*:*:*:*:*,Haskell hs-tls 0.1.8,['CVE-2013-0243'],2022-03-21T10:00Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:spa8800_ip_telephony_gateway:-:*:*:*:*:*:*:*,Cisco SPA8800 IP Telephony Gateway,['CVE-2011-2545'],2022-03-20T00:24Z
+1,cpe:2.3:h:cisco:spa901_1-line_ip_phone:-:*:*:*:*:*:*:*,Cisco SPA901 1-line IP Phone,"['CVE-2014-3312', 'CVE-2014-3313']",2022-03-20T00:24Z
+2,cpe:2.3:h:cisco:spa922_1-line_ip_phone_with_1-port_ethernet:-:*:*:*:*:*:*:*,Cisco SPA922 1-line IP Phone with 1-port Ethernet,"['CVE-2014-3312', 'CVE-2014-3313']",2022-03-20T00:24Z
+3,cpe:2.3:h:cisco:spa941_4-line_ip_phone_with_1-port_ethernet:-:*:*:*:*:*:*:*,Cisco SPA941 4-line IP Phone with 1-port Ethernet,"['CVE-2014-3312', 'CVE-2014-3313']",2022-03-20T00:24Z
+4,cpe:2.3:h:cisco:spa942_4-line_ip_phone_with_2-port_switch:-:*:*:*:*:*:*:*,Cisco SPA942 4-line IP Phone with 2-port Switch,"['CVE-2014-3312', 'CVE-2014-3313']",2022-03-20T00:24Z
+5,cpe:2.3:h:cisco:spa962_6-line_ip_phone_with_2-port_switch:-:*:*:*:*:*:*:*,Cisco SPA962 6-line IP Phone with 2-port Switch,"['CVE-2014-3312', 'CVE-2014-3313']",2022-03-20T00:25Z
+6,cpe:2.3:a:cisco:spark:-:*:*:*:*:*:*:*,Cisco Spark,['CVE-2017-12269'],2022-03-20T00:25Z
+7,cpe:2.3:a:cisco:spark:2015-06_base:*:*:*:*:*:*:*,Cisco Spark 2015-06 Base,"['CVE-2016-1323', 'CVE-2016-1324']",2022-03-20T00:25Z
+8,[0],[0],[0],[0]
+9,cpe:2.3:a:cisco:spark:2015-07-04_base:*:*:*:*:*:*:*,Cisco Spark 2015-07-04 Base,"['CVE-2015-6303', 'CVE-2016-1322']",2022-03-20T00:25Z

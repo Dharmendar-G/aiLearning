@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:4you-studio:com_jphone:1.0:alpha4:*:*:*:*:*:*,4you-studio JPhone (com_jphone) component 1.0 Alpha4 for Joomla!,[''],2022-03-18T10:10Z
+1,cpe:2.3:a:5000_trillion_yen_converter_project:5000_trillion_yen_converter:1.0.6:*:*:*:*:chrome:*:*,5000 trillion yen Converter Project 5000 trillion yen Converter 1.0.6 for Chrome,['CVE-2018-0612'],2022-03-18T10:10Z
+2,cpe:2.3:a:5000_trillion_yen_converter_project:5000_trillion_yen_converter:1.0.7:*:*:*:*:chrome:*:*,5000 trillion yen Converter Project 5000 trillion yen Converter 1.0.7 for Chrome,[''],2022-03-18T10:10Z
+3,cpe:2.3:a:53kf:53kf:-:*:*:*:*:*:*:*,Kuaifu Group 53KF,['CVE-2020-28119'],2022-03-18T10:10Z
+4,cpe:2.3:a:53kf:53kf:2.0.0.2:*:*:*:*:*:*:*,Kuaifu Group 53KF 2.0.0.2,[''],2022-03-18T10:10Z
+5,cpe:2.3:a:5none:nonecms:1.1.0:*:*:*:*:*:*:*,5none NoneCms 1.1.0,['CVE-2018-6022'],2022-03-18T10:10Z
+6,cpe:2.3:a:5none:nonecms:1.2.0:*:*:*:*:*:*:*,5none NoneCms 1.2.0,['CVE-2018-6022'],2022-03-18T10:10Z
+7,cpe:2.3:a:5none:nonecms:1.3.0:*:*:*:*:*:*:*,5none NoneCms 1.3.0,"['CVE-2018-20062', 'CVE-2018-6022', 'CVE-2018-6029', 'CVE-2018-7219', 'CVE-2019-16721', 'CVE-2020-18646', 'CVE-2020-18647', 'CVE-2020-23371', 'CVE-2020-23373', 'CVE-2020-23374', 'CVE-2020-23376']",2022-03-18T10:10Z
+8,cpe:2.3:a:60cyclecms_project:60cyclecms:-:*:*:*:*:*:*:*,60cycleCMS Project 60cycleCMS,[''],2022-03-18T10:10Z
+9,cpe:2.3:a:60cyclecms_project:60cyclecms:2.0.0:*:*:*:*:*:*:*,60cycleCMS Project 60cycleCMS 2.0.0,[''],2022-03-18T10:10Z

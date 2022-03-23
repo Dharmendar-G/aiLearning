@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hrworks:hrworks:1.16.1:*:*:*:*:*:*:*,HRworks 1.16.1,['CVE-2019-11559'],2022-03-21T16:37Z
+1,cpe:2.3:a:hrworks:hrworks:3.36.9:*:*:*:*:*:*:*,HRworks 3.36.9,"['CVE-2019-16416', 'CVE-2019-16417']",2022-03-21T16:37Z
+2,cpe:2.3:a:hrwtoken_project:hrwtoken:-:*:*:*:*:*:*:*,HRWtoken Project HRWtoken,['CVE-2018-13501'],2022-03-21T16:37Z
+3,cpe:2.3:a:hsweb:hsweb:2.2:*:*:*:*:*:*:*,hsweb 2.2,[''],2022-03-21T16:37Z
+4,cpe:2.3:a:hsweb:hsweb:2.2.1:*:*:*:*:*:*:*,hsweb 2.2.1,[''],2022-03-21T16:37Z
+5,cpe:2.3:a:hsweb:hsweb:3.0.0:-:*:*:*:*:*:*,hsweb 3.0.0,[''],2022-03-21T16:37Z
+6,cpe:2.3:a:hsweb:hsweb:3.0.0:rc:*:*:*:*:*:*,hsweb 3.0.0 Release Candidate,[''],2022-03-21T16:37Z
+7,cpe:2.3:a:hsweb:hsweb:3.0.1:*:*:*:*:*:*:*,hsweb 3.0.1,[''],2022-03-21T16:37Z
+8,cpe:2.3:a:hsweb:hsweb:3.0.2:*:*:*:*:*:*:*,hsweb 3.0.2,[''],2022-03-21T16:37Z
+9,cpe:2.3:a:hsweb:hsweb:3.0.3:*:*:*:*:*:*:*,hsweb 3.0.3,[''],2022-03-21T16:37Z

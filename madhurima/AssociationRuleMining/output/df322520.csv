@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:hpztlbxfx:4.17.154:*:*:*:*:*:*:*,HP Hpztlbxfx 4.17.154,[''],2022-03-21T13:35Z
+1,cpe:2.3:a:hp:hpztlbxfx:5.13.185:*:*:*:*:*:*:*,HP Hpztlbxfx 5.13.185,[''],2022-03-21T13:35Z
+2,cpe:2.3:a:hp:http_communication:6.10.50:*:*:*:*:*:*:*,HP Http Communication 6.10.50,[''],2022-03-21T13:35Z
+3,cpe:2.3:a:hp:http_communication:6.10.70:*:*:*:*:*:*:*,HP Http Communication 6.10.70,[''],2022-03-21T13:35Z
+4,cpe:2.3:a:hp:http_communication:6.20.50:*:*:*:*:*:*:*,HP Http Communication 6.20.50,[''],2022-03-21T13:35Z
+5,cpe:2.3:a:hp:http_server:-:*:*:*:*:*:*:*,HP HTTP Server,[''],2022-03-21T13:35Z
+6,cpe:2.3:a:hp:http_server:5.0:*:*:*:*:*:*:*,HP HTTP Server 5.0,['CVE-2005-4823'],2022-03-21T13:35Z
+7,cpe:2.3:a:hp:http_server:5.92:*:*:*:*:*:*:*,HP HTTP Server 5.92,['CVE-2005-4823'],2022-03-21T13:35Z
+8,cpe:2.3:a:hp:http_server:5.93:*:*:*:*:*:*:*,HP HTTP Server 5.93,['CVE-2005-4823'],2022-03-21T13:35Z
+9,cpe:2.3:a:hp:http_server:5.94:*:*:*:*:*:*:*,HP HTTP Server 5.94,['CVE-2005-4823'],2022-03-21T13:35Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:imanager_neteco_firmware:-:*:*:*:*:*:*:*,Huawei IMANAGER NETECO FIRMWARE,['CVE-2019-9506'],2022-03-21T17:57Z
+1,cpe:2.3:o:huawei:imanager_neteco_firmware:v600r009c00spc100:*:*:*:*:*:*:*,Huawei iManager NetEco Firmware V600R009C00SPC100,['CVE-2021-37127'],2022-03-21T17:57Z
+2,cpe:2.3:o:huawei:imanager_neteco_firmware:v600r009c00spc110:*:*:*:*:*:*:*,Huawei iManager NetEco Firmware V600R009C00SPC110,['CVE-2021-37127'],2022-03-21T17:57Z
+3,cpe:2.3:o:huawei:imanager_neteco_firmware:v600r009c00spc120:*:*:*:*:*:*:*,Huawei iManager NetEco Firmware V600R009C00SPC120,['CVE-2021-37127'],2022-03-21T17:57Z
+4,cpe:2.3:o:huawei:imanager_neteco_firmware:v600r009c00spc190:*:*:*:*:*:*:*,Huawei iManager NetEco Firmware V600R009C00SPC190,['CVE-2021-37127'],2022-03-21T17:57Z
+5,cpe:2.3:o:huawei:imanager_neteco_firmware:v600r009c00spc200:*:*:*:*:*:*:*,Huawei iManager NetEco Firmware V600R009C00SPC200,['CVE-2021-37127'],2022-03-21T17:57Z
+6,cpe:2.3:o:huawei:imanager_neteco_firmware:v600r009c00spc201:*:*:*:*:*:*:*,Huawei iManager NetEco Firmware V600R009C00SPC201,['CVE-2021-37127'],2022-03-21T17:57Z
+7,cpe:2.3:o:huawei:imanager_neteco_firmware:v600r009c00spc202:*:*:*:*:*:*:*,Huawei iManager NetEco Firmware V600R009C00SPC202,['CVE-2021-37127'],2022-03-21T17:57Z
+8,cpe:2.3:o:huawei:imanager_neteco_firmware:v600r009c00spc210:*:*:*:*:*:*:*,Huawei iManager NetEco Firmware V600R009C00SPC210,['CVE-2021-37127'],2022-03-21T17:57Z
+9,cpe:2.3:a:huawei:imaster_mae-m:v100r020c10spc220:*:*:*:*:*:*:*,Huawei iMaster MAE-M V100R020C10SPC220,['CVE-2021-22299'],2022-03-21T17:57Z

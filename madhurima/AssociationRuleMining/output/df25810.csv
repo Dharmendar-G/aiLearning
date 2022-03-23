@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:anomali:agave:0.0.5:*:*:*:*:*:*:*,Anomali Agave 0.0.5,['CVE-2019-11641'],2022-03-18T16:42Z
+1,cpe:2.3:a:anomali:agave:0.0.6:*:*:*:*:*:*:*,Anomali Agave 0.0.6,['CVE-2019-11641'],2022-03-18T16:42Z
+2,cpe:2.3:a:anomali:agave:0.0.7:*:*:*:*:*:*:*,Anomali Agave 0.0.7,['CVE-2019-11641'],2022-03-18T16:42Z
+3,cpe:2.3:a:anomali:agave:1.0.0:*:*:*:*:*:*:*,Anomali Agave 1.0.0,['CVE-2019-11641'],2022-03-18T16:42Z
+4,cpe:2.3:a:anonaddy:anonaddy:0.1.0:*:*:*:*:*:*:*,AnonAddy 0.1.0,[''],2022-03-18T16:42Z
+5,cpe:2.3:a:anonaddy:anonaddy:0.1.1:*:*:*:*:*:*:*,AnonAddy 0.1.1,[''],2022-03-18T16:42Z
+6,cpe:2.3:a:anonaddy:anonaddy:0.1.2:*:*:*:*:*:*:*,AnonAddy 0.1.2,[''],2022-03-18T16:42Z
+7,cpe:2.3:a:anonaddy:anonaddy:0.1.3:*:*:*:*:*:*:*,AnonAddy 0.1.3,[''],2022-03-18T16:42Z
+8,cpe:2.3:a:anonaddy:anonaddy:0.1.4:*:*:*:*:*:*:*,AnonAddy 0.1.4,[''],2022-03-18T16:42Z
+9,cpe:2.3:a:anonaddy:anonaddy:0.1.5:*:*:*:*:*:*:*,AnonAddy 0.1.5,[''],2022-03-18T16:42Z

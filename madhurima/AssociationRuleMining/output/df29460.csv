@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:cloudstack:4.4.2:*:*:*:*:*:*:*,Apache Software Foundation Cloudstack 4.4.2,"['CVE-2015-3252', 'CVE-2016-6813', 'CVE-2019-17562']",2022-03-18T17:56Z
+1,cpe:2.3:a:apache:cloudstack:4.4.3:*:*:*:*:*:*:*,Apache Software Foundation Cloudstack 4.4.3,"['CVE-2015-3252', 'CVE-2016-6813', 'CVE-2019-17562']",2022-03-18T17:56Z
+2,cpe:2.3:a:apache:cloudstack:4.4.4:*:*:*:*:*:*:*,Apache CloudStack 4.4.4,"['CVE-2015-3251', 'CVE-2015-3252', 'CVE-2016-6813', 'CVE-2019-17562']",2022-03-18T17:56Z
+3,cpe:2.3:a:apache:cloudstack:4.5.1:*:*:*:*:*:*:*,Apache CloudStack 4.5.1,"['CVE-2015-3251', 'CVE-2015-3252', 'CVE-2016-3085', 'CVE-2016-6813', 'CVE-2019-17562']",2022-03-18T17:56Z
+4,cpe:2.3:a:apache:cloudstack:4.5.2:*:*:*:*:*:*:*,Apache Software Foundation CloudStack 4.5.2,"['CVE-2016-3085', 'CVE-2016-6813', 'CVE-2019-17562']",2022-03-18T17:56Z
+5,cpe:2.3:a:apache:cloudstack:4.5.2.1:*:*:*:*:*:*:*,Apache Software Foundation Cloudstack 4.5.2.1,"['CVE-2016-6813', 'CVE-2019-17562']",2022-03-18T17:56Z
+6,cpe:2.3:a:apache:cloudstack:4.5.2.2:*:*:*:*:*:*:*,Apache Software Foundation Cloudstack 4.5.2.2,"['CVE-2016-6813', 'CVE-2019-17562']",2022-03-18T17:56Z
+7,cpe:2.3:a:apache:cloudstack:4.6.0:*:*:*:*:*:*:*,Apache Software Foundation CloudStack 4.6.0,"['CVE-2016-3085', 'CVE-2016-6813', 'CVE-2019-17562']",2022-03-18T17:56Z
+8,cpe:2.3:a:apache:cloudstack:4.6.1:*:*:*:*:*:*:*,Apache Software Foundation CloudStack 4.6.1,"['CVE-2016-3085', 'CVE-2016-6813', 'CVE-2019-17562']",2022-03-18T17:56Z
+9,cpe:2.3:a:apache:cloudstack:4.6.2:*:*:*:*:*:*:*,Apache Software Foundation CloudStack 4.6.2,"['CVE-2016-3085', 'CVE-2016-6813', 'CVE-2019-17562']",2022-03-18T17:56Z

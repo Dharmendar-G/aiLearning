@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:business_protection_suite:2.0:*:*:*:*:*:*:*,Broadcom Business Protection Suite 2.0,"['CVE-2006-0306', 'CVE-2006-0307', 'CVE-2006-5143', 'CVE-2007-0168', 'CVE-2007-0169', 'CVE-2007-0449', 'CVE-2007-0672', 'CVE-2007-0673', 'CVE-2007-2139', 'CVE-2007-5326', 'CVE-2007-5329', 'CVE-2007-5331']",2022-03-19T12:15Z
+1,cpe:2.3:a:broadcom:business_protection_suite:r2:*:*:*:*:*:*:*,Broadcom Business Protection Suite R2,"['CVE-2008-4397', 'CVE-2008-4398', 'CVE-2008-4399', 'CVE-2008-4400']",2022-03-19T12:15Z
+2,cpe:2.3:a:broadcom:ca_api_developer_portal:3.5:-:*:*:*:*:*:*,Broadcom CA API Developer Portal 3.5,"['CVE-2020-11658', 'CVE-2020-11659', 'CVE-2020-11660']",2022-03-19T12:15Z
+3,cpe:2.3:a:broadcom:ca_api_developer_portal:3.5:cr1:*:*:*:*:*:*,Broadcom CA API Developer Portal 3.5 CR1,"['CVE-2020-11658', 'CVE-2020-11659', 'CVE-2020-11660']",2022-03-19T12:15Z
+4,cpe:2.3:a:broadcom:ca_api_developer_portal:3.5:cr10:*:*:*:*:*:*,Broadcom CA API Developer Portal 3.5 CR10,"['CVE-2020-11658', 'CVE-2020-11659', 'CVE-2020-11660']",2022-03-19T12:15Z
+5,cpe:2.3:a:broadcom:ca_api_developer_portal:3.5:cr11:*:*:*:*:*:*,Broadcom CA API Developer Portal 3.5 CR11,"['CVE-2020-11658', 'CVE-2020-11659', 'CVE-2020-11660']",2022-03-19T12:15Z
+6,cpe:2.3:a:broadcom:ca_api_developer_portal:3.5:cr12:*:*:*:*:*:*,Broadcom CA API Developer Portal 3.5 CR12,"['CVE-2020-11658', 'CVE-2020-11659', 'CVE-2020-11660']",2022-03-19T12:15Z
+7,cpe:2.3:a:broadcom:ca_api_developer_portal:3.5:cr2:*:*:*:*:*:*,Broadcom CA API Developer Portal 3.5 CR2,"['CVE-2020-11658', 'CVE-2020-11659', 'CVE-2020-11660']",2022-03-19T12:16Z
+8,cpe:2.3:a:broadcom:ca_api_developer_portal:3.5:cr3:*:*:*:*:*:*,Broadcom CA API Developer Portal 3.5 CR3,"['CVE-2020-11658', 'CVE-2020-11659', 'CVE-2020-11660']",2022-03-19T12:16Z
+9,cpe:2.3:a:broadcom:ca_api_developer_portal:3.5:cr4:*:*:*:*:*:*,Broadcom CA API Developer Portal 3.5 CR4,"['CVE-2020-11658', 'CVE-2020-11659', 'CVE-2020-11660']",2022-03-19T12:16Z

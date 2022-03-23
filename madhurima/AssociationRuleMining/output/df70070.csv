@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:baigo:baigo_sso:1.1.6:*:*:*:*:*:*:*,Baigo SSO 1.1.6,[''],2022-03-19T06:06Z
+1,cpe:2.3:a:baigo:baigo_sso:1.2:*:*:*:*:*:*:*,Baigo SSO 1.2,[''],2022-03-19T06:06Z
+2,cpe:2.3:a:baigo:baigo_sso:2.0:*:*:*:*:*:*:*,Baigo SSO 2.0,[''],2022-03-19T06:06Z
+3,cpe:2.3:a:baigo:baigo_sso:2.1:*:*:*:*:*:*:*,Baigo SSO 2.1,[''],2022-03-19T06:06Z
+4,cpe:2.3:a:baigo:baigo_sso:2.2:*:*:*:*:*:*:*,Baigo SSO 2.2,[''],2022-03-19T06:06Z
+5,cpe:2.3:a:baigo:baigo_sso:3.0:*:*:*:*:*:*:*,Baigo SSO 3.0,[''],2022-03-19T06:06Z
+6,cpe:2.3:a:baigo:baigo_sso:3.0.1:*:*:*:*:*:*:*,Baigo SSO 3.0.1,['CVE-2019-10015'],2022-03-19T06:06Z
+7,cpe:2.3:a:baijiacms_project:baijiacms:2.6:*:*:*:*:*:*:*,baijiacms Project baijiacms 2.6,[''],2022-03-19T06:06Z
+8,cpe:2.3:a:baijiacms_project:baijiacms:2.7:*:*:*:*:*:*:*,baijiacms Project baijiacms 2.7,[''],2022-03-19T06:06Z
+9,cpe:2.3:a:baijiacms_project:baijiacms:3.0:*:*:*:*:*:*:*,baijiacms Project baijiacms 3.0,"['CVE-2018-10219', 'CVE-2018-10249']",2022-03-19T06:06Z

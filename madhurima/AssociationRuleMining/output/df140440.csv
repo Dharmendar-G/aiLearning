@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:citrix:netscaler_gateway_11.0:-:*:*:*:*:*:*:*,Citrix NetScaler Gateway 11.0,['CVE-2016-4945'],2022-03-20T01:32Z
+1,cpe:2.3:o:citrix:netscaler_gateway_11.0_firmware:65.35:*:*:*:*:*:*:*,Citrix NetScaler Gateway Firmware 11.65.35,['CVE-2016-4945'],2022-03-20T01:32Z
+2,cpe:2.3:o:citrix:netscaler_gateway_firmware:10.1.120.1316.e:*:*:*:*:*:*:*,Citrix NetScaler Gateway Firmware 10.1.120.1316.e,"['CVE-2014-8580', 'CVE-2015-5080']",2022-03-20T01:32Z
+3,cpe:2.3:o:citrix:netscaler_gateway_firmware:10.1.121:*:*:*:*:*:*:*,Citrix NetScaler Gateway Firmware 10.1.121,"['CVE-2014-8580', 'CVE-2015-5080']",2022-03-20T01:32Z
+4,cpe:2.3:o:citrix:netscaler_gateway_firmware:10.1.122:*:*:*:*:*:*:*,Citrix NetScaler Gateway Firmware 10.1.122,"['CVE-2014-8580', 'CVE-2015-5080']",2022-03-20T01:32Z
+5,cpe:2.3:o:citrix:netscaler_gateway_firmware:10.1.123:*:*:*:*:*:*:*,Citrix NetScaler Gateway Firmware 10.1.123,"['CVE-2014-8580', 'CVE-2015-5080']",2022-03-20T01:32Z
+6,cpe:2.3:o:citrix:netscaler_gateway_firmware:10.1.124:*:*:*:*:*:*:*,Citrix NetScaler Gateway Firmware 10.1.124,"['CVE-2014-8580', 'CVE-2015-5080']",2022-03-20T01:32Z
+7,cpe:2.3:o:citrix:netscaler_gateway_firmware:10.1.125:*:*:*:*:*:*:*,Citrix NetScaler Gateway Firmware 10.1.125,"['CVE-2014-8580', 'CVE-2015-5080']",2022-03-20T01:32Z
+8,cpe:2.3:o:citrix:netscaler_gateway_firmware:10.1.126:*:*:*:*:*:*:*,Citrix NetScaler Gateway Firmware 10.1.126,"['CVE-2014-8580', 'CVE-2015-5080']",2022-03-20T01:32Z
+9,cpe:2.3:o:citrix:netscaler_gateway_firmware:10.1.127:*:*:*:*:*:*:*,Citrix NetScaler Gateway Firmware 10.1.127,"['CVE-2014-8580', 'CVE-2015-5080']",2022-03-20T01:32Z

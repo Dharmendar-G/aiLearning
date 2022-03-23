@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:developer_log_project:developer_log:2.11.3:*:*:*:*:typo3:*:*,Developer Log project Developer Log for Typo3 2.11.3,['CVE-2015-4613'],2022-03-20T13:40Z
+1,cpe:2.3:a:devexpress:ajax_control_toolkit:15.0:*:*:*:*:*:*:*,DevExpress AJAX Control Toolkit 15.0,['CVE-2015-4670'],2022-03-20T13:40Z
+2,cpe:2.3:a:devexpress:aspxfilemanager_control_for_webforms_and_mvc:10.2:*:*:*:*:*:*:*,DevExpress ASPxFileManager Control for WebForms and MVC 10.2,['CVE-2014-2575'],2022-03-20T13:40Z
+3,cpe:2.3:a:devexpress:aspxfilemanager_control_for_webforms_and_mvc:10.2.3:*:*:*:*:*:*:*,DevExpress ASPxFileManager Control for WebForms and MVC 10.2.3,['CVE-2014-2575'],2022-03-20T13:40Z
+4,cpe:2.3:a:devexpress:aspxfilemanager_control_for_webforms_and_mvc:10.2.4:*:*:*:*:*:*:*,DevExpress ASPxFileManager Control for WebForms and MVC 10.2.4,['CVE-2014-2575'],2022-03-20T13:40Z
+5,cpe:2.3:a:devexpress:aspxfilemanager_control_for_webforms_and_mvc:10.2.5:*:*:*:*:*:*:*,DevExpress ASPxFileManager Control for WebForms and MVC 10.2.5,['CVE-2014-2575'],2022-03-20T13:40Z
+6,cpe:2.3:a:devexpress:aspxfilemanager_control_for_webforms_and_mvc:10.2.6:*:*:*:*:*:*:*,DevExpress ASPxFileManager Control for WebForms and MVC 10.2.6,['CVE-2014-2575'],2022-03-20T13:40Z
+7,cpe:2.3:a:devexpress:aspxfilemanager_control_for_webforms_and_mvc:10.2.8:*:*:*:*:*:*:*,DevExpress ASPxFileManager Control for WebForms and MVC 10.2.8,['CVE-2014-2575'],2022-03-20T13:40Z
+8,cpe:2.3:a:devexpress:aspxfilemanager_control_for_webforms_and_mvc:10.2.9:*:*:*:*:*:*:*,DevExpress ASPxFileManager Control for WebForms and MVC 10.2.9,['CVE-2014-2575'],2022-03-20T13:40Z
+9,cpe:2.3:a:devexpress:aspxfilemanager_control_for_webforms_and_mvc:10.2.10:*:*:*:*:*:*:*,DevExpress ASPxFileManager Control for WebForms and MVC 10.2.10,['CVE-2014-2575'],2022-03-20T13:40Z

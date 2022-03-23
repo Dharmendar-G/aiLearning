@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:canon:eos_5ds:-:*:*:*:*:*:*:*,Canon EOS 5DS,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+1,cpe:2.3:o:canon:eos_5ds_firmware:-:*:*:*:*:*:*:*,Canon EOS 5ds Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+2,cpe:2.3:o:canon:eos_5ds_firmware:1.1.2:*:*:*:*:*:*:*,Canon EOS 5ds Firmware 1.1.2,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+3,cpe:2.3:h:canon:eos_5ds_r:-:*:*:*:*:*:*:*,Canon EOS 5DS R,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+4,cpe:2.3:o:canon:eos_5ds_r_firmware:-:*:*:*:*:*:*:*,Canon EOS 5ds R Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+5,cpe:2.3:o:canon:eos_5ds_r_firmware:1.1.2:*:*:*:*:*:*:*,Canon EOS 5ds R Firmware 1.1.2,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+6,cpe:2.3:h:canon:eos_6d:-:*:*:*:*:*:*:*,Canon EOS 6D,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+7,cpe:2.3:o:canon:eos_6d_firmware:-:*:*:*:*:*:*:*,Canon EOS 6d Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+8,cpe:2.3:o:canon:eos_6d_firmware:1.1.8:*:*:*:*:*:*:*,Canon EOS 6d Firmware 1.1.8,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z
+9,cpe:2.3:h:canon:eos_6d_mark_ii:-:*:*:*:*:*:*:*,Canon EOS 6D MARK II,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:12Z

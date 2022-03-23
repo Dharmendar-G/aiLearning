@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:connect_spring_boot:2.0.0:beta1:*:*:*:*:*:*,Atlassian Connect Spring Boot 2.0.0 Beta 1,"['CVE-2021-26074', 'CVE-2021-26077']",2022-03-19T00:42Z
+1,cpe:2.3:a:atlassian:connect_spring_boot:2.0.1:*:*:*:*:*:*:*,Atlassian Connect Spring Boot 2.0.1,"['CVE-2021-26074', 'CVE-2021-26077']",2022-03-19T00:42Z
+2,cpe:2.3:a:atlassian:connect_spring_boot:2.0.2:*:*:*:*:*:*:*,Atlassian Connect Spring Boot 2.0.2,"['CVE-2021-26074', 'CVE-2021-26077']",2022-03-19T00:42Z
+3,cpe:2.3:a:atlassian:connect_spring_boot:2.0.3:*:*:*:*:*:*:*,Atlassian Connect Spring Boot 2.0.3,"['CVE-2021-26074', 'CVE-2021-26077']",2022-03-19T00:42Z
+4,cpe:2.3:a:atlassian:connect_spring_boot:2.0.4:*:*:*:*:*:*:*,Atlassian Connect Spring Boot 2.0.4,"['CVE-2021-26074', 'CVE-2021-26077']",2022-03-19T00:42Z
+5,cpe:2.3:a:atlassian:connect_spring_boot:2.0.5:*:*:*:*:*:*:*,Atlassian Connect Spring Boot 2.0.5,"['CVE-2021-26074', 'CVE-2021-26077']",2022-03-19T00:42Z
+6,cpe:2.3:a:atlassian:connect_spring_boot:2.0.6:*:*:*:*:*:*:*,Atlassian Connect Spring Boot 2.0.6,"['CVE-2021-26074', 'CVE-2021-26077']",2022-03-19T00:42Z
+7,cpe:2.3:a:atlassian:connect_spring_boot:2.0.7:*:*:*:*:*:*:*,Atlassian Connect Spring Boot 2.0.7,"['CVE-2021-26074', 'CVE-2021-26077']",2022-03-19T00:43Z
+8,cpe:2.3:a:atlassian:connect_spring_boot:2.1.0:*:*:*:*:*:*:*,Atlassian Connect Spring Boot 2.1.0,"['CVE-2021-26074', 'CVE-2021-26077']",2022-03-19T00:43Z
+9,cpe:2.3:a:atlassian:connect_spring_boot:2.1.1:*:*:*:*:*:*:*,Atlassian Connect Spring Boot 2.1.1,"['CVE-2021-26074', 'CVE-2021-26077']",2022-03-19T00:43Z

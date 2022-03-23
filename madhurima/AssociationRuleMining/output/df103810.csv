@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:casperjs:casperjs:-:*:*:*:*:*:*:*,CasperJS,['CVE-2020-7679'],2022-03-19T15:40Z
+1,cpe:2.3:a:casperjs:casperjs:0.4.0:*:*:*:*:*:*:*,CasperJS 0.4.0,['CVE-2020-7679'],2022-03-19T15:40Z
+2,cpe:2.3:a:casperjs:casperjs:0.4.1:*:*:*:*:*:*:*,CasperJS 0.4.1,['CVE-2020-7679'],2022-03-19T15:40Z
+3,cpe:2.3:a:casperjs:casperjs:0.4.2:*:*:*:*:*:*:*,CasperJS 0.4.2,['CVE-2020-7679'],2022-03-19T15:40Z
+4,cpe:2.3:a:casperjs:casperjs:0.4.3:*:*:*:*:*:*:*,CasperJS 0.4.3,['CVE-2020-7679'],2022-03-19T15:40Z
+5,cpe:2.3:a:casperjs:casperjs:0.6.0:*:*:*:*:*:*:*,CasperJS 0.6.0,['CVE-2020-7679'],2022-03-19T15:40Z
+6,cpe:2.3:a:casperjs:casperjs:0.6.1:*:*:*:*:*:*:*,CasperJS 0.6.1,['CVE-2020-7679'],2022-03-19T15:40Z
+7,cpe:2.3:a:casperjs:casperjs:0.6.2:*:*:*:*:*:*:*,CasperJS 0.6.2,['CVE-2020-7679'],2022-03-19T15:40Z
+8,cpe:2.3:a:casperjs:casperjs:0.6.3:*:*:*:*:*:*:*,CasperJS 0.6.3,['CVE-2020-7679'],2022-03-19T15:40Z
+9,cpe:2.3:a:casperjs:casperjs:0.6.4:*:*:*:*:*:*:*,CasperJS 0.6.4,['CVE-2020-7679'],2022-03-19T15:41Z

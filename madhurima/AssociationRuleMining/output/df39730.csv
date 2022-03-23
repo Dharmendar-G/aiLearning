@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apkleaks_project:apkleaks:-:*:*:*:*:*:*:*,APKLeaks Project APKLeaks,['CVE-2021-21386'],2022-03-18T21:20Z
+1,cpe:2.3:a:apkleaks_project:apkleaks:0.3.1:beta:*:*:*:*:*:*,APKLeaks Project APKLeaks 0.3.1-beta,['CVE-2021-21386'],2022-03-18T21:20Z
+2,cpe:2.3:a:apkleaks_project:apkleaks:0.3.2:beta:*:*:*:*:*:*,APKLeaks Project APKLeaks 0.3.2-beta,['CVE-2021-21386'],2022-03-18T21:20Z
+3,cpe:2.3:a:apkleaks_project:apkleaks:1.0.1:*:*:*:*:*:*:*,APKLeaks Project APKLeaks 1.0.1,['CVE-2021-21386'],2022-03-18T21:20Z
+4,cpe:2.3:a:apkleaks_project:apkleaks:1.0.2:*:*:*:*:*:*:*,APKLeaks Project APKLeaks 1.0.2,['CVE-2021-21386'],2022-03-18T21:20Z
+5,cpe:2.3:a:apkleaks_project:apkleaks:2.0.0:*:*:*:*:*:*:*,APKLeaks Project APKLeaks 2.0.0,['CVE-2021-21386'],2022-03-18T21:20Z
+6,cpe:2.3:a:apkleaks_project:apkleaks:2.0.1:*:*:*:*:*:*:*,APKLeaks Project APKLeaks 2.0.1,['CVE-2021-21386'],2022-03-18T21:20Z
+7,cpe:2.3:a:apkleaks_project:apkleaks:2.0.2:*:*:*:*:*:*:*,APKLeaks Project APKLeaks 2.0.2,['CVE-2021-21386'],2022-03-18T21:20Z
+8,cpe:2.3:a:apkleaks_project:apkleaks:2.0.3:*:*:*:*:*:*:*,APKLeaks Project APKLeaks 2.0.3,[''],2022-03-18T21:20Z
+9,cpe:2.3:a:apk-parser_project:apk-parser:0.0.1:*:*:*:*:node.js:*:*,apk-parser Project apk-parser 0.0.1 for Node.js,['CVE-2016-10564'],2022-03-18T21:20Z

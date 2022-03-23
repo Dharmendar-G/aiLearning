@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adiscon:loganalyzer:3.2.3:*:*:*:*:*:*:*,Adiscon LogAnalyzer 3.2.3,"['CVE-2012-3790', 'CVE-2014-6070', 'CVE-2018-19877']",2022-03-18T11:57Z
+1,cpe:2.3:a:adiscon:loganalyzer:3.3.0:*:*:*:*:*:*:*,Adiscon LogAnalyzer 3.3.0,"['CVE-2012-3790', 'CVE-2014-6070', 'CVE-2018-19877']",2022-03-18T11:57Z
+2,cpe:2.3:a:adiscon:loganalyzer:3.4.0:*:*:*:*:*:*:*,Adiscon LogAnalyzer 3.4.0,"['CVE-2012-3790', 'CVE-2014-6070', 'CVE-2018-19877']",2022-03-18T11:57Z
+3,cpe:2.3:a:adiscon:loganalyzer:3.4.1:*:*:*:*:*:*:*,Adiscon LogAnalyzer 3.4.1,"['CVE-2012-3790', 'CVE-2014-6070', 'CVE-2018-19877']",2022-03-18T11:57Z
+4,cpe:2.3:a:adiscon:loganalyzer:3.4.2:*:*:*:*:*:*:*,Adiscon LogAnalyzer 3.4.2,"['CVE-2012-3790', 'CVE-2014-6070', 'CVE-2018-19877']",2022-03-18T11:57Z
+5,cpe:2.3:a:adiscon:loganalyzer:3.4.3:*:*:*:*:*:*:*,Adiscon LogAnalyzer 3.4.3,"['CVE-2012-3790', 'CVE-2014-6070', 'CVE-2018-19877']",2022-03-18T11:57Z
+6,cpe:2.3:a:adiscon:loganalyzer:3.4.4:*:*:*:*:*:*:*,Adiscon LogAnalyzer 3.4.4,"['CVE-2014-6070', 'CVE-2018-19877']",2022-03-18T11:57Z
+7,cpe:2.3:a:adiscon:loganalyzer:3.5.0:*:*:*:*:*:*:*,Adiscon LogAnalyzer 3.5.0,"['CVE-2012-3790', 'CVE-2014-6070', 'CVE-2018-19877']",2022-03-18T11:57Z
+8,cpe:2.3:a:adiscon:loganalyzer:3.5.1:*:*:*:*:*:*:*,Adiscon LogAnalyzer 3.5.1,"['CVE-2012-3790', 'CVE-2014-6070', 'CVE-2018-19877']",2022-03-18T11:57Z
+9,cpe:2.3:a:adiscon:loganalyzer:3.5.2:*:*:*:*:*:*:*,Adiscon LogAnalyzer 3.5.2,"['CVE-2012-3790', 'CVE-2014-6070', 'CVE-2018-19877']",2022-03-18T11:57Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:v6d29b:-:*:*:*:*:*:*:*,HP V6D29B,[''],2022-03-21T16:14Z
+1,cpe:2.3:h:hp:v6d30b:-:*:*:*:*:*:*:*,HP V6D30B,[''],2022-03-21T16:14Z
+2,cpe:2.3:h:hp:value_serial\/usb_receipt_printer_f7m66aa:-:*:*:*:*:*:*:*,HP Value Serial/USB Receipt Printer F7M66AA,"['CVE-2014-7888', 'CVE-2014-7893', 'CVE-2014-7894', 'CVE-2014-7895']",2022-03-21T16:14Z
+3,cpe:2.3:a:hp:veritas_recordnow:-:*:*:*:*:*:*:*,HP Veritas RecordNow (initial release),[''],2022-03-21T16:14Z
+4,cpe:2.3:a:hp:veritas_recordnow:3.55:*:*:*:*:*:*:*,HP Veritas RecordNow 3.55,[''],2022-03-21T16:14Z
+5,cpe:2.3:a:hp:veritas_recordnow:3.57:*:*:*:*:*:*:*,HP Veritas RecordNow 3.5,[''],2022-03-21T16:14Z
+6,cpe:2.3:a:hp:veritas_recordnow:4.56:*:*:*:*:*:*:*,HP Veritas RecordNow 4.56,[''],2022-03-21T16:14Z
+7,cpe:2.3:a:hp:version_control_agent:-:*:*:*:*:*:*:*,HP Version Control Agent,['CVE-2006-5300'],2022-03-21T16:14Z
+8,cpe:2.3:a:hp:version_control_agent:2.0:*:*:*:*:*:*:*,HP Version Control Agent 2.0,['CVE-2006-5300'],2022-03-21T16:14Z
+9,cpe:2.3:a:hp:version_control_agent:2.1.4:*:*:*:*:*:*:*,HP Version Control Agent 2.1.4,['CVE-2006-5300'],2022-03-21T16:14Z

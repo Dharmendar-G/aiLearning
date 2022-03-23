@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dbpower:u818a:-:*:*:*:*:*:*:*,DBPOWER U818a,['CVE-2017-3209'],2022-03-20T11:13Z
+1,cpe:2.3:o:dbpower:u818a_firmware:-:*:*:*:*:*:*:*,DBPOWER U818a Firmware,['CVE-2017-3209'],2022-03-20T11:14Z
+2,cpe:2.3:a:dbsoft:sglac:20.05.001:*:*:*:*:*:*:*,DBSoft SGLAC 20.05.001,[''],2022-03-20T11:14Z
+3,cpe:2.3:a:d-bus_project:d-bus:1.2.1:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.2.1,"['CVE-2010-4352', 'CVE-2011-2200', 'CVE-2014-3477', 'CVE-2014-3635', 'CVE-2014-3636', 'CVE-2014-3638', 'CVE-2014-3639']",2022-03-20T11:14Z
+4,cpe:2.3:a:d-bus_project:d-bus:1.2.2:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.2.2,"['CVE-2010-4352', 'CVE-2011-2200', 'CVE-2014-3635', 'CVE-2014-3636', 'CVE-2014-3638', 'CVE-2014-3639']",2022-03-20T11:14Z
+5,cpe:2.3:a:d-bus_project:d-bus:1.2.3:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.2.3,"['CVE-2010-4352', 'CVE-2011-2200', 'CVE-2014-3477', 'CVE-2014-3635', 'CVE-2014-3636', 'CVE-2014-3638', 'CVE-2014-3639']",2022-03-20T11:14Z
+6,cpe:2.3:a:d-bus_project:d-bus:1.2.4:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.2.4,"['CVE-2010-4352', 'CVE-2011-2200', 'CVE-2014-3477', 'CVE-2014-3635', 'CVE-2014-3636', 'CVE-2014-3638', 'CVE-2014-3639']",2022-03-20T11:14Z
+7,cpe:2.3:a:d-bus_project:d-bus:1.2.4.2:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.2.4.2,"['CVE-2010-4352', 'CVE-2014-3477', 'CVE-2014-3635', 'CVE-2014-3636', 'CVE-2014-3638', 'CVE-2014-3639']",2022-03-20T11:14Z
+8,cpe:2.3:a:d-bus_project:d-bus:1.2.4.2:*:*:*:*:*:*:permissive,D-Bus Project D-Bus 1.2.4.2 permissive,"['CVE-2010-4352', 'CVE-2011-2200', 'CVE-2014-3477', 'CVE-2014-3635', 'CVE-2014-3636', 'CVE-2014-3638', 'CVE-2014-3639']",2022-03-20T11:14Z
+9,cpe:2.3:a:d-bus_project:d-bus:1.2.4.4:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.2.4.4,"['CVE-2010-4352', 'CVE-2014-3477', 'CVE-2014-3635', 'CVE-2014-3636', 'CVE-2014-3638', 'CVE-2014-3639']",2022-03-20T11:14Z

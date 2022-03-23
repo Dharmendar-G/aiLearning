@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:color_laserjet_managed_mfp_m775_cc524a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed MFP M775 CC524A,['CVE-2020-28419'],2022-03-21T13:06Z
+1,cpe:2.3:h:hp:color_laserjet_managed_mfp_m775_cf304a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed MFP M775 CF304A,['CVE-2020-28419'],2022-03-21T13:06Z
+2,cpe:2.3:o:hp:color_laserjet_managed_mfp_m775_firmware:-:*:*:*:*:*:*:*,HP Color Laserjet Managed Mfp M775 Firmware -,"['CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T13:06Z
+3,cpe:2.3:o:hp:color_laserjet_managed_mfp_m775_firmware:2309010_581426:*:*:*:*:*:*:*,HP Color Laserjet Managed Mfp M775 Firmware 2309010 581426,['CVE-2019-6318'],2022-03-21T13:06Z
+4,cpe:2.3:o:hp:color_laserjet_managed_mfp_m775_firmware:2407081_000583:*:*:*:*:*:*:*,HP Color Laserjet Managed Mfp M775 Firmware 2407081 000583,[''],2022-03-21T13:06Z
+5,cpe:2.3:h:hp:color_laserjet_managed_mfp_m775_l3u49a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed MFP M775 L3U49A,['CVE-2020-28419'],2022-03-21T13:06Z
+6,cpe:2.3:h:hp:color_laserjet_managed_mfp_m775_l3u50a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed MFP M775 L3U50A,['CVE-2020-28419'],2022-03-21T13:06Z
+7,cpe:2.3:h:hp:color_laserjet_pro_m154_t6b51a:-:*:*:*:*:*:*:*,HP Color LaserJet Pro M154 T6B51A,['CVE-2020-28419'],2022-03-21T13:06Z
+8,cpe:2.3:h:hp:color_laserjet_pro_m154_t6b52a:-:*:*:*:*:*:*:*,HP Color LaserJet Pro M154 T6B52A,['CVE-2020-28419'],2022-03-21T13:06Z
+9,cpe:2.3:h:hp:color_laserjet_pro_m155_7kw48a:-:*:*:*:*:*:*:*,HP Color LaserJet Pro M155 7KW48A,['CVE-2020-28419'],2022-03-21T13:06Z

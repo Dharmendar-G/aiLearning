@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:chiyu-tech:semac_d2_firmware:-:*:*:*:*:*:*:*,Chiyu Technology SEMAC D2 Firmware,"['CVE-2021-31251', 'CVE-2021-31252', 'CVE-2021-31641', 'CVE-2021-31642', 'CVE-2021-31643']",2022-03-19T17:24Z
+1,cpe:2.3:h:chiyu-tech:semac_d2_n300:-:*:*:*:*:*:*:*,Chiyu Technology SEMAC D2 N300,"['CVE-2021-31251', 'CVE-2021-31252', 'CVE-2021-31641', 'CVE-2021-31642', 'CVE-2021-31643']",2022-03-19T17:24Z
+2,cpe:2.3:o:chiyu-tech:semac_d2_n300_firmware:-:*:*:*:*:*:*:*,Chiyu Technology SEMAC D2 N300 Firmware,"['CVE-2021-31251', 'CVE-2021-31252', 'CVE-2021-31641', 'CVE-2021-31642', 'CVE-2021-31643']",2022-03-19T17:24Z
+3,cpe:2.3:h:chiyu-tech:semac_d4:-:*:*:*:*:*:*:*,Chiyu Technology SEMAC D4,"['CVE-2021-31251', 'CVE-2021-31252', 'CVE-2021-31641', 'CVE-2021-31642', 'CVE-2021-31643']",2022-03-19T17:24Z
+4,cpe:2.3:o:chiyu-tech:semac_d4_firmware:-:*:*:*:*:*:*:*,Chiyu Technology SEMAC D4 Firmware,"['CVE-2021-31251', 'CVE-2021-31252', 'CVE-2021-31641', 'CVE-2021-31642', 'CVE-2021-31643']",2022-03-19T17:24Z
+5,cpe:2.3:h:chiyu-tech:semac_s1_osdp:-:*:*:*:*:*:*:*,Chiyu Technology SEMAC S1 OSDP,"['CVE-2021-31251', 'CVE-2021-31252', 'CVE-2021-31641', 'CVE-2021-31642', 'CVE-2021-31643']",2022-03-19T17:24Z
+6,cpe:2.3:o:chiyu-tech:semac_s1_osdp_firmware:-:*:*:*:*:*:*:*,Chiyu Technology SEMAC S1 OSDP Firmware,"['CVE-2021-31251', 'CVE-2021-31252', 'CVE-2021-31641', 'CVE-2021-31642', 'CVE-2021-31643']",2022-03-19T17:24Z
+7,cpe:2.3:h:chiyu-tech:semac_s2:-:*:*:*:*:*:*:*,Chiyu Technology SEMAC S2,"['CVE-2021-31251', 'CVE-2021-31252', 'CVE-2021-31641', 'CVE-2021-31642', 'CVE-2021-31643']",2022-03-19T17:24Z
+8,cpe:2.3:o:chiyu-tech:semac_s2_firmware:-:*:*:*:*:*:*:*,Chiyu Technology SEMAC S2 Firmware,"['CVE-2021-31251', 'CVE-2021-31252', 'CVE-2021-31641', 'CVE-2021-31642', 'CVE-2021-31643']",2022-03-19T17:24Z
+9,cpe:2.3:h:chiyu-tech:semac_s3v3:-:*:*:*:*:*:*:*,Chiyu Technology SEMAC S3V3,"['CVE-2021-31251', 'CVE-2021-31252', 'CVE-2021-31641', 'CVE-2021-31642', 'CVE-2021-31643']",2022-03-19T17:24Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ckeditor:fckeditor:6.x-2.3:*:*:*:*:*:*:*,CKeditor FCKeditor plugin for Drupal 6.x-2.3,"['CVE-2012-2066', 'CVE-2012-2067']",2022-03-20T02:01Z
+1,cpe:2.3:a:ckeditor:fckeditor:6.x-2.x:dev:*:*:*:*:*:*,CKeditor FCKeditor plugin for Drupal 2.x-dev,"['CVE-2012-2066', 'CVE-2012-2067']",2022-03-20T02:01Z
+2,cpe:2.3:h:cksic:cks32f103:-:*:*:*:*:*:*:*,China Key System & Integrated Circuit CKS32F103,"['CVE-2020-13464', 'CVE-2020-13467']",2022-03-20T02:01Z
+3,cpe:2.3:o:cksic:cks32f103_firmware:-:*:*:*:*:*:*:*,China Key System & Integrated Circuit CKS32F103 Firmware,"['CVE-2020-13464', 'CVE-2020-13467']",2022-03-20T02:01Z
+4,cpe:2.3:a:cksource:ckeditor:1.0:-:*:*:*:wordpress:*:*,CKSource CKEditor 1.0 for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z
+5,cpe:2.3:a:cksource:ckeditor:1.0:beta:*:*:*:wordpress:*:*,CKSource CKEditor 1.0 Beta for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z
+6,cpe:2.3:a:cksource:ckeditor:1.0:beta2:*:*:*:wordpress:*:*,CKSource CKEditor 1.0 Beta 2 for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z
+7,cpe:2.3:a:cksource:ckeditor:1.0.1:*:*:*:*:wordpress:*:*,CKSource CKEditor 1.0.1 for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z
+8,cpe:2.3:a:cksource:ckeditor:1.0.2:*:*:*:*:wordpress:*:*,CKSource CKEditor 1.0.2 for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z
+9,cpe:2.3:a:cksource:ckeditor:1.0.3:*:*:*:*:wordpress:*:*,CKSource CKEditor 1.0.3 for WordPress,['CVE-2015-9349'],2022-03-20T02:01Z

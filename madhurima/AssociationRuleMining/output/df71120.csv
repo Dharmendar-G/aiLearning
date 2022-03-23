@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bas_van_beek:multishop:2.0.39:*:*:*:*:*:*:*,Bas van Beek Multishop extension 2.0.39,[''],2022-03-19T06:26Z
+1,cpe:2.3:a:basecamp:easymon:-:*:*:*:*:ruby:*:*,Basecamp Easymon for Ruby,['CVE-2018-1000855'],2022-03-19T06:26Z
+2,cpe:2.3:a:basecamp:easymon:-:*:*:*:*:ruby:*:*,Basecamp Easymon for Ruby,['CVE-2018-1000855'],2022-03-19T06:26Z
+3,cpe:2.3:a:basecamp:easymon:1.0.6:*:*:*:*:ruby:*:*,Basecamp Easymon 1.0.6 for Ruby,['CVE-2018-1000855'],2022-03-19T06:26Z
+4,cpe:2.3:a:basecamp:easymon:1.0.7:*:*:*:*:ruby:*:*,Basecamp Easymon 1.0.7 for Ruby,['CVE-2018-1000855'],2022-03-19T06:26Z
+5,cpe:2.3:a:basecamp:easymon:1.0.8:*:*:*:*:ruby:*:*,Basecamp Easymon 1.0.8 for Ruby,['CVE-2018-1000855'],2022-03-19T06:26Z
+6,cpe:2.3:a:basecamp:easymon:1.0.9:*:*:*:*:ruby:*:*,Basecamp Easymon 1.0.9 for Ruby,['CVE-2018-1000855'],2022-03-19T06:26Z
+7,cpe:2.3:a:basecamp:easymon:1.1:*:*:*:*:ruby:*:*,Basecamp Easymon 1.1 for Ruby,['CVE-2018-1000855'],2022-03-19T06:26Z
+8,cpe:2.3:a:basecamp:easymon:1.2:*:*:*:*:ruby:*:*,Basecamp Easymon 1.2 for Ruby,['CVE-2018-1000855'],2022-03-19T06:26Z
+9,cpe:2.3:a:basecamp:easymon:1.2.1:*:*:*:*:ruby:*:*,Basecamp Easymon 1.2.1 for Ruby,['CVE-2018-1000855'],2022-03-19T06:26Z

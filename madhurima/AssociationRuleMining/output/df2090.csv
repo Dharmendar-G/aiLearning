@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:2sic:2sxc:09.05.00:patchre1:*:*:*:*:*:*,2sic 2sxc 09.05.00 Patchre1,['CVE-2020-26885'],2022-03-18T09:56Z
+1,cpe:2.3:a:2sic:2sxc:09.05.00:patchre2:*:*:*:*:*:*,2sic 2sxc 09.05.00 Patchre2,['CVE-2020-26885'],2022-03-18T09:56Z
+2,cpe:2.3:a:2sic:2sxc:09.05.00:patchre3:*:*:*:*:*:*,2sic 2sxc 09.05.00 Patchre3,['CVE-2020-26885'],2022-03-18T09:56Z
+3,cpe:2.3:a:2sic:2sxc:09.05.01:*:*:*:*:*:*:*,2sic 2sxc 09.05.01,['CVE-2020-26885'],2022-03-18T09:56Z
+4,cpe:2.3:a:2sic:2sxc:09.05.02:*:*:*:*:*:*:*,2sic 2sxc 09.05.02,['CVE-2020-26885'],2022-03-18T09:56Z
+5,cpe:2.3:a:2sic:2sxc:09.06.00:-:*:*:*:*:*:*,2sic 2sxc 09.06.00 -,['CVE-2020-26885'],2022-03-18T09:56Z
+6,cpe:2.3:a:2sic:2sxc:09.06.00:patchre1:*:*:*:*:*:*,2sic 2sxc 09.06.00 Patchre1,['CVE-2020-26885'],2022-03-18T09:56Z
+7,cpe:2.3:a:2sic:2sxc:09.06.00:patchre2:*:*:*:*:*:*,2sic 2sxc 09.06.00 Patchre2,['CVE-2020-26885'],2022-03-18T09:56Z
+8,cpe:2.3:a:2sic:2sxc:09.06.00:patchre3:*:*:*:*:*:*,2sic 2sxc 09.06.00 Patchre3,['CVE-2020-26885'],2022-03-18T09:56Z
+9,cpe:2.3:a:2sic:2sxc:09.06.00:patchre4:*:*:*:*:*:*,2sic 2sxc 09.06.00 Patchre4,['CVE-2020-26885'],2022-03-18T09:56Z

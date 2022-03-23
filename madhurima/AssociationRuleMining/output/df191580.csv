@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:docker:docker:17.12.0:rc1:*:*:community:*:*:*,Docker 17.12.0 Release Candidate 1 Community Edition,"['CVE-2019-13509', 'CVE-2019-16884', 'CVE-2019-5736', 'CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:25Z
+1,cpe:2.3:a:docker:docker:17.12.0:rc2:*:*:community:*:*:*,Docker 17.12.0 Release Candidate 2 Community Edition,"['CVE-2019-13509', 'CVE-2019-16884', 'CVE-2019-5736', 'CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:25Z
+2,cpe:2.3:a:docker:docker:17.12.0:rc3:*:*:community:*:*:*,Docker 17.12.0 Release Candidate 3 Community Edition,"['CVE-2019-13509', 'CVE-2019-16884', 'CVE-2019-5736', 'CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:25Z
+3,cpe:2.3:a:docker:docker:17.12.0:rc4:*:*:community:*:*:*,Docker 17.12.0 Release Candidate 4 Community Edition,"['CVE-2019-13509', 'CVE-2019-16884', 'CVE-2019-5736', 'CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:25Z
+4,cpe:2.3:a:docker:docker:17.12.1:-:*:*:community:*:*:*,Docker 17.12.1 Community Edition,"['CVE-2019-13509', 'CVE-2019-16884', 'CVE-2019-5736', 'CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:25Z
+5,cpe:2.3:a:docker:docker:17.12.1:rc1:*:*:community:*:*:*,Docker 17.12.1 Release Candidate 1 Community Edition,"['CVE-2019-13509', 'CVE-2019-16884', 'CVE-2019-5736', 'CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:25Z
+6,cpe:2.3:a:docker:docker:17.12.1:rc2:*:*:community:*:*:*,Docker 17.12.1 Release Candidate 2 Community Edition,"['CVE-2019-13509', 'CVE-2019-16884', 'CVE-2019-5736', 'CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:25Z
+7,cpe:2.3:a:docker:docker:18.01.0:-:*:*:community:*:*:*,Docker 18.01.0 Community Edition,"['CVE-2019-13509', 'CVE-2019-16884', 'CVE-2019-5736', 'CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:25Z
+8,cpe:2.3:a:docker:docker:18.01.0:rc1:*:*:community:*:*:*,Docker 18.01.0 Release Candidate 1 Community Edition,"['CVE-2019-13509', 'CVE-2019-16884', 'CVE-2019-5736', 'CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:25Z
+9,cpe:2.3:a:docker:docker:18.02.0:-:*:*:community:*:*:*,Docker 18.02.0 Community Edition,"['CVE-2019-13509', 'CVE-2019-16884', 'CVE-2019-5736', 'CVE-2020-27534', 'CVE-2021-21284', 'CVE-2021-21285']",2022-03-20T16:25Z

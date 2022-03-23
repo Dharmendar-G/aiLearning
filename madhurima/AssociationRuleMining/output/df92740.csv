@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:ca_api_developer_portal:4.5.0:*:*:*:*:*:*:*,Broadcom CA API Developer Portal 4.5.0,[''],2022-03-19T12:16Z
+1,cpe:2.3:a:broadcom:ca_automic_dollar_universe:5.3.3:*:*:*:*:*:*:*,Broadcom Ca Automic Dollar Universe 5.3.3,['CVE-2019-19544'],2022-03-19T12:16Z
+2,cpe:2.3:a:broadcom:ca_automic_sysload:5.6.0:*:*:*:*:*:*:*,Broadcom CA Automic Sysload 5.6.0,['CVE-2019-19518'],2022-03-19T12:16Z
+3,cpe:2.3:a:broadcom:ca_automic_sysload:6.1.2:*:*:*:*:*:*:*,Broadcom CA Automic Sysload 6.1.2,['CVE-2019-19518'],2022-03-19T12:16Z
+4,cpe:2.3:a:broadcom:ca_automic_sysload:6.10:*:*:*:*:*:*:*,Broadcom CA Automic Sysload 6.10,[''],2022-03-19T12:16Z
+5,cpe:2.3:a:broadcom:ca_client_automation:14.0:*:*:*:*:*:*:*,Broadcom CA Client Automation 14.0,"['CVE-2019-13656', 'CVE-2019-19231']",2022-03-19T12:16Z
+6,cpe:2.3:a:broadcom:ca_client_automation:14.1:*:*:*:*:*:*:*,Broadcom CA Client Automation 14.1,['CVE-2019-19231'],2022-03-19T12:16Z
+7,cpe:2.3:a:broadcom:ca_client_automation:14.2:*:*:*:*:*:*:*,Broadcom CA Client Automation 14.2,['CVE-2019-19231'],2022-03-19T12:16Z
+8,cpe:2.3:a:broadcom:ca_client_automation:14.3:*:*:*:*:*:*:*,Broadcom CA Client Automation 14.3,['CVE-2019-19231'],2022-03-19T12:16Z
+9,cpe:2.3:a:broadcom:ca_harvest_software_change_manager:13.0.3:*:*:*:*:*:*:*,Broadcom CA Harvest Software Change Manager 13.0.3,['CVE-2022-22689'],2022-03-19T12:16Z

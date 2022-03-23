@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:beego:beego:2.0.1:*:*:*:*:*:*:*,Beego 2.0.1,['CVE-2021-39391'],2022-03-19T06:51Z
+1,cpe:2.3:a:beehive_forum:beehive_forum:1.4.4:*:*:*:*:*:*:*,Beehive Forum Beehive Forum 1.4.4,['CVE-2015-2198'],2022-03-19T06:51Z
+2,cpe:2.3:h:beeline:pro_2:-:*:*:*:*:*:*:*,Beeline Pro 2,['CVE-2016-6564'],2022-03-19T06:51Z
+3,cpe:2.3:o:beeline:pro_2_firmware:-:*:*:*:*:*:*:*,Beeline Pro 2 Firmware,['CVE-2016-6564'],2022-03-19T06:51Z
+4,cpe:2.3:h:beeline:smart_box:-:*:*:*:*:*:*:*,Beeline Smart Box,"['CVE-2020-12246', 'CVE-2021-41426', 'CVE-2021-41427']",2022-03-19T06:51Z
+5,cpe:2.3:o:beeline:smart_box_firmware:2.0.38:*:*:*:*:*:*:*,Beeline Smart Box Firmware 2.0.38,"['CVE-2020-12246', 'CVE-2021-41426', 'CVE-2021-41427']",2022-03-19T06:51Z
+6,cpe:2.3:a:beep_project:beep:0.4:*:*:*:*:*:*:*,Beep Project Beep 0.4,['CVE-2018-0492'],2022-03-19T06:51Z
+7,cpe:2.3:a:beep_project:beep:0.5:*:*:*:*:*:*:*,Beep Project Beep 0.5,['CVE-2018-0492'],2022-03-19T06:51Z
+8,cpe:2.3:a:beep_project:beep:0.6:*:*:*:*:*:*:*,Beep Project Beep 0.6,['CVE-2018-0492'],2022-03-19T06:51Z
+9,cpe:2.3:a:beep_project:beep:0.6.1:*:*:*:*:*:*:*,Beep Project Beep 0.6.1,['CVE-2018-0492'],2022-03-19T06:51Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:combodo:itop:2.7.2:*:*:*:*:*:*:*,Combodo iTop (aka IT Operations Portal) 2.7.2,"['CVE-2021-21406', 'CVE-2021-21407', 'CVE-2021-32775', 'CVE-2021-32776']",2022-03-20T06:48Z
+1,cpe:2.3:a:combodo:itop:2.7.2-1:*:*:*:*:*:*:*,Combodo iTop (aka IT Operations Portal) 2.7.2-1,"['CVE-2021-21406', 'CVE-2021-21407', 'CVE-2021-32775', 'CVE-2021-32776']",2022-03-20T06:48Z
+2,cpe:2.3:a:combodo:itop:2.7.3:*:*:*:*:*:*:*,Combodo iTop (aka IT Operations Portal) 2.7.3,"['CVE-2020-4079', 'CVE-2021-21406', 'CVE-2021-21407', 'CVE-2021-32775', 'CVE-2021-32776']",2022-03-20T06:48Z
+3,cpe:2.3:a:combodo:itop:2.7.3-1:*:*:*:*:*:*:*,Combodo iTop (aka IT Operations Portal) 2.7.3-1,"['CVE-2021-21406', 'CVE-2021-21407', 'CVE-2021-32775', 'CVE-2021-32776']",2022-03-20T06:48Z
+4,cpe:2.3:a:combodo:itop:2.7.3-2:*:*:*:*:*:*:*,Combodo iTop (aka IT Operations Portal) 2.7.3-2,"['CVE-2021-21406', 'CVE-2021-21407', 'CVE-2021-32775', 'CVE-2021-32776']",2022-03-20T06:48Z
+5,cpe:2.3:a:combodo:itop:2.7.4:*:*:*:*:*:*:*,Combodo iTop (aka IT Operations Portal) 2.7.4,[''],2022-03-20T06:48Z
+6,cpe:2.3:a:combodo:itop:2.7.5:*:*:*:*:*:*:*,Combodo iTop (aka IT Operations Portal) 2.7.5,['CVE-2021-21406'],2022-03-20T06:48Z
+7,cpe:2.3:a:combodo:itop:2.7.5-1:*:*:*:*:*:*:*,Combodo iTop (aka IT Operations Portal) 2.7.5-1,['CVE-2021-21406'],2022-03-20T06:48Z
+8,cpe:2.3:a:combodo:itop:3.0.0:alpha:*:*:*:*:*:*,Combodo iTop (aka IT Operations Portal) 3.0.0 Alpha,"['CVE-2020-15218', 'CVE-2020-15219', 'CVE-2020-15220', 'CVE-2020-15221', 'CVE-2021-32775', 'CVE-2021-32776']",2022-03-20T06:48Z
+9,cpe:2.3:a:combodo:itop:3.0.0:beta:*:*:*:*:*:*,Combodo iTop (aka IT Operations Portal) 3.0.0 Beta,"['CVE-2021-32775', 'CVE-2021-32776']",2022-03-20T06:48Z

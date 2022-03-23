@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:handlebarsjs:handlebars:2.0.0:-:*:*:*:node.js:*:*,Handlebarsjs Handlebars 2.0.0 for Node.js,"['CVE-2019-20920', 'CVE-2021-23369', 'CVE-2021-23383']",2022-03-21T08:47Z
+1,cpe:2.3:a:handlebarsjs:handlebars:2.0.0:alpha1:*:*:*:node.js:*:*,Handlebarsjs Handlebars 2.0.0 Alpha 1 for Node.js,"['CVE-2019-20920', 'CVE-2021-23369', 'CVE-2021-23383']",2022-03-21T08:47Z
+2,cpe:2.3:a:handlebarsjs:handlebars:2.0.0:alpha2:*:*:*:node.js:*:*,Handlebarsjs Handlebars 2.0.0 Alpha 2 for Node.js,"['CVE-2019-20920', 'CVE-2021-23369', 'CVE-2021-23383']",2022-03-21T08:47Z
+3,cpe:2.3:a:handlebarsjs:handlebars:2.0.0:alpha3:*:*:*:node.js:*:*,Handlebarsjs Handlebars 2.0.0 Alpha 3 for Node.js,"['CVE-2019-20920', 'CVE-2021-23369', 'CVE-2021-23383']",2022-03-21T08:47Z
+4,cpe:2.3:a:handlebarsjs:handlebars:2.0.0:alpha4:*:*:*:node.js:*:*,Handlebarsjs Handlebars 2.0.0 Alpha 4 for Node.js,"['CVE-2019-20920', 'CVE-2021-23369', 'CVE-2021-23383']",2022-03-21T08:47Z
+5,cpe:2.3:a:handlebarsjs:handlebars:2.0.0:beta1:*:*:*:node.js:*:*,Handlebarsjs Handlebars 2.0.0 Beta 1 for Node.js,"['CVE-2019-20920', 'CVE-2021-23369', 'CVE-2021-23383']",2022-03-21T08:47Z
+6,cpe:2.3:a:handlebarsjs:handlebars:3.0.0:*:*:*:*:node.js:*:*,Handlebarsjs Handlebars 3.0.0 for Node.js,"['CVE-2019-20920', 'CVE-2021-23369', 'CVE-2021-23383']",2022-03-21T08:47Z
+7,cpe:2.3:a:handlebarsjs:handlebars:3.0.1:*:*:*:*:node.js:*:*,Handlebarsjs Handlebars 3.0.1 for Node.js,"['CVE-2019-20920', 'CVE-2021-23369', 'CVE-2021-23383']",2022-03-21T08:47Z
+8,cpe:2.3:a:handlebarsjs:handlebars:3.0.2:*:*:*:*:node.js:*:*,Handlebarsjs Handlebars 3.0.2 for Node.js,"['CVE-2019-20920', 'CVE-2021-23369', 'CVE-2021-23383']",2022-03-21T08:47Z
+9,cpe:2.3:a:handlebarsjs:handlebars:3.0.3:*:*:*:*:node.js:*:*,Handlebarsjs Handlebars 3.0.3 for Node.js,"['CVE-2019-20920', 'CVE-2021-23369', 'CVE-2021-23383']",2022-03-21T08:47Z

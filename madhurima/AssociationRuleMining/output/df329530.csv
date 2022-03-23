@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:t930_firmware:mry_04_05_00.4:*:*:*:*:*:*:*,HP T930 Firmware MRY 04 05 00.4,['CVE-2017-2747'],2022-03-21T16:11Z
+1,[0],[0],[0],[0]
+2,cpe:2.3:a:hp:tcp_ip_services_openvms:-:*:*:*:*:*:*:*,HP TCP_IP Services OpenVMS,['CVE-2014-7880'],2022-03-21T16:11Z
+3,cpe:2.3:a:hp:tcp_ip_services_openvms:5.6:*:*:*:*:*:*:*,HP TCP_IP Services OpenVMS 5.6,"['CVE-2011-3168', 'CVE-2011-3169', 'CVE-2014-7880']",2022-03-21T16:11Z
+4,cpe:2.3:a:hp:tcp_ip_services_openvms:5.7:*:*:*:*:*:*:*,HP TCP_IP Services OpenVMS 5.7,"['CVE-2011-3168', 'CVE-2011-3169', 'CVE-2014-7880']",2022-03-21T16:11Z
+5,cpe:2.3:o:hp:thinpro:4.4:*:*:*:*:*:*:*,HP ThinPro 4.4,"['CVE-2016-2246', 'CVE-2017-2740']",2022-03-21T16:11Z
+6,cpe:2.3:o:hp:thinpro:5.0:*:*:*:*:*:*:*,HP ThinPro 5.0,"['CVE-2016-2246', 'CVE-2017-2740']",2022-03-21T16:11Z
+7,cpe:2.3:o:hp:thinpro:5.1:*:*:*:*:*:*:*,HP ThinPro 5.1,"['CVE-2016-2246', 'CVE-2017-2740']",2022-03-21T16:11Z
+8,cpe:2.3:o:hp:thinpro:5.2:*:*:*:*:*:*:*,HP ThinPro 5.2,"['CVE-2016-2246', 'CVE-2017-2740']",2022-03-21T16:11Z
+9,cpe:2.3:o:hp:thinpro:5.2.1:*:*:*:*:*:*:*,HP ThinPro 5.2.1,"['CVE-2016-2246', 'CVE-2017-2740']",2022-03-21T16:11Z

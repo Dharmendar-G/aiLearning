@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:notes:9.0.1.10:-:*:*:*:*:*:*,IBM Notes 9.0.1.10 -,['CVE-2018-1771'],2022-03-21T21:22Z
+1,cpe:2.3:a:ibm:notes:9.0.1.10:interim_fix_1:*:*:*:*:*:*,IBM Notes 9.0.1.10 Interim Fix 1,['CVE-2018-1771'],2022-03-21T21:22Z
+2,cpe:2.3:a:ibm:notes:9.0.1.10:interim_fix_2:*:*:*:*:*:*,IBM Notes 9.0.1.10 Interim Fix 2,['CVE-2018-1771'],2022-03-21T21:22Z
+3,cpe:2.3:a:ibm:notes:9.0.1.10:interim_fix_3:*:*:*:*:*:*,IBM Notes 9.0.1.10 Interim Fix 3,['CVE-2018-1771'],2022-03-21T21:22Z
+4,cpe:2.3:a:ibm:notes:9.0.1.10:interim_fix_4:*:*:*:*:*:*,IBM Notes 9.0.1.10 Interim Fix 4,['CVE-2018-1771'],2022-03-21T21:22Z
+5,cpe:2.3:a:ibm:notes:9.0.1.10:interim_fix_5:*:*:*:*:*:*,IBM Notes 9.0.1.10 Interim Fix 5,['CVE-2018-1771'],2022-03-21T21:22Z
+6,cpe:2.3:a:ibm:notes_traveler:9.0.1.2:*:*:*:*:android:*:*,IBM Notes Traveler for Android 9.0.1.2,['CVE-2014-6130'],2022-03-21T21:22Z
+7,cpe:2.3:a:ibm:notes_traveler_companion:1.0:*:*:*:*:windows_phone:*:*,IBM Notes Traveler Companion for Windows Phone 1.0,['CVE-2014-8921'],2022-03-21T21:22Z
+8,cpe:2.3:a:ibm:notes_traveler_companion:1.1:*:*:*:*:windows_phone:*:*,IBM Notes Traveler Companion for Windows Phone 1.1,['CVE-2014-8921'],2022-03-21T21:22Z
+9,cpe:2.3:o:ibm:open_power:op910:*:*:*:*:*:*:*,IBM Open Power Op910,['CVE-2019-4169'],2022-03-21T21:22Z

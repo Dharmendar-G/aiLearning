@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:huawei:mate_9_pro:lon-al00b_8.0.0.334\(c00\):*:*:*:*:*:*:*,HUAWEI Mate 9 Pro LON-AL00B 8.0.0.334(c00),['CVE-2017-17175'],2022-03-21T18:07Z
+1,cpe:2.3:a:huawei:mate_9_pro:lon-al00b_8.0.0.340a\(c00\):*:*:*:*:*:*:*,HUAWEI Mate 9 Pro LON-AL00B 8.0.0.340a(c00),['CVE-2017-17175'],2022-03-21T18:07Z
+2,cpe:2.3:a:huawei:mate_9_pro:lon-al00b_8.0.0.343\(c00\):*:*:*:*:*:*:*,HUAWEI Mate 9 Pro LON-AL00B 8.0.0.343(c00),['CVE-2017-17175'],2022-03-21T18:07Z
+3,cpe:2.3:a:huawei:mate_9_pro:lon-al00b_8.0.0.354\(c00\):*:*:*:*:*:*:*,Huawei Mate 9 Pro LON-AL00B 8.0.0.354(c00),[''],2022-03-21T18:07Z
+4,cpe:2.3:a:huawei:mate_9_pro:lon-al00b_8.0.0.356\(c00\):*:*:*:*:*:*:*,HUAWEI Mate 9 Pro LON-AL00B 8.0.0.356(c00),[''],2022-03-21T18:07Z
+5,cpe:2.3:a:huawei:mate_9_pro:lon-al00b_8.0.0.360\(c721\):*:*:*:*:*:*:*,HUAWEI Mate 9 Pro LON-AL00B 8.0.0.360(c721),[''],2022-03-21T18:08Z
+6,cpe:2.3:o:huawei:mate_9_pro_fimware:-:*:*:*:*:*:*:*,Huawei Mate 9 Pro Fimware -,"['CVE-2017-17173', 'CVE-2019-5244']",2022-03-21T18:08Z
+7,cpe:2.3:o:huawei:mate_9_pro_fimware:lon-al00b_8.0.0.334\(c00\):*:*:*:*:*:*:*,Huawei Mate 9 Pro Fimware Lon-al00b 8.0.0.334(c00),"['CVE-2017-17173', 'CVE-2019-5244']",2022-03-21T18:08Z
+8,cpe:2.3:o:huawei:mate_9_pro_fimware:lon-al00b_8.0.0.340a\(c00\):*:*:*:*:*:*:*,Huawei Mate 9 Pro Fimware Lon-al00b 8.0.0.340a(c00),"['CVE-2017-17173', 'CVE-2019-5244']",2022-03-21T18:08Z
+9,cpe:2.3:o:huawei:mate_9_pro_fimware:lon-al00b_8.0.0.356\(c00\):*:*:*:*:*:*:*,Huawei Mate 9 Pro Fimware Lon-al00b 8.0.0.356(c00),['CVE-2019-5244'],2022-03-21T18:08Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hashicorp:terraform:1.57.0:*:*:*:*:aws:*:*,HashiCorp Terraform 1.57.0 for AWS,[''],2022-03-21T09:53Z
+1,cpe:2.3:a:hashicorp:terraform:1.58.0:*:*:*:*:aws:*:*,HashiCorp Terraform 1.58.0 for AWS,[''],2022-03-21T09:53Z
+2,cpe:2.3:a:hashicorp:terraform:1.59.0:*:*:*:*:aws:*:*,HashiCorp Terraform 1.59.0 for AWS,[''],2022-03-21T09:53Z
+3,cpe:2.3:a:hashicorp:terraform:1.60.0:*:*:*:*:aws:*:*,HashiCorp Terraform 1.60.0 for AWS,[''],2022-03-21T09:53Z
+4,cpe:2.3:a:hashicorp:terraform:2.0.0:*:*:*:*:aws:*:*,HashiCorp Terraform 2.0.0 for AWS,[''],2022-03-21T09:53Z
+5,cpe:2.3:a:hashicorp:terraform:2.1.0:*:*:*:*:aws:*:*,HashiCorp Terraform 2.1.0 for AWS,[''],2022-03-21T09:53Z
+6,cpe:2.3:a:hashicorp:terraform:2.2.0:*:*:*:*:aws:*:*,HashiCorp Terraform 2.2.0 for AWS,[''],2022-03-21T09:53Z
+7,cpe:2.3:a:hashicorp:terraform:2.3.0:*:*:*:*:aws:*:*,HashiCorp Terraform 2.3.0 for AWS,[''],2022-03-21T09:53Z
+8,cpe:2.3:a:hashicorp:terraform:2.4.0:*:*:*:*:aws:*:*,HashiCorp Terraform 2.4.0 for AWS,[''],2022-03-21T09:54Z
+9,cpe:2.3:a:hashicorp:terraform:2.5.0:*:*:*:*:aws:*:*,HashiCorp Terraform 2.5.0 for AWS,[''],2022-03-21T09:53Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alps:touch_pad_driver:6.0.305.6:*:*:*:*:*:*:*,Alps Touch Pad Driver 6.0.305.6,[''],2022-03-18T15:09Z
+1,cpe:2.3:a:alps:touch_pad_driver:7.1.102.7:*:*:*:*:*:*:*,Alps Touch Pad Driver 7.1.102.7,[''],2022-03-18T15:09Z
+2,cpe:2.3:a:alps:touch_pad_driver:7.2.101.219:*:*:*:*:*:*:*,Alps Touchpad Driver 7.2.101.219,[''],2022-03-18T15:09Z
+3,cpe:2.3:a:alps:touch_pad_driver:7.4.102.102:*:*:*:*:*:*:*,Alps Touchpad Driver 7.4.102.102,[''],2022-03-18T15:09Z
+4,cpe:2.3:a:alps:touch_pad_driver:7.102.101.223:*:*:*:*:*:*:*,Alps Touchpad Driver 7.102.101.223,[''],2022-03-18T15:09Z
+5,cpe:2.3:a:alps:touch_pad_driver:7.102.101.228:*:*:*:*:*:*:*,Alps Touch Pad Driver 7.102.101.228,[''],2022-03-18T15:09Z
+6,cpe:2.3:a:alps:touch_pad_driver:7.102.302.203:*:*:*:*:*:*:*,Alps Touchpad Driver 7.102.302.203,[''],2022-03-18T15:09Z
+7,cpe:2.3:a:alpsalpine:touchpad_driver:10.3201.101.215:*:*:*:*:*:*:*,Alps Alpine Touchpad Driver 10.3201.101.215,[''],2022-03-18T15:09Z
+8,cpe:2.3:a:alqo:alqo:1.1:*:*:*:*:*:*:*,ALQO 1.1,['CVE-2018-19161'],2022-03-18T15:09Z
+9,cpe:2.3:a:alqo:alqo:2.1:*:*:*:*:*:*:*,ALQO 2.1,['CVE-2018-19161'],2022-03-18T15:09Z

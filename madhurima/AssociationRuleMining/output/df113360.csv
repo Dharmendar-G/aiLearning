@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:ace4710_application_control_engine_firmware:3.0\(0\)a5\(3.5\):*:*:*:*:*:*:*,Cisco ACE4710 Application Control Engine 3.0(0)a5(3.5),['CVE-2017-17428'],2022-03-19T17:53Z
+1,cpe:2.3:a:cisco:aci_multi-site_orchestrator:1.0\(1i\):*:*:*:*:*:*:*,Cisco ACI Multi-Site Orchestrator 1.0(1i),[''],2022-03-19T17:53Z
+2,cpe:2.3:a:cisco:aci_multi-site_orchestrator:1.0\(2b\):*:*:*:*:*:*:*,Cisco ACI Multi-Site Orchestrator 1.0(2b),[''],2022-03-19T17:53Z
+3,cpe:2.3:a:cisco:aci_multi-site_orchestrator:1.1\(1e\):*:*:*:*:*:*:*,Cisco ACI Multi-Site Orchestrator 1.1(1e),[''],2022-03-19T17:53Z
+4,cpe:2.3:a:cisco:aci_multi-site_orchestrator:1.1\(2\):*:*:*:*:*:*:*,Cisco ACI Multi-Site Orchestrator 1.1(2),[''],2022-03-19T17:53Z
+5,cpe:2.3:a:cisco:aci_multi-site_orchestrator:1.2\(1g\):*:*:*:*:*:*:*,Cisco ACI Multi-Site Orchestrator 1.2(1g),[''],2022-03-19T17:53Z
+6,cpe:2.3:a:cisco:aci_multi-site_orchestrator:1.2\(1h\):*:*:*:*:*:*:*,Cisco ACI Multi-Site Orchestrator 1.2(1h),[''],2022-03-19T17:53Z
+7,cpe:2.3:a:cisco:aci_multi-site_orchestrator:1.2\(2b\):*:*:*:*:*:*:*,Cisco ACI Multi-Site Orchestrator 1.2(2b),[''],2022-03-19T17:53Z
+8,cpe:2.3:a:cisco:aci_multi-site_orchestrator:1.2\(3a\):*:*:*:*:*:*:*,Cisco ACI Multi-Site Orchestrator 1.2(3a),[''],2022-03-19T17:53Z
+9,cpe:2.3:a:cisco:aci_multi-site_orchestrator:1.2\(3b\):*:*:*:*:*:*:*,Cisco ACI Multi-Site Orchestrator 1.2(3b),[''],2022-03-19T17:53Z

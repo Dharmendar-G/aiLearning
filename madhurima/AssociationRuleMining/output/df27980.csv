@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aomedia:aomedia:1.0.0:*:*:*:*:*:*:*,Alliance for Open Media AOMedia 1.0.0,"['CVE-2021-30473', 'CVE-2021-30474', 'CVE-2021-30475']",2022-03-18T17:26Z
+1,cpe:2.3:a:aomedia:aomedia:2.0.0:*:*:*:*:*:*:*,Alliance for Open Media AOMedia 2.0.0,"['CVE-2021-30473', 'CVE-2021-30474', 'CVE-2021-30475']",2022-03-18T17:26Z
+2,cpe:2.3:a:aomedia:aomedia:2.0.1:*:*:*:*:*:*:*,Alliance for Open Media AOMedia 2.0.1,"['CVE-2020-36129', 'CVE-2020-36130', 'CVE-2020-36131', 'CVE-2020-36133', 'CVE-2020-36134', 'CVE-2020-36135', 'CVE-2021-30473', 'CVE-2021-30474', 'CVE-2021-30475']",2022-03-18T17:26Z
+3,cpe:2.3:a:aomedia:aomedia:2.0.2:*:*:*:*:*:*:*,Alliance for Open Media AOMedia 2.0.2,"['CVE-2021-30473', 'CVE-2021-30474', 'CVE-2021-30475']",2022-03-18T17:26Z
+4,cpe:2.3:a:aomedia:aomedia:3.0.0:*:*:*:*:*:*:*,Alliance for Open Media AOMedia 3.0.0,"['CVE-2021-30473', 'CVE-2021-30474', 'CVE-2021-30475']",2022-03-18T17:26Z
+5,cpe:2.3:a:aomedia:aomedia:3.1.0:*:*:*:*:*:*:*,Alliance for Open Media AOMedia 3.1.0,"['CVE-2021-30473', 'CVE-2021-30474', 'CVE-2021-30475']",2022-03-18T17:26Z
+6,cpe:2.3:a:aomedia:aomedia:3.1.1:*:*:*:*:*:*:*,Alliance for Open Media AOMedia 3.1.1,"['CVE-2021-30473', 'CVE-2021-30474', 'CVE-2021-30475']",2022-03-18T17:26Z
+7,cpe:2.3:a:aomedia:aomedia:3.1.2:*:*:*:*:*:*:*,Alliance for Open Media AOMedia 3.1.2,"['CVE-2021-30473', 'CVE-2021-30474', 'CVE-2021-30475']",2022-03-18T17:26Z
+8,cpe:2.3:a:aomedia:libavif:0.1.0:*:*:*:*:*:*:*,Alliance for Open Media (aomedia) libavif 0.1.0,[''],2022-03-18T17:26Z
+9,cpe:2.3:a:aomedia:libavif:0.1.1:*:*:*:*:*:*:*,Alliance for Open Media (aomedia) libavif 0.1.1,[''],2022-03-18T17:26Z

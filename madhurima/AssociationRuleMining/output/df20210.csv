@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:alpinelinux:alpine_linux:2.6.4:*:*:*:*:*:*:*,Alpine Linux 2.6.4,['CVE-2018-1000849'],2022-03-18T15:00Z
+1,[0],[0],[0],[0]
+2,cpe:2.3:o:alpinelinux:alpine_linux:2.6.5:*:*:*:*:*:*:*,Alpine Linux 2.6.5,['CVE-2018-1000849'],2022-03-18T15:00Z
+3,[0],[0],[0],[0]
+4,cpe:2.3:o:alpinelinux:alpine_linux:2.6.6:*:*:*:*:*:*:*,Alpine Linux 2.6.6,['CVE-2018-1000849'],2022-03-18T15:00Z
+5,[0],[0],[0],[0]
+6,cpe:2.3:o:alpinelinux:alpine_linux:2.6.7:*:*:*:*:*:*:*,Alpine Linux 2.6.7,['CVE-2018-1000849'],2022-03-18T15:00Z
+7,[0],[0],[0],[0]
+8,cpe:2.3:o:alpinelinux:alpine_linux:2.6.8:*:*:*:*:*:*:*,Alpine Linux 2.6.8,['CVE-2018-1000849'],2022-03-18T15:00Z
+9,[0],[0],[0],[0]

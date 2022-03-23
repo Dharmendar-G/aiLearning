@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.010:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.010,"['CVE-2014-9906', 'CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:09Z
+1,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.011:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.011,"['CVE-2014-9906', 'CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:09Z
+2,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.012:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.012,"['CVE-2014-9906', 'CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:09Z
+3,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.013:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.013,"['CVE-2014-9906', 'CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:09Z
+4,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.014:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.014,"['CVE-2014-9906', 'CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:09Z
+5,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.015:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.015,"['CVE-2014-9906', 'CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:09Z
+6,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.016:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.016,"['CVE-2014-9906', 'CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:09Z
+7,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.017:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.017,"['CVE-2014-9906', 'CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:09Z
+8,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.018:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.018,"['CVE-2014-9906', 'CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:09Z
+9,cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.019:*:*:*:*:*:*:*,DBD-mysql Project DBD-mysql 4.019,"['CVE-2014-9906', 'CVE-2016-1246', 'CVE-2016-1249', 'CVE-2016-1251', 'CVE-2017-10788', 'CVE-2017-10789']",2022-03-20T11:09Z

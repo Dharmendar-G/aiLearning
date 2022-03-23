@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:django-anymail_project:django-anymail:4.1:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 4.1,[''],2022-03-20T15:23Z
+1,cpe:2.3:a:django-anymail_project:django-anymail:4.2:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 4.2,[''],2022-03-20T15:23Z
+2,cpe:2.3:a:django-anymail_project:django-anymail:4.3:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 4.3,[''],2022-03-20T15:23Z
+3,cpe:2.3:a:django-anymail_project:django-anymail:5.0:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 5.0,[''],2022-03-20T15:23Z
+4,cpe:2.3:a:django-anymail_project:django-anymail:6.0:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 6.0,[''],2022-03-20T15:23Z
+5,cpe:2.3:a:django-anymail_project:django-anymail:6.0.1:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 6.0.1,[''],2022-03-20T15:23Z
+6,cpe:2.3:a:django-basic-auth-ip-whitelist_project:django-basic-auth-ip-whitelist:-:*:*:*:*:*:*:*,Django-basic-auth-ip-whitelist Project Django-basic-auth-ip-whitelist,['CVE-2020-4071'],2022-03-20T15:23Z
+7,cpe:2.3:a:django-basic-auth-ip-whitelist_project:django-basic-auth-ip-whitelist:0.2:*:*:*:*:*:*:*,Django-basic-auth-ip-whitelist Project Django-basic-auth-ip-whitelist 0.2,['CVE-2020-4071'],2022-03-20T15:23Z
+8,cpe:2.3:a:django-basic-auth-ip-whitelist_project:django-basic-auth-ip-whitelist:0.2.1:*:*:*:*:*:*:*,Django-basic-auth-ip-whitelist Project Django-basic-auth-ip-whitelist 0.2.1,['CVE-2020-4071'],2022-03-20T15:23Z
+9,cpe:2.3:a:django-basic-auth-ip-whitelist_project:django-basic-auth-ip-whitelist:0.3:a0:*:*:*:*:*:*,Django-basic-auth-ip-whitelist Project Django-basic-auth-ip-whitelist 0.3 A0,['CVE-2020-4071'],2022-03-20T15:23Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:unity_connection_8.5:base:*:*:*:*:*:*:*,Cisco Unity Connection 8.5 BASE,['CVE-2015-0612'],2022-03-20T00:58Z
+1,cpe:2.3:a:cisco:unity_connection_8.6:base:*:*:*:*:*:*:*,Cisco Unity Connection 8.6 BASE,['CVE-2015-0612'],2022-03-20T00:58Z
+2,cpe:2.3:a:cisco:unity_connection_software:11.0.0:*:*:*:*:*:*:*,Cisco Unity Connection Software 11.0.0,[''],2022-03-20T00:58Z
+3,cpe:2.3:h:cisco:unity_express:-:*:*:*:*:*:*:*,Cisco Cisco Unity Express,"['CVE-2005-4794', 'CVE-2006-2166', 'CVE-2013-1120']",2022-03-20T00:58Z
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,cpe:2.3:a:cisco:unity_express:9.0.6:*:*:*:*:*:*:*,Cisco Unity Express 9.0.6,['CVE-2019-15986'],2022-03-20T00:58Z
+8,cpe:2.3:a:cisco:unity_express:10.1:*:*:*:*:*:*:*,Cisco Unity Express 10.1,[''],2022-03-20T00:58Z
+9,cpe:2.3:a:cisco:unity_express_software:1.1.1:*:*:*:*:*:*:*,Cisco Unity Express Software 1.1.1,"['CVE-2006-2166', 'CVE-2013-1114', 'CVE-2013-1120']",2022-03-20T00:58Z

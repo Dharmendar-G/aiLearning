@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:pagewide_managed_mfp_p77960_y3z61a:-:*:*:*:*:*:*:*,HP PageWide Managed MFP P77960 Y3Z61A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:42Z
+1,cpe:2.3:h:hp:pagewide_managed_mfp_p77960_y3z62a:-:*:*:*:*:*:*:*,HP PageWide Managed MFP P77960 Y3Z62A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:42Z
+2,cpe:2.3:h:hp:pagewide_managed_mfp_p77960_y3z63a:-:*:*:*:*:*:*:*,HP PageWide Managed MFP P77960 Y3Z63A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:42Z
+3,cpe:2.3:h:hp:pagewide_managed_mfp_p77960_y3z64a:-:*:*:*:*:*:*:*,HP PageWide Managed MFP P77960 Y3Z64A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:42Z
+4,cpe:2.3:h:hp:pagewide_managed_mfp_p77960_y3z65a:-:*:*:*:*:*:*:*,HP PageWide Managed MFP P77960 Y3Z65A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:42Z
+5,cpe:2.3:h:hp:pagewide_managed_mfp_p77960_y3z66a:-:*:*:*:*:*:*:*,HP PageWide Managed MFP P77960 Y3Z66A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:42Z
+6,cpe:2.3:h:hp:pagewide_managed_mfp_p77960_y3z68a:-:*:*:*:*:*:*:*,HP PageWide Managed MFP P77960 Y3Z68A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:42Z
+7,cpe:2.3:h:hp:pagewide_managed_p52750dw_j9v78b:-:*:*:*:*:*:*:*,HP PageWide Managed P52750DW J9V78B,"['CVE-2019-16240', 'CVE-2020-28416']",2022-03-21T15:42Z
+8,cpe:2.3:o:hp:pagewide_managed_p52750dw_j9v78b_firmware:-:*:*:*:*:*:*:*,HP PAGEWIDE MANAGED P52750DW J9V78B FIRMWARE,"['CVE-2019-16240', 'CVE-2020-28416']",2022-03-21T15:42Z
+9,cpe:2.3:o:hp:pagewide_managed_p52750dw_j9v78b_firmware:39.6.2002:*:*:*:*:*:*:*,HP PAGEWIDE MANAGED P52750DW J9V78B FIRMWARE 39.6.2002,[''],2022-03-21T15:42Z

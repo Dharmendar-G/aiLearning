@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:auth0:nextjs-auth0:1.6.2:*:*:*:*:node.js:*:*,Auth0 Nextjs-auth0 1.6.2 for Node.js,[''],2022-03-19T03:15Z
+1,cpe:2.3:a:auth0:omniauth-auth0:2.3.0:*:*:*:*:ruby:*:*,Auth0 Omniauth-auth0 2.3.0 for Ruby,['CVE-2020-15240'],2022-03-19T03:15Z
+2,cpe:2.3:a:auth0:omniauth-auth0:2.3.1:*:*:*:*:ruby:*:*,Auth0 Omniauth-auth0 2.3.1 for Ruby,['CVE-2020-15240'],2022-03-19T03:16Z
+3,cpe:2.3:a:auth0:omniauth-auth0:2.4.0:*:*:*:*:ruby:*:*,Auth0 Omniauth-auth0 2.4.0 for Ruby,['CVE-2020-15240'],2022-03-19T03:16Z
+4,cpe:2.3:a:auth0:omniauth-auth0:2.4.1:*:*:*:*:ruby:*:*,Auth0 Omniauth-auth0 2.4.1 for Ruby,[''],2022-03-19T03:16Z
+5,cpe:2.3:a:auth0:passport-sharepoint:-:*:*:*:*:*:*:*,Auth0 Passport-SharePoint,['CVE-2019-13483'],2022-03-19T03:16Z
+6,cpe:2.3:a:auth0:passport-sharepoint:0.3.0:*:*:*:*:*:*:*,Auth0 Passport-SharePoint 0.3.0,['CVE-2019-13483'],2022-03-19T03:16Z
+7,cpe:2.3:a:auth0:passport-sharepoint:0.4.0:*:*:*:*:*:*:*,Auth0 Passport-SharePoint 0.4.0,[''],2022-03-19T03:16Z
+8,cpe:2.3:a:auth0:passport-wsfed-saml2:1.0.1:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 1.0.1,['CVE-2017-16897'],2022-03-19T03:16Z
+9,cpe:2.3:a:auth0:passport-wsfed-saml2:1.1.0:*:*:*:*:*:*:*,Auth0 passport-wsfed-saml2 1.1.0,['CVE-2017-16897'],2022-03-19T03:16Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:gvectors:wpdiscuz:4.0.6:*:*:*:*:wordpress:*:*,gVectors wpDiscuz 4.0.6 for WordPress,"['CVE-2020-13640', 'CVE-2021-24737', 'CVE-2021-24806', 'CVE-2022-23984']",2022-03-21T08:29Z
+1,cpe:2.3:a:gvectors:wpdiscuz:4.0.7:*:*:*:*:wordpress:*:*,gVectors wpDiscuz 4.0.7 for WordPress,"['CVE-2020-13640', 'CVE-2021-24737', 'CVE-2021-24806', 'CVE-2022-23984']",2022-03-21T08:29Z
+2,cpe:2.3:a:gvectors:wpdiscuz:4.0.8:*:*:*:*:wordpress:*:*,gVectors wpDiscuz 4.0.8 for WordPress,"['CVE-2020-13640', 'CVE-2021-24737', 'CVE-2021-24806', 'CVE-2022-23984']",2022-03-21T08:29Z
+3,cpe:2.3:a:gvectors:wpdiscuz:4.0.9:*:*:*:*:wordpress:*:*,gVectors wpDiscuz 4.0.9 for WordPress,"['CVE-2020-13640', 'CVE-2021-24737', 'CVE-2021-24806', 'CVE-2022-23984']",2022-03-21T08:29Z
+4,cpe:2.3:a:gvectors:wpdiscuz:4.0.10:*:*:*:*:wordpress:*:*,gVectors wpDiscuz 4.0.10 for WordPress,"['CVE-2020-13640', 'CVE-2021-24737', 'CVE-2021-24806', 'CVE-2022-23984']",2022-03-21T08:29Z
+5,cpe:2.3:a:gvectors:wpdiscuz:4.0.11:*:*:*:*:wordpress:*:*,gVectors wpDiscuz 4.0.11 for WordPress,"['CVE-2020-13640', 'CVE-2021-24737', 'CVE-2021-24806', 'CVE-2022-23984']",2022-03-21T08:29Z
+6,cpe:2.3:a:gvectors:wpdiscuz:4.0.12:*:*:*:*:wordpress:*:*,gVectors wpDiscuz 4.0.12 for WordPress,"['CVE-2020-13640', 'CVE-2021-24737', 'CVE-2021-24806', 'CVE-2022-23984']",2022-03-21T08:29Z
+7,cpe:2.3:a:gvectors:wpdiscuz:4.0.13:*:*:*:*:wordpress:*:*,gVectors wpDiscuz 4.0.13 for WordPress,"['CVE-2020-13640', 'CVE-2021-24737', 'CVE-2021-24806', 'CVE-2022-23984']",2022-03-21T08:29Z
+8,cpe:2.3:a:gvectors:wpdiscuz:4.0.14:*:*:*:*:wordpress:*:*,gVectors wpDiscuz 4.0.14 for WordPress,"['CVE-2020-13640', 'CVE-2021-24737', 'CVE-2021-24806', 'CVE-2022-23984']",2022-03-21T08:29Z
+9,cpe:2.3:a:gvectors:wpdiscuz:4.0.15:*:*:*:*:wordpress:*:*,gVectors wpDiscuz 4.0.15 for WordPress,"['CVE-2020-13640', 'CVE-2021-24737', 'CVE-2021-24806', 'CVE-2022-23984']",2022-03-21T08:29Z

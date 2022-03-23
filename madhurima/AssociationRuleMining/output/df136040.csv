@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:tidal_enterprise_scheduler:6.3.0:*:*:*:*:*:*:*,Cisco Tidal Enterprise Scheduler (TES) 6.3.0,['CVE-2017-3846'],2022-03-20T00:37Z
+1,cpe:2.3:a:cisco:tidal_enterprise_scheduler:6.3.0.116:*:*:*:*:*:*:*,Cisco Tidal Enterprise Scheduler (TES) 6.3.0.116,['CVE-2017-3846'],2022-03-20T00:37Z
+2,cpe:2.3:h:cisco:traffic_anomaly_detector_module:-:*:*:*:*:*:*:*,Cisco Traffic Anomaly Detector,[''],2022-03-20T00:37Z
+3,cpe:2.3:h:cisco:traffic_anomaly_detector_module:5.0\(1\):*:*:*:*:*:*:*,Cisco Traffic Anomaly Detector 5.0(1),['CVE-2006-0764'],2022-03-20T00:37Z
+4,cpe:2.3:h:cisco:traffic_anomaly_detector_module:5.0\(3\):*:*:*:*:*:*:*,Cisco Traffic Anomaly Detector 5.0(3),['CVE-2006-0764'],2022-03-20T00:37Z
+5,cpe:2.3:a:cisco:transport_controller:-:*:*:*:*:*:*:*,Cisco Transport Controller,[''],2022-03-20T00:37Z
+6,cpe:2.3:a:cisco:transport_gateway_installation_software:4.0:*:*:*:*:*:*:*,Cisco Transport Gateway Installation Software 4.0,"['CVE-2014-3344', 'CVE-2014-3345', 'CVE-2014-3346']",2022-03-20T00:37Z
+7,cpe:2.3:a:cisco:transport_gateway_installation_software:4.1\(4.0\):*:*:*:*:*:*:*,Cisco Transport Gateway Installation Software 4.1(4.0),['CVE-2016-6359'],2022-03-20T00:38Z
+8,cpe:2.3:a:cisco:trust_agent:-:*:*:*:*:*:*:*,Cisco Trust Agent,"['CVE-2007-1800', 'CVE-2007-3184']",2022-03-20T00:38Z
+9,cpe:2.3:a:cisco:trust_agent:1:*:*:*:*:*:*:*,Cisco Trust Agent 1.x,"['CVE-2007-1067', 'CVE-2007-1800', 'CVE-2007-3184']",2022-03-20T00:38Z

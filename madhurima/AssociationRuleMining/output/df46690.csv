@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:arm:china_star-mc1_firmware:-:*:*:*:*:*:*:*,ARM China STAR-MC1 Firmware,['CVE-2021-35465'],2022-03-18T23:05Z
+1,[0],[0],[0],[0]
+2,cpe:2.3:h:arm:cortex-a:-:*:*:*:*:*:*:*,ARM Cortex-A,[''],2022-03-18T23:05Z
+3,cpe:2.3:h:arm:cortex-a:8:*:*:*:*:*:*:*,ARM Cortex-A 8,['CVE-2018-3693'],2022-03-18T23:05Z
+4,cpe:2.3:h:arm:cortex-a:9:*:*:*:*:*:*:*,ARM Cortex-A9,"['CVE-2017-5715', 'CVE-2018-3693', 'CVE-2018-9056']",2022-03-18T23:05Z
+5,cpe:2.3:h:arm:cortex-a:12:*:*:*:*:*:*:*,ARM Cortex-A 12,['CVE-2018-3693'],2022-03-18T23:05Z
+6,cpe:2.3:h:arm:cortex-a:15:*:*:*:*:*:*:*,ARM Cortex-A15,"['CVE-2017-5715', 'CVE-2018-3639', 'CVE-2018-3640', 'CVE-2018-3693', 'CVE-2018-9056']",2022-03-18T23:05Z
+7,cpe:2.3:h:arm:cortex-a:17:*:*:*:*:*:*:*,ARM Cortex-A17,"['CVE-2017-5715', 'CVE-2018-3693', 'CVE-2018-9056']",2022-03-18T23:05Z
+8,cpe:2.3:h:arm:cortex-a:57:*:*:*:*:*:*:*,ARM Cortex-A57,"['CVE-2017-5715', 'CVE-2018-3639', 'CVE-2018-3640', 'CVE-2018-3693', 'CVE-2018-9056']",2022-03-18T23:05Z
+9,cpe:2.3:h:arm:cortex-a:72:*:*:*:*:*:*:*,ARM Cortex-A72,"['CVE-2017-5715', 'CVE-2018-3639', 'CVE-2018-3640', 'CVE-2018-3693', 'CVE-2018-9056']",2022-03-18T23:05Z

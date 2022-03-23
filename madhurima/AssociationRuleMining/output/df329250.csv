@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:storeonce_4210_fc_backup_system:3.6.5:*:*:*:*:*:*:*,HP StoreOnce 4210 FC Backup System 3.6.5,['CVE-2013-6211'],2022-03-21T16:07Z
+1,cpe:2.3:a:hp:storeonce_4210_fc_backup_system:3.9.0:*:*:*:*:*:*:*,HP StoreOnce 4210 FC Backup System 3.9.0,[''],2022-03-21T16:07Z
+2,cpe:2.3:a:hp:storeonce_4210_iscsi_backup_system:3.6.5:*:*:*:*:*:*:*,HP StoreOnce 4210 iSCSI Backup System 3.6.5,['CVE-2013-6211'],2022-03-21T16:07Z
+3,cpe:2.3:a:hp:storeonce_4210_iscsi_backup_system:3.9.0:*:*:*:*:*:*:*,HP StoreOnce 4210 iSCSI Backup System 3.9.0,[''],2022-03-21T16:07Z
+4,cpe:2.3:a:hp:storeonce_4220_backup_system:3.6.5:*:*:*:*:*:*:*,HP StoreOnce 4220 Backup System 3.6.5,['CVE-2013-6211'],2022-03-21T16:07Z
+5,cpe:2.3:a:hp:storeonce_4220_backup_system:3.9.0:*:*:*:*:*:*:*,HP StoreOnce 4220 Backup System 3.9.0,[''],2022-03-21T16:07Z
+6,cpe:2.3:a:hp:storeonce_4420_backup_system:3.6.5:*:*:*:*:*:*:*,HP StoreOnce 4420 Backup System 3.6.5,['CVE-2013-6211'],2022-03-21T16:07Z
+7,cpe:2.3:a:hp:storeonce_4420_backup_system:3.9.0:*:*:*:*:*:*:*,HP StoreOnce 4420 Backup System 3.9.0,[''],2022-03-21T16:07Z
+8,cpe:2.3:a:hp:storeonce_4430_backup_system:3.6.5:*:*:*:*:*:*:*,HP StoreOnce 4430 Backup System 3.6.5,['CVE-2013-6211'],2022-03-21T16:08Z
+9,cpe:2.3:a:hp:storeonce_4430_backup_system:3.9.0:*:*:*:*:*:*:*,HP StoreOnce 4430 Backup System 3.9.0,[''],2022-03-21T16:08Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:oauth:1.9.0:m2:*:*:*:*:*:*,Atlassian OAuth 1.9.0 M2,['CVE-2017-9506'],2022-03-19T01:59Z
+1,cpe:2.3:a:atlassian:oauth:1.9.1:*:*:*:*:*:*:*,Atlassian OAuth 1.9.1,['CVE-2017-9506'],2022-03-19T01:59Z
+2,cpe:2.3:a:atlassian:oauth:1.9.2:*:*:*:*:*:*:*,Atlassian OAuth 1.9.2,['CVE-2017-9506'],2022-03-19T01:59Z
+3,cpe:2.3:a:atlassian:oauth:1.9.3:*:*:*:*:*:*:*,Atlassian OAuth 1.9.3,['CVE-2017-9506'],2022-03-19T01:59Z
+4,cpe:2.3:a:atlassian:oauth:1.9.4:*:*:*:*:*:*:*,Atlassian OAuth 1.9.4,['CVE-2017-9506'],2022-03-19T01:59Z
+5,cpe:2.3:a:atlassian:oauth:1.9.5:*:*:*:*:*:*:*,Atlassian OAuth 1.9.5,['CVE-2017-9506'],2022-03-19T01:59Z
+6,cpe:2.3:a:atlassian:oauth:1.9.6:*:*:*:*:*:*:*,Atlassian OAuth 1.9.6,['CVE-2017-9506'],2022-03-19T01:59Z
+7,cpe:2.3:a:atlassian:oauth:1.9.7:*:*:*:*:*:*:*,Atlassian OAuth 1.9.7,['CVE-2017-9506'],2022-03-19T01:59Z
+8,cpe:2.3:a:atlassian:oauth:1.9.8:*:*:*:*:*:*:*,Atlassian OAuth 1.9.8,['CVE-2017-9506'],2022-03-19T01:59Z
+9,cpe:2.3:a:atlassian:oauth:1.9.9:*:*:*:*:*:*:*,Atlassian OAuth 1.9.9,['CVE-2017-9506'],2022-03-19T01:59Z

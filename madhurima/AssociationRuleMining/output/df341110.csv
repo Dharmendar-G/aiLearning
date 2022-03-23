@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:connections_portlets:5.0:*:*:*:*:websphere_portal:*:*,IBM Connections Portlets 5.0 for Websphere Portal,['CVE-2016-2989'],2022-03-21T20:05Z
+1,cpe:2.3:a:ibm:content_collector:3.0.0.0:*:*:*:*:*:*:*,IBM Content Collector 3.0.0.0,['CVE-2015-0146'],2022-03-21T20:05Z
+2,cpe:2.3:a:ibm:content_collector:3.0.0.1:*:*:*:*:*:*:*,IBM Content Collector 3.0.0.1,['CVE-2015-0146'],2022-03-21T20:05Z
+3,cpe:2.3:a:ibm:content_collector:3.0.0.2:*:*:*:*:*:*:*,IBM Content Collector 3.0.0.2,['CVE-2015-0146'],2022-03-21T20:05Z
+4,cpe:2.3:a:ibm:content_collector:3.0.0.3:*:*:*:*:*:*:*,IBM Content Collector 3.0.0.3,['CVE-2015-0146'],2022-03-21T20:05Z
+5,cpe:2.3:a:ibm:content_collector:3.0.0.4:*:*:*:*:*:*:*,IBM Content Collector 3.0.0.4,['CVE-2015-0146'],2022-03-21T20:05Z
+6,cpe:2.3:a:ibm:content_collector:3.0.0.5:*:*:*:*:*:*:*,IBM Content Collector 3.0.0.5,['CVE-2015-0146'],2022-03-21T20:05Z
+7,cpe:2.3:a:ibm:content_foundation:5.2.1:*:*:*:*:*:*:*,IBM Content Foundation 5.2.1,"['CVE-2018-1542', 'CVE-2018-1555', 'CVE-2018-1556']",2022-03-21T20:05Z
+8,cpe:2.3:a:ibm:content_foundation:5.5.0:*:*:*:*:*:*:*,IBM Content Foundation 5.5.0,"['CVE-2018-1542', 'CVE-2018-1555', 'CVE-2018-1556']",2022-03-21T20:05Z
+9,cpe:2.3:a:ibm:content_manager:8.4.3:*:*:*:enterprise:*:*:*,IBM Content Manager 8.4.3 Enterprise Edition,['CVE-2018-1502'],2022-03-21T20:06Z

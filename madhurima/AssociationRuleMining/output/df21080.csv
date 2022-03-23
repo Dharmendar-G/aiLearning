@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:altiris:client_task_management:6.0.1524:*:*:*:*:*:*:*,Altiris Client Task Management 6.0.1524,[''],2022-03-18T15:13Z
+1,cpe:2.3:a:altiris:client_task_server:6.0.1524:*:*:*:*:*:*:*,Altiris Client Task Server 6.0.1524,[''],2022-03-18T15:13Z
+2,cpe:2.3:a:altiris:cmdb:6.5.1126:*:*:*:*:*:*:*,Altiris Cmdb 6.5.1126,[''],2022-03-18T15:13Z
+3,cpe:2.3:a:altiris:cmdb_and_asset_management_language_pack:6.5.1021:*:*:*:*:*:*:*,Altiris Cmdb And Asset Management Language Pack 6.5.1021,[''],2022-03-18T15:13Z
+4,cpe:2.3:a:altiris:cmdb_and_asset_management_report_language_pack:6.5.1021:*:*:*:*:*:*:*,Altiris Cmdb And Asset Management Report Language Pack 6.5.1021,[''],2022-03-18T15:13Z
+5,cpe:2.3:a:altiris:cmdb_report_pack:6.5.1049:*:*:*:*:*:*:*,Altiris Cmdb Report Pack 6.5.1049,[''],2022-03-18T15:13Z
+6,cpe:2.3:a:altiris:cmdb_solution_documentation:6.5.1016:*:*:*:*:*:*:*,Altiris Cmdb Solution Documentation 6.5.1016,[''],2022-03-18T15:13Z
+7,cpe:2.3:a:altiris:component_for_active_directory_documentation:6.1.1019:*:*:*:*:*:*:*,Altiris Component For Active Directory Documentation 6.1.1019,[''],2022-03-18T15:13Z
+8,cpe:2.3:a:altiris:computer_management:6.2.3529:*:*:*:*:*:*:*,Altiris Computer Management 6.2.3529,[''],2022-03-18T15:13Z
+9,cpe:2.3:a:altiris:computer_management_language_pack:6.2.3533:*:*:*:*:*:*:*,Altiris Computer Management Language Pack 6.2.3533,[''],2022-03-18T15:13Z

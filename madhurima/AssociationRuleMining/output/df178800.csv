@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:emc_data_domain_os:7.2.0.50:*:*:*:*:*:*:*,Dell Emc Data Domain Os 7.2.0.50,[''],2022-03-20T12:18Z
+1,cpe:2.3:o:dell:emc_data_domain_os:7.3.0.5:*:*:*:*:*:*:*,Dell Emc Data Domain Os 7.3.0.5,[''],2022-03-20T12:18Z
+2,cpe:2.3:o:dell:emc_data_domain_os:7.4.0.5:*:*:*:*:*:*:*,Dell Emc Data Domain Os 7.4.0.5,[''],2022-03-20T12:18Z
+3,cpe:2.3:a:dell:emc_data_protection_advisor:6.1:*:*:*:*:*:*:*,Dell EMC Data Protection Advisor 6.1,['CVE-2016-8211'],2022-03-20T12:18Z
+4,cpe:2.3:a:dell:emc_data_protection_advisor:6.2:*:*:*:*:*:*:*,Dell EMC Data Protection Advisor 6.2,"['CVE-2016-8211', 'CVE-2018-11048']",2022-03-20T12:18Z
+5,cpe:2.3:a:dell:emc_data_protection_advisor:6.2.1:*:*:*:*:*:*:*,Dell EMC Data Protection Advisor 6.2.1,['CVE-2016-8211'],2022-03-20T12:18Z
+6,cpe:2.3:a:dell:emc_data_protection_advisor:6.2.2:*:*:*:*:*:*:*,Dell EMC Data Protection Advisor 6.2.2,['CVE-2016-8211'],2022-03-20T12:18Z
+7,cpe:2.3:a:dell:emc_data_protection_advisor:6.2.3:*:*:*:*:*:*:*,Dell EMC Data Protection Advisor 6.2.3,['CVE-2016-8211'],2022-03-20T12:18Z
+8,cpe:2.3:a:dell:emc_data_protection_advisor:6.3:*:*:*:*:*:*:*,Dell EMC Data Protection Advisor 6.3,"['CVE-2018-11048', 'CVE-2019-18581', 'CVE-2019-18582']",2022-03-20T12:18Z
+9,cpe:2.3:a:dell:emc_data_protection_advisor:6.4:*:*:*:*:*:*:*,Dell EMC Data Protection Advisor 6.4,"['CVE-2018-11048', 'CVE-2019-18581', 'CVE-2019-18582', 'CVE-2020-5351', 'CVE-2020-5352']",2022-03-20T12:18Z

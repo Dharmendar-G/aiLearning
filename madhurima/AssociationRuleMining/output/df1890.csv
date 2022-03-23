@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:2kblater:2kb_amazon_affiliates_store:2.1.0:*:*:*:*:wordpress:*:*,2kblater 2kb Amazon Affiliates Store 2.1.0 for WordPress,['CVE-2017-14622'],2022-03-18T09:53Z
+1,cpe:2.3:a:2kblater:2kb_amazon_affiliates_store:2.1.1:*:*:*:*:wordpress:*:*,2kblater 2kb Amazon Affiliates Store 2.1.1 for WordPress,[''],2022-03-18T09:53Z
+2,cpe:2.3:a:2kblater:2kb_amazon_affiliates_store:2.1.2:*:*:*:*:wordpress:*:*,2kblater 2kb Amazon Affiliates Store 2.1.2 for WordPress,[''],2022-03-18T09:53Z
+3,cpe:2.3:a:2kblater:2kb_amazon_affiliates_store:2.1.3:*:*:*:*:wordpress:*:*,2kblater 2kb Amazon Affiliates Store 2.1.3 for WordPress,[''],2022-03-18T09:53Z
+4,cpe:2.3:a:2kblater:2kb_amazon_affiliates_store:2.1.4:*:*:*:*:wordpress:*:*,2kblater 2kb Amazon Affiliates Store 2.1.4 for WordPress,[''],2022-03-18T09:53Z
+5,cpe:2.3:a:2kblater:2kb_amazon_affiliates_store:2.1.5:*:*:*:*:wordpress:*:*,2kblater 2kb Amazon Affiliates Store 2.1.5 for WordPress,[''],2022-03-18T09:53Z
+6,cpe:2.3:h:2n:access_unit_2.0:-:*:*:*:*:*:*:*,2N Access Unit 2.0,['CVE-2021-31399'],2022-03-18T09:53Z
+7,cpe:2.3:o:2n:access_unit_2.0_firmware:2.31.0.40.5:*:*:*:*:*:*:*,2N Access Unit 2.0 Firmware 2.31.0.40.5,['CVE-2021-31399'],2022-03-18T09:53Z
+8,cpe:2.3:a:2ndquadrant:pglogical:1.0.0:*:*:*:*:*:*:*,2ndQuadrant pglogical 1.0.0,['CVE-2021-3515'],2022-03-18T09:53Z
+9,cpe:2.3:a:2ndquadrant:pglogical:1.0.1:*:*:*:*:*:*:*,2ndQuadrant pglogical 1.0.1,['CVE-2021-3515'],2022-03-18T09:53Z

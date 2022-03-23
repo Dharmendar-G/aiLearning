@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:autodesk:design_review_2012:12.0.0.93:*:*:*:*:*:*:*,Autodesk Design Review 2012 12.0.0.93,[''],2022-03-19T03:28Z
+1,[0],[0],[0],[0]
+2,cpe:2.3:a:autodesk:dwf_viewer:5.1:*:*:*:*:*:*:*,Autodesk Dwf Viewer 5.1,"['CVE-2008-4471', 'CVE-2008-4472']",2022-03-19T03:28Z
+3,cpe:2.3:a:autodesk:dwf_viewer:6.5:*:*:*:*:*:*:*,Autodesk Dwf Viewer 6.5,"['CVE-2008-4471', 'CVE-2008-4472']",2022-03-19T03:28Z
+4,cpe:2.3:a:autodesk:dwf_viewer:7.0.0:*:*:*:*:*:*:*,Autodesk Dwf Viewer 7.0.0,"['CVE-2008-4471', 'CVE-2008-4472']",2022-03-19T03:28Z
+5,cpe:2.3:a:autodesk:dwf_viewer:7.2.0:*:*:*:*:*:*:*,Autodesk Dwf Viewer 7.2.0,"['CVE-2008-4471', 'CVE-2008-4472']",2022-03-19T03:28Z
+6,cpe:2.3:a:autodesk:dwg_trueview:17.1.65.0:*:*:*:*:*:*:*,Autodesk Dwg Trueview 17.1.65.0,[''],2022-03-19T03:28Z
+7,cpe:2.3:a:autodesk:dwg_trueview:17.2.56.0:*:*:*:*:*:*:*,Autodesk Dwg Trueview 17.2.56.0,[''],2022-03-19T03:28Z
+8,cpe:2.3:a:autodesk:dwg_trueview:18.1.49.0:*:*:*:*:*:*:*,Autodesk Dwg Trueview 18.1.49.0,[''],2022-03-19T03:28Z
+9,cpe:2.3:a:autodesk:dwg_trueview:18.2.51.0:*:*:*:*:*:*:*,Autodesk Dwg Trueview 18.2.51.0,[''],2022-03-19T03:28Z

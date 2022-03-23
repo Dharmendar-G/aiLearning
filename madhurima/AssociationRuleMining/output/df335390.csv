@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:nova_5i_pro_firmware:9.1.1.190\(c00e190r6p2\):*:*:*:*:*:*:*,Huawei Nova 5i Pro Firmware 9.1.1.190(C00E190R6P2),[''],2022-03-21T18:15Z
+1,cpe:2.3:h:huawei:nova_lite_3:-:*:*:*:*:*:*:*,Huawei Nova Lite 3,"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T18:16Z
+2,cpe:2.3:o:huawei:nova_lite_3_firmware:-:*:*:*:*:*:*:*,Huawei NOVA LITE 3 FIRMWARE,"['CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506']",2022-03-21T18:16Z
+3,cpe:2.3:o:huawei:nova_lite_3_firmware:9.1.0.305\(c635e8r2p2\):*:*:*:*:*:*:*,Huawei Nova Lite 3 Firmware 9.1.0.305(C635E8R2P2),[''],2022-03-21T18:16Z
+4,cpe:2.3:h:huawei:nts-al00:-:*:*:*:*:*:*:*,Huawei NTS-AL00,['CVE-2017-17159'],2022-03-21T18:16Z
+5,cpe:2.3:o:huawei:nts-al00_firmware:nts-al00c00b535:*:*:*:*:*:*:*,Huawei NTS-AL00 Firmware NTS-AL00C00B535,['CVE-2017-17159'],2022-03-21T18:16Z
+6,cpe:2.3:h:huawei:oceanstor_18500:-:*:*:*:*:*:*:*,Huawei OceanStor 18500,['CVE-2015-2808'],2022-03-21T18:16Z
+7,cpe:2.3:o:huawei:oceanstor_18500_firmware:-:*:*:*:*:*:*:*,Huawei OceanStor 18500 Firmware,['CVE-2015-2808'],2022-03-21T18:16Z
+8,cpe:2.3:h:huawei:oceanstor_18500_v3:-:*:*:*:*:*:*:*,Huawei Oceanstor 18500 V3 -,[''],2022-03-21T18:16Z
+9,cpe:2.3:h:huawei:oceanstor_18800:-:*:*:*:*:*:*:*,Huawei OceanStor 18800,['CVE-2015-2808'],2022-03-21T18:16Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:djangoproject:django:1.10.0:a1:*:*:*:*:*:*,Django Project Django 1.10.0 Alpha 1,"['CVE-2017-12794', 'CVE-2017-7233', 'CVE-2017-7234', 'CVE-2019-19844', 'CVE-2021-33203']",2022-03-20T15:29Z
+1,cpe:2.3:a:djangoproject:django:1.10.0:b1:*:*:*:*:*:*,Django Project Django 1.10.0 Beta 1,"['CVE-2017-12794', 'CVE-2017-7233', 'CVE-2017-7234', 'CVE-2019-19844', 'CVE-2021-33203']",2022-03-20T15:29Z
+2,cpe:2.3:a:djangoproject:django:1.10.0:rc1:*:*:*:*:*:*,Django Project Django 1.10.0 Release Candidate 1,"['CVE-2017-12794', 'CVE-2017-7233', 'CVE-2017-7234', 'CVE-2019-19844', 'CVE-2021-33203']",2022-03-20T15:29Z
+3,cpe:2.3:a:djangoproject:django:1.10.1:*:*:*:*:*:*:*,Django Project Django 1.10.1,"['CVE-2016-9013', 'CVE-2016-9014', 'CVE-2017-12794', 'CVE-2017-7233', 'CVE-2017-7234', 'CVE-2019-19844', 'CVE-2021-33203']",2022-03-20T15:29Z
+4,cpe:2.3:a:djangoproject:django:1.10.2:*:*:*:*:*:*:*,Django Project Django 1.10.2,"['CVE-2016-9013', 'CVE-2016-9014', 'CVE-2017-12794', 'CVE-2017-7233', 'CVE-2017-7234', 'CVE-2019-19844', 'CVE-2021-33203']",2022-03-20T15:29Z
+5,cpe:2.3:a:djangoproject:django:1.10.3:*:*:*:*:*:*:*,Django Project Django 1.10.3,"['CVE-2017-12794', 'CVE-2017-7233', 'CVE-2017-7234', 'CVE-2019-19844', 'CVE-2021-33203']",2022-03-20T15:29Z
+6,cpe:2.3:a:djangoproject:django:1.10.4:*:*:*:*:*:*:*,Django Project Django 1.10.4,"['CVE-2017-12794', 'CVE-2017-7233', 'CVE-2017-7234', 'CVE-2019-19844', 'CVE-2021-33203']",2022-03-20T15:29Z
+7,cpe:2.3:a:djangoproject:django:1.10.5:*:*:*:*:*:*:*,Django Project Django 1.10.5,"['CVE-2017-12794', 'CVE-2017-7233', 'CVE-2017-7234', 'CVE-2019-19844', 'CVE-2021-33203']",2022-03-20T15:30Z
+8,cpe:2.3:a:djangoproject:django:1.10.6:*:*:*:*:*:*:*,Django Project Django 1.10.6,"['CVE-2017-12794', 'CVE-2017-7233', 'CVE-2017-7234', 'CVE-2019-19844', 'CVE-2021-33203']",2022-03-20T15:30Z
+9,cpe:2.3:a:djangoproject:django:1.10.7:*:*:*:*:*:*:*,Django Project Django 1.10.7,"['CVE-2017-12794', 'CVE-2019-19844', 'CVE-2021-33203']",2022-03-20T15:30Z

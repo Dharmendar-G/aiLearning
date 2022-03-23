@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:zbook_fury_17_g7_firmware:-:*:*:*:*:*:*:*,HP ZBook Fury 17 G7 Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+1,cpe:2.3:h:hp:zbook_fury_17_g8:-:*:*:*:*:*:*:*,HP ZBook Fury 17 G8,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+2,cpe:2.3:o:hp:zbook_fury_17_g8_firmware:-:*:*:*:*:*:*:*,HP ZBook Fury 17 G8 Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+3,cpe:2.3:h:hp:zbook_power_15_g8:-:*:*:*:*:*:*:*,HP ZBook Power 15 G8,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+4,cpe:2.3:o:hp:zbook_power_15_g8_firmware:-:*:*:*:*:*:*:*,HP ZBook Power 15 G8 Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+5,cpe:2.3:h:hp:zbook_power_g7:-:*:*:*:*:*:*:*,HP ZBook Power G7,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+6,cpe:2.3:o:hp:zbook_power_g7_firmware:-:*:*:*:*:*:*:*,HP ZBook Power G7 Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+7,cpe:2.3:h:hp:zbook_studio_15_g8:-:*:*:*:*:*:*:*,HP ZBook Studio 15 G8,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+8,cpe:2.3:o:hp:zbook_studio_15_g8_firmware:-:*:*:*:*:*:*:*,HP ZBook Studio 15 G8 Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T16:23Z
+9,cpe:2.3:h:hp:zbook_studio_g3:-:*:*:*:*:*:*:*,HP ZBook Studio G3,"['CVE-2016-2243', 'CVE-2017-8360', 'CVE-2019-16284', 'CVE-2020-15596']",2022-03-21T16:23Z

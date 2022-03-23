@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:vp9660_firmware:v500r002c00spc700:*:*:*:*:*:*:*,Huawei VP9660 Firmware V500R002C00SPC700,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T19:08Z
+1,cpe:2.3:o:huawei:vp9660_firmware:v500r002c00spc800:*:*:*:*:*:*:*,Huawei VP9660 Firmware V500R002C00SPC800,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T19:08Z
+2,cpe:2.3:o:huawei:vp9660_firmware:v500r002c00spc900:*:*:*:*:*:*:*,Huawei VP9660 Firmware V500R002C00SPC900,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T19:08Z
+3,cpe:2.3:o:huawei:vp9660_firmware:v500r002c00spc900t:*:*:*:*:*:*:*,Huawei VP9660 Firmware V500R002C00SPC900T,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T19:08Z
+4,cpe:2.3:o:huawei:vp9660_firmware:v500r002c00spc901t:*:*:*:*:*:*:*,Huawei VP9660 Firmware V500R002C00SPC901T,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T19:08Z
+5,cpe:2.3:o:huawei:vp9660_firmware:v500r002c00spca00:*:*:*:*:*:*:*,Huawei VP9660 Firmware V500R002C00SPCa00,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T19:08Z
+6,cpe:2.3:o:huawei:vp9660_firmware:v500r002c00spcb00:*:*:*:*:*:*:*,Huawei VP9660 Firmware V500R002C00SPCb00,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T19:08Z
+7,cpe:2.3:o:huawei:vp9660_firmware:v500r002c00spcb01t:*:*:*:*:*:*:*,Huawei VP9660 Firmware V500R002C00SPCb01T,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T19:08Z
+8,cpe:2.3:o:huawei:vp9660_firmware:v500r002c00spcc00:*:*:*:*:*:*:*,Huawei VP9660 Firmware V500R002C00SPCc00,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T19:08Z
+9,cpe:2.3:o:huawei:vp9660_firmware:v500r002c00spcd00:*:*:*:*:*:*:*,Huawei VP9660 Firmware V500R002C00SPCd00,"['CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T19:08Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.0.7:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager 5.0.7,['CVE-2013-1192'],2022-03-19T17:57Z
+1,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.0.8:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager 5.0.8,['CVE-2013-1192'],2022-03-19T17:57Z
+2,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.0.9:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager 5.0.9,['CVE-2013-1192'],2022-03-19T17:57Z
+3,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.1.1:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager 5.1.1,['CVE-2013-1192'],2022-03-19T17:57Z
+4,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.1.2:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager 5.1.2,['CVE-2013-1192'],2022-03-19T17:57Z
+5,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.2.1:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager 5.2.1,['CVE-2013-1192'],2022-03-19T17:57Z
+6,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.2.2:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager 5.2.2,['CVE-2013-1192'],2022-03-19T17:57Z
+7,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.2.3:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager 5.2.3,['CVE-2013-1192'],2022-03-19T17:57Z
+8,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.2.4:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager 5.2.4,['CVE-2013-1192'],2022-03-19T17:57Z
+9,cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.2.5:*:*:*:*:*:*:*,Cisco Adaptive Security Appliance (ASA) Device Manager 5.2.5,['CVE-2013-1192'],2022-03-19T17:57Z

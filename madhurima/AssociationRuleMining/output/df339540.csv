@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:i18next:i18next:2.0.26:*:*:*:*:node.js:*:*,i18next 2.0.26 for Node.js,['CVE-2017-16010'],2022-03-21T19:38Z
+1,cpe:2.3:a:i18next:i18next:2.1.0:*:*:*:*:node.js:*:*,i18next 2.1.0 for Node.js,['CVE-2017-16010'],2022-03-21T19:38Z
+2,cpe:2.3:a:i18next:i18next:2.2.0:*:*:*:*:node.js:*:*,i18next 2.2.0 for Node.js,['CVE-2017-16010'],2022-03-21T19:38Z
+3,cpe:2.3:a:i18next:i18next:2.3.0:*:*:*:*:node.js:*:*,i18next 2.3.0 for Node.js,['CVE-2017-16010'],2022-03-21T19:38Z
+4,cpe:2.3:a:i18next:i18next:2.3.1:*:*:*:*:node.js:*:*,i18next 2.3.1 for Node.js,['CVE-2017-16010'],2022-03-21T19:38Z
+5,cpe:2.3:a:i18next:i18next:2.3.2:*:*:*:*:node.js:*:*,i18next 2.3.2 for Node.js,['CVE-2017-16010'],2022-03-21T19:38Z
+6,cpe:2.3:a:i18next:i18next:2.3.3:*:*:*:*:node.js:*:*,i18next 2.3.3 for Node.js,['CVE-2017-16010'],2022-03-21T19:38Z
+7,cpe:2.3:a:i18next:i18next:2.3.4:*:*:*:*:node.js:*:*,i18next 2.3.4 for Node.js,['CVE-2017-16010'],2022-03-21T19:38Z
+8,cpe:2.3:a:i18next:i18next:2.3.5:*:*:*:*:node.js:*:*,i18next 2.3.5 for Node.js,['CVE-2017-16010'],2022-03-21T19:38Z
+9,cpe:2.3:a:i18next:i18next:2.4.0:*:*:*:*:node.js:*:*,i18next 2.4.0 for Node.js,['CVE-2017-16010'],2022-03-21T19:38Z

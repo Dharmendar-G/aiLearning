@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:civicrm:civicrm:4.7.30:*:*:*:*:*:*:*,CiviCRM 4.7.30,['CVE-2020-36388'],2022-03-20T01:46Z
+1,cpe:2.3:a:civicrm:civicrm:4.7.31:*:*:*:*:*:*:*,CiviCRM 4.7.31,['CVE-2020-36388'],2022-03-20T01:46Z
+2,cpe:2.3:a:civicrm:civicrm:5.0.0:*:*:*:*:*:*:*,CiviCRM 5.0.0,['CVE-2020-36388'],2022-03-20T01:46Z
+3,cpe:2.3:a:civicrm:civicrm:5.0.1:*:*:*:*:*:*:*,CiviCRM 5.0.1,['CVE-2020-36388'],2022-03-20T01:46Z
+4,cpe:2.3:a:civicrm:civicrm:5.0.2:*:*:*:*:*:*:*,CiviCRM 5.0.2,['CVE-2020-36388'],2022-03-20T01:46Z
+5,cpe:2.3:a:civicrm:civicrm:5.1.0:*:*:*:*:*:*:*,CiviCRM 5.1.0,['CVE-2020-36388'],2022-03-20T01:46Z
+6,cpe:2.3:a:civicrm:civicrm:5.1.1:*:*:*:*:*:*:*,CiviCRM 5.1.1,['CVE-2020-36388'],2022-03-20T01:46Z
+7,cpe:2.3:a:civicrm:civicrm:5.1.2:*:*:*:*:*:*:*,CiviCRM 5.1.2,['CVE-2020-36388'],2022-03-20T01:46Z
+8,cpe:2.3:a:civicrm:civicrm:5.2.0:*:*:*:*:*:*:*,CiviCRM 5.2.0,['CVE-2020-36388'],2022-03-20T01:46Z
+9,cpe:2.3:a:civicrm:civicrm:5.2.1:*:*:*:*:*:*:*,CiviCRM 5.2.1,['CVE-2020-36388'],2022-03-20T01:46Z

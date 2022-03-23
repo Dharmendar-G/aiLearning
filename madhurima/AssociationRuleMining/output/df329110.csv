@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:software_security_core:6.20.50:*:*:*:*:*:*:*,HP Software Security Core 6.20.50,[''],2022-03-21T16:06Z
+1,cpe:2.3:a:hp:software_update:2.0.37.20031205:*:*:*:*:*:*:*,HP Software Update 2.0.37.20031205,"['CVE-2007-6506', 'CVE-2008-0712', 'CVE-2015-5442']",2022-03-21T16:06Z
+2,cpe:2.3:a:hp:software_update:2.0.38.20040107:*:*:*:*:*:*:*,HP Software Update 2.0.38.20040107,"['CVE-2007-6506', 'CVE-2008-0712', 'CVE-2015-5442']",2022-03-21T16:06Z
+3,cpe:2.3:a:hp:software_update:3.0.2.991:*:*:*:*:*:*:*,HP Software Update 3.0.2.991,"['CVE-2007-6506', 'CVE-2008-0712', 'CVE-2015-5442']",2022-03-21T16:06Z
+4,cpe:2.3:a:hp:software_update:3.0.5.1:*:*:*:*:*:*:*,HP Software Update 3.0.5.1,"['CVE-2007-6506', 'CVE-2008-0712', 'CVE-2015-5442']",2022-03-21T16:06Z
+5,cpe:2.3:a:hp:software_update:3.0.6.3:*:*:*:*:*:*:*,HP Software Update 3.0.6.3,"['CVE-2007-6506', 'CVE-2008-0712', 'CVE-2015-5442']",2022-03-21T16:06Z
+6,cpe:2.3:a:hp:software_update:3.0.7.14:*:*:*:*:*:*:*,HP Software Update 3.0.7.14,"['CVE-2007-6506', 'CVE-2008-0712', 'CVE-2015-5442']",2022-03-21T16:06Z
+7,cpe:2.3:a:hp:software_xalana_xslt_processor:1.10.60:*:*:*:*:*:*:*,HP Software Xalana Xslt Processor 1.10.60,[''],2022-03-21T16:06Z
+8,cpe:2.3:a:hp:software_xalana_xslt_processor:1.10.73:*:*:*:*:*:*:*,HP Software Xalana Xslt Processor 1.10.73,[''],2022-03-21T16:06Z
+9,cpe:2.3:a:hp:software_xercesa_xml_parser:2.7.50:*:*:*:*:*:*:*,HP Software Xercesa Xml Parser 2.7.50,[''],2022-03-21T16:06Z

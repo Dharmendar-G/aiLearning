@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:buffalo:wzr-rs-g54_firmware:-:*:*:*:*:*:*:*,Buffalo WZR-RS-G54 FIRMWARE,['CVE-2021-20716'],2022-03-19T13:18Z
+1,cpe:2.3:o:buffalo:wzr-rs-g54_firmware:2.55:*:*:*:*:*:*:*,Buffalo WZR-RS-G54 FIRMWARE 2.55,['CVE-2021-20716'],2022-03-19T13:18Z
+2,cpe:2.3:h:buffalo:wzr-rs-g54hp:-:*:*:*:*:*:*:*,Buffalo WZR-RS-G54HP,['CVE-2021-20716'],2022-03-19T13:18Z
+3,cpe:2.3:o:buffalo:wzr-rs-g54hp_firmware:-:*:*:*:*:*:*:*,Buffalo WZR-RS-G54HP FIRMWARE,['CVE-2021-20716'],2022-03-19T13:18Z
+4,cpe:2.3:o:buffalo:wzr-rs-g54hp_firmware:2.55:*:*:*:*:*:*:*,Buffalo WZR-RS-G54HP FIRMWARE 2.55,['CVE-2021-20716'],2022-03-19T13:18Z
+5,cpe:2.3:h:buffalo:wzr-s1750dhp:-:*:*:*:*:*:*:*,Buffalo WZR-S1750DHP,['CVE-2016-4816'],2022-03-19T13:18Z
+6,cpe:2.3:o:buffalo:wzr-s1750dhp_firmware:2.28:*:*:*:*:*:*:*,Buffalo WZR-S1750DHP Firmware 2.28,['CVE-2016-4816'],2022-03-19T13:18Z
+7,cpe:2.3:h:buffalo:wzr-s600dhp:-:*:*:*:*:*:*:*,Buffalo WZR-S600DHP,"['CVE-2016-4815', 'CVE-2016-4816']",2022-03-19T13:18Z
+8,cpe:2.3:o:buffalo:wzr-s600dhp_firmware:2.16:*:*:*:*:*:*:*,Buffalo WZR-S600DHP Firmware 2.16,"['CVE-2016-4815', 'CVE-2016-4816']",2022-03-19T13:18Z
+9,cpe:2.3:h:buffalo:wzr-s900dhp:-:*:*:*:*:*:*:*,Buffalo WZR-S900DHP,"['CVE-2016-4815', 'CVE-2016-4816']",2022-03-19T13:18Z

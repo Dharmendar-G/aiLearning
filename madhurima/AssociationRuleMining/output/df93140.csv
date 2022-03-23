@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:o:broadcom:fabric_operating_system:9.0.0a:*:*:*:*:*:*:*,Broadcom Fabric Operating System (FOS) 9.0.0a,"['CVE-2020-15386', 'CVE-2021-27790', 'CVE-2021-27791', 'CVE-2021-27792', 'CVE-2021-27793', 'CVE-2021-27794']",2022-03-19T12:24Z
+2,cpe:2.3:o:broadcom:fabric_operating_system:9.0.0b:*:*:*:*:*:*:*,Broadcom Fabric Operating System (FOS) 9.0.0b,"['CVE-2020-15386', 'CVE-2021-27790', 'CVE-2021-27791', 'CVE-2021-27792', 'CVE-2021-27793', 'CVE-2021-27794']",2022-03-19T12:24Z
+3,cpe:2.3:o:broadcom:fabric_operating_system:9.0.1:*:*:*:*:*:*:*,Broadcom Fabric Operating System (FOS) 9.0.1,"['CVE-2020-15386', 'CVE-2021-27790', 'CVE-2021-27791', 'CVE-2021-27792', 'CVE-2021-27793', 'CVE-2021-27794']",2022-03-19T12:24Z
+4,[0],[0],[0],[0]
+5,[0],[0],[0],[0]
+6,cpe:2.3:o:broadcom:fabric_operating_system:9.0.1a:*:*:*:*:*:*:*,Broadcom Fabric Operating System (FOS) 9.0.1a,['CVE-2021-27793'],2022-03-19T12:24Z
+7,cpe:2.3:h:broadcom:hardmac_wi-fi_soc:-:*:*:*:*:*:*:*,Broadcom HardMAC Wi-Fi SoC,['CVE-2017-6956'],2022-03-19T12:24Z
+8,cpe:2.3:o:broadcom:hardmac_wi-fi_soc_firmware:6.37.34.40:*:*:*:*:*:*:*,Broadcom HardMAC Wi-Fi SoC Firmware 6.37.34.40,['CVE-2017-6956'],2022-03-19T12:24Z
+9,cpe:2.3:a:broadcom:host-based_intrusion_prevention_system:-:*:*:*:*:*:*:*,Broadcom Host-Based Intrusion Prevention System,['CVE-2007-5472'],2022-03-19T12:24Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bravenewcode:wptouch:1.9.19.5:*:*:*:*:*:*:*,BraveNewCode WPtouch plugin 1.9.19.5,['CVE-2011-4803'],2022-03-19T12:08Z
+1,cpe:2.3:a:bravenewcode:wptouch:1.9.20:*:*:*:*:*:*:*,BraveNewCode WPtouch plugin 1.9.20,"['CVE-2010-4779', 'CVE-2011-4803']",2022-03-19T12:08Z
+2,cpe:2.3:a:bravenewcode:wptouch:1.9.21:*:*:*:*:*:*:*,BraveNewCode WPtouch plugin 1.9.21,['CVE-2011-4803'],2022-03-19T12:08Z
+3,cpe:2.3:a:bravenewcode:wptouch:1.9.21.1:*:*:*:*:*:*:*,BraveNewCode WPtouch plugin 1.9.21.1,['CVE-2011-4803'],2022-03-19T12:08Z
+4,cpe:2.3:a:bravenewcode:wptouch:1.9.22:*:*:*:*:*:*:*,BraveNewCode WPtouch plugin 1.9.22,['CVE-2011-4803'],2022-03-19T12:08Z
+5,cpe:2.3:a:bravenewcode:wptouch:1.9.22.1:*:*:*:*:*:*:*,BraveNewCode WPtouch plugin 1.9.22.1,['CVE-2011-4803'],2022-03-19T12:08Z
+6,cpe:2.3:a:bravenewcode:wptouch:1.9.23:*:*:*:*:*:*:*,BraveNewCode WPtouch plugin 1.9.23,['CVE-2011-4803'],2022-03-19T12:08Z
+7,cpe:2.3:a:bravenewcode:wptouch:1.9.24:*:*:*:*:*:*:*,BraveNewCode WPtouch plugin 1.9.24,['CVE-2011-4803'],2022-03-19T12:08Z
+8,cpe:2.3:a:bravenewcode:wptouch:1.9.25:*:*:*:*:*:*:*,BraveNewCode WPtouch plugin 1.9.25,['CVE-2011-4803'],2022-03-19T12:08Z
+9,cpe:2.3:a:bravenewcode:wptouch:1.9.26:*:*:*:*:*:*:*,BraveNewCode WPtouch plugin 1.9.26,['CVE-2011-4803'],2022-03-19T12:09Z

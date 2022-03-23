@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:rational_directory_server:5.2.0.1:*:*:*:*:*:*:*,IBM Rational Directory Server 5.2.0.1,"['CVE-2012-2191', 'CVE-2012-2203', 'CVE-2013-0599', 'CVE-2014-3089']",2022-03-21T21:41Z
+1,cpe:2.3:a:ibm:rational_directory_server:5.2.0.2:*:*:*:*:*:*:*,IBM Rational Directory Server 5.2.0.2,"['CVE-2012-2191', 'CVE-2012-2203', 'CVE-2013-0599', 'CVE-2014-3089']",2022-03-21T21:41Z
+2,cpe:2.3:a:ibm:rational_directory_server:5.2.1:*:*:*:*:*:*:*,IBM Rational Directory Server 5.2.1,"['CVE-2012-2191', 'CVE-2012-2203', 'CVE-2013-0599', 'CVE-2014-3089']",2022-03-21T21:41Z
+3,cpe:2.3:a:ibm:rational_doors:9.2:*:*:*:*:*:*:*,IBM Rational DOORS 9.2,[''],2022-03-21T21:41Z
+4,cpe:2.3:a:ibm:rational_doors:9.2.0.1:*:*:*:*:*:*:*,IBM Rational DOORS 9.2.0.1,[''],2022-03-21T21:41Z
+5,cpe:2.3:a:ibm:rational_doors:9.2.0.2:*:*:*:*:*:*:*,IBM Rational DOORS 9.2.0.2,[''],2022-03-21T21:41Z
+6,cpe:2.3:a:ibm:rational_doors:9.2.0.3:*:*:*:*:*:*:*,IBM Rational DOORS 9.2.0.3,[''],2022-03-21T21:41Z
+7,cpe:2.3:a:ibm:rational_doors:9.2.0.4:*:*:*:*:*:*:*,IBM Rational DOORS 9.2.0.4,[''],2022-03-21T21:41Z
+8,cpe:2.3:a:ibm:rational_doors:9.2.0.5:*:*:*:*:*:*:*,IBM Rational DOORS 9.2.0.5,[''],2022-03-21T21:41Z
+9,cpe:2.3:a:ibm:rational_doors:9.3:*:*:*:*:*:*:*,IBM Rational DOORS 9.3,[''],2022-03-21T21:41Z

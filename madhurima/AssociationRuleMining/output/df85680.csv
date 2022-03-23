@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:bosch:divar_ip_5000_firmware:3.61:*:*:*:*:*:*:*,Bosch DIVAR IP 5000 3.61,"['CVE-2019-8951', 'CVE-2019-8952', 'CVE-2020-6769']",2022-03-19T10:03Z
+1,cpe:2.3:o:bosch:divar_ip_5000_firmware:3.62:*:*:*:*:*:*:*,Bosch DIVAR IP 5000 3.62,"['CVE-2019-8951', 'CVE-2019-8952', 'CVE-2020-6769']",2022-03-19T10:03Z
+2,cpe:2.3:o:bosch:divar_ip_5000_firmware:3.80:*:*:*:*:*:*:*,Bosch DIVAR IP 5000 3.80,"['CVE-2019-11684', 'CVE-2019-8951', 'CVE-2019-8952', 'CVE-2020-6769']",2022-03-19T10:03Z
+3,cpe:2.3:o:bosch:divar_ip_5000_firmware:3.80.0033:*:*:*:*:*:*:*,Bosch DIVAR IP 5000 3.80.0033,"['CVE-2019-11684', 'CVE-2020-6769']",2022-03-19T10:03Z
+4,cpe:2.3:o:bosch:divar_ip_5000_firmware:3.80.0035:*:*:*:*:*:*:*,Bosch DIVAR IP 5000 3.80.0035,"['CVE-2019-11684', 'CVE-2020-6769']",2022-03-19T10:03Z
+5,cpe:2.3:o:bosch:divar_ip_5000_firmware:3.80.0037:*:*:*:*:*:*:*,Bosch DIVAR IP 5000 3.80.0037,"['CVE-2019-11684', 'CVE-2020-6769']",2022-03-19T10:03Z
+6,cpe:2.3:o:bosch:divar_ip_5000_firmware:3.80.0039:*:*:*:*:*:*:*,Bosch DIVAR IP 5000 Firmware 3.80.0039,['CVE-2020-6769'],2022-03-19T10:03Z
+7,cpe:2.3:o:bosch:divar_ip_5000_firmware:038.037:*:*:*:*:*:*:*,Bosch DIVAR IP 5000 Firmware 038.037,[''],2022-03-19T10:03Z
+8,cpe:2.3:h:bosch:divar_ip_7000:-:*:*:*:*:*:*:*,Bosch DIVAR IP 7000,"['CVE-2020-6767', 'CVE-2020-6768', 'CVE-2020-6769', 'CVE-2020-6770']",2022-03-19T10:03Z
+9,cpe:2.3:o:bosch:divar_ip_7000_firmware:-:*:*:*:*:*:*:*,Bosch DIVAR IP 7000 Firmware,"['CVE-2020-6770', 'CVE-2021-23859', 'CVE-2021-23860', 'CVE-2021-23861', 'CVE-2021-23862']",2022-03-19T10:03Z

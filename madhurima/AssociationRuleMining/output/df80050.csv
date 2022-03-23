@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blackboard:blackboard_learn:9.1:q4_2019_cumulative_update1:*:*:*:*:*:*,Blackboard Learn 9.1 Q4 2019 Cumulative Update 1,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+1,cpe:2.3:a:blackboard:blackboard_learn:9.1:sp1:*:*:*:*:*:*,Blackboard Learn 9.1 Service Pack 1,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+2,cpe:2.3:a:blackboard:blackboard_learn:9.1:sp10:*:*:*:*:*:*,Blackboard Learn 9.1 Service Pack 10,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+3,cpe:2.3:a:blackboard:blackboard_learn:9.1:sp11:*:*:*:*:*:*,Blackboard Learn 9.1 Service Pack 11,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+4,cpe:2.3:a:blackboard:blackboard_learn:9.1:sp12:*:*:*:*:*:*,Blackboard Learn 9.1 Service Pack 12,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+5,cpe:2.3:a:blackboard:blackboard_learn:9.1:sp13:*:*:*:*:*:*,Blackboard Learn 9.1 Service Pack 13,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+6,cpe:2.3:a:blackboard:blackboard_learn:9.1:sp14:*:*:*:*:*:*,Blackboard Learn 9.1 Service Pack 14,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+7,cpe:2.3:a:blackboard:blackboard_learn:9.1:sp2:*:*:*:*:*:*,Blackboard Learn 9.1 Service Pack 2,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+8,cpe:2.3:a:blackboard:blackboard_learn:9.1:sp3:*:*:*:*:*:*,Blackboard Learn 9.1 Service Pack 3,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z
+9,cpe:2.3:a:blackboard:blackboard_learn:9.1:sp4:*:*:*:*:*:*,Blackboard Learn 9.1 Service Pack 4,"['CVE-2017-18262', 'CVE-2021-36746', 'CVE-2021-36747']",2022-03-19T08:38Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:degraaff:checkbot:1.77:*:*:*:*:*:*:*,Degraaff Checkbot 1.77,[''],2022-03-20T12:05Z
+1,cpe:2.3:a:degraupublicidade:degraupublicidade:-:*:*:*:*:*:*:*,Degrau Publicidade,['CVE-2018-18963'],2022-03-20T12:05Z
+2,cpe:2.3:a:deiser:profields-project_custom_fields:5.7.0:*:*:*:*:jira:*:*,Deiser Profields-project Custom Fields 5.7.0 for Jira,['CVE-2018-16281'],2022-03-20T12:05Z
+3,cpe:2.3:a:deiser:profields-project_custom_fields:5.7.1:*:*:*:*:jira:*:*,Deiser Profields-project Custom Fields 5.7.1 for Jira,['CVE-2018-16281'],2022-03-20T12:05Z
+4,cpe:2.3:a:deiser:profields-project_custom_fields:5.8.0:*:*:*:*:jira:*:*,Deiser Profields-project Custom Fields 5.8.0 for Jira,['CVE-2018-16281'],2022-03-20T12:06Z
+5,cpe:2.3:a:deiser:profields-project_custom_fields:5.8.1:*:*:*:*:jira:*:*,Deiser Profields-project Custom Fields 5.8.1 for Jira,['CVE-2018-16281'],2022-03-20T12:05Z
+6,cpe:2.3:a:deiser:profields-project_custom_fields:6.0.0:*:*:*:*:jira:*:*,Deiser Profields-project Custom Fields 6.0.0 for Jira,['CVE-2018-16281'],2022-03-20T12:06Z
+7,cpe:2.3:a:deiser:profields-project_custom_fields:6.0.1:*:*:*:*:jira:*:*,Deiser Profields-project Custom Fields 6.0.1 for Jira,['CVE-2018-16281'],2022-03-20T12:06Z
+8,cpe:2.3:a:deiser:profields-project_custom_fields:6.0.2:*:*:*:*:jira:*:*,Deiser Profields-project Custom Fields 6.0.2 for Jira,[''],2022-03-20T12:06Z
+9,cpe:2.3:a:deiser:profields-project_custom_fields:6.1.0:*:*:*:*:jira:*:*,Deiser Profields-project Custom Fields 6.1.0 for Jira,[''],2022-03-20T12:06Z

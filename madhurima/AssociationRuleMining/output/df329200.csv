@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:storage_suite:-:*:*:*:*:*:*:*,HP Storage Suite,[''],2022-03-21T16:07Z
+1,cpe:2.3:a:hp:storage_vcs_base_firmware:-:*:*:*:*:*:*:*,HP StorageWorks VCS Base Firmware,[''],2022-03-21T16:07Z
+2,cpe:2.3:a:hp:storageworks_aix_host_agent_files:2.22.0:*:*:*:*:*:*:*,HP Storageworks Aix Host Agent Files 2.22.0,[''],2022-03-21T16:07Z
+3,cpe:2.3:a:hp:storageworks_command_view_xp:2.22.0:*:*:*:*:*:*:*,HP Storageworks Command View Xp 2.22.0,[''],2022-03-21T16:07Z
+4,cpe:2.3:a:hp:storageworks_common_services_xp:1.17.0:*:*:*:*:*:*:*,HP Storageworks Common Services Xp 1.17.0,[''],2022-03-21T16:07Z
+5,cpe:2.3:a:hp:storageworks_hp-ux_11._host_agent_files:2.22.0:*:*:*:*:*:*:*,HP Storageworks Hp-ux 11. Host Agent Files 2.22.0,[''],2022-03-21T16:07Z
+6,cpe:2.3:a:hp:storageworks_hp-ux_11.00_11.11_host_agent_files:2.22.0:*:*:*:*:*:*:*,"HP Storageworks Hp-ux 11.00, 11.11 Host Agent Files 2.22.0",[''],2022-03-21T16:07Z
+7,cpe:2.3:a:hp:storageworks_hp-ux_11.00_11.11_host_agent_files:3.40.0:*:*:*:*:*:*:*,"HP Storageworks Hp-ux 11.00, 11.11 Host Agent Files 3.40.0",[''],2022-03-21T16:07Z
+8,cpe:2.3:a:hp:storageworks_hp-ux_11.23_host_agent_files:3.40.0:*:*:*:*:*:*:*,HP Storageworks Hp-ux 11.23 Host Agent Files 3.40.0,[''],2022-03-21T16:07Z
+9,cpe:2.3:a:hp:storageworks_hp-ux_11.23pi_ia_host_agent_files:3.40.0:*:*:*:*:*:*:*,HP Storageworks Hp-ux 11.23pi Ia Host Agent Files 3.40.0,[''],2022-03-21T16:07Z

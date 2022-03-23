@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:insight_diagnostics_online_edition_for_windows:8.4.0:*:*:*:*:*:*:*,HP Insight Diagnostics Online Edition For Windows 8.4.0,[''],2022-03-21T13:40Z
+1,cpe:2.3:a:hp:insight_diagnostics_online_edition_for_windows:8.5.0:*:*:*:*:*:*:*,HP Insight Diagnostics Online Edition For Windows 8.5.0,[''],2022-03-21T13:40Z
+2,cpe:2.3:a:hp:insight_diagnostics_online_edition_for_windows:8.6.0:*:*:*:*:*:*:*,HP Insight Diagnostics Online Edition For Windows 8.6.0,[''],2022-03-21T13:40Z
+3,cpe:2.3:a:hp:insight_diagnostics_online_edition_for_windows:8.7.0:*:*:*:*:*:*:*,HP Insight Diagnostics Online Edition For Windows 8.7.0,[''],2022-03-21T13:40Z
+4,cpe:2.3:a:hp:insight_management:7.4:*:*:*:*:*:*:*,HP Insight Management 7.4,['CVE-2015-6858'],2022-03-21T13:40Z
+5,cpe:2.3:a:hp:insight_management_agent:7.70.0.0:*:*:*:*:*:*:*,HP Insight Management Agent 7.70.0.0,[''],2022-03-21T13:40Z
+6,cpe:2.3:a:hp:insight_management_agent:7.80.0.0:*:*:*:*:*:*:*,HP Insight Management Agent 7.80.0.0,[''],2022-03-21T13:40Z
+7,cpe:2.3:a:hp:insight_management_agent:7.90.0.0:*:*:*:*:*:*:*,HP Insight Management Agent 7.90.0.0,[''],2022-03-21T13:40Z
+8,cpe:2.3:a:hp:insight_management_agent:8.0.0.0:*:*:*:*:*:*:*,HP Insight Management Agent 8.0.0.0,[''],2022-03-21T13:40Z
+9,cpe:2.3:a:hp:insight_management_agent:8.11.0.0:*:*:*:*:*:*:*,HP Insight Management Agent 8.11.0.0,[''],2022-03-21T13:40Z

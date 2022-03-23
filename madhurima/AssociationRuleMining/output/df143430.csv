@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:click_project:click:-:*:*:*:*:*:*:*,Click Project Click,['CVE-2015-8768'],2022-03-20T02:28Z
+1,cpe:2.3:a:click2sell:click2sell_suite_module:6.x-1.0:*:*:*:*:*:*:*,Click2Sell Suite module 6.x-1.0 for Drupal,"['CVE-2013-5937', 'CVE-2013-5938']",2022-03-20T02:28Z
+2,cpe:2.3:a:clickbank:affiliate_ads_for_clickbank_products:1.0:*:*:*:*:wordpress:*:*,Clickbank Affiliate Ads for Clickbank Products 1.0 for WordPress,['CVE-2017-18011'],2022-03-20T02:28Z
+3,cpe:2.3:a:clickbank:affiliate_ads_for_clickbank_products:1.3:*:*:*:*:wordpress:*:*,Clickbank Affiliate Ads for Clickbank Products 1.3 for WordPress,['CVE-2017-18011'],2022-03-20T02:28Z
+4,cpe:2.3:a:clickbank:affiliate_ads_for_clickbank_products:1.4:*:*:*:*:wordpress:*:*,Clickbank Affiliate Ads for Clickbank Products 1.4 for WordPress,['CVE-2017-18011'],2022-03-20T02:28Z
+5,cpe:2.3:a:clickbank:affiliate_ads_for_clickbank_products:1.5:*:*:*:*:wordpress:*:*,Clickbank Affiliate Ads for Clickbank Products 1.5 for WordPress,['CVE-2017-18011'],2022-03-20T02:28Z
+6,cpe:2.3:a:clickbank:affiliate_ads_for_clickbank_products:1.6:*:*:*:*:wordpress:*:*,Clickbank Affiliate Ads for Clickbank Products 1.6 for WordPress,['CVE-2017-18011'],2022-03-20T02:28Z
+7,cpe:2.3:a:clickbank:affiliate_ads_for_clickbank_products:1.7:*:*:*:*:wordpress:*:*,Clickbank Affiliate Ads for Clickbank Products 1.7 for WordPress,[''],2022-03-20T02:28Z
+8,cpe:2.3:a:clickbank:affiliate_ads_for_clickbank_products:1.8:*:*:*:*:wordpress:*:*,Clickbank Affiliate Ads for Clickbank Products 1.8 for WordPress,[''],2022-03-20T02:28Z
+9,cpe:2.3:a:clickdesk:clickdesk:0.9:alpha:*:*:*:wordpress:*:*,ClickDesk 0.9 Alpha for WordPress,['CVE-2014-9211'],2022-03-20T02:28Z

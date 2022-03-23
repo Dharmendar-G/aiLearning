@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:directoriespro:directories_pro:1.3.37:*:*:*:*:wordpress:*:*,Directories Pro 1.3.37 for WordPress,['CVE-2020-29304'],2022-03-20T14:58Z
+1,cpe:2.3:a:directoriespro:directories_pro:1.3.38:*:*:*:*:wordpress:*:*,Directories Pro 1.3.38 for WordPress,['CVE-2020-29304'],2022-03-20T14:58Z
+2,cpe:2.3:a:directoriespro:directories_pro:1.3.39:*:*:*:*:wordpress:*:*,Directories Pro 1.3.39 for WordPress,['CVE-2020-29304'],2022-03-20T14:58Z
+3,cpe:2.3:a:directoriespro:directories_pro:1.3.40:*:*:*:*:wordpress:*:*,Directories Pro 1.3.40 for WordPress,['CVE-2020-29304'],2022-03-20T14:58Z
+4,cpe:2.3:a:directoriespro:directories_pro:1.3.41:*:*:*:*:wordpress:*:*,Directories Pro 1.3.41 for WordPress,['CVE-2020-29304'],2022-03-20T14:58Z
+5,cpe:2.3:a:directoriespro:directories_pro:1.3.42:*:*:*:*:wordpress:*:*,Directories Pro 1.3.42 for WordPress,['CVE-2020-29304'],2022-03-20T14:58Z
+6,cpe:2.3:a:directoriespro:directories_pro:1.3.43:*:*:*:*:wordpress:*:*,Directories Pro 1.3.43 for WordPress,['CVE-2020-29304'],2022-03-20T14:58Z
+7,cpe:2.3:a:directoriespro:directories_pro:1.3.44:*:*:*:*:wordpress:*:*,Directories Pro 1.3.44 for WordPress,['CVE-2020-29304'],2022-03-20T14:58Z
+8,cpe:2.3:a:directoriespro:directories_pro:1.3.45:*:*:*:*:wordpress:*:*,Directories Pro 1.3.45 for WordPress,"['CVE-2020-29303', 'CVE-2020-29304']",2022-03-20T14:58Z
+9,cpe:2.3:a:directoriespro:directories_pro:1.3.46:*:*:*:*:wordpress:*:*,Directories Pro 1.3.46 for WordPress,[''],2022-03-20T14:58Z

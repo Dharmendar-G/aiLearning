@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hikvision:ds-2cd2766g2-izs_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD2766G2-IZS Firmware,['CVE-2021-36260'],2022-03-21T11:09Z
+1,cpe:2.3:h:hikvision:ds-2cd2783g2-izs:-:*:*:*:*:*:*:*,Hikvision DS-2CD2783G2-IZS,['CVE-2021-36260'],2022-03-21T11:09Z
+2,cpe:2.3:o:hikvision:ds-2cd2783g2-izs_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD2783G2-IZS Firmware,['CVE-2021-36260'],2022-03-21T11:09Z
+3,cpe:2.3:h:hikvision:ds-2cd2786g2-izs:-:*:*:*:*:*:*:*,Hikvision DS-2CD2786G2-IZS,['CVE-2021-36260'],2022-03-21T11:09Z
+4,cpe:2.3:o:hikvision:ds-2cd2786g2-izs_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD2786G2-IZS Firmware,['CVE-2021-36260'],2022-03-21T11:09Z
+5,cpe:2.3:h:hikvision:ds-2cd2t32-i3:-:*:*:*:*:*:*:*,Hikvision DS-2CD2T32-I3,"['CVE-2017-7921', 'CVE-2017-7923']",2022-03-21T11:09Z
+6,cpe:2.3:o:hikvision:ds-2cd2t32-i3_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD2T32-I3 Firmware,"['CVE-2017-7921', 'CVE-2017-7923']",2022-03-21T11:09Z
+7,cpe:2.3:h:hikvision:ds-2cd2t32-i5:-:*:*:*:*:*:*:*,Hikvision DS-2CD2T32-I5,"['CVE-2017-7921', 'CVE-2017-7923']",2022-03-21T11:09Z
+8,cpe:2.3:o:hikvision:ds-2cd2t32-i5_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2CD2T32-I5 Firmware,"['CVE-2017-7921', 'CVE-2017-7923']",2022-03-21T11:09Z
+9,cpe:2.3:h:hikvision:ds-2cd2t32-i8:-:*:*:*:*:*:*:*,Hikvision DS-2CD2T32-I8,"['CVE-2017-7921', 'CVE-2017-7923']",2022-03-21T11:09Z

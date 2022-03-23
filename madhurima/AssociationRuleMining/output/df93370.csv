@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:privileged_access_manager:2.8.2:*:*:*:*:*:*:*,Broadcom Privileged Access Manager 2.8.2,"['CVE-2018-9021', 'CVE-2018-9022', 'CVE-2018-9023', 'CVE-2018-9024', 'CVE-2018-9025', 'CVE-2018-9026', 'CVE-2018-9028', 'CVE-2018-9029']",2022-03-19T12:28Z
+1,cpe:2.3:a:broadcom:privileged_access_manager:2.8.3:*:*:*:*:*:*:*,Broadcom Privileged Access Manager 2.8.3,"['CVE-2018-9023', 'CVE-2018-9024', 'CVE-2018-9025', 'CVE-2018-9026', 'CVE-2018-9028', 'CVE-2018-9029']",2022-03-19T12:28Z
+2,cpe:2.3:a:broadcom:privileged_access_manager:2.8.4.1:*:*:*:*:*:*:*,Broadcom Privileged Access Manager 2.8.4.1,"['CVE-2018-9023', 'CVE-2018-9024', 'CVE-2018-9025', 'CVE-2018-9026', 'CVE-2018-9028', 'CVE-2018-9029']",2022-03-19T12:28Z
+3,cpe:2.3:a:broadcom:privileged_access_manager:3.0.0:*:*:*:*:*:*:*,Broadcom Privileged Access Manager 3.0.0,[''],2022-03-19T12:28Z
+4,cpe:2.3:a:broadcom:privileged_access_manager:3.0.1:*:*:*:*:*:*:*,Broadcom Privileged Access Manager 3.0.1,['CVE-2019-7392'],2022-03-19T12:28Z
+5,cpe:2.3:a:broadcom:privileged_access_manager:3.0.2:*:*:*:*:*:*:*,Broadcom Privileged Access Manager 3.0.2,['CVE-2019-7392'],2022-03-19T12:28Z
+6,cpe:2.3:a:broadcom:privileged_access_manager:3.0.3:*:*:*:*:*:*:*,Broadcom Privileged Access Manager 3.0.3,['CVE-2019-7392'],2022-03-19T12:28Z
+7,cpe:2.3:a:broadcom:privileged_access_manager:3.1.1:*:*:*:*:*:*:*,Broadcom Privileged Access Manager 3.1.1,['CVE-2019-7392'],2022-03-19T12:28Z
+8,cpe:2.3:a:broadcom:privileged_access_manager:3.1.2:*:*:*:*:*:*:*,Broadcom Privileged Access Manager 3.1.2,['CVE-2019-7392'],2022-03-19T12:28Z
+9,cpe:2.3:a:broadcom:privileged_access_manager:3.1.3:*:*:*:*:*:*:*,Broadcom Privileged Access Manager 3.1.3,[''],2022-03-19T12:28Z

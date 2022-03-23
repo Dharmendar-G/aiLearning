@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:compaq:trucluster:1.5:*:*:*:*:*:*:*,Compaq TruCluster 1.5,['CVE-2001-1033'],2022-03-20T07:02Z
+1,cpe:2.3:a:compaq:version_control_agent:-:*:*:*:*:*:*:*,Compaq Version Control Agent,[''],2022-03-20T07:02Z
+2,cpe:2.3:a:compaq:version_control_agent:1:*:*:*:*:*:*:*,Compaq Version Control Agent 1,[''],2022-03-20T07:02Z
+3,cpe:2.3:a:compaq:web-enabled_management:-:*:*:*:*:*:*:*,Compaq Web-Enabled Management,['CVE-2001-0374'],2022-03-20T07:02Z
+4,cpe:2.3:a:comparex:miss_marple:2.0:*:*:*:enterprise:*:*:*,COMPAREX Miss Marple 2.0 Enterprise Edition,[''],2022-03-20T07:02Z
+5,cpe:2.3:a:compass_rose_project:compass_rose:6.x-1.0:*:*:*:*:drupal:*:*,Compass Rose Project Compass Rose 6.x-1.0 for Drupal,['CVE-2015-7980'],2022-03-20T07:02Z
+6,cpe:2.3:a:compass_rose_project:compass_rose:6.x-1.1:*:*:*:*:drupal:*:*,Compass Rose Project Compass Rose 6.x-1.1 for Drupal,[''],2022-03-20T07:02Z
+7,cpe:2.3:a:compass_rose_project:compass_rose:6.x-1.x:dev:*:*:*:drupal:*:*,Compass Rose Project Compass Rose 6.x-1.x Dev for Drupal,[''],2022-03-20T07:02Z
+8,cpe:2.3:a:compass_rose_project:compass_rose:7.x-1.0:alpha1:*:*:*:drupal:*:*,Compass Rose Project Compass Rose 7.x-1.0 Alpha 1 for Drupal,[''],2022-03-20T07:02Z
+9,cpe:2.3:a:compass_rose_project:compass_rose:7.x-1.x:dev:*:*:*:drupal:*:*,Compass Rose Project Compass Rose 7.x-1.x Dev for Drupal,[''],2022-03-20T07:02Z

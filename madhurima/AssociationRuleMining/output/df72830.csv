@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:beronet:bf4001t1box:-:*:*:*:*:*:*:*,Beronet BF4001T1BOX,['CVE-2017-18923'],2022-03-19T06:55Z
+1,cpe:2.3:h:beronet:bf64002e1box:-:*:*:*:*:*:*:*,Beronet BF64002E1BOX,['CVE-2017-18923'],2022-03-19T06:55Z
+2,cpe:2.3:h:beronet:bf64002t1box:-:*:*:*:*:*:*:*,Beronet BF64002T1BOX,['CVE-2017-18923'],2022-03-19T06:55Z
+3,cpe:2.3:h:beronet:bfsb1s0:-:*:*:*:*:*:*:*,Beronet BFSB1S0,['CVE-2017-18923'],2022-03-19T06:55Z
+4,cpe:2.3:h:beronet:bfsb2hy:-:*:*:*:*:*:*:*,Beronet BFSB2HY,['CVE-2017-18923'],2022-03-19T06:55Z
+5,cpe:2.3:h:beronet:bfsb2s0:-:*:*:*:*:*:*:*,Beronet BFSB2S0,['CVE-2017-18923'],2022-03-19T06:55Z
+6,cpe:2.3:h:beronet:bfsb2s02xo:-:*:*:*:*:*:*:*,Beronet BFSB2S02XO,['CVE-2017-18923'],2022-03-19T06:55Z
+7,cpe:2.3:h:beronet:bfsb4xo:-:*:*:*:*:*:*:*,Beronet BFSB4XO,['CVE-2017-18923'],2022-03-19T06:55Z
+8,cpe:2.3:h:beronet:bfsb4xo4xs:-:*:*:*:*:*:*:*,Beronet BFSB4XO4XS,['CVE-2017-18923'],2022-03-19T06:55Z
+9,cpe:2.3:h:beronet:bfsb4xs:-:*:*:*:*:*:*:*,Beronet BFSB4XS,['CVE-2017-18923'],2022-03-19T06:55Z

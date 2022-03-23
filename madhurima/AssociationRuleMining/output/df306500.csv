@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hashicorp:nomad:0.12.9:*:*:*:enterprise:*:*:*,Hashicorp Nomad 0.12.9 Enterprise Edition,"['CVE-2021-32575', 'CVE-2021-3283', 'CVE-2021-37218', 'CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24686']",2022-03-21T09:49Z
+1,cpe:2.3:a:hashicorp:nomad:0.12.10:*:*:*:-:*:*:*,Hashicorp Nomad 0.12.10,"['CVE-2021-32575', 'CVE-2021-37218', 'CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24686']",2022-03-21T09:49Z
+2,cpe:2.3:a:hashicorp:nomad:0.12.10:*:*:*:enterprise:*:*:*,Hashicorp Nomad 0.12.10 Enterprise Edition,"['CVE-2021-32575', 'CVE-2021-37218', 'CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24686']",2022-03-21T09:49Z
+3,cpe:2.3:a:hashicorp:nomad:0.12.11:*:*:*:-:*:*:*,HashiCorp Nomad 0.12.11,"['CVE-2021-32575', 'CVE-2021-37218', 'CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24686']",2022-03-21T09:49Z
+4,cpe:2.3:a:hashicorp:nomad:0.12.11:*:*:*:enterprise:*:*:*,HashiCorp Nomad 0.12.11 Enterprise Edition,"['CVE-2021-32575', 'CVE-2021-37218', 'CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24686']",2022-03-21T09:49Z
+5,cpe:2.3:a:hashicorp:nomad:0.12.12:*:*:*:-:*:*:*,HashiCorp Nomad 0.12.12,"['CVE-2021-32575', 'CVE-2021-37218', 'CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24686']",2022-03-21T09:49Z
+6,cpe:2.3:a:hashicorp:nomad:0.12.12:*:*:*:enterprise:*:*:*,HashiCorp Nomad 0.12.12 Enterprise Edition,"['CVE-2021-32575', 'CVE-2021-37218', 'CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24686']",2022-03-21T09:49Z
+7,cpe:2.3:a:hashicorp:nomad:1.0.0:-:*:*:-:*:*:*,Hashicorp Nomad 1.0.0,"['CVE-2021-32575', 'CVE-2021-3283', 'CVE-2021-37218', 'CVE-2021-43415', 'CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24685', 'CVE-2022-24686']",2022-03-21T09:49Z
+8,cpe:2.3:a:hashicorp:nomad:1.0.0:-:*:*:enterprise:*:*:*,Hashicorp Nomad 1.0.0 Enterprise Edition,"['CVE-2021-32575', 'CVE-2021-3283', 'CVE-2021-37218', 'CVE-2021-43415', 'CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24685', 'CVE-2022-24686']",2022-03-21T09:49Z
+9,cpe:2.3:a:hashicorp:nomad:1.0.0:beta2:*:*:-:*:*:*,Hashicorp Nomad 1.0.0 Beta 2,"['CVE-2021-32575', 'CVE-2021-3283', 'CVE-2021-37218', 'CVE-2021-43415', 'CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24685', 'CVE-2022-24686']",2022-03-21T09:49Z

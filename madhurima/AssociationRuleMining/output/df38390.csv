@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:wicket:7.0.0:milestone4:*:*:*:*:*:*,Apache Software Foundation Wicket 7.0.0 Milestone4,"['CVE-2014-3526', 'CVE-2014-7808', 'CVE-2015-5347', 'CVE-2015-7520', 'CVE-2016-6806', 'CVE-2021-23937']",2022-03-18T20:53Z
+1,cpe:2.3:a:apache:wicket:7.0.0:milestone5:*:*:*:*:*:*,Apache Software Foundation Wicket 7.0.0 Milestone5,"['CVE-2014-3526', 'CVE-2014-7808', 'CVE-2015-5347', 'CVE-2015-7520', 'CVE-2016-6806', 'CVE-2021-23937']",2022-03-18T20:53Z
+2,cpe:2.3:a:apache:wicket:7.0.0:milestone6:*:*:*:*:*:*,Apache Software Foundation Wicket 7.0.0 Milestone 6,"['CVE-2014-3526', 'CVE-2015-5347', 'CVE-2015-7520', 'CVE-2016-6806', 'CVE-2021-23937']",2022-03-18T20:53Z
+3,cpe:2.3:a:apache:wicket:7.1.0:*:*:*:*:*:*:*,Apache Software Foundation Wicket 7.1.0,"['CVE-2015-5347', 'CVE-2015-7520', 'CVE-2016-6806', 'CVE-2021-23937']",2022-03-18T20:54Z
+4,cpe:2.3:a:apache:wicket:7.2.0:*:*:*:*:*:*:*,Apache Software Foundation Wicket 7.2.0,"['CVE-2016-6806', 'CVE-2021-23937']",2022-03-18T20:53Z
+5,cpe:2.3:a:apache:wicket:7.3.0:*:*:*:*:*:*:*,Apache Software Foundation Wicket 7.3.0,"['CVE-2016-6806', 'CVE-2021-23937']",2022-03-18T20:54Z
+6,cpe:2.3:a:apache:wicket:7.4.0:*:*:*:*:*:*:*,Apache Software Foundation Wicket 7.4.0,"['CVE-2016-6806', 'CVE-2021-23937']",2022-03-18T20:54Z
+7,cpe:2.3:a:apache:wicket:7.5.0:*:*:*:*:*:*:*,Apache Software Foundation Wicket 7.5.0,['CVE-2021-23937'],2022-03-18T20:54Z
+8,cpe:2.3:a:apache:wicket:7.6.0:*:*:*:*:*:*:*,Apache Software Foundation Wicket 7.6.0,['CVE-2021-23937'],2022-03-18T20:54Z
+9,cpe:2.3:a:apache:wicket:7.7.0:*:*:*:*:*:*:*,Apache Software Foundation Wicket 7.7.0,['CVE-2021-23937'],2022-03-18T20:54Z

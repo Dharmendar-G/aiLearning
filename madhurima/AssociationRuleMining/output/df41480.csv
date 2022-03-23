@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:appium:appium-chromedriver:2.0.2:*:*:*:*:node.js:*:*,Appium appium-chromedriver 2.0.2 for Node.js,['CVE-2016-10557'],2022-03-18T21:49Z
+1,cpe:2.3:a:appium:appium-chromedriver:2.0.3:*:*:*:*:node.js:*:*,Appium appium-chromedriver 2.0.3 for Node.js,['CVE-2016-10557'],2022-03-18T21:49Z
+2,cpe:2.3:a:appium:appium-chromedriver:2.0.4:*:*:*:*:node.js:*:*,Appium appium-chromedriver 2.0.4 for Node.js,['CVE-2016-10557'],2022-03-18T21:50Z
+3,cpe:2.3:a:appium:appium-chromedriver:2.0.5:*:*:*:*:node.js:*:*,Appium appium-chromedriver 2.0.5 for Node.js,['CVE-2016-10557'],2022-03-18T21:49Z
+4,cpe:2.3:a:appium:appium-chromedriver:2.0.6:*:*:*:*:node.js:*:*,Appium appium-chromedriver 2.0.6 for Node.js,['CVE-2016-10557'],2022-03-18T21:50Z
+5,cpe:2.3:a:appium:appium-chromedriver:2.0.7:*:*:*:*:node.js:*:*,Appium appium-chromedriver 2.0.7 for Node.js,['CVE-2016-10557'],2022-03-18T21:49Z
+6,cpe:2.3:a:appium:appium-chromedriver:2.0.8:*:*:*:*:node.js:*:*,Appium appium-chromedriver 2.0.8 for Node.js,['CVE-2016-10557'],2022-03-18T21:50Z
+7,cpe:2.3:a:appium:appium-chromedriver:2.0.9:*:*:*:*:node.js:*:*,Appium appium-chromedriver 2.0.9 for Node.js,['CVE-2016-10557'],2022-03-18T21:50Z
+8,cpe:2.3:a:appium:appium-chromedriver:2.0.10:*:*:*:*:node.js:*:*,Appium appium-chromedriver 2.0.10 for Node.js,['CVE-2016-10557'],2022-03-18T21:50Z
+9,cpe:2.3:a:appium:appium-chromedriver:2.1.0:*:*:*:*:node.js:*:*,Appium appium-chromedriver 2.1.0 for Node.js,['CVE-2016-10557'],2022-03-18T21:50Z

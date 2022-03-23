@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:a10networks:agalaxy:3.2.4:*:*:*:*:*:*:*,A10networks aGalaxy 3.2.4,['CVE-2020-24384'],2022-03-18T10:22Z
+1,cpe:2.3:a:a10networks:agalaxy:5.0.1:*:*:*:*:*:*:*,A10networks aGalaxy 5.0.1,['CVE-2020-24384'],2022-03-18T10:22Z
+2,cpe:2.3:a:a10networks:agalaxy:5.0.4:*:*:*:*:*:*:*,A10 Networks aGalaxy 5.0.4,['CVE-2020-24384'],2022-03-18T10:22Z
+3,cpe:2.3:a:a10networks:agalaxy:5.0.5:-:*:*:*:*:*:*,A10networks aGalaxy 5.0.5,['CVE-2020-24384'],2022-03-18T10:22Z
+4,cpe:2.3:a:a10networks:agalaxy:5.0.6:*:*:*:*:*:*:*,A10 Networks aGalaxy 5.0.6,[''],2022-03-18T10:22Z
+5,cpe:2.3:a:a10networks:agalaxy:5.0.7:*:*:*:*:*:*:*,A10 Networks aGalaxy 5.0.7,[''],2022-03-18T10:22Z
+6,cpe:2.3:a:a10networks:agalaxy:5.0.8:*:*:*:*:*:*:*,A10 Networks aGalaxy 5.0.8,[''],2022-03-18T10:22Z
+7,cpe:2.3:a:a10networks:application_delivery_controller:-:*:*:*:*:*:*:*,A10 Networks Application Delivery Controller (ADC),[''],2022-03-18T10:22Z
+8,cpe:2.3:a:a3rev:page_view_count:1.0.0:*:*:*:*:wordpress:*:*,a3rev Page View Count 1.0.0 for WordPress,"['CVE-2021-24509', 'CVE-2022-0434']",2022-03-18T10:22Z
+9,cpe:2.3:a:a3rev:page_view_count:1.0.1:*:*:*:*:wordpress:*:*,a3rev Page View Count 1.0.1 for WordPress,"['CVE-2021-24509', 'CVE-2022-0434']",2022-03-18T10:22Z

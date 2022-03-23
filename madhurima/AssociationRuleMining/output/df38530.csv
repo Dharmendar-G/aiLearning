@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:xerces-c:3.1.4:*:*:*:*:*:*:*,Apache Xerces-C 3.1.4,['CVE-2018-1311'],2022-03-18T20:56Z
+1,cpe:2.3:a:apache:xerces-c:3.2.0:*:*:*:*:*:*:*,Apache Xerces-C 3.2.0,['CVE-2018-1311'],2022-03-18T20:56Z
+2,cpe:2.3:a:apache:xerces-c:3.2.1:*:*:*:*:*:*:*,Apache Xerces-C 3.2.1,['CVE-2018-1311'],2022-03-18T20:56Z
+3,cpe:2.3:a:apache:xerces-c:3.2.2:*:*:*:*:*:*:*,Apache Xerces-C 3.2.2,['CVE-2018-1311'],2022-03-18T20:56Z
+4,cpe:2.3:a:apache:xerces-c:3.2.3:*:*:*:*:*:*:*,Apache Software Foundation Xerces-C 3.2.3,[''],2022-03-18T20:56Z
+5,[0],[0],[0],[0]
+6,[0],[0],[0],[0]
+7,[0],[0],[0],[0]
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

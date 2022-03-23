@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitachi-solutions:confidential_file_decryption:-:*:*:*:*:*:*:*,Hitachi-solutions Confidential File Decryption -,"['CVE-2017-10863', 'CVE-2017-10865']",2022-03-21T11:25Z
+1,cpe:2.3:a:hitachi-solutions:confidential_file_viewer:-:*:*:*:*:*:*:*,Hitachi Solutions Confidential File Viewer,['CVE-2017-10864'],2022-03-21T11:25Z
+2,cpe:2.3:a:hitachivantara:pentaho_business_analytics:8.0:*:*:*:*:*:*:*,Hitachi Vantara Pentaho Business Analytics 8.0,['CVE-2016-10701'],2022-03-21T11:25Z
+3,cpe:2.3:a:hi-tech_software:c_compiler_for_the_pic10\/12\/16_mcus:9.81:*:*:*:*:*:*:*,Hi-tech Software C Compiler For The Pic10/12/16 Mcus 9.81,[''],2022-03-21T11:25Z
+4,cpe:2.3:a:hiteksoftware:automize:10.00:*:*:*:*:*:*:*,Hitek Software Automize 10.00,"['CVE-2016-10101', 'CVE-2016-10102', 'CVE-2016-10103', 'CVE-2016-10104']",2022-03-21T11:25Z
+5,cpe:2.3:a:hiteksoftware:automize:10.01:*:*:*:*:*:*:*,Hitek Software Automize 10.01,"['CVE-2016-10101', 'CVE-2016-10102', 'CVE-2016-10103', 'CVE-2016-10104']",2022-03-21T11:25Z
+6,cpe:2.3:a:hiteksoftware:automize:10.02:*:*:*:*:*:*:*,Hitek Software Automize 10.02,"['CVE-2016-10101', 'CVE-2016-10102', 'CVE-2016-10103', 'CVE-2016-10104']",2022-03-21T11:25Z
+7,cpe:2.3:a:hiteksoftware:automize:10.03:*:*:*:*:*:*:*,Hitek Software Automize 10.03,"['CVE-2016-10101', 'CVE-2016-10102', 'CVE-2016-10103', 'CVE-2016-10104']",2022-03-21T11:25Z
+8,cpe:2.3:a:hiteksoftware:automize:10.04:*:*:*:*:*:*:*,Hitek Software Automize 10.04,"['CVE-2016-10101', 'CVE-2016-10102', 'CVE-2016-10103', 'CVE-2016-10104']",2022-03-21T11:25Z
+9,cpe:2.3:a:hiteksoftware:automize:10.05:*:*:*:*:*:*:*,Hitek Software Automize 10.05,"['CVE-2016-10101', 'CVE-2016-10102', 'CVE-2016-10103', 'CVE-2016-10104']",2022-03-21T11:25Z

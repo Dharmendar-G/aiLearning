@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:karaf:4.2.15:*:*:*:*:*:*:*,Apache Software Foundation Karaf 4.2.15,['CVE-2021-41766'],2022-03-18T19:13Z
+1,cpe:2.3:a:apache:karaf:4.3.0:*:*:*:*:*:*:*,Apache Software Foundation Karaf 4.3.0,"['CVE-2021-41766', 'CVE-2022-22932']",2022-03-18T19:13Z
+2,cpe:2.3:a:apache:karaf:4.3.2:*:*:*:*:*:*:*,Apache Software Foundation Karaf 4.3.2,"['CVE-2020-28052', 'CVE-2021-41766', 'CVE-2022-22932']",2022-03-18T19:13Z
+3,cpe:2.3:a:apache:karaf:4.3.6:*:*:*:*:*:*:*,Apache Software Foundation Karaf 4.3.6,[''],2022-03-18T19:13Z
+4,cpe:2.3:a:apache:karaf_cave:2.3.0:*:*:*:*:*:*:*,Apache Software Foundation Karaf Cave 2.3.0,[''],2022-03-18T19:13Z
+5,cpe:2.3:a:apache:karaf_cave:3.0.0:*:*:*:*:*:*:*,Apache Software Foundation Karaf Cave 3.0.0,[''],2022-03-18T19:13Z
+6,cpe:2.3:a:apache:karaf_cave:4.0.0:*:*:*:*:*:*:*,Apache Software Foundation Karaf Cave 4.0.0,[''],2022-03-18T19:13Z
+7,cpe:2.3:a:apache:karaf_cave:4.1.0:*:*:*:*:*:*:*,Apache Software Foundation Karaf Cave 4.1.0,[''],2022-03-18T19:13Z
+8,cpe:2.3:a:apache:karaf_cave:4.1.1:*:*:*:*:*:*:*,Apache Software Foundation Karaf Cave 4.1.1,[''],2022-03-18T19:13Z
+9,cpe:2.3:a:apache:karaf_cave:4.1.2:*:*:*:*:*:*:*,Apache Software Foundation Karaf Cave 4.1.2,[''],2022-03-18T19:13Z

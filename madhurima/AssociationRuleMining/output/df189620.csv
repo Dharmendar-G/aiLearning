@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dlink:dir-140l:-:*:*:*:*:*:*:*,D-Link DIR-140L,"['CVE-2018-18008', 'CVE-2018-18009']",2022-03-20T15:47Z
+1,cpe:2.3:o:dlink:dir-140l_firmware:1.00:*:*:*:*:*:*:*,D-Link DIR-140L Firmware 1.00,['CVE-2018-18008'],2022-03-20T15:47Z
+2,cpe:2.3:o:dlink:dir-140l_firmware:1.01ru:*:*:*:*:*:*:*,D-Link DIR-140L Firmware 1.01RU,['CVE-2018-18008'],2022-03-20T15:47Z
+3,cpe:2.3:o:dlink:dir-140l_firmware:1.02:*:*:*:*:*:*:*,D-Link DIR-140L Firmware 1.02,"['CVE-2018-18008', 'CVE-2018-18009']",2022-03-20T15:47Z
+4,cpe:2.3:h:dlink:dir-2640-us:-:*:*:*:*:*:*:*,D-Link DIR-2640-US,"['CVE-2021-20132', 'CVE-2021-20133', 'CVE-2021-20134', 'CVE-2021-34201', 'CVE-2021-34202', 'CVE-2021-34203', 'CVE-2021-34204']",2022-03-20T15:47Z
+5,cpe:2.3:o:dlink:dir-2640-us_firmware:1.01b04:*:*:*:*:*:*:*,D-Link DIR-2640-US Firmware 1.01b04,"['CVE-2021-20132', 'CVE-2021-20133', 'CVE-2021-20134', 'CVE-2021-34201', 'CVE-2021-34202', 'CVE-2021-34203', 'CVE-2021-34204']",2022-03-20T15:47Z
+6,cpe:2.3:h:dlink:dir-300:-:*:*:*:*:*:*:*,D-Link Dir-300,[''],2022-03-20T15:47Z
+7,cpe:2.3:o:dlink:dir-300_firmware:2.14b01:*:*:*:*:*:*:*,D-Link DIR-300 Firmware 2.14B01,['CVE-2013-7471'],2022-03-20T15:47Z
+8,cpe:2.3:h:dlink:dir-3040:-:*:*:*:*:*:*:*,D-Link DIR-3040,"['CVE-2021-21817', 'CVE-2021-21818', 'CVE-2021-21819', 'CVE-2021-21820', 'CVE-2021-21913']",2022-03-20T15:47Z
+9,cpe:2.3:o:dlink:dir-3040_firmware:1.13b03:*:*:*:*:*:*:*,D-Link DIR-3040 Firmware 1.13b03,"['CVE-2021-21817', 'CVE-2021-21818', 'CVE-2021-21819', 'CVE-2021-21820', 'CVE-2021-21913']",2022-03-20T15:47Z

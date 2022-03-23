@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:firepower_7000:-:*:*:*:*:*:*:*,Cisco Firepower 7000 -,"['CVE-2019-12696', 'CVE-2019-12697']",2022-03-19T19:34Z
+1,cpe:2.3:h:cisco:firepower_7010:-:*:*:*:*:*:*:*,Cisco Firepower 7010,['CVE-2019-12627'],2022-03-19T19:34Z
+2,cpe:2.3:h:cisco:firepower_7020:-:*:*:*:*:*:*:*,Cisco Firepower 7020,['CVE-2019-12627'],2022-03-19T19:34Z
+3,cpe:2.3:h:cisco:firepower_7030:-:*:*:*:*:*:*:*,Cisco Firepower 7030,['CVE-2019-12627'],2022-03-19T19:34Z
+4,cpe:2.3:h:cisco:firepower_7050:-:*:*:*:*:*:*:*,Cisco Firepower 7050,['CVE-2019-12627'],2022-03-19T19:34Z
+5,cpe:2.3:h:cisco:firepower_7110:-:*:*:*:*:*:*:*,Cisco Firepower 7110,['CVE-2019-12627'],2022-03-19T19:34Z
+6,cpe:2.3:h:cisco:firepower_7115:-:*:*:*:*:*:*:*,Cisco Firepower 7115,['CVE-2019-12627'],2022-03-19T19:34Z
+7,cpe:2.3:h:cisco:firepower_7120:-:*:*:*:*:*:*:*,Cisco Firepower 7120,['CVE-2019-12627'],2022-03-19T19:34Z
+8,cpe:2.3:h:cisco:firepower_7125:-:*:*:*:*:*:*:*,Cisco Firepower 7125,['CVE-2019-12627'],2022-03-19T19:34Z
+9,cpe:2.3:h:cisco:firepower_8000:-:*:*:*:*:*:*:*,Cisco Firepower 8000 -,"['CVE-2019-12696', 'CVE-2019-12697']",2022-03-19T19:34Z

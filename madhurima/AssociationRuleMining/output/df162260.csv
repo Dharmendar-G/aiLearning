@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cosmocms:cosmo:1.0.0:beta4:*:*:*:*:*:*,Cosmo CMS Cosmo 1.0.0 Beta 4,[''],2022-03-20T08:07Z
+1,cpe:2.3:a:cosmocms:cosmo:1.0.0:beta6:*:*:*:*:*:*,Cosmo CMS Cosmo 1.0.0 Beta 6,['CVE-2018-10429'],2022-03-20T08:07Z
+2,cpe:2.3:a:cosmoshop:cosmoshop:-:*:*:*:*:*:*:*,Cosmoshop,"['CVE-2006-2474', 'CVE-2006-2475', 'CVE-2015-2103']",2022-03-20T08:07Z
+3,cpe:2.3:a:cosmotokenerc20_project:cosmotokenerc20:-:*:*:*:*:*:*:*,COSMOTokenERC20 Project COSMOTokenERC20,['CVE-2018-13556'],2022-03-20T08:07Z
+4,cpe:2.3:h:cosori:cs158-af:-:*:*:*:*:*:*:*,Cosori CS158-AF,"['CVE-2020-28592', 'CVE-2020-28593']",2022-03-20T08:07Z
+5,cpe:2.3:o:cosori:cs158-af_firmware:1.1.0:*:*:*:*:*:*:*,Cosori CS158-AF FIRMWARE 1.1.0,"['CVE-2020-28592', 'CVE-2020-28593']",2022-03-20T08:07Z
+6,cpe:2.3:a:cososys:endpoint_protector:4.0.4.3:*:*:*:*:*:*:*,Cososys Endpoint Protector 4.0.4.3,[''],2022-03-20T08:07Z
+7,cpe:2.3:a:cososys:endpoint_protector:4.0.4.4:*:*:*:*:*:*:*,Cososys Endpoint Protector 4.0.4.4,[''],2022-03-20T08:07Z
+8,cpe:2.3:a:cososys:endpoint_protector:4.0.4.5:*:*:*:*:*:*:*,Cososys Endpoint Protector 4.0.4.5,[''],2022-03-20T08:07Z
+9,cpe:2.3:a:cososys:endpoint_protector:4.1.0.2:*:*:*:*:*:*:*,Cososys Endpoint Protector 4.1.0.2,[''],2022-03-20T08:07Z

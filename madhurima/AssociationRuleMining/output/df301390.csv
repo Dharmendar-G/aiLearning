@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:gstreamer_project:gstreamer:1.16.2:*:*:*:*:*:*:*,GStreamer Project GStreamer 1.16.2,"['CVE-2021-3497', 'CVE-2021-3498', 'CVE-2021-3522']",2022-03-21T08:13Z
+1,cpe:2.3:a:gstreamer_project:gstreamer:1.17.1:*:*:*:*:*:*:*,GStreamer Project GStreamer 1.17.1,"['CVE-2021-3497', 'CVE-2021-3498', 'CVE-2021-3522']",2022-03-21T08:13Z
+2,cpe:2.3:a:gstreamer_project:gstreamer:1.17.2:*:*:*:*:*:*:*,GStreamer Project GStreamer 1.17.2,"['CVE-2021-3497', 'CVE-2021-3498', 'CVE-2021-3522']",2022-03-21T08:13Z
+3,cpe:2.3:a:gstreamer_project:gstreamer:1.17.90:*:*:*:*:*:*:*,GStreamer Project GStreamer 1.17.90,"['CVE-2021-3497', 'CVE-2021-3498', 'CVE-2021-3522']",2022-03-21T08:13Z
+4,cpe:2.3:a:gstreamer_project:gstreamer:1.18.0:*:*:*:*:*:*:*,GStreamer Project GStreamer 1.18.0,"['CVE-2021-3497', 'CVE-2021-3498', 'CVE-2021-3522']",2022-03-21T08:13Z
+5,cpe:2.3:a:gstreamer_project:gstreamer:1.18.1:*:*:*:*:*:*:*,GStreamer Project GStreamer 1.18.1,"['CVE-2021-3497', 'CVE-2021-3498', 'CVE-2021-3522']",2022-03-21T08:13Z
+6,cpe:2.3:a:gstreamer_project:gstreamer:1.18.2:*:*:*:*:*:*:*,GStreamer Project GStreamer 1.18.2,"['CVE-2021-3497', 'CVE-2021-3498', 'CVE-2021-3522']",2022-03-21T08:13Z
+7,cpe:2.3:a:gstreamer_project:gstreamer:1.18.3:*:*:*:*:*:*:*,GStreamer Project GStreamer 1.18.3,"['CVE-2021-3497', 'CVE-2021-3498', 'CVE-2021-3522']",2022-03-21T08:14Z
+8,cpe:2.3:a:gstreamer_project:gstreamer:1.18.4:*:*:*:*:*:*:*,GStreamer Project GStreamer 1.18.4,[''],2022-03-21T08:13Z
+9,[0],[0],[0],[0]

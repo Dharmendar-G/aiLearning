@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:media_origination_system_suite:2.6_base:*:*:*:*:*:*:*,Cisco Media Origination System Suite 2.6 Base,['CVE-2016-6377'],2022-03-19T22:52Z
+1,cpe:2.3:a:cisco:mediasense:-:*:*:*:*:*:*:*,Cisco MediaSense,"['CVE-2013-5500', 'CVE-2013-5501', 'CVE-2013-5502', 'CVE-2014-0670', 'CVE-2014-0671', 'CVE-2014-0672', 'CVE-2017-12337']",2022-03-19T22:52Z
+2,cpe:2.3:a:cisco:mediasense:8.5\(3\):*:*:*:*:*:*:*,Cisco MediaSense 8.5(3),[''],2022-03-19T22:52Z
+3,cpe:2.3:a:cisco:mediasense:8.5\(4\):*:*:*:*:*:*:*,Cisco MediaSense 8.5(4),[''],2022-03-19T22:52Z
+4,cpe:2.3:a:cisco:mediasense:9.0\(1a\):*:*:*:*:*:*:*,Cisco MediaSense 9.0(1a),[''],2022-03-19T22:52Z
+5,cpe:2.3:a:cisco:mediasense:9.1\(1\):*:*:*:*:*:*:*,Cisco MediaSense 9.1(1),['CVE-2015-0736'],2022-03-19T22:52Z
+6,cpe:2.3:a:cisco:mediasense:10.0\(1\):*:*:*:*:*:*:*,Cisco MediaSense 10.0(1),['CVE-2015-0736'],2022-03-19T22:52Z
+7,cpe:2.3:a:cisco:mediasense:10.5\(1\):*:*:*:*:*:*:*,Cisco MediaSense 10.5(1),['CVE-2015-0736'],2022-03-19T22:52Z
+8,cpe:2.3:a:cisco:mediasense:11.5:*:*:*:*:*:*:*,Cisco MediaSense 11.5,['CVE-2017-6779'],2022-03-19T22:52Z
+9,cpe:2.3:a:cisco:mediasense:11.5\(1\):*:*:*:*:*:*:*,Cisco MediaSense 11.5(1),['CVE-2017-6779'],2022-03-19T22:52Z

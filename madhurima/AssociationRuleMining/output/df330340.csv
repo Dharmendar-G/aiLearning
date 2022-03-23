@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hpe:aruba_8400x:-:*:*:*:*:*:*:*,HPE Aruba 8400X,"['CVE-2021-41000', 'CVE-2021-41001', 'CVE-2021-41002', 'CVE-2021-41003']",2022-03-21T16:25Z
+1,cpe:2.3:a:hpe:aruba_airwave:6.3.1:*:*:*:*:*:*:*,HPE Aruba AirWave 6.3.1,['CVE-2018-5390'],2022-03-21T16:25Z
+2,cpe:2.3:a:hpe:aruba_airwave:6.3.2:*:*:*:*:*:*:*,HPE Aruba AirWave 6.3.2,['CVE-2018-5390'],2022-03-21T16:25Z
+3,cpe:2.3:a:hpe:aruba_airwave:6.3.3:*:*:*:*:*:*:*,HPE Aruba AirWave 6.3.3,['CVE-2018-5390'],2022-03-21T16:25Z
+4,cpe:2.3:a:hpe:aruba_airwave:6.3.4:*:*:*:*:*:*:*,HPE Aruba AirWave 6.3.4,['CVE-2018-5390'],2022-03-21T16:25Z
+5,cpe:2.3:a:hpe:aruba_airwave:6.3.5:*:*:*:*:*:*:*,HPE Aruba AirWave 6.3.5,['CVE-2018-5390'],2022-03-21T16:25Z
+6,cpe:2.3:a:hpe:aruba_airwave:6.3.6:*:*:*:*:*:*:*,HPE Aruba AirWave 6.3.6,['CVE-2018-5390'],2022-03-21T16:25Z
+7,cpe:2.3:a:hpe:aruba_airwave:6.3.7:*:*:*:*:*:*:*,HPE Aruba AirWave 6.3.7,['CVE-2018-5390'],2022-03-21T16:25Z
+8,cpe:2.3:a:hpe:aruba_airwave:6.4.0:*:*:*:*:*:*:*,HPE Aruba AirWave 6.4.0,['CVE-2018-5390'],2022-03-21T16:26Z
+9,cpe:2.3:a:hpe:aruba_airwave:6.4.1:*:*:*:*:*:*:*,HPE Aruba AirWave 6.4.1,['CVE-2018-5390'],2022-03-21T16:26Z

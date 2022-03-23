@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:content_security_management_appliance_sma_m690x:-:*:*:*:*:*:*:*,Cisco Content Security Management Appliance SMA M690X,['CVE-2018-0140'],2022-03-19T19:16Z
+1,cpe:2.3:a:cisco:content_security_management_virtual_appliance:8.4.0.0150:*:*:*:*:*:*:*,Cisco Content Security Management Virtual Appliance 8.4.0.0150,"['CVE-2015-4216', 'CVE-2015-4217']",2022-03-19T19:16Z
+2,cpe:2.3:a:cisco:content_security_management_virtual_appliance:9.0.0.087:*:*:*:*:*:*:*,Cisco Content Security Management Virtual Appliance 9.0.0.087,"['CVE-2015-4216', 'CVE-2015-4217']",2022-03-19T19:16Z
+3,cpe:2.3:a:cisco:content_security_management_virtual_appliance:9.1.0-033:*:*:*:*:*:*:*,Cisco Content Security Management Virtual Appliance 9.1.0-033,['CVE-2015-0732'],2022-03-19T19:16Z
+4,cpe:2.3:h:cisco:content_service_switch_11050:-:*:*:*:*:*:*:*,Cisco Content Service Switch (CSS) 11050,[''],2022-03-19T19:16Z
+5,cpe:2.3:h:cisco:content_service_switch_11150:-:*:*:*:*:*:*:*,Cisco Content Service Switch (CSS) 11150,[''],2022-03-19T19:16Z
+6,cpe:2.3:h:cisco:content_service_switch_11501:-:*:*:*:*:*:*:*,Cisco Content Service Switch (CSS) 11501,[''],2022-03-19T19:16Z
+7,cpe:2.3:h:cisco:content_service_switch_11503:-:*:*:*:*:*:*:*,Cisco Content Service Switch (CSS) 11503,[''],2022-03-19T19:16Z
+8,cpe:2.3:h:cisco:content_service_switch_11506:-:*:*:*:*:*:*:*,Cisco Content Service Switch (CSS) 11506,[''],2022-03-19T19:16Z
+9,cpe:2.3:h:cisco:content_service_switch_11800:-:*:*:*:*:*:*:*,Cisco Content Service Switch (CSS) 11800,[''],2022-03-19T19:16Z

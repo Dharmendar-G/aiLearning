@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:saml_single_sign_on:3.4.0:*:*:*:*:jira:*:*,Atlassian SAML Single Sign On (SSO) 3.4.0 for Jira,['CVE-2021-37843'],2022-03-19T02:03Z
+1,cpe:2.3:a:atlassian:saml_single_sign_on:3.4.1:*:*:*:*:bitbucket:*:*,Atlassian SAML Single Sign On (SSO) 3.4.1 for Bitbucket,['CVE-2021-37843'],2022-03-19T02:03Z
+2,cpe:2.3:a:atlassian:saml_single_sign_on:3.4.1:*:*:*:*:confluence:*:*,Atlassian SAML Single Sign On (SSO) 3.4.1 for Confluence,['CVE-2021-37843'],2022-03-19T02:03Z
+3,cpe:2.3:a:atlassian:saml_single_sign_on:3.4.1:*:*:*:*:jira:*:*,Atlassian SAML Single Sign On (SSO) 3.4.1 for Jira,['CVE-2021-37843'],2022-03-19T02:03Z
+4,cpe:2.3:a:atlassian:saml_single_sign_on:3.4.2:*:*:*:*:bitbucket:*:*,Atlassian SAML Single Sign On (SSO) 3.4.2 for Bitbucket,['CVE-2021-37843'],2022-03-19T02:03Z
+5,cpe:2.3:a:atlassian:saml_single_sign_on:3.4.2:*:*:*:*:confluence:*:*,Atlassian SAML Single Sign On (SSO) 3.4.2 for Confluence,['CVE-2021-37843'],2022-03-19T02:03Z
+6,cpe:2.3:a:atlassian:saml_single_sign_on:3.4.2:*:*:*:*:jira:*:*,Atlassian SAML Single Sign On (SSO) 3.4.2 for Jira,['CVE-2021-37843'],2022-03-19T02:03Z
+7,cpe:2.3:a:atlassian:saml_single_sign_on:3.5.0:*:*:*:*:bamboo:*:*,Atlassian SAML Single Sign On (SSO) 3.5.0 for Bamboo,['CVE-2021-37843'],2022-03-19T02:03Z
+8,cpe:2.3:a:atlassian:saml_single_sign_on:3.5.0:*:*:*:*:bitbucket:*:*,Atlassian SAML Single Sign On (SSO) 3.5.0 for Bitbucket,['CVE-2021-37843'],2022-03-19T02:03Z
+9,cpe:2.3:a:atlassian:saml_single_sign_on:3.5.0:*:*:*:*:confluence:*:*,Atlassian SAML Single Sign On (SSO) 3.5.0 for Confluence,['CVE-2021-37843'],2022-03-19T02:03Z

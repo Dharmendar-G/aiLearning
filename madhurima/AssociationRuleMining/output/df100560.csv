@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:calderalabs:caldera_forms:1.5.7:*:*:*:*:wordpress:*:*,Caldera Labs Caldera Forms 1.5.7 for Wordpress,['CVE-2018-7747'],2022-03-19T14:54Z
+1,cpe:2.3:a:calderalabs:caldera_forms:1.5.7.1:*:*:*:*:wordpress:*:*,Caldera Labs Caldera Forms 1.5.7.1 for Wordpress,['CVE-2018-7747'],2022-03-19T14:54Z
+2,cpe:2.3:a:calderalabs:caldera_forms:1.5.8:*:*:*:*:wordpress:*:*,Caldera Labs Caldera Forms 1.5.8 for Wordpress,['CVE-2018-7747'],2022-03-19T14:54Z
+3,cpe:2.3:a:calderalabs:caldera_forms:1.5.9:*:*:*:*:wordpress:*:*,Caldera Labs Caldera Forms 1.5.9 for Wordpress,['CVE-2018-7747'],2022-03-19T14:54Z
+4,cpe:2.3:a:calderalabs:caldera_forms:1.6.0:*:*:*:*:wordpress:*:*,Caldera Labs Caldera Forms 1.6.0 for Wordpress,[''],2022-03-19T14:54Z
+5,cpe:2.3:a:calderalabs:caldera_forms:1.6.1:*:*:*:*:wordpress:*:*,Caldera Labs Caldera Forms 1.6.1 for Wordpress,[''],2022-03-19T14:54Z
+6,cpe:2.3:a:calderalabs:caldera_forms:1.6.1.1:*:*:*:*:wordpress:*:*,Caldera Labs Caldera Forms 1.6.1.1 for Wordpress,[''],2022-03-19T14:54Z
+7,cpe:2.3:a:calderalabs:caldera_forms:1.6.2:*:*:*:*:wordpress:*:*,Caldera Labs Caldera Forms 1.6.2 for Wordpress,[''],2022-03-19T14:54Z
+8,cpe:2.3:a:calderalabs:caldera_forms:1.6.3:*:*:*:*:wordpress:*:*,Caldera Labs Caldera Forms 1.6.3 for Wordpress,[''],2022-03-19T14:54Z
+9,cpe:2.3:a:calendar_plugin_project:calendar_plugin:-:*:*:*:*:wordpress:*:*,Calendar Plugin Project Calendar Plugin for WordPress,['CVE-2021-34667'],2022-03-19T14:54Z

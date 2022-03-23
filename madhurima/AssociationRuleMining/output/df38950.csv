@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apachefriends:xampp:7.3.12:*:*:*:*:*:*:*,Apache Friends XAMPP 7.3.12,['CVE-2020-11107'],2022-03-18T21:04Z
+1,cpe:2.3:a:apachefriends:xampp:7.3.14:*:*:*:*:*:*:*,Apache Friends XAMPP 7.3.14,['CVE-2020-11107'],2022-03-18T21:04Z
+2,cpe:2.3:a:apachefriends:xampp:7.3.15:*:*:*:*:*:*:*,Apache Friends XAMPP 7.3.15,['CVE-2020-11107'],2022-03-18T21:04Z
+3,cpe:2.3:a:apachefriends:xampp:7.3.16:*:*:*:*:*:*:*,Apache Friends XAMPP 7.3.16,[''],2022-03-18T21:04Z
+4,cpe:2.3:a:apachefriends:xampp:7.4.1:*:*:*:*:*:*:*,Apache Friends XAMPP 7.4.1,['CVE-2020-11107'],2022-03-18T21:04Z
+5,cpe:2.3:a:apachefriends:xampp:7.4.2:*:*:*:*:*:*:*,Apache Friends XAMPP 7.4.2,['CVE-2020-11107'],2022-03-18T21:05Z
+6,cpe:2.3:a:apachefriends:xampp:7.4.3:*:*:*:*:*:*:*,Apache Friends XAMPP 7.4.3,['CVE-2020-11107'],2022-03-18T21:05Z
+7,cpe:2.3:a:apachefriends:xampp:7.4.4:*:*:*:*:*:*:*,Apache Friends XAMPP 7.4.4,[''],2022-03-18T21:05Z
+8,cpe:2.3:a:apakgroup:wholesale_floorplanning_finance:6.31.8.3:*:*:*:*:*:*:*,Apakgroup Wholesale Floorplanning Finance 6.31.8.3,['CVE-2019-17551'],2022-03-18T21:05Z
+9,cpe:2.3:a:apakgroup:wholesale_floorplanning_finance:6.31.8.5:*:*:*:*:*:*:*,Apakgroup Wholesale Floorplanning Finance 6.31.8.5,['CVE-2019-17551'],2022-03-18T21:05Z

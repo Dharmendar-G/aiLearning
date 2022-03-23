@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apple:swiftnio:1.5.0:*:*:*:*:*:*:*,Apple SwiftNIO 1.5.0,['CVE-2018-4281'],2022-03-18T22:23Z
+1,cpe:2.3:a:apple:swiftnio:1.5.1:*:*:*:*:*:*:*,Apple SwiftNIO 1.5.1,['CVE-2018-4281'],2022-03-18T22:23Z
+2,cpe:2.3:a:apple:swiftnio:1.5.2:*:*:*:*:*:*:*,Apple SwiftNIO 1.5.2,['CVE-2018-4281'],2022-03-18T22:23Z
+3,cpe:2.3:a:apple:swiftnio:1.6.0:*:*:*:*:*:*:*,Apple SwiftNIO 1.6.0,['CVE-2018-4281'],2022-03-18T22:23Z
+4,cpe:2.3:a:apple:swiftnio:1.6.1:*:*:*:*:*:*:*,Apple SwiftNIO 1.6.1,['CVE-2018-4281'],2022-03-18T22:23Z
+5,cpe:2.3:a:apple:swiftnio:1.6.2:*:*:*:*:*:*:*,Apple SwiftNIO 1.6.2,['CVE-2018-4281'],2022-03-18T22:23Z
+6,cpe:2.3:a:apple:swiftnio:1.7.0:*:*:*:*:*:*:*,Apple SwiftNIO 1.7.0,['CVE-2018-4281'],2022-03-18T22:23Z
+7,cpe:2.3:a:apple:swiftnio:1.7.1:*:*:*:*:*:*:*,Apple SwiftNIO 1.7.1,['CVE-2018-4281'],2022-03-18T22:23Z
+8,cpe:2.3:a:apple:swiftnio:1.7.2:*:*:*:*:*:*:*,Apple SwiftNIO 1.7.2,['CVE-2018-4281'],2022-03-18T22:23Z
+9,cpe:2.3:a:apple:swiftnio:1.7.3:*:*:*:*:*:*:*,Apple SwiftNIO 1.7.3,['CVE-2018-4281'],2022-03-18T22:23Z

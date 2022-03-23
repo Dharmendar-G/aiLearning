@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dart:dart_software_development_kit:2.8.3:*:*:*:*:*:*:*,Dart Software Development Kit (SDK) 2.8.3,"['CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:19Z
+1,cpe:2.3:a:dart:dart_software_development_kit:2.8.4:*:*:*:*:*:*:*,Dart Software Development Kit (SDK) 2.8.4,"['CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:19Z
+2,cpe:2.3:a:dart:dart_software_development_kit:2.9.0:*:*:*:*:*:*:*,Dart Software Development Kit (SDK) 2.9.0,"['CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:19Z
+3,cpe:2.3:a:dart:dart_software_development_kit:2.9.1:*:*:*:*:*:*:*,Dart Software Development Kit (SDK) 2.9.1,"['CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:19Z
+4,cpe:2.3:a:dart:dart_software_development_kit:2.9.2:*:*:*:*:*:*:*,Dart Software Development Kit (SDK) 2.9.2,"['CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:19Z
+5,cpe:2.3:a:dart:dart_software_development_kit:2.9.3:*:*:*:*:*:*:*,Dart Software Development Kit (SDK) 2.9.3,"['CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:19Z
+6,cpe:2.3:a:dart:dart_software_development_kit:2.10.0:*:*:*:*:*:*:*,Dart Software Development Kit (SDK) 2.10.0,"['CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:19Z
+7,cpe:2.3:a:dart:dart_software_development_kit:2.10.1:*:*:*:*:*:*:*,Dart Software Development Kit (SDK) 2.10.1,"['CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:19Z
+8,cpe:2.3:a:dart:dart_software_development_kit:2.10.2:*:*:*:*:*:*:*,Dart Software Development Kit (SDK) 2.10.2,"['CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:19Z
+9,cpe:2.3:a:dart:dart_software_development_kit:2.10.3:*:*:*:*:*:*:*,Dart Software Development Kit (SDK) 2.10.3,"['CVE-2021-22540', 'CVE-2021-22567', 'CVE-2021-22568', 'CVE-2022-0451']",2022-03-20T10:19Z

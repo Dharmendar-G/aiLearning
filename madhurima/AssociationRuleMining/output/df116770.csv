@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:catalyst_3550_24_smi:-:*:*:*:*:*:*:*,Cisco Catalyst 3550 24 SMI,['CVE-2017-3881'],2022-03-19T18:54Z
+1,cpe:2.3:h:cisco:catalyst_3550_48_emi:-:*:*:*:*:*:*:*,Cisco Catalyst 3550 48 EMI,['CVE-2017-3881'],2022-03-19T18:54Z
+2,cpe:2.3:h:cisco:catalyst_3550_48_smi:-:*:*:*:*:*:*:*,Cisco Catalyst 3550 48 SMI,['CVE-2017-3881'],2022-03-19T18:54Z
+3,cpe:2.3:h:cisco:catalyst_3560:-:*:*:*:*:*:*:*,Cisco Catalyst 3560,"['CVE-2005-4258', 'CVE-2012-1338', 'CVE-2013-1100', 'CVE-2019-12669']",2022-03-19T18:54Z
+4,cpe:2.3:h:cisco:catalyst_3560-12pc-s:-:*:*:*:*:*:*:*,Cisco Catalyst 3560-12PC-S,['CVE-2017-3881'],2022-03-19T18:54Z
+5,cpe:2.3:h:cisco:catalyst_3560-24ps:-:*:*:*:*:*:*:*,Cisco Catalyst 3560-24PS,['CVE-2017-3881'],2022-03-19T18:54Z
+6,cpe:2.3:h:cisco:catalyst_3560-24ts:-:*:*:*:*:*:*:*,Cisco Catalyst 3560-24TS,['CVE-2017-3881'],2022-03-19T18:54Z
+7,cpe:2.3:h:cisco:catalyst_3560-48ps:-:*:*:*:*:*:*:*,Cisco Catalyst 3560-48PS,['CVE-2017-3881'],2022-03-19T18:54Z
+8,cpe:2.3:h:cisco:catalyst_3560-48ts:-:*:*:*:*:*:*:*,Cisco Catalyst 3560-48TS,['CVE-2017-3881'],2022-03-19T18:54Z
+9,cpe:2.3:h:cisco:catalyst_3560-8pc:-:*:*:*:*:*:*:*,Cisco Catalyst 3560-8PC,['CVE-2017-3881'],2022-03-19T18:54Z

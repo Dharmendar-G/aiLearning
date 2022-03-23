@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:officejet_pro_8500:cn539a:*:*:*:*:*:*:*,HP Officejet Pro 8500 (A909) All-in-One Printer Model CN539A,['CVE-2013-4845'],2022-03-21T15:31Z
+1,cpe:2.3:o:hp:officejet_pro_8500_firmware:-:*:*:*:*:*:*:*,HP Officejet Pro 8500 (A909) All-in-One Printer Firmware,['CVE-2013-4845'],2022-03-21T15:31Z
+2,cpe:2.3:o:hp:officejet_pro_8500_firmware:dlm1fn1344ar:*:*:*:*:*:*:*,HP Officejet Pro 8500 (A909) All-in-One Printer Firmware version DLM1FN1344AR,[''],2022-03-21T15:31Z
+3,cpe:2.3:h:hp:officejet_pro_8710_d9l18a:-:*:*:*:*:*:*:*,HP OfficeJet Pro 8710 D9L18A,['CVE-2020-28416'],2022-03-21T15:31Z
+4,cpe:2.3:o:hp:officejet_pro_8710_d9l18a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET PRO 8710 D9L18A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:31Z
+5,cpe:2.3:o:hp:officejet_pro_8710_d9l18a_firmware:40.12.1161:*:*:*:*:*:*:*,HP OFFICEJET PRO 8710 D9L18A FIRMWARE 40.12.1161,[''],2022-03-21T15:31Z
+6,cpe:2.3:h:hp:officejet_pro_8710_j6x79a:-:*:*:*:*:*:*:*,HP OfficeJet Pro 8710 J6X79A,['CVE-2020-28416'],2022-03-21T15:31Z
+7,cpe:2.3:o:hp:officejet_pro_8710_j6x79a_firmware:-:*:*:*:*:*:*:*,HP OFFICEJET PRO 8710 J6X79A FIRMWARE,['CVE-2020-28416'],2022-03-21T15:32Z
+8,cpe:2.3:o:hp:officejet_pro_8710_j6x79a_firmware:40.12.1161:*:*:*:*:*:*:*,HP OFFICEJET PRO 8710 J6X79A FIRMWARE 40.12.1161,[''],2022-03-21T15:32Z
+9,cpe:2.3:h:hp:officejet_pro_8710_m9l66a:-:*:*:*:*:*:*:*,HP OfficeJet Pro 8710 M9L66A,['CVE-2020-28416'],2022-03-21T15:32Z

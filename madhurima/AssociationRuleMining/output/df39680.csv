@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:api_bearer_auth_project:api_bearer_auth:2018-12-25:*:*:*:*:wordpress:*:*,API Bearer Auth Project API Bearer Auth 2018-12-25 for WordPress,['CVE-2019-16332'],2022-03-18T21:19Z
+1,cpe:2.3:a:api_bearer_auth_project:api_bearer_auth:2018-12-26:*:*:*:*:wordpress:*:*,API Bearer Auth Project API Bearer Auth 2018-12-26 for WordPress,['CVE-2019-16332'],2022-03-18T21:19Z
+2,cpe:2.3:a:api_bearer_auth_project:api_bearer_auth:2018-12-28:*:*:*:*:wordpress:*:*,API Bearer Auth Project API Bearer Auth 2018-12-28 for WordPress,['CVE-2019-16332'],2022-03-18T21:19Z
+3,cpe:2.3:a:api_bearer_auth_project:api_bearer_auth:2018-12-29:*:*:*:*:wordpress:*:*,API Bearer Auth Project API Bearer Auth 2018-12-29 for WordPress,['CVE-2019-16332'],2022-03-18T21:19Z
+4,cpe:2.3:a:api_bearer_auth_project:api_bearer_auth:2019-09-07:*:*:*:*:wordpress:*:*,API Bearer Auth Project API Bearer Auth 2019-09-07 for WordPress,[''],2022-03-18T21:19Z
+5,cpe:2.3:a:api_bearer_auth_project:api_bearer_auth:2019-09-08:*:*:*:*:wordpress:*:*,API Bearer Auth Project API Bearer Auth 2019-09-08 for WordPress,[''],2022-03-18T21:19Z
+6,cpe:2.3:a:apiconnect-cli-plugins_project:apiconnect-cli-plugins:-:*:*:*:*:node.js:*:*,apiconnect-cli-plugins Project apiconnect-cli-plugins for Node.js,['CVE-2020-7633'],2022-03-18T21:19Z
+7,cpe:2.3:a:apiconnect-cli-plugins_project:apiconnect-cli-plugins:1.0.1:*:*:*:*:node.js:*:*,apiconnect-cli-plugins Project apiconnect-cli-plugins 1.0.1 for Node.js,['CVE-2020-7633'],2022-03-18T21:19Z
+8,cpe:2.3:a:apiconnect-cli-plugins_project:apiconnect-cli-plugins:1.1.1:*:*:*:*:node.js:*:*,apiconnect-cli-plugins Project apiconnect-cli-plugins 1.1.1 for Node.js,['CVE-2020-7633'],2022-03-18T21:19Z
+9,cpe:2.3:a:apiconnect-cli-plugins_project:apiconnect-cli-plugins:2.0.0:*:*:*:*:node.js:*:*,apiconnect-cli-plugins Project apiconnect-cli-plugins 2.0.0 for Node.js,['CVE-2020-7633'],2022-03-18T21:19Z

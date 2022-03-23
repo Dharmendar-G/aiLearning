@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:designjet_z6610_2qu13b:-:*:*:*:*:*:*:*,HP DesignJet Z6610 2QU13B,['CVE-2021-3965'],2022-03-21T13:11Z
+1,cpe:2.3:o:hp:designjet_z6610_2qu13b_firmware:px6_06_05_02.1:*:*:*:*:*:*:*,HP DesignJet Z6610 2QU13B Firmware PX6_06_05_02.1,['CVE-2021-3965'],2022-03-21T13:11Z
+2,cpe:2.3:h:hp:designjet_z6800_f2s72a:-:*:*:*:*:*:*:*,HP DesignJet Z6800 F2S72A,['CVE-2021-3965'],2022-03-21T13:11Z
+3,cpe:2.3:o:hp:designjet_z6800_f2s72a_firmware:ptr8_03_07_06.1:*:*:*:*:*:*:*,HP DesignJet Z6800 F2S72A Firmware PTR8_03_07_06.1,['CVE-2021-3965'],2022-03-21T13:11Z
+4,cpe:2.3:h:hp:designjet_z6800_f2s72ar:-:*:*:*:*:*:*:*,HP DesignJet Z6800 F2S72AR,['CVE-2021-3965'],2022-03-21T13:11Z
+5,cpe:2.3:o:hp:designjet_z6800_f2s72ar_firmware:ptr8_03_07_06.1:*:*:*:*:*:*:*,HP DesignJet Z6800 F2S72AR Firmware PTR8_03_07_06.1,['CVE-2021-3965'],2022-03-21T13:11Z
+6,cpe:2.3:h:hp:designjet_z6800_f2s72b:-:*:*:*:*:*:*:*,HP DesignJet Z6800 F2S72B,['CVE-2021-3965'],2022-03-21T13:11Z
+7,cpe:2.3:o:hp:designjet_z6800_f2s72b_firmware:ptr8_03_07_06.1:*:*:*:*:*:*:*,HP DesignJet Z6800 F2S72B Firmware PTR8_03_07_06.1,['CVE-2021-3965'],2022-03-21T13:11Z
+8,cpe:2.3:h:hp:designjet_z6810_2qu12a:-:*:*:*:*:*:*:*,HP DesignJet Z6810 2QU12A,['CVE-2021-3965'],2022-03-21T13:11Z
+9,cpe:2.3:o:hp:designjet_z6810_2qu12a_firmware:px8_06_05_02.1:*:*:*:*:*:*:*,HP DesignJet Z6810 2QU12A Firmware PX8_06_05_02.1,['CVE-2021-3965'],2022-03-21T13:11Z

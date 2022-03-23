@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:asustor:exfat_driver:1.0.0:r14:*:*:*:*:*:*,Asustor exFAT Driver 1.0.0 R14,"['CVE-2019-11688', 'CVE-2019-11689']",2022-03-18T23:59Z
+1,cpe:2.3:a:asustor:exfat_driver:1.0.0:r15:*:*:*:*:*:*,Asustor exFAT Driver 1.0.0 R15,"['CVE-2019-11688', 'CVE-2019-11689']",2022-03-18T23:59Z
+2,cpe:2.3:a:asustor:exfat_driver:1.0.0:r20:*:*:*:*:*:*,Asustor exFAT Driver 1.0.0 R20,"['CVE-2019-11688', 'CVE-2019-11689']",2022-03-18T23:59Z
+3,cpe:2.3:a:asustor:soundsgood:-:*:*:*:*:*:*:*,Asustor SoundsGood,['CVE-2018-11343'],2022-03-18T23:59Z
+4,cpe:2.3:o:asuswrt-merlin:asuswrt-merlin:380.66:*:*:*:*:*:*:*,Asuswrt-Merlin 380.66,"['CVE-2017-12754', 'CVE-2018-5721', 'CVE-2018-8877', 'CVE-2018-8878']",2022-03-18T23:59Z
+5,cpe:2.3:o:asuswrt-merlin:asuswrt-merlin:380.66_2:*:*:*:*:*:*:*,Asuswrt-Merlin 380.66 2,"['CVE-2017-12754', 'CVE-2018-5721', 'CVE-2018-8877', 'CVE-2018-8878']",2022-03-18T23:59Z
+6,cpe:2.3:o:asuswrt-merlin:asuswrt-merlin:380.66_4:*:*:*:*:*:*:*,Asuswrt-Merlin 380.66 4,"['CVE-2017-12754', 'CVE-2018-5721', 'CVE-2018-8877', 'CVE-2018-8878']",2022-03-18T23:59Z
+7,cpe:2.3:o:asuswrt-merlin:asuswrt-merlin:380.66_6:*:*:*:*:*:*:*,Asuswrt-Merlin 380.66 6,"['CVE-2017-12754', 'CVE-2018-5721', 'CVE-2018-8877', 'CVE-2018-8878']",2022-03-18T23:59Z
+8,cpe:2.3:o:asuswrt-merlin:asuswrt-merlin:380.67:*:*:*:*:*:*:*,Asuswrt-Merlin 380.67,"['CVE-2017-12754', 'CVE-2018-5721', 'CVE-2018-8877', 'CVE-2018-8878']",2022-03-18T23:59Z
+9,cpe:2.3:o:asuswrt-merlin:asuswrt-merlin:380.68:*:*:*:*:*:*:*,Asuswrt-Merlin 380.68,"['CVE-2018-5721', 'CVE-2018-8877', 'CVE-2018-8878']",2022-03-18T23:59Z

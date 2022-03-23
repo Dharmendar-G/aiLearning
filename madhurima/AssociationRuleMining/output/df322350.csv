@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:hp_deskjet_ink_advantage_4676_f1h98a:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 4676 F1H98A,['CVE-2020-12695'],2022-03-21T13:33Z
+1,cpe:2.3:h:hp:hp_deskjet_ink_advantage_4678_f1h99b:-:*:*:*:*:*:*:*,HP DeskJet Ink Advantage 4678 F1H99B,['CVE-2020-12695'],2022-03-21T13:33Z
+2,cpe:2.3:a:hp:hp_easy_start:12.6.09:*:*:*:*:*:*:*,HP Easy Start 12.6.09,[''],2022-03-21T13:33Z
+3,cpe:2.3:h:hp:hp_envy_100:-:*:*:*:*:*:*:*,HP HP ENVY 100 -,['CVE-2017-2751'],2022-03-21T13:33Z
+4,cpe:2.3:o:hp:hp_envy_100_firmware:f.22:*:*:*:*:*:*:*,HP Hp Envy 100 Firmware F.22,[''],2022-03-21T13:33Z
+5,cpe:2.3:h:hp:hp_envy_14-k100:-:*:*:*:*:*:*:*,HP HP ENVY 14-K100 -,['CVE-2017-2751'],2022-03-21T13:33Z
+6,cpe:2.3:o:hp:hp_envy_14-k100_firmware:f.22:*:*:*:*:*:*:*,HP Hp Envy 14-k100 Firmware F.22,[''],2022-03-21T13:33Z
+7,cpe:2.3:h:hp:hp_envy_15-j000:-:*:*:*:*:*:*:*,HP HP ENVY 15-J000 -,['CVE-2017-2751'],2022-03-21T13:33Z
+8,cpe:2.3:o:hp:hp_envy_15-j000_firmware:f.22:*:*:*:*:*:*:*,HP Hp Envy 15-j000 Firmware F.22,[''],2022-03-21T13:33Z
+9,cpe:2.3:h:hp:hp_envy_15-j100:-:*:*:*:*:*:*:*,HP HP ENVY 15-J100 -,['CVE-2017-2751'],2022-03-21T13:33Z

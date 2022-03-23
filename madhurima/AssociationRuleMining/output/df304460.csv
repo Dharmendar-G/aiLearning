@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hapijs:hapi:7.0.1:*:*:*:*:node.js:*:*,hapijs hapi 7.0.1 for Node.js,"['CVE-2015-9236', 'CVE-2015-9241', 'CVE-2015-9243']",2022-03-21T09:02Z
+1,cpe:2.3:a:hapijs:hapi:7.1.0:*:*:*:*:node.js:*:*,hapijs hapi 7.1.0 for Node.js,"['CVE-2015-9236', 'CVE-2015-9241', 'CVE-2015-9243']",2022-03-21T09:02Z
+2,cpe:2.3:a:hapijs:hapi:7.1.1:*:*:*:*:node.js:*:*,hapijs hapi 7.1.1 for Node.js,"['CVE-2015-9236', 'CVE-2015-9241', 'CVE-2015-9243']",2022-03-21T09:02Z
+3,cpe:2.3:a:hapijs:hapi:7.2.0:*:*:*:*:node.js:*:*,hapijs hapi 7.2.0 for Node.js,"['CVE-2015-9236', 'CVE-2015-9241', 'CVE-2015-9243']",2022-03-21T09:02Z
+4,cpe:2.3:a:hapijs:hapi:7.3.0:*:*:*:*:node.js:*:*,hapijs hapi 7.3.0 for Node.js,"['CVE-2015-9236', 'CVE-2015-9241', 'CVE-2015-9243']",2022-03-21T09:02Z
+5,cpe:2.3:a:hapijs:hapi:7.4.0:*:*:*:*:node.js:*:*,hapijs hapi 7.4.0 for Node.js,"['CVE-2015-9236', 'CVE-2015-9241', 'CVE-2015-9243']",2022-03-21T09:02Z
+6,cpe:2.3:a:hapijs:hapi:7.5.0:*:*:*:*:node.js:*:*,hapijs hapi 7.5.0 for Node.js,"['CVE-2015-9236', 'CVE-2015-9241', 'CVE-2015-9243']",2022-03-21T09:02Z
+7,cpe:2.3:a:hapijs:hapi:7.5.1:*:*:*:*:node.js:*:*,hapijs hapi 7.5.1 for Node.js,"['CVE-2015-9236', 'CVE-2015-9241', 'CVE-2015-9243']",2022-03-21T09:02Z
+8,cpe:2.3:a:hapijs:hapi:7.5.2:*:*:*:*:node.js:*:*,hapijs hapi 7.5.2 for Node.js,"['CVE-2015-9236', 'CVE-2015-9241', 'CVE-2015-9243']",2022-03-21T09:02Z
+9,cpe:2.3:a:hapijs:hapi:7.5.3:*:*:*:*:node.js:*:*,hapijs hapi 7.5.3 for Node.js,"['CVE-2015-9236', 'CVE-2015-9241', 'CVE-2015-9243']",2022-03-21T09:02Z

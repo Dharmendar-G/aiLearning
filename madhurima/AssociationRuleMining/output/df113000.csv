@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:2106_wireless_lan_controller:-:*:*:*:*:*:*:*,Cisco 2106 Series Wireless LAN Controller,"['CVE-2012-0368', 'CVE-2012-0369', 'CVE-2012-0370', 'CVE-2012-0371', 'CVE-2013-1235']",2022-03-19T17:46Z
+1,cpe:2.3:h:cisco:2112_wireless_lan_controller:-:*:*:*:*:*:*:*,Cisco 2112 Series Wireless LAN Controller,"['CVE-2012-0368', 'CVE-2012-0369', 'CVE-2012-0370', 'CVE-2012-0371', 'CVE-2013-1235']",2022-03-19T17:46Z
+2,cpe:2.3:h:cisco:2125_wireless_lan_controller:-:*:*:*:*:*:*:*,Cisco 2125 Series Wireless LAN Controller,"['CVE-2012-0368', 'CVE-2012-0369', 'CVE-2012-0370', 'CVE-2012-0371', 'CVE-2013-1235']",2022-03-19T17:46Z
+3,cpe:2.3:o:cisco:250_series_smart_switches_firmware:2.5.0.78:*:*:*:*:*:*:*,Cisco 250 Series Smart Switches Firmware 2.5.0.78,[''],2022-03-19T17:46Z
+4,cpe:2.3:h:cisco:2500_wireless_lan_controller:-:*:*:*:*:*:*:*,Cisco 2500 Series Wireless LAN Controller,"['CVE-2012-0368', 'CVE-2012-0369', 'CVE-2012-0370', 'CVE-2012-0371', 'CVE-2012-5991', 'CVE-2012-5992', 'CVE-2012-6007', 'CVE-2013-1102', 'CVE-2013-1103', 'CVE-2013-1104', 'CVE-2013-1105', 'CVE-2013-1235', 'CVE-2017-3854']",2022-03-19T17:46Z
+5,cpe:2.3:h:cisco:2504_wireless_lan_controller:-:*:*:*:*:*:*:*,Cisco 2504 Series Wireless LAN Controller,"['CVE-2012-0368', 'CVE-2012-0369', 'CVE-2012-0370', 'CVE-2012-0371', 'CVE-2013-1235', 'CVE-2017-3854']",2022-03-19T17:46Z
+6,cpe:2.3:h:cisco:2610xm:-:*:*:*:*:*:*:*,Cisco 2610XM,"['CVE-2020-3359', 'CVE-2020-3477']",2022-03-19T17:46Z
+7,cpe:2.3:h:cisco:2611xm:-:*:*:*:*:*:*:*,Cisco 2611XM,"['CVE-2020-3359', 'CVE-2020-3477']",2022-03-19T17:46Z
+8,cpe:2.3:h:cisco:2612:-:*:*:*:*:*:*:*,Cisco 2612,"['CVE-2020-3359', 'CVE-2020-3477']",2022-03-19T17:46Z
+9,cpe:2.3:h:cisco:2620xm:-:*:*:*:*:*:*:*,Cisco 2620XM,"['CVE-2020-3359', 'CVE-2020-3477']",2022-03-19T17:46Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hyper:hyper:0.10.3:*:*:*:*:rust:*:*,hyper 0.10.3 for Rust,"['CVE-2020-35863', 'CVE-2021-32714', 'CVE-2021-32715']",2022-03-21T19:31Z
+1,cpe:2.3:a:hyper:hyper:0.10.4:*:*:*:*:rust:*:*,hyper 0.10.4 for Rust,"['CVE-2020-35863', 'CVE-2021-32714', 'CVE-2021-32715']",2022-03-21T19:31Z
+2,cpe:2.3:a:hyper:hyper:0.10.5:*:*:*:*:rust:*:*,hyper 0.10.5 for Rust,"['CVE-2020-35863', 'CVE-2021-32714', 'CVE-2021-32715']",2022-03-21T19:31Z
+3,cpe:2.3:a:hyper:hyper:0.10.6:*:*:*:*:rust:*:*,hyper 0.10.6 for Rust,"['CVE-2020-35863', 'CVE-2021-32714', 'CVE-2021-32715']",2022-03-21T19:31Z
+4,cpe:2.3:a:hyper:hyper:0.10.7:*:*:*:*:rust:*:*,hyper 0.10.7 for Rust,"['CVE-2020-35863', 'CVE-2021-32714', 'CVE-2021-32715']",2022-03-21T19:31Z
+5,cpe:2.3:a:hyper:hyper:0.10.8:*:*:*:*:rust:*:*,hyper 0.10.8 for Rust,"['CVE-2020-35863', 'CVE-2021-32714', 'CVE-2021-32715']",2022-03-21T19:31Z
+6,cpe:2.3:a:hyper:hyper:0.10.9:*:*:*:*:rust:*:*,hyper 0.10.9 for Rust,"['CVE-2020-35863', 'CVE-2021-32714', 'CVE-2021-32715']",2022-03-21T19:31Z
+7,cpe:2.3:a:hyper:hyper:0.10.10:*:*:*:*:rust:*:*,hyper 0.10.10 for Rust,"['CVE-2020-35863', 'CVE-2021-32714', 'CVE-2021-32715']",2022-03-21T19:31Z
+8,cpe:2.3:a:hyper:hyper:0.10.11:*:*:*:*:rust:*:*,hyper 0.10.11 for Rust,"['CVE-2020-35863', 'CVE-2021-32714', 'CVE-2021-32715']",2022-03-21T19:31Z
+9,cpe:2.3:a:hyper:hyper:0.10.12:*:*:*:*:rust:*:*,hyper 0.10.12 for Rust,"['CVE-2020-35863', 'CVE-2021-32714', 'CVE-2021-32715']",2022-03-21T19:31Z

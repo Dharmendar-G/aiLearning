@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:commscope:ruckus_zoneflex_r500_firmware:104.0.0.0.1347:*:*:*:*:*:*:*,Commscope Ruckus Zoneflex R500 Firmware 104.0.0.0.1347,[''],2022-03-20T06:53Z
+1,cpe:2.3:h:commscope:tr4400:-:*:*:*:*:*:*:*,CommScope TR4400,"['CVE-2019-15805', 'CVE-2019-15806']",2022-03-20T06:53Z
+2,cpe:2.3:o:commscope:tr4400_firmware:-:*:*:*:*:*:*:*,CommScope TR4400 Firmware,"['CVE-2019-15805', 'CVE-2019-15806']",2022-03-20T06:53Z
+3,cpe:2.3:o:commscope:tr4400_firmware:a1.00.004-180301:*:*:*:*:*:*:*,CommScope TR4400 Firmware A1.00.004-180301,"['CVE-2019-15805', 'CVE-2019-15806']",2022-03-20T06:53Z
+4,cpe:2.3:a:commsy:commsy:8.0.0:-:*:*:*:*:*:*,Commsy 8.0.0,['CVE-2019-11880'],2022-03-20T06:53Z
+5,cpe:2.3:a:commsy:commsy:8.0.0:rc2:*:*:*:*:*:*,Commsy 8.0.0 Release Candidate 2,['CVE-2019-11880'],2022-03-20T06:53Z
+6,cpe:2.3:a:commsy:commsy:8.0.0:rc3:*:*:*:*:*:*,Commsy 8.0.0 Release Candidate 3,['CVE-2019-11880'],2022-03-20T06:53Z
+7,cpe:2.3:a:commsy:commsy:8.0.1:*:*:*:*:*:*:*,Commsy 8.0.1,['CVE-2019-11880'],2022-03-20T06:53Z
+8,cpe:2.3:a:commsy:commsy:8.0.1.1:*:*:*:*:*:*:*,Commsy 8.0.1.1,['CVE-2019-11880'],2022-03-20T06:53Z
+9,cpe:2.3:a:commsy:commsy:8.0.2:*:*:*:*:*:*:*,Commsy 8.0.2,['CVE-2019-11880'],2022-03-20T06:53Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:network_automation:10.50:*:*:*:*:*:*:*,HP Network Automation 10.50,"['CVE-2018-6492', 'CVE-2018-6493']",2022-03-21T15:22Z
+1,cpe:2.3:a:hp:network_function_virtualization_director:4.2.1:*:*:*:*:*:*:*,HP Network Function Virtualization Director 4.2.1,['CVE-2018-7071'],2022-03-21T15:22Z
+2,cpe:2.3:a:hp:network_node_manager:-:*:*:*:*:*:*:*,HP Network Node Manager Remote Console,[''],2022-03-21T15:22Z
+3,cpe:2.3:a:hp:network_node_manager:7.5:*:*:*:*:*:*:*,HP Network Node Manager Remote Console 7.50,['CVE-2007-0819'],2022-03-21T15:22Z
+4,cpe:2.3:a:hp:network_node_manager:8.10:*:*:*:*:*:*:*,HP Network Node Manager Remote Console 8.10,['CVE-2010-0445'],2022-03-21T15:22Z
+5,cpe:2.3:a:hp:network_node_manager:8.11:*:*:*:*:*:*:*,HP Network Node Manager Remote Console 8.11,['CVE-2010-0445'],2022-03-21T15:22Z
+6,cpe:2.3:a:hp:network_node_manager:8.12:*:*:*:*:*:*:*,HP Network Node Manager Remote Console 8.12,['CVE-2010-0445'],2022-03-21T15:22Z
+7,cpe:2.3:a:hp:network_node_manager:8.13:*:*:*:*:*:*:*,HP Network Node Manager Remote Console 8.13,['CVE-2010-0445'],2022-03-21T15:22Z
+8,cpe:2.3:a:hp:network_node_manager_i:8.0:*:*:*:*:*:*:*,HP Network Node Manager i (NNMi) 8.0,"['CVE-2012-2022', 'CVE-2012-3279']",2022-03-21T15:22Z
+9,cpe:2.3:a:hp:network_node_manager_i:8.10:*:*:*:*:*:*:*,HP Network Node Manager i (NNMi) 8.10,"['CVE-2011-0895', 'CVE-2012-2018', 'CVE-2012-2022', 'CVE-2012-3279']",2022-03-21T15:22Z

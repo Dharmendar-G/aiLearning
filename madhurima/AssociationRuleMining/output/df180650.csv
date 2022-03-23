@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:latitude_rugged_7330_firmware:-:*:*:*:*:*:*:*,Dell Latitude Rugged 7330 Firmware,"['CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:54Z
+1,cpe:2.3:h:dell:latitude_rugged_7424:-:*:*:*:*:*:*:*,Dell Latitude Rugged 7424 ,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:54Z
+2,cpe:2.3:h:dell:latitude_rugged_extreme_7214:-:*:*:*:*:*:*:*,Dell Latitude Rugged Extreme 7214 ,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:54Z
+3,cpe:2.3:h:dell:latitude_rugged_extreme_7414:-:*:*:*:*:*:*:*,Dell Latitude Rugged Extreme 7414 ,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:54Z
+4,cpe:2.3:h:dell:latitude_rugged_tablet_7212:-:*:*:*:*:*:*:*,Dell Latitude Rugged Tablet 7212 ,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:54Z
+5,cpe:2.3:h:dell:latitude_xt2:-:*:*:*:*:*:*:*,Dell Latitude XT2 -,['CVE-2013-3582'],2022-03-20T12:54Z
+6,cpe:2.3:h:dell:latitude_xt3:-:*:*:*:*:*:*:*,Dell Latitude XT3,['CVE-2015-2890'],2022-03-20T12:54Z
+7,cpe:2.3:h:dell:latitude_z600:-:*:*:*:*:*:*:*,Dell Latitude Z600 -,['CVE-2013-3582'],2022-03-20T12:54Z
+8,cpe:2.3:a:dell:md_storage_software:3.0.0.0:*:*:*:*:*:*:*,Dell Md Storage Software 3.0.0.0,[''],2022-03-20T12:54Z
+9,cpe:2.3:a:dell:mobile_broadband_card_utility:2.05.07.27:*:*:*:*:*:*:*,Dell Mobile Broadband Card Utility 2.05.07.27,[''],2022-03-20T12:54Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aedes_project:aedes:0.21.0:*:*:*:*:*:*:*,Aedes Project Aedes 0.21.0,['CVE-2018-3778'],2022-03-18T13:17Z
+1,cpe:2.3:a:aedes_project:aedes:0.22.0:*:*:*:*:*:*:*,Aedes Project Aedes 0.22.0,['CVE-2018-3778'],2022-03-18T13:17Z
+2,cpe:2.3:a:aedes_project:aedes:0.23.0:*:*:*:*:*:*:*,Aedes Project Aedes 0.23.0,['CVE-2018-3778'],2022-03-18T13:17Z
+3,cpe:2.3:a:aedes_project:aedes:0.23.1:*:*:*:*:*:*:*,Aedes Project Aedes 0.23.1,['CVE-2018-3778'],2022-03-18T13:17Z
+4,cpe:2.3:a:aedes_project:aedes:0.24.0:*:*:*:*:*:*:*,Aedes Project Aedes 0.24.0,['CVE-2018-3778'],2022-03-18T13:17Z
+5,cpe:2.3:a:aedes_project:aedes:0.25.0:*:*:*:*:*:*:*,Aedes Project Aedes 0.25.0,['CVE-2018-3778'],2022-03-18T13:17Z
+6,cpe:2.3:a:aedes_project:aedes:0.25.1:*:*:*:*:*:*:*,Aedes Project Aedes 0.25.1,['CVE-2018-3778'],2022-03-18T13:17Z
+7,cpe:2.3:a:aedes_project:aedes:0.25.2:*:*:*:*:*:*:*,Aedes Project Aedes 0.25.2,['CVE-2018-3778'],2022-03-18T13:17Z
+8,cpe:2.3:a:aedes_project:aedes:0.25.3:*:*:*:*:*:*:*,Aedes Project Aedes 0.25.3,['CVE-2018-3778'],2022-03-18T13:17Z
+9,cpe:2.3:a:aedes_project:aedes:0.26.0:*:*:*:*:*:*:*,Aedes Project Aedes 0.26.0,['CVE-2018-3778'],2022-03-18T13:17Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:camunda:modeler:4.9.0:rc1:*:*:*:*:*:*,Camunda Modeler 4.9.0 Release Candidate 1,[''],2022-03-19T15:10Z
+1,cpe:2.3:a:camunda:modeler:4.9.0:rc2:*:*:*:*:*:*,Camunda Modeler 4.9.0 Release Candidate 2,[''],2022-03-19T15:10Z
+2,cpe:2.3:a:camunda:modeler:4.9.0:rc3:*:*:*:*:*:*,Camunda Modeler 4.9.0 Release Candidate 3,[''],2022-03-19T15:10Z
+3,cpe:2.3:a:camunda:modeler:4.9.0:rc4:*:*:*:*:*:*,Camunda Modeler 4.9.0 Release Candidate 4,[''],2022-03-19T15:10Z
+4,cpe:2.3:a:camunda:modeler:4.9.0:rc5:*:*:*:*:*:*,Camunda Modeler 4.9.0 Release Candidate 5,[''],2022-03-19T15:10Z
+5,cpe:2.3:a:canadapps:central_east_lhin_news:0.1:*:*:*:*:android:*:*,CanadAPPS Central East LHIN News (aka com.wCentralEastLHINNews) for android 0.1,['CVE-2014-7516'],2022-03-19T15:10Z
+6,cpe:2.3:a:canal44:canal_44:1:*:*:*:*:android:*:*,canal44 Canal 44 (aka com.canal.canal44) for android 1.0,['CVE-2014-6920'],2022-03-19T15:10Z
+7,cpe:2.3:a:canarymail:canary_mail:2.09:*:*:*:*:iphone_os:*:*,Canary Mail 2.09 for iPhone OS,[''],2022-03-19T15:10Z
+8,cpe:2.3:a:canarymail:canary_mail:2.10:*:*:*:*:iphone_os:*:*,Canary Mail 2.10 for iPhone OS,[''],2022-03-19T15:10Z
+9,cpe:2.3:a:canarymail:canary_mail:2.12:*:*:*:*:iphone_os:*:*,Canary Mail 2.12 for iPhone OS,[''],2022-03-19T15:10Z

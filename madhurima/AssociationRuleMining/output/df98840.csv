@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ca:web_agents:6.0:*:*:*:*:*:*:*,Computer Associates (CA) Web Agents 6.0,['CVE-2013-5968'],2022-03-19T14:23Z
+1,cpe:2.3:a:ca:workload_automation_ae:11.0:*:*:*:*:*:*:*,CA Technologies Workload Automation AE 11.0,['CVE-2018-8953'],2022-03-19T14:23Z
+2,cpe:2.3:a:ca:workload_automation_ae:11.3:*:*:*:*:*:*:*,CA Technologies Workload Automation AE 11.3,['CVE-2018-8953'],2022-03-19T14:23Z
+3,cpe:2.3:a:ca:workload_automation_ae:11.3.5:*:*:*:*:*:*:*,CA Technologies Workload Automation AE 11.3.5,['CVE-2018-8953'],2022-03-19T14:23Z
+4,cpe:2.3:a:ca:workload_automation_ae:11.3.6:*:*:*:*:*:*:*,CA Technologies Workload Automation AE 11.3.6,['CVE-2018-8953'],2022-03-19T14:23Z
+5,cpe:2.3:a:ca:workload_control_center:r11.4:sp6:*:*:*:*:*:*,CA Workload Control Center R11.4 Service Pack 6,['CVE-2018-8954'],2022-03-19T14:23Z
+6,cpe:2.3:a:ca_lottery_results_project:ca_lottery_results:2.1:*:*:*:*:android:*:*,CA Lottery Results project CA Lottery Results (aka com.matcho0.calotto) for Android 2.1,['CVE-2014-5657'],2022-03-19T14:23Z
+7,cpe:2.3:a:cab_booking_script_project:cab_booking_script:1.0:*:*:*:*:*:*:*,Cab Booking Script Project Cab Booking Script 1.0,['CVE-2017-17601'],2022-03-19T14:23Z
+8,cpe:2.3:a:cab_booking_script_project:cab_booking_script:1.0.3:*:*:*:*:*:*:*,Cab Booking Script Project Cab Booking Script 1.0.3,['CVE-2019-9064'],2022-03-19T14:23Z
+9,[0],[0],[0],[0]

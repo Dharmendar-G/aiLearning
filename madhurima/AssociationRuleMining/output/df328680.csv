@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:samsung_clp680:-:*:*:*:*:*:*:*,HP Samsung CLP680,['CVE-2019-6335'],2022-03-21T16:00Z
+1,cpe:2.3:o:hp:samsung_clp680_firmware:-:*:*:*:*:*:*:*,Hp Samsung CLP680 Firmware,['CVE-2019-6335'],2022-03-21T16:00Z
+2,cpe:2.3:o:hp:samsung_clp680_firmware:clp680dw_v4.00.02.33:*:*:*:*:*:*:*,Hp Samsung CLP680 Firmware CLP680DW V4.00.02.33,[''],2022-03-21T16:00Z
+3,cpe:2.3:h:hp:samsung_m2070:-:*:*:*:*:*:*:*,HP Samsung M2070,['CVE-2019-6335'],2022-03-21T16:00Z
+4,cpe:2.3:o:hp:samsung_m2070_firmware:-:*:*:*:*:*:*:*,HP Samsung M2070 Firmware,['CVE-2019-6335'],2022-03-21T16:00Z
+5,cpe:2.3:h:hp:samsung_m436dn:-:*:*:*:*:*:*:*,HP Samsung M436dn,['CVE-2019-6335'],2022-03-21T16:00Z
+6,cpe:2.3:o:hp:samsung_m436dn_firmware:-:*:*:*:*:*:*:*,HP Samsung M436dn Firmware,['CVE-2019-6335'],2022-03-21T16:00Z
+7,cpe:2.3:o:hp:samsung_m436dn_firmware:3.82.01.20:*:*:*:*:*:*:*,HP Samsung M436dn Firmware 3.82.01.20,[''],2022-03-21T16:00Z
+8,cpe:2.3:a:hp:samsung_mobile_print:4.08.007:*:*:*:*:android:*:*,HP Samsung Mobile Print 4.08.007 for Android,[''],2022-03-21T16:00Z
+9,cpe:2.3:a:hp:san\/iq:8.0:*:*:*:*:*:*:*,HP SAN/iQ 8.0,"['CVE-2011-4157', 'CVE-2012-3282', 'CVE-2012-3283', 'CVE-2012-3284', 'CVE-2012-3285', 'CVE-2012-4361', 'CVE-2013-2352']",2022-03-21T16:00Z

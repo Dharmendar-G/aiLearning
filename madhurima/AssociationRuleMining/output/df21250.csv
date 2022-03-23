@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:altiris:report_pack_for_software_virtualization_solution_for_windows:2.1.1026:*:*:*:*:*:*:*,Altiris Report Pack For Software Virtualization Solution For Windows 2.1.1026,[''],2022-03-18T15:16Z
+1,cpe:2.3:a:altiris:report_pack_for_symantec_ep_integration_component:6.0.1237:*:*:*:*:*:*:*,Altiris Report Pack For Symantec Ep Integration Component 6.0.1237,[''],2022-03-18T15:16Z
+2,cpe:2.3:a:altiris:report_pack_for_task_server:6.0.1007:*:*:*:*:*:*:*,Altiris Report Pack For Task Server 6.0.1007,[''],2022-03-18T15:16Z
+3,cpe:2.3:a:altiris:resource_management:6.0.2927:*:*:*:*:*:*:*,Altiris Resource Management 6.0.2927,[''],2022-03-18T15:16Z
+4,cpe:2.3:a:altiris:script_task:6.0.1524:*:*:*:*:*:*:*,Altiris Script Task 6.0.1524,[''],2022-03-18T15:16Z
+5,cpe:2.3:a:altiris:script_task_agent:6.0.1524:*:*:*:*:*:*:*,Altiris Script Task Agent 6.0.1524,[''],2022-03-18T15:16Z
+6,cpe:2.3:a:altiris:security_audit_agent_solution:6.2.124:*:*:*:*:*:*:*,Altiris Security Audit Agent Solution 6.2.124,[''],2022-03-18T15:16Z
+7,cpe:2.3:a:altiris:securityexpressions:3.4.0:*:*:*:*:*:*:*,Altiris Securityexpressions 3.4.0,[''],2022-03-18T15:16Z
+8,cpe:2.3:a:altiris:server_management_suite:-:*:*:*:*:*:*:*,Altiris Server Management Suite,[''],2022-03-18T15:16Z
+9,cpe:2.3:a:altiris:service_control_task:6.0.1524:*:*:*:*:*:*:*,Altiris Service Control Task 6.0.1524,[''],2022-03-18T15:16Z

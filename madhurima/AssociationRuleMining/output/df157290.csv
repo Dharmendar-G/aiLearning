@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:compact_arena_project:compact_arena:-:*:*:*:*:*:*:*,compact_arena Project compact_arena,['CVE-2019-16139'],2022-03-20T07:00Z
+1,cpe:2.3:a:compact_arena_project:compact_arena:0.4.0:*:*:*:*:*:*:*,compact_arena Project compact_arena 0.4.0,[''],2022-03-20T07:00Z
+2,cpe:2.3:h:compal:7284e:-:*:*:*:*:*:*:*,Compal 7284E,['CVE-2019-19494'],2022-03-20T07:00Z
+3,cpe:2.3:o:compal:7284e_firmware:5.510.5.11:*:*:*:*:*:*:*,Compal 7284E Firmware 5.510.5.11,['CVE-2019-19494'],2022-03-20T07:00Z
+4,cpe:2.3:h:compal:7486e:-:*:*:*:*:*:*:*,Compal 7486E,['CVE-2019-19494'],2022-03-20T07:00Z
+5,cpe:2.3:o:compal:7486e_firmware:5.510.5.11:*:*:*:*:*:*:*,Compal 7486E Firmware 5.510.5.11,['CVE-2019-19494'],2022-03-20T07:00Z
+6,cpe:2.3:h:compal:ch7465lg:-:*:*:*:*:*:*:*,Compal CH7465LG,"['CVE-2019-13025', 'CVE-2019-17224', 'CVE-2019-17499']",2022-03-20T07:00Z
+7,cpe:2.3:o:compal:ch7465lg_firmware:6.12.18.25-2p4:*:*:*:*:*:*:*,Compal CH7465LG Firmware 6.12.18.25-2p4,['CVE-2019-17499'],2022-03-20T07:00Z
+8,cpe:2.3:o:compal:ch7465lg_firmware:ch7465lg-ncip-6.12.18.24-5p8-nosh:*:*:*:*:*:*:*,Compal CH7465LG Firmware CH7465LG-NCIP-6.12.18.24-5p8-NOSH,['CVE-2019-13025'],2022-03-20T07:00Z
+9,cpe:2.3:o:compal:ch7465lg_firmware:ch7465lg-ncip-6.12.18.25-2p6-nosh:*:*:*:*:*:*:*,Compal CH7465LG Firmware CH7465LG-NCIP-4.50.18.13-NOSH,['CVE-2019-17224'],2022-03-20T07:00Z

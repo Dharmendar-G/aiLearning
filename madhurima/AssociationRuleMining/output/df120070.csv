@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:hostscan_engine:3.1.04060:*:*:*:*:*:*:*,Cisco HostScan Engine 3.1.04060,['CVE-2016-6436'],2022-03-19T19:57Z
+1,cpe:2.3:a:cisco:hostscan_engine:3.1.04063:*:*:*:*:*:*:*,Cisco HostScan Engine 3.1.04063,['CVE-2016-6436'],2022-03-19T19:57Z
+2,cpe:2.3:a:cisco:hostscan_engine:3.1.04075:*:*:*:*:*:*:*,Cisco HostScan Engine 3.1.04075,['CVE-2016-6436'],2022-03-19T19:57Z
+3,cpe:2.3:a:cisco:hostscan_engine:3.1.04082:*:*:*:*:*:*:*,Cisco HostScan Engine 3.1.04082,['CVE-2016-6436'],2022-03-19T19:57Z
+4,cpe:2.3:a:cisco:hostscan_engine:3.1.05152:*:*:*:*:*:*:*,Cisco HostScan Engine 3.1.05152,['CVE-2016-6436'],2022-03-19T19:57Z
+5,cpe:2.3:a:cisco:hostscan_engine:3.1.05160:*:*:*:*:*:*:*,Cisco HostScan Engine 3.1.05160,['CVE-2016-6436'],2022-03-19T19:57Z
+6,cpe:2.3:a:cisco:hostscan_engine:3.1.05163:*:*:*:*:*:*:*,Cisco HostScan Engine 3.1.05163,['CVE-2016-6436'],2022-03-19T19:57Z
+7,cpe:2.3:a:cisco:hostscan_engine:3.1.05170:*:*:*:*:*:*:*,Cisco HostScan Engine 3.1.05170,['CVE-2016-6436'],2022-03-19T19:57Z
+8,cpe:2.3:a:cisco:hostscan_engine:3.1.05178:*:*:*:*:*:*:*,Cisco HostScan Engine 3.1.05178,['CVE-2016-6436'],2022-03-19T19:57Z
+9,cpe:2.3:a:cisco:hostscan_engine:3.1.05182:*:*:*:*:*:*:*,Cisco HostScan Engine 3.1.05182,['CVE-2016-6436'],2022-03-19T19:57Z

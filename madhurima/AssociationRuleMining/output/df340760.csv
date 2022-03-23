@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:change_and_configuration_management_database:7.2.1.4:*:*:*:*:*:*:*,IBM Change And Configuration Management Database 7.2.1.4,['CVE-2015-7448'],2022-03-21T19:59Z
+1,cpe:2.3:a:ibm:change_and_configuration_management_database:7.2.2:*:*:*:*:*:*:*,IBM Change and Configuration Management Database (CCMDB) 7.2.2,[''],2022-03-21T19:59Z
+2,cpe:2.3:a:ibm:chatbot_with_ibm_watson:0.8.0:*:*:*:*:wordpress:*:*,IBM Chatbot With IBM Watson 0.8.0 WordPress,['CVE-2020-7239'],2022-03-21T19:59Z
+3,cpe:2.3:a:ibm:chatbot_with_ibm_watson:0.8.1:*:*:*:*:wordpress:*:*,IBM Chatbot With IBM Watson 0.8.1 WordPress,['CVE-2020-7239'],2022-03-21T19:59Z
+4,cpe:2.3:a:ibm:chatbot_with_ibm_watson:0.8.2:*:*:*:*:wordpress:*:*,IBM Chatbot With IBM Watson 0.8.2 WordPress,['CVE-2020-7239'],2022-03-21T19:59Z
+5,cpe:2.3:a:ibm:chatbot_with_ibm_watson:0.8.3:*:*:*:*:wordpress:*:*,IBM Chatbot With IBM Watson 0.8.3 WordPress,['CVE-2020-7239'],2022-03-21T19:59Z
+6,cpe:2.3:a:ibm:chatbot_with_ibm_watson:0.8.4:*:*:*:*:wordpress:*:*,IBM Chatbot With IBM Watson 0.8.4 WordPress,['CVE-2020-7239'],2022-03-21T19:59Z
+7,cpe:2.3:a:ibm:chatbot_with_ibm_watson:0.8.5:*:*:*:*:wordpress:*:*,IBM Chatbot With IBM Watson 0.8.5 WordPress,['CVE-2020-7239'],2022-03-21T19:59Z
+8,cpe:2.3:a:ibm:chatbot_with_ibm_watson:0.8.6:*:*:*:*:wordpress:*:*,IBM Chatbot With IBM Watson 0.8.6 WordPress,['CVE-2020-7239'],2022-03-21T19:59Z
+9,cpe:2.3:a:ibm:chatbot_with_ibm_watson:0.8.7:*:*:*:*:wordpress:*:*,IBM Chatbot With IBM Watson 0.8.7 WordPress,['CVE-2020-7239'],2022-03-21T19:59Z

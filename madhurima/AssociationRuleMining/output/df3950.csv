@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:abb:pm591-v14x:2.0:*:*:*:*:*:*:*,ABB PM591-V14x 2.0,[''],2022-03-18T10:32Z
+1,cpe:2.3:h:abb:pm592-eth:2.0:*:*:*:*:*:*:*,ABB PM592-ETH 2.0,[''],2022-03-18T10:32Z
+2,cpe:2.3:h:abb:pm595-4eth-f:2.0:*:*:*:*:*:*:*,ABB PM595-4ETH-F 2.0,[''],2022-03-18T10:32Z
+3,cpe:2.3:h:abb:pni800:-:*:*:*:*:*:*:*,ABB PNI800,"['CVE-2021-22285', 'CVE-2021-22286', 'CVE-2021-22288']",2022-03-18T10:32Z
+4,cpe:2.3:o:abb:pni800_firmware:-:*:*:*:*:*:*:*,ABB PNI800 Firmware,"['CVE-2021-22285', 'CVE-2021-22286', 'CVE-2021-22288']",2022-03-18T10:32Z
+5,cpe:2.3:o:abb:pni800_firmware:a_b:*:*:*:*:*:*:*,ABB PNI800 Firmware A_B,"['CVE-2021-22285', 'CVE-2021-22286', 'CVE-2021-22288']",2022-03-18T10:32Z
+6,cpe:2.3:a:abb:power_generation_information_manager:-:*:*:*:*:*:*:*,ABB Power Generation Information Manager (PGIM),['CVE-2019-18250'],2022-03-18T10:32Z
+7,cpe:2.3:h:abb:pwc600:-:*:*:*:*:*:*:*,ABB PWC600,['CVE-2021-27196'],2022-03-18T10:32Z
+8,cpe:2.3:o:abb:pwc600_firmware:1.0:*:*:*:*:*:*:*,ABB PWC600 Firmware 1.0,['CVE-2021-27196'],2022-03-18T10:32Z
+9,cpe:2.3:o:abb:pwc600_firmware:1.0.1.4:*:*:*:*:*:*:*,ABB PWC600 Firmware 1.0.1.4,[''],2022-03-18T10:32Z

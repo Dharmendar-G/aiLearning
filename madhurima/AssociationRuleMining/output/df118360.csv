@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:email_security_appliance:13.0.1:*:*:*:*:*:*:*,Cisco Email Security Appliance (ESA) 13.0.1,['CVE-2020-3447'],2022-03-19T19:24Z
+1,cpe:2.3:a:cisco:email_security_appliance:13.5.0:*:*:*:*:*:*:*,Cisco Email Security Appliance (ESA) 13.5.0,"['CVE-2020-3370', 'CVE-2020-3447']",2022-03-19T19:24Z
+2,cpe:2.3:a:cisco:email_security_appliance:13.5.1:*:*:*:*:*:*:*,Cisco Email Security Appliance (ESA) 13.5.1,[''],2022-03-19T19:24Z
+3,cpe:2.3:h:cisco:email_security_appliance_c160:-:*:*:*:*:*:*:*,Cisco Email Security Appliance C160,['CVE-2018-0140'],2022-03-19T19:24Z
+4,cpe:2.3:h:cisco:email_security_appliance_c170:-:*:*:*:*:*:*:*,Cisco Email Security Appliance C170,"['CVE-2018-0140', 'CVE-2021-1534']",2022-03-19T19:24Z
+5,cpe:2.3:h:cisco:email_security_appliance_c190:-:*:*:*:*:*:*:*,Cisco Email Security Appliance C190,"['CVE-2018-0140', 'CVE-2021-1534']",2022-03-19T19:25Z
+6,cpe:2.3:h:cisco:email_security_appliance_c370:-:*:*:*:*:*:*:*,Cisco Email Security Appliance C370,['CVE-2018-0140'],2022-03-19T19:25Z
+7,cpe:2.3:h:cisco:email_security_appliance_c370d:-:*:*:*:*:*:*:*,Cisco Email Security Appliance C370D,['CVE-2018-0140'],2022-03-19T19:25Z
+8,cpe:2.3:h:cisco:email_security_appliance_c380:-:*:*:*:*:*:*:*,Cisco Email Security Appliance C380,"['CVE-2018-0140', 'CVE-2021-1534']",2022-03-19T19:25Z
+9,cpe:2.3:h:cisco:email_security_appliance_c390:-:*:*:*:*:*:*:*,Cisco Email Security Appliance C390,['CVE-2021-1534'],2022-03-19T19:25Z

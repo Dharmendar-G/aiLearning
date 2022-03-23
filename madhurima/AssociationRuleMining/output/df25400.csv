@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:andy_armstrong:cgi-simple:1.111:*:*:*:*:*:*:*,Andy Armstrong CGI::Simple 1.110,"['CVE-2010-2761', 'CVE-2010-4410']",2022-03-18T16:33Z
+1,cpe:2.3:a:andy_armstrong:cgi-simple:1.112:*:*:*:*:*:*:*,Andy Armstrong CGI::Simple 1.112,"['CVE-2010-2761', 'CVE-2010-4410']",2022-03-18T16:33Z
+2,cpe:2.3:o:andyroid:andy_os:-:*:*:*:*:*:*:*,Andyroid Andy OS,['CVE-2019-14326'],2022-03-18T16:33Z
+3,cpe:2.3:o:andyroid:andy_os:46.11.113:*:*:*:*:*:*:*,Andyroid Andy OS 46.11.113,['CVE-2019-14326'],2022-03-18T16:33Z
+4,cpe:2.3:a:anecms:anecms:-:*:*:*:*:*:*:*,AneCMS,['CVE-2012-4997'],2022-03-18T16:33Z
+5,cpe:2.3:a:anecms:anecms:2e2c583:*:*:*:*:*:*:*,AneCMS 2e2c583,['CVE-2012-4997'],2022-03-18T16:33Z
+6,cpe:2.3:a:anelectron:advanced_electron_forum:1.0.9:*:*:*:*:*:*:*,Anelectron Advanced Electron Forum (AEF) 1.0.9,['CVE-2018-13000'],2022-03-18T16:33Z
+7,cpe:2.3:a:anelectron:advanced_electron_forums:1.0.9:*:*:*:*:*:*:*,Anelectron Advanced Electron Forums 1.0.9,['CVE-2011-3582'],2022-03-18T16:33Z
+8,cpe:2.3:a:anglers-net:cgi_an-anlyzer:-:*:*:*:*:*:*:*,Anglers-net CGI An-Anlyzer,"['CVE-2019-5987', 'CVE-2019-5988', 'CVE-2019-5989', 'CVE-2019-5990']",2022-03-18T16:33Z
+9,cpe:2.3:a:anglers-net:cgi_an-anlyzer:2019-06-24:*:*:*:*:*:*:*,Anglers-net CGI An-Anlyzer 2019-06-24,"['CVE-2019-5987', 'CVE-2019-5988', 'CVE-2019-5989', 'CVE-2019-5990']",2022-03-18T16:33Z

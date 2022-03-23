@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:commvault:commnet_browser:9.0.0:*:*:*:*:*:*:*,Commvault Commnet Browser 9.0.0,[''],2022-03-20T06:58Z
+1,cpe:2.3:a:commvault:commserve:9.0.0:*:*:*:*:*:*:*,Commvault Commserve 9.0.0,[''],2022-03-20T06:58Z
+2,cpe:2.3:a:commvault:commvault:11.0:*:*:*:*:*:*:*,Commvault 11.0,['CVE-2017-18044'],2022-03-20T06:58Z
+3,cpe:2.3:a:commvault:commvault:11.0:sp1:*:*:*:*:*:*,Commvault 11.0 Service Pack 1,['CVE-2017-18044'],2022-03-20T06:58Z
+4,cpe:2.3:a:commvault:commvault:11.0:sp2:*:*:*:*:*:*,Commvault 11.0 Service Pack 2,['CVE-2017-18044'],2022-03-20T06:58Z
+5,cpe:2.3:a:commvault:commvault:11.0:sp3:*:*:*:*:*:*,Commvault 11.0 Service Pack 3,['CVE-2017-18044'],2022-03-20T06:58Z
+6,cpe:2.3:a:commvault:commvault:11.0:sp4:*:*:*:*:*:*,Commvault 11.0 Service Pack 4,['CVE-2017-18044'],2022-03-20T06:58Z
+7,cpe:2.3:a:commvault:commvault:11.0:sp5:*:*:*:*:*:*,Commvault 11.0 Service Pack 5,['CVE-2017-18044'],2022-03-20T06:58Z
+8,cpe:2.3:a:commvault:continuous_data_replicator:9.0.0:*:*:*:*:*:*:*,Commvault Continuous Data Replicator 9.0.0,[''],2022-03-20T06:58Z
+9,cpe:2.3:a:commvault:continuous_data_replicator_vss_provider:9.0.0:*:*:*:*:*:*:*,Commvault Continuous Data Replicator Vss Provider 9.0.0,[''],2022-03-20T06:58Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:canonical:metal_as_a_service:1.9.0:rc3:*:*:*:*:*:*,Canonical Metal as a Service (MAAS) 1.9.0 Release Candidate 3,"['CVE-2014-1426', 'CVE-2014-1427', 'CVE-2014-1428', 'CVE-2015-1320']",2022-03-19T15:20Z
+1,cpe:2.3:a:canonical:metal_as_a_service:1.9.0:rc4:*:*:*:*:*:*,Canonical Metal as a Service (MAAS) 1.9.0 Release Candidate 4,"['CVE-2014-1426', 'CVE-2014-1427', 'CVE-2014-1428', 'CVE-2015-1320']",2022-03-19T15:20Z
+2,cpe:2.3:a:canonical:metal_as_a_service:1.9.1:*:*:*:*:*:*:*,Canonical Metal as a Service (MAAS) 1.9.1,"['CVE-2014-1426', 'CVE-2014-1427', 'CVE-2014-1428', 'CVE-2015-1320']",2022-03-19T15:20Z
+3,cpe:2.3:a:canonical:metal_as_a_service:1.9.2:*:*:*:*:*:*:*,Canonical Metal as a Service (MAAS) 1.9.2,[''],2022-03-19T15:20Z
+4,cpe:2.3:a:canonical:metal_as_a_service:1.9.3:*:*:*:*:*:*:*,Canonical Metal as a Service (MAAS) 1.9.3,[''],2022-03-19T15:20Z
+5,cpe:2.3:a:canonical:metal_as_a_service:1.9.4:*:*:*:*:*:*:*,Canonical Metal as a Service (MAAS) 1.9.4,[''],2022-03-19T15:20Z
+6,cpe:2.3:a:canonical:metal_as_a_service:1.9.5:*:*:*:*:*:*:*,Canonical Metal as a Service (MAAS) 1.9.5,[''],2022-03-19T15:20Z
+7,cpe:2.3:a:canonical:microk8s:1.11:*:*:*:*:*:*:*,Canonical MicroK8s 1.11,['CVE-2019-15789'],2022-03-19T15:20Z
+8,cpe:2.3:a:canonical:microk8s:1.12:*:*:*:*:*:*:*,Canonical MicroK8s 1.12,['CVE-2019-15789'],2022-03-19T15:20Z
+9,cpe:2.3:a:canonical:microk8s:1.13:*:*:*:*:*:*:*,Canonical MicroK8s 1.13,['CVE-2019-15789'],2022-03-19T15:20Z

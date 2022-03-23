@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aat:novus_management_system:1.48.14:*:*:*:*:*:*:*,AAT SYSTEMY BEZPIECZEŃSTWA Novus Management System (NMS) 1.48.14,"['CVE-2021-34820', 'CVE-2021-34821']",2022-03-18T10:26Z
+1,cpe:2.3:a:aat:novus_management_system:1.48.18:*:*:*:*:*:*:*,AAT SYSTEMY BEZPIECZEŃSTWA Novus Management System (NMS) 1.48.18,"['CVE-2021-34820', 'CVE-2021-34821']",2022-03-18T10:26Z
+2,cpe:2.3:a:aat:novus_management_system:1.49.25:*:*:*:*:*:*:*,AAT SYSTEMY BEZPIECZEŃSTWA Novus Management System (NMS) 1.49.25,"['CVE-2021-34820', 'CVE-2021-34821']",2022-03-18T10:26Z
+3,cpe:2.3:a:aat:novus_management_system:1.49.29:*:*:*:*:*:*:*,AAT SYSTEMY BEZPIECZEŃSTWA Novus Management System (NMS) 1.49.29,"['CVE-2021-34820', 'CVE-2021-34821']",2022-03-18T10:26Z
+4,cpe:2.3:a:aat:novus_management_system:1.49.30:*:*:*:*:*:*:*,AAT SYSTEMY BEZPIECZEŃSTWA Novus Management System (NMS) 1.49.30,"['CVE-2021-34820', 'CVE-2021-34821']",2022-03-18T10:27Z
+5,cpe:2.3:a:aat:novus_management_system:1.49.31:*:*:*:*:*:*:*,AAT SYSTEMY BEZPIECZEŃSTWA Novus Management System (NMS) 1.49.31,"['CVE-2021-34820', 'CVE-2021-34821']",2022-03-18T10:26Z
+6,cpe:2.3:a:aat:novus_management_system:1.49.32:*:*:*:*:*:*:*,AAT SYSTEMY BEZPIECZEŃSTWA Novus Management System (NMS) 1.49.32,"['CVE-2021-34820', 'CVE-2021-34821']",2022-03-18T10:27Z
+7,cpe:2.3:a:aat:novus_management_system:1.49.47:*:*:*:*:*:*:*,AAT SYSTEMY BEZPIECZEŃSTWA Novus Management System (NMS) 1.49.47,"['CVE-2021-34820', 'CVE-2021-34821']",2022-03-18T10:27Z
+8,cpe:2.3:a:aat:novus_management_system:1.49.49:*:*:*:*:*:*:*,AAT SYSTEMY BEZPIECZEŃSTWA Novus Management System (NMS) 1.49.49,"['CVE-2021-34820', 'CVE-2021-34821']",2022-03-18T10:27Z
+9,cpe:2.3:a:aat:novus_management_system:1.50.03:*:*:*:*:*:*:*,AAT SYSTEMY BEZPIECZEŃSTWA Novus Management System (NMS) 1.50.03,"['CVE-2021-34820', 'CVE-2021-34821']",2022-03-18T10:27Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:asynchttpclient_project:async-http-client:2.0.0:rc8:*:*:*:*:*:*,AsyncHttpClient Project async-http-client 2.0.0 Release Candidate 8,['CVE-2017-14063'],2022-03-19T00:05Z
+1,cpe:2.3:a:asynchttpclient_project:async-http-client:2.0.0:rc9:*:*:*:*:*:*,AsyncHttpClient Project async-http-client 2.0.0 Release Candidate 9,['CVE-2017-14063'],2022-03-19T00:05Z
+2,cpe:2.3:a:asynchttpclient_project:async-http-client:2.0.1:*:*:*:*:*:*:*,AsyncHttpClient Project async-http-client 2.0.1,['CVE-2017-14063'],2022-03-19T00:05Z
+3,cpe:2.3:a:asynchttpclient_project:async-http-client:2.0.2:*:*:*:*:*:*:*,AsyncHttpClient Project async-http-client 2.0.2,['CVE-2017-14063'],2022-03-19T00:05Z
+4,cpe:2.3:a:asynchttpclient_project:async-http-client:2.0.3:*:*:*:*:*:*:*,AsyncHttpClient Project async-http-client 2.0.3,['CVE-2017-14063'],2022-03-19T00:05Z
+5,cpe:2.3:a:asynchttpclient_project:async-http-client:2.0.4:*:*:*:*:*:*:*,AsyncHttpClient Project async-http-client 2.0.4,['CVE-2017-14063'],2022-03-19T00:05Z
+6,cpe:2.3:a:asynchttpclient_project:async-http-client:2.0.5:*:*:*:*:*:*:*,AsyncHttpClient Project async-http-client 2.0.5,['CVE-2017-14063'],2022-03-19T00:05Z
+7,cpe:2.3:a:asynchttpclient_project:async-http-client:2.0.6:*:*:*:*:*:*:*,AsyncHttpClient Project async-http-client 2.0.6,['CVE-2017-14063'],2022-03-19T00:05Z
+8,cpe:2.3:a:asynchttpclient_project:async-http-client:2.0.7:*:*:*:*:*:*:*,AsyncHttpClient Project async-http-client 2.0.7,['CVE-2017-14063'],2022-03-19T00:05Z
+9,cpe:2.3:a:asynchttpclient_project:async-http-client:2.0.8:*:*:*:*:*:*:*,AsyncHttpClient Project async-http-client 2.0.8,['CVE-2017-14063'],2022-03-19T00:05Z

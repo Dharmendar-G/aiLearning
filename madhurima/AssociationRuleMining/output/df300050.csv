@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:grml:grml-debootstrap:0.73:*:*:*:*:*:*:*,Grml grml-debootstrap 0.73,['CVE-2015-1378'],2022-03-21T07:54Z
+1,cpe:2.3:a:grml:grml-debootstrap:0.74:*:*:*:*:*:*:*,Grml grml-debootstrap 0.74,['CVE-2015-1378'],2022-03-21T07:54Z
+2,cpe:2.3:a:grml:grml-debootstrap:0.75:*:*:*:*:*:*:*,Grml grml-debootstrap 0.75,['CVE-2015-1378'],2022-03-21T07:54Z
+3,cpe:2.3:a:grml:grml-debootstrap:0.76:*:*:*:*:*:*:*,Grml grml-debootstrap 0.76,['CVE-2015-1378'],2022-03-21T07:54Z
+4,cpe:2.3:a:grml:grml-debootstrap:0.77:*:*:*:*:*:*:*,Grml grml-debootstrap 0.77,['CVE-2015-1378'],2022-03-21T07:54Z
+5,cpe:2.3:a:grml:grml-debootstrap:0.78:*:*:*:*:*:*:*,Grml grml-debootstrap 0.78,[''],2022-03-21T07:54Z
+6,cpe:2.3:a:grml:grml-debootstrap:0.79:*:*:*:*:*:*:*,Grml grml-debootstrap 0.79,[''],2022-03-21T07:54Z
+7,cpe:2.3:a:grml:grml-debootstrap:0.80:*:*:*:*:*:*:*,Grml grml-debootstrap 0.80,[''],2022-03-21T07:54Z
+8,cpe:2.3:a:grml:grml-debootstrap:0.81:*:*:*:*:*:*:*,Grml grml-debootstrap 0.81,[''],2022-03-21T07:54Z
+9,cpe:2.3:a:grml:grml-debootstrap:0.82:*:*:*:*:*:*:*,Grml grml-debootstrap 0.82,[''],2022-03-21T07:54Z

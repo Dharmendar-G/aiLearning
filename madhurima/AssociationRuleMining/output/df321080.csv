@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:digital_sending_software:4.10.5:*:*:*:*:*:*:*,HP Digital Sending Software 4.10.5,[''],2022-03-21T13:16Z
+1,cpe:2.3:a:hp:digital_sending_software:4.91.21:*:*:*:*:*:*:*,HP Digital Sending Software 4.91.21,[''],2022-03-21T13:16Z
+2,cpe:2.3:a:hp:director:45.4.157.0:*:*:*:*:*:*:*,HP Director 45.4.157.0,[''],2022-03-21T13:16Z
+3,cpe:2.3:a:hp:directories_support_for_proliant_management_processors:3.10:*:*:*:*:*:*:*,HP Directories Support for ProLiant Management Processors 3.10,['CVE-2011-4158'],2022-03-21T13:16Z
+4,cpe:2.3:a:hp:directories_support_for_proliant_management_processors:3.20:*:*:*:*:*:*:*,HP Directories Support for ProLiant Management Processors 3.20,['CVE-2011-4158'],2022-03-21T13:16Z
+5,cpe:2.3:a:hp:directories_support_for_proliant_management_processors:3.30:*:*:*:*:*:*:*,HP Directories Support for ProLiant Management Processors 3.30,[''],2022-03-21T13:16Z
+6,cpe:2.3:a:hp:discovery_and_dependency_mapping_inventory:9.30:*:*:*:*:*:*:*,HP Discovery And Dependency Mapping Inventory (DDMI) 9.30,['CVE-2016-4369'],2022-03-21T13:16Z
+7,cpe:2.3:a:hp:discovery_and_dependency_mapping_inventory:9.31:*:*:*:*:*:*:*,HP Discovery And Dependency Mapping Inventory (DDMI) 9.31,['CVE-2016-4369'],2022-03-21T13:16Z
+8,cpe:2.3:a:hp:discovery_and_dependency_mapping_inventory:9.32:*:*:*:*:*:*:*,HP Discovery And Dependency Mapping Inventory (DDMI) 9.32,['CVE-2016-4369'],2022-03-21T13:16Z
+9,cpe:2.3:a:hp:display_assistant:2.1:*:*:*:*:*:*:*,HP Display Assistant 2.1,['CVE-2017-3210'],2022-03-21T13:16Z

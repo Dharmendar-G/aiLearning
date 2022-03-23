@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:brave:browser:1.17.70:*:*:*:*:*:*:*,Brave Browser 1.17.70,['CVE-2021-22917'],2022-03-19T12:04Z
+1,cpe:2.3:a:brave:browser:1.17.71:*:*:*:*:*:*:*,Brave Browser 1.17.71,['CVE-2021-22917'],2022-03-19T12:04Z
+2,cpe:2.3:a:brave:browser:1.17.72:*:*:*:*:*:*:*,Brave Browser 1.17.72,['CVE-2021-22917'],2022-03-19T12:04Z
+3,cpe:2.3:a:brave:browser:1.17.73:*:*:*:*:*:*:*,Brave Browser 1.17.73,['CVE-2021-22917'],2022-03-19T12:04Z
+4,cpe:2.3:a:brave:browser:1.17.74:*:*:*:*:*:*:*,Brave Browser 1.17.74,['CVE-2021-22917'],2022-03-19T12:04Z
+5,cpe:2.3:a:brave:browser:1.17.75:*:*:*:*:*:*:*,Brave Browser 1.17.75,['CVE-2021-22917'],2022-03-19T12:04Z
+6,cpe:2.3:a:brave:browser:1.18:*:*:*:*:iphone_os:*:*,Brave Browser 1.18 iPhone OS,['CVE-2021-22917'],2022-03-19T12:04Z
+7,cpe:2.3:a:brave:browser:1.18.1:*:*:*:*:*:*:*,Brave Browser 1.18.1,['CVE-2021-22917'],2022-03-19T12:04Z
+8,cpe:2.3:a:brave:browser:1.18.1:*:*:*:*:iphone_os:*:*,Brave Browser 1.18.1 iPhone OS,['CVE-2021-22917'],2022-03-19T12:04Z
+9,cpe:2.3:a:brave:browser:1.18.2:*:*:*:*:*:*:*,Brave Browser 1.18.2,['CVE-2021-22917'],2022-03-19T12:04Z

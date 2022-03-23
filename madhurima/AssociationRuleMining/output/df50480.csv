@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:asus:rt-n56u_firmware:7.0.1.32:*:*:*:*:*:*:*,ASUS RT-N56U Router Firmware 7.0.1.32,"['CVE-2013-4937', 'CVE-2014-2719']",2022-03-18T23:57Z
+1,cpe:2.3:o:asus:rt-n56u_firmware:8.1.1.4:*:*:*:*:*:*:*,ASUS RT-N56U Router Firmware 8.1.1.4,"['CVE-2013-4937', 'CVE-2014-2719']",2022-03-18T23:57Z
+2,cpe:2.3:h:asus:rt-n600:-:*:*:*:*:*:*:*,ASUS RT-N600,"['CVE-2018-20333', 'CVE-2018-20334', 'CVE-2018-20335', 'CVE-2018-8826']",2022-03-18T23:57Z
+3,cpe:2.3:o:asus:rt-n600_firmware:3.0.0.4.380.10446:*:*:*:*:*:*:*,ASUS RT-N600 Firmware 3.0.0.4.380.10446,['CVE-2018-8826'],2022-03-18T23:57Z
+4,cpe:2.3:h:asus:rt-n65u:-:*:*:*:*:*:*:*,ASUS RT-N65U Router,"['CVE-2013-4937', 'CVE-2018-20333', 'CVE-2018-20334', 'CVE-2018-20335']",2022-03-18T23:57Z
+5,cpe:2.3:o:asus:rt-n65u_firmware:3.0.0.3.134:*:*:*:*:*:*:*,ASUS RT-N65U Router Firmware 3.0.0.3.134,"['CVE-2013-4937', 'CVE-2014-2719']",2022-03-18T23:57Z
+6,cpe:2.3:o:asus:rt-n65u_firmware:3.0.0.3.176:*:*:*:*:*:*:*,ASUS RT-N65U Router Firmware 3.0.0.3.176,"['CVE-2013-4937', 'CVE-2014-2719']",2022-03-18T23:57Z
+7,cpe:2.3:o:asus:rt-n65u_firmware:3.0.0.4.260:*:*:*:*:*:*:*,ASUS RT-N65U Router Firmware 3.0.0.4.260,"['CVE-2013-4937', 'CVE-2014-2719']",2022-03-18T23:57Z
+8,cpe:2.3:o:asus:rt-n65u_firmware:3.0.0.4.334:*:*:*:*:*:*:*,ASUS RT-N65U Router Firmware 3.0.0.4.334,"['CVE-2013-4937', 'CVE-2014-2719']",2022-03-18T23:57Z
+9,cpe:2.3:o:asus:rt-n65u_firmware:3.0.0.4.342:*:*:*:*:*:*:*,ASUS RT-N65U Router Firmware 3.0.0.4.342,"['CVE-2013-4937', 'CVE-2014-2719']",2022-03-18T23:57Z

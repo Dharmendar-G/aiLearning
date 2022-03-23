@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:django-registration_project:django-registration:2.5:*:*:*:*:django:*:*,django-registration Project django-registration 2.5 for Django,['CVE-2021-21416'],2022-03-20T15:33Z
+1,cpe:2.3:a:django-registration_project:django-registration:2.5.1:*:*:*:*:django:*:*,django-registration Project django-registration 2.5.1 for Django,['CVE-2021-21416'],2022-03-20T15:33Z
+2,cpe:2.3:a:django-registration_project:django-registration:2.5.2:*:*:*:*:django:*:*,django-registration Project django-registration 2.5.2 for Django,['CVE-2021-21416'],2022-03-20T15:33Z
+3,cpe:2.3:a:django-registration_project:django-registration:3.0:*:*:*:*:django:*:*,django-registration Project django-registration 3.0 for Django,['CVE-2021-21416'],2022-03-20T15:33Z
+4,cpe:2.3:a:django-registration_project:django-registration:3.0.1:*:*:*:*:django:*:*,django-registration Project django-registration 3.0.1 for Django,['CVE-2021-21416'],2022-03-20T15:33Z
+5,cpe:2.3:a:django-registration_project:django-registration:3.1:*:*:*:*:django:*:*,django-registration Project django-registration 3.1 for Django,['CVE-2021-21416'],2022-03-20T15:33Z
+6,cpe:2.3:a:django-registration_project:django-registration:3.1.1:*:*:*:*:django:*:*,django-registration Project django-registration 3.1.1 for Django,['CVE-2021-21416'],2022-03-20T15:33Z
+7,cpe:2.3:a:django-registration_project:django-registration:3.1.2:*:*:*:*:django:*:*,django-registration Project django-registration 3.1.2 for Django,[''],2022-03-20T15:33Z
+8,cpe:2.3:a:django-rest-registration_project:django-rest-registration:0.1.2:*:*:*:*:django:*:*,Django REST Registration library Project Django REST Registration library 0.1.2 for Django,['CVE-2019-13177'],2022-03-20T15:33Z
+9,cpe:2.3:a:django-rest-registration_project:django-rest-registration:0.2.0:*:*:*:*:django:*:*,Django REST Registration library Project Django REST Registration library 0.2.0 for Django,['CVE-2019-13177'],2022-03-20T15:33Z

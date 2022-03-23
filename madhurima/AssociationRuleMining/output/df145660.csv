@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:cf-mysql-release:14:*:*:*:*:*:*:*,Cloud Foundry CF-MySQL-Release 14,['CVE-2016-6655'],2022-03-20T03:11Z
+1,cpe:2.3:a:cloudfoundry:cf-mysql-release:15:*:*:*:*:*:*:*,Cloud Foundry CF-MySQL-Release 15,['CVE-2016-6655'],2022-03-20T03:11Z
+2,cpe:2.3:a:cloudfoundry:cf-mysql-release:16:*:*:*:*:*:*:*,Cloud Foundry CF-MySQL-Release 16,['CVE-2016-6655'],2022-03-20T03:11Z
+3,cpe:2.3:a:cloudfoundry:cf-mysql-release:17:*:*:*:*:*:*:*,Cloud Foundry CF-MySQL-Release 17,['CVE-2016-6655'],2022-03-20T03:11Z
+4,cpe:2.3:a:cloudfoundry:cf-mysql-release:18:*:*:*:*:*:*:*,Cloud Foundry CF-MySQL-Release 18,['CVE-2016-6655'],2022-03-20T03:11Z
+5,cpe:2.3:a:cloudfoundry:cf-mysql-release:19:*:*:*:*:*:*:*,Cloud Foundry CF-MySQL-Release 19,['CVE-2016-6655'],2022-03-20T03:11Z
+6,cpe:2.3:a:cloudfoundry:cf-mysql-release:20:*:*:*:*:*:*:*,Cloud Foundry CF-MySQL-Release 20,['CVE-2016-6655'],2022-03-20T03:11Z
+7,cpe:2.3:a:cloudfoundry:cf-mysql-release:21:*:*:*:*:*:*:*,Cloud Foundry CF-MySQL-Release 21,['CVE-2016-6655'],2022-03-20T03:11Z
+8,cpe:2.3:a:cloudfoundry:cf-mysql-release:22:*:*:*:*:*:*:*,Cloud Foundry CF-MySQL-Release 22,['CVE-2016-6655'],2022-03-20T03:11Z
+9,cpe:2.3:a:cloudfoundry:cf-mysql-release:22.2:*:*:*:*:*:*:*,Cloud Foundry CF-MySQL-Release 22.2,['CVE-2016-6655'],2022-03-20T03:11Z

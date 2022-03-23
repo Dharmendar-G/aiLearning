@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:envy_17-ce1xxx:-:*:*:*:*:*:*:*,HP Envy 17-CE1XXX,['CVE-2019-18619'],2022-03-21T13:23Z
+1,cpe:2.3:o:hp:envy_17-ce1xxx_firmware:-:*:*:*:*:*:*:*,HP Envy 17-ce1xxx Firmware,['CVE-2019-18619'],2022-03-21T13:23Z
+2,cpe:2.3:o:hp:envy_17-ce1xxx_firmware:6.0.39.1111:*:*:*:*:*:*:*,HP Envy 17-ce1xxx Firmware 6.0.39.1111,[''],2022-03-21T13:23Z
+3,cpe:2.3:h:hp:envy_17m-bw0xxx:-:*:*:*:*:*:*:*,HP Envy 17M-BW0XXX,['CVE-2019-18619'],2022-03-21T13:23Z
+4,cpe:2.3:o:hp:envy_17m-bw0xxx_firmware:-:*:*:*:*:*:*:*,HP Envy 17m-bw0xxx Firmware,['CVE-2019-18619'],2022-03-21T13:23Z
+5,cpe:2.3:o:hp:envy_17m-bw0xxx_firmware:5.5.11.1093:*:*:*:*:*:*:*,HP Envy 17m-bw0xxx Firmware 5.5.11.1093,[''],2022-03-21T13:23Z
+6,cpe:2.3:h:hp:envy_17m-ce0xxx:-:*:*:*:*:*:*:*,HP Envy 17M-CE0XXX,['CVE-2019-18619'],2022-03-21T13:23Z
+7,cpe:2.3:o:hp:envy_17m-ce0xxx_firmware:-:*:*:*:*:*:*:*,HP Envy 17m-ce0xxx Firmware,['CVE-2019-18619'],2022-03-21T13:23Z
+8,cpe:2.3:o:hp:envy_17m-ce0xxx_firmware:6.0.39.1111:*:*:*:*:*:*:*,HP Envy 17m-ce0xxx Firmware 6.0.39.1111,[''],2022-03-21T13:23Z
+9,cpe:2.3:h:hp:envy_17m-ce1xxx:-:*:*:*:*:*:*:*,HP Envy 17M-CE1XXX,['CVE-2019-18619'],2022-03-21T13:23Z

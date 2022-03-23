@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arubanetworks:aruba_instant:8.4.0.6:*:*:*:*:*:*:*,Aruba Aruba Instant 8.4.0.6,[''],2022-03-18T23:36Z
+1,cpe:2.3:a:arubanetworks:aruba_instant:8.5.0.0:*:*:*:*:*:*:*,Aruba Networks Aruba Instant 8.5.0.0,"['CVE-2021-37727', 'CVE-2021-37730', 'CVE-2021-37732', 'CVE-2021-37734', 'CVE-2021-37735']",2022-03-18T23:36Z
+2,cpe:2.3:a:arubanetworks:aruba_instant:8.5.0.6:*:*:*:*:*:*:*,Aruba Aruba Instant 8.5.0.6,"['CVE-2021-37727', 'CVE-2021-37730', 'CVE-2021-37732', 'CVE-2021-37734', 'CVE-2021-37735']",2022-03-18T23:36Z
+3,cpe:2.3:a:arubanetworks:aruba_instant:8.5.0.10:*:*:*:*:*:*:*,Aruba Networks Aruba Instant 8.5.0.10,"['CVE-2021-37727', 'CVE-2021-37730', 'CVE-2021-37732', 'CVE-2021-37734', 'CVE-2021-37735']",2022-03-18T23:36Z
+4,cpe:2.3:a:arubanetworks:aruba_instant:8.5.0.11:*:*:*:*:*:*:*,Aruba Networks Aruba Instant 8.5.0.11,"['CVE-2021-37727', 'CVE-2021-37730', 'CVE-2021-37732', 'CVE-2021-37734']",2022-03-18T23:36Z
+5,cpe:2.3:a:arubanetworks:aruba_instant:8.5.0.12:*:*:*:*:*:*:*,Aruba Networks Aruba Instant 8.5.0.12,['CVE-2021-37734'],2022-03-18T23:36Z
+6,cpe:2.3:a:arubanetworks:aruba_instant:8.5.0.13:*:*:*:*:*:*:*,Aruba Networks Aruba Instant 8.5.0.13,[''],2022-03-18T23:36Z
+7,cpe:2.3:a:arubanetworks:aruba_instant:8.6.0.0:*:*:*:*:*:*:*,Aruba Networks Aruba Instant 8.6.0.0,"['CVE-2021-37727', 'CVE-2021-37730', 'CVE-2021-37732', 'CVE-2021-37734', 'CVE-2021-37735']",2022-03-18T23:36Z
+8,cpe:2.3:a:arubanetworks:aruba_instant:8.6.0.2:*:*:*:*:*:*:*,Aruba Aruba Instant 8.6.0.2,"['CVE-2021-37727', 'CVE-2021-37730', 'CVE-2021-37732', 'CVE-2021-37734', 'CVE-2021-37735']",2022-03-18T23:36Z
+9,cpe:2.3:a:arubanetworks:aruba_instant:8.6.0.4:*:*:*:*:*:*:*,Aruba Networks Aruba Instant 8.6.0.4,"['CVE-2021-37727', 'CVE-2021-37730', 'CVE-2021-37732', 'CVE-2021-37734', 'CVE-2021-37735']",2022-03-18T23:36Z

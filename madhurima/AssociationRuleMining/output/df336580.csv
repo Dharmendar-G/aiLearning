@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:s7712_firmware:v100r006:*:*:*:*:*:*:*,Huawei S7712 Firmware V100R006,['CVE-2014-8570'],2022-03-21T18:43Z
+1,cpe:2.3:o:huawei:s7712_firmware:v200r001:*:*:*:*:*:*:*,Huawei S7712 Firmware V200R001,['CVE-2014-8570'],2022-03-21T18:43Z
+2,cpe:2.3:o:huawei:s7712_firmware:v200r002:*:*:*:*:*:*:*,Huawei S7712 Firmware V200R002,['CVE-2014-8570'],2022-03-21T18:43Z
+3,cpe:2.3:o:huawei:s7712_firmware:v200r003:*:*:*:*:*:*:*,Huawei S7712 Firmware V200R003,['CVE-2014-8570'],2022-03-21T18:43Z
+4,cpe:2.3:o:huawei:s7712_firmware:v200r005:*:*:*:*:*:*:*,Huawei S7712 Firmware V200R005,['CVE-2014-8570'],2022-03-21T18:43Z
+5,cpe:2.3:h:huawei:s7800:r6305:*:*:*:*:*:*:*,Huawei S7800 R6305,"['CVE-2012-6569', 'CVE-2012-6570', 'CVE-2012-6571']",2022-03-21T18:43Z
+6,cpe:2.3:h:huawei:s7900:-:*:*:*:*:*:*:*,Huawei S7900 -,['CVE-2019-5285'],2022-03-21T18:43Z
+7,cpe:2.3:o:huawei:s7900_firmware:v200r011c10:*:*:*:*:*:*:*,Huawei S7900 Firmware V200r011c10,['CVE-2019-5285'],2022-03-21T18:43Z
+8,cpe:2.3:o:huawei:s7900_firmware:v200r012c00:*:*:*:*:*:*:*,Huawei S7900 Firmware V200r012c00,['CVE-2019-5285'],2022-03-21T18:43Z
+9,cpe:2.3:o:huawei:s7900_firmware:v200r013c00:*:*:*:*:*:*:*,Huawei S7900 Firmware V200r013c00,['CVE-2019-5285'],2022-03-21T18:43Z

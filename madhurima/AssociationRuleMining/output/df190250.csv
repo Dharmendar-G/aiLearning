@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:d-link:dcs-5009_firmware:1.07.05:*:*:*:*:*:*:*,D-link DCS-5009 Firmware 1.07.05,['CVE-2017-17020'],2022-03-20T15:59Z
+1,cpe:2.3:o:d-link:dcs-5009_firmware:1.08.11:*:*:*:*:*:*:*,D-Link DCS-5009 Firmware 1.08.11,['CVE-2017-17020'],2022-03-20T15:59Z
+2,cpe:2.3:h:d-link:dcs-5009l:-:*:*:*:*:*:*:*,D-Link DCS-5009L,['CVE-2017-7852'],2022-03-20T15:59Z
+3,cpe:2.3:o:d-link:dcs-5009l_firmware:1.07.05:*:*:*:*:*:*:*,D-Link DCS-5009L Firmware 1.07.05,['CVE-2017-7852'],2022-03-20T15:59Z
+4,cpe:2.3:h:d-link:dcs-5010:-:*:*:*:*:*:*:*,D-Link DCS-5010,['CVE-2017-17020'],2022-03-20T15:59Z
+5,cpe:2.3:o:d-link:dcs-5010_firmware:1.12.03:*:*:*:*:*:*:*,D-link DCS-5010 Firmware 1.12.03,['CVE-2017-17020'],2022-03-20T15:59Z
+6,cpe:2.3:o:d-link:dcs-5010_firmware:1.14.09:*:*:*:*:*:*:*,D-Link DCS-5010 Firmware 1.14.09,['CVE-2017-17020'],2022-03-20T15:59Z
+7,cpe:2.3:h:d-link:dcs-5010l:-:*:*:*:*:*:*:*,D-Link DCS-5010L,['CVE-2017-7852'],2022-03-20T15:59Z
+8,cpe:2.3:o:d-link:dcs-5010l_firmware:1.13.05:*:*:*:*:*:*:*,D-Link DCS-5010L Firmware 1.13.05,['CVE-2017-7852'],2022-03-20T15:59Z
+9,cpe:2.3:h:d-link:dcs-5020l:-:*:*:*:*:*:*:*,D-Link DCS-5020L,"['CVE-2017-17020', 'CVE-2017-7852', 'CVE-2018-18441']",2022-03-20T15:59Z

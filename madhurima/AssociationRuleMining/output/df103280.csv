@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:c-ares_project:c-ares:1.16.1:*:*:*:*:*:*:*,C-ares Project C-ares 1.16.1,['CVE-2021-3672'],2022-03-19T15:33Z
+1,cpe:2.3:a:c-ares_project:c-ares:1.17.0:*:*:*:*:*:*:*,C-ares Project C-ares 1.17.0,['CVE-2021-3672'],2022-03-19T15:33Z
+2,cpe:2.3:a:c-ares_project:c-ares:1.17.1:*:*:*:*:*:*:*,C-ares Project C-ares 1.17.1,['CVE-2021-3672'],2022-03-19T15:33Z
+3,cpe:2.3:a:carestream:carestream_vue_ris:11.2:*:*:*:*:*:*:*,Carestream Vue Ris 11.2,['CVE-2018-17891'],2022-03-19T15:33Z
+4,cpe:2.3:a:caret:caret:1.1.0:*:*:*:*:*:*:*,Caret Caret 1.1.0,"['CVE-2019-9927', 'CVE-2020-20269']",2022-03-19T15:33Z
+5,cpe:2.3:a:caret:caret:1.2.0:*:*:*:*:*:*:*,Caret Caret 1.2.0,"['CVE-2019-9927', 'CVE-2020-20269']",2022-03-19T15:33Z
+6,cpe:2.3:a:caret:caret:1.2.1:*:*:*:*:*:*:*,Caret Caret 1.2.1,"['CVE-2019-9927', 'CVE-2020-20269']",2022-03-19T15:33Z
+7,cpe:2.3:a:caret:caret:1.2.2:*:*:*:*:*:*:*,Caret Caret 1.2.2,"['CVE-2019-9927', 'CVE-2020-20269']",2022-03-19T15:33Z
+8,cpe:2.3:a:caret:caret:1.3.4:*:*:*:*:*:*:*,Caret Caret 1.3.4,"['CVE-2019-9927', 'CVE-2020-20269']",2022-03-19T15:33Z
+9,cpe:2.3:a:caret:caret:1.4.0:*:*:*:*:*:*:*,Caret Caret 1.4.0,"['CVE-2019-9927', 'CVE-2020-20269']",2022-03-19T15:33Z

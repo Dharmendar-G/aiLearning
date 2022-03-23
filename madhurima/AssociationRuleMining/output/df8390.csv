@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:adguard:adguard:3.6.1:3.5.2:*:*:*:android:*:*,AdGuard 3.6.1 3.5.2 for Android,[''],2022-03-18T11:55Z
+1,cpe:2.3:a:adguard:adguard:3.6.1:beta1:*:*:*:android:*:*,AdGuard 3.6.1 Beta 1 for Android,[''],2022-03-18T11:55Z
+2,cpe:2.3:a:adguard:adguard:4.0.0:*:*:*:*:iphone_os:*:*,AdGuard 4.0.0 iPhone OS,[''],2022-03-18T11:55Z
+3,cpe:2.3:a:adguard:adguard:4.0.1:*:*:*:*:iphone_os:*:*,AdGuard 4.0.1 iPhone OS,[''],2022-03-18T11:55Z
+4,cpe:2.3:a:adguard:adguard:4.0.2:*:*:*:*:iphone_os:*:*,AdGuard 4.0.2 iPhone OS,[''],2022-03-18T11:55Z
+5,cpe:2.3:a:adguard:adguard:4.0.3:*:*:*:*:iphone_os:*:*,AdGuard 4.0.3 iPhone OS,[''],2022-03-18T11:55Z
+6,cpe:2.3:a:adguard:adguard:4.0.4:*:*:*:*:iphone_os:*:*,AdGuard 4.0.4 iPhone OS,[''],2022-03-18T11:55Z
+7,cpe:2.3:a:adguard:adguard:4.1.0:*:*:*:*:iphone_os:*:*,AdGuard 4.1.0 iPhone OS,[''],2022-03-18T11:55Z
+8,cpe:2.3:a:adguard:adguard:4.1.1:*:*:*:*:iphone_os:*:*,AdGuard 4.1.1 iPhone OS,[''],2022-03-18T11:55Z
+9,cpe:2.3:a:adguard:adguardhome:0.1:*:*:*:*:*:*:*,AdGuard AdGuard Home 0.1,[''],2022-03-18T11:55Z

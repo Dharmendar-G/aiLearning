@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:crr-l09:-:*:*:*:*:*:*:*,Huawei CRR-L09,['CVE-2017-2710'],2022-03-21T17:34Z
+1,cpe:2.3:o:huawei:crr-l09_firmware:-:*:*:*:*:*:*:*,Huawei Crr-l09 Firmware -,['CVE-2017-2710'],2022-03-21T17:34Z
+2,cpe:2.3:o:huawei:crr-l09_firmware:crr-l09c432b390:*:*:*:*:*:*:*,Huawei CRR-L09 Firmware CRR-L09C432B390,['CVE-2017-2710'],2022-03-21T17:34Z
+3,cpe:2.3:o:huawei:crr-l09_firmware:crr-l09c605b355custc605d003:*:*:*:*:*:*:*,Huawei CRR-L09 Firmware CRR-L09C605B355CUSTC605D003,[''],2022-03-21T17:34Z
+4,cpe:2.3:h:huawei:cx200:v100r005:*:*:*:*:*:*:*,Huawei CX200 V100R005,['CVE-2012-4960'],2022-03-21T17:34Z
+5,cpe:2.3:h:huawei:cx300:v100r005:*:*:*:*:*:*:*,Huawei CX300 V100R005,['CVE-2012-4960'],2022-03-21T17:34Z
+6,cpe:2.3:h:huawei:cx600:-:*:*:*:*:*:*:*,Huawei CX600,['CVE-2016-6178'],2022-03-21T17:34Z
+7,cpe:2.3:h:huawei:cx600:v200r002:*:*:*:*:*:*:*,Huawei CX600 V200R002,"['CVE-2012-3268', 'CVE-2012-4960']",2022-03-21T17:34Z
+8,cpe:2.3:h:huawei:cx600:v600r001:*:*:*:*:*:*:*,Huawei CX600 V600R001,"['CVE-2012-3268', 'CVE-2012-4960']",2022-03-21T17:34Z
+9,cpe:2.3:h:huawei:cx600:v600r002:*:*:*:*:*:*:*,Huawei CX600 V600R002,"['CVE-2012-3268', 'CVE-2012-4960']",2022-03-21T17:34Z

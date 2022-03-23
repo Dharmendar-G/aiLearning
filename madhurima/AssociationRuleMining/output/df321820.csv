@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:envy_x360_-_15t-dr000_\(validity_fps\)_firmware:-:*:*:*:*:*:*:*,HP Envy x360 - 15t-dr000 (Validity FPS) Firmware,['CVE-2019-18619'],2022-03-21T13:26Z
+1,cpe:2.3:o:hp:envy_x360_-_15t-dr000_\(validity_fps\)_firmware:5.5.26.1102:*:*:*:*:*:*:*,HP Envy x360 - 15t-dr000 (Validity FPS) Firmware 5.5.26.1102,[''],2022-03-21T13:26Z
+2,cpe:2.3:o:hp:envy_x360_-_15t-dr000_firmware:-:*:*:*:*:*:*:*,HP Envy x360 - 15t-dr000 Firmware,['CVE-2019-18619'],2022-03-21T13:26Z
+3,cpe:2.3:o:hp:envy_x360_-_15t-dr000_firmware:6.0.39.1111:*:*:*:*:*:*:*,HP Envy x360 - 15t-dr000 Firmware 6.0.39.1111,[''],2022-03-21T13:26Z
+4,cpe:2.3:h:hp:envy_x360_-_15t-dr100:-:*:*:*:*:*:*:*,HP Envy x360 - 15t-dr100,['CVE-2019-18619'],2022-03-21T13:26Z
+5,cpe:2.3:h:hp:envy_x360_-_15t-dr100_\(validity_fps\):-:*:*:*:*:*:*:*,HP Envy x360 - 15t-dr100 (Validity FPS),['CVE-2019-18619'],2022-03-21T13:26Z
+6,cpe:2.3:o:hp:envy_x360_-_15t-dr100_\(validity_fps\)_firmware:-:*:*:*:*:*:*:*,HP Envy x360 - 15t-dr100 (Validity FPS) Firmware,['CVE-2019-18619'],2022-03-21T13:26Z
+7,cpe:2.3:o:hp:envy_x360_-_15t-dr100_\(validity_fps\)_firmware:5.5.26.1102:*:*:*:*:*:*:*,HP Envy X360 - 15t-dr100 (validity Fps) Firmware 5.5.26.1102,[''],2022-03-21T13:26Z
+8,cpe:2.3:o:hp:envy_x360_-_15t-dr100_firmware:-:*:*:*:*:*:*:*,HP Envy x360 - 15t-dr100 Firmware,['CVE-2019-18619'],2022-03-21T13:26Z
+9,cpe:2.3:o:hp:envy_x360_-_15t-dr100_firmware:6.0.39.1111:*:*:*:*:*:*:*,HP Envy x360 - 15t-dr100 Firmware 6.0.39.1111,[''],2022-03-21T13:26Z

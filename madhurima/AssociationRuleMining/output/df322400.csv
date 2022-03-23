@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,cpe:2.3:a:hp:hpf_productcontext:60.0.196.0:*:*:*:*:*:*:*,HP Hpf Productcontext 60.0.196.0,[''],2022-03-21T13:34Z
+4,cpe:2.3:a:hp:hph_productcontext:70.0.260.0:*:*:*:*:*:*:*,HP Hph Productcontext 70.0.260.0,[''],2022-03-21T13:34Z
+5,cpe:2.3:a:hp:hph_readme:70.0.260.0:*:*:*:*:*:*:*,HP Hph Readme 70.0.260.0,[''],2022-03-21T13:34Z
+6,cpe:2.3:a:hp:hph_software:70.0.260.0:*:*:*:*:*:*:*,HP Hph Software 70.0.260.0,[''],2022-03-21T13:34Z
+7,cpe:2.3:a:hp:hph_software_req:70.0.260.0:*:*:*:*:*:*:*,HP Hph Software Req 70.0.260.0,[''],2022-03-21T13:34Z
+8,cpe:2.3:a:hp:hppdustdevil:2.0.4:*:*:*:*:*:*:*,HP Hppdustdevil 2.0.4,[''],2022-03-21T13:34Z
+9,cpe:2.3:a:hp:hppfaxdrv:2.0.4:*:*:*:*:*:*:*,HP Hppfaxdrv 2.0.4,[''],2022-03-21T13:34Z

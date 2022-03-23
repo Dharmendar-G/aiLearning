@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:codesys:development_system:3.5.16.0:*:*:*:*:*:*:*,CODESYS Development System 3.5.16.0,"['CVE-2021-21863', 'CVE-2021-21864', 'CVE-2021-21865', 'CVE-2021-21866', 'CVE-2021-29239', 'CVE-2021-29240', 'CVE-2021-29241', 'CVE-2021-34599']",2022-03-20T06:14Z
+1,cpe:2.3:a:codesys:development_system:3.5.17.0:*:*:*:*:*:*:*,CODESYS Development System 3.5.17.0,"['CVE-2021-21863', 'CVE-2021-21864', 'CVE-2021-21866']",2022-03-20T06:14Z
+2,cpe:2.3:a:codesys:edge_gateway:-:*:*:*:*:linux:*:*,CODESYS Edge Gateway for Linux,[''],2022-03-20T06:14Z
+3,cpe:2.3:a:codesys:edge_gateway:-:*:*:*:*:windows:*:*,CODESYS Edge Gateway for Windows,[''],2022-03-20T06:14Z
+4,cpe:2.3:a:codesys:edge_gateway:3.0:*:*:*:*:linux:*:*,CODESYS Edge Gateway 3.0 for Linux,"['CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:14Z
+5,cpe:2.3:a:codesys:edge_gateway:3.0:*:*:*:*:windows:*:*,CODESYS Edge Gateway 3.0 for Windows,"['CVE-2021-29241', 'CVE-2021-29242']",2022-03-20T06:14Z
+6,cpe:2.3:a:codesys:edge_gateway:3.5.17.0:*:*:*:*:windows:*:*,CODESYS Edge Gateway 3.5.17.0 for Windows,[''],2022-03-20T06:14Z
+7,cpe:2.3:a:codesys:edge_gateway:4.1.0.0:*:*:*:*:linux:*:*,CODESYS Edge Gateway 4.1.0.0 for Linux,[''],2022-03-20T06:14Z
+8,cpe:2.3:a:codesys:embedded_target_visu_toolkit:3.0:*:*:*:*:*:*:*,CODESYS Embedded TargetVisu Toolkit 3.0,"['CVE-2019-13532', 'CVE-2019-13548', 'CVE-2019-18858', 'CVE-2020-10245', 'CVE-2020-15806', 'CVE-2021-29242', 'CVE-2021-33485', 'CVE-2021-36763']",2022-03-20T06:14Z
+9,cpe:2.3:a:codesys:embedded_target_visu_toolkit:3.5.12.80:*:*:*:*:*:*:*,CODESYS Embedded TargetVisu Toolkit 3.5.12.80,"['CVE-2019-18858', 'CVE-2020-10245', 'CVE-2020-15806', 'CVE-2021-29242', 'CVE-2021-33485', 'CVE-2021-36763']",2022-03-20T06:14Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hiawatha-webserver:hiawatha:0.4.0:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 0.4.0,['CVE-2019-8358'],2022-03-21T10:53Z
+1,cpe:2.3:a:hiawatha-webserver:hiawatha:0.5.0:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 0.5.0,['CVE-2019-8358'],2022-03-21T10:53Z
+2,cpe:2.3:a:hiawatha-webserver:hiawatha:0.6.0:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 0.6.0,['CVE-2019-8358'],2022-03-21T10:53Z
+3,cpe:2.3:a:hiawatha-webserver:hiawatha:0.7.0:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 0.7.0,['CVE-2019-8358'],2022-03-21T10:53Z
+4,cpe:2.3:a:hiawatha-webserver:hiawatha:0.7.1:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 0.7.1,['CVE-2019-8358'],2022-03-21T10:53Z
+5,cpe:2.3:a:hiawatha-webserver:hiawatha:0.8.0:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 0.8.0,['CVE-2019-8358'],2022-03-21T10:53Z
+6,cpe:2.3:a:hiawatha-webserver:hiawatha:0.9.0:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 0.9.0,['CVE-2019-8358'],2022-03-21T10:53Z
+7,cpe:2.3:a:hiawatha-webserver:hiawatha:1.0.0:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 1.0.0,['CVE-2019-8358'],2022-03-21T10:53Z
+8,cpe:2.3:a:hiawatha-webserver:hiawatha:1.1.0:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 1.1.0,['CVE-2019-8358'],2022-03-21T10:53Z
+9,cpe:2.3:a:hiawatha-webserver:hiawatha:1.1.1:*:*:*:*:*:*:*,Hiawatha-Webserver Hiawatha 1.1.1,['CVE-2019-8358'],2022-03-21T10:53Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:dubbo:2.6.2:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.6.2,"['CVE-2019-17564', 'CVE-2020-11995', 'CVE-2020-1948', 'CVE-2021-25640', 'CVE-2021-25641', 'CVE-2021-30179', 'CVE-2021-30181', 'CVE-2021-43297']",2022-03-18T18:21Z
+1,cpe:2.3:a:apache:dubbo:2.6.3:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.6.3,"['CVE-2019-17564', 'CVE-2020-11995', 'CVE-2020-1948', 'CVE-2021-25640', 'CVE-2021-25641', 'CVE-2021-30179', 'CVE-2021-30181', 'CVE-2021-43297']",2022-03-18T18:21Z
+2,cpe:2.3:a:apache:dubbo:2.6.4:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.6.4,"['CVE-2019-17564', 'CVE-2020-11995', 'CVE-2020-1948', 'CVE-2021-25640', 'CVE-2021-25641', 'CVE-2021-30179', 'CVE-2021-30181', 'CVE-2021-43297']",2022-03-18T18:21Z
+3,cpe:2.3:a:apache:dubbo:2.6.5:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.6.5,"['CVE-2019-17564', 'CVE-2020-11995', 'CVE-2020-1948', 'CVE-2021-25640', 'CVE-2021-25641', 'CVE-2021-30179', 'CVE-2021-30181', 'CVE-2021-43297']",2022-03-18T18:21Z
+4,cpe:2.3:a:apache:dubbo:2.6.6:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.6.6,"['CVE-2019-17564', 'CVE-2020-11995', 'CVE-2020-1948', 'CVE-2021-25640', 'CVE-2021-25641', 'CVE-2021-30179', 'CVE-2021-30181', 'CVE-2021-43297']",2022-03-18T18:21Z
+5,cpe:2.3:a:apache:dubbo:2.6.7:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.6.7,"['CVE-2019-17564', 'CVE-2020-11995', 'CVE-2020-1948', 'CVE-2021-25640', 'CVE-2021-25641', 'CVE-2021-30179', 'CVE-2021-30181', 'CVE-2021-43297']",2022-03-18T18:21Z
+6,cpe:2.3:a:apache:dubbo:2.6.8:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.6.8,"['CVE-2020-11995', 'CVE-2021-25640', 'CVE-2021-25641', 'CVE-2021-30179', 'CVE-2021-30181', 'CVE-2021-43297']",2022-03-18T18:21Z
+7,cpe:2.3:a:apache:dubbo:2.6.9:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.6.9,"['CVE-2021-30181', 'CVE-2021-43297']",2022-03-18T18:21Z
+8,cpe:2.3:a:apache:dubbo:2.6.10:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.6.10,['CVE-2021-43297'],2022-03-18T18:21Z
+9,cpe:2.3:a:apache:dubbo:2.6.10.1:*:*:*:*:*:*:*,Apache Software Foundation Dubbo 2.6.10.1,['CVE-2021-43297'],2022-03-18T18:21Z

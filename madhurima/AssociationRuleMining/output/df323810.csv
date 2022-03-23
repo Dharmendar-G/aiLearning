@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:jg785a_hp_ff_12518e_dc_switch_chassis:-:*:*:*:*:*:*:*,HP JG785A HP FF 12518E DC Switch Chassis,['CVE-2015-5434'],2022-03-21T13:53Z
+1,cpe:2.3:a:hp:jg786a:-:*:*:*:*:*:*:*,HP JG786A HP FlexFabric 12500 4-port 100gbe CFP FD Module,[''],2022-03-21T13:53Z
+2,cpe:2.3:a:hp:jg786a_hp_flexfabric_12500_4-port_100gbe_cfp_fd:-:*:*:*:*:*:*:*,HP JG786A HP FlexFabric 12500 4-port 100GbE CFP FD,['CVE-2015-5434'],2022-03-21T13:53Z
+3,cpe:2.3:a:hp:jg787a:-:*:*:*:*:*:*:*,HP JH196A HP 10500 2-port 100GbE CFP EC Module,[''],2022-03-21T13:53Z
+4,cpe:2.3:a:hp:jg787a_hp_flexfabric_12500_4-port_100gbe_cfp_fd_taa:-:*:*:*:*:*:*:*,HP JG787A HP FlexFabric 12500 4-port 100GbE CFP FD TAA,['CVE-2015-5434'],2022-03-21T13:53Z
+5,cpe:2.3:h:hp:jg788a:-:*:*:*:*:*:*:*,HP JG802A HP FF 12500E MPU,[''],2022-03-21T13:53Z
+6,cpe:2.3:a:hp:jg788a_hp_flexfabric_12500_4-port_100gbe_cfp_fg:-:*:*:*:*:*:*:*,HP JG788A HP FlexFabric 12500 4-port 100GbE CFP FG,['CVE-2015-5434'],2022-03-21T13:53Z
+7,cpe:2.3:a:hp:jg789a:-:*:*:*:*:*:*:*,HP JG788A HP FlexFabric 12500 4-port 100GbE CFP FG Module,[''],2022-03-21T13:53Z
+8,cpe:2.3:a:hp:jg789a_hp_flexfabric_12500_4-port_100gbe_cfp_fg_taa:-:*:*:*:*:*:*:*,HP JG789A HP FlexFabric 12500 4-port 100GbE CFP FG TAA,['CVE-2015-5434'],2022-03-21T13:54Z
+9,cpe:2.3:a:hp:jg798a:-:*:*:*:*:*:*:*,HP JH192A HP 10500 48-port Gig-T (RJ45) SE Module,[''],2022-03-21T13:54Z

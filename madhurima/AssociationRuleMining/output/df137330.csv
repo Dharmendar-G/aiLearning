@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:unified_ip_phone_7941g_firmware:12.8\(1\):*:*:*:*:*:*:*,Cisco Unified IP Phone 7941G Firmware 12.8(1),['CVE-2020-3360'],2022-03-20T00:54Z
+1,cpe:2.3:h:cisco:unified_ip_phone_7941g-ge:-:*:*:*:*:*:*:*,Cisco Unified IP Phone 7941G-GE,"['CVE-2011-1602', 'CVE-2011-1603', 'CVE-2011-1637']",2022-03-20T00:54Z
+2,cpe:2.3:h:cisco:unified_ip_phone_7942g:-:*:*:*:*:*:*:*,Cisco Unified IP Phone 7942G,"['CVE-2011-1602', 'CVE-2011-1603', 'CVE-2011-1637', 'CVE-2018-0332', 'CVE-2020-3360']",2022-03-20T00:54Z
+3,cpe:2.3:o:cisco:unified_ip_phone_7942g_firmware:12.8\(1\):*:*:*:*:*:*:*,Cisco Unified IP Phone 7942G Firmware 12.8(1),['CVE-2020-3360'],2022-03-20T00:54Z
+4,cpe:2.3:h:cisco:unified_ip_phone_7945g:-:*:*:*:*:*:*:*,Cisco Unified IP Phone 7945G,"['CVE-2011-1602', 'CVE-2011-1603', 'CVE-2011-1637', 'CVE-2018-0332', 'CVE-2020-3360', 'CVE-2022-20660']",2022-03-20T00:54Z
+5,cpe:2.3:o:cisco:unified_ip_phone_7945g_firmware:12.8\(1\):*:*:*:*:*:*:*,Cisco Unified IP Phone 7945G Firmware 12.8(1),['CVE-2020-3360'],2022-03-20T00:54Z
+6,cpe:2.3:h:cisco:unified_ip_phone_7960g:-:*:*:*:*:*:*:*,Cisco Unified IP Phone 7960G,"['CVE-2008-4444', 'CVE-2014-0737', 'CVE-2018-0332', 'CVE-2020-3360']",2022-03-20T00:54Z
+7,cpe:2.3:o:cisco:unified_ip_phone_7960g_firmware:12.8\(1\):*:*:*:*:*:*:*,Cisco Unified IP Phone 7960G Firmware 12.8(1),['CVE-2020-3360'],2022-03-20T00:54Z
+8,cpe:2.3:h:cisco:unified_ip_phone_7961g:-:*:*:*:*:*:*:*,Cisco Unified IP Phone 7961G,"['CVE-2007-1063', 'CVE-2007-1072', 'CVE-2011-1602', 'CVE-2011-1603', 'CVE-2011-1637', 'CVE-2018-0332', 'CVE-2020-3360']",2022-03-20T00:54Z
+9,[0],[0],[0],[0]

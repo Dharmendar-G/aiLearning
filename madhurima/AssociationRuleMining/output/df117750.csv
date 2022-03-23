@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:cloud_network_automation_provisioner:1.1:*:*:*:*:*:*:*,Cisco Cloud Network Automation Provisioner 1.1,['CVE-2016-1393'],2022-03-19T19:13Z
+1,cpe:2.3:a:cisco:cloud_portal:-:*:*:*:*:*:*:*,Cisco Cloud Portal,"['CVE-2014-0694', 'CVE-2014-3297', 'CVE-2014-3298', 'CVE-2014-3349', 'CVE-2014-3350', 'CVE-2014-3351']",2022-03-19T19:13Z
+2,cpe:2.3:a:cisco:cloud_portal:9.1:sp1:*:*:*:*:*:*,Cisco Cloud Portal 9.1 Service Pack 1,"['CVE-2013-1139', 'CVE-2014-0694', 'CVE-2014-3352']",2022-03-19T19:13Z
+3,cpe:2.3:a:cisco:cloud_portal:9.1:sp2:*:*:*:*:*:*,Cisco Cloud Portal 9.1 Service Pack 2,"['CVE-2013-1139', 'CVE-2014-0694', 'CVE-2014-3352']",2022-03-19T19:13Z
+4,cpe:2.3:a:cisco:cloud_portal:9.1:sp3:*:*:*:*:*:*,Cisco Cloud Portal 9.1 Service Pack 3,"['CVE-2014-0694', 'CVE-2014-3352']",2022-03-19T19:13Z
+5,cpe:2.3:a:cisco:cloud_portal:9.3:*:*:*:*:*:*:*,Cisco Cloud Portal 9.3,"['CVE-2013-1139', 'CVE-2014-0694', 'CVE-2014-3352']",2022-03-19T19:13Z
+6,cpe:2.3:a:cisco:cloud_portal:9.3.1:*:*:*:*:*:*:*,Cisco Cloud Portal 9.3.1,"['CVE-2013-1139', 'CVE-2014-0694', 'CVE-2014-3352']",2022-03-19T19:13Z
+7,cpe:2.3:a:cisco:cloud_portal:9.3.2:*:*:*:*:*:*:*,Cisco Cloud Portal 9.3.2,"['CVE-2013-1139', 'CVE-2014-0694', 'CVE-2014-3352']",2022-03-19T19:13Z
+8,cpe:2.3:a:cisco:cloud_portal:9.4:*:*:*:*:*:*:*,Cisco Cloud Portal 9.4,"['CVE-2013-6708', 'CVE-2014-0694', 'CVE-2014-3352']",2022-03-19T19:13Z
+9,cpe:2.3:a:cisco:cloud_portal:9.4.1:*:*:*:*:*:*:*,Cisco Cloud Portal 9.4.1,['CVE-2014-0694'],2022-03-19T19:13Z

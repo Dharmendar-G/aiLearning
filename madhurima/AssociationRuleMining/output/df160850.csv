@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:contribsys:sidekiq:5.2.1:*:*:*:*:*:*:*,Contributed Systems Sidekiq 5.2.1,['CVE-2022-23837'],2022-03-20T07:49Z
+1,cpe:2.3:a:contribsys:sidekiq:5.2.2:*:*:*:*:*:*:*,Contributed Systems Sidekiq 5.2.2,['CVE-2022-23837'],2022-03-20T07:49Z
+2,cpe:2.3:a:contribsys:sidekiq:5.2.3:*:*:*:*:*:*:*,Contributed Systems Sidekiq 5.2.3,['CVE-2022-23837'],2022-03-20T07:49Z
+3,cpe:2.3:a:contribsys:sidekiq:5.2.4:*:*:*:*:*:*:*,Contributed Systems Sidekiq 5.2.4,['CVE-2022-23837'],2022-03-20T07:49Z
+4,cpe:2.3:a:contribsys:sidekiq:5.2.5:*:*:*:*:*:*:*,Contributed Systems Sidekiq 5.2.5,['CVE-2022-23837'],2022-03-20T07:49Z
+5,cpe:2.3:a:contribsys:sidekiq:5.2.6:*:*:*:*:*:*:*,Contributed Systems Sidekiq 5.2.6,['CVE-2022-23837'],2022-03-20T07:49Z
+6,cpe:2.3:a:contribsys:sidekiq:5.2.7:*:*:*:*:*:*:*,Contributed Systems Sidekiq 5.2.7,['CVE-2022-23837'],2022-03-20T07:49Z
+7,cpe:2.3:a:contribsys:sidekiq:5.2.8:*:*:*:*:*:*:*,Contributed Systems Sidekiq 5.2.8,['CVE-2022-23837'],2022-03-20T07:49Z
+8,cpe:2.3:a:contribsys:sidekiq:5.2.9:*:*:*:*:*:*:*,Contributed Systems Sidekiq 5.2.9,['CVE-2022-23837'],2022-03-20T07:49Z
+9,cpe:2.3:a:contribsys:sidekiq:5.2.10:*:*:*:*:*:*:*,Contributed Systems Sidekiq 5.2.10,[''],2022-03-20T07:49Z

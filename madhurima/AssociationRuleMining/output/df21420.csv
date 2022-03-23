@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:altova:mobiletogether_server:7.0:*:*:*:*:*:*:*,Altova MobileTogether Server 7.0,"['CVE-2021-37425', 'CVE-2021-38490']",2022-03-18T15:18Z
+1,cpe:2.3:a:altova:mobiletogether_server:7.3:-:*:*:*:*:*:*,Altova MobileTogether Server 7.3,"['CVE-2021-37425', 'CVE-2021-38490']",2022-03-18T15:18Z
+2,cpe:2.3:a:altova:umodel_2012:-:*:*:*:enterprise:*:*:*,Altova Umodel 2012 Enterprise -,[''],2022-03-18T15:18Z
+3,cpe:2.3:a:altova:xmlspy_2006:30.1:*:*:*:professional:*:*:*,Altova Xmlspy 2006 Professional 30.1,[''],2022-03-18T15:18Z
+4,cpe:2.3:a:altova:xmlspy_2007:30.0:*:*:*:enterprise:*:*:*,Altova Xmlspy 2007 Enterprise 30.0,[''],2022-03-18T15:18Z
+5,cpe:2.3:a:altova:xmlspy_2008:2.1:*:*:*:enterprise:*:*:*,Altova Xmlspy 2008 Enterprise 2.1,[''],2022-03-18T15:18Z
+6,cpe:2.3:a:altova:xmlspy_2009:0.1:*:*:*:professional:*:*:*,Altova Xmlspy 2009 Professional 0.1,[''],2022-03-18T15:18Z
+7,cpe:2.3:a:altova:xmlspy_2011:2.0:*:*:*:professional:*:*:*,Altova Xmlspy 2011 Professional 2.0,[''],2022-03-18T15:18Z
+8,cpe:2.3:a:altova:xmlspy_2011:3.0:*:*:*:professional:*:*:*,Altova Xmlspy 2011 Professional 3.0,[''],2022-03-18T15:18Z
+9,cpe:2.3:a:altova:xmlspy_2011:3.1:*:*:*:professional:*:*:*,Altova Xmlspy 2011 Professional 3.1,[''],2022-03-18T15:18Z

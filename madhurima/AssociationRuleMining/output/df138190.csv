@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:h:cisco:voip_phone_cp-7940:-:*:*:*:*:*:*:*,Cisco VoIP Phone CP-7940,[''],2022-03-20T01:04Z
+2,cpe:2.3:h:cisco:voip_phone_cp-7940:3.0:*:*:*:*:*:*:*,Cisco VoIP Phone CP-7940 3.0,"['CVE-2002-0880', 'CVE-2002-0881', 'CVE-2002-0882']",2022-03-20T01:04Z
+3,cpe:2.3:h:cisco:voip_phone_cp-7940:3.1:*:*:*:*:*:*:*,Cisco VoIP Phone CP-7940 3.1,"['CVE-2002-0880', 'CVE-2002-0881', 'CVE-2002-0882']",2022-03-20T01:04Z
+4,cpe:2.3:h:cisco:voip_phone_cp-7940:3.2:*:*:*:*:*:*:*,Cisco VoIP Phone CP-7940 3.2,"['CVE-2002-0880', 'CVE-2002-0881', 'CVE-2002-0882']",2022-03-20T01:04Z
+5,cpe:2.3:h:cisco:voip_phone_cp-7940:8.6:*:*:*:*:*:*:*,Cisco VoIP Phone CP-7940 8.6,[''],2022-03-20T01:04Z
+6,cpe:2.3:h:cisco:voip_phone_cp-7940:8.70:*:*:*:*:*:*:*,Cisco VoIP Phone CP-7940 8.70,[''],2022-03-20T01:04Z
+7,cpe:2.3:h:cisco:voip_phone_cp-7960:-:*:*:*:*:*:*:*,Cisco VoIP Phone CP-7960,[''],2022-03-20T01:04Z
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

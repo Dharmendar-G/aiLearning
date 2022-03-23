@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bestit:amazon_pay:8.2.10:*:*:*:*:shopware:*:*,Bestit Amazon Pay 8.2.10 for Shopware,['CVE-2020-28199'],2022-03-19T06:57Z
+1,cpe:2.3:a:bestit:amazon_pay:9.0.1:*:*:*:*:shopware:*:*,Bestit Amazon Pay 9.0.1 for Shopware,['CVE-2020-28199'],2022-03-19T06:57Z
+2,cpe:2.3:a:bestit:amazon_pay:9.0.2:*:*:*:*:shopware:*:*,Bestit Amazon Pay 9.0.2 for Shopware,['CVE-2020-28199'],2022-03-19T06:57Z
+3,cpe:2.3:a:bestit:amazon_pay:9.0.3:*:*:*:*:shopware:*:*,Bestit Amazon Pay 9.0.3 for Shopware,['CVE-2020-28199'],2022-03-19T06:57Z
+4,cpe:2.3:a:bestit:amazon_pay:9.1.0:*:*:*:*:shopware:*:*,Bestit Amazon Pay 9.1.0 for Shopware,['CVE-2020-28199'],2022-03-19T06:57Z
+5,cpe:2.3:a:bestit:amazon_pay:9.2.0:*:*:*:*:shopware:*:*,Bestit Amazon Pay 9.2.0 for Shopware,['CVE-2020-28199'],2022-03-19T06:57Z
+6,cpe:2.3:a:bestit:amazon_pay:9.3.0:*:*:*:*:shopware:*:*,Bestit Amazon Pay 9.3.0 for Shopware,['CVE-2020-28199'],2022-03-19T06:57Z
+7,cpe:2.3:a:bestit:amazon_pay:9.3.1:*:*:*:*:shopware:*:*,Bestit Amazon Pay 9.3.1 for Shopware,['CVE-2020-28199'],2022-03-19T06:57Z
+8,cpe:2.3:a:bestit:amazon_pay:9.4.0:*:*:*:*:shopware:*:*,Bestit Amazon Pay 9.4.0 for Shopware,['CVE-2020-28199'],2022-03-19T06:57Z
+9,cpe:2.3:a:bestit:amazon_pay:9.4.1:*:*:*:*:shopware:*:*,Bestit Amazon Pay 9.4.1 for Shopware,['CVE-2020-28199'],2022-03-19T06:57Z

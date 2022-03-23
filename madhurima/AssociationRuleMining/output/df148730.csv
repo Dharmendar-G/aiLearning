@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:clusterlabs:pcs:0.9.40:*:*:*:*:*:*:*,ClusterLabs PCS 0.9.40,"['CVE-2016-0720', 'CVE-2016-0721', 'CVE-2017-2661']",2022-03-20T04:10Z
+1,cpe:2.3:a:clusterlabs:pcs:0.9.41:*:*:*:*:*:*:*,ClusterLabs PCS 0.9.41,"['CVE-2016-0720', 'CVE-2016-0721', 'CVE-2017-2661']",2022-03-20T04:10Z
+2,cpe:2.3:a:clusterlabs:pcs:0.9.42:*:*:*:*:*:*:*,ClusterLabs PCS 0.9.42,"['CVE-2016-0720', 'CVE-2016-0721', 'CVE-2017-2661']",2022-03-20T04:10Z
+3,cpe:2.3:a:clusterlabs:pcs:0.9.43:*:*:*:*:*:*:*,ClusterLabs PCS 0.9.43,"['CVE-2016-0720', 'CVE-2016-0721', 'CVE-2017-2661']",2022-03-20T04:10Z
+4,cpe:2.3:a:clusterlabs:pcs:0.9.44:*:*:*:*:*:*:*,ClusterLabs PCS 0.9.44,"['CVE-2016-0720', 'CVE-2016-0721', 'CVE-2017-2661']",2022-03-20T04:10Z
+5,cpe:2.3:a:clusterlabs:pcs:0.9.45:*:*:*:*:*:*:*,ClusterLabs PCS 0.9.45,"['CVE-2016-0720', 'CVE-2016-0721', 'CVE-2017-2661']",2022-03-20T04:10Z
+6,cpe:2.3:a:clusterlabs:pcs:0.9.46:*:*:*:*:*:*:*,ClusterLabs PCS 0.9.46,"['CVE-2016-0720', 'CVE-2016-0721', 'CVE-2017-2661']",2022-03-20T04:10Z
+7,cpe:2.3:a:clusterlabs:pcs:0.9.47:*:*:*:*:*:*:*,ClusterLabs PCS 0.9.47,"['CVE-2016-0720', 'CVE-2016-0721', 'CVE-2017-2661']",2022-03-20T04:10Z
+8,cpe:2.3:a:clusterlabs:pcs:0.9.48:*:*:*:*:*:*:*,ClusterLabs PCS 0.9.48,"['CVE-2016-0720', 'CVE-2016-0721', 'CVE-2017-2661']",2022-03-20T04:10Z
+9,cpe:2.3:a:clusterlabs:pcs:0.9.49:*:*:*:*:*:*:*,ClusterLabs PCS 0.9.49,"['CVE-2016-0720', 'CVE-2016-0721', 'CVE-2017-2661']",2022-03-20T04:10Z

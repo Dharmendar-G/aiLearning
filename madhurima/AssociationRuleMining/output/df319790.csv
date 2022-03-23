@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:cf117a_firmware:-:*:*:*:*:*:*:*,HP CF117A Firmware,"['CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T13:00Z
+1,cpe:2.3:o:hp:cf117a_firmware:2308214_000913:*:*:*:*:*:*:*,HP CF117A Firmware 2308214 000913,"['CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T13:00Z
+2,cpe:2.3:h:hp:cf118a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise CF118A,"['CVE-2016-2244', 'CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T13:00Z
+3,cpe:2.3:o:hp:cf118a_firmware:-:*:*:*:*:*:*:*,HP CF118A Firmware,"['CVE-2017-2743', 'CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T13:00Z
+4,cpe:2.3:o:hp:cf118a_firmware:2308214_000913:*:*:*:*:*:*:*,HP CF118A Firmware 2308214 000913,"['CVE-2017-2750', 'CVE-2018-5921']",2022-03-21T13:00Z
+5,cpe:2.3:h:hp:cf235a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise CF235A,"['CVE-2016-2244', 'CVE-2017-2743', 'CVE-2017-2750']",2022-03-21T13:00Z
+6,cpe:2.3:o:hp:cf235a_firmware:-:*:*:*:*:*:*:*,HP CF235A Firmware,"['CVE-2017-2743', 'CVE-2017-2750']",2022-03-21T13:00Z
+7,cpe:2.3:o:hp:cf235a_firmware:2308214_000922:*:*:*:*:*:*:*,HP CF235A Firmware 2308214 000922,['CVE-2017-2750'],2022-03-21T13:00Z
+8,cpe:2.3:h:hp:cf236a:-:*:*:*:*:*:*:*,HP OfficeJet Enterprise CF236A,"['CVE-2016-2244', 'CVE-2017-2743', 'CVE-2017-2750']",2022-03-21T13:00Z
+9,cpe:2.3:o:hp:cf236a_firmware:-:*:*:*:*:*:*:*,HP CF236A Firmware,"['CVE-2017-2743', 'CVE-2017-2750']",2022-03-21T13:00Z

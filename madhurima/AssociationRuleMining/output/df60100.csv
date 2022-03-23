@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aufs_project:aufs3:3.14:rc3:*:*:*:*:*:*,Aufs Project Aufs3 3.14 Release Candidate 3,[''],2022-03-19T02:38Z
+1,cpe:2.3:a:aufs_project:aufs3:3.14:rc4:*:*:*:*:*:*,Aufs Project Aufs3 3.14 Release Candidate 4,[''],2022-03-19T02:38Z
+2,cpe:2.3:a:aufs_project:aufs3:3.14:rc5:*:*:*:*:*:*,Aufs Project Aufs3 3.14 Release Candidate 5,[''],2022-03-19T02:38Z
+3,cpe:2.3:a:aufs_project:aufs3:3.14:rc6:*:*:*:*:*:*,Aufs Project Aufs3 3.14 Release Candidate 6,[''],2022-03-19T02:38Z
+4,cpe:2.3:a:aufs_project:aufs3:3.14:rc7:*:*:*:*:*:*,Aufs Project Aufs3 3.14 Release Candidate 7,[''],2022-03-19T02:38Z
+5,cpe:2.3:a:aufs_project:aufs3:3.14:rc8:*:*:*:*:*:*,Aufs Project Aufs3 3.14 Release Candidate 8,[''],2022-03-19T02:38Z
+6,cpe:2.3:a:aufs_project:aufs3:3.15:-:*:*:*:*:*:*,Aufs Project Aufs3 3.15,[''],2022-03-19T02:38Z
+7,cpe:2.3:a:aufs_project:aufs3:3.15:rc1:*:*:*:*:*:*,Aufs Project Aufs3 3.15 Release Candidate 1,[''],2022-03-19T02:38Z
+8,cpe:2.3:a:aufs_project:aufs3:3.15:rc2:*:*:*:*:*:*,Aufs Project Aufs3 3.15 Release Candidate 2,[''],2022-03-19T02:38Z
+9,cpe:2.3:a:aufs_project:aufs3:3.15:rc3:*:*:*:*:*:*,Aufs Project Aufs3 3.15 Release Candidate 3,[''],2022-03-19T02:38Z

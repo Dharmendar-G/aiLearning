@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hak5:wi-fi_pineapple_firmware:2.1:*:*:*:*:*:*:*,Hak5 Wi-Fi Pineapple Firmware 2.1,['CVE-2015-4624'],2022-03-21T08:38Z
+1,cpe:2.3:o:hak5:wi-fi_pineapple_firmware:2.2:*:*:*:*:*:*:*,Hak5 Wi-Fi Pineapple Firmware 2.2,['CVE-2015-4624'],2022-03-21T08:38Z
+2,cpe:2.3:o:hak5:wi-fi_pineapple_firmware:2.3:*:*:*:*:*:*:*,Hak5 Wi-Fi Pineapple Firmware 2.3,['CVE-2015-4624'],2022-03-21T08:38Z
+3,cpe:2.3:a:hakatashi:kindlegen:1.0.0:*:*:*:*:node.js:*:*,Hakatashi Kindlegen 1.0.0 for Node.js,['CVE-2016-10575'],2022-03-21T08:38Z
+4,cpe:2.3:a:hakatashi:kindlegen:1.0.1:*:*:*:*:node.js:*:*,Hakatashi Kindlegen 1.0.1 for Node.js,['CVE-2016-10575'],2022-03-21T08:38Z
+5,cpe:2.3:a:hakatashi:kindlegen:1.1.0:*:*:*:*:node.js:*:*,Hakatashi Kindlegen 1.1.0 for Node.js,[''],2022-03-21T08:38Z
+6,cpe:2.3:a:hakobaito:branca:-:*:*:*:*:rust:*:*,Hakobaito Branca for Rust,['CVE-2020-35918'],2022-03-21T08:38Z
+7,cpe:2.3:a:hakobaito:branca:0.1.0:*:*:*:*:rust:*:*,Hakobaito Branca 0.1.0 for Rust,['CVE-2020-35918'],2022-03-21T08:38Z
+8,cpe:2.3:a:hakobaito:branca:0.1.1:*:*:*:*:rust:*:*,Hakobaito Branca 0.1.1 for Rust,['CVE-2020-35918'],2022-03-21T08:38Z
+9,cpe:2.3:a:hakobaito:branca:0.2.0:*:*:*:*:rust:*:*,Hakobaito Branca 0.2.0 for Rust,['CVE-2020-35918'],2022-03-21T08:38Z

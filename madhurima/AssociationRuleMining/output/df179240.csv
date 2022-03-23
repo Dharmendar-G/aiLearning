@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:emc_unisphere:1.1:*:*:*:*:vmax:*:*,Dell EMC Unisphere 1.1 for VMAX,"['CVE-2013-3287', 'CVE-2016-0889', 'CVE-2017-14375']",2022-03-20T12:27Z
+1,cpe:2.3:a:dell:emc_unisphere:1.5:*:*:*:*:vmax:*:*,Dell EMC Unisphere 1.5 for VMAX,"['CVE-2013-3287', 'CVE-2016-0889', 'CVE-2017-14375']",2022-03-20T12:27Z
+2,cpe:2.3:a:dell:emc_unisphere:1.6:*:*:*:*:vmax:*:*,Dell EMC Unisphere 1.6 for VMAX,"['CVE-2013-3287', 'CVE-2016-0889', 'CVE-2017-14375']",2022-03-20T12:27Z
+3,cpe:2.3:a:dell:emc_unisphere:8.0:*:*:*:*:vmax:*:*,Dell EMC Unisphere 8.0 for VMAX,"['CVE-2016-0889', 'CVE-2016-6645', 'CVE-2016-6646', 'CVE-2017-14375']",2022-03-20T12:27Z
+4,cpe:2.3:a:dell:emc_unisphere:8.1:*:*:*:*:vmax:*:*,Dell EMC Unisphere 8.1 for VMAX,"['CVE-2016-0889', 'CVE-2016-6645', 'CVE-2016-6646', 'CVE-2017-14375']",2022-03-20T12:27Z
+5,cpe:2.3:a:dell:emc_unisphere:8.1.2:*:*:*:*:vmax:*:*,Dell EMC Unisphere 8.1.2 for VMAX,"['CVE-2016-6645', 'CVE-2016-6646', 'CVE-2017-14375']",2022-03-20T12:27Z
+6,cpe:2.3:a:dell:emc_unisphere:8.2:*:*:*:*:vmax:*:*,Dell EMC Unisphere 8.2 for VMAX,"['CVE-2016-6645', 'CVE-2016-6646', 'CVE-2017-14375']",2022-03-20T12:27Z
+7,cpe:2.3:a:dell:emc_unisphere:8.4.0.8:*:*:*:*:vmax_virtual_appliance:*:*,Dell EMC Unisphere 8.4.0.8 for VMAX Virtual Appliance,[''],2022-03-20T12:27Z
+8,cpe:2.3:a:dell:emc_unisphere:8.4.0.15:*:*:*:*:vmax:*:*,Dell EMC Unisphere 8.4.0.15 for VMAX,[''],2022-03-20T12:27Z
+9,cpe:2.3:a:dell:emc_unisphere_for_powermax:-:*:*:*:*:*:*:*,Dell EMC Unisphere for PowerMax,"['CVE-2019-18588', 'CVE-2020-5345', 'CVE-2020-5367']",2022-03-20T12:27Z

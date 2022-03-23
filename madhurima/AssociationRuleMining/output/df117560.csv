@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:cbs250-24t-4g:-:*:*:*:*:*:*:*,Cisco CBS250-24T-4G,['CVE-2021-34739'],2022-03-19T19:09Z
+1,cpe:2.3:h:cisco:cbs250-24t-4x:-:*:*:*:*:*:*:*,Cisco CBS250-24T-4X,['CVE-2021-34739'],2022-03-19T19:09Z
+2,cpe:2.3:h:cisco:cbs250-48p-4g:-:*:*:*:*:*:*:*,Cisco CBS250-48P-4G,['CVE-2021-34739'],2022-03-19T19:09Z
+3,cpe:2.3:h:cisco:cbs250-48p-4x:-:*:*:*:*:*:*:*,Cisco CBS250-48P-4X,['CVE-2021-34739'],2022-03-19T19:09Z
+4,cpe:2.3:h:cisco:cbs250-48pp-4g:-:*:*:*:*:*:*:*,Cisco CBS250-48PP-4G,['CVE-2021-34739'],2022-03-19T19:09Z
+5,cpe:2.3:h:cisco:cbs250-48t-4g:-:*:*:*:*:*:*:*,Cisco CBS250-48T-4G,['CVE-2021-34739'],2022-03-19T19:09Z
+6,cpe:2.3:h:cisco:cbs250-48t-4x:-:*:*:*:*:*:*:*,Cisco CBS250-48T-4X,['CVE-2021-34739'],2022-03-19T19:09Z
+7,cpe:2.3:h:cisco:cbs250-8fp-e-2g:-:*:*:*:*:*:*:*,Cisco CBS250-8FP-E-2G,['CVE-2021-34739'],2022-03-19T19:09Z
+8,cpe:2.3:h:cisco:cbs250-8p-e-2g:-:*:*:*:*:*:*:*,Cisco CBS250-8P-E-2G,['CVE-2021-34739'],2022-03-19T19:09Z
+9,cpe:2.3:h:cisco:cbs250-8pp-d:-:*:*:*:*:*:*:*,Cisco CBS250-8PP-D,['CVE-2021-34739'],2022-03-19T19:09Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:active_24_project:active_24:1.0.1:*:*:*:*:android:*:*,Active 24 project Active 24 (aka com.zentity.app.active24) for android 1.0.1,['CVE-2014-6808'],2022-03-18T11:13Z
+1,cpe:2.3:a:activecampaign:activecampaign:1.0:*:*:*:*:wordpress:*:*,ActiveCampaign 1.0 for WordPress,['CVE-2021-24133'],2022-03-18T11:13Z
+2,cpe:2.3:a:activecampaign:activecampaign:1.1:*:*:*:*:wordpress:*:*,ActiveCampaign 1.1 for WordPress,['CVE-2021-24133'],2022-03-18T11:13Z
+3,cpe:2.3:a:activecampaign:activecampaign:2.0:*:*:*:*:wordpress:*:*,ActiveCampaign 2.0 for WordPress,['CVE-2021-24133'],2022-03-18T11:13Z
+4,cpe:2.3:a:activecampaign:activecampaign:2.1:*:*:*:*:wordpress:*:*,ActiveCampaign 2.1 for WordPress,['CVE-2021-24133'],2022-03-18T11:13Z
+5,cpe:2.3:a:activecampaign:activecampaign:3.0:*:*:*:*:wordpress:*:*,ActiveCampaign 3.0 for WordPress,['CVE-2021-24133'],2022-03-18T11:13Z
+6,cpe:2.3:a:activecampaign:activecampaign:3.5:*:*:*:*:wordpress:*:*,ActiveCampaign 3.5 for WordPress,['CVE-2021-24133'],2022-03-18T11:13Z
+7,cpe:2.3:a:activecampaign:activecampaign:4.0:*:*:*:*:wordpress:*:*,ActiveCampaign 4.0 for WordPress,['CVE-2021-24133'],2022-03-18T11:13Z
+8,cpe:2.3:a:activecampaign:activecampaign:4.5:*:*:*:*:wordpress:*:*,ActiveCampaign 4.5 for WordPress,['CVE-2021-24133'],2022-03-18T11:13Z
+9,cpe:2.3:a:activecampaign:activecampaign:5.0:*:*:*:*:wordpress:*:*,ActiveCampaign 5.0 for WordPress,['CVE-2021-24133'],2022-03-18T11:13Z

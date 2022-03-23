@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:a9tech:a9cad:2.2.0:*:*:*:*:*:*:*,A9tech A9cad 2.2.0,[''],2022-03-18T10:23Z
+1,cpe:2.3:a:aacplusenc_project:aacplusenc:0.17.5:*:*:*:*:*:*:*,AAC+ Encoder Project 0.17.5,['CVE-2017-14181'],2022-03-18T10:23Z
+2,cpe:2.3:a:aapanel:aapanel:-:*:*:*:*:*:*:*,aaPanel,"['CVE-2020-14421', 'CVE-2020-14950', 'CVE-2021-37840']",2022-03-18T10:23Z
+3,cpe:2.3:a:aapanel:aapanel:6.0.0:*:*:*:*:*:*:*,aaPanel 6.0.0,"['CVE-2020-14421', 'CVE-2020-14950', 'CVE-2021-37840']",2022-03-18T10:23Z
+4,cpe:2.3:a:aapanel:aapanel:6.0.1:*:*:*:*:*:*:*,aaPanel 6.0.1,"['CVE-2020-14421', 'CVE-2020-14950', 'CVE-2021-37840']",2022-03-18T10:23Z
+5,cpe:2.3:a:aapanel:aapanel:6.0.2:*:*:*:*:*:*:*,aaPanel 6.0.2,"['CVE-2020-14421', 'CVE-2020-14950', 'CVE-2021-37840']",2022-03-18T10:23Z
+6,cpe:2.3:a:aapanel:aapanel:6.0.3:*:*:*:*:*:*:*,aaPanel 6.0.3,"['CVE-2020-14421', 'CVE-2020-14950', 'CVE-2021-37840']",2022-03-18T10:23Z
+7,cpe:2.3:a:aapanel:aapanel:6.0.4:*:*:*:*:*:*:*,aaPanel 6.0.4,"['CVE-2020-14421', 'CVE-2020-14950', 'CVE-2021-37840']",2022-03-18T10:23Z
+8,cpe:2.3:a:aapanel:aapanel:6.0.5:*:*:*:*:*:*:*,aaPanel 6.0.5,"['CVE-2020-14421', 'CVE-2020-14950', 'CVE-2021-37840']",2022-03-18T10:23Z
+9,cpe:2.3:a:aapanel:aapanel:6.1.0:*:*:*:*:*:*:*,aaPanel 6.1.0,"['CVE-2020-14421', 'CVE-2020-14950', 'CVE-2021-37840']",2022-03-18T10:23Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hashicorp:consul:1.0.4:*:*:*:community:*:*:*,HashiCorp Consul 1.0.4 Community Edition,"['CVE-2018-19653', 'CVE-2020-7219']",2022-03-21T09:42Z
+1,cpe:2.3:a:hashicorp:consul:1.0.4:*:*:*:-:*:*:*,HashiCorp Consul 1.0.4,"['CVE-2018-19653', 'CVE-2020-25864', 'CVE-2020-7219', 'CVE-2021-3121', 'CVE-2021-37219', 'CVE-2021-38698']",2022-03-21T09:42Z
+2,cpe:2.3:a:hashicorp:consul:1.0.4:*:*:*:community:*:*:*,HashiCorp Consul 1.0.4 Community Edition,"['CVE-2018-19653', 'CVE-2020-7219']",2022-03-21T09:42Z
+3,cpe:2.3:a:hashicorp:consul:1.0.4:*:*:*:enterprise:*:*:*,HashiCorp Consul 1.0.4 Enterprise Edition,"['CVE-2018-19653', 'CVE-2020-25864', 'CVE-2020-7219', 'CVE-2021-3121', 'CVE-2021-37219', 'CVE-2021-38698']",2022-03-21T09:42Z
+4,cpe:2.3:a:hashicorp:consul:1.0.5:*:*:*:community:*:*:*,HashiCorp Consul 1.0.5 Community Edition,"['CVE-2018-19653', 'CVE-2020-7219']",2022-03-21T09:42Z
+5,cpe:2.3:a:hashicorp:consul:1.0.5:*:*:*:-:*:*:*,HashiCorp Consul 1.0.5,"['CVE-2018-19653', 'CVE-2020-25864', 'CVE-2020-7219', 'CVE-2021-3121', 'CVE-2021-37219', 'CVE-2021-38698']",2022-03-21T09:42Z
+6,cpe:2.3:a:hashicorp:consul:1.0.5:*:*:*:community:*:*:*,HashiCorp Consul 1.0.5 Community Edition,"['CVE-2018-19653', 'CVE-2020-7219']",2022-03-21T09:42Z
+7,cpe:2.3:a:hashicorp:consul:1.0.5:*:*:*:enterprise:*:*:*,HashiCorp Consul 1.0.5 Enterprise Edition,"['CVE-2018-19653', 'CVE-2020-25864', 'CVE-2020-7219', 'CVE-2021-3121', 'CVE-2021-37219', 'CVE-2021-38698']",2022-03-21T09:42Z
+8,cpe:2.3:a:hashicorp:consul:1.0.6:*:*:*:community:*:*:*,HashiCorp Consul 1.0.6 Community Edition,"['CVE-2018-19653', 'CVE-2020-7219']",2022-03-21T09:42Z
+9,cpe:2.3:a:hashicorp:consul:1.0.6:*:*:*:-:*:*:*,HashiCorp Consul 1.0.6,"['CVE-2018-19653', 'CVE-2020-25864', 'CVE-2020-7219', 'CVE-2021-3121', 'CVE-2021-37219', 'CVE-2021-38698']",2022-03-21T09:42Z

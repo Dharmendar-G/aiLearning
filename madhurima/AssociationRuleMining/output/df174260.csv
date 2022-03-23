@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:datalust:seq:4.2.605:*:*:*:*:*:*:*,Datalust Seq 4.2.605,['CVE-2021-41329'],2022-03-20T10:50Z
+1,cpe:2.3:a:datalust:seq:4.2.717:*:*:*:*:*:*:*,Datalust Seq 4.2.717,['CVE-2021-41329'],2022-03-20T10:50Z
+2,cpe:2.3:a:datalust:seq:4.2.822:*:*:*:*:*:*:*,Datalust Seq 4.2.822,['CVE-2021-41329'],2022-03-20T10:50Z
+3,cpe:2.3:a:datalust:seq:4.2.839:*:*:*:*:*:*:*,Datalust Seq 4.2.839,['CVE-2021-41329'],2022-03-20T10:50Z
+4,cpe:2.3:a:datalust:seq:4.2.1113:*:*:*:*:*:*:*,Datalust Seq 4.2.1113,['CVE-2021-41329'],2022-03-20T10:50Z
+5,cpe:2.3:a:datalust:seq:5.0.2287:*:*:*:*:*:*:*,Datalust Seq 5.0.2287,['CVE-2021-41329'],2022-03-20T10:50Z
+6,cpe:2.3:a:datalust:seq:5.0.2296:*:*:*:*:*:*:*,Datalust Seq 5.0.2296,['CVE-2021-41329'],2022-03-20T10:50Z
+7,cpe:2.3:a:datalust:seq:5.0.2313:*:*:*:*:*:*:*,Datalust Seq 5.0.2313,['CVE-2021-41329'],2022-03-20T10:50Z
+8,cpe:2.3:a:datalust:seq:5.0.2360:*:*:*:*:*:*:*,Datalust Seq 5.0.2360,['CVE-2021-41329'],2022-03-20T10:50Z
+9,cpe:2.3:a:datalust:seq:5.0.2375:*:*:*:*:*:*:*,Datalust Seq 5.0.2375,['CVE-2021-41329'],2022-03-20T10:50Z

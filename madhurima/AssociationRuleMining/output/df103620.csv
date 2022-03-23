@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cartflows:funnel_builder:1.6.12:*:*:*:*:wordpress:*:*,CartFlows Funnel Builder 1.6.12 for WordPress,['CVE-2021-24330'],2022-03-19T15:38Z
+1,cpe:2.3:a:cartflows:funnel_builder:1.6.13:*:*:*:*:wordpress:*:*,CartFlows Funnel Builder 1.6.13 for WordPress,[''],2022-03-19T15:38Z
+2,cpe:2.3:a:cartflows:funnel_builder:1.6.14:*:*:*:*:wordpress:*:*,CartFlows Funnel Builder 1.6.14 for WordPress,[''],2022-03-19T15:38Z
+3,cpe:2.3:a:cartoken_project:cartoken:-:*:*:*:*:*:*:*,CarToken Project CarToken,['CVE-2018-13748'],2022-03-19T15:38Z
+4,cpe:2.3:a:cartpauj:mingle-forum:1.0.00:*:*:*:*:*:*:*,cartpauj Mingle Forum (mingle-forum) plugin for Wordpress 1.0.00,"['CVE-2012-5327', 'CVE-2012-5328', 'CVE-2013-0734', 'CVE-2013-0735', 'CVE-2013-0736']",2022-03-19T15:38Z
+5,cpe:2.3:a:cartpauj:mingle-forum:1.0.01:*:*:*:*:*:*:*,cartpauj Mingle Forum (mingle-forum) plugin for Wordpress 1.0.01,"['CVE-2012-5327', 'CVE-2012-5328', 'CVE-2013-0734', 'CVE-2013-0735', 'CVE-2013-0736']",2022-03-19T15:38Z
+6,cpe:2.3:a:cartpauj:mingle-forum:1.0.02:*:*:*:*:*:*:*,cartpauj Mingle Forum (mingle-forum) plugin for Wordpress 1.0.02,"['CVE-2012-5327', 'CVE-2012-5328', 'CVE-2013-0734', 'CVE-2013-0735', 'CVE-2013-0736']",2022-03-19T15:38Z
+7,cpe:2.3:a:cartpauj:mingle-forum:1.0.03:*:*:*:*:*:*:*,cartpauj Mingle Forum (mingle-forum) plugin for Wordpress 1.0.03,"['CVE-2012-5327', 'CVE-2012-5328', 'CVE-2013-0734', 'CVE-2013-0735', 'CVE-2013-0736']",2022-03-19T15:38Z
+8,cpe:2.3:a:cartpauj:mingle-forum:1.0.04:*:*:*:*:*:*:*,cartpauj Mingle Forum (mingle-forum) plugin for Wordpress 1.0.04,"['CVE-2012-5327', 'CVE-2012-5328', 'CVE-2013-0734', 'CVE-2013-0735', 'CVE-2013-0736']",2022-03-19T15:38Z
+9,cpe:2.3:a:cartpauj:mingle-forum:1.0.05:*:*:*:*:*:*:*,cartpauj Mingle Forum (mingle-forum) plugin for Wordpress 1.0.05,"['CVE-2012-5327', 'CVE-2012-5328', 'CVE-2013-0734', 'CVE-2013-0735', 'CVE-2013-0736']",2022-03-19T15:38Z

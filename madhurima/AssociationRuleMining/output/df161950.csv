@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:corel:painter:11.0:*:*:*:*:*:*:*,Corel Painter 11.0,[''],2022-03-20T08:03Z
+1,cpe:2.3:a:corel:painter:11.2:*:*:*:*:*:*:*,Corel Painter 11.2,[''],2022-03-20T08:03Z
+2,cpe:2.3:a:corel:painter:12.0:*:*:*:*:*:*:*,Corel Painter 12.0,[''],2022-03-20T08:03Z
+3,cpe:2.3:a:corel:painter:12.1:*:*:*:*:*:*:*,Corel Painter 12.1,[''],2022-03-20T08:03Z
+4,cpe:2.3:a:corel:painter:2015:*:*:*:*:*:*:*,Corel Painter 2015,"['CVE-2014-8393', 'CVE-2014-8395']",2022-03-20T08:03Z
+5,cpe:2.3:a:corel:painter_ica:11.0:*:*:*:*:*:*:*,Corel Painter Ica 11.0,[''],2022-03-20T08:03Z
+6,cpe:2.3:a:corel:painter_ipm:11.0:*:*:*:*:*:*:*,Corel Painter Ipm 11.0,[''],2022-03-20T08:03Z
+7,cpe:2.3:a:corel:painter_ipm:11.2:*:*:*:*:*:*:*,Corel Painter Ipm 11.2,[''],2022-03-20T08:03Z
+8,cpe:2.3:a:corel:painter_ix:9.50:*:*:*:*:*:*:*,Corel Painter Ix 9.50,[''],2022-03-20T08:03Z
+9,cpe:2.3:a:corel:paintshop_pro_2019:21.0.0.119:*:*:*:*:*:*:*,Corel PaintShop Pro (PSP) 2019 21.0.0.119,['CVE-2019-6114'],2022-03-20T08:03Z

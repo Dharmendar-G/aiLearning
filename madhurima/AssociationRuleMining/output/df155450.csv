@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cognitoys:stemosaur_firmware:0.0.794:*:*:*:*:*:*:*,CogniToys STEMosaur Firmware 0.0.794,"['CVE-2017-8865', 'CVE-2017-8866', 'CVE-2017-8867']",2022-03-20T06:24Z
+1,cpe:2.3:a:cognos:cognos_enterprise_planning_client:1.0.0:*:*:*:*:*:*:*,Cognos Enterprise Planning Client 1.0.0,[''],2022-03-20T06:24Z
+2,cpe:2.3:a:cognos:contributor_client:8.4:*:*:*:*:*:*:*,Cognos Contributor Client 8.4,[''],2022-03-20T06:24Z
+3,cpe:2.3:a:cognos:developer_client:8.3:*:*:*:*:*:*:*,Cognos Developer Client 8.3,[''],2022-03-20T06:24Z
+4,cpe:2.3:a:cognos:financial_statement_reporting:6.6.0:*:*:*:*:*:*:*,Cognos Financial Statement Reporting 6.6.0,[''],2022-03-20T06:24Z
+5,cpe:2.3:a:cognos:financial_statement_reporting_database:6.6.0:*:*:*:*:*:*:*,Cognos Financial Statement Reporting Database 6.6.0,[''],2022-03-20T06:24Z
+6,cpe:2.3:a:cognos:financial_statement_reporting_web_services:6.6.0:*:*:*:*:*:*:*,Cognos Financial Statement Reporting Web Services 6.6.0,[''],2022-03-20T06:24Z
+7,cpe:2.3:a:cognos:go\!_office:1.0.0:*:*:*:*:*:*:*,Cognos Go! Office 1.0.0,[''],2022-03-20T06:24Z
+8,cpe:2.3:a:cognos:go\!_office:8.3.146.0:*:*:*:*:*:*:*,Cognos Go! Office 8.3.146.0,[''],2022-03-20T06:24Z
+9,cpe:2.3:a:cognos:go\!_office:8.4.2155.0:*:*:*:*:*:*:*,Cognos Go! Office 8.4.2155.0,[''],2022-03-20T06:24Z

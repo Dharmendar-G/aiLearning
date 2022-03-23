@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dsl-2888a_firmware:au_2.31_v1.1.47ae55:*:*:*:*:*:*:*,D-Link DSL-2888A Firmware AU 2.31 V1.1.47AE55,[''],2022-03-20T15:55Z
+1,cpe:2.3:h:dlink:dsl-320b-d1:-:*:*:*:*:*:*:*,D-Link DSL-320B-D1,[''],2022-03-20T15:55Z
+2,cpe:2.3:h:dlink:dsl-3782:-:*:*:*:*:*:*:*,D-Link DSL-3782,"['CVE-2018-17989', 'CVE-2018-17990', 'CVE-2021-40284']",2022-03-20T15:55Z
+3,cpe:2.3:o:dlink:dsl-3782_firmware:1.01:*:*:*:*:*:*:*,D-Link DSL-3782 Firmware 1.01,"['CVE-2018-17989', 'CVE-2018-17990']",2022-03-20T15:55Z
+4,cpe:2.3:o:dlink:dsl-3782_firmware:eu_1.01:*:*:*:*:*:*:*,D-Link DSL-3782 Firmware Eu 1.01,['CVE-2021-40284'],2022-03-20T15:55Z
+5,cpe:2.3:o:dlink:dsl-3782_firmware:eu_1.03:*:*:*:*:*:*:*,D-Link DSL-3782 Firmware Eu 1.03,['CVE-2021-40284'],2022-03-20T15:55Z
+6,cpe:2.3:h:dlink:dsl6740u:h1:*:*:*:*:*:*:*,D-Link DSL6740U H1,[''],2022-03-20T15:55Z
+7,cpe:2.3:a:dlink:dsl6740u_firmware:-:*:*:*:*:*:*:*,D-Link DSL6740U Firmware,[''],2022-03-20T15:55Z
+8,cpe:2.3:h:dlink:dsl-7740c:-:*:*:*:*:*:*:*,D-Link DSL-7740C,['CVE-2020-12774'],2022-03-20T15:55Z
+9,cpe:2.3:o:dlink:dsl-7740c_firmware:v6.tr069.20180723:*:*:*:*:*:*:*,D-Link DSL-7740C Firmware V6.TR069.20180723,['CVE-2020-12774'],2022-03-20T15:55Z

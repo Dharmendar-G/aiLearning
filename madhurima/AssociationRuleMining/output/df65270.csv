@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:avm:fritz\!os:7.10:*:*:*:*:*:*:*,AVM FRITZ!OS 7.10,[''],2022-03-19T04:31Z
+1,cpe:2.3:o:avm:fritz\!os:7.11:*:*:*:*:*:*:*,AVM FRITZ!OS 7.11,[''],2022-03-19T04:31Z
+2,cpe:2.3:o:avm:fritz\!os:7.12:*:*:*:*:*:*:*,AVM FRITZ!OS 7.12,[''],2022-03-19T04:31Z
+3,cpe:2.3:o:avm:fritz\!os:7.13:*:*:*:*:*:*:*,AVM FRITZ!OS 7.13,[''],2022-03-19T04:31Z
+4,cpe:2.3:h:avocent:dsr1020:-:*:*:*:*:*:*:*,Avocent Corporation KVM DSR1020,[''],2022-03-19T04:31Z
+5,cpe:2.3:h:avocent:dsr2035:-:*:*:*:*:*:*:*,Avocent DSR2035,[''],2022-03-19T04:31Z
+6,cpe:2.3:a:avocent:dsview:-:*:*:*:*:*:*:*,Avocent Corporation Avocent DS View,[''],2022-03-19T04:32Z
+7,cpe:2.3:a:avocent:dsview:3.1.1.17:*:*:*:*:*:*:*,Avocent Corporation Avocent DS View 3.1.1.17,[''],2022-03-19T04:31Z
+8,cpe:2.3:h:avocent:kvm:-:*:*:*:*:*:*:*,Avocent Corporation KVM,[''],2022-03-19T04:32Z
+9,cpe:2.3:a:avocent:msi_server:1.0.0:*:*:*:*:*:*:*,Avocent Msi Server 1.0.0,[''],2022-03-19T04:32Z

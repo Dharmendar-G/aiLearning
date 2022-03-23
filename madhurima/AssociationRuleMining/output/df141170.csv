@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:civicrm:civicrm:4.3.11:*:*:*:*:*:*:*,CiviCRM 4.3.11,"['CVE-2018-1999022', 'CVE-2020-36388']",2022-03-20T01:44Z
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,cpe:2.3:a:civicrm:civicrm:4.4:alpha3:*:*:*:*:*:*,CiviCRM 4.4 alpha3,"['CVE-2013-5957', 'CVE-2018-1999022', 'CVE-2020-36388']",2022-03-20T01:44Z
+4,cpe:2.3:a:civicrm:civicrm:4.4:beta1:*:*:*:*:*:*,CiviCRM 4.4 beta1,"['CVE-2013-5957', 'CVE-2018-1999022', 'CVE-2020-36388']",2022-03-20T01:44Z
+5,cpe:2.3:a:civicrm:civicrm:4.4:beta2:*:*:*:*:*:*,CiviCRM 4.4 beta2,"['CVE-2013-5957', 'CVE-2018-1999022', 'CVE-2020-36388']",2022-03-20T01:44Z
+6,cpe:2.3:a:civicrm:civicrm:4.4:beta3:*:*:*:*:*:*,CiviCRM 4.4 beta3,"['CVE-2013-5957', 'CVE-2018-1999022', 'CVE-2020-36388']",2022-03-20T01:44Z
+7,cpe:2.3:a:civicrm:civicrm:4.4:beta4:*:*:*:*:*:*,CiviCRM 4.4 beta4,"['CVE-2018-1999022', 'CVE-2020-36388']",2022-03-20T01:44Z
+8,cpe:2.3:a:civicrm:civicrm:4.4.0:*:*:*:*:*:*:*,CiviCRM 4.4.0,"['CVE-2018-1999022', 'CVE-2020-36388']",2022-03-20T01:44Z
+9,cpe:2.3:a:civicrm:civicrm:4.4.0:alpha1:*:*:*:*:*:*,CiviCRM 4.4.0 Alpha 1,"['CVE-2013-5957', 'CVE-2018-1999022', 'CVE-2020-36388']",2022-03-20T01:44Z

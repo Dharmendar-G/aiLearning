@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:laserjet_managed_m605:-:*:*:*:*:*:*:*,HP Laserjet Managed M605 -,['CVE-2019-6318'],2022-03-21T15:10Z
+1,cpe:2.3:h:hp:laserjet_managed_m605_e6b69a:-:*:*:*:*:*:*:*,HP LaserJet Managed M605 E6B69A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:10Z
+2,cpe:2.3:h:hp:laserjet_managed_m605_e6b70a:-:*:*:*:*:*:*:*,HP LaserJet Managed M605 E6B70A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:10Z
+3,cpe:2.3:h:hp:laserjet_managed_m605_e6b71a:-:*:*:*:*:*:*:*,HP LaserJet Managed M605 E6B71A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:10Z
+4,cpe:2.3:o:hp:laserjet_managed_m605_firmware:-:*:*:*:*:*:*:*,HP Laserjet Managed M605 Firmware -,"['CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T15:10Z
+5,cpe:2.3:o:hp:laserjet_managed_m605_firmware:2309010_581410:*:*:*:*:*:*:*,HP Laserjet Managed M605 Firmware 2309010 581410,['CVE-2019-6318'],2022-03-21T15:10Z
+6,cpe:2.3:o:hp:laserjet_managed_m605_firmware:2407081_000593:*:*:*:*:*:*:*,HP Laserjet Managed M605 Firmware 2407081 000593,[''],2022-03-21T15:10Z
+7,cpe:2.3:h:hp:laserjet_managed_m605_l3u53a:-:*:*:*:*:*:*:*,HP LaserJet Managed M605 L3U53A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:10Z
+8,cpe:2.3:h:hp:laserjet_managed_m605_l3u54a:-:*:*:*:*:*:*:*,HP LaserJet Managed M605 L3U54A,"['CVE-2019-18914', 'CVE-2019-6334', 'CVE-2020-28419']",2022-03-21T15:10Z
+9,cpe:2.3:h:hp:laserjet_managed_m651_cz255a:-:*:*:*:*:*:*:*,HP LaserJet Managed M651 CZ255A,"['CVE-2019-18914', 'CVE-2019-6334']",2022-03-21T15:10Z

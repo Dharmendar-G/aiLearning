@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hive:netius:1.12.25:*:*:*:*:*:*:*,Hive Netius 1.12.25,['CVE-2020-7655'],2022-03-21T11:30Z
+1,cpe:2.3:a:hive:netius:1.12.26:*:*:*:*:*:*:*,Hive Netius 1.12.26,['CVE-2020-7655'],2022-03-21T11:30Z
+2,cpe:2.3:a:hive:netius:1.12.27:*:*:*:*:*:*:*,Hive Netius 1.12.27,['CVE-2020-7655'],2022-03-21T11:30Z
+3,cpe:2.3:a:hive:netius:1.12.28:*:*:*:*:*:*:*,Hive Netius 1.12.28,['CVE-2020-7655'],2022-03-21T11:30Z
+4,cpe:2.3:a:hive:netius:1.12.29:*:*:*:*:*:*:*,Hive Netius 1.12.29,['CVE-2020-7655'],2022-03-21T11:30Z
+5,cpe:2.3:a:hive:netius:1.12.30:*:*:*:*:*:*:*,Hive Netius 1.12.30,['CVE-2020-7655'],2022-03-21T11:30Z
+6,cpe:2.3:a:hive:netius:1.12.31:*:*:*:*:*:*:*,Hive Netius 1.12.31,['CVE-2020-7655'],2022-03-21T11:30Z
+7,cpe:2.3:a:hive:netius:1.12.32:*:*:*:*:*:*:*,Hive Netius 1.12.32,['CVE-2020-7655'],2022-03-21T11:30Z
+8,cpe:2.3:a:hive:netius:1.12.33:*:*:*:*:*:*:*,Hive Netius 1.12.33,['CVE-2020-7655'],2022-03-21T11:30Z
+9,cpe:2.3:a:hive:netius:1.12.34:*:*:*:*:*:*:*,Hive Netius 1.12.34,['CVE-2020-7655'],2022-03-21T11:30Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:i18n_project:i18n:1.8.6:*:*:*:*:ruby:*:*,i18n Project i18n 1.8.6 for Ruby,[''],2022-03-21T19:36Z
+1,cpe:2.3:a:i18n_project:i18n:1.8.7:*:*:*:*:ruby:*:*,i18n Project i18n 1.8.7 for Ruby,[''],2022-03-21T19:36Z
+2,cpe:2.3:a:i18n_project:i18n:1.8.8:*:*:*:*:ruby:*:*,i18n Project i18n 1.8.8 for Ruby,[''],2022-03-21T19:36Z
+3,cpe:2.3:a:i18n_project:i18n:1.8.9:*:*:*:*:ruby:*:*,i18n Project i18n 1.8.9 for Ruby,[''],2022-03-21T19:37Z
+4,cpe:2.3:a:i18n_project:i18n:1.8.10:*:*:*:*:ruby:*:*,i18n Project i18n 1.8.10 for Ruby,[''],2022-03-21T19:37Z
+5,cpe:2.3:a:i18n_project:i18n:2.1.1.0:*:*:*:*:asp.net:*:*,i18n Project i18n 2.1.1.0 for ASP.NET,['CVE-2020-7791'],2022-03-21T19:37Z
+6,cpe:2.3:a:i18n_project:i18n:2.1.15:*:*:*:*:asp.net:*:*,i18n Project i18n 2.1.15 for ASP.NET,[''],2022-03-21T19:37Z
+7,[0],[0],[0],[0]
+8,cpe:2.3:a:i18n_project:i18n:2.1.17:*:*:*:*:asp.net:*:*,i18n Project i18n 2.1.17 for ASP.NET,[''],2022-03-21T19:37Z
+9,cpe:2.3:a:i18next:i18next:-:*:*:*:*:node.js:*:*,i18next for Node.js,['CVE-2017-16008'],2022-03-21T19:37Z

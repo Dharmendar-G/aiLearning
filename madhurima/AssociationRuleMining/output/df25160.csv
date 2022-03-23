@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:android-gif-drawable_project:android-gif-drawable:1.0.1:*:*:*:*:*:*:*,android-gif-drawable Project android-gif-drawable 1.0.1,"['CVE-2019-11932', 'CVE-2022-23435']",2022-03-18T16:28Z
+1,cpe:2.3:a:android-gif-drawable_project:android-gif-drawable:1.0.2:*:*:*:*:*:*:*,android-gif-drawable Project android-gif-drawable 1.0.2,"['CVE-2019-11932', 'CVE-2022-23435']",2022-03-18T16:28Z
+2,cpe:2.3:a:android-gif-drawable_project:android-gif-drawable:1.0.3:*:*:*:*:*:*:*,android-gif-drawable Project android-gif-drawable 1.0.3,"['CVE-2019-11932', 'CVE-2022-23435']",2022-03-18T16:28Z
+3,cpe:2.3:a:android-gif-drawable_project:android-gif-drawable:1.0.4:*:*:*:*:*:*:*,android-gif-drawable Project android-gif-drawable 1.0.4,"['CVE-2019-11932', 'CVE-2022-23435']",2022-03-18T16:28Z
+4,cpe:2.3:a:android-gif-drawable_project:android-gif-drawable:1.0.5:*:*:*:*:*:*:*,android-gif-drawable Project android-gif-drawable 1.0.5,"['CVE-2019-11932', 'CVE-2022-23435']",2022-03-18T16:28Z
+5,cpe:2.3:a:android-gif-drawable_project:android-gif-drawable:1.0.6:*:*:*:*:*:*:*,android-gif-drawable Project android-gif-drawable 1.0.6,"['CVE-2019-11932', 'CVE-2022-23435']",2022-03-18T16:28Z
+6,cpe:2.3:a:android-gif-drawable_project:android-gif-drawable:1.0.7:*:*:*:*:*:*:*,android-gif-drawable Project android-gif-drawable 1.0.7,"['CVE-2019-11932', 'CVE-2022-23435']",2022-03-18T16:29Z
+7,cpe:2.3:a:android-gif-drawable_project:android-gif-drawable:1.0.8:*:*:*:*:*:*:*,android-gif-drawable Project android-gif-drawable 1.0.8,"['CVE-2019-11932', 'CVE-2022-23435']",2022-03-18T16:28Z
+8,cpe:2.3:a:android-gif-drawable_project:android-gif-drawable:1.0.9:*:*:*:*:*:*:*,android-gif-drawable Project android-gif-drawable 1.0.9,"['CVE-2019-11932', 'CVE-2022-23435']",2022-03-18T16:29Z
+9,cpe:2.3:a:android-gif-drawable_project:android-gif-drawable:1.0.10:*:*:*:*:*:*:*,android-gif-drawable Project android-gif-drawable 1.0.10,"['CVE-2019-11932', 'CVE-2022-23435']",2022-03-18T16:29Z

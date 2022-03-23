@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitachi:ucosminexus_application_server:06-71-\/h:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 06-71-/H Enterprise,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:22Z
+1,cpe:2.3:a:hitachi:ucosminexus_application_server:06-71-\/h:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 06-71-/H Standard,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:22Z
+2,cpe:2.3:a:hitachi:ucosminexus_application_server:06-72:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 06-72 Enterprise,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+3,cpe:2.3:a:hitachi:ucosminexus_application_server:06-72:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 06-72 Standard,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+4,cpe:2.3:a:hitachi:ucosminexus_application_server:06-72-\/d:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 06-72-/D Enterprise,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+5,cpe:2.3:a:hitachi:ucosminexus_application_server:06-72-\/d:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 06-72-/F Standard,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+6,cpe:2.3:a:hitachi:ucosminexus_application_server:06-72-\/e:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 06-72-/E Enterprise,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:22Z
+7,cpe:2.3:a:hitachi:ucosminexus_application_server:06-72-\/e:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 06-72-/E Standard,"['CVE-2007-1854', 'CVE-2007-4124']",2022-03-21T11:22Z
+8,cpe:2.3:a:hitachi:ucosminexus_application_server:6.7:-:enterprise:*:*:*:*:*,Hitachi uCosminexus Application Server 6.7 Enterprise,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z
+9,cpe:2.3:a:hitachi:ucosminexus_application_server:6.7:-:standard:*:*:*:*:*,Hitachi uCosminexus Application Server 6.7 Standard,"['CVE-2007-1854', 'CVE-2007-4124', 'CVE-2009-4776']",2022-03-21T11:22Z

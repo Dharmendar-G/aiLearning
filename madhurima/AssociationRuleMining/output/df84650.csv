@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bookstackapp:bookstack:21.12.2:*:*:*:*:*:*:*,BookStackApp BookStack 21.12.2,['CVE-2022-0877'],2022-03-19T09:44Z
+1,cpe:2.3:a:bookstackapp:bookstack:21.12.3:*:*:*:*:*:*:*,BookStackApp BookStack 21.12.3,['CVE-2022-0877'],2022-03-19T09:44Z
+2,cpe:2.3:a:bookstackapp:bookstack:21.12.4:*:*:*:*:*:*:*,BookStackApp BookStack 21.12.4,['CVE-2022-0877'],2022-03-19T09:44Z
+3,cpe:2.3:a:bookstackapp:bookstack:21.12.5:*:*:*:*:*:*:*,BookStackApp BookStack 21.12.5,['CVE-2022-0877'],2022-03-19T09:44Z
+4,cpe:2.3:a:bookstackapp:bookstack:22.02:*:*:*:*:*:*:*,BookStackApp BookStack 22.02,['CVE-2022-0877'],2022-03-19T09:44Z
+5,cpe:2.3:a:bookstackapp:bookstack:22.02.1:*:*:*:*:*:*:*,BookStackApp BookStack 22.02.1,['CVE-2022-0877'],2022-03-19T09:44Z
+6,cpe:2.3:a:bookstackapp:bookstack:22.02.2:*:*:*:*:*:*:*,BookStackApp BookStack 22.02.2,['CVE-2022-0877'],2022-03-19T09:44Z
+7,cpe:2.3:a:bookstackapp:bookstack:22.02.3:*:*:*:*:*:*:*,BookStackApp BookStack 22.02.3,[''],2022-03-19T09:44Z
+8,cpe:2.3:a:bookwalker:book_walker:1.2.5:*:*:*:*:*:*:*,BOOK WALKER 1.2.5,"['CVE-2017-10887', 'CVE-2017-10888']",2022-03-19T09:44Z
+9,cpe:2.3:a:bookwalker:book_walker:1.2.9:*:*:*:*:*:*:*,BOOK WALKER 1.2.9,"['CVE-2017-10887', 'CVE-2017-10888']",2022-03-19T09:44Z

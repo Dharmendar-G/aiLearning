@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:alsa-project:alsa:1.0.2:*:*:*:*:*:*:*,Alsa Project ALSA 1.0.2,['CVE-2019-13351'],2022-03-18T15:10Z
+1,cpe:2.3:a:alsa-project:alsa:1.0.2a:*:*:*:*:*:*:*,Alsa Project ALSA 1.0.2a,['CVE-2019-13351'],2022-03-18T15:10Z
+2,cpe:2.3:a:alsa-project:alsa:1.0.2b:*:*:*:*:*:*:*,Alsa Project ALSA 1.0.2b,['CVE-2019-13351'],2022-03-18T15:10Z
+3,cpe:2.3:a:alsa-project:alsa:1.0.2c:*:*:*:*:*:*:*,Alsa Project ALSA 1.0.2c,['CVE-2019-13351'],2022-03-18T15:10Z
+4,cpe:2.3:a:alsa-project:alsa:1.0.3:-:*:*:*:*:*:*,Alsa Project ALSA 1.0.3,['CVE-2019-13351'],2022-03-18T15:10Z
+5,cpe:2.3:a:alsa-project:alsa:1.0.3:rc2:*:*:*:*:*:*,Alsa Project ALSA 1.0.3 Release Candidate 2,['CVE-2019-13351'],2022-03-18T15:10Z
+6,cpe:2.3:a:alsa-project:alsa:1.0.3a:*:*:*:*:*:*:*,Alsa Project ALSA 1.0.3a,['CVE-2019-13351'],2022-03-18T15:10Z
+7,cpe:2.3:a:alsa-project:alsa:1.0.3b:*:*:*:*:*:*:*,Alsa Project ALSA 1.0.3b,['CVE-2019-13351'],2022-03-18T15:11Z
+8,cpe:2.3:a:alsa-project:alsa:1.0.4:-:*:*:*:*:*:*,Alsa Project ALSA 1.0.4,['CVE-2019-13351'],2022-03-18T15:11Z
+9,cpe:2.3:a:alsa-project:alsa:1.0.4:rc1:*:*:*:*:*:*,Alsa Project ALSA 1.0.4 Release Candidate 1,['CVE-2019-13351'],2022-03-18T15:11Z

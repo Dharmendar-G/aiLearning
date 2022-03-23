@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hashicorp:packer:0.2.3:*:*:*:*:*:*:*,HashiCorp Packer 0.2.3,['CVE-2018-15869'],2022-03-21T09:50Z
+1,cpe:2.3:a:hashicorp:packer:0.3.0:*:*:*:*:*:*:*,HashiCorp Packer 0.3.0,['CVE-2018-15869'],2022-03-21T09:50Z
+2,cpe:2.3:a:hashicorp:packer:0.3.1:*:*:*:*:*:*:*,HashiCorp Packer 0.3.1,['CVE-2018-15869'],2022-03-21T09:50Z
+3,cpe:2.3:a:hashicorp:packer:0.3.2:*:*:*:*:*:*:*,HashiCorp Packer 0.3.2,['CVE-2018-15869'],2022-03-21T09:50Z
+4,cpe:2.3:a:hashicorp:packer:0.3.3:*:*:*:*:*:*:*,HashiCorp Packer 0.3.3,['CVE-2018-15869'],2022-03-21T09:50Z
+5,cpe:2.3:a:hashicorp:packer:0.3.4:*:*:*:*:*:*:*,HashiCorp Packer 0.3.4,['CVE-2018-15869'],2022-03-21T09:50Z
+6,cpe:2.3:a:hashicorp:packer:0.3.5:*:*:*:*:*:*:*,HashiCorp Packer 0.3.5,['CVE-2018-15869'],2022-03-21T09:50Z
+7,cpe:2.3:a:hashicorp:packer:0.3.6:*:*:*:*:*:*:*,HashiCorp Packer 0.3.6,['CVE-2018-15869'],2022-03-21T09:50Z
+8,cpe:2.3:a:hashicorp:packer:0.3.7:*:*:*:*:*:*:*,HashiCorp Packer 0.3.7,['CVE-2018-15869'],2022-03-21T09:50Z
+9,cpe:2.3:a:hashicorp:packer:0.3.8:*:*:*:*:*:*:*,HashiCorp Packer 0.3.8,['CVE-2018-15869'],2022-03-21T09:50Z

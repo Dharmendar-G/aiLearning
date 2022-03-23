@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:infosphere_streams:4.1.1:*:*:*:*:*:*:*,IBM InfoSphere Streams 4.1.1,['CVE-2017-1431'],2022-03-21T20:51Z
+1,cpe:2.3:a:ibm:infosphere_streams:4.2:*:*:*:*:*:*:*,IBM InfoSphere Streams 4.2,['CVE-2017-1431'],2022-03-21T20:51Z
+2,cpe:2.3:a:ibm:infosphere_streams:4.2.1:*:*:*:*:*:*:*,IBM InfoSphere Streams 4.2.1,"['CVE-2017-1431', 'CVE-2017-1713']",2022-03-21T20:51Z
+3,cpe:2.3:a:ibm:initiate_master_data_service:9.5:*:*:*:*:*:*:*,IBM Initiate Master Data Service 9.5,"['CVE-2014-4783', 'CVE-2014-4784', 'CVE-2014-4785', 'CVE-2014-4786', 'CVE-2014-4787', 'CVE-2014-4788', 'CVE-2014-4789']",2022-03-21T20:51Z
+4,cpe:2.3:a:ibm:initiate_master_data_service:9.7:*:*:*:*:*:*:*,IBM Initiate Master Data Service 9.7,"['CVE-2014-4783', 'CVE-2014-4784', 'CVE-2014-4785', 'CVE-2014-4786', 'CVE-2014-4787', 'CVE-2014-4788', 'CVE-2014-4789']",2022-03-21T20:51Z
+5,cpe:2.3:a:ibm:initiate_master_data_service:10.0:*:*:*:*:*:*:*,IBM Initiate Master Data Service 10.0,"['CVE-2014-4783', 'CVE-2014-4784', 'CVE-2014-4785', 'CVE-2014-4786', 'CVE-2014-4787', 'CVE-2014-4788', 'CVE-2014-4789']",2022-03-21T20:51Z
+6,cpe:2.3:a:ibm:initiate_master_data_service:10.1:*:*:*:*:*:*:*,IBM Initiate Master Data Service 10.1,"['CVE-2014-4783', 'CVE-2014-4784', 'CVE-2014-4785', 'CVE-2014-4786', 'CVE-2014-4787', 'CVE-2014-4788', 'CVE-2014-4789']",2022-03-21T20:51Z
+7,cpe:2.3:a:ibm:inotes:8.0.1.0:*:*:*:*:*:*:*,IBM iNotes 8.0.1.0,"['CVE-2013-0589', 'CVE-2013-0592', 'CVE-2013-0594', 'CVE-2017-1659']",2022-03-21T20:51Z
+8,cpe:2.3:a:ibm:inotes:8.5.0.0:*:*:*:*:*:*:*,IBM iNotes 8.5.0.0,"['CVE-2013-0589', 'CVE-2013-0592', 'CVE-2013-0594', 'CVE-2016-9990', 'CVE-2017-1129', 'CVE-2017-1130', 'CVE-2017-1214', 'CVE-2017-1325', 'CVE-2017-1327', 'CVE-2017-1332', 'CVE-2017-1659']",2022-03-21T20:51Z
+9,cpe:2.3:a:ibm:inotes:8.5.0.1:*:*:*:*:*:*:*,IBM iNotes 8.5.0.1,"['CVE-2016-9990', 'CVE-2017-1214', 'CVE-2017-1325', 'CVE-2017-1659']",2022-03-21T20:51Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bssys:rbs_bs-client._retail_client:2.4:*:*:*:*:*:*:*,BSS RBS BS-client. Retail Client 2.4,"['CVE-2014-10398', 'CVE-2014-4198']",2022-03-19T12:46Z
+1,cpe:2.3:a:bssys:rbs_bs-client._retail_client:2.5:*:*:*:*:*:*:*,BSS RBS BS-client. Retail Client 2.5,"['CVE-2014-10398', 'CVE-2014-4198']",2022-03-19T12:46Z
+2,cpe:2.3:a:bsuite_project:bsuite:3.0.5:*:*:*:*:wordpress:*:*,bSuite Project bSuite 3.0.5 for WordPress,['CVE-2011-4955'],2022-03-19T12:46Z
+3,cpe:2.3:a:bsuite_project:bsuite:4.0:*:*:*:*:wordpress:*:*,bSuite Project bSuite 4.0 for WordPress,['CVE-2011-4955'],2022-03-19T12:46Z
+4,cpe:2.3:a:bsuite_project:bsuite:4.0:beta1:*:*:*:wordpress:*:*,bSuite Project bSuite 4.0 Beta 1 for WordPress,['CVE-2011-4955'],2022-03-19T12:46Z
+5,cpe:2.3:a:bsuite_project:bsuite:4.0:beta2:*:*:*:wordpress:*:*,bSuite Project bSuite 4.0 Beta 2 for WordPress,['CVE-2011-4955'],2022-03-19T12:46Z
+6,cpe:2.3:a:bsuite_project:bsuite:4.0.1:*:*:*:*:wordpress:*:*,bSuite Project bSuite 4.0.1 for WordPress,['CVE-2011-4955'],2022-03-19T12:46Z
+7,cpe:2.3:a:bsuite_project:bsuite:4.0.3:*:*:*:*:wordpress:*:*,bSuite Project bSuite 4.0.3 for WordPress,['CVE-2011-4955'],2022-03-19T12:46Z
+8,cpe:2.3:a:bsuite_project:bsuite:4.0.5:*:*:*:*:wordpress:*:*,bSuite Project bSuite 4.0.5 for WordPress,['CVE-2011-4955'],2022-03-19T12:46Z
+9,cpe:2.3:a:bsuite_project:bsuite:4.0.6:*:*:*:*:wordpress:*:*,bSuite Project bSuite 4.0.6 for WordPress,['CVE-2011-4955'],2022-03-19T12:46Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:inspiron_15_7572_firmware:1.2.1:*:*:*:*:*:*:*,Dell Inspiron 15 7572 Firmware 1.2.1,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:35Z
+1,cpe:2.3:o:dell:inspiron_15_7572_firmware:1.5.2:*:*:*:*:*:*:*,Dell Inspiron 15 7572 Firmware 1.5.2,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:35Z
+2,cpe:2.3:h:dell:inspiron_15_7573:-:*:*:*:*:*:*:*,Dell Inspiron 15 7573 ,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:35Z
+3,cpe:2.3:h:dell:inspiron_15_7577:-:*:*:*:*:*:*:*,Dell Inspiron 15 7577 ,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:35Z
+4,cpe:2.3:h:dell:inspiron_15_7579:-:*:*:*:*:*:*:*,Dell Inspiron 15 7579,['CVE-2020-5388'],2022-03-20T12:35Z
+5,cpe:2.3:o:dell:inspiron_15_7579_firmware:1.31.0:*:*:*:*:*:*:*,Dell Inspiron 15 7579 Firmware 1.31.0,[''],2022-03-20T12:35Z
+6,cpe:2.3:h:dell:inspiron_15_gaming_7566:-:*:*:*:*:*:*:*,Dell Inspiron 15 Gaming 7566,"['CVE-2020-5326', 'CVE-2020-5362']",2022-03-20T12:35Z
+7,cpe:2.3:o:dell:inspiron_15_gaming_7566_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 15 Gaming 7566 Firmware,"['CVE-2020-5326', 'CVE-2020-5362']",2022-03-20T12:35Z
+8,cpe:2.3:o:dell:inspiron_15_gaming_7566_firmware:1.5.0:*:*:*:*:*:*:*,Dell Inspiron 15 Gaming 7566 Firmware 1.5.0,['CVE-2020-5362'],2022-03-20T12:35Z
+9,cpe:2.3:o:dell:inspiron_15_gaming_7566_firmware:1.7.0:*:*:*:*:*:*:*,Dell Inspiron 15 Gaming 7566 Firmware 1.7.0,[''],2022-03-20T12:35Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:groovy:2.3.0:beta_2:*:*:*:*:*:*,Apache Software Foundation Groovy 2.3.0 Beta 2,"['CVE-2015-3253', 'CVE-2016-6814', 'CVE-2020-17521']",2022-03-18T18:29Z
+1,cpe:2.3:a:apache:groovy:2.3.0:rc1:*:*:*:*:*:*,Apache Software Foundation Groovy 2.3.0 Release Candidate 1,"['CVE-2015-3253', 'CVE-2016-6814', 'CVE-2020-17521']",2022-03-18T18:29Z
+2,cpe:2.3:a:apache:groovy:2.3.0:rc2:*:*:*:*:*:*,Apache Software Foundation Groovy 2.3.0 Release Candidate 2,"['CVE-2015-3253', 'CVE-2016-6814', 'CVE-2020-17521']",2022-03-18T18:29Z
+3,cpe:2.3:a:apache:groovy:2.3.0:rc3:*:*:*:*:*:*,Apache Software Foundation Groovy 2.3.0 Release Candidate 3,"['CVE-2015-3253', 'CVE-2016-6814', 'CVE-2020-17521']",2022-03-18T18:29Z
+4,cpe:2.3:a:apache:groovy:2.3.1:*:*:*:*:*:*:*,Apache Software Foundation Groovy 2.3.1,"['CVE-2015-3253', 'CVE-2016-6814', 'CVE-2020-17521']",2022-03-18T18:29Z
+5,cpe:2.3:a:apache:groovy:2.3.2:*:*:*:*:*:*:*,Apache Software Foundation Groovy 2.3.2,"['CVE-2015-3253', 'CVE-2016-6814', 'CVE-2020-17521']",2022-03-18T18:29Z
+6,cpe:2.3:a:apache:groovy:2.3.3:*:*:*:*:*:*:*,Apache Software Foundation Groovy 2.3.3,"['CVE-2015-3253', 'CVE-2016-6814', 'CVE-2020-17521']",2022-03-18T18:29Z
+7,cpe:2.3:a:apache:groovy:2.3.4:*:*:*:*:*:*:*,Apache Software Foundation Groovy 2.3.4,"['CVE-2015-3253', 'CVE-2016-6814', 'CVE-2020-17521']",2022-03-18T18:29Z
+8,cpe:2.3:a:apache:groovy:2.3.5:*:*:*:*:*:*:*,Apache Software Foundation Groovy 2.3.5,"['CVE-2015-3253', 'CVE-2016-6814', 'CVE-2020-17521']",2022-03-18T18:29Z
+9,cpe:2.3:a:apache:groovy:2.3.6:*:*:*:*:*:*:*,Apache Software Foundation Groovy 2.3.6,"['CVE-2015-3253', 'CVE-2016-6814', 'CVE-2020-17521']",2022-03-18T18:29Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:caddy_project:caddy:8.15.0:*:*:*:*:typo3:*:*,Caddy Project Caddy 8.15.0 TYPO3,[''],2022-03-19T14:33Z
+1,cpe:2.3:a:caddy_project:caddy:8.16.1:*:*:*:*:typo3:*:*,Caddy Project Caddy 8.16.1 TYPO3,[''],2022-03-19T14:33Z
+2,cpe:2.3:a:caddy_project:caddy:8.16.2:*:*:*:*:typo3:*:*,Caddy Project Caddy 8.16.2 TYPO3,[''],2022-03-19T14:33Z
+3,cpe:2.3:a:caddy_project:caddy:8.17.0:*:*:*:*:typo3:*:*,Caddy Project Caddy 8.17.0 TYPO3,[''],2022-03-19T14:33Z
+4,cpe:2.3:a:caddy_project:caddy:8.17.4:*:*:*:*:typo3:*:*,Caddy Project Caddy 8.17.4 TYPO3,[''],2022-03-19T14:33Z
+5,cpe:2.3:a:caddy_project:caddy:8.17.5:*:*:*:*:typo3:*:*,Caddy Project Caddy 8.17.5 TYPO3,[''],2022-03-19T14:33Z
+6,cpe:2.3:a:caddyserver:caddy:0.5.0:*:*:*:*:*:*:*,Caddyserver Caddy 0.5.0,"['CVE-2018-19148', 'CVE-2018-21246']",2022-03-19T14:33Z
+7,cpe:2.3:a:caddyserver:caddy:0.5.1:*:*:*:*:*:*:*,Caddyserver Caddy 0.5.1,"['CVE-2018-19148', 'CVE-2018-21246']",2022-03-19T14:33Z
+8,cpe:2.3:a:caddyserver:caddy:0.6.0:*:*:*:*:*:*:*,Caddyserver Caddy 0.6.0,"['CVE-2018-19148', 'CVE-2018-21246']",2022-03-19T14:33Z
+9,cpe:2.3:a:caddyserver:caddy:0.7.0:*:*:*:*:*:*:*,Caddyserver Caddy 0.7.0,"['CVE-2018-19148', 'CVE-2018-21246']",2022-03-19T14:33Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:care_pack_core:1.0.0.0:*:*:*:*:*:*:*,HP Care Pack Core 1.0.0.0,[''],2022-03-21T12:58Z
+1,cpe:2.3:a:hp:care_pack_core:10.0.0.1:*:*:*:*:*:*:*,HP Care Pack Core 10.0.0.1,[''],2022-03-21T12:58Z
+2,cpe:2.3:a:hp:care_pack_products:1.0.0.0:*:*:*:*:*:*:*,HP Care Pack Products 1.0.0.0,[''],2022-03-21T12:58Z
+3,cpe:2.3:a:hp:care_pack_products:1.0.0.1:*:*:*:*:*:*:*,HP Care Pack Products 1.0.0.1,[''],2022-03-21T12:58Z
+4,cpe:2.3:a:hp:care_pack_products:2.0.0.1:*:*:*:*:*:*:*,HP Care Pack Products 2.0.0.1,[''],2022-03-21T12:58Z
+5,cpe:2.3:h:hp:carrier_grade_server_cc2300:-:*:*:*:*:*:*:*,HP Carrier Grade Server cc2300,[''],2022-03-21T12:58Z
+6,cpe:2.3:h:hp:carrier_grade_server_cc2300:a6898a:*:*:*:*:*:*:*,HP Carrier Grade Server cc2300 A6898A,['CVE-2004-2600'],2022-03-21T12:58Z
+7,cpe:2.3:h:hp:carrier_grade_server_cc2300:a6899a:*:*:*:*:*:*:*,HP Carrier Grade Server cc2300 A6899A,['CVE-2004-2600'],2022-03-21T12:58Z
+8,cpe:2.3:h:hp:carrier_grade_server_cc3300:-:*:*:*:*:*:*:*,HP Carrier Grade Server cc3300,[''],2022-03-21T12:58Z
+9,cpe:2.3:h:hp:carrier_grade_server_cc3300:a6900a:*:*:*:*:*:*:*,HP Carrier Grade Server cc3300 A6900A,['CVE-2004-2600'],2022-03-21T12:58Z

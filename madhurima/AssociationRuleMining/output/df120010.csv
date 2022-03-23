@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:headend_system_release:3.7:*:*:*:*:*:*:*,Cisco Headend System Release 3.7,"['CVE-2015-0743', 'CVE-2015-0744', 'CVE-2015-0745', 'CVE-2015-0747']",2022-03-19T19:56Z
+1,cpe:2.3:o:cisco:headend_system_release:i4.3:*:*:*:*:*:*:*,Cisco Headend System Release i4.3,"['CVE-2015-0743', 'CVE-2015-0744', 'CVE-2015-0745', 'CVE-2015-0747']",2022-03-19T19:56Z
+2,cpe:2.3:a:cisco:hosted_collaboration_mediation_fulfillment:-:*:*:*:*:*:*:*,Cisco Hosted Collaboration Mediation Fulfillment,"['CVE-2020-3124', 'CVE-2020-3256', 'CVE-2021-1478']",2022-03-19T19:56Z
+3,cpe:2.3:a:cisco:hosted_collaboration_mediation_fulfillment:10.0\(1\):*:*:*:*:*:*:*,Cisco Hosted Collaboration Mediation Fulfillment 10.0(1),"['CVE-2020-3124', 'CVE-2020-3256', 'CVE-2021-1478']",2022-03-19T19:56Z
+4,cpe:2.3:a:cisco:hosted_collaboration_mediation_fulfillment:10.1\(1\):*:*:*:*:*:*:*,Cisco Hosted Collaboration Mediation Fulfillment 10.1(1),"['CVE-2020-3124', 'CVE-2020-3256', 'CVE-2021-1478']",2022-03-19T19:56Z
+5,cpe:2.3:a:cisco:hosted_collaboration_mediation_fulfillment:10.1\(2\):*:*:*:*:*:*:*,Cisco Hosted Collaboration Mediation Fulfillment 10.1(2),"['CVE-2020-3124', 'CVE-2020-3256', 'CVE-2021-1478']",2022-03-19T19:56Z
+6,cpe:2.3:a:cisco:hosted_collaboration_mediation_fulfillment:10.6\(1\):*:*:*:*:*:*:*,Cisco Hosted Collaboration Mediation Fulfillment 10.6(1),"['CVE-2020-3124', 'CVE-2020-3256', 'CVE-2021-1478']",2022-03-19T19:56Z
+7,cpe:2.3:a:cisco:hosted_collaboration_mediation_fulfillment:10.6\(1\).0:*:*:*:*:*:*:*,Cisco Hosted Collaboration Mediation Fulfillment 10.6(1).0,"['CVE-2016-6454', 'CVE-2020-3124', 'CVE-2020-3256', 'CVE-2021-1478']",2022-03-19T19:56Z
+8,cpe:2.3:a:cisco:hosted_collaboration_mediation_fulfillment:10.6\(1\)_base:*:*:*:*:*:*:*,Cisco Hosted Collaboration Mediation Fulfillment 10.6(1) Base,"['CVE-2016-6370', 'CVE-2016-6371', 'CVE-2020-3124', 'CVE-2020-3256', 'CVE-2021-1478']",2022-03-19T19:56Z
+9,cpe:2.3:a:cisco:hosted_collaboration_mediation_fulfillment:10.6\(2\).0:*:*:*:*:*:*:*,Cisco Hosted Collaboration Mediation Fulfillment 10.6(2).0,"['CVE-2016-6454', 'CVE-2020-3124', 'CVE-2020-3256', 'CVE-2021-1478']",2022-03-19T19:56Z

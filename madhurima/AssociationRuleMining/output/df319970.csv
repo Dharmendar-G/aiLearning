@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m682z_firmware:-:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise Flow Mfp M682z Firmware -,['CVE-2018-5923'],2022-03-21T13:02Z
+1,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m682z_firmware:2406087_000017:*:*:*:*:*:*:*,Hp Color Laserjet Enterprise Flow Mfp M682z Firmware 2406087 000017,[''],2022-03-21T13:02Z
+2,cpe:2.3:h:hp:color_laserjet_enterprise_flow_mfp_m880z_a2w75a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise Flow MFP M880Z A2W75A,['CVE-2020-28419'],2022-03-21T13:02Z
+3,cpe:2.3:h:hp:color_laserjet_enterprise_flow_mfp_m880z_a2w76a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise Flow MFP M880Z A2W76A,['CVE-2020-28419'],2022-03-21T13:02Z
+4,cpe:2.3:h:hp:color_laserjet_enterprise_flow_mfp_m880z_d7p70a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise Flow MFP M880Z D7P70A,['CVE-2020-28419'],2022-03-21T13:02Z
+5,cpe:2.3:h:hp:color_laserjet_enterprise_flow_mfp_m880z_d7p71a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise Flow MFP M880Z D7P71A,['CVE-2020-28419'],2022-03-21T13:02Z
+6,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m880z_firmware:-:*:*:*:*:*:*:*,HP Color Laserjet Enterprise Flow Mfp M880z Firmware -,"['CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T13:02Z
+7,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m880z_firmware:2309010_581433:*:*:*:*:*:*:*,HP Color Laserjet Enterprise Flow Mfp M880z Firmware 2309010 581433,['CVE-2019-6318'],2022-03-21T13:02Z
+8,cpe:2.3:o:hp:color_laserjet_enterprise_flow_mfp_m880z_firmware:2407081_000599:*:*:*:*:*:*:*,HP Color Laserjet Enterprise Flow Mfp M880z Firmware 2407081 000599,[''],2022-03-21T13:02Z
+9,cpe:2.3:h:hp:color_laserjet_enterprise_flow_mfp_m880z_l3u51a:-:*:*:*:*:*:*:*,HP Color LaserJet Enterprise Flow MFP M880Z L3U51A,['CVE-2020-28419'],2022-03-21T13:02Z

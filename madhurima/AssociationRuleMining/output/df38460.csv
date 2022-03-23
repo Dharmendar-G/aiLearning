@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:wss4j:1.6.3:*:*:*:*:*:*:*,Apache Software Foundation WSS4J 1.6.3,"['CVE-2011-2487', 'CVE-2014-3623', 'CVE-2015-0226', 'CVE-2015-0227']",2022-03-18T20:55Z
+1,cpe:2.3:a:apache:wss4j:1.6.4:*:*:*:*:*:*:*,Apache Software Foundation WSS4J 1.6.4,"['CVE-2011-2487', 'CVE-2014-3623', 'CVE-2015-0226', 'CVE-2015-0227']",2022-03-18T20:55Z
+2,cpe:2.3:a:apache:wss4j:1.6.5:*:*:*:*:*:*:*,Apache Software Foundation WSS4J 1.6.5,"['CVE-2014-3623', 'CVE-2015-0226', 'CVE-2015-0227']",2022-03-18T20:55Z
+3,cpe:2.3:a:apache:wss4j:1.6.6:*:*:*:*:*:*:*,Apache Software Foundation WSS4J 1.6.6,"['CVE-2014-3623', 'CVE-2015-0226', 'CVE-2015-0227']",2022-03-18T20:55Z
+4,cpe:2.3:a:apache:wss4j:1.6.7:*:*:*:*:*:*:*,Apache Software Foundation WSS4J 1.6.7,"['CVE-2014-3623', 'CVE-2015-0226', 'CVE-2015-0227']",2022-03-18T20:55Z
+5,cpe:2.3:a:apache:wss4j:1.6.8:*:*:*:*:*:*:*,Apache Software Foundation WSS4J 1.6.8,"['CVE-2014-3623', 'CVE-2015-0226', 'CVE-2015-0227']",2022-03-18T20:55Z
+6,cpe:2.3:a:apache:wss4j:1.6.9:*:*:*:*:*:*:*,Apache Software Foundation WSS4J 1.6.9,"['CVE-2014-3623', 'CVE-2015-0226', 'CVE-2015-0227']",2022-03-18T20:55Z
+7,cpe:2.3:a:apache:wss4j:1.6.10:*:*:*:*:*:*:*,Apache Software Foundation Web Services Security for Java 1.6.10,"['CVE-2014-3623', 'CVE-2015-0226', 'CVE-2015-0227']",2022-03-18T20:55Z
+8,cpe:2.3:a:apache:wss4j:1.6.11:*:*:*:*:*:*:*,Apache Software Foundation Web Services Security for Java 1.6.11,"['CVE-2014-3623', 'CVE-2015-0226', 'CVE-2015-0227']",2022-03-18T20:55Z
+9,cpe:2.3:a:apache:wss4j:1.6.12:*:*:*:*:*:*:*,Apache Software Foundation Web Services Security for Java 1.6.12,"['CVE-2014-3623', 'CVE-2015-0226', 'CVE-2015-0227']",2022-03-18T20:55Z

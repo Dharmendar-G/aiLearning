@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:digium:asterisk:c.1.0:beta6:*:*:business:*:*:*,Digium Asterisk C.1.0 Beta6 Business Edition,['CVE-2011-0495'],2022-03-20T14:38Z
+1,cpe:2.3:a:digium:asterisk:c.1.0:beta7:business:*:*:*:*:*,Digium Asterisk Business Edition C.1.0-beta7,"['CVE-2010-0685', 'CVE-2011-1147', 'CVE-2011-1507', 'CVE-2011-1599']",2022-03-20T14:38Z
+2,cpe:2.3:a:digium:asterisk:c.1.0:beta8:business:*:*:*:*:*,Digium Asterisk Business Edition C.1.0-beta8,"['CVE-2010-0685', 'CVE-2011-1147', 'CVE-2011-1507', 'CVE-2011-1599']",2022-03-20T14:38Z
+3,cpe:2.3:a:digium:asterisk:c.1.0_beta5:*:*:*:*:*:*:*,Digium Asterisk C.1.0_beta5,[''],2022-03-20T14:38Z
+4,cpe:2.3:a:digium:asterisk:c.1.6:-:business:*:*:*:*:*,Digium Asterisk Business Edition C.1.6,"['CVE-2010-0685', 'CVE-2011-1147', 'CVE-2011-1507', 'CVE-2011-1599']",2022-03-20T14:38Z
+5,cpe:2.3:a:digium:asterisk:c.1.6.1:-:business:*:*:*:*:*,Digium Asterisk Business Edition C.1.6.1,"['CVE-2010-0685', 'CVE-2011-1147', 'CVE-2011-1507', 'CVE-2011-1599']",2022-03-20T14:38Z
+6,cpe:2.3:a:digium:asterisk:c.1.6.2:-:business:*:*:*:*:*,Digium Asterisk Business Edition C.1.6.2,"['CVE-2010-0685', 'CVE-2011-1147', 'CVE-2011-1507', 'CVE-2011-1599']",2022-03-20T14:38Z
+7,cpe:2.3:a:digium:asterisk:c.1.8.0:-:business:*:*:*:*:*,Digium Asterisk Business Edition C.1.8.0,"['CVE-2010-0685', 'CVE-2011-1147', 'CVE-2011-1507', 'CVE-2011-1599']",2022-03-20T14:38Z
+8,cpe:2.3:a:digium:asterisk:c.1.8.1:-:business:*:*:*:*:*,Digium Asterisk Business Edition C.1.8.1,"['CVE-2010-0685', 'CVE-2011-1147', 'CVE-2011-1507', 'CVE-2011-1599']",2022-03-20T14:38Z
+9,cpe:2.3:a:digium:asterisk:c.2.3:-:business:*:*:*:*:*,Digium Asterisk Business Edition C.2.3,"['CVE-2009-0871', 'CVE-2009-3727', 'CVE-2009-4055', 'CVE-2010-0685', 'CVE-2011-1147', 'CVE-2011-1507', 'CVE-2011-1599']",2022-03-20T14:38Z

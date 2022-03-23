@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:synergy_composer_2:5.2:*:*:*:*:*:*:*,HP Synergy Composer 2 5.2,['CVE-2020-7198'],2022-03-21T16:08Z
+1,cpe:2.3:a:hp:synergy_composer_2:5.3:*:*:*:*:*:*:*,HP Synergy Composer 2 5.3,['CVE-2020-7198'],2022-03-21T16:08Z
+2,cpe:2.3:a:hp:synergy_composer_2:5.4:*:*:*:*:*:*:*,HP Synergy Composer 2 5.4,['CVE-2020-7198'],2022-03-21T16:08Z
+3,cpe:2.3:a:hp:synergy_composer_2:5.20.01:*:*:*:*:*:*:*,HP Synergy Composer 2 5.20.01,['CVE-2020-7198'],2022-03-21T16:08Z
+4,cpe:2.3:o:hp:synergy_firmware:5.00.50:*:*:*:*:*:*:*,HP Synergy Firmware 5.00.50,['CVE-2018-7120'],2022-03-21T16:08Z
+5,cpe:2.3:a:hp:synergy_planning_tool:3.2:*:*:*:*:*:*:*,HP Synergy Planning Tool 3.2,['CVE-2016-4377'],2022-03-21T16:08Z
+6,cpe:2.3:a:hp:system_event_utility:-:*:*:*:*:*:*:*,HP System Event Utility,['CVE-2019-18915'],2022-03-21T16:08Z
+7,cpe:2.3:a:hp:system_event_utility:1.4.32:*:*:*:*:*:*:*,HP System Event Utility 1.4.32,['CVE-2019-18915'],2022-03-21T16:08Z
+8,cpe:2.3:a:hp:system_event_utility:1.4.33:*:*:*:*:*:*:*,HP System Event Utility 1.4.33,[''],2022-03-21T16:08Z
+9,cpe:2.3:a:hp:system_health_application_and_command_line_utilities:8.1.0-104.rhel5:*:*:*:*:*:*:*,HP System Health Application and Command Line Utilities 8.1.0-104.rhel5,['CVE-2012-2000'],2022-03-21T16:08Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:broadcom:api_gateway:8.3:*:*:*:*:*:*:*,Broadcom API Gateway 8.3,['CVE-2016-3118'],2022-03-19T12:12Z
+1,cpe:2.3:a:broadcom:api_gateway:8.4:*:*:*:*:*:*:*,Broadcom API Gateway 8.4,['CVE-2016-3118'],2022-03-19T12:12Z
+2,cpe:2.3:a:broadcom:application_configuration_manager_agent:12.0.1.0:*:*:*:*:*:*:*,Broadcom Application Configuration Manager Agent 12.0.1.0,[''],2022-03-19T12:12Z
+3,cpe:2.3:a:broadcom:application_configuration_manager_agent:12.0.19.0:*:*:*:*:*:*:*,Broadcom Application Configuration Manager Agent 12.0.19.0,[''],2022-03-19T12:12Z
+4,cpe:2.3:a:broadcom:application_configuration_manager_agent:12.0.19.110:*:*:*:*:*:*:*,Broadcom Application Configuration Manager Agent 12.0.19.110,[''],2022-03-19T12:12Z
+5,cpe:2.3:a:broadcom:arcserve_backup:-:*:*:*:*:*:*:*,Broadcom ARCserve Backup,"['CVE-1999-1049', 'CVE-1999-1322']",2022-03-19T12:12Z
+6,cpe:2.3:a:broadcom:arcserve_backup:6.5:*:*:*:*:*:*:*,Broadcom ARCserve Backup 6.5,"['CVE-1999-1049', 'CVE-1999-1322']",2022-03-19T12:12Z
+7,cpe:2.3:a:broadcom:arcserve_backup:6.61:*:*:*:*:*:*:*,Broadcom ARCserve Backup 6.61,"['CVE-1999-1322', 'CVE-2001-1346']",2022-03-19T12:12Z
+8,cpe:2.3:a:broadcom:arcserve_backup:6.61:sp2a:*:*:*:*:*:*,Broadcom ARCserve Backup 6.61 Sp2a,"['CVE-1999-1322', 'CVE-2001-0959', 'CVE-2001-0960', 'CVE-2001-1346']",2022-03-19T12:12Z
+9,cpe:2.3:a:broadcom:arcserve_backup:r12.0:*:*:*:*:*:*:*,Broadcom ARCserve Backup R12.0,"['CVE-1999-1322', 'CVE-2008-4397', 'CVE-2008-4398', 'CVE-2008-4399', 'CVE-2008-4400', 'CVE-2008-5415']",2022-03-19T12:12Z

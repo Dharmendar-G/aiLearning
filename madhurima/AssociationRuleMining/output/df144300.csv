@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloud_foundry:cf-networking:2.7.0:*:*:*:*:*:*:*,Cloud Foundry CF Networking 2.7.0,[''],2022-03-20T02:45Z
+1,cpe:2.3:a:cloud_foundry:cf-networking:2.8.0:*:*:*:*:*:*:*,Cloud Foundry CF Networking 2.8.0,[''],2022-03-20T02:45Z
+2,cpe:2.3:a:cloud_foundry:cf-networking:2.9.0:*:*:*:*:*:*:*,Cloud Foundry CF Networking 2.9.0,[''],2022-03-20T02:45Z
+3,cpe:2.3:a:cloud_foundry:cf-networking:2.10.0:*:*:*:*:*:*:*,Cloud Foundry CF Networking 2.10.0,[''],2022-03-20T02:45Z
+4,cpe:2.3:a:cloud_foundry:cf-networking:2.11.0:*:*:*:*:*:*:*,Cloud Foundry CF Networking 2.11.0,['CVE-2018-15755'],2022-03-20T02:45Z
+5,cpe:2.3:a:cloud_foundry:cf-networking:2.12.0:*:*:*:*:*:*:*,Cloud Foundry CF Networking 2.12.0,['CVE-2018-15755'],2022-03-20T02:45Z
+6,cpe:2.3:a:cloud_foundry:cf-networking:2.13.0:*:*:*:*:*:*:*,Cloud Foundry CF Networking 2.13.0,['CVE-2018-15755'],2022-03-20T02:45Z
+7,cpe:2.3:a:cloud_foundry:cf-networking:2.14.0:*:*:*:*:*:*:*,Cloud Foundry CF Networking 2.14.0,['CVE-2018-15755'],2022-03-20T02:45Z
+8,cpe:2.3:a:cloud_foundry:cf-networking:2.15.0:*:*:*:*:*:*:*,Cloud Foundry CF Networking 2.15.0,['CVE-2018-15755'],2022-03-20T02:45Z
+9,cpe:2.3:a:cloud_foundry:cf-networking:2.15.1:*:*:*:*:*:*:*,Cloud Foundry CF Networking 2.15.1,['CVE-2018-15755'],2022-03-20T02:45Z

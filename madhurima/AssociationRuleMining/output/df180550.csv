@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:latitude_7410:-:*:*:*:*:*:*:*,Dell Latitude 7410,"['CVE-2020-5362', 'CVE-2021-21522', 'CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36283', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:52Z
+1,cpe:2.3:h:dell:latitude_7414:-:*:*:*:*:*:*:*,Dell Latitude 7414,"['CVE-2019-3717', 'CVE-2020-5326']",2022-03-20T12:52Z
+2,cpe:2.3:o:dell:latitude_7414_firmware:-:*:*:*:*:*:*:*,Dell Latitude 7414 Firmware,"['CVE-2019-3717', 'CVE-2020-5326']",2022-03-20T12:52Z
+3,cpe:2.3:o:dell:latitude_7414_firmware:1.23.0:*:*:*:*:*:*:*,Dell Latitude 7414 Firmware 1.23.0,['CVE-2020-5326'],2022-03-20T12:52Z
+4,cpe:2.3:o:dell:latitude_7414_firmware:1.24.0:*:*:*:*:*:*:*,Dell Latitude 7414 Firmware 1.24.0,[''],2022-03-20T12:52Z
+5,cpe:2.3:h:dell:latitude_7414_rugged_extreme:-:*:*:*:*:*:*:*,Dell Latitude 7414 Rugged Extreme,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:52Z
+6,cpe:2.3:o:dell:latitude_7414_rugged_extreme_firmware:-:*:*:*:*:*:*:*,Dell Latitude 7414 Rugged Extreme Firmware,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:52Z
+7,cpe:2.3:h:dell:latitude_7420:-:*:*:*:*:*:*:*,Dell Latitude 7420,"['CVE-2021-21522', 'CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36284', 'CVE-2021-36285', 'CVE-2021-36342', 'CVE-2021-36343', 'CVE-2022-22566', 'CVE-2022-22567']",2022-03-20T12:52Z
+8,cpe:2.3:o:dell:latitude_7424_firmware:1.8.5:*:*:*:*:*:*:*,Dell Latitude 7424 Rugged Extreme Firmware 1.8.5,[''],2022-03-20T12:52Z
+9,cpe:2.3:h:dell:latitude_7424_rugged_extreme:-:*:*:*:*:*:*:*,Dell Latitude 7424 Rugged Extreme,"['CVE-2019-3717', 'CVE-2020-5324', 'CVE-2020-5326', 'CVE-2020-5362']",2022-03-20T12:52Z

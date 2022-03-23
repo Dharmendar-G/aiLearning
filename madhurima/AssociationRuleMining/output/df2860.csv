@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,cpe:2.3:a:6kbbs:6kbbs:7.1:*:*:*:*:*:*:*,6kbbs 7.1,['CVE-2015-9292'],2022-03-18T10:10Z
+2,cpe:2.3:a:6kbbs:6kbbs:8.0:*:*:*:*:*:*:*,6kbbs 8.0,"['CVE-2010-4811', 'CVE-2010-4812', 'CVE-2015-9292']",2022-03-18T10:10Z
+3,cpe:2.3:a:7_habits_personal_development_project:7_habits_personal_development:1:*:*:*:*:android:*:*,7 Habits Personal Development project 7 Habits Personal Development (aka appinventor.ai_ingka_d_jiw.TheCompleteGuideToApplyingThe7HabitsInHolisticPersonalDevelopment) for android 1.0,['CVE-2014-7766'],2022-03-18T10:10Z
+4,cpe:2.3:a:711cms:711cms:1.0.7:*:*:*:*:*:*:*,711cms 1.0.7,['CVE-2020-18460'],2022-03-18T10:11Z
+5,cpe:2.3:a:74cms:74cms:3.2.0:*:*:*:*:*:*:*,74CMS 3.2.0,"['CVE-2020-22208', 'CVE-2020-22209', 'CVE-2020-22210', 'CVE-2020-22211', 'CVE-2020-22212', 'CVE-2020-29279']",2022-03-18T10:11Z
+6,cpe:2.3:a:74cms:74cms:4.2.54:*:*:*:*:*:*:*,74cms 4.2.54,['CVE-2020-29279'],2022-03-18T10:11Z
+7,cpe:2.3:a:74cms:74cms:4.2.88:*:*:*:*:*:*:*,74cms 4.2.88,['CVE-2020-29279'],2022-03-18T10:11Z
+8,cpe:2.3:a:74cms:74cms:4.2.111:*:*:*:*:*:*:*,74CMS 4.2.111,"['CVE-2018-20454', 'CVE-2018-20519', 'CVE-2020-29279']",2022-03-18T10:11Z
+9,cpe:2.3:a:74cms:74cms:5.0.1:*:*:*:*:*:*:*,74cms 5.0.1,"['CVE-2019-10684', 'CVE-2019-11374', 'CVE-2020-29279', 'CVE-2020-35339']",2022-03-18T10:11Z

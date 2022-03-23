@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:acymailing:acymailing:-:*:*:*:*:wordpress:*:*,AcyMailing for Wordpress,['CVE-2021-24288'],2022-03-18T11:39Z
+1,cpe:2.3:a:acymailing:acymailing:6.8.3:*:*:*:*:wordpress:*:*,AcyMailing 6.8.3 for Wordpress,['CVE-2021-24288'],2022-03-18T11:39Z
+2,cpe:2.3:a:acymailing:acymailing:6.9.0:*:*:*:*:wordpress:*:*,AcyMailing 6.9.0 for Wordpress,['CVE-2021-24288'],2022-03-18T11:39Z
+3,cpe:2.3:a:acymailing:acymailing:6.9.1:*:*:*:*:wordpress:*:*,AcyMailing 6.9.1 for Wordpress,['CVE-2021-24288'],2022-03-18T11:39Z
+4,cpe:2.3:a:acymailing:acymailing:6.9.2:*:*:*:*:wordpress:*:*,AcyMailing 6.9.2 for Wordpress,['CVE-2021-24288'],2022-03-18T11:39Z
+5,cpe:2.3:a:acymailing:acymailing:6.10.0:*:*:*:*:wordpress:*:*,AcyMailing 6.10.0 for Wordpress,['CVE-2021-24288'],2022-03-18T11:39Z
+6,cpe:2.3:a:acymailing:acymailing:6.10.1:*:*:*:*:wordpress:*:*,AcyMailing 6.10.1 for Wordpress,['CVE-2021-24288'],2022-03-18T11:39Z
+7,cpe:2.3:a:acymailing:acymailing:6.10.2:*:*:*:*:wordpress:*:*,AcyMailing 6.10.2 for Wordpress,['CVE-2021-24288'],2022-03-18T11:39Z
+8,cpe:2.3:a:acymailing:acymailing:6.10.4:*:*:*:*:wordpress:*:*,AcyMailing 6.10.4 for Wordpress,['CVE-2021-24288'],2022-03-18T11:39Z
+9,cpe:2.3:a:acymailing:acymailing:6.11.0:*:*:*:*:wordpress:*:*,AcyMailing 6.11.0 for Wordpress,['CVE-2021-24288'],2022-03-18T11:39Z

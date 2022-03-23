@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:buffalotech:whr-g_firmware:1.47:*:*:*:*:*:*:*,BUFFALO WHR-G Firmware 1.47,[''],2022-03-19T13:21Z
+1,cpe:2.3:a:buffalotech:whr-g_firmware:1.49:*:*:*:*:*:*:*,バッファロー WHR-G ファームウェア 1.49,[''],2022-03-19T13:21Z
+2,cpe:2.3:h:buffalotech:whr-g54s:-:*:*:*:*:*:*:*,BUFFALO WHR-G54S,['CVE-2011-1324'],2022-03-19T13:21Z
+3,cpe:2.3:a:buffalotech:whr-g54s_firmware:-:*:*:*:*:*:*:*,バッファロー WHR-G54S ファームウェア,[''],2022-03-19T13:21Z
+4,cpe:2.3:a:buffalotech:whr-g54s_firmware:1.20:*:*:*:*:*:*:*,BUFFALO WHR-G54S Firmware 1.20,['CVE-2011-1324'],2022-03-19T13:21Z
+5,cpe:2.3:a:buffalotech:whr-g54s_firmware:1.21:*:*:*:*:*:*:*,BUFFALO WHR-G54S Firmware 1.21,['CVE-2011-1324'],2022-03-19T13:21Z
+6,cpe:2.3:a:buffalotech:whr-g54s_firmware:1.23:*:*:*:*:*:*:*,BUFFALO WHR-G54S Firmware 1.23,['CVE-2011-1324'],2022-03-19T13:21Z
+7,cpe:2.3:a:buffalotech:whr-g54s_firmware:1.38:*:*:*:*:*:*:*,BUFFALO WHR-G54S Firmware 1.38,['CVE-2011-1324'],2022-03-19T13:21Z
+8,cpe:2.3:a:buffalotech:whr-g54s_firmware:1.40:*:*:*:*:*:*:*,BUFFALO WHR-G54S Firmware 1.40,['CVE-2011-1324'],2022-03-19T13:21Z
+9,cpe:2.3:a:buffalotech:whr-g54s_firmware:1.42:*:*:*:*:*:*:*,BUFFALO WHR-G54S Firmware 1.42,['CVE-2011-1324'],2022-03-19T13:21Z

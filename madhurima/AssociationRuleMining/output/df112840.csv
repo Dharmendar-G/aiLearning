@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ciphercoin:contact_form_7_database_addon_-_cfdb7:1.2.6.2:*:*:*:*:wordpress:*:*,CipherCoin Contact Form 7 Database Addon - CFDB7 1.2.6.2 WordPress,[''],2022-03-19T17:42Z
+1,cpe:2.3:a:ciphercoin:wp_limit_login_attempts:1.0:*:*:*:*:wordpress:*:*,CipherCoin WP Limit Login Attempts 1.0 for WordPress,['CVE-2015-6829'],2022-03-19T17:42Z
+2,cpe:2.3:a:ciphercoin:wp_limit_login_attempts:2.0:*:*:*:*:wordpress:*:*,CipherCoin WP Limit Login Attempts 2.0 for WordPress,['CVE-2015-6829'],2022-03-19T17:43Z
+3,cpe:2.3:a:ciphercoin:wp_limit_login_attempts:2.3.1:*:*:*:*:wordpress:*:*,CipherCoin WP Limit Login Attempts 2.3.1 for WordPress,[''],2022-03-19T17:43Z
+4,cpe:2.3:a:ciphercoin:wp_limit_login_attempts:2.3.2:*:*:*:*:wordpress:*:*,CipherCoin WP Limit Login Attempts 2.3.2 for WordPress,[''],2022-03-19T17:43Z
+5,cpe:2.3:a:ciphercoin:wp_limit_login_attempts:2.3.3:*:*:*:*:wordpress:*:*,CipherCoin WP Limit Login Attempts 2.3.3 for WordPress,[''],2022-03-19T17:43Z
+6,cpe:2.3:a:ciphercoin:wp_limit_login_attempts:2.4:*:*:*:*:wordpress:*:*,CipherCoin WP Limit Login Attempts 2.4 for WordPress,[''],2022-03-19T17:43Z
+7,cpe:2.3:a:ciphercoin:wp_limit_login_attempts:2.4.1:*:*:*:*:wordpress:*:*,CipherCoin WP Limit Login Attempts 2.4.1 for WordPress,[''],2022-03-19T17:43Z
+8,cpe:2.3:a:ciphercoin:wp_limit_login_attempts:2.6:*:*:*:*:wordpress:*:*,CipherCoin WP Limit Login Attempts 2.6 for WordPress,[''],2022-03-19T17:43Z
+9,cpe:2.3:a:ciphercoin:wp_limit_login_attempts:2.6.1:*:*:*:*:wordpress:*:*,CipherCoin WP Limit Login Attempts 2.6.1 for WordPress,[''],2022-03-19T17:43Z

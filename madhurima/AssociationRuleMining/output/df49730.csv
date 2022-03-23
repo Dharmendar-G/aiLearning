@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aspose:aspose.words:18.11.0.0:*:*:*:*:*:*:*,Aspose.Words 18.11.0.0,['CVE-2019-5041'],2022-03-18T23:47Z
+1,cpe:2.3:a:aspsource:simple_asc_content_management_system:1.1:*:*:*:*:*:*:*,ASP Source Simple ASC Content Management System 1.1,[''],2022-03-18T23:47Z
+2,cpe:2.3:a:aspsource:simple_asc_content_management_system:1.2:*:*:*:*:*:*:*,ASP Source Simple ASC Content Management System 1.2,['CVE-2017-15947'],2022-03-18T23:47Z
+3,cpe:2.3:a:asrock:a-tuning:3.0.210:*:*:*:*:*:*:*,ASRock A-Tuning 3.0.210,[''],2022-03-18T23:47Z
+4,cpe:2.3:a:asrock:f-stream:3.0.210:*:*:*:*:*:*:*,ASRock F-Stream 3.0.210,[''],2022-03-18T23:47Z
+5,cpe:2.3:a:asrock:restart_to_uefi:1.0.6.2:*:*:*:*:*:*:*,ASRock Restart To UEFI 1.0.6.2,[''],2022-03-18T23:47Z
+6,cpe:2.3:h:asrock:rgb_driver:-:*:*:*:*:*:*:*,ASRock RGB Driver,['CVE-2020-15368'],2022-03-18T23:47Z
+7,cpe:2.3:o:asrock:rgb_driver_firmware:-:*:*:*:*:*:*:*,ASRock RGB Driver Firmware,['CVE-2020-15368'],2022-03-18T23:47Z
+8,cpe:2.3:a:asrock:rgbled:1.0.31.1:*:*:*:*:*:*:*,ASRock RGBLED 1.0.31.1,"['CVE-2018-10709', 'CVE-2018-10710', 'CVE-2018-10711', 'CVE-2018-10712']",2022-03-18T23:47Z
+9,cpe:2.3:a:asrock:rgbled:1.0.35.1:*:*:*:*:*:*:*,ASRock RGBLED 1.0.35.1,[''],2022-03-18T23:47Z

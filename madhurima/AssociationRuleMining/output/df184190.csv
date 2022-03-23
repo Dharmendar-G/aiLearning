@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:diffplug:eclipse-cdt:9.4.4:*:*:*:*:spotless:*:*,DiffPlug eclipse-cdt 9.4.4 for Spotless,[''],2022-03-20T14:02Z
+1,cpe:2.3:a:diffplug:eclipse-cdt:9.4.5:*:*:*:*:spotless:*:*,DiffPlug eclipse-cdt 9.4.5 for Spotless,[''],2022-03-20T14:02Z
+2,cpe:2.3:a:diffplug:eclipse-cdt:9.7.0:*:*:*:*:spotless:*:*,DiffPlug eclipse-cdt 9.7.0 for Spotless,[''],2022-03-20T14:02Z
+3,cpe:2.3:a:diffplug:eclipse-cdt:9.8.0:*:*:*:*:spotless:*:*,DiffPlug eclipse-cdt 9.8.0 for Spotless,[''],2022-03-20T14:02Z
+4,cpe:2.3:a:diffplug:eclipse-groovy:-:*:*:*:*:spotless:*:*,DiffPlug eclipse-groovy for Spotless,['CVE-2019-10753'],2022-03-20T14:02Z
+5,cpe:2.3:a:diffplug:eclipse-groovy:2.9.2:*:*:*:*:spotless:*:*,DiffPlug eclipse-groovy 2.9.2 for Spotless,['CVE-2019-10753'],2022-03-20T14:02Z
+6,cpe:2.3:a:diffplug:eclipse-groovy:3.0.0:*:*:*:*:spotless:*:*,DiffPlug eclipse-groovy 3.0.0 for Spotless,['CVE-2019-10753'],2022-03-20T14:02Z
+7,cpe:2.3:a:diffplug:eclipse-groovy:3.0.1:*:*:*:*:spotless:*:*,DiffPlug eclipse-groovy 3.0.1 for Spotless,[''],2022-03-20T14:02Z
+8,cpe:2.3:a:diffplug:eclipse-groovy:3.2.0:*:*:*:*:spotless:*:*,DiffPlug eclipse-groovy 3.2.0 for Spotless,[''],2022-03-20T14:02Z
+9,cpe:2.3:a:diffplug:eclipse-groovy:3.4.0:*:*:*:*:spotless:*:*,DiffPlug eclipse-groovy 3.4.0 for Spotless,[''],2022-03-20T14:02Z

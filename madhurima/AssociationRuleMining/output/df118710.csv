@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:expressway:x8.6.1:*:*:*:*:*:*:*,Cisco Expressway X8.6.1,"['CVE-2017-12287', 'CVE-2017-3790', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34715', 'CVE-2021-34716']",2022-03-19T19:31Z
+1,cpe:2.3:a:cisco:expressway:x8.7.0:*:*:*:*:*:*:*,Cisco Expressway X8.7.0,"['CVE-2017-12287', 'CVE-2017-3790', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34715', 'CVE-2021-34716']",2022-03-19T19:31Z
+2,cpe:2.3:a:cisco:expressway:x8.7.1:*:*:*:*:*:*:*,Cisco Expressway X8.7.1,"['CVE-2017-12287', 'CVE-2017-3790', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34715', 'CVE-2021-34716']",2022-03-19T19:31Z
+3,cpe:2.3:a:cisco:expressway:x8.7.2:*:*:*:*:*:*:*,Cisco Expressway Software X8.7.2,"['CVE-2016-9207', 'CVE-2017-12287', 'CVE-2017-3790', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34715', 'CVE-2021-34716']",2022-03-19T19:31Z
+4,cpe:2.3:a:cisco:expressway:x8.7.3:*:*:*:*:*:*:*,Cisco Expressway X8.7.3,"['CVE-2017-12287', 'CVE-2017-3790', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34715', 'CVE-2021-34716']",2022-03-19T19:31Z
+5,cpe:2.3:a:cisco:expressway:x8.8.0:*:*:*:*:*:*:*,Cisco Expressway X8.8.0,"['CVE-2017-12287', 'CVE-2017-3790', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34715', 'CVE-2021-34716']",2022-03-19T19:31Z
+6,cpe:2.3:a:cisco:expressway:x8.8.1:*:*:*:*:*:*:*,Cisco Expressway X8.8.1,"['CVE-2017-12287', 'CVE-2017-3790', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34716']",2022-03-19T19:31Z
+7,cpe:2.3:a:cisco:expressway:x8.8.2:*:*:*:*:*:*:*,Cisco Expressway X8.8.2,"['CVE-2017-12287', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34716']",2022-03-19T19:31Z
+8,cpe:2.3:a:cisco:expressway:x8.8.3:*:*:*:*:*:*:*,Cisco Expressway Software X8.8.3,"['CVE-2016-9207', 'CVE-2017-12287', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34716']",2022-03-19T19:31Z
+9,cpe:2.3:a:cisco:expressway:x8.9:*:*:*:*:*:*:*,Cisco Expressway X8.9,"['CVE-2017-12287', 'CVE-2020-3482', 'CVE-2020-3596', 'CVE-2021-34716']",2022-03-19T19:31Z

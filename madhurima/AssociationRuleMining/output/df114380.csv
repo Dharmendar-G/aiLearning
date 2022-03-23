@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.12.3.738:*:*:*:*:mac_os:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 1.12.3.738 for Mac OS,"['CVE-2020-3343', 'CVE-2020-3344', 'CVE-2020-3350']",2022-03-19T18:13Z
+1,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.12.4:*:*:*:*:linux:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 1.12.4 for Linux,[''],2022-03-19T18:13Z
+2,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.12.4:*:*:*:*:mac_os:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 1.12.4 for Mac OS,[''],2022-03-19T18:13Z
+3,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.12.5:*:*:*:*:linux:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 1.12.5 for Linux,[''],2022-03-19T18:13Z
+4,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:3.1.0:*:*:*:*:*:*:*,Cisco Advanced Malware Protection (AMP) For Endpoints 3.1.0,['CVE-2017-12312'],2022-03-19T18:13Z
+5,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:6.2\(3\):*:*:*:*:*:*:*,Cisco Advanced Malware Protection For Endpoints 6.2(3),['CVE-2019-1932'],2022-03-19T18:13Z
+6,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:6.3.1:*:*:*:*:windows:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 6.3.1 for Windows,"['CVE-2021-1280', 'CVE-2021-1386']",2022-03-19T18:13Z
+7,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:6.3.3:*:*:*:*:windows:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 6.3.3 for Windows,"['CVE-2021-1280', 'CVE-2021-1386']",2022-03-19T18:13Z
+8,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:6.3.5:*:*:*:*:windows:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 6.3.5 for Windows,"['CVE-2021-1280', 'CVE-2021-1386']",2022-03-19T18:13Z
+9,cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:6.3.7:*:*:*:*:windows:*:*,Cisco Advanced Malware Protection (AMP) for Endpoints 6.3.7 for Windows,"['CVE-2021-1280', 'CVE-2021-1386']",2022-03-19T18:13Z

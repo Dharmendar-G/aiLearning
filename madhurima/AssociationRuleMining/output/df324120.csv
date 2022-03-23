@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:laserjet_enterprise_600_m602_firmware:2309010_581425:*:*:*:*:*:*:*,HP Laserjet Enterprise 600 M602 Firmware 2309010 581425,[''],2022-03-21T15:00Z
+1,cpe:2.3:h:hp:laserjet_enterprise_600_m603:-:*:*:*:*:*:*:*,HP Laserjet Enterprise 600 M603,['CVE-2019-6318'],2022-03-21T15:00Z
+2,cpe:2.3:h:hp:laserjet_enterprise_600_m603_ce991a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 600 M603 CE991A,['CVE-2019-6334'],2022-03-21T15:00Z
+3,cpe:2.3:h:hp:laserjet_enterprise_600_m603_ce992a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 600 M603 CE992A,['CVE-2019-6334'],2022-03-21T15:00Z
+4,cpe:2.3:h:hp:laserjet_enterprise_600_m603_ce993a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 600 M603 CE993A,['CVE-2019-6334'],2022-03-21T15:00Z
+5,cpe:2.3:h:hp:laserjet_enterprise_600_m603_ce994a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 600 M603 CE994A,"['CVE-2019-18914', 'CVE-2020-28419']",2022-03-21T15:00Z
+6,cpe:2.3:h:hp:laserjet_enterprise_600_m603_ce995a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 600 M603 CE995A,"['CVE-2019-18914', 'CVE-2020-28419']",2022-03-21T15:00Z
+7,cpe:2.3:h:hp:laserjet_enterprise_600_m603_ce996a:-:*:*:*:*:*:*:*,HP LaserJet Enterprise 600 M603 CE996A,"['CVE-2019-18914', 'CVE-2020-28419']",2022-03-21T15:00Z
+8,cpe:2.3:o:hp:laserjet_enterprise_600_m603_firmware:-:*:*:*:*:*:*:*,HP Laserjet Enterprise 600 M603 Firmware -,['CVE-2019-6318'],2022-03-21T15:00Z
+9,cpe:2.3:o:hp:laserjet_enterprise_600_m603_firmware:2309010_581425:*:*:*:*:*:*:*,HP Laserjet Enterprise 600 M603 Firmware 2309010 581425,[''],2022-03-21T15:00Z

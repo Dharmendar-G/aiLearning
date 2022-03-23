@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:ncs2k-mr-mxp-k9_firmware:11.1:*:*:*:*:*:*:*,Cisco NCS2K-MR-MXP-K9 Firewall 11.1,[''],2022-03-19T23:00Z
+1,cpe:2.3:h:cisco:ncs5001:-:*:*:*:*:*:*:*,Cisco NCS5001 -,['CVE-2020-3284'],2022-03-19T23:00Z
+2,cpe:2.3:o:cisco:ncs5001_firmware:1.13:*:*:*:*:*:*:*,Cisco NCS5001 FIRMWARE 1.13,[''],2022-03-19T23:01Z
+3,cpe:2.3:h:cisco:ncs5002:-:*:*:*:*:*:*:*,Cisco NCS5002 -,['CVE-2020-3284'],2022-03-19T23:01Z
+4,cpe:2.3:o:cisco:ncs5002_firmware:1.13:*:*:*:*:*:*:*,Cisco NCS5002 FIRMWARE 1.13,[''],2022-03-19T23:01Z
+5,cpe:2.3:h:cisco:ncs5011:-:*:*:*:*:*:*:*,Cisco NCS5011 -,['CVE-2020-3284'],2022-03-19T23:01Z
+6,cpe:2.3:o:cisco:ncs5011_firmware:1.14:*:*:*:*:*:*:*,Cisco NCS5011 FIRMWARE 1.14,[''],2022-03-19T23:01Z
+7,cpe:2.3:h:cisco:ncs-5501:-:*:*:*:*:*:*:*,Cisco NCS-5501,"['CVE-2019-1649', 'CVE-2020-3284']",2022-03-19T23:01Z
+8,cpe:2.3:o:cisco:ncs-5501_firmware:6.6.25:*:*:*:*:*:*:*,Cisco NCS-5501 FIRMWARE 6.6.25,[''],2022-03-19T23:01Z
+9,cpe:2.3:h:cisco:ncs-5501-se:-:*:*:*:*:*:*:*,Cisco NCS-5501-SE,"['CVE-2019-1649', 'CVE-2020-3284']",2022-03-19T23:01Z

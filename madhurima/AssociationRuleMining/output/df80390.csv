@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blogotext_project:blogotext:3.4.8:*:*:*:*:*:*:*,BlogoText Project BlogoText 3.4.8,"['CVE-2017-14957', 'CVE-2017-17792', 'CVE-2017-17793', 'CVE-2017-17794']",2022-03-19T08:43Z
+1,cpe:2.3:a:blogotext_project:blogotext:3.7.0:*:*:*:*:*:*:*,BlogoText Project BlogoText 3.7.0,"['CVE-2017-14957', 'CVE-2017-17792', 'CVE-2017-17793', 'CVE-2017-17794']",2022-03-19T08:43Z
+2,cpe:2.3:a:blogotext_project:blogotext:3.7.1:*:*:*:*:*:*:*,BlogoText Project BlogoText 3.7.1,"['CVE-2017-14957', 'CVE-2017-17792', 'CVE-2017-17793', 'CVE-2017-17794']",2022-03-19T08:43Z
+3,cpe:2.3:a:blogotext_project:blogotext:3.7.2:*:*:*:*:*:*:*,BlogoText Project BlogoText 3.7.2,"['CVE-2017-14957', 'CVE-2017-17792', 'CVE-2017-17793', 'CVE-2017-17794']",2022-03-19T08:43Z
+4,cpe:2.3:a:blogotext_project:blogotext:3.7.3:*:*:*:*:*:*:*,BlogoText Project BlogoText 3.7.3,"['CVE-2017-14957', 'CVE-2017-17792', 'CVE-2017-17793', 'CVE-2017-17794']",2022-03-19T08:43Z
+5,cpe:2.3:a:blogotext_project:blogotext:3.7.4:*:*:*:*:*:*:*,BlogoText Project BlogoText 3.7.4,"['CVE-2017-14957', 'CVE-2017-17792', 'CVE-2017-17793', 'CVE-2017-17794']",2022-03-19T08:43Z
+6,cpe:2.3:a:blogotext_project:blogotext:3.7.5:*:*:*:*:*:*:*,BlogoText Project BlogoText 3.7.5,"['CVE-2017-14957', 'CVE-2017-17792', 'CVE-2017-17793', 'CVE-2017-17794']",2022-03-19T08:43Z
+7,cpe:2.3:a:blogotext_project:blogotext:3.7.6:*:*:*:*:*:*:*,BlogoText Project BlogoText 3.7.6,"['CVE-2017-17792', 'CVE-2017-17793', 'CVE-2017-17794']",2022-03-19T08:43Z
+8,cpe:2.3:a:blogstand_banner_plugin_project:blogstand-smart-banner:1.0:*:*:*:*:wordpress:*:*,Blogstand Banner (blogstand-smart-banner) plugin WordPress 1.0,['CVE-2014-4848'],2022-03-19T08:43Z
+9,cpe:2.3:a:bloodhound_project:bloodhound:1.0.0:*:*:*:*:*:*:*,BloodHound Project BloodHound 1.0.0,['CVE-2021-3210'],2022-03-19T08:43Z

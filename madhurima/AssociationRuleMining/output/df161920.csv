@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:corel:coreldraw_fontnav:x4:*:*:*:*:*:*:*,Corel Coreldraw Fontnav X4,[''],2022-03-20T08:03Z
+1,cpe:2.3:a:corel:coreldraw_ica:x4:*:*:*:*:*:*:*,Corel Coreldraw Ica X4,[''],2022-03-20T08:03Z
+2,cpe:2.3:a:corel:coreldraw_ipm:x4:*:*:*:*:*:*:*,Corel Coreldraw Ipm X4,[''],2022-03-20T08:03Z
+3,cpe:2.3:a:corel:coreldraw_lang_br:x4:*:*:*:*:*:*:*,Corel Coreldraw Lang Br X4,[''],2022-03-20T08:03Z
+4,cpe:2.3:a:corel:coreldraw_lang_en:x4:*:*:*:*:*:*:*,Corel Coreldraw Lang En X4,[''],2022-03-20T08:03Z
+5,cpe:2.3:a:corel:coreldraw_lang_es:x4:*:*:*:*:*:*:*,Corel Coreldraw Lang Es X4,[''],2022-03-20T08:03Z
+6,cpe:2.3:a:corel:coreldraw_lang_fr:x4:*:*:*:*:*:*:*,Corel Coreldraw Lang Fr X4,[''],2022-03-20T08:03Z
+7,cpe:2.3:a:corel:coreldraw_photo_paint:x4:*:*:*:*:*:*:*,Corel Coreldraw Photo Paint X4,[''],2022-03-20T08:03Z
+8,cpe:2.3:a:corel:coreldraw_photo_paint:x7:*:*:*:*:*:*:*,CorelDRAW Photo Paint X7,['CVE-2014-8393'],2022-03-20T08:03Z
+9,cpe:2.3:a:corel:coreldraw_photo_paint_x8:18.1.0.66:*:*:*:*:*:*:*,Corel CorelDRAW Photo Paint X8 18.1.0.66,[''],2022-03-20T08:03Z

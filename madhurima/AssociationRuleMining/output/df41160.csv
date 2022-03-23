@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,cpe:2.3:a:app_maker_ks:buy_books:0.1:*:*:*:*:android:*:*,App Maker KS Buy Books (aka com.wBooksForSale) application for Android 0.1,['CVE-2014-5734'],2022-03-18T21:45Z
+5,cpe:2.3:a:app_project:app:-:*:*:*:*:*:*:*,APP Project APP,['CVE-2018-13661'],2022-03-18T21:45Z
+6,cpe:2.3:a:app2pro:airdisk_pro:5.5.3:*:*:*:*:iphone_os:*:*,App2pro AirDisk Pro 5.5.3 for iPhone OS,"['CVE-2020-12129', 'CVE-2020-12130', 'CVE-2020-12131']",2022-03-18T21:45Z
+7,cpe:2.3:a:appa-apps:top_roller_coasters_europe_1:\@7f050001:*:*:*:*:android:*:*,appa-apps Top Roller Coasters Europe 1 (aka com.appaapps.top10tallesteuropeanrollercoasters1) for android @7F050001,['CVE-2014-7087'],2022-03-18T21:45Z
+8,cpe:2.3:a:appa-apps:top_roller_coasters_europe_2:\@7f050001:*:*:*:*:android:*:*,appa-apps Top Roller Coasters Europe 2 (aka com.appaapps.top10tallesteuropeanrollercoasters2) for android @7F050001,['CVE-2014-7802'],2022-03-18T21:45Z
+9,cpe:2.3:a:apparmor:apparmor:2.11:*:*:*:*:*:*:*,AppArmor 2.11,['CVE-2017-6507'],2022-03-18T21:45Z

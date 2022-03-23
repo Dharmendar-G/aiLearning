@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:operations_orchestration:9.03:*:*:*:*:*:*:*,HP Operations Orchestration 9.03,"['CVE-2015-5451', 'CVE-2017-8994']",2022-03-21T15:37Z
+1,cpe:2.3:a:hp:operations_orchestration:9.04:*:*:*:*:*:*:*,HP Operations Orchestration 9.04,"['CVE-2015-5451', 'CVE-2017-8994']",2022-03-21T15:37Z
+2,cpe:2.3:a:hp:operations_orchestration:9.05:*:*:*:*:*:*:*,HP Operations Orchestration 9.05,"['CVE-2015-5451', 'CVE-2017-8994']",2022-03-21T15:37Z
+3,cpe:2.3:a:hp:operations_orchestration:10.0:*:*:*:*:*:*:*,HP Operations Orchestration 10.0,"['CVE-2015-2108', 'CVE-2015-2109', 'CVE-2015-5451', 'CVE-2016-1997', 'CVE-2017-8994', 'CVE-2018-6490']",2022-03-21T15:37Z
+4,cpe:2.3:a:hp:operations_orchestration:10.01:*:*:*:*:*:*:*,Hp Operations Orchestration 10.01,"['CVE-2015-5451', 'CVE-2016-1997', 'CVE-2017-8994']",2022-03-21T15:37Z
+5,cpe:2.3:a:hp:operations_orchestration:10.02:*:*:*:*:*:*:*,Hp Operations Orchestration 10.02,"['CVE-2015-5451', 'CVE-2016-1997', 'CVE-2017-8994']",2022-03-21T15:37Z
+6,cpe:2.3:a:hp:operations_orchestration:10.10:*:*:*:*:*:*:*,Hp Operations Orchestration 10.10,"['CVE-2015-5451', 'CVE-2016-1997', 'CVE-2017-8994']",2022-03-21T15:38Z
+7,cpe:2.3:a:hp:operations_orchestration:10.20:*:*:*:*:*:*:*,Hp Operations Orchestration 10.20,"['CVE-2015-5451', 'CVE-2016-1997', 'CVE-2017-8994']",2022-03-21T15:38Z
+8,cpe:2.3:a:hp:operations_orchestration:10.21:*:*:*:*:*:*:*,Hp Operations Orchestration 10.21,"['CVE-2015-5451', 'CVE-2016-1997', 'CVE-2017-8994']",2022-03-21T15:38Z
+9,cpe:2.3:a:hp:operations_orchestration:10.22:*:*:*:*:*:*:*,Hp Operations Orchestration 10.22,"['CVE-2015-5451', 'CVE-2016-1997', 'CVE-2017-8994']",2022-03-21T15:38Z

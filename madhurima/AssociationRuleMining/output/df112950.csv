@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:1000v_virtual_ethernet_module_\(vem\):4.0\(4\):sv1\(3a\):*:*:*:*:*:*,Cisco Nexus 1000V Virtual Ethernet Module (VEM) 4.0(4) SV1(3a),['CVE-2011-0355'],2022-03-19T17:45Z
+1,cpe:2.3:a:cisco:1000v_virtual_ethernet_module_\(vem\):4.0\(4\):sv1\(3b\):*:*:*:*:*:*,Cisco Nexus 1000V Virtual Ethernet Module (VEM) 4.0(4) SV1(3b),['CVE-2011-0355'],2022-03-19T17:45Z
+2,cpe:2.3:h:cisco:1100:-:*:*:*:*:*:*:*,Cisco 1100 -,['CVE-2019-12647'],2022-03-19T17:45Z
+3,cpe:2.3:h:cisco:1100_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 1100 Integrated Services Router,"['CVE-2019-12654', 'CVE-2020-3423', 'CVE-2020-3428', 'CVE-2020-3474', 'CVE-2020-3479']",2022-03-19T17:45Z
+4,cpe:2.3:h:cisco:1100_terminal_services_gateways:-:*:*:*:*:*:*:*,Cisco 1100 Terminal Services Gateways,['CVE-2020-3465'],2022-03-19T17:45Z
+5,cpe:2.3:h:cisco:1100-4p:-:*:*:*:*:*:*:*,Cisco 1100-4p -,"['CVE-2019-12646', 'CVE-2020-3299', 'CVE-2020-3465']",2022-03-19T17:45Z
+6,cpe:2.3:h:cisco:1100-8p:-:*:*:*:*:*:*:*,Cisco 1100-8p -,"['CVE-2019-12646', 'CVE-2020-3299', 'CVE-2020-3465', 'CVE-2021-1419']",2022-03-19T17:45Z
+7,cpe:2.3:h:cisco:1101-4p:-:*:*:*:*:*:*:*,Cisco 1101-4p -,"['CVE-2019-12646', 'CVE-2020-3299', 'CVE-2020-3465']",2022-03-19T17:45Z
+8,cpe:2.3:h:cisco:1109-2p:-:*:*:*:*:*:*:*,Cisco 1109-2p -,"['CVE-2019-12646', 'CVE-2020-3299', 'CVE-2020-3465']",2022-03-19T17:45Z
+9,cpe:2.3:h:cisco:1109-4p:-:*:*:*:*:*:*:*,Cisco 1109-4p -,"['CVE-2019-12646', 'CVE-2020-3299', 'CVE-2020-3465']",2022-03-19T17:45Z

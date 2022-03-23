@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:ibm:security_network_protection_xgs_firmware:5.2:*:*:*:*:*:*:*,IBM Security Network Protection (XGS) Firmware 5.2,['CVE-2014-6197'],2022-03-21T22:04Z
+1,cpe:2.3:o:ibm:security_network_protection_xgs_firmware:5.3:*:*:*:*:*:*:*,IBM Security Network Protection (XGS) Firmware 5.3,['CVE-2014-6197'],2022-03-21T22:04Z
+2,cpe:2.3:a:ibm:security_privileged_identity_manager:1.0.0:*:*:*:*:*:*:*,IBM Security Privileged Identity Manager 1.0.0,[''],2022-03-21T22:04Z
+3,cpe:2.3:a:ibm:security_privileged_identity_manager:1.0.0.2:*:*:*:*:*:*:*,IBM Security Privileged Identity Manager 1.0.0.2,[''],2022-03-21T22:04Z
+4,cpe:2.3:a:ibm:security_privileged_identity_manager:1.0.1:*:*:*:*:*:*:*,IBM Security Privileged Identity Manager 1.0.1,[''],2022-03-21T22:04Z
+5,cpe:2.3:a:ibm:security_privileged_identity_manager:1.0.1.1:*:*:*:*:*:*:*,IBM Security Privileged Identity Manager 1.0.1.1,[''],2022-03-21T22:04Z
+6,cpe:2.3:a:ibm:security_privileged_identity_manager:2.0.0:*:*:*:*:*:*:*,IBM Security Privileged Identity Manager 2.0.0,"['CVE-2016-0353', 'CVE-2016-2996', 'CVE-2017-1407']",2022-03-21T22:04Z
+7,cpe:2.3:a:ibm:security_privileged_identity_manager:2.0.1:*:*:*:*:*:*:*,IBM Security Privileged Identity Manager 2.0.1,"['CVE-2016-0353', 'CVE-2016-2996', 'CVE-2017-1407', 'CVE-2017-1483']",2022-03-21T22:04Z
+8,cpe:2.3:a:ibm:security_privileged_identity_manager:2.0.2:*:*:*:*:*:*:*,IBM Security Privileged Identity Manager 2.0.2,"['CVE-2016-0353', 'CVE-2016-2996', 'CVE-2016-5958', 'CVE-2016-5959', 'CVE-2016-5960', 'CVE-2016-5964', 'CVE-2016-5966', 'CVE-2016-5988', 'CVE-2016-5990', 'CVE-2017-1407', 'CVE-2017-1483']",2022-03-21T22:04Z
+9,cpe:2.3:a:ibm:security_privileged_identity_manager:2.1.0:*:*:*:*:*:*:*,IBM Security Privileged Identity Manager 2.1.0,['CVE-2017-1705'],2022-03-21T22:04Z

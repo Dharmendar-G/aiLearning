@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:horde:horde_image_api:2.3.4:*:*:*:*:*:*:*,Horde Horde Image Api 2.3.4,"['CVE-2017-14650', 'CVE-2017-9774']",2022-03-21T12:08Z
+1,cpe:2.3:a:horde:horde_image_api:2.3.5:*:*:*:*:*:*:*,Horde Horde Image Api 2.3.5,"['CVE-2017-14650', 'CVE-2017-9774']",2022-03-21T12:08Z
+2,cpe:2.3:a:horde:horde_image_api:2.3.6:*:*:*:*:*:*:*,Horde Horde Image Api 2.3.6,"['CVE-2017-14650', 'CVE-2017-9774']",2022-03-21T12:08Z
+3,cpe:2.3:a:horde:horde_image_api:2.4.0:*:*:*:*:*:*:*,Horde Horde Image Api 2.4.0,"['CVE-2017-14650', 'CVE-2017-9774']",2022-03-21T12:08Z
+4,cpe:2.3:a:horde:horde_image_api:2.4.1:*:*:*:*:*:*:*,Horde Horde Image Api 2.4.1,"['CVE-2017-14650', 'CVE-2017-9774']",2022-03-21T12:08Z
+5,cpe:2.3:a:horde:horde_image_api:2.5.0:*:*:*:*:*:*:*,Horde Image API 2.5.0,['CVE-2017-14650'],2022-03-21T12:08Z
+6,cpe:2.3:a:horde:horde_image_api:2.5.1:*:*:*:*:*:*:*,Horde Image API 2.5.1,['CVE-2017-14650'],2022-03-21T12:08Z
+7,cpe:2.3:a:horde:horde_imap_client:1.0.0:-:*:*:*:*:*:*,Horde Imap Client 1.0.0,[''],2022-03-21T12:08Z
+8,cpe:2.3:a:horde:horde_imap_client:1.0.0:alpha1:*:*:*:*:*:*,Horde Imap Client 1.0.0 Alpha 1,[''],2022-03-21T12:08Z
+9,cpe:2.3:a:horde:horde_imap_client:1.0.0:beta1:*:*:*:*:*:*,Horde Imap Client 1.0.0 Beta 1,[''],2022-03-21T12:08Z

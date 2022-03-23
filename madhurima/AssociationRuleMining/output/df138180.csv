@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:vision_dynamic_signage_director:6.3:*:*:*:*:*:*:*,Cisco Vision Dynamic Signage Director 6.3,['CVE-2021-34742'],2022-03-20T01:04Z
+1,cpe:2.3:a:cisco:vision_dynamic_signage_director:6.4:*:*:*:*:*:*:*,Cisco Vision Dynamic Signage Director 6.4,['CVE-2021-34742'],2022-03-20T01:04Z
+2,cpe:2.3:a:cisco:vmanage_network_management:-:*:*:*:*:*:*:*,Cisco vManage Network Management,"['CVE-2018-0342', 'CVE-2018-0343', 'CVE-2018-0344', 'CVE-2018-0345', 'CVE-2018-0346', 'CVE-2018-0347', 'CVE-2018-0348', 'CVE-2018-0349', 'CVE-2018-0350', 'CVE-2018-0351', 'CVE-2019-1646', 'CVE-2019-1648', 'CVE-2019-1650']",2022-03-20T01:04Z
+3,cpe:2.3:a:cisco:vmanage_network_management_system:-:*:*:*:*:*:*:*,Cisco vManage Network Management System,"['CVE-2018-0432', 'CVE-2018-0433', 'CVE-2018-0434', 'CVE-2020-3264', 'CVE-2020-3265']",2022-03-20T01:04Z
+4,cpe:2.3:h:cisco:voice_gateway:-:*:*:*:*:*:*:*,Cisco Voice Gateway,[''],2022-03-20T01:04Z
+5,cpe:2.3:h:cisco:voice_gateway_as5800:-:*:*:*:*:*:*:*,Cisco Voice Gateway AS5800,['CVE-2000-0268'],2022-03-20T01:04Z
+6,cpe:2.3:a:cisco:voice_log_translator:2.5.14:*:*:*:*:*:*:*,Cisco Voice Log Translator 2.5.14,[''],2022-03-20T01:04Z
+7,cpe:2.3:h:cisco:voip_phone_cp-7910:-:*:*:*:*:*:*:*,Cisco VoIP Phone CP-7910,[''],2022-03-20T01:04Z
+8,[0],[0],[0],[0]
+9,[0],[0],[0],[0]

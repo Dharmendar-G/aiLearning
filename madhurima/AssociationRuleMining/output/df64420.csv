@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avaya:aura_utility_services:7.1.3:sp5:*:*:*:*:*:*,Avaya Aura Utility Services 7.1.3 Service Pack 5,"['CVE-2021-25649', 'CVE-2021-25650', 'CVE-2021-25651']",2022-03-19T04:09Z
+1,cpe:2.3:a:avaya:aura_utility_services:7.1.3:sp6:*:*:*:*:*:*,Avaya Aura Utility Services 7.1.3 Service Pack 6,"['CVE-2021-25649', 'CVE-2021-25650', 'CVE-2021-25651']",2022-03-19T04:09Z
+2,cpe:2.3:a:avaya:aura_utility_services:7.1.3:sp8:*:*:*:*:*:*,Avaya Aura Utility Services 7.1.3 Service Pack 8,"['CVE-2021-25649', 'CVE-2021-25650', 'CVE-2021-25651']",2022-03-19T04:10Z
+3,[0],[0],[0],[0]
+4,cpe:2.3:a:avaya:aura_voice_portal:5.1:-:*:*:*:*:*:*,Avaya Aura Voice Portal 5.1,"['CVE-2010-2492', 'CVE-2010-2943']",2022-03-19T04:10Z
+5,cpe:2.3:a:avaya:aura_voice_portal:5.1:sp1:*:*:*:*:*:*,Avaya Aura Voice Portal 5.1 Service Pack 1,"['CVE-2010-2492', 'CVE-2010-2943']",2022-03-19T04:10Z
+6,cpe:2.3:h:avaya:avaya_aura_system_platform:6.3.0:*:*:*:*:*:*:*,Avaya Aura System Platform 6.3.0,['CVE-2018-15616'],2022-03-19T04:10Z
+7,cpe:2.3:h:avaya:avaya_aura_system_platform:6.3.1:*:*:*:*:*:*:*,Avaya Aura System Platform 6.3.1,['CVE-2018-15616'],2022-03-19T04:10Z
+8,cpe:2.3:h:avaya:avaya_aura_system_platform:6.3.4:*:*:*:*:*:*:*,Avaya Aura System Platform 6.3.4,['CVE-2018-15616'],2022-03-19T04:10Z
+9,cpe:2.3:h:avaya:avaya_aura_system_platform:6.3.5:*:*:*:*:*:*:*,Avaya Aura System Platform 6.3.5,['CVE-2018-15616'],2022-03-19T04:10Z

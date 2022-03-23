@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dns-325_firmware:1.05b03:*:*:*:*:*:*:*,D-Link DNS-325 Firmware 1.05B03,[''],2022-03-20T15:54Z
+1,cpe:2.3:o:dlink:dns-327l_firmware:1.02:*:*:*:*:*:*:*,D-Link DNS-327L Firmware 1.02,[''],2022-03-20T15:54Z
+2,cpe:2.3:o:dlink:dns-345_firmware:1.03b06:*:*:*:*:*:*:*,D-Link DNS-345 Firmware 1.03B06,[''],2022-03-20T15:54Z
+3,cpe:2.3:o:dlink:dsl-2540u_firmware:me_1.00:*:*:*:*:*:*:*,D-Link DSL-2540U Firmware ME 1.00,[''],2022-03-20T15:54Z
+4,cpe:2.3:h:dlink:dsl-2640b:-:*:*:*:*:*:*:*,D-Link DSL 2640B,"['CVE-2012-1308', 'CVE-2020-9275', 'CVE-2020-9276', 'CVE-2020-9277', 'CVE-2020-9278', 'CVE-2020-9279']",2022-03-20T15:54Z
+5,cpe:2.3:o:dlink:dsl-2640b_firmware:4.00:*:*:*:*:*:*:*,D-Link DSL 2640B Firmware 4.00,['CVE-2012-1308'],2022-03-20T15:54Z
+6,cpe:2.3:o:dlink:dsl-2640b_firmware:e1_eu_1.01:*:*:*:*:*:*:*,D-Link DSL-2640B Firmware E1 EU 1.01,[''],2022-03-20T15:54Z
+7,cpe:2.3:o:dlink:dsl-2640b_firmware:eu_4.01b:*:*:*:*:*:*:*,DLink DSL-2640B Firmware EU 4.01B,"['CVE-2020-9275', 'CVE-2020-9276', 'CVE-2020-9277', 'CVE-2020-9278', 'CVE-2020-9279']",2022-03-20T15:54Z
+8,cpe:2.3:o:dlink:dsl-2640t_firmware:-:*:*:*:*:*:*:*,D-Link DSL-2640T Firmware,[''],2022-03-20T15:54Z
+9,cpe:2.3:o:dlink:dsl-2640u_firmware:im_1.00:*:*:*:*:*:*:*,D-Link DSL-2640U Firmware IM 1.00,[''],2022-03-20T15:54Z

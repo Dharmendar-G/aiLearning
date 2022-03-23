@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:idrac6_firmware:1.1:*:*:*:*:*:*:*,Dell iDRAC6 Monolithic firmware 1.1,"['CVE-2013-3589', 'CVE-2018-1243', 'CVE-2019-3705']",2022-03-20T12:31Z
+1,cpe:2.3:o:dell:idrac6_firmware:1.2:*:*:*:*:*:*:*,Dell iDRAC6 Monolithic firmware 1.2,"['CVE-2013-3589', 'CVE-2018-1243', 'CVE-2019-3705']",2022-03-20T12:31Z
+2,cpe:2.3:o:dell:idrac6_firmware:1.3:*:*:*:*:*:*:*,Dell iDRAC6 Monolithic firmware 1.3,"['CVE-2013-3589', 'CVE-2018-1243', 'CVE-2019-3705']",2022-03-20T12:31Z
+3,cpe:2.3:o:dell:idrac6_firmware:1.5:*:*:*:*:*:*:*,Dell iDRAC6 Monolithic firmware 1.5,"['CVE-2013-3589', 'CVE-2018-1243', 'CVE-2019-3705']",2022-03-20T12:31Z
+4,cpe:2.3:o:dell:idrac6_firmware:1.6:*:*:*:*:*:*:*,Dell iDRAC6 Monolithic firmware 1.6,"['CVE-2013-3589', 'CVE-2018-1243', 'CVE-2019-3705']",2022-03-20T12:31Z
+5,cpe:2.3:o:dell:idrac6_firmware:1.7:*:*:*:*:*:*:*,Dell iDRAC 6 firmware 1.7,"['CVE-2013-3589', 'CVE-2013-4785', 'CVE-2018-1243', 'CVE-2019-3705']",2022-03-20T12:31Z
+6,[0],[0],[0],[0]
+7,cpe:2.3:o:dell:idrac6_firmware:1.8:*:*:*:*:*:*:*,Dell iDRAC6 Monolithic firmware 1.8,"['CVE-2013-3589', 'CVE-2018-1243', 'CVE-2019-3705']",2022-03-20T12:31Z
+8,cpe:2.3:o:dell:idrac6_firmware:1.95:*:*:*:*:*:*:*,Dell iDRAC6 Monolithic firmware 1.95,"['CVE-2013-3589', 'CVE-2018-1243', 'CVE-2019-3705']",2022-03-20T12:31Z
+9,cpe:2.3:o:dell:idrac6_firmware:2.91:*:*:*:*:*:*:*,Dell iDRAC6 Firmware 2.91,['CVE-2019-3705'],2022-03-20T12:31Z

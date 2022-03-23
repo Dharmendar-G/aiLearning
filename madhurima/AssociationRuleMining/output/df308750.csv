@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hbgk:hb7032xt:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7032XT,['CVE-2017-14335'],2022-03-21T10:22Z
+1,cpe:2.3:o:hbgk:hb7032xt_firmware:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7032XT Firmware,['CVE-2017-14335'],2022-03-21T10:22Z
+2,cpe:2.3:h:hbgk:hb7108x3:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7108X3,['CVE-2017-14335'],2022-03-21T10:22Z
+3,cpe:2.3:o:hbgk:hb7108x3_firmware:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7108X3 Firmware,['CVE-2017-14335'],2022-03-21T10:22Z
+4,cpe:2.3:h:hbgk:hb7116x3:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7116X3,['CVE-2017-14335'],2022-03-21T10:22Z
+5,cpe:2.3:o:hbgk:hb7116x3_firmware:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7116X3 Firmware,['CVE-2017-14335'],2022-03-21T10:22Z
+6,cpe:2.3:h:hbgk:hb7204kk:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7204KK,['CVE-2017-14335'],2022-03-21T10:22Z
+7,cpe:2.3:o:hbgk:hb7204kk_firmware:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7204KK Firmware,['CVE-2017-14335'],2022-03-21T10:22Z
+8,cpe:2.3:h:hbgk:hb7204kl:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7204KL,['CVE-2017-14335'],2022-03-21T10:22Z
+9,cpe:2.3:o:hbgk:hb7204kl_firmware:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7204KL Firmware,['CVE-2017-14335'],2022-03-21T10:22Z

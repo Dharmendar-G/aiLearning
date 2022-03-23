@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:smart_array_sas\/sata_event_notification_service:6.10.0.32:*:*:*:*:*:*:*,HP Smart Array Sas/sata Event Notification Service 6.10.0.32,[''],2022-03-21T16:03Z
+1,cpe:2.3:a:hp:smart_array_sas\/sata_event_notification_service:6.10.0.64:*:*:*:*:*:*:*,HP Smart Array Sas/sata Event Notification Service 6.10.0.64,[''],2022-03-21T16:03Z
+2,cpe:2.3:a:hp:smart_array_sas\/sata_event_notification_service:6.12.0.32:*:*:*:*:*:*:*,HP Smart Array Sas/sata Event Notification Service 6.12.0.32,[''],2022-03-21T16:03Z
+3,cpe:2.3:a:hp:smart_array_sas\/sata_event_notification_service:6.12.0.64:*:*:*:*:*:*:*,HP Smart Array Sas/sata Event Notification Service 6.12.0.64,[''],2022-03-21T16:03Z
+4,cpe:2.3:a:hp:smart_array_sas\/sata_event_notification_service:6.14.0.32:*:*:*:*:*:*:*,HP Smart Array Sas/sata Event Notification Service 6.14.0.32,[''],2022-03-21T16:03Z
+5,cpe:2.3:a:hp:smart_array_sas\/sata_event_notification_service:6.14.0.64:*:*:*:*:*:*:*,HP Smart Array Sas/sata Event Notification Service 6.14.0.64,[''],2022-03-21T16:03Z
+6,cpe:2.3:a:hp:smart_array_sas\/sata_event_notification_service:6.16.0.32:*:*:*:*:*:*:*,HP Smart Array Sas/sata Event Notification Service 6.16.0.32,[''],2022-03-21T16:03Z
+7,cpe:2.3:a:hp:smart_array_sas\/sata_event_notification_service:6.16.0.64:*:*:*:*:*:*:*,HP Smart Array Sas/sata Event Notification Service 6.16.0.64,[''],2022-03-21T16:03Z
+8,cpe:2.3:a:hp:smart_array_sas\/sata_event_notification_service:6.18.0.32:*:*:*:*:*:*:*,HP Smart Array Sas/sata Event Notification Service 6.18.0.32,[''],2022-03-21T16:03Z
+9,cpe:2.3:a:hp:smart_array_sas\/sata_event_notification_service:6.18.0.64:*:*:*:*:*:*:*,HP Smart Array Sas/sata Event Notification Service 6.18.0.64,[''],2022-03-21T16:03Z

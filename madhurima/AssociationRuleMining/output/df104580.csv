@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cbox_project:cbox:0.2.1:*:*:*:*:rust:*:*,Cbox Project Cbox 0.2.1 for Rust,['CVE-2020-35860'],2022-03-19T15:51Z
+1,cpe:2.3:a:cbox_project:cbox:0.2.2:*:*:*:*:rust:*:*,Cbox Project Cbox 0.2.2 for Rust,['CVE-2020-35860'],2022-03-19T15:51Z
+2,cpe:2.3:a:cbox_project:cbox:0.3.0:*:*:*:*:rust:*:*,Cbox Project Cbox 0.3.0 for Rust,['CVE-2020-35860'],2022-03-19T15:51Z
+3,cpe:2.3:a:cbr_token_project:cbr_token:-:*:*:*:*:*:*:*,CBR Token Project CBR Token,['CVE-2018-13484'],2022-03-19T15:51Z
+4,cpe:2.3:a:ccash_project:ccash:-:*:*:*:*:*:*:*,CCASH Project CCASH,['CVE-2018-13546'],2022-03-19T15:51Z
+5,cpe:2.3:a:ccbank:ccb_mobile_banking:1.0.0:*:*:*:*:iphone_os:*:*,Citizens Community Bank CCB Mobile Banking 1.0.0 for iPhone OS,[''],2022-03-19T15:51Z
+6,cpe:2.3:a:ccbank:ccb_mobile_banking:2.5.0:*:*:*:*:iphone_os:*:*,Citizens Community Bank CCB Mobile Banking 2.5.0 for iPhone OS,[''],2022-03-19T15:51Z
+7,cpe:2.3:a:ccbank:ccb_mobile_banking:3.0.0:*:*:*:*:iphone_os:*:*,Citizens Community Bank CCB Mobile Banking 3.0.0 for iPhone OS,[''],2022-03-19T15:51Z
+8,cpe:2.3:a:ccbank:ccb_mobile_banking:3.0.1:*:*:*:*:iphone_os:*:*,Citizens Community Bank CCB Mobile Banking 3.0.1 for iPhone OS,['CVE-2017-9571'],2022-03-19T15:51Z
+9,cpe:2.3:a:ccbank:ccb_mobile_banking:4.2.0:*:*:*:*:iphone_os:*:*,Citizens Community Bank CCB Mobile Banking 4.2.0 for iPhone OS,[''],2022-03-19T15:51Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:d-link:dir505_shareport_mobile_companion:a1:*:*:*:*:*:*:*,D-LINK DIR505 Shareport Mobile Companion A1,['CVE-2014-3936'],2022-03-20T16:01Z
+1,cpe:2.3:o:d-link:dir505_shareport_mobile_companion_firmware:1.07:*:*:*:*:*:*:*,D-LINK DIR505 Shareport Mobile Companion firmware 1.07,['CVE-2014-3936'],2022-03-20T16:01Z
+2,cpe:2.3:h:d-link:dir-505l_shareport_mobile_companion:a1:*:*:*:*:*:*:*,DIR-505L SharePort Mobile Companion A1,"['CVE-2013-4772', 'CVE-2014-3936']",2022-03-20T16:01Z
+3,cpe:2.3:o:d-link:dir505l_shareport_mobile_companion_firmware:1.01:*:*:*:*:*:*:*,D-LINK DIR505 Shareport Mobile Companion firmware 1.01,['CVE-2014-3936'],2022-03-20T16:01Z
+4,cpe:2.3:o:d-link:dir-505l_shareport_mobile_companion_firmware:1.01:*:*:*:*:*:*:*,DIR-505L SharePort Mobile Companion firmware 1.01,['CVE-2013-4772'],2022-03-20T16:01Z
+5,cpe:2.3:h:d-link:dir-550a:-:*:*:*:*:*:*:*,D-Link DIR-550A,"['CVE-2018-10967', 'CVE-2018-10968']",2022-03-20T16:01Z
+6,cpe:2.3:h:d-link:dir-600:-:*:*:*:*:*:*:*,D-Link DIR-600,[''],2022-03-20T16:01Z
+7,cpe:2.3:h:d-link:dir-600_b1:-:*:*:*:*:*:*:*,D-Link DIR-600 B1,['CVE-2017-12943'],2022-03-20T16:01Z
+8,cpe:2.3:h:d-link:dir-600_b2:-:*:*:*:*:*:*:*,D-Link DIR-600 B2,[''],2022-03-20T16:01Z
+9,cpe:2.3:h:d-link:dir-600_b5:-:*:*:*:*:*:*:*,D-Link DIR-600 B5,[''],2022-03-20T16:01Z

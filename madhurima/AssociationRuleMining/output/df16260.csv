@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ains:foiaxpress_sync_service:6.4.0.0:*:*:*:*:*:*:*,Ains Foiaxpress Sync Service 6.4.0.0,[''],2022-03-18T13:48Z
+1,cpe:2.3:a:aiohttp_project:aiohttp:3.6.2:*:*:*:*:*:*:*,Aiohttp Project Aiohttp 3.6.2,['CVE-2021-21330'],2022-03-18T13:48Z
+2,cpe:2.3:a:aiohttp_project:aiohttp:3.6.3:*:*:*:*:*:*:*,Aiohttp Project Aiohttp 3.6.3,['CVE-2021-21330'],2022-03-18T13:48Z
+3,cpe:2.3:a:aiohttp_project:aiohttp:3.7.0:-:*:*:*:*:*:*,Aiohttp Project Aiohttp 3.7.0,['CVE-2021-21330'],2022-03-18T13:48Z
+4,cpe:2.3:a:aiohttp_project:aiohttp:3.7.0:beta0:*:*:*:*:*:*,Aiohttp Project Aiohttp 3.7.0 Beta 0,['CVE-2021-21330'],2022-03-18T13:48Z
+5,cpe:2.3:a:aiohttp_project:aiohttp:3.7.0:beta1:*:*:*:*:*:*,Aiohttp Project Aiohttp 3.7.0 Beta 1,['CVE-2021-21330'],2022-03-18T13:48Z
+6,cpe:2.3:a:aiohttp_project:aiohttp:3.7.1:*:*:*:*:*:*:*,Aiohttp Project Aiohttp 3.7.1,['CVE-2021-21330'],2022-03-18T13:48Z
+7,cpe:2.3:a:aiohttp_project:aiohttp:3.7.2:*:*:*:*:*:*:*,Aiohttp Project Aiohttp 3.7.2,['CVE-2021-21330'],2022-03-18T13:48Z
+8,cpe:2.3:a:aiohttp_project:aiohttp:3.7.3:*:*:*:*:*:*:*,Aiohttp Project Aiohttp 3.7.3,['CVE-2021-21330'],2022-03-18T13:48Z
+9,cpe:2.3:a:aiohttp_project:aiohttp:3.7.4:*:*:*:*:*:*:*,Aiohttp Project Aiohttp 3.7.4,[''],2022-03-18T13:48Z

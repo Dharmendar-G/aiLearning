@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:ibm:power_system_ac922_\(8335-gtc\):-:*:*:*:*:*:*:*,IBM Power System AC922 (8335-GTC),['CVE-2021-38961'],2022-03-21T21:26Z
+1,cpe:2.3:o:ibm:power_system_ac922_\(8335-gtc\)_firmware:op910:*:*:*:*:*:*:*,IBM Power System AC922 (8335-GTC) Firmware OP910,['CVE-2021-38961'],2022-03-21T21:26Z
+2,cpe:2.3:h:ibm:power_system_ac922_\(8335-gtg\):-:*:*:*:*:*:*:*,IBM Power System AC922 (8335-GTG),"['CVE-2018-1992', 'CVE-2021-38961']",2022-03-21T21:26Z
+3,cpe:2.3:o:ibm:power_system_ac922_\(8335-gtg\)_firmware:op910:*:*:*:*:*:*:*,IBM Power System AC922 (8335-GTG) Firmware OP910,"['CVE-2018-1992', 'CVE-2021-38961']",2022-03-21T21:26Z
+4,cpe:2.3:o:ibm:power_system_ac922_\(8335-gtg\)_firmware:op910.30:*:*:*:*:*:*:*,IBM Power System AC922 (8335-GTG)  Firmware OP910.30,[''],2022-03-21T21:26Z
+5,cpe:2.3:h:ibm:power_system_ac922_\(8335-gth\):-:*:*:*:*:*:*:*,IBM Power System AC922 (8335-GTH),"['CVE-2018-1992', 'CVE-2021-38960']",2022-03-21T21:26Z
+6,cpe:2.3:o:ibm:power_system_ac922_\(8335-gth\)_firmware:op920:*:*:*:*:*:*:*,IBM Power System AC922 (8335-GTH) Firmware OP920,"['CVE-2018-1992', 'CVE-2021-38960']",2022-03-21T21:26Z
+7,cpe:2.3:o:ibm:power_system_ac922_\(8335-gth\)_firmware:op920.10:*:*:*:*:*:*:*,IBM Power System AC922 (8335-GTH) Firmware OP920.10,[''],2022-03-21T21:26Z
+8,cpe:2.3:o:ibm:power_system_ac922_\(8335-gth\)_firmware:op930:*:*:*:*:*:*:*,IBM Power System AC922 (8335-GTH) Firmware OP930,['CVE-2021-38960'],2022-03-21T21:26Z
+9,cpe:2.3:o:ibm:power_system_ac922_\(8335-gth\)_firmware:op940:*:*:*:*:*:*:*,IBM Power System AC922 (8335-GTH) Firmware OP940,['CVE-2021-38960'],2022-03-21T21:26Z

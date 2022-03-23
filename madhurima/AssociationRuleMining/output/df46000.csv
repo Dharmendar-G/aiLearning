@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arellia:arellia_common:6.0.1417:*:*:*:*:*:*:*,Arellia Common 6.0.1417,[''],2022-03-18T22:56Z
+1,cpe:2.3:a:arellia:arellia_common_language_pack:6.0.1101:*:*:*:*:*:*:*,Arellia Common Language Pack 6.0.1101,[''],2022-03-18T22:56Z
+2,cpe:2.3:a:arellia:arellia_common_report_language_pack:6.0.1101:*:*:*:*:*:*:*,Arellia Common Report Language Pack 6.0.1101,[''],2022-03-18T22:56Z
+3,cpe:2.3:a:arellia:arellia_common_report_pack:6.0.1103:*:*:*:*:*:*:*,Arellia Common Report Pack 6.0.1103,[''],2022-03-18T22:56Z
+4,cpe:2.3:a:arellia:arellia_file_inventory_language_pack:6.1.1100:*:*:*:*:*:*:*,Arellia File Inventory Language Pack 6.1.1100,[''],2022-03-18T22:56Z
+5,cpe:2.3:a:arellia:arellia_file_inventory_report_pack:6.1.1100:*:*:*:*:*:*:*,Arellia File Inventory Report Pack 6.1.1100,[''],2022-03-18T22:56Z
+6,cpe:2.3:a:arellia:arellia_file_inventory_report_pack_language_pack:6.1.1100:*:*:*:*:*:*:*,Arellia File Inventory Report Pack Language Pack 6.1.1100,[''],2022-03-18T22:56Z
+7,cpe:2.3:a:arellia:arellia_file_inventory_solution:6.1.1312:*:*:*:*:*:*:*,Arellia File Inventory Solution 6.1.1312,[''],2022-03-18T22:56Z
+8,cpe:2.3:a:arellia:arellia_local_security_report_pack:6.2.1401:*:*:*:*:*:*:*,Arellia Local Security Report Pack 6.2.1401,[''],2022-03-18T22:56Z
+9,cpe:2.3:a:arena:guild_wars_2:106916:*:*:*:*:*:*:*,ARENANET Guild Wars 2 106916,['CVE-2020-27384'],2022-03-18T22:56Z

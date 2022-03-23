@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:coreftp:core_ftp:2.0:build_639:*:*:*:*:*:*,Core FTP Server 2.0 Build 639,"['CVE-2013-3930', 'CVE-2019-9648', 'CVE-2019-9649', 'CVE-2022-22836']",2022-03-20T08:02Z
+1,cpe:2.3:a:coreftp:core_ftp:2.0:build_640:*:*:*:*:*:*,Core FTP Server 2.0 Build 640,"['CVE-2013-3930', 'CVE-2019-9648', 'CVE-2019-9649', 'CVE-2022-22836']",2022-03-20T08:02Z
+2,cpe:2.3:a:coreftp:core_ftp:2.0:build_641:*:*:*:*:*:*,Core FTP Server 2.0 Build 641,"['CVE-2013-3930', 'CVE-2019-9648', 'CVE-2019-9649', 'CVE-2022-22836']",2022-03-20T08:02Z
+3,cpe:2.3:a:coreftp:core_ftp:2.0:build_642:*:*:*:*:*:*,Core FTP Server 2.0 Build 642,"['CVE-2013-3930', 'CVE-2019-9648', 'CVE-2019-9649', 'CVE-2022-22836']",2022-03-20T08:02Z
+4,cpe:2.3:a:coreftp:core_ftp:2.0:build_645:*:*:*:*:*:*,Core FTP Server 2.0 Build 645,"['CVE-2013-3930', 'CVE-2019-9648', 'CVE-2019-9649', 'CVE-2022-22836']",2022-03-20T08:02Z
+5,cpe:2.3:a:coreftp:core_ftp:2.0:build_647:*:*:*:*:*:*,Core FTP Server 2.0 Build 647,"['CVE-2013-3930', 'CVE-2019-9648', 'CVE-2019-9649', 'CVE-2022-22836']",2022-03-20T08:02Z
+6,cpe:2.3:a:coreftp:core_ftp:2.0:build_649:*:*:*:*:*:*,Core FTP Server 2.0 Build 649,"['CVE-2013-3930', 'CVE-2019-9648', 'CVE-2019-9649', 'CVE-2022-22836']",2022-03-20T08:02Z
+7,cpe:2.3:a:coreftp:core_ftp:2.0:build_651:*:*:*:*:*:*,Core FTP Server 2.0 Build 651,"['CVE-2013-3930', 'CVE-2019-9648', 'CVE-2019-9649', 'CVE-2022-22836']",2022-03-20T08:02Z
+8,cpe:2.3:a:coreftp:core_ftp:2.0:build_653:*:*:*:*:*:*,Core FTP Server 2.0 Build 653,"['CVE-2013-3930', 'CVE-2019-9648', 'CVE-2019-9649', 'CVE-2022-22836']",2022-03-20T08:02Z
+9,cpe:2.3:a:coreftp:core_ftp:2.0:build_655:*:*:*:*:*:*,Core FTP Server 2.0 Build 655,"['CVE-2013-3930', 'CVE-2019-9648', 'CVE-2019-9649', 'CVE-2022-22836']",2022-03-20T08:02Z

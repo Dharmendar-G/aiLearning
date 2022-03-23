@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:debian:python-imaging:-:*:*:*:*:*:*:*,Debian python-imaging,['CVE-2014-3589'],2022-03-20T11:54Z
+1,cpe:2.3:a:debian:qpopper:-:*:*:*:*:*:*:*,Debian Debian Linux qpopper,"['CVE-2005-1151', 'CVE-2005-1152']",2022-03-20T11:54Z
+2,cpe:2.3:a:debian:qpopper:4.0.4:*:*:*:*:*:*:*,Debian Debian Linux qpopper 4.0.4,"['CVE-2005-1151', 'CVE-2005-1152']",2022-03-20T11:54Z
+3,cpe:2.3:a:debian:qpopper:4.0.5:*:*:*:*:*:*:*,Debian Debian Linux qpopper 4.0.5,"['CVE-2005-1151', 'CVE-2005-1152']",2022-03-20T11:54Z
+4,cpe:2.3:a:debian:reportbug:-:*:*:*:*:*:*:*,Debian reportbug,['CVE-2014-0479'],2022-03-20T11:54Z
+5,cpe:2.3:a:debian:reportbug:2.60:*:*:*:*:*:*:*,Debian reportbug 2.60,"['CVE-2005-0624', 'CVE-2005-0625', 'CVE-2014-0479']",2022-03-20T11:54Z
+6,cpe:2.3:a:debian:reportbug:2.61:*:*:*:*:*:*:*,Debian reportbug 2.61,"['CVE-2005-0624', 'CVE-2005-0625', 'CVE-2014-0479']",2022-03-20T11:54Z
+7,cpe:2.3:a:debian:reportbug:3.2:*:*:*:*:*:*:*,Debian reportbug 3.2,"['CVE-2005-0625', 'CVE-2014-0479']",2022-03-20T11:54Z
+8,cpe:2.3:a:debian:reportbug:6.4.4:*:*:*:*:*:*:*,Debian reportbug 6.4.4,['CVE-2014-0479'],2022-03-20T11:54Z
+9,cpe:2.3:a:debian:reprepro:-:*:*:*:*:*:*:*,Debian reprepro,[''],2022-03-20T11:54Z

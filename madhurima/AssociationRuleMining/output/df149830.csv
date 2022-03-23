@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cm-wp:auto_featured_image:3.9.1:*:*:*:*:wordpress:*:*,Creative Motion Auto Featured Image (Auto Post Thumbnail) 3.9.1 for WordPress,['CVE-2021-24932'],2022-03-20T04:32Z
+1,cpe:2.3:a:cm-wp:auto_featured_image:3.9.2:*:*:*:*:wordpress:*:*,Creative Motion Auto Featured Image (Auto Post Thumbnail) 3.9.2 for WordPress,['CVE-2021-24932'],2022-03-20T04:32Z
+2,cpe:2.3:a:cm-wp:auto_featured_image:3.9.3:*:*:*:*:wordpress:*:*,Creative Motion Auto Featured Image (Auto Post Thumbnail) 3.9.3 for WordPress,[''],2022-03-20T04:32Z
+3,cpe:2.3:a:cm-wp:auto_featured_image:3.9.4:*:*:*:*:wordpress:*:*,Creative Motion Auto Featured Image (Auto Post Thumbnail) 3.9.4 for WordPress,[''],2022-03-20T04:32Z
+4,cpe:2.3:a:cm-wp:auto_featured_image:3.9.6:*:*:*:*:wordpress:*:*,Creative Motion Auto Featured Image (Auto Post Thumbnail) 3.9.6 for WordPress,[''],2022-03-20T04:32Z
+5,cpe:2.3:a:cm-wp:auto_featured_image:3.9.7:*:*:*:*:wordpress:*:*,Creative Motion Auto Featured Image (Auto Post Thumbnail) 3.9.7 for WordPress,[''],2022-03-20T04:32Z
+6,cpe:2.3:a:cm-wp:auto_featured_image:3.9.8:*:*:*:*:wordpress:*:*,Creative Motion Auto Featured Image (Auto Post Thumbnail) 3.9.8 for WordPress,[''],2022-03-20T04:32Z
+7,cpe:2.3:a:cm-wp:social_slider_widget:-:*:*:*:*:wordpress:*:*,Creative Motion Social Slider Widget for WordPress,['CVE-2021-24196'],2022-03-20T04:32Z
+8,cpe:2.3:a:cm-wp:social_slider_widget:1.0:*:*:*:*:wordpress:*:*,Creative Motion Social Slider Widget 1.0 for WordPress,['CVE-2021-24196'],2022-03-20T04:32Z
+9,cpe:2.3:a:cm-wp:social_slider_widget:1.0.1:*:*:*:*:wordpress:*:*,Creative Motion Social Slider Widget 1.0.1 for WordPress,['CVE-2021-24196'],2022-03-20T04:32Z

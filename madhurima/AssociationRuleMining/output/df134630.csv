@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:small_business_rv345_firmware:1.0.1.16:*:*:*:*:*:*:*,Cisco Small Business RV345 Firmware 1.0.1.16,['CVE-2017-6784'],2022-03-20T00:20Z
+1,cpe:2.3:h:cisco:small_business_rv345_router:-:*:*:*:*:*:*:*,Cisco Small Business RV345 Router,[''],2022-03-20T00:20Z
+2,cpe:2.3:h:cisco:small_business_rv345p:-:*:*:*:*:*:*:*,Cisco Small Business RV345P,"['CVE-2017-6784', 'CVE-2021-1609', 'CVE-2021-1610']",2022-03-20T00:20Z
+3,cpe:2.3:o:cisco:small_business_rv345p_firmware:1.0.0.30:*:*:*:*:*:*:*,Cisco Small Business RV345P Firmware 1.0.0.30,['CVE-2017-6784'],2022-03-20T00:20Z
+4,cpe:2.3:o:cisco:small_business_rv345p_firmware:1.0.0.33:*:*:*:*:*:*:*,Cisco Small Business RV345P Firmware 1.0.0.33,['CVE-2017-6784'],2022-03-20T00:20Z
+5,cpe:2.3:o:cisco:small_business_rv345p_firmware:1.0.1.9:*:*:*:*:*:*:*,Cisco Small Business RV345P Firmware 1.0.1.9,['CVE-2017-6784'],2022-03-20T00:20Z
+6,cpe:2.3:o:cisco:small_business_rv345p_firmware:1.0.1.16:*:*:*:*:*:*:*,Cisco Small Business RV345P Firmware 1.0.1.16,['CVE-2017-6784'],2022-03-20T00:20Z
+7,cpe:2.3:h:cisco:small_business_rv345p_router:-:*:*:*:*:*:*:*,Cisco Small Business RV345P Router,[''],2022-03-20T00:20Z
+8,cpe:2.3:h:cisco:small_business_sa520:-:*:*:*:*:*:*:*,Cisco Small Business SA520 Security Appliance,['CVE-2017-15805'],2022-03-20T00:20Z
+9,cpe:2.3:o:cisco:small_business_sa520_firmware:2.1.71:*:*:*:*:*:*:*,Cisco Small Business SA520 Firmware 2.1.71,['CVE-2017-15805'],2022-03-20T00:20Z

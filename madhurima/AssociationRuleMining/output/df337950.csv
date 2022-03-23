@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:ws7100-10:-:*:*:*:*:*:*:*,Huawei WS7100-10,['CVE-2020-9122'],2022-03-21T19:10Z
+1,cpe:2.3:o:huawei:ws7100-10_firmware:10.0.5.21:*:*:*:*:*:*:*,Huawei WS7100-10 Firmware 10.0.5.21,['CVE-2020-9122'],2022-03-21T19:10Z
+2,cpe:2.3:o:huawei:ws7100-10_firmware:10.0.5.37:*:*:*:*:*:*:*,Huawei WS7100-10 Firmware 10.0.5.37,[''],2022-03-21T19:10Z
+3,cpe:2.3:h:huawei:ws7200-10:-:*:*:*:*:*:*:*,Huawei WS7200-10,['CVE-2020-9122'],2022-03-21T19:10Z
+4,cpe:2.3:o:huawei:ws7200-10_firmware:10.0.5.21:*:*:*:*:*:*:*,Huawei WS7200-10 Firmware 10.0.5.21,['CVE-2020-9122'],2022-03-21T19:10Z
+5,cpe:2.3:o:huawei:ws7200-10_firmware:10.0.5.37:*:*:*:*:*:*:*,Huawei WS7200-10 Firmware 10.0.5.37,[''],2022-03-21T19:10Z
+6,cpe:2.3:h:huawei:ws826-10:-:*:*:*:*:*:*:*,Huawei WS826-10,"['CVE-2019-5268', 'CVE-2019-5269']",2022-03-21T19:10Z
+7,cpe:2.3:o:huawei:ws826-10_firmware:-:*:*:*:*:*:*:*,Huawei WS826-10 Firmware,[''],2022-03-21T19:10Z
+8,cpe:2.3:o:huawei:ws826-10_firmware:9.0.3.11:*:*:*:*:*:*:*,Huawei WS826-10 Firmware 9.0.3.11,"['CVE-2019-5268', 'CVE-2019-5269']",2022-03-21T19:10Z
+9,cpe:2.3:o:huawei:ws826-10_firmware:10.0.2.5:*:*:*:*:*:*:*,Huawei WS826-10 Firmware 10.0.2.5,[''],2022-03-21T19:10Z

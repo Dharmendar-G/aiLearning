@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:mq_internet_pass-thru:9.2:*:*:*:*:*:*:*,IBM MQ Internet Pass-Thru 9.2,['CVE-2020-4766'],2022-03-21T21:21Z
+1,cpe:2.3:a:ibm:multi-cloud_data_encryption:2.1:*:*:*:*:*:*:*,IBM Multi-Cloud Data Encryption 2.1,['CVE-2018-1593'],2022-03-21T21:21Z
+2,cpe:2.3:a:ibm:multi-cloud_data_encryption:2.1.0.1:*:*:*:*:*:*:*,IBM Multi-Cloud Data Encryption 2.1.0.1,['CVE-2018-1593'],2022-03-21T21:21Z
+3,cpe:2.3:a:ibm:multicloud_manager:3.1.0:*:*:*:*:*:*:*,IBM Multicloud Manager 3.1.0,['CVE-2019-4118'],2022-03-21T21:21Z
+4,cpe:2.3:a:ibm:multicloud_manager:3.1.1:*:*:*:*:*:*:*,IBM Multicloud Manager 3.1.1,['CVE-2019-4118'],2022-03-21T21:21Z
+5,cpe:2.3:a:ibm:multicloud_manager:3.1.2:*:*:*:*:*:*:*,IBM Multicloud Manager 3.1.2,['CVE-2019-4118'],2022-03-21T21:21Z
+6,cpe:2.3:a:ibm:multi-enterprise_integration_gateway:1.0.0:*:*:*:*:*:*:*,IBM Multi-Enterprise Integration Gateway 1.0.0,"['CVE-2015-7445', 'CVE-2016-0341', 'CVE-2016-5892']",2022-03-21T21:21Z
+7,cpe:2.3:a:ibm:multi-enterprise_integration_gateway:1.0.0.1:*:*:*:*:*:*:*,IBM Multi-Enterprise Integration Gateway 1.0.0.1,['CVE-2016-5892'],2022-03-21T21:21Z
+8,cpe:2.3:a:ibm:navio_nc_browser:-:*:*:*:*:*:*:*,IBM Navio NC Browser,[''],2022-03-21T21:21Z
+9,cpe:2.3:a:ibm:net.commerce:-:*:*:*:*:*:*:*,IBM Net.Commerce,[''],2022-03-21T21:21Z

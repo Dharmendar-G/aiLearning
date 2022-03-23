@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cyberark:identity:21.11.130:*:*:*:*:*:*:*,CyberArk Identity 21.11.130,"['CVE-2021-37151', 'CVE-2022-22700']",2022-03-20T09:35Z
+1,cpe:2.3:a:cyberark:identity:21.11.133:*:*:*:*:*:*:*,CyberArk Identity 21.11.133,['CVE-2022-22700'],2022-03-20T09:35Z
+2,cpe:2.3:a:cyberark:identity:22.1:*:*:*:*:*:*:*,CyberArk Identity 22.1,['CVE-2022-22700'],2022-03-20T09:35Z
+3,cpe:2.3:a:cyberark:password_vault:9.9.5:*:*:*:*:*:*:*,CyberArk Password Vault 9.9.5,[''],2022-03-20T09:35Z
+4,cpe:2.3:a:cyberark:password_vault:9.10:*:*:*:*:*:*:*,CyberArk Password Vault 9.10,[''],2022-03-20T09:35Z
+5,cpe:2.3:a:cyberark:password_vault:10.0:*:*:*:*:*:*:*,CyberArk Password Vault 10.0,['CVE-2018-9843'],2022-03-20T09:35Z
+6,cpe:2.3:a:cyberark:password_vault:10.1:*:*:*:*:*:*:*,CyberArk Password Vault 10.1,[''],2022-03-20T09:35Z
+7,cpe:2.3:a:cyberark:password_vault:10.2:*:*:*:*:*:*:*,CyberArk Password Vault 10.2,[''],2022-03-20T09:35Z
+8,cpe:2.3:a:cyberark:privileged_session_manager:10.9.0.15:*:*:*:*:*:*:*,Cyberark Privileged Session Manager 10.9.0.15,['CVE-2020-25374'],2022-03-20T09:35Z
+9,cpe:2.3:a:cyberchimps:gutenberg_\&_elementor_templates_importer_for_responsive:1.0.0:*:*:*:*:wordpress:*:*,CyberChimps Gutenberg & Elementor Templates Importer For Responsive 1.0.0 for WordPress,['CVE-2020-12073'],2022-03-20T09:35Z

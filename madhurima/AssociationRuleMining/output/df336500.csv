@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:s6700ei:-:*:*:*:*:*:*:*,Huawei S6700EI,['CVE-2015-3913'],2022-03-21T18:41Z
+1,cpe:2.3:o:huawei:s6700ei_firmware:v200r001c00spc300:*:*:*:*:*:*:*,Huawei S6700ei Firmware V200r001c00 Service Pack c300,['CVE-2015-3913'],2022-03-21T18:41Z
+2,cpe:2.3:o:huawei:s6700ei_firmware:v200r002c00spc300:*:*:*:*:*:*:*,Huawei S6700ei Firmware V200r002c00 Service Pack c300,['CVE-2015-3913'],2022-03-21T18:41Z
+3,cpe:2.3:o:huawei:s6700ei_firmware:v200r003c00spc300:*:*:*:*:*:*:*,Huawei S6700ei Firmware V200r003c00 Service Pack c300,['CVE-2015-3913'],2022-03-21T18:41Z
+4,cpe:2.3:o:huawei:s6700ei_firmware:v200r005c00spc300:*:*:*:*:*:*:*,Huawei S6700ei Firmware V200r005c00 Service Pack c300,['CVE-2015-3913'],2022-03-21T18:41Z
+5,cpe:2.3:h:huawei:s7700:-:*:*:*:*:*:*:*,Huawei S7700,"['CVE-2014-4705', 'CVE-2014-4706', 'CVE-2014-5394', 'CVE-2014-8570', 'CVE-2014-8572', 'CVE-2015-2808', 'CVE-2015-3913', 'CVE-2015-7846', 'CVE-2015-8676', 'CVE-2015-8677', 'CVE-2016-2404', 'CVE-2016-3678', 'CVE-2016-6518', 'CVE-2016-6670', 'CVE-2016-8773', 'CVE-2016-8785', 'CVE-2016-8786', 'CVE-2016-8797', 'CVE-2017-15327', 'CVE-2017-15333', 'CVE-2017-15346', 'CVE-2017-17135', 'CVE-2017-17136', 'CVE-2017-17137', 'CVE-2017-17138', 'CVE-2017-17141', 'CVE-2017-17250', 'CVE-2017-17300', 'CVE-2017-8147', 'CVE-2019-19397', 'CVE-2019-5285', 'CVE-2020-1866', 'CVE-2021-22321', 'CVE-2021-22329', 'CVE-2021-22357', 'CVE-2021-22377', 'CVE-2021-37129']",2022-03-21T18:41Z
+6,cpe:2.3:h:huawei:s7700:v100r003:*:*:*:*:*:*:*,Huawei S7700 V100R003,['CVE-2012-4960'],2022-03-21T18:41Z
+7,cpe:2.3:h:huawei:s7700:v100r006:*:*:*:*:*:*:*,Huawei S7700 V100R006,['CVE-2012-4960'],2022-03-21T18:41Z
+8,cpe:2.3:o:huawei:s7700_firmware:-:*:*:*:*:*:*:*,Huawei S7700 Firmware -,"['CVE-2014-8572', 'CVE-2015-2800', 'CVE-2015-2808']",2022-03-21T18:41Z
+9,cpe:2.3:o:huawei:s7700_firmware:v2r11c10:*:*:*:*:*:*:*,Huawei S7700 Firmware V2R11C10,"['CVE-2014-8572', 'CVE-2015-2800']",2022-03-21T18:41Z

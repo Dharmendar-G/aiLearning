@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:prime_virtual_network_analysis_module_software:5.1.0:*:*:*:*:*:*:*,Cisco Prime Virtual Network Analysis Module Software 5.1.0,[''],2022-03-19T23:49Z
+1,cpe:2.3:a:cisco:prime_virtual_network_analysis_module_software:6.0.0:*:*:*:*:*:*:*,Cisco Prime Virtual Network Analysis Module Software 6.0.0,"['CVE-2016-1388', 'CVE-2016-1390', 'CVE-2016-1391']",2022-03-19T23:49Z
+2,cpe:2.3:a:cisco:prime_virtual_network_analysis_module_software:6.1.0:*:*:*:*:*:*:*,Cisco Prime Virtual Network Analysis Module Software 6.1.0,"['CVE-2016-1388', 'CVE-2016-1390', 'CVE-2016-1391']",2022-03-19T23:49Z
+3,cpe:2.3:a:cisco:prime_virtual_network_analysis_module_software:6.2.0:*:*:*:*:*:*:*,Cisco Prime Virtual Network Analysis Module Software 6.2.0,"['CVE-2016-1388', 'CVE-2016-1390', 'CVE-2016-1391']",2022-03-19T23:49Z
+4,cpe:2.3:a:cisco:prime_virtual_network_analysis_module_software:6.2.1:*:*:*:*:*:*:*,Cisco Prime Virtual Network Analysis Module Software 6.2.1,['CVE-2016-1391'],2022-03-19T23:49Z
+5,cpe:2.3:a:cisco:proximity:-:*:*:*:*:windows:*:*,Cisco Proximity for Windows,['CVE-2021-1240'],2022-03-19T23:49Z
+6,cpe:2.3:a:cisco:proximity:1.0:*:*:*:*:windows:*:*,Cisco Proximity 1.0 for Windows,['CVE-2021-1240'],2022-03-19T23:49Z
+7,cpe:2.3:a:cisco:proximity:1.1:*:*:*:*:windows:*:*,Cisco Proximity 1.1 for Windows,['CVE-2021-1240'],2022-03-19T23:49Z
+8,cpe:2.3:a:cisco:proximity:1.1.1:*:*:*:*:windows:*:*,Cisco Proximity 1.1.1 for Windows,['CVE-2021-1240'],2022-03-19T23:49Z
+9,cpe:2.3:a:cisco:proximity:2.0.0:*:*:*:*:windows:*:*,Cisco Proximity 2.0.0 for Windows,['CVE-2021-1240'],2022-03-19T23:49Z

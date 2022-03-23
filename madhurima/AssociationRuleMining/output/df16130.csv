@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aida64:aida64:6.00.5100:*:*:*:*:*:*:*,Aida64 6.00.5100,['CVE-2020-19513'],2022-03-18T13:46Z
+1,cpe:2.3:a:aida64:aida64:6.10.5200:*:*:*:*:*:*:*,Aida64 6.10.5200,[''],2022-03-18T13:46Z
+2,cpe:2.3:a:aida64:aida64:6.20.5300:*:*:*:*:*:*:*,Aida64 6.20.5300,[''],2022-03-18T13:46Z
+3,cpe:2.3:a:aida64:aida64:6.25.5400:*:*:*:*:*:*:*,Aida64 6.25.5400,[''],2022-03-18T13:46Z
+4,cpe:2.3:a:aida64:aida64:6.30.5500:*:*:*:*:*:*:*,Aida64 6.30.5500,[''],2022-03-18T13:46Z
+5,cpe:2.3:a:aida64:aida64:6.32.5600:*:*:*:*:*:*:*,Aida64 6.32.5600,[''],2022-03-18T13:46Z
+6,cpe:2.3:a:aifu:cashier_accounting_management_system:-:*:*:*:*:*:*:*,Aifu Cashier Accounting Management System,['CVE-2021-42337'],2022-03-18T13:46Z
+7,cpe:2.3:a:aikcms:aikcms:2.0:*:*:*:*:*:*:*,AikCms 2.0,"['CVE-2019-11567', 'CVE-2019-11568', 'CVE-2020-18462', 'CVE-2020-18463', 'CVE-2020-18464']",2022-03-18T13:46Z
+8,cpe:2.3:a:aimeos_project:aimeos:-:*:*:*:*:typo3:*:*,Aimeos Project Aimeos shop and e-commerce framework - for Typo3,['CVE-2021-28380'],2022-03-18T13:46Z
+9,cpe:2.3:a:aimeos_project:aimeos:19.10.11:*:*:*:*:typo3:*:*,Aimeos Project Aimeos shop and e-commerce framework 19.10.11 for Typo3,['CVE-2021-28380'],2022-03-18T13:46Z

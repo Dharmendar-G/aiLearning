@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:d-bus_project:d-bus:1.6.22:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.6.22,"['CVE-2014-3635', 'CVE-2014-3636', 'CVE-2014-3637', 'CVE-2014-3638', 'CVE-2014-3639', 'CVE-2014-7824', 'CVE-2015-0245']",2022-03-20T11:15Z
+1,cpe:2.3:a:d-bus_project:d-bus:1.6.24:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.6.24,"['CVE-2014-7824', 'CVE-2015-0245']",2022-03-20T11:15Z
+2,cpe:2.3:a:d-bus_project:d-bus:1.6.26:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.6.26,['CVE-2015-0245'],2022-03-20T11:15Z
+3,cpe:2.3:a:d-bus_project:d-bus:1.6.28:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.6.28,['CVE-2015-0245'],2022-03-20T11:15Z
+4,cpe:2.3:a:d-bus_project:d-bus:1.7.0:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.7.0,['CVE-2013-2168'],2022-03-20T11:15Z
+5,cpe:2.3:a:d-bus_project:d-bus:1.7.2:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.7.2,['CVE-2013-2168'],2022-03-20T11:15Z
+6,cpe:2.3:a:d-bus_project:d-bus:1.7.4:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.7.4,[''],2022-03-20T11:15Z
+7,cpe:2.3:a:d-bus_project:d-bus:1.7.6:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.7.6,[''],2022-03-20T11:15Z
+8,cpe:2.3:a:d-bus_project:d-bus:1.8.0:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.8.0,"['CVE-2014-3477', 'CVE-2014-3532', 'CVE-2014-3533', 'CVE-2014-3635', 'CVE-2014-3636', 'CVE-2014-3637', 'CVE-2014-3638', 'CVE-2014-3639', 'CVE-2014-7824', 'CVE-2015-0245']",2022-03-20T11:15Z
+9,cpe:2.3:a:d-bus_project:d-bus:1.8.2:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.8.2,"['CVE-2014-3477', 'CVE-2014-3532', 'CVE-2014-3533', 'CVE-2014-3635', 'CVE-2014-3636', 'CVE-2014-3637', 'CVE-2014-3638', 'CVE-2014-3639', 'CVE-2014-7824', 'CVE-2015-0245']",2022-03-20T11:15Z

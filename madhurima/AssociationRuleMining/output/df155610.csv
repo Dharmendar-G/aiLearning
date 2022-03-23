@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:beta4:*:*:*:*:*:*,Coleman Watts Webform CiviCRM Integration module for Drupal 7.x-3.0-beta4,['CVE-2012-5554'],2022-03-20T06:27Z
+1,cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:beta5:*:*:*:*:*:*,Coleman Watts Webform CiviCRM Integration module for Drupal 7.x-3.0-beta5,['CVE-2012-5554'],2022-03-20T06:27Z
+2,cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:rc1:*:*:*:*:*:*,Coleman Watts Webform CiviCRM Integration module for Drupal 7.x-3.0-rc1,['CVE-2012-5554'],2022-03-20T06:27Z
+3,cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:rc2:*:*:*:*:*:*,Coleman Watts Webform CiviCRM Integration module for Drupal 7.x-3.0-rc2,['CVE-2012-5554'],2022-03-20T06:27Z
+4,cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:rc3:*:*:*:*:*:*,Coleman Watts Webform CiviCRM Integration module for Drupal 7.x-3.0-rc3,['CVE-2012-5554'],2022-03-20T06:27Z
+5,cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:rc4:*:*:*:*:*:*,Coleman Watts Webform CiviCRM Integration module for Drupal 7.x-3.0-rc4,['CVE-2012-5554'],2022-03-20T06:27Z
+6,cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.1:*:*:*:*:*:*:*,Coleman Watts Webform CiviCRM Integration module for Drupal 7.x-3.1,['CVE-2012-5554'],2022-03-20T06:27Z
+7,cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.x:dev:*:*:*:*:*:*,Coleman Watts Webform CiviCRM Integration module for Drupal 7.x-3.x-dev,['CVE-2012-5554'],2022-03-20T06:27Z
+8,cpe:2.3:a:collabnet:automatic_update:1.2:*:*:*:*:*:*:*,Collabnet Automatic Update 1.2,[''],2022-03-20T06:27Z
+9,cpe:2.3:a:collabnet:scrumworks:5.0:-:professional:*:*:*:*:*,CollabNet ScrumWorks Professional 5.0,[''],2022-03-20T06:27Z

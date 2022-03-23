@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:9folders:nine:4.2.2:*:*:*:*:android:*:*,9Folders Nine 4.2.2 for Android,['CVE-2019-12366'],2022-03-18T10:20Z
+1,cpe:2.3:a:9folders:nine:4.2.3:*:*:*:*:android:*:*,9Folders Nine 4.2.3 for Android,['CVE-2019-12366'],2022-03-18T10:20Z
+2,cpe:2.3:a:9folders:nine:4.2.5:*:*:*:*:android:*:*,9Folders Nine 4.2.5 for Android,['CVE-2019-12366'],2022-03-18T10:20Z
+3,cpe:2.3:a:9folders:nine:4.2.6b:*:*:*:*:android:*:*,9Folders Nine 4.2.6b for Android,['CVE-2019-12366'],2022-03-18T10:20Z
+4,cpe:2.3:a:9folders:nine:4.3.0b:*:*:*:*:android:*:*,9Folders Nine 4.3.0b for Android,['CVE-2019-12366'],2022-03-18T10:20Z
+5,cpe:2.3:a:9folders:nine:4.3.0c:*:*:*:*:android:*:*,9Folders Nine 4.3.0c for Android,['CVE-2019-12366'],2022-03-18T10:20Z
+6,cpe:2.3:a:9folders:nine:4.3.1:*:*:*:*:android:*:*,9Folders Nine 4.3.1 for Android,['CVE-2019-12366'],2022-03-18T10:20Z
+7,cpe:2.3:a:9folders:nine:4.4.1e:*:*:*:*:android:*:*,9Folders Nine 4.4.1e for Android,['CVE-2019-12366'],2022-03-18T10:20Z
+8,cpe:2.3:a:9folders:nine:4.5.0b:*:*:*:*:android:*:*,9Folders Nine 4.5.0b for Android,['CVE-2019-12366'],2022-03-18T10:20Z
+9,cpe:2.3:a:9folders:nine:4.5.1d:*:*:*:*:android:*:*,9Folders Nine 4.5.1d for Android,['CVE-2019-12366'],2022-03-18T10:20Z

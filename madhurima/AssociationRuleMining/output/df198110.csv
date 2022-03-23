@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dtc-xen_project:dtc-xen:0.5.10:*:*:*:*:*:*:*,Dtc-xen Project Dtc-xen 0.5.10,[''],2022-03-20T18:34Z
+1,cpe:2.3:a:dtc-xen_project:dtc-xen:0.5.11-1:*:*:*:*:*:*:*,Dtc-xen Project Dtc-xen 0.5.11-1,[''],2022-03-20T18:34Z
+2,cpe:2.3:a:dtc-xen_project:dtc-xen:0.5.12-1:*:*:*:*:*:*:*,Dtc-xen Project Dtc-xen 0.5.12-1,[''],2022-03-20T18:34Z
+3,cpe:2.3:a:dtc-xen_project:dtc-xen:0.5.13-1:*:*:*:*:*:*:*,Dtc-xen Project Dtc-xen 0.5.13-1,[''],2022-03-20T18:34Z
+4,cpe:2.3:a:dte_energy:insight:1.7.7:*:*:*:*:android:*:*,DTE Energy Insight 1.7.7 for Android,['CVE-2016-1562'],2022-03-20T18:34Z
+5,cpe:2.3:a:dteenergy:dte_energy:3.0.3:*:*:*:*:android:*:*,dteenergy DTE Energy (aka com.dteenergy.mydte) for Android 3.0.3,['CVE-2014-6002'],2022-03-20T18:34Z
+6,cpe:2.3:h:dten:d5:-:*:*:*:*:*:*:*,DTEN D5,"['CVE-2019-16271', 'CVE-2019-16272', 'CVE-2019-16273', 'CVE-2019-16274']",2022-03-20T18:34Z
+7,cpe:2.3:o:dten:d5_firmware:1.3:*:*:*:*:*:*:*,DTEN D5 Firmware 1.3,"['CVE-2019-16271', 'CVE-2019-16272', 'CVE-2019-16273']",2022-03-20T18:34Z
+8,cpe:2.3:o:dten:d5_firmware:1.3.2:*:*:*:*:*:*:*,DTEN D5 Firmware 1.3.2,"['CVE-2019-16272', 'CVE-2019-16273']",2022-03-20T18:34Z
+9,cpe:2.3:o:dten:d5_firmware:1.3.4:*:*:*:*:*:*:*,DTEN D5 Firmware 1.3.4,[''],2022-03-20T18:34Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cs-cart:cs-cart:4.3.10:*:*:ja:*:*:*:*,CS-Cart CS-Cart 4.3.10 Japanese,"['CVE-2017-10886', 'CVE-2017-15673']",2022-03-20T09:13Z
+1,cpe:2.3:a:cs-cart:cs-cart:4.4.1:*:*:*:*:*:*:*,CS-Cart 4.4.1,['CVE-2017-15673'],2022-03-20T09:13Z
+2,cpe:2.3:a:cs-cart:cs-cart:4.4.2:*:*:*:*:*:*:*,CS-Cart 4.4.2,['CVE-2017-15673'],2022-03-20T09:13Z
+3,cpe:2.3:a:cs-cart:cs-cart:4.4.3:*:*:*:*:*:*:*,CS-Cart 4.4.3,['CVE-2017-15673'],2022-03-20T09:13Z
+4,cpe:2.3:a:cs-cart:cs-cart:4.5.1:*:*:*:*:*:*:*,CS-Cart 4.5.1,['CVE-2017-15673'],2022-03-20T09:13Z
+5,cpe:2.3:a:cs-cart:cs-cart:4.5.2:*:*:*:*:*:*:*,CS-Cart 4.5.2,['CVE-2017-15673'],2022-03-20T09:13Z
+6,cpe:2.3:a:cs-cart:cs-cart:4.6.1:*:*:*:*:*:*:*,CS-Cart 4.6.1,['CVE-2017-15673'],2022-03-20T09:13Z
+7,cpe:2.3:a:cs-cart:cs-cart:4.6.2:*:*:*:*:*:*:*,CS-Cart 4.6.2,['CVE-2017-15673'],2022-03-20T09:13Z
+8,cpe:2.3:a:cs-cart:cs-cart:4.6.3:*:*:*:*:*:*:*,CS-Cart 4.6.3,[''],2022-03-20T09:13Z
+9,cpe:2.3:a:cs-cart:cs-cart:4.7.1:*:*:*:*:*:*:*,CS-Cart 4.7.1,[''],2022-03-20T09:13Z

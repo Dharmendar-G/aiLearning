@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hostr_project:hostr:2.3.2:*:*:*:*:node.js:*:*,hostr project hostr 2.3.2 for Node.js,['CVE-2017-16029'],2022-03-21T12:41Z
+1,cpe:2.3:a:hostr_project:hostr:2.3.3:*:*:*:*:node.js:*:*,hostr project hostr 2.3.3 for Node.js,['CVE-2017-16029'],2022-03-21T12:41Z
+2,cpe:2.3:a:hostr_project:hostr:2.3.4:*:*:*:*:node.js:*:*,hostr project hostr 2.3.4 for Node.js,['CVE-2017-16029'],2022-03-21T12:41Z
+3,cpe:2.3:a:hostr_project:hostr:2.3.5:*:*:*:*:node.js:*:*,hostr project hostr 2.3.5 for Node.js,['CVE-2017-16029'],2022-03-21T12:41Z
+4,cpe:2.3:a:hostr_project:hostr:2.3.6:*:*:*:*:node.js:*:*,hostr project hostr 2.3.6 for Node.js,[''],2022-03-21T12:41Z
+5,cpe:2.3:a:hostr_project:hostr:2.3.7:*:*:*:*:node.js:*:*,hostr project hostr 2.3.7 for Node.js,[''],2022-03-21T12:41Z
+6,cpe:2.3:h:hot:hotbox_router:-:*:*:*:*:*:*:*,HOT HOTBOX Router,"['CVE-2013-5037', 'CVE-2013-5038', 'CVE-2013-5039', 'CVE-2013-5218', 'CVE-2013-5219', 'CVE-2013-5220']",2022-03-21T12:41Z
+7,cpe:2.3:o:hot:hotbox_router_firmware:2.1.11:*:*:*:*:*:*:*,HOT HOTBOX Router firmware 2.1.11,"['CVE-2013-5037', 'CVE-2013-5038', 'CVE-2013-5039', 'CVE-2013-5218', 'CVE-2013-5219', 'CVE-2013-5220']",2022-03-21T12:42Z
+8,cpe:2.3:a:hot_scripts_clone_project:hot_scripts_clone:3.1:*:*:*:*:*:*:*,Hot Scripts Clone Project Hot Scripts Clone 3.1,"['CVE-2017-17612', 'CVE-2018-6878', 'CVE-2018-6903', 'CVE-2018-7650']",2022-03-21T12:42Z
+9,cpe:2.3:a:hot_scripts_clone_project:hot_scripts_clone:3.1.1:*:*:*:*:*:*:*,Hot Scripts Clone Project Hot Scripts Clone 3.1.1,[''],2022-03-21T12:42Z

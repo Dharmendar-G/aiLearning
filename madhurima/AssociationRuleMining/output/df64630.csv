@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:avaya:libsafe:2.0.7:*:*:*:*:*:*:*,Avaya Libsafe 2.0.7,['CVE-2005-1125'],2022-03-19T04:18Z
+1,cpe:2.3:a:avaya:libsafe:2.0.8:*:*:*:*:*:*:*,Avaya Libsafe 2.0.8,['CVE-2005-1125'],2022-03-19T04:18Z
+2,cpe:2.3:a:avaya:libsafe:2.0.9:*:*:*:*:*:*:*,Avaya Libsafe 2.0.9,"['CVE-2002-0175', 'CVE-2002-0176', 'CVE-2005-1125']",2022-03-19T04:18Z
+3,cpe:2.3:a:avaya:libsafe:2.0.10:*:*:*:*:*:*:*,Avaya Libsafe 2.0.10,"['CVE-2002-0175', 'CVE-2002-0176', 'CVE-2005-1125']",2022-03-19T04:18Z
+4,cpe:2.3:a:avaya:libsafe:2.0.11:*:*:*:*:*:*:*,Avaya Libsafe 2.0.11,"['CVE-2002-0175', 'CVE-2002-0176', 'CVE-2005-1125']",2022-03-19T04:18Z
+5,cpe:2.3:a:avaya:libsafe:2.0.12:*:*:*:*:*:*:*,Avaya Libsafe 2.0.12,['CVE-2005-1125'],2022-03-19T04:18Z
+6,cpe:2.3:a:avaya:libsafe:2.0.13:*:*:*:*:*:*:*,Avaya Libsafe 2.0.13,['CVE-2005-1125'],2022-03-19T04:18Z
+7,cpe:2.3:a:avaya:libsafe:2.0.14:*:*:*:*:*:*:*,Avaya Libsafe 2.0.14,['CVE-2005-1125'],2022-03-19T04:18Z
+8,cpe:2.3:a:avaya:libsafe:2.0.15:*:*:*:*:*:*:*,Avaya Libsafe 2.0.15,['CVE-2005-1125'],2022-03-19T04:18Z
+9,cpe:2.3:a:avaya:libsafe:2.0.16:*:*:*:*:*:*:*,Avaya Libsafe 2.0.16,['CVE-2005-1125'],2022-03-19T04:18Z

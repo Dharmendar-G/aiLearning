@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:a5:*:*:*:*:*:*,C-Blosc2 Project C-Blosc2 2.0.0 A5,['CVE-2020-29367'],2022-03-19T15:50Z
+1,cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta1:*:*:*:*:*:*,C-Blosc2 Project C-Blosc2 2.0.0 Beta 1,['CVE-2020-29367'],2022-03-19T15:50Z
+2,cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta2:*:*:*:*:*:*,C-Blosc2 Project C-Blosc2 2.0.0 Beta 2,['CVE-2020-29367'],2022-03-19T15:50Z
+3,cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta3:*:*:*:*:*:*,C-Blosc2 Project C-Blosc2 2.0.0 Beta 3,['CVE-2020-29367'],2022-03-19T15:50Z
+4,cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta4:*:*:*:*:*:*,C-Blosc2 Project C-Blosc2 2.0.0 Beta 4,['CVE-2020-29367'],2022-03-19T15:50Z
+5,cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta5:*:*:*:*:*:*,C-Blosc2 Project C-Blosc2 2.0.0 Beta 5,['CVE-2020-29367'],2022-03-19T15:50Z
+6,cpe:2.3:a:c-board_moyuku_project:c-board_moyuku:1.01:b1:*:*:*:*:*:*,C-BOARD Moyuku 1.01b1,"['CVE-2014-2002', 'CVE-2015-0877']",2022-03-19T15:50Z
+7,cpe:2.3:a:c-board_moyuku_project:c-board_moyuku:1.01:b2:*:*:*:*:*:*,C-BOARD Moyuku 1.01b2,"['CVE-2014-2002', 'CVE-2015-0877']",2022-03-19T15:50Z
+8,cpe:2.3:a:c-board_moyuku_project:c-board_moyuku:1.01:b3:*:*:*:*:*:*,C-BOARD Moyuku 1.01b3,"['CVE-2014-2002', 'CVE-2015-0877']",2022-03-19T15:50Z
+9,cpe:2.3:a:c-board_moyuku_project:c-board_moyuku:1.01:b4:*:*:*:*:*:*,C-BOARD Moyuku 1.01b4,"['CVE-2014-2002', 'CVE-2015-0877']",2022-03-19T15:50Z

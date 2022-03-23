@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:c8200-1n-4t:-:*:*:*:*:*:*:*,Cisco C8200-1N-4T,"['CVE-2021-1495', 'CVE-2021-1620']",2022-03-19T18:48Z
+1,cpe:2.3:h:cisco:c8200l-1n-4t:-:*:*:*:*:*:*:*,Cisco C8200L-1N-4T,"['CVE-2021-1495', 'CVE-2021-1620']",2022-03-19T18:48Z
+2,cpe:2.3:h:cisco:c866vae_integrated_services_router:-:*:*:*:*:*:*:*,Cisco C866vae Integrated Services Router -,['CVE-2018-0163'],2022-03-19T18:48Z
+3,cpe:2.3:h:cisco:c867vae_integrated_services_router:-:*:*:*:*:*:*:*,Cisco C867vae Integrated Services Router -,['CVE-2018-0163'],2022-03-19T18:48Z
+4,cpe:2.3:h:cisco:c881_integrated_services_router:-:*:*:*:*:*:*:*,Cisco C881 Integrated Services Router -,['CVE-2018-0163'],2022-03-19T18:48Z
+5,cpe:2.3:h:cisco:c881w_integrated_services_router:-:*:*:*:*:*:*:*,Cisco C881W Integrated Services Router,"['CVE-2013-1241', 'CVE-2018-0163']",2022-03-19T18:48Z
+6,cpe:2.3:h:cisco:c886va_integrated_services_routers:-:*:*:*:*:*:*:*,Cisco C886va Integrated Services Routers -,['CVE-2018-0163'],2022-03-19T18:48Z
+7,cpe:2.3:h:cisco:c886vaj_integrated_services_router:-:*:*:*:*:*:*:*,Cisco C886vaj Integrated Services Router -,['CVE-2018-0163'],2022-03-19T18:48Z
+8,cpe:2.3:h:cisco:c887va_integrated_services_routers:-:*:*:*:*:*:*:*,Cisco C887va Integrated Services Routers -,['CVE-2018-0163'],2022-03-19T18:48Z
+9,cpe:2.3:h:cisco:c887vam_integrated_services_routers:-:*:*:*:*:*:*:*,Cisco C887vam Integrated Services Routers -,['CVE-2018-0163'],2022-03-19T18:48Z

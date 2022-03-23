@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:unified_ip_conference_station_7937g_firmware:1.4.4.0:*:*:*:*:*:*:*,Cisco Unified IP Conference Station 7937G Firmware 1.4.4.0,"['CVE-2020-16137', 'CVE-2020-16138', 'CVE-2020-16139']",2022-03-20T00:53Z
+1,cpe:2.3:o:cisco:unified_ip_conference_station_7937g_firmware:1.4.5.7:*:*:*:*:*:*:*,Cisco Unified IP Conference Station 7937G Firmware 1.4.5.7,"['CVE-2020-16137', 'CVE-2020-16138', 'CVE-2020-16139']",2022-03-20T00:53Z
+2,cpe:2.3:o:cisco:unified_ip_conference_station_firmware_7936:3.3\(12\):*:*:*:*:*:*:*,Cisco Unified Ip Conference Station Firmware 7936 3.3(12),['CVE-2007-1062'],2022-03-20T00:53Z
+3,cpe:2.3:h:cisco:unified_ip_conferenece_phone_8831:-:*:*:*:*:*:*:*,Cisco Unified Ip Conferenece Phone 8831 -,['CVE-2019-1716'],2022-03-20T00:53Z
+4,cpe:2.3:o:cisco:unified_ip_conferenece_phone_8831_firmware:10.3\(1\)sr5:*:*:*:*:*:*:*,Cisco Unified Ip Conferenece Phone 8831 Firmware 10.3(1)sr5,[''],2022-03-20T00:53Z
+5,cpe:2.3:h:cisco:unified_ip_interactive_voice_response:-:*:*:*:*:*:*:*,Cisco Unified IP Interactive Voice Response (Cisco Unified IP IVR),['CVE-2011-3315'],2022-03-20T00:53Z
+6,cpe:2.3:a:cisco:unified_ip_interactive_voice_response:8.5\(1\):*:*:*:*:*:*:*,Cisco Unified IP Interactive Voice Response (IVR) 8.5(1),[''],2022-03-20T00:53Z
+7,cpe:2.3:a:cisco:unified_ip_interactive_voice_response:9.0\(1\):*:*:*:*:*:*:*,Cisco Unified IP Interactive Voice Response (IVR) 9.0(1),[''],2022-03-20T00:53Z
+8,cpe:2.3:a:cisco:unified_ip_interactive_voice_response:9.0\(2\):*:*:*:*:*:*:*,Cisco Unified IP Interactive Voice Response (IVR) 9.0(2),[''],2022-03-20T00:53Z
+9,cpe:2.3:a:cisco:unified_ip_interactive_voice_response:10.0\(1\):*:*:*:*:*:*:*,Cisco Unified IP Interactive Voice Response (IVR) 10.0(1),[''],2022-03-20T00:53Z

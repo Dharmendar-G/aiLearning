@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:j9626a_firmware:ra.15.15.0014:*:*:*:*:*:*:*,HP J9626a Firmware Ra.15.15.0014,[''],2022-03-21T13:45Z
+1,cpe:2.3:h:hp:j9627a:-:*:*:*:*:*:*:*,HP J9627A,['CVE-2017-5796'],2022-03-21T13:45Z
+2,cpe:2.3:o:hp:j9627a_firmware:ra.15.15.0014:*:*:*:*:*:*:*,HP J9627a Firmware Ra.15.15.0014,[''],2022-03-21T13:45Z
+3,cpe:2.3:h:hp:j9638a:-:*:*:*:*:*:*:*,HP J9638A 8206-44G-PoE+-2XG v2 zl Swch w Pm SW,"['CVE-2015-6859', 'CVE-2015-6860']",2022-03-21T13:45Z
+4,cpe:2.3:h:hp:j9639a:-:*:*:*:*:*:*:*,HP J9639A 8212-92G-PoE+-2XG v2 zl Swch w Pm SW,"['CVE-2015-6859', 'CVE-2015-6860']",2022-03-21T13:45Z
+5,cpe:2.3:h:hp:j9640a:-:*:*:*:*:*:*:*,HP J9640A 8206 zl Switch w/Premium Software,"['CVE-2015-6859', 'CVE-2015-6860']",2022-03-21T13:45Z
+6,cpe:2.3:h:hp:j9641a:-:*:*:*:*:*:*:*,HP J9641A 8212 zl Switch with Premium SW,"['CVE-2015-6859', 'CVE-2015-6860']",2022-03-21T13:45Z
+7,cpe:2.3:h:hp:j9642a:-:*:*:*:*:*:*:*,HP J9642A 5406 zl Switch with Premium Software,"['CVE-2015-6859', 'CVE-2015-6860']",2022-03-21T13:45Z
+8,cpe:2.3:h:hp:j9643a:-:*:*:*:*:*:*:*,HP J9643A 5412 zl Switch with Premium Software,"['CVE-2015-6859', 'CVE-2015-6860']",2022-03-21T13:45Z
+9,cpe:2.3:h:hp:j9821a:-:*:*:*:*:*:*:*,HP J9821A 5406R zl2 Switch,"['CVE-2015-6859', 'CVE-2015-6860']",2022-03-21T13:45Z

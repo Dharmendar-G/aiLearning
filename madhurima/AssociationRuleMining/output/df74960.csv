@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:betcash_project:betcash:-:*:*:*:*:*:*:*,Betcash Project Betcash,['CVE-2018-13076'],2022-03-19T07:27Z
+1,cpe:2.3:a:betster_project:betster:1.0.4:*:*:*:*:*:*:*,Betster project Betster 1.0.4,['CVE-2015-2237'],2022-03-19T07:27Z
+2,cpe:2.3:a:better_errors_project:better_errors:0.0.1:*:*:*:*:ruby:*:*,Better Errors Project Better Errors 0.0.1 for Ruby,['CVE-2021-39197'],2022-03-19T07:27Z
+3,cpe:2.3:a:better_errors_project:better_errors:0.0.2:*:*:*:*:ruby:*:*,Better Errors Project Better Errors 0.0.2 for Ruby,['CVE-2021-39197'],2022-03-19T07:27Z
+4,cpe:2.3:a:better_errors_project:better_errors:0.0.3:*:*:*:*:ruby:*:*,Better Errors Project Better Errors 0.0.3 for Ruby,['CVE-2021-39197'],2022-03-19T07:27Z
+5,cpe:2.3:a:better_errors_project:better_errors:0.0.4:*:*:*:*:ruby:*:*,Better Errors Project Better Errors 0.0.4 for Ruby,['CVE-2021-39197'],2022-03-19T07:27Z
+6,cpe:2.3:a:better_errors_project:better_errors:0.0.5:*:*:*:*:ruby:*:*,Better Errors Project Better Errors 0.0.5 for Ruby,['CVE-2021-39197'],2022-03-19T07:27Z
+7,cpe:2.3:a:better_errors_project:better_errors:0.0.6:*:*:*:*:ruby:*:*,Better Errors Project Better Errors 0.0.6 for Ruby,['CVE-2021-39197'],2022-03-19T07:27Z
+8,cpe:2.3:a:better_errors_project:better_errors:0.0.7:*:*:*:*:ruby:*:*,Better Errors Project Better Errors 0.0.7 for Ruby,['CVE-2021-39197'],2022-03-19T07:27Z
+9,cpe:2.3:a:better_errors_project:better_errors:0.0.8:*:*:*:*:ruby:*:*,Better Errors Project Better Errors 0.0.8 for Ruby,['CVE-2021-39197'],2022-03-19T07:27Z

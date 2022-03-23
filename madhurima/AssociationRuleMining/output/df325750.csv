@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:mpe_ix:-:*:*:*:*:*:*:*,HP mpe ix,"['CVE-1999-0447', 'CVE-1999-1136', 'CVE-2001-0278']",2022-03-21T15:21Z
+1,cpe:2.3:o:hp:mpe_ix:4.5:*:*:*:*:*:*:*,HP mpe ix 4.5,"['CVE-1999-0447', 'CVE-1999-1136', 'CVE-2000-0616', 'CVE-2001-0278']",2022-03-21T15:22Z
+2,cpe:2.3:o:hp:mpe_ix:5.0:*:*:*:*:*:*:*,HP mpe ix 5.0,"['CVE-1999-0447', 'CVE-1999-1136', 'CVE-2000-0616', 'CVE-2001-0278']",2022-03-21T15:22Z
+3,cpe:2.3:o:hp:mpe_ix:5.5:*:*:*:*:*:*:*,HP mpe ix 5.5,"['CVE-1999-0447', 'CVE-1999-1136', 'CVE-2000-0616', 'CVE-2001-0267', 'CVE-2001-0278']",2022-03-21T15:22Z
+4,cpe:2.3:o:hp:mpe_ix:6.0:*:*:*:*:*:*:*,HP mpe ix 6.0,"['CVE-1999-0447', 'CVE-2000-0616', 'CVE-2001-0278', 'CVE-2002-0609', 'CVE-2002-0610']",2022-03-21T15:22Z
+5,cpe:2.3:o:hp:mpe_ix:6.5:*:*:*:*:*:*:*,HP mpe ix 6.5,"['CVE-1999-0447', 'CVE-2000-0616', 'CVE-2001-0278', 'CVE-2002-0609', 'CVE-2002-0610']",2022-03-21T15:22Z
+6,cpe:2.3:o:hp:mpe_ix:7.0:*:*:*:*:*:*:*,HP mpe ix 7.0,"['CVE-1999-0447', 'CVE-2002-0609', 'CVE-2002-0610']",2022-03-21T15:22Z
+7,cpe:2.3:a:hp:mpio_full_featured_dsm_for_eva4x00\/6x00\/8x00_family_of_disk_arrays:4.0.0:*:*:*:*:*:*:*,HP Mpio Full Featured Dsm For Eva4x00/6x00/8x00 Family Of Disk Arrays 4.0.0,[''],2022-03-21T15:22Z
+8,cpe:2.3:h:hp:msa_1040_san_storage:-:*:*:*:*:*:*:*,HP MSA 1040 SAN Storage,"['CVE-2017-8959', 'CVE-2017-8960']",2022-03-21T15:22Z
+9,cpe:2.3:o:hp:msa_1040_san_storage_firmware:gl220p008:*:*:*:*:*:*:*,HP Msa 1040 San Storage Firmware Gl220p008,"['CVE-2017-8959', 'CVE-2017-8960']",2022-03-21T15:22Z

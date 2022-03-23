@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:directwebremoting:direct_web_remoting:3.0:rc1:*:*:*:*:*:*,Direct Web Remoting 3.0 release candidate 1,"['CVE-2014-5325', 'CVE-2014-5326']",2022-03-20T14:59Z
+1,cpe:2.3:a:directwebremoting:direct_web_remoting:3.0:rc2:*:*:*:*:*:*,Direct Web Remoting 3.0 release candidate 2,"['CVE-2014-5325', 'CVE-2014-5326']",2022-03-20T14:59Z
+2,cpe:2.3:a:dirlist:dirlist_php:0.1.1:*:*:*:*:*:*:*,PHP dirLIST 0.1.1,"['CVE-2007-3967', 'CVE-2007-3968']",2022-03-20T14:59Z
+3,cpe:2.3:a:dirphp_project:dirphp:1.0:*:*:*:*:*:*:*,DirPHP Project DirPHP 1.0,['CVE-2014-5115'],2022-03-20T14:59Z
+4,cpe:2.3:a:disable_comments:disable_comments_project:0.2:*:*:*:*:wordpress:*:*,Disable Comments Disable Comments Project 0.2 for WordPress,['CVE-2014-2550'],2022-03-20T14:59Z
+5,cpe:2.3:a:disable_comments:disable_comments_project:0.2.1:*:*:*:*:wordpress:*:*,Disable Comments Disable Comments Project 0.2.1 for WordPress,['CVE-2014-2550'],2022-03-20T14:59Z
+6,cpe:2.3:a:disable_comments:disable_comments_project:0.3:*:*:*:*:wordpress:*:*,Disable Comments Disable Comments Project 0.3 for WordPress,['CVE-2014-2550'],2022-03-20T14:59Z
+7,cpe:2.3:a:disable_comments:disable_comments_project:0.3.1:*:*:*:*:wordpress:*:*,Disable Comments Disable Comments Project 0.3.1 for WordPress,['CVE-2014-2550'],2022-03-20T14:59Z
+8,cpe:2.3:a:disable_comments:disable_comments_project:0.3.2:*:*:*:*:wordpress:*:*,Disable Comments Disable Comments Project 0.3.2 for WordPress,['CVE-2014-2550'],2022-03-20T14:59Z
+9,cpe:2.3:a:disable_comments:disable_comments_project:0.3.3:*:*:*:*:wordpress:*:*,Disable Comments Disable Comments Project 0.3.3 for WordPress,['CVE-2014-2550'],2022-03-20T14:59Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,cpe:2.3:a:cloudbees:jenkins:1.447:-:lts:*:*:*:*:*,CloudBees Jenkins 1.447 LTS,"['CVE-2012-0324', 'CVE-2012-0325', 'CVE-2012-6072', 'CVE-2012-6073', 'CVE-2012-6074', 'CVE-2013-0158', 'CVE-2013-2034']",2022-03-20T02:50Z
+6,[0],[0],[0],[0]
+7,cpe:2.3:a:cloudbees:jenkins:1.447.1.1:-:enterprise:*:*:*:*:*,CloudBees Jenkins 1.447.1.1 enterprise,"['CVE-2012-0324', 'CVE-2012-0325', 'CVE-2012-6072', 'CVE-2012-6073', 'CVE-2012-6074', 'CVE-2013-0158', 'CVE-2013-2034']",2022-03-20T02:50Z
+8,[0],[0],[0],[0]
+9,cpe:2.3:a:cloudbees:jenkins:1.447.2.2:-:enterprise:*:*:*:*:*,CloudBees Jenkins 1.447.2.2 enterprise,"['CVE-2012-0324', 'CVE-2012-0325', 'CVE-2012-6072', 'CVE-2012-6073', 'CVE-2012-6074', 'CVE-2013-0158', 'CVE-2013-2034']",2022-03-20T02:50Z

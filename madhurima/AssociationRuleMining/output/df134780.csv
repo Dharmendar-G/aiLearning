@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:spa_514g_4-line_ip_phone:-:*:*:*:*:*:*:*,Cisco SPA 514G 4-Line IP Phone,"['CVE-2011-2545', 'CVE-2014-3312', 'CVE-2014-3313', 'CVE-2015-0670']",2022-03-20T00:21Z
+1,cpe:2.3:o:cisco:spa_514g_firmware:-:*:*:*:*:*:*:*,Cisco SPA 514G Firmware,[''],2022-03-20T00:21Z
+2,cpe:2.3:o:cisco:spa_514g_firmware:7.6.2:sr1:*:*:*:*:*:*,Cisco SPA 514G Firmware 7.6.2 SR1,"['CVE-2017-12219', 'CVE-2017-12260']",2022-03-20T00:21Z
+3,cpe:2.3:o:cisco:spa_514g_firmware:7.6.2:sr1:*:*:*:*:*:*,Cisco SPA 514G Firmware 7.6.2 SR1,"['CVE-2017-12219', 'CVE-2017-12260']",2022-03-20T00:21Z
+4,cpe:2.3:h:cisco:spa_525g:-:*:*:*:*:*:*:*,Cisco SPA 525G,['CVE-2017-12260'],2022-03-20T00:21Z
+5,cpe:2.3:h:cisco:spa_525g_5-line_ip_phone:-:*:*:*:*:*:*:*,Cisco SPA 525G 5-line IP Phone with Color Display,"['CVE-2011-2545', 'CVE-2014-3312', 'CVE-2014-3313', 'CVE-2015-0670']",2022-03-20T00:21Z
+6,cpe:2.3:o:cisco:spa_525g_firmware:7.6.2:sr1:*:*:*:*:*:*,Cisco SPA 525G Firmware 7.6.2 SR1,['CVE-2017-12260'],2022-03-20T00:21Z
+7,cpe:2.3:h:cisco:spa_525g2:-:*:*:*:*:*:*:*,Cisco SPA 525G2,['CVE-2015-6403'],2022-03-20T00:21Z
+8,cpe:2.3:h:cisco:spa_525g2_5-line_ip_phone:-:*:*:*:*:*:*:*,Cisco SPA 525G2 5-line IP Phone with Color Display,"['CVE-2011-2545', 'CVE-2014-3312', 'CVE-2014-3313', 'CVE-2015-0670']",2022-03-20T00:21Z
+9,cpe:2.3:h:cisco:spa112:-:*:*:*:*:*:*:*,Cisco SPA112 -,"['CVE-2019-12702', 'CVE-2019-12704', 'CVE-2019-12708', 'CVE-2019-15240', 'CVE-2019-15241', 'CVE-2019-15242', 'CVE-2019-15243', 'CVE-2019-15244', 'CVE-2019-15245', 'CVE-2019-15246', 'CVE-2019-15247', 'CVE-2019-15248', 'CVE-2019-15249', 'CVE-2019-15250', 'CVE-2019-15251', 'CVE-2019-15252', 'CVE-2019-15257', 'CVE-2019-15258', 'CVE-2019-1683']",2022-03-20T00:21Z

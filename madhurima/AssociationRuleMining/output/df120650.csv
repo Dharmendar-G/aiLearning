@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:industrial_ethernet_2000_8tc-g-l_switch:-:*:*:*:*:*:*:*,Cisco Industrial Ethernet 2000 8TC-G-L Switch,['CVE-2017-3812'],2022-03-19T20:08Z
+1,cpe:2.3:h:cisco:industrial_ethernet_2000_8tc-g-n_switch:-:*:*:*:*:*:*:*,Cisco Industrial Ethernet 2000 8TC-G-N Switch,['CVE-2017-3812'],2022-03-19T20:08Z
+2,cpe:2.3:h:cisco:industrial_ethernet_2000_8tc-l_switch:-:*:*:*:*:*:*:*,Cisco Industrial Ethernet 2000 8TC-L Switch,['CVE-2017-3812'],2022-03-19T20:08Z
+3,cpe:2.3:h:cisco:industrial_ethernet_2000_series_firmware:15.2\(5.4.32i\)e2:*:*:*:*:*:*:*,Cisco Industrial Ethernet 2000 Series Firmware 15.2(5.4.32i)E2,['CVE-2017-3812'],2022-03-19T20:08Z
+4,cpe:2.3:o:cisco:industrial_ethernet_2000_series_firmware:15.2\(6\)e:*:*:*:*:*:*:*,Cisco Industrial Ethernet 2000 Series Firmware 15.2(6)e,['CVE-2019-12656'],2022-03-19T20:08Z
+5,cpe:2.3:o:cisco:industrial_ethernet_4010_series_firmware:-:*:*:*:*:*:*:*,Cisco Industrial Ethernet 4010 Series Firmware -,['CVE-2018-0088'],2022-03-19T20:08Z
+6,cpe:2.3:a:cisco:industrial_network_director:1.0.0:*:*:*:*:*:*:*,Cisco Industrial Network Director (IND) 1.0.0,"['CVE-2018-15392', 'CVE-2019-15973', 'CVE-2019-1861', 'CVE-2019-1940', 'CVE-2019-1976', 'CVE-2020-3567']",2022-03-19T20:08Z
+7,cpe:2.3:a:cisco:industrial_network_director:1.1\(0.176\):*:*:*:*:*:*:*,Cisco Industrial Network Director 1.1(0.176),"['CVE-2017-6675', 'CVE-2018-15392', 'CVE-2019-15973', 'CVE-2019-1861', 'CVE-2019-1940', 'CVE-2019-1976', 'CVE-2020-3567']",2022-03-19T20:08Z
+8,cpe:2.3:a:cisco:industrial_network_director:1.1.0:*:*:*:*:*:*:*,Cisco Industrial Network Director (IND) 1.1.0,"['CVE-2018-15392', 'CVE-2019-15973', 'CVE-2019-1861', 'CVE-2019-1940', 'CVE-2019-1976', 'CVE-2020-3567']",2022-03-19T20:08Z
+9,cpe:2.3:a:cisco:industrial_network_director:1.2.0:*:*:*:*:*:*:*,Cisco Industrial Network Director (IND) 1.2.0,"['CVE-2018-15392', 'CVE-2019-15973', 'CVE-2019-1861', 'CVE-2019-1940', 'CVE-2019-1976', 'CVE-2020-3567']",2022-03-19T20:08Z

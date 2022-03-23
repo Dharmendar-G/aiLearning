@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:jg362a_hp_hsr6804_router_chassis:-:*:*:*:*:*:*:*,HP JG362A HP HSR6804 Router Chassis,['CVE-2015-5434'],2022-03-21T13:52Z
+1,cpe:2.3:h:hp:jg362b:-:*:*:*:*:*:*:*,HP JG784A HP FF 12518E AC Switch Chassis,[''],2022-03-21T13:52Z
+2,cpe:2.3:h:hp:jg362b_hp_hsr6804_router_chassis:-:*:*:*:*:*:*:*,HP JG362B HP HSR6804 Router Chassis,['CVE-2015-5434'],2022-03-21T13:52Z
+3,cpe:2.3:h:hp:jg363a:-:*:*:*:*:*:*:*,HP JG404A HP MSR3064 Router,[''],2022-03-21T13:52Z
+4,cpe:2.3:h:hp:jg363a_hp_hsr6808_router_chassis:-:*:*:*:*:*:*:*,HP JG363A HP HSR6808 Router Chassis,['CVE-2015-5434'],2022-03-21T13:52Z
+5,cpe:2.3:h:hp:jg363b:-:*:*:*:*:*:*:*,HP JG776A HP HSR6602-G TAA-compliant Router,[''],2022-03-21T13:52Z
+6,cpe:2.3:h:hp:jg363b_hp_hsr6808_router_chassis:-:*:*:*:*:*:*:*,HP JG363B HP HSR6808 Router Chassis,['CVE-2015-5434'],2022-03-21T13:52Z
+7,cpe:2.3:h:hp:jg364a:-:*:*:*:*:*:*:*,HP JG407A HP MSR3024 DC Router,[''],2022-03-21T13:52Z
+8,cpe:2.3:h:hp:jg364a_hp_hsr6800_rse-x2_router_main_processing_unit:-:*:*:*:*:*:*:*,HP JG364A HP HSR6800 RSE-X2 Router Main Processing Unit,['CVE-2015-5434'],2022-03-21T13:52Z
+9,cpe:2.3:h:hp:jg402a:-:*:*:*:*:*:*:*,HP JG783A HP FF 12508E DC Switch Chassis,[''],2022-03-21T13:52Z

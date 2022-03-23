@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:device42:remote_collector:17.05.01:*:*:*:*:*:*:*,Device42 Remote Collector (RC) 17.05.01,[''],2022-03-20T13:41Z
+1,cpe:2.3:a:devicelock:devicelock:6.0:*:*:*:*:*:*:*,Device Lock 6.0,[''],2022-03-20T13:41Z
+2,cpe:2.3:a:devicelock:devicelock:6.1:*:*:*:*:*:*:*,Device Lock 6.1,[''],2022-03-20T13:41Z
+3,cpe:2.3:a:devicelock:devicelock:6.1.1:*:*:*:*:*:*:*,Device Lock 6.1.1,[''],2022-03-20T13:41Z
+4,cpe:2.3:a:devicelock:devicelock:6.2:*:*:*:*:*:*:*,Device Lock 6.2,[''],2022-03-20T13:41Z
+5,cpe:2.3:a:devicelock:devicelock:6.2.1:*:*:*:*:*:*:*,Device Lock 6.2.1,[''],2022-03-20T13:41Z
+6,cpe:2.3:a:devicelock:devicelock:6.3:*:*:*:*:*:*:*,Device Lock 6.3,[''],2022-03-20T13:41Z
+7,cpe:2.3:a:devicelock:devicelock:6.4:*:*:*:*:*:*:*,Device Lock 6.4,[''],2022-03-20T13:41Z
+8,cpe:2.3:a:devicelock:devicelock:6.4.1:*:*:*:*:*:*:*,Device Lock 6.4.1,[''],2022-03-20T13:41Z
+9,cpe:2.3:a:devicelock:devicelock:7.0:*:*:*:*:*:*:*,Device Lock 7.0,[''],2022-03-20T13:41Z

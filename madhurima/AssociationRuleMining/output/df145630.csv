@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cloudfoundry:cf-deployment:16.7.0:*:*:*:*:*:*:*,Cloud Foundry CF-Deployment 16.7.0,"['CVE-2021-22001', 'CVE-2021-22098', 'CVE-2021-22101']",2022-03-20T03:10Z
+1,cpe:2.3:a:cloudfoundry:cf-deployment:16.8.0:*:*:*:*:*:*:*,Cloud Foundry CF-Deployment 16.8.0,"['CVE-2021-22001', 'CVE-2021-22098', 'CVE-2021-22101']",2022-03-20T03:10Z
+2,cpe:2.3:a:cloudfoundry:cf-deployment:16.9.0:*:*:*:*:*:*:*,Cloud Foundry CF-Deployment 16.9.0,"['CVE-2021-22001', 'CVE-2021-22098', 'CVE-2021-22101']",2022-03-20T03:10Z
+3,cpe:2.3:a:cloudfoundry:cf-deployment:16.10.0:*:*:*:*:*:*:*,Cloud Foundry CF-Deployment 16.10.0,"['CVE-2021-22001', 'CVE-2021-22098', 'CVE-2021-22101']",2022-03-20T03:10Z
+4,cpe:2.3:a:cloudfoundry:cf-deployment:16.11.0:*:*:*:*:*:*:*,Cloud Foundry CF-Deployment 16.11.0,"['CVE-2021-22001', 'CVE-2021-22098', 'CVE-2021-22101']",2022-03-20T03:10Z
+5,cpe:2.3:a:cloudfoundry:cf-deployment:16.12.0:*:*:*:*:*:*:*,Cloud Foundry CF-Deployment 16.12.0,"['CVE-2021-22001', 'CVE-2021-22098', 'CVE-2021-22101']",2022-03-20T03:10Z
+6,cpe:2.3:a:cloudfoundry:cf-deployment:16.13.0:*:*:*:*:*:*:*,Cloud Foundry CF-Deployment 16.13.0,"['CVE-2021-22001', 'CVE-2021-22098', 'CVE-2021-22101']",2022-03-20T03:10Z
+7,cpe:2.3:a:cloudfoundry:cf-deployment:16.14.0:*:*:*:*:*:*:*,Cloud Foundry CF-Deployment 16.14.0,"['CVE-2021-22001', 'CVE-2021-22098', 'CVE-2021-22101']",2022-03-20T03:11Z
+8,cpe:2.3:a:cloudfoundry:cf-deployment:16.15.0:*:*:*:*:*:*:*,Cloud Foundry CF-Deployment 16.15.0,"['CVE-2021-22001', 'CVE-2021-22098', 'CVE-2021-22101']",2022-03-20T03:11Z
+9,cpe:2.3:a:cloudfoundry:cf-deployment:16.16.0:*:*:*:*:*:*:*,Cloud Foundry CF-Deployment 16.16.0,"['CVE-2021-22001', 'CVE-2021-22098', 'CVE-2021-22101']",2022-03-20T03:11Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:hybrid_pos_printer_with_micr_us_fk184aa:-:*:*:*:*:*:*:*,HP Hybrid POS Printer with MICR US FK184AA,"['CVE-2014-7888', 'CVE-2014-7893', 'CVE-2014-7894', 'CVE-2014-7895']",2022-03-21T13:35Z
+1,cpe:2.3:a:hp:ibrix:6.1.196:*:*:*:*:*:*:*,HP IBRIX 6.1.196,['CVE-2012-3266'],2022-03-21T13:35Z
+2,cpe:2.3:a:hp:ibrix:6.1.210:*:*:*:*:*:*:*,HP IBRIX 6.1.210,['CVE-2012-3266'],2022-03-21T13:35Z
+3,cpe:2.3:a:hp:ibrix:6.1.228:*:*:*:*:*:*:*,HP IBRIX 6.1.228,['CVE-2012-3266'],2022-03-21T13:35Z
+4,cpe:2.3:a:hp:ibrix:6.1.243:*:*:*:*:*:*:*,HP IBRIX 6.1.243,['CVE-2012-3266'],2022-03-21T13:35Z
+5,cpe:2.3:a:hp:ibrix:6.1.247:*:*:*:*:*:*:*,HP IBRIX 6.1.247,['CVE-2012-3266'],2022-03-21T13:35Z
+6,cpe:2.3:a:hp:ibrix:6.1.249:*:*:*:*:*:*:*,HP IBRIX 6.1.249,['CVE-2012-3266'],2022-03-21T13:35Z
+7,cpe:2.3:a:hp:ibrix:6.1.251:*:*:*:*:*:*:*,HP IBRIX 6.1.251,['CVE-2012-3266'],2022-03-21T13:35Z
+8,cpe:2.3:h:hp:ibrix_x9300:aw539d:*:*:*:*:*:*:*,HP IBRIX X9300 AW539D,['CVE-2012-3266'],2022-03-21T13:35Z
+9,cpe:2.3:h:hp:ibrix_x9300:aw540d:*:*:*:*:*:*:*,HP IBRIX X9300 AW540D,['CVE-2012-3266'],2022-03-21T13:35Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bloomreach:experience_manager:14.6.0:*:*:*:*:*:*:*,Bloomreach Experience Manager 14.6.0,[''],2022-03-19T08:44Z
+1,cpe:2.3:a:bloomyou:bloomyou_valentine:2.4:*:*:*:*:android:*:*,bloomyou BloomYou Valentine (aka com.bloomyouteam.bloomyou.valentine) for android 2.4,['CVE-2014-7458'],2022-03-19T08:44Z
+2,cpe:2.3:a:bloop:airmail:-:*:*:*:*:*:*:*,Bloop AirMail,"['CVE-2017-17688', 'CVE-2017-17689']",2022-03-19T08:44Z
+3,[0],[0],[0],[0]
+4,[0],[0],[0],[0]
+5,cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:macos:*:*,Bloop Airmail 3 3.5.9 for macOS,"['CVE-2018-15668', 'CVE-2018-15669']",2022-03-19T08:44Z
+6,cpe:2.3:a:bloq:univalue:0.0.1:*:*:*:*:*:*:*,Bloq Univalue 0.0.1,['CVE-2019-18936'],2022-03-19T08:44Z
+7,cpe:2.3:a:bloq:univalue:1.0.0:*:*:*:*:*:*:*,Bloq Univalue 1.0.0,['CVE-2019-18936'],2022-03-19T08:44Z
+8,cpe:2.3:a:bloq:univalue:1.0.1:*:*:*:*:*:*:*,Bloq Univalue 1.0.1,['CVE-2019-18936'],2022-03-19T08:44Z
+9,cpe:2.3:a:bloq:univalue:1.0.2:*:*:*:*:*:*:*,Bloq Univalue 1.0.2,['CVE-2019-18936'],2022-03-19T08:44Z

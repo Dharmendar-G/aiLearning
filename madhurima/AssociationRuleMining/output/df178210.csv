@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:deliciousbrains:wp_offload_ses_lite:0.4.8:*:*:*:*:wordpress:*:*,Delicious Brains WP Offload SES Lite 0.4.8 for WordPress,['CVE-2021-24494'],2022-03-20T12:07Z
+1,cpe:2.3:a:deliciousbrains:wp_offload_ses_lite:0.7.0:*:*:*:*:wordpress:*:*,Delicious Brains WP Offload SES Lite 0.7.0 for WordPress,['CVE-2021-24494'],2022-03-20T12:07Z
+2,cpe:2.3:a:deliciousbrains:wp_offload_ses_lite:0.7.1:*:*:*:*:wordpress:*:*,Delicious Brains WP Offload SES Lite 0.7.1 for WordPress,['CVE-2021-24494'],2022-03-20T12:07Z
+3,cpe:2.3:a:deliciousbrains:wp_offload_ses_lite:0.7.2:*:*:*:*:wordpress:*:*,Delicious Brains WP Offload SES Lite 0.7.2 for WordPress,['CVE-2021-24494'],2022-03-20T12:07Z
+4,cpe:2.3:a:deliciousbrains:wp_offload_ses_lite:0.7.2.1:*:*:*:*:wordpress:*:*,Delicious Brains WP Offload SES Lite 0.7.2.1 for WordPress,['CVE-2021-24494'],2022-03-20T12:07Z
+5,cpe:2.3:a:deliciousbrains:wp_offload_ses_lite:0.8:*:*:*:*:wordpress:*:*,Delicious Brains WP Offload SES Lite 0.8 for WordPress,['CVE-2021-24494'],2022-03-20T12:07Z
+6,cpe:2.3:a:deliciousbrains:wp_offload_ses_lite:0.8.1:*:*:*:*:wordpress:*:*,Delicious Brains WP Offload SES Lite 0.8.1 for WordPress,['CVE-2021-24494'],2022-03-20T12:07Z
+7,cpe:2.3:a:deliciousbrains:wp_offload_ses_lite:0.8.2:*:*:*:*:wordpress:*:*,Delicious Brains WP Offload SES Lite 0.8.2 for WordPress,['CVE-2021-24494'],2022-03-20T12:07Z
+8,cpe:2.3:a:deliciousbrains:wp_offload_ses_lite:1.0:*:*:*:*:wordpress:*:*,Delicious Brains WP Offload SES Lite 1.0 for WordPress,['CVE-2021-24494'],2022-03-20T12:07Z
+9,cpe:2.3:a:deliciousbrains:wp_offload_ses_lite:1.1:*:*:*:*:wordpress:*:*,Delicious Brains WP Offload SES Lite 1.1 for WordPress,['CVE-2021-24494'],2022-03-20T12:07Z

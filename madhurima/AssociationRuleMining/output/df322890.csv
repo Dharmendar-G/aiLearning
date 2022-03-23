@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:insight_management_agents:8.70.0.0:b:*:*:*:*:*:*,HP Insight Management Agents 8.70.0.0 (B),"['CVE-2012-2003', 'CVE-2012-2004', 'CVE-2012-2005', 'CVE-2012-2006']",2022-03-21T13:40Z
+1,cpe:2.3:a:hp:insight_management_agents:9.0.0.0:*:*:*:*:*:*:*,HP Insight Management Agents 9.0.0.0,[''],2022-03-21T13:40Z
+2,cpe:2.3:a:hp:insight_management_sizer:16.12.0:*:*:*:*:*:*:*,HP Insight Management Sizer 16.12.0,['CVE-2016-4377'],2022-03-21T13:40Z
+3,cpe:2.3:a:hp:insight_management_suite:-:*:*:*:*:*:*:*,HP Insight Management Suite,[''],2022-03-21T13:40Z
+4,cpe:2.3:a:hp:insight_management_wbem_providers:2.2.1.0:*:*:*:*:*:*:*,HP Insight Management Wbem Providers 2.2.1.0,[''],2022-03-21T13:40Z
+5,cpe:2.3:a:hp:insight_management_wbem_providers:2.3.0.0:*:*:*:*:*:*:*,HP Insight Management Wbem Providers 2.3.0.0,[''],2022-03-21T13:40Z
+6,cpe:2.3:a:hp:insight_management_wbem_providers:2.4.0.0:*:*:*:*:*:*:*,HP Insight Management Wbem Providers 2.4.0.0,[''],2022-03-21T13:40Z
+7,cpe:2.3:a:hp:insight_management_wbem_providers:2.5.0.0:*:*:*:*:*:*:*,HP Insight Management Wbem Providers 2.5.0.0,[''],2022-03-21T13:40Z
+8,cpe:2.3:a:hp:insight_management_wbem_providers:2.6.0.0:*:*:*:*:*:*:*,HP Insight Management Wbem Providers 2.6.0.0,[''],2022-03-21T13:40Z
+9,cpe:2.3:a:hp:insight_management_wbem_providers:2.7.0.0:*:*:*:*:*:*:*,HP Insight Management Wbem Providers 2.7.0.0,[''],2022-03-21T13:40Z

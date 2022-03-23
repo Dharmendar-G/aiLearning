@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:deskjet_2600_y5h80a_firmware:1923:*:*:*:*:*:*:*,HP DeskJet 2600 Y5H80A Firmware 1923,[''],2022-03-21T13:12Z
+1,cpe:2.3:h:hp:deskjet_2700_3xv17a:-:*:*:*:*:*:*:*,HP DeskJet 2700 3XV17A,['CVE-2020-28419'],2022-03-21T13:12Z
+2,cpe:2.3:h:hp:deskjet_2700_3xv18b:-:*:*:*:*:*:*:*,HP DeskJet 2700 3XV18B,['CVE-2020-28419'],2022-03-21T13:12Z
+3,cpe:2.3:h:hp:deskjet_2700_3xv18c:-:*:*:*:*:*:*:*,HP DeskJet 2700 3XV18C,['CVE-2020-28419'],2022-03-21T13:12Z
+4,cpe:2.3:h:hp:deskjet_2700_3xv19a:-:*:*:*:*:*:*:*,HP DeskJet 2700 3XV19A,['CVE-2020-28419'],2022-03-21T13:12Z
+5,cpe:2.3:h:hp:deskjet_2700_3xv19d:-:*:*:*:*:*:*:*,HP DeskJet 2700 3XV19D,['CVE-2020-28419'],2022-03-21T13:12Z
+6,cpe:2.3:h:hp:deskjet_2700_5ar83a:-:*:*:*:*:*:*:*,HP DeskJet 2700 5AR83A,['CVE-2020-28419'],2022-03-21T13:12Z
+7,cpe:2.3:h:hp:deskjet_2700_5ar83b:-:*:*:*:*:*:*:*,HP DeskJet 2700 5AR83B,['CVE-2020-28419'],2022-03-21T13:12Z
+8,cpe:2.3:h:hp:deskjet_2700_5ar84a:-:*:*:*:*:*:*:*,HP DeskJet 2700 5AR84A,['CVE-2020-28419'],2022-03-21T13:12Z
+9,cpe:2.3:h:hp:deskjet_2700_5ar85a:-:*:*:*:*:*:*:*,HP DeskJet 2700 5AR85A,['CVE-2020-28419'],2022-03-21T13:12Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:ibm:ds4100:-:*:*:*:*:*:*:*,IBM DS4100,"['CVE-2004-1663', 'CVE-2012-2171', 'CVE-2012-2172']",2022-03-21T20:26Z
+1,cpe:2.3:h:ibm:ds4100:1724:*:*:*:*:*:*:*,"IBM DS4100 (FAStT100) Dual-Controller Storage Server, Type 1724","['CVE-2004-1663', 'CVE-2012-2171', 'CVE-2012-2172']",2022-03-21T20:26Z
+2,cpe:2.3:h:ibm:ds4200:1814:*:*:*:*:*:*:*,"IBM DS4200 Storage Server, Type 1814","['CVE-2012-2171', 'CVE-2012-2172']",2022-03-21T20:26Z
+3,cpe:2.3:h:ibm:ds4300:1722:*:*:*:*:*:*:*,"IBM DS4300 (FAStT600) Dual Controller and Turbo Storage Server, Type 1722","['CVE-2012-2171', 'CVE-2012-2172']",2022-03-21T20:26Z
+4,cpe:2.3:h:ibm:ds4400:1742:*:*:*:*:*:*:*,"IBM DS4400 (FAStT700) Storage Server, Type 1742","['CVE-2012-2171', 'CVE-2012-2172']",2022-03-21T20:26Z
+5,cpe:2.3:h:ibm:ds4500:1742:*:*:*:*:*:*:*,"IBM DS4500 (FAStT900) Storage Server, Type 1742","['CVE-2012-2171', 'CVE-2012-2172']",2022-03-21T20:26Z
+6,cpe:2.3:h:ibm:ds4700:1814:*:*:*:*:*:*:*,"IBM DS4700 Storage Server, Type 1814","['CVE-2012-2171', 'CVE-2012-2172']",2022-03-21T20:26Z
+7,cpe:2.3:h:ibm:ds4800:1815:*:*:*:*:*:*:*,"IBM DS4800 Storage Server, Type 1815","['CVE-2012-2171', 'CVE-2012-2172']",2022-03-21T20:26Z
+8,cpe:2.3:h:ibm:e10:-:*:*:*:*:*:*:*,IBM System z10 Business Class (z10 BC) Model E10,[''],2022-03-21T20:26Z
+9,cpe:2.3:h:ibm:e12:-:*:*:*:*:*:*:*,IBM z10 Enterprise Class Model E12 (Machine Type 2097),[''],2022-03-21T20:26Z

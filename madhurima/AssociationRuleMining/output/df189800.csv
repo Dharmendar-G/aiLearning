@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dir-825\/ac_g1_firmware:-:*:*:*:*:*:*:*,D-Link DIR-825/AC G1 Firmware,[''],2022-03-20T15:50Z
+1,cpe:2.3:o:dlink:dir-825_firmware:2.10:*:*:*:*:*:*:*,D-Link DIR-825 Firmware 2.10,"['CVE-2020-10213', 'CVE-2020-10214', 'CVE-2020-10215', 'CVE-2020-10216']",2022-03-20T15:50Z
+2,cpe:2.3:o:dlink:dir-825_firmware:2.10b02:*:*:*:*:*:*:*,Dlink DIR-825 FIRMWARE 2.10b02,['CVE-2021-29296'],2022-03-20T15:50Z
+3,cpe:2.3:o:dlink:dir-825_r1_firmware:3.0.1:*:*:*:*:*:*:*,D-Link DIR-825 R1 Firmware 3.0.1,[''],2022-03-20T15:50Z
+4,cpe:2.3:o:dlink:dir-825_rev.b_firmware:2.10:*:*:*:*:*:*:*,D-Link DIR-825 Rev. B Firmware 2.10,[''],2022-03-20T15:50Z
+5,cpe:2.3:h:dlink:dir-826l:-:*:*:*:*:*:*:*,D-Link DIR-826L,['CVE-2021-45382'],2022-03-20T15:50Z
+6,cpe:2.3:o:dlink:dir-826l_firmware:-:*:*:*:*:*:*:*,D-Link DIR-826L Firmware,['CVE-2021-45382'],2022-03-20T15:50Z
+7,cpe:2.3:o:dlink:dir-826l_firmware:1.00:b23:*:*:*:*:*:*,D-Link DIR-826L Firmware 1.00 B23,[''],2022-03-20T15:50Z
+8,cpe:2.3:h:dlink:dir-830l:-:*:*:*:*:*:*:*,D-Link DIR-830L,['CVE-2021-45382'],2022-03-20T15:50Z
+9,cpe:2.3:o:dlink:dir-830l_firmware:-:*:*:*:*:*:*:*,D-Link DIR-830L Firmware,['CVE-2021-45382'],2022-03-20T15:50Z

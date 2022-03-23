@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:ironport_web_security_appliance_firmware:13.6.2-023:*:*:*:*:*:*:*,Cisco IronPort Web Security Appliance Firmware 13.6.2-023,[''],2022-03-19T22:45Z
+1,cpe:2.3:o:cisco:ironport_web_security_appliance_firmware:14.0.0-090:*:*:*:*:*:*:*,Cisco IronPort Web Security Appliance Firmware 14.0.0-090,[''],2022-03-19T22:46Z
+2,cpe:2.3:o:cisco:ironport_web_security_appliance_firmware:14.0.0-133:*:*:*:*:*:*:*,Cisco IronPort Web Security Appliance Firmware 14.0.0-133,[''],2022-03-19T22:46Z
+3,cpe:2.3:o:cisco:ironport_web_security_appliance_firmware:14.0.0-292:*:*:*:*:*:*:*,Cisco IronPort Web Security Appliance Firmware 14.0.0-292,[''],2022-03-19T22:46Z
+4,cpe:2.3:o:cisco:ironport_web_security_appliance_firmware:14.0.0-300:*:*:*:*:*:*:*,Cisco IronPort Web Security Appliance Firmware 14.0.0-300,[''],2022-03-19T22:46Z
+5,cpe:2.3:h:cisco:isa_3000:-:*:*:*:*:*:*:*,Cisco ISA 3000 -,"['CVE-2019-12696', 'CVE-2019-12697', 'CVE-2019-1714', 'CVE-2020-3299', 'CVE-2021-1223', 'CVE-2021-1224', 'CVE-2021-1236', 'CVE-2021-1402']",2022-03-19T22:46Z
+6,cpe:2.3:h:cisco:isa-3000-2c2f:-:*:*:*:*:*:*:*,Cisco ISA-3000-2C2F,['CVE-2018-0240'],2022-03-19T22:46Z
+7,cpe:2.3:h:cisco:isa-3000-2c2f-k9:-:*:*:*:*:*:*:*,Cisco ISA-3000-2C2F-K9,['CVE-2020-3315'],2022-03-19T22:46Z
+8,cpe:2.3:h:cisco:isa-3000-4c:-:*:*:*:*:*:*:*,Cisco ISA-3000-4C,['CVE-2018-0240'],2022-03-19T22:46Z
+9,cpe:2.3:h:cisco:isa-3000-4c-k9:-:*:*:*:*:*:*:*,Cisco ISA-3000-4C-K9,['CVE-2020-3315'],2022-03-19T22:46Z

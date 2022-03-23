@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cyberlink:power2go:8.0:*:*:*:*:*:*:*,CyberLink Power2Go 8.0,['CVE-2011-5171'],2022-03-20T09:38Z
+1,cpe:2.3:a:cyberlink:powerdirector:7.0:*:*:*:*:*:*:*,CyberLink PowerDirector 7.0,['CVE-2010-5237'],2022-03-20T09:38Z
+2,cpe:2.3:a:cyberlink:powerdirector:8.00.3022:*:*:*:*:*:*:*,CyberLink PowerDirector 8.00.3022,['CVE-2010-5238'],2022-03-20T09:38Z
+3,cpe:2.3:a:cyberlink:powerdvd:-:*:*:*:*:*:*:*,Cyberlink PowerDVD,[''],2022-03-20T09:38Z
+4,cpe:2.3:a:cyberlink:powerdvd:1.0:*:*:*:*:*:*:*,Cyberlink PowerDVD 1.0,[''],2022-03-20T09:38Z
+5,cpe:2.3:a:cyberlink:powerdvd:2.0:*:*:*:*:*:*:*,Cyberlink PowerDVD 2.0,[''],2022-03-20T09:38Z
+6,cpe:2.3:a:cyberlink:powerdvd:2.5:*:*:*:*:*:*:*,Cyberlink PowerDVD 2.5,[''],2022-03-20T09:38Z
+7,cpe:2.3:a:cyberlink:powerdvd:2.55:*:*:*:*:*:*:*,Cyberlink PowerDVD 2.55,[''],2022-03-20T09:38Z
+8,cpe:2.3:a:cyberlink:powerdvd:3.0:*:*:*:*:*:*:*,Cyberlink PowerDVD 3.0,[''],2022-03-20T09:38Z
+9,cpe:2.3:a:cyberlink:powerdvd:4.0:*:*:*:*:*:*:*,Cyberlink PowerDVD 4.0,[''],2022-03-20T09:38Z

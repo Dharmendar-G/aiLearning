@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:canonical:whoopsie:0.2.63:*:*:*:*:*:*:*,Canonical whoopsie 0.2.63,[''],2022-03-19T15:28Z
+1,cpe:2.3:a:canonical:whoopsie:0.2.64:*:*:*:*:*:*:*,Canonical whoopsie 0.2.64,[''],2022-03-19T15:28Z
+2,cpe:2.3:a:canonical:whoopsie:0.2.64ubuntu0.1:*:*:*:*:*:*:*,Canonical whoopsie 0.2.64ubuntu0.1,[''],2022-03-19T15:28Z
+3,cpe:2.3:a:canonical:whoopsie:0.2.64ubuntu0.2:*:*:*:*:*:*:*,Canonical whoopsie 0.2.64ubuntu0.2,[''],2022-03-19T15:28Z
+4,cpe:2.3:a:canonical:whoopsie:0.2.64ubuntu0.3:*:*:*:*:*:*:*,Canonical whoopsie 0.2.64ubuntu0.3,[''],2022-03-19T15:28Z
+5,cpe:2.3:a:canonical:whoopsie:0.2.64ubuntu0.4:*:*:*:*:*:*:*,Canonical whoopsie 0.2.64ubuntu0.4,[''],2022-03-19T15:28Z
+6,cpe:2.3:a:canonical:whoopsie:0.2.65:*:*:*:*:*:*:*,Canonical whoopsie 0.2.65,[''],2022-03-19T15:28Z
+7,cpe:2.3:a:canonical:whoopsie:0.2.66:*:*:*:*:*:*:*,Canonical whoopsie 0.2.66,['CVE-2020-11937'],2022-03-19T15:28Z
+8,cpe:2.3:a:canonical:whoopsie:0.2.66ubuntu0.1:*:*:*:*:*:*:*,Canonical whoopsie 0.2.66ubuntu0.1,[''],2022-03-19T15:28Z
+9,cpe:2.3:a:canonical:whoopsie:0.2.66ubuntu0.2:*:*:*:*:*:*:*,Canonical whoopsie 0.2.66ubuntu0.2,[''],2022-03-19T15:28Z

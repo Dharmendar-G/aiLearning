@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:libapreq2:2.05:dev:*:*:*:*:*:*,Libapreq2 2.05 Dev,['CVE-2006-0042'],2022-03-18T19:17Z
+1,cpe:2.3:a:apache:libapreq2:2.06:dev:*:*:*:*:*:*,Libapreq2 2.06 Dev,['CVE-2006-0042'],2022-03-18T19:17Z
+2,cpe:2.3:a:apache:libapreq2:2.07:*:*:*:*:*:*:*,Apache Software Foundation Libapreq2 2.07,['CVE-2019-12412'],2022-03-18T19:17Z
+3,cpe:2.3:a:apache:libapreq2:2.08:*:*:*:*:*:*:*,Apache Software Foundation Libapreq2 2.08,['CVE-2019-12412'],2022-03-18T19:17Z
+4,cpe:2.3:a:apache:libapreq2:2.12:*:*:*:*:*:*:*,Apache Software Foundation Libapreq2 2.12,['CVE-2019-12412'],2022-03-18T19:17Z
+5,cpe:2.3:a:apache:libapreq2:2.13:*:*:*:*:*:*:*,Apache Software Foundation Libapreq2 2.13,['CVE-2019-12412'],2022-03-18T19:17Z
+6,cpe:2.3:a:apache:libcloud:0.2.0:*:*:*:*:*:*:*,Apache Software Foundation libcloud 0.2.0,"['CVE-2010-4340', 'CVE-2012-3446']",2022-03-18T19:17Z
+7,cpe:2.3:a:apache:libcloud:0.3.0:*:*:*:*:*:*:*,Apache Software Foundation libcloud 0.3.0,"['CVE-2010-4340', 'CVE-2012-3446']",2022-03-18T19:17Z
+8,cpe:2.3:a:apache:libcloud:0.3.1:*:*:*:*:*:*:*,Apache Software Foundation libcloud 0.3.1,"['CVE-2010-4340', 'CVE-2012-3446']",2022-03-18T19:17Z
+9,cpe:2.3:a:apache:libcloud:0.4.0:*:*:*:*:*:*:*,Apache Software Foundation libcloud 0.4.0,"['CVE-2010-4340', 'CVE-2012-3446']",2022-03-18T19:17Z

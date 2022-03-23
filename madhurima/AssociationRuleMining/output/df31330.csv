@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:groovy_ldap:1.0.0:milestone33:*:*:*:*:*:*,Apache Groovy LDAP 1.0.0 Milestone 33,['CVE-2016-6497'],2022-03-18T18:31Z
+1,cpe:2.3:a:apache:groovy_ldap:1.0.0:milestone4:*:*:*:*:*:*,Apache Groovy LDAP 1.0.0 Milestone 4,['CVE-2016-6497'],2022-03-18T18:31Z
+2,cpe:2.3:a:apache:groovy_ldap:1.0.0:milestone5:*:*:*:*:*:*,Apache Groovy LDAP 1.0.0 Milestone 5,['CVE-2016-6497'],2022-03-18T18:31Z
+3,cpe:2.3:a:apache:groovy_ldap:1.0.0:milestone6:*:*:*:*:*:*,Apache Groovy LDAP 1.0.0 Milestone 6,['CVE-2016-6497'],2022-03-18T18:31Z
+4,cpe:2.3:a:apache:groovy_ldap:1.0.0:milestone7:*:*:*:*:*:*,Apache Groovy LDAP 1.0.0 Milestone 7,['CVE-2016-6497'],2022-03-18T18:32Z
+5,cpe:2.3:a:apache:groovy_ldap:1.0.0:milestone8:*:*:*:*:*:*,Apache Groovy LDAP 1.0.0 Milestone 8,['CVE-2016-6497'],2022-03-18T18:32Z
+6,cpe:2.3:a:apache:groovy_ldap:1.0.0:milestone9:*:*:*:*:*:*,Apache Groovy LDAP 1.0.0 Milestone 9,['CVE-2016-6497'],2022-03-18T18:31Z
+7,cpe:2.3:a:apache:groovy_ldap:1.0.0:rc1:*:*:*:*:*:*,Apache Groovy LDAP 1.0.0 Release Candidate 1,['CVE-2016-6497'],2022-03-18T18:32Z
+8,cpe:2.3:a:apache:guacamole:0.3.0:*:*:*:*:*:*:*,Apache Software Foundation Guacamole 0.3.0,"['CVE-2017-3158', 'CVE-2018-1340', 'CVE-2020-11997', 'CVE-2020-9497', 'CVE-2020-9498', 'CVE-2021-41767']",2022-03-18T18:32Z
+9,cpe:2.3:a:apache:guacamole:0.4.0:*:*:*:*:*:*:*,Apache Software Foundation Guacamole 0.4.0,"['CVE-2017-3158', 'CVE-2018-1340', 'CVE-2020-11997', 'CVE-2020-9497', 'CVE-2020-9498', 'CVE-2021-41767']",2022-03-18T18:32Z

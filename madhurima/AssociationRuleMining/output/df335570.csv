@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:p20_lite_firmware:8.0.0.168\(c432\):*:*:*:*:*:*:*,Huawei P20 Lite Firmware 8.0.0.168(C432),['CVE-2019-19412'],2022-03-21T18:20Z
+1,cpe:2.3:o:huawei:p20_lite_firmware:8.0.0.172\(c636\):*:*:*:*:*:*:*,Huawei P20 Lite Firmware 8.0.0.172(C636),[''],2022-03-21T18:20Z
+2,cpe:2.3:h:huawei:p20_pro:-:*:*:*:*:*:*:*,Huawei P20 Pro,"['CVE-2019-5230', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506', 'CVE-2020-9239']",2022-03-21T18:20Z
+3,cpe:2.3:o:huawei:p20_pro_firmware:-:*:*:*:*:*:*:*,Huawei P20 Pro Firmware,"['CVE-2019-5230', 'CVE-2019-5302', 'CVE-2019-5303', 'CVE-2019-9506', 'CVE-2020-9239']",2022-03-21T18:20Z
+4,cpe:2.3:o:huawei:p20_pro_firmware:8.1.0.152\(c00\):*:*:*:*:*:*:*,Huawei P20 Pro Firmware 8.1.0.152(C00),"['CVE-2019-5230', 'CVE-2019-5302', 'CVE-2019-5303']",2022-03-21T18:20Z
+5,cpe:2.3:o:huawei:p20_pro_firmware:9.1.0.333\(c00e333r1p1t8\):*:*:*:*:*:*:*,Huawei P20 Pro Firmware 9.1.0.333(C00E333R1P1T8),['CVE-2019-5230'],2022-03-21T18:20Z
+6,cpe:2.3:o:huawei:p20_pro_firmware:charlotte-al00a_9.1.0.321\(c00e320r1p1t8\):*:*:*:*:*:*:*,Huawei P20 Pro Firmware Charlotte-AL00A 9.1.0.321(C00E320R1P1T8),[''],2022-03-21T18:20Z
+7,cpe:2.3:h:huawei:p2-6011:-:*:*:*:*:*:*:*,Huawei P2-6011,"['CVE-2014-2271', 'CVE-2014-2273']",2022-03-21T18:20Z
+8,cpe:2.3:o:huawei:p2-6011_firmware:-:*:*:*:*:*:*:*,Huawei P2-6011 Firmware,"['CVE-2014-2271', 'CVE-2014-2273']",2022-03-21T18:20Z
+9,cpe:2.3:o:huawei:p2-6011_firmware:v100r001c00b042:*:*:*:*:*:*:*,Huawei P2-6011 firmware V100R001C00B042,"['CVE-2014-2271', 'CVE-2014-2273']",2022-03-21T18:20Z

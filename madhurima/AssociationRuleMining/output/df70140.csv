@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ballerina:swan_lake:alpha3:*:*:*:*:*:*:*,Ballerina Swan Lake Alpha3,['CVE-2021-32700'],2022-03-19T06:07Z
+1,cpe:2.3:a:ballerina:swan_lake:preview_1:*:*:*:*:*:*:*,Ballerina Swan Lake Preview 1,[''],2022-03-19T06:07Z
+2,cpe:2.3:a:ballerina:swan_lake:preview_2:*:*:*:*:*:*:*,Ballerina Swan Lake Preview 2,[''],2022-03-19T06:07Z
+3,cpe:2.3:a:ballerina:swan_lake:preview_3:*:*:*:*:*:*:*,Ballerina Swan Lake Preview 3,[''],2022-03-19T06:07Z
+4,cpe:2.3:a:ballerina:swan_lake:preview_4:*:*:*:*:*:*:*,Ballerina Swan Lake Preview 4,[''],2022-03-19T06:07Z
+5,cpe:2.3:a:ballerina:swan_lake:preview_5:*:*:*:*:*:*:*,Ballerina Swan Lake Preview 5,[''],2022-03-19T06:07Z
+6,cpe:2.3:a:ballerina:swan_lake:preview_6:*:*:*:*:*:*:*,Ballerina Swan Lake Preview 6,[''],2022-03-19T06:07Z
+7,cpe:2.3:a:ballerina:swan_lake:preview_7:*:*:*:*:*:*:*,Ballerina Swan Lake Preview 7,[''],2022-03-19T06:07Z
+8,cpe:2.3:a:ballerina:swan_lake:preview_8:*:*:*:*:*:*:*,Ballerina Swan Lake Preview 8,[''],2022-03-19T06:07Z
+9,cpe:2.3:a:bam_project:bam:0.0.1:*:*:*:*:rust:*:*,bam Project bam 0.0.1 for Rust,['CVE-2021-28027'],2022-03-19T06:07Z

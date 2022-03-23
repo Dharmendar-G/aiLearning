@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:prime_service_catalog:12.1:patch2:*:*:*:*:*:*,Cisco Prime Service Catalog 12.1 Patch 2,"['CVE-2017-12364', 'CVE-2018-0107', 'CVE-2018-15451', 'CVE-2019-1874', 'CVE-2019-1875', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z
+1,cpe:2.3:a:cisco:prime_service_catalog:12.1:patch3:*:*:*:*:*:*,Cisco Prime Service Catalog 12.1 Patch 3,"['CVE-2017-12364', 'CVE-2018-0107', 'CVE-2018-15451', 'CVE-2019-1874', 'CVE-2019-1875', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z
+2,cpe:2.3:a:cisco:prime_service_catalog:12.1:patch4:*:*:*:*:*:*,Cisco Prime Service Catalog 12.1 Patch 4,"['CVE-2017-12364', 'CVE-2018-0107', 'CVE-2018-15451', 'CVE-2019-1874', 'CVE-2019-1875', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z
+3,cpe:2.3:a:cisco:prime_service_catalog:12.1:patch6:*:*:*:*:*:*,Cisco Prime Service Catalog 12.1 Patch 6,"['CVE-2017-12364', 'CVE-2018-0107', 'CVE-2018-15451', 'CVE-2019-1874', 'CVE-2019-1875', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z
+4,cpe:2.3:a:cisco:prime_service_catalog:12.1:patch7:*:*:*:*:*:*,Cisco Prime Service Catalog 12.1 Patch 7,"['CVE-2017-12364', 'CVE-2018-0107', 'CVE-2018-15451', 'CVE-2019-1874', 'CVE-2019-1875', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z
+5,cpe:2.3:a:cisco:prime_service_catalog:12.1:patch8:*:*:*:*:*:*,Cisco Prime Service Catalog 12.1 Patch 8,"['CVE-2017-12364', 'CVE-2018-0107', 'CVE-2018-15451', 'CVE-2019-1874', 'CVE-2019-1875', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z
+6,cpe:2.3:a:cisco:prime_service_catalog:12.1:patch9:*:*:*:*:*:*,Cisco Prime Service Catalog 12.1 Patch 9,"['CVE-2017-12364', 'CVE-2018-0107', 'CVE-2018-15451', 'CVE-2019-1874', 'CVE-2019-1875', 'CVE-2021-44228', 'CVE-2022-20680']",2022-03-19T23:49Z
+7,cpe:2.3:o:cisco:prime_virtual_network_analysis_module:6.2.1:*:*:*:*:*:*:*,Cisco Prime Virtual Network Analysis Module (vNAM) 6.2.1,[''],2022-03-19T23:49Z
+8,cpe:2.3:a:cisco:prime_virtual_network_analysis_module_software:-:*:*:*:*:*:*:*,Cisco Prime Virtual Network Analysis Module Software,[''],2022-03-19T23:49Z
+9,cpe:2.3:a:cisco:prime_virtual_network_analysis_module_software:5.0.1:*:*:*:*:*:*:*,Cisco Prime Virtual Network Analysis Module Software 5.0.1,[''],2022-03-19T23:49Z

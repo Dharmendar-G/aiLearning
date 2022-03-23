@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:elitebook_folio_1040_g3_firmware:1.42:*:*:*:*:*:*:*,HP EliteBook Folio 1040 G3 Firmware 1.42,['CVE-2020-15596'],2022-03-21T13:20Z
+1,cpe:2.3:o:hp:elitebook_folio_1040_g3_firmware:8.2206.1717.166:*:*:*:*:*:*:*,HP EliteBook Folio 1040 G3 Firmware 8.2206.1717.166,[''],2022-03-21T13:20Z
+2,cpe:2.3:h:hp:elitebook_folio_9480m:-:*:*:*:*:*:*:*,HP EliteBook Folio 9480m,['CVE-2019-16284'],2022-03-21T13:20Z
+3,cpe:2.3:o:hp:elitebook_folio_9480m_firmware:-:*:*:*:*:*:*:*,HP EliteBook Folio 9480m Firmware,['CVE-2019-16284'],2022-03-21T13:20Z
+4,cpe:2.3:o:hp:elitebook_folio_9480m_firmware:1.49:*:*:*:*:*:*:*,HP EliteBook Folio 9480m Firmware 1.49,[''],2022-03-21T13:20Z
+5,cpe:2.3:h:hp:elitebook_folio_g1:-:*:*:*:*:*:*:*,HP EliteBook Folio G1,"['CVE-2017-8360', 'CVE-2019-16284', 'CVE-2020-15596']",2022-03-21T13:20Z
+6,cpe:2.3:o:hp:elitebook_folio_g1_firmware:-:*:*:*:*:*:*:*,HP EliteBook Folio G1 Firmware,"['CVE-2019-16284', 'CVE-2020-15596']",2022-03-21T13:20Z
+7,cpe:2.3:o:hp:elitebook_folio_g1_firmware:1.42:*:*:*:*:*:*:*,HP EliteBook Folio G1 Firmware 1.42,['CVE-2020-15596'],2022-03-21T13:20Z
+8,cpe:2.3:o:hp:elitebook_folio_g1_firmware:8.2206.1717.166:*:*:*:*:*:*:*,HP EliteBook Folio G1 Firmware 8.2206.1717.166,[''],2022-03-21T13:20Z
+9,cpe:2.3:h:hp:elitebook_revolve_810_g2:-:*:*:*:*:*:*:*,HP EliteBook Revolve 810 G2,"['CVE-2015-5367', 'CVE-2015-5368', 'CVE-2019-16284', 'CVE-2020-15596']",2022-03-21T13:20Z

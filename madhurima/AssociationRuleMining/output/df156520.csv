@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:colossusxt:colossuscoinxt:0.12.0.50:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 0.12.0.50,['CVE-2018-19158'],2022-03-20T06:45Z
+1,cpe:2.3:a:colossusxt:colossuscoinxt:0.12.0.51:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 0.12.0.51,['CVE-2018-19158'],2022-03-20T06:45Z
+2,cpe:2.3:a:colossusxt:colossuscoinxt:0.12.0.52:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 0.12.0.52,['CVE-2018-19158'],2022-03-20T06:45Z
+3,cpe:2.3:a:colossusxt:colossuscoinxt:0.12.0.53:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 0.12.0.53,['CVE-2018-19158'],2022-03-20T06:45Z
+4,cpe:2.3:a:colossusxt:colossuscoinxt:0.12.0.55:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 0.12.0.55,['CVE-2018-19158'],2022-03-20T06:45Z
+5,cpe:2.3:a:colossusxt:colossuscoinxt:0.12.0.56:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 0.12.0.56,['CVE-2018-19158'],2022-03-20T06:45Z
+6,cpe:2.3:a:colossusxt:colossuscoinxt:0.13.0.0:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 0.13.0.0,['CVE-2018-19158'],2022-03-20T06:45Z
+7,cpe:2.3:a:colossusxt:colossuscoinxt:1.0.0:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 1.0.0,['CVE-2018-19158'],2022-03-20T06:45Z
+8,cpe:2.3:a:colossusxt:colossuscoinxt:1.0.0.0:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 1.0.0.0,['CVE-2018-19158'],2022-03-20T06:45Z
+9,cpe:2.3:a:colossusxt:colossuscoinxt:1.0.1:*:*:*:*:*:*:*,ColossusXT ColossusCoinXT 1.0.1,['CVE-2018-19158'],2022-03-20T06:45Z

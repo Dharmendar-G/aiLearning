@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:arraynetworks:ssl_vpn_client:840264:*:*:*:*:*:*:*,"Arraynetworks Ssl Vpn Client 8,4,0,264",[''],2022-03-18T23:21Z
+1,cpe:2.3:a:array-queue_project:array-queue:-:*:*:*:*:rust:*:*,array-queue Project array-queue for Rust,['CVE-2020-35900'],2022-03-18T23:21Z
+2,cpe:2.3:a:array-queue_project:array-queue:0.1.0:*:*:*:*:rust:*:*,array-queue Project array-queue 0.1.0 for Rust,['CVE-2020-35900'],2022-03-18T23:21Z
+3,cpe:2.3:a:array-queue_project:array-queue:0.2.0:*:*:*:*:rust:*:*,array-queue Project array-queue 0.2.0 for Rust,['CVE-2020-35900'],2022-03-18T23:21Z
+4,cpe:2.3:a:array-queue_project:array-queue:0.3.0:*:*:*:*:rust:*:*,array-queue Project array-queue 0.3.0 for Rust,['CVE-2020-35900'],2022-03-18T23:21Z
+5,cpe:2.3:a:array-queue_project:array-queue:0.3.1:*:*:*:*:rust:*:*,array-queue Project array-queue 0.3.1 for Rust,['CVE-2020-35900'],2022-03-18T23:21Z
+6,cpe:2.3:a:array-queue_project:array-queue:0.3.2:*:*:*:*:rust:*:*,array-queue Project array-queue 0.3.2 for Rust,['CVE-2020-35900'],2022-03-18T23:21Z
+7,cpe:2.3:a:array-queue_project:array-queue:0.3.3:*:*:*:*:rust:*:*,array-queue Project array-queue 0.3.3 for Rust,['CVE-2020-35900'],2022-03-18T23:21Z
+8,cpe:2.3:a:array-queue_project:array-queue:2020-09-26:*:*:*:*:rust:*:*,array-queue Project array-queue 2020-09-26 for Rust,['CVE-2020-35900'],2022-03-18T23:21Z
+9,cpe:2.3:a:array-tools_project:array-tools:-:*:*:*:*:rust:*:*,Array-tools Project Array Tools for Rust,['CVE-2020-36452'],2022-03-18T23:21Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:data_tools_project:data_tools:2017-07-26:*:*:*:*:*:*:*,Data Tools Project Data Tools 2017-07-26,['CVE-2018-18749'],2022-03-20T10:42Z
+1,cpe:2.3:a:database-backups_project:database-backups:-:*:*:*:*:wordpress:*:*,Database-backups Project Database-backups for Wordpress,['CVE-2021-24174'],2022-03-20T10:42Z
+2,cpe:2.3:a:database-backups_project:database-backups:1.2.2.6:*:*:*:*:wordpress:*:*,Database-backups Project Database-backups 1.2.2.6 for Wordpress,['CVE-2021-24174'],2022-03-20T10:42Z
+3,cpe:2.3:a:databaseschemareader_project:dbschemareader:1.4.0.32:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 1.4.0.32,['CVE-2020-26207'],2022-03-20T10:42Z
+4,cpe:2.3:a:databaseschemareader_project:dbschemareader:1.4.1.1:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 1.4.1.1,['CVE-2020-26207'],2022-03-20T10:42Z
+5,cpe:2.3:a:databaseschemareader_project:dbschemareader:1.4.1.6:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 1.4.1.6,['CVE-2020-26207'],2022-03-20T10:42Z
+6,cpe:2.3:a:databaseschemareader_project:dbschemareader:1.4.2.1:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 1.4.2.1,['CVE-2020-26207'],2022-03-20T10:42Z
+7,cpe:2.3:a:databaseschemareader_project:dbschemareader:1.4.3.9:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 1.4.3.9,['CVE-2020-26207'],2022-03-20T10:42Z
+8,cpe:2.3:a:databaseschemareader_project:dbschemareader:1.4.3.10:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 1.4.3.10,['CVE-2020-26207'],2022-03-20T10:42Z
+9,cpe:2.3:a:databaseschemareader_project:dbschemareader:1.4.3.11:*:*:*:*:*:*:*,DatabaseSchemaReader Project DatabaseSchemaReader 1.4.3.11,['CVE-2020-26207'],2022-03-20T10:42Z

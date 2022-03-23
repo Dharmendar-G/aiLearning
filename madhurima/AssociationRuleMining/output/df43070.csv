@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apple:mail:-:*:*:*:*:iphone_os:*:*,Apple Mail for iPhone OS,"['CVE-2005-2512', 'CVE-2008-0039', 'CVE-2010-3887', 'CVE-2017-17688', 'CVE-2017-17689']",2022-03-18T22:15Z
+1,cpe:2.3:a:apple:mail:2.0:*:*:*:*:*:*:*,Apple Mail 2.0,"['CVE-2005-1505', 'CVE-2005-2512', 'CVE-2008-0039', 'CVE-2010-3887']",2022-03-18T22:15Z
+2,cpe:2.3:a:apple:mail:3.5:*:*:*:*:*:*:*,Apple Mail 3.5,"['CVE-2005-2512', 'CVE-2008-0039', 'CVE-2008-4491', 'CVE-2010-3887']",2022-03-18T22:15Z
+3,cpe:2.3:a:apple:mdnsresponder:-:*:*:*:*:*:*:*,Apple mDNSResponder,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:15Z
+4,cpe:2.3:a:apple:mdnsresponder:22:*:*:*:*:*:*:*,Apple mDNSResponder 22,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:15Z
+5,cpe:2.3:a:apple:mdnsresponder:25:*:*:*:*:*:*:*,Apple mDNSResponder 25,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:15Z
+6,cpe:2.3:a:apple:mdnsresponder:26.2:*:*:*:*:*:*:*,Apple mDNSResponder 26.2,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:15Z
+7,cpe:2.3:a:apple:mdnsresponder:58:*:*:*:*:*:*:*,Apple mDNSResponder 58,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:15Z
+8,cpe:2.3:a:apple:mdnsresponder:58.1:*:*:*:*:*:*:*,Apple mDNSResponder 58.1,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:15Z
+9,cpe:2.3:a:apple:mdnsresponder:58.3:*:*:*:*:*:*:*,Apple mDNSResponder 58.3,"['CVE-2007-0613', 'CVE-2015-7987', 'CVE-2015-7988']",2022-03-18T22:15Z

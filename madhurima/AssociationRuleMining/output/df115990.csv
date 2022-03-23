@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:asr_5000_software:18.3_base:*:*:*:*:*:*:*,Cisco ASR 5000 Software 18.3 Base,"['CVE-2016-1452', 'CVE-2017-6729']",2022-03-19T18:39Z
+1,cpe:2.3:a:cisco:asr_5000_software:18.4.0:*:*:*:*:*:*:*,Cisco Aggregation Services Router (ASR) 5000 Software 18.4.0,"['CVE-2016-1436', 'CVE-2017-6729']",2022-03-19T18:39Z
+2,cpe:2.3:a:cisco:asr_5000_software:19.0.1:*:*:*:*:*:*:*,Cisco Aggregation Services Router (ASR) 5000 Software 19.0.1,"['CVE-2016-1436', 'CVE-2016-1452', 'CVE-2017-6729']",2022-03-19T18:39Z
+3,cpe:2.3:o:cisco:asr_5000_software:19.0.m0.60737:*:*:*:*:*:*:*,Cisco Aggregation Services Router (ASR) 5000 Software 19.0.m0.60737,['CVE-2016-6455'],2022-03-19T18:39Z
+4,cpe:2.3:a:cisco:asr_5000_software:19.0.m0.60828:*:*:*:*:*:*:*,Cisco Aggregation Services Router (ASR) 5000 Software 19.0.m0.60828,"['CVE-2016-1436', 'CVE-2016-1452', 'CVE-2017-6729']",2022-03-19T18:39Z
+5,cpe:2.3:a:cisco:asr_5000_software:19.0.m0.61045:*:*:*:*:*:*:*,Cisco Aggregation Services Router (ASR) 5000 Software 19.0.m0.61045,"['CVE-2016-1436', 'CVE-2016-1452', 'CVE-2017-6729']",2022-03-19T18:39Z
+6,cpe:2.3:a:cisco:asr_5000_software:19.1.0:*:*:*:*:*:*:*,Cisco Aggregation Services Router (ASR) 5000 Software 19.1.0,"['CVE-2016-1436', 'CVE-2016-1452', 'CVE-2017-6729']",2022-03-19T18:39Z
+7,cpe:2.3:o:cisco:asr_5000_software:19.1.0.61559:*:*:*:*:*:*:*,Cisco Aggregation Services Router (ASR) 5000 Software 19.1.0.61559,['CVE-2016-6455'],2022-03-19T18:39Z
+8,cpe:2.3:o:cisco:asr_5000_software:19.2.0:*:*:*:*:*:*:*,Cisco Aggregation Services Router (ASR) 5000 Software 19.2.0,['CVE-2016-6455'],2022-03-19T18:39Z
+9,cpe:2.3:a:cisco:asr_5000_software:19.3.0:*:*:*:*:*:*:*,Cisco Aggregation Services Router (ASR) 5000 Software 19.3.0,"['CVE-2016-1436', 'CVE-2016-1452', 'CVE-2017-6729']",2022-03-19T18:39Z

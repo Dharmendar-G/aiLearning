@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:filenet_workplace:4.0.2.11:*:*:*:*:*:*:*,IBM FileNet Workplace 4.0.2.11,"['CVE-2016-5878', 'CVE-2016-5981']",2022-03-21T20:35Z
+1,cpe:2.3:a:ibm:filenet_workplace:4.0.2.12:*:*:*:*:*:*:*,IBM FileNet Workplace 4.0.2.12,"['CVE-2016-5878', 'CVE-2016-5981']",2022-03-21T20:35Z
+2,cpe:2.3:a:ibm:filenet_workplace:4.0.2.13:*:*:*:*:*:*:*,IBM FileNet Workplace 4.0.2.13,"['CVE-2016-5878', 'CVE-2016-5981']",2022-03-21T20:35Z
+3,cpe:2.3:a:ibm:filenet_workplace:4.0.2.14-p8ae-if001:*:*:*:*:*:*:*,IBM Filenet Workplace 4.0.2.14-P8AE-IF001,['CVE-2016-5981'],2022-03-21T20:35Z
+4,cpe:2.3:a:ibm:filenet_workplace_xt:1.1.5:*:*:*:*:*:*:*,IBM FileNet Workplace XT 1.1.5,"['CVE-2016-5981', 'CVE-2016-8921']",2022-03-21T20:35Z
+5,cpe:2.3:a:ibm:filenet_workplace_xt:1.1.5.2-wpxt-la011:*:*:*:*:*:*:*,IBM Filenet Workplace XT 1.1.5.2-WPXT-LA011,['CVE-2016-5981'],2022-03-21T20:35Z
+6,cpe:2.3:a:ibm:financial_transaction_manager:2.0.0.0:*:*:*:*:*:*:*,IBM Financial Transaction Manager 2.0.0.0,"['CVE-2014-0830', 'CVE-2014-0831', 'CVE-2014-0832', 'CVE-2014-0833', 'CVE-2014-8917']",2022-03-21T20:35Z
+7,cpe:2.3:a:ibm:financial_transaction_manager:2.0.0.1:*:*:*:*:*:*:*,IBM Financial Transaction Manager 2.0.0.1,"['CVE-2014-0830', 'CVE-2014-0831', 'CVE-2014-0832', 'CVE-2014-0833', 'CVE-2014-8917']",2022-03-21T20:35Z
+8,cpe:2.3:a:ibm:financial_transaction_manager:2.0.0.2:*:*:*:*:*:*:*,IBM Financial Transaction Manager 2.0.0.2,"['CVE-2014-0830', 'CVE-2014-0831', 'CVE-2014-0832', 'CVE-2014-0833', 'CVE-2014-8917']",2022-03-21T20:35Z
+9,cpe:2.3:a:ibm:financial_transaction_manager:2.0.0.3:*:*:*:*:*:*:*,IBM Financial Transaction Manager 2.0.0.3,['CVE-2014-8917'],2022-03-21T20:35Z

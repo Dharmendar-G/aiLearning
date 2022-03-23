@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dhcpcd_project:dhcpcd:6.6.4:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 6.6.4,"['CVE-2014-7913', 'CVE-2016-1503', 'CVE-2016-1504', 'CVE-2019-11577', 'CVE-2019-11578', 'CVE-2019-11579', 'CVE-2019-11766']",2022-03-20T13:58Z
+1,cpe:2.3:a:dhcpcd_project:dhcpcd:6.6.5:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 6.6.5,"['CVE-2014-7913', 'CVE-2016-1503', 'CVE-2016-1504', 'CVE-2019-11577', 'CVE-2019-11578', 'CVE-2019-11579', 'CVE-2019-11766']",2022-03-20T13:58Z
+2,cpe:2.3:a:dhcpcd_project:dhcpcd:6.6.6:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 6.6.6,"['CVE-2014-7913', 'CVE-2016-1503', 'CVE-2016-1504', 'CVE-2019-11577', 'CVE-2019-11578', 'CVE-2019-11579', 'CVE-2019-11766']",2022-03-20T13:58Z
+3,cpe:2.3:a:dhcpcd_project:dhcpcd:6.6.7:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 6.6.7,"['CVE-2014-7913', 'CVE-2016-1503', 'CVE-2016-1504', 'CVE-2019-11577', 'CVE-2019-11578', 'CVE-2019-11579', 'CVE-2019-11766']",2022-03-20T13:58Z
+4,cpe:2.3:a:dhcpcd_project:dhcpcd:6.7.0:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 6.7.0,"['CVE-2014-7913', 'CVE-2016-1503', 'CVE-2016-1504', 'CVE-2019-11577', 'CVE-2019-11578', 'CVE-2019-11579', 'CVE-2019-11766']",2022-03-20T13:58Z
+5,cpe:2.3:a:dhcpcd_project:dhcpcd:6.7.1:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 6.7.1,"['CVE-2014-7913', 'CVE-2016-1503', 'CVE-2016-1504', 'CVE-2019-11577', 'CVE-2019-11578', 'CVE-2019-11579', 'CVE-2019-11766']",2022-03-20T13:58Z
+6,cpe:2.3:a:dhcpcd_project:dhcpcd:6.8.0:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 6.8.0,"['CVE-2014-7913', 'CVE-2016-1503', 'CVE-2016-1504', 'CVE-2019-11577', 'CVE-2019-11578', 'CVE-2019-11579', 'CVE-2019-11766']",2022-03-20T13:58Z
+7,cpe:2.3:a:dhcpcd_project:dhcpcd:6.8.1:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 6.8.1,"['CVE-2014-7913', 'CVE-2016-1503', 'CVE-2016-1504', 'CVE-2019-11577', 'CVE-2019-11578', 'CVE-2019-11579', 'CVE-2019-11766']",2022-03-20T13:58Z
+8,cpe:2.3:a:dhcpcd_project:dhcpcd:6.8.2:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 6.8.2,"['CVE-2014-7913', 'CVE-2016-1503', 'CVE-2016-1504', 'CVE-2019-11577', 'CVE-2019-11578', 'CVE-2019-11579', 'CVE-2019-11766']",2022-03-20T13:58Z
+9,cpe:2.3:a:dhcpcd_project:dhcpcd:6.9.0:*:*:*:*:*:*:*,dhcpcd Project dhcpcd 6.9.0,"['CVE-2014-7913', 'CVE-2016-1503', 'CVE-2016-1504', 'CVE-2019-11577', 'CVE-2019-11578', 'CVE-2019-11579', 'CVE-2019-11766']",2022-03-20T13:58Z

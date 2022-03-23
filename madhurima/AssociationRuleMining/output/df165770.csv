@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:craterapp:crater:4.0.2:*:*:*:*:*:*:*,Crater Invoice Crater 4.0.2,"['CVE-2021-4080', 'CVE-2022-0203', 'CVE-2022-0242', 'CVE-2022-0372']",2022-03-20T08:53Z
+1,cpe:2.3:a:craterapp:crater:4.0.3:*:*:*:*:*:*:*,Crater Invoice Crater 4.0.3,"['CVE-2021-4080', 'CVE-2022-0203', 'CVE-2022-0242', 'CVE-2022-0372']",2022-03-20T08:53Z
+2,cpe:2.3:a:craterapp:crater:4.0.4:*:*:*:*:*:*:*,Crater Invoice Crater 4.0.4,"['CVE-2021-4080', 'CVE-2022-0203', 'CVE-2022-0242', 'CVE-2022-0372']",2022-03-20T08:53Z
+3,cpe:2.3:a:craterapp:crater:4.1.0:*:*:*:*:*:*:*,Crater Invoice Crater 4.1.0,"['CVE-2021-4080', 'CVE-2022-0203', 'CVE-2022-0242', 'CVE-2022-0372']",2022-03-20T08:53Z
+4,cpe:2.3:a:craterapp:crater:4.2.0:*:*:*:*:*:*:*,Crater Invoice Crater 4.2.0,"['CVE-2021-4080', 'CVE-2022-0203', 'CVE-2022-0242', 'CVE-2022-0372']",2022-03-20T08:53Z
+5,cpe:2.3:a:craterapp:crater:5.0.0:*:*:*:*:*:*:*,Crater Invoice Crater 5.0.0,"['CVE-2021-4080', 'CVE-2022-0203', 'CVE-2022-0242', 'CVE-2022-0372']",2022-03-20T08:53Z
+6,cpe:2.3:a:craterapp:crater:5.0.1:*:*:*:*:*:*:*,Crater Invoice Crater 5.0.1,"['CVE-2021-4080', 'CVE-2022-0203', 'CVE-2022-0242', 'CVE-2022-0372']",2022-03-20T08:53Z
+7,cpe:2.3:a:craterapp:crater:5.0.2:*:*:*:*:*:*:*,Crater Invoice Crater 5.0.2,"['CVE-2021-4080', 'CVE-2022-0203', 'CVE-2022-0242', 'CVE-2022-0372']",2022-03-20T08:53Z
+8,cpe:2.3:a:craterapp:crater:5.0.4:*:*:*:*:*:*:*,Crater Invoice Crater 5.0.4,"['CVE-2021-4080', 'CVE-2022-0203', 'CVE-2022-0242', 'CVE-2022-0372']",2022-03-20T08:53Z
+9,cpe:2.3:a:craterapp:crater:5.0.5:*:*:*:*:*:*:*,Crater Invoice Crater 5.0.5,"['CVE-2021-4080', 'CVE-2022-0203', 'CVE-2022-0242', 'CVE-2022-0372']",2022-03-20T08:53Z

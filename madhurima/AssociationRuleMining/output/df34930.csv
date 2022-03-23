@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:openwhisk:1.0.0:*:*:*:*:*:*:*,Apache Software Foundation OpenWhisk 1.0.0,"['CVE-2018-11756', 'CVE-2018-11757']",2022-03-18T19:44Z
+1,cpe:2.3:a:apache:openwhisk:1.1.0:*:*:*:*:*:*:*,Apache Software Foundation OpenWhisk 1.1.0,['CVE-2018-11757'],2022-03-18T19:44Z
+2,cpe:2.3:a:apache:openwhisk:1.2.0:*:*:*:*:*:*:*,Apache Software Foundation OpenWhisk 1.2.0,['CVE-2018-11757'],2022-03-18T19:44Z
+3,cpe:2.3:a:apache:openwhisk:1.3.0:*:*:*:*:*:*:*,Apache Software Foundation OpenWhisk 1.3.0,['CVE-2018-11757'],2022-03-18T19:44Z
+4,cpe:2.3:a:apache:openwhisk:1.3.1:*:*:*:*:*:*:*,Apache Software Foundation OpenWhisk 1.3.1,[''],2022-03-18T19:44Z
+5,cpe:2.3:a:apache:openwhisk:1.3.2:*:*:*:*:*:*:*,Apache Software Foundation OpenWhisk 1.3.2,[''],2022-03-18T19:45Z
+6,cpe:2.3:a:apache:openwhisk:1.3.3:*:*:*:*:*:*:*,Apache Software Foundation OpenWhisk 1.3.3,[''],2022-03-18T19:44Z
+7,cpe:2.3:a:apache:openwhisk:1.12.0:*:*:*:*:*:*:*,Apache Software Foundation OpenWhisk 1.12.0,[''],2022-03-18T19:44Z
+8,cpe:2.3:a:apache:openwhisk:1.13.0:*:*:*:*:*:*:*,Apache Software Foundation OpenWhisk 1.13.0,[''],2022-03-18T19:45Z
+9,cpe:2.3:a:apache:orc:1.0.0:*:*:*:*:*:*:*,Apache Software Foundation ORC 1.0.0,[''],2022-03-18T19:45Z

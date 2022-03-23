@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:camel:2.21.3:*:*:*:*:*:*:*,Apache Software Foundation Camel 2.21.3,"['CVE-2019-0188', 'CVE-2019-0194']",2022-03-18T17:49Z
+1,cpe:2.3:a:apache:camel:2.21.4:*:*:*:*:*:*:*,Apache Software Foundation Camel 2.21.4,['CVE-2019-0188'],2022-03-18T17:49Z
+2,cpe:2.3:a:apache:camel:2.21.5:*:*:*:*:*:*:*,Apache Software Foundation Camel 2.21.5,['CVE-2019-0188'],2022-03-18T17:49Z
+3,cpe:2.3:a:apache:camel:2.22.0:*:*:*:*:*:*:*,Apache Software Foundation Camel 2.22.0,"['CVE-2018-8041', 'CVE-2019-0188', 'CVE-2019-0194', 'CVE-2020-11971', 'CVE-2020-11972', 'CVE-2020-11973', 'CVE-2020-11994']",2022-03-18T17:49Z
+4,cpe:2.3:a:apache:camel:2.22.1:*:*:*:*:*:*:*,Apache Software Foundation Camel 2.22.1,"['CVE-2019-0188', 'CVE-2019-0194', 'CVE-2020-11971', 'CVE-2020-11972', 'CVE-2020-11973', 'CVE-2020-11994']",2022-03-18T17:49Z
+5,cpe:2.3:a:apache:camel:2.22.2:*:*:*:*:*:*:*,Apache Software Foundation Camel 2.22.2,"['CVE-2019-0188', 'CVE-2019-0194', 'CVE-2020-11971', 'CVE-2020-11972', 'CVE-2020-11973', 'CVE-2020-11994']",2022-03-18T17:49Z
+6,cpe:2.3:a:apache:camel:2.22.3:*:*:*:*:*:*:*,Apache Software Foundation Camel 2.22.3,"['CVE-2019-0188', 'CVE-2020-11971', 'CVE-2020-11972', 'CVE-2020-11973', 'CVE-2020-11994']",2022-03-18T17:49Z
+7,cpe:2.3:a:apache:camel:2.22.4:*:*:*:*:*:*:*,Apache Software Foundation Camel 2.22.4,"['CVE-2019-0188', 'CVE-2020-11971', 'CVE-2020-11972', 'CVE-2020-11973', 'CVE-2020-11994']",2022-03-18T17:49Z
+8,cpe:2.3:a:apache:camel:2.22.5:*:*:*:*:*:*:*,Apache Software Foundation Camel 2.22.5,"['CVE-2019-0188', 'CVE-2020-11971', 'CVE-2020-11972', 'CVE-2020-11973', 'CVE-2020-11994']",2022-03-18T17:49Z
+9,cpe:2.3:a:apache:camel:2.23.0:*:*:*:*:*:*:*,Apache Software Foundation Camel 2.23.0,"['CVE-2019-0188', 'CVE-2019-0194', 'CVE-2020-11971', 'CVE-2020-11972', 'CVE-2020-11973', 'CVE-2020-11994']",2022-03-18T17:50Z

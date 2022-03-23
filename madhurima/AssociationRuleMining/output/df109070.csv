@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:checkpoint:zonealarm:15.8.139.18543:*:*:*:*:*:*:*,Check Point ZoneAlarm 15.8.139.18543,[''],2022-03-19T16:50Z
+1,cpe:2.3:a:checkpoint:zonealarm_anti-ransomware:1.0.0601:*:*:*:*:*:*:*,Check Point ZoneAlarm Anti-Ransomware 1.0.0601,['CVE-2020-6012'],2022-03-19T16:50Z
+2,cpe:2.3:a:checkpoint:zonealarm_anti-ransomware:1.0.710:*:*:*:*:*:*:*,Check Point ZoneAlarm Anti-Ransomware 1.0.710,['CVE-2020-6012'],2022-03-19T16:50Z
+3,cpe:2.3:a:checkpoint:zonealarm_anti-ransomware:1.0.713:*:*:*:*:*:*:*,Checkpoint ZoneAlarm Anti-Ransomware 1.0.713,[''],2022-03-19T16:50Z
+4,cpe:2.3:a:checkpoint:zonealarm_anti-ransomware:1.1.385:*:*:*:*:*:*:*,Check Point ZoneAlarm Anti-Ransomware 1.1.385,[''],2022-03-19T16:50Z
+5,cpe:2.3:a:checkpoint:zonealarm_anti-ransomware:1.1.534:*:*:*:*:*:*:*,Check Point ZoneAlarm Anti-Ransomware 1.1.534,[''],2022-03-19T16:50Z
+6,cpe:2.3:a:checkpoint:zonealarm_anti-ransomware:1.1.608:*:*:*:*:*:*:*,Check Point ZoneAlarm Anti-Ransomware 1.1.608,[''],2022-03-19T16:50Z
+7,cpe:2.3:a:checkpoint:zonealarm_anti-ransomware:1.1.673:*:*:*:*:*:*:*,Check Point ZoneAlarm Anti-Ransomware 1.1.673,[''],2022-03-19T16:50Z
+8,cpe:2.3:a:checkpoint:zonealarm_anti-ransomware:1.1.1023:*:*:*:*:*:*:*,Check Point ZoneAlarm Anti-Ransomware 1.1.1023,[''],2022-03-19T16:50Z
+9,cpe:2.3:a:checkpoint:zonealarm_anti-ransomware:1.2.3010:*:*:*:*:*:*:*,Check Point ZoneAlarm Anti-Ransomware 1.2.3010,[''],2022-03-19T16:50Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hpe:intelligent_provisioning:3.40:*:*:*:*:*:*:*,HPE Intelligent Provisioning 3.40,['CVE-2020-7205'],2022-03-21T16:29Z
+1,cpe:2.3:h:hpe:kvm_ip_console_switch_g2:4x1ex32:*:*:*:*:*:*:*,HPE KVM IP Console Switch G2 4x1Ex32,"['CVE-2020-24627', 'CVE-2020-24628']",2022-03-21T16:29Z
+2,cpe:2.3:o:hpe:kvm_ip_console_switch_g2_firmware:2.8.3:*:*:*:*:*:*:*,HPE KVM IP Console Switch G2 Firmware 2.8.3,[''],2022-03-21T16:29Z
+3,cpe:2.3:h:hpe:msa_1040:-:*:*:*:*:*:*:*,HPE MSA 1040,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z
+4,cpe:2.3:o:hpe:msa_1040_firmware:-:*:*:*:*:*:*:*,HPE MSA 1040 Firmware,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z
+5,cpe:2.3:o:hpe:msa_1040_firmware:gl225p001:*:*:*:*:*:*:*,HPE MSA 1040 Firmware GL225P001,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z
+6,cpe:2.3:h:hpe:msa_1050:-:*:*:*:*:*:*:*,HPE MSA 1050,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z
+7,cpe:2.3:o:hpe:msa_1050_firmware:-:*:*:*:*:*:*:*,HPE MSA 1050 Firmware,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z
+8,cpe:2.3:o:hpe:msa_1050_firmware:ve270r001-01:*:*:*:*:*:*:*,HPE MSA 1050 Firmware VE270R001-01,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z
+9,cpe:2.3:h:hpe:msa_2040:-:*:*:*:*:*:*:*,HPE MSA 2040,"['CVE-2019-12001', 'CVE-2019-12002']",2022-03-21T16:29Z

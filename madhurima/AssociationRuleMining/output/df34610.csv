@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:nuttx:6.29:*:*:*:*:*:*:*,Apache Software Foundation NuttX 6.29,"['CVE-2020-17528', 'CVE-2020-17529', 'CVE-2020-1939', 'CVE-2021-26461']",2022-03-18T19:38Z
+1,cpe:2.3:a:apache:nuttx:6.30:*:*:*:*:*:*:*,Apache Software Foundation NuttX 6.30,"['CVE-2020-17528', 'CVE-2020-17529', 'CVE-2020-1939', 'CVE-2021-26461']",2022-03-18T19:38Z
+2,cpe:2.3:a:apache:nuttx:6.31:*:*:*:*:*:*:*,Apache Software Foundation NuttX 6.31,"['CVE-2020-17528', 'CVE-2020-17529', 'CVE-2020-1939', 'CVE-2021-26461']",2022-03-18T19:38Z
+3,cpe:2.3:a:apache:nuttx:6.32:*:*:*:*:*:*:*,Apache Software Foundation NuttX 6.32,"['CVE-2020-17528', 'CVE-2020-17529', 'CVE-2020-1939', 'CVE-2021-26461']",2022-03-18T19:38Z
+4,cpe:2.3:a:apache:nuttx:6.33:*:*:*:*:*:*:*,Apache Software Foundation NuttX 6.33,"['CVE-2020-17528', 'CVE-2020-17529', 'CVE-2020-1939', 'CVE-2021-26461']",2022-03-18T19:38Z
+5,cpe:2.3:a:apache:nuttx:7.1:*:*:*:*:*:*:*,Apache Software Foundation NuttX 7.1,"['CVE-2020-17528', 'CVE-2020-17529', 'CVE-2020-1939', 'CVE-2021-26461']",2022-03-18T19:38Z
+6,cpe:2.3:a:apache:nuttx:7.2:*:*:*:*:*:*:*,Apache Software Foundation NuttX 7.2,"['CVE-2020-17528', 'CVE-2020-17529', 'CVE-2020-1939', 'CVE-2021-26461']",2022-03-18T19:38Z
+7,cpe:2.3:a:apache:nuttx:7.3:*:*:*:*:*:*:*,Apache Software Foundation NuttX 7.3,"['CVE-2020-17528', 'CVE-2020-17529', 'CVE-2020-1939', 'CVE-2021-26461']",2022-03-18T19:38Z
+8,cpe:2.3:a:apache:nuttx:7.4:*:*:*:*:*:*:*,Apache Software Foundation NuttX 7.4,"['CVE-2020-17528', 'CVE-2020-17529', 'CVE-2020-1939', 'CVE-2021-26461']",2022-03-18T19:38Z
+9,cpe:2.3:a:apache:nuttx:7.5:*:*:*:*:*:*:*,Apache Software Foundation NuttX 7.5,"['CVE-2020-17528', 'CVE-2020-17529', 'CVE-2020-1939', 'CVE-2021-26461']",2022-03-18T19:38Z

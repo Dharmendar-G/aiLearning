@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hms-networks:ewon_cosy_firmware:14.1s0:*:*:*:*:*:*:*,HMS-Networks eWON Cosy Firmware 14.1s0,[''],2022-03-21T11:33Z
+1,cpe:2.3:h:hms-networks:ewon_flexy:-:*:*:*:*:*:*:*,HMS-Networks eWON Flexy,"['CVE-2020-10633', 'CVE-2020-16230']",2022-03-21T11:33Z
+2,cpe:2.3:o:hms-networks:ewon_flexy_firmware:-:*:*:*:*:*:*:*,HMS-Networks eWON Flexy Firmware,"['CVE-2020-10633', 'CVE-2020-16230']",2022-03-21T11:33Z
+3,cpe:2.3:o:hms-networks:ewon_flexy_firmware:14.1:*:*:*:*:*:*:*,HMS-Networks Ewon Flexy Firmware 14.1,['CVE-2020-10633'],2022-03-21T11:33Z
+4,cpe:2.3:o:hms-networks:ewon_flexy_firmware:14.1s0:*:*:*:*:*:*:*,HMS-Networks eWON Flexy Firmware 14.1s0,[''],2022-03-21T11:33Z
+5,cpe:2.3:h:hms-networks:netbiter_ec150:-:*:*:*:*:*:*:*,HMS-Networks Netbiter EC150,['CVE-2018-19694'],2022-03-21T11:34Z
+6,cpe:2.3:o:hms-networks:netbiter_ec150_firmware:1.40.0:*:*:*:*:*:*:*,HMS-Networks Netbiter EC150 Firmware 1.40.0,['CVE-2018-19694'],2022-03-21T11:34Z
+7,cpe:2.3:h:hms-networks:netbiter_ec250:-:*:*:*:*:*:*:*,HMS-Networks Netbiter EC250,['CVE-2018-19694'],2022-03-21T11:34Z
+8,cpe:2.3:o:hms-networks:netbiter_ec250_firmware:1.40.0:*:*:*:*:*:*:*,HMS-Networks Netbiter EC250 Firmware 1.40.0,['CVE-2018-19694'],2022-03-21T11:34Z
+9,cpe:2.3:h:hms-networks:netbiter_lc310:-:*:*:*:*:*:*:*,HMS-Networks Netbiter LC310,['CVE-2018-19694'],2022-03-21T11:34Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:chrony_project:chrony:2.3:*:*:*:*:*:*:*,Chrony Project Chrony 2.3,[''],2022-03-19T17:29Z
+1,cpe:2.3:a:chrony_project:chrony:2.4.1:*:*:*:*:*:*:*,Chrony Project Chrony 2.4.1,[''],2022-03-19T17:29Z
+2,cpe:2.3:a:chrony_project:chrony:3.1:*:*:*:*:*:*:*,Chrony Project Chrony 3.1,[''],2022-03-19T17:29Z
+3,cpe:2.3:a:chrony_project:chrony:3.2:*:*:*:*:*:*:*,Chrony Project Chrony 3.2,[''],2022-03-19T17:29Z
+4,cpe:2.3:a:chrony_project:chrony:3.3:*:*:*:*:*:*:*,Chrony Project Chrony 3.3,[''],2022-03-19T17:29Z
+5,cpe:2.3:a:chrony_project:chrony:3.4:*:*:*:*:*:*:*,Chrony Project Chrony 3.4,[''],2022-03-19T17:29Z
+6,cpe:2.3:a:chrony_project:chrony:3.5:*:*:*:*:*:*:*,Chrony Project Chrony 3.5,[''],2022-03-19T17:29Z
+7,cpe:2.3:a:chshcms:cscms:3.5:*:*:*:*:*:*:*,chshcms Cscms 3.5,[''],2022-03-19T17:29Z
+8,cpe:2.3:a:chshcms:cscms:3.5.6:*:*:*:*:*:*:*,chshcms Cscms 3.5.6,[''],2022-03-19T17:29Z
+9,cpe:2.3:a:chshcms:cscms:4.0:*:*:*:*:*:*:*,chshcms Cscms 4.0,"['CVE-2018-16448', 'CVE-2020-21238']",2022-03-19T17:29Z

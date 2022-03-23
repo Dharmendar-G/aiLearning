@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:axelerant:testimonials_widget:2.5.0:*:*:*:*:wordpress:*:*,Axelerant Testimonials Widget 2.5.0 for WordPress,['CVE-2021-24136'],2022-03-19T04:41Z
+1,cpe:2.3:a:axelerant:testimonials_widget:2.5.1:*:*:*:*:wordpress:*:*,Axelerant Testimonials Widget 2.5.1 for WordPress,['CVE-2021-24136'],2022-03-19T04:41Z
+2,cpe:2.3:a:axelerant:testimonials_widget:4.0.0:*:*:*:*:wordpress:*:*,Axelerant Testimonials Widget 4.0.0 for WordPress,[''],2022-03-19T04:41Z
+3,cpe:2.3:a:axelor:open_suite:-:*:*:*:*:*:*:*,Axelor Open Suite,['CVE-2022-25138'],2022-03-19T04:41Z
+4,cpe:2.3:a:axelor:open_suite:3.0.1:*:*:*:*:*:*:*,Axelor Open Suite 3.0.1,['CVE-2022-25138'],2022-03-19T04:41Z
+5,cpe:2.3:a:axelor:open_suite:3.0.2:*:*:*:*:*:*:*,Axelor Open Suite 3.0.2,['CVE-2022-25138'],2022-03-19T04:41Z
+6,cpe:2.3:a:axelor:open_suite:3.0.3:*:*:*:*:*:*:*,Axelor Open Suite 3.0.3,['CVE-2022-25138'],2022-03-19T04:41Z
+7,cpe:2.3:a:axelor:open_suite:3.0.4:*:*:*:*:*:*:*,Axelor Open Suite 3.0.4,['CVE-2022-25138'],2022-03-19T04:41Z
+8,cpe:2.3:a:axelor:open_suite:4.0.1:*:*:*:*:*:*:*,Axelor Open Suite 4.0.1,['CVE-2022-25138'],2022-03-19T04:41Z
+9,cpe:2.3:a:axelor:open_suite:4.0.2:*:*:*:*:*:*:*,Axelor Open Suite 4.0.2,['CVE-2022-25138'],2022-03-19T04:41Z

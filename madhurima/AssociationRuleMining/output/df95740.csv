@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:buffalo:wapm-ag300n:-:*:*:*:*:*:*:*,Buffalo WAPM-AG300N,['CVE-2016-4816'],2022-03-19T13:14Z
+1,cpe:2.3:o:buffalo:wapm-ag300n_firmware:2.62:*:*:*:*:*:*:*,Buffalo WAPM-AG300N Firmware 2.62,['CVE-2016-4816'],2022-03-19T13:14Z
+2,cpe:2.3:h:buffalo:wapm-apg300n:-:*:*:*:*:*:*:*,Buffalo WAPM-APG300N,['CVE-2016-4816'],2022-03-19T13:14Z
+3,cpe:2.3:o:buffalo:wapm-apg300n_firmware:2.62:*:*:*:*:*:*:*,Buffalo WAPM-APG300N Firmware 2.62,['CVE-2016-4816'],2022-03-19T13:14Z
+4,cpe:2.3:h:buffalo:wapm-apg600h:-:*:*:*:*:*:*:*,Buffalo WAPM-APG600H,['CVE-2017-2126'],2022-03-19T13:14Z
+5,cpe:2.3:o:buffalo:wapm-apg600h_firmware:1.16.1:*:*:*:*:*:*:*,Buffalo WAPM-APG600H Firmware 1.16.1,['CVE-2017-2126'],2022-03-19T13:14Z
+6,cpe:2.3:h:buffalo:wbr2-b11:-:*:*:*:*:*:*:*,Buffalo WBR2-B11,['CVE-2021-20716'],2022-03-19T13:14Z
+7,cpe:2.3:o:buffalo:wbr2-b11_firmware:-:*:*:*:*:*:*:*,Buffalo WBR2-B11 FIRMWARE,['CVE-2021-20716'],2022-03-19T13:14Z
+8,cpe:2.3:o:buffalo:wbr2-b11_firmware:2.32:*:*:*:*:*:*:*,Buffalo WBR2-B11 FIRMWARE 2.32,['CVE-2021-20716'],2022-03-19T13:14Z
+9,cpe:2.3:h:buffalo:wbr2-g54:-:*:*:*:*:*:*:*,Buffalo WBR2-G54,['CVE-2021-20716'],2022-03-19T13:14Z

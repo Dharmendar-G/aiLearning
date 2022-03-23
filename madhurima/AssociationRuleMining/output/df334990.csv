@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:mate_8_firmware:-:*:*:*:*:*:*:*,Huawei Mate 8 Firmware,"['CVE-2016-3680', 'CVE-2016-3681', 'CVE-2016-5233', 'CVE-2016-8774', 'CVE-2016-8791', 'CVE-2016-8792', 'CVE-2016-8793', 'CVE-2016-8794', 'CVE-2017-17171']",2022-03-21T18:07Z
+1,cpe:2.3:o:huawei:mate_8_firmware:nxt:*:*:*:*:*:*:*,Huawei Mate 8 Firmware NXT,"['CVE-2016-5230', 'CVE-2016-5231', 'CVE-2016-5232', 'CVE-2017-17171']",2022-03-21T18:07Z
+2,cpe:2.3:o:huawei:mate_8_firmware:nxt-al10c00b197:*:*:*:*:*:*:*,Huawei Mate 8 Firmware NXT-AL10C00B197,"['CVE-2016-8756', 'CVE-2017-17171']",2022-03-21T18:07Z
+3,cpe:2.3:o:huawei:mate_8_firmware:nxt-al10c00b561:*:*:*:*:*:*:*,Huawei Mate 8 Firmware NXT-AL10C00B561,"['CVE-2016-8758', 'CVE-2017-17171']",2022-03-21T18:07Z
+4,cpe:2.3:o:huawei:mate_8_firmware:nxt-al10c00b593:*:*:*:*:*:*:*,Huawei Mate 8 Firmware NXT-AL10C00B593,['CVE-2017-17171'],2022-03-21T18:07Z
+5,cpe:2.3:o:huawei:mate_8_firmware:nxt-cl00c92b593:*:*:*:*:*:*:*,Huawei Mate 8 Firmware NXT-CL00C92B593,['CVE-2017-17171'],2022-03-21T18:07Z
+6,cpe:2.3:o:huawei:mate_8_firmware:nxt-cl10c00b197:*:*:*:*:*:*:*,Huawei Mate 8 Firmware NXT-CL10C00B197,"['CVE-2016-8756', 'CVE-2017-17171']",2022-03-21T18:07Z
+7,cpe:2.3:o:huawei:mate_8_firmware:nxt-cl10c00b561:*:*:*:*:*:*:*,Huawei Mate 8 Firmware NXT-CL10c00B561,"['CVE-2016-8758', 'CVE-2017-17171']",2022-03-21T18:07Z
+8,cpe:2.3:o:huawei:mate_8_firmware:nxt-dl00c17b593:*:*:*:*:*:*:*,Huawei Mate 8 Firmware NXT-DL00C17B593,['CVE-2017-17171'],2022-03-21T18:07Z
+9,cpe:2.3:o:huawei:mate_8_firmware:nxt-dl10c00b197:*:*:*:*:*:*:*,Huawei Mate 8 Firmware NXT-DL10C00B197,"['CVE-2016-8756', 'CVE-2017-17171']",2022-03-21T18:07Z

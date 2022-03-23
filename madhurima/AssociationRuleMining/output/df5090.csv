@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:acer:chromebook_11_c740:-:*:*:*:*:*:*:*,Acer Chromebook 11 C740,['CVE-2017-15361'],2022-03-18T10:55Z
+1,cpe:2.3:h:acer:chromebook_11_c771:-:*:*:*:*:*:*:*,Acer Chromebook 11 C771,['CVE-2017-15361'],2022-03-18T10:55Z
+2,cpe:2.3:h:acer:chromebook_11_c771t:-:*:*:*:*:*:*:*,Acer Chromebook 11 C771T,['CVE-2017-15361'],2022-03-18T10:55Z
+3,cpe:2.3:h:acer:chromebook_11_n7_c731:-:*:*:*:*:*:*:*,Acer Chromebook 11 N7 C731,['CVE-2017-15361'],2022-03-18T10:55Z
+4,cpe:2.3:h:acer:chromebook_13_cb5-311:-:*:*:*:*:*:*:*,Acer Chromebook 13 CB5-311,['CVE-2017-15361'],2022-03-18T10:55Z
+5,cpe:2.3:h:acer:chromebook_14_cb3-431:-:*:*:*:*:*:*:*,Acer Chromebook 14 CB3-431,['CVE-2017-15361'],2022-03-18T10:55Z
+6,cpe:2.3:h:acer:chromebook_14_for_work_cp5-471:-:*:*:*:*:*:*:*,Acer Chromebook 14 for Work CP5-471,['CVE-2017-15361'],2022-03-18T10:55Z
+7,cpe:2.3:h:acer:chromebook_15_cb3-531:-:*:*:*:*:*:*:*,Acer Chromebook 15 CB3-531,['CVE-2017-15361'],2022-03-18T10:55Z
+8,cpe:2.3:h:acer:chromebook_15_cb3-532:-:*:*:*:*:*:*:*,Acer Chromebook 15 CB3-532,['CVE-2017-15361'],2022-03-18T10:55Z
+9,cpe:2.3:h:acer:chromebook_15_cb5-571:-:*:*:*:*:*:*:*,Acer Chromebook 15 CB5-571,['CVE-2017-15361'],2022-03-18T10:55Z

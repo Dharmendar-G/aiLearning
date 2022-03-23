@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:unified_callmanager:4.1\(3\)sr3:*:*:*:*:*:*:*,Cisco Unified CallManager 4.1(3) SR3,"['CVE-2006-5277', 'CVE-2006-5278', 'CVE-2007-1833']",2022-03-20T00:42Z
+1,cpe:2.3:a:cisco:unified_callmanager:4.1\(3\)sr4:*:*:*:*:*:*:*,Cisco Unified CallManager 4.1(3) SR4,"['CVE-2006-5277', 'CVE-2006-5278', 'CVE-2008-0027']",2022-03-20T00:42Z
+2,cpe:2.3:a:cisco:unified_callmanager:4.1\(3\)sr5:*:*:*:*:*:*:*,Cisco Unified CallManager 4.1(3) SR5,['CVE-2008-0027'],2022-03-20T00:42Z
+3,cpe:2.3:a:cisco:unified_callmanager:4.1\(3\)sr5b:*:*:*:*:*:*:*,Cisco Unified CallManager 4.1(3) SR5B,['CVE-2008-0027'],2022-03-20T00:42Z
+4,cpe:2.3:a:cisco:unified_callmanager:4.2:*:*:*:*:*:*:*,Cisco Unified CallManager 4.2,"['CVE-2006-5277', 'CVE-2006-5278', 'CVE-2007-1833', 'CVE-2008-3800', 'CVE-2008-3801']",2022-03-20T00:42Z
+5,cpe:2.3:a:cisco:unified_callmanager:4.2\(3\)sr1:*:*:*:*:*:*:*,Cisco Unified CallManager 4.2(3)SR1,"['CVE-2006-5277', 'CVE-2006-5278']",2022-03-20T00:42Z
+6,cpe:2.3:a:cisco:unified_callmanager:4.3:*:*:*:*:*:*:*,Cisco Unified CallManager 4.3,"['CVE-2008-3800', 'CVE-2008-3801']",2022-03-20T00:42Z
+7,cpe:2.3:a:cisco:unified_callmanager:4.3.1:*:*:*:*:*:*:*,Cisco Unified CallManager 4.3.1,[''],2022-03-20T00:42Z
+8,cpe:2.3:a:cisco:unified_callmanager:4.3.2000:*:*:*:*:*:*:*,Cisco Unified Callmanager 4.3.2000,[''],2022-03-20T00:42Z
+9,cpe:2.3:a:cisco:unified_callmanager:5.0:*:*:*:*:*:*:*,Cisco Unified CallManager 5.0,"['CVE-2006-5277', 'CVE-2006-5278', 'CVE-2007-1826', 'CVE-2007-1833', 'CVE-2007-1834', 'CVE-2007-5537', 'CVE-2007-5538', 'CVE-2008-0026']",2022-03-20T00:42Z

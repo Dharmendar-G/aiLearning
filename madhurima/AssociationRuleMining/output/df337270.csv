@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:te60_firmware:v100r001c10b012:*:*:*:*:*:*:*,Huawei TE60 Firmware V100R001C10B012,"['CVE-2015-8672', 'CVE-2015-8673', 'CVE-2017-17303']",2022-03-21T18:58Z
+1,cpe:2.3:o:huawei:te60_firmware:v100r001c10b013:*:*:*:*:*:*:*,Huawei TE60 Firmware V100R001C10B013,"['CVE-2015-8672', 'CVE-2015-8673', 'CVE-2017-17303']",2022-03-21T18:58Z
+2,cpe:2.3:o:huawei:te60_firmware:v100r001c10b014:*:*:*:*:*:*:*,Huawei TE60 Firmware V100R001C10B014,"['CVE-2015-8672', 'CVE-2015-8673', 'CVE-2017-17303']",2022-03-21T18:58Z
+3,cpe:2.3:o:huawei:te60_firmware:v100r001c10b016:*:*:*:*:*:*:*,Huawei TE60 Firmware V100R001C10B016,"['CVE-2015-8672', 'CVE-2015-8673', 'CVE-2017-17303']",2022-03-21T18:58Z
+4,cpe:2.3:o:huawei:te60_firmware:v100r001c10b017:*:*:*:*:*:*:*,Huawei TE60 Firmware V100R001C10B017,"['CVE-2015-8672', 'CVE-2015-8673', 'CVE-2017-17303']",2022-03-21T18:58Z
+5,cpe:2.3:o:huawei:te60_firmware:v100r001c10b018:*:*:*:*:*:*:*,Huawei TE60 Firmware V100R001C10B018,"['CVE-2015-8672', 'CVE-2015-8673', 'CVE-2017-17303']",2022-03-21T18:58Z
+6,cpe:2.3:o:huawei:te60_firmware:v100r001c10b019:*:*:*:*:*:*:*,Huawei TE60 Firmware V100R001C10B019,"['CVE-2015-8672', 'CVE-2015-8673', 'CVE-2017-17303']",2022-03-21T18:58Z
+7,cpe:2.3:o:huawei:te60_firmware:v100r001c10b022:*:*:*:*:*:*:*,Huawei TE60 Firmware V100R001C10B022,"['CVE-2015-8672', 'CVE-2015-8673']",2022-03-21T18:58Z
+8,cpe:2.3:o:huawei:te60_firmware:v100r001c10spc300:*:*:*:*:*:*:*,Huawei TE60 Firmware V100R001C10SPC300,"['CVE-2017-17142', 'CVE-2017-17143', 'CVE-2017-17144', 'CVE-2017-17151', 'CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T18:58Z
+9,cpe:2.3:o:huawei:te60_firmware:v100r001c10spc400:*:*:*:*:*:*:*,Huawei TE60 Firmware V100R001C10SPC400,"['CVE-2017-17142', 'CVE-2017-17143', 'CVE-2017-17144', 'CVE-2017-17151', 'CVE-2017-17303', 'CVE-2019-19415', 'CVE-2019-19416', 'CVE-2019-19417']",2022-03-21T18:58Z

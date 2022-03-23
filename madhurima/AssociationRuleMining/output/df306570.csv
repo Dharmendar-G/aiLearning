@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hashicorp:nomad:1.1.12:*:*:*:enterprise:*:*:*,HashiCorp Nomad 1.1.12 Enterprise Edition,[''],2022-03-21T09:50Z
+1,cpe:2.3:a:hashicorp:nomad:1.2.0:-:*:*:-:*:*:*,HashiCorp Nomad 1.2.0,"['CVE-2021-43415', 'CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24685', 'CVE-2022-24686']",2022-03-21T09:50Z
+2,cpe:2.3:a:hashicorp:nomad:1.2.0:-:*:*:enterprise:*:*:*,HashiCorp Nomad 1.2.0 Enterprise Edition,"['CVE-2021-43415', 'CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24685', 'CVE-2022-24686']",2022-03-21T09:50Z
+3,cpe:2.3:a:hashicorp:nomad:1.2.1:*:*:*:-:*:*:*,HashiCorp Nomad 1.2.1,"['CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24685', 'CVE-2022-24686']",2022-03-21T09:50Z
+4,cpe:2.3:a:hashicorp:nomad:1.2.1:*:*:*:enterprise:*:*:*,HashiCorp Nomad 1.2.1 Enterprise Edition,"['CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24685', 'CVE-2022-24686']",2022-03-21T09:50Z
+5,cpe:2.3:a:hashicorp:nomad:1.2.2:*:*:*:-:*:*:*,HashiCorp Nomad 1.2.2,"['CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24685', 'CVE-2022-24686']",2022-03-21T09:50Z
+6,cpe:2.3:a:hashicorp:nomad:1.2.2:*:*:*:enterprise:*:*:*,HashiCorp Nomad 1.2.2 Enterprise Edition,"['CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24685', 'CVE-2022-24686']",2022-03-21T09:50Z
+7,cpe:2.3:a:hashicorp:nomad:1.2.5:*:*:*:-:*:*:*,HashiCorp Nomad 1.2.5,"['CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24685', 'CVE-2022-24686']",2022-03-21T09:50Z
+8,cpe:2.3:a:hashicorp:nomad:1.2.5:*:*:*:enterprise:*:*:*,HashiCorp Nomad 1.2.5 Enterprise Edition,"['CVE-2022-24683', 'CVE-2022-24684', 'CVE-2022-24685', 'CVE-2022-24686']",2022-03-21T09:50Z
+9,cpe:2.3:a:hashicorp:nomad:1.2.6:*:*:*:-:*:*:*,HashiCorp Nomad 1.2.6,[''],2022-03-21T09:50Z

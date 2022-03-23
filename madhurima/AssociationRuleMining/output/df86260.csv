@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bottlepy:bottle:0.12.10:*:*:*:*:*:*:*,bottlepy Bottle 0.12.10,"['CVE-2016-9964', 'CVE-2020-28473']",2022-03-19T10:13Z
+1,cpe:2.3:a:bottlepy:bottle:0.12.11:*:*:*:*:*:*:*,bottlepy Bottle 0.12.11,['CVE-2020-28473'],2022-03-19T10:13Z
+2,cpe:2.3:a:bottlepy:bottle:0.12.12:*:*:*:*:*:*:*,bottlepy Bottle 0.12.12,['CVE-2020-28473'],2022-03-19T10:13Z
+3,cpe:2.3:a:bottlepy:bottle:0.12.13:*:*:*:*:*:*:*,bottlepy Bottle 0.12.13,['CVE-2020-28473'],2022-03-19T10:13Z
+4,cpe:2.3:a:bottlepy:bottle:0.12.14:*:*:*:*:*:*:*,bottlepy Bottle 0.12.14,['CVE-2020-28473'],2022-03-19T10:13Z
+5,cpe:2.3:a:bottlepy:bottle:0.12.15:*:*:*:*:*:*:*,bottlepy Bottle 0.12.15,['CVE-2020-28473'],2022-03-19T10:13Z
+6,cpe:2.3:a:bottlepy:bottle:0.12.16:*:*:*:*:*:*:*,bottlepy Bottle 0.12.16,['CVE-2020-28473'],2022-03-19T10:13Z
+7,cpe:2.3:a:bottlepy:bottle:0.12.17:*:*:*:*:*:*:*,bottlepy Bottle 0.12.17,['CVE-2020-28473'],2022-03-19T10:13Z
+8,cpe:2.3:a:bottlepy:bottle:0.12.18:*:*:*:*:*:*:*,bottlepy Bottle 0.12.18,['CVE-2020-28473'],2022-03-19T10:13Z
+9,cpe:2.3:a:bottlepy:bottle:0.12.19:*:*:*:*:*:*:*,Bottlepy Bottle 0.12.19,[''],2022-03-19T10:13Z

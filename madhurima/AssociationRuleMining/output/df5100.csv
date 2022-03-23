@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:acer:chromebook_r11:-:*:*:*:*:*:*:*,Acer Chromebook R11,['CVE-2017-15361'],2022-03-18T10:55Z
+1,cpe:2.3:h:acer:chromebook_r13_cb5-312t:-:*:*:*:*:*:*:*,Acer Chromebook R13 CB5-312T,['CVE-2017-15361'],2022-03-18T10:55Z
+2,cpe:2.3:h:acer:chromebox:-:*:*:*:*:*:*:*,Acer Chromebox,['CVE-2017-15361'],2022-03-18T10:55Z
+3,cpe:2.3:h:acer:chromebox_cxi2:-:*:*:*:*:*:*:*,Acer Chromebox CXI2,['CVE-2017-15361'],2022-03-18T10:55Z
+4,cpe:2.3:a:acer:quick_access:-:*:*:*:*:*:*:*,Acer Quick Access,[''],2022-03-18T10:55Z
+5,cpe:2.3:a:acer:quick_access:2.01.3000:*:*:*:*:*:*:*,Acer Quick Access 2.01.3000,['CVE-2019-18670'],2022-03-18T10:55Z
+6,cpe:2.3:a:acer:quick_access:2.01.3027:*:*:*:*:*:*:*,Acer Quick Access 2.01.3027,['CVE-2019-18670'],2022-03-18T10:55Z
+7,cpe:2.3:a:acer:quick_access:3.00.3000:*:*:*:*:*:*:*,Acer Quick Access 3.00.3000,['CVE-2019-18670'],2022-03-18T10:55Z
+8,cpe:2.3:a:acer:quick_access:3.00.3008:*:*:*:*:*:*:*,Acer Quick Access 3.00.3008,['CVE-2019-18670'],2022-03-18T10:55Z
+9,cpe:2.3:a:aceviral:angry_gran_toss:1.1.1:*:*:*:*:android:*:*,aceviral Angry Gran Toss (aka com.aceviral.angrygrantoss) for Android 1.1.1,['CVE-2014-5564'],2022-03-18T10:55Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cockpit-project:cockpit:183:*:*:*:*:*:*:*,Cockpit Project Cockpit 183,"['CVE-2019-3804', 'CVE-2021-3660', 'CVE-2021-3698']",2022-03-20T04:48Z
+1,cpe:2.3:a:cockpit-project:cockpit:184:*:*:*:*:*:*:*,Cockpit Project Cockpit 184,"['CVE-2021-3660', 'CVE-2021-3698']",2022-03-20T04:48Z
+2,cpe:2.3:a:cockpit-project:cockpit:184.1:*:*:*:*:*:*:*,Cockpit Project Cockpit 184.1,"['CVE-2021-3660', 'CVE-2021-3698']",2022-03-20T04:48Z
+3,cpe:2.3:a:cockpit-project:cockpit:185:*:*:*:*:*:*:*,Cockpit Project Cockpit 185,"['CVE-2021-3660', 'CVE-2021-3698']",2022-03-20T04:48Z
+4,cpe:2.3:a:cockpit-project:cockpit:186:*:*:*:*:*:*:*,Cockpit Project Cockpit 186,"['CVE-2021-3660', 'CVE-2021-3698']",2022-03-20T04:48Z
+5,cpe:2.3:a:cockpit-project:cockpit:187:*:*:*:*:*:*:*,Cockpit Project Cockpit 187,"['CVE-2021-3660', 'CVE-2021-3698']",2022-03-20T04:48Z
+6,cpe:2.3:a:cockpit-project:cockpit:188:*:*:*:*:*:*:*,Cockpit Project Cockpit 188,"['CVE-2021-3660', 'CVE-2021-3698']",2022-03-20T04:48Z
+7,cpe:2.3:a:cockpit-project:cockpit:189:*:*:*:*:*:*:*,Cockpit Project Cockpit 189,"['CVE-2021-3660', 'CVE-2021-3698']",2022-03-20T04:48Z
+8,cpe:2.3:a:cockpit-project:cockpit:190:*:*:*:*:*:*:*,Cockpit Project Cockpit 190,"['CVE-2021-3660', 'CVE-2021-3698']",2022-03-20T04:48Z
+9,cpe:2.3:a:cockpit-project:cockpit:234:*:*:*:*:*:*:*,Cockpit-project Cockpit 234,"['CVE-2020-35850', 'CVE-2021-3660', 'CVE-2021-3698']",2022-03-20T04:48Z

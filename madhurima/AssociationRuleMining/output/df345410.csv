@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:maximo_linear_asset_manager:7.6.0:*:*:*:*:*:*:*,IBM Maximo Linear Asset Manager 7.6.0,['CVE-2020-4409'],2022-03-21T21:17Z
+1,cpe:2.3:a:ibm:maximo_linear_asset_manager:7.6.0.1:*:*:*:*:*:*:*,IBM Maximo Linear Asset Manager 7.6.0.1,"['CVE-2019-4446', 'CVE-2019-4644', 'CVE-2019-4749']",2022-03-21T21:17Z
+2,cpe:2.3:a:ibm:maximo_linear_asset_manager:7.6.0.2:*:*:*:*:*:*:*,IBM Maximo Linear Asset Manager 7.6.0.2,"['CVE-2019-4446', 'CVE-2019-4644', 'CVE-2019-4749', 'CVE-2020-4409']",2022-03-21T21:17Z
+3,cpe:2.3:a:ibm:maximo_linear_asset_manager:7.6.0.3:*:*:*:*:*:*:*,IBM Maximo Linear Asset Manager 7.6.0.3,"['CVE-2019-4446', 'CVE-2019-4644', 'CVE-2019-4749', 'CVE-2020-4409']",2022-03-21T21:17Z
+4,cpe:2.3:a:ibm:maximo_linear_asset_manager:7.6.1:*:*:*:*:*:*:*,IBM Maximo Linear Asset Manager 7.6.1,[''],2022-03-21T21:17Z
+5,cpe:2.3:a:ibm:maximo_network_on_blockchain:7.6.0.0:*:*:*:*:*:*:*,IBM Maximo Network On Blockchain 7.6.0.0,"['CVE-2019-4446', 'CVE-2019-4644', 'CVE-2019-4749', 'CVE-2020-4409']",2022-03-21T21:17Z
+6,cpe:2.3:a:ibm:maximo_network_on_blockchain:7.6.0.1:*:*:*:*:*:*:*,IBM Maximo Network On Blockchain 7.6.0.1,"['CVE-2019-4446', 'CVE-2019-4644', 'CVE-2019-4749', 'CVE-2020-4409']",2022-03-21T21:17Z
+7,cpe:2.3:a:ibm:maximo_service_desk:6.2:*:*:*:*:*:*:*,IBM Maximo Service Desk 6.2,"['CVE-2011-1394', 'CVE-2011-1397', 'CVE-2011-4816', 'CVE-2011-4817', 'CVE-2012-0195', 'CVE-2012-0714', 'CVE-2012-0727', 'CVE-2012-0728', 'CVE-2012-0746', 'CVE-2012-0747', 'CVE-2012-2183', 'CVE-2012-2184', 'CVE-2012-2185', 'CVE-2012-3313', 'CVE-2012-3316', 'CVE-2012-3322', 'CVE-2012-3326', 'CVE-2012-3327', 'CVE-2012-6355', 'CVE-2013-3323', 'CVE-2014-0914', 'CVE-2014-0915', 'CVE-2014-3025']",2022-03-21T21:17Z
+8,cpe:2.3:a:ibm:maximo_service_desk:6.2.8:*:*:*:*:*:*:*,IBM Maximo Service Desk 6.2.8,"['CVE-2014-0914', 'CVE-2014-0915', 'CVE-2014-3025']",2022-03-21T21:17Z
+9,cpe:2.3:a:ibm:maximo_service_desk:7.1.1.7:*:*:*:*:*:*:*,IBM Maximo Service Desk 7.1.1.7,"['CVE-2013-4016', 'CVE-2013-5465', 'CVE-2013-6741', 'CVE-2014-0824', 'CVE-2014-0825']",2022-03-21T21:17Z

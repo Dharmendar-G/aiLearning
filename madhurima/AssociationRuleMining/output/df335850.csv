@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:huawei:pcmanager\(oversea\):-:*:*:*:*:*:*:*,Huawei PC Manager(oversea),"['CVE-2019-5237', 'CVE-2019-5238', 'CVE-2019-5239']",2022-03-21T18:26Z
+1,cpe:2.3:a:huawei:pcmanager\(oversea\):9.0.1.66:*:*:*:*:*:*:*,Huawei PC Manager(oversea) 9.0.1.66,[''],2022-03-21T18:26Z
+2,cpe:2.3:h:huawei:plk:-:*:*:*:*:*:*:*,Huawei PLK,['CVE-2016-4575'],2022-03-21T18:26Z
+3,cpe:2.3:o:huawei:plk_firmware:al10c00:*:*:*:*:*:*:*,Huawei PLK Firmware AL10C00,['CVE-2016-4575'],2022-03-21T18:26Z
+4,cpe:2.3:o:huawei:plk_firmware:al10c92:*:*:*:*:*:*:*,Huawei PLK Firmware AL10C92,['CVE-2016-4575'],2022-03-21T18:26Z
+5,cpe:2.3:h:huawei:policy_center:-:*:*:*:*:*:*:*,Huawei Policy Center,"['CVE-2016-2405', 'CVE-2016-3675']",2022-03-21T18:26Z
+6,cpe:2.3:a:huawei:policy_center:v100r003c00:*:*:*:*:*:*:*,Huawei Policy Center V100R003C00,"['CVE-2015-2808', 'CVE-2016-4058']",2022-03-21T18:26Z
+7,cpe:2.3:a:huawei:policy_center:v100r003c10:*:*:*:*:*:*:*,Huawei Policy Center V100R003C10,"['CVE-2015-2808', 'CVE-2016-4058']",2022-03-21T18:26Z
+8,cpe:2.3:o:huawei:policy_center_firmware:v100r003c00:*:*:*:*:*:*:*,Huawei Magic UI V100R003C00,['CVE-2016-3675'],2022-03-21T18:26Z
+9,cpe:2.3:o:huawei:policy_center_firmware:v100r003c10:*:*:*:*:*:*:*,Huawei Magic UI V100R003C10,['CVE-2016-3675'],2022-03-21T18:26Z

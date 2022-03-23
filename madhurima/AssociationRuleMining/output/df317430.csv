@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:horde:horde_text_filter:2.3.1:*:*:*:*:*:*:*,Horde Text Filter 2.3.1,[''],2022-03-21T12:28Z
+1,cpe:2.3:a:horde:horde_text_filter:2.3.2:*:*:*:*:*:*:*,Horde Text Filter 2.3.2,[''],2022-03-21T12:28Z
+2,cpe:2.3:a:horde:horde_text_filter:2.3.3:*:*:*:*:*:*:*,Horde Text Filter 2.3.3,[''],2022-03-21T12:28Z
+3,cpe:2.3:a:horde:horde_text_filter:2.3.4:*:*:*:*:*:*:*,Horde Text Filter 2.3.4,[''],2022-03-21T12:28Z
+4,cpe:2.3:a:horde:horde_text_filter:2.3.5:*:*:*:*:*:*:*,Horde Text Filter 2.3.5,[''],2022-03-21T12:28Z
+5,cpe:2.3:a:horde:horde_text_filter:2.3.6:*:*:*:*:*:*:*,Horde Text Filter 2.3.6,[''],2022-03-21T12:28Z
+6,cpe:2.3:a:horde:horde_text_filter_csstidy:1.0.0:-:*:*:*:*:*:*,Horde Text Filter Csstidy 1.0.0,[''],2022-03-21T12:28Z
+7,cpe:2.3:a:horde:horde_text_filter_csstidy:1.0.0:alpha1:*:*:*:*:*:*,Horde Text Filter Csstidy 1.0.0 Alpha 1,[''],2022-03-21T12:28Z
+8,cpe:2.3:a:horde:horde_text_filter_csstidy:1.0.0:beta1:*:*:*:*:*:*,Horde Text Filter Csstidy 1.0.0 Beta 1,[''],2022-03-21T12:28Z
+9,cpe:2.3:a:horde:horde_text_filter_csstidy:1.0.0:rc1:*:*:*:*:*:*,Horde Text Filter Csstidy 1.0.0 Release Candidate 1,[''],2022-03-21T12:28Z

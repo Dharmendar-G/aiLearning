@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:xtremio_management_server:-:*:*:*:*:*:*:*,Dell XtremIO Management Server (XMS),"['CVE-2019-18576', 'CVE-2019-18577', 'CVE-2019-18578', 'CVE-2021-21549']",2022-03-20T13:17Z
+1,cpe:2.3:a:dell:xtremio_management_server:6.3.0:*:*:*:*:*:*:*,Dell XtremIO Management Server 6.3.0,['CVE-2021-21549'],2022-03-20T13:17Z
+2,cpe:2.3:a:dell:xtremio_management_server:6.3.3-8:*:*:*:*:*:*:*,Dell XtremIO Management Server (XMS) 6.3.3-8,[''],2022-03-20T13:17Z
+3,cpe:2.3:h:dell:xtremio_x1:-:*:*:*:*:*:*:*,Dell XtremIO X1,['CVE-2021-21549'],2022-03-20T13:17Z
+4,cpe:2.3:h:dell:xtremio_x2:-:*:*:*:*:*:*:*,Dell XtremIO X2,['CVE-2021-21549'],2022-03-20T13:17Z
+5,cpe:2.3:a:dellemc:elastic_cloud_storage:3.2.0.0:*:*:*:*:*:*:*,Dell EMC Elastic Cloud Storage (ECS) 3.2.0.0,['CVE-2018-11052'],2022-03-20T13:17Z
+6,cpe:2.3:a:dellemc:elastic_cloud_storage:3.2.0.1:*:*:*:*:*:*:*,Dell EMC Elastic Cloud Storage (ECS) 3.2.0.1,['CVE-2018-11052'],2022-03-20T13:17Z
+7,cpe:2.3:a:deloitte:eitdr_service:1.0.0:*:*:*:*:*:*:*,Deloitte Eitdr Service 1.0.0,[''],2022-03-20T13:17Z
+8,cpe:2.3:a:delrina:form_flow:-:*:*:*:*:*:*:*,Delrina Form Flow,[''],2022-03-20T13:17Z
+9,cpe:2.3:a:delta_project:delta:0.0.1:*:*:*:*:*:*:*,Delta Project Delta 0.0.1,['CVE-2021-36376'],2022-03-20T13:17Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:p7-l09_firmware:v100r001c92b610:*:*:*:*:*:*:*,Huawei P7-L09 Firmware V100R001C92B610,['CVE-2015-2245'],2022-03-21T18:22Z
+1,cpe:2.3:h:huawei:p7-l10:-:*:*:*:*:*:*:*,Huawei P7-L10,"['CVE-2014-9135', 'CVE-2015-2246']",2022-03-21T18:22Z
+2,cpe:2.3:a:huawei:p7-l10_firmware:v100r001c00b135:*:*:*:*:*:*:*,Huawei P7-L10 Firmware V100R001C00b135,['CVE-2014-9135'],2022-03-21T18:22Z
+3,cpe:2.3:o:huawei:p7-l10_firmware:v100r001c00b136:*:*:*:*:*:*:*,Huawei P7-L10 Firmware V100R001C00B136,['CVE-2015-2246'],2022-03-21T18:22Z
+4,cpe:2.3:h:huawei:p8:-:*:*:*:*:*:*:*,Huawei P8 Smartphone,"['CVE-2015-8088', 'CVE-2015-8224', 'CVE-2015-8306', 'CVE-2015-8307', 'CVE-2015-8318', 'CVE-2015-8319', 'CVE-2015-8337', 'CVE-2015-8678', 'CVE-2015-8679', 'CVE-2015-8680', 'CVE-2015-8681', 'CVE-2015-8682', 'CVE-2016-1496', 'CVE-2016-8279', 'CVE-2016-8774', 'CVE-2016-8791', 'CVE-2016-8792', 'CVE-2016-8793', 'CVE-2016-8794', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2698']",2022-03-21T18:22Z
+5,cpe:2.3:h:huawei:p8_ale-ul00:-:*:*:*:*:*:*:*,Huawei P8 ALE-UL00,"['CVE-2015-7740', 'CVE-2015-8223']",2022-03-21T18:22Z
+6,cpe:2.3:o:huawei:p8_ale-ul00_firmware:-:*:*:*:*:*:*:*,Huawei P8 ALE-UL00 Firmware,"['CVE-2015-7740', 'CVE-2015-8223']",2022-03-21T18:22Z
+7,cpe:2.3:o:huawei:p8_firmware:-:*:*:*:*:*:*:*,Huawei P8 Firmware,"['CVE-2015-8224', 'CVE-2016-8774', 'CVE-2016-8791', 'CVE-2016-8792', 'CVE-2016-8793', 'CVE-2016-8794', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2698']",2022-03-21T18:22Z
+8,cpe:2.3:o:huawei:p8_firmware:gra-cl00:*:*:*:*:*:*:*,Huawei P8 Firmware GRA-CL00,"['CVE-2015-8307', 'CVE-2015-8318', 'CVE-2015-8319', 'CVE-2015-8679', 'CVE-2015-8680', 'CVE-2015-8681', 'CVE-2016-8279', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2698']",2022-03-21T18:22Z
+9,cpe:2.3:o:huawei:p8_firmware:gra-cl00c92b220:*:*:*:*:*:*:*,Huawei P8 Firmware GRA-CL00C92B220,"['CVE-2015-8678', 'CVE-2016-1496', 'CVE-2017-2692', 'CVE-2017-2693', 'CVE-2017-2698']",2022-03-21T18:22Z

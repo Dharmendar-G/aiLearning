@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:angrybyte:gallery-transformation:1.0:*:*:*:*:wordpress:*:*,AngryByte Gallery Transformation 1.0 for WordPress,['CVE-2017-1002028'],2022-03-18T16:33Z
+1,cpe:2.3:a:angrycreative:bj_lazy_load:-:*:*:*:*:wordpress:*:*,ANGRY CREATIVE BJ Lazy Load for WordPress,['CVE-2015-9415'],2022-03-18T16:33Z
+2,cpe:2.3:a:angrycreative:bj_lazy_load:0.1:*:*:*:*:wordpress:*:*,ANGRY CREATIVE BJ Lazy Load 0.1 for WordPress,['CVE-2015-9415'],2022-03-18T16:33Z
+3,cpe:2.3:a:angrycreative:bj_lazy_load:0.2:*:*:*:*:wordpress:*:*,ANGRY CREATIVE BJ Lazy Load 0.2 for WordPress,['CVE-2015-9415'],2022-03-18T16:33Z
+4,cpe:2.3:a:angrycreative:bj_lazy_load:0.2.1:*:*:*:*:wordpress:*:*,ANGRY CREATIVE BJ Lazy Load 0.2.1 for WordPress,['CVE-2015-9415'],2022-03-18T16:33Z
+5,cpe:2.3:a:angrycreative:bj_lazy_load:0.2.2:*:*:*:*:wordpress:*:*,ANGRY CREATIVE BJ Lazy Load 0.2.2 for WordPress,['CVE-2015-9415'],2022-03-18T16:33Z
+6,cpe:2.3:a:angrycreative:bj_lazy_load:0.2.3:*:*:*:*:wordpress:*:*,ANGRY CREATIVE BJ Lazy Load 0.2.3 for WordPress,['CVE-2015-9415'],2022-03-18T16:33Z
+7,cpe:2.3:a:angrycreative:bj_lazy_load:0.2.4:*:*:*:*:wordpress:*:*,ANGRY CREATIVE BJ Lazy Load 0.2.4 for WordPress,['CVE-2015-9415'],2022-03-18T16:34Z
+8,cpe:2.3:a:angrycreative:bj_lazy_load:0.2.5:*:*:*:*:wordpress:*:*,ANGRY CREATIVE BJ Lazy Load 0.2.5 for WordPress,['CVE-2015-9415'],2022-03-18T16:34Z
+9,cpe:2.3:a:angrycreative:bj_lazy_load:0.3.0:*:*:*:*:wordpress:*:*,ANGRY CREATIVE BJ Lazy Load 0.3.0 for WordPress,['CVE-2015-9415'],2022-03-18T16:34Z

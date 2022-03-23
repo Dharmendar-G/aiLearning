@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:rational_license_key_server:8.1.2:*:*:*:*:*:*:*,IBM Rational License Key Server (RLKS) 8.1.2,['CVE-2011-1389'],2022-03-21T21:44Z
+1,cpe:2.3:a:ibm:rational_license_key_server:8.1.2.1:*:*:*:*:*:*:*,IBM Rational License Key Server (RLKS) 8.1.2.1,[''],2022-03-21T21:44Z
+2,cpe:2.3:a:ibm:rational_license_key_server:8.1.4:*:*:*:*:*:*:*,IBM Rational License Key Server (RLKS) 8.1.4,"['CVE-2014-0909', 'CVE-2014-3079', 'CVE-2014-4756', 'CVE-2015-1907', 'CVE-2015-5045']",2022-03-21T21:44Z
+3,cpe:2.3:a:ibm:rational_license_key_server:8.1.4.2:*:*:*:*:*:*:*,IBM Rational License Key Server (RLKS) 8.1.4.2,"['CVE-2014-0909', 'CVE-2014-3079', 'CVE-2014-4756', 'CVE-2015-1907', 'CVE-2015-5045']",2022-03-21T21:44Z
+4,cpe:2.3:a:ibm:rational_license_key_server:8.1.4.3:*:*:*:*:*:*:*,IBM Rational License Key Server (RLKS) 8.1.4.3,"['CVE-2014-0909', 'CVE-2014-3079', 'CVE-2014-4756', 'CVE-2015-1907', 'CVE-2015-5045']",2022-03-21T21:44Z
+5,cpe:2.3:a:ibm:rational_license_key_server:8.1.4.4:*:*:*:*:*:*:*,IBM Rational License Key Server (RLKS) 8.1.4.4,"['CVE-2015-1907', 'CVE-2015-5045']",2022-03-21T21:44Z
+6,cpe:2.3:a:ibm:rational_license_key_server:8.1.4.5:*:*:*:*:*:*:*,IBM Rational License Key Server (RLKS) 8.1.4.5,"['CVE-2015-1907', 'CVE-2015-5045']",2022-03-21T21:44Z
+7,cpe:2.3:a:ibm:rational_license_key_server:8.1.4.6:*:*:*:*:*:*:*,IBM Rational License Key Server (RLKS) 8.1.4.6,"['CVE-2015-1907', 'CVE-2015-5045']",2022-03-21T21:44Z
+8,cpe:2.3:a:ibm:rational_license_key_server:8.1.4.7:*:*:*:*:*:*:*,IBM Rational License Key Server 8.1.4.7,['CVE-2015-5045'],2022-03-21T21:44Z
+9,cpe:2.3:a:ibm:rational_license_key_server:8.1.4.8:*:*:*:*:*:*:*,IBM Rational License Key Server 8.1.4.8,['CVE-2015-5045'],2022-03-21T21:44Z

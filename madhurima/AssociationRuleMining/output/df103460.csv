@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:carrierwave_project:carrierwave:1.3.1:*:*:*:*:ruby:*:*,CarrierWave Project CarrierWave 1.3.1 for Ruby,"['CVE-2021-21288', 'CVE-2021-21305']",2022-03-19T15:35Z
+1,cpe:2.3:a:carrierwave_project:carrierwave:1.3.2:*:*:*:*:ruby:*:*,CarrierWave Project CarrierWave 1.3.2 for Ruby,[''],2022-03-19T15:35Z
+2,cpe:2.3:a:carrierwave_project:carrierwave:2.0.0:-:*:*:*:ruby:*:*,CarrierWave Project CarrierWave 2.0.0 for Ruby,[''],2022-03-19T15:35Z
+3,cpe:2.3:a:carrierwave_project:carrierwave:2.0.0:rc:*:*:*:ruby:*:*,CarrierWave Project CarrierWave 2.0.0 Release Candidate for Ruby,[''],2022-03-19T15:35Z
+4,cpe:2.3:a:carrierwave_project:carrierwave:2.0.1:*:*:*:*:ruby:*:*,CarrierWave Project CarrierWave 2.0.1 for Ruby,"['CVE-2021-21288', 'CVE-2021-21305']",2022-03-19T15:35Z
+5,cpe:2.3:a:carrierwave_project:carrierwave:2.0.2:*:*:*:*:ruby:*:*,CarrierWave Project CarrierWave 2.0.2 for Ruby,"['CVE-2021-21288', 'CVE-2021-21305']",2022-03-19T15:35Z
+6,cpe:2.3:a:carrierwave_project:carrierwave:2.1.0:*:*:*:*:ruby:*:*,CarrierWave Project CarrierWave 2.1.0 for Ruby,"['CVE-2021-21288', 'CVE-2021-21305']",2022-03-19T15:35Z
+7,cpe:2.3:a:carrierwave_project:carrierwave:2.1.1:*:*:*:*:ruby:*:*,CarrierWave Project CarrierWave 2.1.1 for Ruby,[''],2022-03-19T15:35Z
+8,cpe:2.3:a:carrot_cartoon_book_coin_project:carrot_cartoon_book_coin:-:*:*:*:*:*:*:*,Carrot Cartoon Book Coin Project Carrot Cartoon Book Coin,['CVE-2018-13491'],2022-03-19T15:35Z
+9,cpe:2.3:a:carson-saint:saint_security_suite:8.0:*:*:*:*:*:*:*,Carson-Saint SAINT Security Suite 8.0,"['CVE-2020-16275', 'CVE-2020-16276', 'CVE-2020-16277', 'CVE-2020-16278']",2022-03-19T15:36Z

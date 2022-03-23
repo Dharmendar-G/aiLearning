@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:axiositalia:registro_elettronico:1.7.0:*:*:*:*:*:*:*,Axiositalia Registro Elettronico 1.7.0,"['CVE-2018-18437', 'CVE-2019-7693']",2022-03-19T04:45Z
+1,cpe:2.3:a:axiositalia:registro_elettronico:7.0.0:*:*:*:*:*:*:*,Axiositalia Registro Elettronico 7.0.0,['CVE-2019-7693'],2022-03-19T04:45Z
+2,cpe:2.3:a:axiossystems:assyst:10:sp7.5:*:*:*:*:*:*,Axios Systems Assyst 10 Sp7.5,['CVE-2021-30137'],2022-03-19T04:45Z
+3,cpe:2.3:a:axiosys:bento4:-:*:*:*:*:*:*:*,Axiomatic Systems Bento4,"['CVE-2017-12475', 'CVE-2020-23330', 'CVE-2020-23331', 'CVE-2020-23332', 'CVE-2020-23333', 'CVE-2020-23334', 'CVE-2020-23912', 'CVE-2021-32265', 'CVE-2021-35306', 'CVE-2021-35307']",2022-03-19T04:45Z
+4,cpe:2.3:a:axiosys:bento4:1.4.2-584:*:*:*:*:*:*:*,Axiomatic Systems Bento4 1.4.2-584,"['CVE-2017-12475', 'CVE-2020-23330', 'CVE-2020-23333', 'CVE-2020-23334', 'CVE-2020-23912', 'CVE-2021-32265', 'CVE-2021-35306', 'CVE-2021-35307']",2022-03-19T04:45Z
+5,cpe:2.3:a:axiosys:bento4:1.4.2-586:*:*:*:*:*:*:*,Axiomatic Systems Bento4 1.4.2-586,"['CVE-2017-12475', 'CVE-2020-23330', 'CVE-2020-23333', 'CVE-2020-23334', 'CVE-2020-23912', 'CVE-2021-32265', 'CVE-2021-35306', 'CVE-2021-35307']",2022-03-19T04:45Z
+6,cpe:2.3:a:axiosys:bento4:1.4.2-587:*:*:*:*:*:*:*,Axiomatic Systems Bento4 1.4.2-587,"['CVE-2017-12475', 'CVE-2020-23330', 'CVE-2020-23333', 'CVE-2020-23334', 'CVE-2020-23912', 'CVE-2021-32265', 'CVE-2021-35306', 'CVE-2021-35307']",2022-03-19T04:45Z
+7,cpe:2.3:a:axiosys:bento4:1.4.2-588:*:*:*:*:*:*:*,Axiomatic Systems Bento4 1.4.2-588,"['CVE-2017-12475', 'CVE-2020-23330', 'CVE-2020-23333', 'CVE-2020-23334', 'CVE-2020-23912', 'CVE-2021-32265', 'CVE-2021-35306', 'CVE-2021-35307']",2022-03-19T04:45Z
+8,cpe:2.3:a:axiosys:bento4:1.4.2-589:*:*:*:*:*:*:*,Axiomatic Systems Bento4 1.4.2-589,"['CVE-2017-12475', 'CVE-2020-23330', 'CVE-2020-23333', 'CVE-2020-23334', 'CVE-2020-23912', 'CVE-2021-32265', 'CVE-2021-35306', 'CVE-2021-35307']",2022-03-19T04:45Z
+9,cpe:2.3:a:axiosys:bento4:1.4.2-590:*:*:*:*:*:*:*,Axiomatic Systems Bento4 1.4.2-590,"['CVE-2017-12475', 'CVE-2020-23330', 'CVE-2020-23333', 'CVE-2020-23334', 'CVE-2020-23912', 'CVE-2021-32265', 'CVE-2021-35306', 'CVE-2021-35307']",2022-03-19T04:45Z

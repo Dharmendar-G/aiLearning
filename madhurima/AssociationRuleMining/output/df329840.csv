@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:virtual_connect_enterprise_manager:6.1:*:*:*:*:*:*:*,HP Virtual Connect Enterprise Manager (VCEM) 6.1,['CVE-2010-3986'],2022-03-21T16:16Z
+1,cpe:2.3:a:hp:virtual_connect_enterprise_manager_sdk:7.4.0:*:*:*:*:*:*:*,HP Virtual Connect Enterprise Manager (VCEM) SDK 7.4.0,"['CVE-2015-5432', 'CVE-2015-5433']",2022-03-21T16:16Z
+2,cpe:2.3:a:hp:virtual_customer_access_system:14.06:*:*:*:*:*:*:*,HP Virtual Customer Access System (vCAS) 14.06,['CVE-2015-3200'],2022-03-21T16:16Z
+3,cpe:2.3:o:hp:virtual_customer_access_system:15.07:*:*:*:*:*:*:*,Hp Virtual Customer Access System (vCAS) 15.07,['CVE-2016-0778'],2022-03-21T16:16Z
+4,cpe:2.3:a:hp:virtual_customer_access_system:15.07:*:*:*:*:*:*:*,HP Virtual Customer Access System (vCAS) 15.07,['CVE-2015-3200'],2022-03-21T16:16Z
+5,cpe:2.3:a:hp:virtual_rooms:-:*:*:*:*:*:*:*,HP HP Virtual Rooms,"['CVE-2008-0213', 'CVE-2009-0208']",2022-03-21T16:16Z
+6,cpe:2.3:a:hp:virtual_rooms_client_launcher_plugin:1.0.0.1:*:*:*:*:*:*:*,HP Virtual Rooms Client Launcher Plugin 1.0.0.1,[''],2022-03-21T16:16Z
+7,cpe:2.3:h:hp:virtual_san_appliance:-:*:*:*:*:*:*:*,HP Virtual SAN Appliance,"['CVE-2012-2986', 'CVE-2012-4361', 'CVE-2012-4362']",2022-03-21T16:16Z
+8,cpe:2.3:a:hp:virtualvault:-:*:*:*:*:*:*:*,HP VirtualVault,[''],2022-03-21T16:16Z
+9,cpe:2.3:a:hp:virtualvault:4.0:*:*:*:*:*:*:*,HP VirtualVault 4.0,"['CVE-2001-0606', 'CVE-2002-1439']",2022-03-21T16:16Z

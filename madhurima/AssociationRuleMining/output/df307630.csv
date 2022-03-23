@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:haulmont:cuba_platform:6.7.8:*:*:*:*:*:*:*,HAULMONT CUBA Platform 6.7.8,['CVE-2018-20663'],2022-03-21T10:06Z
+1,cpe:2.3:a:haulmont:cuba_platform:6.7.9:*:*:*:*:*:*:*,HAULMONT CUBA Platform 6.7.9,['CVE-2018-20663'],2022-03-21T10:06Z
+2,cpe:2.3:a:haulmont:cuba_platform:6.7.10:*:*:*:*:*:*:*,HAULMONT CUBA Platform 6.7.10,['CVE-2018-20663'],2022-03-21T10:06Z
+3,cpe:2.3:a:haulmont:cuba_platform:6.7.11:*:*:*:*:*:*:*,HAULMONT CUBA Platform 6.7.11,['CVE-2018-20663'],2022-03-21T10:06Z
+4,cpe:2.3:a:haulmont:cuba_platform:6.7.12:*:*:*:*:*:*:*,HAULMONT CUBA Platform 6.7.12,['CVE-2018-20663'],2022-03-21T10:06Z
+5,cpe:2.3:a:haulmont:cuba_platform:6.7.13:*:*:*:*:*:*:*,HAULMONT CUBA Platform 6.7.13,['CVE-2018-20663'],2022-03-21T10:06Z
+6,cpe:2.3:a:haulmont:cuba_platform:6.8.0:-:*:*:*:*:*:*,HAULMONT CUBA Platform 6.8.0,['CVE-2018-20663'],2022-03-21T10:06Z
+7,cpe:2.3:a:haulmont:cuba_platform:6.8.0:rc1:*:*:*:*:*:*,HAULMONT CUBA Platform 6.8.0 Release Candidate 1,['CVE-2018-20663'],2022-03-21T10:06Z
+8,cpe:2.3:a:haulmont:cuba_platform:6.8.1:*:*:*:*:*:*:*,HAULMONT CUBA Platform 6.8.1,['CVE-2018-20663'],2022-03-21T10:06Z
+9,cpe:2.3:a:haulmont:cuba_platform:6.8.2:*:*:*:*:*:*:*,HAULMONT CUBA Platform 6.8.2,['CVE-2018-20663'],2022-03-21T10:06Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:divx:divx_plus_web_player:2.0.0:*:*:*:*:*:*:*,Divx Plus Web Player 2.0.0,[''],2022-03-20T15:20Z
+1,cpe:2.3:a:divx:divx_version_checker:7.1.0.2:*:*:*:*:*:*:*,Divx Version Checker 7.1.0.2,[''],2022-03-20T15:20Z
+2,cpe:2.3:a:divx:divx_version_checker:7.1.0.9:*:*:*:*:*:*:*,Divx Version Checker 7.1.0.9,[''],2022-03-20T15:20Z
+3,cpe:2.3:a:divx:divx_web_player:-:*:*:*:*:*:*:*,DivX Web Player,['CVE-2008-5259'],2022-03-20T15:20Z
+4,cpe:2.3:a:divx:divx_web_player:1.5.0:*:*:*:*:*:*:*,Divx Web Player 1.5.0,[''],2022-03-20T15:20Z
+5,cpe:2.3:a:divx:h.264_decoder:1.1.0:*:*:*:*:*:*:*,Divx H.264 Decoder 1.1.0,[''],2022-03-20T15:20Z
+6,cpe:2.3:a:divx:mkv_splitter:1.0.1:*:*:*:*:*:*:*,Divx Mkv Splitter 1.0.1,[''],2022-03-20T15:20Z
+7,cpe:2.3:a:divx:player:6.0:*:*:*:*:*:*:*,DivX Player 6.0,['CVE-2014-10024'],2022-03-20T15:20Z
+8,cpe:2.3:a:divx:player:6.1:*:*:*:*:*:*:*,DivX Player 6.1,['CVE-2014-10024'],2022-03-20T15:20Z
+9,cpe:2.3:a:divx:player:6.1.1:*:*:*:*:*:*:*,DivX Player 6.1.1,['CVE-2014-10024'],2022-03-20T15:20Z

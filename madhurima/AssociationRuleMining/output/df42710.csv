@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,cpe:2.3:o:apple:mac_os_appleshare_ip:9:*:*:*:*:*:*:*,AppleShare IP for Mac OS 9,[''],2022-03-18T22:08Z
+3,cpe:2.3:a:apple:mac_os_nsl_manager:-:*:*:*:*:*:*:*,Apple Minimal SLP Service Agent,[''],2022-03-18T22:09Z
+4,cpe:2.3:a:apple:mac_os_nsl_manager:2:*:*:*:*:*:*:*,Apple Minimal SLP Service Agent 2,[''],2022-03-18T22:09Z
+5,cpe:2.3:a:apple:mac_os_runtime_for_java:-:*:*:*:*:*:*:*,Apple Mac OS Runtime,[''],2022-03-18T22:09Z
+6,cpe:2.3:a:apple:mac_os_runtime_for_java:2.1:*:*:*:*:*:*:*,Apple Mac OS Runtime 2.1,[''],2022-03-18T22:09Z
+7,cpe:2.3:a:apple:mac_os_runtime_for_java:2.2.3:*:*:*:*:*:*:*,Apple Mac OS Runtime 2.2.3,[''],2022-03-18T22:09Z
+8,cpe:2.3:a:apple:mac_os_runtime_for_java:2.2.4:*:*:*:*:*:*:*,Apple Mac OS Runtime 2.2.4,[''],2022-03-18T22:09Z
+9,cpe:2.3:o:apple:mac_os_server:5.2:*:*:*:*:*:*:*,Apple macOS Server 5.2,['CVE-2017-2382'],2022-03-18T22:09Z

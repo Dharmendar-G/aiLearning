@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bluestacks:bluestacks_app_player:0.9.24.4196:*:*:*:*:*:*:*,BlueStacks App Player 0.9.24.4196,['CVE-2019-12936'],2022-03-19T09:02Z
+1,cpe:2.3:a:bluestacks:bluestacks_app_player:0.9.25.5401:*:*:*:*:*:*:*,BlueStacks App Player 0.9.25.5401,['CVE-2019-12936'],2022-03-19T09:02Z
+2,cpe:2.3:a:bluestacks:bluestacks_app_player:0.9.27.5408:*:*:*:*:*:*:*,BlueStacks App Player 0.9.27.5408,['CVE-2019-12936'],2022-03-19T09:02Z
+3,cpe:2.3:a:bluestacks:bluestacks_app_player:0.9.30.4239:*:*:*:*:*:*:*,BlueStacks App Player 0.9.30.4239,['CVE-2019-12936'],2022-03-19T09:02Z
+4,cpe:2.3:a:bluestacks:bluestacks_app_player:0.10.0.4321:*:*:*:*:*:*:*,BlueStacks App Player 0.10.0.4321,['CVE-2019-12936'],2022-03-19T09:02Z
+5,cpe:2.3:a:bluestacks:bluestacks_app_player:0.10.6.8001:*:*:*:*:*:*:*,BlueStacks App Player 0.10.6.8001,['CVE-2019-12936'],2022-03-19T09:02Z
+6,cpe:2.3:a:bluestacks:bluestacks_app_player:0.10.7.5601:*:*:*:*:*:*:*,BlueStacks App Player 0.10.7.5601,['CVE-2019-12936'],2022-03-19T09:02Z
+7,cpe:2.3:a:bluestacks:bluestacks_app_player:2.0.0.1011:*:*:*:*:*:*:*,BlueStacks App Player 2.0.0.1011,['CVE-2019-12936'],2022-03-19T09:02Z
+8,cpe:2.3:a:bluestacks:bluestacks_app_player:2.0.2.5623:*:*:*:*:*:*:*,BlueStacks App Player 2.0.2.5623,['CVE-2019-12936'],2022-03-19T09:02Z
+9,cpe:2.3:a:bluestacks:bluestacks_app_player:2.0.4.5627:*:*:*:*:*:*:*,BlueStacks App Player 2.0.4.5627,['CVE-2019-12936'],2022-03-19T09:02Z

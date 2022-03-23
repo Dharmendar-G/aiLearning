@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:z240_sff_firmware:1.77:*:*:*:*:*:*:*,HP Z240 SFF Firmware 1.77,[''],2022-03-21T16:20Z
+1,cpe:2.3:h:hp:z240_sff_workstation_n51:-:*:*:*:*:*:*:*,HP Z240 SFF Workstation N51,['CVE-2016-2243'],2022-03-21T16:20Z
+2,cpe:2.3:h:hp:z240_tower:-:*:*:*:*:*:*:*,HP Z240 Tower,['CVE-2019-16284'],2022-03-21T16:20Z
+3,cpe:2.3:o:hp:z240_tower_firmware:-:*:*:*:*:*:*:*,HP Z240 Tower Firmware,['CVE-2019-16284'],2022-03-21T16:20Z
+4,cpe:2.3:o:hp:z240_tower_firmware:1.77:*:*:*:*:*:*:*,HP Z240 Tower Firmware 1.77,[''],2022-03-21T16:20Z
+5,cpe:2.3:h:hp:z240_tower_workstation_n51:-:*:*:*:*:*:*:*,HP Z240 Tower Workstation N51,['CVE-2016-2243'],2022-03-21T16:20Z
+6,cpe:2.3:h:hp:z4_g4_core-x_workstation:-:*:*:*:*:*:*:*,HP Z4 G4 Core-X Workstation,"['CVE-2019-6321', 'CVE-2019-6322']",2022-03-21T16:20Z
+7,cpe:2.3:o:hp:z4_g4_core-x_workstation_firmware:1.70:*:*:*:*:*:*:*,HP Z4 G4 Core-X Workstation Firmware 1.70,[''],2022-03-21T16:20Z
+8,cpe:2.3:o:hp:z4_g4_core-x_workstation_firmware:1.70:*:*:*:*:linux:*:*,HP Z4 G4 Core-X Workstation Firmware 1.70 for Linux,[''],2022-03-21T16:20Z
+9,cpe:2.3:o:hp:z4_g4_core-x_workstation_firmware:1.75:*:*:*:*:*:*:*,HP Z4 G4 Core-X Workstation Firmware 1.75,[''],2022-03-21T16:20Z

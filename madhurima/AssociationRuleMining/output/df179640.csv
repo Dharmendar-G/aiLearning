@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:inspiron_15_2-in-1_5578:-:*:*:*:*:*:*:*,Dell Inspiron 15 2-in-1 5578,['CVE-2020-5362'],2022-03-20T12:34Z
+1,cpe:2.3:o:dell:inspiron_15_2-in-1_5578_firmware:1.30.0:*:*:*:*:*:*:*,Dell Inspiron 15 2-in-1 5578 Firmware 1.30.0,[''],2022-03-20T12:34Z
+2,cpe:2.3:h:dell:inspiron_15_2-in-1_5579:-:*:*:*:*:*:*:*,Dell Inspiron 15 2-in-1 5579,['CVE-2020-5362'],2022-03-20T12:34Z
+3,cpe:2.3:o:dell:inspiron_15_2-in-1_5579_firmware:1.14.0:*:*:*:*:*:*:*,Dell Inspiron 15 2-in-1 5579 Firmware 1.14.0,[''],2022-03-20T12:34Z
+4,cpe:2.3:h:dell:inspiron_15_2-in-1_7568:-:*:*:*:*:*:*:*,Dell Inspiron 15 2-in-1 7568,['CVE-2020-5362'],2022-03-20T12:34Z
+5,cpe:2.3:o:dell:inspiron_15_2-in-1_7568_firmware:1.25.0:*:*:*:*:*:*:*,Dell Inspiron 15 2-in-1 7568 Firmware 1.25.0,[''],2022-03-20T12:35Z
+6,cpe:2.3:h:dell:inspiron_15_2-in-1_7569:-:*:*:*:*:*:*:*,Dell Inspiron 15 2-in-1 7569,['CVE-2020-5362'],2022-03-20T12:35Z
+7,cpe:2.3:o:dell:inspiron_15_2-in-1_7569_firmware:1.22.0:*:*:*:*:*:*:*,Dell Inspiron 15 2-in-1 7569 Firmware 1.22.0,[''],2022-03-20T12:35Z
+8,cpe:2.3:h:dell:inspiron_15_2-in-1_7573:-:*:*:*:*:*:*:*,Dell Inspiron 15 2-in-1 7573,['CVE-2020-5362'],2022-03-20T12:35Z
+9,cpe:2.3:o:dell:inspiron_15_2-in-1_7573_firmware:1.17.0:*:*:*:*:*:*:*,Dell Inspiron 15 2-in-1 7573 Firmware 1.17.0,[''],2022-03-20T12:35Z

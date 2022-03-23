@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:haml:haml:5.2.0:*:*:*:*:ruby:*:*,Haml 5.2.0 for Ruby,[''],2022-03-21T08:43Z
+1,cpe:2.3:a:haml:haml:5.2.1:*:*:*:*:ruby:*:*,Haml 5.2.1 for Ruby,[''],2022-03-21T08:43Z
+2,cpe:2.3:a:haml-coffee_project:haml-coffee:0.2.4:*:*:*:*:node.js:*:*,haml-coffee Project haml-coffee 0.2.4 for Node.js,['CVE-2021-32818'],2022-03-21T08:43Z
+3,cpe:2.3:a:haml-coffee_project:haml-coffee:0.3.0:*:*:*:*:node.js:*:*,haml-coffee Project haml-coffee 0.3.0 for Node.js,['CVE-2021-32818'],2022-03-21T08:43Z
+4,cpe:2.3:a:haml-coffee_project:haml-coffee:0.3.1:*:*:*:*:node.js:*:*,haml-coffee Project haml-coffee 0.3.1 for Node.js,['CVE-2021-32818'],2022-03-21T08:43Z
+5,cpe:2.3:a:haml-coffee_project:haml-coffee:0.4.0:*:*:*:*:node.js:*:*,haml-coffee Project haml-coffee 0.4.0 for Node.js,['CVE-2021-32818'],2022-03-21T08:43Z
+6,cpe:2.3:a:haml-coffee_project:haml-coffee:0.5.0:*:*:*:*:node.js:*:*,haml-coffee Project haml-coffee 0.5.0 for Node.js,['CVE-2021-32818'],2022-03-21T08:43Z
+7,cpe:2.3:a:haml-coffee_project:haml-coffee:0.5.1:*:*:*:*:node.js:*:*,haml-coffee Project haml-coffee 0.5.1 for Node.js,['CVE-2021-32818'],2022-03-21T08:43Z
+8,cpe:2.3:a:haml-coffee_project:haml-coffee:0.5.2:*:*:*:*:node.js:*:*,haml-coffee Project haml-coffee 0.5.2 for Node.js,['CVE-2021-32818'],2022-03-21T08:43Z
+9,cpe:2.3:a:haml-coffee_project:haml-coffee:0.5.3:*:*:*:*:node.js:*:*,haml-coffee Project haml-coffee 0.5.3 for Node.js,['CVE-2021-32818'],2022-03-21T08:44Z

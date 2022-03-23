@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:better_errors_project:better_errors:2.9.0:*:*:*:*:ruby:*:*,Better Errors Project Better Errors 2.9.0 for Ruby,[''],2022-03-19T07:27Z
+1,cpe:2.3:a:better_errors_project:better_errors:2.9.1:*:*:*:*:ruby:*:*,Better Errors Project Better Errors 2.9.1 for Ruby,[''],2022-03-19T07:27Z
+2,cpe:2.3:a:better_errors_project:better_errors:2.10.0:beta1:*:*:*:ruby:*:*,Better Errors Project Better Errors 2.10.0 Beta 1 for Ruby,[''],2022-03-19T07:27Z
+3,cpe:2.3:a:better_errors_project:better_errors:2.10.0:beta2:*:*:*:ruby:*:*,Better Errors Project Better Errors 2.10.0 Beta 2 for Ruby,[''],2022-03-19T07:27Z
+4,cpe:2.3:a:betterment:testtrack:-:*:*:*:*:*:*:*,Betterment TestTrack,['CVE-2017-1000068'],2022-03-19T07:27Z
+5,cpe:2.3:a:betterment:testtrack:1.0:*:*:*:*:*:*:*,Betterment TestTrack 1.0,['CVE-2017-1000068'],2022-03-19T07:27Z
+6,cpe:2.3:a:betterment:testtrack:1.0.1:*:*:*:*:*:*:*,Betterment TestTrack 1.0.1,[''],2022-03-19T07:27Z
+7,cpe:2.3:a:betterment:testtrack:1.1.0:*:*:*:*:*:*:*,Betterment TestTrack 1.1.0,[''],2022-03-19T07:27Z
+8,cpe:2.3:a:betterment:testtrack:1.1.1:*:*:*:*:*:*:*,Betterment TestTrack 1.1.1,[''],2022-03-19T07:27Z
+9,cpe:2.3:a:betterment:testtrack:1.2:*:*:*:*:*:*:*,Betterment TestTrack 1.2,[''],2022-03-19T07:27Z

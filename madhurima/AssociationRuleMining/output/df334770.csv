@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:lon-l29d:-:*:*:*:*:*:*:*,Huawei LON-L29D,"['CVE-2017-15345', 'CVE-2020-9239']",2022-03-21T18:02Z
+1,cpe:2.3:o:huawei:lon-l29d_firmware:lon-l29dc721b186:*:*:*:*:*:*:*,Huawei LON-L29D Firmware LON-L29DC721B186,['CVE-2017-15345'],2022-03-21T18:02Z
+2,cpe:2.3:o:huawei:lon-l29d_firmware:lon-l29dc721b192:*:*:*:*:*:*:*,Huawei LON-L29D Firmware LON-l29dc721b192,['CVE-2020-9239'],2022-03-21T18:02Z
+3,cpe:2.3:h:huawei:lsw_s9700:-:*:*:*:*:*:*:*,Huawei LSW S9700,['CVE-2014-4706'],2022-03-21T18:02Z
+4,cpe:2.3:o:huawei:lsw_s9700_firmware:-:*:*:*:*:*:*:*,Huawei Lsw S9700 Firmware -,[''],2022-03-21T18:02Z
+5,cpe:2.3:o:huawei:lsw_s9700_firmware:v200r001c00spc300:*:*:*:*:*:*:*,Huawei LSW S9700 Firmware V200R001C00SPC300,['CVE-2014-4706'],2022-03-21T18:02Z
+6,cpe:2.3:o:huawei:lsw_s9700_firmware:v200r003c00spc300:*:*:*:*:*:*:*,Huawei LSW S9700 Firmware V200R003C00SPC300,['CVE-2014-4706'],2022-03-21T18:02Z
+7,cpe:2.3:o:huawei:lsw_s9700_firmware:v200r003c00spc500:*:*:*:*:*:*:*,Huawei LSW S9700 Firmware V200R003C00SPC500,['CVE-2014-4706'],2022-03-21T18:02Z
+8,cpe:2.3:h:huawei:lyo-l21:-:*:*:*:*:*:*:*,Huawei LYO-L21,"['CVE-2017-17172', 'CVE-2017-2699']",2022-03-21T18:02Z
+9,cpe:2.3:o:huawei:lyo-l21_firmware:-:*:*:*:*:*:*:*,Huawei  LYO-L21 Firmware,['CVE-2017-2699'],2022-03-21T18:02Z

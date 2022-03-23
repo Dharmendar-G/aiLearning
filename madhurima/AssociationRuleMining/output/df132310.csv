@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:router_web_setup:3.3.0_build_30:*:*:*:*:*:*:*,Cisco Router Web Setup 3.3.0 build 30,['CVE-2006-3595'],2022-03-19T23:51Z
+1,cpe:2.3:h:cisco:rtp300:-:*:*:*:*:*:*:*,Cisco RTP300 Broadband Router,['CVE-2015-6358'],2022-03-19T23:51Z
+2,cpe:2.3:o:cisco:rtp300_firmware:3.1.24:*:*:*:*:*:*:*,Cisco RTP300 Broadband Router Firmware 3.1.24,['CVE-2015-6358'],2022-03-19T23:51Z
+3,cpe:2.3:o:cisco:rv_series_router_firmware:1.0.0.2:*:*:*:*:*:*:*,Cisco Rv Series Router Firmware 1.0.0.2,['CVE-2015-6319'],2022-03-19T23:51Z
+4,cpe:2.3:o:cisco:rv_series_router_firmware:1.0.0.30:*:*:*:*:*:*:*,Cisco RV Series Router Firmware 1.0.0.30,['CVE-2015-6319'],2022-03-19T23:51Z
+5,cpe:2.3:o:cisco:rv_series_router_firmware:1.0.1.9:*:*:*:*:*:*:*,Cisco RV Series Router Firmware 1.0.1.9,['CVE-2015-6319'],2022-03-19T23:51Z
+6,cpe:2.3:o:cisco:rv_series_router_firmware:1.0.2.6:*:*:*:*:*:*:*,Cisco RV Series Router Firmware 1.0.2.6,['CVE-2015-6319'],2022-03-19T23:51Z
+7,cpe:2.3:o:cisco:rv_series_router_firmware:1.0.3.10:*:*:*:*:*:*:*,Cisco RV Series Router Firmware 1.0.3.10,['CVE-2015-6319'],2022-03-19T23:51Z
+8,cpe:2.3:o:cisco:rv_series_router_firmware:1.0.4.10:*:*:*:*:*:*:*,Cisco RV Series Router Firmware 1.0.4.10,['CVE-2015-6319'],2022-03-19T23:51Z
+9,cpe:2.3:o:cisco:rv_series_router_firmware:1.0.4.14:*:*:*:*:*:*:*,Cisco RV Series Router Firmware 1.0.4.14,['CVE-2015-6319'],2022-03-19T23:51Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:arista:c-200_firmware:-:*:*:*:*:*:*:*,Arista C-200 Firmware,"['CVE-2020-24586', 'CVE-2020-26144', 'CVE-2020-26146']",2022-03-18T23:01Z
+1,cpe:2.3:o:arista:c-200_firmware:11.0.0-36:*:*:*:*:*:*:*,Arista C-200 Firmware 11.0.0-36,[''],2022-03-18T23:01Z
+2,cpe:2.3:h:arista:c-230:-:*:*:*:*:*:*:*,Arista C-230,"['CVE-2020-24586', 'CVE-2020-26144', 'CVE-2020-26146']",2022-03-18T23:01Z
+3,cpe:2.3:o:arista:c-230_firmware:-:*:*:*:*:*:*:*,Arista C-230 Firmware,"['CVE-2020-24586', 'CVE-2020-26144', 'CVE-2020-26146']",2022-03-18T23:00Z
+4,cpe:2.3:o:arista:c-230_firmware:10.0.1-31:*:*:*:*:*:*:*,Arista C-230 Firmware 10.0.1-31,[''],2022-03-18T23:00Z
+5,cpe:2.3:h:arista:c-235:-:*:*:*:*:*:*:*,Arista C-235,"['CVE-2020-24586', 'CVE-2020-26144', 'CVE-2020-26146']",2022-03-18T23:01Z
+6,cpe:2.3:o:arista:c-235_firmware:-:*:*:*:*:*:*:*,Arista C-235 Firmware,"['CVE-2020-24586', 'CVE-2020-26144', 'CVE-2020-26146']",2022-03-18T23:01Z
+7,cpe:2.3:o:arista:c-235_firmware:10.0.1-31:*:*:*:*:*:*:*,Arista C-235 Firmware 10.0.1-31,[''],2022-03-18T23:01Z
+8,cpe:2.3:h:arista:c-250:-:*:*:*:*:*:*:*,Arista C-250,"['CVE-2020-24586', 'CVE-2020-26144', 'CVE-2020-26146']",2022-03-18T23:01Z
+9,cpe:2.3:o:arista:c-250_firmware:-:*:*:*:*:*:*:*,Arista C-250 Firmware,"['CVE-2020-24586', 'CVE-2020-26144', 'CVE-2020-26146']",2022-03-18T23:01Z

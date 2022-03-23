@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:canon:imagerunner_c3200:-:*:*:*:*:*:*:*,Canon imageRUNNER C3200,"['CVE-2004-2166', 'CVE-2008-0303']",2022-03-19T15:14Z
+1,cpe:2.3:a:canon:imagerunner_c3220:-:*:*:*:*:*:*:*,Canon imageRUNNER C3220,"['CVE-2006-4680', 'CVE-2008-0303']",2022-03-19T15:14Z
+2,cpe:2.3:a:canon:imagerunner_c6800:-:*:*:*:*:*:*:*,Canon imageRUNNER C6800,"['CVE-2006-4680', 'CVE-2008-0303']",2022-03-19T15:14Z
+3,cpe:2.3:h:canon:ir2202n:-:*:*:*:*:*:*:*,Canon IR2202N,['CVE-2020-16849'],2022-03-19T15:14Z
+4,cpe:2.3:o:canon:ir2202n_firmware:-:*:*:*:*:*:*:*,Canon IR2202N Firmware,['CVE-2020-16849'],2022-03-19T15:14Z
+5,cpe:2.3:h:canon:ir2204f:-:*:*:*:*:*:*:*,Canon IR2204F,['CVE-2020-16849'],2022-03-19T15:14Z
+6,cpe:2.3:o:canon:ir2204f_firmware:-:*:*:*:*:*:*:*,Canon IR2204F Firmware,['CVE-2020-16849'],2022-03-19T15:14Z
+7,cpe:2.3:h:canon:ir2204n:-:*:*:*:*:*:*:*,Canon IR2204N,['CVE-2020-16849'],2022-03-19T15:14Z
+8,cpe:2.3:o:canon:ir2204n_firmware:-:*:*:*:*:*:*:*,Canon IR2204N Firmware,['CVE-2020-16849'],2022-03-19T15:14Z
+9,cpe:2.3:h:canon:ir2206if:-:*:*:*:*:*:*:*,Canon IR2206IF,['CVE-2020-16849'],2022-03-19T15:14Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:asa_5545-x_firmware:9.10\(1.220\):*:*:*:*:*:*:*,Cisco ASA 5545-X Firmware 9.10(1.220),['CVE-2020-3125'],2022-03-19T18:32Z
+1,cpe:2.3:o:cisco:asa_5545-x_firmware:009.012:*:*:*:*:*:*:*,Cisco ASA 5545-X Firmware 009.012,['CVE-2021-34787'],2022-03-19T18:32Z
+2,cpe:2.3:o:cisco:asa_5545-x_firmware:9.12\(0.61\):*:*:*:*:*:*:*,Cisco ASA 5545-X Firmware 9.12(0.61),[''],2022-03-19T18:32Z
+3,cpe:2.3:o:cisco:asa_5545-x_firmware:9.12\(1.6\):*:*:*:*:*:*:*,Cisco ASA 5545-X Firmware 9.12(1.6),['CVE-2020-3186'],2022-03-19T18:32Z
+4,cpe:2.3:o:cisco:asa_5545-x_firmware:9.12\(2\):*:*:*:*:*:*:*,Cisco ASA 5545-X Firmware 9.12(2),['CVE-2020-3195'],2022-03-19T18:32Z
+5,cpe:2.3:o:cisco:asa_5545-x_firmware:9.12\(2.12\):*:*:*:*:*:*:*,Cisco ASA 5545-X Firmware 9.12(2.12),['CVE-2020-3283'],2022-03-19T18:32Z
+6,cpe:2.3:o:cisco:asa_5545-x_firmware:009.012\(004.024\):*:*:*:*:*:*:*,Cisco ASA 5545-X Firmware 009.012(004.024),['CVE-2021-40118'],2022-03-19T18:32Z
+7,cpe:2.3:o:cisco:asa_5545-x_firmware:9.13\(0.33\):*:*:*:*:*:*:*,Cisco ASA 5545-X Firmware 9.13(0.33),['CVE-2020-3283'],2022-03-19T18:32Z
+8,cpe:2.3:o:cisco:asa_5545-x_firmware:009.014\(001\):*:*:*:*:*:*:*,Cisco ASA 5545-X Firmware 009.014(001),['CVE-2021-34794'],2022-03-19T18:32Z
+9,cpe:2.3:o:cisco:asa_5545-x_firmware:009.014\(001.150\):*:*:*:*:*:*:*,Cisco ASA 5545-X Firmware 009.014(001.150),['CVE-2021-34792'],2022-03-19T18:32Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:autoptimize:autoptimize:2.7.2:*:*:*:*:wordpress:*:*,Autoptimize 2.7.2 for WordPress,"['CVE-2020-24948', 'CVE-2021-24332', 'CVE-2021-24376', 'CVE-2021-24377', 'CVE-2021-24378']",2022-03-19T03:52Z
+1,cpe:2.3:a:autoptimize:autoptimize:2.7.3:*:*:*:*:wordpress:*:*,Autoptimize 2.7.3 for WordPress,"['CVE-2020-24948', 'CVE-2021-24332', 'CVE-2021-24376', 'CVE-2021-24377', 'CVE-2021-24378']",2022-03-19T03:53Z
+2,cpe:2.3:a:autoptimize:autoptimize:2.7.4:*:*:*:*:wordpress:*:*,Autoptimize 2.7.4 for WordPress,"['CVE-2020-24948', 'CVE-2021-24332', 'CVE-2021-24376', 'CVE-2021-24377', 'CVE-2021-24378']",2022-03-19T03:53Z
+3,cpe:2.3:a:autoptimize:autoptimize:2.7.5:*:*:*:*:wordpress:*:*,Autoptimize 2.7.5 for WordPress,"['CVE-2020-24948', 'CVE-2021-24332', 'CVE-2021-24376', 'CVE-2021-24377', 'CVE-2021-24378']",2022-03-19T03:53Z
+4,cpe:2.3:a:autoptimize:autoptimize:2.7.6:*:*:*:*:wordpress:*:*,Autoptimize 2.7.6 for WordPress,"['CVE-2020-24948', 'CVE-2021-24332', 'CVE-2021-24376', 'CVE-2021-24377', 'CVE-2021-24378']",2022-03-19T03:53Z
+5,cpe:2.3:a:autoptimize:autoptimize:2.7.7:*:*:*:*:wordpress:*:*,Autoptimize 2.7.7 for WordPress,"['CVE-2021-24332', 'CVE-2021-24376', 'CVE-2021-24377', 'CVE-2021-24378']",2022-03-19T03:53Z
+6,cpe:2.3:a:autoptimize:autoptimize:2.7.8:*:*:*:*:wordpress:*:*,Autoptimize 2.7.8 for WordPress,['CVE-2021-24332'],2022-03-19T03:53Z
+7,cpe:2.3:a:autoptimize:autoptimize:2.8.0:*:*:*:*:wordpress:*:*,Autoptimize 2.8.0 for WordPress,['CVE-2021-24332'],2022-03-19T03:53Z
+8,cpe:2.3:a:autoptimize:autoptimize:2.8.1:*:*:*:*:wordpress:*:*,Autoptimize 2.8.1 for WordPress,['CVE-2021-24332'],2022-03-19T03:53Z
+9,cpe:2.3:a:autoptimize:autoptimize:2.8.2:*:*:*:*:wordpress:*:*,Autoptimize 2.8.2 for WordPress,['CVE-2021-24332'],2022-03-19T03:53Z

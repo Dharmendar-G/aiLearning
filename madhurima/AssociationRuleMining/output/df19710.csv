@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:allegro:allegro:3.2.4035.6:*:*:*:*:windows:*:*,Allegro 3.2.4035.6 for Windows,['CVE-2021-42110'],2022-03-18T14:53Z
+1,cpe:2.3:a:allegro:allegro:3.2.4035.10:*:*:*:*:windows:*:*,Allegro 3.2.4035.10 for Windows,['CVE-2021-42110'],2022-03-18T14:53Z
+2,cpe:2.3:a:allegro:allegro:3.3.4149.0:*:*:*:*:windows:*:*,Allegro 3.3.4149.0 for Windows,['CVE-2021-42110'],2022-03-18T14:53Z
+3,cpe:2.3:a:allegro:allegro:3.3.4150.0:*:*:*:*:windows:*:*,Allegro 3.3.4150.0 for Windows,['CVE-2021-42110'],2022-03-18T14:53Z
+4,cpe:2.3:a:allegro:allegro:3.3.4150.1:*:*:*:*:windows:*:*,Allegro 3.3.4150.1 for Windows,['CVE-2021-42110'],2022-03-18T14:53Z
+5,cpe:2.3:a:allegro:allegro:3.3.4150.2:*:*:*:*:windows:*:*,Allegro 3.3.4150.2 for Windows,['CVE-2021-42110'],2022-03-18T14:53Z
+6,cpe:2.3:a:allegro:allegro:3.3.4151.0:*:*:*:*:windows:*:*,Allegro 3.3.4151.0 for Windows,['CVE-2021-42110'],2022-03-18T14:53Z
+7,cpe:2.3:a:allegro:allegro:3.3.4151.1:*:*:*:*:windows:*:*,Allegro 3.3.4151.1 for Windows,['CVE-2021-42110'],2022-03-18T14:53Z
+8,cpe:2.3:a:allegro:allegro:3.3.4152.0:*:*:*:*:windows:*:*,Allegro 3.3.4152.0 for Windows,"['CVE-2021-42110', 'CVE-2021-43978']",2022-03-18T14:53Z
+9,cpe:2.3:a:allegro:allegro:3.3.4156.1:*:*:*:*:windows:*:*,Allegro 3.3.4156.1 for Windows,[''],2022-03-18T14:53Z

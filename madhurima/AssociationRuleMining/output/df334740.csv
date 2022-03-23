@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:leland-l42c:-:*:*:*:*:*:*:*,Huawei LELAND-L42C,['CVE-2019-9506'],2022-03-21T18:01Z
+1,cpe:2.3:o:huawei:leland-l42c_firmware:-:*:*:*:*:*:*:*,Huawei LELAND-L42C FIRMWARE,['CVE-2019-9506'],2022-03-21T18:01Z
+2,cpe:2.3:h:huawei:lelandp-al00c:-:*:*:*:*:*:*:*,Huawei LELANDP-AL00C,['CVE-2019-9506'],2022-03-21T18:01Z
+3,cpe:2.3:o:huawei:lelandp-al00c_firmware:-:*:*:*:*:*:*:*,Huawei LELANDP-AL00C FIRMWARE,['CVE-2019-9506'],2022-03-21T18:01Z
+4,cpe:2.3:h:huawei:lelandp-al10b:-:*:*:*:*:*:*:*,Huawei LELANDP-AL10B,['CVE-2019-9506'],2022-03-21T18:01Z
+5,cpe:2.3:o:huawei:lelandp-al10b_firmware:-:*:*:*:*:*:*:*,Huawei LELANDP-AL10B FIRMWARE,['CVE-2019-9506'],2022-03-21T18:01Z
+6,cpe:2.3:h:huawei:lelandp-al10d:-:*:*:*:*:*:*:*,Huawei LELANDP-AL10D,['CVE-2019-9506'],2022-03-21T18:01Z
+7,cpe:2.3:o:huawei:lelandp-al10d_firmware:-:*:*:*:*:*:*:*,Huawei LELANDP-AL10D FIRMWARE,['CVE-2019-9506'],2022-03-21T18:01Z
+8,cpe:2.3:h:huawei:lelandp-l22a:-:*:*:*:*:*:*:*,Huawei LelandP-L22A,"['CVE-2019-9506', 'CVE-2020-9069']",2022-03-21T18:01Z
+9,cpe:2.3:o:huawei:lelandp-l22a_firmware:-:*:*:*:*:*:*:*,Huawei LELANDP-L22A FIRMWARE,"['CVE-2019-9506', 'CVE-2020-9069']",2022-03-21T18:01Z

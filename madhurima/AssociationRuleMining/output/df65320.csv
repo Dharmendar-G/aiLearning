@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:avstar:pe204:-:*:*:*:*:*:*:*,AVStar PE204,['CVE-2019-18382'],2022-03-19T04:33Z
+1,cpe:2.3:o:avstar:pe204_firmware:3.10.70:*:*:*:*:*:*:*,AVStar PE204 Firmware 3.10.70,['CVE-2019-18382'],2022-03-19T04:33Z
+2,cpe:2.3:h:avtech:avn801_dvr:-:*:*:*:*:*:*:*,AVTECH AVN801 DVR,"['CVE-2013-4980', 'CVE-2013-4981', 'CVE-2013-4982']",2022-03-19T04:33Z
+3,cpe:2.3:o:avtech:avn801_dvr_firmware:1017-1003-1009-1003:*:*:*:*:*:*:*,AVTECH AVN801 DVR firmware 1017-1003-1009-1003,"['CVE-2013-4980', 'CVE-2013-4981', 'CVE-2013-4982']",2022-03-19T04:33Z
+4,cpe:2.3:h:avtech:room_alert_3e:-:*:*:*:*:*:*:*,AVTECH Room Alert 3E,['CVE-2019-13379'],2022-03-19T04:33Z
+5,cpe:2.3:o:avtech:room_alert_3e_firmware:2.2.5:*:*:*:*:*:*:*,AVTECH Room Alert 3E Firmware 2.2.5,[''],2022-03-19T04:33Z
+6,cpe:2.3:h:avtech:tempager_4e:-:*:*:*:*:*:*:*,Avtech TemPageR 4E (TMP4E),[''],2022-03-19T04:33Z
+7,cpe:2.3:a:avto-russia:russian_federation_traffic_rules:1.21:*:*:*:*:android:*:*,avto-russia Russian Federation Traffic Rules (aka com.russia.pdd) for android 1.21,['CVE-2014-7392'],2022-03-19T04:33Z
+8,cpe:2.3:a:aware:knomi:2.2.0:*:*:*:*:*:*:*,Aware Knomi 2.2.0,['CVE-2019-9196'],2022-03-19T04:33Z
+9,cpe:2.3:a:aware:knomi:2.2.1:*:*:*:*:*:*:*,Aware Knomi 2.2.1,['CVE-2019-9196'],2022-03-19T04:33Z

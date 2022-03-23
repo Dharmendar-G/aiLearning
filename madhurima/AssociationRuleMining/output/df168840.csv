@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cyberark:conjur_oss_helm_chart:1.3.6:*:*:*:*:*:*:*,CyberArk Conjur OSS Helm Chart 1.3.6,['CVE-2020-4062'],2022-03-20T09:34Z
+1,cpe:2.3:a:cyberark:conjur_oss_helm_chart:1.3.7:*:*:*:*:*:*:*,CyberArk Conjur OSS Helm Chart 1.3.7,['CVE-2020-4062'],2022-03-20T09:35Z
+2,cpe:2.3:a:cyberark:conjur_oss_helm_chart:1.3.8:*:*:*:*:*:*:*,CyberArk Conjur OSS Helm Chart 1.3.8,['CVE-2020-4062'],2022-03-20T09:35Z
+3,cpe:2.3:a:cyberark:conjur_oss_helm_chart:2.0.0:*:*:*:*:*:*:*,CyberArk Conjur OSS Helm Chart 2.0.0,[''],2022-03-20T09:35Z
+4,cpe:2.3:a:cyberark:conjur_service_broker:-:*:*:*:*:pivotal_cloud_foundry:*:*,Cyberark Conjur Service Broker - for Pivotal Cloud Foundry,['CVE-2019-3800'],2022-03-20T09:35Z
+5,cpe:2.3:a:cyberark:conjur_service_broker:0.1.0:*:*:*:*:pivotal_cloud_foundry:*:*,Cyberark Conjur Service Broker 0.1.0 for Pivotal Cloud Foundry,['CVE-2019-3800'],2022-03-20T09:35Z
+6,cpe:2.3:a:cyberark:conjur_service_broker:0.2.1:*:*:*:*:pivotal_cloud_foundry:*:*,Cyberark Conjur Service Broker 0.2.1 for Pivotal Cloud Foundry,['CVE-2019-3800'],2022-03-20T09:35Z
+7,cpe:2.3:a:cyberark:conjur_service_broker:0.3.0:*:*:*:*:pivotal_cloud_foundry:*:*,Cyberark Conjur Service Broker 0.3.0 for Pivotal Cloud Foundry,['CVE-2019-3800'],2022-03-20T09:35Z
+8,cpe:2.3:a:cyberark:conjur_service_broker:0.3.1:*:*:*:*:pivotal_cloud_foundry:*:*,Cyberark Conjur Service Broker 0.3.1 for Pivotal Cloud Foundry,['CVE-2019-3800'],2022-03-20T09:35Z
+9,cpe:2.3:a:cyberark:conjur_service_broker:0.3.2:*:*:*:*:pivotal_cloud_foundry:*:*,Cyberark Conjur Service Broker 0.3.2 for Pivotal Cloud Foundry,['CVE-2019-3800'],2022-03-20T09:35Z

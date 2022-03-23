@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:emc_vplex_geosynchrony:6.1:*:*:*:*:*:*:*,Dell EMC VPlex GeoSynchrony 6.1,[''],2022-03-20T12:29Z
+1,cpe:2.3:a:dell:emc_xtremio:4.0:*:*:*:*:*:*:*,Dell EMC XtremIO 4.0,['CVE-2018-1183'],2022-03-20T12:29Z
+2,cpe:2.3:a:dell:emc_xtremio:4.0.2:*:*:*:*:*:*:*,Dell EMC XtremIO 4.0.2,['CVE-2018-1183'],2022-03-20T12:29Z
+3,cpe:2.3:a:dell:encryption:-:*:*:*:enterprise:*:*:*,Dell Encryption Enterprise Edition,"['CVE-2018-15766', 'CVE-2019-3745', 'CVE-2020-5385']",2022-03-20T12:29Z
+4,cpe:2.3:a:dell:encryption:8.0.0:*:*:*:*:*:*:*,Dell Encryption 8.0.0,['CVE-2018-15766'],2022-03-20T12:29Z
+5,cpe:2.3:a:dell:encryption:8.7.0:*:*:*:*:*:*:*,Dell Encryption 8.7.0,['CVE-2018-15766'],2022-03-20T12:29Z
+6,cpe:2.3:a:dell:encryption:8.15.0:*:*:*:*:*:*:*,Dell Encryption 8.15.0,['CVE-2018-15766'],2022-03-20T12:29Z
+7,cpe:2.3:a:dell:encryption:8.16.0:*:*:*:*:*:*:*,Dell Encryption 8.16.0,['CVE-2018-15766'],2022-03-20T12:29Z
+8,cpe:2.3:a:dell:encryption:10.0.0:*:*:*:*:*:*:*,Dell Encryption 10.0.0,['CVE-2018-15766'],2022-03-20T12:29Z
+9,cpe:2.3:a:dell:encryption:10.0.1:*:*:*:*:*:*:*,Dell Encryption 10.0.1,[''],2022-03-20T12:29Z

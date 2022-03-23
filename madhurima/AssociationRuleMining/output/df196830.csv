@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:droppy_project:droppy:5.1.21:*:*:*:*:node.js:*:*,droppy Project droppy 5.1.21 for Node.js,['CVE-2020-7757'],2022-03-20T18:09Z
+1,cpe:2.3:a:droppy_project:droppy:5.1.22:*:*:*:*:node.js:*:*,droppy Project droppy 5.1.22 for Node.js,['CVE-2020-7757'],2022-03-20T18:09Z
+2,cpe:2.3:a:droppy_project:droppy:5.1.23:*:*:*:*:node.js:*:*,droppy Project droppy 5.1.23 for Node.js,['CVE-2020-7757'],2022-03-20T18:09Z
+3,cpe:2.3:a:droppy_project:droppy:5.1.24:*:*:*:*:node.js:*:*,droppy Project droppy 5.1.24 for Node.js,['CVE-2020-7757'],2022-03-20T18:09Z
+4,cpe:2.3:a:droppy_project:droppy:5.2.0:*:*:*:*:node.js:*:*,droppy Project droppy 5.2.0 for Node.js,['CVE-2020-7757'],2022-03-20T18:09Z
+5,cpe:2.3:a:droppy_project:droppy:5.2.1:*:*:*:*:node.js:*:*,droppy Project droppy 5.2.1 for Node.js,['CVE-2020-7757'],2022-03-20T18:09Z
+6,cpe:2.3:a:droppy_project:droppy:5.2.2:*:*:*:*:node.js:*:*,droppy Project droppy 5.2.2 for Node.js,['CVE-2020-7757'],2022-03-20T18:09Z
+7,cpe:2.3:a:droppy_project:droppy:5.2.3:*:*:*:*:node.js:*:*,droppy Project droppy 5.2.3 for Node.js,['CVE-2020-7757'],2022-03-20T18:09Z
+8,cpe:2.3:a:droppy_project:droppy:5.2.4:*:*:*:*:node.js:*:*,droppy Project droppy 5.2.4 for Node.js,['CVE-2020-7757'],2022-03-20T18:09Z
+9,cpe:2.3:a:droppy_project:droppy:5.2.5:*:*:*:*:node.js:*:*,droppy Project droppy 5.2.5 for Node.js,['CVE-2020-7757'],2022-03-20T18:09Z

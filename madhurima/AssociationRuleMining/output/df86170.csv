@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:botan_project:botan:2.17.0:*:*:*:*:*:*:*,Botan Project Botan 2.17.0,"['CVE-2021-24115', 'CVE-2021-40529']",2022-03-19T10:11Z
+1,cpe:2.3:a:botan_project:botan:2.17.1:*:*:*:*:*:*:*,Botan Project Botan 2.17.1,"['CVE-2021-24115', 'CVE-2021-40529']",2022-03-19T10:11Z
+2,cpe:2.3:a:botan_project:botan:2.17.2:*:*:*:*:*:*:*,Botan Project Botan 2.17.2,"['CVE-2021-24115', 'CVE-2021-40529']",2022-03-19T10:11Z
+3,cpe:2.3:a:botan_project:botan:2.17.3:*:*:*:*:*:*:*,Botan Project Botan 2.17.3,['CVE-2021-40529'],2022-03-19T10:11Z
+4,cpe:2.3:a:botbait_project:botbait:1.0.0:*:*:*:*:node.js:*:*,botbait Project botbait 1.0.0 for Node.js,['CVE-2017-16126'],2022-03-19T10:11Z
+5,cpe:2.3:a:botbait_project:botbait:1.0.1:*:*:*:*:node.js:*:*,botbait Project botbait 1.0.1 for Node.js,['CVE-2017-16126'],2022-03-19T10:12Z
+6,cpe:2.3:a:botbait_project:botbait:2.0.0:*:*:*:*:node.js:*:*,botbait Project botbait 2.0.0 for Node.js,['CVE-2017-16126'],2022-03-19T10:12Z
+7,cpe:2.3:a:botcha_spam_prevention_project:botcha:7.x-1.0:*:*:*:*:*:*:*,BOTCHA Spam Prevention Project BOTCHA 7.x-1.0,['CVE-2013-4272'],2022-03-19T10:12Z
+8,cpe:2.3:a:botcha_spam_prevention_project:botcha:7.x-1.1:*:*:*:*:*:*:*,BOTCHA Spam Prevention Project BOTCHA 7.x-1.1,['CVE-2013-4272'],2022-03-19T10:12Z
+9,cpe:2.3:a:botcha_spam_prevention_project:botcha:7.x-1.2:*:*:*:*:*:*:*,BOTCHA Spam Prevention Project BOTCHA 7.x-1.2,['CVE-2013-4272'],2022-03-19T10:12Z

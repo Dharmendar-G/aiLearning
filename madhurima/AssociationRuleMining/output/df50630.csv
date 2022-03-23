@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:asustor:as6202t_firmware:-:*:*:*:*:*:*:*,ASUSTOR AS6202T Firmware,"['CVE-2018-11340', 'CVE-2018-11341', 'CVE-2018-11342', 'CVE-2018-11344', 'CVE-2018-11345', 'CVE-2018-11346']",2022-03-18T23:59Z
+1,cpe:2.3:o:asustor:as6202t_firmware:adm_3.1.0.rfq3:*:*:*:*:*:*:*,ASUSTOR AS6202T Firmware (ADM) 3.1.0.RFQ3,"['CVE-2018-11340', 'CVE-2018-11341', 'CVE-2018-11342', 'CVE-2018-11344', 'CVE-2018-11345', 'CVE-2018-11346']",2022-03-18T23:59Z
+2,cpe:2.3:o:asustor:as6202t_firmware:adm_3.2.1rku4:*:*:*:*:*:*:*,ASUSTOR AS6202T Firmware (ADM) 3.2.1RKU4,[''],2022-03-18T23:59Z
+3,cpe:2.3:a:asustor:asustor_data_master:3.1.0:*:*:*:*:*:*:*,ASUSTOR Data Master (ADM) 3.1.0,"['CVE-2018-11509', 'CVE-2018-11511']",2022-03-18T23:59Z
+4,cpe:2.3:o:asustor:data_master:2.1:*:*:*:*:*:*:*,Asustor Data Master 2.1,"['CVE-2018-15694', 'CVE-2018-15695', 'CVE-2018-15696', 'CVE-2018-15697', 'CVE-2018-15698', 'CVE-2018-15699']",2022-03-18T23:59Z
+5,cpe:2.3:o:asustor:data_master:2.5:*:*:*:*:*:*:*,Asustor Data Master 2.5,"['CVE-2018-15694', 'CVE-2018-15695', 'CVE-2018-15696', 'CVE-2018-15697', 'CVE-2018-15698', 'CVE-2018-15699']",2022-03-18T23:59Z
+6,cpe:2.3:o:asustor:data_master:2.6:*:*:*:*:*:*:*,Asustor Data Master 2.6,"['CVE-2018-15694', 'CVE-2018-15695', 'CVE-2018-15696', 'CVE-2018-15697', 'CVE-2018-15698', 'CVE-2018-15699']",2022-03-18T23:59Z
+7,cpe:2.3:o:asustor:data_master:3.0:*:*:*:*:*:*:*,Asustor Data Master 3.0,"['CVE-2018-15694', 'CVE-2018-15695', 'CVE-2018-15696', 'CVE-2018-15697', 'CVE-2018-15698', 'CVE-2018-15699']",2022-03-18T23:59Z
+8,cpe:2.3:o:asustor:data_master:3.1.1:*:*:*:*:*:*:*,Asustor Data Master 3.1.1,"['CVE-2018-12305', 'CVE-2018-12306', 'CVE-2018-12307', 'CVE-2018-12308', 'CVE-2018-12309', 'CVE-2018-12310', 'CVE-2018-12311', 'CVE-2018-12312', 'CVE-2018-12313', 'CVE-2018-12314', 'CVE-2018-12315', 'CVE-2018-12316', 'CVE-2018-12317', 'CVE-2018-12318', 'CVE-2018-12319', 'CVE-2018-15694', 'CVE-2018-15695', 'CVE-2018-15696', 'CVE-2018-15697', 'CVE-2018-15698', 'CVE-2018-15699']",2022-03-18T23:59Z
+9,cpe:2.3:o:asustor:data_master:3.1.5:*:*:*:*:*:*:*,Asustor Data Master 3.1.5,"['CVE-2018-15694', 'CVE-2018-15695', 'CVE-2018-15696', 'CVE-2018-15697', 'CVE-2018-15698', 'CVE-2018-15699']",2022-03-18T23:59Z

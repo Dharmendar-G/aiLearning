@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:color_laserjet_9500:-:*:*:*:*:*:*:*,HP Color LaserJet 9500,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2011-4161']",2022-03-21T13:01Z
+1,cpe:2.3:h:hp:color_laserjet_9500_mfp:-:*:*:*:*:*:*:*,HP Color LaserJet 9500 MFP,"['CVE-2009-0940', 'CVE-2009-0941']",2022-03-21T13:01Z
+2,cpe:2.3:h:hp:color_laserjet_9500_mfp:c8549a:*:*:*:*:*:*:*,HP Color LaserJet 9500 Multifunction Printer (MFP) C8549A,"['CVE-2009-0940', 'CVE-2009-0941', 'CVE-2012-5221']",2022-03-21T13:01Z
+3,cpe:2.3:h:hp:color_laserjet_cm1312nfi_multifunction_printer:cc431a:*:*:*:*:*:*:*,HP Color LaserJet CM1312nfi Multifunction Printer CC431A,['CVE-2013-6193'],2022-03-21T13:01Z
+4,cpe:2.3:h:hp:color_laserjet_cm2320n_multifunction_printer:cc434a:*:*:*:*:*:*:*,HP Color LaserJet CM2320n Multifunction Printer CC434A,['CVE-2013-6193'],2022-03-21T13:01Z
+5,cpe:2.3:h:hp:color_laserjet_cm4540_mfp:-:*:*:*:*:*:*:*,HP Color LaserJet CM4540 MFP,"['CVE-2018-5923', 'CVE-2019-6318']",2022-03-21T13:01Z
+6,cpe:2.3:h:hp:color_laserjet_cm4540_mfp_cc419a:-:*:*:*:*:*:*:*,HP Color LaserJet CM4540 MFP CC419A,['CVE-2020-28419'],2022-03-21T13:01Z
+7,cpe:2.3:h:hp:color_laserjet_cm4540_mfp_cc420a:-:*:*:*:*:*:*:*,HP Color LaserJet CM4540 MFP CC420A,['CVE-2020-28419'],2022-03-21T13:01Z
+8,cpe:2.3:h:hp:color_laserjet_cm4540_mfp_cc421a:-:*:*:*:*:*:*:*,HP Color LaserJet CM4540 MFP CC421A,['CVE-2020-28419'],2022-03-21T13:01Z
+9,cpe:2.3:o:hp:color_laserjet_cm4540_mfp_firmware:-:*:*:*:*:*:*:*,Hp Color Laserjet Cm4540 Mfp Firmware -,"['CVE-2018-5923', 'CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T13:01Z

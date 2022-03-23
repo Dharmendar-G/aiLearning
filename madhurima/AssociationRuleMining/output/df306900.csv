@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hashicorp:vagrant_vmware_fusion:4.0.6:*:*:*:*:vagrant:*:*,HashiCorp Vagrant VMware Fusion 4.0.6 for Vagrant,"['CVE-2017-11741', 'CVE-2017-12579', 'CVE-2017-7642']",2022-03-21T09:55Z
+1,cpe:2.3:a:hashicorp:vagrant_vmware_fusion:4.0.7:*:*:*:*:vagrant:*:*,HashiCorp Vagrant VMware Fusion 4.0.7 for Vagrant,"['CVE-2017-11741', 'CVE-2017-12579', 'CVE-2017-7642']",2022-03-21T09:55Z
+2,cpe:2.3:a:hashicorp:vagrant_vmware_fusion:4.0.8:*:*:*:*:vagrant:*:*,HashiCorp Vagrant VMware Fusion 4.0.8 for Vagrant,"['CVE-2017-11741', 'CVE-2017-12579', 'CVE-2017-7642']",2022-03-21T09:55Z
+3,cpe:2.3:a:hashicorp:vagrant_vmware_fusion:4.0.11:*:*:*:*:vagrant:*:*,HashiCorp Vagrant VMware Fusion 4.0.11 for Vagrant,"['CVE-2017-11741', 'CVE-2017-12579', 'CVE-2017-7642']",2022-03-21T09:55Z
+4,cpe:2.3:a:hashicorp:vagrant_vmware_fusion:4.0.12:*:*:*:*:vagrant:*:*,HashiCorp Vagrant VMware Fusion 4.0.12 for Vagrant,"['CVE-2017-11741', 'CVE-2017-12579', 'CVE-2017-7642']",2022-03-21T09:55Z
+5,cpe:2.3:a:hashicorp:vagrant_vmware_fusion:4.0.13:*:*:*:*:vagrant:*:*,HashiCorp Vagrant VMware Fusion 4.0.13 for Vagrant,"['CVE-2017-11741', 'CVE-2017-12579', 'CVE-2017-7642']",2022-03-21T09:55Z
+6,cpe:2.3:a:hashicorp:vagrant_vmware_fusion:4.0.14:*:*:*:*:vagrant:*:*,HashiCorp Vagrant VMware Fusion 4.0.14 for Vagrant,"['CVE-2017-11741', 'CVE-2017-12579', 'CVE-2017-7642']",2022-03-21T09:55Z
+7,cpe:2.3:a:hashicorp:vagrant_vmware_fusion:4.0.15:*:*:*:*:vagrant:*:*,HashiCorp Vagrant VMware Fusion 4.0.15 for Vagrant,"['CVE-2017-11741', 'CVE-2017-12579', 'CVE-2017-7642']",2022-03-21T09:55Z
+8,cpe:2.3:a:hashicorp:vagrant_vmware_fusion:4.0.16:*:*:*:*:vagrant:*:*,HashiCorp Vagrant VMware Fusion 4.0.16 for Vagrant,"['CVE-2017-11741', 'CVE-2017-12579', 'CVE-2017-7642']",2022-03-21T09:55Z
+9,cpe:2.3:a:hashicorp:vagrant_vmware_fusion:4.0.17:*:*:*:*:vagrant:*:*,HashiCorp Vagrant VMware Fusion 4.0.17 for Vagrant,"['CVE-2017-11741', 'CVE-2017-12579', 'CVE-2017-7642']",2022-03-21T09:55Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:hp_envy_17_j100:-:*:*:*:*:*:*:*,HP HP ENVY 17 J100 -,['CVE-2017-2751'],2022-03-21T13:33Z
+1,cpe:2.3:h:hp:hp_envy_17-j100_leap_motion_se:-:*:*:*:*:*:*:*,HP HP ENVY 17-J100 LEAP MOTION SE -,['CVE-2017-2751'],2022-03-21T13:33Z
+2,cpe:2.3:h:hp:hp_envy_4511_k9h50a:-:*:*:*:*:*:*:*,HP ENVY 4511 K9H50A,['CVE-2020-12695'],2022-03-21T13:33Z
+3,cpe:2.3:h:hp:hp_envy_4512_k9h49a:-:*:*:*:*:*:*:*,HP ENVY 4512 K9H49A,['CVE-2020-12695'],2022-03-21T13:33Z
+4,cpe:2.3:h:hp:hp_envy_4513_k9h51a:-:*:*:*:*:*:*:*,HP ENVY 4513 K9H51A,['CVE-2020-12695'],2022-03-21T13:33Z
+5,cpe:2.3:h:hp:hp_envy_4516_k9h52a:-:*:*:*:*:*:*:*,HP ENVY 4516 K9H52A,['CVE-2020-12695'],2022-03-21T13:33Z
+6,cpe:2.3:h:hp:hp_envy_4520_e6g67a:-:*:*:*:*:*:*:*,HP ENVY 4520 E6G67A,['CVE-2020-12695'],2022-03-21T13:33Z
+7,cpe:2.3:h:hp:hp_envy_4520_e6g67b:-:*:*:*:*:*:*:*,HP ENVY 4520 E6G67B,['CVE-2020-12695'],2022-03-21T13:33Z
+8,cpe:2.3:h:hp:hp_envy_4520_f0v63a:-:*:*:*:*:*:*:*,HP ENVY 4520 F0V63A,['CVE-2020-12695'],2022-03-21T13:33Z
+9,cpe:2.3:h:hp:hp_envy_4520_f0v63b:-:*:*:*:*:*:*:*,HP ENVY 4520 F0V63B,['CVE-2020-12695'],2022-03-21T13:33Z

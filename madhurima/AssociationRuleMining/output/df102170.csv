@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:canonical:apt-xapian-index:0.41ubuntu6:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.41ubuntu6,[''],2022-03-19T15:18Z
+1,cpe:2.3:a:canonical:apt-xapian-index:0.41ubuntu7:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.41ubuntu7,[''],2022-03-19T15:19Z
+2,cpe:2.3:a:canonical:apt-xapian-index:0.43ubuntu1:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.43ubuntu1,[''],2022-03-19T15:19Z
+3,cpe:2.3:a:canonical:apt-xapian-index:0.44ubuntu1:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.44ubuntu1,[''],2022-03-19T15:19Z
+4,cpe:2.3:a:canonical:apt-xapian-index:0.44ubuntu2:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.44ubuntu2,[''],2022-03-19T15:19Z
+5,cpe:2.3:a:canonical:apt-xapian-index:0.44ubuntu3:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.44ubuntu3,[''],2022-03-19T15:19Z
+6,cpe:2.3:a:canonical:apt-xapian-index:0.44ubuntu4:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.44ubuntu4,[''],2022-03-19T15:19Z
+7,cpe:2.3:a:canonical:apt-xapian-index:0.44ubuntu5:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.44ubuntu5,[''],2022-03-19T15:19Z
+8,cpe:2.3:a:canonical:apt-xapian-index:0.44ubuntu5.1:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.44ubuntu5.1,['CVE-2013-1064'],2022-03-19T15:19Z
+9,cpe:2.3:a:canonical:apt-xapian-index:0.44ubuntu6:*:*:*:*:*:*:*,Canonical apt-xapian-index 0.44ubuntu6,[''],2022-03-19T15:19Z

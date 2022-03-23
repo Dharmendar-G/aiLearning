@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:buffalotech:wzr-ampg144nh:-:*:*:*:*:*:*:*,BUFFALO WZR-AMPG144NH,['CVE-2011-1324'],2022-03-19T13:22Z
+1,cpe:2.3:a:buffalotech:wzr-ampg144nh_firmware:-:*:*:*:*:*:*:*,BUFFALO WZR-AMPG144NH Firmware,[''],2022-03-19T13:22Z
+2,cpe:2.3:a:buffalotech:wzr-ampg144nh_firmware:1.47:*:*:*:*:*:*:*,バッファロー WZR-AMPG144NH ファームウェア 1.47,['CVE-2011-1324'],2022-03-19T13:22Z
+3,cpe:2.3:a:buffalotech:wzr-ampg144nh_firmware:1.48:beta:*:*:*:*:*:*,BUFFALO WZR-AMPG144NH Firmware 1.48 beta,['CVE-2011-1324'],2022-03-19T13:22Z
+4,cpe:2.3:a:buffalotech:wzr-ampg144nh_firmware:1.48:beta:*:*:*:*:*:*,BUFFALO WZR-AMPG144NH Firmware 1.48 beta,['CVE-2011-1324'],2022-03-19T13:22Z
+5,cpe:2.3:a:buffalotech:wzr-ampg144nh_firmware:1.49:*:*:*:*:*:*:*,BUFFALO WZR-AMPG144NH Firmware 1.49,[''],2022-03-19T13:22Z
+6,cpe:2.3:h:buffalotech:wzr-ampg300nh:-:*:*:*:*:*:*:*,バッファロー WZR-AMPG300NH,['CVE-2011-1324'],2022-03-19T13:22Z
+7,cpe:2.3:a:buffalotech:wzr-ampg300nh_firmware:-:*:*:*:*:*:*:*,BUFFALO WZR-AMPG300NH Firmware,[''],2022-03-19T13:22Z
+8,cpe:2.3:a:buffalotech:wzr-ampg300nh_firmware:1.48:*:*:*:*:*:*:*,BUFFALO WZR-AMPG300NH Firmware 1.48,['CVE-2011-1324'],2022-03-19T13:22Z
+9,cpe:2.3:a:buffalotech:wzr-ampg300nh_firmware:1.50:beta:*:*:*:*:*:*,バッファロー WZR-AMPG300NH ファームウェア 1.50 beta,[''],2022-03-19T13:22Z

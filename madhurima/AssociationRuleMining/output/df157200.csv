@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:commvault:edge:11.0.0:*:*:*:*:*:*:*,CommVault Edge 11.0.0,['CVE-2017-3195'],2022-03-20T06:58Z
+1,cpe:2.3:a:commvault:edge:11.0.0:service_pack1:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 1,['CVE-2017-3195'],2022-03-20T06:58Z
+2,cpe:2.3:a:commvault:edge:11.0.0:service_pack10:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 10,['CVE-2017-3195'],2022-03-20T06:58Z
+3,cpe:2.3:a:commvault:edge:11.0.0:service_pack11:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 11,['CVE-2017-3195'],2022-03-20T06:58Z
+4,cpe:2.3:a:commvault:edge:11.0.0:service_pack13:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 13,['CVE-2017-3195'],2022-03-20T06:58Z
+5,cpe:2.3:a:commvault:edge:11.0.0:service_pack14:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 14,['CVE-2017-3195'],2022-03-20T06:58Z
+6,cpe:2.3:a:commvault:edge:11.0.0:service_pack15:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 15,['CVE-2017-3195'],2022-03-20T06:58Z
+7,cpe:2.3:a:commvault:edge:11.0.0:service_pack16:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 16,['CVE-2017-3195'],2022-03-20T06:58Z
+8,cpe:2.3:a:commvault:edge:11.0.0:service_pack17:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 17,['CVE-2017-3195'],2022-03-20T06:58Z
+9,cpe:2.3:a:commvault:edge:11.0.0:service_pack2:*:*:*:*:*:*,CommVault Edge 11.0.0 Service Pack 2,['CVE-2017-3195'],2022-03-20T06:58Z

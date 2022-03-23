@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:webex_meetings_online:41.2.3:*:*:*:*:*:*:*,Cisco Webex Meetings Online 41.2.3,[''],2022-03-20T01:14Z
+1,cpe:2.3:a:cisco:webex_meetings_online:41.2.4:*:*:*:*:*:*:*,Cisco Webex Meetings Online 41.2.4,[''],2022-03-20T01:14Z
+2,cpe:2.3:a:cisco:webex_meetings_online:41.2.5:*:*:*:*:*:*:*,Cisco Webex Meetings Online 41.2.5,[''],2022-03-20T01:14Z
+3,cpe:2.3:a:cisco:webex_meetings_online:41.2.6:*:*:*:*:*:*:*,Cisco Webex Meetings Online 41.2.6,[''],2022-03-20T01:14Z
+4,cpe:2.3:a:cisco:webex_meetings_online:41.3.0:*:*:*:*:*:*:*,Cisco Webex Meetings Online 41.3.0,[''],2022-03-20T01:14Z
+5,cpe:2.3:a:cisco:webex_meetings_online:41.3.1:*:*:*:*:*:*:*,Cisco Webex Meetings Online 41.3.1,[''],2022-03-20T01:14Z
+6,cpe:2.3:a:cisco:webex_meetings_online:41.3.3:*:*:*:*:*:*:*,Cisco Webex Meetings Online 41.3.3,[''],2022-03-20T01:14Z
+7,cpe:2.3:a:cisco:webex_meetings_online:41.3.5:*:*:*:*:*:*:*,Cisco Webex Meetings Online 41.3.5,"['CVE-2021-1517', 'CVE-2021-1525']",2022-03-20T01:14Z
+8,cpe:2.3:a:cisco:webex_meetings_online:41.4.0:*:*:*:*:*:*:*,Cisco Webex Meetings Online 41.4.0,[''],2022-03-20T01:14Z
+9,cpe:2.3:a:cisco:webex_meetings_online:41.4.1:*:*:*:*:*:*:*,Cisco Webex Meetings Online 41.4.1,[''],2022-03-20T01:14Z

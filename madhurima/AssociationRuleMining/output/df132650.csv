@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:scientific_atlanta_dpc\/epc3212:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPC/EPC3212,['CVE-2012-3047'],2022-03-19T23:55Z
+1,cpe:2.3:h:cisco:scientific_atlanta_dpc2420:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPC2420,['CVE-2012-3047'],2022-03-19T23:55Z
+2,cpe:2.3:h:cisco:scientific_atlanta_dpc3000\/epc3000:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPC3000/EPC3000,['CVE-2012-3047'],2022-03-19T23:55Z
+3,cpe:2.3:h:cisco:scientific_atlanta_dpc3008\/epc3008:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPC3008/EPC3008,['CVE-2012-3047'],2022-03-19T23:55Z
+4,cpe:2.3:h:cisco:scientific_atlanta_dpc3825:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPC3825,['CVE-2012-3047'],2022-03-19T23:55Z
+5,cpe:2.3:h:cisco:scientific_atlanta_dpc3925:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPC3925,['CVE-2012-3047'],2022-03-19T23:55Z
+6,cpe:2.3:h:cisco:scientific_atlanta_dpq\/epq2160:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPQ/EPQ2160,['CVE-2012-3047'],2022-03-19T23:55Z
+7,cpe:2.3:h:cisco:scientific_atlanta_dpq2202:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPQ2202,['CVE-2012-3047'],2022-03-19T23:55Z
+8,cpe:2.3:h:cisco:scientific_atlanta_dpq2425:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPQ2425,['CVE-2012-3047'],2022-03-19T23:55Z
+9,cpe:2.3:h:cisco:scientific_atlanta_dpq3212:-:*:*:*:*:*:*:*,Cisco Scientific Atlanta DPQ3212,['CVE-2012-3047'],2022-03-19T23:55Z

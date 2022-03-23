@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:coinkite:coldcard_mk2_firmware:2.1.5:*:*:*:*:*:*:*,Coinkite Coldcard MK2 Firmware 2.1.5,[''],2022-03-20T06:25Z
+1,cpe:2.3:o:coinkite:coldcard_mk2_firmware:2.1.6:*:*:*:*:*:*:*,Coinkite Coldcard MK2 Firmware 2.1.6,[''],2022-03-20T06:26Z
+2,cpe:2.3:o:coinkite:coldcard_mk2_firmware:3.0.0:*:*:*:*:*:*:*,Coinkite Coldcard MK2 Firmware 3.0.0,[''],2022-03-20T06:25Z
+3,cpe:2.3:o:coinkite:coldcard_mk2_firmware:3.0.1:*:*:*:*:*:*:*,Coinkite Coldcard MK2 Firmware 3.0.1,[''],2022-03-20T06:26Z
+4,cpe:2.3:o:coinkite:coldcard_mk2_firmware:3.0.2:*:*:*:*:*:*:*,Coinkite Coldcard MK2 Firmware 3.0.2,[''],2022-03-20T06:26Z
+5,cpe:2.3:a:coinlancer:coinlancer:-:*:*:*:*:*:*:*,CoinLancer,['CVE-2018-17111'],2022-03-20T06:26Z
+6,cpe:2.3:a:coinmarketstats:bitcoin_\/_altcoin_payment_gateway_for_woocommerce:1.0.0:*:*:*:*:wordpress:*:*,CoinMarketStats Bitcoin / Altcoin Payment Gateway for WooCommerce 1.0.0 for WordPress,['CVE-2021-24679'],2022-03-20T06:26Z
+7,cpe:2.3:a:coinmarketstats:bitcoin_\/_altcoin_payment_gateway_for_woocommerce:1.0.1:*:*:*:*:wordpress:*:*,CoinMarketStats Bitcoin / Altcoin Payment Gateway for WooCommerce 1.0.1 for WordPress,['CVE-2021-24679'],2022-03-20T06:26Z
+8,cpe:2.3:a:coinmarketstats:bitcoin_\/_altcoin_payment_gateway_for_woocommerce:1.0.2:*:*:*:*:wordpress:*:*,CoinMarketStats Bitcoin / Altcoin Payment Gateway for WooCommerce 1.0.2 for WordPress,['CVE-2021-24679'],2022-03-20T06:26Z
+9,cpe:2.3:a:coinmarketstats:bitcoin_\/_altcoin_payment_gateway_for_woocommerce:1.0.3:*:*:*:*:wordpress:*:*,CoinMarketStats Bitcoin / Altcoin Payment Gateway for WooCommerce 1.0.3 for WordPress,['CVE-2021-24679'],2022-03-20T06:26Z

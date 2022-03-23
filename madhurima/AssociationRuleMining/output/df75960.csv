@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:binarynights:forklift:3.0.2:*:*:*:*:macos:*:*,BinaryNights ForkLift 3.0.2 for macOS,"['CVE-2020-15349', 'CVE-2020-27192']",2022-03-19T07:40Z
+1,cpe:2.3:a:binarynights:forklift:3.0.3:*:*:*:*:macos:*:*,BinaryNights ForkLift 3.0.3 for macOS,"['CVE-2020-15349', 'CVE-2020-27192']",2022-03-19T07:40Z
+2,cpe:2.3:a:binarynights:forklift:3.0.3:*:*:*:*:macos:*:*,BinaryNights ForkLift 3.0.3 for macOS,"['CVE-2020-15349', 'CVE-2020-27192']",2022-03-19T07:40Z
+3,cpe:2.3:a:binarynights:forklift:3.0.4:*:*:*:*:macos:*:*,BinaryNights ForkLift 3.0.4 for macOS,"['CVE-2020-15349', 'CVE-2020-27192']",2022-03-19T07:40Z
+4,cpe:2.3:a:binarynights:forklift:3.0.4:*:*:*:*:macos:*:*,BinaryNights ForkLift 3.0.4 for macOS,"['CVE-2020-15349', 'CVE-2020-27192']",2022-03-19T07:40Z
+5,cpe:2.3:a:binarynights:forklift:3.0.5:*:*:*:*:macos:*:*,BinaryNights ForkLift 3.0.5 for macOS,"['CVE-2020-15349', 'CVE-2020-27192']",2022-03-19T07:40Z
+6,cpe:2.3:a:binarynights:forklift:3.0.5:*:*:*:*:macos:*:*,BinaryNights ForkLift 3.0.5 for macOS,"['CVE-2020-15349', 'CVE-2020-27192']",2022-03-19T07:41Z
+7,cpe:2.3:a:binarynights:forklift:3.0.6:*:*:*:*:macos:*:*,BinaryNights ForkLift 3.0.6 for macOS,"['CVE-2020-15349', 'CVE-2020-27192']",2022-03-19T07:41Z
+8,cpe:2.3:a:binarynights:forklift:3.0.6:*:*:*:*:macos:*:*,BinaryNights ForkLift 3.0.6 for macOS,"['CVE-2020-15349', 'CVE-2020-27192']",2022-03-19T07:40Z
+9,cpe:2.3:a:binarynights:forklift:3.0.7:*:*:*:*:macos:*:*,BinaryNights ForkLift 3.0.7 for macOS,"['CVE-2020-15349', 'CVE-2020-27192']",2022-03-19T07:41Z

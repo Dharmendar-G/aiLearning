@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hashicorp:consul:1.10.8:*:*:*:enterprise:*:*:*,HashiCorp Consul 1.10.8 Enterprise Edition,[''],2022-03-21T09:46Z
+1,cpe:2.3:a:hashicorp:consul:1.10.9:*:*:*:-:*:*:*,HashiCorp Consul 1.10.9,[''],2022-03-21T09:46Z
+2,cpe:2.3:a:hashicorp:consul:1.10.9:*:*:*:enterprise:*:*:*,HashiCorp Consul 1.10.9 Enterprise Edition,[''],2022-03-21T09:46Z
+3,cpe:2.3:a:hashicorp:consul:1.11.0:-:*:*:-:*:*:*,HashiCorp Consul 1.11.0,['CVE-2022-24687'],2022-03-21T09:46Z
+4,cpe:2.3:a:hashicorp:consul:1.11.0:-:*:*:enterprise:*:*:*,HashiCorp Consul 1.11.0 Enterprise Edition,['CVE-2022-24687'],2022-03-21T09:46Z
+5,cpe:2.3:a:hashicorp:consul:1.11.0:alpha:*:*:-:*:*:*,HashiCorp Consul 1.11.0 Alpha,['CVE-2022-24687'],2022-03-21T09:46Z
+6,cpe:2.3:a:hashicorp:consul:1.11.0:alpha:*:*:enterprise:*:*:*,HashiCorp Consul 1.11.0 Alpha Enterprise Edition,['CVE-2022-24687'],2022-03-21T09:46Z
+7,cpe:2.3:a:hashicorp:consul:1.11.0:beta1:*:*:-:*:*:*,HashiCorp Consul 1.11.0 Beta 1,['CVE-2022-24687'],2022-03-21T09:46Z
+8,cpe:2.3:a:hashicorp:consul:1.11.0:beta1:*:*:enterprise:*:*:*,HashiCorp Consul 1.11.0 Beta 1 Enterprise Edition,['CVE-2022-24687'],2022-03-21T09:46Z
+9,cpe:2.3:a:hashicorp:consul:1.11.0:beta2:*:*:-:*:*:*,HashiCorp Consul 1.11.0 Beta 2,['CVE-2022-24687'],2022-03-21T09:46Z

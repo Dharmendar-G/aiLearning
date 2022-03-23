@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:belkin:n300_firmware:1.00.06:*:*:*:*:*:*:*,Belkin N300 Firmware 1.00.06,"['CVE-2013-3089', 'CVE-2013-3091', 'CVE-2013-3092']",2022-03-19T06:54Z
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,cpe:2.3:h:belkin:n750:-:*:*:*:*:*:*:*,Belkin N750,"['CVE-2018-1143', 'CVE-2018-1144', 'CVE-2018-1145', 'CVE-2018-1146']",2022-03-19T06:54Z
+4,cpe:2.3:h:belkin:n750:f9k1103:*:*:*:*:*:*:*,Belkin N750 F9K1103,['CVE-2013-7173'],2022-03-19T06:54Z
+5,cpe:2.3:o:belkin:n750_firmware:1.10.16m:*:*:*:*:*:*:*,Belkin N750 Firmware 1.10.16m,['CVE-2013-7173'],2022-03-19T06:54Z
+6,cpe:2.3:o:belkin:n750_firmware:1.10.22:*:*:*:*:*:*:*,Belkin N750 Firmware 1.10.22,"['CVE-2018-1143', 'CVE-2018-1144', 'CVE-2018-1145', 'CVE-2018-1146']",2022-03-19T06:54Z
+7,cpe:2.3:h:belkin:n900:-:*:*:*:*:*:*:*,Belkin N900 -,"['CVE-2013-3086', 'CVE-2013-3087', 'CVE-2013-3088', 'CVE-2013-4655']",2022-03-19T06:54Z
+8,cpe:2.3:o:belkin:n900_firmware:-:*:*:*:*:*:*:*,Belkin N900 Firmware -,['CVE-2013-4655'],2022-03-19T06:54Z
+9,cpe:2.3:o:belkin:n900_firmware:1.00.23:*:*:*:*:*:*:*,Belkin N900 Firmware 1.00.23,"['CVE-2013-3086', 'CVE-2013-3088']",2022-03-19T06:54Z

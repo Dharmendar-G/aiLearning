@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cososys:endpoint_protector:4.5.0.2:*:*:*:*:*:*:*,Cososys Endpoint Protector 4.5.0.2,[''],2022-03-20T08:08Z
+1,cpe:2.3:a:cososys:endpoint_protector:5.0.0.0:*:*:*:*:*:*:*,Cososys Endpoint Protector 5.0.0.0,[''],2022-03-20T08:08Z
+2,cpe:2.3:a:cososys:endpoint_protector:5.1.0.0:*:*:*:*:*:*:*,Cososys Endpoint Protector 5.1.0.0,[''],2022-03-20T08:08Z
+3,cpe:2.3:a:cososys:endpoint_protector:5.1.0.1:*:*:*:*:*:*:*,Cososys Endpoint Protector 5.1.0.1,[''],2022-03-20T08:08Z
+4,cpe:2.3:a:cososys:endpoint_protector:5.1.0.2:*:*:*:*:*:*:*,Cososys Endpoint Protector 5.1.0.2,['CVE-2019-13285'],2022-03-20T08:08Z
+5,cpe:2.3:a:cososys:endpoint_protector:5.1.0.5:*:*:*:*:*:*:*,Cososys Endpoint Protector 5.1.0.5,[''],2022-03-20T08:08Z
+6,cpe:2.3:a:cososys:endpoint_protector:5.1.0.6:*:*:*:*:*:*:*,Cososys Endpoint Protector 5.1.0.6,[''],2022-03-20T08:08Z
+7,cpe:2.3:a:cososys:endpoint_protector:5.2.0.0:*:*:*:*:*:*:*,Cososys Endpoint Protector 5.2.0.0,[''],2022-03-20T08:08Z
+8,cpe:2.3:a:cososys:endpoint_protector:5.2.0.5:*:*:*:*:*:*:*,Cososys Endpoint Protector 5.2.0.5,[''],2022-03-20T08:08Z
+9,cpe:2.3:a:cososys:endpoint_protector:5.2.0.6:*:*:*:*:*:*:*,Cososys Endpoint Protector 5.2.0.6,[''],2022-03-20T08:08Z

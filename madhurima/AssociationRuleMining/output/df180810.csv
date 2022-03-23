@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:dell:optiplex_5090_tower:-:*:*:*:*:*:*:*,Dell OptiPlex 5090 Tower,"['CVE-2021-21571', 'CVE-2021-21572', 'CVE-2021-21573', 'CVE-2021-21574', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:57Z
+1,cpe:2.3:h:dell:optiplex_5250:-:*:*:*:*:*:*:*,Dell OptiPlex 5250,"['CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:57Z
+2,cpe:2.3:o:dell:optiplex_5250_aio_firmware:-:*:*:*:*:*:*:*,Dell OptiPlex 5250 AIO Firmware,['CVE-2019-3717'],2022-03-20T12:57Z
+3,cpe:2.3:o:dell:optiplex_5250_aio_firmware:1.12.1:*:*:*:*:*:*:*,Dell OptiPlex 5250 AIO Firmware 1.12.1,[''],2022-03-20T12:57Z
+4,cpe:2.3:o:dell:optiplex_5250_firmware:-:*:*:*:*:*:*:*,Dell OptiPlex 5250 Firmware,"['CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:57Z
+5,cpe:2.3:o:dell:optiplex_5250_firmware:1.13.1:*:*:*:*:*:*:*,Dell OptiPlex 5250 Firmware 1.13.1,"['CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:57Z
+6,cpe:2.3:h:dell:optiplex_5260:-:*:*:*:*:*:*:*,Dell OptiPlex 5260,"['CVE-2020-5326', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:57Z
+7,cpe:2.3:o:dell:optiplex_5260_aio_firmware:-:*:*:*:*:*:*:*,Dell OptiPlex 5260 AIO Firmware,"['CVE-2019-3717', 'CVE-2020-5362']",2022-03-20T12:57Z
+8,cpe:2.3:o:dell:optiplex_5260_aio_firmware:1.6.4:*:*:*:*:*:*:*,Dell OptiPlex 5260 AIO Firmware 1.6.4,['CVE-2020-5362'],2022-03-20T12:57Z
+9,cpe:2.3:h:dell:optiplex_5260_all-in-one:-:*:*:*:*:*:*:*,Dell Optiplex 5260 All-in-one,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:57Z

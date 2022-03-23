@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:detect-character-encoding_project:detect-character-encoding:0.4.0:*:*:*:*:node.js:*:*,Detect-character-encoding Project Detect-character-encoding 0.4.0 for Node.js,['CVE-2021-39157'],2022-03-20T13:38Z
+1,cpe:2.3:a:detect-character-encoding_project:detect-character-encoding:0.5.0:*:*:*:*:node.js:*:*,Detect-character-encoding Project Detect-character-encoding 0.5.0 for Node.js,['CVE-2021-39157'],2022-03-20T13:38Z
+2,cpe:2.3:a:detect-character-encoding_project:detect-character-encoding:0.5.1:*:*:*:*:node.js:*:*,Detect-character-encoding Project Detect-character-encoding 0.5.1 for Node.js,['CVE-2021-39157'],2022-03-20T13:38Z
+3,cpe:2.3:a:detect-character-encoding_project:detect-character-encoding:0.6.0:*:*:*:*:node.js:*:*,Detect-character-encoding Project Detect-character-encoding 0.6.0 for Node.js,['CVE-2021-39157'],2022-03-20T13:38Z
+4,cpe:2.3:a:detect-character-encoding_project:detect-character-encoding:0.7.0:*:*:*:*:node.js:*:*,Detect-character-encoding Project Detect-character-encoding 0.7.0 for Node.js,[''],2022-03-20T13:38Z
+5,cpe:2.3:a:determine:contract_lifecycle_management:5.4:*:*:*:*:*:*:*,Determine Contract Lifecycle Management (CLM) 5.4,"['CVE-2019-20153', 'CVE-2019-20154', 'CVE-2019-20155']",2022-03-20T13:38Z
+6,cpe:2.3:a:dethemekit_for_elementor_project:dethemekit_for_elementor:-:*:*:*:*:wordpress:*:*,Dethemekit For Elementor Project Dethemekit For Elementor for WordPress,['CVE-2021-24270'],2022-03-20T13:38Z
+7,cpe:2.3:a:dethemekit_for_elementor_project:dethemekit_for_elementor:1.1.2:*:*:*:*:wordpress:*:*,Dethemekit For Elementor Project Dethemekit For Elementor 1.1.2 for WordPress,['CVE-2021-24270'],2022-03-20T13:38Z
+8,cpe:2.3:a:dethemekit_for_elementor_project:dethemekit_for_elementor:1.1.2.1:*:*:*:*:wordpress:*:*,Dethemekit For Elementor Project Dethemekit For Elementor 1.1.2.1 for WordPress,['CVE-2021-24270'],2022-03-20T13:38Z
+9,cpe:2.3:a:dethemekit_for_elementor_project:dethemekit_for_elementor:1.1.2.2:*:*:*:*:wordpress:*:*,Dethemekit For Elementor Project Dethemekit For Elementor 1.1.2.2 for WordPress,['CVE-2021-24270'],2022-03-20T13:38Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hummingbird:exceed:2007:*:*:*:*:*:*:*,Hummingbird Exceed 2007,['CVE-2008-4729'],2022-03-21T19:16Z
+1,cpe:2.3:a:hummingbird:exceed:2008:*:*:*:*:*:*:*,Hummingbird Exceed 2008,[''],2022-03-21T19:16Z
+2,cpe:2.3:a:hummingbird:exceed_on_demand_client:-:*:*:*:*:*:*:*,Hummingbird Exceed onDemand Client,[''],2022-03-21T19:16Z
+3,cpe:2.3:a:hummingbird:exceed_on_demand_client:4.5:*:*:*:*:*:*:*,Hummingbird Exceed onDemand Client 4.5,[''],2022-03-21T19:16Z
+4,cpe:2.3:a:hummingbird:exceed_powersuite:-:*:*:*:*:*:*:*,Hummingbird Exceed PowerSuite,['CVE-2008-4729'],2022-03-21T19:16Z
+5,cpe:2.3:a:hummingbird:exceed_powersuite:2008:*:*:*:*:*:*:*,Hummingbird Exceed Powersuite 2008,['CVE-2008-4729'],2022-03-21T19:16Z
+6,cpe:2.3:a:hummingbird:hostexplorer:7.0:*:*:*:*:*:*:*,Hummingbird Hostexplorer 7.0,[''],2022-03-21T19:16Z
+7,cpe:2.3:a:hummingbird:hostexplorer:7.0.0.0:*:*:*:*:*:*:*,Hummingbird Hostexplorer 7.0.0.0,[''],2022-03-21T19:16Z
+8,cpe:2.3:a:hummingbird:hostexplorer:9.0:*:*:*:*:*:*:*,Hummingbird Hostexplorer 9.0,[''],2022-03-21T19:16Z
+9,cpe:2.3:a:hummingbird:hostexplorer:9.0.0.0:*:*:*:*:*:*:*,Hummingbird Hostexplorer 9.0.0.0,[''],2022-03-21T19:16Z

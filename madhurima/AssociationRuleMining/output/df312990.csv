@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitmyserver:hms_testimonials:1.4:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 1.4 for WordPress,"['CVE-2013-4240', 'CVE-2013-4241']",2022-03-21T11:26Z
+1,cpe:2.3:a:hitmyserver:hms_testimonials:1.4.1:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 1.4.1 for WordPress,"['CVE-2013-4240', 'CVE-2013-4241']",2022-03-21T11:26Z
+2,cpe:2.3:a:hitmyserver:hms_testimonials:1.5:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 1.5 for WordPress,"['CVE-2013-4240', 'CVE-2013-4241']",2022-03-21T11:26Z
+3,cpe:2.3:a:hitmyserver:hms_testimonials:1.6:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 1.6 for WordPress,"['CVE-2013-4240', 'CVE-2013-4241']",2022-03-21T11:26Z
+4,cpe:2.3:a:hitmyserver:hms_testimonials:1.6.1:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 1.6.1 for WordPress,"['CVE-2013-4240', 'CVE-2013-4241']",2022-03-21T11:26Z
+5,cpe:2.3:a:hitmyserver:hms_testimonials:1.6.2:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 1.6.2 for WordPress,"['CVE-2013-4240', 'CVE-2013-4241']",2022-03-21T11:26Z
+6,cpe:2.3:a:hitmyserver:hms_testimonials:1.7:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 1.7 for WordPress,"['CVE-2013-4240', 'CVE-2013-4241']",2022-03-21T11:26Z
+7,cpe:2.3:a:hitmyserver:hms_testimonials:1.7.1:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 1.7.1 for WordPress,"['CVE-2013-4240', 'CVE-2013-4241']",2022-03-21T11:26Z
+8,cpe:2.3:a:hitmyserver:hms_testimonials:2.0:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 2.0 for WordPress,"['CVE-2013-4240', 'CVE-2013-4241']",2022-03-21T11:26Z
+9,cpe:2.3:a:hitmyserver:hms_testimonials:2.0.1:*:*:*:*:wordpress:*:*,HitMyServer HMS Testimonials 2.0.1 for WordPress,"['CVE-2013-4240', 'CVE-2013-4241']",2022-03-21T11:26Z

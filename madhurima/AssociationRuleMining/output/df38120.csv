@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:uimaducc:2.2.0:*:*:*:*:*:*:*,Apache Software Foundation UIMA DUCC 2.2.0,['CVE-2017-15691'],2022-03-18T20:48Z
+1,cpe:2.3:a:apache:uimaducc:2.2.1:*:*:*:*:*:*:*,Apache Software Foundation UIMA DUCC 2.2.1,['CVE-2017-15691'],2022-03-18T20:48Z
+2,cpe:2.3:a:apache:uimaducc:2.2.2:*:*:*:*:*:*:*,Apache Software Foundation UIMA DUCC 2.2.2,[''],2022-03-18T20:48Z
+3,cpe:2.3:a:apache:uimafit:2.0.0:*:*:*:*:*:*:*,Apache Software Foundation uimaFIT 2.0.0,['CVE-2017-15691'],2022-03-18T20:48Z
+4,cpe:2.3:a:apache:uimafit:2.1.0:*:*:*:*:*:*:*,Apache Software Foundation uimaFIT 2.1.0,['CVE-2017-15691'],2022-03-18T20:48Z
+5,cpe:2.3:a:apache:uimafit:2.2.0:*:*:*:*:*:*:*,Apache Software Foundation uimaFIT 2.2.0,['CVE-2017-15691'],2022-03-18T20:48Z
+6,cpe:2.3:a:apache:uimafit:2.3.0:*:*:*:*:*:*:*,Apache Software Foundation uimaFIT 2.3.0,['CVE-2017-15691'],2022-03-18T20:48Z
+7,cpe:2.3:a:apache:uimafit:2.3.1:*:*:*:*:*:*:*,Apache Software Foundation uimaFIT 2.3.1,['CVE-2017-15691'],2022-03-18T20:48Z
+8,cpe:2.3:a:apache:uimafit:2.4.0:*:*:*:*:*:*:*,Apache Software Foundation uimaFIT 2.4.0,[''],2022-03-18T20:48Z
+9,cpe:2.3:a:apache:uimafit:3.0.0:*:*:*:*:*:*:*,Apache Software Foundation uimaFIT 3.0.0,[''],2022-03-18T20:48Z

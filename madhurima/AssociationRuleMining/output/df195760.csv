@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dragonfly_project:dragonfly:1.0.3:*:*:*:*:ruby:*:*,Dragonfly Project Dragonfly 1.0.3 for Ruby,['CVE-2021-33564'],2022-03-20T17:47Z
+1,cpe:2.3:a:dragonfly_project:dragonfly:1.0.4:*:*:*:*:ruby:*:*,Dragonfly Project Dragonfly 1.0.4 for Ruby,['CVE-2021-33564'],2022-03-20T17:47Z
+2,cpe:2.3:a:dragonfly_project:dragonfly:1.0.5:*:*:*:*:ruby:*:*,Dragonfly Project Dragonfly 1.0.5 for Ruby,['CVE-2021-33564'],2022-03-20T17:47Z
+3,cpe:2.3:a:dragonfly_project:dragonfly:1.0.6:*:*:*:*:ruby:*:*,Dragonfly Project Dragonfly 1.0.6 for Ruby,['CVE-2021-33564'],2022-03-20T17:47Z
+4,cpe:2.3:a:dragonfly_project:dragonfly:1.0.7:*:*:*:*:ruby:*:*,Dragonfly Project Dragonfly 1.0.7 for Ruby,['CVE-2021-33564'],2022-03-20T17:47Z
+5,cpe:2.3:a:dragonfly_project:dragonfly:1.0.8:*:*:*:*:ruby:*:*,Dragonfly Project Dragonfly 1.0.8 for Ruby,['CVE-2021-33564'],2022-03-20T17:47Z
+6,cpe:2.3:a:dragonfly_project:dragonfly:1.0.9:*:*:*:*:ruby:*:*,Dragonfly Project Dragonfly 1.0.9 for Ruby,['CVE-2021-33564'],2022-03-20T17:47Z
+7,cpe:2.3:a:dragonfly_project:dragonfly:1.0.10:*:*:*:*:ruby:*:*,Dragonfly Project Dragonfly 1.0.10 for Ruby,['CVE-2021-33564'],2022-03-20T17:47Z
+8,cpe:2.3:a:dragonfly_project:dragonfly:1.0.11:*:*:*:*:ruby:*:*,Dragonfly Project Dragonfly 1.0.11 for Ruby,['CVE-2021-33564'],2022-03-20T17:47Z
+9,cpe:2.3:a:dragonfly_project:dragonfly:1.0.12:*:*:*:*:ruby:*:*,Dragonfly Project Dragonfly 1.0.12 for Ruby,['CVE-2021-33564'],2022-03-20T17:47Z

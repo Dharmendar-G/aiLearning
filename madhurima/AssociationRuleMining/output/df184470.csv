@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:digimute:ogma_cms:0.4:beta:*:*:*:*:*:*,Digimute OGMA CMS 0.4 Beta,"['CVE-2018-16379', 'CVE-2018-16380']",2022-03-20T14:08Z
+1,cpe:2.3:a:digimute:ogma_cms:0.5:*:*:*:*:*:*:*,Digimute OGMA CMS 0.5,['CVE-2019-16661'],2022-03-20T14:08Z
+2,cpe:2.3:a:digineo:thumbshooter:0.1.5:*:*:*:*:*:*:*,digineo Thumbshooter 0.1.5,['CVE-2013-1898'],2022-03-20T14:08Z
+3,cpe:2.3:h:digisol:dg-br4000ng:-:*:*:*:*:*:*:*,Digisol DG-BR4000NG,"['CVE-2018-12705', 'CVE-2018-12706']",2022-03-20T14:08Z
+4,cpe:2.3:o:digisol:dg-br4000ng_firmware:-:*:*:*:*:*:*:*,Digisol DG-BR4000NG Firmware,"['CVE-2018-12705', 'CVE-2018-12706']",2022-03-20T14:08Z
+5,cpe:2.3:h:digisol:dg-hr1400:-:*:*:*:*:*:*:*,Digisol DG-HR1400,['CVE-2017-6127'],2022-03-20T14:08Z
+6,cpe:2.3:o:digisol:dg-hr1400_firmware:1.00.02:*:*:*:*:*:*:*,Digisol DG-HR1400 Firmware 1.00.02,['CVE-2017-6127'],2022-03-20T14:08Z
+7,cpe:2.3:o:digisol:dg-hr1400_router_firmware:1.00.02:*:*:*:*:*:*:*,DIGSOL DG-HR1400 Router Firmware 1.00.02,['CVE-2017-6896'],2022-03-20T14:08Z
+8,cpe:2.3:h:digisol:dg-hr3300:-:*:*:*:*:*:*:*,Digisol DG-HR3300,[''],2022-03-20T14:08Z
+9,cpe:2.3:o:digisol:dg-hr3300_firmware:-:*:*:*:*:*:*:*,Digisol DG-HR3300 Firmware,[''],2022-03-20T14:08Z

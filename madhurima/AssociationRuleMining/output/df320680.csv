@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:designjet_t2530_l2y26a:-:*:*:*:*:*:*:*,HP DesignJet T2530 L2Y26A,['CVE-2021-3965'],2022-03-21T13:11Z
+1,cpe:2.3:o:hp:designjet_t2530_l2y26a_firmware:mry_07_07_04.1:*:*:*:*:*:*:*,HP DesignJet T2530 L2Y26A Firmware MRY_07_07_04.1,['CVE-2021-3965'],2022-03-21T13:11Z
+2,cpe:2.3:h:hp:designjet_t2530_l2y26b:-:*:*:*:*:*:*:*,HP DesignJet T2530 L2Y26B,['CVE-2021-3965'],2022-03-21T13:11Z
+3,cpe:2.3:o:hp:designjet_t2530_l2y26b_firmware:mry_07_07_04.1:*:*:*:*:*:*:*,HP DesignJet T2530 L2Y26B Firmware MRY_07_07_04.1,['CVE-2021-3965'],2022-03-21T13:11Z
+4,cpe:2.3:h:hp:designjet_t3500_b9e24a:-:*:*:*:*:*:*:*,HP DesignJet T3500 B9E24A,['CVE-2021-3965'],2022-03-21T13:11Z
+5,cpe:2.3:o:hp:designjet_t3500_b9e24a_firmware:aeneas_04_09_06.1:*:*:*:*:*:*:*,HP DesignJet T3500 B9E24A Firmware AENEAS_04_09_06.1,['CVE-2021-3965'],2022-03-21T13:11Z
+6,cpe:2.3:h:hp:designjet_t3500_b9e24b:-:*:*:*:*:*:*:*,HP DesignJet T3500 B9E24B,['CVE-2021-3965'],2022-03-21T13:11Z
+7,cpe:2.3:o:hp:designjet_t3500_b9e24b_firmware:aeneas_04_09_06.1:*:*:*:*:*:*:*,HP DesignJet T3500 B9E24B Firmware AENEAS_04_09_06.1,['CVE-2021-3965'],2022-03-21T13:11Z
+8,cpe:2.3:h:hp:designjet_t3500_b9e25a:-:*:*:*:*:*:*:*,HP DesignJet T3500 B9E25A,['CVE-2021-3965'],2022-03-21T13:11Z
+9,cpe:2.3:o:hp:designjet_t3500_b9e25a_firmware:aeneas_04_09_06.1:*:*:*:*:*:*:*,HP DesignJet T3500 B9E25A Firmware AENEAS_04_09_06.1,['CVE-2021-3965'],2022-03-21T13:11Z

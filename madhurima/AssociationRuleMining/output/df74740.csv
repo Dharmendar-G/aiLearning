@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bestwebsoft:subscriber:1.4.1:*:*:*:*:wordpress:*:*,BestWebSoft Subscriber 1.4.1 for WordPress,[''],2022-03-19T07:23Z
+1,cpe:2.3:a:bestwebsoft:subscriber:1.4.2:*:*:*:*:wordpress:*:*,BestWebSoft Subscriber 1.4.2 for WordPress,[''],2022-03-19T07:23Z
+2,cpe:2.3:a:bestwebsoft:subscriber:1.4.3:*:*:*:*:wordpress:*:*,BestWebSoft Subscriber 1.4.3 for WordPress,[''],2022-03-19T07:23Z
+3,cpe:2.3:a:bestwebsoft:subscriber:1.4.4:*:*:*:*:wordpress:*:*,BestWebSoft Subscriber 1.4.4 for WordPress,[''],2022-03-19T07:23Z
+4,cpe:2.3:a:bestwebsoft:testimonials:0.1:*:*:*:*:wordpress:*:*,BestWebSoft Testimonials 0.1 for WordPress,"['CVE-2017-18558', 'CVE-2017-2171']",2022-03-19T07:23Z
+5,cpe:2.3:a:bestwebsoft:testimonials:0.1.1:*:*:*:*:wordpress:*:*,BestWebSoft Testimonials 0.1.1 for WordPress,"['CVE-2017-18558', 'CVE-2017-2171']",2022-03-19T07:23Z
+6,cpe:2.3:a:bestwebsoft:testimonials:0.1.2:*:*:*:*:wordpress:*:*,BestWebSoft Testimonials 0.1.2 for WordPress,"['CVE-2017-18558', 'CVE-2017-2171']",2022-03-19T07:23Z
+7,cpe:2.3:a:bestwebsoft:testimonials:0.1.3:*:*:*:*:wordpress:*:*,BestWebSoft Testimonials 0.1.3 for WordPress,"['CVE-2017-18558', 'CVE-2017-2171']",2022-03-19T07:23Z
+8,cpe:2.3:a:bestwebsoft:testimonials:0.1.4:*:*:*:*:wordpress:*:*,BestWebSoft Testimonials 0.1.4 for WordPress,"['CVE-2017-18558', 'CVE-2017-2171']",2022-03-19T07:23Z
+9,cpe:2.3:a:bestwebsoft:testimonials:0.1.5:*:*:*:*:wordpress:*:*,BestWebSoft Testimonials 0.1.5 for WordPress,"['CVE-2017-18558', 'CVE-2017-2171']",2022-03-19T07:23Z

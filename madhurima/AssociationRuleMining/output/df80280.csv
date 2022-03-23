@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blitzjs:superjson:1.7.3:*:*:*:*:node.js:*:*,Blitzjs Superjson 1.7.3 for Node.js,['CVE-2022-23631'],2022-03-19T08:41Z
+1,cpe:2.3:a:blitzjs:superjson:1.7.4:*:*:*:*:node.js:*:*,Blitzjs Superjson 1.7.4 for Node.js,['CVE-2022-23631'],2022-03-19T08:41Z
+2,cpe:2.3:a:blitzjs:superjson:1.7.5:*:*:*:*:node.js:*:*,Blitzjs Superjson 1.7.5 for Node.js,['CVE-2022-23631'],2022-03-19T08:41Z
+3,cpe:2.3:a:blitzjs:superjson:1.8.0:*:*:*:*:node.js:*:*,Blitzjs Superjson 1.8.0 for Node.js,['CVE-2022-23631'],2022-03-19T08:41Z
+4,cpe:2.3:a:blitzjs:superjson:1.8.1:*:*:*:*:node.js:*:*,Blitzjs Superjson 1.8.1 for Node.js,[''],2022-03-19T08:41Z
+5,cpe:2.3:a:blixhq:bluemail:1.9.5.36:*:*:*:*:android:*:*,Blixhq BlueMail 1.9.5.36 for Android,['CVE-2019-12367'],2022-03-19T08:41Z
+6,cpe:2.3:a:blizzard:battle.net:1.27.1.12428:*:*:*:*:*:*:*,Blizzard Battle.Net 1.27.1.12428,['CVE-2020-27383'],2022-03-19T08:41Z
+7,cpe:2.3:a:blizzard:overwatch:1.15.0.2:*:*:*:*:*:*:*,Blizzard Overwatch 1.15.0.2,['CVE-2017-14748'],2022-03-19T08:41Z
+8,cpe:2.3:a:blktrace_project:blktrace:1.2.0:*:*:*:*:android:*:*,Blktrace Project Blktrace 1.2.0 for Android,['CVE-2018-10689'],2022-03-19T08:41Z
+9,cpe:2.3:a:blktrace_project:blktrace:1.2.0:*:*:*:*:linux:*:*,Blktrace Project Blktrace 1.2.0 for Linux,['CVE-2018-10689'],2022-03-19T08:41Z

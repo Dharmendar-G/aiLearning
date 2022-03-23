@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bigware:bigware_shop:2.0:*:*:*:*:*:*:*,Bigware Bigware Shop 2.0,"['CVE-2008-0498', 'CVE-2012-5317']",2022-03-19T07:40Z
+1,cpe:2.3:a:bigware:bigware_shop:2.1.4:*:*:*:*:*:*:*,Bigware Bigware Shop 2.1.4,['CVE-2012-5317'],2022-03-19T07:40Z
+2,cpe:2.3:a:bigware:bigware_shop:2.1.5:*:*:*:*:*:*:*,Bigware Bigware Shop 2.1.5,[''],2022-03-19T07:40Z
+3,cpe:2.3:a:bijiadao:waimai_super_cms:20150505:*:*:*:*:*:*:*,waimai Super Cms 20150505,"['CVE-2018-15570', 'CVE-2018-16157', 'CVE-2018-16315', 'CVE-2018-18082', 'CVE-2018-18261', 'CVE-2018-18622', 'CVE-2019-3577', 'CVE-2019-7567', 'CVE-2019-7585']",2022-03-19T07:40Z
+4,cpe:2.3:a:bikersromagna:bikers_romagna:1:*:*:*:*:android:*:*,bikersromagna Bikers Romagna (aka com.bikers.romagna) for android 1.0,['CVE-2014-7063'],2022-03-19T07:40Z
+5,cpe:2.3:a:bikersunderground:bikers_underground:4.5.10:*:*:*:*:android:*:*,BikersUnderground Bikers Underground (aka hr.ap.n66871172) for android 4.5.10,['CVE-2014-6918'],2022-03-19T07:40Z
+6,cpe:2.3:a:bil_simser:sharepointforums:1.2.0.0:*:*:*:*:*:*:*,SharePointForums 1.2.0.0,[''],2022-03-19T07:40Z
+7,cpe:2.3:a:bilanc:bilanc:-:*:*:*:*:*:*:*,Bilanc,"['CVE-2020-11717', 'CVE-2020-11718', 'CVE-2020-11719', 'CVE-2020-11720', 'CVE-2020-8995']",2022-03-19T07:40Z
+8,cpe:2.3:a:bilanc:bilanc:014_31.01.2020:*:*:*:*:*:*:*,Bilanc 014 31.01.2020,"['CVE-2020-11717', 'CVE-2020-11718', 'CVE-2020-11719', 'CVE-2020-11720', 'CVE-2020-8995']",2022-03-19T07:40Z
+9,cpe:2.3:a:bilboplanet:bilboplanet:2.0:*:*:*:*:*:*:*,Bilboplanet 2.0,"['CVE-2014-9916', 'CVE-2014-9917', 'CVE-2014-9918', 'CVE-2014-9919']",2022-03-19T07:40Z

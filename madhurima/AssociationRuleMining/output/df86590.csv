@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bower:bower:1.8.5:*:*:*:*:node.js:*:*,Bower 1.8.5 for Node.js,['CVE-2019-5484'],2022-03-19T10:19Z
+1,cpe:2.3:a:bower:bower:1.8.6:*:*:*:*:node.js:*:*,Bower 1.8.6 for Node.js,['CVE-2019-5484'],2022-03-19T10:19Z
+2,cpe:2.3:a:bower:bower:1.8.7:*:*:*:*:node.js:*:*,Bower 1.8.7 for Node.js,['CVE-2019-5484'],2022-03-19T10:19Z
+3,cpe:2.3:a:bower:bower:1.8.8:*:*:*:*:node.js:*:*,Bower 1.8.8 for Node.js,[''],2022-03-19T10:19Z
+4,cpe:2.3:a:box2d-native_project:box2d-native:0.0.1:*:*:*:*:node.js:*:*,box2d-native Project box2d-native 0.0.1 for Node.js,['CVE-2016-10617'],2022-03-19T10:19Z
+5,cpe:2.3:a:box2d-native_project:box2d-native:0.0.2:*:*:*:*:node.js:*:*,box2d-native Project box2d-native 0.0.2 for Node.js,['CVE-2016-10617'],2022-03-19T10:19Z
+6,cpe:2.3:a:box2d-native_project:box2d-native:0.0.3:*:*:*:*:node.js:*:*,box2d-native Project box2d-native 0.0.3 for Node.js,['CVE-2016-10617'],2022-03-19T10:19Z
+7,cpe:2.3:a:box2d-native_project:box2d-native:0.0.4:*:*:*:*:node.js:*:*,box2d-native Project box2d-native 0.0.4 for Node.js,['CVE-2016-10617'],2022-03-19T10:19Z
+8,cpe:2.3:a:box2d-native_project:box2d-native:0.0.5:*:*:*:*:node.js:*:*,box2d-native Project box2d-native 0.0.5 for Node.js,['CVE-2016-10617'],2022-03-19T10:19Z
+9,cpe:2.3:a:box2d-native_project:box2d-native:0.0.6:*:*:*:*:node.js:*:*,box2d-native Project box2d-native 0.0.6 for Node.js,['CVE-2016-10617'],2022-03-19T10:20Z

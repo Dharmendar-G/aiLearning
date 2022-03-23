@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:webex_recording_format_player:t29:*:*:*:*:*:*:*,Cisco WebEx Recording Format (WRF) Player T29,"['CVE-2014-2132', 'CVE-2014-2133', 'CVE-2014-2134', 'CVE-2014-2135', 'CVE-2014-2136']",2022-03-20T01:16Z
+1,cpe:2.3:h:cisco:webex_room_55:-:*:*:*:*:*:*:*,Cisco Webex Room 55,"['CVE-2019-15962', 'CVE-2020-3143']",2022-03-20T01:16Z
+2,cpe:2.3:h:cisco:webex_room_55_dual:-:*:*:*:*:*:*:*,Cisco Webex Room 55 Dual,['CVE-2019-15962'],2022-03-20T01:16Z
+3,cpe:2.3:o:cisco:webex_room_55_firmware:-:*:*:*:*:*:*:*,Cisco WebEx Room 55 Firmware,['CVE-2020-3143'],2022-03-20T01:16Z
+4,cpe:2.3:h:cisco:webex_room_70:-:*:*:*:*:*:*:*,Cisco WebEx Room 70,['CVE-2020-3143'],2022-03-20T01:16Z
+5,cpe:2.3:h:cisco:webex_room_70_dual:-:*:*:*:*:*:*:*,Cisco Webex Room 70 Dual,['CVE-2019-15962'],2022-03-20T01:16Z
+6,cpe:2.3:h:cisco:webex_room_70_dual_g2:-:*:*:*:*:*:*:*,Cisco Webex Room 70 Dual G2,['CVE-2019-15962'],2022-03-20T01:16Z
+7,cpe:2.3:o:cisco:webex_room_70_firmware:-:*:*:*:*:*:*:*,Cisco WebEx Room 70 Firmware,['CVE-2020-3143'],2022-03-20T01:16Z
+8,cpe:2.3:h:cisco:webex_room_70_single:-:*:*:*:*:*:*:*,Cisco Webex Room 70 Single,['CVE-2019-15962'],2022-03-20T01:16Z
+9,cpe:2.3:h:cisco:webex_room_70_single_g2:-:*:*:*:*:*:*:*,Cisco Webex Room 70 Single G2,['CVE-2019-15962'],2022-03-20T01:16Z

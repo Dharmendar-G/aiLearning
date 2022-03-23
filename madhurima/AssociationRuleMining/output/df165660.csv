@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:craftercms:studio:3.0.25:*:*:*:*:*:*:*,Crafter CMS Studio 3.0.25,"['CVE-2020-25802', 'CVE-2020-25803']",2022-03-20T08:52Z
+1,cpe:2.3:a:craftercms:studio:3.0.26:*:*:*:*:*:*:*,Crafter CMS Studio 3.0.26,"['CVE-2020-25802', 'CVE-2020-25803']",2022-03-20T08:52Z
+2,cpe:2.3:a:craftercms:studio:3.0.27:*:*:*:*:*:*:*,Crafter CMS Studio 3.0.27,[''],2022-03-20T08:52Z
+3,cpe:2.3:a:craftercms:studio:3.1.0:*:*:*:*:*:*:*,Crafter CMS Studio 3.1.0,"['CVE-2020-25802', 'CVE-2020-25803']",2022-03-20T08:52Z
+4,cpe:2.3:a:craftercms:studio:3.1.1:*:*:*:*:*:*:*,Crafter CMS Studio 3.1.1,"['CVE-2020-25802', 'CVE-2020-25803']",2022-03-20T08:52Z
+5,cpe:2.3:a:craftercms:studio:3.1.2:*:*:*:*:*:*:*,Crafter CMS Studio 3.1.2,"['CVE-2020-25802', 'CVE-2020-25803']",2022-03-20T08:52Z
+6,cpe:2.3:a:craftercms:studio:3.1.3:*:*:*:*:*:*:*,Crafter CMS Studio 3.1.3,"['CVE-2020-25802', 'CVE-2020-25803']",2022-03-20T08:52Z
+7,cpe:2.3:a:craftercms:studio:3.1.4:*:*:*:*:*:*:*,Crafter CMS Studio 3.1.4,"['CVE-2020-25802', 'CVE-2020-25803']",2022-03-20T08:52Z
+8,cpe:2.3:a:craftercms:studio:3.1.5:*:*:*:*:*:*:*,Crafter CMS Studio 3.1.5,"['CVE-2020-25802', 'CVE-2020-25803']",2022-03-20T08:52Z
+9,cpe:2.3:a:craftercms:studio:3.1.6:*:*:*:*:*:*:*,Crafter CMS Studio 3.1.6,"['CVE-2020-25802', 'CVE-2020-25803']",2022-03-20T08:52Z

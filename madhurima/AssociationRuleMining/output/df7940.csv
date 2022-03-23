@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:addressable_project:addressable:2.3.2:*:*:*:*:ruby:*:*,Addressable Project Addressable 2.3.2 for Ruby,['CVE-2021-32740'],2022-03-18T11:48Z
+1,cpe:2.3:a:addressable_project:addressable:2.3.3:*:*:*:*:ruby:*:*,Addressable Project Addressable 2.3.3 for Ruby,['CVE-2021-32740'],2022-03-18T11:48Z
+2,cpe:2.3:a:addressable_project:addressable:2.3.4:*:*:*:*:ruby:*:*,Addressable Project Addressable 2.3.4 for Ruby,['CVE-2021-32740'],2022-03-18T11:48Z
+3,cpe:2.3:a:addressable_project:addressable:2.3.5:*:*:*:*:ruby:*:*,Addressable Project Addressable 2.3.5 for Ruby,['CVE-2021-32740'],2022-03-18T11:48Z
+4,cpe:2.3:a:addressable_project:addressable:2.3.6:*:*:*:*:ruby:*:*,Addressable Project Addressable 2.3.6 for Ruby,['CVE-2021-32740'],2022-03-18T11:48Z
+5,cpe:2.3:a:addressable_project:addressable:2.3.7:*:*:*:*:ruby:*:*,Addressable Project Addressable 2.3.7 for Ruby,['CVE-2021-32740'],2022-03-18T11:48Z
+6,cpe:2.3:a:addressable_project:addressable:2.3.8:*:*:*:*:ruby:*:*,Addressable Project Addressable 2.3.8 for Ruby,['CVE-2021-32740'],2022-03-18T11:48Z
+7,cpe:2.3:a:addressable_project:addressable:2.4.0:*:*:*:*:ruby:*:*,Addressable Project Addressable 2.4.0 for Ruby,['CVE-2021-32740'],2022-03-18T11:48Z
+8,cpe:2.3:a:addressable_project:addressable:2.5.0:*:*:*:*:ruby:*:*,Addressable Project Addressable 2.5.0 for Ruby,['CVE-2021-32740'],2022-03-18T11:48Z
+9,cpe:2.3:a:addressable_project:addressable:2.5.1:*:*:*:*:ruby:*:*,Addressable Project Addressable 2.5.1 for Ruby,['CVE-2021-32740'],2022-03-18T11:48Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:wide_area_application_engine_nm-wae-502:-:*:*:*:*:*:*:*,Cisco Wide Area Application Engine NM-WAE-502,['CVE-2007-3923'],2022-03-20T01:19Z
+1,cpe:2.3:a:cisco:wide_area_application_services:-:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS),"['CVE-2014-3285', 'CVE-2017-12256', 'CVE-2021-1438']",2022-03-20T01:19Z
+2,cpe:2.3:a:cisco:wide_area_application_services:4.0.1:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 4.0.1,"['CVE-2013-3443', 'CVE-2013-3444', 'CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+3,cpe:2.3:a:cisco:wide_area_application_services:4.0.3:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 4.0.3,"['CVE-2013-3443', 'CVE-2013-3444', 'CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+4,cpe:2.3:a:cisco:wide_area_application_services:4.0.5:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 4.0.5,"['CVE-2013-3443', 'CVE-2013-3444', 'CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+5,cpe:2.3:a:cisco:wide_area_application_services:4.0.7:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 4.0.7,"['CVE-2007-3923', 'CVE-2013-3443', 'CVE-2013-3444', 'CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+6,cpe:2.3:a:cisco:wide_area_application_services:4.0.9:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 4.0.9,"['CVE-2007-3923', 'CVE-2013-3443', 'CVE-2013-3444', 'CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+7,cpe:2.3:a:cisco:wide_area_application_services:4.0.11:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 4.0.11,"['CVE-2013-3443', 'CVE-2013-3444', 'CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+8,cpe:2.3:a:cisco:wide_area_application_services:4.0.13:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 4.0.13,"['CVE-2013-3443', 'CVE-2013-3444', 'CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z
+9,cpe:2.3:a:cisco:wide_area_application_services:4.0.17:*:*:*:*:*:*:*,Cisco Wide Area Application Services (WAAS) 4.0.17,"['CVE-2013-3443', 'CVE-2013-3444', 'CVE-2014-3285', 'CVE-2021-1438']",2022-03-20T01:19Z

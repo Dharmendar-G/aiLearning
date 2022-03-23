@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:juddi:2.0.1:*:*:*:*:*:*:*,Apache Software Foundation jUDDI 2.0.1,['CVE-2021-37578'],2022-03-18T19:06Z
+1,cpe:2.3:a:apache:juddi:3.0.0:-:*:*:*:*:*:*,Apache Software Foundation jUDDI 3.0.0 -,"['CVE-2009-4267', 'CVE-2021-37578']",2022-03-18T19:06Z
+2,cpe:2.3:a:apache:juddi:3.0.0:alpha:*:*:*:*:*:*,Apache Software Foundation jUDDI 3.0.0 Alpha,"['CVE-2009-4267', 'CVE-2021-37578']",2022-03-18T19:06Z
+3,cpe:2.3:a:apache:juddi:3.0.0:beta:*:*:*:*:*:*,Apache Software Foundation jUDDI 3.0.0 Beta,"['CVE-2009-4267', 'CVE-2021-37578']",2022-03-18T19:06Z
+4,cpe:2.3:a:apache:juddi:3.0.2:*:*:*:*:*:*:*,Apache Software Foundation jUDDI 3.0.2,['CVE-2021-37578'],2022-03-18T19:06Z
+5,cpe:2.3:a:apache:juddi:3.0.4:*:*:*:*:*:*:*,Apache Software Foundation jUDDI 3.0.4,['CVE-2021-37578'],2022-03-18T19:06Z
+6,cpe:2.3:a:apache:juddi:3.1.2:*:*:*:*:*:*:*,Apache Software Foundation jUDDI 3.1.2,"['CVE-2015-5241', 'CVE-2021-37578']",2022-03-18T19:06Z
+7,cpe:2.3:a:apache:juddi:3.1.3:*:*:*:*:*:*:*,Apache Software Foundation jUDDI 3.1.3,"['CVE-2015-5241', 'CVE-2021-37578']",2022-03-18T19:07Z
+8,cpe:2.3:a:apache:juddi:3.1.4:*:*:*:*:*:*:*,Apache Software Foundation jUDDI 3.1.4,"['CVE-2015-5241', 'CVE-2021-37578']",2022-03-18T19:07Z
+9,cpe:2.3:a:apache:juddi:3.1.5:*:*:*:*:*:*:*,Apache Software Foundation jUDDI 3.1.5,"['CVE-2015-5241', 'CVE-2021-37578']",2022-03-18T19:07Z

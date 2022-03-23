@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aioseo:all_in_one_seo:4.0.14:*:*:*:*:wordpress:*:*,AIOSEO All in One SEO 4.0.14 for WordPress,"['CVE-2021-24307', 'CVE-2021-25036', 'CVE-2021-25037']",2022-03-18T13:49Z
+1,cpe:2.3:a:aioseo:all_in_one_seo:4.0.15:*:*:*:*:wordpress:*:*,AIOSEO All in One SEO 4.0.15 for WordPress,"['CVE-2021-24307', 'CVE-2021-25036', 'CVE-2021-25037']",2022-03-18T13:49Z
+2,cpe:2.3:a:aioseo:all_in_one_seo:4.0.16:*:*:*:*:wordpress:*:*,AIOSEO All in One SEO 4.0.16 for WordPress,"['CVE-2021-24307', 'CVE-2021-25036', 'CVE-2021-25037']",2022-03-18T13:49Z
+3,cpe:2.3:a:aioseo:all_in_one_seo:4.0.17:*:*:*:*:wordpress:*:*,AIOSEO All in One SEO 4.0.17 for WordPress,"['CVE-2021-24307', 'CVE-2021-25036', 'CVE-2021-25037']",2022-03-18T13:49Z
+4,cpe:2.3:a:aioseo:all_in_one_seo:4.1.0:*:*:*:*:wordpress:*:*,AIOSEO All in One SEO 4.1.0 for WordPress,"['CVE-2021-24307', 'CVE-2021-25036', 'CVE-2021-25037']",2022-03-18T13:49Z
+5,cpe:2.3:a:aioseo:all_in_one_seo:4.1.0.1:*:*:*:*:wordpress:*:*,AIOSEO All in One SEO 4.1.0.1 for WordPress,"['CVE-2021-24307', 'CVE-2021-25036', 'CVE-2021-25037']",2022-03-18T13:49Z
+6,cpe:2.3:a:aioseo:all_in_one_seo:4.1.0.2:*:*:*:*:wordpress:*:*,AIOSEO All in One SEO 4.1.0.2 for WordPress,"['CVE-2021-25036', 'CVE-2021-25037']",2022-03-18T13:49Z
+7,cpe:2.3:a:aioseo:all_in_one_seo:4.1.1:*:*:*:*:wordpress:*:*,AIOSEO All in One SEO 4.1.1 for WordPress,"['CVE-2021-25036', 'CVE-2021-25037']",2022-03-18T13:49Z
+8,cpe:2.3:a:aioseo:all_in_one_seo:4.1.1.1:*:*:*:*:wordpress:*:*,AIOSEO All in One SEO 4.1.1.1 for WordPress,"['CVE-2021-25036', 'CVE-2021-25037']",2022-03-18T13:49Z
+9,cpe:2.3:a:aioxmpp_project:aioxmpp:0.2:*:*:*:*:*:*:*,aioxmpp Project aioxmpp 0.2,['CVE-2019-1000007'],2022-03-18T13:49Z

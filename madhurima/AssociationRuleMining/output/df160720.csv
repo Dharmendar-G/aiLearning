@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:contract_project:contract:1.0:*:*:*:*:*:*:*,Contract Project Contract 1.0,[''],2022-03-20T07:47Z
+1,cpe:2.3:a:contractorscripts:mybuildersite:1.0:*:*:*:*:*:*:*,Contractor Scripts My Builder Site 1.0,['CVE-2017-15968'],2022-03-20T07:47Z
+2,cpe:2.3:a:contrastsecurity:service_broker:-:*:*:*:*:pivotal_cloud_foundry:*:*,Contrastsecurity Service Broker - for Pivotal Cloud Foundry,['CVE-2019-3800'],2022-03-20T07:47Z
+3,cpe:2.3:a:contrastsecurity:service_broker:0.1.13:*:*:*:*:pivotal_cloud_foundry:*:*,Contrastsecurity Service Broker 0.1.13 for Pivotal Cloud Foundry,['CVE-2019-3800'],2022-03-20T07:47Z
+4,cpe:2.3:a:contrastsecurity:service_broker:1.0.0:*:*:*:*:pivotal_cloud_foundry:*:*,Contrastsecurity Service Broker 1.0.0 for Pivotal Cloud Foundry,['CVE-2019-3800'],2022-03-20T07:47Z
+5,cpe:2.3:a:contrastsecurity:service_broker:1.0.2:*:*:*:*:pivotal_cloud_foundry:*:*,Contrastsecurity Service Broker 1.0.2 for Pivotal Cloud Foundry,['CVE-2019-3800'],2022-03-20T07:47Z
+6,cpe:2.3:a:contrastsecurity:service_broker:1.0.4:*:*:*:*:pivotal_cloud_foundry:*:*,Contrastsecurity Service Broker 1.0.4 for Pivotal Cloud Foundry,['CVE-2019-3800'],2022-03-20T07:47Z
+7,cpe:2.3:a:contrastsecurity:service_broker:1.1.0:*:*:*:*:pivotal_cloud_foundry:*:*,Contrastsecurity Service Broker 1.1.0 for Pivotal Cloud Foundry,['CVE-2019-3800'],2022-03-20T07:47Z
+8,cpe:2.3:a:contrastsecurity:service_broker:2.0.0:*:*:*:*:pivotal_cloud_foundry:*:*,Contrastsecurity Service Broker 2.0.0 for Pivotal Cloud Foundry,['CVE-2019-3800'],2022-03-20T07:47Z
+9,cpe:2.3:a:contrastsecurity:service_broker:2.1.0:*:*:*:*:pivotal_cloud_foundry:*:*,Contrastsecurity Service Broker 2.1.0 for Pivotal Cloud Foundry,['CVE-2019-3800'],2022-03-20T07:47Z

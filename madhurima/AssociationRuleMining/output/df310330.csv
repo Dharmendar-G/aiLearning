@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:heroku-addonpool_project:heroku-addonpool:0.1.8:*:*:*:*:node.js:*:*,heroku-addonpool Project heroku-addonpool 0.1.8 for Node.js,['CVE-2020-7634'],2022-03-21T10:47Z
+1,cpe:2.3:a:heroku-addonpool_project:heroku-addonpool:0.1.9:*:*:*:*:node.js:*:*,heroku-addonpool Project heroku-addonpool 0.1.9 for Node.js,['CVE-2020-7634'],2022-03-21T10:47Z
+2,cpe:2.3:a:heroku-addonpool_project:heroku-addonpool:0.1.10:*:*:*:*:node.js:*:*,heroku-addonpool Project heroku-addonpool 0.1.10 for Node.js,['CVE-2020-7634'],2022-03-21T10:47Z
+3,cpe:2.3:a:heroku-addonpool_project:heroku-addonpool:0.1.11:*:*:*:*:node.js:*:*,heroku-addonpool Project heroku-addonpool 0.1.11 for Node.js,['CVE-2020-7634'],2022-03-21T10:47Z
+4,cpe:2.3:a:heroku-addonpool_project:heroku-addonpool:0.1.12:*:*:*:*:node.js:*:*,heroku-addonpool Project heroku-addonpool 0.1.12 for Node.js,['CVE-2020-7634'],2022-03-21T10:47Z
+5,cpe:2.3:a:heroku-addonpool_project:heroku-addonpool:0.1.13:*:*:*:*:node.js:*:*,heroku-addonpool Project heroku-addonpool 0.1.13 for Node.js,['CVE-2020-7634'],2022-03-21T10:47Z
+6,cpe:2.3:a:heroku-addonpool_project:heroku-addonpool:0.1.14:*:*:*:*:node.js:*:*,heroku-addonpool Project heroku-addonpool 0.1.14 for Node.js,['CVE-2020-7634'],2022-03-21T10:47Z
+7,cpe:2.3:a:heroku-addonpool_project:heroku-addonpool:0.1.15:*:*:*:*:node.js:*:*,heroku-addonpool Project heroku-addonpool 0.1.15 for Node.js,['CVE-2020-7634'],2022-03-21T10:47Z
+8,cpe:2.3:a:heroku-addonpool_project:heroku-addonpool:0.1.16:*:*:*:*:node.js:*:*,heroku-addonpool Project heroku-addonpool 0.1.16 for Node.js,[''],2022-03-21T10:47Z
+9,cpe:2.3:a:hero-maps-pro_project:hero-maps-pro:2.1.0:*:*:*:*:wordpress:*:*,Hero-maps-pro Project hero-maps-pro 2.1.0 for WordPress,['CVE-2016-1000137'],2022-03-21T10:47Z

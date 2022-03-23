@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:nem-l22:-:*:*:*:*:*:*:*,Huawei NEM-L22,['CVE-2016-8775'],2022-03-21T18:10Z
+1,cpe:2.3:o:huawei:nem-l22_firmware:-:*:*:*:*:*:*:*,Huawei NEM-L22 Firmware,['CVE-2016-8775'],2022-03-21T18:10Z
+2,cpe:2.3:h:huawei:nem-l51:-:*:*:*:*:*:*:*,Huawei NEM-L51,['CVE-2016-8775'],2022-03-21T18:10Z
+3,cpe:2.3:o:huawei:nem-l51_firmware:-:*:*:*:*:*:*:*,Huawei NEM-L51 Firmware,['CVE-2016-8775'],2022-03-21T18:10Z
+4,cpe:2.3:h:huawei:neo-al00d:-:*:*:*:*:*:*:*,Huawei Neo-AL00D,"['CVE-2019-5235', 'CVE-2019-9506', 'CVE-2020-9239']",2022-03-21T18:10Z
+5,cpe:2.3:o:huawei:neo-al00d_firmware:-:*:*:*:*:*:*:*,Huawei NEO-AL00D FIRMWARE,"['CVE-2019-9506', 'CVE-2020-9239']",2022-03-21T18:10Z
+6,cpe:2.3:o:huawei:neo-al00d_firmware:8.1.0.172\(c786\):*:*:*:*:*:*:*,Huawei NEO-AL00D Firmware 8.1.0.172 (C786),[''],2022-03-21T18:10Z
+7,cpe:2.3:o:huawei:neo-al00d_firmware:8.1.0.175\(c786\):*:*:*:*:*:*:*,Huawei NEO-AL00D Firmware 8.1.0.175(C786),['CVE-2019-5235'],2022-03-21T18:10Z
+8,cpe:2.3:a:huawei:neteco:v600r008c00:*:*:*:*:*:*:*,Huawei NetEco V600R008C00,['CVE-2017-8133'],2022-03-21T18:11Z
+9,cpe:2.3:a:huawei:neteco:v600r008c10:*:*:*:*:*:*:*,Huawei NetEco V600R008C10,['CVE-2017-8133'],2022-03-21T18:11Z

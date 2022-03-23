@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:debian:ifupdown:0.8.32:*:*:*:*:*:*:*,Debian ifupdown 0.8.32,[''],2022-03-20T11:45Z
+1,cpe:2.3:a:debian:ifupdown:0.8.33:*:*:*:*:*:*:*,Debian ifupdown 0.8.33,[''],2022-03-20T11:45Z
+2,cpe:2.3:a:debian:ifupdown:0.8.34:*:*:*:*:*:*:*,Debian ifupdown 0.8.34,[''],2022-03-20T11:45Z
+3,cpe:2.3:a:debian:ifupdown:0.8.35:*:*:*:*:*:*:*,Debian ifupdown 0.8.35,[''],2022-03-20T11:45Z
+4,cpe:2.3:a:debian:internet_message:-:*:*:*:*:*:*:*,Debian Internet Message,[''],2022-03-20T11:45Z
+5,cpe:2.3:a:debian:internet_message:133-0:*:*:*:*:*:*:*,Debian Internet Message 133.0,['CVE-2002-1395'],2022-03-20T11:45Z
+6,cpe:2.3:a:debian:internet_message:141-0:*:*:*:*:*:*:*,Debian Internet Message 141.0,['CVE-2002-1395'],2022-03-20T11:45Z
+7,cpe:2.3:a:debian:kde4libs:-:*:*:*:*:*:*:*,Debian kde4libs,['CVE-2014-5033'],2022-03-20T11:45Z
+8,cpe:2.3:a:debian:kernel-patch-vserver:-:*:*:*:*:*:*:*,Debian kernel-patch-vserver,['CVE-2005-4347'],2022-03-20T11:45Z
+9,cpe:2.3:a:debian:kernel-patch-vserver:1.9.5:*:*:*:*:*:*:*,Debian kernel-patch-vserver 1.9.5,['CVE-2005-4347'],2022-03-20T11:45Z

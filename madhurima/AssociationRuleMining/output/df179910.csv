@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dell:inspiron_5459_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 5459 Firmware,"['CVE-2019-3717', 'CVE-2020-5362']",2022-03-20T12:40Z
+1,cpe:2.3:o:dell:inspiron_5459_firmware:1.7.0:*:*:*:*:*:*:*,Dell Inspiron 5459 Firmware 1.7.0,['CVE-2020-5362'],2022-03-20T12:40Z
+2,cpe:2.3:o:dell:inspiron_5468_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 5468 Firmware,['CVE-2019-3717'],2022-03-20T12:40Z
+3,cpe:2.3:o:dell:inspiron_5468_firmware:1.9.1:*:*:*:*:*:*:*,Dell Inspiron 5468 Firmware 1.9.1,[''],2022-03-20T12:40Z
+4,cpe:2.3:h:dell:inspiron_5477:-:*:*:*:*:*:*:*,Dell Inspiron 5477 ,"['CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325']",2022-03-20T12:40Z
+5,cpe:2.3:h:dell:inspiron_5477_aio:-:*:*:*:*:*:*:*,Dell Inspiron 5477 AIO,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:40Z
+6,cpe:2.3:o:dell:inspiron_5477_aio_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 5477 AIO Firmware,"['CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:40Z
+7,cpe:2.3:h:dell:inspiron_5480:-:*:*:*:*:*:*:*,Dell Inspiron 5480,"['CVE-2019-3717', 'CVE-2020-5324', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:40Z
+8,cpe:2.3:o:dell:inspiron_5480_firmware:-:*:*:*:*:*:*:*,Dell Inspiron 5480 Firmware,"['CVE-2019-3717', 'CVE-2020-5324', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:40Z
+9,cpe:2.3:o:dell:inspiron_5480_firmware:2.2.0:*:*:*:*:*:*:*,Dell Inspiron 5480 Firmware 2.2.0,"['CVE-2020-5324', 'CVE-2020-5326', 'CVE-2020-5362', 'CVE-2021-36323', 'CVE-2021-36324', 'CVE-2021-36325', 'CVE-2021-36342', 'CVE-2021-36343']",2022-03-20T12:40Z

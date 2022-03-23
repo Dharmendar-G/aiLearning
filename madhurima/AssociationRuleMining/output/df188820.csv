@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:djangoproject:django:3.0.9:*:*:*:*:*:*:*,Django Project Django 3.0.9,"['CVE-2020-24583', 'CVE-2020-24584', 'CVE-2021-23336', 'CVE-2021-28658', 'CVE-2021-3281', 'CVE-2021-33203', 'CVE-2021-33571']",2022-03-20T15:31Z
+1,cpe:2.3:a:djangoproject:django:3.0.10:*:*:*:*:*:*:*,Django Project Django 3.0.10,"['CVE-2021-23336', 'CVE-2021-28658', 'CVE-2021-3281', 'CVE-2021-33203', 'CVE-2021-33571']",2022-03-20T15:31Z
+2,cpe:2.3:a:djangoproject:django:3.0.11:*:*:*:*:*:*:*,Django Project Django 3.0.11,"['CVE-2021-23336', 'CVE-2021-28658', 'CVE-2021-3281', 'CVE-2021-33203', 'CVE-2021-33571']",2022-03-20T15:31Z
+3,cpe:2.3:a:djangoproject:django:3.0.12:*:*:*:*:*:*:*,Django Project Django 3.0.12,"['CVE-2021-23336', 'CVE-2021-28658', 'CVE-2021-33203', 'CVE-2021-33571']",2022-03-20T15:32Z
+4,cpe:2.3:a:djangoproject:django:3.0.13:*:*:*:*:*:*:*,Django Project Django 3.0.13,"['CVE-2021-28658', 'CVE-2021-33203', 'CVE-2021-33571']",2022-03-20T15:31Z
+5,cpe:2.3:a:djangoproject:django:3.0.14:*:*:*:*:*:*:*,Django Project Django 3.0.14,"['CVE-2021-33203', 'CVE-2021-33571']",2022-03-20T15:32Z
+6,cpe:2.3:a:djangoproject:django:3.1:*:*:*:*:*:*:*,Django Project Django 3.1,"['CVE-2020-24583', 'CVE-2020-24584', 'CVE-2021-23336', 'CVE-2021-28658', 'CVE-2021-31542', 'CVE-2021-32052', 'CVE-2021-3281', 'CVE-2021-33203', 'CVE-2021-33571', 'CVE-2021-35042', 'CVE-2021-44420']",2022-03-20T15:32Z
+7,cpe:2.3:a:djangoproject:django:3.1.1:*:*:*:*:*:*:*,Django Project Django 3.1.1,"['CVE-2021-23336', 'CVE-2021-28658', 'CVE-2021-31542', 'CVE-2021-32052', 'CVE-2021-3281', 'CVE-2021-33203', 'CVE-2021-33571', 'CVE-2021-35042', 'CVE-2021-44420']",2022-03-20T15:32Z
+8,cpe:2.3:a:djangoproject:django:3.1.2:*:*:*:*:*:*:*,Django Project Django 3.1.2,"['CVE-2021-23336', 'CVE-2021-28658', 'CVE-2021-31542', 'CVE-2021-32052', 'CVE-2021-3281', 'CVE-2021-33203', 'CVE-2021-33571', 'CVE-2021-35042', 'CVE-2021-44420']",2022-03-20T15:32Z
+9,cpe:2.3:a:djangoproject:django:3.1.3:*:*:*:*:*:*:*,Django Project Django 3.1.3,"['CVE-2021-23336', 'CVE-2021-28658', 'CVE-2021-31542', 'CVE-2021-32052', 'CVE-2021-3281', 'CVE-2021-33203', 'CVE-2021-33571', 'CVE-2021-35042', 'CVE-2021-44420']",2022-03-20T15:32Z

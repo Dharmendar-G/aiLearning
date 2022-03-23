@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:http_server:6.0.2.7:*:*:*:*:*:*:*,IBM HTTP Server 6.0.2.7,[''],2022-03-21T20:43Z
+1,cpe:2.3:a:ibm:http_server:6.0.2.9:*:*:*:*:*:*:*,IBM HTTP Server 6.0.2.9,[''],2022-03-21T20:43Z
+2,cpe:2.3:a:ibm:http_server:6.0.2.11:*:*:*:*:*:*:*,IBM HTTP Server 6.0.2.11,[''],2022-03-21T20:43Z
+3,cpe:2.3:a:ibm:http_server:6.0.2.13:*:*:*:*:*:*:*,IBM HTTP Server 6.0.2.13,[''],2022-03-21T20:43Z
+4,cpe:2.3:a:ibm:http_server:6.0.2.15:*:*:*:*:*:*:*,IBM HTTP Server 6.0.2.15,[''],2022-03-21T20:43Z
+5,cpe:2.3:a:ibm:http_server:6.0.2.19:*:*:*:*:*:*:*,IBM HTTP Server 6.0.2.19,[''],2022-03-21T20:43Z
+6,cpe:2.3:a:ibm:http_server:6.1:*:*:*:*:*:*:*,IBM IBM HTTP Server 6.1,['CVE-2006-3918'],2022-03-21T20:43Z
+7,cpe:2.3:a:ibm:http_server:6.1.0.0:*:*:*:*:*:*:*,IBM HTTP Server 6.1.0.0,['CVE-2015-4947'],2022-03-21T20:43Z
+8,cpe:2.3:a:ibm:http_server:6.1.0.3:*:*:*:*:*:*:*,IBM HTTP Server 6.1.0.3,['CVE-2015-4947'],2022-03-21T20:43Z
+9,cpe:2.3:a:ibm:http_server:6.1.0.5:*:*:*:*:*:*:*,IBM HTTP Server 6.1.0.5,['CVE-2015-4947'],2022-03-21T20:43Z

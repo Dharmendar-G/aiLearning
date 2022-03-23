@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:djvulibre_project:djvulibre:3.5.28:*:*:*:*:*:*:*,Djvulibre Project DjVuLibre 3.5.28,"['CVE-2021-32490', 'CVE-2021-32491', 'CVE-2021-32492', 'CVE-2021-32493', 'CVE-2021-3500']",2022-03-20T15:36Z
+1,cpe:2.3:a:dkcms:dkcms:9.4:*:*:*:*:*:*:*,DKCMS 9.4,['CVE-2018-18832'],2022-03-20T15:36Z
+2,cpe:2.3:a:dkd:direct_mail:1.0.8:beta:*:*:*:typo3:*:*,dkd Internet Service GmbH Direct Mail 1.0.8 Beta for Typo3,"['CVE-2013-7400', 'CVE-2019-16698', 'CVE-2020-12697', 'CVE-2020-12698', 'CVE-2020-12699', 'CVE-2020-12700']",2022-03-20T15:36Z
+3,cpe:2.3:a:dkd:direct_mail:1.1.0:beta:*:*:*:typo3:*:*,dkd Internet Service GmbH Direct Mail 1.1.0 Beta for Typo3,"['CVE-2013-7400', 'CVE-2019-16698', 'CVE-2020-12697', 'CVE-2020-12698', 'CVE-2020-12699', 'CVE-2020-12700']",2022-03-20T15:36Z
+4,cpe:2.3:a:dkd:direct_mail:2.0.0:*:*:*:*:typo3:*:*,dkd Internet Service GmbH Direct Mail 2.0.0 for Typo3,"['CVE-2013-7400', 'CVE-2019-16698', 'CVE-2020-12697', 'CVE-2020-12698', 'CVE-2020-12699', 'CVE-2020-12700']",2022-03-20T15:36Z
+5,cpe:2.3:a:dkd:direct_mail:2.0.1:*:*:*:*:typo3:*:*,dkd Internet Service GmbH Direct Mail 2.0.1 for Typo3,"['CVE-2013-7400', 'CVE-2019-16698', 'CVE-2020-12697', 'CVE-2020-12698', 'CVE-2020-12699', 'CVE-2020-12700']",2022-03-20T15:36Z
+6,cpe:2.3:a:dkd:direct_mail:2.1.0:*:*:*:*:typo3:*:*,dkd Internet Service GmbH Direct Mail 2.1.0 for Typo3,"['CVE-2013-7400', 'CVE-2019-16698', 'CVE-2020-12697', 'CVE-2020-12698', 'CVE-2020-12699', 'CVE-2020-12700']",2022-03-20T15:36Z
+7,cpe:2.3:a:dkd:direct_mail:2.1.1:*:*:*:*:typo3:*:*,dkd Internet Service GmbH Direct Mail 2.1.1 for Typo3,"['CVE-2013-7400', 'CVE-2019-16698', 'CVE-2020-12697', 'CVE-2020-12698', 'CVE-2020-12699', 'CVE-2020-12700']",2022-03-20T15:36Z
+8,cpe:2.3:a:dkd:direct_mail:2.1.2:*:*:*:*:typo3:*:*,dkd Internet Service GmbH Direct Mail 2.1.2 for Typo3,"['CVE-2013-7400', 'CVE-2019-16698', 'CVE-2020-12697', 'CVE-2020-12698', 'CVE-2020-12699', 'CVE-2020-12700']",2022-03-20T15:36Z
+9,cpe:2.3:a:dkd:direct_mail:2.1.4:*:*:*:*:typo3:*:*,dkd Internet Service GmbH Direct Mail 2.1.4 for Typo3,"['CVE-2013-7400', 'CVE-2019-16698', 'CVE-2020-12697', 'CVE-2020-12698', 'CVE-2020-12699', 'CVE-2020-12700']",2022-03-20T15:36Z

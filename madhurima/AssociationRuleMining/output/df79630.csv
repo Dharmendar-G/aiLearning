@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bitvec_project:bitvec:0.19.1:*:*:*:*:rust:*:*,Bitvec Project Bitvec 0.19.1 for Rust,[''],2022-03-19T08:32Z
+1,cpe:2.3:a:bitvec_project:bitvec:0.19.2:*:*:*:*:rust:*:*,Bitvec Project Bitvec 0.19.2 for Rust,[''],2022-03-19T08:32Z
+2,cpe:2.3:a:bitvec_project:bitvec:0.19.3:*:*:*:*:rust:*:*,Bitvec Project Bitvec 0.19.3 for Rust,[''],2022-03-19T08:32Z
+3,cpe:2.3:a:bitvec_project:bitvec:0.19.4:*:*:*:*:rust:*:*,Bitvec Project Bitvec 0.19.4 for Rust,[''],2022-03-19T08:32Z
+4,cpe:2.3:a:bitvec_project:bitvec:0.20.0:*:*:*:*:rust:*:*,Bitvec Project Bitvec 0.20.0 for Rust,[''],2022-03-19T08:32Z
+5,cpe:2.3:a:bitvec_project:bitvec:0.20.1:*:*:*:*:rust:*:*,Bitvec Project Bitvec 0.20.1 for Rust,[''],2022-03-19T08:32Z
+6,cpe:2.3:a:bitwarden:server:1.0.0:*:*:*:*:*:*:*,Bitwarden Server 1.0.0,['CVE-2019-19766'],2022-03-19T08:32Z
+7,cpe:2.3:a:bitwarden:server:1.0.1:*:*:*:*:*:*:*,Bitwarden Server 1.0.1,['CVE-2019-19766'],2022-03-19T08:32Z
+8,cpe:2.3:a:bitwarden:server:1.0.2:*:*:*:*:*:*:*,Bitwarden Server 1.0.2,['CVE-2019-19766'],2022-03-19T08:32Z
+9,cpe:2.3:a:bitwarden:server:1.0.3:*:*:*:*:*:*:*,Bitwarden Server 1.0.3,['CVE-2019-19766'],2022-03-19T08:33Z

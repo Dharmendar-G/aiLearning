@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:scanjet_7650:-:*:*:*:*:*:*:*,HP Scanjet 7650 (initial release),[''],2022-03-21T16:00Z
+1,cpe:2.3:h:hp:scanjet_8200:-:*:*:*:*:*:*:*,HP Scanjet 8200 (initial release),[''],2022-03-21T16:00Z
+2,cpe:2.3:a:hp:scanjet_8200_firmware:1.0:*:*:*:*:*:*:*,HP Scanjet 8200 firmware 1.0,[''],2022-03-21T16:00Z
+3,cpe:2.3:a:hp:scanjet_8200_firmware:1.06:*:*:*:*:*:*:*,HP Scanjet 8200 firmware 1.06,[''],2022-03-21T16:00Z
+4,cpe:2.3:h:hp:scanjet_8200c:-:*:*:*:*:*:*:*,HP Scanjet 8200c (initial release),[''],2022-03-21T16:00Z
+5,cpe:2.3:a:hp:scanjet_8200c_firmware:1.0:*:*:*:*:*:*:*,HP Scanjet 8200c firmware 1.0,[''],2022-03-21T16:00Z
+6,cpe:2.3:a:hp:scanjet_8200c_firmware:1.06:*:*:*:*:*:*:*,HP Scanjet 8200c firmware 1.06,[''],2022-03-21T16:00Z
+7,cpe:2.3:h:hp:scanjet_8250:-:*:*:*:*:*:*:*,hp scanjet 8250 (initial release),[''],2022-03-21T16:00Z
+8,cpe:2.3:h:hp:scanjet_enterprise_8500_document_capture_workstation:-:*:*:*:*:*:*:*,Hp Scanjet Enterprise 8500 Document Capture Workstation -,['CVE-2018-5923'],2022-03-21T16:00Z
+9,cpe:2.3:o:hp:scanjet_enterprise_8500_document_capture_workstation_firmware:-:*:*:*:*:*:*:*,Hp Scanjet Enterprise 8500 Document Capture Workstation Firmware -,['CVE-2018-5923'],2022-03-21T16:00Z

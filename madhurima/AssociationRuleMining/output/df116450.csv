@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:c5000rsm:-:*:*:*:*:*:*:*,Cisco C5000RSM,[''],2022-03-19T18:48Z
+1,cpe:2.3:h:cisco:c6800-16p10g-xl:-:*:*:*:*:*:*:*,Cisco C6800-16p10g-xl -,['CVE-2019-1649'],2022-03-19T18:48Z
+2,cpe:2.3:h:cisco:c6800-32p10g-xl:-:*:*:*:*:*:*:*,Cisco C6800-32p10g-xl -,['CVE-2019-1649'],2022-03-19T18:48Z
+3,cpe:2.3:h:cisco:c6800-8p10g-xl:-:*:*:*:*:*:*:*,Cisco C6800-8p10g-xl -,['CVE-2019-1649'],2022-03-19T18:48Z
+4,cpe:2.3:h:cisco:c6800-8p40g-xl:-:*:*:*:*:*:*:*,Cisco C6800-8p40g-xl -,['CVE-2019-1649'],2022-03-19T18:48Z
+5,cpe:2.3:h:cisco:c6800-sup6t-xl:-:*:*:*:*:*:*:*,Cisco C6800-sup6t-xl -,['CVE-2019-1649'],2022-03-19T18:48Z
+6,cpe:2.3:h:cisco:c6816-x-le:-:*:*:*:*:*:*:*,Cisco C6816-x-le -,['CVE-2019-1649'],2022-03-19T18:48Z
+7,cpe:2.3:h:cisco:c6824-x-le-40g:-:*:*:*:*:*:*:*,Cisco C6824-x-le-40g -,['CVE-2019-1649'],2022-03-19T18:48Z
+8,cpe:2.3:h:cisco:c6832-x-le:-:*:*:*:*:*:*:*,Cisco C6832-x-le -,['CVE-2019-1649'],2022-03-19T18:48Z
+9,cpe:2.3:h:cisco:c6840-x-le-40g:-:*:*:*:*:*:*:*,Cisco C6840-x-le-40g -,['CVE-2019-1649'],2022-03-19T18:48Z

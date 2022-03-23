@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:osca-550a_firmware:1.0.1.21\(sp3\):*:*:*:*:*:*:*,Huawei OSCA-550A Firmware 1.0.1.21(SP3),"['CVE-2020-1789', 'CVE-2020-1855', 'CVE-2020-1879']",2022-03-21T18:18Z
+1,cpe:2.3:o:huawei:osca-550a_firmware:1.0.1.23\(sp2\):*:*:*:*:*:*:*,Huawei OSCA-550A Firmware 1.0.1.23(SP2),['CVE-2020-1802'],2022-03-21T18:18Z
+2,cpe:2.3:h:huawei:osca-550ax:-:*:*:*:*:*:*:*,Huawei OSCA-550AX,"['CVE-2020-1789', 'CVE-2020-1802', 'CVE-2020-1842', 'CVE-2020-1843', 'CVE-2020-1855', 'CVE-2020-1879']",2022-03-21T18:18Z
+3,cpe:2.3:o:huawei:osca-550ax_firmware:1.0.0.71\(sp2\):*:*:*:*:*:*:*,Huawei OSCA-550AX Firmware 1.0.0.71(SP2),"['CVE-2020-1842', 'CVE-2020-1843']",2022-03-21T18:18Z
+4,cpe:2.3:o:huawei:osca-550ax_firmware:1.0.1.21\(sp3\):*:*:*:*:*:*:*,Huawei OSCA-550AX Firmware 1.0.1.21(SP3),"['CVE-2020-1789', 'CVE-2020-1855', 'CVE-2020-1879']",2022-03-21T18:18Z
+5,cpe:2.3:o:huawei:osca-550ax_firmware:1.0.1.23\(sp2\):*:*:*:*:*:*:*,Huawei OSCA-550AX Firmware 1.0.1.23(SP2),['CVE-2020-1802'],2022-03-21T18:18Z
+6,cpe:2.3:h:huawei:osca-550x:-:*:*:*:*:*:*:*,Huawei OSCA-550X,"['CVE-2020-1789', 'CVE-2020-1802', 'CVE-2020-1842', 'CVE-2020-1843', 'CVE-2020-1855', 'CVE-2020-1879']",2022-03-21T18:18Z
+7,cpe:2.3:o:huawei:osca-550x_firmware:1.0.0.71\(sp2\):*:*:*:*:*:*:*,Huawei OSCA-550X Firmware 1.0.0.71(SP2),"['CVE-2020-1842', 'CVE-2020-1843']",2022-03-21T18:18Z
+8,cpe:2.3:o:huawei:osca-550x_firmware:1.0.1.21\(sp3\):*:*:*:*:*:*:*,Huawei OSCA-550X Firmware 1.0.1.21(SP3),"['CVE-2020-1789', 'CVE-2020-1855', 'CVE-2020-1879']",2022-03-21T18:18Z
+9,cpe:2.3:o:huawei:osca-550x_firmware:1.0.1.23\(sp2\):*:*:*:*:*:*:*,Huawei OSCA-550X Firmware 1.0.1.23(SP2),['CVE-2020-1802'],2022-03-21T18:18Z

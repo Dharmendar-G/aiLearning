@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:universal_plugin_manager:2.17.8:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 2.17.8,"['CVE-2018-20233', 'CVE-2018-5229', 'CVE-2019-14999']",2022-03-19T02:17Z
+1,cpe:2.3:a:atlassian:universal_plugin_manager:2.17.10:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 2.17.10,"['CVE-2018-20233', 'CVE-2018-5229', 'CVE-2019-14999']",2022-03-19T02:17Z
+2,cpe:2.3:a:atlassian:universal_plugin_manager:2.17.11:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 2.17.11,"['CVE-2018-20233', 'CVE-2018-5229', 'CVE-2019-14999']",2022-03-19T02:17Z
+3,cpe:2.3:a:atlassian:universal_plugin_manager:2.17.13:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 2.17.13,"['CVE-2018-20233', 'CVE-2018-5229', 'CVE-2019-14999']",2022-03-19T02:17Z
+4,cpe:2.3:a:atlassian:universal_plugin_manager:2.17.14:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 2.17.14,"['CVE-2018-20233', 'CVE-2018-5229', 'CVE-2019-14999']",2022-03-19T02:17Z
+5,cpe:2.3:a:atlassian:universal_plugin_manager:2.17.15:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 2.17.15,"['CVE-2018-20233', 'CVE-2018-5229', 'CVE-2019-14999']",2022-03-19T02:17Z
+6,cpe:2.3:a:atlassian:universal_plugin_manager:2.17.17:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 2.17.17,"['CVE-2018-20233', 'CVE-2018-5229', 'CVE-2019-14999']",2022-03-19T02:17Z
+7,cpe:2.3:a:atlassian:universal_plugin_manager:2.18:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 2.18,"['CVE-2018-20233', 'CVE-2018-5229', 'CVE-2019-14999']",2022-03-19T02:17Z
+8,cpe:2.3:a:atlassian:universal_plugin_manager:2.18.1:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 2.18.1,"['CVE-2018-20233', 'CVE-2018-5229', 'CVE-2019-14999']",2022-03-19T02:17Z
+9,cpe:2.3:a:atlassian:universal_plugin_manager:2.18.2:*:*:*:*:*:*:*,Atlassian Universal Plugin Manager 2.18.2,"['CVE-2018-20233', 'CVE-2018-5229', 'CVE-2019-14999']",2022-03-19T02:17Z

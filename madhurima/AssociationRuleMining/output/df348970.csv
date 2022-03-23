@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:spectrum_virtualize_for_public_cloud:7.8.1.10:*:*:*:*:*:*:*,IBM Spectrum Virtualize for Public Cloud (SpecVPC) 7.8.1.10,['CVE-2021-29873'],2022-03-21T22:15Z
+1,cpe:2.3:a:ibm:spectrum_virtualize_for_public_cloud:7.8.1.11:*:*:*:*:*:*:*,IBM Spectrum Virtualize for Public Cloud (SpecVPC) 7.8.1.11,['CVE-2021-29873'],2022-03-21T22:15Z
+2,cpe:2.3:a:ibm:spectrum_virtualize_for_public_cloud:7.8.1.12:*:*:*:*:*:*:*,IBM Spectrum Virtualize for Public Cloud (SpecVPC) 7.8.1.12,['CVE-2021-29873'],2022-03-21T22:15Z
+3,cpe:2.3:a:ibm:spectrum_virtualize_for_public_cloud:8.1.0.0:*:*:*:*:*:*:*,IBM Spectrum Virtualize for Public Cloud (SpecVPC) 8.1.0.0,['CVE-2021-29873'],2022-03-21T22:15Z
+4,cpe:2.3:a:ibm:spectrum_virtualize_for_public_cloud:8.1.0.1:*:*:*:*:*:*:*,IBM Spectrum Virtualize for Public Cloud (SpecVPC) 8.1.0.1,['CVE-2021-29873'],2022-03-21T22:15Z
+5,cpe:2.3:a:ibm:spectrum_virtualize_for_public_cloud:8.1.0.2:*:*:*:*:*:*:*,IBM Spectrum Virtualize for Public Cloud (SpecVPC) 8.1.0.2,['CVE-2021-29873'],2022-03-21T22:15Z
+6,cpe:2.3:a:ibm:spectrum_virtualize_for_public_cloud:8.1.1.0:*:*:*:*:*:*:*,IBM Spectrum Virtualize for Public Cloud (SpecVPC) 8.1.1.0,"['CVE-2018-1433', 'CVE-2018-1434', 'CVE-2018-1438', 'CVE-2018-1461', 'CVE-2018-1462', 'CVE-2018-1463', 'CVE-2018-1464', 'CVE-2018-1465', 'CVE-2018-1466', 'CVE-2021-29873']",2022-03-21T22:15Z
+7,cpe:2.3:a:ibm:spectrum_virtualize_for_public_cloud:8.1.1.1:*:*:*:*:*:*:*,IBM Spectrum Virtualize for Public Cloud (SpecVPC) 8.1.1.1,"['CVE-2018-1433', 'CVE-2018-1434', 'CVE-2018-1438', 'CVE-2018-1461', 'CVE-2018-1462', 'CVE-2018-1463', 'CVE-2018-1464', 'CVE-2018-1465', 'CVE-2018-1466', 'CVE-2021-29873']",2022-03-21T22:15Z
+8,cpe:2.3:a:ibm:spectrum_virtualize_for_public_cloud:8.1.1.2:*:*:*:*:*:*:*,IBM Spectrum Virtualize for Public Cloud (SpecVPC) 8.1.1.2,['CVE-2021-29873'],2022-03-21T22:15Z
+9,cpe:2.3:a:ibm:spectrum_virtualize_for_public_cloud:8.1.2.0:*:*:*:*:*:*:*,IBM Spectrum Virtualize for Public Cloud (SpecVPC) 8.1.2.0,"['CVE-2018-1433', 'CVE-2018-1434', 'CVE-2018-1438', 'CVE-2018-1461', 'CVE-2018-1462', 'CVE-2018-1463', 'CVE-2018-1464', 'CVE-2018-1465', 'CVE-2018-1466', 'CVE-2021-29873']",2022-03-21T22:15Z

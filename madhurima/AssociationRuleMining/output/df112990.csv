@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:1921_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 1921 Integrated Services Router,"['CVE-2013-1241', 'CVE-2018-0163']",2022-03-19T17:46Z
+1,cpe:2.3:h:cisco:1941:-:*:*:*:*:*:*:*,Cisco 1941 -,"['CVE-2018-0179', 'CVE-2018-0180']",2022-03-19T17:46Z
+2,cpe:2.3:h:cisco:1941_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 1941 Integrated Services Router,"['CVE-2013-1241', 'CVE-2018-0163']",2022-03-19T17:46Z
+3,cpe:2.3:h:cisco:1941w:-:*:*:*:*:*:*:*,Cisco 1941w -,"['CVE-2018-0179', 'CVE-2018-0180']",2022-03-19T17:46Z
+4,cpe:2.3:h:cisco:1941w_integrated_services_router:-:*:*:*:*:*:*:*,Cisco 1941W Integrated Services Router,"['CVE-2013-1241', 'CVE-2018-0163']",2022-03-19T17:46Z
+5,cpe:2.3:h:cisco:1sg300-10p:-:*:*:*:*:*:*:*,Cisco 1SG300-10P,[''],2022-03-19T17:46Z
+6,cpe:2.3:o:cisco:200_series_smart_switches_firmware:1.4.10.6:*:*:*:*:*:*:*,Cisco 200 Series Smart Switches Firmware 1.4.10.6,[''],2022-03-19T17:46Z
+7,cpe:2.3:h:cisco:2000_wireless_lan_controller:-:*:*:*:*:*:*:*,Cisco 2000 Wireless LAN Controller,"['CVE-2007-2038', 'CVE-2012-0368', 'CVE-2012-0369', 'CVE-2012-0370', 'CVE-2012-0371', 'CVE-2012-5991', 'CVE-2012-5992', 'CVE-2012-6007', 'CVE-2013-1102', 'CVE-2013-1103', 'CVE-2013-1104', 'CVE-2013-1105', 'CVE-2013-1235']",2022-03-19T17:46Z
+8,cpe:2.3:h:cisco:2010_connected_grid_router:-:*:*:*:*:*:*:*,Cisco 2010 Connected Grid Router,['CVE-2018-0163'],2022-03-19T17:46Z
+9,cpe:2.3:h:cisco:2100_wireless_lan_controller:-:*:*:*:*:*:*:*,Cisco 2100 Wireless LAN Controller,"['CVE-2007-2038', 'CVE-2007-2041', 'CVE-2012-0368', 'CVE-2012-0369', 'CVE-2012-0370', 'CVE-2012-0371', 'CVE-2012-5991', 'CVE-2012-5992', 'CVE-2012-6007', 'CVE-2013-1102', 'CVE-2013-1103', 'CVE-2013-1104', 'CVE-2013-1105', 'CVE-2013-1235']",2022-03-19T17:46Z

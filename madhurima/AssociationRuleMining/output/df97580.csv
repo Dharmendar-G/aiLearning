@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:buttonizer:buttonizer:2.3.0:*:*:*:*:wordpress:*:*,Buttonizer 2.3.0 for WordPress,['CVE-2021-24992'],2022-03-19T13:48Z
+1,cpe:2.3:a:buttonizer:buttonizer:2.3.1:*:*:*:*:wordpress:*:*,Buttonizer 2.3.1 for WordPress,['CVE-2021-24992'],2022-03-19T13:48Z
+2,cpe:2.3:a:buttonizer:buttonizer:2.3.2:*:*:*:*:wordpress:*:*,Buttonizer 2.3.2 for WordPress,['CVE-2021-24992'],2022-03-19T13:48Z
+3,cpe:2.3:a:buttonizer:buttonizer:2.4.0:*:*:*:*:wordpress:*:*,Buttonizer 2.4.0 for WordPress,['CVE-2021-24992'],2022-03-19T13:48Z
+4,cpe:2.3:a:buttonizer:buttonizer:2.4.1:*:*:*:*:wordpress:*:*,Buttonizer 2.4.1 for WordPress,['CVE-2021-24992'],2022-03-19T13:49Z
+5,cpe:2.3:a:buttonizer:buttonizer:2.4.2:*:*:*:*:wordpress:*:*,Buttonizer 2.4.2 for WordPress,['CVE-2021-24992'],2022-03-19T13:49Z
+6,cpe:2.3:a:buttonizer:buttonizer:2.4.3:*:*:*:*:wordpress:*:*,Buttonizer 2.4.3 for WordPress,['CVE-2021-24992'],2022-03-19T13:49Z
+7,cpe:2.3:a:buttonizer:buttonizer:2.5.0:*:*:*:*:wordpress:*:*,Buttonizer 2.5.0 for WordPress,['CVE-2021-24992'],2022-03-19T13:49Z
+8,cpe:2.3:a:buttonizer:buttonizer:2.5.1:*:*:*:*:wordpress:*:*,Buttonizer 2.5.1 for WordPress,['CVE-2021-24992'],2022-03-19T13:49Z
+9,cpe:2.3:a:buttonizer:buttonizer:2.5.2:*:*:*:*:wordpress:*:*,Buttonizer 2.5.2 for WordPress,['CVE-2021-24992'],2022-03-19T13:49Z

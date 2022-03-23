@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:emta\&docsis_firmware:10.0.132.sip.pc20.ct:*:*:*:*:*:*:*,Cisco eMTA & DOCSIS Firmware 10.0.132.SIP.PC20.CT,[''],2022-03-19T19:28Z
+1,cpe:2.3:h:cisco:encs_5100:-:*:*:*:*:*:*:*,Cisco ENCS 5100,"['CVE-2019-12646', 'CVE-2019-1634', 'CVE-2019-1850', 'CVE-2019-1863', 'CVE-2019-1864', 'CVE-2019-1865', 'CVE-2019-1871', 'CVE-2019-1883', 'CVE-2019-1896', 'CVE-2021-1397']",2022-03-19T19:28Z
+2,cpe:2.3:o:cisco:encs_5100_firmware:-:*:*:*:*:*:*:*,Cisco ENCS 5100 Firmware,['CVE-2021-1397'],2022-03-19T19:28Z
+3,cpe:2.3:o:cisco:encs_5100_firmware:4.4.2:*:*:*:*:*:*:*,Cisco ENCS 5100 Firmware 4.4.2,['CVE-2021-1397'],2022-03-19T19:28Z
+4,cpe:2.3:h:cisco:encs_5400:-:*:*:*:*:*:*:*,Cisco ENCS 5400,"['CVE-2019-12646', 'CVE-2019-1634', 'CVE-2019-1850', 'CVE-2019-1863', 'CVE-2019-1864', 'CVE-2019-1865', 'CVE-2019-1871', 'CVE-2019-1883', 'CVE-2019-1896', 'CVE-2021-1397']",2022-03-19T19:28Z
+5,cpe:2.3:o:cisco:encs_5400_firmware:-:*:*:*:*:*:*:*,Cisco ENCS 5400 Firmware,['CVE-2021-1397'],2022-03-19T19:28Z
+6,cpe:2.3:o:cisco:encs_5400_firmware:4.4.2:*:*:*:*:*:*:*,Cisco ENCS 5400 Firmware 4.4.2,['CVE-2021-1397'],2022-03-19T19:28Z
+7,cpe:2.3:h:cisco:encs_5406-w:-:*:*:*:*:*:*:*,Cisco ENCS 5406-W,['CVE-2020-3446'],2022-03-19T19:28Z
+8,cpe:2.3:o:cisco:encs_5406-w_firmware:6.4\(1\):*:*:*:*:*:*:*,Cisco ENCS 5406-W Firmware 6.4(1),['CVE-2020-3446'],2022-03-19T19:28Z
+9,cpe:2.3:o:cisco:encs_5406-w_firmware:6.4\(3d\):*:*:*:*:*:*:*,Cisco ENCS 5406-W Firmware 6.4(3d),['CVE-2020-3446'],2022-03-19T19:28Z

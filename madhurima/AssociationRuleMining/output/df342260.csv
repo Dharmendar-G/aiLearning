@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:domino_web_access:6.0.1.1:*:*:*:*:*:*:*,IBM Domino Web Access 6.0.1_1,"['CVE-2007-4474', 'CVE-2010-0276']",2022-03-21T20:25Z
+1,cpe:2.3:a:ibm:domino_web_access:6.0.2:*:*:*:*:*:*:*,IBM Domino Web Access 6.0.2,"['CVE-2007-4474', 'CVE-2010-0276']",2022-03-21T20:25Z
+2,cpe:2.3:a:ibm:domino_web_access:6.0.3:*:*:*:*:*:*:*,IBM Domino Web Access 6.0.3,"['CVE-2007-4474', 'CVE-2010-0276']",2022-03-21T20:25Z
+3,cpe:2.3:a:ibm:domino_web_access:6.0.4:*:*:*:*:*:*:*,IBM Domino Web Access 6.0.4,"['CVE-2007-4474', 'CVE-2010-0276']",2022-03-21T20:25Z
+4,cpe:2.3:a:ibm:domino_web_access:6.0.5:*:*:*:*:*:*:*,IBM Domino Web Access 6.0.5,"['CVE-2007-4474', 'CVE-2010-0276']",2022-03-21T20:25Z
+5,cpe:2.3:a:ibm:domino_web_access:6.5:*:*:*:*:*:*:*,IBM Domino Web Access 6.5,"['CVE-2007-4474', 'CVE-2010-0276', 'CVE-2010-0919']",2022-03-21T20:25Z
+6,cpe:2.3:a:ibm:domino_web_access:6.5.1:*:*:*:*:*:*:*,IBM Domino Web Access 6.5.1,"['CVE-2007-4474', 'CVE-2010-0276']",2022-03-21T20:25Z
+7,cpe:2.3:a:ibm:domino_web_access:6.5.2:*:*:*:*:*:*:*,IBM Domino Web Access 6.5.2,"['CVE-2007-4474', 'CVE-2010-0276']",2022-03-21T20:25Z
+8,cpe:2.3:a:ibm:domino_web_access:6.5.3:*:*:*:*:*:*:*,IBM Domino Web Access 6.5.3,"['CVE-2007-4474', 'CVE-2010-0276']",2022-03-21T20:25Z
+9,cpe:2.3:a:ibm:domino_web_access:6.5.4:*:*:*:*:*:*:*,IBM Domino Web Access 6.5.4,"['CVE-2007-4474', 'CVE-2010-0276']",2022-03-21T20:25Z

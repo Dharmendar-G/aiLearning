@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:ant:1.9.14:*:*:*:*:*:*:*,Apache Software Foundation Ant 1.9.14,"['CVE-2020-1945', 'CVE-2021-36373', 'CVE-2021-36374']",2022-03-18T17:34Z
+1,cpe:2.3:a:apache:ant:1.9.15:-:*:*:*:*:*:*,Apache Software Foundation Ant 1.9.15,"['CVE-2021-36373', 'CVE-2021-36374']",2022-03-18T17:34Z
+2,cpe:2.3:a:apache:ant:1.9.15:rc1:*:*:*:*:*:*,Apache Software Foundation Ant 1.9.15 Release Candidate 1,"['CVE-2021-36373', 'CVE-2021-36374']",2022-03-18T17:35Z
+3,cpe:2.3:a:apache:ant:1.9.16:-:*:*:*:*:*:*,Apache Software Foundation Ant 1.9.16,[''],2022-03-18T17:35Z
+4,cpe:2.3:a:apache:ant:1.9.16:rc1:*:*:*:*:*:*,Apache Software Foundation Ant 1.9.16 Release Candidate 1,[''],2022-03-18T17:35Z
+5,cpe:2.3:a:apache:ant:1.10.0:-:*:*:*:*:*:*,Apache Software Foundation Ant 1.10.0,"['CVE-2020-1945', 'CVE-2021-36373', 'CVE-2021-36374']",2022-03-18T17:35Z
+6,cpe:2.3:a:apache:ant:1.10.0:rc1:*:*:*:*:*:*,Apache Software Foundation Ant 1.10.0 Release Candidate 1,"['CVE-2020-1945', 'CVE-2021-36373', 'CVE-2021-36374']",2022-03-18T17:35Z
+7,cpe:2.3:a:apache:ant:1.10.1:-:*:*:*:*:*:*,Apache Software Foundation Ant 1.10.1,"['CVE-2020-1945', 'CVE-2021-36373', 'CVE-2021-36374']",2022-03-18T17:35Z
+8,cpe:2.3:a:apache:ant:1.10.1:rc1:*:*:*:*:*:*,Apache Software Foundation Ant 1.10.1 Release Candidate 1,"['CVE-2020-1945', 'CVE-2021-36373', 'CVE-2021-36374']",2022-03-18T17:35Z
+9,cpe:2.3:a:apache:ant:1.10.2:-:*:*:*:*:*:*,Apache Software Foundation Ant 1.10.2,"['CVE-2020-1945', 'CVE-2021-36373', 'CVE-2021-36374']",2022-03-18T17:35Z

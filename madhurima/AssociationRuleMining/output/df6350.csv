@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:activestate:activeperl:5.8.8.820:*:*:*:*:*:*:*,ActiveState ActivePerl 5.8.8.820,['CVE-2004-0377'],2022-03-18T11:20Z
+1,cpe:2.3:a:activestate:activeperl:5.8.807:*:*:*:*:*:*:*,ActiveState ActivePerl 5.8.807,['CVE-2004-0377'],2022-03-18T11:20Z
+2,cpe:2.3:a:activestate:activeperl:5.8.809:*:*:*:*:*:*:*,ActiveState ActivePerl 5.8.809,['CVE-2004-0377'],2022-03-18T11:20Z
+3,cpe:2.3:a:activestate:activeperl:5.8.810:*:*:*:*:*:*:*,ActiveState ActivePerl 5.8.810,['CVE-2004-0377'],2022-03-18T11:20Z
+4,cpe:2.3:a:activestate:activeperl:5.8.819:*:*:*:*:*:*:*,ActiveState ActivePerl 5.8.819,['CVE-2004-0377'],2022-03-18T11:20Z
+5,cpe:2.3:a:activestate:activeperl:5.8.820:*:*:*:*:*:*:*,ActiveState ActivePerl 5.8.820,['CVE-2004-0377'],2022-03-18T11:20Z
+6,cpe:2.3:a:activestate:activeperl:5.8.824:*:*:*:*:*:*:*,ActiveState ActivePerl 5.8.824,['CVE-2004-0377'],2022-03-18T11:20Z
+7,cpe:2.3:a:activestate:activeperl:5.8.827:*:*:*:*:*:*:*,ActiveState ActivePerl 5.8.827,['CVE-2004-0377'],2022-03-18T11:20Z
+8,cpe:2.3:a:activestate:activeperl:5.8.828:*:*:*:*:*:*:*,ActiveState ActivePerl 5.8.828,['CVE-2004-0377'],2022-03-18T11:20Z
+9,cpe:2.3:a:activestate:activeperl:5.10.1002:*:*:*:*:*:*:*,ActiveState ActivePerl 5.10.1002,['CVE-2004-0377'],2022-03-18T11:20Z

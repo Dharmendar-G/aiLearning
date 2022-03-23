@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:citrix:netscaler_sd-wan_firmware:-:*:*:*:*:*:*:*,Citrix NetScaler SD-WAN Firmware,"['CVE-2013-3619', 'CVE-2013-3620']",2022-03-20T01:33Z
+1,cpe:2.3:h:citrix:netscaler_sdx:-:*:*:*:*:*:*:*,Citrix NetScaler SDX,"['CVE-2013-3619', 'CVE-2013-3620']",2022-03-20T01:33Z
+2,cpe:2.3:o:citrix:netscaler_sdx_firmware:10:*:*:*:*:*:*:*,Citrix NetScaler SDX Firmware 10,"['CVE-2013-3619', 'CVE-2013-3620']",2022-03-20T01:33Z
+3,cpe:2.3:a:citrix:nfuse:-:*:*:*:*:*:*:*,Citrix Nfuse,['CVE-2002-0504'],2022-03-20T01:33Z
+4,cpe:2.3:a:citrix:nfuse:1.5:*:*:*:*:*:*:*,Citrix Nfuse 1.5,"['CVE-2002-0503', 'CVE-2002-0504']",2022-03-20T01:33Z
+5,cpe:2.3:a:citrix:nfuse:1.6:*:*:*:*:*:*:*,Citrix Nfuse 1.6,"['CVE-2002-0301', 'CVE-2002-0502', 'CVE-2002-0504']",2022-03-20T01:33Z
+6,cpe:2.3:a:citrix:nfuse:1.51:*:*:*:*:*:*:*,Citrix Nfuse 1.51,"['CVE-2001-0760', 'CVE-2002-0504']",2022-03-20T01:33Z
+7,cpe:2.3:a:citrix:offline_plug-in:5.2.0.1227:*:*:*:*:*:*:*,Citrix Offline Plug-in 5.2.0.1227,[''],2022-03-20T01:33Z
+8,cpe:2.3:a:citrix:offline_plug-in:6.0.0.1304:*:*:*:*:*:*:*,Citrix Offline Plug-in 6.0.0.1304,[''],2022-03-20T01:33Z
+9,cpe:2.3:a:citrix:offline_plug-in:6.0.2.9:*:*:*:*:*:*:*,Citrix Offline Plug-In 6.0.2.9,[''],2022-03-20T01:33Z

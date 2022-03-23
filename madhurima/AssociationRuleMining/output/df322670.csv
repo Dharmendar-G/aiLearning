@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hp:imc_branch_intelligent_management_system_software_module:7.0:e0201p02:*:*:*:*:*:*,IMC Branch Intelligent Management System Software Module 7.0 E0201P02,"['CVE-2014-2618', 'CVE-2014-2619', 'CVE-2014-2620', 'CVE-2014-2621', 'CVE-2014-2622']",2022-03-21T13:37Z
+1,cpe:2.3:a:hp:imc_service_operation_management_software_module:-:*:*:*:*:*:*:*,HP iMC Service Operation Management Software module,"['CVE-2013-4824', 'CVE-2013-4825', 'CVE-2013-4826', 'CVE-2013-4827']",2022-03-21T13:37Z
+2,cpe:2.3:a:hp:imc_wireless_service_manager:7.1:*:*:*:*:*:*:*,HP Intelligent Management Center Wireless Service Manager 7.1,['CVE-2017-8990'],2022-03-21T13:37Z
+3,cpe:2.3:a:hp:imc_wireless_service_manager:7.2:*:*:*:*:*:*:*,HP Intelligent Management Center Wireless Service Manager 7.2,['CVE-2017-8990'],2022-03-21T13:37Z
+4,cpe:2.3:a:hp:imc_wireless_service_manager:7.3:e0506:*:*:*:*:*:*,HP Intelligent Management Center Wireless Service Manager 7.3 E0506,['CVE-2017-8990'],2022-03-21T13:37Z
+5,cpe:2.3:a:hp:info_center:-:*:*:*:*:*:*:*,HP Info Center,[''],2022-03-21T13:37Z
+6,cpe:2.3:h:hp:ink_tank_310_4qa85a:-:*:*:*:*:*:*:*,HP Ink Tank 310 4QA85A,['CVE-2020-28419'],2022-03-21T13:37Z
+7,cpe:2.3:h:hp:ink_tank_310_4yh05a:-:*:*:*:*:*:*:*,HP Ink Tank 310 4YH05A,['CVE-2020-28419'],2022-03-21T13:37Z
+8,cpe:2.3:h:hp:ink_tank_310_7zv78a:-:*:*:*:*:*:*:*,HP Ink Tank 310 7ZV78A,['CVE-2020-28419'],2022-03-21T13:37Z
+9,cpe:2.3:h:hp:ink_tank_310_z4b04a:-:*:*:*:*:*:*:*,HP Ink Tank 310 Z4B04A,['CVE-2020-28419'],2022-03-21T13:37Z

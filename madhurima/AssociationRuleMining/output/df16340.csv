@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aioxmpp_project:aioxmpp:0.10.4:*:*:*:*:*:*:*,aioxmpp Project aioxmpp 0.10.4,[''],2022-03-18T13:49Z
+1,cpe:2.3:a:aioxmpp_project:aioxmpp:0.10.5:*:*:*:*:*:*:*,aioxmpp Project aioxmpp 0.10.5,[''],2022-03-18T13:49Z
+2,cpe:2.3:a:aipluspro:asset_inventory_plus:4.6.0:*:*:*:*:*:*:*,Aipluspro Asset Inventory Plus 4.6.0,[''],2022-03-18T13:49Z
+3,cpe:2.3:a:air_sender_project:air_sender:1.0:*:*:*:*:iphone_os:*:*,Air Sender Project Air Sender 1.0 for iPhone OS,[''],2022-03-18T13:49Z
+4,cpe:2.3:a:air_sender_project:air_sender:1.0.1:*:*:*:*:iphone_os:*:*,Air Sender Project Air Sender 1.0.1 for iPhone OS,[''],2022-03-18T13:49Z
+5,cpe:2.3:a:air_sender_project:air_sender:1.0.2:*:*:*:*:iphone_os:*:*,Air Sender Project Air Sender 1.0.2 for iPhone OS,['CVE-2020-23043'],2022-03-18T13:49Z
+6,cpe:2.3:a:air_war_hero_project:air_war_hero:3:*:*:*:*:android:*:*,Air War Hero project Air War Hero (aka com.dev.airwar) for android 3.0,['CVE-2014-7070'],2022-03-18T13:49Z
+7,cpe:2.3:a:airbnb:knowledge_repo:0.7.4:*:*:*:*:*:*:*,Airbnb Knowledge Repo 0.7.4,['CVE-2018-12104'],2022-03-18T13:49Z
+8,cpe:2.3:a:airbrake:airbrake:0.0.1:*:*:*:*:node.js:*:*,Airbrake 0.0.1 for Node.js,['CVE-2016-10530'],2022-03-18T13:49Z
+9,cpe:2.3:a:airbrake:airbrake:0.0.2:*:*:*:*:node.js:*:*,Airbrake 0.0.2 for Node.js,['CVE-2016-10530'],2022-03-18T13:50Z

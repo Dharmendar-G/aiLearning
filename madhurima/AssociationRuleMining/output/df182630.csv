@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:deny_all_firewall_project:deny_all_firewall:1.2.3:*:*:*:*:wordpress:*:*,Deny All Firewall Project Deny All Firewall 1.2.3 for WordPress,[''],2022-03-20T13:32Z
+1,cpe:2.3:a:deny_all_firewall_project:deny_all_firewall:1.2.4:*:*:*:*:wordpress:*:*,Deny All Firewall Project Deny All Firewall 1.2.4 for WordPress,[''],2022-03-20T13:32Z
+2,cpe:2.3:a:deny_all_firewall_project:deny_all_firewall:1.2.5:*:*:*:*:wordpress:*:*,Deny All Firewall Project Deny All Firewall 1.2.5 for WordPress,[''],2022-03-20T13:32Z
+3,cpe:2.3:a:deny_all_firewall_project:deny_all_firewall:1.2.6:*:*:*:*:wordpress:*:*,Deny All Firewall Project Deny All Firewall 1.2.6 for WordPress,[''],2022-03-20T13:32Z
+4,cpe:2.3:a:deny_all_firewall_project:deny_all_firewall:1.2.7:*:*:*:*:wordpress:*:*,Deny All Firewall Project Deny All Firewall 1.2.7 for WordPress,[''],2022-03-20T13:32Z
+5,cpe:2.3:a:deny_all_firewall_project:deny_all_firewall:1.2.8:*:*:*:*:wordpress:*:*,Deny All Firewall Project Deny All Firewall 1.2.8 for WordPress,[''],2022-03-20T13:32Z
+6,cpe:2.3:a:denyall:i-suite:5.5.0:*:*:*:lts:*:*:*,DenyAll i-Suite 5.5.0 LTS Edition,"['CVE-2017-14705', 'CVE-2017-14706']",2022-03-20T13:32Z
+7,cpe:2.3:a:denyall:i-suite:5.5.9:*:*:*:lts:*:*:*,DenyAll i-Suite 5.5.9 LTS Edition,"['CVE-2017-14705', 'CVE-2017-14706']",2022-03-20T13:32Z
+8,cpe:2.3:a:denyall:i-suite:5.5.10:*:*:*:lts:*:*:*,DenyAll i-Suite 5.5.10 LTS Edition,"['CVE-2017-14705', 'CVE-2017-14706']",2022-03-20T13:32Z
+9,cpe:2.3:a:denyall:i-suite:5.5.11:*:*:*:lts:*:*:*,DenyAll i-Suite 5.5.11 LTS Edition,"['CVE-2017-14705', 'CVE-2017-14706']",2022-03-20T13:32Z

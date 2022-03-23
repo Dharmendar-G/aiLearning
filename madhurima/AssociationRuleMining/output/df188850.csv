@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:djangoproject:django:3.2.6:*:*:*:*:*:*:*,Django Project Django 3.2.6,"['CVE-2021-44420', 'CVE-2021-45115', 'CVE-2021-45116', 'CVE-2021-45452', 'CVE-2022-22818', 'CVE-2022-23833']",2022-03-20T15:32Z
+1,cpe:2.3:a:djangoproject:django:3.2.7:*:*:*:*:*:*:*,Django Project Django 3.2.7,"['CVE-2021-44420', 'CVE-2021-45115', 'CVE-2021-45116', 'CVE-2021-45452', 'CVE-2022-22818', 'CVE-2022-23833']",2022-03-20T15:32Z
+2,cpe:2.3:a:djangoproject:django:3.2.8:*:*:*:*:*:*:*,Django Project Django 3.2.8,"['CVE-2021-44420', 'CVE-2021-45115', 'CVE-2021-45116', 'CVE-2021-45452', 'CVE-2022-22818', 'CVE-2022-23833']",2022-03-20T15:32Z
+3,cpe:2.3:a:djangoproject:django:3.2.9:*:*:*:*:*:*:*,Django Project Django 3.2.9,"['CVE-2021-44420', 'CVE-2021-45115', 'CVE-2021-45116', 'CVE-2021-45452', 'CVE-2022-22818', 'CVE-2022-23833']",2022-03-20T15:32Z
+4,cpe:2.3:a:djangoproject:django:3.2.10:*:*:*:*:*:*:*,Django Project Django 3.2.10,"['CVE-2021-45115', 'CVE-2021-45116', 'CVE-2021-45452', 'CVE-2022-22818', 'CVE-2022-23833']",2022-03-20T15:32Z
+5,cpe:2.3:a:djangoproject:django:3.2.11:*:*:*:*:*:*:*,Django Project Django 3.2.11,"['CVE-2022-22818', 'CVE-2022-23833']",2022-03-20T15:32Z
+6,cpe:2.3:a:djangoproject:django:3.2.12:*:*:*:*:*:*:*,Django Project Django 3.2.12,[''],2022-03-20T15:32Z
+7,cpe:2.3:a:djangoproject:django:4.0:-:*:*:*:*:*:*,Django Project Django 4.0,"['CVE-2021-45115', 'CVE-2021-45116', 'CVE-2021-45452', 'CVE-2022-22818', 'CVE-2022-23833']",2022-03-20T15:32Z
+8,cpe:2.3:a:djangoproject:django:4.0:alpha1:*:*:*:*:*:*,Django Project Django 4.0 Alpha 1,"['CVE-2021-45115', 'CVE-2021-45116', 'CVE-2021-45452', 'CVE-2022-22818', 'CVE-2022-23833']",2022-03-20T15:32Z
+9,cpe:2.3:a:djangoproject:django:4.0:beta1:*:*:*:*:*:*,Django Project Django 4.0 Beta 1,"['CVE-2021-45115', 'CVE-2021-45116', 'CVE-2021-45452', 'CVE-2022-22818', 'CVE-2022-23833']",2022-03-20T15:32Z

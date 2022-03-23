@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:huawei:public_cloud_solution:1.0.0:*:*:*:*:*:*:*,Huawei Public Cloud Solution 1.0.0,['CVE-2016-5850'],2022-03-21T18:27Z
+1,cpe:2.3:o:huawei:quidway_firmware:v200r003c00spc300:*:*:*:*:*:*:*,Huawei Quidway Firmware V200R003C00SPC300,['CVE-2015-1460'],2022-03-21T18:27Z
+2,cpe:2.3:h:huawei:quidway_s2350:-:*:*:*:*:*:*:*,Huawei Quidway S2350,['CVE-2015-1460'],2022-03-21T18:27Z
+3,cpe:2.3:h:huawei:quidway_s2700:-:*:*:*:*:*:*:*,Huawei Quidway S2700,['CVE-2017-17165'],2022-03-21T18:27Z
+4,cpe:2.3:o:huawei:quidway_s2700_firmware:v200r003c00spc300:*:*:*:*:*:*:*,Huawei Quidway S2700 Firmware V200R003C00SPC300,['CVE-2017-17165'],2022-03-21T18:27Z
+5,cpe:2.3:h:huawei:quidway_s2750:-:*:*:*:*:*:*:*,Huawei Quidway S2750,['CVE-2015-1460'],2022-03-21T18:27Z
+6,cpe:2.3:h:huawei:quidway_s5300:-:*:*:*:*:*:*:*,Huawei Quidway S5300,"['CVE-2014-3224', 'CVE-2015-1460', 'CVE-2015-8085', 'CVE-2015-8086', 'CVE-2017-17165']",2022-03-21T18:27Z
+7,cpe:2.3:o:huawei:quidway_s5300_firmware:v200r001c00spc300:*:*:*:*:*:*:*,Huawei Quidway S5300 Firmware V200R001C00SPC300,"['CVE-2015-8085', 'CVE-2015-8086']",2022-03-21T18:27Z
+8,cpe:2.3:o:huawei:quidway_s5300_firmware:v200r003c00spc300:*:*:*:*:*:*:*,Huawei Quidway S5300 Firmware V200R003C00SPC300,"['CVE-2014-3224', 'CVE-2017-17165']",2022-03-21T18:27Z
+9,cpe:2.3:h:huawei:quidway_s5700:-:*:*:*:*:*:*:*,Huawei Quidway S5700,"['CVE-2014-3224', 'CVE-2015-1460', 'CVE-2017-17165']",2022-03-21T18:28Z

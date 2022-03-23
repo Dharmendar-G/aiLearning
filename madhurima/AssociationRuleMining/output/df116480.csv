@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:c898ea_integrated_services_router:-:*:*:*:*:*:*:*,Cisco C898ea Integrated Services Router -,['CVE-2018-0163'],2022-03-19T18:49Z
+1,cpe:2.3:h:cisco:c899_secure_gigabit_ethernet:-:*:*:*:*:*:*:*,Cisco C899 Secure Gigabit Ethernet -,['CVE-2018-0163'],2022-03-19T18:49Z
+2,cpe:2.3:h:cisco:c9300-24p:-:*:*:*:*:*:*:*,Cisco C9300-24p -,['CVE-2019-1649'],2022-03-19T18:49Z
+3,cpe:2.3:h:cisco:c9300-24t:-:*:*:*:*:*:*:*,Cisco C9300-24t -,['CVE-2019-1649'],2022-03-19T18:49Z
+4,cpe:2.3:h:cisco:c9300-24u:-:*:*:*:*:*:*:*,Cisco C9300-24u -,['CVE-2019-1649'],2022-03-19T18:49Z
+5,cpe:2.3:h:cisco:c9300-24ux:-:*:*:*:*:*:*:*,Cisco C9300-24ux -,['CVE-2019-1649'],2022-03-19T18:49Z
+6,cpe:2.3:h:cisco:c9300-48p:-:*:*:*:*:*:*:*,Cisco C9300-48p -,['CVE-2019-1649'],2022-03-19T18:49Z
+7,cpe:2.3:h:cisco:c9300-48t:-:*:*:*:*:*:*:*,Cisco C9300-48t -,['CVE-2019-1649'],2022-03-19T18:49Z
+8,cpe:2.3:h:cisco:c9300-48u:-:*:*:*:*:*:*:*,Cisco C9300-48u -,['CVE-2019-1649'],2022-03-19T18:49Z
+9,cpe:2.3:h:cisco:c9300-48un:-:*:*:*:*:*:*:*,Cisco C9300-48un -,['CVE-2019-1649'],2022-03-19T18:49Z

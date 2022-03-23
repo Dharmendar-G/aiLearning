@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:angusj:resource_hacker:3.5.0:*:*:*:*:*:*:*,angusj Resource Hacker 3.5.0,[''],2022-03-18T16:40Z
+1,cpe:2.3:a:angusj:resource_hacker:3.6.0.92:*:*:*:*:*:*:*,angusj Resource Hacker 3.6.0.92,['CVE-2012-6553'],2022-03-18T16:41Z
+2,cpe:2.3:a:animalcenter:light_for_pets:1:*:*:*:*:android:*:*,animalcenter Light for Pets (aka com.helenwoodward.light4pets) for android 1.0,['CVE-2014-6775'],2022-03-18T16:40Z
+3,cpe:2.3:h:animas:onetouch_ping:-:*:*:*:*:*:*:*,Animas OneTouch Ping,"['CVE-2016-5084', 'CVE-2016-5085', 'CVE-2016-5086', 'CVE-2016-5686']",2022-03-18T16:41Z
+4,cpe:2.3:o:animas:onetouch_ping_firmware:-:*:*:*:*:*:*:*,Animas OneTouch Ping Firmware,"['CVE-2016-5084', 'CVE-2016-5085', 'CVE-2016-5086', 'CVE-2016-5686']",2022-03-18T16:41Z
+5,cpe:2.3:a:animoca:bunny_run:1.1.2:*:*:*:*:android:*:*,animoca Bunny Run (aka com.stargirlgames.google.bunnyrun) for Android 1.1.2,['CVE-2014-5707'],2022-03-18T16:41Z
+6,cpe:2.3:a:animoca:fashion_style:3.4.1:*:*:*:*:android:*:*,Fashion Style (aka com.thirtysixyougames.google.starGirlSingapore) application for Android 3.4.1,['CVE-2014-5717'],2022-03-18T16:41Z
+7,cpe:2.3:a:animoca:star_girl:3.4.1:*:*:*:*:android:*:*,Animoca Star Girl (aka com.animoca.google.starGirl) application for Android 3.4.1,['CVE-2014-5569'],2022-03-18T16:41Z
+8,[0],[0],[0],[0]
+9,cpe:2.3:a:anixis:password_policy_client:3.5:*:*:*:*:*:*:*,Anixis Password Policy Client 3.5,[''],2022-03-18T16:41Z

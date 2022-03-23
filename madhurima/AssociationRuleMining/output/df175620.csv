@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:d-bus_project:d-bus:1.11.18:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.11.18,[''],2022-03-20T11:15Z
+1,cpe:2.3:a:d-bus_project:d-bus:1.11.20:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.11.20,[''],2022-03-20T11:15Z
+2,cpe:2.3:a:d-bus_project:d-bus:1.11.22:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.11.22,[''],2022-03-20T11:15Z
+3,cpe:2.3:a:d-bus_project:d-bus:1.12.0:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.12.0,[''],2022-03-20T11:15Z
+4,cpe:2.3:a:d-bus_project:d-bus:1.12.2:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.12.2,[''],2022-03-20T11:15Z
+5,cpe:2.3:a:d-bus_project:d-bus:1.12.20:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.12.20,['CVE-2020-35512'],2022-03-20T11:15Z
+6,cpe:2.3:a:d-bus_project:d-bus:1.13.0:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.13.0,[''],2022-03-20T11:15Z
+7,cpe:2.3:a:d-bus_project:d-bus:1.13.2:*:*:*:*:*:*:*,D-Bus Project D-Bus 1.13.2,[''],2022-03-20T11:15Z
+8,cpe:2.3:h:dcce:mac1100_plc:-:*:*:*:*:*:*:*,Dut Computer Control Engineering MAC1100 PLC,"['CVE-2020-18753', 'CVE-2020-18756', 'CVE-2020-18757', 'CVE-2020-18758', 'CVE-2020-18759']",2022-03-20T11:16Z
+9,cpe:2.3:o:dcce:mac1100_plc_firmware:-:*:*:*:*:*:*:*,Dut Computer Control Engineering MAC1100 PLC Firmware,"['CVE-2020-18753', 'CVE-2020-18756', 'CVE-2020-18757', 'CVE-2020-18758', 'CVE-2020-18759']",2022-03-20T11:16Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:bbraun:spacecom2:-:*:*:*:*:*:*:*,B.Braun SpaceCom2,"['CVE-2021-33882', 'CVE-2021-33883', 'CVE-2021-33884', 'CVE-2021-33885', 'CVE-2021-33886']",2022-03-19T06:36Z
+1,[0],[0],[0],[0]
+2,cpe:2.3:o:bbraun:spacecom2:012u000062:*:*:*:*:*:*:*,B.Braun SpaceCom2 012U000062,[''],2022-03-19T06:36Z
+3,cpe:2.3:h:bbraun:spacestation:-:*:*:*:*:*:*:*,BBraun SpaceStation,['CVE-2017-6018'],2022-03-19T06:36Z
+4,cpe:2.3:h:bbraun:spacestation_8713142u:-:*:*:*:*:*:*:*,B.Braun SpaceStation 8713142U,"['CVE-2021-33882', 'CVE-2021-33883', 'CVE-2021-33884', 'CVE-2021-33885', 'CVE-2021-33886']",2022-03-19T06:36Z
+5,cpe:2.3:o:bbraun:spacestation_firmware:-:*:*:*:*:*:*:*,BBraun SpaceStation Firmware,[''],2022-03-19T06:36Z
+6,cpe:2.3:a:bbs_technologies:sharepoint_security_manager:3.50.0.3:*:*:*:*:*:*:*,Bbs Technologies Sharepoint Security Manager 3.50.0.3,[''],2022-03-19T06:36Z
+7,cpe:2.3:a:bcaas_project:bcaas:-:*:*:*:*:*:*:*,BCaaS Project BCaaS,['CVE-2018-13665'],2022-03-19T06:36Z
+8,cpe:2.3:a:bchunk_project:bchunk:1.2.0:*:*:*:*:*:*:*,bchunk Project bchunk 1.2.0,"['CVE-2017-15953', 'CVE-2017-15954', 'CVE-2017-15955']",2022-03-19T06:36Z
+9,cpe:2.3:a:bchunk_project:bchunk:1.2.1:*:*:*:*:*:*:*,bchunk Project bchunk 1.2.1,"['CVE-2017-15953', 'CVE-2017-15954', 'CVE-2017-15955']",2022-03-19T06:36Z

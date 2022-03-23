@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:canon:eos-1d_x_mkii_firmware:-:*:*:*:*:*:*:*,Canon EOS-1d X Mkii Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+1,cpe:2.3:o:canon:eos-1d_x_mkii_firmware:1.1.6:*:*:*:*:*:*:*,Canon EOS-1d X Mkii Firmware 1.1.6,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:13Z
+2,cpe:2.3:a:canon:imageprograf_firmware_update_tool:3.40:*:*:*:*:*:*:*,Canon Imageprograf Firmware Update Tool 3.40,[''],2022-03-19T15:14Z
+3,cpe:2.3:a:canon:imagerunner:-:*:*:*:*:*:*:*,Canon imageRUNNER,[''],2022-03-19T15:14Z
+4,cpe:2.3:a:canon:imagerunner_2620:-:*:*:*:*:*:*:*,Canon imageRUNNER 2620,"['CVE-2006-4680', 'CVE-2008-0303']",2022-03-19T15:14Z
+5,cpe:2.3:a:canon:imagerunner_5000i:-:*:*:*:*:*:*:*,Canon imageRUNNER 5000i,"['CVE-2004-2166', 'CVE-2008-0303']",2022-03-19T15:14Z
+6,cpe:2.3:a:canon:imagerunner_5020:-:*:*:*:*:*:*:*,Canon imageRUNNER 5020,"['CVE-2006-4680', 'CVE-2008-0303']",2022-03-19T15:14Z
+7,cpe:2.3:a:canon:imagerunner_6870:-:*:*:*:*:*:*:*,Canon imageRUNNER C6870,"['CVE-2006-4680', 'CVE-2008-0303']",2022-03-19T15:14Z
+8,cpe:2.3:a:canon:imagerunner_8500:-:*:*:*:*:*:*:*,Canon imageRUNNER 8500,"['CVE-2006-4680', 'CVE-2008-0303']",2022-03-19T15:14Z
+9,cpe:2.3:a:canon:imagerunner_9070:-:*:*:*:*:*:*:*,Canon imageRUNNER 9070,"['CVE-2006-4680', 'CVE-2008-0303']",2022-03-19T15:14Z

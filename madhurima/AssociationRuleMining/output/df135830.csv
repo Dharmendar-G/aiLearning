@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:telepresence_tc_software:5.1.7-cucm:*:*:*:*:*:*:*,Cisco TelePresence TC Software 5.1.7-CUCM,"['CVE-2013-3378', 'CVE-2014-2174', 'CVE-2015-0722', 'CVE-2017-6648']",2022-03-20T00:35Z
+1,cpe:2.3:a:cisco:telepresence_tc_software:5.1.11:*:*:*:*:*:*:*,Cisco TelePresence TC Software 5.1.11,"['CVE-2013-3378', 'CVE-2017-6648']",2022-03-20T00:35Z
+2,cpe:2.3:a:cisco:telepresence_tc_software:5.1.13:*:*:*:*:*:*:*,Cisco TelePresence TC Software 5.1.13,"['CVE-2013-3378', 'CVE-2017-6648']",2022-03-20T00:35Z
+3,cpe:2.3:a:cisco:telepresence_tc_software:5.1_base:*:*:*:*:*:*:*,Cisco TelePresence TC Software 5.1 BASE,"['CVE-2013-3378', 'CVE-2014-2174', 'CVE-2015-0722', 'CVE-2017-6648']",2022-03-20T00:35Z
+4,cpe:2.3:a:cisco:telepresence_tc_software:6.0.0:*:*:*:*:*:*:*,Cisco TelePresence TC Software 6.0.0,"['CVE-2013-3378', 'CVE-2014-2169', 'CVE-2014-2170', 'CVE-2014-2171', 'CVE-2014-2174', 'CVE-2015-0696', 'CVE-2015-0722', 'CVE-2017-6648']",2022-03-20T00:35Z
+5,cpe:2.3:a:cisco:telepresence_tc_software:6.0.0-cucm:*:*:*:*:*:*:*,Cisco TelePresence TC Software 6.0.0-CUCM,"['CVE-2013-3378', 'CVE-2014-2174', 'CVE-2015-0696', 'CVE-2015-0722', 'CVE-2017-6648']",2022-03-20T00:35Z
+6,cpe:2.3:a:cisco:telepresence_tc_software:6.0.1:*:*:*:*:*:*:*,Cisco TelePresence TC Software 6.0.1,"['CVE-2013-3378', 'CVE-2014-2169', 'CVE-2014-2174', 'CVE-2015-0696', 'CVE-2015-0722', 'CVE-2017-6648']",2022-03-20T00:35Z
+7,cpe:2.3:a:cisco:telepresence_tc_software:6.0.1-cucm:*:*:*:*:*:*:*,Cisco TelePresence TC Software 6.0.1-CUCM,"['CVE-2014-2174', 'CVE-2015-0696', 'CVE-2015-0722', 'CVE-2017-6648']",2022-03-20T00:35Z
+8,cpe:2.3:a:cisco:telepresence_tc_software:6.0.2:*:*:*:*:*:*:*,Cisco TelePresence TC Software 6.0.2,"['CVE-2014-2174', 'CVE-2015-0696', 'CVE-2015-0722', 'CVE-2017-6648']",2022-03-20T00:35Z
+9,cpe:2.3:a:cisco:telepresence_tc_software:6.0.3:*:*:*:*:*:*:*,Cisco TelePresence TC Software 6.0.3,"['CVE-2015-0722', 'CVE-2017-6648']",2022-03-20T00:35Z

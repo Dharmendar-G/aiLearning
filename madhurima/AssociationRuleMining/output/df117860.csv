@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:common_services_platform_collector:2.10:*:*:*:*:*:*:*,Cisco Common Services Platform Collector 2.10,['CVE-2021-34774'],2022-03-19T19:15Z
+1,cpe:2.3:o:cisco:conference_connection:-:*:*:*:*:*:*:*,Cisco Conference Connection,[''],2022-03-19T19:15Z
+2,cpe:2.3:o:cisco:conference_connection:1.1\(1\):*:*:*:*:*:*:*,Cisco Conference Connection 1.1 (1),"['CVE-2004-1759', 'CVE-2004-1760', 'CVE-2005-0356']",2022-03-19T19:15Z
+3,cpe:2.3:o:cisco:conference_connection:1.2:*:*:*:*:*:*:*,Cisco Conference Connection 1.2,"['CVE-2004-1759', 'CVE-2004-1760', 'CVE-2005-0356']",2022-03-19T19:15Z
+4,cpe:2.3:a:cisco:conference_director:2017-08-15:*:*:*:*:*:*:*,Cisco Conference Director 2017-08-15,['CVE-2017-12306'],2022-03-19T19:15Z
+5,cpe:2.3:a:cisco:conference_director:2017-08-30:*:*:*:*:*:*:*,Cisco Conference Director 2017-08-30,['CVE-2018-0119'],2022-03-19T19:15Z
+6,cpe:2.3:a:cisco:connected_grid_network_management_system:3.0\(0.35\):*:*:*:*:*:*:*,Cisco Connected Grid Network Management System (CG-NMS) 3.0(0.35),"['CVE-2015-6362', 'CVE-2017-6780']",2022-03-19T19:15Z
+7,cpe:2.3:a:cisco:connected_grid_network_management_system:3.0\(0.54\):*:*:*:*:*:*:*,Cisco Connected Grid Network Management System (CG-NMS) 3.0(0.54),"['CVE-2015-6362', 'CVE-2017-6780']",2022-03-19T19:15Z
+8,cpe:2.3:h:cisco:connected_grid_switch_2520:-:*:*:*:*:*:*:*,Cisco Connected Grid Switch 2520,['CVE-2020-3512'],2022-03-19T19:15Z
+9,cpe:2.3:a:cisco:connected_mobile_experiences:-:*:*:*:*:*:*:*,Cisco Connected Mobile Experiences,['CVE-2021-44228'],2022-03-19T19:15Z

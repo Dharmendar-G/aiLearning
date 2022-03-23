@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:unified_ip_interactive_voice_response:10.5\(1\):*:*:*:*:*:*:*,Cisco Unified IP Interactive Voice Response (IVR) 10.5(1),[''],2022-03-20T00:53Z
+1,cpe:2.3:a:cisco:unified_ip_interactive_voice_response:10.6\(1\):*:*:*:*:*:*:*,Cisco Unified IP Interactive Voice Response (IVR) 10.6(1),[''],2022-03-20T00:53Z
+2,cpe:2.3:a:cisco:unified_ip_interactive_voice_response:11.0\(1\):*:*:*:*:*:*:*,Cisco Unified IP Interactive Voice Response (IVR) 11.0(1),[''],2022-03-20T00:53Z
+3,cpe:2.3:a:cisco:unified_ip_interactive_voice_response:11.5\(1\):*:*:*:*:*:*:*,Cisco Unified IP Interactive Voice Response (IVR) 11.5(1),"['CVE-2018-0400', 'CVE-2018-0401', 'CVE-2018-0402', 'CVE-2018-0403']",2022-03-20T00:53Z
+4,cpe:2.3:a:cisco:unified_ip_interactive_voice_response:11.6\(1\):*:*:*:*:*:*:*,Cisco Unified IP Interactive Voice Response (IVR) 11.6(1),['CVE-2019-1888'],2022-03-20T00:53Z
+5,cpe:2.3:a:cisco:unified_ip_interactive_voice_response:11.6\(2\):*:*:*:*:*:*:*,Cisco Unified IP Interactive Voice Response (IVR) 11.6(2),['CVE-2019-1888'],2022-03-20T00:53Z
+6,cpe:2.3:a:cisco:unified_ip_interactive_voice_response:12.0\(1\):*:*:*:*:*:*:*,Cisco Unified IP Interactive Voice Response (IVR) 12.0(1),[''],2022-03-20T00:53Z
+7,cpe:2.3:a:cisco:unified_ip_interactive_voice_response:12.5\(1\):*:*:*:*:*:*:*,Cisco Unified IP Interactive Voice Response (IVR) 12.5(1),[''],2022-03-20T00:53Z
+8,cpe:2.3:a:cisco:unified_ip_ivr:6.0\(1\):*:*:*:*:*:*:*,Cisco Unified IP Interactive Voice Response 6.0(1),['CVE-2011-3315'],2022-03-20T00:53Z
+9,cpe:2.3:a:cisco:unified_ip_ivr:7.0\(1\):*:*:*:*:*:*:*,Cisco Unified IP Interactive Voice Response 7.0(1),"['CVE-2009-2047', 'CVE-2009-2048', 'CVE-2011-3315']",2022-03-20T00:53Z

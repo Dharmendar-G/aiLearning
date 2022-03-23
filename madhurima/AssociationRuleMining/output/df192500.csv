@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:doctrine-project:common:2.4.2:*:*:*:*:*:*:*,Doctrine Project Common 2.4.2,['CVE-2015-5723'],2022-03-20T16:42Z
+1,cpe:2.3:a:doctrine-project:common:2.5.0:-:*:*:*:*:*:*,Doctrine Project Common 2.5.0,['CVE-2015-5723'],2022-03-20T16:42Z
+2,cpe:2.3:a:doctrine-project:common:2.5.0:beta1:*:*:*:*:*:*,Doctrine Project Common 2.5.0 Beta 1,['CVE-2015-5723'],2022-03-20T16:42Z
+3,cpe:2.3:a:doctrine-project:common:2.5.1:*:*:*:*:*:*:*,Doctrine Project Common 2.5.1,[''],2022-03-20T16:42Z
+4,cpe:2.3:a:doctrine-project:common:2.5.2:*:*:*:*:*:*:*,Doctrine Project Common 2.5.2,[''],2022-03-20T16:42Z
+5,cpe:2.3:a:doctrine-project:common:2.5.3:*:*:*:*:*:*:*,Doctrine Project Common 2.5.3,[''],2022-03-20T16:43Z
+6,cpe:2.3:a:doctrine-project:common:2.6.0:*:*:*:*:*:*:*,Doctrine Project Common 2.6.0,[''],2022-03-20T16:42Z
+7,cpe:2.3:a:doctrine-project:common:2.6.1:*:*:*:*:*:*:*,Doctrine Project Common 2.6.1,[''],2022-03-20T16:43Z
+8,cpe:2.3:a:doctrine-project:common:2.6.2:*:*:*:*:*:*:*,Doctrine Project Common 2.6.2,[''],2022-03-20T16:43Z
+9,cpe:2.3:a:doctrine-project:common:2.7.0:*:*:*:*:*:*:*,Doctrine Project Common 2.7.0,[''],2022-03-20T16:43Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:duckduckgo:duckduckgo:5.21.0:*:*:*:*:android:*:*,DuckDuckGo 5.21.0 for Android,['CVE-2020-15502'],2022-03-20T18:38Z
+1,cpe:2.3:a:duckduckgo:duckduckgo:5.21.1:*:*:*:*:*:*:*,DuckDuckGo 5.21.1,[''],2022-03-20T18:38Z
+2,cpe:2.3:a:duckduckgo:duckduckgo:5.21.1:*:*:*:*:android:*:*,DuckDuckGo 5.21.1 for Android,['CVE-2020-15502'],2022-03-20T18:38Z
+3,cpe:2.3:a:duckduckgo:duckduckgo:5.21.2:*:*:*:*:*:*:*,DuckDuckGo 5.21.2,[''],2022-03-20T18:39Z
+4,cpe:2.3:a:duckduckgo:duckduckgo:5.21.2:*:*:*:*:android:*:*,DuckDuckGo 5.21.2 for Android,['CVE-2020-15502'],2022-03-20T18:39Z
+5,cpe:2.3:a:duckduckgo:duckduckgo:5.22.0:*:*:*:*:*:*:*,DuckDuckGo 5.22.0,[''],2022-03-20T18:39Z
+6,cpe:2.3:a:duckduckgo:duckduckgo:5.22.0:*:*:*:*:android:*:*,DuckDuckGo 5.22.0 for Android,['CVE-2020-15502'],2022-03-20T18:39Z
+7,cpe:2.3:a:duckduckgo:duckduckgo:5.22.1:*:*:*:*:*:*:*,DuckDuckGo 5.22.1,[''],2022-03-20T18:39Z
+8,cpe:2.3:a:duckduckgo:duckduckgo:5.22.1:*:*:*:*:android:*:*,DuckDuckGo 5.22.1 for Android,['CVE-2020-15502'],2022-03-20T18:39Z
+9,cpe:2.3:a:duckduckgo:duckduckgo:5.23.0:*:*:*:*:*:*:*,DuckDuckGo 5.23.0,[''],2022-03-20T18:39Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ckeditor:fckeditor:6.x-1.3:rc7:*:*:*:*:*:*,CKeditor FCKeditor plugin for Drupal 1.3 release candidate 7,"['CVE-2012-2066', 'CVE-2012-2067']",2022-03-20T02:01Z
+1,cpe:2.3:a:ckeditor:fckeditor:6.x-1.4:*:*:*:*:*:*:*,CKeditor FCKeditor plugin for Drupal 1.4,"['CVE-2012-2066', 'CVE-2012-2067']",2022-03-20T02:01Z
+2,cpe:2.3:a:ckeditor:fckeditor:6.x-1.4:rc1:*:*:*:*:*:*,CKeditor FCKeditor plugin for Drupal 1.4 release canidate 1,"['CVE-2012-2066', 'CVE-2012-2067']",2022-03-20T02:01Z
+3,cpe:2.3:a:ckeditor:fckeditor:6.x-1.4:rc2:*:*:*:*:*:*,CKeditor FCKeditor plugin for Drupal 1.4 release candidate 2,"['CVE-2012-2066', 'CVE-2012-2067']",2022-03-20T02:01Z
+4,cpe:2.3:a:ckeditor:fckeditor:6.x-1.x:dev:*:*:*:*:*:*,CKeditor FCKeditor plugin for Drupal 1.x-dev,"['CVE-2012-2066', 'CVE-2012-2067']",2022-03-20T02:01Z
+5,cpe:2.3:a:ckeditor:fckeditor:6.x-2.0:*:*:*:*:*:*:*,CKeditor FCKeditor plugin for Drupal 6.x-2.0,"['CVE-2012-2066', 'CVE-2012-2067']",2022-03-20T02:01Z
+6,cpe:2.3:a:ckeditor:fckeditor:6.x-2.0:alpha1:*:*:*:*:*:*,CKeditor FCKeditor plugin for Drupal 2.0 alpha1,"['CVE-2012-2066', 'CVE-2012-2067']",2022-03-20T02:01Z
+7,cpe:2.3:a:ckeditor:fckeditor:6.x-2.0:alpha3:*:*:*:*:*:*,CKeditor FCKeditor plugin for Drupal 2.0 alpha3,"['CVE-2012-2066', 'CVE-2012-2067']",2022-03-20T02:01Z
+8,cpe:2.3:a:ckeditor:fckeditor:6.x-2.0:alpha4:*:*:*:*:*:*,CKeditor FCKeditor plugin for Drupal 2.0 alpha4,"['CVE-2012-2066', 'CVE-2012-2067']",2022-03-20T02:01Z
+9,cpe:2.3:a:ckeditor:fckeditor:6.x-2.0:alpha5:*:*:*:*:*:*,CKeditor FCKeditor plugin for Drupal 2.0 alpha5,"['CVE-2012-2066', 'CVE-2012-2067']",2022-03-20T02:01Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:dlink:dwr-932c_firmware:1.0.0.4:*:*:*:*:*:*:*,D-Link DWR-932C Firmware 1.0.0.4,[''],2022-03-20T15:57Z
+1,cpe:2.3:o:dlink:dwr-933_firmware:1.00\(ww\)b17:*:*:*:*:*:*:*,D-Link DWR-933 Firmware 1.00(WW)B17,['CVE-2017-16765'],2022-03-20T15:57Z
+2,cpe:2.3:h:dlink:eyeon_baby_monitor:-:*:*:*:*:*:*:*,Dlink Eyeon Baby Monitor,"['CVE-2017-11563', 'CVE-2017-11564']",2022-03-20T15:57Z
+3,cpe:2.3:o:dlink:eyeon_baby_monitor_firmware:1.08.1:*:*:*:*:*:*:*,Dlink Eyeon Baby Monitor Firmware 1.08.1,"['CVE-2017-11563', 'CVE-2017-11564']",2022-03-20T15:57Z
+4,[0],[0],[0],[0]
+5,cpe:2.3:o:dlink:singapore_starhub_firmware:1.21shcb03:*:*:*:*:*:*:*,D-Link Singapore StarHub Firmware 1.21SHCB03,[''],2022-03-20T15:57Z
+6,cpe:2.3:h:dlink:wcs-1100:-:*:*:*:*:*:*:*,D-Link WCS-1100,"['CVE-2013-1599', 'CVE-2013-1601', 'CVE-2013-1602', 'CVE-2013-1603']",2022-03-20T15:57Z
+7,cpe:2.3:o:dlink:wcs-1100_firmware:1.00:*:*:*:*:*:*:*,D-Link  WCS-1100 Firmware 1.00,"['CVE-2013-1599', 'CVE-2013-1601', 'CVE-2013-1602', 'CVE-2013-1603']",2022-03-20T15:57Z
+8,cpe:2.3:o:dlink:wcs-1100_firmware:1.02:*:*:*:*:*:*:*,D-Link WCS-1100 Firmware 1.02,[''],2022-03-20T15:57Z
+9,cpe:2.3:o:dlink:websmart_dgs-1510_series_firmware:1.31.b001:*:*:*:*:*:*:*,D-Link Websmart DGS-1510 Series Firmware 1.31.B001,"['CVE-2017-6205', 'CVE-2017-6206']",2022-03-20T15:57Z

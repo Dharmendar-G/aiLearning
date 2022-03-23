@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:storwize_v3700_software:7.1.0.12:*:*:*:*:*:*:*,IBM Storwize V3700 Software 7.1.0.12,[''],2022-03-21T22:27Z
+1,cpe:2.3:a:ibm:storwize_v3700_software:7.2.0.0:*:*:*:*:*:*:*,IBM Storwize V3700 software 7.2.0.0,['CVE-2014-0880'],2022-03-21T22:27Z
+2,cpe:2.3:a:ibm:storwize_v3700_software:7.2.0.1:*:*:*:*:*:*:*,IBM Storwize V3700 software 7.2.0.1,['CVE-2014-0880'],2022-03-21T22:27Z
+3,cpe:2.3:a:ibm:storwize_v3700_software:7.2.0.2:*:*:*:*:*:*:*,IBM Storwize V3700 software 7.2.0.2,['CVE-2014-0880'],2022-03-21T22:27Z
+4,cpe:2.3:a:ibm:storwize_v3700_software:7.2.0.3:*:*:*:*:*:*:*,IBM Storwize V3700 software 7.2.0.3,[''],2022-03-21T22:27Z
+5,cpe:2.3:a:ibm:storwize_v3700_software:7.2.0.4:*:*:*:*:*:*:*,IBM Storwize V3700 Software 7.2.0.4,[''],2022-03-21T22:27Z
+6,cpe:2.3:a:ibm:storwize_v3700_software:7.2.0.5:*:*:*:*:*:*:*,IBM Storwize V3700 Software 7.2.0.5,[''],2022-03-21T22:27Z
+7,cpe:2.3:a:ibm:storwize_v3700_software:7.2.0.6:*:*:*:*:*:*:*,IBM Storwize V3700 Software 7.2.0.6,[''],2022-03-21T22:27Z
+8,cpe:2.3:a:ibm:storwize_v3700_software:7.2.0.7:*:*:*:*:*:*:*,IBM Storwize V3700 Software 7.2.0.7,[''],2022-03-21T22:27Z
+9,cpe:2.3:a:ibm:storwize_v3700_software:7.2.0.8:*:*:*:*:*:*:*,IBM Storwize V3700 Software 7.2.0.8,[''],2022-03-21T22:27Z

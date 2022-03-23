@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:2.0\(1t\):*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 2.0(1t),"['CVE-2013-1178', 'CVE-2013-1181', 'CVE-2013-1185', 'CVE-2013-1186']",2022-03-20T00:50Z
+1,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:2.0\(1w\):*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 2.0(1w),"['CVE-2013-1178', 'CVE-2013-1185', 'CVE-2013-1186']",2022-03-20T00:50Z
+2,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:2.0\(1x\):*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 2.0(1x),"['CVE-2013-1178', 'CVE-2013-1185', 'CVE-2013-1186']",2022-03-20T00:50Z
+3,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:2.0\(2m\):*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 2.0(2m),[''],2022-03-20T00:50Z
+4,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:2.0\(2q\):*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 2.0(2q),[''],2022-03-20T00:50Z
+5,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:2.0\(2r\):*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 2.0(2r),[''],2022-03-20T00:50Z
+6,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:2.0\(3a\):*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 2.0(3a),[''],2022-03-20T00:50Z
+7,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:2.0\(3b\):*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 2.0(3b),[''],2022-03-20T00:50Z
+8,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:2.0\(3c\):*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 2.0(3c),[''],2022-03-20T00:50Z
+9,cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:2.0\(4a\):*:*:*:*:*:*:*,Cisco UCS Infrastructure and UCS Manager Software 2.0(4a),[''],2022-03-20T00:50Z

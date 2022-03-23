@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:hitachi:groupmax_collaboration:07-20:-:server:*:*:*:*:*,Hitachi Groupmax Collaboration - Server 07-20,['CVE-2009-4776'],2022-03-21T11:19Z
+1,cpe:2.3:a:hitachi:groupmax_collaboration:07-20-\/d:-:server:*:*:*:*:*,Hitachi Groupmax Collaboration - Server 07-20-/D,['CVE-2009-4776'],2022-03-21T11:19Z
+2,cpe:2.3:a:hitachi:groupmax_collaboration:07-20-\/e:-:server:*:*:*:*:*,Hitachi Groupmax Collaboration - Server 07-20-/E,[''],2022-03-21T11:19Z
+3,cpe:2.3:a:hitachi:groupmax_collaboration:07-30:-:server:*:*:*:*:*,Hitachi Groupmax Collaboration - Server 07-30,['CVE-2009-4776'],2022-03-21T11:19Z
+4,cpe:2.3:a:hitachi:groupmax_collaboration:07-30-\/f:-:server:*:*:*:*:*,Hitachi Groupmax Collaboration - Server 07-30-/F,['CVE-2009-4776'],2022-03-21T11:19Z
+5,cpe:2.3:a:hitachi:groupmax_collaboration:07-30-\/g:-:server:*:*:*:*:*,Hitachi Groupmax Collaboration - Server 07-30-/G,[''],2022-03-21T11:19Z
+6,cpe:2.3:a:hitachi:groupmax_collaboration:07-35:-:server:*:*:*:*:*,Hitachi Groupmax Collaboration - Server 07-35,['CVE-2009-4776'],2022-03-21T11:19Z
+7,cpe:2.3:a:hitachi:groupmax_collaboration:07-35-\/f:-:server:*:*:*:*:*,Hitachi Groupmax Collaboration - Server 07-35-/F,['CVE-2009-4776'],2022-03-21T11:19Z
+8,cpe:2.3:a:hitachi:groupmax_collaboration:07-35-\/g:-:server:*:*:*:*:*,Hitachi Groupmax Collaboration - Server 07-35-/G,[''],2022-03-21T11:19Z
+9,[0],[0],[0],[0]

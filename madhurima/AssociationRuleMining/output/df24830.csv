@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:analogx:simpleserver_www:1.0.6:*:*:*:*:*:*:*,AnalogX SimpleServer 1.0.6,"['CVE-2000-0664', 'CVE-2001-0386', 'CVE-2001-1586', 'CVE-2002-0968']",2022-03-18T16:22Z
+1,cpe:2.3:a:analogx:simpleserver_www:1.0.8:*:*:*:*:*:*:*,AnalogX SimpleServer 1.0.8,"['CVE-2001-0386', 'CVE-2001-1586', 'CVE-2002-0968']",2022-03-18T16:22Z
+2,cpe:2.3:a:analogx:simpleserver_www:1.01:*:*:*:*:*:*:*,AnalogX SimpleServer 1.01,"['CVE-2000-0473', 'CVE-2001-1586', 'CVE-2002-0968']",2022-03-18T16:22Z
+3,cpe:2.3:a:analogx:simpleserver_www:1.03:*:*:*:*:*:*:*,AnalogX SimpleServer 1.03,"['CVE-2000-0473', 'CVE-2001-1586', 'CVE-2002-0968']",2022-03-18T16:22Z
+4,cpe:2.3:a:analogx:simpleserver_www:1.04:*:*:*:*:*:*:*,AnalogX SimpleServer 1.04,"['CVE-2000-0473', 'CVE-2001-1586', 'CVE-2002-0968']",2022-03-18T16:22Z
+5,cpe:2.3:a:analogx:simpleserver_www:1.05:*:*:*:*:*:*:*,AnalogX SimpleServer 1.05,"['CVE-2000-0473', 'CVE-2001-1586', 'CVE-2002-0968']",2022-03-18T16:22Z
+6,cpe:2.3:a:analogx:simpleserver_www:1.06:*:*:*:*:*:*:*,AnalogX SimpleServer 1.06,"['CVE-2000-0473', 'CVE-2001-1586', 'CVE-2002-0968']",2022-03-18T16:22Z
+7,cpe:2.3:a:analogx:simpleserver_www:1.16:*:*:*:*:*:*:*,AnalogX SimpleServer WWW 1.16,['CVE-2002-0968'],2022-03-18T16:22Z
+8,cpe:2.3:a:analytics_tracker_project:analytics_tracker:1.0.0:*:*:*:*:wordpress:*:*,Analytics Tracker Project Analytics Tracker 1.0.0 for WordPress,['CVE-2017-18554'],2022-03-18T16:22Z
+9,cpe:2.3:a:analytics_tracker_project:analytics_tracker:1.0.1:*:*:*:*:wordpress:*:*,Analytics Tracker Project Analytics Tracker 1.0.1 for WordPress,['CVE-2017-18554'],2022-03-18T16:22Z

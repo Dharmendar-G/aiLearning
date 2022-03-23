@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:intelligent_operations_center:1.0.0.1:*:*:*:*:*:*:*,IBM Intelligent Operations Center 1.0.0.1,[''],2022-03-21T20:52Z
+1,cpe:2.3:a:ibm:intelligent_operations_center:1.5.0:*:*:*:*:*:*:*,IBM Intelligent Operations Center 1.5.0,['CVE-2012-6360'],2022-03-21T20:52Z
+2,cpe:2.3:a:ibm:intelligent_operations_center:1.5.0.1:*:*:*:*:*:*:*,IBM Intelligent Operations Center 1.5.0.1,[''],2022-03-21T20:52Z
+3,cpe:2.3:a:ibm:intelligent_operations_center:1.6.0:*:*:*:*:*:*:*,IBM Intelligent Operations Center 1.6.0,[''],2022-03-21T20:52Z
+4,cpe:2.3:a:ibm:intelligent_operations_center:5.1.0:*:*:*:*:*:*:*,IBM Intelligent Operations Center 5.1.0,"['CVE-2019-4066', 'CVE-2019-4067', 'CVE-2019-4068', 'CVE-2019-4069', 'CVE-2019-4070', 'CVE-2019-4321', 'CVE-2019-4419', 'CVE-2019-4420', 'CVE-2020-4317', 'CVE-2020-4318']",2022-03-21T20:52Z
+5,cpe:2.3:a:ibm:intelligent_operations_center:5.1.0.1:*:*:*:*:*:*:*,IBM Intelligent Operations Center 5.1.0.1,"['CVE-2019-4066', 'CVE-2019-4067', 'CVE-2019-4068', 'CVE-2019-4069', 'CVE-2019-4070', 'CVE-2019-4321', 'CVE-2019-4419', 'CVE-2019-4420']",2022-03-21T20:52Z
+6,cpe:2.3:a:ibm:intelligent_operations_center:5.1.0.2:*:*:*:*:*:*:*,IBM Intelligent Operations Center 5.1.0.2,"['CVE-2019-4066', 'CVE-2019-4067', 'CVE-2019-4068', 'CVE-2019-4069', 'CVE-2019-4070', 'CVE-2019-4321', 'CVE-2019-4419', 'CVE-2019-4420', 'CVE-2020-4317', 'CVE-2020-4318']",2022-03-21T20:52Z
+7,cpe:2.3:a:ibm:intelligent_operations_center:5.1.0.3:*:*:*:*:*:*:*,IBM Intelligent Operations Center 5.1.0.3,"['CVE-2019-4066', 'CVE-2019-4067', 'CVE-2019-4068', 'CVE-2019-4069', 'CVE-2019-4070', 'CVE-2019-4321', 'CVE-2019-4419', 'CVE-2019-4420', 'CVE-2020-4317', 'CVE-2020-4318']",2022-03-21T20:52Z
+8,cpe:2.3:a:ibm:intelligent_operations_center:5.1.0.4:*:*:*:*:*:*:*,IBM Intelligent Operations Center 5.1.0.4,"['CVE-2019-4066', 'CVE-2019-4067', 'CVE-2019-4068', 'CVE-2019-4069', 'CVE-2019-4070', 'CVE-2019-4321', 'CVE-2019-4419', 'CVE-2019-4420', 'CVE-2020-4317', 'CVE-2020-4318']",2022-03-21T20:52Z
+9,cpe:2.3:a:ibm:intelligent_operations_center:5.1.0.6:*:*:*:*:*:*:*,IBM Intelligent Operations Center 5.1.0.6,"['CVE-2019-4066', 'CVE-2019-4067', 'CVE-2019-4068', 'CVE-2019-4069', 'CVE-2019-4070', 'CVE-2019-4321', 'CVE-2019-4419', 'CVE-2019-4420', 'CVE-2020-4317', 'CVE-2020-4318']",2022-03-21T20:52Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apple:logic_pro_x:10.0.3:*:*:*:*:*:*:*,Apple Logic Pro X 10.0.3,['CVE-2017-2372'],2022-03-18T22:08Z
+1,cpe:2.3:a:apple:logic_pro_x:10.0.4:*:*:*:*:*:*:*,Apple Logic Pro X 10.0.4,['CVE-2017-2372'],2022-03-18T22:08Z
+2,cpe:2.3:a:apple:logic_pro_x:10.0.5:*:*:*:*:*:*:*,Apple Logic Pro X 10.0.5,['CVE-2017-2372'],2022-03-18T22:08Z
+3,cpe:2.3:a:apple:logic_pro_x:10.0.6:*:*:*:*:*:*:*,Apple Logic Pro X 10.0.6,['CVE-2017-2372'],2022-03-18T22:08Z
+4,cpe:2.3:a:apple:logic_pro_x:10.0.7:*:*:*:*:*:*:*,Apple Logic Pro X 10.0.7,['CVE-2017-2372'],2022-03-18T22:08Z
+5,cpe:2.3:a:apple:logic_pro_x:10.1:*:*:*:*:*:*:*,Apple Logic Pro X 10.1,['CVE-2017-2372'],2022-03-18T22:08Z
+6,cpe:2.3:a:apple:logic_pro_x:10.1.1:*:*:*:*:*:*:*,Apple Logic Pro X 10.1.1,['CVE-2017-2372'],2022-03-18T22:08Z
+7,cpe:2.3:a:apple:logic_pro_x:10.2:*:*:*:*:*:*:*,Apple Logic Pro X 10.2,['CVE-2017-2372'],2022-03-18T22:08Z
+8,cpe:2.3:a:apple:logic_pro_x:10.2.1:*:*:*:*:*:*:*,Apple Logic Pro X 10.2.1,['CVE-2017-2372'],2022-03-18T22:08Z
+9,cpe:2.3:a:apple:logic_pro_x:10.2.2:*:*:*:*:*:*:*,Apple Logic Pro X 10.2.2,['CVE-2017-2372'],2022-03-18T22:08Z

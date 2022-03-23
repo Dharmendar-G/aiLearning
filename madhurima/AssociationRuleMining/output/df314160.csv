@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:honeywell:hcw4g:-:*:*:*:*:*:*:*,Honeywell HCW4G,"['CVE-2019-18226', 'CVE-2019-18230']",2022-03-21T11:41Z
+1,cpe:2.3:o:honeywell:hcw4g_firmware:-:*:*:*:*:*:*:*,Honeywell HCW4G Firmware,"['CVE-2019-18226', 'CVE-2019-18230']",2022-03-21T11:41Z
+2,cpe:2.3:o:honeywell:hcw4g_firmware:1.000.hw00.21.20190812:*:*:*:*:*:*:*,Honeywell HCW4G Firmware 1.000.hw00.21.20190812,[''],2022-03-21T11:41Z
+3,cpe:2.3:h:honeywell:hdz302d:-:*:*:*:*:*:*:*,Honeywell HDZ302D,"['CVE-2019-18226', 'CVE-2019-18230']",2022-03-21T11:41Z
+4,cpe:2.3:o:honeywell:hdz302d_firmware:-:*:*:*:*:*:*:*,Honeywell HDZ302D Firmware,"['CVE-2019-18226', 'CVE-2019-18230']",2022-03-21T11:41Z
+5,cpe:2.3:o:honeywell:hdz302d_firmware:1.000.0041.20180530:*:*:*:*:*:*:*,Honeywell HDZ302D Firmware 1.000.0041.20180530,[''],2022-03-21T11:41Z
+6,cpe:2.3:h:honeywell:hdz302de:-:*:*:*:*:*:*:*,Honeywell HDZ302DE,"['CVE-2019-18226', 'CVE-2019-18230']",2022-03-21T11:41Z
+7,cpe:2.3:o:honeywell:hdz302de_firmware:-:*:*:*:*:*:*:*,Honeywell HDZ302DE Firmware,"['CVE-2019-18226', 'CVE-2019-18230']",2022-03-21T11:41Z
+8,cpe:2.3:o:honeywell:hdz302de_firmware:1.000.0041.20180530:*:*:*:*:*:*:*,Honeywell HDZ302DE Firmware 1.000.0041.20180530,[''],2022-03-21T11:41Z
+9,cpe:2.3:h:honeywell:hdz302din:-:*:*:*:*:*:*:*,Honeywell HDZ302DIN,['CVE-2019-18230'],2022-03-21T11:41Z

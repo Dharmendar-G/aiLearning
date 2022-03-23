@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:nx-os:base:*:*:*:*:nexus_6000_series:*:*,Cisco NX-OS Base for Nexus 6000 Series,['CVE-2017-6770'],2022-03-19T23:35Z
+1,cpe:2.3:a:cisco:nx-os:base:*:*:*:*:nexus_7000_series:*:*,Cisco NX-OS Base for Nexus 7000 Series,"['CVE-2016-1453', 'CVE-2017-6770']",2022-03-19T23:35Z
+2,cpe:2.3:a:cisco:nx-os:base:*:*:*:*:nexus_9000_series:*:*,Cisco NX-OS Base for Nexus 9000 Series,['CVE-2017-6770'],2022-03-19T23:35Z
+3,cpe:2.3:o:cisco:nx-os:r231:*:*:*:*:*:*:*,Cisco NX-OS R231,['CVE-2018-0395'],2022-03-19T23:35Z
+4,cpe:2.3:o:cisco:nx-os_1000v_switch:4.0\(4\)sv1\(1\):*:*:*:*:vmware_vsphere:*:*,Cisco NX-OS Software Cisco Nexus 1000V Switch for VMware vSphere 4.0(4)SV1(1),[''],2022-03-19T23:35Z
+5,cpe:2.3:o:cisco:nx-os_1000v_switch:4.0\(4\)sv1\(2\):*:*:*:*:vmware_vsphere:*:*,Cisco NX-OS Software Cisco Nexus 1000V Switch for VMware vSphere 4.0(4)SV1(2),[''],2022-03-19T23:35Z
+6,cpe:2.3:o:cisco:nx-os_1000v_switch:4.0\(4\)sv1\(3\):*:*:*:*:vmware_vsphere:*:*,Cisco NX-OS Software Cisco Nexus 1000V Switch for VMware vSphere 4.0(4)SV1(3),[''],2022-03-19T23:35Z
+7,cpe:2.3:o:cisco:nx-os_1000v_switch:4.0\(4\)sv1\(3a\):*:*:*:*:vmware_vsphere:*:*,Cisco NX-OS Software Cisco Nexus 1000V Switch for VMware vSphere 4.0(4)SV1(3a),[''],2022-03-19T23:35Z
+8,cpe:2.3:o:cisco:nx-os_1000v_switch:4.0\(4\)sv1\(3b\):*:*:*:*:vmware_vsphere:*:*,Cisco NX-OS Software Cisco Nexus 1000V Switch for VMware vSphere 4.0(4)SV1(3b),[''],2022-03-19T23:35Z
+9,cpe:2.3:o:cisco:nx-os_1000v_switch:4.0\(4\)sv1\(3c\):*:*:*:*:vmware_vsphere:*:*,Cisco NX-OS Software Cisco Nexus 1000V Switch for VMware vSphere 4.0(4)SV1(3c),[''],2022-03-19T23:35Z

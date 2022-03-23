@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:blackberry:blackberry_world:5.1.0.52:*:*:*:*:*:*:*,Blackberry World 5.1.0.52,['CVE-2014-6611'],2022-03-19T08:35Z
+1,cpe:2.3:a:blackberry:enterprise_mobility_server:-:*:*:*:*:*:*:*,BlackBerry Enterprise Mobility Server,['CVE-2018-8889'],2022-03-19T08:35Z
+2,cpe:2.3:a:blackberry:enterprise_mobility_server:2.6:*:*:*:*:*:*:*,BlackBerry Enterprise Mobility Server 2.6,['CVE-2018-8889'],2022-03-19T08:35Z
+3,cpe:2.3:a:blackberry:enterprise_mobility_server:2.8:*:*:*:*:*:*:*,BlackBerry Enterprise Mobility Server 2.8,['CVE-2018-8889'],2022-03-19T08:35Z
+4,cpe:2.3:a:blackberry:enterprise_mobility_server:2.8.17.29:*:*:*:*:*:*:*,BlackBerry Enterprise Mobility Server 2.8.17.29,['CVE-2018-8889'],2022-03-19T08:35Z
+5,cpe:2.3:a:blackberry:enterprise_mobility_server:2.9:*:*:*:*:*:*:*,BlackBerry Enterprise Mobility Server 2.9,[''],2022-03-19T08:35Z
+6,cpe:2.3:a:blackberry:enterprise_mobility_server:2.9.13.15:*:*:*:*:*:*:*,BlackBerry Enterprise Mobility Server 2.9.13.15,[''],2022-03-19T08:35Z
+7,cpe:2.3:a:blackberry:enterprise_mobility_server:2.10.4.8:*:*:*:*:*:*:*,BlackBerry Enterprise Mobility Server 2.10.4.8,[''],2022-03-19T08:35Z
+8,cpe:2.3:a:blackberry:enterprise_mobility_server:2.10.6.10:*:*:*:*:*:*:*,BlackBerry Enterprise Mobility Server 2.10.6.10,[''],2022-03-19T08:35Z
+9,cpe:2.3:a:blackberry:enterprise_mobility_server:2.12.5.6:*:*:*:*:*:*:*,BlackBerry Enterprise Mobility Server 2.12.5.6,[''],2022-03-19T08:35Z

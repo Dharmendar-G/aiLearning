@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,[0],[0],[0],[0]
+1,[0],[0],[0],[0]
+2,[0],[0],[0],[0]
+3,[0],[0],[0],[0]
+4,cpe:2.3:a:airsonic_project:airsonic:6.0.1:*:*:*:*:*:*:*,Airsonic Project Airsonic 6.0.1,['CVE-2018-20222'],2022-03-18T13:56Z
+5,cpe:2.3:a:airsonic_project:airsonic:6.1:*:*:*:*:*:*:*,Airsonic Project Airsonic 6.1,['CVE-2018-20222'],2022-03-18T13:56Z
+6,cpe:2.3:a:airsonic_project:airsonic:6.2:*:*:*:*:*:*:*,Airsonic Project Airsonic 6.2,['CVE-2018-20222'],2022-03-18T13:57Z
+7,cpe:2.3:a:airsonic_project:airsonic:6.2.1:*:*:*:*:*:*:*,Airsonic Project Airsonic 6.2.1,['CVE-2018-20222'],2022-03-18T13:57Z
+8,cpe:2.3:a:airsonic_project:airsonic:10.0.0:*:*:*:*:*:*:*,Airsonic Project Airsonic 10.0.0,['CVE-2018-20222'],2022-03-18T13:57Z
+9,cpe:2.3:a:airsonic_project:airsonic:10.0.1:*:*:*:*:*:*:*,Airsonic Project Airsonic 10.0.1,['CVE-2018-20222'],2022-03-18T13:57Z

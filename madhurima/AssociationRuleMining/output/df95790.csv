@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:buffalo:whr-g301n:-:*:*:*:*:*:*:*,Buffalo WHR-G301N,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:15Z
+1,cpe:2.3:o:buffalo:whr-g301n_firmware:-:*:*:*:*:*:*:*,Buffalo WHR-G301N FIRMWARE,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:15Z
+2,cpe:2.3:o:buffalo:whr-g301n_firmware:1.86:*:*:*:*:*:*:*,Buffalo WHR-G301N FIRMWARE 1.86,"['CVE-2021-3511', 'CVE-2021-3512']",2022-03-19T13:15Z
+3,cpe:2.3:o:buffalo:whr-g301n_firmware:1.87:*:*:*:*:*:*:*,Buffalo WHR-G301N FIRMWARE 1.87,[''],2022-03-19T13:15Z
+4,cpe:2.3:h:buffalo:whr-g54:-:*:*:*:*:*:*:*,Buffalo WHR-G54,['CVE-2021-20716'],2022-03-19T13:15Z
+5,cpe:2.3:o:buffalo:whr-g54_firmware:-:*:*:*:*:*:*:*,Buffalo WHR-G54 FIRMWARE,['CVE-2021-20716'],2022-03-19T13:15Z
+6,cpe:2.3:o:buffalo:whr-g54_firmware:2.16:*:*:*:*:*:*:*,Buffalo WHR-G54 FIRMWARE 2.16,['CVE-2021-20716'],2022-03-19T13:15Z
+7,cpe:2.3:h:buffalo:whr-g54-nf:-:*:*:*:*:*:*:*,Buffalo WHR-G54-NF,['CVE-2021-20716'],2022-03-19T13:15Z
+8,cpe:2.3:o:buffalo:whr-g54-nf_firmware:-:*:*:*:*:*:*:*,Buffalo WHR-G54-NF FIRMWARE,['CVE-2021-20716'],2022-03-19T13:15Z
+9,cpe:2.3:o:buffalo:whr-g54-nf_firmware:2.10:*:*:*:*:*:*:*,Buffalo WHR-G54-NF FIRMWARE 2.10,['CVE-2021-20716'],2022-03-19T13:15Z

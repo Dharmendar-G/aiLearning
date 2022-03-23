@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:buffalotech:whr-hp-g54:-:*:*:*:*:*:*:*,BUFFALO WHR-HP-G54,['CVE-2011-1324'],2022-03-19T13:22Z
+1,cpe:2.3:a:buffalotech:whr-hp-g54_firmware:-:*:*:*:*:*:*:*,バッファロー WHR-HP-G54 ファームウェア,[''],2022-03-19T13:22Z
+2,cpe:2.3:a:buffalotech:whr-hp-g54_firmware:1.20:*:*:*:*:*:*:*,BUFFALO WHR-HP-G54 Firmware 1.20,['CVE-2011-1324'],2022-03-19T13:22Z
+3,cpe:2.3:a:buffalotech:whr-hp-g54_firmware:1.21:*:*:*:*:*:*:*,BUFFALO WHR-HP-G54 Firmware 1.21,['CVE-2011-1324'],2022-03-19T13:22Z
+4,cpe:2.3:a:buffalotech:whr-hp-g54_firmware:1.23:*:*:*:*:*:*:*,BUFFALO WHR-HP-G54 Firmware 1.23,['CVE-2011-1324'],2022-03-19T13:22Z
+5,cpe:2.3:a:buffalotech:whr-hp-g54_firmware:1.38:*:*:*:*:*:*:*,バッファロー WHR-HP-G54 ファームウェア 1.38,['CVE-2011-1324'],2022-03-19T13:22Z
+6,cpe:2.3:a:buffalotech:whr-hp-g54_firmware:1.40:*:*:*:*:*:*:*,バッファロー WHR-HP-G54 ファームウェア 1.40,['CVE-2011-1324'],2022-03-19T13:22Z
+7,cpe:2.3:a:buffalotech:whr-hp-g54_firmware:1.42:*:*:*:*:*:*:*,BUFFALO WHR-HP-G54 Firmware 1.42,['CVE-2011-1324'],2022-03-19T13:22Z
+8,cpe:2.3:a:buffalotech:whr-hp-g54_firmware:1.43:*:*:*:*:*:*:*,BUFFALO WHR-HP-G54 Firmware 1.43,[''],2022-03-19T13:22Z
+9,cpe:2.3:h:buffalotech:wmr-300:-:*:*:*:*:*:*:*,BUFFALO WMR-300,"['CVE-2014-9284', 'CVE-2016-1134', 'CVE-2016-1135']",2022-03-19T13:22Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dialogic:powermedia_xms:3.5:*:*:*:*:*:*:*,Dialogic PowerMedia XMS 3.5,"['CVE-2018-11634', 'CVE-2018-11635', 'CVE-2018-11636', 'CVE-2018-11637', 'CVE-2018-11638', 'CVE-2018-11639', 'CVE-2018-11640', 'CVE-2018-11641', 'CVE-2018-11642', 'CVE-2018-11643']",2022-03-20T14:00Z
+1,cpe:2.3:a:dialogic:powermedia_xms:3.5:su1:*:*:*:*:*:*,Dialogic PowerMedia XMS 3.5 Service Update 1,"['CVE-2018-11634', 'CVE-2018-11635', 'CVE-2018-11636', 'CVE-2018-11637', 'CVE-2018-11638', 'CVE-2018-11639', 'CVE-2018-11640', 'CVE-2018-11641', 'CVE-2018-11642', 'CVE-2018-11643']",2022-03-20T14:00Z
+2,cpe:2.3:h:dialog-semiconductor:da14580:-:*:*:*:*:*:*:*,Dialog-semiconductor DA14580,['CVE-2019-17517'],2022-03-20T14:00Z
+3,cpe:2.3:h:dialog-semiconductor:da14580\/1:-:*:*:*:*:*:*:*,Dialog Semiconductor DA14580/1,[''],2022-03-20T14:00Z
+4,cpe:2.3:h:dialog-semiconductor:da14580\/2:-:*:*:*:*:*:*:*,Dialog Semiconductor DA14580/2,[''],2022-03-20T14:00Z
+5,cpe:2.3:h:dialog-semiconductor:da14580\/3:-:*:*:*:*:*:*:*,Dialog Semiconductor DA14580/3,[''],2022-03-20T14:00Z
+6,cpe:2.3:h:dialog-semiconductor:da14581:-:*:*:*:*:*:*:*,Dialog-semiconductor DA14581,['CVE-2019-17517'],2022-03-20T14:00Z
+7,cpe:2.3:h:dialog-semiconductor:da14582:-:*:*:*:*:*:*:*,Dialog-semiconductor DA14582,['CVE-2019-17517'],2022-03-20T14:00Z
+8,cpe:2.3:h:dialog-semiconductor:da14583:-:*:*:*:*:*:*:*,Dialog-semiconductor DA14583,['CVE-2019-17517'],2022-03-20T14:00Z
+9,cpe:2.3:h:dialog-semiconductor:da14680:-:*:*:*:*:*:*:*,dialog SEMICONDUCTOR DA14680,['CVE-2019-17518'],2022-03-20T14:00Z

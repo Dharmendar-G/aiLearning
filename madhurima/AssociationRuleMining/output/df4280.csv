@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:abi_stable_project:abi_stable:0.3:*:*:*:*:rust:*:*,abi stable Project abi stable 0.3 for Rust,"['CVE-2020-36212', 'CVE-2020-36213']",2022-03-18T10:39Z
+1,cpe:2.3:a:abi_stable_project:abi_stable:0.4:*:*:*:*:rust:*:*,abi stable Project abi stable 0.4 for Rust,"['CVE-2020-36212', 'CVE-2020-36213']",2022-03-18T10:39Z
+2,cpe:2.3:a:abi_stable_project:abi_stable:0.5:*:*:*:*:rust:*:*,abi stable Project abi stable 0.5 for Rust,"['CVE-2020-36212', 'CVE-2020-36213']",2022-03-18T10:39Z
+3,cpe:2.3:a:abi_stable_project:abi_stable:0.6:*:*:*:*:rust:*:*,abi stable Project abi stable 0.6 for Rust,"['CVE-2020-36212', 'CVE-2020-36213']",2022-03-18T10:39Z
+4,cpe:2.3:a:abi_stable_project:abi_stable:0.6.3:*:*:*:*:rust:*:*,abi stable Project abi stable 0.6.3 for Rust,"['CVE-2020-36212', 'CVE-2020-36213']",2022-03-18T10:39Z
+5,cpe:2.3:a:abi_stable_project:abi_stable:0.7.0:*:*:*:*:rust:*:*,abi stable Project abi stable 0.7.0 for Rust,"['CVE-2020-36212', 'CVE-2020-36213']",2022-03-18T10:39Z
+6,cpe:2.3:a:abi_stable_project:abi_stable:0.7.4:*:*:*:*:rust:*:*,abi stable Project abi stable 0.7.4 for Rust,"['CVE-2020-36212', 'CVE-2020-36213']",2022-03-18T10:39Z
+7,cpe:2.3:a:abi_stable_project:abi_stable:0.8.0:*:*:*:*:rust:*:*,abi stable Project abi stable 0.8.0 for Rust,"['CVE-2020-36212', 'CVE-2020-36213']",2022-03-18T10:39Z
+8,cpe:2.3:a:abi_stable_project:abi_stable:0.8.2:*:*:*:*:rust:*:*,abi stable Project abi stable 0.8.2 for Rust,"['CVE-2020-36212', 'CVE-2020-36213']",2022-03-18T10:39Z
+9,cpe:2.3:a:abi_stable_project:abi_stable:0.9.0:*:*:*:*:rust:*:*,abi stable Project abi stable 0.9.0 for Rust,"['CVE-2020-36212', 'CVE-2020-36213']",2022-03-18T10:39Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hikvision:ds-2xe6482f-izhrs:-:*:*:*:*:*:*:*,Hikvision DS-2XE6482F-IZHRS,['CVE-2021-36260'],2022-03-21T11:14Z
+1,cpe:2.3:o:hikvision:ds-2xe6482f-izhrs_firmware:-:*:*:*:*:*:*:*,Hikvision DS-2XE6482F-IZHRS Firmware,['CVE-2021-36260'],2022-03-21T11:14Z
+2,cpe:2.3:h:hikvision:ds-7104ni-q1:-:*:*:*:*:*:*:*,Hikvision DS-7104NI-Q1,['CVE-2021-36260'],2022-03-21T11:14Z
+3,cpe:2.3:h:hikvision:ds-7104ni-q1\/4p:-:*:*:*:*:*:*:*,Hikvision DS-7104NI-Q1/4P,['CVE-2021-36260'],2022-03-21T11:14Z
+4,cpe:2.3:h:hikvision:ds-7104ni-q1\/4p\/m:-:*:*:*:*:*:*:*,Hikvision DS-7104NI-Q1/4P/M,['CVE-2021-36260'],2022-03-21T11:14Z
+5,cpe:2.3:h:hikvision:ds-7104ni-q1\/m:-:*:*:*:*:*:*:*,Hikvision DS-7104NI-Q1/M,['CVE-2021-36260'],2022-03-21T11:14Z
+6,cpe:2.3:h:hikvision:ds-7108ni-q1:-:*:*:*:*:*:*:*,Hikvision DS-7108NI-Q1,['CVE-2021-36260'],2022-03-21T11:14Z
+7,cpe:2.3:h:hikvision:ds-7108ni-q1\/8p:-:*:*:*:*:*:*:*,Hikvision DS-7108NI-Q1/8P,['CVE-2021-36260'],2022-03-21T11:14Z
+8,cpe:2.3:h:hikvision:ds-7108ni-q1\/8p\/m:-:*:*:*:*:*:*:*,Hikvision DS-7108NI-Q1/8P/M,['CVE-2021-36260'],2022-03-21T11:14Z
+9,cpe:2.3:h:hikvision:ds-7108ni-q1\/m:-:*:*:*:*:*:*:*,Hikvision DS-7108NI-Q1/M,['CVE-2021-36260'],2022-03-21T11:14Z

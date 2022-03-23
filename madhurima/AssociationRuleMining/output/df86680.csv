@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:bozdoz:leaflet_map:2.20.0:*:*:*:*:wordpress:*:*,Bozdoz Leaflet Map 2.20.0 for WordPress,['CVE-2021-24468'],2022-03-19T10:21Z
+1,cpe:2.3:a:bozdoz:leaflet_map:2.21.0:*:*:*:*:wordpress:*:*,Bozdoz Leaflet Map 2.21.0 for WordPress,['CVE-2021-24468'],2022-03-19T10:21Z
+2,cpe:2.3:a:bozdoz:leaflet_map:2.22.0:*:*:*:*:wordpress:*:*,Bozdoz Leaflet Map 2.22.0 for WordPress,['CVE-2021-24468'],2022-03-19T10:21Z
+3,cpe:2.3:a:bozdoz:leaflet_map:2.22.1:*:*:*:*:wordpress:*:*,Bozdoz Leaflet Map 2.22.1 for WordPress,['CVE-2021-24468'],2022-03-19T10:21Z
+4,cpe:2.3:a:bozdoz:leaflet_map:2.23.0:*:*:*:*:wordpress:*:*,Bozdoz Leaflet Map 2.23.0 for WordPress,['CVE-2021-24468'],2022-03-19T10:21Z
+5,cpe:2.3:a:bozdoz:leaflet_map:2.23.1:*:*:*:*:wordpress:*:*,Bozdoz Leaflet Map 2.23.1 for WordPress,['CVE-2021-24468'],2022-03-19T10:21Z
+6,cpe:2.3:a:bozdoz:leaflet_map:2.23.2:*:*:*:*:wordpress:*:*,Bozdoz Leaflet Map 2.23.2 for WordPress,['CVE-2021-24468'],2022-03-19T10:21Z
+7,cpe:2.3:a:bozdoz:leaflet_map:2.23.3:*:*:*:*:wordpress:*:*,Bozdoz Leaflet Map 2.23.3 for WordPress,['CVE-2021-24468'],2022-03-19T10:21Z
+8,cpe:2.3:a:bozdoz:leaflet_map:3.0.0:*:*:*:*:wordpress:*:*,Bozdoz Leaflet Map 3.0.0 for WordPress,[''],2022-03-19T10:21Z
+9,cpe:2.3:a:bozdoz:leaflet_map:3.0.1:*:*:*:*:wordpress:*:*,Bozdoz Leaflet Map 3.0.1 for WordPress,[''],2022-03-19T10:21Z

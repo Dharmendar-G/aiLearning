@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:buffalotech:wmr-300_firmware:1.02:*:*:*:*:*:*:*,バッファロー WMR-300 ファームウェア 1.02,['CVE-2014-9284'],2022-03-19T13:22Z
+1,cpe:2.3:h:buffalotech:wmr-300_firmware:1.03:*:*:*:*:*:*:*,バッファロー WMR-300 ファームウェア 1.03,['CVE-2014-9284'],2022-03-19T13:22Z
+2,cpe:2.3:h:buffalotech:wmr-300_firmware:1.30:*:*:*:*:*:*:*,BUFFALO WMR-300 Firmware 1.30,['CVE-2014-9284'],2022-03-19T13:22Z
+3,cpe:2.3:h:buffalotech:wmr-300_firmware:1.60:*:*:*:*:*:*:*,バッファロー WMR-300 ファームウェア 1.60,['CVE-2014-9284'],2022-03-19T13:22Z
+4,cpe:2.3:o:buffalotech:wmr-300_firmware:1.70:*:*:*:*:*:*:*,BUFFALO WMR-300 Firmware 1.70,['CVE-2016-1134'],2022-03-19T13:22Z
+5,cpe:2.3:o:buffalotech:wmr-300_firmware:1.90:*:*:*:*:*:*:*,BUFFALO WMR-300 Firmware 1.90,"['CVE-2016-1134', 'CVE-2016-1135']",2022-03-19T13:22Z
+6,cpe:2.3:h:buffalotech:wmr-433:-:*:*:*:*:*:*:*,BUFFALO WMR-433,"['CVE-2016-1134', 'CVE-2016-1135']",2022-03-19T13:22Z
+7,cpe:2.3:o:buffalotech:wmr-433_firmware:1.01:*:*:*:*:*:*:*,BUFFALO WMR-433 Firmware 1.01,"['CVE-2016-1134', 'CVE-2016-1135']",2022-03-19T13:22Z
+8,cpe:2.3:h:buffalotech:wnc01wh:-:*:*:*:*:*:*:*,BUFFALO WNC01WH,"['CVE-2016-7821', 'CVE-2016-7822', 'CVE-2016-7823', 'CVE-2016-7824', 'CVE-2016-7825', 'CVE-2016-7826']",2022-03-19T13:22Z
+9,cpe:2.3:o:buffalotech:wnc01wh_firmware:1.0.0.8:*:*:*:*:*:*:*,buffalotech WNC01WH Firmware 1.0.0.8,"['CVE-2016-7821', 'CVE-2016-7822', 'CVE-2016-7823', 'CVE-2016-7824', 'CVE-2016-7825', 'CVE-2016-7826']",2022-03-19T13:22Z

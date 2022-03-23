@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:acnam:ad_invalid_click_protector:1.2.3:*:*:*:*:wordpress:*:*,acnam Ad Invalid Click Protector (AICP) 1.2.3 WordPress,['CVE-2022-0190'],2022-03-18T11:02Z
+1,cpe:2.3:a:acnam:ad_invalid_click_protector:1.2.4:*:*:*:*:wordpress:*:*,acnam Ad Invalid Click Protector (AICP) 1.2.4 WordPress,['CVE-2022-0190'],2022-03-18T11:02Z
+2,cpe:2.3:a:acnam:ad_invalid_click_protector:1.2.5:*:*:*:*:wordpress:*:*,acnam Ad Invalid Click Protector (AICP) 1.2.5 WordPress,['CVE-2022-0190'],2022-03-18T11:02Z
+3,cpe:2.3:a:acnam:ad_invalid_click_protector:1.2.5.1:*:*:*:*:wordpress:*:*,acnam Ad Invalid Click Protector (AICP) 1.2.5.1 WordPress,['CVE-2022-0190'],2022-03-18T11:02Z
+4,cpe:2.3:a:acnam:ad_invalid_click_protector:1.2.5.2:*:*:*:*:wordpress:*:*,acnam Ad Invalid Click Protector (AICP) 1.2.5.2 WordPress,['CVE-2022-0190'],2022-03-18T11:02Z
+5,cpe:2.3:a:acnam:ad_invalid_click_protector:1.2.6:*:*:*:*:wordpress:*:*,acnam Ad Invalid Click Protector (AICP) 1.2.6 WordPress,[''],2022-03-18T11:03Z
+6,cpe:2.3:a:acobot_live_chat_\&_contact_form_project:acobot_live_chat_\&_contact_form:2.0:*:*:*:*:wordpress:*:*,Acobot Live Chat & Contact Form Project Acobot Live Chat & Contact Form for Wordpress 2.0,['CVE-2015-2039'],2022-03-18T11:03Z
+7,cpe:2.3:a:acquia:commons:6.x-2.4:*:*:*:*:*:*:*,acquia Drupal Commons (commons) module 6.x-2.4 for Drupal,"['CVE-2012-4483', 'CVE-2013-1907', 'CVE-2013-1908']",2022-03-18T11:03Z
+8,cpe:2.3:a:acquia:commons:6.x-2.5:*:*:*:*:*:*:*,acquia Drupal Commons (commons) module 6.x-2.5 for Drupal,"['CVE-2012-4483', 'CVE-2013-1907', 'CVE-2013-1908']",2022-03-18T11:03Z
+9,cpe:2.3:a:acquia:commons:6.x-2.6:*:*:*:*:*:*:*,acquia Drupal Commons (commons) module 6.x-2.6 for Drupal,"['CVE-2012-4483', 'CVE-2013-1907', 'CVE-2013-1908']",2022-03-18T11:03Z

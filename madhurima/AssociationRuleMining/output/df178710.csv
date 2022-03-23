@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:data_protection_\|_encryption:10.1.0:*:*:*:enterprise:*:*:*,Dell Data Protection | Encryption 10.1.0 Enterprise Edition,['CVE-2018-15773'],2022-03-20T12:16Z
+1,cpe:2.3:a:dell:dataengine:5.1.0:*:*:*:*:*:*:*,Dell Dataengine 5.1.0,[''],2022-03-20T12:16Z
+2,cpe:2.3:a:dell:dataengine:5.2.0:*:*:*:*:*:*:*,Dell Dataengine 5.2.0,[''],2022-03-20T12:16Z
+3,cpe:2.3:a:dell:dbutil_2_3.sys:-:*:*:*:*:*:*:*,Dell dbutil 2 3.sys,['CVE-2021-21551'],2022-03-20T12:16Z
+4,cpe:2.3:o:dell:dbutildrv2.sys_firmware:2.5:*:*:*:*:*:*:*,Dell Dbutildrv2.sys Firmware 2.5,['CVE-2021-36276'],2022-03-20T12:16Z
+5,cpe:2.3:o:dell:dbutildrv2.sys_firmware:2.6:*:*:*:*:*:*:*,Dell Dbutildrv2.sys Firmware 2.6,['CVE-2021-36276'],2022-03-20T12:16Z
+6,cpe:2.3:a:dell:digital_delivery:3.5.1:*:*:*:*:*:*:*,Dell Digital Delivery 3.5.1,"['CVE-2019-3742', 'CVE-2019-3744', 'CVE-2020-5342']",2022-03-20T12:17Z
+7,cpe:2.3:a:dell:digital_delivery:3.5.2:*:*:*:*:*:*:*,Dell Digital Delivery 3.5.2,"['CVE-2019-3742', 'CVE-2019-3744', 'CVE-2020-5342']",2022-03-20T12:17Z
+8,cpe:2.3:a:dell:digital_delivery:3.5.2006:*:*:*:*:*:*:*,Dell Digital Delivery 3.5.2006,"['CVE-2019-3742', 'CVE-2019-3744', 'CVE-2020-5342']",2022-03-20T12:17Z
+9,cpe:2.3:a:dell:digital_delivery:3.5.2013:*:*:*:*:*:*:*,Dell Digital Delivery 3.5.2013,['CVE-2020-5342'],2022-03-20T12:17Z

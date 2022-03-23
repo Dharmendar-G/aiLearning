@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:cisco:multiservice_platform_2651:-:*:*:*:*:*:*:*,Cisco Multiservice Platform 2651,['CVE-2004-1111'],2022-03-19T22:57Z
+1,cpe:2.3:h:cisco:multiservice_platform_2651xm:-:*:*:*:*:*:*:*,Cisco Multiservice Platform 2651XM,['CVE-2004-1111'],2022-03-19T22:57Z
+2,cpe:2.3:o:cisco:mx011anm_firmware:mx011an_2.9p6s1_prod_sey:*:*:*:*:*:*:*,Cisco MX011ANM Firmware MX011AN_2.9p6s1_PROD_sey,"['CVE-2017-9493', 'CVE-2017-9496', 'CVE-2017-9497']",2022-03-19T22:57Z
+3,cpe:2.3:h:cisco:n3k-c31108pc-v:-:*:*:*:*:*:*:*,Cisco N3K-C31108PC-V,['CVE-2019-1649'],2022-03-19T22:57Z
+4,cpe:2.3:h:cisco:n3k-c31108tc-v:-:*:*:*:*:*:*:*,Cisco N3K-C31108TC-V,['CVE-2019-1649'],2022-03-19T22:57Z
+5,cpe:2.3:h:cisco:n3k-c31128pq-10ge:-:*:*:*:*:*:*:*,Cisco N3K-C31128PQ-10GE,"['CVE-2019-1613', 'CVE-2019-1615']",2022-03-19T22:57Z
+6,cpe:2.3:h:cisco:n3k-c3132c-z:-:*:*:*:*:*:*:*,Cisco N3K-C3132C-Z,"['CVE-2019-1613', 'CVE-2019-1615', 'CVE-2019-1649']",2022-03-19T22:57Z
+7,cpe:2.3:h:cisco:n3k-c3164q:-:*:*:*:*:*:*:*,Cisco N3K-C3164Q,['CVE-2019-1810'],2022-03-19T22:57Z
+8,cpe:2.3:h:cisco:n3k-c3164q-40ge:-:*:*:*:*:*:*:*,Cisco N3K-C3164Q-40GE,"['CVE-2019-1613', 'CVE-2019-1615']",2022-03-19T22:57Z
+9,cpe:2.3:h:cisco:n3k-c3232c:-:*:*:*:*:*:*:*,Cisco N3K-C3232C,['CVE-2019-1810'],2022-03-19T22:57Z

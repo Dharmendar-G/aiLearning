@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:rational_rhapsody_design_manager:6.0.6.1:*:*:*:*:*:*:*,IBM Rational Rhapsody Design Manager 6.0.6.1,"['CVE-2018-1734', 'CVE-2018-1758', 'CVE-2018-1760', 'CVE-2018-1826', 'CVE-2018-1827', 'CVE-2018-1828', 'CVE-2018-1892', 'CVE-2018-1893', 'CVE-2019-4083', 'CVE-2019-4084', 'CVE-2019-4249', 'CVE-2019-4250', 'CVE-2019-4252', 'CVE-2020-4487', 'CVE-2020-4544', 'CVE-2020-4691', 'CVE-2020-4697', 'CVE-2020-4733']",2022-03-21T21:46Z
+1,cpe:2.3:a:ibm:rational_rhapsody_design_manager:7.0.0:*:*:*:*:*:*:*,IBM Rational Rhapsody Design Manager (DM) 7.0.0,"['CVE-2020-4410', 'CVE-2020-4525']",2022-03-21T21:46Z
+2,cpe:2.3:a:ibm:rational_service_tester:8.3.0:*:*:*:*:*:*:*,IBM Rational Service Tester 8.3.0,['CVE-2013-6312'],2022-03-21T21:46Z
+3,cpe:2.3:a:ibm:rational_service_tester:8.3.0.1:*:*:*:*:*:*:*,IBM Rational Service Tester 8.3.0.1,['CVE-2013-6312'],2022-03-21T21:46Z
+4,cpe:2.3:a:ibm:rational_service_tester:8.3.0.2:*:*:*:*:*:*:*,IBM Rational Service Tester 8.3.0.2,['CVE-2013-6312'],2022-03-21T21:46Z
+5,cpe:2.3:a:ibm:rational_service_tester:8.3.0.3:*:*:*:*:*:*:*,IBM Rational Service Tester 8.3.0.3,['CVE-2013-6312'],2022-03-21T21:46Z
+6,cpe:2.3:a:ibm:rational_service_tester:8.5.0:*:*:*:*:*:*:*,IBM Rational Service Tester 8.5.0,['CVE-2013-6312'],2022-03-21T21:46Z
+7,cpe:2.3:a:ibm:rational_service_tester:8.5.0.1:*:*:*:*:*:*:*,IBM Rational Service Tester 8.5.0.1,['CVE-2013-6312'],2022-03-21T21:46Z
+8,cpe:2.3:a:ibm:rational_service_tester:8.5.0.2:*:*:*:*:*:*:*,IBM Rational Service Tester 8.5.0.2,['CVE-2013-6312'],2022-03-21T21:46Z
+9,cpe:2.3:a:ibm:rational_software_architect:8.5.0:*:*:*:*:*:*:*,IBM Rational Software Architect 8.5.0,['CVE-2015-7439'],2022-03-21T21:46Z

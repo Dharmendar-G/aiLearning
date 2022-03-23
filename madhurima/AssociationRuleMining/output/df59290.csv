@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atomix:atomix:3.0.0:rc5:*:*:*:*:*:*,Atomix 3.0.0 Release Candidate 5,"['CVE-2020-35209', 'CVE-2020-35210']",2022-03-19T02:22Z
+1,cpe:2.3:a:atomix:atomix:3.0.0:rc6:*:*:*:*:*:*,Atomix 3.0.0 Release Candidate 6,"['CVE-2020-35209', 'CVE-2020-35210']",2022-03-19T02:22Z
+2,cpe:2.3:a:atomix:atomix:3.0.0:rc7:*:*:*:*:*:*,Atomix 3.0.0 Release Candidate 7,"['CVE-2020-35209', 'CVE-2020-35210']",2022-03-19T02:22Z
+3,cpe:2.3:a:atomix:atomix:3.0.0:rc8:*:*:*:*:*:*,Atomix 3.0.0 Release Candidate 8,"['CVE-2020-35209', 'CVE-2020-35210']",2022-03-19T02:22Z
+4,cpe:2.3:a:atomix:atomix:3.0.0:rc9:*:*:*:*:*:*,Atomix 3.0.0 Release Candidate 9,"['CVE-2020-35209', 'CVE-2020-35210']",2022-03-19T02:22Z
+5,cpe:2.3:a:atomix:atomix:3.0.1:*:*:*:*:*:*:*,Atomix 3.0.1,"['CVE-2020-35209', 'CVE-2020-35210']",2022-03-19T02:22Z
+6,cpe:2.3:a:atomix:atomix:3.0.2:*:*:*:*:*:*:*,Atomix 3.0.2,"['CVE-2020-35209', 'CVE-2020-35210']",2022-03-19T02:22Z
+7,cpe:2.3:a:atomix:atomix:3.0.3:*:*:*:*:*:*:*,Atomix 3.0.3,"['CVE-2020-35209', 'CVE-2020-35210']",2022-03-19T02:22Z
+8,cpe:2.3:a:atomix:atomix:3.0.4:*:*:*:*:*:*:*,Atomix 3.0.4,"['CVE-2020-35209', 'CVE-2020-35210']",2022-03-19T02:22Z
+9,cpe:2.3:a:atomix:atomix:3.0.5:*:*:*:*:*:*:*,Atomix 3.0.5,"['CVE-2020-35209', 'CVE-2020-35210']",2022-03-19T02:22Z

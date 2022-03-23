@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:ibm:advanced_management_module_firmware:3.62:bpet62o:*:*:*:*:*:*,IBM Advanced Management  Module 3.62 bpet62o,['CVE-2014-0860'],2022-03-21T19:48Z
+1,cpe:2.3:o:ibm:advanced_management_module_firmware:3.62:bpet62p:*:*:*:*:*:*,IBM Advanced Management  Module 3.62 bpet62p,['CVE-2014-0860'],2022-03-21T19:48Z
+2,cpe:2.3:o:ibm:advanced_management_module_firmware:3.62:bpet62r:*:*:*:*:*:*,IBM Advanced Management  Module 3.62 bpet62r,['CVE-2014-0860'],2022-03-21T19:48Z
+3,cpe:2.3:o:ibm:advanced_management_module_firmware:3.62:bpet62s:*:*:*:*:*:*,IBM Advanced Management  Module 3.62 bpet62s,['CVE-2014-0860'],2022-03-21T19:48Z
+4,cpe:2.3:o:ibm:advanced_management_module_firmware:3.62:bpet62t:*:*:*:*:*:*,IBM Advanced Management  Module 3.62 bpet62t,['CVE-2014-0860'],2022-03-21T19:48Z
+5,cpe:2.3:o:ibm:advanced_management_module_firmware:3.62:bpet62u:*:*:*:*:*:*,IBM Advanced Management  Module 3.62 bpet62u,['CVE-2014-0860'],2022-03-21T19:48Z
+6,cpe:2.3:o:ibm:advanced_management_module_firmware:3.62:bpet62y:*:*:*:*:*:*,IBM Advanced Management  Module 3.62 bpet62y,['CVE-2014-0860'],2022-03-21T19:48Z
+7,cpe:2.3:o:ibm:advanced_management_module_firmware:3.64:bbet64b:*:*:*:*:*:*,IBM Advanced Management  Module 3.64 bbet64b,"['CVE-2013-6718', 'CVE-2014-0860']",2022-03-21T19:49Z
+8,cpe:2.3:o:ibm:advanced_management_module_firmware:3.64:bbet64c:*:*:*:*:*:*,IBM Advanced Management  Module 3.64 bbet64c,"['CVE-2013-6718', 'CVE-2014-0860']",2022-03-21T19:49Z
+9,cpe:2.3:o:ibm:advanced_management_module_firmware:3.64:bbet64g:*:*:*:*:*:*,IBM Advanced Management  Module firmware 3.64 bbet64g,"['CVE-2013-6718', 'CVE-2014-0860']",2022-03-21T19:49Z

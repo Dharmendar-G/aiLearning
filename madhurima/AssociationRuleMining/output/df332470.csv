@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:anne-al00:-:*:*:*:*:*:*:*,Huawei Anne-AL00,"['CVE-2018-7924', 'CVE-2019-19412', 'CVE-2020-9069']",2022-03-21T17:11Z
+1,cpe:2.3:o:huawei:anne-al00_firmware:8.0.0.151\(c00\):*:*:*:*:*:*:*,Huawei Anne-AL00 Firmware 8.0.0.151(C00),"['CVE-2018-7924', 'CVE-2019-19412', 'CVE-2020-9069']",2022-03-21T17:11Z
+2,cpe:2.3:o:huawei:anne-al00_firmware:8.0.0.168\(c00\):*:*:*:*:*:*:*,Huawei Anne-AL00 Firmware 8.0.0.168(C00),['CVE-2020-9069'],2022-03-21T17:11Z
+3,cpe:2.3:o:huawei:anne-al00_firmware:9.1.0.331\(c675e9r1p3t8\):*:*:*:*:*:*:*,Huawei Anne-AL00 Firmware 9.1.0.331(C675E9R1P3T8),[''],2022-03-21T17:11Z
+4,cpe:2.3:a:huawei:anyoffice:v200r006c00:*:*:*:*:*:*:*,Huawei AnyOffice V200R006C00,['CVE-2016-8275'],2022-03-21T17:11Z
+5,cpe:2.3:a:huawei:anyoffice:v200r006c10:*:*:*:*:*:*:*,Huawei AnyOffice V200R006C10,['CVE-2021-22439'],2022-03-21T17:11Z
+6,cpe:2.3:a:huawei:anyoffice_secureapp:2.5.0301.0190:*:*:*:*:*:*:*,Huawei AnyOffice SecureApp 2.5.0301.0190,['CVE-2016-6826'],2022-03-21T17:11Z
+7,cpe:2.3:a:huawei:anyoffice_secureapp:2.5.0501.0190:*:*:*:*:*:*:*,Huawei AnyOffice SecureApp 2.5.0501.0190,['CVE-2016-6826'],2022-03-21T17:11Z
+8,cpe:2.3:h:huawei:ap2000:-:*:*:*:*:*:*:*,Huawei AP2000,"['CVE-2019-5254', 'CVE-2019-5255', 'CVE-2019-5256', 'CVE-2019-5257', 'CVE-2019-5258']",2022-03-21T17:11Z
+9,cpe:2.3:o:huawei:ap2000_firmware:v200r005c30:*:*:*:*:*:*:*,Huawei AP2000 Firmware V200R005C30,"['CVE-2019-5254', 'CVE-2019-5255', 'CVE-2019-5256', 'CVE-2019-5257', 'CVE-2019-5258']",2022-03-21T17:11Z

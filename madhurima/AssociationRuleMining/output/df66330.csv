@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:axis:m3114-ve_firmware:5.51.5:*:*:*:*:*:*:*,Axis Communications M3114-VE Firmware 5.51.5,[''],2022-03-19T04:51Z
+1,cpe:2.3:o:axis:m3203_firmware:5.51.5:*:*:*:*:*:*:*,Axis Communications M3203 Firmware 5.51.5,[''],2022-03-19T04:51Z
+2,cpe:2.3:o:axis:m3203-v_firmware:5.51.5:*:*:*:*:*:*:*,Axis Communications M3203-V Firmware 5.51.5,[''],2022-03-19T04:51Z
+3,cpe:2.3:o:axis:m3204_firmware:5.51.5:*:*:*:*:*:*:*,Axis Communications M3204 Firmware 5.51.5,[''],2022-03-19T04:51Z
+4,cpe:2.3:o:axis:m3204-v_firmware:5.51.5:*:*:*:*:*:*:*,Axis Communications M3204-V Firmware 5.51.5,[''],2022-03-19T04:51Z
+5,cpe:2.3:o:axis:m5013_firmware:5.51.5:*:*:*:*:*:*:*,Axis Communications M5013 Firmware 5.51.5,[''],2022-03-19T04:51Z
+6,cpe:2.3:o:axis:m5013-v_firmware:5.51.5:*:*:*:*:*:*:*,Axis Communications M5013-V Firmware 5.51.5,[''],2022-03-19T04:51Z
+7,cpe:2.3:o:axis:m5014_firmware:5.51.5:*:*:*:*:*:*:*,Axis Communications M5014 Firmware 5.51.5,[''],2022-03-19T04:51Z
+8,cpe:2.3:o:axis:m5014-v_firmware:5.51.5:*:*:*:*:*:*:*,Axis Communications M5014-V Firmware 5.51.5,[''],2022-03-19T04:51Z
+9,cpe:2.3:o:axis:m5054_firmware:6.53.2.1:*:*:*:*:*:*:*,Axis Communications M5054 Firmware 6.53.2.1,[''],2022-03-19T04:51Z

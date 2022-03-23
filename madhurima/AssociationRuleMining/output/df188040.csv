@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:divante:vue-storefront-api:1.11.0:-:*:*:*:*:*:*,Divante Vue-Storefront-API 1.11.0,['CVE-2020-11883'],2022-03-20T15:17Z
+1,cpe:2.3:a:divante:vue-storefront-api:1.11.0:rc1:*:*:*:*:*:*,Divante Vue-Storefront-API 1.11.0 Release Candidate 1,['CVE-2020-11883'],2022-03-20T15:17Z
+2,cpe:2.3:a:divante:vue-storefront-api:1.11.1:*:*:*:*:*:*:*,Divante Vue-Storefront-API 1.11.1,['CVE-2020-11883'],2022-03-20T15:17Z
+3,cpe:2.3:a:divebook_project:divebook:1.1.4:*:*:*:*:wordpress:*:*,Divebook Project Divebook 1.1.4 for WordPress,"['CVE-2020-14205', 'CVE-2020-14206', 'CVE-2020-14207']",2022-03-20T15:17Z
+4,cpe:2.3:a:diversesolutions:dsidxpress_idx_plugin:2.0.0:*:*:*:*:wordpress:*:*,diversesolutions dsIDXpress IDX plugin for WordPress 2.0.0,['CVE-2014-4521'],2022-03-20T15:17Z
+5,cpe:2.3:a:diversesolutions:dsidxpress_idx_plugin:2.0.1:*:*:*:*:wordpress:*:*,diversesolutions dsIDXpress IDX plugin for WordPress 2.0.1,['CVE-2014-4521'],2022-03-20T15:17Z
+6,cpe:2.3:a:diversesolutions:dsidxpress_idx_plugin:2.0.2:*:*:*:*:wordpress:*:*,diversesolutions dsIDXpress IDX plugin for WordPress 2.0.2,['CVE-2014-4521'],2022-03-20T15:17Z
+7,cpe:2.3:a:diversesolutions:dsidxpress_idx_plugin:2.0.3:*:*:*:*:wordpress:*:*,diversesolutions dsIDXpress IDX plugin for WordPress 2.0.3,['CVE-2014-4521'],2022-03-20T15:17Z
+8,cpe:2.3:a:diversesolutions:dsidxpress_idx_plugin:2.0.4:*:*:*:*:wordpress:*:*,diversesolutions dsIDXpress IDX plugin for WordPress 2.0.4,['CVE-2014-4521'],2022-03-20T15:17Z
+9,cpe:2.3:a:diversesolutions:dsidxpress_idx_plugin:2.0.5:*:*:*:*:wordpress:*:*,diversesolutions dsIDXpress IDX plugin for WordPress 2.0.5,['CVE-2014-4521'],2022-03-20T15:17Z

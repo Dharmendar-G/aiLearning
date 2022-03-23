@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:hima-l09ca:-:*:*:*:*:*:*:*,Huawei Hima-L09CA,['CVE-2019-5282'],2022-03-21T17:48Z
+1,cpe:2.3:o:huawei:hima-l09ca_firmware:-:*:*:*:*:*:*:*,Huawei Hima-L09CA Firmware,['CVE-2019-5282'],2022-03-21T17:48Z
+2,cpe:2.3:o:huawei:hima-l09ca_firmware:hima-l09ca_9.0.0.198\(c432e10r1p16\):*:*:*:*:*:*:*,Huawei Hima-L09CA Firmware Hima-L09CA 9.0.0.198(C432E10R1P16),[''],2022-03-21T17:48Z
+3,cpe:2.3:h:huawei:hima-l29c:-:*:*:*:*:*:*:*,Huawei Hima-L29C,"['CVE-2019-5282', 'CVE-2019-9506', 'CVE-2020-9247', 'CVE-2021-22440']",2022-03-21T17:48Z
+4,cpe:2.3:o:huawei:hima-l29c_firmware:-:*:*:*:*:*:*:*,Huawei Hima-L29C Firmware,"['CVE-2019-5282', 'CVE-2019-9506', 'CVE-2020-9247']",2022-03-21T17:48Z
+5,cpe:2.3:o:huawei:hima-l29c_firmware:9.0.0.105\(c10e9r1p16\):*:*:*:*:*:*:*,Huawei Hima-L29C Firmware 9.0.0.105(C10E9R1P16),"['CVE-2019-5282', 'CVE-2020-9247', 'CVE-2021-22440']",2022-03-21T17:48Z
+6,cpe:2.3:o:huawei:hima-l29c_firmware:9.0.0.105\(c185e9r1p16\):*:*:*:*:*:*:*,Huawei Hima-L29C Firmware 9.0.0.105(C185E9R1P16),"['CVE-2019-5282', 'CVE-2020-9247', 'CVE-2021-22440']",2022-03-21T17:48Z
+7,cpe:2.3:o:huawei:hima-l29c_firmware:9.0.0.105\(c636e9r1p16\):*:*:*:*:*:*:*,Huawei Hima-L29C Firmware 9.0.0.105(C636E9R1P16),"['CVE-2019-5282', 'CVE-2020-9247', 'CVE-2021-22440']",2022-03-21T17:48Z
+8,cpe:2.3:o:huawei:hima-l29c_firmware:10.1.0.273\(c185e5r2p4\):*:*:*:*:*:*:*,Huawei Hima-L29C Firmware 10.1.0.273(C185E5R2P4),"['CVE-2019-5282', 'CVE-2020-9247']",2022-03-21T17:48Z
+9,cpe:2.3:o:huawei:hima-l29c_firmware:10.1.0.273\(c636e5r2p4\):*:*:*:*:*:*:*,Huawei Hima-L29C Firmware 10.1.0.273(C636E5R2P4),"['CVE-2019-5282', 'CVE-2020-9247']",2022-03-21T17:48Z

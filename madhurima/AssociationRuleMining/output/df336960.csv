@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:huawei:smartax_ea5800:-:*:*:*:*:*:*:*,Huawei SmartAX EA5800,['CVE-2020-9067'],2022-03-21T18:51Z
+1,cpe:2.3:o:huawei:smartax_ea5800_firmware:-:*:*:*:*:*:*:*,Huawei Smartax Ea5800 Firmware -,[''],2022-03-21T18:51Z
+2,cpe:2.3:o:huawei:smartax_ea5800_firmware:v100r018c00:*:*:*:*:*:*:*,Huawei SmartAX EA5800 Firmware V100R018C00,['CVE-2020-9067'],2022-03-21T18:51Z
+3,cpe:2.3:o:huawei:smartax_ea5800_firmware:v100r018c10:*:*:*:*:*:*:*,Huawei SmartAX EA5800 Firmware V100R018C10,['CVE-2020-9067'],2022-03-21T18:51Z
+4,cpe:2.3:o:huawei:smartax_ea5800_firmware:v100r018c10sph116:*:*:*:*:*:*:*,Huawei SmartAX EA5800 Firmware V100R018C10SPH116,[''],2022-03-21T18:51Z
+5,cpe:2.3:o:huawei:smartax_ea5800_firmware:v100r019c10:*:*:*:*:*:*:*,Huawei SmartAX EA5800 Firmware V100R019C10,['CVE-2020-9067'],2022-03-21T18:51Z
+6,cpe:2.3:o:huawei:smartax_ea5800_firmware:v100r019c10sph208:*:*:*:*:*:*:*,Huawei SmartAX EA5800 Firmware V100R019C10SPH208,[''],2022-03-21T18:52Z
+7,cpe:2.3:h:huawei:smartax_ma5600t:-:*:*:*:*:*:*:*,Huawei SmartAX MA5600T,['CVE-2020-9067'],2022-03-21T18:52Z
+8,cpe:2.3:o:huawei:smartax_ma5600t_firmware:-:*:*:*:*:*:*:*,Huawei Smartax Ma5600t Firmware -,[''],2022-03-21T18:52Z
+9,cpe:2.3:o:huawei:smartax_ma5600t_firmware:v800r013c10:*:*:*:*:*:*:*,Huawei SmartAX MA5600T Firmware V800R013C10,['CVE-2020-9067'],2022-03-21T18:52Z

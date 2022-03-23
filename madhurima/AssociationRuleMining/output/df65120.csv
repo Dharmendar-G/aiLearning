@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:aviatrix:vpn_client:1.9:*:*:*:*:*:*:*,Aviatrix VPN Client 1.9,"['CVE-2019-17387', 'CVE-2019-17388', 'CVE-2020-13417', 'CVE-2021-31776']",2022-03-19T04:28Z
+1,cpe:2.3:a:aviatrix:vpn_client:1.10.6:*:*:*:*:*:*:*,Aviatrix VPN Client 1.10.6,"['CVE-2019-17387', 'CVE-2019-17388', 'CVE-2020-13417', 'CVE-2021-31776']",2022-03-19T04:28Z
+2,cpe:2.3:a:aviatrix:vpn_client:2.0.3:*:*:*:*:*:*:*,Aviatrix VPN Client 2.0.3,"['CVE-2019-17387', 'CVE-2019-17388', 'CVE-2020-13417', 'CVE-2021-31776']",2022-03-19T04:28Z
+3,cpe:2.3:a:aviatrix:vpn_client:2.1.3:*:*:*:*:*:*:*,Aviatrix VPN Client 2.1.3,"['CVE-2019-17387', 'CVE-2019-17388', 'CVE-2020-13417', 'CVE-2021-31776']",2022-03-19T04:28Z
+4,cpe:2.3:a:aviatrix:vpn_client:2.2.10:*:*:*:*:*:*:*,Aviatrix VPN Client 2.2.10,"['CVE-2019-17387', 'CVE-2019-17388', 'CVE-2020-13417', 'CVE-2021-31776']",2022-03-19T04:28Z
+5,cpe:2.3:a:aviatrix:vpn_client:2.3.10:*:*:*:*:*:*:*,Aviatrix VPN Client 2.3.10,"['CVE-2020-13417', 'CVE-2021-31776']",2022-03-19T04:28Z
+6,cpe:2.3:a:aviatrix:vpn_client:2.4.10:*:*:*:*:*:*:*,Aviatrix VPN Client 2.4.10,"['CVE-2020-13417', 'CVE-2021-31776']",2022-03-19T04:28Z
+7,cpe:2.3:a:aviatrix:vpn_client:2.5.7:*:*:*:*:*:*:*,Aviatrix VPN Client 2.5.7,"['CVE-2020-13417', 'CVE-2021-31776']",2022-03-19T04:28Z
+8,cpe:2.3:a:aviatrix:vpn_client:2.10.7:*:*:*:*:*:*:*,Aviatrix VPN Client 2.10.7,['CVE-2021-31776'],2022-03-19T04:28Z
+9,cpe:2.3:a:aviatrix:vpn_client:2.11.6:*:*:*:*:*:*:*,Aviatrix VPN Client 2.11.6,['CVE-2021-31776'],2022-03-19T04:28Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:django-anymail_project:django-anymail:1.1:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 1.1,"['CVE-2018-1000089', 'CVE-2018-6596']",2022-03-20T15:23Z
+1,cpe:2.3:a:django-anymail_project:django-anymail:1.2:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 1.2,"['CVE-2018-1000089', 'CVE-2018-6596']",2022-03-20T15:23Z
+2,cpe:2.3:a:django-anymail_project:django-anymail:1.2.1:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 1.2.1,['CVE-2018-1000089'],2022-03-20T15:23Z
+3,cpe:2.3:a:django-anymail_project:django-anymail:1.3:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 1.3,['CVE-2018-1000089'],2022-03-20T15:23Z
+4,cpe:2.3:a:django-anymail_project:django-anymail:1.4:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 1.4,[''],2022-03-20T15:23Z
+5,cpe:2.3:a:django-anymail_project:django-anymail:2.0:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 2.0,[''],2022-03-20T15:23Z
+6,cpe:2.3:a:django-anymail_project:django-anymail:2.1:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 2.1,[''],2022-03-20T15:23Z
+7,cpe:2.3:a:django-anymail_project:django-anymail:2.2:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 2.2,[''],2022-03-20T15:23Z
+8,cpe:2.3:a:django-anymail_project:django-anymail:3.0:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 3.0,[''],2022-03-20T15:23Z
+9,cpe:2.3:a:django-anymail_project:django-anymail:4.0:*:*:*:*:*:*:*,Django-Anymail Project Django-Anymail 4.0,[''],2022-03-20T15:23Z

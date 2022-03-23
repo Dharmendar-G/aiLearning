@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:amazee:lagoon:0.18.9:*:*:*:*:*:*:*,Amazee Lagoon 0.18.9,['CVE-2020-35236'],2022-03-18T15:20Z
+1,cpe:2.3:a:amazee:lagoon:0.18.10:*:*:*:*:*:*:*,Amazee Lagoon 0.18.10,['CVE-2020-35236'],2022-03-18T15:20Z
+2,cpe:2.3:a:amazee:lagoon:0.18.11:*:*:*:*:*:*:*,Amazee Lagoon 0.18.11,['CVE-2020-35236'],2022-03-18T15:20Z
+3,cpe:2.3:a:amazee:lagoon:0.19.0:*:*:*:*:*:*:*,Amazee Lagoon 0.19.0,['CVE-2020-35236'],2022-03-18T15:20Z
+4,cpe:2.3:a:amazee:lagoon:0.19.1:*:*:*:*:*:*:*,Amazee Lagoon 0.19.1,['CVE-2020-35236'],2022-03-18T15:20Z
+5,cpe:2.3:a:amazee:lagoon:0.19.2:*:*:*:*:*:*:*,Amazee Lagoon 0.19.2,['CVE-2020-35236'],2022-03-18T15:20Z
+6,cpe:2.3:a:amazee:lagoon:0.20.0:*:*:*:*:*:*:*,Amazee Lagoon 0.20.0,['CVE-2020-35236'],2022-03-18T15:20Z
+7,cpe:2.3:a:amazee:lagoon:0.20.1:*:*:*:*:*:*:*,Amazee Lagoon 0.20.1,['CVE-2020-35236'],2022-03-18T15:20Z
+8,cpe:2.3:a:amazee:lagoon:0.21.0:*:*:*:*:*:*:*,Amazee Lagoon 0.21.0,['CVE-2020-35236'],2022-03-18T15:20Z
+9,cpe:2.3:a:amazee:lagoon:0.21.1:*:*:*:*:*:*:*,Amazee Lagoon 0.21.1,['CVE-2020-35236'],2022-03-18T15:20Z

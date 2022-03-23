@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:cisco:meraki_mx67w_firmware:-:*:*:*:*:*:*:*,Cisco Meraki MX67W Firmware,['CVE-2021-1224'],2022-03-19T22:55Z
+1,cpe:2.3:h:cisco:meraki_mx68:-:*:*:*:*:*:*:*,Cisco Meraki MX68,['CVE-2021-1224'],2022-03-19T22:55Z
+2,cpe:2.3:o:cisco:meraki_mx68_firmware:-:*:*:*:*:*:*:*,Cisco Meraki MX68 Firmware,['CVE-2021-1224'],2022-03-19T22:55Z
+3,cpe:2.3:h:cisco:meraki_mx68cw:-:*:*:*:*:*:*:*,Cisco Meraki MX68CW,['CVE-2021-1224'],2022-03-19T22:55Z
+4,cpe:2.3:o:cisco:meraki_mx68cw_firmware:-:*:*:*:*:*:*:*,Cisco Meraki MX68CW Firmware,['CVE-2021-1224'],2022-03-19T22:55Z
+5,cpe:2.3:h:cisco:meraki_mx68w:-:*:*:*:*:*:*:*,Cisco Meraki MX68W,['CVE-2021-1224'],2022-03-19T22:55Z
+6,cpe:2.3:o:cisco:meraki_mx68w_firmware:-:*:*:*:*:*:*:*,Cisco Meraki MX68W Firmware,['CVE-2021-1224'],2022-03-19T22:55Z
+7,cpe:2.3:h:cisco:meraki_mx84:-:*:*:*:*:*:*:*,Cisco Meraki MX84,['CVE-2021-1224'],2022-03-19T22:55Z
+8,cpe:2.3:o:cisco:meraki_mx84_firmware:-:*:*:*:*:*:*:*,Cisco Meraki MX84 Firmware,['CVE-2021-1224'],2022-03-19T22:55Z
+9,cpe:2.3:h:cisco:meraki_z1:-:*:*:*:*:*:*:*,Cisco Meraki Z1 -,['CVE-2018-0284'],2022-03-19T22:55Z

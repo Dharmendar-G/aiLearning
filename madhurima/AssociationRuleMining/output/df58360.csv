@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:atlassian:saml_single_sign_on:5.0.0:*:*:*:*:jira:*:*,Atlassian SAML Single Sign On (SSO) 5.0.0 for Jira,['CVE-2021-37843'],2022-03-19T02:04Z
+1,cpe:2.3:a:atlassian:saml_single_sign_on:5.0.5:*:*:*:*:bamboo:*:*,Atlassian SAML Single Sign On (SSO) 5.0.5 for Bamboo,[''],2022-03-19T02:04Z
+2,cpe:2.3:a:atlassian:saml_single_sign_on:5.0.5:*:*:*:*:bitbucket:*:*,Atlassian SAML Single Sign On (SSO) 5.0.5 for Bitbucket,[''],2022-03-19T02:04Z
+3,cpe:2.3:a:atlassian:saml_single_sign_on:5.0.5:*:*:*:*:confluence:*:*,Atlassian SAML Single Sign On (SSO) 5.0.5 for Confluence,[''],2022-03-19T02:04Z
+4,cpe:2.3:a:atlassian:saml_single_sign_on:5.0.5:*:*:*:*:jira:*:*,Atlassian SAML Single Sign On (SSO) 5.0.5 for Jira,[''],2022-03-19T02:04Z
+5,cpe:2.3:a:atlassian:sourcetree:0.5.1.0:*:*:*:*:windows:*:*,Atlassian Sourcetree 0.5.1.0 for Windows,"['CVE-2017-14593', 'CVE-2017-8768', 'CVE-2018-13386', 'CVE-2018-13397', 'CVE-2018-5226']",2022-03-19T02:04Z
+6,cpe:2.3:a:atlassian:sourcetree:0.5.2.0:*:*:*:*:windows:*:*,Atlassian Sourcetree 0.5.2.0 for Windows,"['CVE-2017-14593', 'CVE-2017-8768', 'CVE-2018-13386', 'CVE-2018-13397', 'CVE-2018-5226']",2022-03-19T02:04Z
+7,cpe:2.3:a:atlassian:sourcetree:0.5a:*:*:*:*:windows:*:*,Atlassian Sourcetree 0.5a for Windows,"['CVE-2017-14593', 'CVE-2017-8768', 'CVE-2018-13386', 'CVE-2018-13397', 'CVE-2018-20235', 'CVE-2018-20236', 'CVE-2018-5226', 'CVE-2019-11582']",2022-03-19T02:04Z
+8,cpe:2.3:a:atlassian:sourcetree:0.6.0.0:*:*:*:*:windows:*:*,Atlassian Sourcetree 0.6.0.0 for Windows,"['CVE-2017-14593', 'CVE-2017-8768', 'CVE-2018-13386', 'CVE-2018-13397', 'CVE-2018-20235', 'CVE-2018-20236', 'CVE-2018-5226', 'CVE-2019-11582']",2022-03-19T02:04Z
+9,cpe:2.3:a:atlassian:sourcetree:0.6.5.0:*:*:*:*:windows:*:*,Atlassian Sourcetree 0.6.5.0 for Windows,"['CVE-2017-14593', 'CVE-2017-8768', 'CVE-2018-13386', 'CVE-2018-13397', 'CVE-2018-20235', 'CVE-2018-20236', 'CVE-2018-5226', 'CVE-2019-11582']",2022-03-19T02:04Z

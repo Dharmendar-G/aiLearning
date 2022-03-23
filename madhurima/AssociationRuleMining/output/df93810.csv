@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:brocade:silkworm_24000_director:-:*:*:*:*:*:*:*,Brocade SilkWorm 24000 Director,['CVE-2007-2764'],2022-03-19T12:37Z
+1,cpe:2.3:h:brocade:silkworm_3250_fabric_switch:-:*:*:*:*:*:*:*,Brocade SilkWorm 3250 Fabric Switch,['CVE-2007-2764'],2022-03-19T12:37Z
+2,cpe:2.3:h:brocade:silkworm_3850_fabric_switch:-:*:*:*:*:*:*:*,Brocade SilkWorm 3850 Fabric Switch,['CVE-2007-2764'],2022-03-19T12:37Z
+3,cpe:2.3:h:brocade:silkworm_3900_switch:-:*:*:*:*:*:*:*,Brocade SilkWorm 3900 Switch,['CVE-2007-2764'],2022-03-19T12:37Z
+4,cpe:2.3:h:brocade:silkworm_48000_director:-:*:*:*:*:*:*:*,Brocade SilkWorm 48000 Director,['CVE-2007-2764'],2022-03-19T12:37Z
+5,cpe:2.3:h:brocade:silkworm_4900_fibre_channel_switch:-:*:*:*:*:*:*:*,Brocade SilkWorm 4900 Fibre Channel Switch,['CVE-2007-2764'],2022-03-19T12:37Z
+6,cpe:2.3:a:brocade:smi_agent:120.7.2.0:*:*:*:*:*:*:*,Brocade Smi Agent 120.7.2.0,[''],2022-03-19T12:37Z
+7,cpe:2.3:a:brocade:smi_agent:120.8.0.0:*:*:*:*:*:*:*,Brocade Smi Agent 120.8.0.0,[''],2022-03-19T12:37Z
+8,cpe:2.3:a:brocade:virtual_traffic_manager:11.0:*:*:*:*:*:*:*,Brocade Virtual Traffic Manager 11.0,['CVE-2016-8201'],2022-03-19T12:37Z
+9,cpe:2.3:h:brocade:vyatta_vrouter:-:*:*:*:*:*:*:*,Brocade Vyatta vRouter,['CVE-2013-7307'],2022-03-19T12:37Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:d-link:dir-825\/ac:e1a:*:*:*:*:*:*:*,D-Link DIR-825/AC E1A,['CVE-2020-29557'],2022-03-20T16:02Z
+1,cpe:2.3:h:d-link:dir-825\/ac_g1:-:*:*:*:*:*:*:*,D-Link DIR-825/AC G1,"['CVE-2019-13263', 'CVE-2019-13264', 'CVE-2019-13265']",2022-03-20T16:02Z
+2,cpe:2.3:h:d-link:dir-825\/acf:f1:*:*:*:*:*:*:*,D-Link DIR-825/ACF F1,['CVE-2020-29557'],2022-03-20T16:02Z
+3,cpe:2.3:h:d-link:dir-825\/gf:gf:*:*:*:*:*:*:*,D-Link DIR-825/GF GF,['CVE-2020-29557'],2022-03-20T16:02Z
+4,cpe:2.3:h:d-link:dir-825_rev.b:-:*:*:*:*:*:*:*,D-link DIR-825 B,"['CVE-2019-9122', 'CVE-2019-9123', 'CVE-2019-9126']",2022-03-20T16:02Z
+5,cpe:2.3:h:d-link:dir-826l:-:*:*:*:*:*:*:*,D-Link DIR-826L,['CVE-2015-1187'],2022-03-20T16:02Z
+6,cpe:2.3:h:d-link:dir-826l_wireless_n600_cloud_router:a1:*:*:*:*:*:*:*,DIR-826L Wireless N600 Cloud Router A1,['CVE-2013-4772'],2022-03-20T16:02Z
+7,cpe:2.3:o:d-link:dir-826l_wireless_n600_cloud_router_firmware:1.02:*:*:*:*:*:*:*,DIR-826L Wireless N600 Cloud Router firmware 1.02,['CVE-2013-4772'],2022-03-20T16:02Z
+8,cpe:2.3:h:d-link:dir-830l:-:*:*:*:*:*:*:*,D-Link DIR-830L,['CVE-2015-1187'],2022-03-20T16:02Z
+9,cpe:2.3:h:d-link:dir-836l:-:*:*:*:*:*:*:*,D-Link DIR-836L,['CVE-2015-1187'],2022-03-20T16:02Z

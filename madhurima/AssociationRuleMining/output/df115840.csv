@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:asa_with_firepower_services:5.4.1.1:*:*:*:*:*:*:*,Cisco ASA With FirePOWER Services 5.4.1.1,['CVE-2016-1369'],2022-03-19T18:36Z
+1,cpe:2.3:a:cisco:asa_with_firepower_services:5.4.1.2:*:*:*:*:*:*:*,Cisco ASA With FirePOWER Services 5.4.1.2,['CVE-2016-1369'],2022-03-19T18:36Z
+2,cpe:2.3:a:cisco:asa_with_firepower_services:5.4.1.3:*:*:*:*:*:*:*,Cisco ASA With FirePOWER Services 5.4.1.3,['CVE-2016-1369'],2022-03-19T18:36Z
+3,cpe:2.3:a:cisco:asa_with_firepower_services:5.4.1.4:*:*:*:*:*:*:*,Cisco ASA With FirePOWER Services 5.4.1.4,['CVE-2016-1369'],2022-03-19T18:36Z
+4,cpe:2.3:a:cisco:asa_with_firepower_services:5.4.1.5:*:*:*:*:*:*:*,Cisco ASA With FirePOWER Services 5.4.1.5,['CVE-2016-1369'],2022-03-19T18:36Z
+5,cpe:2.3:a:cisco:asa_with_firepower_services:5.4.05:*:*:*:*:*:*:*,Cisco ASA With FirePOWER Services 5.4.05,['CVE-2016-1369'],2022-03-19T18:36Z
+6,cpe:2.3:a:cisco:asa_with_firepower_services:6.0.0:*:*:*:*:*:*:*,Cisco ASA With Firepower Services 6.0.0,"['CVE-2016-1345', 'CVE-2016-1369']",2022-03-19T18:36Z
+7,cpe:2.3:a:cisco:asa_with_firepower_services:6.0.0.1:*:*:*:*:*:*:*,Cisco ASA With Firepower Services 6.0.0.1,['CVE-2016-1345'],2022-03-19T18:36Z
+8,cpe:2.3:h:cisco:asa-5505:-:*:*:*:*:*:*:*,Cisco ASA-5505,['CVE-2018-0240'],2022-03-19T18:36Z
+9,cpe:2.3:h:cisco:asa-5506h-x:-:*:*:*:*:*:*:*,Cisco ASA-5506H-X,"['CVE-2018-0240', 'CVE-2019-1706', 'CVE-2019-1714', 'CVE-2019-1715']",2022-03-19T18:37Z

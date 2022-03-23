@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:horde:pssword:1.0.0:beta1:*:*:*:*:*:*,Horde pssword 1.0.0 Beta 1,[''],2022-03-21T12:36Z
+1,cpe:2.3:a:horde:pssword:1.0.0:rc1:*:*:*:*:*:*,Horde pssword 1.0.0 Release Candidate 1,[''],2022-03-21T12:36Z
+2,cpe:2.3:a:horde:pssword:1.0.0:rc2:*:*:*:*:*:*,Horde pssword 1.0.0 Release Candidate 2,[''],2022-03-21T12:36Z
+3,cpe:2.3:a:horde:pssword:1.0.0:rc3:*:*:*:*:*:*,Horde pssword 1.0.0 Release Candidate 3,[''],2022-03-21T12:36Z
+4,cpe:2.3:a:horde:sesha:1.0.0:alpha1:*:*:*:*:*:*,Horde Sesha 1.0.0 Alpha 1,[''],2022-03-21T12:36Z
+5,cpe:2.3:a:horde:sesha:1.0.0:beta1:*:*:*:*:*:*,Horde Sesha 1.0.0 Beta 1,[''],2022-03-21T12:36Z
+6,cpe:2.3:a:horde:sesha:1.0.0:rc1:*:*:*:*:*:*,Horde Sesha 1.0.0 Release Candidate 1,[''],2022-03-21T12:36Z
+7,cpe:2.3:a:horde:sesha:1.0.0:rc2:*:*:*:*:*:*,Horde Sesha 1.0.0 Release Candidate 2,[''],2022-03-21T12:36Z
+8,cpe:2.3:a:horde:sesha:1.0.0:rc3:*:*:*:*:*:*,Horde Sesha 1.0.0 Release Candidate 3,[''],2022-03-21T12:36Z
+9,cpe:2.3:a:horde:timeobjects:1.0.0:-:*:*:*:*:*:*,Horde timeobjects 1.0.0,[''],2022-03-21T12:36Z

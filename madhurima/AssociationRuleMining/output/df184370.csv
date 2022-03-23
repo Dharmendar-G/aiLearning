@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:digi:transport_wr41_firmware:8.1.0.1:*:*:*:*:*:*:*,Digi International TransPort WR41 Firmware 8.1.0.1,"['CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188']",2022-03-20T14:06Z
+1,cpe:2.3:o:digi:transport_wr41_firmware:8.2.0.2:*:*:*:*:*:*:*,Digi International TransPort WR41 Firmware 8.2.0.2,"['CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188']",2022-03-20T14:06Z
+2,cpe:2.3:o:digi:transport_wr41_firmware:8.3.0.1:*:*:*:*:*:*:*,Digi International TransPort WR41 Firmware 8.3.0.1,"['CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188']",2022-03-20T14:06Z
+3,cpe:2.3:o:digi:transport_wr41_firmware:8.3.1.2:*:*:*:*:*:*:*,Digi International TransPort WR41 Firmware 8.3.1.2,"['CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188']",2022-03-20T14:06Z
+4,cpe:2.3:h:digi:transport_wr44:-:*:*:*:*:*:*:*,Digi International Transport WR44,['CVE-2020-8822'],2022-03-20T14:06Z
+5,cpe:2.3:h:digi:transport_wr44:2:*:*:*:*:*:*:*,Digi International Transport WR44 2,['CVE-2020-8822'],2022-03-20T14:06Z
+6,cpe:2.3:o:digi:transport_wr44_firmware:-:*:*:*:*:*:*:*,Digi International TransPort WR44 Firmware,"['CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188', 'CVE-2021-37189']",2022-03-20T14:06Z
+7,cpe:2.3:o:digi:transport_wr44_firmware:5.1.6.4:*:*:*:*:*:*:*,Digi International Transport WR44 Firmware 5.1.6.4,"['CVE-2020-8822', 'CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188', 'CVE-2021-37189']",2022-03-20T14:06Z
+8,cpe:2.3:o:digi:transport_wr44_firmware:5.1.6.9:*:*:*:*:*:*:*,Digi International Transport WR44 Firmware 5.1.6.9,"['CVE-2020-8822', 'CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188', 'CVE-2021-37189']",2022-03-20T14:06Z
+9,cpe:2.3:o:digi:transport_wr44_firmware:6.0.0.0:*:*:*:*:*:*:*,Digi International TransPort WR44 Firmware 6.0.0.0,"['CVE-2021-35978', 'CVE-2021-37187', 'CVE-2021-37188']",2022-03-20T14:06Z

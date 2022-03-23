@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:color_laserjet_managed_m553_b5l39a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed M553 B5L39A,['CVE-2020-28419'],2022-03-21T13:05Z
+1,cpe:2.3:h:hp:color_laserjet_managed_m553_bl27a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed M553 BL27A,['CVE-2020-28419'],2022-03-21T13:05Z
+2,cpe:2.3:o:hp:color_laserjet_managed_m553_firmware:-:*:*:*:*:*:*:*,HP Color Laserjet Managed M553 Firmware -,"['CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T13:05Z
+3,cpe:2.3:o:hp:color_laserjet_managed_m553_firmware:2309010_581409:*:*:*:*:*:*:*,HP Color Laserjet Managed M553 Firmware 2309010 581409,['CVE-2019-6318'],2022-03-21T13:05Z
+4,cpe:2.3:o:hp:color_laserjet_managed_m553_firmware:2407081_000601:*:*:*:*:*:*:*,HP Color Laserjet Managed M553 Firmware 2407081 000601,[''],2022-03-21T13:05Z
+5,cpe:2.3:h:hp:color_laserjet_managed_m651:-:*:*:*:*:*:*:*,HP Color LaserJet Managed M651,['CVE-2019-6318'],2022-03-21T13:05Z
+6,cpe:2.3:h:hp:color_laserjet_managed_m651_cz255a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed M651 CZ255A,['CVE-2020-28419'],2022-03-21T13:05Z
+7,cpe:2.3:h:hp:color_laserjet_managed_m651_cz256a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed M651 CZ256A,['CVE-2020-28419'],2022-03-21T13:05Z
+8,cpe:2.3:h:hp:color_laserjet_managed_m651_cz257a:-:*:*:*:*:*:*:*,HP Color LaserJet Managed M651 CZ257A,['CVE-2020-28419'],2022-03-21T13:05Z
+9,cpe:2.3:o:hp:color_laserjet_managed_m651_firmware:-:*:*:*:*:*:*:*,HP Color Laserjet Managed M651 Firmware -,"['CVE-2019-6318', 'CVE-2020-28419']",2022-03-21T13:05Z

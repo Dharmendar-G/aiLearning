@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:httplib2_project:httplib2:0.7.5:*:*:*:*:*:*:*,httplib2 project httplib2 0.7.5,['CVE-2020-11078'],2022-03-21T17:04Z
+1,cpe:2.3:a:httplib2_project:httplib2:0.7.6:*:*:*:*:*:*:*,httplib2 Project httplib2 0.7.6,['CVE-2020-11078'],2022-03-21T17:04Z
+2,cpe:2.3:a:httplib2_project:httplib2:0.7.7:*:*:*:*:*:*:*,httplib2 Project httplib2 0.7.7,['CVE-2020-11078'],2022-03-21T17:04Z
+3,cpe:2.3:a:httplib2_project:httplib2:0.8:*:*:*:*:*:*:*,httplib2 project httplib2 0.8,"['CVE-2013-2037', 'CVE-2020-11078']",2022-03-21T17:04Z
+4,cpe:2.3:a:httplib2_project:httplib2:0.9:*:*:*:*:python:*:*,httplib2 Project httplib2 0.9 for Python,"['CVE-2020-11078', 'CVE-2021-21240']",2022-03-21T17:04Z
+5,cpe:2.3:a:httplib2_project:httplib2:0.9.1:*:*:*:*:*:*:*,httplib2 Project httplib2 0.9.1,['CVE-2020-11078'],2022-03-21T17:04Z
+6,cpe:2.3:a:httplib2_project:httplib2:0.9.1:*:*:*:*:python:*:*,httplib2 Project httplib2 0.9.1 for Python,"['CVE-2020-11078', 'CVE-2021-21240']",2022-03-21T17:04Z
+7,cpe:2.3:a:httplib2_project:httplib2:0.9.2:*:*:*:*:*:*:*,httplib2 Project httplib2 0.9.2,['CVE-2020-11078'],2022-03-21T17:04Z
+8,cpe:2.3:a:httplib2_project:httplib2:0.9.2:*:*:*:*:python:*:*,httplib2 Project httplib2 0.9.2 for Python,"['CVE-2020-11078', 'CVE-2021-21240']",2022-03-21T17:04Z
+9,cpe:2.3:a:httplib2_project:httplib2:0.10.1:*:*:*:*:*:*:*,httplib2 Project httplib2 0.10.1,['CVE-2020-11078'],2022-03-21T17:04Z

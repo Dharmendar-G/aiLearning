@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:dell:unity_xt_operating_environment:-:*:*:*:*:*:*:*,Dell Unity XT Operating Environment,['CVE-2021-21547'],2022-03-20T13:09Z
+1,cpe:2.3:a:dell:unity_xt_operating_environment:5.0.7.0.5.008:*:*:*:*:*:*:*,Dell Unity XT Operating Environment 5.0.7.0.5.008,[''],2022-03-20T13:09Z
+2,cpe:2.3:a:dell:unityvsa_operating_environment:-:*:*:*:*:*:*:*,Dell UnityVSA Operating Environment,['CVE-2021-21547'],2022-03-20T13:09Z
+3,cpe:2.3:a:dell:unityvsa_operating_environment:5.0.7.0.5.008:*:*:*:*:*:*:*,Dell UnityVSA Operating Environment 5.0.7.0.5.008,[''],2022-03-20T13:09Z
+4,cpe:2.3:a:dell:update_package_framework:-:*:*:*:*:*:*:*,Dell Update Package Framework,['CVE-2019-3726'],2022-03-20T13:09Z
+5,cpe:2.3:a:dell:update_package_framework:3.8.3.67:*:*:*:*:*:*:*,Dell Update Package Framework 3.8.3.67,['CVE-2019-3726'],2022-03-20T13:09Z
+6,cpe:2.3:a:dell:update_package_framework:19.1.0.413:*:*:*:*:*:*:*,Dell Update Package Framework 19.1.0.413,['CVE-2019-3726'],2022-03-20T13:09Z
+7,cpe:2.3:a:dell:update_package_framework:103.4.6.69:*:*:*:*:*:*:*,Dell Update Package Framework 103.4.6.69,[''],2022-03-20T13:09Z
+8,cpe:2.3:a:dell:upek_touchchip_fingerprint_reader:1.2.0:*:*:*:*:*:*:*,Dell Upek Touchchip Fingerprint Reader 1.2.0,[''],2022-03-20T13:09Z
+9,cpe:2.3:a:dell:upek_touchchip_fingerprint_reader:1.2.4:*:*:*:*:*:*:*,Dell Upek Touchchip Fingerprint Reader 1.2.4,[''],2022-03-20T13:09Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:cisco:as5300:-:*:*:*:*:*:*:*,Cisco Access Server AS5300,['CVE-2000-0268'],2022-03-19T18:26Z
+1,cpe:2.3:h:cisco:as5350:-:*:*:*:*:*:*:*,Cisco AS5350,[''],2022-03-19T18:26Z
+2,cpe:2.3:h:cisco:as5350:12.2\(11t\):*:*:*:*:*:*:*,Cisco AS5350 12.2_11T,['CVE-2002-2379'],2022-03-19T18:26Z
+3,cpe:2.3:h:cisco:as5400_universal_gateway:-:*:*:*:*:*:*:*,Cisco AS5400 Universal Gateway,['CVE-2012-5422'],2022-03-19T18:26Z
+4,cpe:2.3:h:cisco:as5400hpx_universal_gateway:-:*:*:*:*:*:*:*,Cisco AS5400HPX Universal Gateway,['CVE-2012-5422'],2022-03-19T18:26Z
+5,cpe:2.3:h:cisco:as5400xm_media_gateway:-:*:*:*:*:*:*:*,Cisco AS5400XM Media Gateway,['CVE-2012-5422'],2022-03-19T18:26Z
+6,cpe:2.3:h:cisco:as5400xm_universal_gateway:-:*:*:*:*:*:*:*,Cisco AS5400XM Universal Gateway,['CVE-2012-5422'],2022-03-19T18:26Z
+7,cpe:2.3:a:cisco:as5800:-:*:*:*:*:*:*:*,Cisco Access Server AS5800,['CVE-2000-0268'],2022-03-19T18:26Z
+8,cpe:2.3:h:cisco:asa_1000v_cloud_firewall:-:*:*:*:*:*:*:*,Cisco ASA 1000V Cloud Firewall,"['CVE-2012-5419', 'CVE-2012-5717', 'CVE-2012-6395']",2022-03-19T18:26Z
+9,cpe:2.3:o:cisco:asa_1000v_cloud_firewall_software:8.7.1:*:*:*:*:*:*:*,Cisco ASA 1000V Cloud Firewall Software 8.7.1,['CVE-2016-6366'],2022-03-19T18:26Z

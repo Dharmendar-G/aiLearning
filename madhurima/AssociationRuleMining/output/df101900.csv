@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:canon:powershot_sx70_hs:-:*:*:*:*:*:*:*,Canon Powershot Sx70 HS,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:15Z
+1,cpe:2.3:o:canon:powershot_sx70_hs_firmware:-:*:*:*:*:*:*:*,Canon Powershot Sx70 Hs Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:15Z
+2,cpe:2.3:o:canon:powershot_sx70_hs_firmware:1.1.0:*:*:*:*:*:*:*,Canon Powershot Sx70 Hs Firmware 1.1.0,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:15Z
+3,cpe:2.3:h:canon:powershot_sx740_hs:-:*:*:*:*:*:*:*,Canon Powershot Sx740 HS,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:15Z
+4,cpe:2.3:o:canon:powershot_sx740_hs_firmware:-:*:*:*:*:*:*:*,Canon Powershot Sx740 Hs Firmware -,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:15Z
+5,cpe:2.3:o:canon:powershot_sx740_hs_firmware:1.0.1:*:*:*:*:*:*:*,Canon Powershot Sx740 Hs Firmware 1.0.1,"['CVE-2019-5994', 'CVE-2019-5995', 'CVE-2019-5998', 'CVE-2019-5999', 'CVE-2019-6000', 'CVE-2019-6001']",2022-03-19T15:15Z
+6,cpe:2.3:a:canon:print:2.5.5:*:*:*:*:android:*:*,Canon Print 2.5.5 for Android,['CVE-2019-14339'],2022-03-19T15:15Z
+7,cpe:2.3:a:canon:remote_ui_portal:-:*:*:*:*:*:*:*,Canon Remote UI Portal,[''],2022-03-19T15:15Z
+8,cpe:2.3:h:canon:selphy_cp1200:-:*:*:*:*:*:*:*,Canon Selphy CP1200,['CVE-2020-12695'],2022-03-19T15:15Z
+9,cpe:2.3:h:canon:selphy_cp1300:-:*:*:*:*:*:*:*,Canon Selphy CP1300,[''],2022-03-19T15:15Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:devexpress:aspxfilemanager_control_for_webforms_and_mvc:13.2:*:*:*:*:*:*:*,DevExpress ASPxFileManager Control for WebForms and MVC 13.2,['CVE-2014-2575'],2022-03-20T13:41Z
+1,cpe:2.3:a:devexpress:aspxfilemanager_control_for_webforms_and_mvc:13.2.5:*:*:*:*:*:*:*,DevExpress ASPxFileManager Control for WebForms and MVC 13.2.5,['CVE-2014-2575'],2022-03-20T13:41Z
+2,cpe:2.3:a:devexpress:aspxfilemanager_control_for_webforms_and_mvc:13.2.6:*:*:*:*:*:*:*,DevExpress ASPxFileManager Control for WebForms and MVC 13.2.6,['CVE-2014-2575'],2022-03-20T13:41Z
+3,cpe:2.3:a:devexpress:aspxfilemanager_control_for_webforms_and_mvc:13.2.7:*:*:*:*:*:*:*,DevExpress ASPxFileManager Control for WebForms and MVC 13.2.7,['CVE-2014-2575'],2022-03-20T13:41Z
+4,cpe:2.3:a:devexpress:aspxfilemanager_control_for_webforms_and_mvc:13.2.8:*:*:*:*:*:*:*,DevExpress ASPxFileManager Control for WebForms and MVC 13.2.8,['CVE-2014-2575'],2022-03-20T13:41Z
+5,cpe:2.3:a:devexpress:aspxfilemanager_control_for_webforms_and_mvc:13.2.9:*:*:*:*:*:*:*,DevExpress ASPxFileManager Control for WebForms and MVC 13.2.9,[''],2022-03-20T13:41Z
+6,cpe:2.3:a:devexpress:devexpress:-:*:*:*:*:*:*:*,DevExpress,['CVE-2021-36483'],2022-03-20T13:41Z
+7,cpe:2.3:a:devexpress:devexpress:17.2:*:*:*:*:*:*:*,DevExpress 17.2,['CVE-2021-36483'],2022-03-20T13:41Z
+8,cpe:2.3:a:devexpress:devexpress:18.1:*:*:*:*:*:*:*,DevExpress 18.1,['CVE-2021-36483'],2022-03-20T13:41Z
+9,cpe:2.3:a:devexpress:devexpress:18.2:*:*:*:*:*:*:*,DevExpress 18.2,['CVE-2021-36483'],2022-03-20T13:41Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:9folders:nine:4.8.4a:*:*:*:*:android:*:*,9Folders Nine 4.8.4a for Android,[''],2022-03-18T10:21Z
+1,cpe:2.3:a:9folders:nine:4.8.4c:*:*:*:*:android:*:*,9Folders Nine 4.8.4c for Android,[''],2022-03-18T10:21Z
+2,cpe:2.3:a:9folders:nine:4.9.0:beta:*:*:*:android:*:*,9Folders Nine 4.9.0 Beta for Android,[''],2022-03-18T10:21Z
+3,cpe:2.3:a:9gag:9gag_-_funny_pics_and_videos:2.4.10:*:*:*:*:android:*:*,9GAG - Funny pics and videos (aka com.ninegag.android.app) for Android 2.4.10,['CVE-2014-5669'],2022-03-18T10:21Z
+4,cpe:2.3:a:9jacompass:epl_hat_trick:1:*:*:*:*:android:*:*,9jacompass EPL Hat Trick (aka com.hat.trick.goal) for android 1.0,['CVE-2014-6736'],2022-03-18T10:21Z
+5,cpe:2.3:h:a1:wlan_box_adb_vv2220:2:*:*:*:*:*:*:*,A1 WLAN Box ADB VV2220 2,['CVE-2020-8090'],2022-03-18T10:21Z
+6,cpe:2.3:o:a1:wlan_box_adb_vv2220_firmware:-:*:*:*:*:*:*:*,A1 WLAN Box ADB VV2220 Firmware,['CVE-2020-8090'],2022-03-18T10:21Z
+7,cpe:2.3:a:a10networks:acos_web_application_firewall:2.7.1:*:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) Web Application Firewall (WAF) 2.7.1,['CVE-2018-15904'],2022-03-18T10:21Z
+8,cpe:2.3:a:a10networks:acos_web_application_firewall:2.7.2:-:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) Web Application Firewall (WAF) 2.7.2,['CVE-2018-15904'],2022-03-18T10:21Z
+9,cpe:2.3:a:a10networks:acos_web_application_firewall:2.7.2:p1:*:*:*:*:*:*,A10 Networks Advanced Core Operating System (ACOS) Web Application Firewall (WAF) 2.7.2 Patch 1,['CVE-2018-15904'],2022-03-18T10:21Z

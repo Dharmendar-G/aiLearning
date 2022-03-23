@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:activemq_artemis:2.11.0:*:*:*:*:*:*:*,Apache Software Foundation ActiveMQ Artemis 2.11.0,"['CVE-2020-10727', 'CVE-2020-13932', 'CVE-2021-26117', 'CVE-2022-23913']",2022-03-18T17:30Z
+1,cpe:2.3:a:apache:activemq_artemis:2.12.0:*:*:*:*:*:*:*,Apache Software Foundation ActiveMQ Artemis 2.12.0,"['CVE-2020-10727', 'CVE-2020-13932', 'CVE-2021-26117', 'CVE-2022-23913']",2022-03-18T17:30Z
+2,cpe:2.3:a:apache:activemq_artemis:2.13.0:*:*:*:*:*:*:*,Apache Software Foundation ActiveMQ Artemis 2.13.0,"['CVE-2020-13932', 'CVE-2021-26117', 'CVE-2022-23913']",2022-03-18T17:30Z
+3,cpe:2.3:a:apache:activemq_artemis:2.14.0:*:*:*:*:*:*:*,Apache Software Foundation ActiveMQ Artemis 2.14.0,"['CVE-2021-26117', 'CVE-2022-23913']",2022-03-18T17:30Z
+4,cpe:2.3:a:apache:activemq_artemis:2.15.0:*:*:*:*:*:*:*,Apache Software Foundation ActiveMQ Artemis 2.15.0,"['CVE-2021-26117', 'CVE-2021-26118', 'CVE-2022-23913']",2022-03-18T17:30Z
+5,cpe:2.3:a:apache:activemq_artemis:2.16.0:*:*:*:*:*:*:*,Apache Software Foundation ActiveMQ Artemis 2.16.0,['CVE-2022-23913'],2022-03-18T17:30Z
+6,cpe:2.3:a:apache:activemq_artemis:2.17.0:*:*:*:*:*:*:*,Apache Software Foundation ActiveMQ Artemis 2.17.0,['CVE-2022-23913'],2022-03-18T17:30Z
+7,cpe:2.3:a:apache:activemq_artemis:2.18.0:*:*:*:*:*:*:*,Apache Software Foundation ActiveMQ Artemis 2.18.0,['CVE-2022-23913'],2022-03-18T17:30Z
+8,cpe:2.3:a:apache:activemq_artemis:2.19.0:*:*:*:*:*:*:*,Apache Software Foundation ActiveMQ Artemis 2.19.0,['CVE-2022-23913'],2022-03-18T17:30Z
+9,cpe:2.3:a:apache:activemq_artemis:2.19.1:*:*:*:*:*:*:*,Apache Software Foundation ActiveMQ Artemis 2.19.1,[''],2022-03-18T17:30Z

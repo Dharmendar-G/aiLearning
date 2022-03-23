@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:hp:simplivity_omnistack_for_cisco_firmware:3.5.2:*:*:*:*:*:*:*,HP Simplivity OmniStack for Cisco Firmware 3.5.2,"['CVE-2019-11993', 'CVE-2019-11994']",2022-03-21T16:03Z
+1,cpe:2.3:o:hp:simplivity_omnistack_for_cisco_firmware:3.7.9:*:*:*:*:*:*:*,HP Simplivity OmniStack for Cisco Firmware 3.7.9,"['CVE-2019-11993', 'CVE-2019-11994']",2022-03-21T16:03Z
+2,cpe:2.3:h:hp:simplivity_omnistack_for_dell:-:*:*:*:*:*:*:*,HP SimpliVity OmniStack for Dell,"['CVE-2019-11993', 'CVE-2019-11994']",2022-03-21T16:03Z
+3,cpe:2.3:o:hp:simplivity_omnistack_for_dell_firmware:3.0.8:*:*:*:*:*:*:*,HP SimpliVity OmniStack for Dell Firmware 3.0.8,['CVE-2019-11993'],2022-03-21T16:03Z
+4,cpe:2.3:h:hp:simplivity_omnistack_for_lenovo:-:*:*:*:*:*:*:*,HP SimpliVity OmniStack for Lenovo,"['CVE-2019-11993', 'CVE-2019-11994']",2022-03-21T16:03Z
+5,cpe:2.3:o:hp:simplivity_omnistack_for_lenovo_firmware:3.0.8:*:*:*:*:*:*:*,HP SimpliVity OmniStack for Lenovo Firmware 3.0.8,['CVE-2019-11993'],2022-03-21T16:03Z
+6,cpe:2.3:o:hp:simplivity_omnistack_for_lenovo_firmware:3.5.2:*:*:*:*:*:*:*,HP Simplivity OmniStack for Lenovo Firmware 3.5.2,"['CVE-2019-11993', 'CVE-2019-11994']",2022-03-21T16:03Z
+7,cpe:2.3:o:hp:simplivity_omnistack_for_lenovo_firmware:3.7.9:*:*:*:*:*:*:*,HP Simplivity OmniStack for Lenovo Firmware 3.7.9,"['CVE-2019-11993', 'CVE-2019-11994']",2022-03-21T16:03Z
+8,cpe:2.3:a:hp:sitescope:9.0:*:*:*:*:*:*:*,HP SiteScope 9.0,"['CVE-2007-4350', 'CVE-2011-2400', 'CVE-2011-2401']",2022-03-21T16:03Z
+9,cpe:2.3:a:hp:sitescope:10.10:*:*:*:*:*:*:*,HP SiteScope 10.10,['CVE-2013-6207'],2022-03-21T16:03Z

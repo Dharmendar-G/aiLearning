@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:incubator_superset:0.14.1:*:*:*:*:*:*:*,Apache Software Foundation Incubator Superset 0.14.1,"['CVE-2019-12413', 'CVE-2019-12414']",2022-03-18T18:50Z
+1,cpe:2.3:a:apache:incubator_superset:0.15.0:*:*:*:*:*:*:*,Apache Software Foundation Incubator Superset 0.15.0,"['CVE-2019-12413', 'CVE-2019-12414']",2022-03-18T18:50Z
+2,cpe:2.3:a:apache:incubator_superset:0.15.1:*:*:*:*:*:*:*,Apache Software Foundation Incubator Superset 0.15.1,"['CVE-2019-12413', 'CVE-2019-12414']",2022-03-18T18:50Z
+3,cpe:2.3:a:apache:incubator_superset:0.15.2:*:*:*:*:*:*:*,Apache Software Foundation Incubator Superset 0.15.2,"['CVE-2019-12413', 'CVE-2019-12414']",2022-03-18T18:50Z
+4,cpe:2.3:a:apache:incubator_superset:0.15.3:*:*:*:*:*:*:*,Apache Software Foundation Incubator Superset 0.15.3,"['CVE-2019-12413', 'CVE-2019-12414']",2022-03-18T18:50Z
+5,cpe:2.3:a:apache:incubator_superset:0.15.4:*:*:*:*:*:*:*,Apache Software Foundation Incubator Superset 0.15.4,"['CVE-2019-12413', 'CVE-2019-12414']",2022-03-18T18:50Z
+6,cpe:2.3:a:apache:incubator_superset:0.15.4.1:*:*:*:*:*:*:*,Apache Software Foundation Incubator Superset 0.15.4.1,"['CVE-2019-12413', 'CVE-2019-12414']",2022-03-18T18:50Z
+7,cpe:2.3:a:apache:incubator_superset:0.16.0:*:*:*:*:*:*:*,Apache Software Foundation Incubator Superset 0.16.0,"['CVE-2019-12413', 'CVE-2019-12414']",2022-03-18T18:50Z
+8,cpe:2.3:a:apache:incubator_superset:0.16.1:*:*:*:*:*:*:*,Apache Software Foundation Incubator Superset 0.16.1,"['CVE-2019-12413', 'CVE-2019-12414']",2022-03-18T18:50Z
+9,cpe:2.3:a:apache:incubator_superset:0.17.0:*:*:*:*:*:*:*,Apache Software Foundation Incubator Superset 0.17.0,"['CVE-2019-12413', 'CVE-2019-12414']",2022-03-18T18:50Z

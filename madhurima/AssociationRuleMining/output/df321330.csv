@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hp:elitebook_850_g6:-:*:*:*:*:*:*:*,HP EliteBook 850 G6,"['CVE-2019-18618', 'CVE-2019-18913', 'CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T13:19Z
+1,cpe:2.3:o:hp:elitebook_850_g6_firmware:-:*:*:*:*:*:*:*,HP EliteBook 850 G6 Firmware,"['CVE-2019-18618', 'CVE-2019-18913', 'CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T13:19Z
+2,cpe:2.3:o:hp:elitebook_850_g6_firmware:01.04.02:*:*:*:*:*:*:*,HP EliteBook 850 G6 Firmware 01.04.02,"['CVE-2019-18618', 'CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T13:19Z
+3,cpe:2.3:o:hp:elitebook_850_g6_firmware:5.5.21.1099:*:*:*:*:*:*:*,HP EliteBook 850 G6 Firmware 5.5.21.1099,[''],2022-03-21T13:19Z
+4,cpe:2.3:h:hp:elitebook_850_g7:-:*:*:*:*:*:*:*,HP EliteBook 850 G7,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T13:19Z
+5,cpe:2.3:o:hp:elitebook_850_g7_firmware:-:*:*:*:*:*:*:*,HP EliteBook 850 G7 Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T13:19Z
+6,cpe:2.3:h:hp:elitebook_850_g8:-:*:*:*:*:*:*:*,HP EliteBook 850 G8,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T13:19Z
+7,cpe:2.3:o:hp:elitebook_850_g8_firmware:-:*:*:*:*:*:*:*,HP EliteBook 850 G8 Firmware,"['CVE-2021-39297', 'CVE-2021-39298', 'CVE-2021-39299', 'CVE-2021-39300', 'CVE-2021-39301']",2022-03-21T13:19Z
+8,cpe:2.3:h:hp:elitebook_folio_1012_x2_g2:-:*:*:*:*:*:*:*,HP EliteBook Folio 1012 x2 G2,['CVE-2016-2243'],2022-03-21T13:19Z
+9,cpe:2.3:h:hp:elitebook_folio_1020_g1:-:*:*:*:-:*:*:*,HP EliteBook Folio 1020 G1,['CVE-2019-16284'],2022-03-21T13:19Z

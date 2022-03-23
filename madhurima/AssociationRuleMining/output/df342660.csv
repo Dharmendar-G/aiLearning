@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:ibm:emptoris_strategic_supply_management_platform:10.1.0.27:*:*:*:*:*:*:*,IBM Emptoris Strategic Supply Management Platform 10.1.0.27,['CVE-2019-4752'],2022-03-21T20:32Z
+1,cpe:2.3:a:ibm:emptoris_strategic_supply_management_platform:10.1.0.28:*:*:*:*:*:*:*,IBM Emptoris Strategic Supply Management Platform 10.1.0.28,['CVE-2019-4752'],2022-03-21T20:32Z
+2,cpe:2.3:a:ibm:emptoris_strategic_supply_management_platform:10.1.0.29:*:*:*:*:*:*:*,IBM Emptoris Strategic Supply Management Platform 10.1.0.29,['CVE-2019-4752'],2022-03-21T20:32Z
+3,cpe:2.3:a:ibm:emptoris_strategic_supply_management_platform:10.1.0.30:*:*:*:*:*:*:*,IBM Emptoris Strategic Supply Management Platform 10.1.0.30,['CVE-2019-4752'],2022-03-21T20:32Z
+4,cpe:2.3:a:ibm:emptoris_strategic_supply_management_platform:10.1.0.31:*:*:*:*:*:*:*,IBM Emptoris Strategic Supply Management Platform 10.1.0.31,['CVE-2019-4752'],2022-03-21T20:32Z
+5,cpe:2.3:a:ibm:emptoris_strategic_supply_management_platform:10.1.0.32:*:*:*:*:*:*:*,IBM Emptoris Strategic Supply Management Platform 10.1.0.32,['CVE-2019-4752'],2022-03-21T20:32Z
+6,cpe:2.3:a:ibm:emptoris_strategic_supply_management_platform:10.1.0.33:*:*:*:*:*:*:*,IBM Emptoris Strategic Supply Management Platform 10.1.0.33,['CVE-2019-4752'],2022-03-21T20:32Z
+7,cpe:2.3:a:ibm:emptoris_strategic_supply_management_platform:10.1.0.34:*:*:*:*:*:*:*,IBM Emptoris Strategic Supply Management Platform 10.1.0.34,[''],2022-03-21T20:32Z
+8,cpe:2.3:a:ibm:emptoris_supplier_lifecycle_management:10.0.0.0:*:*:*:*:*:*:*,IBM Emptoris Supplier Lifecycle Management 10.0.0.0,"['CVE-2015-4939', 'CVE-2016-6121', 'CVE-2016-8949', 'CVE-2017-1448']",2022-03-21T20:32Z
+9,cpe:2.3:a:ibm:emptoris_supplier_lifecycle_management:10.0.0.1:*:*:*:*:*:*:*,IBM Emptoris Supplier Lifecycle Management 10.0.0.1,"['CVE-2015-4939', 'CVE-2016-6121', 'CVE-2016-8949', 'CVE-2017-1448']",2022-03-21T20:32Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:akaunting:akaunting:2.1.19:*:*:*:*:*:*:*,Akaunting Inc Akaunting 2.1.19,[''],2022-03-18T14:18Z
+1,cpe:2.3:a:akaunting:akaunting:2.1.20:*:*:*:*:*:*:*,Akaunting Inc Akaunting 2.1.20,[''],2022-03-18T14:18Z
+2,cpe:2.3:a:akaunting:akaunting:2.1.21:*:*:*:*:*:*:*,Akaunting Inc Akaunting 2.1.21,[''],2022-03-18T14:18Z
+3,cpe:2.3:a:akaunting:akaunting:2.1.22:*:*:*:*:*:*:*,Akaunting Inc Akaunting 2.1.22,[''],2022-03-18T14:18Z
+4,cpe:2.3:a:akaunting:akaunting:2.1.23:*:*:*:*:*:*:*,Akaunting Inc Akaunting 2.1.23,[''],2022-03-18T14:18Z
+5,cpe:2.3:a:akaunting:akaunting:2.1.24:*:*:*:*:*:*:*,Akaunting Inc Akaunting 2.1.24,[''],2022-03-18T14:18Z
+6,cpe:2.3:a:akaunting:akaunting:2.1.25:*:*:*:*:*:*:*,Akaunting Inc Akaunting 2.1.25,[''],2022-03-18T14:18Z
+7,cpe:2.3:a:akaunting:akaunting:2.1.26:*:*:*:*:*:*:*,Akaunting Inc Akaunting 2.1.26,[''],2022-03-18T14:18Z
+8,cpe:2.3:a:akcms_project:akcms:6.1:*:*:*:*:*:*:*,AKCMS Project AKCMS 6.1,"['CVE-2018-12582', 'CVE-2018-12583']",2022-03-18T14:18Z
+9,cpe:2.3:h:akcp:sensorprobe2:-:*:*:*:*:*:*:*,AKCP Solutions sensorProbe2,['CVE-2021-35956'],2022-03-18T14:18Z

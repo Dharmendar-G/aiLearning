@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:accellion:fta:9_12_444:*:*:*:*:*:*:*,Accellion File Transfer Appliance (FTA) 9_12_444,[''],2022-03-18T10:43Z
+1,cpe:2.3:a:accellion:kiteworks:7.3.0:*:*:*:*:*:*:*,Accellion Kiteworks 7.3.0,"['CVE-2017-9421', 'CVE-2021-31585', 'CVE-2021-31586']",2022-03-18T10:43Z
+2,cpe:2.3:a:accellion:kiteworks:7.3.1:*:*:*:*:*:*:*,Accellion Kiteworks 7.3.1,"['CVE-2017-9421', 'CVE-2021-31586']",2022-03-18T10:43Z
+3,cpe:2.3:a:accellion:kiteworks:7.3.2:*:*:*:*:*:*:*,Accellion Kiteworks 7.3.2,"['CVE-2017-9421', 'CVE-2021-31586']",2022-03-18T10:43Z
+4,cpe:2.3:a:accellion:kiteworks:7.4.0:*:*:*:*:*:*:*,Accellion Kiteworks 7.4.0,['CVE-2017-9421'],2022-03-18T10:43Z
+5,cpe:2.3:a:accellion:kiteworks:2017.01.00:*:*:*:*:*:*:*,Accellion kiteworks 2017.01.00,[''],2022-03-18T10:43Z
+6,cpe:2.3:a:accellion:kiteworks_appliance:kw2016.03.00:*:*:*:*:*:*:*,Accellion Kiteworks Appliance kw2016.03.00,"['CVE-2016-5662', 'CVE-2016-5663', 'CVE-2016-5664']",2022-03-18T10:43Z
+7,cpe:2.3:a:accel-ppp:accel-ppp:1.10.0:*:*:*:*:*:*:*,Accel-ppp 1.10.0,"['CVE-2020-15173', 'CVE-2020-28194', 'CVE-2022-24704', 'CVE-2022-24705']",2022-03-18T10:44Z
+8,cpe:2.3:a:accel-ppp:accel-ppp:1.12.0:*:*:*:*:*:*:*,ACCEL-PPP 1.12.0,"['CVE-2020-15173', 'CVE-2020-28194', 'CVE-2021-42054', 'CVE-2022-24704']",2022-03-18T10:44Z
+9,cpe:2.3:a:accel-ppp:accel-ppp:1.12.0-92-g38b6104:*:*:*:*:*:*:*,accel-ppp accel-ppp 1.12.0-92-g38b6104,"['CVE-2020-15173', 'CVE-2020-28194']",2022-03-18T10:44Z

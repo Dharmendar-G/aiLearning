@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apple:swift:2.2.1:*:*:*:*:ubuntu:*:*,Apple Swift 2.2.1 for Ubuntu,"['CVE-2018-4220', 'CVE-2019-8790', 'CVE-2020-9861']",2022-03-18T22:22Z
+1,cpe:2.3:a:apple:swift:3.0:*:*:*:*:ubuntu:*:*,Apple Swift 3.0 for Ubuntu,"['CVE-2018-4220', 'CVE-2019-8790', 'CVE-2020-9861']",2022-03-18T22:22Z
+2,cpe:2.3:a:apple:swift:3.0.1:*:*:*:*:ubuntu:*:*,Apple Swift 3.0.1 for Ubuntu,"['CVE-2018-4220', 'CVE-2019-8790', 'CVE-2020-9861']",2022-03-18T22:22Z
+3,cpe:2.3:a:apple:swift:3.0.2:*:*:*:*:ubuntu:*:*,Apple Swift 3.0.2 for Ubuntu,"['CVE-2018-4220', 'CVE-2019-8790', 'CVE-2020-9861']",2022-03-18T22:22Z
+4,cpe:2.3:a:apple:swift:3.1:*:*:*:*:ubuntu:*:*,Apple Swift 3.1 for Ubuntu,"['CVE-2018-4220', 'CVE-2019-8790', 'CVE-2020-9861']",2022-03-18T22:23Z
+5,cpe:2.3:a:apple:swift:3.1.1:*:*:*:*:ubuntu:*:*,Apple Swift 3.1.1 for Ubuntu,"['CVE-2018-4220', 'CVE-2019-8790', 'CVE-2020-9861']",2022-03-18T22:22Z
+6,cpe:2.3:a:apple:swift:4.0:*:*:*:*:ubuntu:*:*,Apple Swift 4.0 for Ubuntu,"['CVE-2018-4220', 'CVE-2019-8790', 'CVE-2020-9861']",2022-03-18T22:22Z
+7,cpe:2.3:a:apple:swift:4.0.2:*:*:*:*:ubuntu:*:*,Apple Swift 4.0.2 for Ubuntu,"['CVE-2018-4220', 'CVE-2019-8790', 'CVE-2020-9861']",2022-03-18T22:23Z
+8,cpe:2.3:a:apple:swift:4.0.3:*:*:*:*:ubuntu:*:*,Apple Swift 4.0.3 for Ubuntu,"['CVE-2018-4220', 'CVE-2019-8790', 'CVE-2020-9861']",2022-03-18T22:23Z
+9,cpe:2.3:a:apple:swift:4.1:*:*:*:*:ubuntu:*:*,Apple Swift 4.1 for Ubuntu,"['CVE-2018-4220', 'CVE-2019-8790', 'CVE-2020-9861']",2022-03-18T22:23Z

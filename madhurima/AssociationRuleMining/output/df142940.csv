@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,"cpe:2.3:a:cleantalk:spam_protection\,_antispam\,_firewall:5.97:*:*:*:*:wordpress:*:*","CleanTalk Spam Protection, Antispam, Firewall 5.97 for WordPress","['CVE-2019-17515', 'CVE-2021-24295']",2022-03-20T02:18Z
+1,"cpe:2.3:a:cleantalk:spam_protection\,_antispam\,_firewall:5.98:*:*:*:*:wordpress:*:*","CleanTalk Spam Protection, Antispam, Firewall 5.98 for WordPress","['CVE-2019-17515', 'CVE-2021-24295']",2022-03-20T02:18Z
+2,"cpe:2.3:a:cleantalk:spam_protection\,_antispam\,_firewall:5.99:*:*:*:*:wordpress:*:*","CleanTalk Spam Protection, Antispam, Firewall 5.99 for WordPress","['CVE-2019-17515', 'CVE-2021-24295']",2022-03-20T02:18Z
+3,"cpe:2.3:a:cleantalk:spam_protection\,_antispam\,_firewall:5.99.1:*:*:*:*:wordpress:*:*","CleanTalk Spam Protection, Antispam, Firewall 5.99.1 for WordPress","['CVE-2019-17515', 'CVE-2021-24295']",2022-03-20T02:18Z
+4,"cpe:2.3:a:cleantalk:spam_protection\,_antispam\,_firewall:5.100:*:*:*:*:wordpress:*:*","CleanTalk Spam Protection, Antispam, Firewall 5.100 for WordPress","['CVE-2019-17515', 'CVE-2021-24295']",2022-03-20T02:18Z
+5,"cpe:2.3:a:cleantalk:spam_protection\,_antispam\,_firewall:5.101:*:*:*:*:wordpress:*:*","CleanTalk Spam Protection, Antispam, Firewall 5.101 for WordPress","['CVE-2019-17515', 'CVE-2021-24295']",2022-03-20T02:18Z
+6,"cpe:2.3:a:cleantalk:spam_protection\,_antispam\,_firewall:5.102:*:*:*:*:wordpress:*:*","CleanTalk Spam Protection, Antispam, Firewall 5.102 for WordPress","['CVE-2019-17515', 'CVE-2021-24295']",2022-03-20T02:18Z
+7,"cpe:2.3:a:cleantalk:spam_protection\,_antispam\,_firewall:5.103:*:*:*:*:wordpress:*:*","CleanTalk Spam Protection, Antispam, Firewall 5.103 for WordPress","['CVE-2019-17515', 'CVE-2021-24295']",2022-03-20T02:19Z
+8,"cpe:2.3:a:cleantalk:spam_protection\,_antispam\,_firewall:5.103.1:*:*:*:*:wordpress:*:*","CleanTalk Spam Protection, Antispam, Firewall 5.103.1 for WordPress","['CVE-2019-17515', 'CVE-2021-24295']",2022-03-20T02:19Z
+9,"cpe:2.3:a:cleantalk:spam_protection\,_antispam\,_firewall:5.104:*:*:*:*:wordpress:*:*","CleanTalk Spam Protection, Antispam, Firewall 5.104 for WordPress","['CVE-2019-17515', 'CVE-2021-24295']",2022-03-20T02:19Z

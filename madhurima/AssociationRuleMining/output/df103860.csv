@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:castlenet:cbv38z4ecnit_firmware:125.553mp1.39219mp1.899.005itt:*:*:*:*:*:*:*,CastleNet Technology Inc CBV38Z4ECNIT Firmware 125.553MP1.39219MP1.899.005ITT,['CVE-2018-20385'],2022-03-19T15:41Z
+1,cpe:2.3:h:castlenet:cbw383g4j:1.01:*:*:*:*:*:*:*,CastleNet Technology Inc CBW383G4J 1.01,['CVE-2018-20385'],2022-03-19T15:41Z
+2,cpe:2.3:o:castlenet:cbw383g4j_firmware:37.556mp5.008:*:*:*:*:*:*:*,CastleNet Technology Inc CBW383G4J Firmware 37.556MP5.008,['CVE-2018-20385'],2022-03-19T15:41Z
+3,cpe:2.3:h:castlenet:cbw38g4j:1.0:*:*:*:*:*:*:*,CastleNet Technology Inc CBW38G4J 1.0,['CVE-2018-20385'],2022-03-19T15:41Z
+4,cpe:2.3:o:castlenet:cbw38g4j_firmware:37.553mp1.008:*:*:*:*:*:*:*,CastleNet Technology Inc CBW38G4J Firmware 37.553MP1.008,['CVE-2018-20385'],2022-03-19T15:41Z
+5,cpe:2.3:a:castlerock:simple_network_management_protocol_console:9.0.12.1:*:*:*:*:*:*:*,Castle Rock Simple Network Management Protocol Console 9.0.12.1,[''],2022-03-19T15:41Z
+6,cpe:2.3:a:castlerock:simple_network_management_protocol_console:10.0.0:*:*:*:*:*:*:*,Castle Rock Simple Network Management Protocol Console 10.0.0,['CVE-2019-13494'],2022-03-19T15:41Z
+7,cpe:2.3:a:castlerock:simple_network_management_protocol_console:10.0.9:*:*:*:*:*:*:*,Castle Rock Simple Network Management Protocol Console 10.0.9,[''],2022-03-19T15:41Z
+8,cpe:2.3:a:castlerock:snmpc:7.1:*:*:*:*:*:*:*,Castlerock Snmpc 7.1,[''],2022-03-19T15:41Z
+9,cpe:2.3:a:castlerock:snmpc:9.0:*:*:*:enterprise:*:*:*,Castle Rock Computing SNMPc 9.0 Enterprise Edition,"['CVE-2015-6027', 'CVE-2015-6028']",2022-03-19T15:41Z

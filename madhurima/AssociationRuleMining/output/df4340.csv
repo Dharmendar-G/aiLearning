@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:abrt_project:abrt:0.0.9:*:*:*:*:*:*:*,ABRT Project ABRT 0.0.9,['CVE-2015-1862'],2022-03-18T10:40Z
+1,cpe:2.3:a:abrt_project:abrt:0.0.10:*:*:*:*:*:*:*,ABRT Project ABRT 0.0.10,['CVE-2015-1862'],2022-03-18T10:40Z
+2,cpe:2.3:a:abrt_project:abrt:0.0.11:*:*:*:*:*:*:*,ABRT Project ABRT 0.0.11,['CVE-2015-1862'],2022-03-18T10:40Z
+3,cpe:2.3:a:abrt_project:abrt:1.0:*:*:*:*:*:*:*,ABRT Project ABRT 1.0,['CVE-2015-1862'],2022-03-18T10:40Z
+4,cpe:2.3:a:abrt_project:abrt:1.0.1:*:*:*:*:*:*:*,ABRT Project ABRT 1.0.1,['CVE-2015-1862'],2022-03-18T10:40Z
+5,cpe:2.3:a:abrt_project:abrt:1.0.2:*:*:*:*:*:*:*,ABRT Project ABRT 1.0.2,['CVE-2015-1862'],2022-03-18T10:40Z
+6,cpe:2.3:a:abrt_project:abrt:1.0.3:*:*:*:*:*:*:*,ABRT Project ABRT 1.0.3,['CVE-2015-1862'],2022-03-18T10:40Z
+7,cpe:2.3:a:abrt_project:abrt:1.0.4:*:*:*:*:*:*:*,ABRT Project ABRT 1.0.4,['CVE-2015-1862'],2022-03-18T10:40Z
+8,cpe:2.3:a:abrt_project:abrt:1.0.5:*:*:*:*:*:*:*,ABRT Project ABRT 1.0.5,['CVE-2015-1862'],2022-03-18T10:40Z
+9,cpe:2.3:a:abrt_project:abrt:1.0.6:*:*:*:*:*:*:*,ABRT Project ABRT 1.0.6,['CVE-2015-1862'],2022-03-18T10:40Z

@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:catfish-cms:catfish_cms:5.9.0:*:*:*:*:*:*:*,Catfish CMS 5.9.0,"['CVE-2021-45017', 'CVE-2021-45018']",2022-03-19T15:46Z
+1,cpe:2.3:a:catfish-cms:catfish_cms:5.9.3:*:*:*:*:*:*:*,Catfish CMS 5.9.3,"['CVE-2021-45017', 'CVE-2021-45018']",2022-03-19T15:46Z
+2,cpe:2.3:a:catfish-cms:catfish_cms:5.9.6:*:*:*:*:*:*:*,Catfish CMS 5.9.6,"['CVE-2021-45017', 'CVE-2021-45018']",2022-03-19T15:46Z
+3,cpe:2.3:a:catfish-cms:catfish_cms:5.9.9:*:*:*:*:*:*:*,Catfish CMS 5.9.9,"['CVE-2021-45017', 'CVE-2021-45018']",2022-03-19T15:46Z
+4,cpe:2.3:a:catfish-cms:catfish_cms:5.9.12:*:*:*:*:*:*:*,Catfish CMS 5.9.12,"['CVE-2021-45017', 'CVE-2021-45018']",2022-03-19T15:46Z
+5,cpe:2.3:a:catfish-cms:catfish_cms:5.9.15:*:*:*:*:*:*:*,Catfish CMS 5.9.15,"['CVE-2021-45017', 'CVE-2021-45018']",2022-03-19T15:46Z
+6,cpe:2.3:a:catfish-cms:catfish_cms:6.0.0:*:*:*:*:*:*:*,Catfish CMS 6.0.0,"['CVE-2021-45017', 'CVE-2021-45018']",2022-03-19T15:46Z
+7,cpe:2.3:a:catfish-cms:catfish_cms:6.1.0:*:*:*:*:*:*:*,Catfish CMS 6.1.0,"['CVE-2021-45017', 'CVE-2021-45018']",2022-03-19T15:46Z
+8,cpe:2.3:a:catfish-cms:catfish_cms:6.2.0:*:*:*:*:*:*:*,Catfish CMS 6.2.0,"['CVE-2021-45017', 'CVE-2021-45018']",2022-03-19T15:46Z
+9,cpe:2.3:a:catfish-cms:catfish_cms:6.2.3:*:*:*:*:*:*:*,Catfish CMS 6.2.3,"['CVE-2021-45017', 'CVE-2021-45018']",2022-03-19T15:46Z

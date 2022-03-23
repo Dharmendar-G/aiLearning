@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:apache:lucene:2.9.0:*:*:*:*:*:*:*,Apache Software Foundation Lucene 2.9.0,[''],2022-03-18T19:22Z
+1,cpe:2.3:a:apache:lucene:2.9.1:*:*:*:*:*:*:*,Apache Software Foundation Lucene 2.9.1,[''],2022-03-18T19:22Z
+2,cpe:2.3:a:apache:lucene:2.9.2:*:*:*:*:*:*:*,Apache Software Foundation Lucene 2.9.2,[''],2022-03-18T19:22Z
+3,cpe:2.3:a:apache:lucene:2.9.3:*:*:*:*:*:*:*,Apache Software Foundation Lucene 2.9.3,[''],2022-03-18T19:22Z
+4,cpe:2.3:a:apache:lucene:2.9.4:*:*:*:*:*:*:*,Apache Software Foundation Lucene 2.9.4,[''],2022-03-18T19:22Z
+5,cpe:2.3:a:apache:lucene:3.0.0:*:*:*:*:*:*:*,Apache Software Foundation Lucene 3.0.0,[''],2022-03-18T19:22Z
+6,cpe:2.3:a:apache:lucene:3.0.1:*:*:*:*:*:*:*,Apache Software Foundation Lucene 3.0.1,[''],2022-03-18T19:22Z
+7,cpe:2.3:a:apache:lucene:3.0.2:*:*:*:*:*:*:*,Apache Software Foundation Lucene 3.0.2,[''],2022-03-18T19:22Z
+8,cpe:2.3:a:apache:lucene:3.0.3:*:*:*:*:*:*:*,Apache Software Foundation Lucene 3.0.3,[''],2022-03-18T19:22Z
+9,cpe:2.3:a:apache:lucene:3.1.0:*:*:*:*:*:*:*,Apache Software Foundation Lucene 3.1.0,[''],2022-03-18T19:22Z

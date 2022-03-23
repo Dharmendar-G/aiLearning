@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:leland-tl10c_firmware:-:*:*:*:*:*:*:*,Huawei LELAND-TL10C FIRMWARE,['CVE-2019-9506'],2022-03-21T18:01Z
+1,cpe:2.3:h:huawei:lion-al00c:-:*:*:*:*:*:*:*,Huawei Lion-AL00C,['CVE-2020-1880'],2022-03-21T18:01Z
+2,cpe:2.3:o:huawei:lion-al00c_firmware:-:*:*:*:*:*:*:*,Huawei Lion-AL00C Firmware,['CVE-2020-1880'],2022-03-21T18:01Z
+3,cpe:2.3:o:huawei:lion-al00c_firmware:10.0.0.205\(c00e202r7p2\):*:*:*:*:*:*:*,Huawei Lion-AL00C Firmware 10.0.0.205(C00E202R7P2),[''],2022-03-21T18:01Z
+4,cpe:2.3:a:huawei:logcenter:v100r001c10:*:*:*:*:*:*:*,Huawei LogCenter V100R001C10,"['CVE-2015-8670', 'CVE-2015-8671']",2022-03-21T18:01Z
+5,cpe:2.3:h:huawei:lon-al00b:-:*:*:*:*:*:*:*,Huawei LON-AL00B,"['CVE-2017-17280', 'CVE-2017-17285']",2022-03-21T18:01Z
+6,cpe:2.3:o:huawei:lon-al00b_firmware:lon-al00bc00:*:*:*:*:*:*:*,Huawei LON-AL00B Firmware LON-AL00BC00,"['CVE-2017-17280', 'CVE-2017-17285']",2022-03-21T18:01Z
+7,cpe:2.3:o:huawei:lon-al00b_firmware:lon-al00bc00b229:*:*:*:*:*:*:*,Huawei LON-AL00B Firmware LON-AL00BC00B229,['CVE-2017-17285'],2022-03-21T18:01Z
+8,cpe:2.3:h:huawei:london-al40ind:-:*:*:*:*:*:*:*,Huawei LONDON-AL40IND,['CVE-2019-9506'],2022-03-21T18:02Z
+9,cpe:2.3:o:huawei:london-al40ind_firmware:-:*:*:*:*:*:*:*,Huawei LONDON-AL40IND FIRMWARE,['CVE-2019-9506'],2022-03-21T18:02Z

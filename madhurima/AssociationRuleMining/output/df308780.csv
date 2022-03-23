@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:h:hbgk:hb7908:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7908,['CVE-2017-14335'],2022-03-21T10:23Z
+1,cpe:2.3:o:hbgk:hb7908_firmware:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7908 Firmware,['CVE-2017-14335'],2022-03-21T10:23Z
+2,cpe:2.3:h:hbgk:hb7908x:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7908X,['CVE-2017-14335'],2022-03-21T10:23Z
+3,cpe:2.3:o:hbgk:hb7908x_firmware:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7908X Firmware,['CVE-2017-14335'],2022-03-21T10:23Z
+4,cpe:2.3:h:hbgk:hb7916s:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7916S,['CVE-2017-14335'],2022-03-21T10:23Z
+5,cpe:2.3:o:hbgk:hb7916s_firmware:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7916S Firmware,['CVE-2017-14335'],2022-03-21T10:23Z
+6,cpe:2.3:h:hbgk:hb7916sx:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7916SX,['CVE-2017-14335'],2022-03-21T10:23Z
+7,cpe:2.3:o:hbgk:hb7916sx_firmware:-:*:*:*:*:*:*:*,HanBang Digital Technology HB7916SX Firmware,['CVE-2017-14335'],2022-03-21T10:23Z
+8,cpe:2.3:h:hbgk:hb8004:-:*:*:*:*:*:*:*,HanBang Digital Technology HB8004,['CVE-2017-14335'],2022-03-21T10:23Z
+9,cpe:2.3:o:hbgk:hb8004_firmware:-:*:*:*:*:*:*:*,HanBang Digital Technology HB8004 Firmware,['CVE-2017-14335'],2022-03-21T10:23Z

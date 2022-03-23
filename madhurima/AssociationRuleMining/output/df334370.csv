@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:o:huawei:honor_9_lite_firmware:9.1.0.124\(c00e112r2p10t8\):*:*:*:*:*:*:*,Huawei Honor 9 Lite Firmware 9.1.0.124(C00E112R2P10T8),"['CVE-2019-5251', 'CVE-2019-5252']",2022-03-21T17:53Z
+1,cpe:2.3:o:huawei:honor_9_lite_firmware:9.1.0.130\(c00e112r2p10t8\):*:*:*:*:*:*:*,Huawei Honor 9 Lite Firmware 9.1.0.130(C00E112R2P10T8),"['CVE-2019-5251', 'CVE-2019-5252']",2022-03-21T17:53Z
+2,cpe:2.3:o:huawei:honor_9_lite_firmware:9.1.0.136\(c636e5r1p5t8\):*:*:*:*:*:*:*,Huawei Honor 9 Lite Firmware 9.1.0.136(C636E5R1P58),['CVE-2019-5251'],2022-03-21T17:53Z
+3,cpe:2.3:o:huawei:honor_9_lite_firmware:9.1.0.143\(c636e5r1p5t8\):*:*:*:*:*:*:*,Huawei Honor 9 Lite Firmware 9.1.0.143(C636E5R1P5T8),[''],2022-03-21T17:53Z
+4,cpe:2.3:h:huawei:honor_9i:-:*:*:*:*:*:*:*,Huawei Honor 9i,"['CVE-2019-5251', 'CVE-2019-5252', 'CVE-2019-5264']",2022-03-21T17:53Z
+5,cpe:2.3:o:huawei:honor_9i_firmware:-:*:*:*:*:*:*:*,Huawei Honor 9i Firmware,"['CVE-2019-5251', 'CVE-2019-5252', 'CVE-2019-5264']",2022-03-21T17:53Z
+6,cpe:2.3:o:huawei:honor_9i_firmware:9.1.0.106\(sp53c636e2r1p4t8\):*:*:*:*:*:*:*,Huawei Honor 9i Firmware 9.1.0.106(SP53C636E2R1P4T8),"['CVE-2019-5251', 'CVE-2019-5252', 'CVE-2019-5264']",2022-03-21T17:53Z
+7,cpe:2.3:o:huawei:honor_9i_firmware:9.1.0.115\(c00e113r1p6t8\):*:*:*:*:*:*:*,Huawei Honor 9i Firmware 9.1.0.115(C00E113R1P6T8),"['CVE-2019-5251', 'CVE-2019-5252', 'CVE-2019-5264']",2022-03-21T17:53Z
+8,cpe:2.3:o:huawei:honor_9i_firmware:9.1.0.120\(c00e113r1p6t8\):*:*:*:*:*:*:*,Huawei Honor 9i Firmware 9.1.0.120(C00E113R1P6T8),"['CVE-2019-5252', 'CVE-2019-5264']",2022-03-21T17:53Z
+9,cpe:2.3:o:huawei:honor_9i_firmware:9.1.0.121\(c432e4r1p3t8\):*:*:*:*:*:*:*,Huawei Honor 9i Firmware 9.1.0.121(C432E4R1P3T8),['CVE-2019-5252'],2022-03-21T17:53Z
