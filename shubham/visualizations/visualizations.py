@@ -18,3 +18,5 @@ plt.show()
 
 plt.pie(df['Type'].value_counts(),labels=df["Type"].unique())
 plt.show()
+
+print("shubham ploting")
