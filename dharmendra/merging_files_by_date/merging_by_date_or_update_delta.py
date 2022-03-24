@@ -5,6 +5,8 @@ import os,time,datetime
 import zipfile
 import pandas as pd
 
+path = 'C:\\Users\\DharmendraGa_5wskc\\AI Training BS\\Tasks\\csv merging'
+
 # function for Unzipping files
 def unzip(file):
     with zipfile.ZipFile(os.getcwd()+f'\\{file}', 'r') as zip_obj:
@@ -37,9 +39,6 @@ end = time.time()
 # execution time in seconds 
 print(f"Total number of csv files  :  {len(a)}\n")
 print(f"Time taken to merge all the csv's into single dataframe: {end-start} sec")
-
-# Function for Merging files based on datetime ranges
-path = 'C:\\Users\\DharmendraGa_5wskc\\AI Training BS\\Tasks\\csv merging'
 
 # Merging files based on datetime ranges and updating the new delta 
 def merge_files(path, from_date, to_date, base=None, update_previous=None):
