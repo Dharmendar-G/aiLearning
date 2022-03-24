@@ -16,7 +16,7 @@ print(os.getcwd())
 # In[2]:
 
 
-data=pd.read_csv("../dataset/StandardTemplate.csv",encoding='cp1252')
+data=pd.read_csv("../mukund/StandardTemplate.csv", encoding='cp1252')
 pd.set_option('display.max_colwidth',1000)
 pd.set_option('display.max_columns',500)
 
@@ -125,7 +125,7 @@ fun(feature4,'Property Location')
 # In[9]:
 
 
-data.head(10)
+print(data.head(10))
 data.to_csv('submission.csv',index=False)
 
 # In[ ]:
