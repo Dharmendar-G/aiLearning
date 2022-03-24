@@ -34,10 +34,9 @@ stdf.rename(columns={'fileName':'FileName'}, inplace=True)
 # Importing 6 matching dataframes 
 df_list = []
 for i in range(1,7):
-    if i.endswith('csv'):
-        df = pd.read_csv(f'C:\\Users\\DharmendraGa_5wskc\\Desktop\\AI Training\\aiLearning\\dataset\\{i}.csv')
-        df_list.append(df)
-    
+    df = pd.read_csv(f'C:\\Users\\DharmendraGa_5wskc\\Desktop\\AI Training\\aiLearning\\dataset\\{i}.csv')
+    df_list.append(df)
+
 # Required Keys
 keys = stdf.columns.tolist()[28:37]
 
