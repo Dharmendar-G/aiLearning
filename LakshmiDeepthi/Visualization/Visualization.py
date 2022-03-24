@@ -35,6 +35,12 @@ def count_plot(*args):
     return y1
 count_plot
 
+
+def count_plot(*args):
+    plt.figure(figsize=(10,25))
+    y1=sns.countplot(y=df["Vendor"],orient="h")
+    return y1
+count_plot
 # Barplot
 count = df.groupby("Vendor")["appName"].count()
 c = count[count>2000].sort_values().plot(kind='barh',figsize=(15, 10), color='#619CFF', zorder=2)
@@ -48,4 +54,5 @@ v_df = df[df['Vendor'].isin(top_vendors)]
 plt.figure(figsize=(10,8))
 v_df['Vendor'].value_counts()[::-1].plot(kind='pie', title=c, autopct="%.1f%%", fontsize=12)
 plt.title('Top Percentage Vendors', fontsize=20)
+
 plt.tight_layout()
