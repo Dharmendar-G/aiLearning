@@ -179,7 +179,7 @@ s = str(df6[df6['block_num']==15]['new_col'])
 s =re.search('\$\d+,\d+,\d+', s).group()
 
 # Standard Template Dataset
-standard = pd.read_csv('../../dataset/StandardTemplate.csv', encoding='cp1252')
+standard = pd.read_csv('../../mukund/StandardTemplate.csv', encoding='cp1252')
 stdf = standard[standard.columns.tolist()[:167]]
 stdf.insert(0, column='FileName', value=[x for x in range(1,7)])
 stdf
