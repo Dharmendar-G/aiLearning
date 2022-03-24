@@ -90,8 +90,8 @@ for x in range(len(fdf.vulnerabilities)):
 fdf_n = fdf.assign(freq_vulns = new_col)
 
 print(fdf_n.head())
-
-fdf.to_csv("associate_csv_update.csv")
+compression_opts = dict(method = 'zip',archive_name = "associate_csv_update.csv")
+fdf_n.to_csv("associate_csv_update.zip",compression = compression_opts )
 
 print("Done Saving the update.....!!!!")
 
