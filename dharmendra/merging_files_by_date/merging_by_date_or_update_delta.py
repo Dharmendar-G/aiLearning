@@ -22,7 +22,7 @@ finaldf.reset_index(inplace=True)
 finaldf.drop(['index'],axis=1,inplace=True)
 finaldf.to_csv('finaldf.csv', index=False)
 end = time.time()
-# execution time in seconds 
+# execution time 
 print(f"Total number of csv files  :  {len(dfs)}\n")
 print(f"time taken to merge all the csv's into single dataframe: {end-start} sec")
 
@@ -36,7 +36,7 @@ with zf as thezip:
     b = [pd.read_csv(thezip.open(a[x].filename,mode='r')) for x in range(1,len(a))]
     finaldf = pd.concat(b, axis=0)
 end = time.time()
-# execution time in seconds 
+# execution time
 print(f"Total number of csv files  :  {len(a)}\n")
 print(f"Time taken to merge all the csv's into single dataframe: {end-start} sec")
 
@@ -80,5 +80,9 @@ def merge_files(path, from_date, to_date, base=None, update_previous=None):
     except:
         return None
 
+# To merge files based on date range
+# merge_files(path, "2022-03-23 14:32:08.858096", "2022-03-23 14:32:08.862004", base='created')
+
+# To update previous finaldf with new delta or date range given
 merge_files(path, "2022-03-23 14:32:08.858096", "2022-03-23 14:32:08.862004", base='created', update_previous=True)
 
