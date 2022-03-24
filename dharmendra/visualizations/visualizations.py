@@ -110,3 +110,20 @@ t_count = df.groupby("Type")["Vendor"].count()
 t_count.sort_values().plot(kind='barh',figsize=(10, 6), color='#619CFF', zorder=2)
 plt.title('Type of Product', fontsize=20)
 plt.show();
+
+### Top Versions
+
+# Barplot
+vs_count = df.groupby("Version")["Vendor"].count()
+c = vs_count[vs_count>1500].sort_values().plot(kind='barh',figsize=(15, 10), color='#619CFF', zorder=2)
+c.set_ylabel('Versions')
+plt.title('Top Versions')
+plt.show();
+
+# Pie Chart
+vs_count = df.groupby("Version")["Vendor"].count()
+vs_df = df[df['Version'].isin(vs_count[vs_count>2000].index.tolist())]
+plt.figure(figsize=(10,8))
+vs_df['Version'].value_counts()[::-1].plot(kind='pie', autopct="%.f%%", fontsize=12)
+plt.title('Top Versions', fontsize=20)
+plt.tight_layout()
