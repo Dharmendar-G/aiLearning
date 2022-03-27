@@ -90,6 +90,6 @@ fdf_n = fdf.assign(freq_vulns = new_col)
 
 print(fdf_n.head())
 
-fdf_n.to_csv("association_csv_update.csv")
+fdf_n.to_csv('association_csv_update.csv.gz', compression='gzip')
 
 print("Updated.....!!!!")
