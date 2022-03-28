@@ -138,4 +138,5 @@ sample_data
 
 sample_data['vul_freq_val'] = list_vals6
 
-sample_data.head(50)
+sample_data.head()
+sampl
