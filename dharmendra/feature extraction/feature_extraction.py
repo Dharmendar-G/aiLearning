@@ -15,7 +15,7 @@
 import os
 import re
 import pandas as pd 
-import numpy as np 
+import numpy
 pd.set_option('display.max_columns', None)
 
 # Standard Template Dataset
@@ -66,8 +66,6 @@ print(f"Dataset Matching Values for key : {keys[0]} \n\n{result}")
 # Updating StandardTemplate Dataframe
 for k,v in result.items():
     stdf.loc[stdf['FileName'] == k, keys[0]] = v
-stdf
-
 ### key 2: 'Any flood loss in past 10 years? Yes/No'
 
 # To check If Flood In Last 10 Years 
@@ -97,7 +95,6 @@ print(f"Dataset Matching Values for key : {keys[1]} \n\n{result}")
 # Updating StandardTemplate Dataframe
 for k,v in result.items():
     stdf.loc[stdf['FileName'] == k, keys[1]] = v
-stdf
 
 ### key 3: 'Elevated? (Yes/No)'
 
@@ -126,7 +123,6 @@ print(f"Dataset Matching Values for key : {keys[2]} \n\n{result}")
 # Updating StandardTemplate Dataframe
 for k,v in result.items():
     stdf.loc[stdf['FileName'] == k, keys[2]] = v
-stdf
 
 ### key 4: 'If elevated, by'
 
@@ -155,7 +151,6 @@ print(f"Dataset Matching Values for key : {keys[3]} \n\n{result}")
 # Updating StandardTemplate Dataframe
 for k,v in result.items():
     stdf.loc[stdf['FileName'] == k, keys[3]] = v
-stdf
 
 ### key 5: 'Type of Building (Single-family/2-Family/Condo//Cooperative)'
 
@@ -186,7 +181,6 @@ print(f"Dataset Matching Values for key : {keys[4]} \n\n{result}")
 # Updating StandardTemplate Dataframe
 for k,v in result.items():
     stdf.loc[stdf['FileName'] == k, keys[4]] = v.upper()
-stdf
 
 ### key 6: 'Foundation Information (Flood Zone/BFE/LFE)'
 
@@ -217,7 +211,6 @@ print(f"Dataset Matching Values for key : {keys[5]} \n\n{result}")
 # Updating StandardTemplate Dataframe
 for k,v in result.items():
     stdf.loc[stdf['FileName'] == k, keys[5]] = v.upper()
-stdf
 
 ### key 7: 'Homeowner Policy Effective Date'
 
@@ -238,7 +231,6 @@ print(f"Dataset Matching Values for key : {keys[6]} \n\n{result}")
 # Updating StandardTemplate Dataframe
 for k,v in result.items():
     stdf.loc[stdf['FileName'] == k, keys[6]] = v.upper()
-stdf
 
 ### key 8: 'Requested Effective Date of Flood Policy'
 
@@ -260,7 +252,6 @@ print(f"Dataset Matching Values for key : {keys[7]} \n\n{result}")
 # Updating StandardTemplate Dataframe
 for k,v in result.items():
     stdf.loc[stdf['FileName'] == k, keys[7]] = v.upper()
-stdf
 
 ### key 9 : 'Building or AA Limits'
 
