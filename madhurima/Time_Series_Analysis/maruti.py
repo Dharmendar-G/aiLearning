@@ -32,7 +32,7 @@ from pylab import rcParams
 from plotly import tools
 import chart_studio.plotly as py
 from plotly.offline import init_notebook_mode, iplot
-init_notebook_mode(connected=True)
+#init_notebook_mode(connected=True)
 import plotly.graph_objs as go
 import plotly.figure_factory as ff
 import statsmodels.api as sm
@@ -57,29 +57,18 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error
 # #### Data being used:-
 # 1. Maruti Suzuki Stock Data
 
-# In[17]:
+path= f"{os.getcwd()}\madhurima\Time_Series_Analysis\\MARUTI.NS.csv"
 
-
-maruti = pd.read_csv('MARUTI.NS.csv', index_col='Date', parse_dates=['Date'])
-maruti.head()
-
-
-# In[20]:
-
-
-maruti.tail()
-
-
-# In[48]:
-
-
-maruti.info()
+maruti = pd.read_csv(path, index_col='Date', parse_dates=['Date'])
+print(maruti.head())
+print(maruti.tail())
+print(maruti.info())
 
 
 # In[49]:
 
 
-maruti.describe()
+print(maruti.describe())
 
 
 # ### Visualizing the dataset
@@ -187,7 +176,7 @@ test_stationarity(maruti['Close'])
 # In[30]:
 
 
-result = seasonal_decompose(maruti['Close'], model='multiplicative', freq = 30)
+result = seasonal_decompose(maruti['Close'], model='multiplicative', period=30)
 fig = plt.figure()  
 fig = result.plot()  
 fig.set_size_inches(16, 9)
