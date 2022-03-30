@@ -125,7 +125,7 @@ fun(feature4,'Property Location')
 # In[9]:
 
 
-data.head(10)
+print(data.head(10))
 data.to_csv('submission.csv',index=False)
 
 # In[ ]:
