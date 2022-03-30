@@ -1,7 +1,8 @@
 import os
-# print(os.getcwd())
-# print(os.listdir(os.getcwd()))
+import pandas as pd
 
+# print(os.listdir(os.getcwd()))
+print(os.getcwd())
 # change the dir 
 os.chdir('SivaShankar/featureExtraction')
 print(os.getcwd())
