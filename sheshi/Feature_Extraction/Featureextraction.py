@@ -5,7 +5,7 @@ import re
 import os
 print(os.getcwd())
 
-data=pd.read_csv("../../dataset/StandardTemplate.csv",encoding='cp1252')
+data=pd.read_csv("../../mukund/StandardTemplate.csv", encoding='cp1252')
 pd.set_option('display.max_colwidth',1000)
 pd.set_option('display.max_columns',500)
 df0 = pd.read_csv('../../dataset/1.csv')

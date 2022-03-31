@@ -1,2 +1,0 @@
-# aiLearning
-ai learning 
