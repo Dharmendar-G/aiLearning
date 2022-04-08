@@ -151,3 +151,106 @@ def countplot_online(func):
 @distplot_age
 def displot():
     print("univarite plots")
+
+def countplot_education(func):
+    def countplot():
+        plt.figure(figsize=(20,6))
+        plt.subplot(1,2,1)
+        print(sns.countplot(data=df,x='Education',hue='Personal Loan',palette='RdBu_r'))
+    return countplot()
+
+def bar__plot_ed(func):
+    def bar__plot():
+        plt.figure(figsize=(20,6))
+        plt.subplot(1,2,1)
+        print(sns.barplot('Education','Mortgage',hue='Personal Loan',data=df,palette='viridis',ci=None))
+    return bar__plot()
+
+def countplot_securities(func):
+    def countplot():
+        plt.figure(figsize=(20,6))
+        plt.subplot(1,2,1)
+        print(sns.countplot(data=df,x='Securities Account',hue='Personal Loan',palette='Set2'))
+    return countplot()
+
+def box__plot_ccavg(func):
+    def box__plot():
+        plt.figure(figsize=(20,6))
+        plt.subplot(1,2,1)
+        print(sns.boxplot('CreditCard','CCAvg',hue='Personal Loan',data=df,palette='RdBu_r'))
+    return box__plot()
+
+@box__plot_ccavg
+@countplot_securities
+@bar__plot_ed
+@countplot_education
+def displot():
+    print("bivariate")
+
+#heatmap
+plt.subplots(figsize=(12,10))
+sns.heatmap(df.corr(),annot = True)
+
+sns.pairplot(df)
+
+#outliers
+# Outlier treatment:
+def outlier_treatment(data_column):
+    sorted(data_column)
+    q1,q3 = np.percentile(data_column,[25,75])
+    iqr = q3 - q1
+    #print(iqr)
+    lr = q1 - (1.5 * iqr)
+    ur = q3 + (1.5 * iqr)
+    return lr,ur
+
+list1 = ['Age', 'Income', 'Family', 'CCAvg', 'Education', 'Mortgage',
+       'Personal Loan', 'Securities Account', 'CD Account', 'Online',
+       'CreditCard']
+for val in list1:
+    l1,u1 = outlier_treatment(df[val])
+    print(l1,u1)
+    df[val] = np.where(df[val] > u1, u1,df[val])
+    df[val] = np.where(df[val] < l1, l1,df[val])
+
+
+plt.figure(figsize=(15,8))
+sns.boxplot(data=df)
+
+#check skew whether data normally distrubuted or not.¶
+from scipy.stats import skew
+for i in df.columns:
+    print(skew(df[i],axis=0),'for',i)
+
+def dist_plot(data_column):
+    plt.figure(figsize=(15,10))
+    sns.distplot(df[data_column], kde = True, color ='blue')
+    plt.show()
+
+for val in df.columns:
+    dist_plot(val)
+
+X= df.drop(['Personal Loan'],axis=1)
+y= df['Personal Loan']
+
+
+#using  power transformation (feature income and cc avg make them as symmetric because high left skew and right skew)
+pt = PowerTransformer(method='yeo-johnson',standardize=False)
+pt.fit(X['Income'].values.reshape(-1,1))
+pt.fit(X['CCAvg'].values.reshape(-1,1))
+income= pt.transform(X['Income'].values.reshape(-1,1))
+ccavg = pt.transform(X['CCAvg'].values.reshape(-1,1))
+X['Income'] = pd.Series(income.flatten())
+X['CCAvg']= pd.Series(ccavg.flatten())
+
+plt.figure(figsize=(10,10))
+plt.subplot(1,2,1)
+sns.distplot(X['Income'])
+plt.subplot(1,2,2)
+sns.distplot(X['CCAvg'])
+plt.show()
+
+#Splitting of data into train and test
+from sklearn.model_selection import train_test_split
+X_train,X_test,Y_train,Y_test = train_test_split(X,y,test_size = 0.3, random_state = 0)
+
