@@ -1,0 +1,11 @@
+,cpe23Uri,titles,vulnerabilities,feedTimestamp
+0,cpe:2.3:a:\$0.99_kindle_books_project:\$0.99_kindle_books:6:*:*:*:*:android:*:*,$0.99 Kindle Books project $0.99 Kindle Books (aka com.kindle.books.for99) for android 6.0,['CVE-2014-6750'],2022-03-18T09:25Z
+1,cpe:2.3:a:\@thi.ng\/egf_project:\@thi.ng\/egf:-:*:*:*:*:node.js:*:*,@thi.ng/egf Project @thi.ng/egf for Node.js,['CVE-2021-21412'],2022-03-18T09:25Z
+2,cpe:2.3:a:\@thi.ng\/egf_project:\@thi.ng\/egf:0.1.0:*:*:*:*:node.js:*:*,@thi.ng/egf Project @thi.ng/egf 0.1.0 for Node.js,['CVE-2021-21412'],2022-03-18T09:25Z
+3,cpe:2.3:a:\@thi.ng\/egf_project:\@thi.ng\/egf:0.2.0:*:*:*:*:node.js:*:*,@thi.ng/egf Project @thi.ng/egf 0.2.0 for Node.js,['CVE-2021-21412'],2022-03-18T09:25Z
+4,cpe:2.3:a:\@thi.ng\/egf_project:\@thi.ng\/egf:0.2.1:*:*:*:*:node.js:*:*,@thi.ng/egf Project @thi.ng/egf 0.2.1 for Node.js,['CVE-2021-21412'],2022-03-18T09:25Z
+5,cpe:2.3:a:\@thi.ng\/egf_project:\@thi.ng\/egf:0.2.2:*:*:*:*:node.js:*:*,@thi.ng/egf Project @thi.ng/egf 0.2.2 for Node.js,['CVE-2021-21412'],2022-03-18T09:25Z
+6,cpe:2.3:a:\@thi.ng\/egf_project:\@thi.ng\/egf:0.3.0:*:*:*:*:node.js:*:*,@thi.ng/egf Project @thi.ng/egf 0.3.0 for Node.js,['CVE-2021-21412'],2022-03-18T09:25Z
+7,cpe:2.3:a:\@thi.ng\/egf_project:\@thi.ng\/egf:0.3.1:*:*:*:*:node.js:*:*,@thi.ng/egf Project @thi.ng/egf 0.3.1 for Node.js,['CVE-2021-21412'],2022-03-18T09:25Z
+8,cpe:2.3:a:\@thi.ng\/egf_project:\@thi.ng\/egf:0.3.2:*:*:*:*:node.js:*:*,@thi.ng/egf Project @thi.ng/egf 0.3.2 for Node.js,['CVE-2021-21412'],2022-03-18T09:25Z
+9,cpe:2.3:a:\@thi.ng\/egf_project:\@thi.ng\/egf:0.3.3:*:*:*:*:node.js:*:*,@thi.ng/egf Project @thi.ng/egf 0.3.3 for Node.js,['CVE-2021-21412'],2022-03-18T09:25Z

@@ -1,0 +1,44 @@
+,Pdf_Name,Encrypt_sha256,insurance,policy,insured,claim,number,name,form,date,details,address,Target
+0,Admission to colleges Application Form.pdf,e94ee2d61b0a90f001683ab769d177e63645748e33f19e136bd4b4951dfa9dbc,0,0,0,0,0,1,0,1,1,0,non insurance
+1,Application   for migration cetificate.pdf,08ebbaa61e41a5fffe5319bbea36bdb0051c72535ab32c1aaefb37e658034bfd,0,0,0,0,1,1,0,1,1,0,non insurance
+2,Application  for Marks Memo.pdf,ce62ce4e894a87b3a06d35ff1c9287f9fd6d8a72b09954ee8758f4803a0007e2,0,0,0,0,1,1,0,1,1,0,non insurance
+3,Application Age cerificate.pdf,899d455cec574debf2a5e487a4b854995424215bfbdf3054990fd6b79cb37481,0,0,0,0,1,1,0,1,1,0,non insurance
+4,ApplicationforDuplicateMemorandumofMarks.pdf,8dd9b5b4be837be4fd34adf99422912b6493c407793084750d134c8e5fdf4e55,0,0,0,0,1,1,1,1,1,1,non insurance
+5,Boiler_Claim_form.pdf,16430ca2ef9c21fab24c29666a53b66d09da4e6ade0c2dfed5cb61401973ef7a,1,1,1,1,1,1,1,1,1,1,insurance
+6,Burglary_Claim_Form.pdf,88f7bc058dbb03ca74e385aac759a19b48c6b7e2617ee195685c455a4321056c,1,1,1,1,1,1,0,1,1,1,insurance
+7,Change of Name Application Form.pdf,df44e9427bf8d8481a35a2826dd7554a397498edf33dc2fca3fda0c48c2783de,0,0,0,0,0,1,1,1,1,1,non insurance
+8,Farmers Subsidy Application Form  -Application Form.pdf,7000adbccf30135de21440e4805f807d79d97da9b238efc25eddb3cd62b2c1f0,0,0,0,0,1,1,1,0,1,0,non insurance
+9,Hindu Marriage Registration Application Form-Marriage has been Performed.pdf,15d3b95c9f7e0f54bb8098287e03377d66c6f90bb6ce74a826b89faa74e0676d,0,0,0,0,0,1,1,1,1,1,non insurance
+10,Insurance1.pdf,0bfbfa7276ce45c78b18807925308368bc96521e84b8dc59e830d13c59b47e88,1,1,1,0,1,1,0,1,0,1,insurance
+11,Insurance2.pdf,d8d17b0239c6fb213b3649161f7f5e94628d9f1b1416a63fe7c6255c2c8c7ebd,1,1,0,0,1,1,0,1,0,1,insurance
+12,insurance3.pdf,7874e5bfce154783a770de29871f8444fb3f9211aa0e6a86207b3ad75d715f6e,1,1,1,1,1,1,1,1,1,1,insurance
+13,insurance4.pdf,d6a54e5b84da61bb696746f39ddbf0e55ff9128c2492ce151927915e82c6335c,1,0,0,1,0,0,0,1,0,0,insurance
+14,insurance5.pdf,569622a1a3ecefb1a46faffc402b06123dfbaf35ffb0038e52132d9a2a4f6ec6,1,1,1,0,1,0,1,1,0,0,insurance
+15,insurance6.pdf,062be21b981c6ddb5908ccffb8efb5a58a6f8e8bb633356e37026a737fcf70cc,0,1,1,1,1,1,0,1,1,0,insurance
+16,insurance7.pdf,c3d0b38b86ddfebc96ee61e5bd943a7ff580242df3f04c4cf1cd9a3d203e8b23,1,1,1,0,1,1,1,1,0,0,insurance
+17,insuranceData.pdf,0ad5f79585a3cfebd126d922983be92a47d53205d51eff9aea6f2b34336893d7,1,0,0,1,0,0,0,1,0,0,insurance
+18,Issue of Arm License  Application Form.pdf,ceba0acdad0f324a04a65ba46444b9dea2c21ddd8b62f1ced060fcef3ffa13ef,0,0,0,0,1,1,1,1,1,1,non insurance
+19,Know Your Aadhaar.pdf,1d6232ebb970dee1dbd7e1407bee2ca63d28cf0ea6a45cbd0032285352c410a9,0,0,0,0,1,1,1,0,1,0,non insurance
+20,MARINE-CLAIM-FORM.pdf,7260de652ebf4ca7d3af892a8925c60e568e3bf1589b712f1128135b6841e4fb,1,1,0,1,1,1,1,1,0,1,insurance
+21,Money Lending.pdf,1a9f357f04c5daef6ad2df209709cedcdb9a63e5ad62a0ff18b4eefaebfe864d,0,0,0,0,1,1,1,1,0,1,non insurance
+22,Motor_Claim_Form_New.pdf,81f3539aade93983acd474efb8aec78827c6dbe98d6ad81b3c6129ecd3ce2e06,1,1,1,1,1,1,1,1,1,1,insurance
+23,nonInsurance1.pdf,e5a36d833105c055ef36057ec33ddb2d96852c6c0ef06ee6ec4acf1ad1d4d6b4,0,0,0,0,0,0,0,0,0,0,non insurance
+24,nonInsurance2.pdf,6f699cd6eedb449fe0ac0dd0db001f4a5cb0ec809f2ba10c8c6c6aa1f67522c2,0,0,0,0,0,0,1,0,0,0,non insurance
+25,nonInsurance3.pdf,2decce1a5af092fb022a6d0831d003231df8cff23923c82ab8b1f16af3417968,0,0,0,0,1,0,1,0,0,1,non insurance
+26,nonInsurance4.pdf,27df8be92a807f22bd4bfe3ed8cee67ce5d1c7c393a548d4eb2460d001ab791b,0,0,0,0,0,0,1,0,0,0,non insurance
+27,nonInsurance6.pdf,4bd178aaad34669a7f4291a0749a60c628d5c01bbba1d22b8bc7ca34f657d122,0,0,0,0,1,0,1,0,0,0,non insurance
+28,PERSONAL-ACCIDENT-INSURANCE-FOR-KISAN-CREDIT-CARD-HOLDERS-CLAIM-FORM.pdf,d0343b602a93e5321c6cbdeeb90079abe405c00bc4556270eacf4b19be0d487a,1,1,1,1,1,1,1,1,1,1,insurance
+29,PMFBYClaimForm.pdf,f870d7229d83fff9c0f72b54eafe4d0d5f7e90fd3cecb3df1cdf7c7d4973d9a1,1,1,1,1,1,1,1,1,1,1,insurance
+30,ProfessionalIndemnity_ClaimForm.pdf,6cb7499e47e884cb885c202b7156cfc360d1bd250645403b05081c78eda82ef2,1,1,1,1,1,1,1,1,1,1,insurance
+31,Sanction of incentives-Commisionarate of industries.pdf,4c4321406e0c969af62dadeff653443ca007664d3adcf27c54c6fe8960fb929c,0,1,0,0,1,1,0,1,1,1,non insurance
+32,SHRI-CONTRACTORS-PROTECTION-PACKAGE-POLICY-CLAIM-FORM.pdf,f5c0f068c318f918a70924d7a864177cd66d61500171f1f2c56c4c7a0fb52020,1,1,1,1,1,1,1,1,1,0,insurance
+33,Shri-Education-Shield-Insurance-Policy-Claim-Form.pdf,02cf716c6b2b4ac2c7262bd20be6480c80a5da08d61ef62205b0d20d6a158dd3,1,1,1,1,1,1,1,0,1,1,insurance
+34,Shri-HotelandRestaurant-Sampurna-Surksha-Insurance-Policy-Claim-Form.pdf,3d6bb4ec510c9f2c7db4313f50de78d5b66145b1ea6544d0751fbfaf60b92567,1,1,1,1,1,1,1,0,1,1,insurance
+35,Shri-Loan-Protect-Insurance-Claim-Form.pdf,dd9fb46e6122970d24fdba074755a4a81675663ac17ff50d06a4e0520020dd3f,1,1,1,1,1,1,1,1,1,1,insurance
+36,Shri_CLL_Claim_Form.pdf,79e6eb29494c6779b2ae3b52544e6bd497895d007c5490ac3ac05dd7b05a72c6,1,1,1,1,1,1,1,1,1,1,insurance
+37,Shri_Micro_IPA_Claim_Form.pdf,f2d6964cb0cef96770b1a87c3dc9ae942c5beb19589ecea0f5e0f655a6a4dab8,1,1,1,1,1,1,1,1,1,1,insurance
+38,Shri_Vector_Care_Claim_Form.pdf,0ddc2d5d6055ff1b8ac175ee528ab8c07bb30d851e26f3abbf995bf20b4e8b71,1,1,1,1,1,1,1,1,1,1,insurance
+39,SPDCL -Registration for Agriculture Group Connection Application Form.pdf,482ce4f7066115a9d2370d224d36e0380a9f73bcd012eeb32211e0026e9cff88,0,0,0,0,1,1,0,0,1,0,non insurance
+40,SPDCL-HVDS Registration Application Form.pdf,41a2f6b9a3872f30af96f2c939634b5eb7e91629e3de9c7ee57d418f50628ab5,0,0,0,0,1,1,1,0,1,1,non insurance
+41,Student Scholarship Application Form (RENEWAL).pdf,562a0ed6d058117ee09e4e34f43aea6812d22d44d47cccbb88170c0e7db9b05f,0,0,0,0,1,1,1,1,1,1,non insurance
+42,Travel-Insurance-Claim-Form.pdf,abc393e44a24dafcb2a20974e87dacd80778f10e1d8a31bcd9c14246f6c46623,1,1,1,1,0,1,1,1,1,1,insurance
