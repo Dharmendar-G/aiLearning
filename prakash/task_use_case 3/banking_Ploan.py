@@ -1,3 +1,30 @@
+## PROBLEM STATEMENT
+# Objective:
+# The classification goal is to predict the likelihood of a liability customer buying personal loans.
+# Steps and tasks:
+# 1.            Read the column description and ensure you understand each attribute well
+# 2.            Study the data distribution in each attribute, share your findings
+# 3.            Get the target column distribution.
+# 4.            Split the data into training and test set in the ratio of 70:30 respectively
+# 5.            Use different classification models (Logistic, K-NN and Naïve Bayes) to predict the likelihood of a customer buying personal loans
+# 6.            Print the confusion matrix for all the above models
+# 7.            Give your reasoning on which is the best model in this case and why it performs better?
+
+# column_Descriptions
+# Age:customers age
+# Experience: Number of years Experience
+# income :Year income of the customer
+# Zipcode :Address
+# Family:Total size of customer family members
+# ccAvg: credit card Average
+# Educationlevels 1:undergraduate 2:Graduate 3:Higher professional
+# Mortgage:value of the house mortgage(borrows money to buy)
+# personal loan : Does customer buying personal loan or not?
+# securities amount :customer having a security account with bank or not?
+# CD account:customer having a certificate of Deposit account with bank or not?
+# online :customer using internet banking facilities or not?
+# credit card : customer  using credit card or not?
+
 #importing required libraries
 import pandas as pd
 import numpy as np
@@ -161,3 +188,41 @@ corr
 plt.figure(figsize=(20,10))
 sns.heatmap(corr,annot = True)
 plt.show()
+#Feature selection
+def correlation(data,threshold):
+    col_corr= set()
+    corr_mat = data.corr()
+    for i in range(len(corr_mat.columns)):
+        for j in range(i):
+            if abs(corr_mat.iloc[i,j]) > threshold:
+                colname = corr_mat.columns[i]
+                col_corr.add(colname)
+    return  col_corr
+#calling function
+correlation(data,0.2)
+#splitting the data into x and y (features and target)
+x = data[['CCAvg','CD Account','CreditCard','Experience','Mortgage']]
+y = data['Personal Loan']
+#splitting data into training and testing
+from sklearn.model_selection import train_test_split
+x_train, x_test, y_train, y_test = train_test_split (x, y, test_size=0.3, random_state=42)
+#imporing LogisticRegression model from sklearn and fitting the data into LogisticRegression model
+from sklearn.linear_model import LogisticRegression
+lg = LogisticRegression()
+lg_model=lg.fit(x_train,y_train)
+#predicting the model
+y_pred_lg = lg_model.predict(x_test)
+#importing metrics of classification model
+from sklearn.metrics import confusion_matrix, accuracy_score, roc_auc_score
+cm = confusion_matrix(y_test, y_pred_lg)
+print(cm)
+#plotting confusion_matrix
+from mlxtend.plotting import plot_confusion_matrix
+fig, ax = plot_confusion_matrix(conf_mat=cm, figsize=(6, 6), cmap=plt.cm.Blues)
+plt.xlabel('Predictions', fontsize=18)
+plt.ylabel('Actuals', fontsize=18)
+plt.title('Confusion Matrix', fontsize=18)
+plt.show()
+#checking accuracy
+logreg=accuracy_score(y_test,y_pred_lg)
+print(logreg)
