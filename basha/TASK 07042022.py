@@ -193,31 +193,8 @@ sns.heatmap(df.corr(),annot = True)
 
 sns.pairplot(df)
 
-#outliers
-# Outlier treatment:
-def outlier_treatment(data_column):
-    sorted(data_column)
-    q1,q3 = np.percentile(data_column,[25,75])
-    iqr = q3 - q1
-    #print(iqr)
-    lr = q1 - (1.5 * iqr)
-    ur = q3 + (1.5 * iqr)
-    return lr,ur
+#check skew whether data is normal distrubution or not
 
-list1 = ['Age', 'Income', 'Family', 'CCAvg', 'Education', 'Mortgage',
-       'Personal Loan', 'Securities Account', 'CD Account', 'Online',
-       'CreditCard']
-for val in list1:
-    l1,u1 = outlier_treatment(df[val])
-    print(l1,u1)
-    df[val] = np.where(df[val] > u1, u1,df[val])
-    df[val] = np.where(df[val] < l1, l1,df[val])
-
-
-plt.figure(figsize=(15,8))
-sns.boxplot(data=df)
-
-#check skew whether data normally distrubuted or not.¶
 from scipy.stats import skew
 for i in df.columns:
     print(skew(df[i],axis=0),'for',i)
@@ -230,27 +207,117 @@ def dist_plot(data_column):
 for val in df.columns:
     dist_plot(val)
 
+#Transformations
 X= df.drop(['Personal Loan'],axis=1)
 y= df['Personal Loan']
 
-
-#using  power transformation (feature income and cc avg make them as symmetric because high left skew and right skew)
+#Transformation on the Income variable because we have high skew  value we will try to reduce the skew value using tranformations
+from sklearn.preprocessing import PowerTransformer
 pt = PowerTransformer(method='yeo-johnson',standardize=False)
 pt.fit(X['Income'].values.reshape(-1,1))
-pt.fit(X['CCAvg'].values.reshape(-1,1))
-income= pt.transform(X['Income'].values.reshape(-1,1))
-ccavg = pt.transform(X['CCAvg'].values.reshape(-1,1))
-X['Income'] = pd.Series(income.flatten())
-X['CCAvg']= pd.Series(ccavg.flatten())
+temp = pt.transform(X['Income'].values.reshape(-1,1))
+X['Income'] = pd.Series(temp.flatten())
 
-plt.figure(figsize=(10,10))
-plt.subplot(1,2,1)
+# Distplot to show transformed Income variable
 sns.distplot(X['Income'])
-plt.subplot(1,2,2)
+plt.show()
+
+# CCAvg variable.
+pt = PowerTransformer(method='yeo-johnson',standardize=False)
+pt.fit(X['CCAvg'].values.reshape(-1,1))
+temp = pt.transform(X['CCAvg'].values.reshape(-1,1))
+X['CCAvg'] = pd.Series(temp.flatten())
+
 sns.distplot(X['CCAvg'])
 plt.show()
 
+
+#Target column distrubution using pie chart
+
+tempDF = pd.DataFrame(df['CreditCard'].value_counts()).reset_index()
+tempDF.columns = ['Labels', 'CreditCard']
+fig1, ax1 = plt.subplots(figsize=(10,8))
+explode = (0, 0.15)
+ax1.pie(tempDF['CreditCard'] , explode= explode, autopct= '%2.1f%%',shadow=True , startangle = 70)
+ax1.axis('equal')
+plt.title('creditcard Percentage')
+plt.show()
+#Based on above pie chart 9.6% only buying personal loan
+
 #Splitting of data into train and test
 from sklearn.model_selection import train_test_split
-X_train,X_test,Y_train,Y_test = train_test_split(X,y,test_size = 0.3, random_state = 0)
+X_train,X_test,Y_train,Y_test = train_test_split(X,Y,test_size = 0.3, random_state = 0)
+X_train.head()
+
+
+#Standarization(scaled down values From o to 1)
+from sklearn.preprocessing import StandardScaler
+scaler = StandardScaler()
+scaler.fit(X_train)
+X_train = scaler.transform(X_train)
+X_test = scaler.transform(X_test)
+
+#Logistic Regression(unscaled_data):
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report,confusion_matrix,accuracy_score
+model = LogisticRegression()
+model.fit(X_train,Y_train)
+y_logistic_pred = model.predict(X_test)
+logistic_re = classification_report(Y_test,y_logistic_pred)
+print(logistic_re)
+
+##scaled_data
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report,confusion_matrix,accuracy_score
+model = LogisticRegression()
+model.fit(X_train_1,Y_train)
+y_logistic_pred = model.predict(X_test_1)
+logistic_re = classification_report(Y_test,y_logistic_pred)
+print(logistic_re)
+
+#K_Nearest_Neighbour:
+from sklearn.neighbors import KNeighborsClassifier
+neighbors = np.arange(1,9)
+train_accuracy =np.empty(len(neighbors))
+test_accuracy = np.empty(len(neighbors))
+for i,k in enumerate(neighbors):
+    # Setup a knn classifier with k neighbors
+    knn = KNeighborsClassifier(n_neighbors=k)
+    # Fit the model
+    knn.fit(X_train, Y_train)
+    
+    # Compute accuracy on the training set
+    train_accuracy[i] = knn.score(X_train, Y_train)
+    
+    # Compute accuracy on the test set
+    test_accuracy[i] = knn.score(X_test, Y_test) 
+# Generate plot
+plt.title('k-NN Varying number of neighbors')
+plt.plot(neighbors, test_accuracy, label='Testing Accuracy')
+plt.plot(neighbors, train_accuracy, label='Training accuracy')
+plt.legend()
+plt.xlabel('Number of neighbors')
+plt.ylabel('Accuracy')
+plt.show()
+
+##unscaled_data
+knn = KNeighborsClassifier(n_neighbors=2)
+knn.fit(X_train,Y_train)
+knn.score(X_test,Y_test)
+
+##Scaled_data
+knn = KNeighborsClassifier(n_neighbors=4)
+knn.fit(X_train_1,Y_train)
+knn.score(X_test_1,Y_test)
+
+
+#NAvie_Bayes:
+##unscaled_data
+from sklearn.naive_bayes import BernoulliNB
+model = BernoulliNB().fit(X_train, Y_train)
+y_predicted = model.predict(X_test) 
+accuracy_score = accuracy_score(Y_test, y_predicted) 
+print(accuracy_score)
+model.score(X_test,Y_test)
+#Based on above Results LogisticRegression(96%) got Good accuracy compare to Knn(93%) and Navie bayes(90%)
 
