@@ -40,7 +40,9 @@ class Univariate_Analysis:
             if (x>self.upper_range_iqr[col]) or (x<self.lower_range_iqr[col]):
                 outlier.append(x)
         return len(outlier)   
+
         
-         
+
+
 
 
