@@ -193,31 +193,8 @@ sns.heatmap(df.corr(),annot = True)
 
 sns.pairplot(df)
 
-#outliers
-# Outlier treatment:
-def outlier_treatment(data_column):
-    sorted(data_column)
-    q1,q3 = np.percentile(data_column,[25,75])
-    iqr = q3 - q1
-    #print(iqr)
-    lr = q1 - (1.5 * iqr)
-    ur = q3 + (1.5 * iqr)
-    return lr,ur
+#check skew whether data is normal distrubution or not
 
-list1 = ['Age', 'Income', 'Family', 'CCAvg', 'Education', 'Mortgage',
-       'Personal Loan', 'Securities Account', 'CD Account', 'Online',
-       'CreditCard']
-for val in list1:
-    l1,u1 = outlier_treatment(df[val])
-    print(l1,u1)
-    df[val] = np.where(df[val] > u1, u1,df[val])
-    df[val] = np.where(df[val] < l1, l1,df[val])
-
-
-plt.figure(figsize=(15,8))
-sns.boxplot(data=df)
-
-#check skew whether data normally distrubuted or not.¶
 from scipy.stats import skew
 for i in df.columns:
     print(skew(df[i],axis=0),'for',i)
@@ -230,27 +207,63 @@ def dist_plot(data_column):
 for val in df.columns:
     dist_plot(val)
 
+#Transformations
 X= df.drop(['Personal Loan'],axis=1)
 y= df['Personal Loan']
 
-
-#using  power transformation (feature income and cc avg make them as symmetric because high left skew and right skew)
+#Transformation on the Income variable because we have high skew  value we will try to reduce the skew value using tranformations
+from sklearn.preprocessing import PowerTransformer
 pt = PowerTransformer(method='yeo-johnson',standardize=False)
 pt.fit(X['Income'].values.reshape(-1,1))
-pt.fit(X['CCAvg'].values.reshape(-1,1))
-income= pt.transform(X['Income'].values.reshape(-1,1))
-ccavg = pt.transform(X['CCAvg'].values.reshape(-1,1))
-X['Income'] = pd.Series(income.flatten())
-X['CCAvg']= pd.Series(ccavg.flatten())
+temp = pt.transform(X['Income'].values.reshape(-1,1))
+X['Income'] = pd.Series(temp.flatten())
 
-plt.figure(figsize=(10,10))
-plt.subplot(1,2,1)
+# Distplot to show transformed Income variable
 sns.distplot(X['Income'])
-plt.subplot(1,2,2)
+plt.show()
+
+# CCAvg variable.
+pt = PowerTransformer(method='yeo-johnson',standardize=False)
+pt.fit(X['CCAvg'].values.reshape(-1,1))
+temp = pt.transform(X['CCAvg'].values.reshape(-1,1))
+X['CCAvg'] = pd.Series(temp.flatten())
+
 sns.distplot(X['CCAvg'])
 plt.show()
 
+
+#Target column distrubution using pie chart
+
+tempDF = pd.DataFrame(df['CreditCard'].value_counts()).reset_index()
+tempDF.columns = ['Labels', 'CreditCard']
+fig1, ax1 = plt.subplots(figsize=(10,8))
+explode = (0, 0.15)
+ax1.pie(tempDF['CreditCard'] , explode= explode, autopct= '%2.1f%%',shadow=True , startangle = 70)
+ax1.axis('equal')
+plt.title('creditcard Percentage')
+plt.show()
+#Based on above pie chart 9.6% only buying personal loan
+
 #Splitting of data into train and test
 from sklearn.model_selection import train_test_split
-X_train,X_test,Y_train,Y_test = train_test_split(X,y,test_size = 0.3, random_state = 0)
+X_train,X_test,Y_train,Y_test = train_test_split(X,Y,test_size = 0.3, random_state = 0)
+X_train.head()
+
+
+#Standarization(scaled down values From o to 1)
+from sklearn.preprocessing import StandardScaler
+scaler = StandardScaler()
+scaler.fit(X_train)
+X_train = scaler.transform(X_train)
+X_test = scaler.transform(X_test)
+
+#Logistic Regression
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report,confusion_matrix,accuracy_score
+model = LogisticRegression()
+model.fit(X_train, Y_train)
+y_logistic_pred = model.predict(X_test)
+logistic_re = classification_report(Y_test,y_logistic_pred)
+print(logistic_re)
+
 
