@@ -257,13 +257,67 @@ scaler.fit(X_train)
 X_train = scaler.transform(X_train)
 X_test = scaler.transform(X_test)
 
-#Logistic Regression
+#Logistic Regression(unscaled_data):
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report,confusion_matrix,accuracy_score
 model = LogisticRegression()
-model.fit(X_train, Y_train)
+model.fit(X_train,Y_train)
 y_logistic_pred = model.predict(X_test)
 logistic_re = classification_report(Y_test,y_logistic_pred)
 print(logistic_re)
 
+##scaled_data
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report,confusion_matrix,accuracy_score
+model = LogisticRegression()
+model.fit(X_train_1,Y_train)
+y_logistic_pred = model.predict(X_test_1)
+logistic_re = classification_report(Y_test,y_logistic_pred)
+print(logistic_re)
+
+#K_Nearest_Neighbour:
+from sklearn.neighbors import KNeighborsClassifier
+neighbors = np.arange(1,9)
+train_accuracy =np.empty(len(neighbors))
+test_accuracy = np.empty(len(neighbors))
+for i,k in enumerate(neighbors):
+    # Setup a knn classifier with k neighbors
+    knn = KNeighborsClassifier(n_neighbors=k)
+    # Fit the model
+    knn.fit(X_train, Y_train)
+    
+    # Compute accuracy on the training set
+    train_accuracy[i] = knn.score(X_train, Y_train)
+    
+    # Compute accuracy on the test set
+    test_accuracy[i] = knn.score(X_test, Y_test) 
+# Generate plot
+plt.title('k-NN Varying number of neighbors')
+plt.plot(neighbors, test_accuracy, label='Testing Accuracy')
+plt.plot(neighbors, train_accuracy, label='Training accuracy')
+plt.legend()
+plt.xlabel('Number of neighbors')
+plt.ylabel('Accuracy')
+plt.show()
+
+##unscaled_data
+knn = KNeighborsClassifier(n_neighbors=2)
+knn.fit(X_train,Y_train)
+knn.score(X_test,Y_test)
+
+##Scaled_data
+knn = KNeighborsClassifier(n_neighbors=4)
+knn.fit(X_train_1,Y_train)
+knn.score(X_test_1,Y_test)
+
+
+#NAvie_Bayes:
+##unscaled_data
+from sklearn.naive_bayes import BernoulliNB
+model = BernoulliNB().fit(X_train, Y_train)
+y_predicted = model.predict(X_test) 
+accuracy_score = accuracy_score(Y_test, y_predicted) 
+print(accuracy_score)
+model.score(X_test,Y_test)
+#Based on above Results LogisticRegression(96%) got Good accuracy compare to Knn(93%) and Navie bayes(90%)
 
