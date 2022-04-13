@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from get_data import get_Data
 from univariate_analysis import Univariate_Analysis
+from preprocessing import Preprocessing
 
 class Visualization:
     def __init__(self):
@@ -23,5 +24,11 @@ class Visualization:
             sns.distplot(data[i], color = 'b')
             plot = plt.show()
             return plot
+
+    def correlation_heatmap(self, data):
+        dataplot = sns.heatmap(data.corr(), cmap ='YlGnBu', annot = True)
+        plot = plt.show()    
+        return plot    
+        
 
     
