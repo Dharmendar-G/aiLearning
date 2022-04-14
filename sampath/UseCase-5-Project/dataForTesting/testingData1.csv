@@ -1,0 +1,10 @@
+age, workclass, education-num, marital-status, occupation, relationship, race, sex, hours-per-week, native-country, income
+22, Private,9, Never-married, Craft-repair, Not-in-family, White, Male,41, United-States,
+21, Private,10, Never-married, Other-service, Own-child, White, Female,40, United-States,
+40, Private,13, Married-civ-spouse, Exec-managerial, Husband, White, Male,60, United-States,
+30, Private,13, Never-married, Exec-managerial, Own-child, Black, Male,40, Germany,
+29, State-gov,13, Married-civ-spouse, Prof-specialty, Husband, White, Male,50, United-States,
+19, Private,10, Never-married, Other-service, Own-child, Black, Male,35, United-States,
+47, Private,13, Married-civ-spouse, Exec-managerial, Wife, White, Female,40, United-States,
+20, Private,10, Never-married, Adm-clerical, Own-child, White, Female,28, United-States,
+31, Private,12, Married-civ-spouse, Adm-clerical, Husband, White, Male,40, United-States,
