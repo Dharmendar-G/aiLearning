@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dry been Predictor</title>
+</head>
+<body>
+    <h1>Dry been Predictor</h1>
+
+    <form method="post" action="/predict">
+        <label>Area</label><br>
+        <input type = 'text' name="area"><br><br>
+
+        <label>Perimeter</label><br>
+        <input type = 'text' name="perimeter"><br><br>
+
+        <label>Major axis length </label><br>
+        <input type = 'text' name="majot_axis_length"><br><br>
+
+        <label>Minor axis length </label><br>
+        <input type = 'text' name="minor_axis_length"><br><br>
+
+        <label>Aspect ratio</label><br>
+        <input type = 'text' name="aspect_ratio"><br><br>
+
+        <label>Eccentricity</label><br>
+        <input type = 'text' name="eccentricity"><br><br>
+
+        <label>Convex area</label><br>
+        <input type = 'text' name="convex_area"><br><br>
+
+        <label>Equivalent diameter</label><br>
+        <input type = 'text' name="equivalent_diameter"><br><br>
+
+        <label>Extent</label><br>
+        <input type = 'text' name="extent"><br><br>
+
+        <label>Solidity</label><br>
+        <input type = 'text' name="solidity"><br><br>
+
+        <label>Roundness</label><br>
+        <input type = 'text' name="roundness"><br><br>
+
+        <label>Equivalent diameter</label><br>
+        <input type = 'text' name="equivalent_diameter"><br><br>
+
+        <label>Compactness</label><br>
+        <input type = 'text' name="compactness"><br><br>
+
+        <label>ShapeFactor1 (SF1)</label><br>
+        <input type = 'text' name="sf1"><br><br>
+
+        <label>ShapeFactor1 (SF2)</label><br>
+        <input type = 'text' name="sf2"><br><br>
+
+        <label>ShapeFactor1 (SF3)</label><br>
+        <input type = 'text' name="sf3"><br><br>
+
+        <label>ShapeFactor1 (SF4)</label><br>
+        <input type = 'text' name="sf4"><br><br>
+
+        <input type="submit" value="Predict"><br><br>
+
+
+    </form>
+    {% if result %}
+            <p>{{ result }}</p>
+        {% endif %}
+</body>
+</html>
+
