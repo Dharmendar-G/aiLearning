@@ -30,5 +30,3 @@ for p,n,f in os.walk(os.getcwd()):
         if a.endswith('.csv'):
             print(a)
             print(p)
-
-print("how to work with multiple csv with multiple folder.")
