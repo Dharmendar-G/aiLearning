@@ -2,70 +2,73 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Dry been Predictor</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dry bean Predictor</title>
 </head>
-<body>
-    <h1>Dry been Predictor</h1>
+<body bgcolor="pink">
+  <center>
+    <h1 style="color: blue;">Dry Bean predictor</h1>
+    <hr>
+    <h4>Class (7-types): 'CALI', 'DERMASON', 'BARBUNYA', 'SEKER', 'SIRA', 'HOROZ', 'BOMBAY'</h4>
+    <hr style= "color: darkblue;">
+    <form method="post" action="/predict" >
 
-    <form method="post" action="/predict">
-        <label>Area</label><br>
-        <input type = 'text' name="area"><br><br>
+        <b><label>Area</label>
+            <input type = 'text' placeholder="Range 20420 - 254616" name="area"><br><br>
 
-        <label>Perimeter</label><br>
-        <input type = 'text' name="perimeter"><br><br>
+            <b><label>Perimeter</label><b>
+                <input type = 'text' placeholder="Range 524 - 1985" name="perimeter"><br><br>
 
-        <label>Major axis length </label><br>
-        <input type = 'text' name="majot_axis_length"><br><br>
+                <label>Major axis length </label>
+                <input type = 'text' placeholder="Range 183 - 738" name="majot_axis_length"><br><br>
 
-        <label>Minor axis length </label><br>
-        <input type = 'text' name="minor_axis_length"><br><br>
+                <label>Minor axis length </label>
+                <input type = 'text' placeholder="Range 122 - 460" name="minor_axis_length"><br><br>
 
-        <label>Aspect ratio</label><br>
-        <input type = 'text' name="aspect_ratio"><br><br>
+                <label>Aspect ratio</label>
+                <input type = 'text' placeholder="Range 1 - 2.5" name="aspect_ratio"><br><br>
 
-        <label>Eccentricity</label><br>
-        <input type = 'text' name="eccentricity"><br><br>
+                <label>Eccentricity</label>
+                <input type = 'text' placeholder="Range 0.21 - 0.91" name="eccentricity"><br><br>
 
-        <label>Convex area</label><br>
-        <input type = 'text' name="convex_area"><br><br>
+                <label>Convex area</label>
+                <input type = 'text' placeholder="Range 20684 - 263261" name="convex_area"><br><br>
 
-        <label>Equivalent diameter</label><br>
-        <input type = 'text' name="equivalent_diameter"><br><br>
+                <label>Equivalent diameter</label>
+                <input type = 'text' placeholder="Range 161 - 570" name="equivalent_diameter"><br><br>
 
-        <label>Extent</label><br>
-        <input type = 'text' name="extent"><br><br>
+                <label>Extent</label>
+                <input type = 'text' placeholder="Range 0.5 - 0.88" name="extent"><br><br>
 
-        <label>Solidity</label><br>
-        <input type = 'text' name="solidity"><br><br>
+                <label>Solidity</label>
+                <input type = 'text' placeholder="Range 0.9 - 0.999" name="solidity"><br><br>
 
-        <label>Roundness</label><br>
-        <input type = 'text' name="roundness"><br><br>
+                <label>Roundness</label>
+                <input type = 'text' placeholder="Range 0.48 - 0.99" name="roundness"><br><br>
 
-        <label>Equivalent diameter</label><br>
-        <input type = 'text' name="equivalent_diameter"><br><br>
+                <label>Compactness</label>
+                <input type = 'text' placeholder="Range 0.64 - 0.99" name="compactness"><br><br>
 
-        <label>Compactness</label><br>
-        <input type = 'text' name="compactness"><br><br>
+                <label>ShapeFactor1 (SF1)</label>
+                <input type = 'text'placeholder="Range 0.002778 - 0.010451" name="sf1"><br><br>
 
-        <label>ShapeFactor1 (SF1)</label><br>
-        <input type = 'text' name="sf1"><br><br>
+                <label>ShapeFactor1 (SF2)</label>
+                <input type = 'text' placeholder="Range 0.000567 - 0.003665" name="sf2"><br><br>
 
-        <label>ShapeFactor1 (SF2)</label><br>
-        <input type = 'text' name="sf2"><br><br>
+                <label>ShapeFactor1 (SF3)</label>
+                <input type = 'text' placeholder="Range 0.416499 - 0.974767" name="sf3"><br><br>
 
-        <label>ShapeFactor1 (SF3)</label><br>
-        <input type = 'text' name="sf3"><br><br>
+                <label>ShapeFactor1 (SF4)</label>
+                <input type = 'text' placeholder="Range 0.947687 - 0.999733" name="sf4"><br><br>
 
-        <label>ShapeFactor1 (SF4)</label><br>
-        <input type = 'text' name="sf4"><br><br>
-
-        <input type="submit" value="Predict"><br><br>
-
+                <input type="submit" value="Predict"><br><br>
 
     </form>
     {% if result %}
-            <p>{{ result }}</p>
+        <p>{{ result }}</p>
         {% endif %}
+
+</center>
 </body>
 </html>
-
