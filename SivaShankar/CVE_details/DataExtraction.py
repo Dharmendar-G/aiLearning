@@ -2,11 +2,13 @@ import pandas as pd
 import os 
 import re
 import requests
+from bs4 import BeautifulSoup
 
-print(os.getcwd())
+
+#print(os.getcwd())
 # change the dir 
-os.chdir('SivaShankar/CVE_details')
-print(os.getcwd())
+#os.chdir('SivaShankar/CVE_details')
+#print(os.getcwd())
 
 def extract_data(link):
     url = link
@@ -32,12 +34,18 @@ def column_name_check(df):
 
 # extract data
 
+def cvedetailscvssscore(url='https://www.cvedetails.com/cvss-score-charts.php'):
+    page=requests.get(url)
+    soup=BeautifulSoup(page.text,'html.parser')
+    table=soup.find('table',class_='grid')
+    df=pd.read_html(str(table))
+    df1=pd.DataFrame(df[0][:-1])
+    df1.to_csv('outputTable.csv',index=False)
+
 Browse_vulnerabilities_By_Date = extract_data('https://www.cvedetails.com/browse-by-date.php')
-
 # update columns names
-
 cn = column_name_check(df = Browse_vulnerabilities_By_Date)
-
 Browse_vulnerabilities_By_Date.rename(columns = cn,inplace=True)
-
 Browse_vulnerabilities_By_Date.to_csv("DE_Browse_Vulnerabilities_By_Date.csv",index = False)
+
+cvedetailscvssscore()
