@@ -68,5 +68,7 @@ visualize_data(df)
 insert_to_database(df)
 
 # Getting Data from database
-get_database_table(table_name)
+table_df = get_database_table(table_name)
 
+# Saving to local storage
+table_df.to_csv('cve_data.csv', index=False)
