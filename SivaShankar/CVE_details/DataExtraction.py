@@ -114,7 +114,7 @@ def top50versionsproductshighestnumberofsecurityvul(url='https://www.cvedetails.
     df1=pd.DataFrame(df[0])
     df1.to_csv('top50versionsproductshighestnumberofsecurityvul.csv',index=False)
     
-    ******************************************************************************************************************
+    #******************************************************************************************************************
 
 '''def cvedetailscvssscore(url='https://www.cvedetails.com/cvss-score-charts.php'):
     page=requests.get(url)
