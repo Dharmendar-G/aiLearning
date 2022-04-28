@@ -1,0 +1,51 @@
+Unnamed: 0,Vendor Name,Product Name,Version,Number of  Total Vulnerabilities
+1,Debian,Debian Linux,9.0 * * *,3137
+2,Debian,Debian Linux,8.0 * * *,3003
+3,Apple,Iphone Os,* * * *,2568
+4,Google,Chrome,* * * *,2332
+5,Apple,Mac Os X,* * * *,2192
+6,Linux,Linux Kernel,* * * *,1921
+7,Microsoft,Windows Server 2019,* * *,1835
+8,Microsoft,Windows Server 2012,R2 * * *,1833
+9,Microsoft,Windows Server 2016,* * *,1820
+10,Microsoft,Windows 10,1607 * * *,1789
+11,Microsoft,Windows Server 2012,* * *,1769
+12,Microsoft,Windows 10,* * *,1765
+13,Microsoft,Windows 10,1809 * * *,1615
+14,Canonical,Ubuntu Linux,14.04 * * *,1606
+15,Mozilla,Firefox,* * * *,1564
+16,Canonical,Ubuntu Linux,16.04 * * *,1535
+17,Microsoft,Windows Rt 8.1,* * *,1481
+18,Microsoft,Windows 10,1803 * * *,1426
+19,Debian,Debian Linux,10.0 * * *,1379
+20,Apple,Tvos,* * * *,1321
+21,Microsoft,Windows 8.1,* * *,1301
+22,Microsoft,Windows 7,SP1 * *,1284
+23,Canonical,Ubuntu Linux,18.04 * * *,1250
+24,Microsoft,Windows 10,1709 * * *,1230
+25,Microsoft,Windows 10,1909 * * *,1205
+26,Microsoft,Windows Server 2008,SP2 * *,1182
+27,Microsoft,Windows Server 2008,R2 SP1 * *,1163
+28,Debian,Debian Linux,7.0 * * *,1103
+29,Fedoraproject,Fedora,33 * * *,1080
+30,Redhat,Enterprise Linux Server,6.0 * * *,1057
+31,Redhat,Enterprise Linux Workstation,6.0 * * *,1044
+32,Microsoft,Windows 10,1903 * * *,1037
+33,Redhat,Enterprise Linux Desktop,6.0 * * *,1035
+34,Google,Android,10.0 * * *,1030
+35,Apple,Watchos,* * * *,1029
+36,Microsoft,Windows Server 2016,1903 * * *,1028
+37,Apple,Safari,* * * *,1022
+38,Fedoraproject,Fedora,34 * * *,1004
+39,Oracle,Mysql,* * * *,993
+40,Microsoft,Windows Server 2016,1909 * * *,969
+41,Microsoft,Windows Server 2016,1803 * * *,920
+42,Microsoft,Windows Server 2016,2004 * * *,872
+43,Redhat,Enterprise Linux Server,7.0 * * *,870
+44,Mozilla,Thunderbird,* * * *,863
+45,Microsoft,Windows 10,2004 * * *,857
+46,Redhat,Enterprise Linux Workstation,7.0 * * *,830
+47,Google,Android,* * *,827
+48,Redhat,Enterprise Linux Desktop,7.0 * * *,811
+49,Google,Android,* * * *,736
+50,Microsoft,Windows 10,1703 * * *,722

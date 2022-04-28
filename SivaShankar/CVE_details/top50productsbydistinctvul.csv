@@ -1,0 +1,51 @@
+Unnamed: 0,Product Name,Vendor Name,Product Type,Number of Vulnerabilities
+1,Debian Linux,Debian,OS,6139
+2,Android,Google,OS,4234
+3,Ubuntu Linux,Canonical,OS,3193
+4,Fedora,Fedoraproject,OS,3087
+5,Mac Os X,Apple,OS,2973
+6,Linux Kernel,Linux,OS,2810
+7,Windows 10,Microsoft,OS,2641
+8,Iphone Os,Apple,OS,2623
+9,Windows Server 2016,Microsoft,OS,2397
+10,Chrome,Google,Application,2387
+11,Windows Server 2008,Microsoft,OS,2192
+12,Windows 7,Microsoft,OS,2049
+13,Windows Server 2012,Microsoft,OS,2004
+14,Firefox,Mozilla,Application,1993
+15,Windows 8.1,Microsoft,OS,1878
+16,Windows Server 2019,Microsoft,OS,1857
+17,Windows Rt 8.1,Microsoft,OS,1718
+18,Enterprise Linux Desktop,Redhat,OS,1578
+19,Enterprise Linux Server,Redhat,OS,1532
+20,Enterprise Linux Workstation,Redhat,OS,1492
+21,Leap,Opensuse,OS,1365
+22,Tvos,Apple,OS,1324
+23,Opensuse,Opensuse,OS,1314
+24,Internet Explorer,Microsoft,Application,1168
+25,Safari,Apple,Application,1141
+26,Mysql,Oracle,Application,1132
+27,Enterprise Linux,Redhat,OS,1120
+28,Watchos,Apple,OS,1064
+29,Thunderbird,Mozilla,Application,1037
+30,Windows Vista,Microsoft,OS,794
+31,Firefox Esr,Mozilla,Application,776
+32,Office,Microsoft,Application,704
+33,JRE,Oracle,Application,690
+34,Windows Xp,Microsoft,OS,685
+35,JDK,Oracle,Application,681
+36,Seamonkey,Mozilla,Application,680
+37,Enterprise Linux Server Aus,Redhat,OS,675
+38,Gitlab,Gitlab,Application,672
+39,PHP,PHP,Application,633
+40,Enterprise Linux Server Eus,Redhat,OS,630
+41,Mac Os X Server,Apple,OS,628
+42,Wireshark,Wireshark,Application,618
+43,Imagemagick,Imagemagick,Application,616
+44,Itunes,Apple,Application,590
+45,Sunos,SUN,OS,565
+46,Macos,Apple,OS,534
+47,Solaris,Oracle,OS,492
+48,Oncommand Insight,Netapp,Application,490
+49,IOS,Cisco,OS,482
+50,Windows 2000,Microsoft,OS,478

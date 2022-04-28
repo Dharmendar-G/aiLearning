@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+       <!-- required meta tags-->
+       <meta charset="utf-8">
+       <meta name="viewport" content="width-device-width,initial-scale=1,shrink-to-fit-no">
+      
+
+    <title>APP</title>
+  </head>
+  <style>
+    .content {
+      max-width: 500px;
+      margin: auto;
+    }
+    </style>
+  
+    
+    <div class="content">
+      <!-- Page content -->
+    </div>
+    
+
+  <body bgcolor="pink" >
+    <div class="content">
+  
+    <h1> predict the type of Crop</h1>
+
+
+      <form action="/predict" method="POST">
+
+        <input style="color: brown" type="text" name="N" placeholder="enter nitrogen quantity"><br><br>
+        <input style="color: brown" type="text" name="P" placeholder="enter phosporous quantity "><br><br>
+        <input style="color: brown" type="text" name="K" placeholder="enter pottasium quantity "><br><br>
+        <input style="color: brown" type="text" name="temp" placeholder="enter temparature(degrees)"><br><br>
+        <input style="color: brown" type="text" name="Humidity" placeholder="enter Humidity"><br><br>
+        <input style="color: brown" type="text" name="ph" placeholder="enter ph"><br><br>
+        <input style="color: brown" type="text" name="rainfall" placeholder="enter ranfall"><br><br>
+        <button style="color: rgb(43, 226, 43)",type="btn btn-success" >predict</button>
+      
+    
+        
+                
+          <h2>{{result}}</h2>
+          <!-- <h2 class="text-warning">{{result}}</h2> -->
+        
+      
+          
+
+      </form> 
+        
+    </div>    
+  
+</body>
+
+</html>
+
+    
+
+
+

@@ -1,0 +1,48 @@
+Product Name,Vendor Name,# Of CVE Entries,Product Type,OVAL Definitions,OVAL Definitions,OVAL Definitions,OVAL Definitions
+Product Name,Vendor Name,# Of CVE Entries,Product Type,Vulnerabilities,Patches,Compliance,Inventory
+Azure Active Site Recovery,Microsoft,1,Application,0,0,0,0
+Azure Ad,Jenkins,3,Application,0,0,0,0
+Azure App Service On Azure Stack,Microsoft,2,Application,0,0,0,0
+Azure Automation,Microsoft,2,Application,0,0,0,0
+Azure Automation State Configuration,Microsoft,4,Application,0,0,0,0
+Azure Automation Update Management,Microsoft,4,Application,0,0,0,0
+Azure Container Instances,Microsoft,1,Application,0,0,0,0
+Azure Container Registry,Microsoft,1,Application,0,0,0,0
+Azure Container Service,Jenkins,1,Application,0,0,0,0
+Azure Cyclecloud,Microsoft,2,Application,0,0,0,0
+Azure Data Explorer,Microsoft,1,Application,0,0,0,0
+Azure Devops Server,Microsoft,27,OS,0,0,0,0
+Azure Devops Server 2019,Microsoft,0,OS,0,0,0,0
+Azure Diagnostics \(lad\),Microsoft,4,Application,0,0,0,0
+Azure Event Grid Notifier,Jenkins,1,Application,0,0,0,0
+Azure Functions,Microsoft,1,Application,0,0,0,0
+Azure Internet Of Things Edge,Microsoft,1,Application,0,0,0,0
+Azure Key Vault,Jenkins,1,Application,0,0,0,0
+Azure Key Vault Provider For Secrets Store Csi Driver,Microsoft,1,Application,0,0,0,0
+Azure Kubernetes Service,Microsoft,3,Application,0,27,0,0
+Azure Log Analytics Nozzle,Microsoft,1,Application,0,0,0,0
+Azure Migrate,Microsoft,1,Application,0,0,0,0
+Azure Open Management Infrastructure,Microsoft,4,Application,0,0,0,0
+Azure Publishersettings Credentials,Jenkins,1,Application,0,0,0,0
+Azure Real Time Operating System,Microsoft,0,Application,0,0,0,0
+Azure Real Time Operating System,Microsoft,5,OS,0,0,0,0
+Azure Repository,Elastic,1,Application,0,0,0,0
+Azure Rtos,Microsoft,1,OS,0,0,0,0
+Azure Sdk For Java,Microsoft,1,Application,0,0,0,0
+Azure Security Center,Microsoft,4,Application,0,0,0,0
+Azure Sentinel,Microsoft,4,Application,0,0,0,0
+Azure Service Broker,Microsoft,1,Application,0,0,0,0
+Azure Service Fabric,Microsoft,1,Application,0,0,0,0
+Azure Site Recovery,Microsoft,11,Application,0,0,0,0
+Azure Sphere,Microsoft,28,Application,0,0,0,0
+Azure Spring Cloud,Microsoft,1,Application,0,0,0,0
+Azure Stack,Microsoft,1,Application,0,0,0,0
+Azure Stack Hub,Microsoft,4,Application,0,0,0,0
+Azure Vm Agents,Jenkins,3,Application,0,0,0,0
+Azure-umqtt-c,Microsoft,1,Application,0,0,0,0
+Azureus Tracker,Azureus Tracker,1,Application,0,0,0,0
+Azuriontoken,Azuriontoken Project,1,Application,0,0,0,0
+A\,Yunlai,1,Application,0,0,0,0
+A\ Php Scripts News Management System,Marc Melvin,1,Application,0,0,0,0
+A\ Store E-commerce,Web Inhabit,2,Application,0,0,0,0
+A\ Hrd,Aenrich,2,Application,0,0,0,0

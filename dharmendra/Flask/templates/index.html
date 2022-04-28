@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Python Flask!</title>
+</head>
+<body>
+<h1>Visualizations for Use Case : Client Term Deposit Subscription!</h1>
+{% for imagelist in imagelist %}
+<img src = "{{url_for('static', filename=imagelist)}}">
+{% endfor %}
+</body>
+</html>
