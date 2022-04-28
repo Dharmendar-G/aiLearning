@@ -1,0 +1,2 @@
+drop table ZZSP00 purge
+drop table ZZOP01 purge
